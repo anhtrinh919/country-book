@@ -55,7 +55,7 @@ export function WorldMapTOC({ print }: { print?: boolean }) {
       {/* header */}
       <div style={{ position: "absolute", top: 30, left: 54, right: 54, display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: `2px solid ${AT.red}`, paddingBottom: 8, zIndex: 3 }}>
         <div>
-          <div style={{ fontFamily: FONTS.mono, fontSize: 12, letterSpacing: ".28em", color: AT.red }}>TABLE OF CONTENTS</div>
+          <div style={{ fontFamily: FONTS.mono, fontSize: 12, letterSpacing: ".28em", color: AT.red }}>{print ? "MAP OF THE WORLD" : "THE WORLD MAP"}</div>
           <div style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 40, lineHeight: .95 }}>The Whole World, One Map</div>
         </div>
         <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 15, color: AT.faint, textAlign: "right" }}>
@@ -97,6 +97,15 @@ export function WorldMapTOC({ print }: { print?: boolean }) {
             }
           </Geographies>
         </ComposableMap>
+        {/* faint ocean labels for orientation (helps the printed map read as an atlas) */}
+        {([
+          ["PACIFIC OCEAN", "7%", "46%"],
+          ["ATLANTIC OCEAN", "41%", "60%"],
+          ["INDIAN OCEAN", "66%", "67%"],
+          ["PACIFIC OCEAN", "91%", "46%"],
+        ] as const).map(([label, left, top], i) => (
+          <div key={i} style={{ position: "absolute", left, top, transform: "translate(-50%,-50%)", fontFamily: FONTS.mono, fontSize: 10, letterSpacing: ".18em", color: AT.faint, opacity: .55, pointerEvents: "none", whiteSpace: "nowrap" }}>{label}</div>
+        ))}
       </div>
 
       {/* fold line */}
@@ -126,13 +135,19 @@ export function WorldMapTOC({ print }: { print?: boolean }) {
       <div style={{ position: "absolute", left: 54, right: 54, bottom: 22, zIndex: 3 }}>
         <div style={{ fontFamily: FONTS.mono, fontSize: 9.5, letterSpacing: ".14em", color: AT.faint, marginBottom: 6 }}>SMALL ISLANDS &amp; MICRO-NATIONS — {print ? "find them in the index" : "tap a flag"}</div>
         <div style={{ display: "flex", flexWrap: "wrap", gap: "6px 10px" }}>
-          {TINY.map((c) => (
-            <button key={c.iso} onClick={() => setSel(c.iso)} disabled={print}
-              style={{ display: "flex", alignItems: "center", gap: 5, border: "1px solid var(--line)", borderColor: AT.line, background: "rgba(255,255,255,.6)", borderRadius: 5, padding: "2px 7px 2px 3px", cursor: print ? "default" : "pointer" }}>
-              <img src={asset(`/flags/${c.iso}.svg`)} alt="" style={{ width: 18, height: 12, objectFit: "cover", borderRadius: 2 }} />
-              <span style={{ fontFamily: FONTS.disp, fontWeight: 600, fontSize: 10.5, color: AT.ink }}>{c.name}</span>
-            </button>
-          ))}
+          {TINY.map((c) => {
+            const inner = (
+              <>
+                <img src={asset(`/flags/${c.iso}.svg`)} alt="" style={{ width: 18, height: 12, objectFit: "cover", borderRadius: 2 }} />
+                <span style={{ fontFamily: FONTS.disp, fontWeight: 600, fontSize: 10.5, color: AT.ink }}>{c.name}</span>
+                {print && <span style={{ fontFamily: FONTS.mono, fontSize: 9, color: AT.red }}>{PAGE_OF_ISO[c.iso]}</span>}
+              </>
+            );
+            const style = { display: "flex", alignItems: "center", gap: 5, border: `1px solid ${AT.line}`, background: "rgba(255,255,255,.6)", borderRadius: 5, padding: "2px 7px 2px 3px" } as React.CSSProperties;
+            return print
+              ? <div key={c.iso} style={style}>{inner}</div>
+              : <button key={c.iso} onClick={() => setSel(c.iso)} style={{ ...style, cursor: "pointer" }}>{inner}</button>;
+          })}
         </div>
       </div>
     </div>

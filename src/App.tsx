@@ -1,7 +1,7 @@
 import React from "react";
 import { HashRouter, Routes, Route, Navigate, useParams, useNavigate, Link } from "react-router-dom";
 import CountrySpread from "./components/CountrySpread";
-import { Cover, Passport, ContinentDivider, PlanetOverview, HowToRead, Superlatives, Glossary, PassportComplete, BookIndex, PlaceholderSpread } from "./components/BookPages";
+import { Cover, Passport, ContinentDivider, PlanetOverview, HowToRead, TableOfContents, Superlatives, Glossary, PassportComplete, BookIndex, PlaceholderSpread } from "./components/BookPages";
 import { QuizStop, AnswerKey } from "./components/Quiz";
 import { WorldMapTOC } from "./components/WorldMap";
 import { QUIZZES } from "../book.config";
@@ -75,6 +75,7 @@ function renderSpinePage(p: Page, print = false, explorerName: string = PERSON.n
       return <CountrySpread country={c} ctx={{ stop: STOP_OF[p.iso!] ?? 1, total: TOTAL_STOPS, explorerName }} />;
     }
     case "how-to-read": return <HowToRead />;
+    case "toc": return <TableOfContents print={print} />;
     case "world-map-toc": return <WorldMapTOC print={print} />;
     case "planet-overview": return <PlanetOverview />;
     case "quiz": {
@@ -101,10 +102,13 @@ function spineLabel(p: Page): string {
   if (p.type === "country") return COUNTRIES[p.iso!]?.name ?? p.iso!;
   if (p.type === "continent-divider") return `${p.continent} — divider`;
   if (p.type === "quiz") return `Quiz · ${p.continent}`;
+  if (p.type === "toc") return "Contents";
+  if (p.type === "world-map-toc") return "World Map";
   return p.type.replace(/-/g, " ");
 }
 
 const SPREAD_W2 = 1588, SPREAD_H2 = 1123, BAR_H = 60;
+const MAP_PAGE = SPINE.findIndex((p) => p.type === "world-map-toc") + 1; // footer "Map" jump (shifts if front matter changes)
 
 function BookReader() {
   const { n = "1" } = useParams();
@@ -248,7 +252,7 @@ function BookReader() {
                 style={chipBtn(isVisited)}>{isVisited ? "✓ Visited" : "Mark visited"}</button>
             </div>
             <div style={{ display: "flex", alignItems: "center", gap: 14, fontSize: 13 }}>
-              <Link to="/book/4" style={{ color: "#B23A2E", textDecoration: "none" }}>Map</Link>
+              <Link to={`/book/${MAP_PAGE}`} style={{ color: "#B23A2E", textDecoration: "none" }}>Map</Link>
               <span style={{ opacity: .6 }}>·</span>
               <span style={{ fontWeight: 700 }}>{spineLabel(page)}</span>
               <span style={{ display: "flex", alignItems: "center", gap: 6, opacity: .85 }}>

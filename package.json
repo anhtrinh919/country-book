@@ -8,7 +8,10 @@
     "build": "vite build",
     "preview": "vite preview",
     "check:overflow": "tsx scripts/check-overflow.ts",
-    "build:pdf": "tsx scripts/build-pdf.ts"
+    "check:print": "tsx scripts/check-print-overflow.ts",
+    "build:pdf": "tsx scripts/build-pdf.ts",
+    "build:pdf:proof": "PRESET=proof tsx scripts/build-pdf.ts",
+    "build:pdf:all": "tsx scripts/build-pdf.ts && PRESET=proof tsx scripts/build-pdf.ts"
   },
   "dependencies": {
     "react": "^18.3.1",

@@ -92,6 +92,7 @@ function QCard({ q, n, picked, onPick, print }: { q: Question; n: number; picked
           return (
             <button key={i} disabled={print || answered} onClick={() => onPick?.(i)}
               style={{ textAlign: "left", display: "flex", gap: 10, alignItems: "center", border: `1.5px solid ${bd}`, background: bg, color: col, borderRadius: 8, padding: "11px 14px", font: "inherit", cursor: print || answered ? "default" : "pointer" }}>
+              {print && <span style={{ width: 16, height: 16, borderRadius: "50%", border: "1.5px solid var(--faint)", flex: "0 0 auto" }} />}
               <span style={{ fontFamily: FONTS.mono, fontSize: 13, opacity: .7, fontWeight: 600 }}>{String.fromCharCode(65 + i)}</span>
               <span style={{ fontFamily: FONTS.disp, fontWeight: 600, fontSize: 17, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{titleCase(o)}</span>
             </button>

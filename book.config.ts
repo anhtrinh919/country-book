@@ -90,7 +90,7 @@ export const QUIZZES: QuizStop[] = (() => {
 /* ---------- Full book spine ----------
    The ordered list of every page in the book, used by site nav + PDF assembly. */
 export type PageType =
-  | "cover" | "passport" | "how-to-read" | "world-map-toc" | "planet-overview"
+  | "cover" | "passport" | "how-to-read" | "toc" | "world-map-toc" | "planet-overview"
   | "continent-divider" | "country" | "quiz"
   | "answer-key" | "superlatives" | "glossary" | "passport-complete" | "index";
 
@@ -106,6 +106,7 @@ export const SPINE: Page[] = (() => {
     { type: "cover" },
     { type: "passport" },
     { type: "how-to-read" },
+    { type: "toc" },
     { type: "world-map-toc" },
     { type: "planet-overview" },
   ];

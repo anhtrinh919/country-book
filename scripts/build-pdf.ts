@@ -16,7 +16,14 @@ import { SPINE } from "../book.config";
 
 const BASE = process.env.BASE ?? "http://localhost:5173/country-book";
 const OUT = "dist-pdf";
-const Q = process.env.JPEG_Q ? parseInt(process.env.JPEG_Q, 10) : 82;
+/* two outputs from the same render: a print-grade file for a print shop and a lighter proof for sharing */
+const PRESETS = {
+  print: { dsf: 2, q: 82, file: "book.pdf" },
+  proof: { dsf: 1, q: 60, file: "book-proof.pdf" },
+} as const;
+const PRESET = (process.env.PRESET === "proof" ? "proof" : "print") as keyof typeof PRESETS;
+const PR = PRESETS[PRESET];
+const Q = process.env.JPEG_Q ? parseInt(process.env.JPEG_Q, 10) : PR.q;
 const W = 1588, H = 1123;
 
 async function shoot(page: Page, n: number, settle: number): Promise<Buffer | null> {
@@ -40,7 +47,7 @@ async function main() {
   const to = process.env.TO ? parseInt(process.env.TO, 10) : total;
 
   const browser = await chromium.launch();
-  const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
+  const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: PR.dsf });
   mkdirSync(OUT, { recursive: true });
   const pdf = await PDFDocument.create();
   let fails: number[] = [];
@@ -57,9 +64,9 @@ async function main() {
   }
 
   const out = await pdf.save();
-  writeFileSync(`${OUT}/book.pdf`, out);
+  writeFileSync(`${OUT}/${PR.file}`, out);
   await browser.close();
-  console.log(`\n✓ ${OUT}/book.pdf — ${pdf.getPageCount()} pages, ${(out.length / 1024 / 1024).toFixed(1)} MB${fails.length ? `, FAILED: ${fails.join(",")}` : ""}`);
+  console.log(`\n✓ ${OUT}/${PR.file} (${PRESET}) — ${pdf.getPageCount()} pages, ${(out.length / 1024 / 1024).toFixed(1)} MB${fails.length ? `, FAILED: ${fails.join(",")}` : ""}`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

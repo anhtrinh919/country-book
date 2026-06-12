@@ -5,9 +5,10 @@
    uniformly. Field-journal tokens reused from tokens.ts; front/back matter use a warm
    neutral palette, dividers take a per-continent accent. */
 import React from "react";
+import { Link } from "react-router-dom";
 import { AT, SPREAD_W, SPREAD_H } from "../tokens";
 import { BY_CONTINENT, CONTINENT_ORDER, STOP_OF, TOTAL_STOPS, QUIZZES, JOURNEY, SPINE, type Continent } from "../../book.config";
-import { useVisited, useVisits, visitedCountryCount, badgeDone, badgeTotal, badgesEarned, TOTAL_BADGES, visitedCountriesByRecency, CONTINENT_BADGES, THEME_BADGES, MILESTONE_BADGES, type Visits } from "../progress";
+import { useVisited, useVisits, visitedCountryCount, badgeDone, badgeTotal, badgesEarned, TOTAL_BADGES, visitedCountriesByRecency, CONTINENT_BADGES, THEME_BADGES, MILESTONE_BADGES, PAGE_OF_ISO, type Visits } from "../progress";
 import { useProfile, rankFor, nextRank } from "../profile";
 import { asset } from "../asset";
 
@@ -215,17 +216,21 @@ function RecordRow({ label, value, chip, wide }: { label: string; value: string;
     </div>
   );
 }
-function StatTile({ value, total, label, frac }: { value: React.ReactNode; total?: React.ReactNode; label: string; frac: number }) {
+function StatTile({ value, total, label, frac, fillable }: { value: React.ReactNode; total?: React.ReactNode; label: string; frac: number; fillable?: boolean }) {
   return (
     <div style={{ border: "1.5px solid var(--line)", background: "rgba(255,255,255,.45)", padding: "9px 13px" }}>
       <div style={{ display: "flex", alignItems: "baseline", gap: 5, whiteSpace: "nowrap" }}>
-        <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 26, lineHeight: 1, color: "var(--accent)" }}>{value}</span>
+        {fillable
+          ? <span style={{ display: "inline-block", width: 42, height: 20, borderBottom: "2px dashed var(--faint)" }} />
+          : <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 26, lineHeight: 1, color: "var(--accent)" }}>{value}</span>}
         {total != null && <span style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 14, color: "var(--faint)" }}>/ {total}</span>}
       </div>
       <div style={{ fontFamily: FONTS.mono, fontSize: 9, letterSpacing: ".12em", textTransform: "uppercase", color: "var(--faint)", margin: "5px 0 6px" }}>{label}</div>
-      <div style={{ height: 5, background: "var(--line)", borderRadius: 99, overflow: "hidden" }}>
-        <div style={{ height: "100%", width: `${Math.max(frac * 100, 3)}%`, background: "var(--accent)" }} />
-      </div>
+      {fillable
+        ? <div style={{ fontFamily: FONTS.mono, fontSize: 7.5, letterSpacing: ".08em", color: "var(--faint)" }}>WRITE IN AS YOU GO</div>
+        : <div style={{ height: 5, background: "var(--line)", borderRadius: 99, overflow: "hidden" }}>
+            <div style={{ height: "100%", width: `${Math.max(frac * 100, 3)}%`, background: "var(--accent)" }} />
+          </div>}
     </div>
   );
 }
@@ -241,7 +246,19 @@ function MiniStamp({ glyph, date, rot }: { glyph: string; date: string; rot: num
     </div>
   );
 }
-function InkStamp({ glyph, name, stop, date, started }: { glyph: string; name: string; stop: string; date: string; started: boolean }) {
+function InkStamp({ glyph, name, stop, date, started, fillable }: { glyph: string; name: string; stop: string; date: string; started: boolean; fillable?: boolean }) {
+  if (fillable && !started) {
+    return (
+      <div style={{ width: 150, height: 150, borderRadius: "50%", border: "2.5px dashed var(--accent)", color: "var(--accent)", transform: "rotate(-7deg)", display: "grid", placeItems: "center", textAlign: "center", flex: "0 0 auto", boxSizing: "border-box", opacity: .85 }}>
+        <div>
+          <div style={{ fontFamily: FONTS.mono, fontSize: 8, letterSpacing: ".16em" }}>★ FIRST STAMP ★</div>
+          <div style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 38, lineHeight: 1, margin: "6px 0 4px" }}>?</div>
+          <div style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 13, letterSpacing: ".06em" }}>STAMP HERE</div>
+          <div style={{ fontFamily: FONTS.mono, fontSize: 7.5, letterSpacing: ".1em", marginTop: 4 }}>WHEN YOU START</div>
+        </div>
+      </div>
+    );
+  }
   return (
     <div style={{ width: 150, height: 150, borderRadius: "50%", border: "2.5px solid var(--accent)", color: "var(--accent)", transform: "rotate(-7deg)", display: "grid", placeItems: "center", textAlign: "center", flex: "0 0 auto", boxShadow: "inset 0 0 0 5px var(--paper), inset 0 0 0 6.5px var(--accent)", opacity: started ? .95 : .5 }}>
       <div>
@@ -255,48 +272,61 @@ function InkStamp({ glyph, name, stop, date, started }: { glyph: string; name: s
   );
 }
 type Latest = { glyph: string; name: string; stop: string; date: string } | null;
-function Dashboard({ latest, recent, countriesVisited, totalPlaces }: { latest: Latest; recent: Array<{ glyph: string; date: string }>; countriesVisited: number; totalPlaces: number }) {
+function Dashboard({ latest, recent, countriesVisited, totalPlaces, fillable }: { latest: Latest; recent: Array<{ glyph: string; date: string }>; countriesVisited: number; totalPlaces: number; fillable?: boolean }) {
   const frac = countriesVisited / totalPlaces;
   const started = countriesVisited > 0;
   return (
     <div style={{ display: "grid", gridTemplateColumns: "auto 1fr", gap: 18, alignItems: "center", border: "1.5px solid var(--line)", background: "rgba(255,255,255,.4)", padding: "14px 18px", marginTop: 12 }}>
       <div style={{ width: 168, display: "grid", placeItems: "center" }}>
-        <InkStamp glyph={latest ? latest.glyph : "🌍"} name={latest ? latest.name : "Begin!"} stop={latest ? latest.stop : ""} date={latest ? latest.date : ""} started={started} />
+        <InkStamp glyph={latest ? latest.glyph : "🌍"} name={latest ? latest.name : "Begin!"} stop={latest ? latest.stop : ""} date={latest ? latest.date : ""} started={started} fillable={fillable} />
       </div>
       <div>
-        <Tick label="Latest Entry" color="var(--accent)" />
+        <Tick label={fillable ? "Your stamp journal" : "Latest Entry"} color="var(--accent)" />
         <div style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 23, lineHeight: 1, color: "var(--ink)", margin: "3px 0 2px" }}>
-          {latest ? `${latest.name} · Stop ${latest.stop}` : "No stamps yet"}
+          {fillable ? "Stamp as you explore!" : latest ? `${latest.name} · Stop ${latest.stop}` : "No stamps yet"}
         </div>
         <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 13, color: "var(--faint)" }}>
-          {latest ? `Stamped on ${latest.date} 2026 — keep going!` : "Open any country and stay a little while to earn your first stamp."}
+          {fillable ? "Colour in a stamp each time you finish a country — and fill in the total below." : latest ? `Stamped on ${latest.date} 2026 — keep going!` : "Open any country and stay a little while to earn your first stamp."}
         </div>
         <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginTop: 13 }}>
           <Tick label="Countries visited" />
-          <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 18, color: "var(--accent)" }}>{countriesVisited} <span style={{ color: "var(--faint)", fontWeight: 700, fontSize: 13 }}>/ {totalPlaces}</span></span>
+          {fillable
+            ? <span style={{ display: "inline-block", width: 46, height: 16, borderBottom: "2px dashed var(--faint)" }} />
+            : <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 18, color: "var(--accent)" }}>{countriesVisited} <span style={{ color: "var(--faint)", fontWeight: 700, fontSize: 13 }}>/ {totalPlaces}</span></span>}
         </div>
         <div style={{ height: 13, background: "var(--line)", borderRadius: 99, overflow: "hidden", marginTop: 5, backgroundImage: "repeating-linear-gradient(90deg, rgba(0,0,0,.06) 0 1px, transparent 1px 7px)" }}>
           <div style={{ height: "100%", width: `${Math.max(frac * 100, 2)}%`, background: "var(--accent)", borderRadius: 99 }} />
         </div>
         <div style={{ display: "flex", gap: 12, marginTop: 11, alignItems: "center" }}>
-          {recent.map((s, i) => <MiniStamp key={i} glyph={s.glyph} date={s.date} rot={i % 2 ? 6 : -8} />)}
-          <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 12.5, color: "var(--faint)", alignSelf: "center", lineHeight: 1.3 }}>
-            {countriesVisited > recent.length + 1 ? `…and ${countriesVisited - recent.length - 1} more stamps already in the book.` : started ? "Your stamps appear here as you explore." : "Your recent stamps will gather here."}
-          </div>
+          {fillable
+            ? <>
+                {[0, 1, 2].map((i) => <MiniStamp key={i} glyph="?" date="▢ ▢" rot={i % 2 ? 6 : -8} />)}
+                <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 12.5, color: "var(--faint)", alignSelf: "center", lineHeight: 1.3 }}>Draw or stamp your favourite stops here.</div>
+              </>
+            : <>
+                {recent.map((s, i) => <MiniStamp key={i} glyph={s.glyph} date={s.date} rot={i % 2 ? 6 : -8} />)}
+                <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 12.5, color: "var(--faint)", alignSelf: "center", lineHeight: 1.3 }}>
+                  {countriesVisited > recent.length + 1 ? `…and ${countriesVisited - recent.length - 1} more stamps already in the book.` : started ? "Your stamps appear here as you explore." : "Your recent stamps will gather here."}
+                </div>
+              </>}
         </div>
       </div>
     </div>
   );
 }
-function ContinentBadge({ name, emblem, done, total }: { name: string; emblem: string; done: number; total: number }) {
+function ContinentBadge({ name, emblem, done, total, fillable }: { name: string; emblem: string; done: number; total: number; fillable?: boolean }) {
   const pct = total ? done / total : 0, complete = done >= total && total > 0;
+  const blank = fillable && !complete; // a dashed "colour-in" slot for the printed keepsake
   return (
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 7 }}>
-      <div style={{ width: 100, height: 100, borderRadius: "50%", background: `conic-gradient(var(--accent) ${pct * 360}deg, var(--line) 0deg)`, display: "grid", placeItems: "center", position: "relative", boxShadow: complete ? "0 6px 16px rgba(178,58,46,.3)" : "none" }}>
-        <div style={{ position: "absolute", inset: 5, borderRadius: "50%", background: complete ? "var(--accent)" : "var(--paper)", display: "grid", placeItems: "center", border: "1px solid var(--line)" }}>
+      <div style={{ width: 100, height: 100, borderRadius: "50%", boxSizing: "border-box", display: "grid", placeItems: "center", position: "relative",
+        background: blank ? "var(--paper)" : `conic-gradient(var(--accent) ${pct * 360}deg, var(--line) 0deg)`,
+        border: blank ? "2.5px dashed var(--accent)" : "none",
+        boxShadow: complete ? "0 6px 16px rgba(178,58,46,.3)" : "none" }}>
+        <div style={{ position: "absolute", inset: 5, borderRadius: "50%", background: complete ? "var(--accent)" : "var(--paper)", display: "grid", placeItems: "center", border: blank ? "none" : "1px solid var(--line)" }}>
           <div style={{ textAlign: "center" }}>
             <Glyph type={emblem} c={complete ? "#fff" : "var(--accent)"} s={26} />
-            <div style={{ fontFamily: FONTS.mono, fontSize: 10, fontWeight: 600, color: complete ? "#fff" : "var(--ink)", marginTop: 3 }}>{done}/{total}</div>
+            <div style={{ fontFamily: FONTS.mono, fontSize: 10, fontWeight: 600, color: complete ? "#fff" : "var(--faint)", marginTop: 3 }}>{blank ? `0/${total}` : `${done}/${total}`}</div>
           </div>
         </div>
       </div>
@@ -419,9 +449,9 @@ export function Passport({ print = false }: { print?: boolean }) {
           </div>
           {/* stats */}
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 12, marginTop: 13 }}>
-            <StatTile value={countriesVisited} total={TOTAL_STOPS} label="Countries" frac={countriesVisited / TOTAL_STOPS} />
-            <StatTile value={earned} total={TOTAL_BADGES} label="Badges Earned" frac={earned / TOTAL_BADGES} />
-            <StatTile value={pagesExplored} label="Pages Explored" frac={pagesExplored / SPINE.length} />
+            <StatTile value={countriesVisited} total={TOTAL_STOPS} label="Countries" frac={countriesVisited / TOTAL_STOPS} fillable={print} />
+            <StatTile value={earned} total={TOTAL_BADGES} label="Badges Earned" frac={earned / TOTAL_BADGES} fillable={print} />
+            <StatTile value={pagesExplored} label="Pages Explored" frac={pagesExplored / SPINE.length} fillable={print} />
           </div>
           {/* pledge */}
           <div style={{ marginTop: 13, border: "1.5px solid var(--accent)", background: "color-mix(in srgb, var(--accent) 7%, #fff)", padding: "10px 16px" }}>
@@ -430,8 +460,16 @@ export function Passport({ print = false }: { print?: boolean }) {
           </div>
           {/* recent journeys */}
           <div style={{ marginTop: 14 }}>
-            <Tick label="Recent journeys · flags in the book" color="var(--accent)" />
-            {journeys.length > 0 ? (
+            <Tick label={print ? "Draw your favourite flags here" : "Recent journeys · flags in the book"} color="var(--accent)" />
+            {print ? (
+              <div style={{ display: "flex", flexWrap: "wrap", gap: 11, marginTop: 9 }}>
+                {Array.from({ length: 8 }).map((_, i) => (
+                  <div key={i} style={{ width: 50, height: 34, borderRadius: 3, border: "1.5px dashed var(--faint)", display: "grid", placeItems: "center" }}>
+                    <span style={{ fontFamily: FONTS.mono, fontSize: 13, color: "var(--faint)", opacity: .6 }}>?</span>
+                  </div>
+                ))}
+              </div>
+            ) : journeys.length > 0 ? (
               <div style={{ display: "flex", flexWrap: "wrap", gap: 11, marginTop: 9 }}>
                 {journeys.map((j) => (
                   <div key={j.iso} style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 4, width: 58 }}>
@@ -472,14 +510,14 @@ export function Passport({ print = false }: { print?: boolean }) {
         <div style={{ height: "100%", display: "flex", flexDirection: "column" }}>
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
             <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 30, lineHeight: 1, color: "var(--ink)" }}>Stamps Collected</span>
-            <Tick label={`${earned} / ${TOTAL_BADGES} Badges Earned`} color="var(--accent)" />
+            <Tick label={print ? `Collect all ${TOTAL_BADGES} badges` : `${earned} / ${TOTAL_BADGES} Badges Earned`} color="var(--accent)" />
           </div>
           <MotifP />
-          <Dashboard latest={latest} recent={recent} countriesVisited={countriesVisited} totalPlaces={TOTAL_STOPS} />
+          <Dashboard latest={latest} recent={recent} countriesVisited={countriesVisited} totalPlaces={TOTAL_STOPS} fillable={print} />
           <div style={{ marginTop: 16 }}>
-            <PassHead kicker="Continents · finish one to earn its badge" title="Six Lands to Conquer" />
+            <PassHead kicker={print ? "Continents · colour one in when you finish it" : "Continents · finish one to earn its badge"} title="Six Lands to Conquer" />
             <div style={{ display: "grid", gridTemplateColumns: "repeat(6,1fr)", gap: 8, justifyItems: "center" }}>
-              {continentVMs(v).map((b, i) => <ContinentBadge key={i} {...b} />)}
+              {continentVMs(v).map((b, i) => <ContinentBadge key={i} {...b} fillable={print} />)}
             </div>
           </div>
           <div style={{ marginTop: 16 }}>
@@ -492,13 +530,13 @@ export function Passport({ print = false }: { print?: boolean }) {
             <PassHead kicker="Milestones · the long road" title="All the Way Around the World" />
             <MilestoneTrack countriesVisited={countriesVisited} totalPlaces={TOTAL_STOPS} milestones={MILESTONE_VMS} />
           </div>
-          {/* next-badge nudge */}
+          {/* next-badge nudge (print: a how-to-play note) */}
           <div style={{ display: "flex", alignItems: "center", gap: 14, marginTop: "auto", border: "1.5px solid var(--accent2)", background: "color-mix(in srgb, var(--accent2) 9%, #fff)", padding: "11px 16px" }}>
-            <div style={{ width: 42, height: 42, borderRadius: "50%", background: "var(--accent2)", color: "#fff", display: "grid", placeItems: "center", flex: "0 0 auto", fontFamily: FONTS.disp, fontWeight: 800, fontSize: 18 }}>{next ? next.remaining : "★"}</div>
+            <div style={{ width: 42, height: 42, borderRadius: "50%", background: "var(--accent2)", color: "#fff", display: "grid", placeItems: "center", flex: "0 0 auto", fontFamily: FONTS.disp, fontWeight: 800, fontSize: 18 }}>{print ? "✶" : next ? next.remaining : "★"}</div>
             <div>
-              <div style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 16, color: "var(--ink)", lineHeight: 1.05 }}>{next ? `Next rank: ${next.title}` : "You're a Master Explorer!"}</div>
+              <div style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 16, color: "var(--ink)", lineHeight: 1.05 }}>{print ? "How to fill your passport" : next ? `Next rank: ${next.title}` : "You're a Master Explorer!"}</div>
               <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 13, color: "var(--faint)", marginTop: 2 }}>
-                {next ? `Just ${next.remaining} more ${next.remaining === 1 ? "country" : "countries"} to reach ${next.at} and rank up — you can do it!` : "You've explored every country on Earth. Incredible!"}
+                {print ? "Colour in a stamp each time you finish a country or a whole continent — and watch your passport fill up!" : next ? `Just ${next.remaining} more ${next.remaining === 1 ? "country" : "countries"} to reach ${next.at} and rank up — you can do it!` : "You've explored every country on Earth. Incredible!"}
               </div>
             </div>
             <div style={{ marginLeft: "auto" }}><CompassMini size={44} /></div>
@@ -881,3 +919,65 @@ export function BookIndex() {
   );
 }
 function titleCaseName(s: string): string { return s.toLowerCase().replace(/\b\w/g, (c) => c.toUpperCase()); }
+
+/* ══════════════════ TABLE OF CONTENTS (journey order, by continent) ══════════════════ */
+/* The printed book's front navigation: every country in trip order with its page number, grouped
+   by continent. On screen each row is tappable; in print it's plain. Complements the A–Z BookIndex
+   at the back (different ordering — both are standard atlas features). */
+const DIVIDER_PAGE: Partial<Record<Continent, number>> = {};
+SPINE.forEach((p, i) => { if (p.type === "continent-divider" && p.continent && DIVIDER_PAGE[p.continent] == null) DIVIDER_PAGE[p.continent] = i + 1; });
+
+/* split the 6 continents into two roughly equal halves (by country count) for the two pages */
+function tocSplit(): [Continent[], Continent[]] {
+  const half = JOURNEY.length / 2;
+  const left: Continent[] = [], right: Continent[] = [];
+  let acc = 0;
+  for (const c of CONTINENT_ORDER) {
+    if (acc < half) { left.push(c); acc += BY_CONTINENT[c].length; } else right.push(c);
+  }
+  return [left, right];
+}
+
+export function TableOfContents({ print = false }: { print?: boolean }) {
+  const [leftConts, rightConts] = tocSplit();
+
+  const row = (iso: string, name: string) => {
+    const page = PAGE_OF_ISO[iso];
+    const inner = (
+      <div style={{ display: "flex", alignItems: "center", gap: 6, fontSize: 11.5, padding: "1.6px 0", breakInside: "avoid" }}>
+        <span style={{ fontFamily: FONTS.mono, fontSize: 9.5, color: "var(--faint)", width: 24, flex: "0 0 auto" }}>{String(STOP_OF[iso]).padStart(3, "0")}</span>
+        <img src={flagPath(iso)} alt="" style={{ width: 16, height: 11, objectFit: "cover", borderRadius: 1.5, border: "1px solid var(--line)", flex: "0 0 auto" }} />
+        <span style={{ fontFamily: FONTS.disp, fontWeight: 600, color: "var(--ink)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", flex: 1 }}>{titleCaseName(name)}</span>
+        <span style={{ fontFamily: FONTS.mono, fontSize: 10.5, color: "var(--accent)", flex: "0 0 auto" }}>{page}</span>
+      </div>
+    );
+    return print
+      ? <div key={iso}>{inner}</div>
+      : <Link key={iso} to={`/book/${page}`} style={{ textDecoration: "none", color: "inherit", display: "block" }}>{inner}</Link>;
+  };
+
+  const cols = (conts: Continent[]) => (
+    <div style={{ columnCount: 3, columnGap: 22, marginTop: 12 }}>
+      {conts.flatMap((c, ci) => [
+        <div key={`h-${c}`} style={{ breakInside: "avoid", breakAfter: "avoid", display: "flex", alignItems: "baseline", justifyContent: "space-between", borderBottom: "1.5px solid var(--accent)", margin: ci === 0 ? "0 0 4px" : "11px 0 4px", paddingBottom: 2 }}>
+          <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 15, color: "var(--accent)" }}>{c}</span>
+          <span style={{ fontFamily: FONTS.mono, fontSize: 9, color: "var(--faint)" }}>p.{DIVIDER_PAGE[c]} · {BY_CONTINENT[c].length}</span>
+        </div>,
+        ...BY_CONTINENT[c].map((country) => row(country.iso, country.name)),
+      ])}
+    </div>
+  );
+
+  const head = (t: string, s: string) => (
+    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 10 }}>
+      <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 28 }}>{t}</span><Tick label={s} color="var(--accent)" />
+    </div>
+  );
+
+  return (
+    <Spread
+      left={<div style={{ height: "100%", display: "flex", flexDirection: "column" }}>{head("Table of Contents", `${print ? "find every country" : "tap to jump"} · pg`)}{cols(leftConts)}</div>}
+      right={<div style={{ height: "100%", display: "flex", flexDirection: "column" }}>{head("…the journey continues", `${TOTAL_STOPS} countries`)}{cols(rightConts)}</div>}
+    />
+  );
+}
