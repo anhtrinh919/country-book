@@ -135,6 +135,24 @@ function BookReader() {
   const [half, setHalf] = React.useState(0); // 0 = left page, 1 = right page (mobile single-page view)
   React.useEffect(() => { if (!mobile && half !== 0) setHalf(0); }, [mobile, half]);
 
+  // user zoom: mouse wheel + pinch gesture; double-tap resets; resets on page change
+  const [userZoom, setUserZoom] = React.useState(1.0);
+  const userZoomRef = React.useRef(1.0);
+  const pinchRef = React.useRef<{ dist: number; startZoom: number } | null>(null);
+  const lastTapRef = React.useRef(0);
+  React.useEffect(() => { userZoomRef.current = 1.0; setUserZoom(1.0); }, [idx]);
+  React.useEffect(() => {
+    const onWheel = (e: WheelEvent) => {
+      e.preventDefault();
+      const delta = e.deltaY < 0 ? 1.12 : 1 / 1.12;
+      const next = Math.max(0.5, Math.min(3.0, userZoomRef.current * delta));
+      userZoomRef.current = next;
+      setUserZoom(next);
+    };
+    window.addEventListener("wheel", onWheel, { passive: false });
+    return () => window.removeEventListener("wheel", onWheel);
+  }, []);
+
   const atStart = idx <= 0 && (!mobile || half === 0);
   const atEnd = idx >= SPINE.length - 1 && (!mobile || half === 1);
 
@@ -170,8 +188,7 @@ function BookReader() {
   // shrink the layout box, which is what pushed the spread off-centre / off-screen before).
   const PAGE_W = 794, FOLD = 2;
   const fitW = mobile ? PAGE_W : SPREAD_W2;
-  const pad = mobile ? 0 : 24;
-  const scale = Math.min((vp.w - pad) / fitW, (vp.h - BAR_H - pad) / SPREAD_H2, 1);
+  const scale = Math.min(vp.w / fitW, (vp.h - BAR_H) / SPREAD_H2);
   const wrapW = fitW * scale, wrapH = SPREAD_H2 * scale;
   const innerTransform = mobile ? `scale(${scale}) translateX(${-half * (PAGE_W + FOLD)}px)` : `scale(${scale})`;
 
@@ -203,14 +220,35 @@ function BookReader() {
     hideTimer.current = setTimeout(() => setBarShown(false), 2600);
   }, []);
 
-  // swipe left/right (iPad / phone)
+  // swipe / pinch / double-tap (iPad / phone)
   const touch = React.useRef<{ x: number; y: number } | null>(null);
-  const onTouchStart = (e: React.TouchEvent) => { reveal(); const t = e.touches[0]; touch.current = { x: t.clientX, y: t.clientY }; };
+  const onTouchStart = (e: React.TouchEvent) => {
+    reveal();
+    if (e.touches.length === 2) {
+      const [t0, t1] = [e.touches[0], e.touches[1]];
+      pinchRef.current = { dist: Math.hypot(t0.clientX - t1.clientX, t0.clientY - t1.clientY), startZoom: userZoomRef.current };
+      touch.current = null;
+      return;
+    }
+    const now = Date.now();
+    if (now - lastTapRef.current < 280) { userZoomRef.current = 1.0; setUserZoom(1.0); lastTapRef.current = 0; return; }
+    lastTapRef.current = now;
+    touch.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+  };
+  const onTouchMove = (e: React.TouchEvent) => {
+    if (e.touches.length === 2 && pinchRef.current) {
+      const [t0, t1] = [e.touches[0], e.touches[1]];
+      const dist = Math.hypot(t0.clientX - t1.clientX, t0.clientY - t1.clientY);
+      const next = Math.max(0.5, Math.min(3.0, pinchRef.current.startZoom * (dist / pinchRef.current.dist)));
+      userZoomRef.current = next; setUserZoom(next);
+    }
+  };
   const onTouchEnd = (e: React.TouchEvent) => {
+    if (e.touches.length < 2) pinchRef.current = null;
     if (!touch.current) return;
     const t = e.changedTouches[0];
     const dx = t.clientX - touch.current.x, dy = t.clientY - touch.current.y;
-    if (Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy) * 1.4) go(dx < 0 ? 1 : -1);
+    if (userZoomRef.current <= 1.05 && Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy) * 1.4) go(dx < 0 ? 1 : -1);
     touch.current = null;
   };
 
@@ -218,11 +256,11 @@ function BookReader() {
   const interactive = page.type === "world-map-toc" || page.type === "quiz";
 
   return (
-    <div onMouseMove={reveal} onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
-      style={{ position: "fixed", inset: 0, background: "#1c1915", overflow: "hidden", touchAction: "pan-y" }}>
+    <div onMouseMove={reveal} onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}
+      style={{ position: "fixed", inset: 0, background: "#1c1915", overflow: "hidden", touchAction: "none" }}>
       <style>{FLIP_KEYFRAMES}</style>
       <div style={{ position: "absolute", inset: 0, paddingBottom: BAR_H, display: "grid", placeItems: "center" }}>
-        <div style={{ width: wrapW, height: wrapH, position: "relative", overflow: "hidden" }}>
+        <div style={{ width: wrapW, height: wrapH, position: "relative", overflow: "visible", transform: `scale(${userZoom})`, transformOrigin: "center center" }}>
           <div style={{ position: "absolute", top: 0, left: 0, width: SPREAD_W2, height: SPREAD_H2, transform: innerTransform, transformOrigin: "top left" }}>
             <div key={`${idx}-${half}`} style={{ boxShadow: "0 30px 80px rgba(0,0,0,.55)", animation: `${dir.current > 0 ? "flipNext" : "flipPrev"} .42s cubic-bezier(.22,.61,.36,1)` }}>
               <SpineFrame n={idx + 1}>{renderSpinePage(page, false, prof.name, lang)}</SpineFrame>
