@@ -36,6 +36,11 @@ export default defineConfig({
       workbox: {
         globPatterns: ["**/*.{js,css,html,woff2,json,svg}"],
         maximumFileSizeToCacheInBytes: 15 * 1024 * 1024,
+        /* The English app is served at /country-book/ so its SW scope also covers the French
+           sub-app at /country-book/fr/. Without this, the EN SW's SPA navigation fallback serves
+           the English index.html for /fr/ navigations (the French URL "loads English"). Exclude
+           /fr/ so those navigations hit the network → real French page → its own SW takes over. */
+        navigateFallbackDenylist: IS_FR ? undefined : [/\/country-book\/fr\//],
         runtimeCaching: [
           {
             urlPattern: /\/photos\//,
