@@ -1,0 +1,151 @@
+{
+  "name": "NOUVELLE-ZÉLANDE",
+  "nativeName": "NZ",
+  "romaji": "AOTEAROA",
+  "tagline": "Le pays du long nuage blanc",
+  "region": "Australasia & Pacific",
+  "coords": "41°S, 174°E",
+  "fileNo": "042",
+  "langName": "māori",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF0E5",
+    "dot": "#c8ccb5",
+    "ink": "#1e2318",
+    "faint": "#7a8466",
+    "line": "#d8dcc8",
+    "accent": "#00247D",
+    "accent2": "#CC142B"
+  },
+  "flag": {
+    "assetPath": "/flags/nz.svg",
+    "title": "Pavillon bleu + étoiles",
+    "note": "Union Jack + 4 étoiles rouges de la Croix du Sud",
+    "keyColor": "#00247D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Nouvelle-Zélande, c'est deux grandes îles tout en bas du monde, entourées d'océan ! Les Māori l'appelaient Aotearoa — « le pays du long nuage blanc » — et y sont arrivés en pirogue il y a 700 ans. On y trouve des volcans qui crachent du feu, des lézards plus vieux que les dinosaures, et c'est là qu'ont été filmés les films du Seigneur des Anneaux !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Wellington",
+      "sub": "La ville la plus venteuse du monde"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,34 millions",
+      "sub": "Estimation décembre 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar néo-zélandais",
+      "sub": "Le dollar kiwi, symbole $"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais + māori",
+      "sub": "3 langues officielles dont la langue des signes"
+    },
+    {
+      "label": "Superficie",
+      "value": "268 021 km²",
+      "sub": "Un peu plus grand que le Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Aoraki 3 724 m",
+      "sub": "Nom māori du mont Cook"
+    }
+  ],
+  "islands": [
+    "North Island",
+    "South Island",
+    "Stewart Is.",
+    "Chatham Is.",
+    "Barrier Is."
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Îles de feu et de fjords",
+    "animals": "Des créatures uniques au monde",
+    "culture": "Haka, hongi et hobbits",
+    "history": "Des pirogues jusqu'aux étoiles",
+    "wows": "Sept surprises kiwis"
+  },
+  "geo": "La Nouvelle-Zélande est sur l'anneau de feu du Pacifique — il y a des volcans, des geysers et des piscines de boue bouillonnante ! Dans l'île du Sud, de hautes montagnes enneigées plongent dans de profonds fjords comme le magnifique Milford Sound.",
+  "animals": "Le kiwi est un oiseau qui sent les vers de terre avec le bout de son bec, comme un nez ! Le tuatara, lui, ressemble à un lézard mais sa famille vivait déjà avec les dinosaures il y a 220 millions d'années — et il peut vivre plus de 100 ans.",
+  "culture": "Les Māori font le haka, une danse puissante où on tape des pieds et on tire la langue — l'équipe de rugby des All Blacks la fait avant chaque match ! Pour se dire bonjour, on presse son front et son nez contre celui de l'autre : c'est le hongi, pour partager son souffle.",
+  "history": "Les Māori ont traversé l'océan Pacifique en pirogue il y a environ 700 ans, guidés seulement par les étoiles et les vagues — quelle aventure ! La Nouvelle-Zélande est aussi le premier pays du monde à avoir donné aux femmes le droit de voter, en 1893.",
+  "wows": [
+    "C'est le premier pays au monde à avoir laissé les femmes voter, en 1893 !",
+    "La Nouvelle-Zélande est posée sur Zealandia, un continent presque entièrement sous l'eau.",
+    "Sept espèces de pingouins nagent dans ses eaux — plus que partout ailleurs !",
+    "Il y a environ 4,6 moutons pour chaque habitant.",
+    "Le premier saut à l'élastique commercial du monde a eu lieu à Queenstown en 1988.",
+    "Les trois films du Seigneur des Anneaux ont été tournés dans plus de 150 endroits ici.",
+    "Un tuatara nommé Henry a eu des bébés à 111 ans — il grandissait encore à 35 ans !"
+  ],
+  "myths": [
+    {
+      "myth": "La Nouvelle-Zélande fait partie de l'Australie",
+      "fact": "Non ! C'est un pays tout à fait différent, à 2 000 km de l'Australie de l'autre côté de la mer de Tasman, avec son propre gouvernement et sa propre monnaie."
+    },
+    {
+      "myth": "Tous les Néo-Zélandais parlent māori",
+      "fact": "La langue de tous les jours, c'est l'anglais ! Seulement 4 % des gens parlent le māori couramment, mais de plus en plus d'enfants l'apprennent à l'école."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Kia ora",
+      "say": "kee-ah OR-ah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ngā mihi",
+      "say": "Nah MEE-hee"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Haere mai",
+      "say": "Ha-eh-reh MY"
+    },
+    {
+      "en": "Famille",
+      "jp": "Whānau",
+      "say": "FAH-no"
+    },
+    {
+      "en": "Sois fort !",
+      "jp": "Kia kaha",
+      "say": "kee-ah KAH-hah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nz-hero.jpg",
+      "alt": "Le fjord de Milford Sound avec le pic Mitre reflété dans l'eau calme, Nouvelle-Zélande",
+      "caption": "MILFORD SOUND — Le pic Mitre domine le fjord le plus célèbre de Nouvelle-Zélande",
+      "credit": "Wikimedia Commons / CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/nz-landmark.jpg",
+      "alt": "Skyline d'Auckland et la Sky Tower vus depuis le port Viaduct",
+      "caption": "SKY TOWER D'AUCKLAND — La plus grande ville de Nouvelle-Zélande vue depuis le front de mer",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/nz-animalA.jpg",
+      "alt": "Un kiwi brun sur le sol de la forêt montrant son long bec",
+      "caption": "KIWI — L'oiseau national nocturne de Nouvelle-Zélande qui sent les vers avec son bec",
+      "credit": "Wikimedia Commons / CC BY-SA 2.0"
+    },
+    "animalB": {
+      "src": "/photos/nz-animalB.jpg",
+      "alt": "Un tuatara sur un rocher montrant sa crête épineuse",
+      "caption": "TUATARA — Un fossile vivant inchangé depuis 200 millions d'années",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

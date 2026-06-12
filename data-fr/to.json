@@ -1,0 +1,151 @@
+{
+  "name": "TONGA",
+  "nativeName": "TO",
+  "romaji": "TONGA",
+  "tagline": "Royaume du Pacifique",
+  "region": "Polynesia, South Pacific",
+  "coords": "21°S, 175°W",
+  "fileNo": "093",
+  "langName": "tongan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CDBAA0",
+    "ink": "#27201A",
+    "faint": "#8A7355",
+    "line": "#DDD0BA",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/to.svg",
+    "title": "Tonga",
+    "note": "Fond rouge, canton blanc avec croix rouge",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Les baleines à bosse viennent accoucher à Tonga — et on peut nager tout près d'elles ! Ce royaume de 170 îles dans l'océan Pacifique n'a jamais été conquis par un autre pays !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Nuku'alofa",
+      "sub": "sur l'île de Tongatapu"
+    },
+    {
+      "label": "Habitants",
+      "value": "~100 000",
+      "sub": "recensement 2021 estimé"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Pa'anga (TOP)",
+      "sub": "100 seniti = 1 TOP"
+    },
+    {
+      "label": "Langue",
+      "value": "Tongan / anglais",
+      "sub": "toutes deux officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "748 km²",
+      "sub": "plus petit que Hong Kong"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Kao, 1 046 m",
+      "sub": "un volcan actif"
+    }
+  ],
+  "islands": [
+    "Tongatapu",
+    "Vava'u",
+    "'Eua",
+    "Ha'apai",
+    "Niuas"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Îles, récifs et volcans !",
+    "animals": "Baleines, chauves-souris et poissons colorés",
+    "culture": "Festins royaux et tissages magiques",
+    "history": "Le royaume qui a tenu bon",
+    "wows": "C'est vrai, vraiment ?!"
+  },
+  "geo": "Les 170 îles de Tonga s'étirent sur 800 km dans l'océan. À l'ouest, des volcans sortent tout droits de la mer ; à l'est, des îles plates en corail sont entourées de récifs très colorés. Juste à côté se trouve l'un des endroits les plus profonds de la Terre : la fosse de Tonga, à plus de 10 800 mètres sous l'eau !",
+  "animals": "Les baleines à bosse nagent jusqu'à Tonga chaque année entre juillet et octobre pour donner naissance à leurs bébés. C'est l'un des rares endroits au monde où on a le droit de nager avec elles ! La chauve-souris géante appelée renard volant est un animal sacré à Tonga — seul le roi a le droit de la chasser.",
+  "culture": "À Tonga, les grandes fêtes se font autour d'un umu, un four creusé dans la terre rempli de cochon, d'ignames et de crème de coco. Les femmes fabriquent aussi de beaux tapis tressés avec des feuilles de pandanus — ça prend des années, et ils valent encore plus que l'argent pour les mariages !",
+  "history": "Le royaume de Tonga existe depuis plus de 1 000 ans, gouverné par la même famille royale depuis l'an 950 ! Le capitaine Cook, un grand explorateur, est venu trois fois et a appelé Tonga les « Îles Amicales » parce que les habitants étaient si gentils avec lui.",
+  "wows": [
+    "Tonga est le seul pays du Pacifique à n'avoir jamais été colonisé par les Européens.",
+    "On peut nager légalement tout près des baleines à bosse et de leurs bébés à Tonga !",
+    "Tonga est souvent le premier pays au monde à fêter le Nouvel An chaque année.",
+    "L'arche Ha'amonga 'a Maui pèse 40 tonnes — construite en corail vers 1200 après J.-C. !",
+    "Les renards volants appartiennent au roi ; les gens ordinaires n'ont pas le droit de les chasser.",
+    "L'équipe de rugby de Tonga a battu la France et l'Italie à la Coupe du Monde de rugby !",
+    "Les Tongans sont parmi les personnes les plus grandes et les plus costauds de toute la planète."
+  ],
+  "myths": [
+    {
+      "myth": "Tonga n'est qu'une seule île",
+      "fact": "Tonga compte 170 îles réparties sur une zone d'océan plus grande que la France, même si les terres sont très petites."
+    },
+    {
+      "myth": "Toutes les îles du Pacifique se ressemblent",
+      "fact": "Tonga a sa propre famille royale, sa culture unique et sa langue — et n'a jamais été conquis, contrairement à la plupart de ses voisins."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Mālō e lelei",
+      "say": "MAH-lo eh leh-LAY"
+    },
+    {
+      "en": "Merci",
+      "jp": "Mālō",
+      "say": "MAH-lo"
+    },
+    {
+      "en": "Oui",
+      "jp": "'Io",
+      "say": "EE-oh"
+    },
+    {
+      "en": "Non",
+      "jp": "'Ikai",
+      "say": "EE-kai"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Mālohi!",
+      "say": "MAH-lo-hee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/to-hero.jpg",
+      "alt": "Vue aérienne de Nuku'alofa, la capitale de Tonga",
+      "caption": "NUKU'ALOFA — la capitale de Tonga, nichée au bord d'une côte protégée par les récifs de Tongatapu.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/to-landmark.jpg",
+      "alt": "Arche en corail Ha'amonga 'a Maui",
+      "caption": "HA'AMONGA 'A MAUI — une arche en corail de 40 tonnes construite vers 1200 après J.-C., le Stonehenge de Tonga.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/to-animalA.jpg",
+      "alt": "Baleine à bosse sous l'eau dans l'océan bleu clair",
+      "caption": "BALEINE À BOSSE — les mamans amènent leurs baleineaux dans les eaux chaudes de Tonga de juillet à octobre.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/to-animalB.jpg",
+      "alt": "Renard volant de Tonga accroché dans un arbre",
+      "caption": "RENARD VOLANT DE TONGA — un animal royal ; seul le roi peut légalement chasser cette grande chauve-souris.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

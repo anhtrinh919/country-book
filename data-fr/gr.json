@@ -1,0 +1,163 @@
+{
+  "name": "GRÈCE",
+  "nativeName": "Ελλάς",
+  "romaji": "ELLAS",
+  "tagline": "Là où les mythes rencontrent la mer",
+  "region": "Southern Europe / Balkans",
+  "coords": "39°N 22°E",
+  "fileNo": "036",
+  "langName": "grec",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EDD8",
+    "dot": "#C9BFA0",
+    "ink": "#1E1B16",
+    "faint": "#8A7A5E",
+    "line": "#DACCAE",
+    "accent": "#0D5EAF",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/gr.svg",
+    "title": "Drapeau hellénique",
+    "note": "Neuf rayures bleues et blanches avec une croix blanche",
+    "keyColor": "#0D5EAF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Grèce, de vieux temples en pierre se dressent sur des collines dorées au bord de la mer bleue ! Ce pays a inventé les Jeux olympiques — des grandes courses et compétitions pour honorer les dieux. Il y a tellement d'îles qu'on ne peut jamais être loin de l'eau !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Athènes",
+      "sub": "Où se trouve l'Acropole"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,4 millions",
+      "sub": "Recensement 2021"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Depuis 2001"
+    },
+    {
+      "label": "Langue",
+      "value": "grec",
+      "sub": "Une des plus anciennes du monde"
+    },
+    {
+      "label": "Superficie",
+      "value": "131 957 km²",
+      "sub": "Environ la moitié du Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 917 m",
+      "sub": "Mont Olympe — Mytikas"
+    }
+  ],
+  "islands": [
+    "Athens",
+    "Thessaloniki",
+    "Crete",
+    "Rhodes",
+    "Corfu"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays d'îles et de mer !",
+    "animals": "Les créatures de la mer grecque",
+    "culture": "Fêtes, dieux et maisons bleues",
+    "history": "Là où tout a commencé",
+    "wows": "Trop incroyable pour y croire !"
+  },
+  "geo": [
+    "La Grèce plonge dans la mer Méditerranée, entourée par trois mers : la mer Égée, la mer Ionienne et la mer de Crète. Nulle part en Grèce on n'est à plus de 137 km de l'eau brillante !",
+    "Le pays compte jusqu'à 6 000 îles, comme un grand collier posé sur la mer. Sur une île spéciale, il y a un volcan géant endormi dont le cratère s'est rempli d'eau bleue."
+  ],
+  "animals": [
+    "Le phoque moine de Méditerranée est l'un des animaux les plus rares du monde — il adore se reposer dans les grottes secrètes le long des côtes grecques. Il y en a seulement environ 900 sur toute la Terre !",
+    "Chaque été, les tortues de mer géantes Caretta caretta viennent pondre leurs œufs sur la plage de Zakynthos. Elles reviennent exactement sur la même plage que leurs arrière-grands-mères !"
+  ],
+  "culture": [
+    "En Grèce, la plus grande fête de l'année c'est Pâques ! À minuit, tout le monde allume des bougies, les cloches sonnent, et on crie « Christos Anesti ! » — le Christ est ressuscité !",
+    "Les Grecs adorent manger ensemble autour d'une grande table pleine de petits plats. Ils mangent plus d'huile d'olive que n'importe qui d'autre dans le monde entier !"
+  ],
+  "history": [
+    "Il y a très longtemps, les dieux grecs vivaient au sommet du mont Olympe dans les nuages. Zeus, le roi des dieux, lançait la foudre quand il était en colère !",
+    "Les premiers Jeux olympiques ont eu lieu il y a 2 800 ans à Olympie pour honorer Zeus. Des coureurs, des lutteurs et des lanceurs venaient de toute la Grèce pour participer !"
+  ],
+  "wows": [
+    "Le mot « alphabet » vient des lettres grecques alpha et bêta !",
+    "La Grèce a inventé les Jeux olympiques il y a plus de 2 800 ans.",
+    "Il y a jusqu'à 6 000 îles grecques dans la mer.",
+    "On n'est jamais à plus de 137 km de la mer en Grèce.",
+    "Le grec est parlé et écrit depuis plus de 3 000 ans sans interruption.",
+    "La Grèce possède plus de musées d'archéologie que tout autre pays du monde.",
+    "Le volcan de Santorin a peut-être inspiré la légende de la cité perdue d'Atlantide !"
+  ],
+  "myths": [
+    {
+      "myth": "Pandore a ouvert une boîte magique",
+      "fact": "En réalité, c'était une grande jarre en argile, pas une boîte ! Le mot « boîte » est une erreur de traduction vieille de 500 ans."
+    },
+    {
+      "myth": "Les Grecs sont toujours détendus et font la sieste",
+      "fact": "Les Grecs travaillent plus d'heures que n'importe quel autre peuple d'Europe — environ 1 900 heures par an !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Γεια σας",
+      "say": "YAH-sahs"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ευχαριστώ",
+      "say": "ef-kha-ree-STO"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Παρακαλώ",
+      "say": "pa-ra-ka-LO"
+    },
+    {
+      "en": "Excuse-moi",
+      "jp": "Συγγνώμη",
+      "say": "seeg-NO-mee"
+    },
+    {
+      "en": "Bonjour (matin)",
+      "jp": "Καλημέρα",
+      "say": "ka-lee-MEH-ra"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gr-hero.jpg",
+      "alt": "Village blanc d'Oia à Santorin, accroché au bord de la falaise du cratère volcanique",
+      "caption": "SANTORIN, OIA — des villages perchés dégringolent sur le bord du volcan jusqu'à la mer Égée",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/gr-landmark.jpg",
+      "alt": "Le temple du Parthénon sur la colline de l'Acropole au-dessus d'Athènes",
+      "caption": "PARTHÉNON, ATHÈNES — temple vieux de 2 500 ans au sommet de l'Acropole",
+      "credit": "Yair Haklai, CC BY-SA 3.0, Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gr-animalA.jpg",
+      "alt": "Un phoque moine de Méditerranée se repose sur des rochers près de l'eau",
+      "caption": "PHOQUE MOINE DE MÉDITERRANÉE — l'un des mammifères les plus rares du monde, vivant surtout en Grèce",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/gr-animalB.jpg",
+      "alt": "Une tortue caouanne nage au-dessus d'un fond marin sableux",
+      "caption": "TORTUE CAOUANNE — des milliers pondent leurs œufs sur la plage de Zakynthos chaque été",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    }
+  }
+}

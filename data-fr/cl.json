@@ -1,0 +1,151 @@
+{
+  "name": "CHILI",
+  "nativeName": "CL",
+  "romaji": "CHILE",
+  "tagline": "Le pays le plus long du monde !",
+  "region": "South America",
+  "coords": "-30.0°N, -71.0°E",
+  "fileNo": "CL",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA5",
+    "ink": "#25201B",
+    "faint": "#877A5C",
+    "line": "#DDD5C0",
+    "accent": "#D52B1E",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/cl.svg",
+    "title": "Drapeau du Chili",
+    "note": "Rouge, blanc et bleu avec une étoile solitaire",
+    "keyColor": "#D52B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Chili ressemble à un long ruban collé sur le bord de l'Amérique du Sud — il est si fin qu'on peut traverser d'un océan jusqu'aux grandes montagnes en quelques heures ! Au nord, c'est un désert brûlant, et au sud, il y a des pingouins et des glaciers !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Santiago",
+      "sub": "Environ 6,3 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "19,5 millions",
+      "sub": "Estimation 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Peso chilien",
+      "sub": "CLP — 1 USD ≈ 950 CLP"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "Le mapudungun est aussi parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "756 102 km²",
+      "sub": "4× la taille du Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "6 893 m",
+      "sub": "Ojos del Salado, plus haut volcan du monde"
+    }
+  ],
+  "islands": [
+    "Santiago",
+    "Valparaíso",
+    "Atacama",
+    "Patagonia",
+    "Chiloé"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Un ruban de paysages fous",
+    "animals": "Flamants roses et petits cerfs",
+    "culture": "Empanadas, poètes et danses",
+    "history": "La légende des Mapuches",
+    "wows": "Tu savais ça ?"
+  },
+  "geo": "Le Chili est le pays le plus long et le plus fin du monde — 4 300 km de haut, mais jamais plus de 350 km de large ! Au nord, le désert d'Atacama est si sec qu'il pleut moins que sur Mars.",
+  "animals": "Le flamant des Andes se promène dans des lacs salés si peu profonds qu'ils ressemblent à des miroirs roses ! Le pudú, le plus petit cerf du monde, mesure seulement 35 cm — il se cache dans les forêts du sud comme un secret.",
+  "culture": "Les Chiliens adorent les empanadas, de petits chaussons dorés remplis de viande et d'œuf — c'est délicieux ! La cueca est la danse nationale : les danseurs agitent des mouchoirs blancs comme des oiseaux amoureux.",
+  "history": "Les Mapuches vivaient au Chili bien avant l'arrivée des Européens, et ils étaient si courageux que même les Incas n'ont pas réussi à les conquérir ! Santiago, la capitale, a été fondée en 1541 par des explorateurs espagnols.",
+  "wows": [
+    "Le Chili fait 4 300 km de long — c'est plus long que la hauteur des États-Unis !",
+    "Dans le désert d'Atacama, certaines stations météo n'ont jamais enregistré une seule goutte de pluie.",
+    "Le Chili produit presque un tiers de tout le cuivre du monde entier !",
+    "Le volcan Ojos del Salado est le volcan actif le plus haut de la planète, à 6 893 m.",
+    "Les géantes statues moaï de l'île de Pâques ont été sculptées sans roues ni outils en métal.",
+    "Le pudú, le plus petit cerf du monde, mesure à peine 35 cm — comme un grand chat !",
+    "La côte du Chili fait 6 435 km — assez pour aller de Paris jusqu'au Canada et encore plus loin !"
+  ],
+  "myths": [
+    {
+      "myth": "« Le Chili, c'est tout froid et couvert de glace »",
+      "fact": "Seulement le sud est glacé — au nord, le désert d'Atacama est brûlant, et Santiago a des étés chauds et ensoleillés !"
+    },
+    {
+      "myth": "« L'île de Pâques est en Polynésie »",
+      "fact": "L'île de Pâques est proche de la Polynésie, mais elle appartient au Chili depuis 1888 — les habitants ont un passeport chilien !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Rico!",
+      "say": "REE-koh"
+    },
+    {
+      "en": "Ami",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Chao",
+      "say": "chow"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cl-hero.jpg",
+      "alt": "Skyline de Santiago avec les Andes enneigées en arrière-plan",
+      "caption": "SANTIAGO — la capitale du Chili avec les Andes enneigées derrière",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cl-landmark.jpg",
+      "alt": "Formations rocheuses rouges du désert d'Atacama sous un ciel bleu",
+      "caption": "DÉSERT D'ATACAMA — le désert non polaire le plus sec de la Terre",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cl-animalA.jpg",
+      "alt": "Flamants des Andes debout dans un lac de sel rose peu profond",
+      "caption": "FLAMANT DES ANDES — se promenant dans les eaux calmes du Salar de Atacama",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cl-animalB.jpg",
+      "alt": "Manchots de Magellan sur une côte rocheuse au sud du Chili",
+      "caption": "MANCHOTS DE MAGELLAN — nichant sur la côte balayée par le vent au sud du Chili",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "name": "HONG KONG",
+  "nativeName": "香港",
+  "romaji": "HEUNG GONG",
+  "tagline": "La ville sur le port",
+  "region": "East Asia",
+  "coords": "22.3°N 114.2°E",
+  "fileNo": "042",
+  "langName": "cantonais",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFAC",
+    "ink": "#1E1C1A",
+    "faint": "#857565",
+    "line": "#DDD3C0",
+    "accent": "#DE2110",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/hk.svg",
+    "title": "Drapeau de Hong Kong",
+    "note": "Rouge avec une fleur de bauhinia blanche",
+    "keyColor": "#DE2110",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "À Hong Kong, des tours géantes poussent sur des collines qui plongent dans la mer — c'est comme une forêt de gratte-ciel au bord de l'eau ! Sept millions de personnes vivent dans cet endroit minuscule. Ils mangent des raviolis vapeur et traversent le port en bateau chaque jour !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Hong Kong",
+      "sub": "La ville et le territoire ne font qu'un"
+    },
+    {
+      "label": "Habitants",
+      "value": "7,5 millions",
+      "sub": "Estimation 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar de Hong Kong",
+      "sub": "HKD — lié au dollar américain"
+    },
+    {
+      "label": "Langue",
+      "value": "Cantonais",
+      "sub": "L'anglais est aussi officiel"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 114 km²",
+      "sub": "Plus petit que Los Angeles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Tai Mo Shan",
+      "sub": "957 m — un sommet dans les nuages"
+    }
+  ],
+  "islands": [
+    "HK Island",
+    "Kowloon",
+    "Lantau",
+    "Cheung Chau"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un port creusé par les dragons",
+    "animals": "La nature cachée dans la ville",
+    "culture": "Raviolis, néons et dragons",
+    "history": "D'un village au ciel des gratte-ciel",
+    "wows": "Attends — c'est vraiment vrai ?"
+  },
+  "geo": "Hong Kong est posé au bord de la mer, avec une péninsule et 263 îles. Le port est si profond que de gigantesques bateaux s'y garent en plein cœur de la ville !",
+  "animals": "Le pangolin chinois, un animal couvert d'écailles qui se roule en boule quand il a peur, se promène dans la forêt la nuit. Les zones humides de Mai Po accueillent plus de 400 espèces d'oiseaux, dont le rarissime spatule à face noire !",
+  "culture": "Les familles de Hong Kong se retrouvent pour le yum cha — des petits paniers vapeur remplis de délicieux raviolis. Chaque automne, la Fête des Fantômes affamés illumine les rues de papiers brûlants et de lumières rouges !",
+  "history": "Des pêcheurs vivaient ici depuis des milliers d'années, bien avant que la grande ville naisse au bord de l'eau. La ville a grandi, grandi, grandi — jusqu'à devenir l'une des skylines les plus impressionnantes du monde entier !",
+  "wows": [
+    "Hong Kong a plus de voitures Rolls-Royce par habitant que n'importe où ailleurs sur Terre.",
+    "Le métro est à l'heure 99,9 % du temps — presque magique !",
+    "Des hommes ont construit 70 km² de nouvelles terres en remplissant la mer depuis les années 1800.",
+    "Le plus long escalator couvert du monde — 800 m — grimpe une grande colline en pleine ville !",
+    "Plus de 90 % des trajets se font en transport en commun — personne ne prend sa voiture !",
+    "Le Peak Tram transporte des passagers sur la même colline raide depuis 1888.",
+    "Hong Kong a plus de 1 000 immeubles de plus de 100 m — plus que New York, Chicago et Dubaï réunis !"
+  ],
+  "myths": [
+    {
+      "myth": "Hong Kong, c'est juste une partie de la Chine",
+      "fact": "Depuis 1997, Hong Kong a ses propres lois, son propre argent et son propre passeport — c'est une région très spéciale jusqu'en 2047 au moins !"
+    },
+    {
+      "myth": "C'est juste une ville — il n'y a pas de nature",
+      "fact": "Plus de 70 % de Hong Kong est de la campagne protégée, avec des forêts, des plages et plus de 260 îles que presque personne ne connaît !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "你好",
+      "say": "nay HO"
+    },
+    {
+      "en": "Merci",
+      "jp": "唔該",
+      "say": "mm GOY"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "好味",
+      "say": "ho MAY"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "幾錢?",
+      "say": "gay CHIN"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "拜拜",
+      "say": "bye-BYE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hk-hero.jpg",
+      "alt": "Skyline de Hong Kong la nuit avec Victoria Harbour au premier plan",
+      "caption": "VICTORIA HARBOUR — des tours illuminées se reflètent dans l'eau au crépuscule",
+      "credit": "Wikimedia Commons / Diliff"
+    },
+    "landmark": {
+      "src": "/photos/hk-landmark.jpg",
+      "alt": "Vue de Hong Kong depuis Victoria Peak montrant la skyline dense",
+      "caption": "VICTORIA PEAK — le belvédère à 552 m qui domine tous les gratte-ciel",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hk-animalA.jpg",
+      "alt": "Fleur rose de bauhinia blakeana, emblème de Hong Kong",
+      "caption": "FLEUR DE BAUHINIA — l'emblème de Hong Kong qui fleurit sur le drapeau de la ville",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hk-animalB.jpg",
+      "alt": "Spatule à face noire dans les zones humides de Mai Po",
+      "caption": "SPATULE À FACE NOIRE — rare oiseau protégé dans les marais de Mai Po",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

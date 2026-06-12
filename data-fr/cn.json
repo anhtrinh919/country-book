@@ -1,0 +1,151 @@
+{
+  "name": "CHINE",
+  "nativeName": "中国",
+  "romaji": "ZHŌNGGUÓ",
+  "tagline": "Le Royaume du Milieu",
+  "region": "East Asia",
+  "coords": "39°N · 116°E",
+  "fileNo": "CN",
+  "flag": {
+    "assetPath": "/flags/cn.svg",
+    "title": "Rouge aux cinq étoiles",
+    "note": "Fond rouge ; une grande étoile + 4 petites étoiles",
+    "keyColor": "#DE2910",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Chine est si grande que le soleil se lève deux heures plus tôt à l'est qu'à l'ouest — mais tout le monde regarde la même heure ! Des millions d'adorables pandas géants vivent ici, et une muraille si longue qu'on pourrait marcher des années entières dessus !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Pékin",
+      "sub": "Là où se trouve la Cité interdite"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,41 milliard",
+      "sub": "Estimation 2024 — 2e pays le plus peuplé"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Yuan ¥",
+      "sub": "Aussi appelé le Renminbi (RMB)"
+    },
+    {
+      "label": "Langue",
+      "value": "mandarin",
+      "sub": "La langue la plus parlée sur Terre"
+    },
+    {
+      "label": "Superficie",
+      "value": "9 596 960 km²",
+      "sub": "3e ou 4e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "8 849 m",
+      "sub": "Mont Everest, frontière Népal–Tibet"
+    }
+  ],
+  "islands": [
+    "Beijing",
+    "Shanghai",
+    "Sichuan",
+    "Xinjiang",
+    "Tibet"
+  ],
+  "islandsLabel": "GRANDES RÉGIONS :",
+  "sections": {
+    "geography": "Montagnes, déserts et grands fleuves",
+    "animals": "Pandas, léopards et salamandres géantes",
+    "culture": "Nouilles, thé et enveloppes rouges",
+    "history": "Une légende vieille de cinq mille ans",
+    "wows": "La Chine va t'épater !"
+  },
+  "geo": "La Chine touche 14 pays voisins — plus que n'importe quel autre pays du monde ! À l'ouest se dressent les plus hautes montagnes de la Terre, et à l'est s'étendent de grands fleuves et des forêts de bambous.",
+  "animals": "Le panda géant mange du bambou pendant 14 heures chaque jour, parce que le bambou est tellement peu nourrissant qu'il en faut des tonnes ! Dans les hautes montagnes vit le léopard des neiges, un grand chat magique dont il ne reste que 4 000 dans tout le monde.",
+  "culture": "Chaque année, pour le Nouvel An chinois, les familles accrochent des lanternes rouges et offrent aux enfants des enveloppes rouges pleines de pièces porte-bonheur ! Chaque année porte le nom d'un animal — comme le dragon, le tigre ou le lapin.",
+  "history": "Il y a très longtemps, un grand empereur a fait construire une muraille immense pour protéger son royaume, et il a enterré 8 000 soldats en terre cuite pour le garder — chacun avec un visage différent ! Des fermiers les ont découverts par hasard en 1974.",
+  "wows": [
+    "La Chine a 14 pays voisins — plus que n'importe quel autre pays sur Terre !",
+    "Les trains très rapides de Chine mesurent plus de 50 000 km — plus que tous les autres pays réunis.",
+    "Le barrage des Trois Gorges est la plus grande centrale électrique du monde.",
+    "Le pouce du panda n'est pas un vrai pouce — c'est un os du poignet qui a grandi pour attraper le bambou !",
+    "L'écriture chinoise est la même pour tout le monde, même si les gens parlent très différemment.",
+    "Toute la Chine a la même heure, même si le pays est aussi large que cinq fuseaux horaires.",
+    "Le thé a été découvert en Chine il y a 5 000 ans — c'est la plus vieille boisson chaude du monde !"
+  ],
+  "myths": [
+    {
+      "myth": "On peut voir la Grande Muraille depuis l'espace",
+      "fact": "Non ! Les astronautes disent qu'ils ne peuvent pas la voir à l'œil nu — elle est longue mais seulement large comme une petite rue, trop fine pour être vue de si loin."
+    },
+    {
+      "myth": "Les biscuits porte-bonheur viennent de Chine",
+      "fact": "Non ! Ces petits biscuits ont été inventés par des immigrants japonais en Californie, et on ne les trouve presque pas du tout en Chine !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "你好",
+      "say": "Nǐ hǎo"
+    },
+    {
+      "en": "Merci",
+      "jp": "谢谢",
+      "say": "Xièxiè"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "好吃",
+      "say": "Hǎo chī"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "再见",
+      "say": "Zàijiàn"
+    },
+    {
+      "en": "Ami",
+      "jp": "朋友",
+      "say": "Péngyǒu"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cn-hero.jpg",
+      "alt": "Le front de mer du Bund à Shanghai au crépuscule avec des gratte-ciels illuminés",
+      "caption": "LE BUND, Shanghai — façades coloniales face à une skyline de tours géantes",
+      "credit": "Wikimedia Commons / Siyuwj"
+    },
+    "landmark": {
+      "src": "/photos/cn-landmark.jpg",
+      "alt": "La Grande Muraille de Chine qui serpente sur des crêtes de montagnes vertes",
+      "caption": "GRANDE MURAILLE — 21 000 km de fortifications sur les crêtes montagneuses de Chine",
+      "credit": "Wikimedia Commons / Saad Akhtar"
+    },
+    "animalA": {
+      "src": "/photos/cn-animalA.jpg",
+      "alt": "Panda géant assis en train de manger du bambou",
+      "caption": "PANDA GÉANT — passe 14 heures par jour à manger du bambou pour avoir assez d'énergie",
+      "credit": "Wikimedia Commons / Manfred Werner"
+    },
+    "animalB": {
+      "src": "/photos/cn-animalB.jpg",
+      "alt": "Léopard des neiges aux yeux perçants dans un décor de montagne rocheuse",
+      "caption": "LÉOPARD DES NEIGES — il n'en reste que 4 000 dans les hautes montagnes d'Asie",
+      "credit": "Wikimedia Commons / Snow Leopard Trust"
+    }
+  },
+  "theme": {
+    "paper": "#F5ECD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2118",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#DE2910",
+    "accent2": "#FFBE00"
+  },
+  "motif": "sun",
+  "langName": "mandarin"
+}

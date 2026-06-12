@@ -1,0 +1,163 @@
+{
+  "name": "BOTSWANA",
+  "nativeName": "BW",
+  "romaji": "BOTSWANA",
+  "tagline": "Ciel, sable et diamants",
+  "region": "Afrique australe",
+  "coords": "-22.3°S, 24.7°E",
+  "fileNo": "BW1",
+  "langName": "setswana",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C8B89A",
+    "ink": "#1E1A14",
+    "faint": "#7A6E5A",
+    "line": "#DDD0B8",
+    "accent": "#4A90C4",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/bw.svg",
+    "title": "Drapeau du Botswana",
+    "note": "Le bleu représente la pluie ; le noir et blanc vient du zèbre",
+    "keyColor": "#4A90C4",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Botswana, il y a plus d'éléphants que partout ailleurs dans le monde — 130 000 se promènent en liberté ! Le pays possède aussi une mer magique au milieu des terres sèches, appelée le delta de l'Okavango. Et sous le sable se cachent des diamants brillants !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Gaborone",
+      "sub": "Fondée en 1964, env. 270 000 hab."
+    },
+    {
+      "label": "Habitants",
+      "value": "2,36 millions",
+      "sub": "Recensement 2022 — 4 pers./km²"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Pula (BWP)",
+      "sub": "Pula veut dire « pluie » — très précieuse ici"
+    },
+    {
+      "label": "Langue",
+      "value": "Setswana",
+      "sub": "Aussi l'anglais (officiel)"
+    },
+    {
+      "label": "Superficie",
+      "value": "581 730 km²",
+      "sub": "À peu près la taille de la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Monalanong",
+      "sub": "1 491 m — une douce colline"
+    }
+  ],
+  "islands": [
+    "Gaborone",
+    "Francistown",
+    "Maun",
+    "Kasane",
+    "Serowe"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Sel, eau et immensité",
+    "animals": "Le pays des géants",
+    "culture": "La gentillesse, c'est tout !",
+    "history": "Des diamants cachés dans le sable",
+    "wows": "Des trucs vraiment fous !"
+  },
+  "geo": [
+    "Le Botswana est presque entièrement plat — comme une grande assiette dorée posée sous le soleil. Environ 70 % du pays est le Kalahari, une étendue de sable doré et d'herbes hautes qui s'étend à perte de vue.",
+    "Mais l'eau fait des miracles ! La rivière Okavango se transforme en un immense lac intérieur magique, et les grands lacs de sel du Makgadikgadi brillent comme des miroirs sous le soleil africain."
+  ],
+  "animals": [
+    "Le Botswana a plus d'éléphants que n'importe quel autre pays au monde — 130 000 se baladent librement dans les parcs ! On peut aussi voir des lions, des léopards, des hippos et des crocodiles, tous dans la même journée.",
+    "Le zèbre est l'animal national et ses rayures ont inspiré les couleurs du drapeau. Des dizaines de milliers de zèbres migrent chaque année à travers les plaines du Makgadikgadi — c'est un spectacle incroyable !"
+  ],
+  "culture": [
+    "Les Tswana suivent le « botho » — la croyance que l'on devient une vraie personne grâce à la gentillesse et au partage. Dire « Dumela » pour saluer quelqu'un est très important, jamais on ne passe devant quelqu'un sans le saluer !",
+    "Le plat national s'appelle le seswaa — du bœuf cuit très longtemps jusqu'à être tout tendre et effiloché. Les gens dansent au rythme des tambours pour fêter les bonnes récoltes !"
+  ],
+  "history": [
+    "Il y a très longtemps, les gens du Kalahari appelaient les éléphants leurs gardiens et croyaient que leurs ancêtres vivaient dans les étoiles qui se reflètent sur les grands lacs de sel.",
+    "Un jour, des géologues ont découvert d'énormes diamants cachés sous le sol du Botswana. Le pays a alors utilisé ces trésors pour construire des écoles et des hôpitaux pour tous les enfants !"
+  ],
+  "wows": [
+    "Le Botswana a 130 000 éléphants — plus que n'importe quel autre pays du monde !",
+    "Le delta de l'Okavango se remplit d'eau en saison sèche : la pluie tombe en Angola et arrive des mois plus tard !",
+    "Le diamant Sewelô (2019) pesait 1 758 carats — c'est le 2e plus gros diamant jamais trouvé !",
+    "« Pula ! » veut dire à la fois « pluie » et « santé ! » — c'est aussi le nom de leur monnaie !",
+    "Les marais salants du Makgadikgadi sont si plats qu'on y voit les étoiles se refléter dans l'eau la nuit !",
+    "Le parc national de Chobe peut accueillir jusqu'à 50 000 éléphants dans une seule zone protégée !",
+    "La pluie est si précieuse ici que les gens disent « Pula ! » pour porter un toast — comme dire « Hourra ! »"
+  ],
+  "myths": [
+    {
+      "myth": "Le Botswana n'est qu'un désert brûlant",
+      "fact": "Le Kalahari reçoit assez de pluie pour les herbes et les animaux. Le delta de l'Okavango au nord est un marais luxuriant — l'un des endroits les plus riches d'Afrique pour la nature."
+    },
+    {
+      "myth": "Le Botswana est un pays très pauvre",
+      "fact": "C'est en réalité un pays à revenu intermédiaire selon la Banque mondiale — une montée remarquable depuis l'indépendance en 1966 !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Dumela",
+      "say": "doo-MEH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ke a leboga",
+      "say": "keh-ah-leh-BOH"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ka tswee",
+      "say": "kah-TSWEE"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ee",
+      "say": "ay"
+    },
+    {
+      "en": "Porte-toi bien",
+      "jp": "Sala sentle",
+      "say": "SAH-lah SEN-tleh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bw-hero.jpg",
+      "alt": "Vue aérienne du delta de l'Okavango, au Botswana",
+      "caption": "DELTA DE L'OKAVANGO — le plus grand delta intérieur du monde, zone humide classée au patrimoine mondial de l'UNESCO",
+      "credit": "Diego Delso, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/bw-landmark.jpg",
+      "alt": "Les marais salants du Makgadikgadi sous un immense ciel",
+      "caption": "MARAIS SALANTS DU MAKGADIKGADI — l'un des plus grands déserts de sel de la Terre, vestige d'un lac ancien",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bw-animalA.jpg",
+      "alt": "Éléphant d'Afrique dans la brousse botswanaise",
+      "caption": "ÉLÉPHANT D'AFRIQUE — le Botswana accueille plus d'éléphants que n'importe quel autre pays du monde",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bw-animalB.jpg",
+      "alt": "Zèbre de Burchell dans les herbes dorées du Botswana",
+      "caption": "ZÈBRE DE BURCHELL — l'animal national, dont les rayures inspirent les couleurs du drapeau du Botswana",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "IRAK",
+  "nativeName": "العراق",
+  "romaji": "AL-IRAQ",
+  "tagline": "Berceau de la civilisation",
+  "region": "Middle East",
+  "coords": "33°N 44°E",
+  "fileNo": "IQ",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4BA8A",
+    "ink": "#1E1A14",
+    "faint": "#8A7455",
+    "line": "#E0CFA0",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/iq.svg",
+    "title": "Drapeau de l'Irak",
+    "note": "Vert, blanc et rouge avec une inscription en arabe",
+    "keyColor": "#007A3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Irak est l'endroit où les humains ont inventé l'écriture il y a 5 000 ans — tu peux encore voir les tablettes d'argile ! Deux grands fleuves, le Tigre et l'Euphrate, traversent ce pays comme deux rubans brillants. C'est ici que les premières villes du monde sont nées !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bagdad",
+      "sub": "Env. 7,9 millions d'hab."
+    },
+    {
+      "label": "Habitants",
+      "value": "46,1 millions",
+      "sub": "Recensement 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dinar irakien",
+      "sub": "IQD"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "Le kurde est aussi officiel"
+    },
+    {
+      "label": "Superficie",
+      "value": "438 317 km²",
+      "sub": "Plus grand que la Californie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Cheekha Dar",
+      "sub": "3 611 m, au nord kurde"
+    }
+  ],
+  "islands": [
+    "Baghdad",
+    "Basra",
+    "Erbil",
+    "Mosul",
+    "Najaf"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Deux fleuves, déserts et montagnes",
+    "animals": "Des lions vivaient ici autrefois !",
+    "culture": "Dattes, poésie et argile ancienne",
+    "history": "Là où l'histoire a été inventée",
+    "wows": "L'Irak qui surprend !"
+  },
+  "geo": "L'Irak est traversé par deux grands fleuves, le Tigre et l'Euphrate, qui coulent vers la mer. Au nord, il y a de belles montagnes enneigées, et au sud, de grands marais pleins de roseaux et d'oiseaux !",
+  "animals": "Dans les marais du sud vivent des loutres rigolotes et des buffles d'eau aux grandes cornes recourbées. La rousserolle de Basra, un petit oiseau chanteur, niche uniquement en Irak — nulle part ailleurs sur Terre !",
+  "culture": "En Irak, on adore les dattes — il existe plus de 1 000 sortes différentes, c'est comme 1 000 saveurs de bonbons ! Le vendredi, les familles se réunissent pour manger de l'agneau avec du riz au safran doré.",
+  "history": "Il y a 5 000 ans, les Sumériens ont inventé l'écriture en faisant des petits signes dans l'argile molle. Plus tard, Babylone était la ville la plus grande du monde, avec des jardins suspendus magiques !",
+  "wows": [
+    "L'histoire la plus ancienne du monde, l'Épopée de Gilgamesh, a été écrite sur des tablettes d'argile ici il y a 4 000 ans !",
+    "Les Babyloniens ont inventé les 60 minutes dans une heure — on utilise encore leur idée aujourd'hui !",
+    "Le mot « algèbre » vient de l'arabe : un savant de Bagdad l'a inventée il y a 1 200 ans !",
+    "L'Irak possède l'une des plus grandes réserves de pétrole au monde, sous ses pieds !",
+    "La ville d'Ur, au sud, serait le lieu de naissance d'Abraham, un personnage très célèbre dans trois religions !",
+    "Les grands marais du sud ont été remplis d'eau à nouveau et sont devenus un patrimoine mondial de l'UNESCO !",
+    "L'équipe de football d'Irak a remporté la Coupe d'Asie en 2007, une surprise pour tout le monde !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Irak, c'est que du désert chaud",
+      "fact": "L'Irak a aussi des montagnes enneigées au nord, de grands marais avec des roseaux au sud, et des plaines vertes le long des fleuves — le désert n'est qu'une partie !"
+    },
+    {
+      "myth": "Les Jardins suspendus de Babylone existent vraiment",
+      "fact": "C'est une des Sept Merveilles du monde, mais personne n'a encore trouvé leurs traces à Babylone — certains pensent qu'ils étaient peut-être dans une autre ville !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ban"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Oui",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/iq-hero.jpg",
+      "alt": "Rue de marché animée au centre de Bagdad avec des étals colorés et des foules",
+      "caption": "MARCHÉ DE BAGDAD — le vieux bazar Shorja grouille de vie",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/iq-landmark.jpg",
+      "alt": "L'antique ziggurat d'Ur en forme d'escalier géant, se dressant dans la plaine désertique",
+      "caption": "ZIGGURAT D'UR — une tour-temple vieille de 4 000 ans dans le sud de l'Irak",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/iq-animalA.jpg",
+      "alt": "Loutre à pelage lisse se reposant sur une berge",
+      "caption": "LOUTRE À PELAGE LISSE — chasse les poissons dans les marais de Mésopotamie",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/iq-animalB.jpg",
+      "alt": "Buffle d'eau debout dans une eau peu profonde avec de larges cornes recourbées",
+      "caption": "BUFFLE D'EAU — se promène dans les marais du sud depuis des siècles",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

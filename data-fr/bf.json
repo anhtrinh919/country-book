@@ -1,0 +1,151 @@
+{
+  "name": "BURKINA FASO",
+  "nativeName": "BF",
+  "romaji": "BURKINA FASO",
+  "tagline": "Le pays des gens honnêtes",
+  "region": "Afrique de l'Ouest",
+  "coords": "12.3°N, 1.5°W",
+  "fileNo": "071",
+  "langName": "mooré",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#C9B48A",
+    "ink": "#231E12",
+    "faint": "#8A7455",
+    "line": "#DDD0B0",
+    "accent": "#EF2B2D",
+    "accent2": "#009A44"
+  },
+  "flag": {
+    "assetPath": "/flags/bf.svg",
+    "title": "Drapeau du Burkina Faso",
+    "note": "Deux bandes rouge et verte, étoile dorée au centre",
+    "keyColor": "#EF2B2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Burkina Faso, plus de cent crocodiles sauvages vivent dans un étang sacré au village, et les habitants les traitent comme des voisins ! Son nom signifie « Pays des gens honnêtes » — choisi parce que l'honnêteté est la plus grande richesse. Les couchers de soleil sur la savane dorée sont absolument magiques !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Ouagadougou",
+      "sub": "Surnommée « Ouaga »"
+    },
+    {
+      "label": "Habitants",
+      "value": "24,1 millions",
+      "sub": "Estimation ONU, 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Monnaie partagée en Afrique de l'Ouest"
+    },
+    {
+      "label": "Langue",
+      "value": "Mooré et plus",
+      "sub": "Plus de 60 langues parlées"
+    },
+    {
+      "label": "Superficie",
+      "value": "274 223 km²",
+      "sub": "Plus grand que le Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "747 m",
+      "sub": "Mont Tenakourou, au sud-ouest"
+    }
+  ],
+  "islands": [
+    "Ouagadougou",
+    "Bobo",
+    "Koudougou",
+    "Banfora",
+    "Ouahigouya"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un grand plateau sous un ciel immense",
+    "animals": "Les animaux sauvages de la savane",
+    "culture": "Masques, musique et fête",
+    "history": "Une légende de fierté et d'honneur",
+    "wows": "Sept surprises étonnantes !"
+  },
+  "geo": "Le Burkina Faso est un grand plateau plat, baigné de soleil et traversé par trois rivières aux noms de couleurs : la Volta Noire, la Volta Rouge et la Volta Blanche. Quand la pluie arrive, toute la terre sèche se transforme comme par magie en savane toute verte !",
+  "animals": "Près du village de Bazoulé, à seulement 30 km de la capitale, plus de cent crocodiles du Nil vivent dans un étang sacré avec les habitants du village. Les enfants jouent tout près de l'eau sans avoir peur, car tout le monde croit que ces crocodiles sont des ancêtres protecteurs !",
+  "culture": "Au Burkina Faso, les artisans fabriquent de grands masques en bois qui représentent des animaux et des ancêtres, portés lors de fêtes extraordinaires. Le soir des célébrations, on entend les tambours, la balafon et la kora résonner jusqu'aux étoiles !",
+  "history": "Il y a très longtemps, une courageuse princesse mossi nommée Yennenga chevauchait seule à travers la savane et fonda un grand royaume. Aujourd'hui encore, le plus beau trophée du grand festival du cinéma s'appelle l'Étalon d'or de Yennenga, en son honneur !",
+  "wows": [
+    "Le nom « Burkina Faso » mélange deux langues : « honnête » en mooré et « patrie » en dioula.",
+    "À Ouagadougou, il y a le plus grand festival de cinéma d'Afrique — depuis 1969 !",
+    "Plus de 100 crocodiles sauvages vivent dans un étang de village et personne n'a peur d'eux.",
+    "Du sommet du mont Tenakourou, on peut voir trois pays différents en même temps !",
+    "Le Burkina Faso produit de l'or — c'est l'un des 15 premiers pays miniers au monde.",
+    "Un jour, une équipe a vacciné 2,5 millions d'enfants en une seule semaine !",
+    "Six pays différents partagent une frontière avec le Burkina Faso — c'est un record en Afrique de l'Ouest !"
+  ],
+  "myths": [
+    {
+      "myth": "« Le nom veut dire \"peuple incorruptible\" »",
+      "fact": "Ça veut dire « gens honnêtes et droits ». « Burkina » signifie droit et honnête en mooré, et « Faso » veut dire patrie en dioula."
+    },
+    {
+      "myth": "« Un pays sans mer n'a rien d'intéressant »",
+      "fact": "Burkina Faso a le plus grand festival de cinéma d'Afrique, des masques connus dans le monde entier, et des artistes venus de plus de 50 pays !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Laafi",
+      "say": "LAH-fee"
+    },
+    {
+      "en": "Merci",
+      "jp": "Y barka",
+      "say": "ee BAR-kah"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ngye",
+      "say": "nn-GYEH"
+    },
+    {
+      "en": "Non",
+      "jp": "Ayo",
+      "say": "AH-yoh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Nindaare",
+      "say": "nin-DAH-reh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bf-hero.jpg",
+      "alt": "Vue nocturne du centre-ville d'Ouagadougou",
+      "caption": "OUAGADOUGOU — la capitale illuminée la nuit, vue depuis un toit",
+      "credit": "Wegmann / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/bf-landmark.jpg",
+      "alt": "Façade en briques de terre de la Grande Mosquée de Bobo-Dioulasso",
+      "caption": "GRANDE MOSQUÉE — le célèbre monument en terre de Bobo-Dioulasso",
+      "credit": "Semiliki / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/bf-animalA.jpg",
+      "alt": "Hippopotame sortant la tête d'un lac près de Satiri au Burkina Faso",
+      "caption": "HIPPOPOTAME — sortant de l'eau au lac des Hippopotames près de Satiri",
+      "credit": "Adam Jones Ph.D. / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/bf-animalB.jpg",
+      "alt": "Crocodiles sacrés du Nil dans l'étang de Bazoulé",
+      "caption": "CROCODILES SACRÉS — les reptiles vénérés du village de Bazoulé",
+      "credit": "Marco Schmidt / CC BY-SA 3.0"
+    }
+  }
+}

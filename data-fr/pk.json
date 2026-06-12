@@ -1,0 +1,151 @@
+{
+  "name": "PAKISTAN",
+  "nativeName": "پاک",
+  "romaji": "PAKISTAN",
+  "tagline": "Montagnes, mangues et marchés",
+  "region": "South Asia",
+  "coords": "30.38°N, 69.35°E",
+  "fileNo": "PK",
+  "langName": "ourdou",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA2",
+    "ink": "#2B2318",
+    "faint": "#8B7A58",
+    "line": "#DCCFB0",
+    "accent": "#01411C",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/pk.svg",
+    "title": "Drapeau du Pakistan",
+    "note": "Vert avec un croissant et une étoile blancs",
+    "keyColor": "#01411C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Pakistan, il y a des montagnes si hautes que les nuages les caressent ! C'est là que poussent les mangues les plus sucrées du monde entier. Plus de 240 millions de personnes vivent dans ce pays extraordinaire !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Islamabad",
+      "sub": "Ville construite spécialement dans les années 1960"
+    },
+    {
+      "label": "Habitants",
+      "value": "241 millions",
+      "sub": "Le 5e pays le plus peuplé du monde"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Roupie pakistanaise",
+      "sub": "Symbole ₨, appelée « roupie »"
+    },
+    {
+      "label": "Langue",
+      "value": "Ourdou",
+      "sub": "Plus de 70 langues régionales parlées"
+    },
+    {
+      "label": "Superficie",
+      "value": "881 913 km²",
+      "sub": "Plus grand que la France et l'Allemagne réunies"
+    },
+    {
+      "label": "Point culminant",
+      "value": "K2, 8 611 m",
+      "sub": "La 2e plus haute montagne du monde"
+    }
+  ],
+  "islands": [
+    "Punjab",
+    "Sindh",
+    "KP",
+    "Balochistan",
+    "Gilgit"
+  ],
+  "islandsLabel": "GRANDES PROVINCES :",
+  "sections": {
+    "geography": "Montagnes, déserts et rivières",
+    "animals": "Léopards des neiges et dauphins de rivière",
+    "culture": "Cricket, camions colorés et bonne cuisine",
+    "history": "5 000 ans de merveilles",
+    "wows": "Le Pakistan va t'étonner !"
+  },
+  "geo": "Le nord du Pakistan abrite des montagnes géantes — le K2 est si haut que plus de gens ont marché sur la Lune que sur son sommet ! Au sud, le grand fleuve Indus arrose des champs immenses où poussent du blé et de la canne à sucre.",
+  "animals": "Le léopard des neiges vit dans les montagnes du Pakistan — on l'appelle le « fantôme des montagnes » parce qu'il est tellement discret qu'on le voit presque jamais ! Le markhor, une chèvre sauvage avec des cornes torsadées comme des tire-bouchons géants, est l'animal national du pays.",
+  "culture": "Au Pakistan, les chauffeurs de camions peignent leurs véhicules avec des fleurs et des couleurs vives — les routes ressemblent à des galeries d'art qui bougent ! Pendant la fête de l'Aïd, toutes les familles partagent du biryani parfumé et des douceurs sucrées, et tout le quartier fait la fête ensemble.",
+  "history": "Il y a 4 500 ans, à Mohenjo-daro, des gens vivaient déjà dans de belles maisons en briques avec de l'eau courante — avant même que Rome n'existe ! Les empereurs moghols ont ensuite bâti de magnifiques mosquées et des palais couverts de milliers de petits miroirs brillants.",
+  "wows": [
+    "Le Pakistan produit plus d'1,8 million de tonnes de mangues par an — les mangues Sindhri sont parmi les plus sucrées du monde !",
+    "Le K2 est si difficile à gravir que plus de gens ont marché sur la Lune que sur son sommet.",
+    "Mohenjo-daro avait des égouts couverts presque 2 000 ans avant que Rome construise les siens.",
+    "La Route du Karakoram monte à 4 714 m — c'est l'une des routes goudronnées les plus hautes du monde !",
+    "Le Palais des Miroirs de Lahore est recouvert de milliers d'éclats de miroirs — une seule bougie ressemble à une galaxie entière.",
+    "Le Pakistan possède plus de 7 000 glaciers hors des pôles — plus que n'importe quel autre pays à cette latitude.",
+    "Le K2 a été le dernier sommet de 8 000 m jamais gravi en hiver — dix alpinistes népalais l'ont enfin conquis en 2021 !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Pakistan, c'est tout désert et tout sec",
+      "fact": "Les vallées de Hunza et Swat sont vertes et magnifiques, avec des forêts et plus de 7 000 glaciers — le nord ressemble à la Suisse !"
+    },
+    {
+      "myth": "L'ourdou et l'hindi, c'est complètement différent",
+      "fact": "Dans la conversation de tous les jours, l'ourdou et le hindi se comprennent très bien — la principale différence, c'est l'écriture !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "آداب",
+      "say": "Adaab"
+    },
+    {
+      "en": "Merci",
+      "jp": "شکریہ",
+      "say": "Shukriya"
+    },
+    {
+      "en": "Oui",
+      "jp": "جی ہاں",
+      "say": "Ji haan"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذیذ!",
+      "say": "Laziz!"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "خوبصورت",
+      "say": "Khubsoorat"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pk-hero.jpg",
+      "alt": "La mosquée Badshahi à Lahore avec sa grande cour au crépuscule",
+      "caption": "MOSQUÉE BADSHAHI — l'une des plus grandes mosquées du monde, construite à Lahore en 1673.",
+      "credit": "Ali Imran / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/pk-landmark.jpg",
+      "alt": "Ruines de briques anciennes du site archéologique de Mohenjo-daro",
+      "caption": "MOHENJO-DARO — une ville vieille de 4 500 ans avec les premiers égouts urbains du monde.",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalA": {
+      "src": "/photos/pk-animalA.jpg",
+      "alt": "Léopard des neiges au pelage tacheté se reposant sur des rochers",
+      "caption": "LÉOPARD DES NEIGES — le fantôme des montagnes du Pakistan, qui rôde au-dessus de 3 000 m.",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/pk-animalB.jpg",
+      "alt": "Markhor, chèvre sauvage aux longues cornes torsadées en spirale sur un flanc rocheux",
+      "caption": "MARKHOR — l'animal national du Pakistan, avec des cornes en tire-bouchon pouvant atteindre 1,6 m.",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

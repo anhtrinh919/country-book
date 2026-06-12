@@ -1,0 +1,151 @@
+{
+  "name": "GROENLAND",
+  "nativeName": "GL",
+  "romaji": "KALAALLIT NUNAAT",
+  "tagline": "Glace, océan et soleil de minuit",
+  "region": "North Atlantic / Arctic",
+  "coords": "72°N, 40°W",
+  "fileNo": "082",
+  "langName": "groenlandais",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEF3F5",
+    "dot": "#C8D8DF",
+    "ink": "#1A2830",
+    "faint": "#6E8A96",
+    "line": "#D8E5EA",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/gl.svg",
+    "title": "Erfalasorput",
+    "note": "Deux moitiés blanc et rouge ; le disque est inversé de chaque côté",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Groenland est la plus grande île du monde, presque entièrement cachée sous une glace de 3 km d'épaisseur ! Des chasseurs inuits y vivent depuis 4 500 ans, et en hiver le ciel se couvre de rideaux verts et violets — les aurores boréales !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Nuuk",
+      "sub": "La plus grande ville du Groenland"
+    },
+    {
+      "label": "Habitants",
+      "value": "56 542",
+      "sub": "1er janvier 2025, Statistiques Groenland"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Couronne danoise",
+      "sub": "DKK ; partagée avec le Danemark"
+    },
+    {
+      "label": "Langue",
+      "value": "Kalaallisut",
+      "sub": "Groenlandais ; le danois est aussi très utilisé"
+    },
+    {
+      "label": "Superficie",
+      "value": "2 166 086 km²",
+      "sub": "La plus grande île du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 694 m",
+      "sub": "Gunnbjørn Fjeld, est du Groenland"
+    }
+  ],
+  "islands": [
+    "Nuuk",
+    "Ilulissat",
+    "Sisimiut",
+    "Qaqortoq",
+    "Tasiilaq"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un monde caché sous la glace",
+    "animals": "La licorne de la mer et ses amis",
+    "culture": "La vie au bord du grand froid",
+    "history": "Vikings, Inuits et mystères glacés",
+    "wows": "Trop incroyable pour être vrai !"
+  },
+  "geo": "La glace recouvre 80 % du Groenland et cache un canyon géant plus long que le Grand Canyon — impossible à voir depuis le ciel ! La côte est découpée de fjords profonds et de petites maisons colorées perchées sur les rochers.",
+  "animals": "Le narval — la vraie licorne de l'Arctique — vit dans les eaux glacées du Groenland et sa corne spiralée peut atteindre 3 mètres de long ! Le bœuf musqué porte la laine la plus chaude du monde, appelée qiviut.",
+  "culture": "Les Groenlandais ont inventé le kayak il y a très longtemps — c'était un bateau silencieux pour approcher les phoques sans les effrayer. Le plat national, le suaasat, est une soupe chaude de phoque ou de baleine.",
+  "history": "Il y a environ 1 000 ans, un Viking appelé Erik le Rouge a nommé cette île « Groenland » (pays vert) pour attirer des habitants — alors qu'elle était couverte de glace ! Deux villages vikings ont prospéré pendant 500 ans puis ont mystérieusement disparu.",
+  "wows": [
+    "La glace pèse tellement lourd qu'elle enfonce la terre 300 m sous le niveau de la mer !",
+    "Un glacier au Groenland avance de 46 m par jour — plus vite qu'un escargot géant !",
+    "Un canyon caché sous la glace fait 750 km de long — personne ne l'a jamais vu de ses propres yeux.",
+    "Il y a plus de Groenlandais qui habitent à Copenhague qu'il n'y en a dans n'importe quelle ville du Groenland.",
+    "Il est interdit d'amener certaines races de chiens au nord pour protéger les chiens de traîneau.",
+    "En été, le soleil ne se couche jamais — les enfants jouent dehors à minuit en pleine lumière !",
+    "Le drapeau du Groenland est le seul drapeau nordique sans croix — pour montrer son identité inuite unique."
+  ],
+  "myths": [
+    {
+      "myth": "« Le Groenland est vert, l'Islande est glacée »",
+      "fact": "80 % du Groenland est recouvert de glace. Erik le Rouge a choisi ce nom pour attirer des habitants — pas parce que c'était verdoyant. C'est l'Islande qui a bien plus de prairies vertes !"
+    },
+    {
+      "myth": "« Les ours polaires se promènent dans les villes »",
+      "fact": "Les ours polaires vivent surtout sur la banquise loin des gens et s'approchent très rarement des villages. La plupart des Groenlandais n'en ont jamais vu un dans la nature !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Aluu",
+      "say": "ah-LOO"
+    },
+    {
+      "en": "Merci",
+      "jp": "Qujanaq",
+      "say": "KOO-yah-nakh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Aap",
+      "say": "ahp"
+    },
+    {
+      "en": "Non",
+      "jp": "Naamik",
+      "say": "NAH-mik"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Takuss",
+      "say": "tah-KOOS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gl-hero.jpg",
+      "alt": "Des maisons en bois colorées bordent la côte rocheuse de Nuuk avec des montagnes en arrière-plan",
+      "caption": "NUUK — des maisons peintes aux couleurs vives s'entassent sur le rivage rocheux de la capitale du Groenland",
+      "credit": "amanderson2 / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/gl-landmark.jpg",
+      "alt": "Un immense iceberg bleu flotte dans le fjord d'Ilulissat sous un ciel dégagé",
+      "caption": "FJORD D'ILULISSAT — une cathédrale de glace bleue dans le fjord du patrimoine UNESCO du Groenland",
+      "credit": "Marcus Engdahl / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/gl-animalA.jpg",
+      "alt": "Un bœuf musqué aux longs poils se tient sur la toundra arctique",
+      "caption": "BŒUF MUSQUÉ — sa laine épaisse appelée qiviut est plus chaude que la laine de mouton et plus légère que le cachemire",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalB": {
+      "src": "/photos/gl-animalB.jpg",
+      "alt": "Un ours polaire marche sur la banquise dans l'Arctique",
+      "caption": "OURS POLAIRE — le plus grand prédateur terrestre du monde chasse les phoques sur la banquise du Groenland",
+      "credit": "Ansgar Walk / CC BY-SA 2.5"
+    }
+  }
+}

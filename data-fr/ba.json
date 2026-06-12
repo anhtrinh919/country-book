@@ -1,0 +1,151 @@
+{
+  "name": "BOSNIE",
+  "nativeName": "BA",
+  "romaji": "BOSNA",
+  "tagline": "Là où l'Est rencontre l'Ouest",
+  "region": "Balkans, Europe du Sud-Est",
+  "coords": "44.0°N, 17.9°E",
+  "fileNo": "048",
+  "langName": "bosnien",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B89A",
+    "ink": "#272018",
+    "faint": "#8B7355",
+    "line": "#DDD0B5",
+    "accent": "#003DA5",
+    "accent2": "#FDCC00"
+  },
+  "flag": {
+    "assetPath": "/flags/ba.svg",
+    "title": "Bosnie & Herzég.",
+    "note": "Fond bleu, triangle jaune, étoiles blanches",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Bosnie, des rivières brillent comme des émeraudes entre d'immenses forêts où vivent des ours et des loups ! La capitale s'appelle Sarajevo, et elle est entourée de montagnes couvertes de neige en hiver.",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Sarajevo",
+      "sub": "environ 275 000 habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "~3,2 millions",
+      "sub": "est. 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Mark (KM)",
+      "sub": "Mark convertible (BAM)"
+    },
+    {
+      "label": "Langue",
+      "value": "Bosnien",
+      "sub": "aussi serbe et croate"
+    },
+    {
+      "label": "Superficie",
+      "value": "51 197 km²",
+      "sub": "un peu plus petit que la Croatie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Maglić 2 386 m",
+      "sub": "sommet rocheux près du Monténégro"
+    }
+  ],
+  "islands": [
+    "Sarajevo",
+    "Mostar",
+    "Banja Luka",
+    "Tuzla",
+    "Neum"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, rivières et forêts magiques",
+    "animals": "Ours, lynx et créatures des grottes",
+    "culture": "Café, brochettes et deux empires",
+    "history": "Le pont qui tient depuis 500 ans",
+    "wows": "7 choses incroyables sur la Bosnie"
+  },
+  "geo": "La Bosnie est presque entièrement couverte de montagnes et de forêts, traversées par des rivières d'un vert brillant comme la Neretva. Tout en bas au sud, le pays touche la mer sur seulement 20 km — c'est le plus petit bord de mer d'Europe !",
+  "animals": "Les forêts de Bosnie sont l'un des derniers endroits en Europe où les ours, les loups et les lynx vivent tous ensemble à l'état sauvage. Dans les grottes sous la terre, il y a des crevettes aveugles et des insectes qu'on ne trouve nulle part ailleurs au monde !",
+  "culture": "En Bosnie, boire du café est comme une petite fête : on le verse dans une minuscule tasse et on le sirote avec un cube de sucre. La nourriture préférée s'appelle ćevapi — de petites boulettes de viande grillée dans un pain tout moelleux !",
+  "history": "Il y a très longtemps, des bâtisseurs très habiles ont construit un magnifique pont en pierre à Mostar, et il a tenu debout pendant plus de 400 ans ! On l'appelle le Stari Most, ce qui veut dire « le Vieux Pont ».",
+  "wows": [
+    "Sarajevo a accueilli les Jeux Olympiques d'hiver en 1984 — avec des skieurs du monde entier !",
+    "Le pont Stari Most à Mostar a été reconstruit pierre par pierre après avoir été détruit — exactement comme avant !",
+    "Toute la plage de Bosnie fait seulement 20 km — c'est le plus petit bord de mer de toute l'Europe.",
+    "La forêt de Perućica est l'une des deux dernières forêts vraiment sauvages et très anciennes de toute l'Europe.",
+    "La grotte Vjetrenica cache plus de 200 espèces d'animaux, dont des crevettes qui n'ont jamais vu la lumière !",
+    "Pendant un moment difficile, les gens de Sarajevo ont creusé un tunnel secret sous un aéroport pour faire passer de la nourriture.",
+    "La Bosnie est l'un des plus grands buveurs de café au monde et a inventé sa propre façon de le préparer !"
+  ],
+  "myths": [
+    {
+      "myth": "La Bosnie est un pays dangereux",
+      "fact": "La Bosnie est aujourd'hui un pays paisible que presque 2 millions de touristes visitent chaque année ! Sarajevo et Mostar sont des villes joyeuses et accueillantes."
+    },
+    {
+      "myth": "Le café bosnien, c'est du café turc",
+      "fact": "Les Bosniens disent non ! Chez eux, le café se pose doucement dans la tasse et se boit lentement avec un morceau de sucre — c'est une habitude bien à eux."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Bonne journée",
+      "jp": "Dobar dan",
+      "say": "DOH-bar dahn"
+    },
+    {
+      "en": "Vieux pont",
+      "jp": "Stari most",
+      "say": "STAH-ree most"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ba-hero.jpg",
+      "alt": "Vue panoramique de Sarajevo nichée dans une vallée entourée de collines vertes",
+      "caption": "SARAJEVO — la capitale s'étend dans une vallée entourée de collines boisées",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ba-landmark.jpg",
+      "alt": "Le célèbre pont en arc de pierre Stari Most au-dessus de la rivière verte Neretva à Mostar",
+      "caption": "STARI MOST — le pont reconstruit du XVIe siècle enjambe la rivière Neretva",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ba-animalA.jpg",
+      "alt": "Un grand ours brun debout dans une forêt naturelle",
+      "caption": "OURS BRUN — environ 1 000 ours vivent dans les forêts de montagne de Bosnie",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ba-animalB.jpg",
+      "alt": "Un lynx eurasien aux oreilles pointues allongé dans une forêt",
+      "caption": "LYNX EURASIEN — le plus grand chat sauvage d'Europe rôde dans les pins de Bosnie",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

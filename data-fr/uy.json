@@ -1,0 +1,151 @@
+{
+  "name": "URUGUAY",
+  "nativeName": "UY",
+  "romaji": "URUGUAY",
+  "tagline": "Petit pays, grand cœur",
+  "region": "Southern Cone, South America",
+  "coords": "33°S 56°W",
+  "fileNo": "042",
+  "langName": "espagnol",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EDD8",
+    "dot": "#C9BC9A",
+    "ink": "#28231C",
+    "faint": "#8A7B58",
+    "line": "#DDD4B8",
+    "accent": "#75AADB",
+    "accent2": "#F4C542"
+  },
+  "flag": {
+    "assetPath": "/flags/uy.svg",
+    "title": "Drapeau du Soleil de Mai",
+    "note": "9 bandes ; Soleil de Mai doré dans le canton",
+    "keyColor": "#75AADB",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Uruguay, il y a quatre vaches pour chaque personne — c'est le plus de vaches au monde ! Ce petit pays est coincé entre le Brésil et l'Argentine, au bord de l'océan Atlantique. Les grandes plaines vertes sont remplies de troupeaux qui broutent toute la journée !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Montevideo",
+      "sub": "Env. 1,4 million d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "3,39 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Peso (UYU)",
+      "sub": "100 centésimos = 1 peso"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "Parlé partout ; portuñol à la frontière"
+    },
+    {
+      "label": "Superficie",
+      "value": "176 215 km²",
+      "sub": "Environ comme l'Angleterre et le Pays de Galles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "513 m",
+      "sub": "Cerro Catedral, département de Maldonado"
+    }
+  ],
+  "islands": [
+    "Montevideo",
+    "Maldonado",
+    "Colonia",
+    "Salto",
+    "Rivera"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Prairies vertes et rivières brillantes",
+    "animals": "Les géants des grandes plaines",
+    "culture": "Maté, tambours et barbecue !",
+    "history": "Une légende de liberté",
+    "wows": "L'Uruguay qui étonne !"
+  },
+  "geo": "L'Uruguay est presque entièrement recouvert d'une immense prairie verte appelée les Pampas, avec des vaches partout à perte de vue. Sa montagne la plus haute, le Cerro Catedral, est si petite qu'elle fait moins haut que beaucoup de grands immeubles !",
+  "animals": "Le capybara est le plus gros rongeur du monde — aussi grand qu'un petit cochon — et il adore nager dans les lagunes d'Uruguay avec sa famille. Le grand nandou se promène dans les prairies comme une autruche géante couverte de plumes douces !",
+  "culture": "Les Uruguayens se promènent partout avec un thermos d'eau chaude pour préparer le maté, une boisson chaude bue dans une petite gourde avec une paille en métal. Le dimanche, toute la famille se réunit autour d'un grand barbecue appelé asado, avec beaucoup de viande grillée sur des braises !",
+  "history": "Bien avant l'arrivée des explorateurs européens, les courageux Charrúas vivaient dans ces grandes plaines depuis des milliers d'années. En 1825, trente-trois héros traversèrent le fleuve en bateau et proclamèrent la liberté de leur peuple !",
+  "wows": [
+    "Il y a environ 3,6 vaches pour chaque habitant — le record du monde !",
+    "Montevideo a organisé la toute première Coupe du Monde de football en 1930, et l'Uruguay l'a gagnée !",
+    "La promenade du bord de mer à Montevideo fait 22 km de long — la plus longue du monde !",
+    "Les rues de Colonia del Sacramento ont 340 ans et sont classées au patrimoine mondial de l'UNESCO.",
+    "L'Uruguay est le seul pays d'Amérique continentale sans montagnes, ni forêt tropicale, ni volcan.",
+    "Les garçons et les filles ont eu le droit d'aller à l'école ensemble dès les années 1870 !",
+    "Les tambours Candombe joués par les Uruguayens sont reconnus comme trésor culturel de l'humanité par l'UNESCO."
+  ],
+  "myths": [
+    {
+      "myth": "L'Uruguay est un pays très pauvre",
+      "fact": "L'Uruguay est l'un des pays les plus riches d'Amérique du Sud, avec plus de la moitié de sa population dans la classe moyenne !"
+    },
+    {
+      "myth": "Le tango vient seulement d'Argentine",
+      "fact": "Le tango est né des deux côtés du fleuve Río de la Plata dans les années 1880 — l'UNESCO reconnaît que l'Uruguay et l'Argentine l'ont inventé ensemble !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "D'accord !",
+      "jp": "Ta",
+      "say": "tah"
+    },
+    {
+      "en": "Boisson maté",
+      "jp": "Mate",
+      "say": "MAH-teh"
+    },
+    {
+      "en": "Barbecue",
+      "jp": "Asado",
+      "say": "ah-SAH-doh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/uy-hero.jpg",
+      "alt": "Vue panoramique de la skyline de Montevideo depuis la baie",
+      "caption": "MONTEVIDEO — la ville vue sur le Río de la Plata, l'estuaire le plus large du monde",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/uy-landmark.jpg",
+      "alt": "Le vieux phare de Colonia del Sacramento au-dessus des ruines coloniales",
+      "caption": "PHARE DE COLONIA — construit en 1857 sur des ruines de couvent du XVIIe siècle, site UNESCO",
+      "credit": "Andrea Arriola / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/uy-animalA.jpg",
+      "alt": "Un grand capybara se reposant près de l'eau",
+      "caption": "CAPYBARA — le plus grand rongeur du monde, très commun dans les zones humides d'Uruguay",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/uy-animalB.jpg",
+      "alt": "Un grand nandou debout dans la prairie ouverte",
+      "caption": "GRAND NANDOU — le plus grand oiseau des Amériques se promène dans les Pampas d'Uruguay",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

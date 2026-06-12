@@ -1,0 +1,151 @@
+{
+  "name": "MONGOLIE",
+  "nativeName": "ᠮᠣᠩᠭᠣᠯ",
+  "romaji": "MONGOL ULS",
+  "tagline": "Le pays du ciel bleu et des grandes prairies",
+  "region": "East Asia",
+  "coords": "47°N · 106°E",
+  "fileNo": "076",
+  "flag": {
+    "assetPath": "/flags/mn.svg",
+    "title": "Drapeau de la Mongolie",
+    "note": "Rouge, bleu, rouge avec le symbole Soyombo",
+    "keyColor": "#C4272F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Mongolie, il y a tellement de chevaux qu'ils sont plus nombreux que les gens ! Les enfants apprennent à monter à cheval avant même de savoir lire. Les familles habitent dans des tentes rondes et douces appelées gers — on peut les démonter et les remonter en seulement une heure !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Oulan-Bator",
+      "sub": "Presque la moitié du pays y habite"
+    },
+    {
+      "label": "Habitants",
+      "value": "3,5 millions",
+      "sub": "Le pays le moins peuplé au monde"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Tögrög ₮",
+      "sub": "Aussi appelé Tugrik"
+    },
+    {
+      "label": "Langue",
+      "value": "mongol",
+      "sub": "Écrit avec l'alphabet cyrillique"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 564 116 km²",
+      "sub": "Le 18e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Khüiten 4 356 m",
+      "sub": "Dans les montagnes de l'Altaï, à l'ouest"
+    }
+  ],
+  "islands": [
+    "Ulaanbaatar",
+    "Darkhan",
+    "Erdenet",
+    "Ölgii",
+    "Dalanzadgad"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un ciel plus grand que la mer",
+    "animals": "Aigles, chevaux et animaux sauvages",
+    "culture": "Gers, jeux et arcs dorés",
+    "history": "Le plus grand empire à cheval",
+    "wows": "Ouah ! Tu savais ça ?"
+  },
+  "geo": "La Mongolie est posée sur un grand plateau très haut — comme vivre sur le toit du monde ! Au sud se trouve le désert de Gobi, plein de rochers orangés et de secrets enfouis sous la terre.",
+  "animals": "Le takhi est le seul vrai cheval sauvage encore vivant sur Terre — il avait disparu, mais des scientifiques l'ont sauvé et relâché dans la steppe. Les chasseurs kazakhs dressent de grands aigles dorés qui voient un renard à un kilomètre de distance !",
+  "culture": "Les Mongols habitent dans des gers, des tentes rondes et chaleureuses que toute la famille peut démonter et remonter en seulement une heure. En juillet, ils fêtent le Naadam avec trois sports : la lutte, le tir à l'arc, et des courses de chevaux où même les enfants de cinq ans participent !",
+  "history": "Il y a très longtemps, un guerrier nommé Gengis Khan a réuni tous les peuples mongols et est parti à cheval conquérir des terres immenses. Il a inventé le premier réseau de messagers au monde — des cavaliers rapides qui portaient les lettres d'un bout à l'autre du pays !",
+  "wows": [
+    "La Mongolie n'a que 2 personnes par kilomètre carré — c'est le pays le moins peuplé de la Terre !",
+    "Il y a plus de chevaux que de gens en Mongolie — plus de 4 millions de chevaux !",
+    "Les premiers œufs de dinosaure jamais découverts ont été trouvés dans le désert de Gobi en 1923.",
+    "Oulan-Bator est la capitale la plus froide du monde — il y fait −40 °C en hiver !",
+    "Les chanteurs mongols font deux notes en même temps avec leur seule voix — c'est magique !",
+    "L'écriture mongole traditionnelle se lit de haut en bas, comme une colonne.",
+    "Le désert de Gobi n'est presque pas sableux — c'est surtout du gravier froid avec de la neige en hiver !"
+  ],
+  "myths": [
+    {
+      "myth": "« Le désert de Gobi est plein de sable »",
+      "fact": "Seulement 5 % du Gobi est sableux. La plupart est fait de cailloux froids, et il peut même y neiger en hiver !"
+    },
+    {
+      "myth": "« En Mongolie, tout le monde habite dans des tentes »",
+      "fact": "La moitié des Mongols vivent dans des appartements en ville, surtout à Oulan-Bator !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Сайн байна",
+      "say": "SAIN bai-na oo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Баярлалаа",
+      "say": "bah-yar-LAH-lah"
+    },
+    {
+      "en": "Cheval",
+      "jp": "Морь",
+      "say": "MOR"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Амттай!",
+      "say": "am-TAI"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Баяртай",
+      "say": "bah-yar-TAI"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mn-hero.jpg",
+      "alt": "Vue panoramique de la ville d'Oulan-Bator depuis la colline de Zaisan",
+      "caption": "OULAN-BATOR s'étend dans la vallée de la rivière Tuul, encadrée par la sacrée montagne Bogd Khan.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mn-landmark.jpg",
+      "alt": "Collines verdoyantes de la steppe du parc national de Khustai, Mongolie",
+      "caption": "LA STEPPE DE KHUSTAI brille d'or au crépuscule, berceau du cheval de Przewalski réintroduit.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mn-animalA.jpg",
+      "alt": "Cheval sauvage de Przewalski debout dans la steppe",
+      "caption": "LE CHEVAL DE PRZEWALSKI, le dernier vrai cheval sauvage du monde, a retrouvé sa steppe.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mn-animalB.jpg",
+      "alt": "Aigle royal en vol, ailes grandes ouvertes",
+      "caption": "L'AIGLE ROYAL, star de l'ancienne tradition de chasse kazakhe à l'ouest de la Mongolie.",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "theme": {
+    "paper": "#F2E8D0",
+    "dot": "#C9B899",
+    "ink": "#2B2218",
+    "faint": "#8A7458",
+    "line": "#DDD0B0",
+    "accent": "#C0272D",
+    "accent2": "#1A4FA0"
+  },
+  "motif": "sun",
+  "langName": "mongol"
+}

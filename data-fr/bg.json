@@ -1,0 +1,163 @@
+{
+  "name": "BULGARIE",
+  "nativeName": "БГ",
+  "romaji": "BALGARIYA",
+  "tagline": "Roses, ruines et parfum de rêve",
+  "region": "Eastern Europe",
+  "coords": "42.7°N, 25.5°E",
+  "fileNo": "BG",
+  "langName": "bulgare",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CCBFA0",
+    "ink": "#27201A",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#24693D",
+    "accent2": "#D01C2A"
+  },
+  "flag": {
+    "assetPath": "/flags/bg.svg",
+    "title": "Drapeau de la Bulgarie",
+    "note": "Rayures blanche, verte et rouge depuis 1878",
+    "keyColor": "#24693D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Bulgarie, des vallées entières deviennent roses en mai quand des millions de rosiers fleurissent pour fabriquer le parfum le plus précieux du monde ! C'est l'un des pays les plus anciens d'Europe — il existe depuis l'an 681 !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Sofia",
+      "sub": "~1,3 million d'habitants à 550 m d'altitude"
+    },
+    {
+      "label": "Habitants",
+      "value": "6,4 millions",
+      "sub": "Recensement officiel 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Lev (BGN)",
+      "sub": "1 lev = 100 stotinki"
+    },
+    {
+      "label": "Langue",
+      "value": "bulgare",
+      "sub": "Écrit en alphabet cyrillique"
+    },
+    {
+      "label": "Superficie",
+      "value": "110 994 km²",
+      "sub": "Un peu plus grand que l'Islande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Musala 2925 m",
+      "sub": "Le plus haut sommet des Balkans"
+    }
+  ],
+  "islands": [
+    "Sofia",
+    "Plovdiv",
+    "Varna",
+    "Burgas",
+    "Ruse"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, fleuves et mer bleue",
+    "animals": "Ours sauvages et abeilles magiques",
+    "culture": "Roses, danses et yaourt délicieux",
+    "history": "Rois, saints et lettres mystérieuses",
+    "wows": "La Bulgarie va t'épater !"
+  },
+  "geo": [
+    "La Bulgarie a des montagnes enneigées au milieu et une belle mer Noire à l'est — comme un sandwich de paysages ! Le Danube, un immense fleuve, borde tout le nord du pays.",
+    "La forêt couvre un tiers de la Bulgarie, et c'est là que vivent des lynx et des ours bruns parmi de vieux chênes géants."
+  ],
+  "animals": [
+    "L'ours brun est le plus grand animal sauvage de Bulgarie — environ 700 ours vivent dans les montagnes et mangent des baies et du miel. Le pélican dalmate, un grand oiseau blanc, fait son nid au lac Srebarna près du Danube.",
+    "Les abeilles bulgares fabriquent un miel de fleurs sauvages parmi les meilleurs d'Europe. L'ancien chien Karakachan garde les troupeaux ici depuis plus de 2 000 ans sans presque changer !"
+  ],
+  "culture": [
+    "Chaque mai, la Vallée des Roses près de Kazanlak se couvre de roses roses récoltées avant le lever du soleil — il faut trois tonnes de pétales pour faire juste un kilo d'huile de rose pour les parfums ! Les Bulgares adorent aussi tellement le yaourt qu'ils ont nommé la bactérie magique qui le fabrique d'après eux.",
+    "La musique folklorique bulgare a des rythmes très bizarres qui font tourner les danseurs en grands cercles joyeux. La danse horo peut réunir des centaines de personnes qui se tiennent par la main en une immense ronde !"
+  ],
+  "history": [
+    "La Bulgarie est née en l'an 681 quand le chef Asparuh a réuni des guerriers pour former un grand royaume. Au 9ème siècle, des disciples de saints ont inventé l'alphabet cyrillique dans des écoles bulgares — aujourd'hui 250 millions de personnes l'utilisent !",
+    "La ville de Plovdiv est habitée depuis plus de 6 000 ans, ce qui en fait l'une des plus vieilles villes d'Europe. Sous les champs de blé bulgares, des tombeaux anciens cachent de magnifiques peintures colorées vieilles de 2 300 ans !"
+  ],
+  "wows": [
+    "La Bulgarie a donné l'alphabet cyrillique au monde — plus de 250 millions de personnes l'utilisent !",
+    "La Vallée des Roses produit 70 % de l'huile de rose mondiale pour les parfums de luxe.",
+    "En Bulgarie, hocher la tête signifie NON — c'est le contraire de presque partout ailleurs !",
+    "Plovdiv est habitée depuis 6 000 ans — c'est l'une des plus vieilles villes d'Europe.",
+    "Le pic Musala est la montagne la plus haute entre les Alpes et le Caucase.",
+    "Sous les champs bulgares se cachent des tombeaux peints vieux de 2 300 ans, classés par l'UNESCO.",
+    "La bactérie magique du yaourt s'appelle Lactobacillus bulgaricus — nommée d'après la Bulgarie !"
+  ],
+  "myths": [
+    {
+      "myth": "Les Bulgares hochent la tête pour dire oui",
+      "fact": "C'est le contraire ! Hocher la tête signifie NON et secouer la tête signifie OUI — cela surprend tous les visiteurs !"
+    },
+    {
+      "myth": "Saint Cyrille a inventé l'alphabet cyrillique",
+      "fact": "Cyrille et Méthode ont créé un autre alphabet. Le cyrillique a été inventé par leurs élèves dans des écoles bulgares au 9ème siècle."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Здравей",
+      "say": "ZDRA-vey"
+    },
+    {
+      "en": "Merci",
+      "jp": "Благодаря",
+      "say": "bla-go-da-RYA"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Моля",
+      "say": "MOL-ya"
+    },
+    {
+      "en": "Oui",
+      "jp": "Да",
+      "say": "da"
+    },
+    {
+      "en": "Rose",
+      "jp": "Роза",
+      "say": "RO-za"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bg-hero.jpg",
+      "alt": "Les dômes dorés de la cathédrale Alexandre Nevski à Sofia",
+      "caption": "CATHÉDRALE ALEXANDRE NEVSKI — Le monument aux dômes dorés de Sofia, l'une des plus grandes d'Europe.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bg-landmark.jpg",
+      "alt": "Le monastère de Rila dans un cadre de montagne",
+      "caption": "MONASTÈRE DE RILA — Forteresse de foi classée UNESCO au cœur des montagnes bulgares.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bg-animalA.jpg",
+      "alt": "Un ours brun qui court dans la forêt",
+      "caption": "OURS BRUN — Environ 700 ours vivent dans les forêts des Rhodopes et des Balkans.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bg-animalB.jpg",
+      "alt": "Un pélican dalmate sur l'eau",
+      "caption": "PÉLICAN DALMATE — Fait son nid au lac Srebarna, zone humide UNESCO sur le Danube.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

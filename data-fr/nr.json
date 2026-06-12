@@ -1,0 +1,151 @@
+{
+  "name": "NAURU",
+  "nativeName": "NR",
+  "romaji": "NAOERO",
+  "tagline": "Toute petite île, grande histoire",
+  "region": "Micronesia, Pacific Ocean",
+  "coords": "0.52°S, 166.93°E",
+  "fileNo": "078",
+  "langName": "nauruan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EFF5F0",
+    "dot": "#c2d4c8",
+    "ink": "#1a2820",
+    "faint": "#6a8a72",
+    "line": "#d4e3d8",
+    "accent": "#002B7F",
+    "accent2": "#FFC61E"
+  },
+  "flag": {
+    "assetPath": "/flags/nr.svg",
+    "title": "Drapeau de Nauru",
+    "note": "Mer bleue, ligne dorée de l'équateur, étoile à 12 branches",
+    "keyColor": "#002B7F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nauru est la plus petite république du monde — un tout petit point de corail dans l'océan Pacifique ! Sous sa terre se cachaient des millions d'années de crottes d'oiseaux de mer transformées en trésor. C'est l'une des îles les plus étonnantes de la planète !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Yaren",
+      "sub": "Siège du gouvernement"
+    },
+    {
+      "label": "Habitants",
+      "value": "11 680",
+      "sub": "Recensement national 2021"
+    },
+    {
+      "label": "Monnaie",
+      "value": "AUD $",
+      "sub": "Dollar australien"
+    },
+    {
+      "label": "Langue",
+      "value": "Nauruan",
+      "sub": "Aussi l'anglais (officiel)"
+    },
+    {
+      "label": "Superficie",
+      "value": "21 km²",
+      "sub": "3e plus petit pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Command Ridge",
+      "sub": "71 m au-dessus de la mer"
+    }
+  ],
+  "islands": [
+    "Yaren",
+    "Anibare",
+    "Buada",
+    "Aiwo",
+    "Boe"
+  ],
+  "islandsLabel": "QUARTIERS PRINCIPAUX :",
+  "sections": {
+    "geography": "Un petit point de corail dans l'océan",
+    "animals": "Ailes, récifs et oiseaux rares",
+    "culture": "Fêtes, clans et vie sur l'île",
+    "history": "Une île aux trésors cachés",
+    "wows": "Trop surprenant pour être vrai !"
+  },
+  "geo": "Nauru est une petite île ovale entourée d'un lagon de corail coloré et d'une bande côtière où vivent presque tous ses habitants. Au centre, un plateau rocheux s'élève à 30 mètres — il abritait autrefois un trésor enfoui dans la terre ! La seule étendue d'eau douce est le lagon de Buada, un joli étang entouré de palmiers.",
+  "animals": "L'oiseau le plus célèbre de Nauru est la fauvette des roseaux — un petit oiseau brun que l'on ne trouve nulle part ailleurs sur Terre ! Les frégates géantes planent au-dessus des vagues et attrapent des poissons en plein vol, comme de vrais acrobates du ciel.",
+  "culture": "Les habitants de Nauru appartiennent à 12 clans anciens, et chacun possède ses propres histoires et traditions. Les grandes fêtes rassemblent tout le monde autour de poisson frais, de noix de coco et de fruits de pandanus. La lévation de poids est même un sport national — des athlètes de Nauru ont gagné des médailles olympiques !",
+  "history": "Il y a très longtemps, des navigateurs venus d'îles lointaines ont découvert Nauru et l'ont appelée « l'île Agréable ». Des siècles plus tard, on a découvert que son sol était rempli d'un trésor naturel : du phosphate formé par des millions d'oiseaux pendant des millénaires !",
+  "wows": [
+    "Nauru est la plus petite république du monde — seuls le Vatican et Monaco sont encore plus petits !",
+    "Tu peux faire le tour de toute l'île en voiture en seulement 20 minutes sur une seule route !",
+    "Le trésor de Nauru était fait de crottes d'oiseaux vieilles de millions d'années — incroyable !",
+    "Dans les années 1970, Nauru était l'un des pays les plus riches du monde par habitant.",
+    "Nauru n'a pas de vraie capitale officielle — le gouvernement se trouve dans le quartier de Yaren.",
+    "Seulement 200 touristes visitent Nauru chaque année — c'est l'un des pays les moins visités du monde !",
+    "Chacune des 12 branches de l'étoile sur le drapeau représente l'un des 12 clans de Nauru."
+  ],
+  "myths": [
+    {
+      "myth": "Nauru est encore une île riche et prospère",
+      "fact": "Nauru était très riche dans les années 1970 grâce au phosphate. Quand les mines se sont épuisées, l'argent est parti aussi. Aujourd'hui, l'île reconstruit doucement son économie."
+    },
+    {
+      "myth": "L'intérieur de l'île est une belle jungle tropicale",
+      "fact": "Les mines ont mis à nu 80 % de l'île, laissant des rochers de calcaire tout pointus. Le principal oiseau terrestre est la petite fauvette des roseaux de Nauru."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Óyó",
+      "say": "OH-yo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tubwa",
+      "say": "TOOB-wah"
+    },
+    {
+      "en": "Oui",
+      "jp": "Io",
+      "say": "EE-oh"
+    },
+    {
+      "en": "Non",
+      "jp": "Pue",
+      "say": "POO-eh"
+    },
+    {
+      "en": "Poisson",
+      "jp": "Ikir",
+      "say": "EE-keer"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nr-hero.jpg",
+      "alt": "Coucher de soleil sur la côte de Nauru avec l'océan Pacifique calme",
+      "caption": "CÔTE DE NAURU — le Pacifique brille d'or au coucher du soleil sur la plus petite république du monde.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/nr-landmark.jpg",
+      "alt": "Pics de calcaire corallien déchiquetés sur le plateau de Nauru après l'exploitation du phosphate",
+      "caption": "ROCHERS DE NAURU — ces pics de calcaire tout pointus marquent l'endroit où le phosphate a été extrait pendant des décennies.",
+      "credit": "Stefan Lins / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/nr-animalA.jpg",
+      "alt": "Grande frégate en vol au-dessus de l'océan tropical",
+      "caption": "GRANDE FRÉGATE — un habile pirate des airs qui plane au-dessus des eaux pacifiques de Nauru.",
+      "credit": "Charles J Sharp / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/nr-animalB.jpg",
+      "alt": "Frégate avec sa queue fourchue caractéristique perchée sur une île tropicale",
+      "caption": "FRÉGATE — avec une envergure de 2,3 m, ces oiseaux glissent sans effort sur l'air chaud du Pacifique.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

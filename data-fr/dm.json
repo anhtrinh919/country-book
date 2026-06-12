@@ -1,0 +1,151 @@
+{
+  "name": "DOMINIQUE",
+  "nativeName": "DM",
+  "romaji": "DOMINICA",
+  "tagline": "L'Île de la Nature",
+  "region": "Caribbean",
+  "coords": "15.42°N, 61.37°W",
+  "fileNo": "027",
+  "langName": "créole kwéyòl",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c7bfa8",
+    "ink": "#262018",
+    "faint": "#7a7055",
+    "line": "#dbd3bd",
+    "accent": "#2A6B3A",
+    "accent2": "#C0202E"
+  },
+  "flag": {
+    "assetPath": "/flags/dm.svg",
+    "title": "Drapeau au Sisserou",
+    "note": "L'un des 2 seuls drapeaux au monde avec la couleur violette",
+    "keyColor": "#2A6B3A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Dominique a un lac qui bout vraiment, comme une grande casserole de sorcière ! Cette toute petite île volcanique cache 365 rivières et neuf volcans dans un immense manteau de forêt verte. Des baleines géantes vivent dans la mer juste à côté !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Roseau",
+      "sub": "Env. 16 500 hab. ; port sur la côte ouest"
+    },
+    {
+      "label": "Habitants",
+      "value": "72 000",
+      "sub": "Est. 2024 ; racines créoles et kalinago"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar des Caraïbes orientales",
+      "sub": "Eastern Caribbean Dollar (XCD)"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Le créole kwéyòl est aussi très parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "750 km²",
+      "sub": "À peu près la taille de Singapour"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 447 m",
+      "sub": "Le Morne Diablotins, à 1 447 m"
+    }
+  ],
+  "islands": [
+    "Roseau",
+    "Portsmouth",
+    "Marigot",
+    "Castle Bruce",
+    "Soufrière"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Volcans, rivières et cascades magiques",
+    "animals": "Perroquets violets et baleines géantes",
+    "culture": "Paniers, pirogues et danses créoles",
+    "history": "L'île sauvage que personne ne pouvait conquérir",
+    "wows": "Les secrets fous de cette île incroyable"
+  },
+  "geo": "La Dominique est couverte d'une forêt si dense que les explorateurs avaient du mal à débarquer ! Neuf volcans façonnent l'île, et les cascades jumelles de Trafalgar dégringolent dans un bassin de jungle à seulement 20 minutes de la capitale. Le Lac Bouillant est un vrai lac qui bouillonne et fume comme une grande soupe grise et bleue.",
+  "animals": "Le perroquet Sisserou, avec sa poitrine violette, n'existe nulle part ailleurs sur Terre — il est sur le drapeau de la Dominique ! Des baleines à dents géantes vivent toute l'année dans la mer autour de l'île, et les chercheurs nagent avec elles.",
+  "culture": "Les Kalinago, le seul peuple amérindien encore présent dans les Caraïbes orientales, vivent ici depuis des milliers d'années et fabriquent de magnifiques paniers tressés et des pirogues en bois sculpté. Chaque octobre, le Jour Créole remplit les rues de tissu madras coloré, de musique calypso et de bons plats comme la soupe callaloo et la banane plantain.",
+  "history": "Christophe Colomb a aperçu cette île un dimanche de 1493, et « Domingo » (dimanche en espagnol) lui a donné son nom. Les Kalinago ont défendu leur île si courageusement que la Dominique a été l'une des dernières îles des Caraïbes à être colonisée.",
+  "wows": [
+    "La Dominique est le seul pays au monde où des cachalots vivent dans la mer toute l'année — on peut nager près d'eux !",
+    "L'île possède plus de 365 rivières dans seulement 750 km² — c'est l'une des plus hautes densités de rivières sur Terre !",
+    "Le drapeau de la Dominique est violet — l'un des deux seuls drapeaux au monde avec cette couleur !",
+    "Il y a un vrai lac qui bout et bouillonne au milieu de la jungle — c'est le deuxième plus grand de son genre sur Terre !",
+    "Neuf volcans encore actifs sont entassés sur cette toute petite île !",
+    "Le sentier Waitukubuli fait 183 km de jungle sauvage — c'est le premier long chemin de randonnée des Caraïbes !",
+    "Les Kalinago ont résisté si fort aux envahisseurs que la Dominique a été colonisée en dernier dans toutes les Caraïbes !"
+  ],
+  "myths": [
+    {
+      "myth": "La Dominique, c'est pareil que la République Dominicaine",
+      "fact": "Non ! Ce sont deux pays différents à 1 000 km de distance. La Dominique est une toute petite île anglophone ; la République Dominicaine est un grand pays hispanophone sur une autre île."
+    },
+    {
+      "myth": "Les Kalinago ont chassé les Arawaks très méchamment",
+      "fact": "Les histoires kalinago et les découvertes montrent que les deux peuples vivaient souvent ensemble et se mariaient — l'histoire de la chasse féroce était une exagération inventée par les colonisateurs."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bon Jou",
+      "say": "bohn zhoo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Més",
+      "say": "meh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Ovwa",
+      "say": "oh-vwah"
+    },
+    {
+      "en": "Comment ça va ?",
+      "jp": "Sa ka fete?",
+      "say": "sah kah fet"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Bel!",
+      "say": "bell"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dm-hero.jpg",
+      "alt": "Vue aérienne de Roseau, la Dominique",
+      "caption": "ROSEAU — la petite capitale verdoyante au bord de la mer des Caraïbes",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dm-landmark.jpg",
+      "alt": "Les chutes jumelles de Trafalgar à la Dominique",
+      "caption": "CHUTES DE TRAFALGAR — deux cascades qui tonnent dans un bassin de jungle près de Roseau",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/dm-animalA.jpg",
+      "alt": "Le perroquet impérial Sisserou de la Dominique",
+      "caption": "PERROQUET SISSEROU — l'oiseau national à poitrine violette, unique au monde",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dm-animalB.jpg",
+      "alt": "Le perroquet Jaco à cou rouge de la Dominique",
+      "caption": "PERROQUET JACO — le deuxième perroquet Amazon endémique de la Dominique",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

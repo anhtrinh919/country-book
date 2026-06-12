@@ -1,0 +1,163 @@
+{
+  "name": "KOWEÏT",
+  "nativeName": "الكويت",
+  "romaji": "AL-KUWAIT",
+  "tagline": "Or du désert, bleu du Golfe",
+  "region": "Middle East",
+  "coords": "29.3°N, 47.7°E",
+  "fileNo": "042",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7455",
+    "line": "#DDD0AE",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/kw.svg",
+    "title": "État du Koweït",
+    "note": "Rayures verte, blanche et rouge ; trapèze noir",
+    "keyColor": "#007A3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Sous le sable du Koweït se cache un trésor noir : le pétrole ! Ce minuscule pays est l'un des plus riches du monde grâce à ce liquide magique. Des flamants roses roses viennent se baigner dans la baie chaque hiver !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Koweït City",
+      "sub": "env. 3,4 millions d'hab. (agglomération)"
+    },
+    {
+      "label": "Habitants",
+      "value": "4,9 millions",
+      "sub": "est. 2024, ~31 % Koweïtiens"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dinar koweïtien (KWD)",
+      "sub": "La monnaie la plus chère du monde"
+    },
+    {
+      "label": "Langue",
+      "value": "arabe",
+      "sub": "Dialecte du Golfe à la maison"
+    },
+    {
+      "label": "Superficie",
+      "value": "17 818 km²",
+      "sub": "Plus petit que la Galles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "306 m",
+      "sub": "Colline sans nom, désert ouest"
+    }
+  ],
+  "islands": [
+    "Kuwait City",
+    "Hawalli",
+    "Al Ahmadi",
+    "Jahra",
+    "Salmiya"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Sable chaud et mer bleue !",
+    "animals": "Bêtes du désert et oiseaux de la baie",
+    "culture": "Café, perles et générosité",
+    "history": "Du fond de la mer au fond de la terre",
+    "wows": "Le Koweït m'étonne !"
+  },
+  "geo": [
+    "Le Koweït est presque entièrement plat — son point le plus haut n'est qu'une petite colline de 306 mètres ! En été, le sable devient si brûlant qu'on pourrait y cuire des œufs.",
+    "Il n'y a aucune rivière ni lac au Koweït. Toute l'eau à boire vient de grandes machines qui transforment l'eau de mer en eau douce — une invention dont le Koweït a été pionnier !"
+  ],
+  "animals": [
+    "L'animal national du Koweït est le dromadaire — ce chameau à une seule bosse peut rester une semaine sans boire et marcher dans des tempêtes de sable sans se plaindre ! Aujourd'hui, les courses de chameaux utilisent de minuscules robots jockeys télécommandés.",
+    "Chaque hiver, des milliers de flamants roses débarquent dans la baie de Sulaibikhat et colorent le rivage en rose bonbon. Des dugongs — les vaches de la mer — broutent discrètement les herbes marines au large."
+  ],
+  "culture": [
+    "Les Koweïtiens adorent recevoir des invités. Chaque maison a une pièce spéciale appelée diwaniya, où voisins et amis se retrouvent pour boire du café à la cardamome et partager des dattes jusqu'au bout de la nuit.",
+    "Le plat national s'appelle machboos : du riz parfumé avec de l'agneau ou du poisson, et une touche de citron noir séché. Avant le pétrole, les plongeurs koweïtiens descendaient à 12 mètres sous l'eau pour ramasser des perles !"
+  ],
+  "history": [
+    "Il y a très longtemps, vers 1670, des familles ont bâti un petit fort au bord de la baie. En arabe, « Koweït » veut dire « petit fort près de l'eau » — c'est tout le secret du nom !",
+    "En 1938, on a découvert du pétrole dans le sol, et le pays est devenu très riche très vite. Les tours de Koweït City ont poussé dans le ciel comme par magie, et le Koweït a tout reconstruit avec une vitesse incroyable."
+  ],
+  "wows": [
+    "Un dinar koweïtien vaut plus de 3 dollars américains — c'est la pièce la plus précieuse du monde !",
+    "Il n'y a absolument aucune eau douce naturelle au Koweït — chaque goutte vient de la mer.",
+    "En été, il peut faire plus de 50 °C — c'est l'un des endroits les plus chauds de la planète !",
+    "Des robots minuscules font la course sur le dos des chameaux depuis 2005.",
+    "Les tours de Koweït renferment des millions de litres d'eau dans leurs grosses boules bleues.",
+    "Des milliers de flamants roses transforment la baie en tableau rose chaque hiver.",
+    "Le Al-Hashemi-II est le plus grand bateau en bois du monde selon le Livre Guinness — et il est ancré à Koweït City !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Koweït n'est qu'un désert vide",
+      "fact": "Chaque hiver, des milliers de flamants roses envahissent la baie, et des dugongs et tortues de mer vivent dans les herbes marines — le pays est plein de surprises !"
+    },
+    {
+      "myth": "Tous les Koweïtiens sont milliardaires",
+      "fact": "En fait, presque 7 personnes sur 10 au Koweït viennent d'autres pays pour travailler — ils n'ont pas le pétrole et gagnent un salaire ordinaire."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "تفضل",
+      "say": "tf-AD-dal"
+    },
+    {
+      "en": "Mon ami",
+      "jp": "حبيبي",
+      "say": "ha-BEE-bee"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "شلونك؟",
+      "say": "sh-LOH-nik?"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kw-hero.jpg",
+      "alt": "Les tours de Koweït et la tour Al-Hamra contre un ciel bleu",
+      "caption": "KOWEÏT CITY — les célèbres Tours s'élèvent aux côtés des gratte-ciel modernes sur la rive du Golfe",
+      "credit": "Wikimedia Commons / CC BY 4.0"
+    },
+    "landmark": {
+      "src": "/photos/kw-landmark.jpg",
+      "alt": "Les trois tours de Koweït surplombant le golfe Persique",
+      "caption": "TOURS DE KOWEÏT — châteaux d'eau aux globes bleus, inaugurés en 1979, symbole du pays",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/kw-animalA.jpg",
+      "alt": "Un dromadaire debout dans un paysage désertique",
+      "caption": "DROMADAIRE — l'animal national du Koweït, fait pour la chaleur brûlante du désert",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kw-animalB.jpg",
+      "alt": "Des flamants roses marchant dans une eau peu profonde",
+      "caption": "FLAMANT ROSE — des milliers pataugent dans la baie de Koweït chaque hiver",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

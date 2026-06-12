@@ -1,0 +1,151 @@
+{
+  "name": "GHANA",
+  "nativeName": "GH",
+  "romaji": "GHANA",
+  "tagline": "Or, cacao et grands sourires",
+  "region": "West Africa",
+  "coords": "8°N 2°W",
+  "fileNo": "042",
+  "langName": "twi",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#C8B48A",
+    "ink": "#1E1A10",
+    "faint": "#8A7545",
+    "line": "#DDD0AA",
+    "accent": "#CC0000",
+    "accent2": "#006B3F"
+  },
+  "flag": {
+    "assetPath": "/flags/gh.svg",
+    "title": "Drapeau du Ghana",
+    "note": "Rouge, or et vert avec une étoile noire",
+    "keyColor": "#CC0000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Ghana, presque tout le chocolat du monde commence sa vie — des milliers de fèves de cacao poussent sur des arbres magiques ! Ce pays a été le tout premier d'Afrique à devenir libre, et les gens y dansent et chantent partout !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Accra",
+      "sub": "Env. 3,6 millions d'habitants, au bord de l'Atlantique"
+    },
+    {
+      "label": "Habitants",
+      "value": "34 millions",
+      "sub": "Plus de 80 groupes différents"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Cedi (GHS)",
+      "sub": "Son nom vient d'un coquillage"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Plus le twi, l'éwé, le ga et 70 autres"
+    },
+    {
+      "label": "Superficie",
+      "value": "238 533 km²",
+      "sub": "Un peu plus petit que la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Afadjato",
+      "sub": "885 m — Région Volta"
+    }
+  ],
+  "islands": [
+    "ACCRA",
+    "KUMASI",
+    "VOLTA",
+    "ASHANTI",
+    "NORTHERN"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Des plages dorées et un lac géant !",
+    "animals": "Les animaux de la forêt et du rivage",
+    "culture": "Tissus colorés, tambours et chocolat",
+    "history": "La naissance d'un pays libre !",
+    "wows": "Le Ghana va t'étonner !"
+  },
+  "geo": "Le sud du Ghana est bordé de belles plages de sable au bord de l'océan Atlantique. Au milieu du pays se trouve le lac Volta — c'est le plus grand lac artificiel du monde, grand comme une mer !",
+  "animals": "Au Ghana, les éléphants se baladent dans le parc national de Mole et viennent boire de l'eau tout près des visiteurs. La nuit, de grandes tortues marines remontent sur les plages pour pondre leurs œufs dans le sable — les gens du village les gardent avec des lampes !",
+  "culture": "Les Ghanéens portent le kente, un tissu aux rayures dorées, rouges et vertes, pour les fêtes et les mariages. Quand quelqu'un part pour toujours, sa famille commande un cercueil en forme de poisson, d'avion ou même de cabossede cacao — quelle idée !",
+  "history": "Il y a très longtemps, les rois Ashanti possédaient des trésors d'or et gouvernaient tout autour. Le 6 mars 1957, le Ghana est devenu le tout premier pays noir d'Afrique à être libre — tout le continent a crié de joie !",
+  "wows": [
+    "Le lac Volta est si grand qu'il couvre presque tout un pays — c'est le plus grand lac artificiel de la planète !",
+    "1 barre de chocolat sur 5 dans le monde vient du cacao planté au Ghana !",
+    "Les Ghanéens inventent des cercueils rigolos en forme de voiture, de homard ou de baskets.",
+    "Le Tabouret d'Or des Ashanti est sacré — personne ne peut s'asseoir dessus, même pas le roi !",
+    "Le fleuve Volta fabrique l'électricité pour allumer les lumières de tout le pays.",
+    "Accra s'appelle parfois « Silicon Accra » parce que plein de jeunes y créent des applis et des jeux.",
+    "Le Ghana a plus de 80 groupes différents de personnes, chacun avec sa propre langue et ses danses !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Ghana est un pays pauvre sans routes ni villes",
+      "fact": "Le Ghana a de grandes autoroutes, des centres commerciaux et même une scène informatique moderne qu'on appelle « Silicon Accra » !"
+    },
+    {
+      "myth": "Toute l'Afrique, c'est la même chose",
+      "fact": "Rien qu'au Ghana, il y a plus de 80 groupes différents — les Ashanti, les Éwé, les Ga — chacun avec sa langue et ses traditions !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Akwaaba",
+      "say": "ah-KWAH-bah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Medaase",
+      "say": "meh-DAH-seh"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Wo ho te?",
+      "say": "woh-HO-teh"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Ɛyɛ dɛ",
+      "say": "eh-YEH-deh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Nante yie",
+      "say": "NAN-teh-yee-EH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gh-hero.jpg",
+      "alt": "Vue aérienne d'Accra, la capitale du Ghana",
+      "caption": "ACCRA — la capitale animée du Ghana s'étend de la côte Atlantique vers l'intérieur",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gh-landmark.jpg",
+      "alt": "Le château de Cape Coast sur la côte ghanéenne",
+      "caption": "CHÂTEAU DE CAPE COAST — fort du XVIIe siècle au bord de l'océan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gh-animalA.jpg",
+      "alt": "Éléphant d'Afrique marchant dans la savane",
+      "caption": "ÉLÉPHANT D'AFRIQUE — aperçu au parc national de Mole, au nord du Ghana",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gh-animalB.jpg",
+      "alt": "Tortue olivâtre sur une plage",
+      "caption": "TORTUE OLIVÂTRE — pond ses œufs sur les plages Atlantiques du Ghana sous la lune",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

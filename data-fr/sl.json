@@ -1,0 +1,151 @@
+{
+  "name": "SIERRA LEONE",
+  "nativeName": "SL",
+  "romaji": "SALONE",
+  "tagline": "Le pays des lions et des diamants",
+  "region": "West Africa",
+  "coords": "8.5°N, 11.8°W",
+  "fileNo": "088",
+  "langName": "krio",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA8",
+    "ink": "#252018",
+    "faint": "#887A5C",
+    "line": "#DDD4BC",
+    "accent": "#1A7A3C",
+    "accent2": "#1A4FA0"
+  },
+  "flag": {
+    "assetPath": "/flags/sl.svg",
+    "title": "Vert, blanc, bleu",
+    "note": "Adopté en 1961 à l'indépendance",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Sierra Leone, il y a des diamants cachés sous la terre rouge — des pierres brillantes comme des étoiles ! La capitale s'appelle Freetown, ce qui veut dire « ville libre ». Des chimpanzés se balancent dans les arbres juste au-dessus des plages dorées !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Freetown",
+      "sub": "Le port le plus profond d'Afrique"
+    },
+    {
+      "label": "Habitants",
+      "value": "8,46 millions",
+      "sub": "Recensement 2023 ; âge médian seulement 19 ans"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Leone (SLE)",
+      "sub": "Émis par la Banque de Sierra Leone"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais / Krio",
+      "sub": "Le krio est parlé par 96 % des habitants"
+    },
+    {
+      "label": "Superficie",
+      "value": "73 252 km²",
+      "sub": "À peu près la taille de l'Écosse"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 948 m",
+      "sub": "Mt. Bintumani — le Roi des montagnes"
+    }
+  ],
+  "islands": [
+    "Freetown",
+    "Bo",
+    "Kenema",
+    "Makeni",
+    "Koidu"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Plages, jungle et grand port",
+    "animals": "Chimpanzés, hippos et bêtes sauvages",
+    "culture": "Rythmes krio et bols de riz",
+    "history": "La montagne qui rugit comme un lion",
+    "wows": "Difficile à croire, mais c'est vrai !"
+  },
+  "geo": "La Sierra Leone a tout en un petit espace : des forêts tropicales épaisses, des collines et une grande montagne appelée Bintumani. Au bord de la mer, il y a de magnifiques plages de sable blanc que beaucoup trouvent les plus belles de toute l'Afrique de l'Ouest !",
+  "animals": "La Sierra Leone abrite plus de 5 500 chimpanzés sauvages — c'est l'une des plus grandes familles de chimpanzés au monde ! Il y a aussi le petit hippopotame pygmée qui se cache dans les rivières ; il est deux fois moins grand que son grand cousin !",
+  "culture": "En Sierra Leone, on mange du riz à chaque repas — avec une soupe aux arachides ou une sauce aux feuilles de manioc. Chaque mois d'août, la ville de Freetown se remplit de couleurs, de tambours et de danses pour le grand carnaval !",
+  "history": "En 1462, un explorateur portugais a entendu le tonnerre gronder dans les collines comme un lion qui rugit, et il a appelé ce pays « Serra Lyoa », la montagne du lion. C'est comme ça que la Sierra Leone a eu son beau nom !",
+  "wows": [
+    "Un diamant de 969 carats — l'Étoile de Sierra Leone — est le plus gros diamant de rivière jamais trouvé !",
+    "Le port de Freetown est si profond que les plus grands bateaux du monde y flottent sans toucher le fond.",
+    "Un immense fromager vieux de 300 ans se dresse encore au centre de Freetown.",
+    "La langue krio ressemble tellement à l'anglais que les anglophones la comprennent à moitié sans l'apprendre !",
+    "Le sanctuaire de Tacugama a soigné plus de 100 chimpanzés orphelins et les a relâchés dans la forêt.",
+    "Les plages de Tokeh et de River No. 2 sont parmi les plus belles d'Afrique — et presque personne ne les connaît encore !",
+    "La moitié des habitants de Sierra Leone a moins de 19 ans — c'est l'un des pays les plus jeunes du monde !"
+  ],
+  "myths": [
+    {
+      "myth": "« Il y a des vrais lions en Sierra Leone »",
+      "fact": "Le nom vient du tonnerre qui grondait comme un lion dans les collines — il n'y a pas de lions sauvages dans ce pays !"
+    },
+    {
+      "myth": "« Sierra Leone, c'est une île »",
+      "fact": "Non, c'est un pays sur le continent africain, avec une longue côte au bord de l'océan Atlantique !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Kushɛ",
+      "say": "koo-SHEH"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tɛnki",
+      "say": "TEN-kee"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Aw di bodi?",
+      "say": "aw di BOH-di"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "A de go",
+      "say": "ah day GOH"
+    },
+    {
+      "en": "Pas de problème !",
+      "jp": "Nɔ bad",
+      "say": "nor BAD"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sl-hero.jpg",
+      "alt": "Vue aérienne du port et de la presqu'île de Freetown",
+      "caption": "FREETOWN — vue aérienne sur l'un des plus grands ports naturels d'Afrique",
+      "credit": "David Hond / Wikimedia Commons CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/sl-landmark.jpg",
+      "alt": "La plage de Lumley à Freetown, Sierra Leone",
+      "caption": "PLAGE DE LUMLEY — sable doré atlantique à quelques minutes du centre-ville",
+      "credit": "Hussein Kefel / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sl-animalA.jpg",
+      "alt": "Portrait d'un chimpanzé de l'Ouest en Afrique de l'Ouest",
+      "caption": "CHIMPANZÉ DE L'OUEST — la Sierra Leone abrite la 2e plus grande population sauvage au monde",
+      "credit": "Ben Costamagna / iNaturalist CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/sl-animalB.jpg",
+      "alt": "Hippopotame pygmée au zoo de Bristol",
+      "caption": "HIPPOPOTAME PYGMÉE — le timide mini-hippo se cache dans les rivières de Sierra Leone",
+      "credit": "Adrian Pingstone / Wikimedia Commons PD"
+    }
+  }
+}

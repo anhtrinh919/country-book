@@ -1,0 +1,151 @@
+{
+  "name": "NORVÈGE",
+  "nativeName": "NO",
+  "romaji": "NORGE",
+  "tagline": "Fjords, soleil de minuit et Vikings",
+  "region": "Northern Europe",
+  "coords": "60.5°N, 8.5°E",
+  "fileNo": "047",
+  "langName": "norvégien",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E8",
+    "dot": "#c8cbb8",
+    "ink": "#1e2118",
+    "faint": "#7a8070",
+    "line": "#d8dbc8",
+    "accent": "#EF2B2D",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/no.svg",
+    "title": "Le drapeau norvégien",
+    "note": "Rouge avec une croix bleue bordée de blanc",
+    "keyColor": "#EF2B2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Norvège, les montagnes plongent directement dans la mer pour former de grands couloirs d'eau appelés fjords — c'est comme vivre dans un château de géants ! En été, le soleil ne se couche jamais pendant des semaines entières. Les Vikings, les célèbres guerriers des mers, sont partis de ici il y a mille ans !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Oslo",
+      "sub": "Au bord du fjord d'Oslo"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,62 millions",
+      "sub": "Estimation 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Krone (NOK)",
+      "sub": "« Krone » veut dire couronne"
+    },
+    {
+      "label": "Langue",
+      "value": "norvégien",
+      "sub": "Deux formes écrites : Bokmål et Nynorsk"
+    },
+    {
+      "label": "Superficie",
+      "value": "304 282 km²",
+      "sub": "À peu près comme le Nouveau-Mexique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 469 m",
+      "sub": "Galdhøpiggen, Jotunheimen"
+    }
+  ],
+  "islands": [
+    "Oslo",
+    "Bergen",
+    "Tromsø",
+    "Stavanger",
+    "Trondheim"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Fjords, sommets et soleil de minuit",
+    "animals": "Les rois de la forêt",
+    "culture": "Défilés, trolls et glaces",
+    "history": "Des Vikings aux trésors pétroliers",
+    "wows": "7 choses qui font dire « Ouah ! »"
+  },
+  "geo": "La Norvège est très longue et très étroite — comme un serpent géant accroché au bord de l'Europe ! Des glaciers ont creusé des milliers de fjords dans la côte, créant des couloirs d'eau entre des falaises hautes comme des immeubles.",
+  "animals": "L'élan est le plus grand animal des forêts norvégiennes — il pèse autant qu'une petite voiture ! Le renard arctique vit dans la neige tout au nord et son manteau tout blanc le garde au chaud même par grand froid.",
+  "culture": "Chaque 17 mai, toute la Norvège fait un immense défilé d'enfants avec des fanfares, des drapeaux, des hot-dogs et des glaces ! Beaucoup de Norvégiens portent un beau costume brodé à la main qui montre la vallée d'où vient leur famille.",
+  "history": "Il y a plus de mille ans, les Vikings sont partis de Norvège sur de grands bateaux en forme de dragons pour explorer des terres inconnues, bien avant tout le monde ! Ces courageux marins ont même atteint l'Amérique sans boussole ni carte.",
+  "wows": [
+    "La Norvège a plus de 50 000 îles — personne n'a réussi à les compter toutes !",
+    "En été, le soleil brille 76 jours sans jamais se coucher dans le nord du pays.",
+    "Le plus long tunnel de voiture du monde est en Norvège : il fait 24,5 km sous la montagne !",
+    "À Svalbard, il est interdit de mourir — le sol gelé ne permet pas de creuser des tombes.",
+    "Chaque année, la Norvège offre un grand sapin de Noël à la ville de Londres.",
+    "Le ski a été inventé en Norvège il y a 4 000 ans — des gravures sur des rochers le prouvent !",
+    "La Norvège a un immense coffre à trésor qui vaut plus de 2 000 milliards de dollars pour tout le pays."
+  ],
+  "myths": [
+    {
+      "myth": "Il fait toujours très froid en Norvège",
+      "fact": "Le Gulf Stream réchauffe les côtes — Bergen a des hivers doux, et Tromsø, dans le Cercle arctique, est souvent au-dessus de zéro. Ce n'est pas aussi froid qu'on le croit !"
+    },
+    {
+      "myth": "On peut voir les aurores boréales chaque nuit",
+      "fact": "Les aurores ont besoin d'une forte activité du soleil et d'un ciel vraiment noir. Certains habitants d'Oslo ne les ont jamais vues de leur vie !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hei",
+      "say": "hay"
+    },
+    {
+      "en": "Merci",
+      "jp": "Takk",
+      "say": "tahk"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Vær så snill",
+      "say": "vair saw sneel"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Ha det bra",
+      "say": "hah deh bra"
+    },
+    {
+      "en": "Santé !",
+      "jp": "Skål",
+      "say": "skawl"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/no-hero.jpg",
+      "alt": "L'Opéra d'Oslo qui surgit du bord de l'eau comme un glacier",
+      "caption": "OPÉRA D'OSLO — son toit incliné en marbre blanc sert aussi de place publique.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/no-landmark.jpg",
+      "alt": "Le Geirangerfjord avec son eau turquoise et ses falaises vertes à pic",
+      "caption": "GEIRANGERFJORD — un fjord classé à l'UNESCO, entouré de cascades et de falaises de 1 400 m.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/no-animalA.jpg",
+      "alt": "Grand élan mâle debout dans un marais",
+      "caption": "ÉLAN — le géant des forêts norvégiennes, plus lourd qu'une petite voiture.",
+      "credit": "Wikimedia Commons / Diego Delso"
+    },
+    "animalB": {
+      "src": "/photos/no-animalB.jpg",
+      "alt": "Renard arctique blanc dans un paysage enneigé",
+      "caption": "RENARD ARCTIQUE — son manteau d'hiver résiste jusqu'à −70 °C.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

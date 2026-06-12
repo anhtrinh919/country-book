@@ -1,0 +1,151 @@
+{
+  "name": "ÉMIRATS ARABES UNIS",
+  "nativeName": "الإمار",
+  "romaji": "AL-IMARAT",
+  "tagline": "Dunes dorées, tours dans les nuages !",
+  "region": "Middle East & Gulf",
+  "coords": "24°N · 54°E",
+  "fileNo": "042",
+  "flag": {
+    "assetPath": "/flags/ae.svg",
+    "title": "Drapeau des Émirats Arabes Unis",
+    "note": "Rouge, vert, blanc et noir — couleurs pan-arabes",
+    "keyColor": "#EF3340",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Aux Émirats Arabes Unis, de gigantesques tours brillent comme des bijoux au milieu du désert ! Sept royaumes se sont réunis pour former un seul pays au bord du golfe Arabique. Des chameaux se promènent à côté de voitures de course super rapides !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Abu Dhabi",
+      "sub": "Construite sur une île dans le golfe"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,9 millions",
+      "sub": "Est. 2024 ; ~88 % sont des étrangers"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dirham AED",
+      "sub": "Lié au dollar américain depuis 1997"
+    },
+    {
+      "label": "Langue",
+      "value": "arabe",
+      "sub": "L'anglais est parlé partout"
+    },
+    {
+      "label": "Superficie",
+      "value": "83 600 km²",
+      "sub": "À peu près comme le Portugal"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Jebel Jais",
+      "sub": "1 934 m, à Ras Al Khaimah"
+    }
+  ],
+  "islands": [
+    "Abu Dhabi",
+    "Dubai",
+    "Sharjah",
+    "Fujairah",
+    "RAK"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Désert, dunes et deux mers",
+    "animals": "Faucons, chameaux et eaux du golfe",
+    "culture": "Perles, poésie et belles traditions",
+    "history": "Des nomades du désert jusqu'aux étoiles",
+    "wows": "C'est vrai, je te jure !"
+  },
+  "geo": "Les Émirats sont entourés de deux mers : le calme golfe Arabique à l'ouest et le golfe d'Oman à l'est. Le pays est presque entièrement un désert brûlant où les dunes peuvent être aussi hautes qu'un immeuble de dix étages !",
+  "animals": "Le faucon pèlerin est l'animal préféré des Émirats — il plonge à plus de 300 km/h, plus vite qu'une voiture de course ! Les chameaux, eux, font des courses sur des pistes spéciales avec de petits robots comme jockeys.",
+  "culture": "Quand tu arrives chez quelqu'un aux Émirats, on t'offre toujours du café à la cardamome et des dattes sucrées — c'est impoli de refuser ! Les hommes portent une longue robe blanche appelée kandura et les femmes une belle robe noire appelée abaya.",
+  "history": "Il y a très longtemps, des pêcheurs plongeaient dans le golfe pour ramasser des perles brillantes qu'ils vendaient jusqu'en Inde et en Europe. Ces perles étaient si précieuses qu'elles valaient autant que de l'or !",
+  "wows": [
+    "Le Burj Khalifa mesure 828 m de haut — c'est l'immeuble le plus grand du monde entier !",
+    "L'île Palm Jumeirah est en forme de palmier et a été construite avec du sable au milieu de la mer.",
+    "Les Émirats ont envoyé un vaisseau sur Mars du premier coup en 2021 — seulement 4 pays avaient réussi avant eux !",
+    "Les faucons émiratis ont leur propre passeport pour voyager avec leurs maîtres en avion.",
+    "À Dubai, il y a une vraie piste de ski avec de la neige à l'intérieur d'un centre commercial !",
+    "Le Louvre d'Abu Dhabi est un musée plein d'œuvres d'art du monde entier, comme celui de Paris.",
+    "Les chameaux ont des courses sur des pistes, et leurs jockeys sont de tout petits robots télécommandés !"
+  ],
+  "myths": [
+    {
+      "myth": "« Les Émirats, c'est juste Dubai »",
+      "fact": "Dubai est la ville la plus connue, mais Abu Dhabi est la capitale et couvre 87 % du pays. Les Émirats ont sept régions en tout !"
+    },
+    {
+      "myth": "« Tout a été construit grâce au pétrole »",
+      "fact": "Le pétrole a aidé au début, mais aujourd'hui plus de 70 % de l'économie de Dubai vient du commerce, du tourisme et des banques."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "Mar-HAH-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلا وسهلا",
+      "say": "AH-lan wa-SAH-lan"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "La-DHEEZ"
+    },
+    {
+      "en": "Paix",
+      "jp": "سلام",
+      "say": "Sa-LAM"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ae-hero.jpg",
+      "alt": "Vue en contre-plongée du Burj Khalifa sur fond de ciel bleu",
+      "caption": "LE BURJ KHALIFA s'élève à 828 m au-dessus de Dubai — l'immeuble le plus haut du monde.",
+      "credit": "Donaldytong / Wikimedia Commons CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/ae-landmark.jpg",
+      "alt": "Les dômes blancs de la grande mosquée Sheikh Zayed se reflètent dans les bassins",
+      "caption": "LA MOSQUÉE SHEIKH ZAYED brille avec ses 82 dômes blancs à Abu Dhabi.",
+      "credit": "Sergio Pessolano / Wikimedia Commons CC BY"
+    },
+    "animalA": {
+      "src": "/photos/ae-animalA.jpg",
+      "alt": "Faucon pèlerin perché, l'air attentif",
+      "caption": "FAUCON PÈLERIN — l'oiseau national des Émirats, dressé depuis des siècles.",
+      "credit": "Quartl / Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/ae-animalB.jpg",
+      "alt": "Chameaux marchant sur des dunes de sable",
+      "caption": "CHAMEAUX ARABES traversent le désert — les fameux navires des sables.",
+      "credit": "Berthold Werner / Wikimedia Commons CC BY-SA"
+    }
+  },
+  "theme": {
+    "paper": "#F3E8CC",
+    "dot": "#CCBA96",
+    "ink": "#2B2118",
+    "faint": "#8C7A52",
+    "line": "#DDD0B0",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "motif": "chevron",
+  "langName": "arabe"
+}

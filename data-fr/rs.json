@@ -1,0 +1,151 @@
+{
+  "name": "SERBIE",
+  "nativeName": "СРБ",
+  "romaji": "SRBIJA",
+  "tagline": "Là où l'Europe rencontre l'Orient",
+  "region": "Southeast Europe",
+  "coords": "44°N 21°E",
+  "fileNo": "RS",
+  "langName": "serbe",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBE0",
+    "dot": "#cbb89a",
+    "ink": "#2b2118",
+    "faint": "#8a7060",
+    "line": "#dbc9b0",
+    "accent": "#C0282E",
+    "accent2": "#23406b"
+  },
+  "flag": {
+    "assetPath": "/flags/rs.svg",
+    "title": "Drapeau serbe",
+    "note": "Rouge, bleu et blanc avec un blason doré",
+    "keyColor": "#C0282E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Serbie est le pays des framboises — elle en produit plus que presque tout le monde sur Terre ! Deux grands fleuves, le Danube et la Sava, se retrouvent ici pour se faire un câlin géant. C'est petit, mais tellement plein de vie !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Belgrade",
+      "sub": "Là où le Danube rencontre la Sava"
+    },
+    {
+      "label": "Habitants",
+      "value": "6,6 millions",
+      "sub": "Recensement de 2022"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dinar (RSD)",
+      "sub": "Environ 102 RSD = 1 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "serbe",
+      "sub": "Alphabets cyrillique et latin"
+    },
+    {
+      "label": "Superficie",
+      "value": "77 474 km²",
+      "sub": "Un peu plus grand que l'Irlande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Midžur 2 169 m",
+      "sub": "Sommet à l'est du pays"
+    }
+  ],
+  "islands": [
+    "Belgrade",
+    "Novi Sad",
+    "Niš",
+    "Kragujevac",
+    "Subotica"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Fleuves, plaines et montagnes",
+    "animals": "Lynx, ours et bêtes sauvages",
+    "culture": "Musique, fêtes et grands cœurs",
+    "history": "La légende du vieux royaume",
+    "wows": "7 choses qui surprennent !"
+  },
+  "geo": "La Serbie n'a pas de mer du tout — c'est un pays entouré de terre partout ! Au nord, c'est une grande plaine plate avec des tournesols à perte de vue, et au sud les montagnes montent très haut. Le Danube traverse le pays sur 588 km, comme une route d'eau géante.",
+  "animals": "Dans les forêts de Serbie vit le lynx eurasien, un grand chat sauvage avec des oreilles pointues très difficile à apercevoir. Sur les plaines du nord habite l'outarde géante, l'oiseau volant le plus lourd du monde — il se gonfle comme un ballon de plumes au printemps !",
+  "culture": "En Serbie, les invités ne repartent jamais le ventre vide — c'est la règle ! Sur toutes les tables on trouve du burek, une pâte feuilletée croustillante, et de l'ajvar, une confiture de poivrons rouges que toute la famille prépare ensemble en automne.",
+  "history": "Il y a très longtemps, un grand empire serbe s'étendait sur presque toute l'Europe du Sud, dirigé par le tsar Dušan au XIVᵉ siècle. Belgrade a été détruite et reconstruite 44 fois — comme un château de sable géant que l'on recommence encore et encore !",
+  "wows": [
+    "La Serbie est le plus grand exportateur mondial de framboises congelées !",
+    "Nikola Tesla, l'inventeur de l'électricité que tu utilises chez toi, est né dans une famille serbe.",
+    "Belgrade a été détruite et reconstruite 44 fois dans l'histoire.",
+    "En Serbie, les panneaux de rue sont écrits avec deux alphabets différents en même temps !",
+    "Les Gorges de Đerdap sont les plus longues gorges fluviales d'Europe — plus de 100 km !",
+    "Dans les forêts de Serbie, des ours bruns se promènent vraiment en liberté.",
+    "Chaque famille serbe fête son propre saint patron avec un grand repas spécial toute l'année."
+  ],
+  "myths": [
+    {
+      "myth": "La Serbie, c'est que des montagnes",
+      "fact": "Le nord de la Serbie est une grande plaine plate avec des champs de tournesols, et Belgrade est une capitale animée avec des plages au bord du fleuve !"
+    },
+    {
+      "myth": "L'alphabet cyrillique, on ne peut rien lire",
+      "fact": "En Serbie, tout est écrit en cyrillique ET en lettres normales — donc les visiteurs peuvent lire les panneaux et les menus sans problème."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Ukusno",
+      "say": "OO-koos-noh"
+    },
+    {
+      "en": "Santé !",
+      "jp": "Živeli!",
+      "say": "ZHEE-veh-lee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/rs-hero.jpg",
+      "alt": "Vue panoramique de Belgrade depuis le fleuve Sava",
+      "caption": "BELGRADE — là où le Danube et la Sava se rejoignent au cœur des Balkans",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/rs-landmark.jpg",
+      "alt": "Monastère de Studenica, église en marbre blanc dans les collines vertes",
+      "caption": "MONASTÈRE DE STUDENICA — église en marbre blanc du XIIᵉ siècle, classée au patrimoine de l'UNESCO",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/rs-animalA.jpg",
+      "alt": "Lynx eurasien dans la forêt",
+      "caption": "LYNX EURASIEN — l'un des grands félins les plus rares d'Europe, dans les forêts de montagne serbes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/rs-animalB.jpg",
+      "alt": "Outarde géante dans une prairie ouverte",
+      "caption": "OUTARDE GÉANTE — l'oiseau volant le plus lourd du monde, sur les plaines du nord de la Serbie",
+      "credit": "Wikimedia Commons / Marek Szczepanek"
+    }
+  }
+}

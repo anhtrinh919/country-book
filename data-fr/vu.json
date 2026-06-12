@@ -1,0 +1,151 @@
+{
+  "name": "VANUATU",
+  "nativeName": "VU",
+  "romaji": "VANUATU",
+  "tagline": "Îles de feu et de traditions",
+  "region": "Mélanésie, Pacifique Sud",
+  "coords": "15.38°S 166.96°E",
+  "fileNo": "183",
+  "langName": "bislama",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA4",
+    "ink": "#252018",
+    "faint": "#847560",
+    "line": "#DDD5BE",
+    "accent": "#2B6B3C",
+    "accent2": "#C0202E"
+  },
+  "flag": {
+    "assetPath": "/flags/vu.svg",
+    "title": "Drapeau du Vanuatu",
+    "note": "Vert, rouge, noir avec une défense de sanglier jaune",
+    "keyColor": "#2B6B3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Vanuatu, il y a 83 îles volcaniques surgies de la mer — certaines avec de vrais volcans encore en feu ! Les gens qui y habitent parlent 138 langues différentes, plus que dans n'importe quel autre pays du monde. C'est aussi là que des enfants ont inventé le saut à l'élastique il y a très, très longtemps !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Port Vila",
+      "sub": "Sur l'île d'Éfaté"
+    },
+    {
+      "label": "Habitants",
+      "value": "~335 000",
+      "sub": "Est. ONU 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Vatu (VUV)",
+      "sub": "Symbole : Vt"
+    },
+    {
+      "label": "Langue",
+      "value": "Bislama",
+      "sub": "Plus l'anglais et le français"
+    },
+    {
+      "label": "Superficie",
+      "value": "12 189 km²",
+      "sub": "65 îles habitées"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 877 m",
+      "sub": "Mt Tabwemasana"
+    }
+  ],
+  "islands": [
+    "Efate",
+    "Santo",
+    "Tanna",
+    "Pentecost",
+    "Malekula"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des îles et des volcans en feu !",
+    "animals": "Crabes géants et chauves-souris volantes",
+    "culture": "Fêtes, kava et vie en village",
+    "history": "La légende de notre terre éternelle",
+    "wows": "Vanuatu, c'est incroyable !"
+  },
+  "geo": "Le Vanuatu est posé sur la Ceinture de feu du Pacifique, là où la Terre crache des volcans au milieu de la mer. La plus grande île s'appelle Espiritu Santo, et sa plus haute montagne mesure 1 877 mètres — plus haut que les nuages !",
+  "animals": "Le crabe des cocotiers est le plus grand crabe terrestre du monde : il peut casser une noix de coco avec ses pinces comme si c'était du papier ! La chauve-souris renard volante survole les forêts le soir pour répandre les graines et faire pousser les arbres.",
+  "culture": "Dans chaque village du Vanuatu, on partage le kava — une boisson faite avec des racines — autour d'un grand feu au coucher du soleil. Les enfants apprennent à tisser des paniers et à sculpter le bois en regardant leurs grands-parents, et chaque famille a ses propres chansons secrètes.",
+  "history": "Il y a 3 000 ans, des navigateurs courageux ont vogué sur l'océan et découvert ces îles magiques. Quand le Vanuatu est devenu libre le 30 juillet 1980, il a choisi un nom qui veut dire « notre terre est debout pour toujours ».",
+  "wows": [
+    "Le Vanuatu a 138 langues différentes pour seulement 335 000 personnes — c'est plus que partout ailleurs sur Terre !",
+    "Le volcan Yasur sur l'île de Tanna crache du feu depuis des centaines d'années sans jamais s'arrêter.",
+    "Les enfants de l'île de Pentecost sautent du haut de grandes tours avec des lianes aux pieds — c'est eux qui ont inventé le saut à l'élastique !",
+    "Le Vanuatu a été élu pays le plus heureux du monde en 2006 et encore en 2024 !",
+    "Une tribu de l'île de Tanna croyait qu'un prince d'Angleterre était un dieu et lui envoyait des lettres.",
+    "Au Vanuatu, personne ne paie d'impôts — c'est une des rares places du monde où c'est comme ça !",
+    "Le crabe des cocotiers peut peser jusqu'à 4 kg — aussi lourd qu'un gros chat !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Vanuatu c'est juste une île",
+      "fact": "Le Vanuatu est un chapelet de 83 îles sur 1 300 km — 65 sont habitées, et chacune a sa propre langue et ses propres traditions !"
+    },
+    {
+      "myth": "Le saut à l'élastique vient de Nouvelle-Zélande",
+      "fact": "C'est le rituel nagol de l'île de Pentecost au Vanuatu qui a inspiré le saut à l'élastique — les habitants sautent de grandes tours avec des lianes depuis des siècles !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Halo",
+      "say": "hah-loh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tangkyu",
+      "say": "tank-yoo"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Yu oraet?",
+      "say": "yoo oh-rye"
+    },
+    {
+      "en": "Bien !",
+      "jp": "I gud",
+      "say": "ee good"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Tata",
+      "say": "tah-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vu-hero.jpg",
+      "alt": "Le port de Port Vila avec des bateaux et des collines verdoyantes",
+      "caption": "PORT VILA — la capitale colorée sur l'île d'Éfaté",
+      "credit": "PhillipC / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/vu-landmark.jpg",
+      "alt": "Le volcan actif du mont Yasur avec de la lave rougeoyante",
+      "caption": "MT YASUR — le volcan toujours en éruption de Tanna, accessible à pied",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vu-animalA.jpg",
+      "alt": "Un grand crabe des cocotiers sur un arbre",
+      "caption": "CRABE DES COCOTIERS — le plus grand crabe terrestre du monde, au Vanuatu",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/vu-animalB.jpg",
+      "alt": "Une chauve-souris renard volante suspendue à un arbre au crépuscule",
+      "caption": "RENARD VOLANT DU PACIFIQUE — pollinisateur nocturne essentiel des forêts insulaires",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

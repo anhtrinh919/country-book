@@ -1,0 +1,151 @@
+{
+  "name": "ALLEMAGNE",
+  "nativeName": "DE",
+  "romaji": "DEUTSCHLAND",
+  "tagline": "Le pays des forêts et des grandes idées",
+  "region": "Europe centrale",
+  "coords": "51°N 10°E",
+  "fileNo": "042",
+  "langName": "allemand",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#262018",
+    "faint": "#857567",
+    "line": "#DDD0BC",
+    "accent": "#DD0000",
+    "accent2": "#FFCE00"
+  },
+  "flag": {
+    "assetPath": "/flags/de.svg",
+    "title": "Drapeau de l'Allemagne",
+    "note": "Trois bandes égales : noir, rouge, or",
+    "keyColor": "#DD0000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Allemagne, il y a de vraies forêts de contes de fées avec des arbres si grands et sombres qu'on dirait la maison des sorcières ! C'est là que quelqu'un a inventé la voiture, l'imprimerie et même le sapin de Noël décoré !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Berlin",
+      "sub": "Env. 3,8 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "~84 millions",
+      "sub": "Est. 2025, Eurostat"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Utilisé depuis 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "allemand",
+      "sub": "Parlé par ~95%"
+    },
+    {
+      "label": "Superficie",
+      "value": "357 600 km²",
+      "sub": "Un peu plus que la France sans Corse"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Zugspitze",
+      "sub": "2 962 m au-dessus de la mer"
+    }
+  ],
+  "islands": [
+    "Bavaria",
+    "Berlin",
+    "Hamburg",
+    "Rhine Valley",
+    "Black Forest"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Forêts, rivières et sommets glacés",
+    "animals": "Les bêtes sauvages de la forêt",
+    "culture": "Pain, fête et grandes inventions",
+    "history": "Un pays de rois et de légendes",
+    "wows": "L'Allemagne t'étonne !"
+  },
+  "geo": "Au nord, il y a des côtes venteuses et plates ; au sud, les montagnes des Alpes bavaroises touchent les nuages à presque 3 000 mètres ! La grande forêt Noire est si sombre et mystérieuse qu'elle a inspiré les contes des frères Grimm, comme Blanche-Neige et le Petit Chaperon Rouge.",
+  "animals": "Le sanglier sauvage vit dans les forêts allemandes : c'est un gros cochon avec de grandes dents et des poils raides qui fouille les feuilles pour trouver des glands. Il y en a tellement qu'on en voit parfois la nuit dans les rues de Berlin, une ville de millions de personnes !",
+  "culture": "Les Allemands font plus de 1 300 sortes de pain différents — plus que n'importe quel autre pays au monde ! Chaque décembre, les places des villes se transforment en marchés de Noël brillants avec des lumières et du chocolat chaud, une tradition qui a commencé ici il y a 500 ans.",
+  "history": "Il y a très longtemps, l'Allemagne n'était pas un seul pays mais des dizaines de petits royaumes et châteaux forts, chacun avec son propre roi. Le château de Neuschwanstein, perché tout en haut d'une montagne comme dans un dessin animé, a même inspiré le château de Cendrillon chez Disney !",
+  "wows": [
+    "Hambourg a plus de ponts que Venise, Amsterdam et Londres réunis — plus de 2 300 ponts !",
+    "L'ours en gélatine a été inventé en Allemagne par Hans Riegel à Bonn en 1922.",
+    "Sur certaines parties de l'Autobahn, les voitures peuvent rouler aussi vite qu'elles veulent — sans limite !",
+    "Gutenberg a imprimé le tout premier livre d'Europe à Mayence vers 1450, en utilisant des petites lettres en métal.",
+    "L'Allemagne mange plus de 800 millions de saucisses currywurst chaque année — 70 millions rien qu'à Berlin !",
+    "Il y a plus de 80 opéras en Allemagne — plus que partout ailleurs dans le monde entier.",
+    "L'Allemagne a 16 États, et chacun a son propre gouvernement, sa propre police et ses propres vacances scolaires !"
+  ],
+  "myths": [
+    {
+      "myth": "Tous les Allemands portent le lederhosen",
+      "fact": "Le lederhosen et la dirndl sont des costumes traditionnels de Bavière, portés surtout lors de fêtes comme l'Oktoberfest. À Berlin ou Hambourg, les gens s'habillent en jean comme partout ailleurs."
+    },
+    {
+      "myth": "Toute l'Autobahn n'a pas de limite de vitesse",
+      "fact": "Environ 40% de l'Autobahn a des limitations de vitesse dans les villes et les chantiers. Seulement 60% est sans limite, et une vitesse conseillée de 130 km/h est quand même recommandée."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Tschüss",
+      "say": "CHÜSS"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Lecker!",
+      "say": "LEK-ker"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/de-hero.jpg",
+      "alt": "Train à grande vitesse ICE blanc en gare centrale de Francfort",
+      "caption": "TRAIN ICE — le train ultrarapide allemand à la gare de Francfort",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/de-landmark.jpg",
+      "alt": "Château de Neuschwanstein perché sur une colline boisée de Bavière",
+      "caption": "CHÂTEAU DE NEUSCHWANSTEIN — le palais de conte de fées qui a inspiré le château de Cendrillon chez Disney",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/de-animalA.jpg",
+      "alt": "Cigogne blanche au bec rouge debout dans un pré",
+      "caption": "CIGOGNE BLANCHE — revient chaque printemps sur le même toit allemand depuis l'Afrique",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/de-animalB.jpg",
+      "alt": "Sanglier sauvage fouillant dans une forêt européenne",
+      "caption": "SANGLIER — le fouilleur de forêt aux grandes dents, aperçu même dans les rues de Berlin la nuit",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

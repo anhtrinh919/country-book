@@ -1,0 +1,151 @@
+{
+  "name": "ALBANIE",
+  "nativeName": "AL",
+  "romaji": "SHQIPËRI",
+  "tagline": "Le Pays des Aigles",
+  "region": "Balkans, Europe du Sud-Est",
+  "coords": "41°N 20°E",
+  "fileNo": "AL",
+  "langName": "albanais",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CCBBA4",
+    "ink": "#221E1A",
+    "faint": "#8A7460",
+    "line": "#DACCB8",
+    "accent": "#D21034",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/al.svg",
+    "title": "Drapeau de l'Albanie",
+    "note": "Fond rouge avec un aigle noir à deux têtes",
+    "keyColor": "#D21034",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Albanie, le drapeau a un aigle géant à DEUX têtes — comme un super-oiseau qui regarde dans les deux sens en même temps ! Son nom albanais, Shqipëria, veut dire « Pays des Aigles ». Des châteaux anciens et des plages turquoise se cachent dans ce petit pays !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Tirana",
+      "sub": "Population ~600 000"
+    },
+    {
+      "label": "Habitants",
+      "value": "2,4 millions",
+      "sub": "Recensement 2023"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Lek (ALL)",
+      "sub": "~95 leks ≈ 1 €"
+    },
+    {
+      "label": "Langue",
+      "value": "albanais",
+      "sub": "Langue unique au monde"
+    },
+    {
+      "label": "Superficie",
+      "value": "28 748 km²",
+      "sub": "Un peu plus petit que la Belgique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Korab 2 764 m",
+      "sub": "À la frontière avec la Macédoine du Nord"
+    }
+  ],
+  "islands": [
+    "Tirana",
+    "Durrës",
+    "Gjirokastër",
+    "Shkodër",
+    "Vlorë"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, mer et rivières sauvages",
+    "animals": "Aigles, ours et pélicans",
+    "culture": "Musique, couleurs et bonnes tartes",
+    "history": "Des guerriers légendaires et des bunkers magiques",
+    "wows": "Le savais-tu ?"
+  },
+  "geo": "L'Albanie est presque entièrement couverte de montagnes — certaines si hautes que des villages étaient coupés du monde pendant des siècles ! La côte est bordée de 476 km de mer turquoise, avec des plages cachées comme des trésors.",
+  "animals": "L'aigle royal est l'animal national de l'Albanie — il vole si haut qu'il voit tout le pays d'un seul regard ! Au lac Prespa vivent les plus grands pélicans d'Europe, avec des ailes aussi larges que deux adultes bras tendus.",
+  "culture": "À Tirana, la capitale, tous les immeubles gris ont été peints de dessins géants et de couleurs vives — c'est comme une ville en bonbons ! Les Albanais adorent le byrek, une tarte feuilletée au fromage super croustillante.",
+  "history": "Il y a 2 500 ans, les Illyriens construisaient des forteresses sur les collines d'Albanie. Un héros légendaire appelé Skanderbeg était si courageux qu'il a tenu tête à une armée entière pendant 25 ans — toute l'Europe l'admirait !",
+  "wows": [
+    "En Albanie, hocher la tête veut dire NON et secouer la tête veut dire OUI — tout le contraire de chez nous !",
+    "Il y a 173 000 bunkers en Albanie — soit presque un pour chaque 14 personnes — beaucoup sont devenus des cafés !",
+    "Le lac Ohrid a plus d'un million trois cent mille ans — c'est l'un des plus vieux lacs du monde entier !",
+    "Shqipëria veut dire Pays des Aigles — ce nom n'existe dans aucune autre langue du monde !",
+    "La ville de Gjirokastër a des toits en dalles de pierre plate, pas en tuiles — comme une ville de pierre de la tête aux pieds !",
+    "La rivière Vjosë coule complètement libre sans aucun barrage — c'est le premier parc de rivière sauvage d'Europe !",
+    "Des flamants roses roses viennent passer l'hiver au lagon de Narta chaque année — quel spectacle !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Albanie est un pays dangereux",
+      "fact": "L'Albanie est l'un des pays les plus sûrs d'Europe ! Les habitants accueillent leurs visiteurs comme des membres de la famille."
+    },
+    {
+      "myth": "L'albanais ressemble au grec ou au latin",
+      "fact": "L'albanais est une langue toute seule dans sa famille — elle ne ressemble à aucune autre langue en Europe !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Mirëdita",
+      "say": "meer-DEE-tah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Faleminderit",
+      "say": "fah-lem-DEER-eet"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ju lutem",
+      "say": "yoo LOO-tem"
+    },
+    {
+      "en": "Oui",
+      "jp": "Po",
+      "say": "poh"
+    },
+    {
+      "en": "Aigle",
+      "jp": "Shqiponjë",
+      "say": "shchee-PON-yuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/al-hero.jpg",
+      "alt": "Vue panoramique de Tirana avec ses immeubles colorés",
+      "caption": "TIRANA — la capitale colorée de l'Albanie vue du ciel, couverte de fresques",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/al-landmark.jpg",
+      "alt": "La vieille ville ottomane de Berat avec ses maisons en pierre blanche",
+      "caption": "BERAT — la « Ville aux mille fenêtres » classée au patrimoine mondial de l'UNESCO",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/al-animalA.jpg",
+      "alt": "Pélicans dalmates sur le lac Prespa",
+      "caption": "PÉLICAN DALMATE — géants rares nichant dans les lacs Prespa en Albanie",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/al-animalB.jpg",
+      "alt": "Aigle royal en plein vol",
+      "caption": "AIGLE ROYAL — symbole national de l'Albanie, maître du ciel montagneux",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

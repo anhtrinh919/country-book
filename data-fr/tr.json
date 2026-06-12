@@ -1,0 +1,163 @@
+{
+  "name": "TURQUIE",
+  "nativeName": "TR",
+  "romaji": "TÜRKİYE",
+  "tagline": "Là où l'Est rencontre l'Ouest",
+  "region": "Southeast Europe / West Asia",
+  "coords": "39°N 35°E",
+  "fileNo": "042",
+  "langName": "turc",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CCBBA0",
+    "ink": "#27201A",
+    "faint": "#8A7255",
+    "line": "#DDD0BA",
+    "accent": "#E30A17",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/tr.svg",
+    "title": "La Bannière Rouge",
+    "note": "Rouge avec un croissant et une étoile blancs",
+    "keyColor": "#E30A17",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Istanbul est une ville magique posée sur deux continents à la fois — une moitié en Europe, l'autre en Asie ! En Turquie, il y a des rochers en forme de champignons géants où les gens vivaient autrefois à l'intérieur. Ce pays a inventé les tulipes, le café et les tapis les plus beaux du monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Ankara",
+      "sub": "Plateau d'Anatolie centrale"
+    },
+    {
+      "label": "Habitants",
+      "value": "85,3 millions",
+      "sub": "est. 2023, TurkStat"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Lire (TRY)",
+      "sub": "₺ — lire turque"
+    },
+    {
+      "label": "Langue",
+      "value": "turc",
+      "sub": "Parlé par ~85 % des gens"
+    },
+    {
+      "label": "Superficie",
+      "value": "783 562 km²",
+      "sub": "Plus grand que le Texas et la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Ararat 5 137 m",
+      "sub": "La maison légendaire de l'Arche de Noé"
+    }
+  ],
+  "islands": [
+    "Istanbul",
+    "Ankara",
+    "Cappadocia",
+    "Antalya",
+    "Trabzon"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Quatre mers et champignons magiques",
+    "animals": "Ours, chats et tortues de mer",
+    "culture": "Thé, tapis et danseurs tourbillonnants",
+    "history": "Un temple plus vieux que tout !",
+    "wows": "C'est pas possible !"
+  },
+  "geo": [
+    "La Turquie est posée sur deux continents : presque tout le pays est en Asie, et un tout petit bout est en Europe. Elle est entourée par quatre mers différentes, comme une île géante baignée d'eau de tous les côtés !",
+    "En Cappadoce, des volcans anciens ont laissé des rochers qui ressemblent à des champignons géants. Les gens ont creusé des maisons entières à l'intérieur de ces rochers — comme vivre dans un château en pierre !"
+  ],
+  "animals": [
+    "Les forêts de Turquie cachent des ours bruns, des loups gris et même des léopards très rares. Chaque automne, des millions d'aigles et de buses volent au-dessus du Bosphore, comme un immense défilé d'oiseaux dans le ciel !",
+    "Les tortues caouannes viennent pondre leurs œufs sur les plages chaudes de Méditerranée chaque été. Le chat de Van est tout blanc avec un œil bleu et un œil doré — c'est le trésor national de la Turquie !"
+  ],
+  "culture": [
+    "En Turquie, on boit du thé dans de petits verres en forme de tulipe à chaque repas et à chaque visite — les Turcs boivent plus de thé que presque n'importe qui sur Terre ! Dans les rues, des vendeurs proposent du simit, un grand anneau de pain couvert de graines de sésame.",
+    "Les tapis turcs faits à la main sont parmi les plus beaux au monde, avec des motifs colorés et compliqués. Les danseurs derviches tournent sur eux-mêmes très vite avec de grandes jupes blanches qui s'envolent comme des fleurs !"
+  ],
+  "history": [
+    "Il y a 12 000 ans, des personnes ont construit un temple appelé Göbekli Tepe — c'est le plus vieux bâtiment que les humains aient jamais construit, même plus vieux que les pyramides ! La Turquie est l'un des endroits les plus anciens où les hommes ont vécu sur Terre.",
+    "Il y a très longtemps, la ville d'Istanbul s'appelait Constantinople et était la plus grande ville du monde. Des empereurs, des sultans et des rois ont tous voulu vivre dans cette ville incroyable posée entre deux continents !"
+  ],
+  "wows": [
+    "Göbekli Tepe a 12 000 ans — c'est le plus vieux temple du monde, construit avant même l'agriculture !",
+    "Istanbul est la seule ville au monde qui se trouve sur deux continents à la fois.",
+    "La Turquie produit 70 % des noisettes du monde entier — du bord de la mer Noire !",
+    "À Éphèse, il y avait une bibliothèque avec 12 000 rouleaux de papier — une merveille du monde antique !",
+    "La ville souterraine de Derinkuyu cachait 20 000 personnes à 85 mètres sous la terre.",
+    "La lutte à l'huile d'olive existe en Turquie depuis 1362 — les sportifs s'enduisent d'huile pour glisser !",
+    "Les tulipes viennent de Turquie — ce n'est pas une fleur hollandaise à l'origine !"
+  ],
+  "myths": [
+    {
+      "myth": "La Turquie est entièrement en Europe",
+      "fact": "Seulement 3 % de la Turquie est en Europe. La grande péninsule d'Anatolie est en Asie, ce qui en fait un pays sur deux continents à la fois."
+    },
+    {
+      "myth": "Le turban est le chapeau traditionnel turc",
+      "fact": "La Turquie a changé de coiffure plein de fois ! Le fez a même été interdit en 1925 pour adopter des chapeaux modernes."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Merhaba",
+      "say": "mer-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "Teşekkürler",
+      "say": "tesh-ek-UR-ler"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Lezzetli",
+      "say": "lez-ZET-lee"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Hoşgeldiniz",
+      "say": "hosh-gel-DEE-neez"
+    },
+    {
+      "en": "Bonne nuit",
+      "jp": "İyi geceler",
+      "say": "ee-YEE geh-jeh-LER"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tr-hero.jpg",
+      "alt": "Le pont du Bosphore illuminé la nuit, enjambant le détroit entre l'Europe et l'Asie à Istanbul",
+      "caption": "PONT DU BOSPHORE — le pont étincelant d'Istanbul qui relie deux continents",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/tr-landmark.jpg",
+      "alt": "Sainte-Sophie avec ses dômes emblématiques et ses minarets à Istanbul en Turquie",
+      "caption": "SAINTE-SOPHIE — le dôme vieux de 1 500 ans d'Istanbul, autrefois église, puis mosquée",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tr-animalA.jpg",
+      "alt": "Tortue caouanne nageant sous l'eau près de la surface",
+      "caption": "TORTUE CAOUANNE — pond ses œufs sur les plages chaudes de Turquie chaque été",
+      "credit": "Wikimedia Commons / Luc Viatour CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/tr-animalB.jpg",
+      "alt": "Chat de Van blanc avec un œil bleu et un œil doré",
+      "caption": "CHAT DE VAN — le rare trésor de Turquie avec ses célèbres yeux de deux couleurs",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

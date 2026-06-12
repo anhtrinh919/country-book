@@ -1,0 +1,151 @@
+{
+  "name": "ARABIE SAOUDITE",
+  "nativeName": "السعود",
+  "romaji": "ARABIA AL-SAUDIA",
+  "tagline": "Le pays des dunes d'or et du désert infini !",
+  "region": "Middle East",
+  "coords": "24°N 45°E",
+  "fileNo": "SA",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D9C8A0",
+    "ink": "#1E1A14",
+    "faint": "#8A7A5E",
+    "line": "#E0D0AE",
+    "accent": "#165A30",
+    "accent2": "#C8B400"
+  },
+  "flag": {
+    "assetPath": "/flags/sa.svg",
+    "title": "La bannière verte",
+    "note": "Fond vert avec une épée blanche et une inscription sacrée",
+    "keyColor": "#165A30",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Arabie Saoudite, il y a un désert si grand qu'il pourrait avaler la France entière ! Sous les dunes dorées, il y a du pétrole, comme une mer noire cachée sous le sable. C'est aussi là que vivait le prophète Mahomet, il y a très très longtemps !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Riyad",
+      "sub": "Env. 7,8 millions d'habitants (2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "35,3 millions",
+      "sub": "Est. 2024, dont des expatriés"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Riyal saoudien",
+      "sub": "SAR ; 1 USD ≈ 3,75 SAR"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "Dialecte arabe du Golfe"
+    },
+    {
+      "label": "Superficie",
+      "value": "2 150 000 km²",
+      "sub": "5e plus grand pays d'Asie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Jabal Sawda",
+      "sub": "3 015 m, monts Asir"
+    }
+  ],
+  "islands": [
+    "Riyadh",
+    "Jeddah",
+    "Mecca",
+    "Medina",
+    "Dammam"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un océan de sable et de pierres",
+    "animals": "Chameaux, oryx et faucons du désert",
+    "culture": "Prières, fêtes et délices sucrés",
+    "history": "Des tribus au grand royaume",
+    "wows": "7 choses folles sur l'Arabie Saoudite !"
+  },
+  "geo": "L'Arabie Saoudite est presque entièrement un grand plateau de sable et de cailloux. Le Rub' al Khali — le « Quart vide » — est le plus grand désert de sable du monde, avec des dunes aussi hautes qu'un immeuble de 25 étages !",
+  "animals": "Le chameau d'Arabie peut vivre une semaine entière sans boire une seule goutte d'eau — c'est un super-héros du désert ! L'oryx d'Arabie, une belle antilope blanche, avait disparu, mais des gens l'ont sauvée et elle vit de nouveau en liberté.",
+  "culture": "Chaque jour, les familles s'arrêtent cinq fois pour prier ensemble — c'est très important pour eux. Lors de la fête de l'Aïd, tout le monde se régale d'agneau, de riz kabsa et de dattes sucrées !",
+  "history": "Il y a très longtemps, des familles appelées Bédouins traversaient ce désert à dos de chameau et connaissaient chaque dune par cœur. La ville de La Mecque était déjà un grand marché animé bien avant que le prophète Mahomet y naisse, il y a environ 1 450 ans !",
+  "wows": [
+    "Le désert Rub' al Khali est si grand qu'il pourrait avaler toute la France — et il resterait encore de la place !",
+    "Il n'y a pas un seul vrai fleuve dans tout le pays — zéro rivière permanente !",
+    "Chaque année, presque 2 millions de personnes viennent à La Mecque en une seule semaine.",
+    "Sous le sable se cache presque un cinquième de tout le pétrole de la planète.",
+    "À Al-Ula, il y a des tombes creusées dans le roc il y a plus de 2 000 ans — comme des châteaux dans la pierre !",
+    "On a rêvé de construire une ville longue de 170 km entre deux gigantesques murs miroirs, sans aucune voiture.",
+    "L'oryx d'Arabie, avec sa longue corne, aurait inspiré la légende de la licorne !"
+  ],
+  "myths": [
+    {
+      "myth": "« C'est un désert tout plat partout »",
+      "fact": "À l'ouest, il y a des montagnes de plus de 3 000 m et des vallées verdoyantes — c'est bien plus varié qu'on ne le croit !"
+    },
+    {
+      "myth": "« On ne peut pas visiter l'Arabie Saoudite »",
+      "fact": "Depuis 2019, tout le monde peut venir explorer les déserts, les ruines et les plages — seule La Mecque est réservée aux musulmans."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HAH-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sa-hero.jpg",
+      "alt": "Panorama de Riyad au crépuscule vu depuis la tour du Royaume",
+      "caption": "RIYAD — des tours brillantes surgissent du désert au coucher du soleil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sa-landmark.jpg",
+      "alt": "Vue aérienne de la Grande Mosquée de La Mecque",
+      "caption": "MASJID AL-HARAM — la plus sainte mosquée de l'Islam entoure la Kaaba",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sa-animalA.jpg",
+      "alt": "Portrait d'un chameau dromadaire d'Arabie",
+      "caption": "CHAMEAU D'ARABIE — peut vivre une semaine sans boire dans le désert",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sa-animalB.jpg",
+      "alt": "Oryx d'Arabie blanc debout dans le désert",
+      "caption": "ORYX D'ARABIE — jadis disparu à l'état sauvage, il est libre à nouveau",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

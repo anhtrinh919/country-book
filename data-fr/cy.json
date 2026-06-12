@@ -1,0 +1,151 @@
+{
+  "name": "CHYPRE",
+  "nativeName": "Κύπρος",
+  "romaji": "KYPROS",
+  "tagline": "L'île de l'amour et du cuivre",
+  "region": "Middle East",
+  "coords": "35°N, 33°E",
+  "fileNo": "CY",
+  "langName": "grec",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CEBF9A",
+    "ink": "#2B2218",
+    "faint": "#8C7A54",
+    "line": "#DDD0AF",
+    "accent": "#C87137",
+    "accent2": "#3A6B3A"
+  },
+  "flag": {
+    "assetPath": "/flags/cy.svg",
+    "title": "Drapeau de Chypre",
+    "note": "Fond blanc, île en cuivre, branches d'olivier",
+    "keyColor": "#C87137",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "À Chypre, on dit qu'une déesse de l'amour est sortie de la mer en éclatant comme une bulle géante ! Cette petite île dorée a donné son nom au cuivre — le métal orange qu'on trouve partout. Et il y a tellement de chats qu'ils sont plus nombreux que les habitants !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Nicosie",
+      "sub": "La seule capitale divisée en deux dans le monde"
+    },
+    {
+      "label": "Habitants",
+      "value": "~1,36 M",
+      "sub": "Estimation Banque mondiale, 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Dans la zone euro depuis 2008"
+    },
+    {
+      "label": "Langue",
+      "value": "grec",
+      "sub": "Le turc est aussi langue officielle"
+    },
+    {
+      "label": "Superficie",
+      "value": "9 251 km²",
+      "sub": "3e plus grande île de Méditerranée"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 952 m",
+      "sub": "Mont Olympe, massif du Troodos"
+    }
+  ],
+  "islands": [
+    "Nicosia",
+    "Limassol",
+    "Larnaca",
+    "Paphos",
+    "Kyrenia"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Soleil, mer et montagnes de cuivre",
+    "animals": "Moutons sauvages et serpents à yeux de chat",
+    "culture": "Fromage grillé, fêtes et olives",
+    "history": "Des dieux, du cuivre et des légendes",
+    "wows": "Tu savais ça ?"
+  },
+  "geo": "Chypre est une île baignée de soleil au milieu de la mer Méditerranée, là où l'Europe, l'Asie et l'Afrique se rencontrent. Au centre, les montagnes du Troodos montent très haut — assez haut pour qu'il y ait de la neige en hiver !",
+  "animals": "Le mouflon de Chypre est un mouton sauvage avec de grandes cornes qui s'enroulent en spirale, et on ne le trouve que sur cette île. Il y a aussi environ un million de chats qui se promènent librement partout — bien plus que les habitants !",
+  "culture": "Le halloumi est un fromage magique de Chypre : on peut le faire griller sans qu'il fonde, et il fait un petit bruit quand on le mange ! Chaque printemps, la fête Kataklysmos transforme les plages en grandes batailles d'eau avec des courses de bateaux.",
+  "history": "Il y a plus de 4 000 ans, Chypre était le plus grand endroit au monde pour extraire le cuivre, ce métal orange et brillant. En fait, le mot « cuivre » vient tout droit du nom de l'île, Kypros — c'est elle qui lui a donné son prénom !",
+  "wows": [
+    "Le drapeau de Chypre montre la forme de l'île elle-même — c'est l'un des seuls drapeaux au monde à faire ça !",
+    "Le vin le plus vieux du monde qui a encore un nom vient de Chypre — on le fabrique depuis au moins 2 800 ans.",
+    "La plus ancienne tombe d'un animal de compagnie a été trouvée ici : un chat enterré avec son maître il y a 9 500 ans !",
+    "Des éléphants et des hippopotames nains vivaient autrefois sur l'île — on a trouvé leurs os partout.",
+    "Chaque hiver, jusqu'à 20 000 flamants roses arrivent au lac de Larnaca et colorent les rives en rose vif.",
+    "Les plus vieux parfums du monde — vieux de 4 000 ans, avec de la lavande — ont été découverts à Chypre.",
+    "La capitale Nicosie est coupée en deux par une zone gardée par l'ONU — on ne peut pas la traverser à pied !"
+  ],
+  "myths": [
+    {
+      "myth": "Chypre est trop chaude pour s'amuser en été",
+      "fact": "Sur la côte il fait très chaud, mais dans les montagnes du Troodos il fait frais et agréable — et les soirées au bord de la mer sont parfaites !"
+    },
+    {
+      "myth": "Le halloumi c'est comme du fromage ordinaire",
+      "fact": "Le halloumi est spécial : on peut le griller sur le feu et il devient doré à l'extérieur mais ne fond pas — c'est magique !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Γεια σου",
+      "say": "YAH-soo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ευχαριστώ",
+      "say": "ef-kha-ree-STO"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Παρακαλώ",
+      "say": "pa-ra-ka-LO"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Αντίο",
+      "say": "an-DEE-oh"
+    },
+    {
+      "en": "Bonjour (matin)",
+      "jp": "Καλημέρα",
+      "say": "kah-lee-MEH-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cy-hero.jpg",
+      "alt": "Vue panoramique de Nicosie depuis la tour Shacolas",
+      "caption": "NICOSIE — la dernière capitale divisée du monde, vue depuis la tour Shacolas",
+      "credit": "A.Savin / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cy-landmark.jpg",
+      "alt": "Paysage côtier de Petra tou Romiou, le Rocher d'Aphrodite",
+      "caption": "PETRA TOU ROMIOU — lieu de naissance légendaire d'Aphrodite sur la côte de Paphos",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cy-animalA.jpg",
+      "alt": "Mouflon de Chypre, mouton sauvage aux cornes recourbées",
+      "caption": "MOUFLON DE CHYPRE — l'animal national de l'île, avec ses célèbres cornes en spirale",
+      "credit": "WoodsAndrew / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/cy-animalB.jpg",
+      "alt": "Serpent-chat européen Telescopus fallax en gros plan",
+      "caption": "SERPENT-CHAT — nommé ainsi pour ses pupilles verticales, chasseur nocturne de Chypre",
+      "credit": "Benny Trapp / Wikimedia Commons"
+    }
+  }
+}

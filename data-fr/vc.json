@@ -1,0 +1,151 @@
+{
+  "name": "SAINT-VINCENT",
+  "nativeName": "VC",
+  "romaji": "SAINT VINCENT",
+  "tagline": "Les joyaux des Caraïbes",
+  "region": "Eastern Caribbean",
+  "coords": "13.2°N 61.2°W",
+  "fileNo": "vc",
+  "langName": "créole anglais",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c9bfa8",
+    "ink": "#252018",
+    "faint": "#8a7d60",
+    "line": "#dbd4c0",
+    "accent": "#2B7A3B",
+    "accent2": "#F5C518"
+  },
+  "flag": {
+    "assetPath": "/flags/vc.svg",
+    "title": "Le drapeau aux joyaux",
+    "note": "Trois diamants verts en V sur fond jaune",
+    "keyColor": "#2B7A3B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saint-Vincent-et-les-Grenadines est une chaîne de 32 îles volcaniques où la forêt tropicale rencontre des lagons turquoise ! Un vrai volcan rugit tout au centre de l'île principale. Ces minuscules « joyaux des Caraïbes » sont remplis de tortues, de perroquets et même d'un décor de film pirate !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kingstown",
+      "sub": "Côte sud de Saint-Vincent"
+    },
+    {
+      "label": "Habitants",
+      "value": "~101 000",
+      "sub": "Est. 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar des Caraïbes orientales",
+      "sub": "Lié au dollar américain"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Officielle et quotidienne"
+    },
+    {
+      "label": "Superficie",
+      "value": "389 km²",
+      "sub": "Plus petite que la Barbade"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 235 m",
+      "sub": "Volcan La Soufrière"
+    }
+  ],
+  "islands": [
+    "St Vincent",
+    "Bequia",
+    "Mustique",
+    "Canouan",
+    "Union Island"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Volcans et lagons de corail",
+    "animals": "Perroquets, tortues et geckos rares",
+    "culture": "Tambours de carnaval et fruit à pain",
+    "history": "Une légende de guerriers courageux",
+    "wows": "Sept surprises grandes comme un joyau"
+  },
+  "geo": "Saint-Vincent est une île volcanique couverte d'une forêt touffue et verte. Le volcan La Soufrière a craché de la cendre en 2021, comme un géant qui tousse très fort ! Au sud, de petites îles appelées les Grenadines s'étirent sur 90 km avec des lagons si clairs qu'on voit tout au fond.",
+  "animals": "Le perroquet de Saint-Vincent est l'oiseau national — il est doré, bleu et violet, et il vit uniquement ici, nulle part ailleurs dans le monde ! Le gecko de l'île Union est si minuscule qu'il tient dans la paume d'une main, et les scientifiques ne l'ont découvert qu'en 2005.",
+  "culture": "Le carnaval Vincy Mas arrive chaque été à Kingstown avec des costumes brillants, des tambours et de la musique soca pendant douze jours entiers ! Le plat préféré des habitants est le poisson frit avec du fruit à pain grillé sur des braises de charbon.",
+  "history": "Il y a très longtemps, un chef courageux nommé Chatoyer protégeait son peuple, les Garifunas, contre tous ceux qui voulaient s'emparer de leur île. Il est aujourd'hui le seul héros national du pays, et tout le monde se souvient de lui comme d'un géant brave et fort !",
+  "wows": [
+    "Saint-Vincent produit 95 % de la marante mondiale — une plante que les anciens utilisaient pour soigner les blessures !",
+    "Un vrai décor du film Pirates des Caraïbes a été construit à Wallilabou Bay — les accessoires sont encore là !",
+    "L'île Mustique a été achetée en 1958 pour seulement 67 000 dollars — moins cher qu'une maison !",
+    "Le volcan La Soufrière a explosé 8 fois depuis 1718 — il est vraiment très vivant !",
+    "Le gecko de l'île Union est si rare qu'on ne le connaissait pas avant 2005 et il vit sur une seule petite île.",
+    "À Bequia, les pêcheurs font encore la chasse à la baleine à la main, avec un harpon, comme autrefois !",
+    "Le jardin botanique de Kingstown a été créé en 1765 — c'est l'un des plus vieux jardins des Amériques !"
+  ],
+  "myths": [
+    {
+      "myth": "« Trop petite pour être intéressante »",
+      "fact": "Saint-Vincent a un vrai volcan actif, plus de 170 espèces d'oiseaux, un décor de film pirate et de magnifiques récifs coralliens — tout ça dans seulement 389 km² !"
+    },
+    {
+      "myth": "« Les Grenadines, c'est une seule île »",
+      "fact": "Ce sont 31 îles et îlots dispersés sur 90 km de mer — chacun est différent, de la chic Mustique à la sauvage île Union pleine de tortues !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Wha happenin",
+      "say": "wha-HAP-en-in"
+    },
+    {
+      "en": "C'est délicieux !",
+      "jp": "It nice!",
+      "say": "it NICE"
+    },
+    {
+      "en": "Ami",
+      "jp": "Pardner",
+      "say": "PAHD-nah"
+    },
+    {
+      "en": "Se balader",
+      "jp": "Liming",
+      "say": "LYE-ming"
+    },
+    {
+      "en": "Vraiment ?",
+      "jp": "For real?",
+      "say": "fuh REEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vc-hero.jpg",
+      "alt": "Port de Kingstown avec des bateaux colorés et une colline verdoyante",
+      "caption": "PORT DE KINGSTOWN — la capitale animée au pied des collines volcaniques",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/vc-landmark.jpg",
+      "alt": "Cratère du volcan La Soufrière avec de la vapeur qui s'échappe",
+      "caption": "LA SOUFRIÈRE — le volcan actif de Saint-Vincent culmine à 1 235 m",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vc-animalA.jpg",
+      "alt": "Perroquet de Saint-Vincent avec son plumage coloré vert bronze bleu et jaune",
+      "caption": "PERROQUET DE SAINT-VINCENT — l'oiseau national, introuvable ailleurs sur Terre",
+      "credit": "Wikimedia Commons / Drew Avery"
+    },
+    "animalB": {
+      "src": "/photos/vc-animalB.jpg",
+      "alt": "Vue aérienne des Tobago Cays avec lagon turquoise récif corallien et tortues marines",
+      "caption": "TOBAGO CAYS — cinq minuscules îlots dans un récif, refuge des tortues vertes",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

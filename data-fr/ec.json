@@ -1,0 +1,151 @@
+{
+  "name": "ÉQUATEUR",
+  "nativeName": "EC",
+  "romaji": "ECUADOR",
+  "tagline": "Quatre mondes dans un seul pays",
+  "region": "South America",
+  "coords": "1.83°S, 78.18°W",
+  "fileNo": "47",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CEBF9A",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#DCCFA8",
+    "accent": "#E8B800",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/ec.svg",
+    "title": "Drapeau de l'Équateur",
+    "note": "Jaune, bleu et rouge avec les armoiries",
+    "keyColor": "#E8B800",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Équateur veut dire « équateur » — ce pays est posé exactement sur la ligne qui coupe la Terre en deux ! Dans ce tout petit pays, on trouve des volcans enneigés, la jungle amazonienne, des plages et des îles où vivent des tortues géantes grosses comme des rochers. C'est l'un des endroits les plus riches en animaux et en plantes sur toute la planète !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Quito",
+      "sub": "Perchée à 2 850 m d'altitude"
+    },
+    {
+      "label": "Habitants",
+      "value": "18,6 millions",
+      "sub": "Estimation 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar américain",
+      "sub": "Utilise le dollar depuis 2000"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "Le kichwa est aussi parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "283 561 km²",
+      "sub": "Îles Galápagos incluses"
+    },
+    {
+      "label": "Point culminant",
+      "value": "6 263 m",
+      "sub": "Le volcan Chimborazo"
+    }
+  ],
+  "islands": [
+    "QUITO",
+    "GUAYAQUIL",
+    "CUENCA",
+    "GALÁPAGOS",
+    "MANTA"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Quatre mondes, un tout petit pays",
+    "animals": "Géants, iguanes et colibris",
+    "culture": "Chapeaux, musique et marchés",
+    "history": "L'or des Incas et la liberté",
+    "wows": "Des surprises à l'Équateur !"
+  },
+  "geo": "Les Andes traversent l'Équateur comme une grande colonne vertébrale, avec le Chimborazo si haut que son sommet est le point le plus éloigné du centre de la Terre ! À l'est coule l'Amazone avec sa jungle immense, et à 1 000 km dans l'océan, les îles Galápagos abritent des animaux qu'on ne trouve nulle part ailleurs.",
+  "animals": "La tortue géante des Galápagos pèse 400 kg et vit plus de 100 ans — plus longtemps que n'importe quel humain ! L'iguane marin plonge dans la mer pour manger des algues, ce qui en fait le seul lézard au monde qui nage dans l'océan.",
+  "culture": "Le fameux chapeau « Panama » est en réalité fabriqué en Équateur, tressé à la main avec de la paille dans les villages côtiers — c'est si beau que l'UNESCO l'a classé au patrimoine de l'humanité ! Au marché d'Otavalo, les habitants Kichwa vendent depuis des siècles de magnifiques tissus colorés faits à la main.",
+  "history": "Il y a très longtemps, les puissants Incas ont fait de Quito leur capitale du nord. Quand les Espagnols sont arrivés en 1534, ils ont construit leurs églises directement sur les fondations incas — on peut encore les voir aujourd'hui !",
+  "wows": [
+    "Le sommet du Chimborazo est plus loin du centre de la Terre que celui de l'Everest, car notre planète est un peu ronde comme une balle aplatie à l'équateur.",
+    "L'Équateur envoie plus de 5 millions de tonnes de bananes chaque année dans le monde entier !",
+    "L'iguane marin éternue le sel de mer qu'il avale, et ça lui fait une croûte blanche sur la tête.",
+    "Quito a été la toute première ville au monde à recevoir le titre de Patrimoine mondial de l'UNESCO, en 1978.",
+    "L'Équateur abrite plus de 4 000 espèces d'orchidées — plus que n'importe quel autre pays !",
+    "À Mitad del Mundo, tu peux mettre un pied dans chaque moitié de la Terre en même temps.",
+    "Charles Darwin a visité les Galápagos en 1835 et cette visite a changé la science pour toujours."
+  ],
+  "myths": [
+    {
+      "myth": "« Les chapeaux Panama viennent du Panama »",
+      "fact": "Pas du tout ! Ils sont fabriqués en Équateur depuis toujours. On les appelait « Panama » parce qu'ils passaient par le Panama pour être vendus dans les années 1800. Les plus beaux viennent de Montecristi, en Équateur."
+    },
+    {
+      "myth": "« Le Chimborazo est plus petit que l'Everest »",
+      "fact": "En hauteur depuis la mer, oui — mais si on mesure depuis le centre de la Terre, c'est le Chimborazo qui gagne ! Le renflement de la Terre à l'équateur pousse son sommet environ 2 168 km plus loin que celui de l'Everest."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ass"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Delicioso!",
+      "say": "deh-lee-SYOH-so"
+    },
+    {
+      "en": "Où est... ?",
+      "jp": "¿Dónde está?",
+      "say": "DON-deh es-TAH"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Adiós",
+      "say": "ah-DYOSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ec-hero.jpg",
+      "alt": "Vue aérienne du centre historique de Quito avec les clochers des églises coloniales",
+      "caption": "VIEUX QUITO — l'un des centres coloniaux les mieux conservés des Amériques",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ec-landmark.jpg",
+      "alt": "Le cône enneigé du volcan Cotopaxi s'élevant au-dessus du plateau andin",
+      "caption": "COTOPAXI — l'un des volcans actifs les plus hauts du monde à 5 897 m",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ec-animalA.jpg",
+      "alt": "Tortue géante des Galápagos avec sa carapace bombée sur l'herbe",
+      "caption": "TORTUE GÉANTE DES GALÁPAGOS — peut vivre plus longtemps que n'importe quel humain",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ec-animalB.jpg",
+      "alt": "Fou à pieds bleus debout sur un rocher montrant ses pieds d'un bleu éclatant",
+      "caption": "FOU À PIEDS BLEUS — danse pour montrer ses magnifiques pieds bleus",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

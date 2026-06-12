@@ -1,0 +1,151 @@
+{
+  "name": "BANGLADESH",
+  "nativeName": "বাংলা",
+  "romaji": "BANGLADESH",
+  "tagline": "Le cœur vert des rivières",
+  "region": "South Asia",
+  "coords": "23.7°N, 90.4°E",
+  "fileNo": "BD",
+  "langName": "bengali",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EFE2",
+    "dot": "#C8C2A8",
+    "ink": "#1E2318",
+    "faint": "#7A7A60",
+    "line": "#D8D5BF",
+    "accent": "#006A4E",
+    "accent2": "#F42A41"
+  },
+  "flag": {
+    "assetPath": "/flags/bd.svg",
+    "title": "Drapeau du Bangladesh",
+    "note": "Fond vert avec un disque rouge au centre",
+    "keyColor": "#006A4E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Bangladesh, plus de 700 rivières coulent partout — c'est comme un immense puzzle d'eau et de terre verte ! Des tigres géants vivent dans la forêt et savent nager dans la mer. La pluie de mousson arrive chaque année et transforme tous les champs en miroirs brillants !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Dhaka",
+      "sub": "Environ 24 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "173,6 millions",
+      "sub": "Estimation Banque Mondiale 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Taka (৳)",
+      "sub": "BDT — 100 paisa = 1 taka"
+    },
+    {
+      "label": "Langue",
+      "value": "Bengali",
+      "sub": "Aussi appelé Bangla"
+    },
+    {
+      "label": "Superficie",
+      "value": "148 460 km²",
+      "sub": "Plus petit que la France du quart"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Saka Haphong",
+      "sub": "1 063 m — Collines de Chittagong"
+    }
+  ],
+  "islands": [
+    "Dhaka",
+    "Chittagong",
+    "Sylhet",
+    "Rajshahi",
+    "Khulna"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays tout plat rempli de rivières !",
+    "animals": "Des tigres nageurs et des poissons magiques",
+    "culture": "Du riz, de la musique et des habits colorés",
+    "history": "Une très vieille terre de légendes",
+    "wows": "7 choses époustouflantes !"
+  },
+  "geo": "Le Bangladesh est presque entièrement plat et traversé par plus de 700 rivières qui coulent vers la mer. Chaque année, la grande pluie de mousson inonde un tiers du pays et laisse une boue si riche que les champs poussent trois fois par an !",
+  "animals": "Le tigre du Bengale royal vit dans la forêt des Sundarbans et sait nager entre les îles dans l'eau salée — c'est le seul tigre au monde qui nage dans la mer ! Le poisson Hilsa est tellement adoré au Bangladesh que le pays en pêche 86 % de toute la planète.",
+  "culture": "Au Bangladesh, on mange du riz à presque tous les repas, et tout le monde adore chanter — un grand poète d'ici a écrit la chanson nationale du pays ! Chaque printemps, la fête Pahela Baishakh remplit les rues de vêtements orange et blanc très joyeux.",
+  "history": "Il y a très longtemps, ce pays s'appelait le Bengale et était célèbre dans le monde entier pour ses tissus si fins qu'on les appelait « air tissé ». Les empereurs et les rois de loin venaient acheter ces étoffes magiques qui semblaient faites de nuages !",
+  "wows": [
+    "Le Bangladesh est sur le plus grand delta du monde, là où deux immenses fleuves se jettent dans la mer.",
+    "Les tigres des Sundarbans nagent dans l'eau salée — aucun autre tigre au monde ne fait ça !",
+    "Le Bangladesh pêche 86 % de tous les poissons Hilsa de la planète entière.",
+    "Dhaka est l'une des villes les plus bondées de la Terre, avec 44 000 personnes par km².",
+    "Les empereurs appelaient le tissu de Dhaka « air tissé » — tellement il était léger et doux !",
+    "Le grand pont Padma mesure 6 km de long et a été payé entièrement par le Bangladesh tout seul.",
+    "Un même poète a écrit les chansons nationales de DEUX pays différents : le Bangladesh ET l'Inde !"
+  ],
+  "myths": [
+    {
+      "myth": "Il y a toujours des inondations terribles",
+      "fact": "Les inondations de mousson couvrent un tiers du pays mais laissent une boue si fertile que les agriculteurs peuvent faire pousser trois récoltes de riz par an — c'est une chance, pas seulement un malheur !"
+    },
+    {
+      "myth": "C'est l'un des pays les plus pauvres du monde",
+      "fact": "Depuis 1990, des millions de personnes sont sorties de la pauvreté au Bangladesh, qui est devenu le deuxième plus grand exportateur de vêtements au monde."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "আস-সালামু",
+      "say": "As-salam alaykum"
+    },
+    {
+      "en": "Merci",
+      "jp": "ধন্যবাদ",
+      "say": "Dhon-no-bad"
+    },
+    {
+      "en": "Oui",
+      "jp": "হ্যাঁ",
+      "say": "Hya"
+    },
+    {
+      "en": "Riz",
+      "jp": "ভাত",
+      "say": "Bhat"
+    },
+    {
+      "en": "Rivière",
+      "jp": "নদী",
+      "say": "No-dee"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/bd-landmark.jpg",
+      "alt": "Le parlement Jatiyo Sangsad Bhaban se reflète dans l'eau qui l'entoure",
+      "caption": "JATIYO SANGSAD BHABAN — le parlement de Louis Kahn, Dhaka",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bd-animalA.jpg",
+      "alt": "Tigre du Bengale royal marchant dans une eau peu profonde",
+      "caption": "TIGRE DU BENGALE ROYAL — animal national, sauvage dans les Sundarbans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bd-animalB.jpg",
+      "alt": "Poissons Hilsa argentés étalés sur un marché",
+      "caption": "POISSON HILSA — le Bangladesh fournit 86 % de la pêche mondiale",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "src": "/photos/bd-hero.jpg",
+      "alt": "Le pont Padma s'étire au-dessus du large fleuve Padma",
+      "caption": "PONT PADMA — 6,15 km, construit avec les propres fonds du Bangladesh, 2022",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "CORÉE DU SUD",
+  "nativeName": "한국",
+  "romaji": "HANGUK",
+  "tagline": "Le pays du matin calme",
+  "region": "East Asia",
+  "coords": "37°N 127°E",
+  "fileNo": "082",
+  "langName": "coréen",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EDE4",
+    "dot": "#C9C0AF",
+    "ink": "#1E1C18",
+    "faint": "#7D7260",
+    "line": "#DDD8CC",
+    "accent": "#C60C30",
+    "accent2": "#003478"
+  },
+  "flag": {
+    "assetPath": "/flags/kr.svg",
+    "title": "태극기 Taegukgi",
+    "note": "Cercle yin-yang et quatre trigrammes sur fond blanc",
+    "keyColor": "#C60C30",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Corée du Sud, les bébés naissent déjà âgés d'un an — c'est une règle qui a existé pendant des siècles ! Ce pays a inventé un alphabet si facile qu'on peut l'apprendre en une seule matinée. Et presque tout le monde y a internet ultra-rapide à la maison !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Séoul",
+      "sub": "Environ 9,6 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "51,8 millions",
+      "sub": "Recensement 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Won (₩)",
+      "sub": "1 USD ≈ 1 450 wons"
+    },
+    {
+      "label": "Langue",
+      "value": "coréen",
+      "sub": "Alphabet hangul, 24 lettres"
+    },
+    {
+      "label": "Superficie",
+      "value": "100 339 km²",
+      "sub": "Un peu plus grand que l'Islande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Hallasan 1 947 m",
+      "sub": "Volcan sur l'île de Jeju"
+    }
+  ],
+  "islands": [
+    "Seoul",
+    "Busan",
+    "Jeju",
+    "Incheon",
+    "Gwangju"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, côtes et rizières",
+    "animals": "Tigres, grues et trésors de la mer",
+    "culture": "Kimchi, K-pop et temples",
+    "history": "Légendes, rois et inventions magiques",
+    "wows": "7 choses à ne pas croire !"
+  },
+  "geo": "La Corée du Sud est couverte à 70 % de montagnes boisées et escarpées, et les gens vivent surtout sur les étroites plaines côtières. Au sud, l'île de Jeju cache un volcan endormi appelé Hallasan et des tunnels creusés dans la lave qu'on peut visiter à pied !",
+  "animals": "L'animal national de la Corée du Sud est le tigre de Sibérie, grand, puissant et presque blanc dans la neige. La grue à couronne rouge, avec sa tête écarlate et ses plumes blanches, est un symbole de chance — chaque hiver, des milliers d'entre elles viennent se reposer dans les zones humides de Corée !",
+  "culture": "Le plat le plus célèbre de Corée est le kimchi — un chou fermenté piquant et aillé que l'on mange à presque tous les repas, et il en existe plus de 200 variétés ! La K-pop, c'est de la musique coréenne avec des clips éblouissants et des fans partout dans le monde qui connaissent chaque pas de danse.",
+  "history": "Il y a très longtemps, un roi coréen a demandé à ses savants d'inventer un alphabet facile pour que tout le monde puisse lire — ils ont créé le hangul en 1443, avec seulement 24 lettres ! Des palais magnifiques construits il y a 600 ans se dressent encore aujourd'hui au cœur de Séoul.",
+  "wows": [
+    "Presque tous les foyers coréens ont internet ultra-rapide — parmi les plus rapides du monde !",
+    "L'alphabet hangul est si simple qu'on peut apprendre à le lire en une seule matinée.",
+    "À Séoul, il y a des milliers de grands bains publics appelés jjimjilbang où les familles se détendent, dorment et mangent ensemble.",
+    "Les bébés coréens naissaient officiellement âgés d'un an dès leur naissance — une règle abandonnée seulement en 2023 !",
+    "La Corée du Sud ne touche qu'un seul autre pays par la terre — la Corée du Nord — comme une île entourée de mer.",
+    "La zone interdite entre les deux Corées est devenue un paradis pour les animaux sauvages : 6 200 espèces y vivent sans être dérangées depuis 1953.",
+    "Samsung, une entreprise coréenne, a représenté à lui seul presque 20 % de toute l'économie du pays certaines années !"
+  ],
+  "myths": [
+    {
+      "myth": "La nourriture coréenne est toujours très piquante",
+      "fact": "Le piment n'est arrivé en Corée qu'autour de l'an 1600 ! Beaucoup de plats traditionnels — soupes, gâteaux de riz, cuisine des temples — sont tout doux et sans piquant."
+    },
+    {
+      "myth": "Les stars de K-pop font juste chanter et danser",
+      "fact": "Les idoles s'entraînent pendant des années au chant, à la danse, aux langues étrangères et au jeu de scène avant de se produire pour la première fois — c'est un métier très difficile !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "안녕하세요",
+      "say": "an-nyong-ha-se-yo"
+    },
+    {
+      "en": "Merci",
+      "jp": "감사합니다",
+      "say": "gam-sa-ham-ni-da"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "맛있어요",
+      "say": "ma-shi-sso-yo"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "안녕히 가세요",
+      "say": "anyong-hi-ga-seyo"
+    },
+    {
+      "en": "Oui / Non",
+      "jp": "네 / 아니요",
+      "say": "ne / a-ni-yo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kr-hero.jpg",
+      "alt": "Train à grande vitesse KTX à la gare de Séoul",
+      "caption": "TRAIN KTX — Le train à grande vitesse coréen à la gare de Séoul",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kr-landmark.jpg",
+      "alt": "Vue extérieure du palais Gyeongbokgung à Séoul",
+      "caption": "PALAIS GYEONGBOKGUNG — Grand palais royal du XIVe siècle à Séoul",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kr-animalA.jpg",
+      "alt": "Tigre de Sibérie dans une forêt enneigée",
+      "caption": "TIGRE DE SIBÉRIE — Animal national de la Corée, aujourd'hui disparu de la péninsule",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kr-animalB.jpg",
+      "alt": "Grue à couronne rouge dans une zone humide",
+      "caption": "GRUE À COURONNE ROUGE — Symbole sacré de chance, hiverne dans les zones humides de la DMZ",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

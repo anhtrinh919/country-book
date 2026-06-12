@@ -1,0 +1,151 @@
+{
+  "name": "MEXIQUE",
+  "nativeName": "México",
+  "romaji": "MÉXICO",
+  "tagline": "Soleil, épices et histoires fabuleuses",
+  "region": "Northern America",
+  "coords": "23°N 102°W",
+  "fileNo": "042",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#251E14",
+    "faint": "#8A7350",
+    "line": "#DDD0AA",
+    "accent": "#006847",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/mx.svg",
+    "title": "Drapeau du Mexique",
+    "note": "Vert, blanc et rouge avec un aigle au centre",
+    "keyColor": "#006847",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Mexique, de vrais volcans enneigés se dressent juste à côté de pyramides géantes vieilles de mille ans ! C'est le pays qui a inventé le chocolat — imagine, sans le Mexique, pas de chocolat !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Mexico",
+      "sub": "La plus grande ville d'Amérique du Nord"
+    },
+    {
+      "label": "Habitants",
+      "value": "~129 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Peso mexicain",
+      "sub": "MXN, symbole $"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "Plus 68 langues indigènes"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 972 550 km²",
+      "sub": "13e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "5 610 m",
+      "sub": "Citlaltépetl — un volcan endormi"
+    }
+  ],
+  "islands": [
+    "Baja Calif.",
+    "Yucatán",
+    "Oaxaca",
+    "Chiapas",
+    "Sonora"
+  ],
+  "islandsLabel": "GRANDS ÉTATS :",
+  "sections": {
+    "geography": "Déserts, montagnes et jungle !",
+    "animals": "Des animaux incroyables",
+    "culture": "Fêtes, musique et bonne cuisine",
+    "history": "Une légende d'il y a très longtemps",
+    "wows": "C'est vrai, je te jure !"
+  },
+  "geo": "Le Mexique a un grand désert au nord, une longue chaîne de montagnes au milieu et une jungle touffue au sud. La ville de Mexico est si haute dans les montagnes que même les footballeurs ont du mal à respirer !",
+  "animals": "L'axolotl est une petite salamandre souriante avec des plumes roses sur la tête qui peut faire repousser ses pattes si elle les perd. L'aigle royal, le même que sur le drapeau, peut repérer un lapin à deux kilomètres de distance !",
+  "culture": "En novembre, les familles mexicaines décorent de belles tables couvertes de fleurs orange pour accueillir leurs ancêtres lors du Día de los Muertos — c'est une fête joyeuse avec de la musique et de bons repas. Dans les rues, des orchestres en costumes argentés jouent de la trompette et du violon pendant qu'on mange des tacos et du maïs beurré !",
+  "history": "Il y a très longtemps, les Aztèques vivaient dans une ville magique construite sur une île au milieu d'un grand lac, là où se trouve aujourd'hui Mexico. Cette ville s'appelait Tenochtitlan et elle était si belle que les visiteurs pensaient rêver !",
+  "wows": [
+    "La pyramide de Cholula est si grande qu'une vraie église a été construite tout en haut.",
+    "Le Mexique a inventé la télévision en couleur — sans lui, tout serait encore en noir et blanc !",
+    "Mexico s'enfonce doucement dans le lac ancien qui se trouve sous ses pieds, de 12 mètres en cent ans.",
+    "Le chihuahua est le plus petit chien du monde entier, et il porte le nom d'un état mexicain.",
+    "Chaque hiver, des centaines de millions de papillons monarques volent 4 500 km du Canada jusqu'au Mexique.",
+    "La première imprimerie de toute l'Amérique a été installée à Mexico en 1539.",
+    "Les Mayas et les Aztèques buvaient le chocolat chaud et épicé bien avant que quiconque pense à ajouter du sucre."
+  ],
+  "myths": [
+    {
+      "myth": "Le Mexique est un grand désert",
+      "fact": "Il y a aussi des forêts tropicales, des forêts de nuages, des récifs de corail et de belles vallées — bien plus que le désert du nord !"
+    },
+    {
+      "myth": "Le Jour des Morts c'est comme Halloween",
+      "fact": "C'est une fête chaleureuse en famille pour dire bonjour aux ancêtres — avec des fleurs orange et les plats préférés des proches, pas pour faire peur !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Ami",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    },
+    {
+      "en": "On y va !",
+      "jp": "¡Vámonos!",
+      "say": "VAH-moh-nos"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mx-hero.jpg",
+      "alt": "Skyline de Mexico le long du boulevard Paseo de la Reforma",
+      "caption": "MEXICO — Le boulevard Paseo de la Reforma, l'une des grandes avenues des Amériques",
+      "credit": "Héctor García / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/mx-landmark.jpg",
+      "alt": "La pyramide El Castillo à Chichen Itza sous un ciel bleu",
+      "caption": "CHICHEN ITZA — El Castillo, la pyramide maya et l'une des Sept Nouvelles Merveilles du monde",
+      "credit": "Ovedc / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mx-animalA.jpg",
+      "alt": "Axolotl blanc avec des branchies roses en plumes dans l'eau",
+      "caption": "AXOLOTL — La petite salamandre souriante du Mexique qui peut faire repousser ses pattes",
+      "credit": "LoKiLeCh / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/mx-animalB.jpg",
+      "alt": "Gros plan d'un aigle royal montrant ses plumes dorées sur le cou",
+      "caption": "AIGLE ROYAL — L'oiseau national du Mexique, sur le drapeau depuis l'époque des Aztèques",
+      "credit": "Böhringer Friedrich / CC BY-SA 2.5"
+    }
+  }
+}

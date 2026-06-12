@@ -1,0 +1,151 @@
+{
+  "name": "PALAOS",
+  "nativeName": "Belau",
+  "romaji": "BELAU",
+  "tagline": "Le joyau de l'océan Pacifique",
+  "region": "Micronesia, Pacific",
+  "coords": "7.5°N, 134.6°E",
+  "fileNo": "PW",
+  "langName": "palauan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF6F5",
+    "dot": "#C2DCD9",
+    "ink": "#1A2E2C",
+    "faint": "#6E8C8A",
+    "line": "#D4ECEB",
+    "accent": "#0085CA",
+    "accent2": "#FFD100"
+  },
+  "flag": {
+    "assetPath": "/flags/pw.svg",
+    "title": "Drapeau des Palaos",
+    "note": "Mer bleue, lune dorée — paix et abondance",
+    "keyColor": "#0085CA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Les Palaos, c'est 340 îles vertes posées sur une mer turquoise comme des bonbons sur un gâteau ! Sous l'eau vivent plus de 500 espèces de coraux — un vrai jardin magique. C'est le pays qui a inventé les règles pour protéger les océans du monde entier !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Ngerulmud",
+      "sub": "La capitale la moins peuplée du monde"
+    },
+    {
+      "label": "Habitants",
+      "value": "~18 000",
+      "sub": "Est. 2024, 73 % de Palauans de souche"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar américain",
+      "sub": "USD — pas de monnaie propre"
+    },
+    {
+      "label": "Langue",
+      "value": "Palauan",
+      "sub": "& anglais, tous deux officiels"
+    },
+    {
+      "label": "Superficie",
+      "value": "459 km²",
+      "sub": "Plus petit que l'île de Hong Kong"
+    },
+    {
+      "label": "Point culminant",
+      "value": "242 m",
+      "sub": "Mt Ngerchelchuus, Babeldaob"
+    }
+  ],
+  "islands": [
+    "Babeldaob",
+    "Koror",
+    "Peleliu",
+    "Angaur",
+    "Kayangel"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Îles de jade et de turquoise",
+    "animals": "Méduses sans dard et vaches de mer",
+    "culture": "Maisons à histoires et fêtes de lune",
+    "history": "Des étoiles et des îles mystérieuses",
+    "wows": "Sept merveilles étonnantes"
+  },
+  "geo": "Les Palaos se trouvent dans le Pacifique, entre les Philippines et la Papouasie-Nouvelle-Guinée. Ses 340 îles sont entourées d'un récif incroyable avec plus de 500 espèces de coraux et 1 300 poissons !",
+  "animals": "Au lac des Méduses vit presque un million de méduses dorées qui ont perdu leur dard il y a 12 000 ans — tu peux nager avec elles sans te faire piquer ! Les eaux chaudes abritent aussi des dugongs, de gentilles vaches de mer qui broutent l'herbe sous l'eau.",
+  "culture": "Le bai est une grande maison en bois décorée de panneaux peints qui racontent des histoires et des légendes. La société des Palaos donne la terre et le titre de clan aux mamans — ce sont elles les chefs de famille !",
+  "history": "Les premiers habitants sont arrivés aux Palaos il y a au moins 3 000 ans et ont construit des terrasses en pierre encore visibles aujourd'hui. Les Palaos sont devenus un pays indépendant le 1er octobre 1994 — un tout nouveau pays !",
+  "wows": [
+    "Ngerulmud est la capitale d'un pays avec presque personne qui y habite en permanence !",
+    "En 2009, les Palaos ont créé le premier sanctuaire pour requins au monde — 135 espèces protégées.",
+    "Depuis 2020, les Palaos interdisent les crèmes solaires qui abîment les coraux.",
+    "Chaque visiteur signe une promesse de protéger la nature — tamponnée dans son passeport !",
+    "La méduse dorée du lac des Méduses n'existe nulle part ailleurs sur la planète.",
+    "Les Palaos ont fermé 80 % de leur zone marine à la pêche — une des plus grandes réserves du monde.",
+    "Les Îles Rocheuses sont le seul site mixte classé au patrimoine mondial de l'UNESCO dans tout le Pacifique."
+  ],
+  "myths": [
+    {
+      "myth": "Les Palaos sont trop petits pour changer le monde",
+      "fact": "Ce pays de seulement 18 000 habitants a inventé le premier sanctuaire à requins, la première interdiction de crème solaire toxique pour les coraux, et une réserve marine grande comme la France !"
+    },
+    {
+      "myth": "Les méduses du lac vont te piquer",
+      "fact": "Ces méduses dorées ont vécu seules pendant 12 000 ans sans prédateurs et ont perdu leur dard. Nager parmi des millions d'elles est totalement sans danger !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Alii",
+      "say": "ah-LEE"
+    },
+    {
+      "en": "Merci",
+      "jp": "Sulang",
+      "say": "soo-LANG"
+    },
+    {
+      "en": "Bonjour le matin",
+      "jp": "Ungil tutau",
+      "say": "OON-gil too-TAW"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Mechikung",
+      "say": "meh-CHEE-kung"
+    },
+    {
+      "en": "Oui",
+      "jp": "Choi",
+      "say": "choy"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pw-hero.jpg",
+      "alt": "Vue aérienne des Îles Rocheuses des Palaos, des centaines de dômes calcaires boisés émergeant d'un lagon turquoise",
+      "caption": "ÎLES ROCHEUSES — dômes calcaires émeraude éparpillés sur le lagon turquoise du sud des Palaos",
+      "credit": "Luka Peternel / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/pw-landmark.jpg",
+      "alt": "Vue aérienne du sanctuaire marin de Ngerukewid, les Soixante-Dix Îles, aux Palaos",
+      "caption": "NGERUKEWID — le sanctuaire des Soixante-Dix Îles, trésor marin classé au patrimoine mondial de l'UNESCO",
+      "credit": "Luka Peternel / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/pw-animalA.jpg",
+      "alt": "Un plongeur en palmes nageant parmi des millions de méduses dorées dans le lac des Méduses, aux Palaos",
+      "caption": "LAC DES MÉDUSES — un nageur glisse parmi des nuages de méduses dorées sans dard",
+      "credit": "Archipelago / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/pw-animalB.jpg",
+      "alt": "Un dugong glissant sous l'eau près d'un herbier de posidonies",
+      "caption": "DUGONG — la douce vache de mer qui broute dans les baies abritées des Palaos",
+      "credit": "Julien Willem / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

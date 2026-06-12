@@ -1,0 +1,151 @@
+{
+  "name": "NIGER",
+  "nativeName": "NE",
+  "romaji": "NIJAR",
+  "tagline": "Géant du désert, cœur de fleuve",
+  "region": "West Africa",
+  "coords": "17.6°N, 8.1°E",
+  "fileNo": "047",
+  "langName": "haoussa",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBC98",
+    "ink": "#2B2118",
+    "faint": "#8A7550",
+    "line": "#DDD0B0",
+    "accent": "#E05206",
+    "accent2": "#0DB02B"
+  },
+  "flag": {
+    "assetPath": "/flags/ne.svg",
+    "title": "Drapeau du Niger",
+    "note": "Orange, blanc et vert — avec un soleil au centre",
+    "keyColor": "#E05206",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Niger, il y a des girafes sauvages qui se promènent librement dans les villages — comme dans un zoo sans barrières ! Plus de la moitié du pays est un énorme désert de sable doré. Et pourtant, au sud coule un grand fleuve plein de crocodiles et d'hippopotames !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Niamey",
+      "sub": "Sur le fleuve Niger"
+    },
+    {
+      "label": "Habitants",
+      "value": "~27,3 millions",
+      "sub": "Estimation ONU 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Monnaie partagée en Afrique de l'Ouest"
+    },
+    {
+      "label": "Langue",
+      "value": "Haoussa",
+      "sub": "Officielle depuis 2025"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 267 000 km²",
+      "sub": "Le plus grand pays sans mer d'Afrique de l'Ouest"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 022 m",
+      "sub": "Mont Idoukal-n-Taghès, massif de l'Aïr"
+    }
+  ],
+  "islands": [
+    "Agadez",
+    "Niamey",
+    "Zinder",
+    "Maradi",
+    "Tahoua"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Désert, fleuve et grand ciel",
+    "animals": "Girafes, addax et amis",
+    "culture": "Fêtes, voiles et marchés colorés",
+    "history": "Les empereurs du Sahel",
+    "wows": "Sept merveilles surprenantes"
+  },
+  "geo": "Le Niger est immense — il fait la taille de la France, de l'Allemagne et de l'Espagne réunies ! Plus de 80 % du pays est couvert par le désert du Sahara, avec d'énormes dunes de sable. Mais au sud, le fleuve Niger apporte de l'eau et de la verdure, et un grand parc naturel s'étend sur trois pays à la fois.",
+  "animals": "La girafe d'Afrique de l'Ouest est l'animal le plus célèbre du Niger — c'est la girafe la plus rare du monde entier ! Il n'en restait que 50 dans les années 1990, mais aujourd'hui elles sont plus de 600 et se promènent librement près des villages. Dans le désert de l'Aïr vit l'addax, une antilope magique qui peut survivre sans presque boire d'eau.",
+  "culture": "Chaque année, les nomades Wodaabe organisent une fête très spéciale appelée le Gerewol : ce sont les hommes qui se maquillent, mettent de beaux habits et dansent pour impressionner les femmes ! Les Touaregs, eux, portent de grands voiles bleus et traversent le désert à dos de chameau depuis des centaines d'années. Les marchés du Niger sont pleins de couleurs, de musique et de bons plats.",
+  "history": "Il y a très longtemps, la ville d'Agadez était une cité magique où se croisaient des caravanes de chameaux chargés d'or et d'ivoire venus de toute l'Afrique. Le puissant empire Songhaï régnait sur tout le Sahel au 15ème siècle — c'était l'un des plus grands empires d'Afrique ! Sa mosquée d'Agadez, une tour en terre, est encore debout aujourd'hui.",
+  "wows": [
+    "Le minaret de la mosquée d'Agadez est la plus haute tour en boue du monde — 27 mètres, construite en 1515 !",
+    "La moitié des Nigériens a moins de 16 ans — c'est le pays le plus jeune du monde !",
+    "L'arbre le plus solitaire de la Terre se trouvait au Niger, seul pendant 400 km dans le désert du Ténéré.",
+    "Le parc national W est partagé entre trois pays : le Niger, le Burkina Faso et le Bénin — un seul parc pour trois pays !",
+    "Le Niger produit de l'uranium pour faire fonctionner des centrales électriques en Europe.",
+    "Les girafes du Niger se promènent librement dans les champs des agriculteurs, sans aucune barrière.",
+    "Le troupeau de girafes est passé de seulement 50 animaux dans les années 1990 à plus de 600 aujourd'hui !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Niger n'est qu'un grand désert vide",
+      "fact": "Le sud est une savane verte avec des fleuves, des fermes et des animaux sauvages. Plus de 90 % des habitants vivent là, avec des girafes et des hippopotames !"
+    },
+    {
+      "myth": "Le Niger et le Nigéria, c'est le même pays",
+      "fact": "Ce sont deux pays bien différents, tous les deux nommés d'après le fleuve Niger. Le Nigéria a 230 millions d'habitants, le Niger en a 27 millions — et leur histoire est très différente."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Sannu",
+      "say": "SAH-noo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Na gode",
+      "say": "nah GOH-day"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Yaya kake?",
+      "say": "YAH-yah KAH-kay"
+    },
+    {
+      "en": "Eau",
+      "jp": "Ruwa",
+      "say": "ROO-wah"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Kyau",
+      "say": "KYOW"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ne-hero.jpg",
+      "alt": "Le pont Kennedy enjambant le fleuve Niger à Niamey à l'heure dorée",
+      "caption": "PONT KENNEDY — le pont emblématique sur le fleuve Niger à Niamey",
+      "credit": "NigerTZai / Wikimedia CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ne-landmark.jpg",
+      "alt": "La grande mosquée d'Agadez en briques de terre s'élevant au-dessus de la vieille ville",
+      "caption": "MOSQUÉE D'AGADEZ — la plus haute tour en boue du monde, construite en 1515",
+      "credit": "Alamin Mohammed / Wikimedia CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ne-animalA.jpg",
+      "alt": "Une girafe d'Afrique de l'Ouest debout dans la réserve de Kouré près de Niamey",
+      "caption": "GIRAFE D'AFRIQUE DE L'OUEST — la girafe la plus rare du monde, libre près de Kouré",
+      "credit": "Clémence Delmas / Wikimedia CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ne-animalB.jpg",
+      "alt": "Un addax mâle avec de longues cornes en spirale dans son habitat désertique",
+      "caption": "ANTILOPE ADDAX — une survivante du Sahara qui n'a presque pas besoin d'eau",
+      "credit": "Haytem Bouchri / Wikimedia CC BY-SA 4.0"
+    }
+  }
+}

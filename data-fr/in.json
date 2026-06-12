@@ -1,0 +1,151 @@
+{
+  "name": "INDE",
+  "nativeName": "भारत",
+  "romaji": "BHARAT",
+  "tagline": "Le pays des épices et des merveilles",
+  "region": "South Asia",
+  "coords": "28°N · 77°E",
+  "fileNo": "IN",
+  "flag": {
+    "assetPath": "/flags/in.svg",
+    "title": "Tiranga",
+    "note": "Safran, blanc et vert + roue Ashoka",
+    "keyColor": "#FF9933",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Inde a inventé le chiffre zéro — sans lui, les ordinateurs n'existeraient pas ! C'est le pays le plus peuplé du monde, avec plus d'un milliard quatre cents millions d'habitants. Des montagnes enneigées au nord aux plages tropicales au sud, l'Inde est pleine de surprises !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "New Delhi",
+      "sub": "dans la grande ville de Delhi"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,44 milliard",
+      "sub": "est. 2024 — le pays le plus peuplé du monde"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Roupie ₹",
+      "sub": "₹1 = 100 paise"
+    },
+    {
+      "label": "Langue",
+      "value": "Hindi et plus",
+      "sub": "22 langues officielles au total"
+    },
+    {
+      "label": "Superficie",
+      "value": "3 287 263 km²",
+      "sub": "7e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Kangchenjunga",
+      "sub": "8 586 m — 3e plus haute montagne du monde"
+    }
+  ],
+  "islands": [
+    "Rajasthan",
+    "Kerala",
+    "Mumbai",
+    "Varanasi",
+    "Assam"
+  ],
+  "islandsLabel": "GRANDES RÉGIONS ET VILLES :",
+  "sections": {
+    "geography": "Montagnes, moussons et bien plus !",
+    "animals": "Tigres, éléphants et paons",
+    "culture": "Fêtes, curry et Bollywood",
+    "history": "Une histoire vieille de 10 000 ans",
+    "wows": "L'Inde va t'épater !"
+  },
+  "geo": "L'Inde ressemble à un grand triangle pointé vers le sud dans l'océan Indien. L'Himalaya forme un mur de neige géant tout au nord du pays.",
+  "animals": "Le tigre du Bengale est l'animal national de l'Inde — un grand chasseur rayé qui vit dans les forêts. Le paon, l'oiseau national, agite un éventail de plumes bleu brillant comme un danseur de discothèque !",
+  "culture": "En Inde, la fête de Holi est magique : les gens se lancent des nuages de poudre colorée jusqu'à ressembler à des arcs-en-ciel qui marchent ! On boit du chai sucré et épicé partout dans les rues.",
+  "history": "Il y a plus de 4 000 ans, l'une des plus anciennes villes du monde existait déjà en Inde, avec des rues tracées au cordeau et même des égouts ! L'empereur moghol Shah Jahan a fait construire le Taj Mahal au 17e siècle pour honorer sa femme adorée.",
+  "wows": [
+    "L'Inde a inventé le chiffre zéro — sans lui, les ordinateurs ne pourraient pas fonctionner !",
+    "Le Taj Mahal devient rose au lever du soleil et doré au coucher du soleil.",
+    "En Inde, on parle plus de 19 500 langues et dialectes différents !",
+    "Les trains indiens transportent environ 23 millions de passagers chaque jour — c'est comme si toute l'Australie voyageait en train chaque matin !",
+    "En 2023, l'Inde a fait atterrir une fusée près du pôle sud de la Lune — une première mondiale !",
+    "La ville de Varanasi est habitée sans interruption depuis au moins 3 000 ans.",
+    "L'Inde produit environ 40 % de toutes les épices du monde entier !"
+  ],
+  "myths": [
+    {
+      "myth": "Les vaches sont des dieux en Inde",
+      "fact": "Les Hindous respectent les vaches comme des symboles de bonté, pas comme des dieux. On les laisse se promener librement dans les rues par respect."
+    },
+    {
+      "myth": "Il fait toujours très chaud en Inde",
+      "fact": "À Delhi, il peut faire presque zéro degré en janvier, et l'Himalaya est recouvert de neige toute l'année ! L'Inde a six saisons différentes."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "नमस्ते",
+      "say": "Nah-mah-STAY"
+    },
+    {
+      "en": "Merci",
+      "jp": "धन्यवाद",
+      "say": "DHUN-yuh-vahd"
+    },
+    {
+      "en": "Oui",
+      "jp": "हाँ",
+      "say": "Haan"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "स्वादिष्ट!",
+      "say": "Swaa-DISH-t"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "अलविदा",
+      "say": "Al-VEE-dah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/in-hero.jpg",
+      "alt": "L'arche de la Porte de l'Inde à New Delhi au crépuscule",
+      "caption": "PORTE DE L'INDE, New Delhi — grande arche de grès rouge en hommage aux soldats.",
+      "credit": "Wikimedia Commons / Atudu"
+    },
+    "landmark": {
+      "src": "/photos/in-landmark.jpg",
+      "alt": "Le Taj Mahal et son reflet dans le long bassin au lever du soleil",
+      "caption": "TAJ MAHAL, Agra — mausolée en marbre blanc ivoire construit entre 1632 et 1653.",
+      "credit": "Wikimedia Commons / Yann Forget"
+    },
+    "animalA": {
+      "src": "/photos/in-animalA.jpg",
+      "alt": "Une tigresse du Bengale au repos dans la lumière filtrée de la forêt",
+      "caption": "TIGRE DU BENGALE — l'Inde abrite plus de tigres sauvages que tout autre pays.",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/in-animalB.jpg",
+      "alt": "Un paon indien déployant ses plumes de queue irisées en éventail",
+      "caption": "PAON INDIEN — oiseau national ; son éventail chatoyant compte 200 plumes.",
+      "credit": "Wikimedia Commons / Aravindreddy Gosala"
+    }
+  },
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA9A",
+    "ink": "#2B2218",
+    "faint": "#8C7A58",
+    "line": "#DECCB0",
+    "accent": "#FF9933",
+    "accent2": "#138808"
+  },
+  "motif": "sun",
+  "langName": "hindi"
+}

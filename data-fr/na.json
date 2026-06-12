@@ -1,0 +1,151 @@
+{
+  "name": "NAMIBIE",
+  "nativeName": "NA",
+  "romaji": "NAMIBIA",
+  "tagline": "Désert, étoiles et ciel sauvage",
+  "region": "Southern Africa",
+  "coords": "-22.0°N, 17.0°E",
+  "fileNo": "068",
+  "langName": "afrikaans",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#231F1A",
+    "faint": "#8A7A5A",
+    "line": "#DCCFAA",
+    "accent": "#003580",
+    "accent2": "#D4A017"
+  },
+  "flag": {
+    "assetPath": "/flags/na.svg",
+    "title": "Drapeau de la Namibie",
+    "note": "Soleil, bandes diagonales bleue, rouge et verte",
+    "keyColor": "#003580",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Namibie, des dunes orange géantes touchent l'océan ! C'est le désert le plus vieux de toute la Terre. La nuit, le ciel y est si noir qu'on voit des milliers d'étoiles brillantes !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Windhoek",
+      "sub": "Ville dans les montagnes à 1 654 m de hauteur"
+    },
+    {
+      "label": "Habitants",
+      "value": "3,0 millions",
+      "sub": "Est. 2023 — pays le moins peuplé du monde"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar namibien",
+      "sub": "Lié au rand d'Afrique du Sud"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "L'afrikaans et l'oshiwambo sont aussi parlés"
+    },
+    {
+      "label": "Superficie",
+      "value": "824 292 km²",
+      "sub": "Plus grand que la France et l'Allemagne réunies"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 573 m",
+      "sub": "Montagne Brandberg, région d'Erongo"
+    }
+  ],
+  "islands": [
+    "Windhoek",
+    "Swakopmund",
+    "Lüderitz",
+    "Oshakati",
+    "Walvis Bay"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Dunes, désert et côte mystérieuse",
+    "animals": "Guépards et lions de la savane",
+    "culture": "Tambours, ocre rouge et saucisses !",
+    "history": "Un peuple ancien et ses dessins sur les rochers",
+    "wows": "7 surprises incroyables"
+  },
+  "geo": "En Namibie, des dunes rouge-orange hautes comme des immeubles bordent tout l'océan — la plus grande s'appelle Big Daddy ! Juste à côté de ces dunes brûlantes, l'océan froid envoie du brouillard chaque matin, comme par magie.",
+  "animals": "La Namibie est le pays du monde avec le plus de guépards en liberté — environ 3 000 ! Sur la Côte des Squelettes, une plage accueille jusqu'à 100 000 otaries qui se prélassent ensemble.",
+  "culture": "Les femmes Himba du nord enduisent leurs cheveux d'une pâte rouge appelée ocre — c'est leur protection solaire naturelle ! À Windhoek, on mange des grillades africaines et des saucisses allemandes dans la même rue.",
+  "history": "Le peuple San vit en Namibie depuis plus de 20 000 ans et a dessiné des empreintes de mains sur les rochers ! Ces peintures rupestres sont comme un livre d'images géant laissé par nos lointains ancêtres.",
+  "wows": [
+    "Le désert du Namib a environ 55 millions d'années — c'est le désert le plus vieux de la Terre !",
+    "La dune Big Daddy fait 325 m de haut — plus haute que la Tour Eiffel !",
+    "La Namibie est le premier pays du monde à avoir protégé les animaux dans sa loi (1990).",
+    "La Côte des Squelettes s'appelle ainsi à cause des os de baleines et des épaves de bateaux.",
+    "Il y a environ 3 000 guépards sauvages en Namibie — plus que partout ailleurs sur Terre !",
+    "Le canyon de la Fish River est le plus grand d'Afrique : 160 km de long et 550 m de profond.",
+    "Environ 10 % des diamants du monde sont ramassés au fond de la mer, juste devant la Namibie !"
+  ],
+  "myths": [
+    {
+      "myth": "La Namibie est un désert vide sans vie",
+      "fact": "Elle abrite des guépards, des rhinocéros, des éléphants du désert, plus de 700 espèces d'oiseaux et des plages couvertes d'otaries et de pingouins !"
+    },
+    {
+      "myth": "Il ne pleut jamais en Namibie",
+      "fact": "Le nord reçoit de bonnes pluies en été, et même dans le Namib, il fleurit parfois après une averse — le sable se couvre de fleurs !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hallo",
+      "say": "HAH-low"
+    },
+    {
+      "en": "Merci",
+      "jp": "Dankie",
+      "say": "DUNK-ee"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ja",
+      "say": "Yah"
+    },
+    {
+      "en": "Eau",
+      "jp": "Water",
+      "say": "VAH-ter"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Pragtig",
+      "say": "PRAKH-tukh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/na-hero.jpg",
+      "alt": "Grandes dunes rouge-orange de Sossusvlei sous un ciel bleu vif",
+      "caption": "DUNES DE SOSSUSVLEI — parmi les plus hautes dunes de sable sur Terre, désert du Namib",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/na-landmark.jpg",
+      "alt": "Immense panorama du canyon de la Fish River, le plus grand canyon d'Afrique",
+      "caption": "CANYON DE LA FISH RIVER — le plus grand canyon d'Afrique, 160 km de long",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/na-animalA.jpg",
+      "alt": "Guépard aux aguets dans la savane namibienne",
+      "caption": "GUÉPARD — la Namibie abrite plus de guépards sauvages que tout autre pays",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/na-animalB.jpg",
+      "alt": "Des milliers d'otaries à fourrure entassées sur une plage de la Côte des Squelettes",
+      "caption": "OTARIES À FOURRURE — jusqu'à 100 000 otaries sur une seule plage de la Côte des Squelettes",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

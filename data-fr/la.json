@@ -1,0 +1,151 @@
+{
+  "name": "LAOS",
+  "nativeName": "ລາວ",
+  "romaji": "LAO PDR",
+  "tagline": "Le pays du million d'éléphants",
+  "region": "Asie du Sud-Est",
+  "coords": "18°N 103°E",
+  "fileNo": "076",
+  "langName": "lao",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EAD8",
+    "dot": "#C9B898",
+    "ink": "#221E18",
+    "faint": "#7D6E52",
+    "line": "#DACBB0",
+    "accent": "#CE1126",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/la.svg",
+    "title": "Drapeau du Laos",
+    "note": "Rouge, bleu, rouge — le disque blanc symbolise l'unité",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Laos, il y a encore de vrais éléphants sauvages qui se baignent dans les rivières de la jungle ! Le grand fleuve Mékong coule le long du pays, avec des milliers d'îles à explorer. Les moines en robe orange se promènent chaque matin dans les rues dorées !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Vientiane",
+      "sub": "Sur le fleuve Mékong"
+    },
+    {
+      "label": "Habitants",
+      "value": "7,8 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Kip lao",
+      "sub": "LAK — billets seulement, pas de pièces"
+    },
+    {
+      "label": "Langue",
+      "value": "Lao",
+      "sub": "Écrit avec des lettres toutes rondes"
+    },
+    {
+      "label": "Superficie",
+      "value": "236 800 km²",
+      "sub": "Un peu plus grand que le Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Phu Bia 2 819 m",
+      "sub": "Province de Xaisomboun"
+    }
+  ],
+  "islands": [
+    "Vientiane",
+    "L. Prabang",
+    "Pakse",
+    "Savannakhet",
+    "Phonsavan"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Rivières, jungles et plateaux magiques",
+    "animals": "Éléphants, ours et dieux des rivières",
+    "culture": "Moines, riz et grandes fêtes",
+    "history": "Un royaume aux mille éléphants",
+    "wows": "Sept choses qui étonnent vraiment"
+  },
+  "geo": "Les trois quarts du Laos sont couverts de montagnes et de jungle épaisse. La cascade de Kuang Si déverse une eau turquoise sur des rochers blancs, comme dans un conte de fées ! Le grand fleuve Mékong longe tout le pays, avec des milliers d'îles où l'on peut se balancer dans un hamac.",
+  "animals": "Le Laos s'appelait autrefois le Pays du Million d'Éléphants, et il en reste encore environ 700 dans les forêts ! Au bord de la rivière Tad Lo, on peut voir des éléphants barbotent dans l'eau au coucher du soleil. C'est le meilleur spectacle du monde !",
+  "culture": "Les Laotiens mangent plus de riz gluant que n'importe qui d'autre sur Terre — ils en avalent 171 kg chaque année ! Chaque matin à Luang Prabang, des centaines de moines en robe orange défilent en silence pour recevoir du riz dans leurs bols.",
+  "history": "Il y a très longtemps, un grand roi fonda le royaume de Lan Xang — ce qui veut dire « Million d'Éléphants » ! Sur le drapeau royal, un éléphant à trois têtes portait la couronne depuis plus de 600 ans.",
+  "wows": [
+    "Le Laos est le seul pays d'Asie du Sud-Est sans bord de mer — pas une seule plage !",
+    "La Plaine des Jarres est couverte de milliers de grandes jarres en pierre, vieilles de 2 500 ans !",
+    "Certaines jarres pèsent jusqu'à 14 tonnes — aussi lourd que deux éléphants !",
+    "Les Laotiens mangent 171 kg de riz gluant par personne chaque année — un record mondial !",
+    "Le saola a été découvert seulement en 1992 — personne ne l'avait jamais vu avant !",
+    "Si Phan Don signifie « Quatre Mille Îles » — dans un pays sans mer, c'est incroyable !",
+    "Le grand stupa Pha That Luang à Vientiane est recouvert de vrai or et apparaît sur tous les billets de banque !"
+  ],
+  "myths": [
+    {
+      "myth": "Au Laos, il fait toujours très chaud",
+      "fact": "Dans les montagnes comme à Phonsavan, il fait presque froid en hiver, et sur le plateau de Bolaven on cultive même des fraises toute l'année !"
+    },
+    {
+      "myth": "La Plaine des Jarres a été faite par des extraterrestres",
+      "fact": "Ces grandes jarres ont été fabriquées par des humains il y a environ 2 500 ans pour des cérémonies — c'est un travail humain extraordinaire !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "ສະບາຍດີ",
+      "say": "sa-bai-dee"
+    },
+    {
+      "en": "Merci",
+      "jp": "ຂໍຂອບໃຈ",
+      "say": "khob chai"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "ແຊບ",
+      "say": "saep"
+    },
+    {
+      "en": "Rivière",
+      "jp": "ແມ່ນ້ຳ",
+      "say": "mae nam"
+    },
+    {
+      "en": "Éléphant",
+      "jp": "ຊ້າງ",
+      "say": "saang"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/la-landmark.jpg",
+      "alt": "Le stupa doré Pha That Luang à Vientiane, Laos",
+      "caption": "PHA THAT LUANG — le grand stupa national recouvert d'or à Vientiane, construit en 1566",
+      "credit": "shankar s. / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/la-animalA.jpg",
+      "alt": "Un éléphant d'Asie qui se baigne dans la rivière Tad Lo au coucher du soleil, plateau de Bolaven, Laos",
+      "caption": "ÉLÉPHANT D'ASIE — se baignant dans la rivière Tad Lo au coucher du soleil, plateau de Bolaven",
+      "credit": "Basile Morin / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/la-animalB.jpg",
+      "alt": "Les chutes de Kuang Si qui tombent dans une piscine turquoise, Luang Prabang, Laos",
+      "caption": "CHUTES DE KUANG SI — cascade turquoise en terrasses près de Luang Prabang",
+      "credit": "Basile Morin / CC BY-SA 4.0"
+    },
+    "hero": {
+      "src": "/photos/la-hero.jpg",
+      "alt": "Des moines bouddhistes en robes safran qui reçoivent des aumônes à l'aube à Luang Prabang, Laos",
+      "caption": "TAK BAT — des moines en robe safran collectent leur riz du matin à l'aube, Luang Prabang",
+      "credit": "Christophe95 / CC BY-SA 4.0"
+    }
+  }
+}

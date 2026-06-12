@@ -1,0 +1,151 @@
+{
+  "name": "KAZAKHSTAN",
+  "nativeName": "ҚЗ",
+  "romaji": "QAZAQSTAN",
+  "tagline": "Steppe, ciel et étoiles",
+  "region": "Central Asia",
+  "coords": "48°N 68°E",
+  "fileNo": "62",
+  "langName": "kazakh",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EAD4",
+    "dot": "#C9B98A",
+    "ink": "#1E1A12",
+    "faint": "#8A7A4E",
+    "line": "#DDD0A8",
+    "accent": "#00AEEF",
+    "accent2": "#F0C020"
+  },
+  "flag": {
+    "assetPath": "/flags/kz.svg",
+    "title": "Ciel et soleil",
+    "note": "Ciel bleu, soleil doré et aigle qui vole, 32 rayons",
+    "keyColor": "#00AEEF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Kazakhstan est le plus grand pays du monde sans mer — imagine une immense prairie dorée aussi grande que toute l'Europe de l'Ouest ! Les gens y vivent dans des tentes rondes appelées yourtes depuis des milliers d'années. Et c'est de là que les premières fusées sont parties vers l'espace !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Astana",
+      "sub": "Sur la rivière Ishim, depuis 1997"
+    },
+    {
+      "label": "Habitants",
+      "value": "20,2 millions",
+      "sub": "Estimation officielle, jan. 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Tenge ₸",
+      "sub": "Introduit en novembre 1993"
+    },
+    {
+      "label": "Langue",
+      "value": "Kazakh",
+      "sub": "Le russe est aussi officiel"
+    },
+    {
+      "label": "Superficie",
+      "value": "2 724 900 km²",
+      "sub": "9e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "6 995 m",
+      "sub": "Khan Tengri, chaîne du Tian Shan"
+    }
+  ],
+  "islands": [
+    "Astana",
+    "Almaty",
+    "Shymkent",
+    "Karaganda",
+    "Aktau"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une mer d'herbe et de ciel",
+    "animals": "Aigles chasseurs et troupeaux sauvages",
+    "culture": "Fêtes de nomades et chansons de dombra",
+    "history": "De la Route de la Soie aux fusées",
+    "wows": "Oh là là, vraiment ?!"
+  },
+  "geo": "Le Kazakhstan est si grand qu'il couvre toute la largeur de l'Europe de l'Ouest ! La plupart du pays est une steppe plate comme une crêpe, mais au sud-est s'élèvent les montagnes pointues du Tian Shan.",
+  "animals": "L'aigle royal est l'animal national du Kazakhstan — des chasseurs à cheval lui apprennent à attraper des proies depuis plus de 4 000 ans ! Il y a aussi la saïga, une antilope avec un gros nez rigolo qui filtre la poussière de la steppe.",
+  "culture": "Au Kazakhstan, les invités mangent toujours en premier — c'est la règle ! Le plat préféré s'appelle le beshbarmak, ce qui veut dire « cinq doigts », parce qu'on le mange avec les mains.",
+  "history": "Il y a très longtemps, des caravanes chargées de soie et d'épices traversaient le Kazakhstan sur la Route de la Soie. Les nomades kazakhs étaient de grands cavaliers qui vivaient librement dans la steppe depuis des millénaires.",
+  "wows": [
+    "Le Kazakhstan est plus grand que toute l'Europe de l'Ouest, mais il n'a aucune plage !",
+    "Tous les pommiers du monde viennent des forêts sauvages près d'Almaty — le Kazakhstan est le pays natal de la pomme !",
+    "La première fusée qui a mis un homme dans l'espace est partie du Kazakhstan en 1961.",
+    "La montagne Khan Tengri devient rouge comme du sang au coucher du soleil — les grimpeurs l'appellent le Roi du Ciel.",
+    "Les yourtes sont des maisons rondes que l'on peut monter et démonter en quelques heures pour aller vivre ailleurs.",
+    "Les antilopes saïgas ont failli disparaître, mais il y en a maintenant 2,8 millions — un record mondial de sauvetage !",
+    "La capitale Astana est l'une des villes les plus froides du monde, avec −40 °C en hiver !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Kazakhstan est un pays tout plat et tout désert",
+      "fact": "Il y a aussi de grandes montagnes avec des glaciers, des forêts, des canyons et même une côte au bord de la mer Caspienne !"
+    },
+    {
+      "myth": "Il n'y a rien de moderne au Kazakhstan",
+      "fact": "Astana est une ville ultra-moderne avec des bâtiments futuristes, et le pays envoie des fusées dans l'espace !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Сәлем",
+      "say": "SAH-lem"
+    },
+    {
+      "en": "Merci",
+      "jp": "Рахмет",
+      "say": "RAKH-met"
+    },
+    {
+      "en": "Oui",
+      "jp": "Иә",
+      "say": "YAH"
+    },
+    {
+      "en": "Non",
+      "jp": "Жоқ",
+      "say": "ZHOK"
+    },
+    {
+      "en": "Cheval",
+      "jp": "Жылқы",
+      "say": "ZHIL-kuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kz-hero.jpg",
+      "alt": "Le centre de loisirs Khan Shatyr en forme de tente géante à Astana",
+      "caption": "KHAN SHATYR — l'immense tente transparente d'Astana s'élève à 150 m au-dessus de la steppe",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kz-landmark.jpg",
+      "alt": "La tour Bayterek à Astana, monument emblématique du Kazakhstan",
+      "caption": "TOUR BAYTEREK — le symbole à sphère dorée d'Astana, haute de 105 m",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kz-animalA.jpg",
+      "alt": "Antilope saïga sur la steppe kazakhe avec son nez bombé caractéristique",
+      "caption": "ANTILOPE SAÏGA — son nez bombé filtre la poussière dans la steppe",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kz-animalB.jpg",
+      "alt": "Chasseur berkutchi kazakh à cheval avec un aigle royal",
+      "caption": "AIGLE ROYAL — les chasseurs berkutchi font voler ces aigles depuis 4 000 ans",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

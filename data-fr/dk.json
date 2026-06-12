@@ -1,0 +1,151 @@
+{
+  "name": "DANEMARK",
+  "nativeName": "DK",
+  "romaji": "DANMARK",
+  "tagline": "Vikings, LEGO et ciel sans fin",
+  "region": "Northern Europe",
+  "coords": "56°N, 10°E",
+  "fileNo": "043",
+  "langName": "danois",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EAD8",
+    "dot": "#C9BAA0",
+    "ink": "#1E1B18",
+    "faint": "#7A6E58",
+    "line": "#DDD3BC",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/dk.svg",
+    "title": "Dannebrog",
+    "note": "Le plus vieux drapeau national du monde, depuis 1370",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Danemark a inventé les briques LEGO — des petites pièces colorées que des millions d'enfants assemblent chaque jour ! C'est aussi le pays des Vikings qui naviguaient sur des bateaux à tête de dragon. Et c'est là qu'un homme a écrit l'histoire de la Petite Sirène !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Copenhague",
+      "sub": "Sur l'île de Zélande"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,97 millions",
+      "sub": "Est. 2024, Statistics Denmark"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Couronne (DKK)",
+      "sub": "~7,46 DKK pour un euro"
+    },
+    {
+      "label": "Langue",
+      "value": "danois",
+      "sub": "Presque tout le monde parle aussi anglais"
+    },
+    {
+      "label": "Superficie",
+      "value": "43 094 km²",
+      "sub": "À peu près comme la Suisse"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Møllehøj 171 m",
+      "sub": "Le Danemark est vraiment tout plat !"
+    }
+  ],
+  "islands": [
+    "Copenhagen",
+    "Aarhus",
+    "Odense",
+    "Aalborg",
+    "Bornholm"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays tout plat au bord de la mer",
+    "animals": "Dauphins, cigognes et nuages d'oiseaux",
+    "culture": "LEGO, bougies et sandwichs géants",
+    "history": "Des Vikings aux gens les plus heureux",
+    "wows": "7 choses folles sur le Danemark"
+  },
+  "geo": "Le Danemark est si plat que sa plus haute colline fait seulement 171 mètres — c'est moins haut qu'une grande tour en ville ! Le pays est fait d'une grande presqu'île et de plus de 400 îles reliées par de grands ponts.",
+  "animals": "Le marsouin commun, un tout petit dauphin, nage dans les mers froides autour du Danemark. Chaque automne, des millions d'étourneaux forment d'immenses nuages qui changent de forme dans le ciel — les Danois appellent ça le « Soleil Noir » !",
+  "culture": "Les Danois adorent les soirées douillettes avec des bougies et des boissons chaudes — ils appellent ça le hygge. Ils mangent aussi de grands sandwichs ouverts appelés smørrebrød, garnis de poisson ou d'œufs !",
+  "history": "Il y a plus de 1 000 ans, des guerriers appelés Vikings partaient du Danemark sur des bateaux ornés de têtes de dragon. Ils naviguaient si loin qu'ils ont atteint l'Amérique bien avant tout le monde !",
+  "wows": [
+    "Le drapeau danois est le plus vieux drapeau national du monde — la légende dit qu'il est tombé du ciel en 1219 !",
+    "LEGO a été inventé dans un petit atelier de menuisier danois en 1932 — c'est maintenant le jouet numéro un dans le monde !",
+    "À Copenhague, il y a plus de vélos que de voitures dans les rues chaque jour.",
+    "Le Groenland — la plus grande île du monde — appartient au Danemark, ce qui en fait un pays arctique !",
+    "Le Danemark produit 60 % de son électricité grâce à des éoliennes dans la mer.",
+    "Nulle part au Danemark on n'est à plus de 52 km de la mer — même sans montagnes !",
+    "Le Danemark est régulièrement classé parmi les pays les plus heureux du monde."
+  ],
+  "myths": [
+    {
+      "myth": "La Petite Sirène finit heureuse",
+      "fact": "Dans le conte original d'Andersen, la sirène se transforme en écume de mer — elle ne se marie pas avec le prince. Elle devient un esprit de l'air."
+    },
+    {
+      "myth": "Les Vikings portaient des casques à cornes",
+      "fact": "Les vrais casques vikings étaient de simples coiffes en fer avec un protège-nez. Les cornes ont été inventées par des artistes au 19e siècle pour les costumes de théâtre."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hej",
+      "say": "HEY"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tak",
+      "say": "TAHG"
+    },
+    {
+      "en": "S'il vous plaît",
+      "jp": "Vær venlig",
+      "say": "VEH VEN-lee"
+    },
+    {
+      "en": "Santé !",
+      "jp": "Skål!",
+      "say": "SKOHL"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Farvel",
+      "say": "FAH-vel"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dk-hero.jpg",
+      "alt": "Maisons colorées le long du canal de Nyhavn à Copenhague",
+      "caption": "CANAL DE NYHAVN — Les façades colorées de Copenhague reflétées dans l'eau calme",
+      "credit": "Wikimedia Commons / Orf3us"
+    },
+    "landmark": {
+      "src": "/photos/dk-landmark.jpg",
+      "alt": "La statue en bronze de la Petite Sirène sur un rocher dans le port de Copenhague",
+      "caption": "LA PETITE SIRÈNE — L'héroïne d'Andersen dans le port de Copenhague depuis 1913",
+      "credit": "Wikimedia Commons / Wikimol"
+    },
+    "animalA": {
+      "src": "/photos/dk-animalA.jpg",
+      "alt": "Un marsouin commun nageant à la surface de l'eau",
+      "caption": "MARSOUIN COMMUN — Le plus petit cétacé du Danemark dans les eaux côtières froides",
+      "credit": "Wikimedia Commons / NOAA"
+    },
+    "animalB": {
+      "src": "/photos/dk-animalB.jpg",
+      "alt": "Un immense vol d'étourneaux tourbillonnant dans le ciel au-dessus des marais",
+      "caption": "SOLEIL NOIR — Des millions d'étourneaux tourbillonnent au-dessus des marais danois chaque automne",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "NÉPAL",
+  "nativeName": "नेपाल",
+  "romaji": "NEPAL",
+  "tagline": "Le toit du monde",
+  "region": "Asie du Sud",
+  "coords": "28°N 84°E",
+  "fileNo": "042",
+  "langName": "népalais",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBA9E",
+    "ink": "#251E18",
+    "faint": "#8A7260",
+    "line": "#DCCFB0",
+    "accent": "#BA1B1E",
+    "accent2": "#14305A"
+  },
+  "flag": {
+    "assetPath": "/flags/np.svg",
+    "title": "Drapeau du Népal",
+    "note": "Le seul drapeau national qui n'est pas rectangulaire !",
+    "keyColor": "#BA1B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Népal, les montagnes sont si hautes qu'elles touchent presque les nuages — la plus grande montagne du monde s'y trouve ! Le Bouddha, un homme très sage dont parlent des millions de personnes, est né ici il y a très longtemps. C'est un pays magique avec des tigres, des rhinocéros et des neiges éternelles !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kathmandu",
+      "sub": "À 1 324 m d'altitude"
+    },
+    {
+      "label": "Habitants",
+      "value": "~30 millions",
+      "sub": "Estimation Banque mondiale 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Roupie (NPR)",
+      "sub": "100 paisa = 1 roupie"
+    },
+    {
+      "label": "Langue",
+      "value": "népalais",
+      "sub": "Et 123 autres langues !"
+    },
+    {
+      "label": "Superficie",
+      "value": "147 181 km²",
+      "sub": "Plus grand que l'Angleterre"
+    },
+    {
+      "label": "Point culminant",
+      "value": "8 849 m",
+      "sub": "L'Everest — record du monde !"
+    }
+  ],
+  "islands": [
+    "Kathmandu",
+    "Terai Plains",
+    "Pokhara",
+    "Chitwan",
+    "Mustang"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Des montagnes géantes et des jungles !",
+    "animals": "Des rhinocéros aux léopards des neiges",
+    "culture": "Temples, fêtes et Namaste !",
+    "history": "Une légende de lac et de dieu",
+    "wows": "Tu ne vas pas le croire !"
+  },
+  "geo": "Le Népal a des montagnes tellement grandes qu'elles sont les plus hautes du monde entier ! Au sud, il y a une jungle chaude et plate où vivent des rhinocéros, et au nord des sommets couverts de neige toute l'année.",
+  "animals": "Dans la jungle de Chitwan, le rhinocéros à une corne vit avec des tigres du Bengale et des éléphants sauvages. Tout en haut des montagnes enneigées, le mystérieux léopard des neiges chasse en secret — on le voit si rarement qu'on l'appelle le fantôme des Himalayas !",
+  "culture": "Au Népal, les gens fêtent Tihar, la fête des lumières, en décorant les rues de fleurs de soucis jaunes et de petites lampes scintillantes. Pour dire bonjour, on joint les deux mains et on dit « Namaste » — c'est comme envoyer un bisou du cœur !",
+  "history": "On dit qu'il y a très longtemps, la vallée de Kathmandu était un immense lac, et qu'un dieu l'a vidé d'un seul coup d'épée pour que les gens puissent y vivre. C'est là que le Bouddha est né il y a plus de 2 500 ans — les gens du monde entier viennent visiter cet endroit sacré !",
+  "wows": [
+    "Le drapeau du Népal est le seul drapeau du monde qui ne soit pas rectangulaire — il a la forme de deux triangles empilés !",
+    "Huit des dix plus hautes montagnes du monde sont au Népal, dont l'Everest à 8 849 m.",
+    "Le Bouddha est né à Lumbini, au Népal — des millions de pèlerins viennent le visiter.",
+    "On parle 124 langues différentes au Népal — c'est énorme pour un si petit pays !",
+    "La gorge de Kali Gandaki est plus profonde que le Grand Canyon en Amérique.",
+    "La légende dit que Kathmandu était autrefois un lac, vidé d'un coup d'épée par un dieu.",
+    "Un grimpeur sherpa a escaladé l'Everest 32 fois — c'est le record du monde absolu !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Everest est la montagne la plus haute du monde",
+      "fact": "L'Everest est la plus haute au-dessus de la mer (8 849 m), mais le Mauna Kea à Hawaï est encore plus grand si on compte la partie cachée sous l'océan !"
+    },
+    {
+      "myth": "Le Népal c'est que des montagnes",
+      "fact": "Au sud, il y a une jungle tropicale bien plate avec des tigres, des rhinocéros et des éléphants — aussi chaude et verte qu'en Inde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "नमस्ते",
+      "say": "Na-mas-tay"
+    },
+    {
+      "en": "Merci",
+      "jp": "धन्यवाद",
+      "say": "Dhan-ya-baad"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "मिठो छ",
+      "say": "Mi-tho cha"
+    },
+    {
+      "en": "Montagne",
+      "jp": "हिमाल",
+      "say": "Hi-maal"
+    },
+    {
+      "en": "Je m'appelle…",
+      "jp": "मेरो नाम…",
+      "say": "Me-ro naam…"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/np-hero.jpg",
+      "alt": "Le sommet enneigé de l'Everest au-dessus des Himalayas sous un ciel bleu",
+      "caption": "L'EVEREST — le point le plus haut de la Terre à 8 849 m, Népal",
+      "credit": "Vyacheslav Argenberg / CC BY 4.0"
+    },
+    "landmark": {
+      "src": "/photos/np-landmark.jpg",
+      "alt": "Les toits dorés du temple de Pashupatinath au bord de la rivière Bagmati à Kathmandu",
+      "caption": "TEMPLE DE PASHUPATINATH — sanctuaire hindou sacré, rivière Bagmati, Kathmandu",
+      "credit": "Ondřej Žváček / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/np-animalA.jpg",
+      "alt": "Une mère rhinocéros à une corne et son bébé dans le parc national de Chitwan au Népal",
+      "caption": "RHINOCÉROS À UNE CORNE — maman et bébé dans le parc de Chitwan, Népal",
+      "credit": "Bocardodarapti / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/np-animalB.jpg",
+      "alt": "Portrait en gros plan d'un léopard des neiges montrant sa fourrure tachetée et ses yeux clairs",
+      "caption": "LÉOPARD DES NEIGES — le fantôme insaisissable des Himalayas",
+      "credit": "Tambako The Jaguar / CC BY-SA 2.0"
+    }
+  }
+}

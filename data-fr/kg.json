@@ -1,0 +1,151 @@
+{
+  "name": "KIRGHIZISTAN",
+  "nativeName": "КР",
+  "romaji": "KYRGYZSTAN",
+  "tagline": "Pays des Aigles et du Ciel",
+  "region": "Central Asia",
+  "coords": "41.2°N, 74.7°E",
+  "fileNo": "KG",
+  "langName": "kirghiz",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C9BA9B",
+    "ink": "#1E1A15",
+    "faint": "#7D7055",
+    "line": "#DDD0B0",
+    "accent": "#E8102A",
+    "accent2": "#FFD700"
+  },
+  "flag": {
+    "assetPath": "/flags/kg.svg",
+    "title": "Drapeau du Kirghizistan",
+    "note": "Fond rouge, soleil doré avec couronne de yourte",
+    "keyColor": "#E8102A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Kirghizistan, presque tout le pays est fait de montagnes enneigées — imagine des géants blancs partout où tu regardes ! Des familles vivent encore dans des tentes rondes appelées yourtes, comme leurs ancêtres il y a mille ans. C'est l'un des pays les plus secrets et les plus magnifiques du monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bichkek",
+      "sub": "La plus grande ville ; environ 1,2 million d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "7,2 millions",
+      "sub": "Surtout des Kirghizes"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Som (KGS)",
+      "sub": "1 dollar ≈ 87 soms (2024)"
+    },
+    {
+      "label": "Langue",
+      "value": "Kirghiz / Russe",
+      "sub": "Les deux sont langues officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "199 951 km²",
+      "sub": "Un peu plus petit que la Biélorussie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "7 439 m",
+      "sub": "Jengish Chokusu, près de la Chine"
+    }
+  ],
+  "islands": [
+    "Bishkek",
+    "Osh",
+    "Jalal-Abad",
+    "Karakol",
+    "Naryn"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, lacs et grand ciel bleu",
+    "animals": "Aigles, chevaux et léopards des neiges",
+    "culture": "Yourtes, feutres et histoires magiques",
+    "history": "Nomades et routes de soie",
+    "wows": "Sept surprises incroyables"
+  },
+  "geo": "Neuf dixièmes du Kirghizistan sont des montagnes — on les appelle les Tian Shan, ce qui veut dire « Montagnes Célestes ». Entre elles se cachent de grands prés verts où les familles installent leurs yourtes rondes comme leurs ancêtres le faisaient il y a mille ans. Le trésor du pays s'appelle l'Issyk-Koul : c'est un lac de montagne si grand qu'on ne voit pas l'autre rive, et il ne gèle jamais même en hiver !",
+  "animals": "Le léopard des neiges grimpe tout en haut des montagnes du Kirghizistan — plus de 550 vivent ici, c'est l'un des meilleurs endroits du monde pour les protéger. Les chasseurs kirghizes dressent des aigles dorés depuis plus de 2 000 ans : l'aigle se perche sur le bras de son ami et part chasser ensemble !",
+  "culture": "La yourte kirghize est une tente ronde en feutre que toute la famille peut monter en moins d'une heure. Sur le drapeau du pays, tu peux voir le toit de la yourte vu d'en haut, dessiné dans un soleil doré ! Le peuple kirghiz adore aussi les jeux à cheval et les histoires de héros récitées de mémoire par des conteurs.",
+  "history": "Il y a très longtemps, un héros géant appelé Manas rassembla quarante tribus de cavaliers pour former le peuple kirghiz. Les caravanes de la Route de la Soie passaient par ces montagnes, chargées de soie brillante et d'épices parfumées. Le soleil du drapeau a exactement 40 rayons — un pour chaque tribu que Manas a réunie !",
+  "wows": [
+    "Le lac Issyk-Koul ne gèle jamais, même quand il fait très très froid en hiver !",
+    "Le poème épique Manas a plus de 500 000 lignes — le plus long poème du monde entier !",
+    "Le drapeau a exactement 40 rayons de soleil — un pour chaque tribu du héros Manas.",
+    "Des chasseurs élèvent de vrais aigles dorés comme animaux de compagnie et de chasse depuis 2 000 ans.",
+    "Le Kirghizistan est presque le pays le plus haut du monde — seul le Tibet est encore plus élevé.",
+    "Les Jeux Nomades du Monde ont été inventés ici en 2014 — c'est comme les Jeux Olympiques mais à cheval !",
+    "Plus de 550 léopards des neiges habitent ici — presque un sur dix de tous ceux qui existent sur Terre !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Kirghizistan est au Moyen-Orient",
+      "fact": "Non, c'est en Asie centrale, tout près de la Chine — beaucoup plus loin qu'on ne le croit !"
+    },
+    {
+      "myth": "Les Kirghizes vivent toujours dans des yourtes",
+      "fact": "La plupart habitent dans de vraies maisons ; les yourtes servent surtout l'été en montagne et lors des fêtes."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Саламатсызбы",
+      "say": "sa-la-MAT-seez-bee"
+    },
+    {
+      "en": "Merci",
+      "jp": "Рахмат",
+      "say": "rah-MAHT"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ооба",
+      "say": "OH-ba"
+    },
+    {
+      "en": "Cheval",
+      "jp": "Жылкы",
+      "say": "ZHIL-kuh"
+    },
+    {
+      "en": "Montagne",
+      "jp": "Тоо",
+      "say": "TOH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kg-hero.jpg",
+      "alt": "La place Ala-Too au centre de Bichkek avec les montagnes en arrière-plan",
+      "caption": "PLACE ALA-TOO — La grande place de Bichkek encadrée par les sommets enneigés du Tian Shan",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kg-landmark.jpg",
+      "alt": "Panorama du lac alpin Issyk-Koul avec les montagnes",
+      "caption": "ISSYK-KOUL — Le lac alpin chaud d'Asie centrale cerné de pics enneigés",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kg-animalA.jpg",
+      "alt": "Léopard des neiges au repos sur un rocher",
+      "caption": "LÉOPARD DES NEIGES — Le Kirghizistan abrite environ 550 de ces rares chats de montagne",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kg-animalB.jpg",
+      "alt": "Chasseur à l'aigle kirghiz à cheval avec un aigle doré sur le bras",
+      "caption": "CHASSEUR À L'AIGLE — Un berkutchi avec son aigle doré dressé, une tradition vieille de 2 000 ans",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

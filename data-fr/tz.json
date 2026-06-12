@@ -1,0 +1,151 @@
+{
+  "name": "TANZANIE",
+  "nativeName": "TZ",
+  "romaji": "TANZANIA",
+  "tagline": "Le cœur sauvage de l'Afrique",
+  "region": "East Africa",
+  "coords": "6.37°S, 34.89°E",
+  "fileNo": "082",
+  "langName": "swahili",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9E",
+    "ink": "#251E16",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#1DA354",
+    "accent2": "#1B75BC"
+  },
+  "flag": {
+    "assetPath": "/flags/tz.svg",
+    "title": "Drapeau de la Tanzanie",
+    "note": "Vert, noir et bleu — la terre, les gens et la mer",
+    "keyColor": "#1DA354",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Tanzanie, la plus haute montagne d'Afrique a de la neige au sommet même quand il fait chaud en bas ! Des millions de gnous galopent ensemble sur de grandes plaines dorées chaque année. Et une île aux épices flotte dans une mer bleu turquoise !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Dodoma",
+      "sub": "Capitale officielle depuis 1974"
+    },
+    {
+      "label": "Habitants",
+      "value": "61,7 millions",
+      "sub": "Recensement national 2022"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Shilling TZS",
+      "sub": "Shilling tanzanien (TZS)"
+    },
+    {
+      "label": "Langue",
+      "value": "Swahili",
+      "sub": "Aussi l'anglais à l'école"
+    },
+    {
+      "label": "Superficie",
+      "value": "885 800 km²",
+      "sub": "Plus grand que la France et l'Espagne réunies"
+    },
+    {
+      "label": "Point culminant",
+      "value": "5 895 m",
+      "sub": "Le Kilimandjaro — le toit de l'Afrique"
+    }
+  ],
+  "islands": [
+    "Zanzibar",
+    "Dodoma",
+    "Arusha",
+    "Mwanza",
+    "Pemba"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES ET ÎLES :",
+  "sections": {
+    "geography": "Le toit de l'Afrique et les grandes plaines",
+    "animals": "Le plus grand spectacle du monde",
+    "culture": "Cent tribus, une seule famille",
+    "history": "Des rois anciens et des empreintes magiques",
+    "wows": "Trop incroyable pour être vrai !"
+  },
+  "geo": "La Tanzanie a un immense plateau avec des volcans, des lacs brillants et de grandes vallées. Le lac Tanganyika est si profond qu'on pourrait empiler quatre tours Eiffel à l'intérieur !",
+  "animals": "Chaque année, plus d'un million et demi de gnous galopent ensemble sur le Serengeti — c'est le plus grand défilé d'animaux de la planète ! L'animal national de la Tanzanie est la girafe masaï, la plus grande créature vivante sur Terre.",
+  "culture": "En Tanzanie, plus de 120 groupes différents vivent ensemble et parlent tous le swahili pour se comprendre. Sur l'île de Zanzibar, l'air sent les clous de girofle et la cannelle, et les portes en bois sculpté sont décorées comme des bijoux !",
+  "history": "Il y a 3,6 millions d'années, de très anciens ancêtres humains ont laissé leurs empreintes de pieds dans la cendre d'un volcan, et elles sont encore là aujourd'hui ! Ces empreintes à Laetoli sont les plus vieilles traces de pas humains jamais découvertes.",
+  "wows": [
+    "Le cratère du Ngorongoro est un immense bol de 20 km de large avec 25 000 grands animaux à l'intérieur.",
+    "Des empreintes humaines vieilles de 3,6 millions d'années sont conservées dans la cendre volcanique à Laetoli.",
+    "Freddie Mercury, la star du groupe Queen, est né à Zanzibar en 1946.",
+    "Le lac Tanganyika contient 16 % de toute l'eau douce à la surface de la Terre.",
+    "La Tanzanie a plus de sites classés par l'UNESCO que tout autre pays d'Afrique de l'Est.",
+    "Les gnous parcourent 800 km chaque année sans jamais avoir de carte !",
+    "Les glaciers du Kilimandjaro ont fondu de 80 % depuis 1912 — ils pourraient disparaître avant 2050."
+  ],
+  "myths": [
+    {
+      "myth": "Le Kilimandjaro est au Kenya",
+      "fact": "Le Kilimandjaro est entièrement en Tanzanie, près de la frontière kényane. La plus haute montagne du Kenya s'appelle mont Kenya et est environ 500 m moins haute."
+    },
+    {
+      "myth": "La grande migration n'a lieu qu'en été",
+      "fact": "Les gnous migrent toute l'année en faisant un grand cercle sans jamais s'arrêter. Les célèbres traversées de rivières se passent surtout entre juillet et octobre."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Jambo",
+      "say": "JAM-bo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Asante",
+      "say": "ah-SAN-tay"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Karibu",
+      "say": "kah-REE-boo"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Kwaheri",
+      "say": "kwah-HEH-ree"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Habari gani?",
+      "say": "ha-BAH-ree GAH-nee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tz-hero.jpg",
+      "alt": "Le mont Kilimandjaro s'élève au-dessus de la savane avec des acacias au premier plan",
+      "caption": "MONT KILIMANDJARO — le plus haut sommet d'Afrique domine les plaines dorées",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tz-landmark.jpg",
+      "alt": "Vue panoramique de Stone Town à Zanzibar avec ses bâtiments historiques",
+      "caption": "STONE TOWN, ZANZIBAR — une ville des épices classée au patrimoine mondial de l'UNESCO",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tz-animalA.jpg",
+      "alt": "Girafe masaï debout sur la savane tanzanienne",
+      "caption": "GIRAFE MASAÏ — l'animal national de la Tanzanie, la plus grande créature du monde",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tz-animalB.jpg",
+      "alt": "Un immense troupeau de gnous traversant le Serengeti pendant la grande migration",
+      "caption": "GRANDE MIGRATION — 1,5 million de gnous galopent à travers le Serengeti",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

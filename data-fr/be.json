@@ -1,0 +1,151 @@
+{
+  "name": "BELGIQUE",
+  "nativeName": "BE",
+  "romaji": "BELGIQUE",
+  "tagline": "Gaufres, BD & Chocolat",
+  "region": "Western Europe",
+  "coords": "50.8°N, 4.4°E",
+  "fileNo": "032",
+  "langName": "français",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F3EFE3",
+    "dot": "#CFC4A8",
+    "ink": "#231F1A",
+    "faint": "#8A7D62",
+    "line": "#DDD3BA",
+    "accent": "#1C1C1C",
+    "accent2": "#C8212C"
+  },
+  "flag": {
+    "assetPath": "/flags/be.svg",
+    "title": "Drapeau tricolore belge",
+    "note": "Trois bandes verticales : noir, jaune et rouge",
+    "keyColor": "#C8212C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Belgique a inventé la gaufre — cette délicieuse pâtisserie croustillante que tout le monde adore ! C'est aussi le pays de Tintin, le célèbre reporter en culotte de golf. Et devine quoi : ici on mange les frites avec de la mayonnaise !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bruxelles",
+      "sub": "Aussi le siège de l'Union européenne"
+    },
+    {
+      "label": "Habitants",
+      "value": "11,7 millions",
+      "sub": "Est. 2024 — un petit pays très peuplé"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Utilise l'euro depuis 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "3 langues officielles",
+      "sub": "Français, néerlandais et allemand"
+    },
+    {
+      "label": "Superficie",
+      "value": "30 528 km²",
+      "sub": "À peu près la taille de la Bretagne"
+    },
+    {
+      "label": "Point culminant",
+      "value": "694 m",
+      "sub": "Signal de Botrange, dans les Ardennes"
+    }
+  ],
+  "islands": [
+    "Brussels",
+    "Antwerp",
+    "Ghent",
+    "Bruges",
+    "Liège"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays plat avec des collines secrètes",
+    "animals": "Les animaux des forêts et de la mer",
+    "culture": "Gaufres, BD et cloches qui sonnent",
+    "history": "La légende du petit royaume courageux",
+    "wows": "La Belgique va t'épater !"
+  },
+  "geo": "La Belgique est presque entièrement plate, avec de jolies dunes de sable le long de la mer du Nord. Mais dans le sud, la forêt des Ardennes cache de belles collines, des grottes mystérieuses et des rivières qui tourbillonnent !",
+  "animals": "Le renard roux se promène dans les forêts des Ardennes quand le soleil se couche. La cigogne blanche, elle, fait son grand nid sur les toits des églises chaque printemps — comme si l'église était sa maison !",
+  "culture": "En Belgique, tout le monde adore le chocolat, la bière et les frites — même si les gens du nord parlent néerlandais et ceux du sud parlent français ! Chaque ville a un carillon, une grosse tour avec des cloches qui jouent une chanson toutes les quinze minutes.",
+  "history": "Il y a très longtemps, un petit lion courageux est devenu le symbole de la Belgique. En 1830, les Belges ont décidé d'être libres et ont choisi leur propre roi — comme dans un conte de fées qui devient vrai !",
+  "wows": [
+    "La Belgique fabrique plus de 220 000 tonnes de chocolat chaque année — imagine la montagne !",
+    "Les Belges ont inventé les frites, pas les Français — et ils les mangent avec de la mayonnaise !",
+    "Il y a plus de 1 500 sortes de bière différentes en Belgique — plus que partout ailleurs dans le monde.",
+    "L'Atomium de Bruxelles est un atome de fer agrandi 165 milliards de fois — c'est gigantesque !",
+    "Bruxelles a 50 grandes peintures de bandes dessinées sur les murs de la ville.",
+    "Tintin, les Schtroumpfs et Lucky Luke sont tous nés en Belgique — ce pays adore les BD !",
+    "La Belgique possède plus de châteaux au kilomètre carré que presque n'importe quel autre pays."
+  ],
+  "myths": [
+    {
+      "myth": "La Belgique n'a rien inventé d'important",
+      "fact": "La Belgique a donné au monde Tintin, les Schtroumpfs, le saxophone, l'Art Nouveau et les frites — pas mal pour un si petit pays !"
+    },
+    {
+      "myth": "Une gaufre belge, c'est pareil que n'importe quelle gaufre",
+      "fact": "Non ! Il y a deux gaufres belges très différentes : la gaufre de Bruxelles, croustillante et rectangulaire, et la gaufre de Liège, moelleuse avec des petits cristaux de sucre. Les Belges adorent se disputer pour savoir laquelle est la meilleure !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Chocolat",
+      "jp": "Chocolat",
+      "say": "sho-ko-LAH"
+    },
+    {
+      "en": "Gaufre",
+      "jp": "Gaufre",
+      "say": "GOH-fruh"
+    },
+    {
+      "en": "Santé !",
+      "jp": "Santé!",
+      "say": "san-TAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/be-hero.jpg",
+      "alt": "La Grand-Place de Bruxelles la nuit avec ses dorures illuminées",
+      "caption": "GRAND-PLACE — la magnifique place dorée du XVIIe siècle, cœur de Bruxelles",
+      "credit": "Wikimedia Commons / Jorge Royan"
+    },
+    "landmark": {
+      "src": "/photos/be-landmark.jpg",
+      "alt": "Le château médiéval de Gravensteen qui se dresse au-dessus des canaux de Gand",
+      "caption": "CHÂTEAU DE GRAVENSTEEN — une forteresse du XIIe siècle au-dessus des canaux de Gand",
+      "credit": "Wikimedia Commons / Gzzz"
+    },
+    "animalA": {
+      "src": "/photos/be-animalA.jpg",
+      "alt": "Un renard roux au repos dans une forêt belge enneigée",
+      "caption": "RENARD ROUX — souvent aperçu dans les forêts ardennaises du sud de la Belgique",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    },
+    "animalB": {
+      "src": "/photos/be-animalB.jpg",
+      "alt": "Une cigogne blanche debout dans un champ vert",
+      "caption": "CIGOGNE BLANCHE — fait son nid sur les toits des églises belges chaque printemps",
+      "credit": "Wikimedia Commons / José Varela"
+    }
+  }
+}

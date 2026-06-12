@@ -1,0 +1,151 @@
+{
+  "name": "HAÏTI",
+  "nativeName": "HT",
+  "romaji": "AYITI",
+  "tagline": "Née libre, fière pour toujours",
+  "region": "Caribbean",
+  "coords": "18.97°N, 72.29°W",
+  "fileNo": "049",
+  "langName": "créole haïtien",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF9E",
+    "ink": "#1E1810",
+    "faint": "#8A7555",
+    "line": "#DDD0B2",
+    "accent": "#00209F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/ht.svg",
+    "title": "Drapeau haïtien",
+    "note": "Bleu sur rouge, avec les armoiries au centre",
+    "keyColor": "#00209F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Haïti est le premier pays au monde où des gens ont brisé leurs chaînes et se sont libérés tout seuls ! Les Haïtiens ont battu de grandes armées et sont devenus libres en 1804. Là-bas, de hautes montagnes plongent directement dans une mer bleu vif !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Port-au-Prince",
+      "sub": "La plus grande ville, au bord de la baie"
+    },
+    {
+      "label": "Habitants",
+      "value": "11,9 millions",
+      "sub": "Estimation ONU, 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Gourde (HTG)",
+      "sub": "100 centimes = 1 gourde"
+    },
+    {
+      "label": "Langue",
+      "value": "créole haïtien",
+      "sub": "Le français est aussi officiel"
+    },
+    {
+      "label": "Superficie",
+      "value": "27 750 km²",
+      "sub": "Un peu plus grand que le Pays de Galles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Pic la Selle",
+      "sub": "2 674 m — 3e plus haut des Caraïbes"
+    }
+  ],
+  "islands": [
+    "Cap-Haïtien",
+    "Jacmel",
+    "Gonaïves",
+    "Les Cayes",
+    "Jérémie"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, mer et surprises",
+    "animals": "Cornes, ailes et venin",
+    "culture": "Tambours, couleurs et fête",
+    "history": "Une île qui a tout changé",
+    "wows": "Haïti t'épate !"
+  },
+  "geo": "Haïti est l'un des pays les plus montagneux des Caraïbes — le nom Ayiti signifie « terre des hautes montagnes » en langue taïno. Deux grandes presqu'îles s'avancent dans la mer des Caraïbes, avec des plages cachées et des baies turquoise !",
+  "animals": "L'animal le plus bizarre d'Haïti est le solénodon, une petite créature au long nez qui injecte du venin avec une dent — un super-pouvoir que presque aucun autre mammifère ne possède depuis l'époque des dinosaures. L'iguane rhinocéros, lui, a de vraies bosses sur le nez comme une corne !",
+  "culture": "À Haïti, les artisans fabriquent d'immenses masques en papier mâché en forme de dragons et d'animaux pour le grand carnaval appelé Kanaval. Pendant la fête, on entend de partout des tambours et des cors en bambou qui font un bruit incroyable !",
+  "history": "Un jour, des gens qui avaient décidé d'être libres ont bâti une forteresse géante au sommet d'une montagne pour la protéger — la Citadelle Laferrière. C'est la plus grande forteresse de tout le continent américain, et on peut encore la visiter aujourd'hui !",
+  "wows": [
+    "Haïti était si riche qu'elle produisait la moitié du sucre et du café de toute l'Europe — on l'appelait « La Perle des Antilles » !",
+    "La Citadelle Laferrière est la plus grande forteresse de tout l'hémisphère occidental — un château au sommet d'une montagne !",
+    "Le drapeau haïtien est né quand un héros a arraché la bande blanche d'un drapeau français et recousu les deux autres couleurs ensemble.",
+    "Chaque bus tap-tap est peint de la tête aux pieds avec des saints, des footballeurs et des dessins colorés — comme une œuvre d'art qui roule !",
+    "Le solénodon hispaniole injecte du venin par une rainure dans sa dent — une astuce vieille de 76 millions d'années !",
+    "Le créole haïtien a été inventé en quelques générations par des gens venus de dizaines de pays différents qui voulaient se comprendre.",
+    "Les sculpteurs haïtiens transforment de vieux barils d'huile en magnifiques sculptures en fer que les gens accrochent chez eux !"
+  ],
+  "myths": [
+    {
+      "myth": "Haïti n'est qu'un endroit triste et difficile",
+      "fact": "Haïti a de magnifiques plages, des montagnes verdoyantes et des artistes incroyables. Les gens y créent des choses très belles depuis des centaines d'années !"
+    },
+    {
+      "myth": "Le vaudou, c'est de la magie effrayante",
+      "fact": "Le vaudou est une vraie religion venue d'Afrique, utilisée pour guérir et aider la communauté. Ce qu'on voit dans les films d'horreur n'a rien à voir avec la réalité !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjou",
+      "say": "BOH-joo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Mèsi",
+      "say": "meh-SEE"
+    },
+    {
+      "en": "Oui",
+      "jp": "Wi",
+      "say": "wee"
+    },
+    {
+      "en": "Ami",
+      "jp": "Zanmi",
+      "say": "ZAN-mee"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Bèl",
+      "say": "bell"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ht-hero.jpg",
+      "alt": "Un bus tap-tap haïtien aux couleurs vives chargé de passagers",
+      "caption": "BUS TAP-TAP — les taxis collectifs colorés d'Haïti sont des œuvres d'art sur roues",
+      "credit": "Michelle Walz Eriksson / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/ht-landmark.jpg",
+      "alt": "L'immense forteresse Citadelle Laferrière au sommet d'une montagne dans le nord d'Haïti",
+      "caption": "CITADELLE LAFERRIÈRE — la plus grande forteresse de l'hémisphère occidental, construite par des hommes libres",
+      "credit": "Alex Proimos / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/ht-animalA.jpg",
+      "alt": "Un iguane rhinocéros montrant son museau cornu distinctif et son corps écailleux",
+      "caption": "IGUANE RHINOCÉROS — nommé pour les bosses osseuses en forme de corne sur son nez",
+      "credit": "H. Zell / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ht-animalB.jpg",
+      "alt": "Un perroquet amazone hispaniole vert vif perché sur une branche",
+      "caption": "AMAZONE HISPANIOLE — un perroquet vert bavard originaire d'Hispaniola",
+      "credit": "Yolanda M. Leon / CC BY 2.0"
+    }
+  }
+}

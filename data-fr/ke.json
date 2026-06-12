@@ -1,0 +1,163 @@
+{
+  "name": "KENYA",
+  "nativeName": "KE",
+  "romaji": "KENYA",
+  "tagline": "Le cœur sauvage de l'Afrique",
+  "region": "East Africa",
+  "coords": "0.02°N, 37.91°E",
+  "fileNo": "047",
+  "langName": "swahili",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBC9E",
+    "ink": "#1E1C18",
+    "faint": "#7A6E52",
+    "line": "#DDD0B4",
+    "accent": "#006600",
+    "accent2": "#BB0000"
+  },
+  "flag": {
+    "assetPath": "/flags/ke.svg",
+    "title": "Drapeau du Kenya",
+    "note": "Noir, rouge et vert avec un bouclier maasaï",
+    "keyColor": "#006600",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Kenya, des millions de gnous galopent ensemble chaque année — c'est la plus grande course d'animaux du monde ! Le mont Kenya est si haut qu'il a de la neige même sous le soleil brûlant de l'Afrique. À Nairobi, les lions se promènent à quelques minutes des immeubles !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Nairobi",
+      "sub": "Pop. 4,4 millions (2019)"
+    },
+    {
+      "label": "Habitants",
+      "value": "55 millions",
+      "sub": "Est. 2023, 47 groupes ethniques"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Shilling KES",
+      "sub": "100 cents = 1 shilling"
+    },
+    {
+      "label": "Langue",
+      "value": "Swahili et anglais",
+      "sub": "Les deux sont langues officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "580 367 km²",
+      "sub": "Environ 2× la taille du Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Kenya 5 199 m",
+      "sub": "2e plus haut sommet d'Afrique"
+    }
+  ],
+  "islands": [
+    "NAIROBI",
+    "MOMBASA",
+    "KISUMU",
+    "NAKURU",
+    "ELDORET"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une fissure géante dans la Terre",
+    "animals": "Le plus grand spectacle du monde",
+    "culture": "Danses, perles et bons plats",
+    "history": "Le berceau de l'humanité",
+    "wows": "Les superpouvoirs du Kenya"
+  },
+  "geo": [
+    "Le Kenya est sur l'équateur, donc il ne fait jamais vraiment froid ! La Grande Vallée du Rift coupe le pays du nord au sud, avec des lacs roses remplis de flamants roses.",
+    "La côte a des plages de sable blanc et des récifs coralliens colorés. Au sud se trouve le lac Victoria, le plus grand lac d'Afrique — aussi grand qu'un pays entier !"
+  ],
+  "animals": [
+    "Chaque année, 1,5 million de gnous et de zèbres traversent la rivière Mara à la nage — en plein milieu des crocodiles ! C'est la plus grande migration d'animaux sur Terre.",
+    "Des flamants roses colorent le lac Nakuru en rose vif, comme de la peinture renversée depuis le ciel. On peut voir des éléphants se promener devant le grand volcan Kilimandjaro !"
+  ],
+  "culture": [
+    "Les Maasaï portent de belles tenues rouges et font un concours de saut — ils sautent le plus haut possible pour montrer qu'ils sont forts ! C'est une danse qui s'appelle l'adumu.",
+    "Le plat préféré des Kenyans s'appelle l'ugali — une bouillie de maïs bien épaisse qu'on mange avec des légumes verts. Les coureurs kenyans du Kenya sont les plus rapides du monde au marathon !"
+  ],
+  "history": [
+    "Près du lac Turkana, on a trouvé des fossiles vieux de 3 millions d'années — les plus anciens ancêtres de tous les humains ! C'est pourquoi on appelle le Kenya le berceau de l'humanité.",
+    "Il y a mille ans, des marchands arabes construisaient de belles villes en corail sur la côte. Les ruines de ces villes magiques existent encore aujourd'hui à Gede et à Lamu !"
+  ],
+  "wows": [
+    "Le lac Turkana est le plus grand lac désertique du monde — 290 km d'eau bleue volcanique !",
+    "Des coureurs d'une toute petite ville appelée Iten ont gagné plus de médailles olympiques que beaucoup de pays entiers.",
+    "Nairobi est la seule capitale au monde avec un parc naturel à l'intérieur de la ville — les lions sont à 7 km du centre !",
+    "Un poisson que l'on croyait disparu depuis 65 millions d'années a été retrouvé vivant au large du Kenya en 2001 !",
+    "Le Kenya a inventé la toute première monnaie sur téléphone en 2007 — avant même les autres pays riches !",
+    "Le lac Bogoria devient si rose avec les flamants qu'il ressemble à un immense pot de peinture à bulles renversé.",
+    "À Lamu, il n'y a pas de voitures du tout — les ânes sont le seul moyen de transport dans les vieilles ruelles !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Kenya est une grande jungle partout",
+      "fact": "La plupart du Kenya est de la savane ouverte, des terres semi-désertiques ou des fermes. La vraie forêt dense ne couvre qu'une toute petite partie sur les pentes du mont Kenya."
+    },
+    {
+      "myth": "Les lions se promènent partout au Kenya",
+      "fact": "Les lions vivent seulement dans les réserves protégées, qui couvrent environ 8 % du Kenya. Le reste est des fermes et des villes où on ne voit presque jamais de lions."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Jambo",
+      "say": "JAM-boh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Asante",
+      "say": "ah-SAN-teh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ndiyo",
+      "say": "nDEE-yoh"
+    },
+    {
+      "en": "Pas de souci !",
+      "jp": "Hakuna",
+      "say": "ha-KOO-na"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Tamu sana",
+      "say": "TA-moo SA-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ke-hero.jpg",
+      "alt": "Horizon de Nairobi au crépuscule avec des gratte-ciels modernes",
+      "caption": "NAIROBI — la capitale la plus animée d'Afrique de l'Est brille au coucher du soleil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ke-landmark.jpg",
+      "alt": "Éléphants marchant dans la plaine d'Amboseli avec le mont Kilimandjaro derrière",
+      "caption": "AMBOSELI — des éléphants se promènent sous le sommet enneigé du Kilimandjaro",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ke-animalA.jpg",
+      "alt": "Lionne se reposant dans les prairies du Maasaï Mara",
+      "caption": "LIONNE — reine de la savane du Maasaï Mara",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ke-animalB.jpg",
+      "alt": "Des milliers de flamants roses couvrant le lac Nakuru",
+      "caption": "LAC NAKURU — un million de flamants transforment le lac en tapis rose vif",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

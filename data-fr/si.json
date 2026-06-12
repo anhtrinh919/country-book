@@ -1,0 +1,151 @@
+{
+  "name": "SLOVÉNIE",
+  "nativeName": "SI",
+  "romaji": "SLOVENIJA",
+  "tagline": "Le joyau des Alpes en Europe",
+  "region": "Central Europe / Balkans",
+  "coords": "46.1°N, 14.9°E",
+  "fileNo": "068",
+  "langName": "slovène",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E8",
+    "dot": "#c8ccbc",
+    "ink": "#252820",
+    "faint": "#7a8060",
+    "line": "#d4d8c8",
+    "accent": "#003DA5",
+    "accent2": "#E4002B"
+  },
+  "flag": {
+    "assetPath": "/flags/si.svg",
+    "title": "Drapeau de la Slovénie",
+    "note": "Bleu, blanc et rouge avec l'emblème du Triglav",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Slovénie cache un train électrique qui roule à l'intérieur d'une grotte géante ! Ce tout petit pays a des montagnes enneigées, des rivières bleues comme des bonbons et des forêts pleines d'ours. Deux millions de personnes y vivent et parlent le slovène !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Ljubljana",
+      "sub": "environ 298 000 habitants (2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "2,12 millions",
+      "sub": "estimation officielle 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "dans la zone euro depuis 2007"
+    },
+    {
+      "label": "Langue",
+      "value": "slovène",
+      "sub": "langue slave du Sud, ~2,5M de locuteurs"
+    },
+    {
+      "label": "Superficie",
+      "value": "20 271 km²",
+      "sub": "plus petit que le Pays de Galles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Triglav 2 864m",
+      "sub": "symbole du drapeau et des armoiries"
+    }
+  ],
+  "islands": [
+    "Ljubljana",
+    "Maribor",
+    "Triglav",
+    "Piran",
+    "Postojna"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Alpes, grottes et petit bord de mer",
+    "animals": "Ours, lynx et salamandres aveugles",
+    "culture": "Châteaux, ruches et gâteaux en spirale",
+    "history": "Les Romains, les rois et la liberté",
+    "wows": "7 surprises incroyables sur la Slovénie"
+  },
+  "geo": "La Slovénie est un tout petit pays avec quatre paysages différents ! Il y a des montagnes pointues, une grande grotte avec 24 km de couloirs souterrains, et une rivière appelée la Soča qui brille d'un bleu turquoise magique.",
+  "animals": "Les forêts de Slovénie abritent près de 1 000 ours bruns — c'est l'une des plus grandes familles d'ours d'Europe ! Dans les grottes vit l'Olm, une petite salamandre aveugle et pâle qui peut vivre plus de 100 ans sans manger.",
+  "culture": "En Slovénie, presque tout le monde élève des abeilles et les ruches sont décorées de jolis dessins colorés. Pour les fêtes, on mange la potica, un gâteau roulé aux noix qui sent tellement bon !",
+  "history": "Il y a 2 000 ans, les Romains ont construit des routes et une ville là où se trouve Ljubljana aujourd'hui. Des centaines d'années plus tard, la Slovénie est devenue un pays libre et indépendant le 25 juin 1991 !",
+  "wows": [
+    "Le mot « amour » se cache dans le nom du pays : Slo-LOVE-nia !",
+    "Un vrai petit train électrique roule à l'intérieur de la grotte de Postojna depuis 1872.",
+    "La salamandre Olm peut vivre plus de 100 ans sans manger — incroyable !",
+    "La Slovénie a plus de 14 000 grottes — c'est l'un des pays avec le plus de grottes au monde !",
+    "La rivière Soča est d'un bleu turquoise si vif qu'on la voit briller de loin.",
+    "Le centre de Ljubljana est sans voitures depuis 2007 — tout le monde marche ou fait du vélo !",
+    "La Slovénie a offert au monde la Journée mondiale des abeilles, célébrée le 20 mai chaque année."
+  ],
+  "myths": [
+    {
+      "myth": "La Slovénie et la Slovaquie, c'est pareil",
+      "fact": "Non, ce sont deux pays complètement différents ! La Slovaquie est près de la Pologne, et la Slovénie est près de l'Italie et de l'Autriche."
+    },
+    {
+      "myth": "La Slovénie est un grand pays",
+      "fact": "Non, c'est un tout petit pays — même plus petit que le Pays de Galles. Mais il est rempli de trésors !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Zdravo",
+      "say": "ZDRA-voh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Prosim",
+      "say": "PROH-seem"
+    },
+    {
+      "en": "Ours",
+      "jp": "Medved",
+      "say": "MED-ved"
+    },
+    {
+      "en": "Grotte",
+      "jp": "Jama",
+      "say": "YAH-mah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/si-hero.jpg",
+      "alt": "Le vieux quartier de Ljubljana se reflète dans la rivière Ljubljanica au crépuscule",
+      "caption": "LJUBLJANA — la capitale sans voitures se reflète dans la rivière sous son château",
+      "credit": "Wikimedia Commons / Peter Dobrović"
+    },
+    "landmark": {
+      "src": "/photos/si-landmark.jpg",
+      "alt": "Petit train électrique touristique à l'intérieur de la grotte de Postojna",
+      "caption": "GROTTE DE POSTOJNA — des trains électriques emmènent les visiteurs depuis 1872",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/si-animalA.jpg",
+      "alt": "Ours brun courant dans une forêt",
+      "caption": "OURS BRUN — ~1 000 ours vivent dans les forêts slovènes, la plus grande densité d'Europe",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/si-animalB.jpg",
+      "alt": "Salamandre Olm pâle vivant dans une grotte, sous l'eau",
+      "caption": "OLM — le « poisson humain » aveugle des grottes, vit plus de 100 ans",
+      "credit": "Wikimedia Commons / Arne Hodalič"
+    }
+  }
+}

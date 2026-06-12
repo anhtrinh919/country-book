@@ -1,0 +1,151 @@
+{
+  "name": "BELIZE",
+  "nativeName": "BZ",
+  "romaji": "BELIZE",
+  "tagline": "Jungle, récif & pierres anciennes",
+  "region": "Central America",
+  "coords": "17.2°N, 88.5°W",
+  "fileNo": "082",
+  "langName": "kriol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F0EBD8",
+    "dot": "#C9BB9E",
+    "ink": "#232018",
+    "faint": "#8A7B5A",
+    "line": "#DDD0B3",
+    "accent": "#1A3A6B",
+    "accent2": "#C8202E"
+  },
+  "flag": {
+    "assetPath": "/flags/bz.svg",
+    "title": "Drapeau du Belize",
+    "note": "Bleu avec des rayures rouges et un blason blanc",
+    "keyColor": "#1A3A6B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Belize, il y a de vraies pyramides mayas cachées dans la jungle — comme dans un film d'aventure ! Des jaguars vivent dans les forêts et juste au bord de la mer se trouve le plus grand récif de corail de tout l'hémisphère ouest !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Belmopan",
+      "sub": "Capitale intérieure depuis 1970"
+    },
+    {
+      "label": "Habitants",
+      "value": "397 483",
+      "sub": "Recensement officiel 2022"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar bélizien",
+      "sub": "2 BZD = 1 USD, toujours"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Seul pays d'Amérique centrale"
+    },
+    {
+      "label": "Superficie",
+      "value": "22 966 km²",
+      "sub": "Un peu plus petit que le Pays de Galles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 124 m",
+      "sub": "Doyle's Delight, monts Mayas"
+    }
+  ],
+  "islands": [
+    "Belize City",
+    "Cayo",
+    "Ambergris",
+    "Placencia",
+    "Belmopan"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Récifs, jungles et montagnes",
+    "animals": "Jaguars, tapirs et toucans",
+    "culture": "Un mélange de nombreux peuples",
+    "history": "Les Mayas et leurs pyramides",
+    "wows": "7 surprises étonnantes"
+  },
+  "geo": "Le Belize se trouve sur la côte des Caraïbes en Amérique centrale, entre le Mexique au nord et le Guatemala à l'ouest. Au large, un récif de corail s'étire sur 300 km — et il cache un trou géant et parfaitement rond appelé le Grand Trou Bleu !",
+  "animals": "Le Belize est l'un des rares endroits au monde où les jaguars vivent encore librement dans la jungle. L'animal national est le tapir de Baird, une drôle de bête grosse comme un petit cheval avec un nez allongé !",
+  "culture": "Au Belize, plein de peuples différents vivent ensemble — les Mayas, les Créoles, les Garifunas et même des familles Mennonites qui se déplacent en calèche à cheval ! Dans les marchés, on trouve du riz créole, du poisson à la noix de coco et des tamales mayas tous côte à côte.",
+  "history": "Il y a plus de 2 000 ans, les Mayas construisaient ici de grandes villes avec de hautes pyramides en pierre. La ville de Caracol était plus grande que Belize City aujourd'hui — et puis, mystérieusement, tout le monde est parti !",
+  "wows": [
+    "Le Grand Trou Bleu est si parfaitement rond qu'on peut le voir depuis l'espace comme un point bleu sombre !",
+    "Le Belize est le seul pays d'Amérique centrale où l'anglais est la langue officielle.",
+    "Le dollar bélizien vaut toujours exactement la moitié d'un dollar américain — depuis 1978, jamais de changement !",
+    "Le récif de corail du Belize est le plus long de tout l'hémisphère occidental : 300 km le long de la côte.",
+    "Le parc Cockscomb a été le tout premier sanctuaire officiel pour les jaguars dans le monde entier.",
+    "La vieille cité maya Caracol abritait autrefois 150 000 personnes — bien plus que la plus grande ville du Belize aujourd'hui !",
+    "Les familles Mennonites du nord du Belize utilisent encore des calèches tirées par des chevaux pour aller au marché."
+  ],
+  "myths": [
+    {
+      "myth": "Le Belize est une île dans les Caraïbes",
+      "fact": "Le Belize est sur le continent d'Amérique centrale — il a des jungles, des montagnes et des pyramides mayas sur un grand morceau de terre !"
+    },
+    {
+      "myth": "Tout le monde parle espagnol au Belize",
+      "fact": "L'anglais est la langue officielle apprise à l'école — c'est le seul pays de toute l'Amérique centrale où c'est vrai !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Quoi de neuf ?",
+      "jp": "Weh di go?",
+      "say": "Way dee GO"
+    },
+    {
+      "en": "Bonjour !",
+      "jp": "Mawnin!",
+      "say": "MAW-nin"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tanks!",
+      "say": "TANKS"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "Fi how much?",
+      "say": "Fee how MUCH"
+    },
+    {
+      "en": "Au revoir !",
+      "jp": "Lata!",
+      "say": "LAH-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bz-hero.jpg",
+      "alt": "Vue aérienne de Belize City et de la côte caribéenne",
+      "caption": "BELIZE CITY — la plus grande ville longe le bord de la mer des Caraïbes",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bz-landmark.jpg",
+      "alt": "La pyramide El Castillo aux ruines mayas de Xunantunich, Belize",
+      "caption": "EL CASTILLO, XUNANTUNICH — pyramide maya de 40 m près de la frontière guatémaltèque",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bz-animalA.jpg",
+      "alt": "Toucan à bec caréné avec son bec arc-en-ciel posé sur une branche",
+      "caption": "TOUCAN À BEC CARÉNÉ — l'oiseau national du Belize avec son magnifique bec arc-en-ciel",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bz-animalB.jpg",
+      "alt": "Tapir de Baird, l'animal national du Belize",
+      "caption": "TAPIR DE BAIRD — le plus grand mammifère terrestre d'Amérique centrale",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

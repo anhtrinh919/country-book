@@ -1,0 +1,151 @@
+{
+  "name": "TCHAD",
+  "nativeName": "تشاد",
+  "romaji": "TCHAD",
+  "tagline": "Désert, lac et savane sauvage",
+  "region": "Central Africa",
+  "coords": "15.45°N, 18.73°E",
+  "fileNo": "089",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F4EDD8",
+    "dot": "#D4BF96",
+    "ink": "#2B2218",
+    "faint": "#8B7A55",
+    "line": "#DDD0B0",
+    "accent": "#002664",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/td.svg",
+    "title": "Drapeau du Tchad",
+    "note": "Trois bandes verticales bleue, jaune et rouge",
+    "keyColor": "#002664",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Tchad, on peut voir des chameaux dans le désert et des hippopotames dans la rivière — dans le même pays ! Un crâne vieux de 7 millions d'années — le plus vieux de l'histoire humaine — a été trouvé dans son désert. C'est le pays des grandes surprises !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "N'Djamena",
+      "sub": "~1,6 million d'habitants, sur le fleuve Chari"
+    },
+    {
+      "label": "Habitants",
+      "value": "~18,5 millions",
+      "sub": "Plus de 200 groupes différents"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Partagé avec 5 autres pays"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe / Français",
+      "sub": "Plus de 120 langues locales aussi !"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 284 000 km²",
+      "sub": "5e plus grand pays d'Afrique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Emi Koussi",
+      "sub": "3 445 m — un volcan dans le Sahara"
+    }
+  ],
+  "islands": [
+    "N'Djamena",
+    "Moundou",
+    "Abéché",
+    "Sarh",
+    "Bol"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Dunes, lac et savane pleine de vie",
+    "animals": "Éléphants, gazelles et hippos",
+    "culture": "200 peuples, mille couleurs !",
+    "history": "Le pays du plus vieux crâne du monde",
+    "wows": "Le Tchad, ça t'épate !"
+  },
+  "geo": "Au nord du Tchad, il y a un immense désert avec des dunes de sable et un grand volcan appelé Emi Koussi. Au sud, la pluie arrive chaque été et transforme les plaines en prairie verte !",
+  "animals": "Au parc de Zakouma vivent 700 éléphants — leur troupeau a doublé grâce à des gardiens courageux qui les protègent. Des hippopotames barbotent dans le fleuve Chari et des gazelles filent comme des flèches dans le désert !",
+  "culture": "Au Tchad, les gens organisent des courses de chameaux et boivent un thé très spécial en trois petites tasses. La lutte est le sport préféré, et tout le village vient encourager les combattants en criant très fort !",
+  "history": "Il y a très longtemps, des rois puissants régnaient au Tchad depuis presque 1 000 ans — leur empire s'appelait Kanem-Bornu. Dans le désert du Tchad, des explorateurs ont trouvé le crâne le plus vieux jamais découvert : il a 7 millions d'années !",
+  "wows": [
+    "Le lac Tchad a rétréci de 90% — il était autrefois aussi grand que la mer !",
+    "L'Emi Koussi est le plus grand volcan du Sahara, encore plus large que Paris.",
+    "Le Tchad est l'un des pays les plus loin de la mer dans le monde entier.",
+    "Des dessins de crocodiles ont été trouvés dans le désert — le Sahara était vert autrefois !",
+    "Le troupeau d'éléphants de Zakouma a doublé en dix ans grâce à des gardiens protecteurs.",
+    "En saison sèche, le fleuve Chari devient si étroit qu'on peut presque le traverser à pied.",
+    "Le crâne humain le plus vieux du monde — 7 millions d'ans — a été trouvé ici en 2001 !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Tchad n'est qu'un désert vide",
+      "fact": "Seulement le nord est désert ! Au sud, il y a de belles prairies vertes, des éléphants, des lions et un grand fleuve."
+    },
+    {
+      "myth": "Le lac Tchad est encore un grand lac",
+      "fact": "Il a rétréci de presque 90% depuis les années 1960 — il ne reste plus que des marécages et de petites îles."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Eau",
+      "jp": "ماء",
+      "say": "MAH"
+    },
+    {
+      "en": "Ami",
+      "jp": "صديق",
+      "say": "sa-DEEK"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "جميل",
+      "say": "ja-MEEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/td-hero.jpg",
+      "alt": "La ville de N'Djamena vue depuis le fleuve Chari",
+      "caption": "N'DJAMENA — La capitale du Tchad au bord du fleuve Chari au crépuscule",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/td-landmark.jpg",
+      "alt": "Les arches de grès du plateau de l'Ennedi au Tchad",
+      "caption": "PLATEAU DE L'ENNEDI — Arches de grès sculptées par le vent depuis des millénaires",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/td-animalA.jpg",
+      "alt": "Troupeau d'éléphants au parc national de Zakouma, Tchad",
+      "caption": "ÉLÉPHANTS DE ZAKOUMA — 700 éléphants, le plus beau troupeau d'Afrique centrale",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/td-animalB.jpg",
+      "alt": "Gazelle dorcas aux aguets dans la brousse du Sahel",
+      "caption": "GAZELLE DORCAS — rapide survivante du désert au bord des dunes du Tchad",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

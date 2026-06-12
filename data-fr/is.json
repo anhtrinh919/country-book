@@ -1,0 +1,151 @@
+{
+  "name": "ISLANDE",
+  "nativeName": "IS",
+  "romaji": "ISLAND",
+  "tagline": "Feu, glace et aurores boréales",
+  "region": "Atlantique Nord, Europe",
+  "coords": "64.96°N, 19.02°W",
+  "fileNo": "047",
+  "langName": "islandais",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEF3F6",
+    "dot": "#c2cdd6",
+    "ink": "#1e2730",
+    "faint": "#6e8090",
+    "line": "#d4dde4",
+    "accent": "#003897",
+    "accent2": "#D72828"
+  },
+  "flag": {
+    "assetPath": "/flags/is.svg",
+    "title": "Drapeau de l'Islande",
+    "note": "Bleu avec une croix rouge bordée de blanc",
+    "keyColor": "#003897",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Islande, des volcans crachent de la lave chaude sous des glaciers immenses ! Le sol est si chaud qu'on peut chauffer toutes les maisons grâce à la chaleur qui vient du sous-sol. C'est le pays du feu, de la glace et du ciel vert la nuit !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Reykjavik",
+      "sub": "La capitale la plus au nord du monde"
+    },
+    {
+      "label": "Habitants",
+      "value": "~376 000",
+      "sub": "Est. 2024 — très peu pour un pays"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Króna (ISK)",
+      "sub": "Une couronne = 100 aurar"
+    },
+    {
+      "label": "Langue",
+      "value": "islandais",
+      "sub": "Presque inchangé depuis 1 000 ans"
+    },
+    {
+      "label": "Superficie",
+      "value": "103 000 km²",
+      "sub": "À peu près comme le Kentucky, aux États-Unis"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 110 m",
+      "sub": "Hvannadalshnjúkur — au sommet d'un volcan"
+    }
+  ],
+  "islands": [
+    "Reykjavik",
+    "Akureyri",
+    "Keflavik",
+    "Ísafjörður",
+    "Höfn"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays de feu et de glace",
+    "animals": "Les bêtes sauvages du grand nord",
+    "culture": "Vikings, piscines chaudes et livres",
+    "history": "Les premières aventures islandaises",
+    "wows": "Les moments magiques de l'Islande"
+  },
+  "geo": "En Islande, la terre est vivante : des geysers crachent de l'eau bouillante très haut dans le ciel toutes les quelques minutes ! Plus de 130 volcans se trouvent là, dont 30 encore actifs aujourd'hui.",
+  "animals": "Le renard arctique est le seul animal sauvage qui vit sur la terre en Islande — il est arrivé tout seul en marchant sur la mer gelée ! Des millions de macareux nichent ici chaque été, battant leurs petites ailes 400 fois par minute comme de vrais hélicoptères à plumes.",
+  "culture": "Les Islandais adorent se baigner dans des piscines d'eau chaude naturelle dehors, même quand la neige tombe sur leur tête ! À Noël, tout le monde offre un livre à lire dans son lit le soir — c'est la tradition de la grande inondation de livres de Noël.",
+  "history": "Des Vikings venus de Norvège sont arrivés en Islande vers 874 après Jésus-Christ, à bord de bateaux à tête de dragon. En 930, ils ont créé un des plus vieux parlements du monde, où tout le monde se retrouvait dehors pour décider ensemble des règles.",
+  "wows": [
+    "L'Islande produit presque toute son électricité grâce à la chaleur des volcans et des rivières — sans fumée !",
+    "Le ciel de l'Islande danse en vert et violet les nuits d'hiver : ce sont les aurores boréales.",
+    "Les Islandais n'ont pas de nom de famille — chaque enfant porte le prénom de son papa ou de sa maman suivi de -son ou -dóttir.",
+    "L'Islande n'a pas d'armée, de marine ni d'avions de guerre — c'est un des rares pays sans soldats du tout !",
+    "À la fissure de Silfra, on peut nager entre deux plaques de la Terre dans une eau tellement claire qu'on voit à 100 mètres devant soi.",
+    "Des routes ont été déplacées pour ne pas déranger les rochers où vivraient des gens invisibles appelés les Huldufólk.",
+    "Le volcan Eyjafjallajökull a craché de la cendres en 2010 et a empêché des millions d'avions de voler en Europe pendant des semaines !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Islande est couverte de glace",
+      "fact": "L'Islande est en fait très verte — environ 23 % de prairies. Un Viking l'a appelée Islande pour garder la bonne terre secrète ; c'est le Groenland qui est vraiment couvert de glace !"
+    },
+    {
+      "myth": "Il fait toujours très très froid là-bas",
+      "fact": "Les hivers à Reykjavik sont moins froids qu'à New York, grâce à un courant chaud dans l'océan. Et la chaleur des volcans sous le sol réchauffe toutes les maisons toute l'année !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Halló",
+      "say": "HAL-oh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Takk",
+      "say": "tahk"
+    },
+    {
+      "en": "Volcan",
+      "jp": "Eldfjall",
+      "say": "ELD-fyatl"
+    },
+    {
+      "en": "Oui",
+      "jp": "Já",
+      "say": "yow"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Bless",
+      "say": "bless"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/is-hero.jpg",
+      "alt": "Panorama nocturne de Reykjavik avec l'église Hallgrimskirkja illuminée",
+      "caption": "REYKJAVÍK — la capitale brille sous le ciel arctique aux aurores boréales",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/is-landmark.jpg",
+      "alt": "Le geyser Strokkur crache une haute colonne d'eau bouillante",
+      "caption": "GEYSER STROKKUR — explose à 20 m de hauteur toutes les quelques minutes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/is-animalA.jpg",
+      "alt": "Macareux moine au bec coloré posé sur une falaise",
+      "caption": "MACAREUX MOINE — l'Islande accueille des millions de ces oiseaux au visage de clown chaque été",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/is-animalB.jpg",
+      "alt": "Renard arctique blanc debout dans un paysage enneigé",
+      "caption": "RENARD ARCTIQUE — le seul mammifère terrestre indigène d'Islande dans son manteau d'hiver blanc",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

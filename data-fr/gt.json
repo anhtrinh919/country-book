@@ -1,0 +1,151 @@
+{
+  "name": "GUATEMALA",
+  "nativeName": "GT",
+  "romaji": "GUATEMALA",
+  "tagline": "Le Pays du Printemps Éternel",
+  "region": "Amérique centrale",
+  "coords": "15.78°N, 90.23°W",
+  "fileNo": "047",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDD6",
+    "dot": "#CCBD97",
+    "ink": "#26221A",
+    "faint": "#8A7A56",
+    "line": "#DDD3B0",
+    "accent": "#1B5E2B",
+    "accent2": "#4169A6"
+  },
+  "flag": {
+    "assetPath": "/flags/gt.svg",
+    "title": "Drapeau du Guatemala",
+    "note": "Bleu-blanc-bleu avec les armoiries",
+    "keyColor": "#1B5E2B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Guatemala, 37 volcans crachent de la fumée au-dessus de temples maya géants — c'est comme vivre dans un film d'aventure ! Le pays s'appelle « Pays du Printemps Éternel » parce qu'il fait toujours beau et doux là-haut dans les montagnes !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Guatemala City",
+      "sub": "Env. 3,2 millions d'hab. dans l'agglo."
+    },
+    {
+      "label": "Habitants",
+      "value": "18,4 millions",
+      "sub": "Est. 2024, Banque mondiale"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Quetzal (GTQ)",
+      "sub": "Nommé d'après l'oiseau national"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "Et aussi 22 langues mayas"
+    },
+    {
+      "label": "Superficie",
+      "value": "108 889 km²",
+      "sub": "Plus grand que l'Islande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "4 220 m",
+      "sub": "Volcan Tajumulco"
+    }
+  ],
+  "islands": [
+    "ANTIGUA",
+    "FLORES",
+    "XELA",
+    "COBÁN",
+    "PTO. BARRIOS"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Volcans, lacs et jungle !",
+    "animals": "Le quetzal et ses amis de la forêt",
+    "culture": "Couleurs, musique et marchés magiques",
+    "history": "Des pyramides cachées dans la jungle",
+    "wows": "Tu savais ça ?"
+  },
+  "geo": "Le Guatemala a 37 volcans, et trois d'entre eux fument encore aujourd'hui ! Le lac Atitlán se cache dans un ancien cratère de volcan, entouré de trois autres volcans tout autour.",
+  "animals": "Le quetzal resplendissant est l'oiseau du Guatemala — ses plumes de queue vert brillant mesurent jusqu'à 65 cm, aussi longues que ton bras ! Les jaguars habitent encore dans la grande forêt du nord, là où vivent aussi les singes hurleurs.",
+  "culture": "Les femmes mayas tissent des habits très colorés appelés huipiles, et chaque village a son propre dessin unique. Deux fois par semaine, le marché de Chichicastenango se remplit de fleurs, de tissus et d'une belle musique jouée sur un xylophone géant en bois appelé marimba !",
+  "history": "Il y a très longtemps, la ville de Tikal avait 60 000 habitants et un temple si grand qu'il dépasse les arbres de la jungle ! Ce temple géant est même apparu dans le premier film Star Wars.",
+  "wows": [
+    "Le Guatemala a 37 volcans — il y en a plus ici que presque partout ailleurs sur Terre !",
+    "Les anciens Mayas ont inventé l'une des premières boissons au chocolat du monde, avec du cacao et du piment.",
+    "Le temple de Tikal est si haut qu'on voit des kilomètres de cimes d'arbres tout autour, rien d'autre !",
+    "Les Mayas croyaient que le quetzal mourrait plutôt que de vivre en cage — c'est leur symbole de liberté.",
+    "Guatemala City est la plus grande ville de toute l'Amérique centrale !",
+    "Le lac Atitlán est si profond (340 mètres !) que son fond n'a jamais été complètement exploré.",
+    "Le café du Guatemala pousse dans la terre des volcans — il a un goût de chocolat !"
+  ],
+  "myths": [
+    {
+      "myth": "« Les Mayas ont disparu »",
+      "fact": "Plus de 7 millions de Mayas vivent au Guatemala aujourd'hui, ils parlent 22 langues et gardent leurs traditions, leurs danses et leur façon de tisser bien vivantes."
+    },
+    {
+      "myth": "« Le Guatemala c'est seulement la jungle et des ruines »",
+      "fact": "Il y a aussi des volcans enneigés, des prairies dans les montagnes, des plages des Caraïbes et une grande ville moderne — c'est un pays très varié !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Hermoso",
+      "say": "er-MOH-soh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gt-hero.jpg",
+      "alt": "Le temple I de Tikal qui dépasse la canopée de la jungle au lever du soleil",
+      "caption": "TEMPLE I DE TIKAL — la grande pyramide s'élève à 47 m au-dessus de la place, construite vers 732 apr. J.-C.",
+      "credit": "Wikimedia Commons / Raymond Ostertag"
+    },
+    "landmark": {
+      "src": "/photos/gt-landmark.jpg",
+      "alt": "Le lac Atitlán avec trois volcans reflétés dans l'eau bleue et calme",
+      "caption": "LAC ATITLÁN — un lac dans un cratère entouré de trois volcans dans les montagnes.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gt-animalA.jpg",
+      "alt": "Un quetzal resplendissant perché sur une branche avec ses longues plumes de queue émeraude",
+      "caption": "QUETZAL RESPLENDISSANT — oiseau sacré des Mayas, plumes de queue jusqu'à 65 cm de long.",
+      "credit": "Wikimedia Commons / Dave Montreuil"
+    },
+    "animalB": {
+      "src": "/photos/gt-animalB.jpg",
+      "alt": "Un jaguar allongé sur un tronc montrant sa fourrure dorée tachetée",
+      "caption": "JAGUAR — grand prédateur de la forêt du Petén, vénéré par les anciens Mayas.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

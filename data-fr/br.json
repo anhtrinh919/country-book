@@ -1,0 +1,151 @@
+{
+  "name": "BRÉSIL",
+  "nativeName": "BR",
+  "romaji": "BRASIL",
+  "tagline": "Le pays du Carnaval et de la Jungle",
+  "region": "South America",
+  "coords": "-14.2°N, -51.9°W",
+  "fileNo": "BRA",
+  "langName": "portugais",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9A",
+    "ink": "#1E2A18",
+    "faint": "#7A8A6E",
+    "line": "#DDD3B8",
+    "accent": "#009C3B",
+    "accent2": "#FEDD00"
+  },
+  "flag": {
+    "assetPath": "/flags/br.svg",
+    "title": "Drapeau du Brésil",
+    "note": "Vert, losange doré, globe bleu et étoiles",
+    "keyColor": "#009C3B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Brésil est si grand qu'on pourrait y mettre toute l'Europe et il resterait encore de la place ! C'est là que vit la plus grande forêt tropicale du monde, l'Amazonie, où habitent des millions d'animaux extraordinaires. Tout au Brésil est immense, coloré et plein de vie !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Brasília",
+      "sub": "Construite en seulement 41 mois"
+    },
+    {
+      "label": "Habitants",
+      "value": "215 millions",
+      "sub": "Recensement 2022 — 5e pays le plus peuplé"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Real (BRL)",
+      "sub": "Symbole R$ ; 100 centavos = 1 real"
+    },
+    {
+      "label": "Langue",
+      "value": "portugais",
+      "sub": "Seul pays d'Amérique à parler portugais"
+    },
+    {
+      "label": "Superficie",
+      "value": "8,51 M km²",
+      "sub": "5e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 994 m",
+      "sub": "Pico da Neblina, près du Venezuela"
+    }
+  ],
+  "islands": [
+    "São Paulo",
+    "Rio de Jan.",
+    "Amazonas",
+    "Bahia",
+    "Rio Grande"
+  ],
+  "islandsLabel": "ÉTATS PRINCIPAUX :",
+  "sections": {
+    "geography": "Des rivières et des forêts à perte de vue",
+    "animals": "Des bêtes incroyables partout !",
+    "culture": "Musique, couleurs et football",
+    "history": "Un pays né d'une grande aventure",
+    "wows": "Les superpouvoirs du Brésil"
+  },
+  "geo": "Le Brésil abrite 60 % de l'Amazonie — la plus grande forêt du monde, plus grande que toute l'Europe ! Le fleuve Amazone déverse plus d'eau douce dans la mer que n'importe quel autre fleuve sur Terre.",
+  "animals": "L'Amazonie est la maison du jaguar, du dauphin rose, du capybara — un énorme cochon d'Inde qui adore nager — et de grenouilles arc-en-ciel tellement brillantes qu'elles font peur aux prédateurs ! Les toucans aux becs géants et les aras écarlates colorent les arbres de rouge et de jaune.",
+  "culture": "Au Brésil, le Carnaval est la plus grande fête de rue du monde entier : deux millions de personnes dansent et chantent chaque jour dans les rues de Rio ! Le plat préféré des Brésiliens s'appelle la feijoada, un ragoût de haricots noirs et de viande tellement bon qu'on en reprend toujours.",
+  "history": "Il y a très longtemps, une légende raconte que le premier explorateur portugais arrivé au Brésil crut avoir découvert un paradis plein d'oiseaux colorés et d'arbres géants — et il n'avait pas tort ! La capitale Brasília est encore plus magique : elle a été construite en seulement 41 mois au milieu d'une plaine vide, comme une ville sortie de nulle part.",
+  "wows": [
+    "Le fleuve Amazone est si puissant qu'on peut boire l'eau douce de l'océan à 160 km des côtes !",
+    "Le Brésil a gagné la Coupe du Monde de football 5 fois — plus que n'importe quel autre pays !",
+    "Les chutes d'Iguaçu font presque 3 km de large avec 275 cascades côte à côte — c'est gigantesque !",
+    "Le capybara, qui vit au Brésil, est le plus grand rongeur du monde — aussi gros qu'un chien !",
+    "São Paulo a plus d'habitants d'origine japonaise que n'importe quelle ville en dehors du Japon.",
+    "Les zones humides du Pantanal deviennent aussi grandes que la France entière à la saison des pluies !",
+    "Brasília a été construite si vite et si joliment qu'elle est devenue un trésor protégé du monde entier."
+  ],
+  "myths": [
+    {
+      "myth": "L'Amazonie fabrique tout l'oxygène que nous respirons",
+      "fact": "L'Amazonie absorbe et libère à peu près la même quantité d'oxygène. Son vrai rôle, c'est de garder enfermés des milliards de tonnes de CO₂ pour protéger notre planète."
+    },
+    {
+      "myth": "Les piranhas attaquent tout ce qui bouge dans l'eau",
+      "fact": "Les piranhas se nourrissent surtout de restes. Les gens du coin nagent avec eux tous les jours — ils ne mordent que lorsqu'ils ont très faim ou qu'on les coince !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Merci",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Football",
+      "jp": "Futebol",
+      "say": "foo-chee-BOL"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Gostoso",
+      "say": "gos-TOH-zoo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/br-hero.jpg",
+      "alt": "Vue aérienne de Rio de Janeiro depuis le Pain de Sucre",
+      "caption": "RIO DE JANEIRO — la ville entre pics de jungle et plages en croissant",
+      "credit": "Wikimedia Commons / Martin St-Amant"
+    },
+    "landmark": {
+      "src": "/photos/br-landmark.jpg",
+      "alt": "Statue du Christ Rédempteur sur la montagne du Corcovado dominant Rio",
+      "caption": "LE CHRIST RÉDEMPTEUR — les bras grands ouverts sur Rio depuis 710 m de haut",
+      "credit": "Wikimedia Commons / Vincent van Zeijst"
+    },
+    "animalA": {
+      "src": "/photos/br-animalA.jpg",
+      "alt": "Un jaguar qui marche le long d'une rivière dans le Pantanal",
+      "caption": "JAGUAR — le plus grand félin d'Amérique patrouille les zones humides du Pantanal",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/br-animalB.jpg",
+      "alt": "Toucan toco perché sur une branche avec son énorme bec orange",
+      "caption": "TOUCAN TOCO — son bec immense attrape les fruits et rafraîchit son corps sous le soleil",
+      "credit": "Wikimedia Commons / Ltshears"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "THAÏLANDE",
+  "nativeName": "ไทย",
+  "romaji": "THAILAND",
+  "tagline": "Le pays des sourires et des temples",
+  "region": "Southeast Asia",
+  "coords": "15.87°N, 100.99°E",
+  "fileNo": "076",
+  "flag": {
+    "assetPath": "/flags/th.svg",
+    "title": "Drapeau de la Thaïlande",
+    "note": "Rouge, blanc et bleu — la nation, la foi et le roi",
+    "keyColor": "#A51831",
+    "mastheadMotif": "clipped-flag"
+  },
+  "lead": "En Thaïlande, il y a plus de 40 000 temples — imagine 40 000 châteaux dorés brillant au soleil ! Le nom du pays signifie « Pays de la liberté ». Et tout le monde sourit tout le temps !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bangkok",
+      "sub": "Krung Thep — la Cité des Anges"
+    },
+    {
+      "label": "Habitants",
+      "value": "70,3 millions",
+      "sub": "Recensement officiel 2025, 1er avril 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Baht thaïlandais ฿",
+      "sub": "100 satang = 1 baht"
+    },
+    {
+      "label": "Langue",
+      "value": "thaï",
+      "sub": "Écriture aux racines khmères anciennes"
+    },
+    {
+      "label": "Superficie",
+      "value": "513 115 km²",
+      "sub": "Environ deux fois la taille du Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Doi Inthanon",
+      "sub": "2 565 m — le toit de la Thaïlande"
+    }
+  ],
+  "islands": [
+    "Bangkok",
+    "Chiang Mai",
+    "Phuket",
+    "Chiang Rai",
+    "Ayutthaya"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, rivières et mers chaudes",
+    "animals": "Éléphants, poissons et grands félins",
+    "culture": "Temples, repas et arts anciens",
+    "history": "Le royaume qui est resté libre",
+    "wows": "7 choses qui vont t'épater !"
+  },
+  "geo": [
+    "La Thaïlande ressemble à une grande hache sur la carte ! Le haut est plein de montagnes et de grandes rivières, et le bas est une longue bande de terre entre deux mers.",
+    "Au nord, les montagnes sont souvent cachées dans les nuages, et au sud, il y a des milliers d'îles avec de l'eau bleue turquoise et des falaises de pierre qui sortent de la mer comme des dents géantes !"
+  ],
+  "animals": [
+    "L'éléphant d'Asie est l'animal le plus célèbre de Thaïlande — les éléphants blancs sont si rares qu'ils sont considérés comme sacrés et appartiennent au roi !",
+    "Le poisson combattant siamois est le poisson national — ses nageoires sont multicolores comme un arc-en-ciel, et on l'élève en Thaïlande depuis plus de 1 000 ans !"
+  ],
+  "culture": [
+    "Pour dire bonjour, les Thaïlandais joignent les deux mains comme pour prier et s'inclinent — ce geste s'appelle le Wai, et c'est très poli !",
+    "Le Songkran est le Nouvel An thaïlandais en avril : tout le monde s'asperge d'eau dans les rues pour chasser la malchance — c'est la plus grande bataille d'eau du monde !"
+  ],
+  "history": [
+    "Il y a très très longtemps, de grands rois thaïlandais ont construit la magnifique ville d'Ayutthaya, avec des temples dorés si imposants qu'on la surnommait la cité des dieux !",
+    "Le nom complet de Bangkok est long de 168 lettres — c'est le nom de ville le plus long du monde entier, inscrit dans le Livre des records Guinness !"
+  ],
+  "wows": [
+    "Le nom complet de Bangkok a 168 lettres — c'est le plus long nom de ville du monde !",
+    "Le plus grand Bouddha en or massif du monde pèse 5,5 tonnes et était caché sous du plâtre pendant 200 ans.",
+    "La Thaïlande a plus de 40 000 temples bouddhistes — plus que beaucoup de pays ont de stations-service !",
+    "La Thaïlande est le seul pays d'Asie du Sud-Est qui n'a jamais été colonisé par des Européens.",
+    "Le poisson combattant siamois est élevé en Thaïlande depuis plus de 1 000 ans.",
+    "Les nouilles Pad Thai ont été inventées dans les années 1940 par décision du gouvernement.",
+    "La montagne Doi Inthanon porte le nom d'un ancien roi dont les restes sont enterrés près de son sommet."
+  ],
+  "myths": [
+    {
+      "myth": "« Le Pad Thai est une vieille recette ancienne »",
+      "fact": "Le Pad Thai a été inventé dans les années 1940 quand le gouvernement a voulu que les gens mangent moins de riz. C'est une recette très récente !"
+    },
+    {
+      "myth": "« Les éléphants se promènent partout en Thaïlande »",
+      "fact": "Les éléphants sauvages sont en danger — il n'en reste que 4 000 à 4 400 dans les forêts. On les voit surtout dans des sanctuaires où ils sont bien protégés."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "สวัสดี",
+      "say": "Sa-wat-dee"
+    },
+    {
+      "en": "Merci",
+      "jp": "ขอบคุณ",
+      "say": "Khob-khun"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "อร่อย",
+      "say": "A-roi"
+    },
+    {
+      "en": "Temple",
+      "jp": "วัด",
+      "say": "Wat"
+    },
+    {
+      "en": "Eau",
+      "jp": "น้ำ",
+      "say": "Nahm"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/th-landmark.jpg",
+      "alt": "Le temple Wat Arun vu depuis l'autre rive du fleuve Chao Phraya à l'aube",
+      "caption": "WAT ARUN — le Temple de l'Aube de Bangkok brille au bord du fleuve",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/th-animalA.jpg",
+      "alt": "Éléphant d'Asie au camp d'éléphants d'Ayutthaya, Thaïlande",
+      "caption": "ÉLÉPHANT D'ASIE — symbole sacré de la royauté et de la culture thaïlandaises",
+      "credit": "Yosemite / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/th-animalB.jpg",
+      "alt": "Poisson combattant siamois Betta splendens avec ses nageoires aux couleurs vives",
+      "caption": "POISSON COMBATTANT SIAMOIS — l'animal aquatique national de Thaïlande",
+      "credit": "ErgoSum88 / Wikimedia Commons Public Domain"
+    },
+    "hero": {
+      "src": "/photos/th-hero.jpg",
+      "alt": "Skyline de Bangkok avec le métro aérien BTS Skytrain au premier plan",
+      "caption": "BTS SKYTRAIN — le métro aérien de Bangkok au-dessus des toits de la ville",
+      "credit": "V. Argenberg / Wikimedia CC BY 4.0"
+    }
+  },
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2318",
+    "faint": "#8B7A56",
+    "line": "#DDD0B0",
+    "accent": "#A51931",
+    "accent2": "#2D2A7A"
+  },
+  "motif": "sun",
+  "langName": "thaï"
+}

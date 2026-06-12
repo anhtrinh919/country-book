@@ -1,0 +1,151 @@
+{
+  "name": "TIMOR-LESTE",
+  "nativeName": "TL",
+  "romaji": "TIMOR-LESTE",
+  "tagline": "Jeune, courageux et magnifique",
+  "region": "Asie du Sud-Est",
+  "coords": "8.87°S, 125.73°E",
+  "fileNo": "076",
+  "langName": "tétum",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CBBA96",
+    "ink": "#241E14",
+    "faint": "#8A7355",
+    "line": "#DDD0B0",
+    "accent": "#DC241F",
+    "accent2": "#F8C300"
+  },
+  "flag": {
+    "assetPath": "/flags/tl.svg",
+    "title": "Drapeau du Timor-Leste",
+    "note": "Triangles rouge, jaune et noir, étoile blanche",
+    "keyColor": "#DC241F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Timor-Leste est l'un des pays les plus jeunes du monde — il est né en 2002, il a à peine plus de 20 ans ! Ce petit pays tropical est entouré d'une mer pleine de coraux colorés et de milliers de poissons. Ses forêts et ses récifs sont encore sauvages et tout beaux !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Dili",
+      "sub": "Ville côtière sur la côte nord"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,42 million",
+      "sub": "Est. 2025 — un des plus petits d'Asie"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar américain",
+      "sub": "Utilise le dollar depuis l'indépendance"
+    },
+    {
+      "label": "Langue",
+      "value": "Tétum et port.",
+      "sub": "Plus de 30 langues locales"
+    },
+    {
+      "label": "Superficie",
+      "value": "14 874 km²",
+      "sub": "À peu près comme le Connecticut"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 963 m",
+      "sub": "Mont Tatamailau, le sommet sacré"
+    }
+  ],
+  "islands": [
+    "Dili",
+    "Baucau",
+    "Maliana",
+    "Suai",
+    "Oecusse"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, mer et sommets sacrés",
+    "animals": "Les créatures du royaume des coraux",
+    "culture": "Tissus, fêtes et la danse tebe",
+    "history": "Une légende d'île et d'ancêtres",
+    "wows": "Le Timor-Leste t'étonnera !"
+  },
+  "geo": "Le Timor-Leste occupe la pointe est de l'île de Timor, entourée par la mer de Timor et la mer de Banda. Des montagnes traversent tout le pays, et au nord se trouve la petite île d'Ataúro, entourée de récifs coralliens fabuleux.",
+  "animals": "Le crabe de cocotier est le plus grand crabe terrestre du monde — il peut grimper aux palmiers pour attraper des noix de coco ! Dans la mer, les dugongs, de doux « vaches marines », nagent tranquillement dans les herbiers marins.",
+  "culture": "Chaque famille timoraise garde précieusement une maison ancestrale appelée uma lulik, décorée de tissus colorés appelés tais. Lors des fêtes, tout le village se tient par les bras en cercle et danse le tebe-tebe en chantant ensemble pendant des heures !",
+  "history": "Il y a très longtemps, les habitants croyaient que le Timor-Leste était né du dos d'un crocodile géant qui s'était transformé en île pour abriter des gens. Aujourd'hui encore, le crocodile est un animal sacré et on le respecte comme un ancêtre.",
+  "wows": [
+    "Le Timor-Leste est le tout premier nouveau pays né au XXIe siècle — le 20 mai 2002 !",
+    "L'île d'Ataúro détient un record mondial : plus de 250 espèces de poissons par endroit dans ses récifs !",
+    "Le pays compte plus de 30 langues différentes — presque une par vallée de montagne.",
+    "Le café de montagne du Timor-Leste est vendu dans les boutiques chic des États-Unis.",
+    "Le mont Tatamailau veut dire « Grand-père de tous » — les ancêtres y séjournent selon la légende.",
+    "Des baleines à dents passent si près de Dili qu'on peut les entendre souffler la nuit !",
+    "Le Timor-Leste est le seul pays d'Asie à utiliser le dollar américain comme monnaie."
+  ],
+  "myths": [
+    {
+      "myth": "« Le Timor-Leste fait partie de l'Indonésie »",
+      "fact": "Non, c'est un pays totalement indépendant depuis 2002, avec son propre drapeau, son gouvernement et sa place à l'ONU."
+    },
+    {
+      "myth": "« Il n'y a rien à voir là-bas »",
+      "fact": "Les plongeurs adorent ses récifs, comptés parmi les cinq plus riches du monde en poissons. Les baleines et les dauphins y sont aussi visibles depuis le bord !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Merci",
+      "jp": "Obrigadu",
+      "say": "oh-bri-GAH-doo"
+    },
+    {
+      "en": "Oui",
+      "jp": "Sin",
+      "say": "SEEN"
+    },
+    {
+      "en": "Eau",
+      "jp": "Bee",
+      "say": "BEE"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Bonitu",
+      "say": "bo-NEE-too"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tl-hero.jpg",
+      "alt": "Front de mer de Dili avec des palmiers et des collines derrière",
+      "caption": "FRONT DE MER DE DILI — la baie bordée de palmiers avec les collines vertes en fond",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tl-landmark.jpg",
+      "alt": "Statue du Cristo Rei sur une colline surplombant la mer de Timor",
+      "caption": "CRISTO REI DE DILI — statue de 27 mètres au sommet d'une colline face à la mer de Timor",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tl-animalA.jpg",
+      "alt": "Un grand crabe de cocotier agrippé au tronc d'un cocotier",
+      "caption": "CRABE DE COCOTIER — le plus grand crabe terrestre du monde, trouvé sur l'île d'Ataúro",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tl-animalB.jpg",
+      "alt": "Un dugong nageant dans des eaux peu profondes avec des herbiers marins",
+      "caption": "DUGONG — douce vache marine broutant les herbiers de la mer de Timor",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

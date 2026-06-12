@@ -1,0 +1,151 @@
+{
+  "name": "IRLANDE",
+  "nativeName": "IE",
+  "romaji": "IRELAND",
+  "tagline": "L'île d'émeraude",
+  "region": "Northwestern Europe",
+  "coords": "53°N, 8°W",
+  "fileNo": "037",
+  "langName": "irlandais",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EFF5E8",
+    "dot": "#c4d4b0",
+    "ink": "#1e2a18",
+    "faint": "#7a8c6a",
+    "line": "#d4e0c4",
+    "accent": "#169B62",
+    "accent2": "#FF883E"
+  },
+  "flag": {
+    "assetPath": "/flags/ie.svg",
+    "title": "Tricolore irlandais",
+    "note": "Vert, blanc et orange — la paix",
+    "keyColor": "#169B62",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Irlande est une petite île si verte qu'on l'appelle l'île d'émeraude ! La pluie arrose les prairies presque tous les jours pour garder les champs brillants et doux. On y trouve de vieux châteaux, de la musique joyeuse et les gens les plus accueillants du monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Dublin",
+      "sub": "Baile Átha Cliath en irlandais"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,1 millions",
+      "sub": "République est. 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro €",
+      "sub": "Dans la zone euro depuis 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "irlandais/anglais",
+      "sub": "Deux langues officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "70 273 km²",
+      "sub": "République ; plus petit que le Portugal"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 041 m",
+      "sub": "Carrauntoohil, comté de Kerry"
+    }
+  ],
+  "islands": [
+    "Dublin",
+    "Cork",
+    "Galway",
+    "Limerick",
+    "Kilkenny"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Falaises, lacs et prairies vertes",
+    "animals": "Bêtes des tourbières et des côtes sauvages",
+    "culture": "Musique, contes et fête !",
+    "history": "Une légende vieille de 5 000 ans",
+    "wows": "Irlande : les incroyables surprises"
+  },
+  "geo": "L'Irlande est couverte de champs verts séparés par des murets en pierre et parsemés de lacs brillants appelés loughs. À l'ouest, les Falaises de Moher plongent de 214 mètres dans l'océan Atlantique — c'est comme regarder dans le vide depuis un immeuble de 70 étages !",
+  "animals": "Le cerf roux est le plus grand animal sauvage d'Irlande et il vit dans le parc national de Killarney. L'aigle à queue blanche avait disparu pendant 100 ans, mais depuis 2007 il vole de nouveau au-dessus des lacs — c'est comme si un super-héros était revenu !",
+  "culture": "L'Irlande est le seul pays au monde dont l'emblème national est un instrument de musique : la harpe ! Partout dans les petits cafés appelés pubs, les musiciens jouent du violon et de la flûte, et tout le monde danse et chante ensemble.",
+  "history": "Il y a 5 000 ans, des gens très habiles ont construit un tombeau magique appelé Newgrange. Chaque année, le matin du 21 décembre, un rayon de soleil entre exactement dans le couloir et illumine la salle secrète — comme une lampe allumée par le soleil !",
+  "wows": [
+    "L'Irlande n'a aucun serpent — les glaciers les ont tous fait disparaître il y a très longtemps !",
+    "La brasserie Guinness à Dublin a signé un contrat de location de 9 000 ans en 1759 — et fabrique encore de la bière aujourd'hui !",
+    "Le tombeau de Newgrange est plus vieux que Stonehenge et les pyramides d'Égypte !",
+    "Chaque 21 décembre, le soleil illumine parfaitement l'intérieur de Newgrange — conçu il y a 5 000 ans !",
+    "L'écriture Ogham gravée sur des pierres dressées est l'un des plus vieux alphabets d'Europe !",
+    "Halloween est une fête qui vient d'Irlande — elle s'appelait Samhain et avait plus de 2 000 ans !",
+    "L'Irlande a quatre écrivains qui ont gagné le prix Nobel de littérature — c'est un record pour une si petite île !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Irlande est toujours froide et pluvieuse",
+      "fact": "Le courant chaud du Gulf Stream réchauffe l'Irlande — Dublin voit rarement la neige, et les jonquilles fleurissent souvent dès février !"
+    },
+    {
+      "myth": "Les Irlandais adorent les lutins (leprechauns)",
+      "fact": "Les lutins sont très peu importants dans les vraies légendes irlandaises — ce sont surtout les touristes qui en raffolent, ce qui amuse beaucoup les Irlandais !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Dia dhuit",
+      "say": "dee-ah gwit"
+    },
+    {
+      "en": "Merci",
+      "jp": "Go raibh má",
+      "say": "guh rev mah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Le do thoil",
+      "say": "leh duh hull"
+    },
+    {
+      "en": "Santé !",
+      "jp": "Sláinte!",
+      "say": "slawn-cha"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Fáilte",
+      "say": "fawl-cha"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ie-hero.jpg",
+      "alt": "Panorama de Dublin avec la rivière Liffey et le pont Ha'penny",
+      "caption": "DUBLIN — la rivière Liffey serpente entre les clochers et les grues modernes.",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/ie-landmark.jpg",
+      "alt": "Les Falaises de Moher s'élèvent dramatiquement depuis l'océan Atlantique dans le comté de Clare",
+      "caption": "FALAISES DE MOHER — 214 m de roche face à l'Atlantique sauvage, comté de Clare.",
+      "credit": "Ermell / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ie-animalA.jpg",
+      "alt": "Cerf roux mâle avec de grands bois dans un paysage vert",
+      "caption": "CERF ROUX — le plus grand animal terrestre d'Irlande, le majestueux roi de Killarney.",
+      "credit": "Luc Viatour / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ie-animalB.jpg",
+      "alt": "Aigle à queue blanche planant les ailes entièrement déployées",
+      "caption": "AIGLE À QUEUE BLANCHE — disparu pendant 100 ans, de retour et en plein vol depuis 2007.",
+      "credit": "Artie Wolfe / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

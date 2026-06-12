@@ -1,0 +1,151 @@
+{
+  "name": "SAMOA",
+  "nativeName": "WS",
+  "romaji": "SAMOA",
+  "tagline": "Îles de bleu et de tatau",
+  "region": "Polynésie, Pacifique Sud",
+  "coords": "13°35′S 172°20′W",
+  "fileNo": "063",
+  "langName": "samoan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F3EDE0",
+    "dot": "#C9BAA2",
+    "ink": "#252018",
+    "faint": "#7E6E52",
+    "line": "#DACFB8",
+    "accent": "#C0202E",
+    "accent2": "#1A3A6B"
+  },
+  "flag": {
+    "assetPath": "/flags/ws.svg",
+    "title": "Drapeau des Samoa",
+    "note": "Rouge et bleu avec les étoiles de la Croix du Sud",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le mot « tatouage » que tout le monde utilise vient des îles Samoa — c'est de là que ce mot est né il y a très longtemps ! Les Samoa, c'est deux îles volcaniques entourées de récifs de corail colorés et de forêts tropicales. Les gens y vivent en grandes familles joyeuses depuis 3 000 ans !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Apia",
+      "sub": "Sur la côte nord de l'île d'Upolu"
+    },
+    {
+      "label": "Habitants",
+      "value": "≈ 218 000",
+      "sub": "Est. 2024 ; les 3/4 vivent sur Upolu"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Tālā samoan",
+      "sub": "WS$ ; 100 sene = 1 tālā"
+    },
+    {
+      "label": "Langue",
+      "value": "Samoan",
+      "sub": "Et aussi l'anglais ; les deux sont officiels"
+    },
+    {
+      "label": "Superficie",
+      "value": "2 842 km²",
+      "sub": "À peu près comme le Luxembourg"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Silisili",
+      "sub": "1 858 m — sur l'île de Savai'i"
+    }
+  ],
+  "islands": [
+    "Upolu",
+    "Savai'i",
+    "Manono",
+    "Apolima",
+    "Aleipata"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Volcans, récifs et piscines magiques",
+    "animals": "Chauves-souris, oiseaux et tortues de mer",
+    "culture": "Le Fa'a Samoa — la façon de vivre samoane",
+    "history": "3 000 ans d'aventures sur l'île",
+    "wows": "C'est difficile à croire, mais c'est vrai !"
+  },
+  "geo": "Les Samoa sont deux îles volcaniques sorties du fond de l'océan, avec de grandes montagnes couvertes de forêt tropicale et des plages de sable blanc. La chose la plus incroyable s'appelle To Sua — c'est une piscine géante de 30 mètres de profondeur creusée dans un tube de lave, reliée à l'océan par une grotte sous-marine !",
+  "animals": "La seule bête sauvage qui vit sur terre aux Samoa est une grosse chauve-souris appelée la renarde volante — elle chasse des fruits en pleine journée, ce qui est très bizarre pour une chauve-souris ! L'oiseau le plus rare s'appelle le manumea, le « petit dodo » des Samoa, et il reste moins de 250 de ces oiseaux dans toute la forêt.",
+  "culture": "Aux Samoa, les familles vivent ensemble dans des maisons ouvertes sans murs appelées fale, et tout le monde décide ensemble. Avant chaque fête, les anciens boivent une boisson spéciale appelée 'ava dans une coquille de noix de coco, en suivant des règles très anciennes sur qui parle et qui boit en premier !",
+  "history": "Il y a 3 000 ans, des aventuriers polynésiens sont arrivés à Samoa en pirogue depuis d'autres îles. Depuis les Samoa, ces grands navigateurs sont partis explorer et découvrir Hawaii et même la Nouvelle-Zélande — c'était les plus grands explorateurs de l'océan !",
+  "wows": [
+    "Les Samoa ont effacé le 30 décembre 2011 de leur calendrier en sautant par-dessus la ligne de date internationale !",
+    "Le mot « tatouage » que tout le monde utilise vient du mot samoan tatau.",
+    "En 2009, les Samoa ont changé de côté de route — du jour au lendemain, tout le monde a roulé à gauche !",
+    "Les Samoa sont à 30 minutes d'avion d'« hier » — les Samoa américaines sont de l'autre côté de la ligne de date.",
+    "Les scientifiques ont mis cinq ans sans réussir à photographier un manumea vivant — il est vraiment très timide !",
+    "Les Samoa n'ont pas d'armée du tout — c'est un des 21 pays au monde sans aucun soldat.",
+    "La renarde volante samoane chasse ses fruits en plein soleil, ce qui est très rare pour n'importe quelle chauve-souris !"
+  ],
+  "myths": [
+    {
+      "myth": "Les Samoa et les Samoa américaines, c'est pareil",
+      "fact": "Non, ce sont deux endroits différents ! Les Samoa (capitale Apia) sont un pays indépendant, et les Samoa américaines sont un territoire américain à 164 km, avec un gouvernement, une monnaie et même un jour du calendrier différents."
+    },
+    {
+      "myth": "Les dessins de tatouage samoans sont juste un style que tout le monde peut copier",
+      "fact": "Non ! Le pe'a et le malu sont des cérémonies sacrées liées à la famille et à l'identité samoane. Les dessins ont une signification précise et s'obtiennent lors d'une vraie cérémonie."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Talofa",
+      "say": "ta-LOH-fa"
+    },
+    {
+      "en": "Merci",
+      "jp": "Fa'afetai",
+      "say": "fah-ah-feh-TIE"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Fa'amolemole",
+      "say": "fah-MOH-leh-MOH"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Tofa",
+      "say": "TOH-fah"
+    },
+    {
+      "en": "Comment tu vas ?",
+      "jp": "O ā mai oe?",
+      "say": "oh AH my OH-ay"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ws-hero.jpg",
+      "alt": "Le front de mer d'Apia en plein midi avec des palmiers et des bâtiments colorés le long du port",
+      "caption": "FRONT DE MER D'APIA — la capitale animée des Samoa longe le port sur la côte nord d'Upolu",
+      "credit": "Michael Coghlan / CC BY-SA 2.0"
+    },
+    "landmark": {
+      "src": "/photos/ws-landmark.jpg",
+      "alt": "Piscine océanique circulaire profonde entourée de verdure tropicale luxuriante avec une échelle en bois",
+      "caption": "TO SUA OCEAN TRENCH — une piscine dans un tube de lave de 30 m de profondeur reliée à l'océan Pacifique",
+      "credit": "Neil (Flickr) / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/ws-animalA.jpg",
+      "alt": "Renarde volante samoane suspendue à un arbre avec les ailes repliées et la fourrure brune visible",
+      "caption": "RENARDE VOLANTE SAMOANE — le seul mammifère terrestre natif, chasse des fruits en plein jour",
+      "credit": "Paul Asman & Jill Lenoble / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/ws-animalB.jpg",
+      "alt": "Pigeon à bec denté perché sur une branche, montrant son bec orange crochu distinctif",
+      "caption": "MANUMEA — le « petit dodo » des Samoa en danger critique, moins de 250 individus restants",
+      "credit": "Augustin Kramer, 1901 / Public domain"
+    }
+  }
+}

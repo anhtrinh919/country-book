@@ -1,0 +1,151 @@
+{
+  "name": "CORÉE DU NORD",
+  "nativeName": "조선",
+  "romaji": "JOSEON",
+  "tagline": "Le pays du calme du matin",
+  "region": "East Asia",
+  "coords": "40°N 127°E",
+  "fileNo": "KP",
+  "langName": "coréen",
+  "motif": "sun",
+  "theme": {
+    "paper": "#EEE9DD",
+    "dot": "#C9BFAE",
+    "ink": "#241E1A",
+    "faint": "#7A6E60",
+    "line": "#D8CFBC",
+    "accent": "#ED1C27",
+    "accent2": "#024FA2"
+  },
+  "flag": {
+    "assetPath": "/flags/kp.svg",
+    "title": "Drapeau de la Corée du Nord",
+    "note": "Étoile rouge sur disque blanc, grande bande rouge",
+    "keyColor": "#ED1C27",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Corée du Nord a un volcan magique avec un lac bleu tout en haut, comme un bol rempli d'eau dans le ciel ! Les forêts couvrent presque toutes les collines, et la capitale Pyongyang brille avec ses grands monuments. C'est l'un des pays les plus mystérieux du monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Pyongyang",
+      "sub": "Env. 3,2 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "~26,6 millions",
+      "sub": "Est. 2025 ; dernier recensement 2008"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Won nord-coréen (₩)",
+      "sub": "Pas échangeable librement"
+    },
+    {
+      "label": "Langue",
+      "value": "coréen",
+      "sub": "Seule langue officielle"
+    },
+    {
+      "label": "Superficie",
+      "value": "120 538 km²",
+      "sub": "À peu près la taille de la Grèce"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Paektu",
+      "sub": "2 744 m — volcan sacré"
+    }
+  ],
+  "islands": [
+    "Pyongyang",
+    "Hamhung",
+    "Chongjin",
+    "Wonsan",
+    "Kaesong"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, rivières et feu !",
+    "animals": "Les géants de la forêt du Nord",
+    "culture": "Fêtes et tableaux humains géants",
+    "history": "Un pays ancien plein de légendes",
+    "wows": "On n'y croit presque pas !"
+  },
+  "geo": "La Corée du Nord est couverte de montagnes à 80 % — les collines s'étendent partout comme un tapis vert ! Tout au nord, le mont Paektu est un volcan endormi avec un lac magnifique au sommet qu'on appelle le Lac du Ciel.",
+  "animals": "L'ours noir d'Asie vit dans les forêts froides du Nord — il a un croissant blanc sur la poitrine, comme une lune dessinée sur son pelage ! Il s'appelle l'ours lune, et il mange des fruits en automne pour se préparer à dormir tout l'hiver.",
+  "culture": "Chaque année, plus de 100 000 personnes dansent et bougent ensemble dans le plus grand stade du monde, à Pyongyang — c'est le spectacle le plus grand de toute la planète ! Trente mille enfants lèvent des cartes colorées en même temps pour former de gigantesques images, comme un puzzle vivant.",
+  "history": "Il y a très longtemps, une légende raconte qu'un dieu-soleil descendit sur le mont Paektu et fonda le premier peuple coréen — c'est pour ça que cette montagne est sacrée ! Les Coréens vivent sur cette péninsule depuis des milliers et des milliers d'années.",
+  "wows": [
+    "Le lac du Ciel, au sommet du mont Paektu, est si profond qu'il mesure 384 mètres — presque autant que la tour Eiffel !",
+    "Un grand hôtel de 105 étages à Pyongyang est construit depuis 1987 mais n'a jamais accueilli un seul client.",
+    "La zone entre la Corée du Nord et du Sud n'est plus touchée depuis 70 ans — des animaux sauvages rares y vivent tranquillement !",
+    "La Corée du Nord a son propre internet, appelé Kwangmyong, complètement séparé d'internet comme on le connaît.",
+    "Le volcan Paektu a craché des cendres jusqu'au Japon il y a 1 000 ans — l'une des plus grandes éruptions de l'histoire !",
+    "En 2015, le pays a décalé ses horloges de 30 minutes, puis les a remises à l'heure normale trois ans plus tard.",
+    "30 000 enfants créent ensemble des tableaux géants en levant des panneaux colorés en même temps — le plus grand tableau vivant du monde !"
+  ],
+  "myths": [
+    {
+      "myth": "La Corée du Nord est complètement noire dans le noir la nuit",
+      "fact": "Les photos du ciel montrent très peu de lumière car il y a peu d'électricité à la campagne, mais Pyongyang est bien éclairée."
+    },
+    {
+      "myth": "Tout le monde là-bas est exactement pareil",
+      "fact": "Les gens en Corée du Nord sont tous différents, comme partout — ils ont juste moins de contact avec le reste du monde."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "안녕하세요",
+      "say": "an-nyong-ha-se-yo"
+    },
+    {
+      "en": "Merci",
+      "jp": "감사합니다",
+      "say": "gam-sa-ham-ni-da"
+    },
+    {
+      "en": "Oui",
+      "jp": "네",
+      "say": "ne"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "맛있어요",
+      "say": "ma-si-so-yo"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "안녕히 가세요",
+      "say": "an-nyong-hi gaseyo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kp-hero.jpg",
+      "alt": "Le lac du Ciel dans le cratère volcanique du mont Paektu",
+      "caption": "MONT PAEKTU — Le lac du Ciel remplit l'ancien cratère volcanique à 2 744 m d'altitude",
+      "credit": "Uri Tours / CC BY-SA 2.0"
+    },
+    "landmark": {
+      "src": "/photos/kp-landmark.jpg",
+      "alt": "L'Arc de Triomphe de Pyongyang avec l'hôtel Ryugyong derrière",
+      "caption": "ARC DE TRIOMPHE — L'arc en granit de Pyongyang, plus grand que celui de Paris",
+      "credit": "Kok Leng Yeo / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/kp-animalA.jpg",
+      "alt": "Ours noir d'Asie avec son croissant blanc caractéristique sur la poitrine",
+      "caption": "OURS LUNE — Le croissant blanc sur sa poitrine lui donne son surnom de lune",
+      "credit": "ThomasMelle / CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/kp-animalB.jpg",
+      "alt": "Cerf d'eau coréen avec ses petits crocs visibles",
+      "caption": "CERF D'EAU — Il a des crocs mais il est doux ; on le trouve dans les marais coréens",
+      "credit": "까칠한 감자씨 / CC BY-SA 2.5"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "name": "ESWATINI",
+  "nativeName": "eSwati",
+  "romaji": "ESWATINI",
+  "tagline": "Le royaume royal d'Afrique",
+  "region": "Afrique australe",
+  "coords": "-26.5°N, 31.5°E",
+  "fileNo": "152",
+  "langName": "siswati",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CBBC9E",
+    "ink": "#252018",
+    "faint": "#8A7A5A",
+    "line": "#DCCFAD",
+    "accent": "#3E6EB0",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/sz.svg",
+    "title": "Bouclier et lances",
+    "note": "Bleu, rouge et jaune — le bouclier unit tout le peuple",
+    "keyColor": "#3E6EB0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Eswatini a un vrai roi qui gouverne tout le pays — comme dans les contes de fées ! Ce minuscule royaume se cache entre deux grands pays d'Afrique, et on peut le traverser en voiture en seulement deux heures !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Mbabane",
+      "sub": "Lobamba est la capitale du parlement"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,24 million",
+      "sub": "Surtout des Swazis"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Lilangeni",
+      "sub": "Égale au rand sud-africain"
+    },
+    {
+      "label": "Langue",
+      "value": "siswati",
+      "sub": "Parlé à la maison avec l'anglais"
+    },
+    {
+      "label": "Superficie",
+      "value": "17 204 km²",
+      "sub": "Plus petit que la Belgique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Emlembe 1 862 m",
+      "sub": "À la frontière avec l'Afrique du Sud"
+    }
+  ],
+  "islands": [
+    "Hhohho",
+    "Manzini",
+    "Lubombo",
+    "Shiselweni"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, vallées et savane",
+    "animals": "De grands animaux dans un tout petit royaume",
+    "culture": "Rois, roseaux et grandes fêtes",
+    "history": "Un royaume vieux de 300 ans",
+    "wows": "Sept surprises royales"
+  },
+  "geo": "L'Eswatini a des montagnes fraîches à l'ouest où une cascade plonge de 89 mètres, et une grande savane chaude et plate à l'est. La vallée d'Ezulwini, qui veut dire « Lieu du Paradis », abrite le palais du roi !",
+  "animals": "Le parc national royal de Hlane protège des rhinocéros blancs, des éléphants, des lions et des girafes. L'Eswatini est l'un des seuls endroits en Afrique où naît l'hirondelle bleue, un oiseau très rare !",
+  "culture": "Chaque août, jusqu'à 40 000 filles habillées de costumes colorés dansent ensemble pour la fête des Roseaux. Elles offrent chacune un grand roseau à la Reine mère — c'est l'une des plus grandes fêtes d'Afrique !",
+  "history": "Il y a très longtemps, un roi puissant appelé Mswati II agrandit son royaume, et les gens prirent son nom pour s'appeler les Swazis. En 2018, le roi d'aujourd'hui a donné un nouveau nom au pays : Eswatini, qui veut dire « Pays des Swazis » !",
+  "wows": [
+    "L'Eswatini est le seul pays d'Afrique encore gouverné par un roi tout-puissant.",
+    "Le rocher Sibebe a 3 milliards d'années — c'est l'un des plus grands dômes de granit de la Terre !",
+    "Ce tout petit pays produit plus de sucre que presque tous ses voisins.",
+    "L'Eswatini est le seul ami africain de Taïwan — un pays très loin en Asie !",
+    "La cascade de Malolotja tombe de 89 mètres — plus haut qu'un immeuble de 25 étages !",
+    "La monnaie du pays, le lilangeni, vaut exactement la même chose que celle d'Afrique du Sud.",
+    "Plus de 500 espèces d'oiseaux vivent ici — incroyable pour un si petit pays !"
+  ],
+  "myths": [
+    {
+      "myth": "« Le pays s'appelle encore Swaziland »",
+      "fact": "Non ! En 2018, le roi l'a renommé Eswatini pour honorer la langue swazi — même si les vieilles cartes disent encore Swaziland."
+    },
+    {
+      "myth": "« C'est juste une partie de l'Afrique du Sud »",
+      "fact": "Pas du tout ! L'Eswatini est un vrai royaume indépendant avec son propre roi, sa propre monnaie et sa propre culture."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Sawubona",
+      "say": "sah-woo-BOH-nah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ngiyabonga",
+      "say": "ngee-yah-BONG-ah"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Unjani?",
+      "say": "oon-JAH-nee"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Sala kahle",
+      "say": "SAH-lah KAH-shlay"
+    },
+    {
+      "en": "Bonjour (matin)",
+      "jp": "Kusile",
+      "say": "koo-SEE-lay"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sz-hero.jpg",
+      "alt": "Collines verdoyantes du Highveld en Eswatini",
+      "caption": "ESWATINI HIGHVELD — des montagnes luxuriantes descendent vers la savane dorée",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sz-landmark.jpg",
+      "alt": "Le grand dôme de granit du rocher Sibebe près de Mbabane",
+      "caption": "ROCHER SIBEBE — un dôme de granit vieux de 3 milliards d'années près de Mbabane",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sz-animalA.jpg",
+      "alt": "Rhinocéros blanc du sud dans la savane herbeuse",
+      "caption": "RHINOCÉROS BLANC — soigneusement gardé dans le parc national royal de Hlane",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sz-animalB.jpg",
+      "alt": "Impala mâle debout dans l'herbe dorée",
+      "caption": "IMPALA — l'antilope la plus nombreuse dans les réserves d'Eswatini",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

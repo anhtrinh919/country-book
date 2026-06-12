@@ -1,0 +1,163 @@
+{
+  "name": "FRANCE",
+  "nativeName": "FR",
+  "romaji": "FRANCE",
+  "tagline": "Le pays des baguettes et des châteaux !",
+  "region": "Western Europe",
+  "coords": "46°N 2°E",
+  "fileNo": "008",
+  "langName": "français",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#ccbfa3",
+    "ink": "#252018",
+    "faint": "#8a7a5e",
+    "line": "#dccfb0",
+    "accent": "#002395",
+    "accent2": "#ED2939"
+  },
+  "flag": {
+    "assetPath": "/flags/fr.svg",
+    "title": "Le Tricolore",
+    "note": "Bleu, blanc et rouge depuis 1794",
+    "keyColor": "#002395",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En France, il y a une tour en fer aussi haute que 81 éléphants empilés — c'est la Tour Eiffel ! Chaque année, plus de gens viennent la visiter que tous les habitants du pays. C'est le pays le plus visité du monde entier !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Paris",
+      "sub": "La Ville Lumière, 2,1 millions d'hab."
+    },
+    {
+      "label": "Habitants",
+      "value": "68,4 millions",
+      "sub": "Est. 2024, territoires compris"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Adopté en 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "français",
+      "sub": "Langue officielle, parlée partout"
+    },
+    {
+      "label": "Superficie",
+      "value": "643 801 km²",
+      "sub": "Le plus grand pays de l'UE"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Blanc",
+      "sub": "4 808 m — le toit des Alpes"
+    }
+  ],
+  "islands": [
+    "Paris",
+    "Lyon",
+    "Marseille",
+    "Bordeaux",
+    "Strasbourg"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, rivières et prairies",
+    "animals": "Bêtes des forêts et des marais",
+    "culture": "Bonne nourriture et jolies fêtes",
+    "history": "Légendes et vieux châteaux",
+    "wows": "Des choses folles sur la France !"
+  },
+  "geo": [
+    "La France ressemble presque à un hexagone — les Français l'appellent l'Hexagone ! Au sud, le soleil brille sur la mer Méditerranée, et les fleuves Loire et Seine coulent près de grands châteaux magiques.",
+    "À l'est, les Alpes sont couvertes de neige toute l'année, avec le Mont Blanc tout en haut. C'est la plus haute montagne de toute l'Europe de l'Ouest !"
+  ],
+  "animals": [
+    "Dans les marais du sud, des flamants roses vivent par milliers — ils sont vraiment roses comme dans les dessins ! Ces beaux oiseaux pataugent dans l'eau peu profonde de la Camargue.",
+    "En Camargue, il y a aussi des chevaux blancs sauvages qui galopent librement dans les marais. Ce sont les seuls chevaux sauvages de France !"
+  ],
+  "culture": [
+    "En France, le pain est très très important — il y a une loi qui dit qu'une vraie baguette doit être faite fraîche chaque jour ! Les Français mangent de la baguette à presque chaque repas.",
+    "La France a plus de 1 200 sortes de fromages différents — c'est plus que les jours de l'année ! Les enfants français mangent du fromage tous les jours, comme un trésor."
+  ],
+  "history": [
+    "Il y a très très longtemps, une jeune fille courageuse de 17 ans nommée Jeanne d'Arc a guidé l'armée française en portant une grande bannière. Elle est encore aujourd'hui la grande héroïne de la France !",
+    "Les anciens Gaulois vivaient en France bien avant, et leur chef le plus célèbre s'appelait Vercingétorix — tout comme Astérix dans les bandes dessinées. Les Gaulois adoraient les fêtes et les banquets !"
+  ],
+  "wows": [
+    "Chaque année, plus de 90 millions de personnes viennent visiter la France — c'est plus que tous les Français !",
+    "La Tour Eiffel était censée être démolie en 1889 — maintenant c'est le monument payant le plus visité au monde !",
+    "La France touche l'océan Atlantique, l'océan Pacifique ET l'océan Indien grâce à ses îles lointaines.",
+    "Il existe une loi en France pour que les boulangers ne soient jamais tous en vacances en même temps — pour que tu aies toujours du pain frais !",
+    "Les bébés flamants roses naissent gris — ils deviennent roses seulement en mangeant de petites crevettes roses !",
+    "La France a le plus grand nombre de gagnants du Prix Nobel de littérature au monde — 15 écrivains !",
+    "Le vélo Tour de France parcourt 3 400 km en seulement 3 semaines — c'est comme faire le tour de la France entière à vélo !"
+  ],
+  "myths": [
+    {
+      "myth": "« Les Français mangent des escargots tous les jours »",
+      "fact": "Les escargots sont un plat de fête spécial, pas un repas de tous les jours ! La plupart des enfants français mangent des pâtes, du riz et des sandwichs comme toi."
+    },
+    {
+      "myth": "« Napoléon était très très petit »",
+      "fact": "Napoléon mesurait 1,69 m, ce qui était tout à fait normal pour son époque. C'était une erreur de mesure entre les Français et les Anglais qui a créé cette légende !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Pardon !",
+      "jp": "Pardon!",
+      "say": "par-DOHN"
+    },
+    {
+      "en": "Pain",
+      "jp": "Pain",
+      "say": "PAN"
+    },
+    {
+      "en": "Fromage",
+      "jp": "Fromage",
+      "say": "froh-MAHZH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fr-hero.jpg",
+      "alt": "La Tour Eiffel qui s'élève au-dessus de pelouses vertes par une journée ensoleillée",
+      "caption": "TOUR EIFFEL — la dame de fer de Paris, construite en 1889, aimée pour toujours",
+      "credit": "Benh LIEU SONG / Wikimedia CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/fr-landmark.jpg",
+      "alt": "L'abbaye du Mont Saint-Michel sur son île qui émerge des vasières au crépuscule",
+      "caption": "MONT SAINT-MICHEL — abbaye médiévale sur la baie marémotrice de Normandie",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/fr-animalA.jpg",
+      "alt": "Un groupe de flamants roses qui pataugent dans un lagon peu profond de Camargue",
+      "caption": "FLAMANTS DE CAMARGUE — des milliers d'oiseaux roses dans les marais du sud",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/fr-animalB.jpg",
+      "alt": "Un cheval blanc de Camargue qui éclabousse l'eau peu profonde d'un lagon",
+      "caption": "CHEVAL DE CAMARGUE — des chevaux blancs sauvages galopent librement dans les marais du sud",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

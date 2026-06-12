@@ -1,0 +1,151 @@
+{
+  "name": "COSTA RICA",
+  "nativeName": "CR",
+  "romaji": "COSTA RICA",
+  "tagline": "Pura Vida pour toujours !",
+  "region": "Central America",
+  "coords": "9.75°N, 83.75°W",
+  "fileNo": "052",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EEE0",
+    "dot": "#CBBFA0",
+    "ink": "#2B2318",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#1A3E8C",
+    "accent2": "#C8202E"
+  },
+  "flag": {
+    "assetPath": "/flags/cr.svg",
+    "title": "Costa Rica",
+    "note": "Bleu-blanc-rouge-blanc-bleu avec les armoiries",
+    "keyColor": "#1A3E8C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Costa Rica, il y a des volcans qui crachent du feu et une forêt tellement dense que le soleil ne touche presque pas le sol ! Ce tout petit pays a deux côtes de mer, l'océan Pacifique et la mer des Caraïbes, à seulement trois heures de voiture l'une de l'autre !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "San José",
+      "sub": "Env. 345 000 habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,2 millions",
+      "sub": "Estimation 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Colón (CRC)",
+      "sub": "~530 colones = 1 dollar US"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "« Pura Vida » est incontournable"
+    },
+    {
+      "label": "Superficie",
+      "value": "51 100 km²",
+      "sub": "Environ 0,5× l'Islande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 821 m",
+      "sub": "Cerro Chirripó"
+    }
+  ],
+  "islands": [
+    "San José",
+    "Guanacaste",
+    "Limón",
+    "Puntarenas",
+    "Heredia"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Volcans, mer et nuages magiques",
+    "animals": "Des animaux fous dans chaque arbre",
+    "culture": "Pura Vida à chaque instant !",
+    "history": "Un pays qui a choisi la paix",
+    "wows": "Le Costa Rica qui t'étonnera"
+  },
+  "geo": "Le Costa Rica est posé sur la « Ceinture de feu » — il a cinq volcans encore bien vivants ! Le volcan Arenal, beau comme un cône de glace, a une montagne qui sépare la pluie vers l'océan Pacifique d'un côté et vers les Caraïbes de l'autre.",
+  "animals": "Le Costa Rica est minuscule mais abrite 5 % de tous les animaux et plantes de la planète — c'est magique ! Le quetzal resplendissant, un oiseau aux plumes vertes brillantes plus longues que son propre corps, vit dans les forêts brumeuses.",
+  "culture": "Chaque matin, les habitants mangent du « gallo pinto », c'est du riz et des haricots noirs grillés ensemble — leur plat préféré ! Ils disent « Pura Vida » des dizaines de fois par jour : ça veut dire bonjour, au revoir et « la vie est belle » !",
+  "history": "Bien avant l'arrivée des premiers explorateurs espagnols en 1502, le peuple Bribri vivait ici depuis des milliers d'années. En 1948, le Costa Rica a fait quelque chose d'extraordinaire : il a supprimé son armée pour dépenser tout cet argent dans les écoles et les hôpitaux !",
+  "wows": [
+    "Plus de 99 % de l'électricité du Costa Rica vient du soleil, du vent et des volcans !",
+    "C'est l'un des rares pays du monde dont la constitution interdit d'avoir une armée.",
+    "Le volcan Arenal semblait endormi depuis 400 ans… puis il s'est réveillé d'un coup en 1968 !",
+    "Ce tout petit pays abrite environ 5 % de toutes les espèces vivantes de la Terre entière.",
+    "Les plumes de la queue du quetzal mesurent 65 cm — plus long que son propre corps !",
+    "La plage de Tortuguero accueille plus de nids de tortues luth géantes que presque n'importe quel autre endroit sur Terre.",
+    "Le Costa Rica compte plus de 1 500 espèces d'orchidées — plus que toute l'Amérique du Nord !"
+  ],
+  "myths": [
+    {
+      "myth": "« C'est juste des plages toute la journée »",
+      "fact": "La moitié du pays est faite de vraies montagnes ! San José, la capitale, est à 1 170 m d'altitude et peut être fraîche la nuit."
+    },
+    {
+      "myth": "« C'est un pays comme les autres »",
+      "fact": "Pas d'armée, presque tout le monde sait lire, et presque toute l'énergie est propre — le Costa Rica est vraiment unique au monde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "La vie est belle !",
+      "jp": "Pura Vida",
+      "say": "POO-rah VEE-dah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Trop bon !",
+      "jp": "¡Qué rico!",
+      "say": "kay REE-koh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cr-hero.jpg",
+      "alt": "Le volcan Arenal se dresse au-dessus de la forêt tropicale au crépuscule",
+      "caption": "VOLCAN ARENAL — un cône parfait, l'un des volcans les plus actifs d'Amérique centrale",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "landmark": {
+      "src": "/photos/cr-landmark.jpg",
+      "alt": "Façade néoclassique ornée du Teatro Nacional à San José",
+      "caption": "TEATRO NACIONAL — l'opéra doré de San José, construit en 1897",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "animalA": {
+      "src": "/photos/cr-animalA.jpg",
+      "alt": "Quetzal resplendissant mâle perché sur une branche mousseuse dans la forêt brumeuse",
+      "caption": "QUETZAL RESPLENDISSANT — joyau de la forêt brumeuse, queue plus longue que son propre corps",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "animalB": {
+      "src": "/photos/cr-animalB.jpg",
+      "alt": "Petite grenouille rouge vif sur une feuille verte",
+      "caption": "GRENOUILLE DENDROBATE FRAISE — toute petite, rouge brillant, et très venimeuse",
+      "credit": "Wikimedia Commons / public domain"
+    }
+  }
+}

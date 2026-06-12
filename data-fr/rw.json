@@ -1,0 +1,151 @@
+{
+  "name": "RWANDA",
+  "nativeName": "RW",
+  "romaji": "RWANDA",
+  "tagline": "Le Pays aux Mille Collines",
+  "region": "Afrique de l'Est",
+  "coords": "1.94°S, 29.87°E",
+  "fileNo": "082",
+  "langName": "kinyarwanda",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDDF",
+    "dot": "#C9BFA3",
+    "ink": "#1E1C18",
+    "faint": "#7A7055",
+    "line": "#DDD5BC",
+    "accent": "#20AF4F",
+    "accent2": "#1B4FA8"
+  },
+  "flag": {
+    "assetPath": "/flags/rw.svg",
+    "title": "Drapeau du Rwanda",
+    "note": "Bleu, jaune et vert avec un soleil doré",
+    "keyColor": "#20AF4F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Rwanda est tout petit, coincé au cœur de l'Afrique, et tellement couvert de collines vertes qu'on l'appelle le « Pays aux Mille Collines » ! C'est l'endroit où les femmes gouvernent plus que partout ailleurs dans le monde entier !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kigali",
+      "sub": "environ 1,3 million d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "14,5 millions",
+      "sub": "estimation 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc rwandais",
+      "sub": "RWF (~1 300/USD)"
+    },
+    {
+      "label": "Langue",
+      "value": "Kinyarwanda",
+      "sub": "aussi anglais et français"
+    },
+    {
+      "label": "Superficie",
+      "value": "26 338 km²",
+      "sub": "plus petit que la Bretagne"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Karisimbi",
+      "sub": "4 507 m — un volcan !"
+    }
+  ],
+  "islands": [
+    "Kigali",
+    "Musanze",
+    "Huye",
+    "Rubavu",
+    "Nyagatare"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des collines et des volcans partout !",
+    "animals": "Les gorilles dans les nuages",
+    "culture": "Tambours, paniers et rues toutes propres",
+    "history": "Un royaume de rois et de vaches",
+    "wows": "Mais c'est incroyable, le Rwanda !"
+  },
+  "geo": "Le Rwanda est posé très haut dans les airs — même ses vallées sont à un kilomètre d'altitude ! Tout le pays est couvert de collines vertes qui se suivent comme des vagues, et au nord, de grands volcans endormis s'élèvent dans les nuages.",
+  "animals": "L'animal vedette du Rwanda, c'est le gorille des montagnes — un géant tout doux qui vit seulement dans les forêts de volcans. Il reste moins de 1 000 gorilles sauvages dans le monde, et le Rwanda en protège un tiers dans son parc !",
+  "culture": "Chaque dernier samedi du mois, tous les Rwandais sortent ensemble pour balayer les rues et planter des arbres — même le président prend un balai ! En août, il y a une grande fête des récoltes avec des danseurs qui sautent très haut avec de grands chapeaux blancs.",
+  "history": "Pendant des siècles, le Rwanda était un puissant royaume dirigé par un roi appelé le mwami, célèbre pour ses guerriers et ses nombreuses vaches. Les vaches étaient si précieuses qu'on les offrait comme cadeaux très importants !",
+  "wows": [
+    "Au Rwanda, plus de 60 % des députés au parlement sont des femmes — c'est un record mondial !",
+    "Kigali est la ville la plus propre d'Afrique — les sacs en plastique sont interdits depuis 2008 !",
+    "Voir un gorille de près coûte 1 500 dollars — les gorilles sont les stars du tourisme rwandais.",
+    "Il n'existe pas de route droite de plus de 30 km car les collines n'arrêtent jamais !",
+    "Le lac Kivu cache sous ses eaux une énorme bulle de gaz que le Rwanda transforme en électricité.",
+    "Bien qu'entouré de terres, le Rwanda a une équipe nationale de voile qui participe à des compétitions mondiales.",
+    "Plus de 700 espèces d'oiseaux vivent au Rwanda — c'est un vrai paradis pour les amoureux des oiseaux !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Rwanda est encore un pays dangereux",
+      "fact": "Le Rwanda est aujourd'hui l'un des pays les plus sûrs d'Afrique — les rues de Kigali sont plus propres et plus sûres que dans beaucoup de villes européennes !"
+    },
+    {
+      "myth": "Les gorilles attaquent les gens",
+      "fact": "Les gorilles des montagnes sont timides et très calmes — dans le parc des Volcans, ils ignorent tranquillement les visiteurs et aucun touriste n'a jamais été blessé."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Muraho",
+      "say": "moo-RAH-hoh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Murakoze",
+      "say": "moo-rah-KOH-zeh"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ndakubuza",
+      "say": "ndah-BOO-zah"
+    },
+    {
+      "en": "Oui",
+      "jp": "Yego",
+      "say": "YEH-goh"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Murakaza",
+      "say": "moo-rah-KAH-zah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/rw-hero.jpg",
+      "alt": "La tour de la ville de Kigali et son horizon moderne par beau temps",
+      "caption": "KIGALI — la capitale du Rwanda, l'une des villes modernes à la croissance la plus rapide d'Afrique.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/rw-landmark.jpg",
+      "alt": "Les volcans Virunga qui s'élèvent au-dessus des collines verdoyantes du Rwanda",
+      "caption": "VOLCANS VIRUNGA — cinq géants endormis veillent sur la frontière nord du Rwanda.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/rw-animalA.jpg",
+      "alt": "Un gorille des montagnes assis calmement dans la végétation verte",
+      "caption": "GORILLE DES MONTAGNES — le Rwanda protège un tiers des derniers gorilles sauvages du monde.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/rw-animalB.jpg",
+      "alt": "Un singe colobus noir et blanc perché dans un arbre de la forêt tropicale",
+      "caption": "SINGE COLOBUS — acrobate de la forêt ancienne de Nyungwe, il saute de branche en branche.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

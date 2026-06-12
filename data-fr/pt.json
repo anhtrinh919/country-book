@@ -1,0 +1,151 @@
+{
+  "name": "PORTUGAL",
+  "nativeName": "PT",
+  "romaji": "PORTUGAL",
+  "tagline": "Au bout du monde, face à l'océan !",
+  "region": "Southern Europe",
+  "coords": "39.5°N, 8.0°W",
+  "fileNo": "042",
+  "langName": "portugais",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#c9b99a",
+    "ink": "#231f1b",
+    "faint": "#897055",
+    "line": "#ddd0b8",
+    "accent": "#006600",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/pt.svg",
+    "title": "Portugal",
+    "note": "Vert et rouge avec une sphère armillaire",
+    "keyColor": "#006600",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Portugal, les arbres produisent du bouchon — comme les bouchons de tes bouteilles ! Des marins courageux sont partis de là pour explorer le monde entier il y a 600 ans. C'est le pays des plages dorées, de la musique triste et des petites tartelettes à la crème !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Lisbonne",
+      "sub": "La plus ancienne capitale d'Europe de l'Ouest"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,3 millions",
+      "sub": "Recensement 2021 ; ~10,8M est. 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "L'euro a été adopté en 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "Portugais",
+      "sub": "260 millions de locuteurs dans le monde"
+    },
+    {
+      "label": "Superficie",
+      "value": "91 470 km²",
+      "sub": "Avec les îles des Açores et de Madère"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Pico 2 351 m",
+      "sub": "Volcan sur l'île de Pico aux Açores"
+    }
+  ],
+  "islands": [
+    "Lisbon",
+    "Porto",
+    "Algarve",
+    "Azores",
+    "Madeira"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Là où la terre touche la mer",
+    "animals": "Les bêtes sauvages d'Ibérie",
+    "culture": "Tuiles, musique et bons gâteaux",
+    "history": "Les marins qui ont découvert le monde",
+    "wows": "Les surprises du Portugal !"
+  },
+  "geo": "Le Portugal longe l'océan Atlantique sur 832 km de côtes avec des falaises dorées et de l'eau turquoise. Il possède aussi des îles volcanique très loin en mer, comme les Açores et la belle île de Madère !",
+  "animals": "Le lynx ibérique ressemble à un grand chat sauvage avec de grandes pattes et des oreilles pointues — il chasse les lapins dans les forêts de chênes-lièges. Il était presque disparu, mais des gens gentils l'ont sauvé et maintenant il y en a plus de 1 600 !",
+  "culture": "Au Portugal, les maisons et les églises sont décorées de jolies tuiles bleues et blanches appelées azulejos. Les enfants adorent manger les pastéis de nata, de petites tartelettes à la crème dorée inventées par des moines il y a très longtemps !",
+  "history": "Il y a très longtemps, des marins courageux portugais ont voyagé sur de grands bateaux pour découvrir des pays inconnus. L'un d'eux, Vasco da Gama, a trouvé le chemin vers l'Inde en naviguant tout autour de l'Afrique !",
+  "wows": [
+    "Le Portugal fabrique la moitié de tous les bouchons du monde — ils viennent d'écorce d'arbre !",
+    "Lisbonne existe depuis 1200 avant Jésus-Christ — c'est bien plus vieux que Rome !",
+    "La plus vieille librairie du monde est à Lisbonne et elle est ouverte depuis 1732.",
+    "Le portugais est parlé dans neuf pays sur quatre continents différents !",
+    "Les frontières du Portugal n'ont presque pas bougé depuis l'an 1139.",
+    "En 2025, le Portugal a produit plus de 80 % de son électricité avec le vent, le soleil et l'eau !",
+    "En 1974, des soldats ont laissé des gens mettre des fleurs dans leurs fusils pour faire la paix."
+  ],
+  "myths": [
+    {
+      "myth": "Il fait toujours chaud et beau au Portugal",
+      "fact": "La ville de Porto reçoit plus de pluie que Londres en hiver ! Seul le sud du pays a vraiment le soleil tout le temps."
+    },
+    {
+      "myth": "Le portugais, c'est pareil que l'espagnol",
+      "fact": "Les deux langues viennent du latin, mais elles sonnent très différemment. Un Espagnol ne comprend pas automatiquement le portugais !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Merci",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Delicioso",
+      "say": "deh-lee-SYOH-zoo"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Adeus",
+      "say": "ah-DAY-oosh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pt-hero.jpg",
+      "alt": "Vue panoramique de Lisbonne au bord du fleuve Tage",
+      "caption": "LISBONNE — la plus ancienne capitale d'Europe de l'Ouest, posée sur sept collines au bord du Tage",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pt-landmark.jpg",
+      "alt": "La tour de Belém sortant du fleuve Tage à Lisbonne",
+      "caption": "TOUR DE BELÉM — forteresse construite en 1516, porte de départ des grands explorateurs",
+      "credit": "Diego Delso / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/pt-animalA.jpg",
+      "alt": "Lynx ibérique dans le maquis méditerranéen",
+      "caption": "LYNX IBÉRIQUE — sauvé de l'extinction ; plus de 1 600 vivent dans les forêts ibériques",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pt-animalB.jpg",
+      "alt": "Loup ibérique dans son habitat naturel",
+      "caption": "LOUP IBÉRIQUE — environ 300 survivent dans les montagnes du nord du Portugal, protégés depuis 1988",
+      "credit": "Wikimedia Commons CC BY-SA"
+    }
+  }
+}

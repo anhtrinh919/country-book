@@ -1,0 +1,151 @@
+{
+  "name": "GAMBIE",
+  "nativeName": "GM",
+  "romaji": "GAMBIA",
+  "tagline": "Le plus petit pays d'Afrique",
+  "region": "Afrique de l'Ouest",
+  "coords": "13.45°N, 16.58°W",
+  "fileNo": "047",
+  "langName": "mandinka",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4C09A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A55",
+    "line": "#E0D0A8",
+    "accent": "#3A7728",
+    "accent2": "#C8262B"
+  },
+  "flag": {
+    "assetPath": "/flags/gm.svg",
+    "title": "La Gambie",
+    "note": "Rouge, bleu et vert avec des bordures blanches",
+    "keyColor": "#3A7728",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Gambie est un tout petit pays en forme de doigt, entouré presque de partout par son grand voisin le Sénégal ! Un fleuve géant coule en plein milieu et les gens l'utilisent pour pêcher, voyager et cultiver chaque jour. Ce minuscule pays cache plus de 560 espèces d'oiseaux colorés !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Banjul",
+      "sub": "Env. 460 000 habitants dans la région"
+    },
+    {
+      "label": "Habitants",
+      "value": "2,8 millions",
+      "sub": "Estimation 2023 (Banque Mondiale)"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dalasi (GMD)",
+      "sub": "≈ 75 dalasis pour 1 dollar US"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Officiel ; le mandinka est très parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "11 295 km²",
+      "sub": "Plus petit que la Jamaïque"
+    },
+    {
+      "label": "Point culminant",
+      "value": "53 m",
+      "sub": "Une crête sans nom, près de Sabi"
+    }
+  ],
+  "islands": [
+    "Banjul",
+    "Serekunda",
+    "Brikama",
+    "Farafenni",
+    "Basse"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un fleuve au cœur du pays",
+    "animals": "Oiseaux, poissons et géants du fleuve",
+    "culture": "Musique, arachides et kora",
+    "history": "Un pays plein de légendes",
+    "wows": "La Gambie qui surprend !"
+  },
+  "geo": "La Gambie ressemble à un long doigt fin qui pointe vers l'est en Afrique de l'Ouest, avec un grand fleuve qui coule tout au milieu. Les plages de l'océan Atlantique s'étirent sur des kilomètres à l'ouest, et tout le pays est aussi plat qu'une crêpe !",
+  "animals": "La Gambie est un paradis pour les oiseaux avec plus de 560 espèces, dont de magnifiques martins-pêcheurs aux couleurs de l'arc-en-ciel. Dans la piscine sacrée de Kachikally, les visiteurs peuvent toucher de vrais crocodiles du Nil — et c'est considéré comme une chance !",
+  "culture": "Le plat principal s'appelle le benachin — du riz cuit avec de la tomate et du poisson, mangé dans un grand bol partagé par toute la famille. Les griots, des musiciens conteurs, voyagent de village en village pour chanter les histoires du passé sans jamais les écrire !",
+  "history": "Il y a très longtemps, la Gambie faisait partie du puissant empire du Mali, qui contrôlait des routes d'or et de sel. Les arachides poussent partout dans ce pays, et les gens les cuisinent dans des sauces et des ragoûts délicieux depuis des siècles !",
+  "wows": [
+    "La Gambie est tellement étroite qu'on peut en voir presque les deux bords depuis le milieu !",
+    "La piscine sacrée de Kachikally abrite plus de 80 crocodiles sauvages que les gens peuvent toucher sans danger.",
+    "Plus de 560 espèces d'oiseaux vivent dans un espace plus petit qu'un département français !",
+    "La Gambie est presque entièrement entourée par un seul pays : le Sénégal.",
+    "La kora a 21 cordes et sonne à la fois comme une harpe, une guitare et un tambour !",
+    "L'estuaire de Banjul est si large que l'autre rive est invisible — on dirait la pleine mer.",
+    "Le pays entier est plus plat qu'une table : son point le plus haut ne dépasse pas un immeuble de cinq étages !"
+  ],
+  "myths": [
+    {
+      "myth": "La Gambie fait partie du Sénégal",
+      "fact": "La Gambie est un pays totalement indépendant depuis 1965 — elle est juste presque entièrement entourée par le Sénégal, ce qui lui donne l'air d'une île sur les cartes."
+    },
+    {
+      "myth": "C'est trop petit pour être intéressant",
+      "fact": "Malgré sa toute petite taille, la Gambie a plus de 560 espèces d'oiseaux, des plages de l'Atlantique, des hippos et une musique de griot vivante que des voyageurs traversent le monde entier pour découvrir !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "I be nyadi",
+      "say": "ee-beh NYA-dee"
+    },
+    {
+      "en": "Merci",
+      "jp": "Abaraka",
+      "say": "ah-bah-RAH-kah"
+    },
+    {
+      "en": "Oui",
+      "jp": "Haa",
+      "say": "haa"
+    },
+    {
+      "en": "Nourriture",
+      "jp": "Domo",
+      "say": "DOH-moh"
+    },
+    {
+      "en": "Fleuve",
+      "jp": "Baa",
+      "say": "baa"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gm-hero.jpg",
+      "alt": "Vue de la ville de Banjul depuis le fleuve Gambie",
+      "caption": "BANJUL — la petite capitale au confluent du fleuve Gambie et de l'Atlantique",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gm-landmark.jpg",
+      "alt": "Monument Arc 22 à Banjul, en Gambie",
+      "caption": "ARC 22 — l'arc de triomphe de 35 mètres de Banjul, emblème de la ville",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gm-animalA.jpg",
+      "alt": "Martin-pêcheur malachite perché sur un roseau",
+      "caption": "MARTIN-PÊCHEUR MALACHITE — l'une des 560+ espèces le long du fleuve Gambie",
+      "credit": "Wikimedia Commons / Dick Daniels"
+    },
+    "animalB": {
+      "src": "/photos/gm-animalB.jpg",
+      "alt": "Crocodile du Nil au repos, la gueule ouverte",
+      "caption": "CROCODILE DU NIL — la piscine sacrée de Kachikally permet aux visiteurs de toucher ces géants",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

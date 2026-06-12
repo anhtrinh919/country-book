@@ -1,0 +1,150 @@
+{
+  "name": "COMORES",
+  "nativeName": "جزر",
+  "romaji": "KOMORI",
+  "tagline": "Les Îles de la Lune",
+  "region": "East Africa",
+  "coords": "-11.6° S, 43.3° E",
+  "fileNo": "089",
+  "langName": "comorien",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFA8",
+    "ink": "#272018",
+    "faint": "#857560",
+    "line": "#DDD5C0",
+    "accent": "#3A7D44",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/km.svg",
+    "title": "Union des Comores",
+    "note": "Hampe verte, croissant et 4 étoiles, 4 bandes",
+    "keyColor": "#3A7D44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Les Comores sont de toutes petites îles volcaniques dans l'océan Indien — elles s'appellent les « Îles de la Lune » ! L'air sent la fleur de ylang-ylang, utilisée dans les parfums les plus célèbres du monde. Trois volcans géants sortent de l'eau pour former ce minuscule pays !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Moroni",
+      "sub": "Construite au pied d'un volcan actif"
+    },
+    {
+      "label": "Habitants",
+      "value": "~883 000",
+      "sub": "Estimation ONU 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc KMF",
+      "sub": "Lié à l'euro"
+    },
+    {
+      "label": "Langue",
+      "value": "Comorien",
+      "sub": "Aussi l'arabe et le français"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 862 km²",
+      "sub": "Plus petit que la ville de Londres"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 361 m",
+      "sub": "Le Karthala, un volcan actif"
+    }
+  ],
+  "islands": [
+    "Gde Comore",
+    "Anjouan",
+    "Mohéli",
+    "Moroni"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des volcans qui sortent de la mer !",
+    "animals": "Des animaux qui vivaient avec les dinosaures",
+    "culture": "Fêtes, fleurs et musique enchantée",
+    "history": "Des sultans et des routes d'épices",
+    "wows": "Trop incroyable pour être vrai !"
+  },
+  "geo": "Les Comores sont nées du feu — les trois îles sont des volcans ! Le plus grand cratère mesure 3 km de large, on pourrait y mettre tout un village.",
+  "animals": "Le cœlacanthe est un poisson qu'on croyait disparu depuis 65 millions d'années, mais il vit encore aux Comores dans des grottes sous-marines ! La chauve-souris géante de Livingstone a des ailes d'1,4 mètre — plus grandes que tes bras écartés !",
+  "culture": "Le Grand Mariage aux Comores est une fête qui dure deux semaines avec des danses, des festins et des costumes brillants comme des sultans ! Les femmes se peignent le visage avec une pâte dorée parfumée pour les célébrations.",
+  "history": "Des marchands arabes ont baptisé ces îles « Juzur al-Qamar », c'est-à-dire « Îles de la Lune », il y a plus de mille ans ! Pendant des siècles, des sultans y régnaient et échangeaient des épices précieuses avec des bateaux venus de partout.",
+  "wows": [
+    "Les Comores produisent 80 % du ylang-ylang mondial — la fleur secrète du parfum Chanel N°5 !",
+    "Le volcan Karthala entre en éruption tous les 11 ans en moyenne — c'est l'un des plus actifs de la Terre !",
+    "Le cœlacanthe, un poisson vieux comme les dinosaures, a été retrouvé vivant ici en 1938 !",
+    "Moroni est construite directement sur un champ de lave volcanique — c'est une capitale de feu !",
+    "La chauve-souris de Livingstone existe seulement aux Comores, avec moins de 1 500 individus au monde !",
+    "L'île de Mohéli est devenue le premier parc marin communautaire d'Afrique subsaharienne en 2001 !",
+    "Chaque île a son propre petit hibou unique qu'on ne trouve nulle part ailleurs sur Terre !"
+  ],
+  "myths": [
+    {
+      "myth": "Les Comores font partie de Madagascar",
+      "fact": "Ce sont deux pays totalement différents, séparés par 300 km de mer. Les Comores ont leur propre langue, leur président et leur culture bien à eux."
+    },
+    {
+      "myth": "Ces îles sont dangereuses à visiter",
+      "fact": "Les Comores sont tranquilles depuis 2001 et accueillent les voyageurs avec joie. Leurs plages, leurs récifs coralliens et leurs forêts attirent de plus en plus de visiteurs chaque année."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Jeje",
+      "say": "JEH-jeh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Marahaba",
+      "say": "mah-rah-HAH-bah"
+    },
+    {
+      "en": "Je vais bien",
+      "jp": "Salama",
+      "say": "sah-LAH-mah"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Karibu",
+      "say": "kah-REE-boo"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Ritsoonana",
+      "say": "rit-so-NAH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/km-hero.jpg",
+      "alt": "Vue aérienne de la ville de Moroni avec sa mosquée et sa baie",
+      "caption": "MORONI — la grande mosquée et le port de la capitale vus du ciel",
+      "credit": "Sascha Grabow / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/km-landmark.jpg",
+      "alt": "Vue panoramique dans l'immense cratère du volcan Mont Karthala",
+      "caption": "MONT KARTHALA — l'énorme cratère de 3 km de large du volcan actif des Comores",
+      "credit": "Rokaso / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/km-animalA.jpg",
+      "alt": "Chauve-souris de Livingstone accrochée avec les ailes déployées au zoo de Bristol",
+      "caption": "CHAUVE-SOURIS DE LIVINGSTONE — la chauve-souris la plus rare du monde, unique aux Comores",
+      "credit": "Adrian Pingstone / Public domain"
+    },
+    "animalB": {
+      "src": "/photos/km-animalB.jpg",
+      "alt": "Spécimen de cœlacanthe conservé montrant ses nageoires lobées caractéristiques",
+      "caption": "CŒLACANTHE — le poisson fossile vivant, retrouvé vivant aux Comores en 1938",
+      "credit": "BrokenSphere / CC BY-SA 3.0"
+    }
+  }
+}

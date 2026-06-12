@@ -1,0 +1,150 @@
+{
+  "name": "LIBYE",
+  "nativeName": "ليبيا",
+  "romaji": "LIBYĀ",
+  "tagline": "Mer, sable et trésors romains",
+  "region": "North Africa",
+  "coords": "26.3°N, 17.2°E",
+  "fileNo": "LY",
+  "langName": "arabe",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA2",
+    "ink": "#251F18",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#239E3F",
+    "accent2": "#C8000A"
+  },
+  "flag": {
+    "assetPath": "/flags/ly.svg",
+    "title": "Le drapeau de la Libye",
+    "note": "Rouge, noir et vert avec un croissant et une étoile",
+    "keyColor": "#239E3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Libye, plus de neuf pays sur dix sont recouverts de sable doré et de rochers — c'est presque tout un désert ! Sous ces dunes se cachent d'immenses ruines romaines vieilles de 2 000 ans. C'est l'un des pays les plus surprenants d'Afrique !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Tripoli",
+      "sub": "Ville sur la côte méditerranéenne"
+    },
+    {
+      "label": "Habitants",
+      "value": "7,4 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dinar libyen",
+      "sub": "1 dinar = 1 000 dirhams"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "Le berbère est aussi parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 676 198 km²",
+      "sub": "4e plus grand pays d'Afrique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Bikku Bitti",
+      "sub": "2 267 m dans le sud"
+    }
+  ],
+  "islands": [
+    "Tripolitania",
+    "Cyrenaica",
+    "Fezzan",
+    "Sirte"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Un océan de sable et de pierres",
+    "animals": "Les champions du désert",
+    "culture": "Festins et arts anciens",
+    "history": "Des empires dans les dunes",
+    "wows": "C'est incroyable !"
+  },
+  "geo": "La Libye a une longue côte au bord de la mer bleue, puis le sable du Sahara s'étend à perte de vue. Dans le désert du Fezzan, des lacs étincelants se cachent entre de grandes dunes rouges, nourris par une eau de pluie très très ancienne !",
+  "animals": "Le renard fennec vit dans le désert libyen avec ses immenses oreilles en forme d'antenne — elles l'aident à entendre les insectes sous le sable la nuit ! Il n'a jamais besoin de boire de l'eau, car il trouve toute l'humidité dans sa nourriture.",
+  "culture": "Le plat préféré des Libyens s'appelle le bazin : c'est une boule de pâte cuite qu'on trempe dans un délicieux ragoût avec les doigts. Dans la vieille ville de Ghadames, les toits des maisons sont reliés pour pouvoir se promener au-dessus des rues, bien à l'ombre !",
+  "history": "Il y a très longtemps, les Romains ont construit une ville magnifique appelée Leptis Magna, avec de grands arcs et des colonnes décorées. Cette ville a été cachée sous le sable pendant 800 ans, puis les archéologues l'ont retrouvée presque comme neuve !",
+  "wows": [
+    "La Libye possède les plus grandes réserves de pétrole de toute l'Afrique !",
+    "La ville romaine de Leptis Magna a dormi sous le sable pendant 800 ans.",
+    "Un volcan appelé Waw an Namus a laissé trois lacs salés au milieu du Sahara.",
+    "Plus de 90 % de la Libye est désert — presque tout est sable et rochers !",
+    "La côte libyenne sur la mer Méditerranée est la plus longue de toute l'Afrique.",
+    "À Ghadames, on peut traverser toute la ville en marchant sur les toits des maisons !",
+    "La ville grecque de Cyrène a été fondée il y a 2 600 ans — ses colonnes sont encore debout !"
+  ],
+  "myths": [
+    {
+      "myth": "La Libye n'est qu'un désert vide",
+      "fact": "La Libye a une belle côte de 1 770 km, cinq sites classés par l'Unesco et des villes anciennes bâties par les Grecs, les Romains et les Berbères — elle est pleine de trésors !"
+    },
+    {
+      "myth": "Le Sahara est couvert de grandes dunes partout",
+      "fact": "La plupart du Sahara, et surtout en Libye, est fait de plaines de gravier et de rochers nus — les célèbres dunes de sable ne couvrent qu'environ 25 % du désert."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Désert",
+      "jp": "صحراء",
+      "say": "SAH-ra"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/ly-landmark.jpg",
+      "alt": "Lacs turquoise nichés entre les dunes rouges du Sahara à Ubari, en Libye",
+      "caption": "LACS D'UBARI — eaux d'oasis anciennes scintillant entre les grandes dunes du Fezzan",
+      "credit": "Luca Galuzzi / CC BY-SA 2.5"
+    },
+    "animalA": {
+      "src": "/photos/ly-animalA.jpg",
+      "alt": "Renard fennec avec de grandes oreilles dans le désert du Sahara",
+      "caption": "RENARD FENNEC — ses grandes oreilles l'aident à entendre les proies sous le sable la nuit",
+      "credit": "Merzougaloisirs / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/ly-animalB.jpg",
+      "alt": "Mouflon à manchettes debout sur un terrain rocheux",
+      "caption": "MOUFLON À MANCHETTES — le seul mouton sauvage d'Afrique, fait pour les falaises rocheuses",
+      "credit": "Kevin Floyd / CC BY 4.0"
+    },
+    "hero": {
+      "src": "/photos/ly-hero.jpg",
+      "alt": "L'arc romain de Marc Aurèle dans la vieille ville de Tripoli",
+      "caption": "ARC DE MARC AURÈLE — arc de triomphe romain construit en 163 apr. J.-C. dans la vieille ville de Tripoli",
+      "credit": "Daniel & Kate Pett / CC BY 2.0"
+    }
+  }
+}

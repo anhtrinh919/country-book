@@ -1,0 +1,151 @@
+{
+  "name": "ANTIGUA",
+  "nativeName": "AG",
+  "romaji": "ANTIGUA",
+  "tagline": "365 plages, une seule nation",
+  "region": "Caribbean",
+  "coords": "17.12°N, 61.85°W",
+  "fileNo": "047",
+  "langName": "anglais (créole)",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#C9B99A",
+    "ink": "#221E18",
+    "faint": "#8A7860",
+    "line": "#DCCFB0",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ag.svg",
+    "title": "Drapeau au Soleil Levant",
+    "note": "Noir=héritage, rouge=énergie, soleil doré=ère nouvelle",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Antigua a une plage pour chaque jour de l'année — 365 plages en tout ! L'île voisine Barbuda abrite des milliers d'oiseaux extraordinaires dans une immense lagune. Ces deux petites îles des Caraïbes sont entourées d'une mer turquoise magique !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Saint John's",
+      "sub": "Côte nord-ouest d'Antigua"
+    },
+    {
+      "label": "Habitants",
+      "value": "~93 000",
+      "sub": "Estimation Banque mondiale 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar des Caraïbes",
+      "sub": "Lié au dollar américain depuis 1976"
+    },
+    {
+      "label": "Langue",
+      "value": "anglais",
+      "sub": "Officiel ; créole parlé au quotidien"
+    },
+    {
+      "label": "Superficie",
+      "value": "440 km²",
+      "sub": "170 mi² — tout petit !"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Obama",
+      "sub": "402 m ; renommé en 2009"
+    }
+  ],
+  "islands": [
+    "Antigua",
+    "Barbuda",
+    "Redonda",
+    "Saint John's",
+    "Eng. Harbour"
+  ],
+  "islandsLabel": "LIEUX PRINCIPAUX :",
+  "sections": {
+    "geography": "Récifs, baies et plages",
+    "animals": "Ailes, sabots et nageoires",
+    "culture": "Carnaval, cricket et calypso",
+    "history": "Sucre, voiles et liberté",
+    "wows": "Le savais-tu ?"
+  },
+  "geo": "Antigua est une île plate entourée de récifs de corail et de jolies baies aux sables pâles. Le mont Obama, à 402 m, est le seul vrai sommet — il domine une côte découpée en dizaines de plages !",
+  "animals": "Le frégat superbe est l'oiseau national d'Antigua : le mâle gonfle sa gorge rouge comme un ballon pour séduire les femelles ! Des tortues de mer pondent leurs œufs sur les plages tranquilles, et les récifs abritent plus de 170 espèces de poissons.",
+  "culture": "Chaque été, le Carnaval d'Antigua envahit les rues avec des costumes à plumes géants, de la musique soca et des danses — tout le pays fait la fête ! Le plat traditionnel « fungee », une bouillie de maïs avec du gombo, rappelle les racines africaines de l'île.",
+  "history": "Il y a très très longtemps, des peuples appelés Arawaks vivaient sur ces îles, et Christophe Colomb les a aperçues en 1493. Les Anglais sont arrivés en 1632 et ont planté de la canne à sucre — aujourd'hui, le Carnaval célèbre chaque année la fin de l'esclavage !",
+  "wows": [
+    "Antigua compte 365 plages — une pour chaque jour de l'année, tu ne visites jamais la même deux fois !",
+    "Nelson's Dockyard est le seul chantier naval géorgien encore en activité dans le monde entier.",
+    "Le plus haut sommet du pays s'appelle mont Obama — renommé en 2009 pour honorer le président américain !",
+    "Le sable de Barbuda est rose ! Du corail rouge broyé se mélange au sable blanc.",
+    "Le dollar des Caraïbes a gardé exactement la même valeur face au dollar américain depuis 1976.",
+    "Antigua et Barbuda sont entrées à l'ONU en 1981, la même année que leur indépendance !",
+    "Les frégates mâles peuvent voler pendant des semaines sans se poser, en dormant sur les courants d'air chaud."
+  ],
+  "myths": [
+    {
+      "myth": "Il y a exactement 365 plages",
+      "fact": "C'est un chiffre inventé pour les publicités ! Selon comment on compte les petites criques, il y en a entre 260 et plus de 400."
+    },
+    {
+      "myth": "Antigua et Barbuda forment une seule île",
+      "fact": "Non, ce sont deux îles bien séparées, à 50 km l'une de l'autre ! Barbuda est plate, sauvage et bien moins peuplée qu'Antigua."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Wha' happen?",
+      "say": "wha HAP-pen"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tanks",
+      "say": "tanks"
+    },
+    {
+      "en": "Ami",
+      "jp": "Bredren",
+      "say": "BRED-ren"
+    },
+    {
+      "en": "Super !",
+      "jp": "Irie",
+      "say": "EYE-ree"
+    },
+    {
+      "en": "On y va !",
+      "jp": "Move up!",
+      "say": "moov UP"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ag-hero.jpg",
+      "alt": "Coucher de soleil sur English Harbour, Antigua",
+      "caption": "ENGLISH HARBOUR — voiliers ancrés sous un coucher de soleil caribéen doré",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ag-landmark.jpg",
+      "alt": "Nelson's Dockyard, English Harbour, Antigua",
+      "caption": "NELSON'S DOCKYARD — le seul chantier naval géorgien encore en activité au monde",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ag-animalA.jpg",
+      "alt": "Frégat superbe mâle avec sa poche rouge gonflée",
+      "caption": "FRÉGAT SUPERBE — le mâle gonfle sa poche rouge comme un ballon",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ag-animalB.jpg",
+      "alt": "Daim, animal national d'Antigua et Barbuda",
+      "caption": "DAIM — animal national, il se promène à Barbuda depuis les années 1600",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

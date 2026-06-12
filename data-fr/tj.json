@@ -1,0 +1,151 @@
+{
+  "name": "TADJIKISTAN",
+  "nativeName": "Тоҷик",
+  "romaji": "TOJIKISTON",
+  "tagline": "Le Toit du Monde",
+  "region": "Asie centrale",
+  "coords": "38.5N, 71.0E",
+  "fileNo": "084",
+  "langName": "tadjik",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#c9bfa8",
+    "ink": "#25201a",
+    "faint": "#8a7a5e",
+    "line": "#ddd0bb",
+    "accent": "#CC2027",
+    "accent2": "#2E7D32"
+  },
+  "flag": {
+    "assetPath": "/flags/tj.svg",
+    "title": "Tadjikistan",
+    "note": "Tricolore : rouge, blanc, vert + couronne et étoiles",
+    "keyColor": "#CC2027",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Tadjikistan, 9 montagnes sur 10 touchent presque le ciel — c'est le pays le plus montagneux du monde ! Des léopards des neiges fantômes se promènent sur les glaciers. C'est vraiment le Toit du Monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Douchanbé",
+      "sub": "Le nom signifie « lundi » en tadjik"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,6 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Somoni (TJS)",
+      "sub": "1 somoni = 100 dirams"
+    },
+    {
+      "label": "Langue",
+      "value": "Tadjik",
+      "sub": "Famille persane ; écriture cyrillique"
+    },
+    {
+      "label": "Superficie",
+      "value": "141 400 km²",
+      "sub": "À peu près la taille de la Grèce"
+    },
+    {
+      "label": "Point culminant",
+      "value": "7 495 m",
+      "sub": "Pic Ismoil Somoni, Pamir"
+    }
+  ],
+  "islands": [
+    "Dushanbe",
+    "Khujand",
+    "Khorog",
+    "Kulob",
+    "Istaravshan"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des montagnes jusqu'aux nuages !",
+    "animals": "Les fantômes du Pamir",
+    "culture": "Pain chaud et routes de soie",
+    "history": "Des empires dans les sommets",
+    "wows": "Trop incroyable !"
+  },
+  "geo": "Les montagnes du Pamir couvrent presque tout le pays — si hautes qu'on les appelle le Toit du Monde ! Le plus grand glacier hors des pôles s'étire sur 77 km, comme un fleuve de glace géant.",
+  "animals": "Le léopard des neiges, manteau gris et tacheté, se cache dans les rochers du Pamir comme un fantôme. Le mouton de Marco Polo est l'animal national : ses cornes en tire-bouchon peuvent mesurer plus d'un mètre et demi !",
+  "culture": "Les familles tadjikes accueillent toujours les invités avec du thé chaud et du pain plat appelé non. Chaque année le 21 mars, pour le Nouvel An persan Navruz, tout le monde danse dans la rue en habits de soie colorés !",
+  "history": "Il y a très longtemps, des marchands traversaient ces montagnes sur la Route de la Soie pour apporter de l'or et des tissus brillants. La capitale Douchanbé a grandi autour d'un célèbre marché du lundi, et son nom signifie encore « lundi » aujourd'hui !",
+  "wows": [
+    "Douchanbé veut dire « lundi » — la ville a grandi autour d'un grand marché du lundi !",
+    "En 2011, le mât du drapeau de Douchanbé mesurait 165 m — le plus haut du monde !",
+    "Le glacier Fedtchenko fait 77 km de long — le plus grand glacier hors des pôles !",
+    "Le lac Iskanderkul porte le nom d'Alexandre le Grand, qui y a perdu son cheval selon la légende.",
+    "Un Bouddha couché de 12 mètres a été découvert enterré sous terre en 1966 !",
+    "Plus de 93 % du pays est montagneux — presque tout est une montagne !",
+    "Le barrage de Nurek fait 300 m de haut — l'un des plus hauts barrages de la Terre !"
+  ],
+  "myths": [
+    {
+      "myth": "Il fait toujours très froid au Tadjikistan",
+      "fact": "En été dans les vallées, il fait jusqu'à 30 °C et la capitale est bien chaude de mai à octobre. Le grand froid ne touche que les hauts plateaux en hiver."
+    },
+    {
+      "myth": "On ne peut pas aller visiter le Tadjikistan",
+      "fact": "Des voyageurs courageux l'explorent depuis des dizaines d'années sur la grande route du Pamir. Le pays est loin, mais pas impossible à visiter !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Салом",
+      "say": "sah-LOM"
+    },
+    {
+      "en": "Merci",
+      "jp": "Раҳмат",
+      "say": "rah-MAT"
+    },
+    {
+      "en": "Oui / Non",
+      "jp": "Ҳа / Не",
+      "say": "ha / neh"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Лутфан",
+      "say": "LOOT-fan"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Хайр",
+      "say": "KHAYR"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/tj-landmark.jpg",
+      "alt": "Le Palais des Nations avec l'immense mât du drapeau à Douchanbé, Tadjikistan",
+      "caption": "PALAIS DES NATIONS — le grand centre civique de Douchanbé et son mât record",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tj-animalA.jpg",
+      "alt": "Une paire de moutons de Marco Polo avec d'énormes cornes spiralées dans les montagnes du Pamir",
+      "caption": "MOUTON DE MARCO POLO — animal national aux plus longues cornes du monde",
+      "credit": "Fábio Olmos / Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/tj-animalB.jpg",
+      "alt": "Un léopard des neiges au repos sur une surface rocheuse, manteau gris tacheté",
+      "caption": "LÉOPARD DES NEIGES — le fantôme du Pamir ; environ 250 vivent au Tadjikistan",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "src": "/photos/tj-hero.jpg",
+      "alt": "Un boulevard moderne bordé d'arbres au centre de Douchanbé avec de grands bâtiments",
+      "caption": "BOULEVARD DE DOUCHANBÉ — la capitale moderne construite sur l'ancien marché du lundi",
+      "credit": "Ninara / Wikimedia Commons / CC BY 2.0"
+    }
+  }
+}

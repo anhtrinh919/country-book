@@ -1,0 +1,151 @@
+{
+  "name": "SURINAME",
+  "nativeName": "SR",
+  "romaji": "SURINAME",
+  "tagline": "Le cœur caché de la forêt",
+  "region": "Amérique du Sud septentrionale",
+  "coords": "5.8°N, 56.0°W",
+  "fileNo": "074",
+  "langName": "sranan tongo",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B899",
+    "ink": "#252018",
+    "faint": "#8C7A56",
+    "line": "#DDD0B2",
+    "accent": "#377E3F",
+    "accent2": "#C8192A"
+  },
+  "flag": {
+    "assetPath": "/flags/sr.svg",
+    "title": "Drapeau du Suriname",
+    "note": "Vert-blanc-rouge-blanc-vert, étoile dorée",
+    "keyColor": "#377E3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Suriname est si petit qu'il tient presque dans une seule forêt géante — et c'est exactement ça : neuf dixièmes du pays sont une jungle verte immense et sauvage ! Des loutres géantes, des jaguars et des centaines d'oiseaux colorés y vivent en liberté. Viens découvrir ce pays secret caché au bord de l'océan !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Paramaribo",
+      "sub": "Ville en bois classée UNESCO ; bord du fleuve"
+    },
+    {
+      "label": "Habitants",
+      "value": "~654 000",
+      "sub": "Le plus petit pays d'Amérique du Sud"
+    },
+    {
+      "label": "Monnaie",
+      "value": "SRD",
+      "sub": "Dollar surinamais (100 cents)"
+    },
+    {
+      "label": "Langue",
+      "value": "Néerlandais",
+      "sub": "Le sranan tongo est parlé tous les jours"
+    },
+    {
+      "label": "Superficie",
+      "value": "163 820 km²",
+      "sub": "À peu près comme la Géorgie aux États-Unis"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Julianatop",
+      "sub": "1 280 m dans les monts Wilhelmina"
+    }
+  ],
+  "islands": [
+    "Paramaribo",
+    "N. Nickerie",
+    "Lelydorp",
+    "Moengo",
+    "Albina"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des fleuves, de la forêt et des rochers très anciens",
+    "animals": "Les géants des rivières sauvages",
+    "culture": "Tout le monde mange ensemble !",
+    "history": "Échangé contre une île célèbre",
+    "wows": "Sept secrets étonnants"
+  },
+  "geo": "Le Suriname est posé sur de très vieilles roches — parmi les plus anciennes de la Terre ! Au nord, des rivières coulent jusqu'à l'océan Atlantique. Au sud, une forêt immense et verte couvre presque tout le pays.",
+  "animals": "La loutre géante de rivière mesure presque 2 mètres — c'est comme un adulte couché ! Elle chasse en famille en bavardant bruyamment sur les plages de sable. On trouve aussi des jaguars, des aigles harpies et plus de 700 espèces d'oiseaux dans la forêt.",
+  "culture": "Dans la capitale Paramaribo, une mosquée et une synagogue se trouvent côte à côte dans la même rue — c'est unique au monde ! Les gens cuisinent du riz javanais, du poulet créole et des galettes indiennes tout parfumées. Le marché central sent bon les épices chaque matin.",
+  "history": "Il y a très longtemps, les Hollandais ont échangé le Suriname contre une petite île appelée Manhattan — c'est là où se trouve New York aujourd'hui ! Des gens courageux appelés Marrons ont fui dans la forêt pour vivre libres et ont signé la paix avec les Hollandais il y a 260 ans.",
+  "wows": [
+    "Le Suriname a été échangé contre Manhattan en 1667 — les Hollandais ont abandonné New York pour avoir cette colonie de sucre !",
+    "C'est le seul pays hors d'Europe où le néerlandais est la langue officielle principale.",
+    "Plus de 90 % du Suriname est de la forêt tropicale intacte — l'une des plus grandes du monde !",
+    "La cathédrale Saint-Pierre-et-Paul à Paramaribo est le plus grand bâtiment en bois de tout l'hémisphère ouest.",
+    "Une mosquée et une synagogue sont collées l'une à l'autre dans la même rue à Paramaribo.",
+    "Le sommet Julianatop n'a été gravi pour la première fois qu'en 1963 — son nom amérindien signifie « Celui qui se tient seul ».",
+    "L'or représente 79 % de tout ce que le Suriname vend dans le monde — des milliers de chercheurs d'or cherchent dans les rivières !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Suriname est une île dans les Caraïbes",
+      "fact": "Non, c'est bien un pays sur le continent sud-américain, avec le Brésil au sud — même s'il ressemble un peu aux Caraïbes par sa culture !"
+    },
+    {
+      "myth": "Tout le monde parle espagnol ici",
+      "fact": "Non ! Même si les voisins parlent espagnol, la langue officielle est le néerlandais, et dans la rue on parle le sranan tongo, une langue créole rigolote."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Odi",
+      "say": "OH-dee"
+    },
+    {
+      "en": "Merci",
+      "jp": "Grantangi",
+      "say": "gran-TAN-ghee"
+    },
+    {
+      "en": "Oui",
+      "jp": "Iya",
+      "say": "EE-ya"
+    },
+    {
+      "en": "Non",
+      "jp": "No",
+      "say": "no"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Mooie",
+      "say": "MOO-ee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sr-hero.jpg",
+      "alt": "Front de mer de Paramaribo avec des bâtiments coloniaux en bois vus depuis le fleuve Suriname",
+      "caption": "FRONT DE MER DE PARAMARIBO — maisons coloniales hollandaises en bois au bord du fleuve",
+      "credit": "Mark Ahsmann / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/sr-landmark.jpg",
+      "alt": "Fort Zeelandia, fort hollandais historique à Paramaribo, Suriname",
+      "caption": "FORT ZEELANDIA — fort hollandais construit en 1667, aujourd'hui musée au bord du fleuve",
+      "credit": "Mark Ahsmann / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sr-animalA.jpg",
+      "alt": "Loutre géante de rivière Pteronura brasiliensis regardant attentivement",
+      "caption": "LOUTRE GÉANTE DE RIVIÈRE — jusqu'à 2 m de long, les rivières du Suriname sont son refuge",
+      "credit": "Frank Wouters / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/sr-animalB.jpg",
+      "alt": "Vue large du fleuve Suriname serpentant à travers la forêt tropicale dense",
+      "caption": "FLEUVE SURINAME — qui serpente à travers la grande forêt de la province de Sipaliwini",
+      "credit": "-JvL- / CC BY 2.0"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "YÉMEN",
+  "nativeName": "اليمن",
+  "romaji": "AL-YAMAN",
+  "tagline": "Le pays de la reine de Saba",
+  "region": "Middle East",
+  "coords": "15.5°N, 48.5°E",
+  "fileNo": "026",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#CCBA9E",
+    "ink": "#2A2018",
+    "faint": "#8A7555",
+    "line": "#DECCAC",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ye.svg",
+    "title": "Drapeau du Yémen",
+    "note": "Trois bandes horizontales : rouge, blanche et noire",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Il y a 3 000 ans, une reine mystérieuse appelée la reine de Saba régnait sur ces terres magiques ! Au Yémen, il y a des arbres qui saignent du jus rouge vif comme du sang de dragon. C'est un pays plein de merveilles !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Sana'a",
+      "sub": "L'une des plus vieilles villes du monde"
+    },
+    {
+      "label": "Habitants",
+      "value": "~41,8 millions",
+      "sub": "Estimation ONU, 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Rial yéménite",
+      "sub": "YER — divisé en 100 fils"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "Dialectes du Golfe et yéménite"
+    },
+    {
+      "label": "Superficie",
+      "value": "527 968 km²",
+      "sub": "Plus grand que la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 666 m",
+      "sub": "Jabal An-Nabi Shu'ayb, la plus haute montagne d'Arabie"
+    }
+  ],
+  "islands": [
+    "Sana'a",
+    "Aden",
+    "Hadhramaut",
+    "Socotra",
+    "Ta'izz"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES ET RÉGIONS :",
+  "sections": {
+    "geography": "Déserts, montagnes et vieilles mers",
+    "animals": "Dragons, léopards et oiseaux rares",
+    "culture": "Café, tours et bijoux d'argent",
+    "history": "Rois des épices et cités dans les nuages",
+    "wows": "C'est dur à croire, mais c'est vrai !"
+  },
+  "geo": "Les montagnes du Yémen sont l'endroit le plus arrosé de toute l'Arabie — des fermes en terrasses accrochées aux pentes à 2 000 m boivent la pluie de mousson ! À l'est s'étend le Quart Vide, le plus grand désert de sable du monde.",
+  "animals": "Le léopard d'Arabie est l'animal national du Yémen — il est si rare qu'il en reste moins de 200 dans les falaises des montagnes. Sur l'île de Socotra, le dragonnier ressemble à un grand parapluie et saigne une sève rouge vif quand on le coupe !",
+  "culture": "Les Yéménites construisent avec de la boue depuis des milliers d'années — à Shibam, des tours de 11 étages poussent du désert comme de vrais gratte-ciel ! Et c'est au Yémen que le café a été bu pour la première fois, au XVe siècle.",
+  "history": "Il y a 3 000 ans, le royaume de Saba contrôlait la route des épices entre l'Inde et la Méditerranée — l'encens yéménite valait plus que l'or ! La légendaire reine de Saba aurait régné ici, mais personne n'a jamais trouvé son nom gravé dans la pierre.",
+  "wows": [
+    "Les tours de boue de Shibam sont les plus vieux immeubles de grande hauteur du monde — certains ont 11 étages !",
+    "Le dragonnier saigne une sève rouge vif utilisée comme peinture et médicament depuis plus de 2 000 ans.",
+    "Jabal An-Nabi Shu'ayb est le plus haut sommet de toute l'Arabie, à 3 666 m.",
+    "Le mot « moka » vient d'Al-Mukha, une vraie ville portuaire du Yémen.",
+    "37 % des plantes de Socotra ne poussent nulle part ailleurs sur Terre !",
+    "La vieille ville de Sana'a est habitée depuis plus de 2 500 ans sans interruption.",
+    "L'ancien barrage de Marib, construit vers le VIIIe siècle avant J.-C., arrosait d'immenses champs — une prouesse magique !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Yémen, c'est juste un désert plat et chaud",
+      "fact": "Les montagnes du Yémen reçoivent la pluie de mousson et montent jusqu'à 3 700 m. La capitale Sana'a est à 2 300 m d'altitude — il y fait même frais !"
+    },
+    {
+      "myth": "La reine de Saba est un personnage de l'histoire vraie",
+      "fact": "Le royaume de Saba existait vraiment et était très puissant, mais des milliers d'inscriptions royales n'ont jamais nommé une reine — elle reste une magnifique légende."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "كم الثمن؟",
+      "say": "kam ath-tha-MAN"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/ye-landmark.jpg",
+      "alt": "Les tours en briques de boue de Shibam qui s'élèvent dans la vallée du Hadhramaut",
+      "caption": "SHIBAM — anciens gratte-ciel de boue, le « Manhattan du désert »",
+      "credit": "Jialiang Gao / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/ye-animalA.jpg",
+      "alt": "Léopard d'Arabie au repos, montrant son pelage doré tacheté",
+      "caption": "LÉOPARD D'ARABIE — en danger critique, moins de 200 survivent à l'état sauvage",
+      "credit": "JaffaFalcon / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/ye-animalB.jpg",
+      "alt": "Dragonnier avec sa canopée distinctive en forme de champignon sur l'île de Socotra",
+      "caption": "DRAGONNIER — l'arbre-parapluie extraterrestre de Socotra saigne une sève rouge",
+      "credit": "Alex38 / Wikimedia Commons CC BY 4.0"
+    },
+    "hero": {
+      "src": "/photos/ye-hero.jpg",
+      "alt": "Vue panoramique sur la ville de Sana'a avec ses maisons-tours traditionnelles",
+      "caption": "SANA'A — l'une des plus anciennes villes habitées en continu dans le monde",
+      "credit": "Sameer Alssayyad / Wikimedia CC BY-SA 3.0"
+    }
+  }
+}

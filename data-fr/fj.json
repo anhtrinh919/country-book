@@ -1,0 +1,163 @@
+{
+  "name": "FIDJI",
+  "nativeName": "FJ",
+  "romaji": "VITI",
+  "tagline": "Bula ! Ici, la vie est belle.",
+  "region": "Melanesia, Pacific",
+  "coords": "18°S 178°E",
+  "fileNo": "047",
+  "langName": "fidjien",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF4F6",
+    "dot": "#b8d0da",
+    "ink": "#1c2c35",
+    "faint": "#6e8a98",
+    "line": "#cde0e8",
+    "accent": "#009FCA",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/fj.svg",
+    "title": "Drapeau des Fidji",
+    "note": "Fond bleu clair, Union Jack et blason",
+    "keyColor": "#009FCA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Les Fidji, c'est 333 îles éparpillées dans l'océan Pacifique chaud — avec des récifs coralliens arc-en-ciel et des forêts d'un vert éclatant ! Pour dire bonjour, les Fidjiens crient « Bula ! », ce qui veut dire « la vie » !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Suva",
+      "sub": "sur l'île de Viti Levu"
+    },
+    {
+      "label": "Habitants",
+      "value": "933 000",
+      "sub": "estimation ONU 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "FJD $",
+      "sub": "dollar fidjien"
+    },
+    {
+      "label": "Langue",
+      "value": "anglais",
+      "sub": "plus fidjien et hindi"
+    },
+    {
+      "label": "Superficie",
+      "value": "18 272 km²",
+      "sub": "environ la taille du Pays de Galles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 324 m",
+      "sub": "Mt Tomanivi, Viti Levu"
+    }
+  ],
+  "islands": [
+    "Viti Levu",
+    "Vanua Levu",
+    "Taveuni",
+    "Yasawa",
+    "Kadavu"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Îles, récifs et forêts magiques",
+    "animals": "Iguanes, perroquets et renards volants",
+    "culture": "L'esprit Bula et les marcheurs du feu",
+    "history": "Chefs, légendes et indépendance",
+    "wows": "Sept surprises des Fidji"
+  },
+  "geo": [
+    "Les Fidji se trouvent dans le Pacifique Sud, à 1 770 km au nord de la Nouvelle-Zélande. Les deux plus grandes îles — Viti Levu et Vanua Levu — sont d'anciens volcans couverts de forêts tropicales avec des rivières et des montagnes fraiches.",
+    "Tout autour des îles s'étend le Grand Récif de Mer, le troisième plus long récif barrière du monde avec plus de 200 km de longueur !"
+  ],
+  "animals": [
+    "L'iguane rayé des Fidji est un lézard d'un vert électrique avec des rayures blanches que l'on trouve seulement ici. On dirait un petit dragon sorti d'un conte de fées !",
+    "L'oiseau national, le lori à collier, est un perroquet rouge et vert qui voltige de fleur en fleur. Le renard volant du Pacifique est le seul mammifère terrestre natif des Fidji — c'est une chauve-souris géante !"
+  ],
+  "culture": [
+    "Les Fidjiens accueillent tout le monde avec « Bula ! », un mot qui veut dire « la vie » et sert aussi de bonjour, bienvenue et santé. Les visiteurs d'un village boivent ensemble du kava dans un grand bol en bois.",
+    "Sur l'île de Beqa, des hommes marchent pieds nus sur des pierres brûlantes depuis 500 ans ! La danse meke mélange chants, tambours et gestes pour raconter des histoires aux enfants."
+  ],
+  "history": [
+    "Des gens vivent aux Fidji depuis au moins 3 500 ans — bien avant les pyramides d'Égypte ! Les anciennes tribus étaient dirigées par de grands chefs appelés les iTaukei.",
+    "En 1970, les Fidji ont fêté leur indépendance le 10 octobre — exactement le même jour qu'un accord signé 96 ans plus tôt. Quelle coïncidence magique !"
+  ],
+  "wows": [
+    "Les Fidji ont gagné l'or olympique en rugby à sept lors de trois Jeux consécutifs — incroyable pour un si petit pays !",
+    "La Ligne de Changement de Date fait un détour exprès pour que toutes les îles fidjiennes soient dans le même fuseau horaire.",
+    "Le Grand Récif de Mer des Fidji est le troisième plus long récif barrière du monde, avec plus de 200 km.",
+    "Plus de la moitié de toutes les espèces des Fidji ne vivent nulle part ailleurs sur Terre.",
+    "Les Fidjiens disent « oui » en levant les deux sourcils en silence — sans aucun mot !",
+    "Les Fidji comptent plus de joueurs de rugby par habitant que n'importe quel autre pays du monde.",
+    "En 2021, des plongeurs ont planté 1 000 coraux sous la mer pour écrire le mot BULA !"
+  ],
+  "myths": [
+    {
+      "myth": "Les Fidji, c'est juste une plage avec un hôtel",
+      "fact": "Les Fidji comptent 333 îles, une vraie grande ville capitale, des montagnes fraîches et deux cultures très différentes — les iTaukei et les Indo-Fidjiens — chacune avec sa propre cuisine et sa propre langue."
+    },
+    {
+      "myth": "La marche sur le feu, c'est un spectacle pour les touristes",
+      "fact": "La marche sur le feu de Beqa est un rituel sacré du clan Nakarovu qui nécessite des semaines de préparation spirituelle ; les marcheurs traversent des pierres chauffées à plus de 300 °C."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bula!",
+      "say": "BOO-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Vinaka",
+      "say": "vee-NAH-kah"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Moce",
+      "say": "MO-they"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Kerekere",
+      "say": "keh-reh-KEH-reh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Io",
+      "say": "EE-oh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fj-hero.jpg",
+      "alt": "Vue aérienne des dunes de sable de Sigatoka le long de la Côte de Corail des Fidji",
+      "caption": "DUNES DE SIGATOKA — le premier parc national des Fidji longe la Côte de Corail de Viti Levu",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/fj-landmark.jpg",
+      "alt": "Temple hindou coloré Sri Siva Subramaniya à Nadi, aux Fidji",
+      "caption": "TEMPLE SRI SIVA SUBRAMANIYA — le plus grand temple hindou de l'hémisphère Sud, à Nadi",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/fj-animalA.jpg",
+      "alt": "Iguane rayé des Fidji d'un vert vif sur une branche",
+      "caption": "IGUANE RAYÉ DES FIDJI — lézard vert électrique endémique que l'on trouve uniquement sur ces îles",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/fj-animalB.jpg",
+      "alt": "Lori à collier rouge et vert perché sur une branche aux Fidji",
+      "caption": "LORI À COLLIER — l'oiseau national écarlate des Fidji, appelé kula localement",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

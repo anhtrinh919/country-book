@@ -1,0 +1,151 @@
+{
+  "name": "ESTONIE",
+  "nativeName": "Eesti",
+  "romaji": "EESTI",
+  "tagline": "La perle numérique de la Baltique",
+  "region": "Northern Europe",
+  "coords": "58.6°N, 25.0°E",
+  "fileNo": "042",
+  "langName": "estonien",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E8",
+    "dot": "#c8ccb8",
+    "ink": "#1e2218",
+    "faint": "#7a8070",
+    "line": "#d4d8c8",
+    "accent": "#0072CE",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ee.svg",
+    "title": "Le Tricolore",
+    "note": "Bleu, noir et blanc — le ciel, la terre, la neige",
+    "keyColor": "#0072CE",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Estonie a plus de 2 000 îles — c'est comme un puzzle géant dans la mer ! Ses forêts magiques cachent des loups et des lynx. Tout le monde vote par ordinateur, même les grands-parents !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Tallinn",
+      "sub": "Env. 460 000 habitants (2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,37 million",
+      "sub": "Statistics Estonia, 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Adopté en 2011"
+    },
+    {
+      "label": "Langue",
+      "value": "Estonien",
+      "sub": "Famille finno-ougrienne"
+    },
+    {
+      "label": "Superficie",
+      "value": "45 339 km²",
+      "sub": "Un peu plus petit que le Danemark"
+    },
+    {
+      "label": "Point culminant",
+      "value": "318 m",
+      "sub": "Suur Munamägi, sud-est de l'Estonie"
+    }
+  ],
+  "islands": [
+    "Tallinn",
+    "Tartu",
+    "Narva",
+    "Pärnu",
+    "Saaremaa"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Forêts, tourbières et 2 000 îles",
+    "animals": "Loups, lynx et cigognes blanches",
+    "culture": "Chansons, saunas et tout sur l'ordi",
+    "history": "Une météorite a creusé un lac !",
+    "wows": "Sept surprises sur l'Estonie"
+  },
+  "geo": "L'Estonie est couverte à moitié par la forêt — des pins et des bouleaux partout comme une grande couverture verte ! Elle a plus de 2 200 îles et des lacs qui brillent au soleil.",
+  "animals": "Dans les forêts estoniennes vivent des lynx, des loups et des ours bruns — de vrais animaux sauvages ! Les cigognes blanches nichent sur les toits des maisons, et les Estoniens pensent qu'elles portent bonheur.",
+  "culture": "En Estonie, tout le monde chante ensemble lors d'une grande fête tous les cinq ans — imaginez 30 000 voix en même temps ! On mange du pain de seigle noir et du poisson fumé, et le sauna en famille, c'est sacré.",
+  "history": "Sur l'île de Saaremaa, il y a un lac tout rond qui vient d'une météorite tombée il y a 3 500 ans — une vraie roche de l'espace ! La vieille ville de Tallinn a des tours pointues construites par des marchands il y a très longtemps.",
+  "wows": [
+    "L'Estonie a plus de cratères de météorites par km² que presque n'importe quel autre pays !",
+    "Skype, l'appli pour parler en vidéo avec papi et mamie, a été inventé en Estonie.",
+    "En Estonie, on peut voter par ordinateur depuis 2005 — le premier pays au monde !",
+    "On peut créer une entreprise en Estonie depuis son canapé, en quelques minutes sur internet.",
+    "Le Festival de chant estonien est classé au patrimoine mondial par l'Unesco.",
+    "Plus de la moitié du pays est couverte de forêts — l'une des plus grandes en Europe !",
+    "En 1989, 675 km de personnes se sont tenu la main pour former une chaîne humaine géante."
+  ],
+  "myths": [
+    {
+      "myth": "L'Estonie est un pays scandinave",
+      "fact": "Non ! L'Estonie est un pays balte. Sa langue ressemble au finnois et au hongrois, pas du tout au suédois ou au norvégien."
+    },
+    {
+      "myth": "Il fait froid et gris toute l'année en Estonie",
+      "fact": "Pas du tout ! En été, le soleil brille presque 20 heures par jour et il fait chaud comme à la plage."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Tere",
+      "say": "TEH-reh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Aitäh",
+      "say": "EYE-tah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Palun",
+      "say": "PAH-loon"
+    },
+    {
+      "en": "Oui",
+      "jp": "Jah",
+      "say": "yah"
+    },
+    {
+      "en": "Forêt",
+      "jp": "Mets",
+      "say": "mets"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ee-hero.jpg",
+      "alt": "Vue panoramique de la vieille ville de Tallinn avec ses tours médiévales et ses toits rouges",
+      "caption": "VIEILLE VILLE DE TALLINN — tours et clochers médiévaux au-dessus de la mer Baltique",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ee-landmark.jpg",
+      "alt": "Le lac du cratère de météorite de Kaali sur l'île de Saaremaa en Estonie",
+      "caption": "CRATÈRE DE KAALI — une météorite a creusé ce lac dans l'île de Saaremaa il y a 3 500 ans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ee-animalA.jpg",
+      "alt": "Un lynx eurasien debout dans une forêt enneigée",
+      "caption": "LYNX EURASIEN — le chasseur secret des forêts estoniennes, très difficile à apercevoir",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ee-animalB.jpg",
+      "alt": "Une cigogne blanche debout dans un champ",
+      "caption": "CIGOGNE BLANCHE — symbole de chance, elle niche sur les toits dans tout le pays",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

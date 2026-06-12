@@ -1,0 +1,151 @@
+{
+  "name": "IRAN",
+  "nativeName": "ایران",
+  "romaji": "IRAN",
+  "tagline": "Pays des roses et des merveilles",
+  "region": "Middle East",
+  "coords": "32°N 53°E",
+  "fileNo": "042",
+  "langName": "persan",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#D4BFA0",
+    "ink": "#2B2018",
+    "faint": "#8A7055",
+    "line": "#DFD0B8",
+    "accent": "#239F40",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/ir.svg",
+    "title": "Drapeau de l'Iran",
+    "note": "Vert, blanc et rouge avec l'emblème d'Allah",
+    "keyColor": "#239F40",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Iran, il y a des champs entiers de fleurs orange appelées safran — elles parfument la cuisine du monde entier ! Ce grand pays a des déserts brillants de sel, des montagnes enneigées et des bazars remplis de tapis colorés. Les gens y vivent depuis plus de 7 000 ans !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Téhéran",
+      "sub": "Env. 9,5 M d'hab. ; à 1 200 m d'altitude"
+    },
+    {
+      "label": "Habitants",
+      "value": "90 millions",
+      "sub": "Est. 2024 — environ 78 % en ville"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Rial (IRR)",
+      "sub": "10 000 rials = 1 toman au quotidien"
+    },
+    {
+      "label": "Langue",
+      "value": "persan",
+      "sub": "Farsi ; s'écrit de droite à gauche"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 648 195 km²",
+      "sub": "17e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "5 610 m",
+      "sub": "Mont Damavand — volcan endormi"
+    }
+  ],
+  "islands": [
+    "Tehran",
+    "Isfahan",
+    "Shiraz",
+    "Tabriz",
+    "Mashhad"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Volcans, déserts et lacs de sel",
+    "animals": "Chats rarissimes et flamants roses",
+    "culture": "Tapis, poèmes et safran doré",
+    "history": "Des empires plus vieux que tout",
+    "wows": "Sept choses étonnantes !"
+  },
+  "geo": "L'Iran est un grand plateau entouré de montagnes — le mont Damavand est un volcan enneigé plus haut que toutes les Alpes ! Au centre, deux énormes déserts brillent de sel et de sable, mais au nord, les forêts au bord de la mer Caspienne sont aussi vertes qu'une jungle.",
+  "animals": "Le guépard d'Asie est le chat le plus rare du monde — il en reste moins de 30, et ils vivent tous en Iran ! Chaque printemps, des milliers de flamants roses arrivent au lac Urmia et colorent l'eau en rose.",
+  "culture": "Chaque printemps, les Iraniens fêtent le Nouvel An Nowruz en sautant par-dessus des feux de joie et en décorant une table avec sept objets magiques. Les tapis persans sont tissés à la main pendant des années et certains ont plus de 2 500 ans d'histoire !",
+  "history": "Il y a très longtemps, un roi très sage appelé Cyrus le Grand a créé un empire immense — de l'Égypte jusqu'à l'Inde. Il a même écrit l'une des premières listes de droits pour les gens, comme une promesse de les traiter gentiment !",
+  "wows": [
+    "Le mont Damavand est le plus grand volcan de toute l'Asie, à 5 610 m de hauteur !",
+    "Cyrus le Grand a inventé la première poste du monde — ses coureurs couraient 2 700 km !",
+    "À Yazd, des tours à vent rafraîchissaient les maisons 2 500 ans avant les climatiseurs.",
+    "L'Iran produit 90 % du safran du monde entier — plus que tous les autres pays réunis !",
+    "Le guépard d'Asie ne vit plus que dans les déserts d'Iran, nulle part ailleurs sur Terre.",
+    "Le jeu de backgammon a été inventé en Perse il y a 5 000 ans — un très vieux plateau a été trouvé sous la terre.",
+    "Des tunnels souterrains appelés qanats amènent l'eau fraîche sous le désert depuis 3 000 ans."
+  ],
+  "myths": [
+    {
+      "myth": "L'Iran et l'Irak, c'est pareil",
+      "fact": "Non ! Ce sont deux pays voisins très différents. En Iran on parle persan, en Irak on parle surtout arabe. Ils se touchent mais n'ont pas la même histoire du tout."
+    },
+    {
+      "myth": "L'Iran, c'est que du désert et du sable",
+      "fact": "Pas du tout ! Seulement un quart est désert. Il y a aussi des montagnes enneigées, des forêts vertes près de la mer et des champs de pistaches et de grenades."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "سلام",
+      "say": "Sa-laam"
+    },
+    {
+      "en": "Merci",
+      "jp": "ممنون",
+      "say": "Mam-noon"
+    },
+    {
+      "en": "Oui",
+      "jp": "بله",
+      "say": "Ba-le"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "خوشمزه",
+      "say": "Khosh-ma-ze"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "زیبا",
+      "say": "Zee-baa"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ir-hero.jpg",
+      "alt": "Skyline de Téhéran avec la tour Milad au crépuscule",
+      "caption": "TÉHÉRAN — la capitale de l'Iran s'étend au pied des montagnes enneigées de l'Alborz",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ir-landmark.jpg",
+      "alt": "Intérieur de la mosquée rose brillant de lumières arc-en-ciel par les vitraux",
+      "caption": "MOSQUÉE ROSE — la mosquée Nasir ol-Molk à Chiraz brille de lumières arc-en-ciel à l'aube",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ir-animalA.jpg",
+      "alt": "Guépard d'Asie se reposant sur un rocher en Iran",
+      "caption": "GUÉPARD D'ASIE — moins de 30 survivent, tous dans les déserts du centre de l'Iran",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ir-animalB.jpg",
+      "alt": "Flamants roses se promenant dans les eaux roses du lac Urmia en Iran",
+      "caption": "FLAMANTS ROSES — des milliers arrivent au lac Urmia chaque printemps et le colorent en rose",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

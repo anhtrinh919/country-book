@@ -1,0 +1,151 @@
+{
+  "name": "SAO TOMÉ",
+  "nativeName": "ST",
+  "romaji": "SÃO TOMÉ",
+  "tagline": "Les îles au chocolat",
+  "region": "Central Africa",
+  "coords": "0.19°N, 6.61°E",
+  "fileNo": "178",
+  "langName": "portugais",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F3EDD8",
+    "dot": "#C8B88A",
+    "ink": "#2B2015",
+    "faint": "#8B7A50",
+    "line": "#DDD0AC",
+    "accent": "#12873A",
+    "accent2": "#FFCB00"
+  },
+  "flag": {
+    "assetPath": "/flags/st.svg",
+    "title": "Vert, jaune, rouge",
+    "note": "Étoile noire sur la bande jaune centrale",
+    "keyColor": "#12873A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ces deux petites îles vivent exactement sur l'équateur — tu peux poser un pied dans chaque moitié du monde ! Des tortues géantes pondent leurs œufs sur les plages chaque nuit. Autrefois, tout le chocolat du monde venait de ces îles !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "São Tomé",
+      "sub": "Env. 80 000 habitants sur la côte"
+    },
+    {
+      "label": "Habitants",
+      "value": "240 000",
+      "sub": "Estimation ONU, 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dobra (STN)",
+      "sub": "Liée à l'euro"
+    },
+    {
+      "label": "Langue",
+      "value": "portugais",
+      "sub": "Plus le forro et le créole"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 001 km²",
+      "sub": "2e plus petit pays d'Afrique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Pico 2 024 m",
+      "sub": "Pico de São Tomé"
+    }
+  ],
+  "islands": [
+    "São Tomé",
+    "Príncipe",
+    "Rolas Islet",
+    "Água Grande",
+    "Lobata"
+  ],
+  "islandsLabel": "ÎLES ET ZONES PRINCIPALES :",
+  "sections": {
+    "geography": "Des îles nées du feu !",
+    "animals": "Des oiseaux uniques au monde",
+    "culture": "Cacao, musique et vieilles maisons",
+    "history": "L'île qui nourrissait le monde en chocolat",
+    "wows": "C'est pas croyable !"
+  },
+  "geo": "Ces deux îles sont des volcans qui sortent du fond de l'océan, juste sur l'équateur. La forêt tropicale recouvre tout, et des falaises plongent dans une mer turquoise et chaude !",
+  "animals": "São Tomé a plus d'oiseaux uniques que presque n'importe où sur Terre, même plus que les îles Galápagos ! Les tortues marines viennent pondre leurs œufs sur les plages chaque année — des leatherbacks, les plus grandes tortues du monde.",
+  "culture": "Les habitants cuisinent le calulu, un délicieux ragoût de poisson fumé à l'huile de palme qui mijote des heures. La musique locale s'appelle le puxa, et tout le monde danse en sentant l'odeur du cacao qui grille !",
+  "history": "Quand les marins portugais ont découvert ces îles vers 1470, elles étaient complètement vides — aucun être humain n'y vivait ! Très vite, São Tomé est devenu le plus grand producteur de sucre du monde entier.",
+  "wows": [
+    "Autrefois, ces deux petites îles fournissaient tout le cacao du monde — tout seul !",
+    "Il y a plus d'oiseaux uniques ici par km² que même aux célèbres îles Galápagos.",
+    "Pico Cão Grande est un pic volcanique de 300 m qui sort de la jungle comme une dent géante.",
+    "Sur l'îlot de Rolas, tu peux faire un pas et passer d'un hémisphère à l'autre !",
+    "Toutes les grenouilles qui vivent sur l'île São Tomé n'existent nulle part ailleurs sur la planète.",
+    "Les billets de banque dobra sont décorés de beaux papillons — pas de présidents !",
+    "Le grosbeak de São Tomé est 50 % plus lourd que n'importe quel autre oiseau de sa famille."
+  ],
+  "myths": [
+    {
+      "myth": "« C'est juste une petite île sans rien de spécial »",
+      "fact": "São Tomé rivalise avec les Galápagos pour les espèces uniques — plus de 25 espèces d'oiseaux endémiques, plus des grenouilles, reptiles et plantes qu'on ne trouve nulle part ailleurs !"
+    },
+    {
+      "myth": "« Le chocolat vient forcément des grands pays »",
+      "fact": "Ces deux toutes petites îles étaient autrefois le premier fournisseur de cacao au monde entier, et leur variété spéciale est encore adorée par les meilleurs chocolatiers aujourd'hui."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Olá",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "S'il vous plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Chocolat",
+      "jp": "Chocolate",
+      "say": "sho-koh-LAH-teh"
+    },
+    {
+      "en": "Île",
+      "jp": "Ilha",
+      "say": "EEL-yah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/st-hero.jpg",
+      "alt": "Conteneurs dans le port de la ville de São Tomé",
+      "caption": "PORT DE SÃO TOMÉ — le port animé de la capitale équatoriale à l'aube",
+      "credit": "Ji-Elle / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/st-landmark.jpg",
+      "alt": "Le piton volcanique Pico Cão Grande qui s'élève au-dessus de la jungle",
+      "caption": "PICO CÃO GRANDE — une aiguille volcanique de 300 m surgit au-dessus de la forêt tropicale",
+      "credit": "Yakoo1986 / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/st-animalA.jpg",
+      "alt": "Souimanga de São Tomé mâle perché sur une branche",
+      "caption": "SOUIMANGA DE SÃO TOMÉ — le plus grand souimanga du monde, unique à ces îles",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/st-animalB.jpg",
+      "alt": "Bâtiments de la plantation coloniale Roça Agostinho Neto dans la forêt tropicale",
+      "caption": "ROÇA AGOSTINHO NETO — la plus grande plantation de cacao, aujourd'hui engloutie par la jungle",
+      "credit": "Ji-Elle / CC BY-SA 4.0"
+    }
+  }
+}

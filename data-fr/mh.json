@@ -1,0 +1,151 @@
+{
+  "name": "ÎLES MARSHALL",
+  "nativeName": "MH",
+  "romaji": "MAJOL",
+  "tagline": "Des atolls au bord du ciel",
+  "region": "Micronésie, Océan Pacifique",
+  "coords": "7°N, 171°E",
+  "fileNo": "096",
+  "langName": "marshallais",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EFF5F0",
+    "dot": "#c2d4c5",
+    "ink": "#1e2b20",
+    "faint": "#7a9080",
+    "line": "#d4e4d7",
+    "accent": "#1A3A7A",
+    "accent2": "#E87722"
+  },
+  "flag": {
+    "assetPath": "/flags/mh.svg",
+    "title": "Drapeau des Îles Marshall",
+    "note": "Fond bleu, bandes orange et blanche, étoile à 24 branches",
+    "keyColor": "#1A3A7A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Imagine des centaines de petites îles plates éparpillées dans l'océan comme des perles tombées — on peut voir la mer des deux côtés en même temps ! Les Îles Marshall sont si basses qu'elles dépassent à peine de l'eau. C'est le pays le plus plat de toute la planète !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Majuro",
+      "sub": "environ 28 000 habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "~42 000",
+      "sub": "est. 2024, Banque Mondiale"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar américain",
+      "sub": "pas de monnaie propre"
+    },
+    {
+      "label": "Langue",
+      "value": "marshallais",
+      "sub": "et anglais, tous deux officiels"
+    },
+    {
+      "label": "Superficie",
+      "value": "181 km²",
+      "sub": "sur 2 millions de km² d'océan"
+    },
+    {
+      "label": "Point culminant",
+      "value": "14 m",
+      "sub": "Île Airik, Maloelap"
+    }
+  ],
+  "islands": [
+    "Majuro",
+    "Kwajalein",
+    "Jaluit",
+    "Bikini",
+    "Ebeye"
+  ],
+  "islandsLabel": "ATOLLS PRINCIPAUX :",
+  "sections": {
+    "geography": "Un collier de corail et d'eau bleue",
+    "animals": "Crabes, oiseaux et poissons du récif",
+    "culture": "Pirogues, étoiles et grandes fêtes",
+    "history": "Les premiers navigateurs des étoiles",
+    "wows": "Trop incroyable pour être vrai !"
+  },
+  "geo": "Les Îles Marshall forment deux rangées d'atolls — Ratak (le Lever du soleil) et Ralik (le Coucher du soleil) — avec en tout 1 152 petits bouts de terre. L'atoll de Kwajalein possède le plus grand lagon du monde, si grand qu'une ville entière pourrait s'y cacher !",
+  "animals": "Sous l'eau, plus de 250 espèces de poissons colorés nagent entre 300 sortes de coraux. Sur terre, le crabe des cocotiers est le plus grand crabe du monde — il grimpe aux palmiers et ouvre les noix de coco avec ses pinces géantes !",
+  "culture": "Aux Îles Marshall, c'est la maman qui transmet les terres et les titres à ses enfants — les mamans sont très importantes ici ! La fête de Noël, appelée Kūrijmōj, dure quatre mois entiers avec des chansons et des festins.",
+  "history": "Il y a 2 000 ans, les ancêtres marshallais traversaient l'immense océan sans carte ni boussole. Ils lisaient les vagues sous leur pirogue pour trouver les îles cachées derrière l'horizon — comme des super-héros de la mer !",
+  "wows": [
+    "La capitale Majuro est si étroite qu'on peut marcher du lagon à la mer en seulement deux minutes !",
+    "Les Marshallais savaient naviguer sur l'océan rien qu'en sentant les vagues sous leur bateau.",
+    "Le grand lagon de Kwajalein est si vaste qu'une ville entière pourrait y tenir.",
+    "Les Îles Marshall utilisent le dollar américain — elles n'ont pas leur propre monnaie !",
+    "Les citoyens marshallais peuvent vivre aux États-Unis sans visa, comme des voisins.",
+    "L'atoll de Bikini est classé au patrimoine mondial de l'UNESCO avec des bateaux coulés au fond de son lagon.",
+    "Ce pays est si plat que la mer peut inonder les îles quand les grandes vagues arrivent !"
+  ],
+  "myths": [
+    {
+      "myth": "Les îles sont plates et sans arbres, comme un désert",
+      "fact": "Les atolls sont couverts de cocotiers, d'arbres à pain et de pandanus — de beaux anneaux verts autour de lagons bleus, rien à voir avec un désert !"
+    },
+    {
+      "myth": "Ces îles sont si petites qu'elles sont vides",
+      "fact": "Plus de 42 000 personnes y vivent, avec des villes, des marchés et même un aéroport international !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Iakwe",
+      "say": "YAH-kway"
+    },
+    {
+      "en": "Merci",
+      "jp": "Kommol",
+      "say": "KOM-mol"
+    },
+    {
+      "en": "Oui",
+      "jp": "Aet",
+      "say": "ah-ET"
+    },
+    {
+      "en": "Non",
+      "jp": "Jab",
+      "say": "jahb"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Kommol tata",
+      "say": "KOM-mol TAH-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mh-hero.jpg",
+      "alt": "Paysage côtier de l'atoll de Majuro, Îles Marshall",
+      "caption": "MAJURO — la capitale posée sur un ruban de corail à peine plus large qu'une rue",
+      "credit": "Erin Magee / DFAT (CC BY 2.0)"
+    },
+    "landmark": {
+      "src": "/photos/mh-landmark.jpg",
+      "alt": "Vue aérienne de l'atoll de Kwajalein avec son anneau de corail et son lagon turquoise",
+      "caption": "ATOLL DE KWAJALEIN — le plus grand lagon du monde, assez vaste pour cacher une ville",
+      "credit": "Matt Kieffer (CC BY-SA 2.0)"
+    },
+    "animalA": {
+      "src": "/photos/mh-animalA.jpg",
+      "alt": "Grand crabe des cocotiers au sol montrant ses pinces massives",
+      "caption": "CRABE DES COCOTIERS — le plus grand invertébré terrestre du monde, ses pinces craquent les noix",
+      "credit": "Lance Vanlewen (CC BY-SA 4.0)"
+    },
+    "animalB": {
+      "src": "/photos/mh-animalB.jpg",
+      "alt": "Grand frégata planant en vol au-dessus de l'océan Pacifique",
+      "caption": "GRAND FRÉGATA — le pirate du ciel pacifique, qui vole le poisson des autres en plein vol",
+      "credit": "NOAA Photo Library (CC BY 2.0)"
+    }
+  }
+}

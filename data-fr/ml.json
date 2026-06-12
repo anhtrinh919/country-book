@@ -1,0 +1,151 @@
+{
+  "name": "MALI",
+  "nativeName": "ML",
+  "romaji": "MALI",
+  "tagline": "Le pays de l'or et du Niger",
+  "region": "West Africa",
+  "coords": "17°N, 3°W",
+  "fileNo": "082",
+  "langName": "français",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D9C89E",
+    "ink": "#2B1F0A",
+    "faint": "#8C7A4E",
+    "line": "#E3D3A8",
+    "accent": "#1A7A3C",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/ml.svg",
+    "title": "Drapeau du Mali",
+    "note": "Vert, or et rouge — fierté panafricaine",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Mali, des rois donnaient de l'or comme cadeau — autant qu'on veut ! Des mosquées en boue séchée ressemblent à d'immenses châteaux de sable dorés. C'est un pays magique où les chameaux marchent sur des dunes géantes !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bamako",
+      "sub": "Sur le fleuve Niger"
+    },
+    {
+      "label": "Habitants",
+      "value": "23,3 millions",
+      "sub": "Est. 2024, en forte croissance"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Partagé avec l'Afrique de l'Ouest"
+    },
+    {
+      "label": "Langue",
+      "value": "français",
+      "sub": "+ le bambara très parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 240 192 km²",
+      "sub": "Plus grand que l'Afrique du Sud"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 155 m",
+      "sub": "Le pic Hombori Tondo"
+    }
+  ],
+  "islands": [
+    "Bamako",
+    "Timbuktu",
+    "Mopti",
+    "Gao",
+    "Ségou"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Fleuves, dunes et ciel du désert",
+    "animals": "Les animaux sauvages du Sahel",
+    "culture": "Or, tambours et tours de boue",
+    "history": "Un roi avec des tonnes d'or !",
+    "wows": "7 choses folles sur le Mali"
+  },
+  "geo": "Le Mali est presque tout un grand désert de sable doré où il fait très très chaud. Le fleuve Niger traverse le pays comme une longue rivière magique qui donne à boire et à manger à tout le monde.",
+  "animals": "Dans le fleuve Niger vivent des hippos qui se baignent toute la journée sous le soleil. De grandes girafes d'Afrique de l'Ouest tendent leur long cou pour manger des feuilles d'acacia !",
+  "culture": "Au Mali, il y a des musiciens spéciaux appelés griots qui racontent des histoires en jouant d'un instrument avec 21 cordes. La grande mosquée de Djenné est entièrement faite en boue séchée — et tous les habitants du village la repeignent ensemble chaque année !",
+  "history": "Il y a très longtemps, un roi appelé Mansa Musa avait tellement d'or qu'il en donnait à tout le monde pendant son grand voyage. La ville de Tombouctou était comme une énorme école géante avec des milliers d'élèves venus de partout !",
+  "wows": [
+    "La grande mosquée de Djenné est refaite en boue fraîche chaque année depuis plus de 800 ans !",
+    "Le roi Mansa Musa voyageait avec 60 000 personnes et 18 tonnes d'or dans ses bagages.",
+    "Le Mali garde plus de 700 000 très vieux livres écrits à la main, cachés dans des maisons.",
+    "Chaque année, le fleuve Niger déborde et crée un lac grand comme la Belgique — plein d'oiseaux !",
+    "Tombouctou était si mystérieuse que les Européens offraient des prix pour y aller et revenir vivants.",
+    "Un musicien malien a inventé un style de guitare qui a inspiré toute la musique blues américaine.",
+    "Les Dogon connaissaient une étoile invisible appelée Sirius B bien avant l'invention des télescopes !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Mali est un désert vide",
+      "fact": "Seulement deux tiers du pays est désert ; le sud a des rivières, des forêts, des champs et des animaux sauvages."
+    },
+    {
+      "myth": "Tombouctou veut dire « au bout du monde »",
+      "fact": "Tombouctou était une grande ville importante avec 180 écoles et des marchands riches qui venaient de partout."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "S'il vous plaît",
+      "jp": "Je vous prie",
+      "say": "zhuh voo PREE"
+    },
+    {
+      "en": "Oui",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Bienvenue",
+      "say": "byan-veh-NOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ml-hero.jpg",
+      "alt": "Vue panoramique de Bamako sur le fleuve Niger",
+      "caption": "BAMAKO — la capitale du Mali s'étend le long des berges du fleuve Niger",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ml-landmark.jpg",
+      "alt": "Grande Mosquée de Djenné, le plus grand bâtiment en briques de boue du monde",
+      "caption": "GRANDE MOSQUÉE DE DJENNÉ — la plus grande construction en boue du monde, repeinte chaque année",
+      "credit": "Andy Gilham / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ml-animalA.jpg",
+      "alt": "Hippopotame sortant de l'eau",
+      "caption": "HIPPOPOTAME — le fleuve Niger est l'un des derniers refuges des hippos en Afrique de l'Ouest",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ml-animalB.jpg",
+      "alt": "Girafe d'Afrique de l'Ouest qui tend le cou pour manger des feuilles d'acacia",
+      "caption": "GIRAFE D'AFRIQUE DE L'OUEST — de rares géants qui vivent encore près du delta intérieur du Niger",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

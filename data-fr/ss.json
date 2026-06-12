@@ -1,0 +1,151 @@
+{
+  "name": "SOUDAN DU SUD",
+  "nativeName": "SS",
+  "romaji": "SOUTH SUDAN",
+  "tagline": "Le pays le plus jeune d'Afrique !",
+  "region": "East Africa",
+  "coords": "4.86°N, 31.57°E",
+  "fileNo": "193",
+  "langName": "dinka",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CDBF96",
+    "ink": "#1E1A12",
+    "faint": "#8A7B55",
+    "line": "#DDD0A8",
+    "accent": "#078930",
+    "accent2": "#DA1C38"
+  },
+  "flag": {
+    "assetPath": "/flags/ss.svg",
+    "title": "Drapeau du Soudan du Sud",
+    "note": "3 bandes, triangle bleu avec une étoile dorée",
+    "keyColor": "#078930",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Soudan du Sud est né le 9 juillet 2011 — c'est le pays le plus jeune du monde entier ! Un gigantesque marais appelé le Sudd devient plus grand que la Belgique chaque saison des pluies. Plus de 60 peuples y vivent, chacun avec sa propre langue !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Juba",
+      "sub": "Sur le Nil Blanc"
+    },
+    {
+      "label": "Habitants",
+      "value": "~11,9 M",
+      "sub": "Estimation ONU, 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Livre SS",
+      "sub": "Livre sud-soudanaise"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Plus de 60 langues locales"
+    },
+    {
+      "label": "Superficie",
+      "value": "646 883 km²",
+      "sub": "Plus grand que la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 187 m",
+      "sub": "Mont Kinyeti, Mts Imatong"
+    }
+  ],
+  "islands": [
+    "Juba",
+    "Malakal",
+    "Wau",
+    "Bor",
+    "Yei"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Rivières, marais et collines vertes",
+    "animals": "Les géants de la grande migration",
+    "culture": "Vaches, chants et fêtes",
+    "history": "La naissance d'un tout nouveau pays",
+    "wows": "Sept surprises incroyables"
+  },
+  "geo": "Le Soudan du Sud est traversé par le grand fleuve Nil Blanc. Le Sudd — l'un des plus grands marais du monde — est un labyrinthe de roseaux géants, d'îles flottantes et de pélicans pendant la saison des pluies !",
+  "animals": "Le bec-en-sabot est un oiseau étrange avec un bec en forme de sabot — assez grand pour avaler un poisson entier d'un seul coup ! Chaque année, environ un million d'antilopes kob galopent ensemble sur les plaines de Boma, comme un gigantesque troupeau de chevaux.",
+  "culture": "Le peuple Dinka adore ses vaches — une famille peut avoir tout un troupeau qui vaut autant qu'une maison ! Pendant les fêtes, les femmes portent des colliers de perles empilés du menton jusqu'à la poitrine, et tout le monde chante et danse.",
+  "history": "Il y a très longtemps, les gens du Soudan du Sud rêvaient d'avoir leur propre pays. Le 9 juillet 2011, ils ont levé leur nouveau drapeau — noir, rouge, vert et bleu avec une belle étoile dorée — et le Soudan du Sud est devenu un pays tout neuf !",
+  "wows": [
+    "Le Soudan du Sud est le pays le plus jeune du monde, né le 9 juillet 2011 !",
+    "Le marais du Sudd devient plus grand que l'Angleterre quand il pleut beaucoup.",
+    "Plus de 60 peuples différents vivent ici, et chacun parle sa propre langue.",
+    "Le bec-en-sabot mesure 1,5 m de haut — aussi grand qu'un adulte !",
+    "Un million d'antilopes galopent ensemble chaque année — c'est l'une des plus grandes migrations du monde.",
+    "Les forêts du mont Kinyeti sont fraîches et vertes, alors que les plaines sont brûlantes.",
+    "Le Soudan du Sud touche six pays voisins différents !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Soudan du Sud est un désert comme le nord",
+      "fact": "Non ! La plupart du pays est vert et tropical, avec de grandes savanes, des forêts et l'un des plus grands marais d'Afrique — très peu de désert ici !"
+    },
+    {
+      "myth": "C'est un petit pays tout petit",
+      "fact": "Pas du tout ! Le Soudan du Sud est plus grand que la France — c'est un pays immense avec des paysages très différents."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Maalei",
+      "say": "mah-LAY"
+    },
+    {
+      "en": "Merci",
+      "jp": "Yin athin",
+      "say": "yin AH-tin"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ee",
+      "say": "EH"
+    },
+    {
+      "en": "Eau",
+      "jp": "Piu",
+      "say": "PEE-oo"
+    },
+    {
+      "en": "Bien",
+      "jp": "Lek",
+      "say": "LEK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ss-hero.jpg",
+      "alt": "Scène de rue à Juba, Soudan du Sud",
+      "caption": "JUBA — la capitale sur les rives du Nil Blanc",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ss-landmark.jpg",
+      "alt": "Le mont Kinyeti dans les montagnes Imatong, Soudan du Sud",
+      "caption": "MONT KINYETI — le plus haut sommet du Soudan du Sud, montagnes Imatong",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ss-animalA.jpg",
+      "alt": "Bec-en-sabot avec son immense bec distinctif",
+      "caption": "BEC-EN-SABOT — l'oiseau géant au bec en sabot des marais du Sudd",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ss-animalB.jpg",
+      "alt": "Scène de quartier à Gudele, Juba, Soudan du Sud",
+      "caption": "RUES DE JUBA — la vie quotidienne dans la plus jeune capitale d'Afrique",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

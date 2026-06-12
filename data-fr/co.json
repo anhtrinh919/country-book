@@ -1,0 +1,151 @@
+{
+  "name": "COLOMBIE",
+  "nativeName": "CO",
+  "romaji": "COLOMBIA",
+  "tagline": "Là où les Andes rencontrent l'Amazone",
+  "region": "Nord de l'Amérique du Sud",
+  "coords": "4.57°N, 74.30°W",
+  "fileNo": "042",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFD6",
+    "dot": "#CBBF96",
+    "ink": "#2B2218",
+    "faint": "#8B7A4E",
+    "line": "#DDD0A8",
+    "accent": "#FCD116",
+    "accent2": "#003893"
+  },
+  "flag": {
+    "assetPath": "/flags/co.svg",
+    "title": "Tricolore Patria",
+    "note": "Jaune, bleu et rouge — trois bandes égales et audacieuses",
+    "keyColor": "#FCD116",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Colombie a plus d'espèces d'oiseaux que n'importe quel autre pays au monde — imagine 1 900 sortes d'oiseaux colorés rien que là ! Elle envoie des millions de fleurs dans tous les pays chaque jour. Et elle est le seul pays d'Amérique du Sud avec des plages sur deux océans différents !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bogotá",
+      "sub": "2 600 m au-dessus de la mer"
+    },
+    {
+      "label": "Habitants",
+      "value": "52,2 millions",
+      "sub": "Est. 2024, DANE"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Peso (COP)",
+      "sub": "~4 100 COP = 1 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "65+ langues indigènes aussi"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 141 748 km²",
+      "sub": "26e plus grand pays"
+    },
+    {
+      "label": "Point culminant",
+      "value": "5 775 m",
+      "sub": "Pico Cristóbal Colón"
+    }
+  ],
+  "islands": [
+    "BOGOTÁ",
+    "MEDELLÍN",
+    "CALI",
+    "CARTAGENA",
+    "BARRANQUILLA"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, jungle et deux mers",
+    "animals": "Le paradis des oiseaux du monde",
+    "culture": "Café, couleurs et cumbia",
+    "history": "Une cité perdue plus vieille que tu ne crois",
+    "wows": "Les records fous de la Colombie"
+  },
+  "geo": "La Colombie a des plages dorées sur la mer des Caraïbes d'un côté, et l'océan Pacifique de l'autre — deux océans pour un seul pays ! La capitale Bogotá est si haute dans les montagnes que le ciel y semble tout proche.",
+  "animals": "La Colombie détient le record du monde des espèces d'oiseaux avec plus de 1 900 sortes, dont le coq-de-roche des Andes, un oiseau orange fluo qui ressemble à un petit casque volant ! Dans les rivières de l'Amazone nagent des dauphins roses comme du chewing-gum.",
+  "culture": "Les Colombiens boivent du café toute la journée dans de petites tasses appelées « tinto », cultivé sur des collines brumeuses et parfumées. Chaque août, la ville de Medellín se couvre de roses, d'orchidées et d'œillets lors d'un grand festival de fleurs !",
+  "history": "Il y a très longtemps, les Muisca habitaient le haut plateau de Bogotá et échangeaient des émeraudes vertes étincelantes comme trésor. La Cité Perdue de Colombie est vieille de 650 ans de plus que le célèbre Machu Picchu au Pérou !",
+  "wows": [
+    "La Colombie envoie 200 000 tonnes de fleurs coupées dans le monde chaque année !",
+    "Bogotá est si haute que les visiteurs se sentent tout étourdis en marchant.",
+    "La Cité Perdue de Colombie est plus ancienne que le Machu Picchu de 650 ans.",
+    "La Colombie produit 15 % des plus belles émeraudes du monde entier.",
+    "Le pays a 59 parcs nationaux — 12 % de tout son territoire est protégé.",
+    "Sur la côte Pacifique, il tombe parfois 13 000 mm de pluie par an !",
+    "Les grenouilles venimeuses de Colombie sont pas plus grandes qu'un pouce, mais brillent en bleu et rouge."
+  ],
+  "myths": [
+    {
+      "myth": "La Colombie est en Amérique centrale",
+      "fact": "La Colombie est bien en Amérique du Sud, tout en haut du continent, avec pour voisins le Venezuela, le Brésil, le Pérou, l'Équateur et le Panama."
+    },
+    {
+      "myth": "La Colombie ne produit que du café",
+      "fact": "La Colombie envoie aussi des millions de fleurs dans le monde chaque jour, et produit des émeraudes, du cacao et bien d'autres trésors !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Café",
+      "jp": "Tinto",
+      "say": "TEEN-toh"
+    },
+    {
+      "en": "Super cool !",
+      "jp": "¡Chévere!",
+      "say": "CHEH-veh-reh"
+    },
+    {
+      "en": "Ami",
+      "jp": "Parcero",
+      "say": "par-SEH-roh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/co-hero.jpg",
+      "alt": "Vue panoramique de Bogotá avec les montagnes des Andes derrière",
+      "caption": "BOGOTÁ — la grande capitale s'étend à 2 600 m dans les nuages",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/co-landmark.jpg",
+      "alt": "Vieux murs en pierre de Cartagena de Indias au bord des Caraïbes",
+      "caption": "REMPARTS DE CARTAGENA — des fortifications espagnoles vieilles de 400 ans entourent la vieille ville",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/co-animalA.jpg",
+      "alt": "Mâle coq-de-roche des Andes d'un orange brillant perché sur une branche",
+      "caption": "COQ-DE-ROCHE — l'oiseau national orange fluo de la Colombie",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/co-animalB.jpg",
+      "alt": "Dauphin rose nageant dans une rivière sombre de l'Amazone",
+      "caption": "DAUPHIN ROSE — nage dans les rivières amazoniennes de Colombie sous la canopée",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

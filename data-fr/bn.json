@@ -1,0 +1,150 @@
+{
+  "name": "BRUNÉI",
+  "nativeName": "بروني",
+  "romaji": "BRUNEI",
+  "tagline": "Minuscule sultanat, océan de pétrole",
+  "region": "Southeast Asia",
+  "coords": "4.9°N, 114.9°E",
+  "fileNo": "058",
+  "langName": "malais",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF99",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#DDD0AD",
+    "accent": "#F0C235",
+    "accent2": "#C8292B"
+  },
+  "flag": {
+    "assetPath": "/flags/bn.svg",
+    "title": "Drapeau de Brunéi",
+    "note": "Fond doré avec deux bandes diagonales blanche et noire",
+    "keyColor": "#F0C235",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Brunéi est un tout petit royaume où le pétrole rend les habitants très riches — les enfants vont à l'école gratuitement et les docteurs soignent tout le monde sans payer ! Une magnifique mosquée dorée brille au-dessus de son propre lac !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bandar S. Beg.",
+      "sub": "Env. 100 000 habitants (ville, 2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "455 500",
+      "sub": "Estimation officielle, 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar de Brunéi",
+      "sub": "BND ; égal au dollar de Singapour"
+    },
+    {
+      "label": "Langue",
+      "value": "malais",
+      "sub": "Aussi : anglais et chinois"
+    },
+    {
+      "label": "Superficie",
+      "value": "5 765 km²",
+      "sub": "Plus petit que le Delaware, États-Unis"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Bukit Pagon",
+      "sub": "1 841 m — collines de jungle au sud-est"
+    }
+  ],
+  "islands": [
+    "Brunei-Muara",
+    "Belait",
+    "Tutong",
+    "Temburong"
+  ],
+  "islandsLabel": "DISTRICTS PRINCIPAUX :",
+  "sections": {
+    "geography": "Un joyau de jungle sur Bornéo",
+    "animals": "Les créatures de la canopée",
+    "culture": "Or, maisons sur pilotis et vie royale",
+    "history": "Un sultan légendaire et son trésor",
+    "wows": "Des choses qui vont t'épater !"
+  },
+  "geo": "Brunéi se trouve sur la côte nord de Bornéo, entouré presque entièrement par la Malaisie. La forêt tropicale couvre les deux tiers du pays, et des rivières servent d'autoroutes à travers la verdure !",
+  "animals": "Le singe nasique vit uniquement sur l'île de Bornéo — il a un gros nez tout rond et il sait nager comme un champion ! Dans le parc d'Ulu Temburong, on trouve aussi des éléphants pygmées et des léopards des nuages qui se cachent dans les arbres.",
+  "culture": "Dans le village de Kampong Ayer, 13 000 personnes vivent dans des maisons construites sur des pilotis au-dessus de la rivière ! Chaque soir, un grand marché sizzle avec des brochettes de viande et une pâte collante au tapioca appelée ambuyat, le plat préféré des Brunéiens.",
+  "history": "Il y a très longtemps, le sultanat de Brunéi était si puissant qu'il régnait sur une grande partie de Bornéo et des Philippines. Quand les explorateurs de Magellan arrivèrent en 1521, ils découvrirent un palais brillant rempli d'or et de canons !",
+  "wows": [
+    "Les habitants de Brunéi ne paient aucun impôt — le pétrole paie tout à leur place !",
+    "Le palais du Sultan a 1 788 pièces et 5 piscines — la plus grande résidence royale du monde !",
+    "La même famille royale règne depuis plus de 600 ans !",
+    "Brunéi est le seul pays entièrement indépendant sur l'île de Bornéo.",
+    "Les enfants vont à l'université gratuitement grâce à l'argent du pétrole.",
+    "Pour aller à Temburong, il fallait prendre un bateau rapide — jusqu'à l'ouverture d'un pont de 30 km en 2020 !",
+    "L'ambuyat est une pâte gluante de tapioca que l'on mange avec des baguettes spéciales — très amusant à manger !"
+  ],
+  "myths": [
+    {
+      "myth": "Brunéi interdit l'alcool à tout le monde",
+      "fact": "La vente publique est interdite, mais les visiteurs non-musulmans de plus de 17 ans peuvent apporter 2 litres de boissons alcoolisées pour usage privé."
+    },
+    {
+      "myth": "Brunéi est trop petit pour être important",
+      "fact": "Avec environ 35 000 dollars par personne, Brunéi est l'un des pays les plus riches du monde et un grand exportateur d'énergie en Asie."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Selamat",
+      "say": "suh-LAH-mat"
+    },
+    {
+      "en": "Merci",
+      "jp": "Terima kasih",
+      "say": "truh-MAH kah-SEE"
+    },
+    {
+      "en": "Bonne journée",
+      "jp": "Selamat pagi",
+      "say": "sla-MAT PAH-gee"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Sedap!",
+      "say": "suh-DAHP"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "Berapa harga",
+      "say": "buh-RAH-pa HAR-ga"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bn-hero.jpg",
+      "alt": "La mosquée Omar Ali Saifuddien et son reflet dans le lagon, Bandar Seri Begawan",
+      "caption": "MOSQUÉE OMAR ALI SAIFUDDIEN — dôme doré au-dessus de son lagon artificiel",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/bn-landmark.jpg",
+      "alt": "Le front de mer et la skyline de la capitale Bandar Seri Begawan",
+      "caption": "BANDAR SERI BEGAWAN — la capitale compacte au bord de la rivière Brunéi",
+      "credit": "Wikimedia Commons / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/bn-animalA.jpg",
+      "alt": "Un singe nasique femelle perché dans un arbre à Bornéo",
+      "caption": "SINGE NASIQUE — le primate au grand nez que l'on trouve uniquement à Bornéo",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/bn-animalB.jpg",
+      "alt": "Un singe nasique avec son bébé traversant un pont de corde à Bornéo",
+      "caption": "SINGE NASIQUE ET BÉBÉ — traversant un pont dans la jungle de Bornéo",
+      "credit": "Wikimedia Commons / CC BY 4.0"
+    }
+  }
+}

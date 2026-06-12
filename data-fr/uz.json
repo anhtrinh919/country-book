@@ -1,0 +1,151 @@
+{
+  "name": "OUZBÉKISTAN",
+  "nativeName": "O'zbek",
+  "romaji": "UZBEKISTON",
+  "tagline": "Le cœur de la Route de la Soie",
+  "region": "Central Asia",
+  "coords": "41°N 64°E",
+  "fileNo": "062",
+  "langName": "ouzbek",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#D4C49A",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#E0D0A8",
+    "accent": "#1A6B9A",
+    "accent2": "#2E8B4A"
+  },
+  "flag": {
+    "assetPath": "/flags/uz.svg",
+    "title": "Drapeau de l'Ouzbékistan",
+    "note": "Bleu, blanc et vert avec 12 étoiles et un croissant",
+    "keyColor": "#1A6B9A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Ouzbékistan est au milieu de l'Asie, là où de grands marchands voyageaient avec de la soie et des épices ! Ses villes sont couvertes de magnifiques carreaux bleus brillants comme des bijoux. Pour aller à la mer depuis ici, il faut traverser deux pays !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Tachkent",
+      "sub": "Population ~3 millions"
+    },
+    {
+      "label": "Habitants",
+      "value": "37,5 millions",
+      "sub": "Est. janv. 2025, Agence de statistiques"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Sum (UZS)",
+      "sub": "« Sum » signifie « pur » en turcique"
+    },
+    {
+      "label": "Langue",
+      "value": "ouzbek",
+      "sub": "Une langue turcique, alphabet latin"
+    },
+    {
+      "label": "Superficie",
+      "value": "447 400 km²",
+      "sub": "Un peu plus grand que la Suède"
+    },
+    {
+      "label": "Point culminant",
+      "value": "4 668 m",
+      "sub": "Alpomish, chaîne du Gissar (2023)"
+    }
+  ],
+  "islands": [
+    "Tashkent",
+    "Samarkand",
+    "Bukhara",
+    "Khiva",
+    "Fergana"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Déserts, rivières et montagnes",
+    "animals": "Les bêtes des steppes et des sommets",
+    "culture": "Riz doré et carreaux bleus",
+    "history": "Il était une fois Samarcande…",
+    "wows": "Tu n'y croiras pas !"
+  },
+  "geo": "L'Ouzbékistan est surtout un grand désert plat, traversé par deux rivières qui donnent de l'eau à tout le monde. À l'est, il y a de belles montagnes enneigées toute l'année !",
+  "animals": "La saïga est une antilope préhistorique avec un très gros nez rigolo qui réchauffe l'air froid avant de respirer. Dans les montagnes vit le markhor, une chèvre sauvage aux cornes torsadées aussi longues que toi !",
+  "culture": "Le plat préféré de tout le monde s'appelle le plov : du riz avec de la viande et des carottes, cuit dans un immense chaudron. Pour la fête du printemps appelée Navruz, les familles sortent dans les parcs et mangent ensemble en chantant !",
+  "history": "Il y a très longtemps, un grand savant nommé Ulugbek a compté plus de 1 000 étoiles depuis son observatoire à Samarcande. La ville brillait de milliers de carreaux bleus et tout le monde venait de loin pour la voir !",
+  "wows": [
+    "Pour aller à la mer depuis l'Ouzbékistan, il faut traverser deux pays — c'est unique au monde !",
+    "La place du Régistan à Samarcande est couverte de mosaïques bleues si brillantes qu'on la voit de très loin !",
+    "Les stations de métro de Tachkent ressemblent à des palais avec des lustres et des fresques partout.",
+    "La mer d'Aral était un immense lac en 1960 — aujourd'hui c'est presque un désert de sable.",
+    "Des bateaux de pêche sont encore posés au milieu du désert, à 150 km de l'eau !",
+    "La vieille ville de Khiva a plus de 50 monuments anciens cachés derrière ses murs de boue.",
+    "En 2017, des cuisiniers de Tachkent ont préparé plus de 7 tonnes de plov dans un seul énorme chaudron !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Ouzbékistan est difficile à visiter",
+      "fact": "Les touristes de plus de 90 pays n'ont pas besoin de visa, et des millions de visiteurs se promènent chaque année dans les belles villes de la Route de la Soie."
+    },
+    {
+      "myth": "La mer d'Aral a disparu pour toujours",
+      "fact": "Un barrage construit en 2005 a déjà ramené de l'eau dans une partie de la mer. On a aussi planté des milliers d'arbres pour arrêter les tempêtes de sable."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Salom",
+      "say": "sah-LOM"
+    },
+    {
+      "en": "Merci",
+      "jp": "Rahmat",
+      "say": "RAH-mat"
+    },
+    {
+      "en": "S'il vous plaît",
+      "jp": "Iltimos",
+      "say": "il-TI-mos"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ha",
+      "say": "ha"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Mazali!",
+      "say": "ma-ZA-li"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/uz-hero.jpg",
+      "alt": "Vue aérienne de la ville de Tachkent, Ouzbékistan",
+      "caption": "TACHKENT — La plus grande capitale d'Asie centrale vue du ciel",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/uz-landmark.jpg",
+      "alt": "La place du Régistan avec trois madrasas à Samarcande, Ouzbékistan",
+      "caption": "PLACE DU RÉGISTAN — Les trois madrasas aux carreaux turquoise de Samarcande, joyau de la Route de la Soie",
+      "credit": "Stomac / Wikimedia Commons CC BY-SA 2.0 FR"
+    },
+    "animalA": {
+      "src": "/photos/uz-animalA.jpg",
+      "alt": "Antilope saïga dans la steppe d'Asie centrale",
+      "caption": "ANTILOPE SAÏGA — le survivant de l'Âge de glace avec son drôle de gros nez",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/uz-animalB.jpg",
+      "alt": "Markhor, chèvre sauvage aux cornes torsadées",
+      "caption": "MARKHOR DE BOUKHARA — la chèvre sauvage aux cornes en tire-bouchon des montagnes du Kugitang",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

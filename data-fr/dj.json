@@ -1,0 +1,163 @@
+{
+  "name": "DJIBOUTI",
+  "nativeName": "جيبوتي",
+  "romaji": "JABUUTI",
+  "tagline": "Le carrefour de l'Afrique",
+  "region": "Afrique de l'Est / Corne de l'Afrique",
+  "coords": "11.83°N, 42.59°E",
+  "fileNo": "DJ",
+  "langName": "somali",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#C9B89A",
+    "ink": "#24201A",
+    "faint": "#8A7A5E",
+    "line": "#DACFB2",
+    "accent": "#5AABE0",
+    "accent2": "#4BA04A"
+  },
+  "flag": {
+    "assetPath": "/flags/dj.svg",
+    "title": "Drapeau de Djibouti",
+    "note": "Bandes bleue et verte, triangle blanc, étoile rouge",
+    "keyColor": "#5AABE0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Djibouti a un lac si salé que tu flotterais dessus comme un bouchon ! C'est un tout petit pays où l'Afrique et l'Arabie sont presque collées l'une contre l'autre. Des requins baleiniers géants vivent dans sa mer !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Djibouti City",
+      "sub": "Construite sur des récifs coralliens dans le golfe"
+    },
+    {
+      "label": "Habitants",
+      "value": "1 066 809",
+      "sub": "Recensement du 20 mai 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc (DJF)",
+      "sub": "Attaché au dollar américain depuis 1949"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe / Français",
+      "sub": "Le somali et l'afar sont aussi très parlés"
+    },
+    {
+      "label": "Superficie",
+      "value": "23 200 km²",
+      "sub": "À peu près comme le pays de Galles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mousa Ali",
+      "sub": "Volcan partagé, 2 021 m"
+    }
+  ],
+  "islands": [
+    "Djibouti",
+    "Tadjoura",
+    "Obock",
+    "Ali Sabieh",
+    "Dikhil"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Là où les continents se frôlent",
+    "animals": "Requins, flamants et oiseaux rares",
+    "culture": "Épices, bonbons et traversées marines",
+    "history": "Une perle au bord du golfe",
+    "wows": "Djibouti m'étonne !"
+  },
+  "geo": [
+    "Djibouti se trouve à l'endroit où trois grandes plaques de la Terre s'écartent lentement, comme une banane qu'on pèle ! Le lac Assal est un lac de sel blanc éblouissant, creusé à 155 mètres sous le niveau de la mer — c'est le point le plus bas de toute l'Afrique.",
+    "La côte s'ouvre sur le golfe de Tadjoura, chaud et plein de coraux colorés. À l'intérieur des terres, il y a des champs de lave noire et des falaises pointues."
+  ],
+  "animals": [
+    "Le golfe de Tadjoura est l'un des meilleurs endroits du monde pour nager avec des requins baleiniers — les plus grands poissons de la planète, mais tout doux ! De novembre à février, des dizaines de ces géants arrivent pour manger du plancton.",
+    "Au lac Abbé, des flamants roses se promènent entre de grandes cheminées de pierre blanche qui ressemblent à une autre planète. C'est magique à regarder !"
+  ],
+  "culture": [
+    "Le plat préféré à Djibouti s'appelle skoudehkaris : c'est de l'agneau et du riz cuit avec de la cardamome et de la cannelle qui sentent très bon. Aux mariages, tout le monde mange du xalwo, un bonbon collant au sucre et au beurre !",
+    "Les gens se retrouvent l'après-midi sur des tapis pour discuter et chanter ensemble. Les Afar et les Somali ont chacun de belles musiques et des histoires racontées à voix haute."
+  ],
+  "history": [
+    "Depuis plus de mille ans, des marchands traversaient la mer et s'arrêtaient à Djibouti pour se reposer et vendre leurs trésors. Son port était comme une grande porte entre l'Afrique et l'Arabie.",
+    "Le 27 juin 1977, les gens de Djibouti ont voté pour vivre librement dans leur propre pays, et ils ont fêté ça très fort ! Aujourd'hui Djibouti est connu dans le monde entier comme un port très important."
+  ],
+  "wows": [
+    "Le lac Assal est dix fois plus salé que la mer — tu flotterais sans nager !",
+    "Chaque jour, des bateaux qui portent des jouets et des téléphones du monde entier passent devant Djibouti.",
+    "Des soldats de six pays différents habitent à Djibouti en même temps.",
+    "Dans dix millions d'années, un nouvel océan se formera ici — la Terre s'ouvre lentement !",
+    "L'Éthiopie, un pays de 130 millions de personnes, envoie presque toutes ses marchandises par le port de Djibouti.",
+    "Les bébés requins baleiniers du golfe de Tadjoura sont les plus petits connus dans le monde entier.",
+    "Djibouti a le premier train électrique d'Afrique qui traverse la frontière d'un autre pays !"
+  ],
+  "myths": [
+    {
+      "myth": "« C'est juste un désert sans rien »",
+      "fact": "Djibouti a des récifs coralliens, des requins géants, des lacs roses avec des flamants, des forêts anciennes et des cheminées volcaniques — tout ça dans un pays aussi petit que le pays de Galles !"
+    },
+    {
+      "myth": "« Le film La Planète des singes a été tourné au lac Abbé »",
+      "fact": "Les guides aiment raconter cette histoire, mais le film de 1968 a été filmé en Arizona et en Californie — pas à Djibouti du tout !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Nabad",
+      "say": "NAH-bad"
+    },
+    {
+      "en": "Merci",
+      "jp": "Mahadsanid",
+      "say": "ma-HAD-sa-nid"
+    },
+    {
+      "en": "Eau",
+      "jp": "Biyo",
+      "say": "BEE-yo"
+    },
+    {
+      "en": "Bien",
+      "jp": "Wanaagsan",
+      "say": "wa-NAAG-san"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Soo dhawoow",
+      "say": "so dha-WOW"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dj-hero.jpg",
+      "alt": "Vue aérienne du port de Djibouti avec des grues à conteneurs et des bateaux",
+      "caption": "PORT DE DJIBOUTI — l'une des portes les plus animées d'Afrique de l'Est",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dj-landmark.jpg",
+      "alt": "Croûte de sel blanc du lac Assal avec de l'eau turquoise et des montagnes",
+      "caption": "LAC ASSAL — le point le plus bas d'Afrique, à 155 m sous le niveau de la mer",
+      "credit": "Wikimedia Commons / Fishercd"
+    },
+    "animalA": {
+      "src": "/photos/dj-animalA.jpg",
+      "alt": "Tours de cheminées calcaires au lac Abbé avec des flamants en dessous",
+      "caption": "CHEMINÉES DU LAC ABBÉ — tours volcaniques qui surgissent d'un lac à flamants roses",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dj-animalB.jpg",
+      "alt": "Requin baleinier nageant dans une eau bleue claire avec un plongeur à côté",
+      "caption": "REQUIN BALEINIER — de jeunes géants se rassemblent dans le golfe de Tadjoura",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "CUBA",
+  "nativeName": "CU",
+  "romaji": "CUBA",
+  "tagline": "L'île de la musique et des couleurs",
+  "region": "Caribbean",
+  "coords": "22°N 80°W",
+  "fileNo": "047",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA3",
+    "ink": "#241E18",
+    "faint": "#8A7558",
+    "line": "#DDD0B0",
+    "accent": "#002A8F",
+    "accent2": "#CC1414"
+  },
+  "flag": {
+    "assetPath": "/flags/cu.svg",
+    "title": "Le drapeau cubain",
+    "note": "Rayures bleues et blanches, triangle rouge, étoile",
+    "keyColor": "#002A8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "À Cuba, de belles voitures toutes colorées roulent dans les rues en faisant du bruit, et de la musique s'échappe de chaque maison ! C'est la plus grande île des Caraïbes, entourée d'une mer bleu turquoise brillante. On y trouve des montagnes, des grottes magiques et des récifs de corail pleins de poissons !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "La Havane",
+      "sub": "Env. 2,1 millions d'hab."
+    },
+    {
+      "label": "Habitants",
+      "value": "11,2 millions",
+      "sub": "Est. 2023"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Peso cubain",
+      "sub": "CUP"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "Seule langue officielle"
+    },
+    {
+      "label": "Superficie",
+      "value": "109 884 km²",
+      "sub": "Plus grande que l'Islande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Pico Turquino",
+      "sub": "1 974 m — Sierra Maestra"
+    }
+  ],
+  "islands": [
+    "Havana",
+    "Santiago",
+    "Trinidad",
+    "Varadero",
+    "Cienfuegos"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une île entre la mer et les montagnes",
+    "animals": "Les drôles de bêtes des tropiques",
+    "culture": "Musique, danse et couleurs vives",
+    "history": "Une île aux mille histoires",
+    "wows": "Sept surprises incroyables de Cuba"
+  },
+  "geo": "Cuba est une île longue et mince — 1 200 km d'un bout à l'autre ! Au sud-est, de grandes montagnes vertes se cachent dans les nuages, et au nord, une mer turquoise toute calme attend les baigneurs.",
+  "animals": "Le colibri abeille vit seulement à Cuba : c'est le plus petit oiseau du monde, à peine plus gros qu'une abeille ! Les flamants roses marchent en groupe dans l'eau peu profonde le long des côtes.",
+  "culture": "À Cuba, la musique est partout — dans les rues, les maisons, même dans les marchés ! Le plat préféré des Cubains, c'est le riz aux haricots noirs avec de la banane plantain frite, c'est délicieux !",
+  "history": "Avant l'arrivée des explorateurs, le peuple Taïno vivait à Cuba depuis très longtemps et connaissait chaque forêt et chaque rivière de l'île. Ils ont appris à cultiver le maïs et la patate douce, et fabriquaient de jolis hamacs pour dormir sous les étoiles !",
+  "wows": [
+    "Le colibri abeille de Cuba est l'oiseau le plus léger du monde — moins lourd qu'une pièce de monnaie !",
+    "Les vieilles voitures américaines des années 1950 roulent encore tous les jours dans les rues de La Havane.",
+    "Cuba possède plus de 4 000 petites îles autour d'elle — comme un collier de perles dans la mer !",
+    "La grenouille Monte Iberia, minuscule et cachée dans les forêts de Cuba, est l'un des plus petits animaux à dos osseux du monde.",
+    "Cuba était autrefois le plus grand vendeur de sucre dans le monde entier.",
+    "Des milliers de crocodiles cubains vivent dans les marais de l'île et nulle part ailleurs sur Terre.",
+    "Cuba est traversée par des rivières souterraines qui coulent dans des grottes sombres et secrètes."
+  ],
+  "myths": [
+    {
+      "myth": "Tous les Cubains fument des cigares tous les jours",
+      "fact": "Les cigares sont très célèbres, mais la plupart des Cubains n'en fument pas — ils sont chers et fabriqués surtout pour les gens d'autres pays."
+    },
+    {
+      "myth": "Cuba ressemble encore aux années 1950",
+      "fact": "Il y a bien de belles vieilles voitures, mais Cuba a aussi des hôpitaux modernes, des universités et de plus en plus d'internet !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ami",
+      "jp": "Amigo",
+      "say": "ah-MEE-go"
+    },
+    {
+      "en": "Musique",
+      "jp": "Música",
+      "say": "MOO-see-kah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cu-hero.jpg",
+      "alt": "De belles vieilles voitures colorées dans une rue de La Havane avec des bâtiments coloniaux",
+      "caption": "LE MALECÓN DE LA HAVANE — les célèbres voitures des années 1950 longent le grand boulevard au bord de la mer",
+      "credit": "Wikimedia Commons / Matthias Bethke"
+    },
+    "landmark": {
+      "src": "/photos/cu-landmark.jpg",
+      "alt": "Le bâtiment El Capitolio à La Havane avec son grand dôme",
+      "caption": "EL CAPITOLIO — le grand capitole à dôme de La Havane, construit en 1929",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cu-animalA.jpg",
+      "alt": "Un colibri abeille posé sur une fine branche montrant sa toute petite taille",
+      "caption": "COLIBRI ABEILLE — le plus petit oiseau du monde, que l'on trouve uniquement à Cuba",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cu-animalB.jpg",
+      "alt": "Un crocodile cubain sur la berge d'une rivière avec ses jolies marques colorées",
+      "caption": "CROCODILE CUBAIN — un reptile aux motifs colorés que l'on ne trouve nulle part ailleurs sur Terre",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

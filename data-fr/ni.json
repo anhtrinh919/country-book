@@ -1,0 +1,151 @@
+{
+  "name": "NICARAGUA",
+  "nativeName": "NI",
+  "romaji": "NICARAGUA",
+  "tagline": "Le pays des lacs et des volcans",
+  "region": "Central America",
+  "coords": "12.87°N, 85.21°W",
+  "fileNo": "047",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBB9A",
+    "ink": "#252018",
+    "faint": "#8A7A52",
+    "line": "#DDD0B2",
+    "accent": "#1A5EA0",
+    "accent2": "#C8B400"
+  },
+  "flag": {
+    "assetPath": "/flags/ni.svg",
+    "title": "Drapeau du Nicaragua",
+    "note": "Bleu-blanc-bleu avec les armoiries",
+    "keyColor": "#1A5EA0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Nicaragua, il y a des volcans qui crachent de la fumée et de la lave rouge ! Le lac est si grand qu'il cache des requins d'eau douce à l'intérieur. C'est le plus grand pays d'Amérique centrale !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Managua",
+      "sub": "Env. 1,05 million d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "6,9 millions",
+      "sub": "Est. 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Córdoba",
+      "sub": "NIO — nommé après un explorateur"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "+ miskito sur la côte"
+    },
+    {
+      "label": "Superficie",
+      "value": "130 373 km²",
+      "sub": "Le plus grand d'Amérique centrale"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mogotón 2 085 m",
+      "sub": "À la frontière avec le Honduras"
+    }
+  ],
+  "islands": [
+    "Managua",
+    "León",
+    "Granada",
+    "Masaya",
+    "Bluefields"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Volcans, lacs et deux côtes !",
+    "animals": "Les bêtes de la jungle et du rivage",
+    "culture": "Poètes, hamacs et marimba",
+    "history": "Une légende très ancienne",
+    "wows": "7 choses qui vont t'épater !"
+  },
+  "geo": "Le Nicaragua a deux énormes lacs et une rangée de 19 volcans qui soufflent de la fumée ! Le pays touche à la fois l'océan Pacifique et la mer des Caraïbes.",
+  "animals": "Le lac Nicaragua cache des requins — les seuls requins au monde qui vivent dans l'eau douce ! Des centaines de tortues de mer viennent pondre leurs œufs sur la plage chaque année, toutes ensemble.",
+  "culture": "Au Nicaragua, les gens adorent la poésie et la musique, et les places des villages sont pleines de chansons le soir ! Le plat préféré s'appelle le gallo pinto — c'est du riz avec des haricots noirs, mangé au petit-déjeuner, au déjeuner et au dîner.",
+  "history": "Il y a très longtemps, deux grandes villes rivales, Granada et León, se disputaient pour savoir laquelle serait la capitale du pays ! Elles étaient si jalouses l'une de l'autre qu'on a finalement choisi une toute nouvelle ville, Managua, pour que personne ne soit fâché.",
+  "wows": [
+    "On peut faire du surf sur les cendres noires du volcan Cerro Negro — comme du ski, mais sur un volcan !",
+    "Le lac Nicaragua est le seul lac au monde avec des requins qui nagent à l'intérieur.",
+    "Il y a plus de volcans au Nicaragua que dans presque n'importe quel autre pays du monde.",
+    "La ville de Granada a été construite en 1524 — c'est l'une des plus vieilles villes d'Amérique !",
+    "Le volcan Mombacho est entouré d'une forêt nuageuse fraîche, même en pleine chaleur tropicale.",
+    "Les 365 petites îles du lac Nicaragua ont été créées d'un seul coup par une éruption volcanique.",
+    "Au Nicaragua, on fabrique des hamacs à Masaya et on les envoie partout dans le monde entier !"
+  ],
+  "myths": [
+    {
+      "myth": "Les requins du lac sont coincés là",
+      "fact": "Les requins du lac Nicaragua nagent librement entre le lac et la mer des Caraïbes via la rivière San Juan — ils sautent même les rapides comme des saumons !"
+    },
+    {
+      "myth": "Le Nicaragua est tout petit",
+      "fact": "C'est en fait le plus grand pays d'Amérique centrale — plus grand que tous ses voisins !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Volcan",
+      "jp": "Volcán",
+      "say": "vol-KAHN"
+    },
+    {
+      "en": "Lac",
+      "jp": "Lago",
+      "say": "LAH-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ni-hero.jpg",
+      "alt": "Promenade du bord du lac de Managua au crépuscule",
+      "caption": "MALECÓN DE MANAGUA — la promenade au bord du lac au coucher du soleil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ni-landmark.jpg",
+      "alt": "Cathédrale coloniale jaune de Granada au Nicaragua",
+      "caption": "CATHÉDRALE DE GRANADA — monument colonial dans l'une des plus vieilles villes des Amériques",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ni-animalA.jpg",
+      "alt": "Motmot à sourcils turquoise perché sur une branche",
+      "caption": "MOTMOT — l'oiseau national du Nicaragua avec sa queue qui se balance comme un pendule",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ni-animalB.jpg",
+      "alt": "Singe hurleur à manteau dans un arbre",
+      "caption": "SINGE HURLEUR — son cri s'entend à 5 km dans la forêt tropicale",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

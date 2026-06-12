@@ -1,0 +1,151 @@
+{
+  "name": "GÉORGIE",
+  "nativeName": "საქართ",
+  "romaji": "SAKARTVELO",
+  "tagline": "Le berceau du vin et des chansons",
+  "region": "South Caucasus",
+  "coords": "41.69°N 44.80°E",
+  "fileNo": "083",
+  "langName": "géorgien",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C8B89A",
+    "ink": "#27201B",
+    "faint": "#8B7A5A",
+    "line": "#DCCEBB",
+    "accent": "#C8102E",
+    "accent2": "#1A3A5C"
+  },
+  "flag": {
+    "assetPath": "/flags/ge.svg",
+    "title": "Drapeau de la Géorgie",
+    "note": "Blanc avec une grande croix rouge et quatre petites croix rouges",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Géorgie, les gens fabriquent du vin depuis 8 000 ans — ce sont les premiers vignerons du monde entier ! Une chanson géorgienne a même voyagé dans l'espace à bord d'une fusée. Quel pays extraordinaire !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Tbilissi",
+      "sub": "Fondée v. 458 apr. J.-C. près de sources chaudes"
+    },
+    {
+      "label": "Habitants",
+      "value": "3,9 millions",
+      "sub": "Recensement Geostat, nov. 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Lari (GEL)",
+      "sub": "100 tetri = 1 lari"
+    },
+    {
+      "label": "Langue",
+      "value": "Géorgien",
+      "sub": "Alphabet unique de 33 lettres"
+    },
+    {
+      "label": "Superficie",
+      "value": "69 700 km²",
+      "sub": "À peu près la taille de l'Irlande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Chkhara",
+      "sub": "5 201 m — Grand Caucase"
+    }
+  ],
+  "islands": [
+    "Tbilisi",
+    "Kutaisi",
+    "Batumi",
+    "Mtskheta",
+    "Telavi"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, mer et sources chaudes",
+    "animals": "Des bêtes sauvages au sommet des pics",
+    "culture": "Vin, chansons et lettres mystérieuses",
+    "history": "Un roi, un faucon et une ville magique",
+    "wows": "La Géorgie qui surprend !"
+  },
+  "geo": "La Géorgie est nichée entre de très hautes montagnes enneigées appelées le Grand Caucase et la mer Noire. Le mont Chkhara monte jusqu'à 5 201 m — plus haut que toutes les montagnes d'Europe !",
+  "animals": "Dans les montagnes géorgiennes vit le tur du Caucase, une chèvre sauvage avec de grandes cornes recourbées qui saute sur les rochers. Chaque automne, plus d'un million d'oiseaux de proie survolent la côte de Batoumi — un spectacle incroyable !",
+  "culture": "Les Géorgiens fabriquent leur vin dans de grandes jarres en argile enterrées sous terre appelées qvevri. Ils chantent aussi en trois voix différentes en même temps — une façon de faire de la musique vraiment unique au monde !",
+  "history": "Il y a très longtemps, un roi géorgien chassait à la fauconnerie quand son faucon tomba dans une source d'eau chaude et bouillonnante — et à cet endroit, il construisit la ville de Tbilissi ! La Géorgie était aussi le pays de la Toison d'or, que cherchait le héros grec Jason.",
+  "wows": [
+    "La Géorgie a inventé le vin il y a 8 000 ans — bien avant les pyramides d'Égypte !",
+    "Une chanson géorgienne appelée Chakrulo a été envoyée dans l'espace en 1977 à bord de la sonde Voyager.",
+    "L'alphabet géorgien a 33 lettres et ne ressemble à aucun autre alphabet du monde.",
+    "La capitale Tbilissi a été construite là où un faucon royal est tombé dans une source chaude.",
+    "Plus d'un million d'oiseaux de proie passent au-dessus de Batoumi à l'automne — un vrai nuage d'oiseaux !",
+    "La Géorgie possède plus de 500 sortes de raisins différents — presque plus qu'aucun autre pays !",
+    "Les trois anciens alphabets géorgiens sont classés au patrimoine mondial de l'UNESCO."
+  ],
+  "myths": [
+    {
+      "myth": "La Géorgie fait partie de la Russie",
+      "fact": "Non ! La Géorgie est un pays tout à fait indépendant, avec sa propre langue, ses propres lettres et sa propre culture. Les Géorgiens sont très fiers d'être géorgiens !"
+    },
+    {
+      "myth": "Les Géorgiens boivent surtout de la vodka",
+      "fact": "Pas du tout ! La Géorgie est le pays du vin depuis 8 000 ans. Ils boivent du vin fait dans des jarres enterrées sous terre — pas de la vodka !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "გამარჯობა",
+      "say": "gah-mar-JO-bah"
+    },
+    {
+      "en": "Merci",
+      "jp": "გმადლობთ",
+      "say": "gmad-LOBT"
+    },
+    {
+      "en": "Oui",
+      "jp": "კი",
+      "say": "kee"
+    },
+    {
+      "en": "Non",
+      "jp": "არა",
+      "say": "AH-rah"
+    },
+    {
+      "en": "Santé !",
+      "jp": "გაუმარჯოს",
+      "say": "gau-MAR-jos"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ge-hero.jpg",
+      "alt": "Vue panoramique du vieux Tbilissi avec la forteresse de Narikala sur la colline",
+      "caption": "VIEUX TBILISSI — l'antique forteresse de Narikala domine la rivière Mtkvari",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ge-landmark.jpg",
+      "alt": "Monastère de Jvari sur un sommet rocheux au-dessus du confluent de deux rivières",
+      "caption": "MONASTÈRE DE JVARI — église du VIe siècle au-dessus de Mtskheta, l'ancienne capitale",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ge-animalA.jpg",
+      "alt": "Tur du Caucase oriental, chèvre de montagne aux cornes courbées sur une falaise rocheuse",
+      "caption": "TUR DU CAUCASE — chèvre sauvage que l'on trouve uniquement dans le Grand Caucase",
+      "credit": "Wikimedia Commons / iNaturalist"
+    },
+    "animalB": {
+      "src": "/photos/ge-animalB.jpg",
+      "alt": "Spécimen de léopard du Caucase au Musée national de Géorgie",
+      "caption": "LÉOPARD DU CAUCASE — la plus grande sous-espèce de léopard au monde, native de Géorgie",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

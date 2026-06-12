@@ -1,0 +1,151 @@
+{
+  "name": "BOLIVIE",
+  "nativeName": "BO",
+  "romaji": "BOLIVIA",
+  "tagline": "Le toit du monde",
+  "region": "South America",
+  "coords": "-16.5°S, 68.1°W",
+  "fileNo": "038",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA96",
+    "ink": "#2B2118",
+    "faint": "#8B7355",
+    "line": "#DDD0B0",
+    "accent": "#D52B1E",
+    "accent2": "#F4E400"
+  },
+  "flag": {
+    "assetPath": "/flags/bo.svg",
+    "title": "Drapeau de la Bolivie",
+    "note": "Rouge, jaune et vert — blason national",
+    "keyColor": "#D52B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Bolivie est si haute dans les montagnes que rien qu'en marchant dans la rue, tu es à bout de souffle ! Elle abrite le plus grand désert de sel du monde, qui se transforme en miroir géant après la pluie. C'est l'un des endroits les plus magiques de la planète !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Sucre",
+      "sub": "capitale constitutionnelle ; La Paz est le siège du gouvernement"
+    },
+    {
+      "label": "Habitants",
+      "value": "12,3 millions",
+      "sub": "est. 2024 — plus de 40 % autochtones"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Boliviano",
+      "sub": "BOB — environ 7 par dollar américain"
+    },
+    {
+      "label": "Langue",
+      "value": "37 langues officielles",
+      "sub": "espagnol, quechua et aymara"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 098 581 km²",
+      "sub": "plus grand que l'Égypte, sans accès à la mer"
+    },
+    {
+      "label": "Point culminant",
+      "value": "6 542 m",
+      "sub": "Nevado Sajama — volcan endormi"
+    }
+  ],
+  "islands": [
+    "La Paz",
+    "Santa Cruz",
+    "Cochabamba",
+    "Sucre",
+    "Potosí"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des plaines dans les nuages !",
+    "animals": "Flamants roses et lamas duveteux",
+    "culture": "Fêtes, chapeaux et trésors d'argent",
+    "history": "Un peuple ancien bâtisseur de temples",
+    "wows": "7 choses folles sur la Bolivie"
+  },
+  "geo": "La Bolivie est tellement haute qu'elle touche presque les nuages ! L'Altiplano est un immense plateau glacé à plus de 3 600 m — plus haut que toutes les montagnes d'Europe. Le lac Titicaca brille là-haut comme un joyau bleu à 3 810 m d'altitude.",
+  "animals": "Sur les lacs salés des hauteurs, des milliers de flamants roses se baladent en grandes familles colorées. Les lamas et leurs cousins les vigognes se promènent en troupeaux, et le condor des Andes plane dans le ciel avec ses ailes géantes de 3 mètres de large !",
+  "culture": "Les femmes aymara portent des jupes colorées en couches et de petits chapeaux ronds appelés bombin — elles ont transformé ce chapeau de cheminot anglais en leur propre tenue magnifique ! Pendant le carnaval d'Oruro, 50 000 danseurs défilent dans la rue avec d'immenses masques de diable.",
+  "history": "Il y a très longtemps, le peuple Tiwanaku a construit de grands temples en pierre près du lac Titicaca — il y a plus de 1 600 ans ! Leurs pierres énormes étaient si bien taillées qu'elles tenaient sans ciment.",
+  "wows": [
+    "La Bolivie a 37 langues officielles — plus que n'importe quel autre pays du monde !",
+    "Le Salar d'Uyuni fait 10 582 km² et devient un miroir parfait après la pluie.",
+    "Le réseau de téléphériques de La Paz est le plus long du monde en ville.",
+    "La ville de Potosí était autrefois plus grande que Londres, grâce à l'argent d'une seule montagne.",
+    "La Bolivie n'a pas la mer, mais elle possède quand même une marine avec 173 bateaux sur le lac Titicaca !",
+    "Un hôtel sur le Salar d'Uyuni est entièrement construit en briques de sel, même les meubles !",
+    "Les forêts tropicales de Bolivie abritent plus d'espèces d'oiseaux que tout le continent nord-américain."
+  ],
+  "myths": [
+    {
+      "myth": "La Paz est la seule capitale de la Bolivie",
+      "fact": "La Bolivie a deux capitales : Sucre est la capitale constitutionnelle où siège la Cour suprême, et La Paz est la capitale du gouvernement."
+    },
+    {
+      "myth": "La Bolivie est toute plate comme un désert",
+      "fact": "La Bolivie est en fait l'un des pays les plus hauts du monde, avec de grands volcans enneigés, des lacs géants dans les nuages et des forêts tropicales tout en bas !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-la"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Hermoso",
+      "say": "er-MOH-so"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bo-hero.jpg",
+      "alt": "Reflet miroir sur le Salar d'Uyuni au coucher du soleil",
+      "caption": "SALAR D'UYUNI — le plus grand miroir du monde après la pluie, Bolivie",
+      "credit": "Luca Galuzzi / Wikimedia Commons CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/bo-landmark.jpg",
+      "alt": "Le lac Titicaca d'un bleu profond sous un ciel andin lumineux",
+      "caption": "LAC TITICACA — le plus haut lac navigable du monde à 3 810 m",
+      "credit": "Håkan Svensson / Wikimedia CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/bo-animalA.jpg",
+      "alt": "Flamants roses pataugeant dans la Laguna Colorada aux teintes rouges",
+      "caption": "FLAMANTS ROSES — des milliers se baladent sur les lacs salés d'altitude en Bolivie",
+      "credit": "Luca Galuzzi / Wikimedia CC BY-SA 2.5"
+    },
+    "animalB": {
+      "src": "/photos/bo-animalB.jpg",
+      "alt": "Une vigogne debout sur l'Altiplano avec des montagnes en arrière-plan",
+      "caption": "VIGOGNE — cousine sauvage du lama sur le haut plateau de Bolivie",
+      "credit": "Christian Mehlführer / Wikimedia CC BY 2.5"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "ANDORRE",
+  "nativeName": "AD",
+  "romaji": "ANDORRA",
+  "tagline": "Petit prince, grandes montagnes",
+  "region": "Southern Europe",
+  "coords": "42°30′N 1°31′E",
+  "fileNo": "036",
+  "langName": "catalan",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BEA8",
+    "ink": "#252018",
+    "faint": "#857560",
+    "line": "#DDD4C0",
+    "accent": "#003DA5",
+    "accent2": "#FEDF00"
+  },
+  "flag": {
+    "assetPath": "/flags/ad.svg",
+    "title": "Drapeau d'Andorre",
+    "note": "Bleu, jaune et rouge avec les armoiries royales",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Andorre est un tout petit pays dans les montagnes, coincé entre la France et l'Espagne — on peut le traverser en voiture en 30 minutes ! Il est dirigé par deux princes en même temps : un président français et un évêque espagnol. C'est l'un des pays les plus visités du monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "And. la Vella",
+      "sub": "La capitale la plus haute d'Europe, à 1 023 m"
+    },
+    {
+      "label": "Habitants",
+      "value": "~89 000",
+      "sub": "Estimation 2025 — une toute petite nation"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Pas dans l'UE, mais utilise l'euro"
+    },
+    {
+      "label": "Langue",
+      "value": "Catalan",
+      "sub": "Seul pays avec le catalan comme langue officielle"
+    },
+    {
+      "label": "Superficie",
+      "value": "468 km²",
+      "sub": "Plus petit que la ville de Los Angeles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Coma Pedrosa",
+      "sub": "2 942 m — sommet pyrénéen accessible à pied"
+    }
+  ],
+  "islands": [
+    "Andorra lV",
+    "Escaldes",
+    "Encamp",
+    "La Massana",
+    "Canillo"
+  ],
+  "islandsLabel": "PAROISSES PRINCIPALES :",
+  "sections": {
+    "geography": "Des vallées accrochées dans le ciel",
+    "animals": "Les animaux sauvages des sommets",
+    "culture": "Fêtes, bains chauds et vieilles églises",
+    "history": "Deux princes pour un tout petit pays",
+    "wows": "Sept choses qui font « Waouh ! »"
+  },
+  "geo": "Andorre est entièrement perchée dans les Pyrénées, à près de 2 000 m de hauteur en moyenne — aussi haut que la montagne de la Table en Afrique du Sud ! Toutes les villes se trouvent dans des vallées creusées par des rivières, et des forêts de pins couvrent les pentes tout autour.",
+  "animals": "Le vautour fauve à barbe — appelé gypaète barbu — est l'oiseau national d'Andorre. Il a une envergure plus grande qu'un canapé et fait quelque chose qu'aucun autre oiseau ne fait : il mange des os, en les lâchant de très haut pour les casser sur les rochers ! L'isard, une sorte de chèvre-antilope, bondit sur les crêtes enneigées avec son masque sombre comme un bandit de dessin animé.",
+  "culture": "En Andorre, les gens parlent le catalan, la même langue qu'à Barcelone. Chaque septembre, les villages fêtent avec des danses folkloriques et de grandes marionnettes en papier mâché qu'on appelle des gegants — des géants en fête qui défilent dans les rues !",
+  "history": "Il y a très, très longtemps — en 1278 — deux chefs se disputaient Andorre. Ils ont décidé de ne pas se battre et de partager le pays en deux, moitié chacun ! Cet accord magique s'appelle un paréage, et depuis ce jour, Andorre a toujours eu deux princes.",
+  "wows": [
+    "Andorre a DEUX chefs d'État : le président français ET un évêque espagnol sont tous les deux princes en même temps !",
+    "C'est le seul pays au monde où le catalan est la seule langue officielle.",
+    "Andorra la Vella est la capitale la plus haute de toute l'Europe, à 1 023 m d'altitude.",
+    "Andorre n'a pas d'armée et vit en paix depuis plus de 700 ans !",
+    "Le domaine skiable de Grandvalira est le plus grand de toute la chaîne des Pyrénées.",
+    "Les courses font très peu de taxes — c'est 20 à 40 % moins cher qu'en France ou en Espagne voisines !",
+    "Chaque année, plus de 8 millions de touristes visitent Andorre — c'est presque 100 visiteurs pour chaque habitant !"
+  ],
+  "myths": [
+    {
+      "myth": "Andorre fait partie de l'Espagne ou de la France",
+      "fact": "Non ! C'est un pays tout à fait indépendant, avec son propre gouvernement et son propre passeport, depuis l'an 1278."
+    },
+    {
+      "myth": "Il faut parler français pour aller en Andorre",
+      "fact": "La vraie langue officielle est le catalan ! On y parle aussi espagnol et anglais — le français est seulement la troisième langue."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gràcies",
+      "say": "GRAH-see-es"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Si us plau",
+      "say": "see oos PLOW"
+    },
+    {
+      "en": "Montagne",
+      "jp": "Muntanya",
+      "say": "moon-TAN-ya"
+    },
+    {
+      "en": "Neige",
+      "jp": "Neu",
+      "say": "NAY-oo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ad-hero.jpg",
+      "alt": "Vue panoramique sur la ville d'Andorra la Vella en été",
+      "caption": "ANDORRA LA VELLA — La capitale la plus haute d'Europe dans sa vallée pyrénéenne",
+      "credit": "DadaRacer / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ad-landmark.jpg",
+      "alt": "Tour de verre du spa Caldea à Escaldes-Engordany, Andorre",
+      "caption": "SPA CALDEA — La tour de verre en forme de fusée, le plus grand spa thermal des Pyrénées",
+      "credit": "FrankAndProust / CC0 1.0"
+    },
+    "animalA": {
+      "src": "/photos/ad-animalA.jpg",
+      "alt": "Gypaète barbu en vol au-dessus des montagnes",
+      "caption": "GYPAÈTE BARBU — L'oiseau national qui casse des os sur les rochers pour manger la moelle",
+      "credit": "Imran Shah / CC BY-SA 2.0"
+    },
+    "animalB": {
+      "src": "/photos/ad-animalB.jpg",
+      "alt": "Isard des Pyrénées sur les pentes montagneuses",
+      "caption": "ISARD — Le chamois pyrénéen d'Andorre, masqué comme un bandit des montagnes",
+      "credit": "Kitty Terwolbeck / CC BY 2.0"
+    }
+  }
+}

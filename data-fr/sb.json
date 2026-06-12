@@ -1,0 +1,163 @@
+{
+  "name": "ÎLES SALOMON",
+  "nativeName": "SB",
+  "romaji": "SOLOMON ISLANDS",
+  "tagline": "Mille îles, un seul océan",
+  "region": "Melanesia, Pacific Ocean",
+  "coords": "9.65°S, 160.16°E",
+  "fileNo": "168",
+  "langName": "Pijin",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c8bfa8",
+    "ink": "#252018",
+    "faint": "#857a60",
+    "line": "#dbd0bb",
+    "accent": "#0A2D9C",
+    "accent2": "#2E7D32"
+  },
+  "flag": {
+    "assetPath": "/flags/sb.svg",
+    "title": "Îles Salomon",
+    "note": "Bleu et vert séparés par une bande dorée ; 5 étoiles",
+    "keyColor": "#0A2D9C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Les Îles Salomon, c'est plus de 900 îles couvertes de jungles et entourées d'une mer turquoise ! Sur ce chapelet d'îles, les gens parlent plus de 70 langues différentes. Le drapeau dit tout : du bleu pour l'océan, du vert pour la forêt, et une bande dorée avec cinq étoiles blanches !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Honiara",
+      "sub": "sur l'île de Guadalcanal"
+    },
+    {
+      "label": "Habitants",
+      "value": "~820 000",
+      "sub": "est. 2024 ; base recensement 2019"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar SBD",
+      "sub": "dollar des Îles Salomon"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais / Pijin",
+      "sub": "plus de 70 langues locales aussi"
+    },
+    {
+      "label": "Superficie",
+      "value": "28 896 km²",
+      "sub": "à peu près comme Haïti"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Popomanaseu",
+      "sub": "2 335 m, Guadalcanal"
+    }
+  ],
+  "islands": [
+    "Guadalcanal",
+    "Malaita",
+    "New Georgia",
+    "Makira",
+    "Santa Isabel"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Îles, récifs et forêts magiques",
+    "animals": "Plumes vives et bêtes cachées",
+    "culture": "Musique, partage et traditions",
+    "history": "L'île aux trésors légendaires",
+    "wows": "Trop incroyable pour être vrai !"
+  },
+  "geo": [
+    "Les Îles Salomon s'étendent sur 1 500 km dans le Pacifique, avec plus de 900 îles couvertes de forêts et de volcans. La plus grande, Guadalcanal, abrite la capitale et le mont Popomanaseu qui monte jusqu'à 2 335 m dans les nuages !",
+    "Le lagon de Marovo est le plus grand lagon d'eau salée à double barrière du monde — il scintille en turquoise et vert jade. L'eau est tellement claire qu'on peut voir le fond de sable à 30 mètres de profondeur !"
+  ],
+  "animals": [
+    "Le perroquet éclectus est époustouflant : les mâles sont vert vif et les femelles rouge et bleu, si différents que les scientifiques croyaient que c'était deux animaux différents ! Les Îles Salomon abritent 69 espèces d'oiseaux que l'on ne trouve nulle part ailleurs sur Terre.",
+    "Les grandes chauves-souris fruitières volent dans la forêt au coucher du soleil, et le cuscus tacheté — un marsupial tout doux avec de grands yeux ronds — dort dans les arbres pendant la journée. Les tortues de mer pondent leurs œufs sur les plages les plus reculées !"
+  ],
+  "culture": [
+    "La vie est guidée par le kastom — les règles et cérémonies traditionnelles transmises de famille en famille depuis toujours. La monnaie en coquillages, les boucliers sculptés et la musique de flûtes de pan ne sont pas dans les musées ; on les utilise encore aujourd'hui dans les fêtes !",
+    "Le wantok unit les communautés : wantok signifie « une seule parole », et toute personne qui parle ta langue est considérée comme ta famille. On partage la nourriture et l'entraide. Chaque village a une église et une maison de réunion traditionnelle, côte à côte !"
+  ],
+  "history": [
+    "Des personnes vivent ici depuis au moins 30 000 ans — bien avant les pyramides d'Égypte ! L'explorateur espagnol Mendaña est arrivé en 1568 et a nommé ces îles d'après le roi Salomon, convaincu d'y trouver un trésor d'or légendaire.",
+    "Il cherchait de l'or partout sur les îles, mais n'a jamais rien trouvé — la légende est née et a duré des siècles. Encore aujourd'hui, le nom « Salomon » évoque le mystère d'un trésor caché sous les palmes !"
+  ],
+  "wows": [
+    "La plus grande colonie de corail du monde a été découverte ici en 2024 — plus large que deux terrains de basket côte à côte !",
+    "Il y a 69 espèces d'oiseaux qui vivent seulement ici, nulle part ailleurs sur toute la planète.",
+    "Le lagon de Marovo est le plus grand lagon d'eau salée enfermé entre deux barrières de corail du monde entier.",
+    "Plus de 70 langues différentes sont parlées — presque une langue nouvelle dans chaque vallée !",
+    "Les perroquets mâles et femelles sont si différents que les scientifiques les ont longtemps crus de deux espèces séparées.",
+    "Des épaves de la Seconde Guerre mondiale près de Guadalcanal sont devenues de vrais jardins de corail sous l'eau.",
+    "Le parlement de Honiara a été offert en cadeau par les États-Unis en souvenir des soldats disparus à Guadalcanal."
+  ],
+  "myths": [
+    {
+      "myth": "Les îles cachent le vrai trésor d'or du roi Salomon",
+      "fact": "L'Espagnol Mendaña les a nommées ainsi en 1568 en espérant trouver des richesses bibliques — aucun trésor d'or n'a jamais été découvert. La légende a survécu à l'explorateur !"
+    },
+    {
+      "myth": "Seuls les soldats étrangers ont sauvé l'île pendant la grande guerre",
+      "fact": "Les habitants des Îles Salomon ont servi comme guetteurs et éclaireurs. Un amiral américain les a directement crédités d'avoir sauvé Guadalcanal et toute la campagne du Pacifique."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Halo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tanggio",
+      "say": "TANG-ee-oh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ia",
+      "say": "EE-ah"
+    },
+    {
+      "en": "Non",
+      "jp": "Nomoa",
+      "say": "NOH-moh-ah"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Yu oraet?",
+      "say": "yoo oh-RYE-et"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sb-hero.jpg",
+      "alt": "Vue aérienne du littoral tropical des Îles Salomon avec jungle et mer turquoise",
+      "caption": "ÎLES SALOMON — la jungle luxuriante rencontre le Pacifique sur la côte de Guadalcanal",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sb-landmark.jpg",
+      "alt": "Bord de mer d'Honiara avec des palmiers et l'océan Pacifique",
+      "caption": "HONIARA — la capitale donne sur les eaux calmes de l'Iron Bottom Sound",
+      "credit": "Wikimedia Commons / US Embassy"
+    },
+    "animalA": {
+      "src": "/photos/sb-animalA.jpg",
+      "alt": "Perroquet éclectus mâle vert vif perché sur une branche",
+      "caption": "PERROQUET ÉCLECTUS — le mâle vert et la femelle rouge et bleue étaient classés comme 2 espèces",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sb-animalB.jpg",
+      "alt": "Cuscus tacheté marsupial avec de grands yeux oranges et une fourrure tachetée",
+      "caption": "CUSCUS TACHETÉ — un marsupial lent aux grands yeux qui se cache dans la canopée forestière",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

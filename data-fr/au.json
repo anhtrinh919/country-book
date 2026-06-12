@@ -1,0 +1,151 @@
+{
+  "name": "AUSTRALIE",
+  "nativeName": "AU",
+  "romaji": "AUSTRALIA",
+  "tagline": "Grande terre, cœur sauvage",
+  "region": "Australasia & Oceania",
+  "coords": "-25.3, 133.8",
+  "fileNo": "012",
+  "langName": "anglais australien",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#252018",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B5",
+    "accent": "#00387A",
+    "accent2": "#CC2229"
+  },
+  "flag": {
+    "assetPath": "/flags/au.svg",
+    "title": "Drapeau australien",
+    "note": "Union Jack, Croix du Sud, Étoile de la Fédération",
+    "keyColor": "#00387A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Australie est le seul pays qui occupe tout un continent à lui seul — un endroit si grand qu'il y a plus de kangourous que de gens ! Les peuples autochtones y vivent depuis 65 000 ans, ce sont les plus anciennes cultures vivantes du monde entier !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Canberra",
+      "sub": "Construite entre Sydney et Melbourne"
+    },
+    {
+      "label": "Habitants",
+      "value": "26,8 millions",
+      "sub": "Estimation ABS, 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "AUD $",
+      "sub": "Dollar australien"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Plus 250 langues aborigènes"
+    },
+    {
+      "label": "Superficie",
+      "value": "7,69 M km²",
+      "sub": "6e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Kosciuszko",
+      "sub": "2 228 m, Montagnes Enneigées"
+    }
+  ],
+  "islands": [
+    "NSW",
+    "Queensland",
+    "W. Australia",
+    "Victoria",
+    "S. Australia"
+  ],
+  "islandsLabel": "GRANDS ÉTATS :",
+  "sections": {
+    "geography": "Roches rouges et récifs brillants",
+    "animals": "Des animaux qu'on ne voit nulle part ailleurs",
+    "culture": "Barbecue, plages et brousse",
+    "history": "Des histoires vieilles de 65 000 ans",
+    "wows": "C'est vrai, vraiment ?!"
+  },
+  "geo": "L'Australie est un continent tout seul, entouré d'eau de tous les côtés ! Au milieu se trouve l'Outback rouge avec Uluru, un rocher géant de 348 mètres qui brille comme une orange au coucher du soleil.",
+  "animals": "L'Australie a des animaux qu'on ne trouve nulle part ailleurs sur Terre, comme le kangourou qui porte son bébé dans une poche sur le ventre ! Le koala, lui, dort 22 heures par jour en mangeant des feuilles d'eucalyptus.",
+  "culture": "Les Australiens adorent manger des saucisses grillées sur le barbecue le dimanche, c'est presque une fête nationale ! Les peuples aborigènes font de la belle peinture avec des points et jouent du didgeridoo, un instrument de musique magique.",
+  "history": "Les peuples aborigènes sont arrivés en Australie il y a au moins 65 000 ans, bien avant les dinosaures en Europe ! Ils ont inventé des façons de s'occuper de la forêt avec le feu, et ils se racontaient des histoires incroyables appelées le Temps du Rêve.",
+  "wows": [
+    "L'Australie est le seul pays qui est aussi un continent entier — sans aucun voisin !",
+    "La Grande Barrière de Corail est si grande qu'on peut la voir depuis l'espace !",
+    "Il y a plus de kangourous en Australie que d'habitants !",
+    "L'Australie a plus d'espèces de serpents venimeux que tout autre pays du monde.",
+    "Les wombats font des crottes en forme de cube — les seuls animaux au monde !",
+    "En 1932, des soldats ont essayé de chasser des émeus avec des mitrailleuses... et les émeus ont gagné !",
+    "Le platypus est un mammifère avec un bec de canard qui pond des œufs et ressent l'électricité !"
+  ],
+  "myths": [
+    {
+      "myth": "Il fait toujours chaud et ensoleillé en Australie",
+      "fact": "Les Montagnes Enneigées reçoivent beaucoup de neige en hiver, et il peut faire -10 °C à Canberra. L'Australie est si grande qu'elle a presque tous les types de climat !"
+    },
+    {
+      "myth": "Les toilettes tournent dans le sens inverse en Australie",
+      "fact": "Non ! L'eau tourne selon la forme de la cuvette, pas selon l'hémisphère. C'est une belle histoire, mais c'est faux !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "G'day",
+      "say": "guh-DAY"
+    },
+    {
+      "en": "Après-midi",
+      "jp": "Arvo",
+      "say": "AH-voh"
+    },
+    {
+      "en": "Biscuit",
+      "jp": "Biccy",
+      "say": "BIK-ee"
+    },
+    {
+      "en": "Lunettes de soleil",
+      "jp": "Sunnies",
+      "say": "SUN-eez"
+    },
+    {
+      "en": "Barbecue",
+      "jp": "Barbie",
+      "say": "BAH-bee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/au-hero.jpg",
+      "alt": "Opéra de Sydney au crépuscule avec le pont du port derrière",
+      "caption": "OPÉRA DE SYDNEY — le toit en forme de coquillage a pris 14 ans à construire",
+      "credit": "Adam.J.W.C. / Wikimedia Commons CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/au-landmark.jpg",
+      "alt": "Le monolithe de grès Uluru brillant de rouge dans l'Outback australien",
+      "caption": "ULURU — monolithe de grès sacré qui brille d'un rouge vif au lever du soleil",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/au-animalA.jpg",
+      "alt": "Kangourou roux avec un bébé visible dans sa poche",
+      "caption": "KANGOUROU — un bébé passe la tête hors de la poche de sa maman dans la plaine",
+      "credit": "Geoff Shaw / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/au-animalB.jpg",
+      "alt": "Koala agrippé à une branche d'eucalyptus",
+      "caption": "KOALA — dort jusqu'à 22 heures par jour sur des feuilles d'eucalyptus",
+      "credit": "David Iliff / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

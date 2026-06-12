@@ -1,0 +1,151 @@
+{
+  "name": "ROUMANIE",
+  "nativeName": "RO",
+  "romaji": "ROMÂNIA",
+  "tagline": "Le pays des châteaux et des forêts",
+  "region": "Europe de l'Est",
+  "coords": "45.9°N, 24.9°E",
+  "fileNo": "042",
+  "langName": "roumain",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA3",
+    "ink": "#271E18",
+    "faint": "#8A7A5E",
+    "line": "#DCCFB0",
+    "accent": "#002B7F",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/ro.svg",
+    "title": "Tricolorul",
+    "note": "Trois bandes verticales : bleu, jaune et rouge",
+    "keyColor": "#002B7F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Roumanie, il y a un château où vivait le vrai Dracula ! Ce pays a aussi plus de 10 000 ours bruns qui se promènent dans ses grandes forêts. C'est l'un des endroits les plus magiques d'Europe !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bucarest",
+      "sub": "Env. 1,7 million d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "~19 millions",
+      "sub": "Est. 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Leu (RON)",
+      "sub": "1 leu = 100 bani"
+    },
+    {
+      "label": "Langue",
+      "value": "Roumain",
+      "sub": "Une langue latine"
+    },
+    {
+      "label": "Superficie",
+      "value": "238 397 km²",
+      "sub": "Un peu plus petit que le Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Moldoveanu",
+      "sub": "2 544 m de hauteur"
+    }
+  ],
+  "islands": [
+    "Transylvania",
+    "Wallachia",
+    "Moldavia",
+    "Dobrogea",
+    "Bucharest"
+  ],
+  "islandsLabel": "GRANDES RÉGIONS :",
+  "sections": {
+    "geography": "Montagnes, rivières et delta",
+    "animals": "Ours, loups et pélicans",
+    "culture": "Châteaux, artisanat et musique",
+    "history": "Une langue née des soldats romains",
+    "wows": "Trop fort pour y croire !"
+  },
+  "geo": "Les montagnes Carpates traversent la Roumanie en forme de fer à cheval, couvertes de forêts de hêtres et de sapins. Le grand fleuve Danube coule jusqu'à la mer Noire en formant un immense delta plein d'oiseaux !",
+  "animals": "La Roumanie abrite plus de 10 000 ours bruns — c'est le plus grand pays à ours d'Europe. Dans le delta du Danube, des milliers de pélicans blancs volent ensemble au-dessus des roseaux, c'est un spectacle incroyable !",
+  "culture": "Les Roumains mangent une bouillie de maïs appelée mămăligă, un peu comme de la polenta ! Dans les villages, tout le monde danse en cercle lors des fêtes, une danse qui s'appelle la hora.",
+  "history": "Il y a 2 000 ans, des soldats romains sont venus vivre ici et ont appris leur langue aux habitants. C'est pourquoi les Roumains parlent encore aujourd'hui une langue proche du français et de l'espagnol !",
+  "wows": [
+    "Le château de Bran en Transylvanie a inspiré la légende du comte Dracula !",
+    "Le Palais du Parlement à Bucarest est le bâtiment le plus lourd du monde — environ 4 milliards de kilos !",
+    "La gymnaste Nadia Comaneci a été la première à obtenir un 10 parfait aux Jeux olympiques, en 1976.",
+    "Il existe un cimetière joyeux avec des croix colorées et des poèmes amusants sur chaque personne.",
+    "Plus de 300 espèces d'oiseaux vivent ou s'arrêtent dans le delta du Danube chaque année.",
+    "Des ours descendent régulièrement en ville pour fouiller les poubelles, comme de vrais touristes !",
+    "Huit monastères peints de Roumanie sont classés à l'UNESCO pour leurs fresques colorées sur les murs extérieurs."
+  ],
+  "myths": [
+    {
+      "myth": "La Transylvanie est sombre et effrayante",
+      "fact": "La Transylvanie est une région ensoleillée entourée de montagnes, avec de belles villes médiévales colorées — bien plus gaie que dans les films de vampires !"
+    },
+    {
+      "myth": "Le roumain ressemble au russe",
+      "fact": "Le roumain vient du latin, comme le français et l'espagnol — pas du tout du russe ! Les Romains anciens ont apporté cette langue il y a 2 000 ans."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bună ziua",
+      "say": "BOO-nuh ZEE-wah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Mulțumesc",
+      "say": "mool-tsoo-MESK"
+    },
+    {
+      "en": "S'il vous plaît",
+      "jp": "Vă rog",
+      "say": "vuh ROHG"
+    },
+    {
+      "en": "Oui",
+      "jp": "Da",
+      "say": "dah"
+    },
+    {
+      "en": "Ours",
+      "jp": "Urs",
+      "say": "oors"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ro-hero.jpg",
+      "alt": "Le château de Bran perché sur un rocher en Transylvanie",
+      "caption": "CHÂTEAU DE BRAN — la forteresse de Transylvanie qui a inspiré Dracula",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ro-landmark.jpg",
+      "alt": "L'immense Palais du Parlement à Bucarest",
+      "caption": "PALAIS DU PARLEMENT — le bâtiment le plus lourd du monde, à Bucarest",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ro-animalA.jpg",
+      "alt": "Un ours brun qui court dans une clairière de forêt",
+      "caption": "OURS BRUN — plus de 10 000 vivent dans les forêts des Carpates",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ro-animalB.jpg",
+      "alt": "Des pélicans blancs qui planent au-dessus du delta du Danube",
+      "caption": "GRAND PÉLICAN BLANC — des milliers nichent dans le delta du Danube",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

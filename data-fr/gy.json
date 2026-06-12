@@ -1,0 +1,151 @@
+{
+  "name": "GUYANA",
+  "nativeName": "GY",
+  "romaji": "GUYANA",
+  "tagline": "Le Pays aux Mille Rivières",
+  "region": "Nord de l'Amérique du Sud",
+  "coords": "4.86°N, 58.93°W",
+  "fileNo": "084",
+  "langName": "créole anglais",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F3EDD8",
+    "dot": "#C8BA9A",
+    "ink": "#251E14",
+    "faint": "#8A7A55",
+    "line": "#DCCFA8",
+    "accent": "#009E60",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/gy.svg",
+    "title": "La Flèche d'Or",
+    "note": "Fond vert ; grande flèche dorée bordée de noir, pointe rouge",
+    "keyColor": "#009E60",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Guyana, il y a une cascade quatre fois plus haute que les chutes du Niagara — et presque personne ne le sait ! La forêt géante couvre 80 % du pays, pleine de jaguars et de grenouilles dorées. C'est un pays magique caché au bout de l'Amérique du Sud !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Georgetown",
+      "sub": "Construite sous le niveau de la mer !"
+    },
+    {
+      "label": "Habitants",
+      "value": "~808 000",
+      "sub": "est. 2024 ; très peu de monde"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar guyanais",
+      "sub": "Le dollar guyanais (GYD) depuis 1839"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Seul pays d'Amérique du Sud en anglais"
+    },
+    {
+      "label": "Superficie",
+      "value": "214 969 km²",
+      "sub": "À peu près comme le Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt. Roraima",
+      "sub": "2 772 m — un immense plateau ancien"
+    }
+  ],
+  "islands": [
+    "Georgetown",
+    "Linden",
+    "Lethem",
+    "Bartica",
+    "Anna Regina"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Rivières, tepuis et mondes perdus",
+    "animals": "Jaguars, géants et grenouilles fusées",
+    "culture": "Cricket, curry et carnaval",
+    "history": "La légende du plateau dans les nuages",
+    "wows": "Le Guyana qui surprend !"
+  },
+  "geo": "Le Guyana veut dire « pays aux nombreuses eaux » — il a plus de 40 rivières ! Au milieu du pays s'élèvent les tepuis, d'immenses plateaux plats comme des tables qui touchent les nuages.",
+  "animals": "Le jaguar vit dans la forêt d'Iwokrama, l'une des meilleures forêts du monde pour en apercevoir un ! Tout près des grandes chutes vit la grenouille dorée fusée, si spéciale qu'on ne la trouve nulle part ailleurs sur Terre.",
+  "culture": "Le plat préféré des Guyanais s'appelle le pepperpot — un ragoût sombre et épicé qu'on prépare pour Noël et qu'on réchauffe pendant plusieurs jours. Les fêtes de Diwali, de l'Aïd et du carnaval Mashramani se célèbrent toutes ensemble dans les mêmes rues !",
+  "history": "Le mont Roraima est un plateau si haut et si mystérieux que les gens racontaient qu'il cachait un monde perdu avec des dinosaures. Un écrivain célèbre a inventé une grande histoire là-dessus, et depuis ce plateau fait rêver les explorateurs du monde entier !",
+  "wows": [
+    "Les chutes Kaieteur font 226 m de haut — quatre fois plus que les chutes du Niagara !",
+    "Georgetown, la capitale, est construite sous le niveau de la mer et protégée par de vieux murs.",
+    "La grenouille dorée fusée élève ses bébés à l'intérieur de grandes plantes-bromélias.",
+    "Le mont Roraima est tellement haut qu'on voit les nuages se former tout en bas de soi.",
+    "Le Guyana est le seul pays d'Amérique du Sud où l'on parle anglais comme langue officielle.",
+    "Le poisson arapaima mesure plus de 2 m et doit remonter à la surface pour respirer, comme une baleine !",
+    "La forêt couvre 80 % du pays — c'est presque entièrement une immense jungle verte !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Guyana est une île des Caraïbes",
+      "fact": "Le Guyana est sur le continent sud-américain — il touche le Venezuela, le Brésil et le Suriname. Il parle anglais comme les îles, c'est pour ça qu'on se trompe !"
+    },
+    {
+      "myth": "C'est un pays qui a toujours été très pauvre",
+      "fact": "Depuis qu'on a découvert du pétrole en 2015 sous la mer, le Guyana grandit très très vite — c'est l'un des pays qui s'enrichit le plus rapidement dans le monde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Wha' happen?",
+      "say": "wha HAP-en"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tank yuh",
+      "say": "TANK yuh"
+    },
+    {
+      "en": "Très bien !",
+      "jp": "Proper so",
+      "say": "PROP-ah so"
+    },
+    {
+      "en": "Ami",
+      "jp": "Bredda",
+      "say": "BRED-ah"
+    },
+    {
+      "en": "Pas de problème",
+      "jp": "Nuh worry",
+      "say": "nuh WOR-ee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gy-hero.jpg",
+      "alt": "Le front de mer de Georgetown avec ses bâtiments colorés le long du fleuve Demerara",
+      "caption": "GEORGETOWN — le port colonial hollandais de la capitale sur le fleuve Demerara",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gy-landmark.jpg",
+      "alt": "Les chutes Kaieteur plongeant d'une falaise de grès dans la forêt tropicale verte",
+      "caption": "CHUTES KAIETEUR — 226 m de tonnerre, quatre fois plus hautes que les chutes du Niagara",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gy-animalA.jpg",
+      "alt": "Un jaguar se reposant sur une berge dans la forêt tropicale sud-américaine",
+      "caption": "JAGUAR — animal national du Guyana, roi de la forêt d'Iwokrama",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/gy-animalB.jpg",
+      "alt": "Des loutres géantes de rivière nageant ensemble dans une rivière sud-américaine",
+      "caption": "LOUTRE GÉANTE — jusqu'à 1,8 m de long, la savane Rupununi est leur territoire",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

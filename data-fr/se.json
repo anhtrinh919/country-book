@@ -1,0 +1,151 @@
+{
+  "name": "SUÈDE",
+  "nativeName": "SE",
+  "romaji": "SVERIGE",
+  "tagline": "Pays des forêts et de la lumière",
+  "region": "Northern Europe",
+  "coords": "62°N, 15°E",
+  "fileNo": "042",
+  "langName": "suédois",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#C8BCA8",
+    "ink": "#1E2318",
+    "faint": "#7A7860",
+    "line": "#D8CFBC",
+    "accent": "#006AA7",
+    "accent2": "#FECC02"
+  },
+  "flag": {
+    "assetPath": "/flags/se.svg",
+    "title": "Drapeau suédois",
+    "note": "Fond bleu avec une croix nordique dorée",
+    "keyColor": "#006AA7",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Suède, l'été le soleil ne se couche presque jamais — on peut jouer dehors à minuit ! Les forêts couvrent la moitié du pays et des élans géants se promènent entre les arbres. C'est le pays qui a inventé IKEA, Spotify et Minecraft !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Stockholm",
+      "sub": "ville sur 14 îles"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,6 millions",
+      "sub": "fin 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Couronne (SEK)",
+      "sub": "1 kr = 100 öre"
+    },
+    {
+      "label": "Langue",
+      "value": "suédois",
+      "sub": "+ 5 langues minoritaires officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "450 295 km²",
+      "sub": "plus grand que la Californie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Kebnekaise",
+      "sub": "2 097 m, en Laponie"
+    }
+  ],
+  "islands": [
+    "Stockholm",
+    "Gothenburg",
+    "Malmö",
+    "Uppsala",
+    "Kiruna"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Forêts, lacs et soleil de minuit",
+    "animals": "Élans, loups et rennes",
+    "culture": "Gâteaux, ABBA et boulettes",
+    "history": "Des Vikings aux rois gentils",
+    "wows": "Tu savais ça ?"
+  },
+  "geo": "La Suède est si longue qu'au sud on cueille des fraises pendant que le nord est encore enneigé ! Il y a presque 100 000 lacs et des forêts de pins partout. En Laponie, tout en haut, le soleil brille toute la nuit en juin et des aurores vertes et violettes dansent dans le ciel en hiver.",
+  "animals": "L'élan de Suède est plus grand qu'un cheval — il peut entrer dans un jardin en ville ! La Suède en a 300 000, c'est l'un des pays qui en a le plus au monde. En Laponie, le peuple Sámi garde d'immenses troupeaux de rennes qui courent sur la toundra enneigée.",
+  "culture": "Chaque semaine, les Suédois font une pause appelée fika : on s'assoit ensemble avec un café et un gâteau à la cannelle. C'est presque une règle nationale ! En été, pour la fête de Midsommar, tout le monde danse autour d'un grand poteau couvert de fleurs sous un soleil qui ne se couche pas.",
+  "history": "Il y a très longtemps, les Vikings de Suède naviguaient partout dans le monde sur de grands bateaux en bois. Ils ont exploré des terres très lointaines, de la Turquie jusqu'en Amérique ! Aujourd'hui la Suède est l'un des pays les plus paisibles du monde — elle n'a pas fait la guerre depuis plus de 200 ans.",
+  "wows": [
+    "La Suède a environ 270 000 îles — la plupart sont de petits rochers dans la mer Baltique !",
+    "La Suède importe les poubelles d'autres pays pour les transformer en électricité.",
+    "ABBA a vendu plus de 400 millions de disques alors que la Suède n'a que 10 millions d'habitants.",
+    "Alfred Nobel, le Suédois qui a inventé la dynamite, a aussi créé le célèbre Prix Nobel.",
+    "En 1967, toute la Suède a changé de côté de la route en une seule nuit à 5 heures du matin !",
+    "Le métro de Stockholm est appelé la plus longue galerie d'art du monde — 100 stations décorées !",
+    "Les célèbres boulettes suédoises viennent en fait d'une recette turque ramenée par un roi."
+  ],
+  "myths": [
+    {
+      "myth": "La Suède est toujours très froide",
+      "fact": "En été à Stockholm il fait 23°C et au sud on cultive des pommes et des fraises. Seul le grand nord reste vraiment glacé toute l'année."
+    },
+    {
+      "myth": "Les boulettes sont une invention suédoise",
+      "fact": "C'est le roi Charles XII qui a rapporté cette idée de Turquie en 1715 — elles ressemblent aux köfte épicés du Moyen-Orient !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hej",
+      "say": "hey"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tack",
+      "say": "tahk"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Snälla",
+      "say": "SNEL-ah"
+    },
+    {
+      "en": "Élan",
+      "jp": "Älg",
+      "say": "elg"
+    },
+    {
+      "en": "Pause café-gâteau",
+      "jp": "Fika",
+      "say": "FEE-kah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/se-hero.jpg",
+      "alt": "Vue panoramique de la vieille ville de Stockholm et du front de mer",
+      "caption": "STOCKHOLM — la capitale s'étend sur 14 îles où le lac Mälaren rejoint la mer Baltique.",
+      "credit": "Arild Vågen / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/se-landmark.jpg",
+      "alt": "Vue aérienne du palais de Drottningholm et ses jardins formels",
+      "caption": "PALAIS DE DROTTNINGHOLM — la résidence de la famille royale au bord du lac, classée au patrimoine mondial de l'UNESCO.",
+      "credit": "Holger Ellgaard / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/se-animalA.jpg",
+      "alt": "Grand élan mâle debout dans une clairière de forêt",
+      "caption": "ÉLAN — le géant des forêts suédoises, plus grand qu'un cheval et fait pour la neige profonde.",
+      "credit": "Gunnar Ries / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/se-animalB.jpg",
+      "alt": "Troupeau de rennes sur la toundra enneigée en Laponie suédoise",
+      "caption": "RENNES — gardés par le peuple Sámi sur la toundra arctique depuis des milliers d'années.",
+      "credit": "Susanne Nilsson / Wikimedia Commons"
+    }
+  }
+}

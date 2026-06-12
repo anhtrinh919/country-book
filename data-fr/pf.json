@@ -1,0 +1,151 @@
+{
+  "name": "POLYNÉSIE FR.",
+  "nativeName": "PF",
+  "romaji": "POLYNÉSIE",
+  "tagline": "Îles embrassées par le soleil",
+  "region": "Polynesia, South Pacific",
+  "coords": "17°32′S 149°34′W",
+  "fileNo": "118",
+  "langName": "tahitien",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BCA4",
+    "ink": "#252018",
+    "faint": "#8a7a5e",
+    "line": "#DAD0BC",
+    "accent": "#C8192E",
+    "accent2": "#2B5FA5"
+  },
+  "flag": {
+    "assetPath": "/flags/pf.svg",
+    "title": "Rouge, blanc et pirogue",
+    "note": "Rouge-blanc-rouge ; 5 pagayeurs = 5 groupes d'îles",
+    "keyColor": "#C8192E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Il y a 121 îles magiques perdues dans l'océan Pacifique, et c'est là qu'est né le mot « tatouage » ! Des lagons bleu turquoise entourent des volcans verts tout pointus — c'est l'endroit le plus beau du monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Papeete",
+      "sub": "Sur l'île de Tahiti"
+    },
+    {
+      "label": "Habitants",
+      "value": "278 786",
+      "sub": "Recensement 2022 (ISPF)"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFP",
+      "sub": "Code : XPF"
+    },
+    {
+      "label": "Langue",
+      "value": "Fr. et tahitien",
+      "sub": "Les deux sont officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "3 521 km²",
+      "sub": "Réparties sur 2 000 km d'océan"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Orohena",
+      "sub": "2 241 m, Tahiti"
+    }
+  ],
+  "islands": [
+    "Society Is.",
+    "Marquesas",
+    "Tuamotu",
+    "Australs",
+    "Gambier Is."
+  ],
+  "islandsLabel": "GROUPES D'ÎLES PRINCIPAUX :",
+  "sections": {
+    "geography": "Lagons, volcans et corail !",
+    "animals": "Baleines, raies et oiseaux rares",
+    "culture": "Danse, tatouages et perles noires",
+    "history": "Navigateurs étoilés et découvertes",
+    "wows": "Les secrets surprenants des îles"
+  },
+  "geo": "La Polynésie française compte 121 îles, et certaines ont des volcans si hauts qu'on dirait des montagnes qui poussent dans la mer ! Les atolls du groupe Tuamotu sont des anneaux de corail plats entourant des lagons turquoise brillants comme des bijoux.",
+  "animals": "Les baleines à bosse arrivent chaque juillet pour mettre au monde leurs bébés tout près de l'île de Moorea — on peut les voir nager en mettant juste un masque ! Il y a aussi un tout petit loriquet d'un bleu électrique, comme un joyau volant entre les palmiers des îles lointaines.",
+  "culture": "Le mot « tatouage » vient du mot polynésien tatu — les habitants se font tatouer des dessins qui racontent l'histoire de leur famille ! Chaque juillet, le grand festival Heiva éclate à Tahiti, avec des danseurs qui bougent les hanches si vite qu'on ne voit plus que des couleurs.",
+  "history": "Il y a très longtemps, de courageux navigateurs polynésiens ont trouvé ces îles en regardant les étoiles depuis leurs pirogues, sans aucune carte ! Un capitaine anglais appelé Wallis a découvert Tahiti en 1767 et a cru qu'il était arrivé au paradis.",
+  "wows": [
+    "Les 121 îles sont si loin les unes des autres que les visiter toutes, c'est comme aller de Paris jusqu'en Chine !",
+    "Le mot « tatouage » que tout le monde connait vient de ces îles — les marins de Cook l'ont rapporté en Europe en 1769.",
+    "Une seule perle noire de Tahiti met deux ans à grandir dans une huître — c'est le trésor numéro un des îles !",
+    "À Moorea, tu peux nager tout près d'une maman baleine et son bébé dans la vraie mer !",
+    "Bora Bora a un lagon si incroyablement bleu que les soldats de la Seconde Guerre mondiale pensaient que l'île n'était pas réelle.",
+    "L'océan autour des îles est aussi grand que toute l'Europe, mais toute la terre tient dans un petit département !",
+    "Des raies manta géantes, grandes comme des planeurs, viennent se faire nettoyer chaque jour à Bora Bora."
+  ],
+  "myths": [
+    {
+      "myth": "Tahiti, c'est une seule île",
+      "fact": "Tahiti est seulement une des 121 îles réparties en cinq groupes. Beaucoup de gens qui disent « je vais à Tahiti » séjournent en réalité sur Bora Bora ou Moorea, qui sont des îles bien distinctes !"
+    },
+    {
+      "myth": "Les lagons sont toujours calmes",
+      "fact": "La Polynésie française est dans une zone de cyclones ; des tempêtes arrivent de novembre à avril, et les atolls tout plats peuvent être inondés par les grandes vagues de l'océan."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Ia ora na",
+      "say": "ee-ah OH-rah nah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Māururuu",
+      "say": "mah-oo-ROO-roo"
+    },
+    {
+      "en": "Pas de souci !",
+      "jp": "Aita pea pea",
+      "say": "EYE-tah pay pay"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Nehenehe",
+      "say": "neh-heh-NEH-heh"
+    },
+    {
+      "en": "La mer",
+      "jp": "Te moana",
+      "say": "teh moh-AH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pf-hero.jpg",
+      "alt": "Vue aérienne de l'île de Bora Bora entourée d'un lagon turquoise et d'un récif barrière",
+      "caption": "BORA BORA — le célèbre volcan encerclé dans son éblouissant lagon turquoise",
+      "credit": "Samuel Etienne / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/pf-landmark.jpg",
+      "alt": "Vue panoramique sur le port de Papeete avec l'île de Moorea à l'horizon",
+      "caption": "PAPEETE — le port de la capitale de Tahiti avec les pics de Moorea à l'horizon",
+      "credit": "Jérémie Silvestro (Avatea) / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/pf-animalA.jpg",
+      "alt": "Jeune baleineau à bosse nageant sous l'eau près de Moorea, Polynésie française",
+      "caption": "BALEINEAU À BOSSE — nageant dans les eaux chaudes de Moorea chaque hiver",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/pf-animalB.jpg",
+      "alt": "Loriquet d'un bleu brillant perché dans un feuillage tropical des îles du Pacifique",
+      "caption": "LORIQUET BLEU (Vini peruviana) — un perroquet couleur bijou des atolls du Pacifique",
+      "credit": "desertnaturalist / CC BY 4.0"
+    }
+  }
+}

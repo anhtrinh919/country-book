@@ -1,0 +1,163 @@
+{
+  "name": "UKRAINE",
+  "nativeName": "UA",
+  "romaji": "UKRAINA",
+  "tagline": "Des champs dorés sous un grand ciel bleu",
+  "region": "Eastern Europe",
+  "coords": "49°N 32°E",
+  "fileNo": "42",
+  "langName": "ukrainien",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBD8",
+    "dot": "#D4C9A8",
+    "ink": "#1E1B14",
+    "faint": "#7A7055",
+    "line": "#DDD4B8",
+    "accent": "#005BBB",
+    "accent2": "#FFD500"
+  },
+  "flag": {
+    "assetPath": "/flags/ua.svg",
+    "title": "Bleu et jaune",
+    "note": "Le ciel bleu au-dessus des champs de blé dorés",
+    "keyColor": "#005BBB",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Ukraine a des champs de tournesols aussi grands que la mer, tout jaunes et brillants sous le soleil ! Le drapeau du pays est bleu et jaune — comme le ciel et le blé. Les gens d'Ukraine décorent des œufs avec de jolis dessins de toutes les couleurs !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kyiv",
+      "sub": "Sur le fleuve Dnipro"
+    },
+    {
+      "label": "Habitants",
+      "value": "37,9 millions",
+      "sub": "Est. ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Hryvnia ₴",
+      "sub": "UAH"
+    },
+    {
+      "label": "Langue",
+      "value": "ukrainien",
+      "sub": "Alphabet cyrillique"
+    },
+    {
+      "label": "Superficie",
+      "value": "603 628 km²",
+      "sub": "Le plus grand pays d'Europe"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Hoverla 2 061 m",
+      "sub": "Dans les Carpates"
+    }
+  ],
+  "islands": [
+    "Kyiv",
+    "Lviv",
+    "Odesa",
+    "Kharkiv",
+    "Carpathians"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un océan de plaines dorées",
+    "animals": "Chevaux sauvages et grands aigles",
+    "culture": "Chansons, œufs et broderies",
+    "history": "Des châteaux et des cavaliers intrépides",
+    "wows": "7 choses qui font dire OUAH !"
+  },
+  "geo": [
+    "L'Ukraine est le plus grand pays entièrement en Europe — plus grand que la France ! La plupart du pays est plat et fertile, comme un immense jardin qui nourrit le monde entier.",
+    "Au sud, la mer Noire offre de jolies plages. À l'ouest, les montagnes des Carpates sont couvertes de forêts vertes où l'on entend tinter les cloches des vaches dans le brouillard."
+  ],
+  "animals": [
+    "Le cheval de Przewalski est le dernier vrai cheval sauvage du monde — il galope librement en Ukraine comme depuis toujours ! Des pélicans roses construisent de grands nids bruyants dans le delta du Danube.",
+    "L'aigle des steppes plane haut dans le ciel bleu au-dessus des grandes prairies. Les forêts d'Ukraine cachent aussi des lynx et des bisons, et dans les rivières vivent des poissons-chats aussi longs qu'une voiture !"
+  ],
+  "culture": [
+    "Les Ukrainiens sont célèbres dans le monde entier pour leurs pysanky — des œufs de Pâques décorés avec de minuscules dessins colorés à la cire. Chaque dessin a un sens : les spirales veulent dire « pour toujours » !",
+    "La chemise brodée appelée vyshyvanka se porte avec fierté lors des fêtes. Le borshch, une soupe rouge vif à la betterave, est tellement aimé que l'UNESCO l'a inscrit comme trésor culturel du monde !"
+  ],
+  "history": [
+    "Il y a plus de 1 000 ans, Kyiv était la capitale d'un grand royaume appelé la Russie de Kyiv. La magnifique cathédrale Sainte-Sophie, construite en 1037, est encore debout aujourd'hui !",
+    "Les Cosaques étaient des guerriers courageux à cheval qui aimaient la liberté et dansaient très fort lors des fêtes. L'Ukraine est devenue un pays libre et indépendant en 1991."
+  ],
+  "wows": [
+    "L'Ukraine produit un tiers de l'huile de tournesol du monde entier — plus que n'importe quel autre pays !",
+    "La station de métro Arsenalna à Kyiv est à 105 mètres sous la terre — c'est plus profond qu'une tour de 30 étages !",
+    "Dans la zone autour de Tchornobyl, les loups et les chevaux sauvages vivent librement car il n'y a plus d'humains.",
+    "Les Carpates ukrainiennes abritent plus de 70 % des forêts de hêtres anciens d'Europe — c'est un trésor de la nature !",
+    "Des pièces de jeu en os et en défense de morse vieilles de 1 000 ans ont été trouvées sous Kyiv.",
+    "L'Ukraine possède les plus grandes réserves de titane d'Europe — un métal très précieux !",
+    "Un chef cosaque a écrit une des premières constitutions démocratiques du monde en 1710 — il y a plus de 300 ans !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Ukraine, c'est pareil que la Russie",
+      "fact": "L'Ukraine est un pays indépendant avec sa propre langue et une histoire de 1 000 ans. C'est un pays à part entière depuis 1991 !"
+    },
+    {
+      "myth": "Tchornobyl est un endroit vide et mort",
+      "fact": "La nature a repris sa place ! Des loups, des lynx et des chevaux sauvages vivent maintenant dans la zone abandonnée par les humains."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Привіт",
+      "say": "pry-VEET"
+    },
+    {
+      "en": "Merci",
+      "jp": "Дякую",
+      "say": "DYA-ku-yu"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Будь ласка",
+      "say": "bood' LAS-ka"
+    },
+    {
+      "en": "Oui",
+      "jp": "Так",
+      "say": "tak"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Смачно!",
+      "say": "SMACH-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ua-hero.jpg",
+      "alt": "Vue aérienne du monastère Kyiv Pechersk Lavra avec ses coupoles dorées",
+      "caption": "KYIV PECHERSK LAVRA — des coupoles dorées brillent au-dessus du fleuve Dnipro",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ua-landmark.jpg",
+      "alt": "La cathédrale Sainte-Sophie à Kyiv avec ses coupoles vertes et dorées",
+      "caption": "CATHÉDRALE SAINTE-SOPHIE — construite en 1037, encore magnifique après 1 000 ans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ua-animalA.jpg",
+      "alt": "Cheval de Przewalski debout dans la steppe ouverte",
+      "caption": "CHEVAL DE PRZEWALSKI — le dernier vrai cheval sauvage, libre en Ukraine",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ua-animalB.jpg",
+      "alt": "Grand pélican blanc les ailes déployées",
+      "caption": "GRAND PÉLICAN BLANC — niche dans le vaste delta du Danube en Ukraine",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

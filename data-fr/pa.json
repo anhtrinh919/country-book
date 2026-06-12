@@ -1,0 +1,163 @@
+{
+  "name": "PANAMA",
+  "nativeName": "PA",
+  "romaji": "PANAMÁ",
+  "tagline": "Le Pont du Monde",
+  "region": "Central America",
+  "coords": "8.99°N, 79.52°W",
+  "fileNo": "068",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#252018",
+    "faint": "#8A7A58",
+    "line": "#DACCB0",
+    "accent": "#C8102E",
+    "accent2": "#003087"
+  },
+  "flag": {
+    "assetPath": "/flags/pa.svg",
+    "title": "Drapeau du Panamá",
+    "note": "Quatre carrés : rouge, blanc, bleu, blanc",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Panama est un pays tout fin en forme de S qui relie l'Amérique du Nord et l'Amérique du Sud comme un pont vivant ! Son célèbre Canal permet aux bateaux d'éviter 13 000 km de voyage — des portes géantes les soulèvent comme dans une baignoire. C'est l'un des endroits les plus riches en animaux sauvages de toute la planète !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Panama City",
+      "sub": "Population 1,1 million (2023)"
+    },
+    {
+      "label": "Habitants",
+      "value": "4,4 millions",
+      "sub": "Est. 2024 — majorité métisse"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Balboa/USD",
+      "sub": "Le dollar américain est monnaie légale"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "Plus 7 langues indigènes"
+    },
+    {
+      "label": "Superficie",
+      "value": "75 417 km²",
+      "sub": "Un peu plus petit que l'Écosse"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Volcán Barú",
+      "sub": "3 475 m — le seul volcan du Panama"
+    }
+  ],
+  "islands": [
+    "Panama City",
+    "Colón",
+    "David",
+    "Penonomé",
+    "Bocas"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Deux océans, une mince bande de terre",
+    "animals": "Une jungle pleine de merveilles",
+    "culture": "Couleurs, rythmes et fierté du Canal",
+    "history": "Le carrefour du monde entier",
+    "wows": "Le savais-tu ?"
+  },
+  "geo": [
+    "Le Panama est si étroit que du sommet du Volcán Barú, on peut voir à la fois l'océan Pacifique et la mer des Caraïbes — deux océans d'un seul regard ! La moitié du pays est recouverte d'une épaisse forêt tropicale arrosée de plus de 3 mètres de pluie par an.",
+    "Le Canal traverse 80 km de terre pour relier les deux océans et évite aux bateaux le long tour de l'Amérique du Sud. De grands lacs alimentent en eau douce les écluses toute l'année."
+  ],
+  "animals": [
+    "Chaque automne, des milliards d'oiseaux — faucons, vautours, rapaces — traversent le ciel au-dessus de Panama City en un immense défilé ! L'aigle harpie, le plus puissant oiseau de proie des Amériques, niche encore dans la jungle profonde.",
+    "Des paresseux dorment dans les arbres le long du Canal, et la grenouille dorée — symbole national du Panama — est si précieuse qu'elle vit maintenant en zoo pour la protéger d'un champignon dangereux."
+  ],
+  "culture": [
+    "Les Panaméens adorent leur mélange de cultures : les habits brodés mola des peuples Guna sont aussi colorés qu'un arc-en-ciel ! À table, on mange des patacones (bananes plantain frites), du ceviche et une épaisse soupe de poulet appelée sancocho.",
+    "Au Carnaval de février, les danseuses portent les magnifiques robes pollera, cousues à la main pendant des mois, et elles tourbillonnent dans les rues de Panama City. Salsa, reggaeton et tambours tamborito font danser tout le monde !"
+  ],
+  "history": [
+    "Des peuples indigènes vivaient ici des milliers d'années avant que les Espagnols arrivent en 1501. Panama City, fondée en 1519, fut la première ville européenne sur le Pacifique et le point de départ de tout l'or des Incas transporté à dos de mulet.",
+    "Une légende raconte que les mulets du Camino Real — le chemin royal — ont transporté des tonnes d'or inca sur leurs dos à travers la jungle pour atteindre les bateaux espagnols. Quel voyage extraordinaire pour ces mulets courageux !"
+  ],
+  "wows": [
+    "Du sommet du Volcán Barú, tu peux voir à la fois l'océan Pacifique ET la mer des Caraïbes !",
+    "40 bateaux traversent le Canal chaque jour — les écluses les soulèvent comme des jouets dans une baignoire géante.",
+    "Le Panama abrite plus d'espèces d'oiseaux que tous les États-Unis et le Canada réunis !",
+    "Le peuple Guna gouverne ses propres îles et décide lui-même qui peut y entrer ou y construire.",
+    "Le Panama a sa propre pièce de monnaie, le balboa, mais elle vaut exactement 1 dollar américain.",
+    "Les fameux chapeaux de Panama sont en réalité fabriqués en Équateur — le Panama les expédiait juste dans le monde entier !",
+    "Depuis l'agrandissement du Canal en 2016, les bateaux peuvent transporter 14 000 conteneurs, dix fois plus qu'en 1914 !"
+  ],
+  "myths": [
+    {
+      "myth": "Les chapeaux de Panama viennent du Panama",
+      "fact": "Ils sont tressés en Équateur avec de la paille toquilla — le Panama était juste le port d'où ils étaient envoyés partout dans le monde, et le nom est resté !"
+    },
+    {
+      "myth": "Les bateaux traversent le Canal d'est en ouest",
+      "fact": "À cause de la forme en S du Panama, les bateaux voyagent plutôt du nord au sud — ils sortent dans le Pacifique légèrement à l'est de là où ils sont entrés depuis les Caraïbes !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Canal",
+      "jp": "Canal",
+      "say": "kah-NAL"
+    },
+    {
+      "en": "Ami",
+      "jp": "Amigo",
+      "say": "ah-MEE-go"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pa-hero.jpg",
+      "alt": "Bateaux passant dans les écluses de Gatún sur le Canal de Panama",
+      "caption": "CANAL DE PANAMA — d'immenses écluses soulèvent les bateaux entre deux océans chaque jour",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pa-landmark.jpg",
+      "alt": "Bâtiments coloniaux colorés du Casco Viejo à Panama City",
+      "caption": "CASCO VIEJO — le quartier colonial vieux de 400 ans de Panama City sur sa presqu'île",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pa-animalA.jpg",
+      "alt": "Aigle harpie perché sur une branche dans la forêt tropicale",
+      "caption": "AIGLE HARPIE — le plus puissant oiseau de proie des Amériques niche dans la jungle du Panama",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pa-animalB.jpg",
+      "alt": "Brillante grenouille dorée du Panama sur une feuille",
+      "caption": "GRENOUILLE DORÉE — le symbole national du Panama, aujourd'hui en grand danger",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

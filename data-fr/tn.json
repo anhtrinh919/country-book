@@ -1,0 +1,163 @@
+{
+  "name": "TUNISIE",
+  "nativeName": "تونس",
+  "romaji": "TUNIS",
+  "tagline": "Là où le Sahara embrasse la mer",
+  "region": "North Africa",
+  "coords": "33.89°N, 9.54°E",
+  "fileNo": "088",
+  "langName": "arabe",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4C09A",
+    "ink": "#2A2018",
+    "faint": "#8A7455",
+    "line": "#E0CFA8",
+    "accent": "#E70013",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/tn.svg",
+    "title": "Drapeau de la Tunisie",
+    "note": "Croissant et étoile rouges sur disque blanc",
+    "keyColor": "#E70013",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Tunisie, on peut voir des dunes de sable orange le matin et une mer bleue l'après-midi ! Des renards minuscules avec de gigantesques oreilles vivent dans le désert. Et devine quoi — des scènes de Star Wars ont été tournées là-bas !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Tunis",
+      "sub": "Environ 2,7 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "12,1 millions",
+      "sub": "Est. 2024, majorité arabo-berbère"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dinar (TND)",
+      "sub": "1 dinar = 1 000 millimes"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "Dialecte arabe ; le français est aussi utilisé"
+    },
+    {
+      "label": "Superficie",
+      "value": "163 610 km²",
+      "sub": "À peu près comme la Géorgie, aux États-Unis"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Jebel Chambi",
+      "sub": "1 544 m — un sommet couvert de forêts"
+    }
+  ],
+  "islands": [
+    "Tunis",
+    "Sfax",
+    "Sousse",
+    "Kairouan",
+    "Djerba"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Désert, mer et collines tout en un !",
+    "animals": "Les bêtes des sables et du rivage",
+    "culture": "Thé à la menthe, épices et magie",
+    "history": "Éléphants, ruines et cités fabuleuses",
+    "wows": "Sept choses follement étonnantes"
+  },
+  "geo": [
+    "La Tunisie a la forme d'une oreille ! Au nord, il y a de belles collines vertes, des forêts d'oliviers et 1 300 km de plages avec une eau turquoise super chaude.",
+    "Au sud commence le grand désert du Sahara, avec d'immenses dunes orange où les chameaux se promènent au coucher du soleil."
+  ],
+  "animals": [
+    "Le fennec est un petit renard du désert avec des oreilles énormes — presque aussi grandes que sa tête — pour entendre les insectes sous le sable !",
+    "Chaque hiver, des milliers de flamants roses arrivent en Tunisie pour patauger dans les lagunes côtières et se régaler de crevettes."
+  ],
+  "culture": [
+    "Le petit-déjeuner tunisien s'appelle le brik : c'est une pâte croustillante avec un œuf coulant à l'intérieur — il faut le manger vite avant que ça dégouline !",
+    "La médina de Tunis est un grand labyrinthe de petites ruelles pleines de parfums, de lanternes en cuivre et de tapis colorés — aucune voiture ne peut y entrer !"
+  ],
+  "history": [
+    "Il y a très très longtemps, une cité géante s'appelait Carthage, près de Tunis. Son général Hannibal a traversé de grandes montagnes avec des éléphants de guerre — comme des tanks, mais en vrai !",
+    "Les Romains ont ensuite rasé Carthage et l'ont reconstruite encore plus grande. Aujourd'hui, ses vieilles pierres sont toujours là pour qu'on puisse les voir !"
+  ],
+  "wows": [
+    "Des oliviers vieux de 2 000 ans poussent encore en Tunisie et donnent de l'huile d'olive !",
+    "Le village de Matmata est creusé dans le rocher — c'est là qu'a été filmée la planète de Luke Skywalker dans Star Wars.",
+    "Le lac de sel Chott el-Djerid brille comme un miroir géant argenté sous le soleil.",
+    "Le musée du Bardo possède la plus grande collection de mosaïques romaines du monde entier.",
+    "La médina de Tunis cache plus de 700 monuments dans des ruelles tellement étroites qu'on ne peut y passer qu'à pied.",
+    "Carthage a été tellement bien détruite que les Romains ont planté du sel dans ses ruines pour que plus rien ne pousse !",
+    "Des flamants roses roses par milliers viennent chaque hiver se baigner dans les lagunes tunisiennes."
+  ],
+  "myths": [
+    {
+      "myth": "La Tunisie c'est tout le désert",
+      "fact": "Seulement le tiers sud est désertique ! Le nord est tout vert avec des forêts, des rivières et de jolies plages — un peu comme l'Italie."
+    },
+    {
+      "myth": "La harissa c'est juste de la sauce piquante",
+      "fact": "La vraie harissa est une pâte mijotée avec des piments séchés, de l'ail et des épices — chaque famille a sa recette secrète, c'est bien plus spécial que de la sauce !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "أهلاً",
+      "say": "AH-hlan"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHOOK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "بنين",
+      "say": "ba-NEEN"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "قداش؟",
+      "say": "GAD-daysh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tn-hero.jpg",
+      "alt": "Vue aérienne de l'ancienne médina de Tunis au crépuscule",
+      "caption": "MÉDINA DE TUNIS — la vieille cité murée brille dorée au coucher du soleil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tn-landmark.jpg",
+      "alt": "Le grand amphithéâtre romain d'El Djem se dressant dans la plaine tunisienne",
+      "caption": "AMPHITHÉÂTRE D'EL DJEM — le troisième plus grand colisée de Rome, toujours debout après 1 800 ans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tn-animalA.jpg",
+      "alt": "Un fennec avec d'immenses oreilles assis sur le sable pâle du désert",
+      "caption": "FENNEC — ses oreilles géantes lui permettent d'entendre les insectes bouger sous le sable",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tn-animalB.jpg",
+      "alt": "Des flamants roses pataugeant dans une lagune côtière tunisienne peu profonde",
+      "caption": "FLAMANTS ROSES — des milliers hivernent chaque année dans les lagunes salées de Tunisie",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

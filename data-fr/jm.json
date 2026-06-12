@@ -1,0 +1,151 @@
+{
+  "name": "JAMAÏQUE",
+  "nativeName": "JM",
+  "romaji": "JAMAICA",
+  "tagline": "Île de bois et d'eau",
+  "region": "Caribbean",
+  "coords": "18°N 77°W",
+  "fileNo": "042",
+  "langName": "patois",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CEBB99",
+    "ink": "#1E1A10",
+    "faint": "#8A7A52",
+    "line": "#DDD0B0",
+    "accent": "#000000",
+    "accent2": "#007B3E"
+  },
+  "flag": {
+    "assetPath": "/flags/jm.svg",
+    "title": "Drapeau de la Jamaïque",
+    "note": "Croix dorée ; triangles noir et vert",
+    "keyColor": "#F9D23C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Jamaïque est une île ensoleillée entourée d'une mer turquoise brillante ! Les coureurs jamaïcains sont les plus rapides du monde entier. Et sur cette île poussent des grains de café si délicieux que le Japon en achète presque tout !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kingston",
+      "sub": "Plus grande ville et port principal"
+    },
+    {
+      "label": "Habitants",
+      "value": "2,83 millions",
+      "sub": "Est. 2024, STATIN"
+    },
+    {
+      "label": "Monnaie",
+      "value": "JMD $",
+      "sub": "Dollar jamaïcain"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Le patois parlé chaque jour"
+    },
+    {
+      "label": "Superficie",
+      "value": "10 830 km²",
+      "sub": "Banque mondiale 2023"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 256 m",
+      "sub": "Blue Mountain Peak"
+    }
+  ],
+  "islands": [
+    "Kingston",
+    "Montego Bay",
+    "Ocho Rios",
+    "Negril",
+    "Port Antonio"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, rivières et plages",
+    "animals": "Les animaux sauvages de l'île",
+    "culture": "Musique, café et épices piquantes",
+    "history": "L'île aux mille trésors cachés",
+    "wows": "La Jamaïque t'étonne !"
+  },
+  "geo": "La Jamaïque a de grandes montagnes au milieu, appelées les Blue Mountains — elles sont si hautes qu'elles fabriquent leurs propres nuages ! Des dizaines de rivières dévalent ces pentes jusqu'à la mer, et des plages de sable blanc bordent toute l'île.",
+  "animals": "L'oiseau national de la Jamaïque s'appelle l'oiseau-médecin — un colibri avec deux longues plumes qui volent derrière lui comme des rubans. Il bat des ailes 50 fois par seconde pour boire le nectar des fleurs !",
+  "culture": "Les Jamaïcains ont inventé le reggae, une musique joyeuse et douce qui a fait danser le monde entier. Le plat préféré de l'île est le poulet jerk, frotté d'épices piquantes et cuit lentement sur un feu de bois parfumé !",
+  "history": "Il y a très longtemps, un peuple appelé les Taïnos vivait sur cette île et l'appelaient Xaymaca, ce qui veut dire « terre de bois et d'eau ». Chaque année le 6 août, toute l'île fait la fête avec des feux d'artifice pour célébrer son indépendance !",
+  "wows": [
+    "Usain Bolt a couru 100 m en 9,58 secondes en 2009 — personne au monde n'a jamais couru plus vite !",
+    "Le drapeau jamaïcain est le seul au monde qui n'a ni rouge, ni blanc, ni bleu.",
+    "Environ 70 % du café des Blue Mountains part au Japon — une tasse coûte aussi cher qu'un jouet !",
+    "En 1988, l'équipe jamaïcaine de bobsleigh est allée aux Jeux d'hiver — une île tropicale sur une luge !",
+    "L'oiseau-médecin bat des ailes si vite qu'on dirait qu'il est figé dans les airs.",
+    "Les chutes de Dunn's River coulent en escaliers naturels directement sur une plage de mer.",
+    "La Jamaïque est minuscule — mais elle a gagné plus de médailles d'or olympiques en sprint que des pays 100 fois plus grands !"
+  ],
+  "myths": [
+    {
+      "myth": "En Jamaïque, tout le monde parle seulement le patois",
+      "fact": "L'anglais est la langue officielle à l'école et à la télévision. Le patois est adoré, mais les Jamaïcains passent facilement de l'un à l'autre chaque jour."
+    },
+    {
+      "myth": "La Jamaïque est dangereuse partout",
+      "fact": "Les plages, les villages de montagne et les villes touristiques sont paisibles. Des millions de visiteurs viennent s'y amuser chaque année en toute sécurité."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Wah gwaan",
+      "say": "wah GWAAN"
+    },
+    {
+      "en": "Je vais bien",
+      "jp": "Mi irie",
+      "say": "mee EE-ree"
+    },
+    {
+      "en": "Pas de problème",
+      "jp": "No problem",
+      "say": "no PROB-lem mon"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "One love",
+      "say": "wun LUV"
+    },
+    {
+      "en": "Merci",
+      "jp": "Bless up",
+      "say": "BLESS up"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/jm-hero.jpg",
+      "alt": "Des touristes grimpent les marches calcaires des chutes de Dunn's River avec l'eau qui coule autour d'eux",
+      "caption": "CHUTES DE DUNN'S RIVER — le grand escalier vivant de la Jamaïque plonge dans la mer des Caraïbes",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "landmark": {
+      "src": "/photos/jm-landmark.jpg",
+      "alt": "Les chutes de Dunn's River cascadent sur des terrasses naturelles calcaires dans un bassin turquoise",
+      "caption": "CHUTES DE DUNN'S RIVER — 55 m de terrasses naturelles près d'Ocho Rios",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/jm-animalA.jpg",
+      "alt": "Un colibri à bec rouge en vol stationnaire montrant son plumage vert irisé",
+      "caption": "OISEAU-MÉDECIN — l'oiseau national de la Jamaïque, introuvable ailleurs sur Terre",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/jm-animalB.jpg",
+      "alt": "Des crêtes de montagne bleu-vert brumeuses s'étendant à l'horizon sous des nuages doux",
+      "caption": "BLUE MOUNTAINS — demeure brumeuse des animaux rares et du précieux café jamaïcain",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

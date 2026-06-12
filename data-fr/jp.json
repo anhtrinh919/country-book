@@ -1,0 +1,151 @@
+{
+  "name": "JAPON",
+  "nativeName": "日本",
+  "romaji": "NIPPON",
+  "tagline": "Le pays du Soleil Levant",
+  "region": "Asie de l'Est · Océan Pacifique",
+  "coords": "36°N · 138°E",
+  "fileNo": "081",
+  "stop": 1,
+  "flag": {
+    "assetPath": "/flags/jp.svg",
+    "title": "Le Hinomaru",
+    "note": "un soleil rouge sur fond blanc · officiel depuis 1999",
+    "keyColor": "#BC002D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Japon, des singes se baignent dans des sources chaudes sous la neige — comme dans un jacuzzi géant ! Ce pays est fait de milliers d'îles dans l'océan Pacifique, avec des temples anciens et des villes qui brillent la nuit !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Tokyo",
+      "sub": "~14,2 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "123 millions",
+      "sub": "recensement 2025 · en légère baisse"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Yen ¥",
+      "sub": "le yen japonais"
+    },
+    {
+      "label": "Langue",
+      "value": "japonais",
+      "sub": "kanji · hiragana · katakana"
+    },
+    {
+      "label": "Superficie",
+      "value": "377 975 km²",
+      "sub": "à peu près la taille de la Californie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Fuji",
+      "sub": "3 776 m · dernière éruption en 1707"
+    }
+  ],
+  "islandsLabel": "QUATRE GRANDES ÎLES :",
+  "islands": [
+    "Honshu",
+    "Hokkaido",
+    "Kyushu",
+    "Shikoku"
+  ],
+  "sections": {
+    "geography": "Des îles et des volcans géants !",
+    "animals": "Des singes dans le bain et des cerfs qui font la révérence",
+    "culture": "Fleurs roses, sushis et sumo",
+    "history": "Samouraïs, ninjas et empereurs",
+    "wows": "Sept surprises épatantes"
+  },
+  "geo": "Le Japon n'est pas une seule île, mais des milliers — dont quatre très grandes où vivent presque tous les Japonais ! Le plus célèbre est le mont Fuji, un volcan en forme de cône parfait qui culmine à 3 776 mètres.",
+  "animals": "Dans les montagnes de Nagano, des singes des neiges plongent dans des sources d'eau chaude pour se réchauffer — ce sont les seuls singes sauvages au monde à faire des bains chauds ! Dans le parc de Nara, des cerfs apprivoisés inclinent la tête pour demander des gâteaux.",
+  "culture": "Au printemps, les familles pique-niquent sous des nuages de fleurs de cerisier roses appelées sakura — c'est une fête qui s'appelle hanami. Le Japon a aussi inventé les sushis, les mangas et les origamis !",
+  "history": "Il y a très longtemps, le Japon était gardé par les samouraïs, des guerriers avec de grandes épées et un code d'honneur très strict. Dans l'ombre travaillaient les ninjas, de vrais espions qui se déguisaient en paysans pour passer inaperçus.",
+  "wows": [
+    "Des singes prennent des bains chauds dans la neige — les seuls singes sauvages au monde à le faire !",
+    "Le train Hayabusa roule à 320 km/h et arrive à l'heure à la seconde près.",
+    "La plus vieille entreprise du monde était japonaise : elle construisait des temples depuis 1 400 ans !",
+    "Le plus vieil hôtel du monde est au Japon — une auberge de sources chaudes ouverte depuis l'an 705 !",
+    "Les pastèques carrées existent vraiment — on les fait pousser dans des boîtes pour qu'elles aient la forme d'un cube !",
+    "Il y a 2,6 millions de distributeurs automatiques au Japon — presque un pour chaque groupe de 25 personnes.",
+    "Dans les hôtels-capsules, on dort dans une petite cabine empilée comme une boîte à chaussures géante !"
+  ],
+  "myths": [
+    {
+      "myth": "Les ninjas portaient toujours du noir et avaient des pouvoirs magiques.",
+      "fact": "Les vrais ninjas étaient des espions habillés comme des paysans ordinaires pour passer inaperçus. Les ninjas en noir et leurs pouvoirs magiques, c'est inventé par les films !"
+    },
+    {
+      "myth": "Les pastèques carrées poussent avec des graines spéciales.",
+      "fact": "Pas du tout ! C'est la même graine qu'une pastèque normale — on la fait juste pousser dans une boîte transparente pour qu'elle prenne la forme d'un cube."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Konnichiwa",
+      "say": "kohn-nee-chee-wah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Arigatō",
+      "say": "ah-ree-gah-toh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Hai",
+      "say": "high"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Sayōnara",
+      "say": "sah-yoh-nah-rah"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Oishii",
+      "say": "oy-shee"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/jp-landmark.jpg",
+      "alt": "Le mont Fuji reflété dans un lac",
+      "caption": "LE MONT FUJI — 3 776 m, le sommet le plus haut et un volcan sacré.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/jp-animalA.jpg",
+      "alt": "Un singe des neiges dans une source chaude",
+      "caption": "SINGES DES NEIGES se baignant dans les sources chaudes de Nagano en hiver.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/jp-animalB.jpg",
+      "alt": "Un cerf sika dans le parc de Nara",
+      "caption": "CERFS SIKA à Nara qui s'inclinent pour demander des gâteaux.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "hero": {
+      "src": "/photos/jp-hero.jpg",
+      "alt": "Train Shinkansen E5",
+      "caption": "LE SHINKANSEN — le train « bullet » Hayabusa du Japon roule à 320 km/h et arrive à l'heure à la seconde près.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    }
+  },
+  "theme": {
+    "paper": "#F6EFE1",
+    "dot": "#cdbfa6",
+    "ink": "#2a2420",
+    "faint": "#8a7a5e",
+    "line": "#dccfb4",
+    "accent": "#C0202E",
+    "accent2": "#23406b"
+  },
+  "motif": "sun",
+  "langName": "japonais"
+}

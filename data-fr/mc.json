@@ -1,0 +1,151 @@
+{
+  "name": "MONACO",
+  "nativeName": "MC",
+  "romaji": "MONACO",
+  "tagline": "Un tout petit pays, un immense éclat !",
+  "region": "Western Europe",
+  "coords": "43°44′N 7°24′E",
+  "fileNo": "125",
+  "langName": "français",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDE2",
+    "dot": "#CDBBA4",
+    "ink": "#231F1B",
+    "faint": "#8A7060",
+    "line": "#DCCCB8",
+    "accent": "#CE1126",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/mc.svg",
+    "title": "Rouge et blanc",
+    "note": "Rouge au-dessus du blanc — les couleurs Grimaldi depuis 1339",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Monaco est si petit qu'on peut le traverser à pied en 20 minutes — c'est plus petit qu'un grand parc de jeux ! La même famille, les Grimaldi, dirige ce rocher au bord de la mer depuis plus de 700 ans. C'est le pays le plus peuplé du monde entier !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Monaco-Ville",
+      "sub": "aussi appelée Le Rocher"
+    },
+    {
+      "label": "Habitants",
+      "value": "38 423",
+      "sub": "recensement 2024, IMSEE"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "adopté en 1999"
+    },
+    {
+      "label": "Langue",
+      "value": "Français",
+      "sub": "aussi le monégasque"
+    },
+    {
+      "label": "Superficie",
+      "value": "2,1 km²",
+      "sub": "2e plus petit pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "164 m",
+      "sub": "Chemin des Révoires"
+    }
+  ],
+  "islands": [
+    "Monaco-Ville",
+    "Monte-Carlo",
+    "La Condamine",
+    "Fontvieille",
+    "Larvotto"
+  ],
+  "islandsLabel": "QUARTIERS PRINCIPAUX :",
+  "sections": {
+    "geography": "Un rocher suspendu au-dessus de la mer",
+    "animals": "La mer, le ciel et leurs secrets",
+    "culture": "La fête sur un confetti de pays",
+    "history": "Un moine espion et son château",
+    "wows": "Tu n'y croiras pas !"
+  },
+  "geo": "Monaco s'accroche à une falaise de calcaire sur la Côte d'Azur, entouré de la France et de la mer Méditerranée. Le pays entier est à peine plus grand qu'un parc — on peut le traverser en marchant 20 minutes ! Le port Hercule se remplit chaque printemps des plus grands yachts du monde, et des ingénieurs ont même gagné des terres sur la mer pour agrandir Monaco petit à petit.",
+  "animals": "Sous les eaux du port vivent des pieuvres, des daurades et des murènes tapis dans les rochers. Chaque été, des dauphins et de grands rorquals passent au large, observés depuis les bateaux du Musée Océanographique ! Sur les toits et dans les jardins, le goéland leucophée règne en maître, et de petits renards roux se cachent sous les buissons.",
+  "culture": "La spécialité de Monaco s'appelle le barbajuan — un petit beignet croustillant fourré d'épinards et de fromage. C'est tellement bon qu'on en mange lors de la Fête nationale chaque 19 novembre ! Et chaque mois de mai, les rues de la ville entière se transforment en circuit de Formule 1 — les voitures rugissent entre les immeubles !",
+  "history": "En 1297, François Grimaldi s'est déguisé en moine pour entrer par ruse dans la forteresse de Monaco, une épée cachée sous sa robe ! Sa famille garde ce rocher depuis ce jour — c'est la plus vieille famille royale d'Europe. Et depuis 1869, les habitants de Monaco ne paient pas d'impôts sur leurs revenus — le prince en avait décidé ainsi pour toujours.",
+  "wows": [
+    "Monaco est le pays le plus densément peuplé du monde : 18 000 personnes par km² !",
+    "Les habitants de Monaco n'ont pas le droit d'entrer dans le célèbre casino de Monte-Carlo.",
+    "À Monaco, on ne paie pas d'impôts sur les revenus — depuis 1869 !",
+    "La course de Formule 1 de Monaco se tient dans les mêmes rues depuis 1929.",
+    "Monaco n'a aucune dette — le pays ne doit de l'argent à personne.",
+    "Tout un quartier, Fontvieille, est construit sur de la terre gagnée sur la mer.",
+    "Le pilote Ayrton Senna a gagné le Grand Prix de Monaco six fois — un record encore imbattu !"
+  ],
+  "myths": [
+    {
+      "myth": "Monaco est réservé aux milliardaires",
+      "fact": "N'importe qui peut y visiter librement. Le casino, la place du palais et les plages sont ouverts à tous — un train depuis Nice prend environ 25 minutes et coûte quelques euros."
+    },
+    {
+      "myth": "Monaco a son propre aéroport",
+      "fact": "Il n'y a pas d'aéroport à Monaco. Le plus proche est Nice Côte d'Azur — 20 minutes en hélicoptère ou 40 minutes en voiture le long de la Riviera."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "S'il vous plaît",
+      "jp": "S'il vous",
+      "say": "seel-voo-PLAY"
+    },
+    {
+      "en": "La mer",
+      "jp": "La mer",
+      "say": "la MAIR"
+    },
+    {
+      "en": "Le palais",
+      "jp": "Le palais",
+      "say": "luh pa-LAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mc-hero.jpg",
+      "alt": "Vue aérienne du port Hercule de Monaco rempli de yachts pendant le week-end du Grand Prix",
+      "caption": "PORT HERCULE — le célèbre port de Monaco vu du ciel pendant la Formule 1",
+      "credit": "Niels Mickers / CC BY 3.0 NL"
+    },
+    "landmark": {
+      "src": "/photos/mc-landmark.jpg",
+      "alt": "Le Palais du Prince de Monaco perché sur la falaise rocheuse au-dessus de la mer",
+      "caption": "PALAIS DU PRINCE — la maison des Grimaldi sur le rocher depuis 1297",
+      "credit": "Niels Mickers / CC BY 3.0 NL"
+    },
+    "animalA": {
+      "src": "/photos/mc-animalA.jpg",
+      "alt": "Un goéland leucophée debout avec ses pattes jaunes caractéristiques et ses ailes grises",
+      "caption": "GOÉLAND LEUCOPHÉE — l'oiseau côtier de Monaco, maître de chaque marina",
+      "credit": "Alexis Lours / CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/mc-animalB.jpg",
+      "alt": "Un grand dauphin adulte nageant aux côtés de son jeune veau",
+      "caption": "GRAND DAUPHIN — visiteurs saisonniers dans les eaux chaudes au large de Monaco",
+      "credit": "Peter Asprey / CC BY-SA 3.0"
+    }
+  }
+}

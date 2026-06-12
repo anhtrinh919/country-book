@@ -1,0 +1,150 @@
+{
+  "name": "AFGHANISTAN",
+  "nativeName": "افغان",
+  "romaji": "AFGHANISTAN",
+  "tagline": "Le Toit du Monde",
+  "region": "South Asia",
+  "coords": "33.94°N, 67.71°E",
+  "fileNo": "004",
+  "langName": "dari",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A5A",
+    "line": "#DCCFB0",
+    "accent": "#009A44",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/af.svg",
+    "title": "Drapeau afghan",
+    "note": "Noir, rouge et vert avec un emblème blanc",
+    "keyColor": "#009A44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Afghanistan a des montagnes tellement hautes qu'elles touchent presque les nuages ! Des marchands du monde entier traversaient ce pays il y a très longtemps pour échanger des épices, des soieries et des trésors. C'est un pays plein de surprises !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kaboul",
+      "sub": "Env. 4,9 millions d'hab."
+    },
+    {
+      "label": "Habitants",
+      "value": "~43 millions",
+      "sub": "Est. 2023, sans recensement"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Afghani (AFN)",
+      "sub": "1 USD ≈ 64 AFN"
+    },
+    {
+      "label": "Langue",
+      "value": "Dari et pachtou",
+      "sub": "Deux langues officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "652 230 km²",
+      "sub": "Plus grand que la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Noshaq 7 492 m",
+      "sub": "2e sommet de l'Hindu Kuch"
+    }
+  ],
+  "islands": [
+    "Kaboul",
+    "Kandahar",
+    "Hérat",
+    "Mazar-e Charif"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes géantes et déserts dorés",
+    "animals": "Léopards des neiges et chevaux sauvages",
+    "culture": "Tapis colorés, poésie et thé vert",
+    "history": "Une terre de légendes et de trésors",
+    "wows": "7 choses incroyables sur l'Afghanistan"
+  },
+  "geo": "L'Afghanistan n'a pas du tout de mer — il est entouré de terre de tous les côtés ! Au milieu, les montagnes de l'Hindu Kuch sont si hautes qu'elles restent couvertes de neige toute l'année.",
+  "animals": "Le léopard des neiges se promène en silence sur les hautes montagnes, avec ses grandes pattes douces comme des raquettes à neige. Le lévrier afghan, un des plus vieux chiens du monde, a de longs poils soyeux pour rester bien au chaud !",
+  "culture": "En Afghanistan, on offre toujours du thé vert à la cardamome à ses invités pour leur dire bienvenue — c'est une règle très importante ! Les familles fabriquent aussi de magnifiques tapis avec des motifs colorés qui racontent des histoires.",
+  "history": "Il y a très longtemps, une ville appelée Balkh était si grande et si belle qu'on l'appelait la « Mère de toutes les villes » — elle avait déjà 3 000 ans ! Des voyageurs et des aventuriers du monde entier venaient la visiter.",
+  "wows": [
+    "Les grenades de Kandahar sont parmi les plus sucrées du monde — on les adore depuis plus de 1 000 ans !",
+    "La ville de Balkh a plus de 3 000 ans — c'est une des plus vieilles villes de la planète !",
+    "Il y a très longtemps, les plus grandes statues de Bouddha du monde entier étaient taillées dans la roche à Bamiyan.",
+    "Les lacs de Band-e Amir sont d'un bleu si vif qu'on croirait qu'ils sont peints — mais c'est la vraie nature !",
+    "Le jeu national s'appelle le bouzkachi : des cavaliers à cheval se disputent… une chèvre ! C'est vieux de 1 000 ans.",
+    "Un grand minaret de 65 mètres de haut se cache dans une vallée isolée — il s'appelle le Minaret de Djam.",
+    "L'Afghanistan touche six pays différents : le Pakistan, l'Iran, le Turkménistan, l'Ouzbékistan, le Tadjikistan et la Chine !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Afghanistan n'est qu'un désert",
+      "fact": "Le nord et l'est sont couverts de hautes montagnes et de jolies vallées vertes. Seul le sud est vraiment un désert."
+    },
+    {
+      "myth": "Tout le monde parle la même langue",
+      "fact": "Il y a deux langues officielles — le dari et le pachtou — et encore plus de 30 autres langues parlées dans le pays !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "سلام",
+      "say": "Sa-LAAM"
+    },
+    {
+      "en": "Merci",
+      "jp": "تشکر",
+      "say": "tash-A-KOR"
+    },
+    {
+      "en": "Oui",
+      "jp": "بله",
+      "say": "ba-LAY"
+    },
+    {
+      "en": "Non",
+      "jp": "نه",
+      "say": "na"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "خوش آمدید",
+      "say": "khosh-aa-ma-DEED"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/af-hero.jpg",
+      "alt": "Vue panoramique de la ville de Kaboul avec les montagnes derrière",
+      "caption": "KABOUL — la capitale nichée dans une vallée de montagne à 1 800 m d'altitude",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/af-landmark.jpg",
+      "alt": "Lacs bleu profond de Band-e Amir entourés de falaises rouges",
+      "caption": "BAND-E AMIR — lacs naturels bleu vif, premier parc national d'Afghanistan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/af-animalA.jpg",
+      "alt": "Léopard des neiges se reposant sur un rocher",
+      "caption": "LÉOPARD DES NEIGES — le fantôme de l'Hindu Kuch, presque invisible dans la nature",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/af-animalB.jpg",
+      "alt": "Lévrier afghan avec son long pelage soyeux",
+      "caption": "LÉVRIER AFGHAN — une des plus anciennes races de chien du monde, né dans les montagnes",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

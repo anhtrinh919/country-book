@@ -1,0 +1,163 @@
+{
+  "name": "SAINT-MARIN",
+  "nativeName": "SM",
+  "romaji": "SAN MARINO",
+  "tagline": "Toute petite, mais très ancienne !",
+  "region": "Southern Europe",
+  "coords": "43.9°N 12.4°E",
+  "fileNo": "083",
+  "langName": "italien",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF2F6",
+    "dot": "#c2ccd8",
+    "ink": "#1e2530",
+    "faint": "#7a8a9e",
+    "line": "#d4dce8",
+    "accent": "#5EB6E4",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/sm.svg",
+    "title": "Saint-Marin",
+    "note": "Blanc sur bleu ciel, blason au centre",
+    "keyColor": "#5EB6E4",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saint-Marin est perché tout en haut d'une montagne et c'est le plus vieux pays libre du monde — il existe depuis l'an 301 ! Trois grandes tours médiévales trônent au sommet comme une couronne de pierre !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "San Marino",
+      "sub": "Même nom que le pays !"
+    },
+    {
+      "label": "Habitants",
+      "value": "~34 200",
+      "sub": "Estimation 2026"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "La même qu'en Italie"
+    },
+    {
+      "label": "Langue",
+      "value": "Italien",
+      "sub": "Avec un dialecte local en plus"
+    },
+    {
+      "label": "Superficie",
+      "value": "61 km²",
+      "sub": "Plus petit que la plupart des villes"
+    },
+    {
+      "label": "Point culminant",
+      "value": "749 m",
+      "sub": "Sommet du Monte Titano"
+    }
+  ],
+  "islands": [
+    "San Marino",
+    "Serravalle",
+    "B. Maggiore",
+    "Domagnano",
+    "Fiorentino"
+  ],
+  "islandsLabel": "CHÂTEAUX PRINCIPAUX :",
+  "sections": {
+    "geography": "Un royaume dans les nuages",
+    "animals": "Faucons, renards et amis des bois",
+    "culture": "Tours, gâteaux et tournois !",
+    "history": "La plus vieille république du monde",
+    "wows": "Trop bizarre pour être vrai… et pourtant !"
+  },
+  "geo": [
+    "Saint-Marin est posé sur le Monte Titano, une montagne de calcaire qui monte à 749 mètres au-dessus des plaines italiennes. Tout le pays ne fait que 61 km² — tu pourrais le traverser à pied en une matinée !",
+    "La montagne attrape les nuages, alors Saint-Marin est plus frais et plus vert que les terres en bas. Les forêts de chênes et de châtaigniers gardent l'air frais et sentent bon toute l'année."
+  ],
+  "animals": [
+    "Les falaises du Monte Titano abritent le faucon pèlerin, l'oiseau national de Saint-Marin — et l'animal le plus rapide de la Terre, qui plonge à plus de 300 km/h pour attraper d'autres oiseaux en plein vol !",
+    "Dans les bois de chênes vivent des renards roux, des blaireaux, des hérissons et des chevreuils. Comme le pays est petit et que les gens protègent la nature, les animaux vivent tout près des vieilles murailles médiévales."
+  ],
+  "culture": [
+    "Le gâteau préféré de Saint-Marin s'appelle la Torta Tre Monti — des couches de gaufres fourrées à la crème de noisette et de cacao, en forme des trois tours ! On mange aussi la piadina, un pain plat chaud garni de jambon ou de fromage, plié comme un câlin.",
+    "Chaque 3 septembre, la fête nationale remplit les vieilles ruelles d'un grand tournoi de tir à l'arbalète en costume médiéval, et des feux d'artifice illuminent les trois tours. En mars, des grands feux de joie appelés focheracce brûlent dans chaque château pour fêter les papas et le printemps !"
+  ],
+  "history": [
+    "Il y a très longtemps, un tailleur de pierre nommé Marin a gravi le Monte Titano et y a construit une petite chapelle. Il a déclaré la terre libre pour tout le monde — et depuis l'an 301, personne n'a jamais réussi à conquérir ce tout petit pays !",
+    "Même Napoléon, le grand conquérant, a voulu agrandir Saint-Marin — mais les habitants ont dit non merci ! Depuis 1 700 ans, ce minuscule pays a gardé son indépendance, entouré de toutes parts par l'Italie."
+  ],
+  "wows": [
+    "Saint-Marin est la plus vieille république du monde — elle a plus de 1 700 ans !",
+    "Tout le pays est plus petit que la ville de Florence, mais il a sa propre armée et ses propres timbres.",
+    "Saint-Marin a DEUX chefs en même temps, appelés Capitaines-Régents, qui changent tous les six mois.",
+    "C'est l'un des premiers pays au monde à avoir interdit la peine de mort, dès 1865 !",
+    "L'équipe de foot de Saint-Marin a marqué un but après seulement 8,3 secondes contre l'Angleterre — le but international le plus rapide de l'histoire !",
+    "Malgré sa toute petite taille, Saint-Marin est l'un des pays les plus riches d'Europe.",
+    "Des collectionneurs du monde entier achètent les timbres de Saint-Marin rien que pour les avoir — et ça rapporte de l'argent au pays !"
+  ],
+  "myths": [
+    {
+      "myth": "Saint-Marin fait partie de l'Italie",
+      "fact": "Il est entouré par l'Italie, mais c'est un pays totalement indépendant avec son propre gouvernement, son passeport et ses lois depuis l'an 301 !"
+    },
+    {
+      "myth": "C'est trop petit pour être un vrai pays",
+      "fact": "Saint-Marin a un siège à l'ONU, participe aux Jeux olympiques et fait partie des 15 pays les plus riches du monde par habitant !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Ciao",
+      "say": "CHOW"
+    },
+    {
+      "en": "Merci",
+      "jp": "Grazie",
+      "say": "GRAT-zee-eh"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Per favore",
+      "say": "pair fah-VOR-eh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Sì",
+      "say": "SEE"
+    },
+    {
+      "en": "Les tours",
+      "jp": "Le torri",
+      "say": "leh TOR-ree"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sm-hero.jpg",
+      "alt": "Vue panoramique du Monte Titano avec ses trois tours médiévales s'élevant au-dessus de la ville",
+      "caption": "MONTE TITANO — les trois tours de Saint-Marin dominent la brume du matin",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sm-landmark.jpg",
+      "alt": "La forteresse de la Guaita sur le Monte Titano, Saint-Marin",
+      "caption": "TOUR GUAITA — la plus ancienne des Trois Tours, perchée sur le Monte Titano",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sm-animalA.jpg",
+      "alt": "Faucon pèlerin posé, montrant son bec crochu et sa poitrine barrée",
+      "caption": "FAUCON PÈLERIN — oiseau national de Saint-Marin, l'animal le plus rapide de la Terre",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sm-animalB.jpg",
+      "alt": "Renard roux au pelage orange, l'air attentif dans un sous-bois",
+      "caption": "RENARD ROUX — un habitant malin des collines boisées de Saint-Marin",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

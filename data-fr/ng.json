@@ -1,0 +1,151 @@
+{
+  "name": "NIGÉRIA",
+  "nativeName": "NG",
+  "romaji": "NIGERIA",
+  "tagline": "Le Géant de l'Afrique",
+  "region": "Afrique de l'Ouest",
+  "coords": "9.08°N, 8.67°E",
+  "fileNo": "087",
+  "langName": "haoussa",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBB9A",
+    "ink": "#1E1C18",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#008751",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/ng.svg",
+    "title": "Vert et Blanc",
+    "note": "Deux bandes vertes et une bande blanche",
+    "keyColor": "#008751",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Une personne sur six en Afrique habite au Nigéria — c'est le pays le plus peuplé de tout le continent ! Les forêts du sud sont si denses qu'on ne voit presque pas le ciel. Le Nigéria a inventé la musique Afrobeats que tout le monde adore danser !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Abuja",
+      "sub": "Ville toute neuve, ouverte en 1991"
+    },
+    {
+      "label": "Habitants",
+      "value": "~224 millions",
+      "sub": "Le plus peuplé d'Afrique"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Naira ₦",
+      "sub": "100 kobo = 1 naira"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Et aussi haoussa, yoruba, igbo"
+    },
+    {
+      "label": "Superficie",
+      "value": "923 768 km²",
+      "sub": "Plus grand que la France fois 1,5 !"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Chappal Waddi",
+      "sub": "2 419 m, État de Taraba"
+    }
+  ],
+  "islands": [
+    "Lagos",
+    "Kano",
+    "Abuja",
+    "P. Harcourt",
+    "Ibadan"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Fleuves, savane et jungle !",
+    "animals": "Les animaux fantastiques du Nigéria",
+    "culture": "Musique, riz et 500 langues",
+    "history": "Des empires et des sculptures magiques",
+    "wows": "Les secrets fous du Nigéria"
+  },
+  "geo": "Le Nigéria a deux grands fleuves — le Niger et la Bénoué — qui se rejoignent en formant un immense Y comme dans l'alphabet ! Au nord, c'est une grande plaine sèche et chaude ; au sud, une forêt touffue pleine de mystères.",
+  "animals": "Dans les forêts du Nigéria vit le gorille de Cross River, l'un des animaux les plus rares du monde — il en reste moins de 300 ! Au parc de Yankari, plus de 350 éléphants se promènent librement près de sources d'eau chaude.",
+  "culture": "Au Nigéria, les gens parlent plus de 500 langues différentes — c'est comme avoir 500 façons de dire bonjour ! Chaque année, Nollywood fabrique des milliers de films, et la star Burna Boy fait danser le monde entier avec sa musique Afrobeats.",
+  "history": "Il y a 2 000 ans, le peuple Nok fabriquait de magnifiques statues en terre cuite — certaines ressemblent à des visages souriants. Bien plus tard, le royaume yoruba d'Oyo était si puissant que ses cavaliers faisaient trembler toute la région !",
+  "wows": [
+    "Le Nigéria fabrique plus de films par an que Hollywood — Nollywood est la plus grande industrie de cinéma d'Afrique !",
+    "Lagos est une ville de 15 millions d'habitants — c'est comme si toute la France habitait dans une seule ville !",
+    "Les sculptures en bronze de Bénin, vieilles de 500 ans, sont parmi les plus belles jamais créées au monde.",
+    "Le gorille de Cross River est si rare que les scientifiques reconnaissent chaque individu grâce à l'empreinte unique de son nez !",
+    "Au Nigéria, plus de gens parlent anglais qu'au Royaume-Uni, là où la langue a été inventée !",
+    "Le lac Tchad au nord-est rétrécit chaque année — il était autrefois aussi grand qu'une mer !",
+    "Les Nigérians sont convaincus que leur riz jollof est le meilleur d'Afrique — et ils le défendent avec passion !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Nigéria n'est que jungle et pauvreté",
+      "fact": "Le Nigéria a une grande ville moderne comme Lagos avec des gratte-ciels, des restaurants incroyables et plein de jeunes qui inventent des technologies !"
+    },
+    {
+      "myth": "Tous les Nigérians parlent la même langue",
+      "fact": "Le Nigéria a plus de 500 langues différentes — un enfant de Kano et un enfant de Lagos doivent parler anglais pour se comprendre !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Sannu",
+      "say": "SAH-noo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Na gode",
+      "say": "nah GOH-day"
+    },
+    {
+      "en": "Nourriture",
+      "jp": "Abinci",
+      "say": "ah-BIN-chee"
+    },
+    {
+      "en": "Eau",
+      "jp": "Ruwa",
+      "say": "ROO-wah"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Maraba",
+      "say": "mah-RAH-bah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ng-hero.jpg",
+      "alt": "Le panorama de l'île de Lagos vu depuis le pont Carter",
+      "caption": "LAGOS — la mégacité africaine de 15 millions d'habitants brille au crépuscule",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ng-landmark.jpg",
+      "alt": "Le monolithe de Zuma Rock près d'Abuja au Nigéria",
+      "caption": "ZUMA ROCK — le monolithe de 725 m qui garde la route vers Abuja",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ng-animalA.jpg",
+      "alt": "Un gorille de Cross River dans la forêt",
+      "caption": "GORILLE DE CROSS RIVER — moins de 300 survivent dans la nature",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ng-animalB.jpg",
+      "alt": "Un éléphant de forêt africain dans les bois",
+      "caption": "ÉLÉPHANT DE FORÊT — plus petit et plus timide que son cousin des savanes",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

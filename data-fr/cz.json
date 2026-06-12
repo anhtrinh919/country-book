@@ -1,0 +1,163 @@
+{
+  "name": "TCHÉQUIE",
+  "nativeName": "Česko",
+  "romaji": "CZECHIA",
+  "tagline": "Le cœur de l'Europe",
+  "region": "Europe centrale",
+  "coords": "49.8°N, 15.5°E",
+  "fileNo": "042",
+  "langName": "tchèque",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BBA8",
+    "ink": "#27231F",
+    "faint": "#8A7A62",
+    "line": "#DDD3C0",
+    "accent": "#D7141A",
+    "accent2": "#11457E"
+  },
+  "flag": {
+    "assetPath": "/flags/cz.svg",
+    "title": "Drapeau de la Tchéquie",
+    "note": "Blanc, rouge et bleu avec un triangle bleu côté hampe",
+    "keyColor": "#D7141A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Tchéquie est un pays entouré de collines et de forêts, tout au milieu de l'Europe — on ne voit pas la mer de là-bas ! Il y a plus de 2 000 châteaux, comme dans les contes de fées !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Prague",
+      "sub": "1,4 million d'habitants — sur la rivière Vltava"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,9 millions",
+      "sub": "Est. 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Couronne tchèque",
+      "sub": "CZK — « koruna » veut dire couronne"
+    },
+    {
+      "label": "Langue",
+      "value": "Tchèque",
+      "sub": "Langue slave, proche du slovaque"
+    },
+    {
+      "label": "Superficie",
+      "value": "78 867 km²",
+      "sub": "Un peu plus petit que l'Autriche"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Sněžka 1 603 m",
+      "sub": "Les Monts des Géants (Krkonoše)"
+    }
+  ],
+  "islands": [
+    "Prague",
+    "Brno",
+    "Ostrava",
+    "Plzeň",
+    "Olomouc"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays de collines et de rivières",
+    "animals": "Le lynx et ses amis de la forêt",
+    "culture": "Marionnettes, contes et bonne bière",
+    "history": "Des ponts, des rois et des légendes",
+    "wows": "La Tchéquie, c'est incroyable !"
+  },
+  "geo": [
+    "La Tchéquie n'a pas de mer du tout — elle est entourée de montagnes et de collines de tous les côtés ! À l'ouest, ce sont les douces collines de Bohême ; à l'est, les plaines de Moravie avec leurs vignes.",
+    "La rivière Vltava serpente sur 430 km à travers le pays et passe sous les beaux ponts de Prague."
+  ],
+  "animals": [
+    "Le lynx eurasien vit dans la grande forêt de Šumava — c'est un gros chat sauvage avec des touffes de poils sur les oreilles, aussi grand qu'un labrador ! Il avait disparu, mais on l'a ramené dans les années 1980.",
+    "Les cerfs roux beuglent dans les vallées brumeuses en automne, et leurs bois sont aussi grands que les branches d'un arbre !"
+  ],
+  "culture": [
+    "Les Tchèques adorent les marionnettes en bois — des petits personnages articulés qui jouent des spectacles entiers depuis des centaines d'années ! C'est un art très spécial, classé au patrimoine mondial.",
+    "Chaque soir de Noël, toute la famille regarde des films de contes de fées à la télévision — c'est une tradition adorée par tous les enfants du pays."
+  ],
+  "history": [
+    "Il y a très longtemps, un roi très puissant nommé Charles IV construisit le fameux Pont Charles à Prague en 1357 — un pont en pierre décoré de statues de saints tout le long ! Il voulait que Prague soit la plus belle ville du monde.",
+    "La légende dit que Charles IV mit lui-même un œuf dans les pierres du pont pour le rendre encore plus solide — et le pont tient toujours debout aujourd'hui !"
+  ],
+  "wows": [
+    "La Tchéquie a plus de 2 000 châteaux — presque un château dans chaque village !",
+    "Le Château de Prague est le plus grand château ancien du monde entier.",
+    "C'est un écrivain tchèque, Karel Čapek, qui a inventé le mot « robot » en 1920.",
+    "Un savant tchèque a inventé les premières lentilles de contact souples, chez lui, le jour de Noël 1961 !",
+    "Les Tchèques boivent plus de bière par personne que n'importe qui d'autre sur la Terre.",
+    "Le système de groupe sanguin A, B, O a été découvert par un scientifique tchèque en 1907.",
+    "La Tchéquie a 16 sites classés au patrimoine mondial de l'UNESCO — autant de trésors à visiter !"
+  ],
+  "myths": [
+    {
+      "myth": "La Tchécoslovaquie et la Tchéquie, c'est pareil",
+      "fact": "Non ! La Tchécoslovaquie s'est séparée en deux pays le 1er janvier 1993, sans aucune dispute — comme un partage de gâteau très poli. La Tchéquie est à l'ouest et la Slovaquie à l'est."
+    },
+    {
+      "myth": "Prague est une ville d'Europe de l'Est",
+      "fact": "En réalité, Prague est encore plus à l'ouest que Vienne en Autriche ! La Tchéquie est au cœur de l'Europe, pas à l'est — c'est juste une vieille erreur que les gens répètent."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Ahoj",
+      "say": "ah-HOY"
+    },
+    {
+      "en": "Merci",
+      "jp": "Děkuji",
+      "say": "DYEH-koo-yi"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Prosím",
+      "say": "PRO-seem"
+    },
+    {
+      "en": "Santé !",
+      "jp": "Na zdraví",
+      "say": "nah ZDRA-vee"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Na shledanou",
+      "say": "nah SKLE-dah-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cz-hero.jpg",
+      "alt": "Le pont Charles sur la rivière Vltava à Prague, baigné d'une lumière dorée",
+      "caption": "LE PONT CHARLES — le pont en pierre du XIVe siècle de Prague, bordé de saints baroques",
+      "credit": "Wikimedia Commons / DOWIMA, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/cz-landmark.jpg",
+      "alt": "Vue panoramique du Château de Prague et de la cathédrale Saint-Guy depuis le Pont Charles",
+      "caption": "LE CHÂTEAU DE PRAGUE — le plus grand complexe de château du monde sur les bords de la Vltava",
+      "credit": "Wikimedia Commons / D. Mottl, CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/cz-animalA.jpg",
+      "alt": "Un lynx eurasien tapi dans la forêt, montrant sa robe tachetée et ses oreilles en pinceau",
+      "caption": "LYNX EURASIEN — réintroduit dans la forêt de Šumava dans les années 1980",
+      "credit": "Wikimedia Commons, CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/cz-animalB.jpg",
+      "alt": "Un cerf élaphe mâle aux grands bois dans une prairie en automne",
+      "caption": "CERF ÉLAPHE — se promenant dans les forêts et les vallées de Bohême et de Moravie",
+      "credit": "Wikimedia Commons, CC BY-SA 3.0"
+    }
+  }
+}

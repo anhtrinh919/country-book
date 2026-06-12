@@ -1,0 +1,151 @@
+{
+  "name": "CROATIE",
+  "nativeName": "HR",
+  "romaji": "HRVATSKA",
+  "tagline": "Mer, îles et pierres anciennes",
+  "region": "Southeast Europe / Balkans",
+  "coords": "45.1°N, 15.2°E",
+  "fileNo": "085",
+  "langName": "croate",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#C9BCA8",
+    "ink": "#25201A",
+    "faint": "#8A7C65",
+    "line": "#D8CCBA",
+    "accent": "#CC2027",
+    "accent2": "#1A3A6B"
+  },
+  "flag": {
+    "assetPath": "/flags/hr.svg",
+    "title": "Drapeau de la Croatie",
+    "note": "Rouge-blanc-bleu + blason à damier rouge",
+    "keyColor": "#CC2027",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Croatie a plus de 1 000 îles dans une belle mer bleue — imagine mille îles comme des bonbons sur l'eau ! Des villes avec de grands murs en pierre semblent sorties d'un conte de fées. Et c'est en Croatie qu'on a inventé la cravate !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Zagreb",
+      "sub": "Env. 770 000 hab. (2021)"
+    },
+    {
+      "label": "Habitants",
+      "value": "3,87 millions",
+      "sub": "Recensement 2021"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Dans la zone euro depuis 2023"
+    },
+    {
+      "label": "Langue",
+      "value": "Croate",
+      "sub": "Langue slave du Sud"
+    },
+    {
+      "label": "Superficie",
+      "value": "56 594 km²",
+      "sub": "Taille de la Virginie-Occidentale"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Dinara 1 831 m",
+      "sub": "À la frontière avec la Bosnie"
+    }
+  ],
+  "islands": [
+    "Zagreb",
+    "Split",
+    "Dubrovnik",
+    "Osijek",
+    "Rijeka"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays d'îles et de cascades magiques",
+    "animals": "Ours sauvages et hippocampes",
+    "culture": "Cravates, chansons et délices croates",
+    "history": "Un palais romain où on vit encore !",
+    "wows": "Tu ne vas pas le croire !"
+  },
+  "geo": "La Croatie ressemble à un croissant qui embrasse la mer Adriatique avec plus de 1 000 îles. À l'intérieur du pays, le parc de Plitvice empile 16 lacs turquoise comme un escalier géant avec des cascades entre chaque marche !",
+  "animals": "Environ 1 000 ours bruns vivent dans les grandes forêts de Croatie — ce sont les plus gros animaux sauvages du pays ! Dans la mer Adriatique, le petit hippocampe se cache dans les baies propres, et les dauphins sautent souvent près des bateaux.",
+  "culture": "C'est un Croate qui a inventé la cravate ! Des soldats portaient des écharpes nouées au cou au XVIIe siècle, et toute l'Europe a copié la mode. À Zagreb, il y a même un petit musée de la cravate !",
+  "history": "Il y a presque 1 700 ans, l'empereur romain Dioclétien a fait construire un immense palais à Split pour sa retraite. Le plus incroyable ? Des gens vivent encore à l'intérieur de ce palais aujourd'hui !",
+  "wows": [
+    "La Croatie a plus de 1 000 îles, mais seulement 50 environ ont des habitants.",
+    "Les vieux murs de Dubrovnik ont servi de décor dans la série Game of Thrones !",
+    "Des gens vivent dans un palais romain vieux de 1 700 ans à Split — en vrai !",
+    "Le damier rouge sur le drapeau croate s'appelle le šahovnica, il est utilisé depuis des siècles.",
+    "Le mot « cravate » vient directement du mot « Croate » — c'est leur invention !",
+    "Les cascades de Plitvice grandissent d'un centimètre chaque année — elles sont vivantes !",
+    "La Croatie a rejoint la zone euro en janvier 2023 et est devenue le 20e pays à utiliser l'euro."
+  ],
+  "myths": [
+    {
+      "myth": "« Dubrovnik, c'est Game of Thrones ! »",
+      "fact": "Dubrovnik a servi de décor pour la série, mais la ville est bien réelle ! Ses murs ont été construits à partir du XIIIe siècle — bien avant les séries télé !"
+    },
+    {
+      "myth": "« La Croatie, c'est juste des plages »",
+      "fact": "L'intérieur de la Croatie est plein de forêts, de montagnes, d'ours et d'une grande capitale Zagreb avec de belles rues et des cafés partout."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bok",
+      "say": "BOKE"
+    },
+    {
+      "en": "Merci",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Île",
+      "jp": "Otok",
+      "say": "OH-tok"
+    },
+    {
+      "en": "Mer",
+      "jp": "More",
+      "say": "MOH-reh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hr-hero.jpg",
+      "alt": "Vue aérienne de la vieille ville de Dubrovnik et ses remparts sur la mer",
+      "caption": "DUBROVNIK — cité médiévale fortifiée sur l'Adriatique, la Perle de l'Adriatique",
+      "credit": "Wikimedia Commons / Bernard Gagnon"
+    },
+    "landmark": {
+      "src": "/photos/hr-landmark.jpg",
+      "alt": "Lacs en terrasses turquoise et cascades à Plitvice",
+      "caption": "LACS DE PLITVICE — 16 lacs turquoise en terrasses cascadant sur la travertine",
+      "credit": "Wikimedia Commons / Branko Radovanović"
+    },
+    "animalA": {
+      "src": "/photos/hr-animalA.jpg",
+      "alt": "Ours brun dans une clairière de forêt",
+      "caption": "OURS BRUN — ~1 000 individus dans les forêts du mont Velebit en Croatie",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    },
+    "animalB": {
+      "src": "/photos/hr-animalB.jpg",
+      "alt": "Tortue caouanne nageant sous l'eau",
+      "caption": "TORTUE CAOUANNE — pond ses œufs sur les plages tranquilles de Croatie chaque été",
+      "credit": "Wikimedia Commons / Tomas Castelazo"
+    }
+  }
+}

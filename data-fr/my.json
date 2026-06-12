@@ -1,0 +1,151 @@
+{
+  "name": "MALAISIE",
+  "nativeName": "MY",
+  "romaji": "MALAYSIA",
+  "tagline": "Toute l'Asie en un seul pays !",
+  "region": "Asie du Sud-Est",
+  "coords": "4.21°N, 101.97°E",
+  "fileNo": "043",
+  "langName": "malais",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A58",
+    "line": "#DACFB0",
+    "accent": "#CC0001",
+    "accent2": "#010066"
+  },
+  "flag": {
+    "assetPath": "/flags/my.svg",
+    "title": "Jalur Gemilang",
+    "note": "14 rayures rouges et blanches, canton bleu",
+    "keyColor": "#CC0001",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Malaisie, il y a une forêt vieille de 130 millions d'années — plus vieille que les dinosaures ! Des orangs-outans se balancent dans les arbres géants pendant que des tours brillantes montent jusqu'aux nuages dans les villes. C'est le pays où la jungle et les gratte-ciel sont voisins !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kuala Lumpur",
+      "sub": "KL — une grande ville avec des tours incroyables"
+    },
+    {
+      "label": "Habitants",
+      "value": "34,1 millions",
+      "sub": "est. 2024, très diversifié"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Ringgit (MYR)",
+      "sub": "RM — ça veut dire « dentelé »"
+    },
+    {
+      "label": "Langue",
+      "value": "Bahasa Melayu",
+      "sub": "+ l'anglais très utilisé"
+    },
+    {
+      "label": "Superficie",
+      "value": "329 847 km²",
+      "sub": "un peu plus grande que la Norvège"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Kinabalu",
+      "sub": "4 095 m — Sabah, Bornéo"
+    }
+  ],
+  "islands": [
+    "Peninsula",
+    "Sabah",
+    "Sarawak",
+    "Labuan",
+    "Putrajaya"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Forêts magiques et montagnes géantes",
+    "animals": "Les bêtes de la jungle",
+    "culture": "Fêtes, épices et lumières",
+    "history": "Un port de rêve au bord de la mer",
+    "wows": "C'est vrai, vraiment ?"
+  },
+  "geo": "La Malaisie a deux grandes parties séparées par la mer : une péninsule couverte de forêts vertes et deux régions sur l'île de Bornéo. Le mont Kinabalu est si haut qu'il touche les nuages et on peut le voir de très loin !",
+  "animals": "L'orang-outan de Bornéo se balance de branche en branche dans une forêt vieille de 130 millions d'années. Le singe proboscis a un nez si énorme qu'il ressemble à une patate — et il klaxonne pour parler à ses amis !",
+  "culture": "En Malaisie, tout le monde fête les fêtes de ses voisins : l'Aïd, le Nouvel An chinois, Deepavali et Noël sont tous des jours fériés ! La nourriture préférée de tout le monde est le nasi lemak — du riz cuit dans du lait de coco avec des cacahuètes croustillantes.",
+  "history": "Il y a 600 ans, Malacca était le port le plus animé d'Asie — des bateaux du monde entier venaient y acheter des épices précieuses. Les marchands arabes, indiens et chinois dormaient tous dans la même ville et échangeaient leurs trésors !",
+  "wows": [
+    "La grotte de Sarawak est si grande qu'on pourrait mettre 40 avions géants à l'intérieur !",
+    "Les tours Petronas étaient les plus hautes du monde de 1998 à 2004 — comme deux crayons géants dans le ciel.",
+    "Dans la grotte de Deer Cave, trois millions de chauves-souris s'envolent chaque soir comme une tornade noire.",
+    "Le tapir malais n'a presque pas changé depuis 20 millions d'années — c'est un animal préhistorique vivant !",
+    "Kuala Lumpur veut dire « confluence boueuse » — la ville a commencé comme un camp de mineurs dans la boue !",
+    "La Malaisie est divisée en deux par la mer de Chine du Sud — comme deux pays frères très éloignés.",
+    "Des lucioles illuminent les arbres de la rivière Selangor chaque nuit comme un sapin de Noël vivant !"
+  ],
+  "myths": [
+    {
+      "myth": "La Malaisie c'est juste de la jungle sans villes",
+      "fact": "Kuala Lumpur a des gratte-ciel spectaculaires et plus de 70 % des Malaisiens habitent dans des villes avec internet super rapide !"
+    },
+    {
+      "myth": "Il fait toujours une chaleur impossible",
+      "fact": "Les Cameron Highlands sont en altitude et il y fait si frais qu'on peut y cultiver des fraises et du thé toute l'année !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Helo",
+      "say": "heh-loh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Terima kasih",
+      "say": "teh-REE-mah KAH-si"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Sedap",
+      "say": "seh-DAP"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Cantik",
+      "say": "CHAN-tik"
+    },
+    {
+      "en": "On mange !",
+      "jp": "Jom makan!",
+      "say": "jom MAH-kan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/my-hero.jpg",
+      "alt": "Les tours jumelles Petronas illuminées la nuit au-dessus de Kuala Lumpur",
+      "caption": "TOURS PETRONAS — les plus hautes du monde de 1998 à 2004, Kuala Lumpur",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/my-landmark.jpg",
+      "alt": "Le bâtiment rouge du Stadthuys hollandais sur le front de mer de Melaka",
+      "caption": "STADTHUYS, MELAKA — cœur colonial hollandais de la vieille ville classée UNESCO",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/my-animalA.jpg",
+      "alt": "Orang-outan au repos dans la canopée de la forêt tropicale au Sarawak, Bornéo",
+      "caption": "ORANG-OUTAN — le grand singe roux de Bornéo, Réserve de Semenggoh, Sarawak",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/my-animalB.jpg",
+      "alt": "Énorme fleur Rafflesia en pleine floraison sur le sol de la forêt au Sabah",
+      "caption": "RAFFLESIA — la plus grande fleur du monde, fleurit dans les forêts du Sabah",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

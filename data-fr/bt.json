@@ -1,0 +1,151 @@
+{
+  "name": "BHOUTAN",
+  "nativeName": "འབྲུག",
+  "romaji": "DRUK YUL",
+  "tagline": "Le pays du Dragon-Tonnerre",
+  "region": "South Asia",
+  "coords": "27.5°N, 90.4°E",
+  "fileNo": "049",
+  "langName": "dzongkha",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#1E1A14",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#FF7F00",
+    "accent2": "#E63329"
+  },
+  "flag": {
+    "assetPath": "/flags/bt.svg",
+    "title": "Bhoutan",
+    "note": "Dragon-tonnerre sur fond safran et cramoisi",
+    "keyColor": "#FF7F00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Bhoutan, il y a un vrai dragon sur le drapeau — le Dragon-Tonnerre ! Ce petit royaume caché dans les plus hautes montagnes du monde mesure le bonheur de ses habitants, pas seulement leur argent. Les maisons, les forêts et les rivières y sont protégées par la loi !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Thimphu",
+      "sub": "La capitale la plus haute d'Asie"
+    },
+    {
+      "label": "Habitants",
+      "value": "797 000",
+      "sub": "Estimation 2025, projection ONU"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Ngultrum",
+      "sub": "Équivaut exactement à la roupie indienne"
+    },
+    {
+      "label": "Langue",
+      "value": "Dzongkha",
+      "sub": "Plus environ 19 langues locales parlées"
+    },
+    {
+      "label": "Superficie",
+      "value": "38 394 km²",
+      "sub": "Environ la taille de la Suisse"
+    },
+    {
+      "label": "Point culminant",
+      "value": "7 570 m",
+      "sub": "Gangkhar Puesum — sommet jamais gravi"
+    }
+  ],
+  "islands": [
+    "Thimphu",
+    "Paro",
+    "Punakha",
+    "Bumthang",
+    "Trongsa"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, dragons et air pur",
+    "animals": "Takines, tigres et pandas roux",
+    "culture": "Bonheur, tir à l'arc et riz rouge",
+    "history": "Rois-moines et forteresses magiques",
+    "wows": "7 surprises sur le Bhoutan"
+  },
+  "geo": "Le Bhoutan est presque entièrement recouvert de montagnes — les sommets glacés de l'Himalaya touchent les nuages au nord, tandis que de chaudes forêts tropicales poussent dans les vallées du sud. Plus de 72 % du pays est couvert d'arbres, ce qui en fait l'un des endroits les plus verts de toute la Terre !",
+  "animals": "L'animal national du Bhoutan est le takine, une bête poilue qui ressemble à une vache avec une tête de chèvre — la légende dit qu'un saint l'a créé en assemblant les os des deux animaux ! Des pandas roux dorment dans les forêts de bambous, et chaque hiver, des grues à cou noir sacrées viennent passer la saison dans la vallée de Phobjikha.",
+  "culture": "Au Bhoutan, les gens mesurent le bonheur avec une règle spéciale appelée « Bonheur National Brut » — c'est écrit dans leur constitution ! Le sport préféré est le tir à l'arc, et les compétitions ressemblent à des fêtes joyeuses avec de la musique et des danses.",
+  "history": "Il y a très longtemps, un moine-guerrier du nom de Zhabdrung a construit de grandes forteresses appelées dzongs pour protéger chaque vallée du pays. Ces forteresses servaient à la fois de château et de monastère, et elles existent encore aujourd'hui. Le Bhoutan n'a jamais été conquis par personne !",
+  "wows": [
+    "Le Bhoutan absorbe plus de CO₂ qu'il n'en produit — ses forêts géantes nettoient l'air de toute la planète !",
+    "Le plus haut sommet jamais gravi de la Terre se trouve au Bhoutan — personne n'a le droit d'y monter pour respecter les esprits de la montagne.",
+    "La télévision et internet sont arrivés le même jour en 1999 — le pays a eu les deux en une seule journée !",
+    "Le « Bonheur National Brut » est inscrit dans la loi du pays — le bonheur est une règle officielle !",
+    "Thimphu est la seule capitale au monde sans feux de signalisation — des policiers dirigent toutes les voitures à la main.",
+    "Des tigres ont été photographiés à 4 000 m d'altitude — plus haut que presque n'importe où ailleurs sur Terre !",
+    "Tous les bâtiments du Bhoutan doivent ressembler aux vieilles maisons traditionnelles par la loi — pas de tours en verre !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Bhoutan est le pays le plus heureux du monde",
+      "fact": "Le Bonheur National Brut est un outil de mesure spécial, mais dans le classement mondial du bonheur de l'ONU, le Bhoutan n'est pas dans les 90 premiers pays."
+    },
+    {
+      "myth": "Le Bhoutan fait partie du Népal ou du Tibet",
+      "fact": "Le Bhoutan est un royaume tout à fait indépendant, avec sa propre langue, sa propre famille royale et sa propre histoire — il n'a jamais été dirigé par ses voisins."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Kuzu Zangpo",
+      "say": "KOO-zoo ZANG-po"
+    },
+    {
+      "en": "Merci",
+      "jp": "Kadrin Chhe",
+      "say": "KAH-drin CHAY"
+    },
+    {
+      "en": "Bien !",
+      "jp": "Legso",
+      "say": "LEG-so"
+    },
+    {
+      "en": "Riz",
+      "jp": "Dro",
+      "say": "DRO"
+    },
+    {
+      "en": "Dragon",
+      "jp": "Druk",
+      "say": "DROOK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bt-hero.jpg",
+      "alt": "Le monastère de Taktsang accroché à une falaise vertigineuse au-dessus de la vallée de Paro",
+      "caption": "MONASTÈRE DE TAKTSANG — le « Nid du Tigre » perché à 900 m au-dessus de la vallée de Paro",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bt-landmark.jpg",
+      "alt": "La forteresse-monastère de Punakha Dzong au confluent de deux rivières",
+      "caption": "PUNAKHA DZONG — forteresse-monastère là où deux rivières sacrées se rejoignent",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bt-animalA.jpg",
+      "alt": "Un takine au pelage doré et hirsute dans la réserve de Thimphu",
+      "caption": "TAKINE — l'animal national hirsute du Bhoutan, que l'on trouve seulement dans l'Himalaya",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bt-animalB.jpg",
+      "alt": "Des grues à cou noir dans les zones humides de la vallée de Phobjikha",
+      "caption": "GRUE À COU NOIR — visiteur hivernal sacré de la vallée de Phobjikha",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

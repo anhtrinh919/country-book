@@ -1,0 +1,151 @@
+{
+  "name": "MOZAMBIQUE",
+  "nativeName": "MZ",
+  "romaji": "MOZAMBIQUE",
+  "tagline": "Là où la savane embrasse l'océan",
+  "region": "Southern Africa",
+  "coords": "18°S 35°E",
+  "fileNo": "074",
+  "langName": "portugais",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBA9A",
+    "ink": "#252018",
+    "faint": "#8B7A55",
+    "line": "#DDD0B2",
+    "accent": "#009A44",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/mz.svg",
+    "title": "Drapeau du Mozambique",
+    "note": "Un fusil AK-47 sur un drapeau — unique au monde !",
+    "keyColor": "#009A44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Mozambique, de longues plages dorées s'étirent le long de l'océan Indien chaud comme une baignoire ! C'est le seul pays au monde dont le drapeau montre un vrai fusil !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Maputo",
+      "sub": "La ville des acacias au bord de la baie"
+    },
+    {
+      "label": "Habitants",
+      "value": "34,8 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Metical",
+      "sub": "MZN — environ 64 pour 1 dollar"
+    },
+    {
+      "label": "Langue",
+      "value": "portugais",
+      "sub": "Plus de 40 langues locales en plus"
+    },
+    {
+      "label": "Superficie",
+      "value": "799 380 km²",
+      "sub": "Plus grand que la France et l'Allemagne réunies"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Monte Binga",
+      "sub": "2 436 m, partagé avec le Zimbabwe"
+    }
+  ],
+  "islands": [
+    "Maputo",
+    "Beira",
+    "Nampula",
+    "Tete",
+    "Inhambane"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "2 470 km de plages dorées !",
+    "animals": "Safari et mer dans un seul pays",
+    "culture": "Musique, sculptures et sauce piquante",
+    "history": "Des marchands venus de très loin",
+    "wows": "Le Mozambique qui étonne !"
+  },
+  "geo": "Le Mozambique possède l'une des plus longues côtes d'Afrique, avec 2 470 km de plages bordées de récifs coralliens et d'îles magnifiques. À l'intérieur, le grand fleuve Zambèze traverse le pays et se répand en immenses deltas avant d'atteindre la mer.",
+  "animals": "L'archipel de Bazaruto abrite les derniers dugongs d'Afrique de l'Est — ce sont des animaux doux comme des vaches de mer qui mangent des herbes au fond de l'eau ! Des requins baleines géants et des raies manta géantes viennent se promener dans ces mêmes eaux.",
+  "culture": "Au Mozambique, on mange des crevettes grillées avec une sauce très piquante appelée piri-piri — miam, mais attention ça brûle ! La musique marrabenta, jouée sur des guitares fabriquées avec des boîtes de conserve, donne envie de danser tout de suite.",
+  "history": "Il y a plus de mille ans, des marchands arabes ont navigué jusqu'aux côtes du Mozambique et ont bâti de belles cités au bord de la mer. Ensuite, des explorateurs portugais sont arrivés sur leurs grands bateaux il y a 500 ans pour faire le commerce des épices.",
+  "wows": [
+    "Le Mozambique est le seul pays dont le nom contient les cinq voyelles : A, E, I, O, U !",
+    "Son drapeau est le seul au monde à montrer un fusil.",
+    "Une petite chapelle construite en 1522 est le plus vieux bâtiment européen de tout l'hémisphère sud !",
+    "Il y a plus de 750 espèces d'oiseaux ici — plus que dans toute l'Europe !",
+    "L'archipel de Bazaruto est le dernier endroit où vivent des dugongs sur la côte est de l'Afrique.",
+    "Le parc de Gorongosa abrite 110 000 grands animaux — lions, éléphants et hippopotames !",
+    "Le mot « Mozambique » au Scrabble rapporte 34 points — le plus haut score de tous les pays !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Mozambique est un désert",
+      "fact": "Non, c'est une savane verte avec de grands fleuves, des zones humides et de beaux récifs coralliens. Le désert du Sahara est à des milliers de kilomètres de là !"
+    },
+    {
+      "myth": "Il n'y a pas d'animaux dans l'océan là-bas",
+      "fact": "Au contraire ! L'océan du Mozambique est plein de requins baleines, de raies manta, de dugongs et de cinq espèces de tortues de mer."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Merci",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Bonne journée",
+      "jp": "Bom dia",
+      "say": "bom JEE-ah"
+    },
+    {
+      "en": "Pas de problème",
+      "jp": "Não faz mal",
+      "say": "now fahz MAHL"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "Quanto custa",
+      "say": "KWAN-too KOOS-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mz-hero.jpg",
+      "alt": "Vue aérienne de la ville de Maputo et de sa baie, Mozambique",
+      "caption": "MAPUTO — la capitale s'étend sur une baie verdoyante de l'océan Indien",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mz-landmark.jpg",
+      "alt": "Gare centrale de Maputo, élégant bâtiment de style Beaux-Arts",
+      "caption": "GARE DE MAPUTO — construite entre 1908 et 1916, l'une des plus belles gares du monde",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mz-animalA.jpg",
+      "alt": "Dugong nageant sous l'eau près d'herbiers marins",
+      "caption": "DUGONG — Bazaruto abrite la dernière colonie florissante de vaches de mer de la côte est africaine",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mz-animalB.jpg",
+      "alt": "Requin baleine nageant dans les eaux bleues et claires de l'océan",
+      "caption": "REQUIN BALEINE — ces géants tout doux visitent la côte mozambicaine d'octobre à avril",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

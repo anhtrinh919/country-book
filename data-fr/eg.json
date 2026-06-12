@@ -1,0 +1,151 @@
+{
+  "name": "ÉGYPTE",
+  "nativeName": "مصر",
+  "romaji": "MISR",
+  "tagline": "Le pays des pharaons et du Nil",
+  "region": "North Africa",
+  "coords": "26.8°N 30.8°E",
+  "fileNo": "019",
+  "langName": "arabe",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBA96",
+    "ink": "#241E14",
+    "faint": "#8A7A52",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#C09300"
+  },
+  "flag": {
+    "assetPath": "/flags/eg.svg",
+    "title": "Drapeau de l'Égypte",
+    "note": "Rouge, blanc et noir ; l'aigle d'or de Saladin",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Égypte, un grand fleuve appelé le Nil transforme le désert en champs verts ! Des pyramides géantes construites il y a 4 500 ans sont encore debout — aussi hautes qu'un immeuble de 48 étages !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Le Caire",
+      "sub": "La plus grande ville d'Afrique"
+    },
+    {
+      "label": "Habitants",
+      "value": "107 millions",
+      "sub": "fin 2024 estimé"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Livre égyptienne",
+      "sub": "Livre égyptienne (LE)"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "L'arabe égyptien parlé tous les jours"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 002 450 km²",
+      "sub": "4 fois la taille du Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 629 m",
+      "sub": "Mont Catherine, péninsule du Sinaï"
+    }
+  ],
+  "islands": [
+    "Cairo",
+    "Alexandria",
+    "Luxor",
+    "Aswan",
+    "Sinai"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un fleuve dans le désert",
+    "animals": "Les bêtes du sable et du fleuve",
+    "culture": "Fêtes, saveurs et pharaons",
+    "history": "La plus vieille histoire du monde",
+    "wows": "Des choses qui vont t'épater !"
+  },
+  "geo": "L'Égypte est couverte à 96 % de désert, et presque tout le monde vit dans une fine bande verte le long du Nil. Ce grand fleuve parcourt 6 650 km avant de se jeter dans la mer Méditerranée !",
+  "animals": "Le crocodile du Nil peut mesurer 6 mètres — aussi long qu'une grande voiture familiale fois trois ! Les anciens Égyptiens le vénéraient comme un dieu et lui offraient des cadeaux.",
+  "culture": "Chaque jour, les Égyptiens mangent du koshari : des lentilles, du riz et des pâtes mélangés avec une sauce tomate piquante. Pendant le Ramadan, les familles accrochent de jolies lanternes lumineuses appelées fanous dans toutes les rues !",
+  "history": "Il y a plus de 5 000 ans, les pharaons ont inventé l'écriture et le calendrier de 365 jours. La Grande Pyramide a été le bâtiment le plus haut de la planète pendant presque 4 000 ans !",
+  "wows": [
+    "La Grande Pyramide contient assez de pierres pour construire un mur tout autour de la France.",
+    "Les anciens Égyptiens ont inventé le calendrier de 365 jours il y a plus de 5 000 ans.",
+    "Le métro du Caire est le plus vieux d'Afrique — il transporte plus de 3,5 millions de personnes chaque jour !",
+    "Il y a plus d'obélisques égyptiens à Rome qu'en Égypte même !",
+    "Le delta du Nil s'est formé tout seul grâce à la boue apportée depuis les montagnes d'Éthiopie.",
+    "Toutankhamon est devenu pharaon à seulement neuf ans !",
+    "L'Égypte produit plus de 2 millions de tonnes de dattes par an — plus que n'importe quel autre pays !"
+  ],
+  "myths": [
+    {
+      "myth": "Les pyramides ont été construites par des esclaves",
+      "fact": "En réalité, ce sont des ouvriers bien nourris et payés qui les ont construites. Ils habitaient dans des villages spéciaux et avaient même des médecins !"
+    },
+    {
+      "myth": "L'Égypte n'est qu'un grand désert vide",
+      "fact": "L'Égypte a aussi des plages méditerranéennes, des récifs coralliens colorés, des champs verts le long du Nil, et Le Caire — une ville de 20 millions de personnes pleine de musique et de nourriture !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Oui",
+      "jp": "أيوه",
+      "say": "AY-wah"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/eg-hero.jpg",
+      "alt": "Les grandes pyramides de Gizeh sous un ciel de désert",
+      "caption": "GRANDES PYRAMIDES DE GIZEH — la dernière des Sept Merveilles encore debout",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/eg-landmark.jpg",
+      "alt": "Le Grand Sphinx regardant vers l'est sur le plateau de Gizeh",
+      "caption": "GRAND SPHINX — sculpté dans un seul bloc de calcaire vers 2500 avant J.-C.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/eg-animalA.jpg",
+      "alt": "Gros plan d'un crocodile du Nil",
+      "caption": "CROCODILE DU NIL — géant cuirassé du fleuve, autrefois vénéré comme le dieu Sobek",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/eg-animalB.jpg",
+      "alt": "Fennec aux grandes oreilles dans le désert",
+      "caption": "FENNEC — ses grandes oreilles lui servent à se rafraîchir dans les nuits brûlantes du désert",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

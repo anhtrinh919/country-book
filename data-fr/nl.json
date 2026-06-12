@@ -1,0 +1,151 @@
+{
+  "name": "PAYS-BAS",
+  "nativeName": "NL",
+  "romaji": "NEDERLAND",
+  "tagline": "Le pays sous la mer",
+  "region": "Western Europe",
+  "coords": "52.1N, 5.3E",
+  "fileNo": "047",
+  "langName": "néerlandais",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#cfc0a2",
+    "ink": "#272018",
+    "faint": "#7a6e52",
+    "line": "#ddd0b8",
+    "accent": "#AE1C28",
+    "accent2": "#21468B"
+  },
+  "flag": {
+    "assetPath": "/flags/nl.svg",
+    "title": "Driekleur",
+    "note": "Rouge, blanc et bleu — le plus vieux drapeau tricolore du monde",
+    "keyColor": "#AE1C28",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Un quart de ce pays se trouve sous le niveau de la mer — sans les grandes digues, Amsterdam serait sous l'eau ! Les Néerlandais ont construit d'immenses murs pour retenir l'océan. Chaque printemps, des millions de tulipes colorées transforment les champs en tapis de feu !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Amsterdam",
+      "sub": "siège du gouvernement : La Haye"
+    },
+    {
+      "label": "Habitants",
+      "value": "18,1 millions",
+      "sub": "est. 2024, CBS Pays-Bas"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "dans la zone euro depuis 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "néerlandais",
+      "sub": "le frison est co-officiel en Frise"
+    },
+    {
+      "label": "Superficie",
+      "value": "41 543 km²",
+      "sub": "superficie totale avec les voies d'eau"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Vaalserberg",
+      "sub": "322 m, au sud-est du pays"
+    }
+  ],
+  "islands": [
+    "Amsterdam",
+    "Rotterdam",
+    "The Hague",
+    "Utrecht",
+    "Eindhoven"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays gagné sur la mer",
+    "animals": "Les animaux du grand delta",
+    "culture": "Vélos, tulipes et fromage",
+    "history": "Les grands marchands du monde",
+    "wows": "Tu y crois, toi ?"
+  },
+  "geo": "Les Pays-Bas sont tellement plats qu'on peut faire du vélo des heures sans monter une seule côte ! Une grande partie du pays est un ancien fond de mer, asséché grâce à de grandes digues et des pompes géantes. Les fleuves Rhin et Maas se répandent en un large delta avant de rejoindre la mer du Nord.",
+  "animals": "Des milliers de phoques gris se prélassent sur les bancs de sable de la mer des Wadden quand la marée se retire. Les cigognes blanches reviennent chaque printemps pour faire leurs nids sur les toits des maisons — les habitants les adorent, car elles portent bonheur !",
+  "culture": "Aux Pays-Bas, il y a 23 millions de vélos pour seulement 18 millions d'habitants — il y a plus de vélos que de personnes ! On mange des stroopwafels, deux petites gaufres collées avec du caramel, c'est délicieux.",
+  "history": "Il y a très longtemps, au XVII° siècle, les bateaux néerlandais naviguaient jusqu'en Asie et en Amérique pour rapporter des épices, de la soie et des merveilles. Amsterdam était le port le plus animé de toute la planète, rempli de marchands venus du monde entier !",
+  "wows": [
+    "Un quart des Pays-Bas est sous le niveau de la mer — les digues les protègent de l'inondation !",
+    "Il y a 23 millions de vélos pour 18 millions d'habitants — chaque enfant a son vélo dès tout petit.",
+    "Les Pays-Bas envoient plus d'un milliard de bulbes de tulipes dans le monde entier chaque année.",
+    "L'aéroport de Schiphol est construit sur un ancien lac asséché, à 3 mètres sous la mer.",
+    "Rotterdam est le plus grand port d'Europe — des navires géants y arrivent chaque jour.",
+    "Une petite île des Caraïbes, Sint Maarten, est partagée entre les Pays-Bas et la France.",
+    "Les moulins à vent de Kinderdijk sont vieux de 300 ans et ils sont classés au patrimoine mondial !"
+  ],
+  "myths": [
+    {
+      "myth": "Les Pays-Bas, c'est la même chose que la Hollande",
+      "fact": "Non ! La Hollande, ce sont seulement deux régions à l'ouest. Le pays entier s'appelle les Pays-Bas et il a plein d'autres régions très différentes."
+    },
+    {
+      "myth": "Les moulins à vent pompent encore l'eau",
+      "fact": "Aujourd'hui ce sont des pompes électriques qui font ce travail. Les vieux moulins sont gardés pour leur beauté, mais ils ne protègent plus le pays des inondations."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Dankjewel",
+      "say": "DANK-yuh-vel"
+    },
+    {
+      "en": "Vélo",
+      "jp": "Fiets",
+      "say": "feets"
+    },
+    {
+      "en": "Fromage",
+      "jp": "Kaas",
+      "say": "kahs"
+    },
+    {
+      "en": "Moulin à vent",
+      "jp": "Molen",
+      "say": "MOH-len"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nl-hero.jpg",
+      "alt": "Canal d'Amsterdam avec de belles maisons à pignons se reflétant dans l'eau",
+      "caption": "CANAUX D'AMSTERDAM — les maisons du XVII° siècle se mirent dans l'eau calme",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/nl-landmark.jpg",
+      "alt": "Rangée de moulins à vent historiques à Kinderdijk au coucher du soleil",
+      "caption": "MOULINS DE KINDERDIJK — 19 moulins en rang, site du patrimoine mondial de l'UNESCO",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/nl-animalA.jpg",
+      "alt": "Phoque gris se reposant sur un banc de sable de la mer des Wadden",
+      "caption": "PHOQUE GRIS — en train de se dorer sur un banc de sable à marée basse",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/nl-animalB.jpg",
+      "alt": "Cigogne blanche debout dans un champ de polder néerlandais",
+      "caption": "CIGOGNE BLANCHE — une visiteuse de printemps adorée dans les polders",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

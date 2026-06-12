@@ -1,0 +1,151 @@
+{
+  "name": "CONGO",
+  "nativeName": "CG",
+  "romaji": "KONGO",
+  "tagline": "Cœur de la forêt tropicale",
+  "region": "Afrique centrale",
+  "coords": "4°S 15°E",
+  "fileNo": "042",
+  "langName": "français",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F4EFE2",
+    "dot": "#C9B98E",
+    "ink": "#241E16",
+    "faint": "#7E6C44",
+    "line": "#DDD1B0",
+    "accent": "#009543",
+    "accent2": "#DC241F"
+  },
+  "flag": {
+    "assetPath": "/flags/cg.svg",
+    "title": "Vert, jaune, rouge",
+    "note": "Tricolore en diagonale : vert, jaune, rouge",
+    "keyColor": "#009543",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Congo, la forêt est si épaisse que le soleil n'arrive presque pas jusqu'au sol ! Des gorilles et des éléphants se promènent entre les arbres géants. La capitale Brazzaville est juste en face d'une autre capitale, séparées seulement par un fleuve !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Brazzaville",
+      "sub": "Sur la rive du fleuve Congo"
+    },
+    {
+      "label": "Habitants",
+      "value": "6,1 millions",
+      "sub": "Est. 2024 ; 67 % en ville"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Partagée avec 5 voisins"
+    },
+    {
+      "label": "Langue",
+      "value": "Français",
+      "sub": "Lingala et Kituba parlés partout"
+    },
+    {
+      "label": "Superficie",
+      "value": "342 000 km²",
+      "sub": "Plus grand que l'Allemagne"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Nabeba",
+      "sub": "1 020 m dans les collines Mayumbe"
+    }
+  ],
+  "islands": [
+    "Brazzaville",
+    "Pointe-Noire",
+    "Dolisie",
+    "Ouesso",
+    "Impfondo"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays tout vert et tout chaud",
+    "animals": "Les géants de la forêt",
+    "culture": "Musique, couleurs et rumba",
+    "history": "Royaumes, fleuves et liberté",
+    "wows": "C'est vrai, vraiment ?!"
+  },
+  "geo": "La forêt couvre presque tout le Congo — c'est la deuxième plus grande forêt tropicale du monde ! Le fleuve Congo est si profond que des poissons y vivent sans jamais voir la lumière.",
+  "animals": "Les gorilles des plaines vivent dans le grand parc Odzala-Kokoua — tu pourrais t'asseoir tout près d'un gorille ! Les éléphants de forêt, plus petits que leurs cousins de savane, se retrouvent dans des clairières boueuses pour laper des sels.",
+  "culture": "La rumba congolaise, née des rythmes africains, est si célèbre que l'UNESCO l'a reconnue comme trésor du monde ! Les gens portent de magnifiques tissus colorés appelés pagnes pour les fêtes et même tous les jours.",
+  "history": "Il y a plus de 2 000 ans, des familles parlant bantou sont venues s'installer dans la forêt du Congo. Le roi Tio a accueilli un explorateur français, et la grande ville a pris son nom : Brazzaville !",
+  "wows": [
+    "Brazzaville et Kinshasa sont les deux seules capitales du monde face à face, séparées par seulement 4 km de fleuve !",
+    "Le fleuve Congo est si profond — 220 mètres — qu'un immeuble de 20 étages se cacherait sous l'eau !",
+    "Sous les marécages du Congo se trouve assez de carbone pour remplir 3 ans d'émissions de toute la planète.",
+    "Le parc Odzala-Kokoua est protégé depuis 1935 — c'est l'un des plus vieux parcs d'Afrique !",
+    "Le train Congo-Océan a pris 13 ans à construire à la main dans la jungle !",
+    "On trouve plus de 400 espèces d'oiseaux différents dans les forêts du Congo.",
+    "Presque 70 % des Congolais vivent en ville — c'est beaucoup pour un pays couvert de forêts !"
+  ],
+  "myths": [
+    {
+      "myth": "Congo = la RDC (Kinshasa)",
+      "fact": "Il y a DEUX Congos ! La République du Congo (Brazzaville) est plus petite à l'ouest du fleuve ; la RD Congo (Kinshasa) est bien plus grande à l'est."
+    },
+    {
+      "myth": "C'est une jungle dangereuse partout",
+      "fact": "Le Congo est l'un des pays les plus urbains d'Afrique — environ 70 % des gens vivent dans des villes avec restaurants, musique et promenades au bord du fleuve !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Forêt",
+      "jp": "Forêt",
+      "say": "foh-RAY"
+    },
+    {
+      "en": "Fleuve",
+      "jp": "Fleuve",
+      "say": "FLUHV"
+    },
+    {
+      "en": "Gorille",
+      "jp": "Gorille",
+      "say": "goh-REE-yuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cg-hero.jpg",
+      "alt": "Train arrivant à la gare de Brazzaville en 2018",
+      "caption": "GARE DE BRAZZAVILLE — Le train Congo-Océan arrive après deux ans d'interruption, nov. 2018",
+      "credit": "Arsène Séverin / Voice of America"
+    },
+    "landmark": {
+      "src": "/photos/cg-landmark.jpg",
+      "alt": "Extérieur de la Basilique Sainte-Anne-du-Congo à Brazzaville",
+      "caption": "BASILIQUE SAINTE-ANNE-DU-CONGO — L'emblématique basilique à deux tours de Brazzaville",
+      "credit": "NGOULOU BATALA Ryddhel / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/cg-animalA.jpg",
+      "alt": "Gorilles des plaines occidentales à une mare salée dans le parc national d'Odzala-Kokoua",
+      "caption": "GORILLES DES PLAINES — dans une clairière bai du parc Odzala-Kokoua",
+      "credit": "Ekassa / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/cg-animalB.jpg",
+      "alt": "Éléphant de forêt dans le parc national d'Odzala-Kokoua",
+      "caption": "ÉLÉPHANT DE FORÊT — plus petit, aux oreilles rondes, cousin de l'éléphant de savane, Odzala",
+      "credit": "John P Friel / CC BY 4.0"
+    }
+  }
+}

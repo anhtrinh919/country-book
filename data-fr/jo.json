@@ -1,0 +1,151 @@
+{
+  "name": "JORDANIE",
+  "nativeName": "الأردن",
+  "romaji": "AL-URDUN",
+  "tagline": "Sable, épices et pierre rose",
+  "region": "Middle East",
+  "coords": "31.0°N 36.0°E",
+  "fileNo": "JO",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBB97",
+    "ink": "#2B2318",
+    "faint": "#8A7355",
+    "line": "#DFD0AA",
+    "accent": "#C8102E",
+    "accent2": "#007A3D"
+  },
+  "flag": {
+    "assetPath": "/flags/jo.svg",
+    "title": "Drapeau de la Jordanie",
+    "note": "Noir, blanc et vert avec un chevron rouge",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Jordanie, il y a une ville entière taillée dans une falaise rose comme un château de conte de fées ! La mer Morte est tellement salée que tu flottes dessus sans nager, comme un bouchon dans la baignoire !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Amman",
+      "sub": "Env. 4,7 millions d'hab."
+    },
+    {
+      "label": "Habitants",
+      "value": "~11,5 m",
+      "sub": "Est. ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dinar (JOD)",
+      "sub": "1 JOD ≈ 1,41 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "Dialecte levantin parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "89 342 km²",
+      "sub": "Un peu plus petit que le Portugal"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 854 m",
+      "sub": "Jabal Umm ad Dami"
+    }
+  ],
+  "islands": [
+    "Amman",
+    "Aqaba",
+    "Petra",
+    "Zarqa",
+    "Irbid"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Sable, falaises et deux mers",
+    "animals": "Chasseurs du désert et voleurs de nuit",
+    "culture": "Festins, fêtes et portes ouvertes",
+    "history": "Des empires sculptés dans la roche",
+    "wows": "Sept faits qui font bouche bée"
+  },
+  "geo": "La Jordanie est un grand désert doré avec des plateaux rocheux, et au fond se trouve la mer Morte — l'endroit le plus bas de toute la Terre ! Dans le sud, le désert de Wadi Rum brille en orange au coucher du soleil, avec des piliers de sable si hauts qu'on dirait la planète Mars.",
+  "animals": "L'oryx d'Arabie est une grande antilope blanche avec de longues cornes droites — elle avait disparu, mais des gens courageux l'ont sauvée et remise en liberté dans le désert ! Le chat des sables, lui, est un tout petit chat doré avec d'énormes oreilles qui chasse la nuit et ne boit jamais d'eau.",
+  "culture": "En Jordanie, les gens t'offrent toujours du café parfumé à la cardamome quand tu arrives chez eux — c'est impoli de refuser ! Le plat préféré s'appelle le mansaf : c'est de l'agneau cuit dans une sauce au yaourt posé sur un grand plat de riz que tout le monde mange ensemble avec les mains.",
+  "history": "Il y a 2 000 ans, des gens appelés les Nabatéens ont taillé une ville entière dans des falaises roses — c'est la ville de Pétra, et c'est magique ! Tout près, la ville romaine de Jerash est encore si bien conservée qu'on dirait que les Romains viennent juste de partir.",
+  "wows": [
+    "La mer Morte est 10 fois plus salée que l'océan — tu flottes sans bouger, comme par magie !",
+    "Pétra était cachée pendant des siècles ; un explorateur s'est déguisé pour la découvrir en 1812.",
+    "Le désert de Wadi Rum a servi de décor pour la planète Mars dans un grand film !",
+    "Amman est construite sur sept collines, exactement comme la ville de Rome en Italie.",
+    "Le fleuve Jourdain est si peu large par endroits qu'un enfant pourrait presque le traverser à la nage.",
+    "La Jordanie est l'un des pays où il y a le moins d'eau douce au monde.",
+    "Une zone humide avait complètement séché, mais des gardiens l'ont remplie à nouveau et les oiseaux sont revenus !"
+  ],
+  "myths": [
+    {
+      "myth": "La Jordanie n'est qu'un grand désert",
+      "fact": "Au nord, il y a de jolies collines vertes avec des forêts et des vergers de pommiers — ça ne ressemble pas du tout à un désert !"
+    },
+    {
+      "myth": "La mer Morte va bientôt disparaître",
+      "fact": "Son niveau baisse doucement chaque année, mais des gens travaillent très fort pour la protéger — elle est encore bien là !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "MAR-ha-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/jo-hero.jpg",
+      "alt": "Paysage désertique de Wadi Rum avec de grandes formations de grès rouge au coucher du soleil",
+      "caption": "WADI RUM — Les piliers de grès brillent en orange au coucher du soleil dans le sud de la Jordanie.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/jo-landmark.jpg",
+      "alt": "La façade du Trésor taillée dans la roche rose à Pétra en Jordanie",
+      "caption": "LE TRÉSOR DE PÉTRA — Les Nabatéens ont sculpté cette façade de 40 m dans la roche il y a 2 000 ans.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/jo-animalA.jpg",
+      "alt": "Oryx d'Arabie debout dans le désert avec de longues cornes droites",
+      "caption": "ORYX D'ARABIE — disparu à l'état sauvage, puis ramené à la vie par la Jordanie.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/jo-animalB.jpg",
+      "alt": "Chat des sables aux grandes oreilles allongé sur un sol sableux clair",
+      "caption": "CHAT DES SABLES — ce petit chasseur du désert survit sans jamais boire d'eau.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

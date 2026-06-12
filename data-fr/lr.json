@@ -1,0 +1,151 @@
+{
+  "name": "LIBERIA",
+  "nativeName": "LR",
+  "romaji": "LIBERIA",
+  "tagline": "L'étoile solitaire d'Afrique",
+  "region": "Afrique de l'Ouest",
+  "coords": "6.3°N, 9.4°W",
+  "fileNo": "072",
+  "langName": "anglais libérien",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A58",
+    "line": "#DCCFB0",
+    "accent": "#BF1F2E",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/lr.svg",
+    "title": "L'Étoile solitaire",
+    "note": "11 rayures rouges et blanches ; canton bleu avec une étoile",
+    "keyColor": "#BF1F2E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Liberia est le pays le plus vieux d'Afrique — il existe depuis 1847 ! Des gens libérés de l'esclavage ont traversé l'océan en bateau pour y construire leur propre pays. Ce pays cache des hippopotames minuscules dans ses grandes forêts !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Monrovia",
+      "sub": "nommée d'après le président américain James Monroe"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,2 millions",
+      "sub": "recensement national de 2022"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar libérien",
+      "sub": "LRD ; le dollar américain est aussi très utilisé"
+    },
+    {
+      "label": "Langue",
+      "value": "anglais",
+      "sub": "plus de 20 langues locales en plus"
+    },
+    {
+      "label": "Superficie",
+      "value": "111 369 km²",
+      "sub": "un peu plus grand que la Corée du Sud"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Wuteve",
+      "sub": "1 448 m — dans la chaîne du Nimba"
+    }
+  ],
+  "islands": [
+    "Montserrado",
+    "Bong",
+    "Nimba",
+    "Sinoe",
+    "Maryland"
+  ],
+  "islandsLabel": "COMTÉS PRINCIPAUX :",
+  "sections": {
+    "geography": "Forêts, rivières et plages !",
+    "animals": "Les bêtes secrètes de Sapo",
+    "culture": "Deux mondes, un seul pays",
+    "history": "Des bateaux jusqu'à l'étoile",
+    "wows": "Oh là là, tu savais ça ?"
+  },
+  "geo": "Le Liberia a 570 km de jolies plages dorées le long de l'océan Atlantique. À l'intérieur des terres, une grande forêt verte reçoit tellement de pluie que les arbres ne s'arrêtent jamais de pousser !",
+  "animals": "Le parc national de Sapo abrite l'hippopotame pygmée — un hippo de la taille d'un gros cochon qui se cache dans la forêt ! Il est si timide qu'on ne l'avait presque jamais photographié avant que des caméras cachées le surprennent dans les ruisseaux.",
+  "culture": "Au Liberia, on mange du riz à chaque repas, souvent avec une sauce verte appelée « palava » faite d'huile de palme et de poisson séché. Lors des grandes fêtes, les gens portent des masques colorés et dansent pour raconter les vieilles histoires de leurs ancêtres !",
+  "history": "Il y a très longtemps, en 1822, les premiers hommes et femmes libérés de l'esclavage ont débarqué sur une île appelée Providence — comme des explorateurs courageux ! En 1847, ils ont créé leur propre pays indépendant, le tout premier de toute l'Afrique.",
+  "wows": [
+    "La plantation Firestone au Liberia couvre 450 km² — c'est la plus grande ferme de caoutchouc du monde !",
+    "L'hippopotame pygmée pèse seulement 270 kg — dix fois moins lourd que son grand cousin le vrai hippo !",
+    "En 2006, une femme est devenue présidente du Liberia — la toute première femme chef d'État élue en Afrique.",
+    "Le drapeau du Liberia a 11 rayures, une pour chacune des 11 personnes qui ont signé l'indépendance en 1847.",
+    "Le Liberia est exactement sur le méridien de Greenwich — comme si la Terre avait tracé une ligne juste sur ce pays !",
+    "Sapo est la deuxième plus grande forêt tropicale intacte d'Afrique de l'Ouest — pleine d'animaux secrets.",
+    "Le caoutchouc du Liberia était si précieux pendant la Seconde Guerre mondiale que certains historiens disent qu'il a aidé à gagner la guerre !"
+  ],
+  "myths": [
+    {
+      "myth": "« Le Liberia n'a jamais été colonisé »",
+      "fact": "Aucun pays européen n'en a pris le contrôle, mais les colons venus d'Amérique ont longtemps commandé les peuples locaux qui vivaient là depuis toujours."
+    },
+    {
+      "myth": "« Le lion est l'animal du Liberia »",
+      "fact": "Le blason du Liberia montre une colombe et un bateau — des symboles de paix et du grand voyage en mer des fondateurs, pas un lion !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "How de body?",
+      "say": "How-dee BOD-ee"
+    },
+    {
+      "en": "Pas de problème",
+      "jp": "No fuss",
+      "say": "No FUSS"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tank ya",
+      "say": "Tank YA"
+    },
+    {
+      "en": "On y va !",
+      "jp": "We move",
+      "say": "Wee MOOV"
+    },
+    {
+      "en": "Petit enfant",
+      "jp": "Pekin",
+      "say": "PEH-kin"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lr-hero.jpg",
+      "alt": "Quartier côtier de Sinkor, Monrovia, Liberia",
+      "caption": "MONROVIA — la côte atlantique ensoleillée de la plus ancienne république d'Afrique",
+      "credit": "Panoramio / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lr-landmark.jpg",
+      "alt": "Bâtiment de l'Hôtel de Ville de Monrovia, Liberia",
+      "caption": "HÔTEL DE VILLE DE MONROVIA — cœur civique de l'époque coloniale au Liberia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lr-animalA.jpg",
+      "alt": "Hippopotame pygmée en gros plan au zoo d'Édimbourg",
+      "caption": "HIPPO PYGMÉE — la timide créature des forêts du Liberia, rarement aperçue dans la nature",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lr-animalB.jpg",
+      "alt": "Chimpanzé commun assis en plein air",
+      "caption": "CHIMPANZÉ DE L'OUEST — en danger critique d'extinction et chez lui dans les arbres de Sapo",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

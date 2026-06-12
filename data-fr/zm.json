@@ -1,0 +1,151 @@
+{
+  "name": "ZAMBIE",
+  "nativeName": "ZM",
+  "romaji": "ZAMBIA",
+  "tagline": "Le pays des chutes qui tonnent",
+  "region": "Southern Africa",
+  "coords": "13°S, 28°E",
+  "fileNo": "072",
+  "langName": "nyanja",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEB98A",
+    "ink": "#231F1A",
+    "faint": "#8A7050",
+    "line": "#DDD0B0",
+    "accent": "#198A00",
+    "accent2": "#DE2010"
+  },
+  "flag": {
+    "assetPath": "/flags/zm.svg",
+    "title": "Drapeau de la Zambie",
+    "note": "Vert avec un aigle orange, des bandes rouge et noire",
+    "keyColor": "#198A00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Zambie, une cascade aussi large qu'une grande ville rugit comme mille lions — c'est Victoria Falls ! L'eau plonge de 108 mètres et la brume s'élève si haut qu'on la voit à 50 km. Quel pays extraordinaire !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Lusaka",
+      "sub": "Env. 3,5 millions d'habitants (2023)"
+    },
+    {
+      "label": "Habitants",
+      "value": "20,5 millions",
+      "sub": "Estimation ONU 2023"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Kwacha (ZMW)",
+      "sub": "100 ngwee = 1 kwacha"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Plus de 72 langues bantoues parlées"
+    },
+    {
+      "label": "Superficie",
+      "value": "752 618 km²",
+      "sub": "Plus grand que la France et l'Allemagne réunies"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Monts Mafinga",
+      "sub": "2 301 m au-dessus de la mer"
+    }
+  ],
+  "islands": [
+    "Lusaka",
+    "Livingstone",
+    "Ndola",
+    "Kitwe",
+    "Kasama"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Rivières, chutes et grandes plaines",
+    "animals": "Les géants de la savane et de l'eau",
+    "culture": "Tambours, couleurs et sourires",
+    "history": "Des anciens royaumes à la liberté",
+    "wows": "Les surprises de la Zambie"
+  },
+  "geo": "La Zambie est posée sur un haut plateau — même près de l'équateur, il fait bon vivre ! Le grand fleuve Zambèze traverse le pays et plonge en cascade dans un vacarme de tonnerre.",
+  "animals": "Dans les marais de Bangweulu vit le bec-en-sabot, un oiseau gris immense au bec en forme de sabot. Il reste immobile pendant des heures comme une statue, puis — clac — attrape un poisson !",
+  "culture": "Tous les jours, les Zambiens mangent du nshima, une bouillie de maïs qu'on roule en boule avec les doigts et qu'on trempe dans du poisson ou des légumes. Les femmes portent du chitenge, un tissu aux couleurs vives et joyeuses !",
+  "history": "Il y a très longtemps, le puissant royaume Lozi régnait sur les plaines inondées du Barotse, et les chefs Bemba commandaient au nord. Ces peuples connaissaient chaque rivière et chaque forêt de leur pays bien avant les explorateurs.",
+  "wows": [
+    "Victoria Falls est large de 1 708 m — la plus grande cascade du monde !",
+    "La frontière entre la Zambie et le Zimbabwe passe exactement au milieu des chutes.",
+    "Le parc national de Kafue est aussi grand que toute la Suisse.",
+    "Le bec-en-sabot mesure plus d'1,5 m de haut — plus grand que beaucoup de papas !",
+    "La Zambie possède 40 % de toute l'eau douce de la surface de l'Afrique.",
+    "La brume de Victoria Falls monte à 400 m — aussi haut qu'une très grande tour !",
+    "La Zambie a 20 parcs nationaux pleins de lions, léopards et éléphants."
+  ],
+  "myths": [
+    {
+      "myth": "La Zambie est un désert sec",
+      "fact": "La Zambie est couverte à 65 % de forêts et de bois, traversée par trois grands fleuves. Il y fait vert et agréable une grande partie de l'année !"
+    },
+    {
+      "myth": "Victoria Falls est seulement au Zimbabwe",
+      "fact": "Les chutes sont partagées entre les deux pays. La ville zambienne de Livingstone se trouve juste sur la rive et offre la plus belle vue !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Moni",
+      "say": "moh-nee"
+    },
+    {
+      "en": "Merci",
+      "jp": "Zikomo",
+      "say": "zee-KOH-moh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Inde",
+      "say": "in-day"
+    },
+    {
+      "en": "Nourriture",
+      "jp": "Chakudya",
+      "say": "cha-KOO-dyah"
+    },
+    {
+      "en": "Eau",
+      "jp": "Madzi",
+      "say": "MAH-dzee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/zm-hero.jpg",
+      "alt": "Victoria Falls en pleine crue vue depuis le côté zambien",
+      "caption": "VICTORIA FALLS — le Zambèze rugit par-dessus le plus grand rideau d'eau du monde",
+      "credit": "Wikimedia Commons / Ninara"
+    },
+    "landmark": {
+      "src": "/photos/zm-landmark.jpg",
+      "alt": "Vue aérienne de Victoria Falls et des gorges du Zambèze",
+      "caption": "MOSI-OA-TUNYA — la brume monte à 400 m, visible à 50 km en saison des crues",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/zm-animalA.jpg",
+      "alt": "Un bec-en-sabot immobile dans un marais",
+      "caption": "BEC-EN-SABOT — les marais de Bangweulu abritent cet oiseau géant à l'allure préhistorique",
+      "credit": "Wikimedia Commons / Quartl"
+    },
+    "animalB": {
+      "src": "/photos/zm-animalB.jpg",
+      "alt": "Hippopotame la bouche grande ouverte montrant ses défenses",
+      "caption": "HIPPOPOTAME — le Zambèze abrite l'une des plus grandes populations d'hippos d'Afrique",
+      "credit": "Wikimedia Commons / Scott Kinmartin"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "SEYCHELLES",
+  "nativeName": "SC",
+  "romaji": "SEYCHELLES",
+  "tagline": "115 îles, un seul paradis",
+  "region": "East Africa / Indian Ocean",
+  "coords": "4°S, 55°E",
+  "fileNo": "115",
+  "langName": "créole (seselwa)",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EEE3",
+    "dot": "#C9BFA8",
+    "ink": "#1E2118",
+    "faint": "#7A7A5C",
+    "line": "#DDD8C6",
+    "accent": "#003F87",
+    "accent2": "#D62828"
+  },
+  "flag": {
+    "assetPath": "/flags/sc.svg",
+    "title": "Drapeau des Seychelles",
+    "note": "Cinq rayons bleu, jaune, rouge, blanc et vert",
+    "keyColor": "#003F87",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Les Seychelles, c'est 115 îles magiques dans l'océan Indien, avec des rochers géants couleur de peau d'éléphant qui plongent dans une eau turquoise ! Les tortues géantes y sont plus nombreuses que les habitants. Et un palmier y fait pousser la graine la plus lourde de toute la Terre !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Victoria",
+      "sub": "La plus petite capitale du monde"
+    },
+    {
+      "label": "Habitants",
+      "value": "~99 000",
+      "sub": "Estimation 2024 — un très petit pays"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Roupie (SCR)",
+      "sub": "Appelée roupi en créole"
+    },
+    {
+      "label": "Langue",
+      "value": "3 langues officielles",
+      "sub": "Créole, anglais et français"
+    },
+    {
+      "label": "Superficie",
+      "value": "452 km²",
+      "sub": "Plus petit que l'île de Man"
+    },
+    {
+      "label": "Point culminant",
+      "value": "905 m",
+      "sub": "Morne Seychellois, Mahé"
+    }
+  ],
+  "islands": [
+    "Mahé",
+    "Praslin",
+    "La Digue",
+    "Aldabra",
+    "Silhouette"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Rochers, récifs et grand océan",
+    "animals": "Tortues, perroquets et géants",
+    "culture": "Rythmes créoles et épices",
+    "history": "Pirates, trésors et liberté",
+    "wows": "Difficile à croire, mais vrai !"
+  },
+  "geo": "Les Seychelles se trouvent seules dans l'océan Indien, à 1 500 km de l'Afrique. Leurs îles sont faites de vieux rochers de granit arrondis et de forêts vertes — les seules îles de granit au milieu d'un océan sur toute la Terre ! La mer autour du pays est 3 000 fois plus grande que toutes ses îles réunies.",
+  "animals": "La tortue géante d'Aldabra vit aux Seychelles — plus de 100 000 d'entre elles se promènent lentement sur l'atoll d'Aldabra et peuvent vivre plus de 150 ans ! Le perroquet noir des Seychelles, lui, vit seulement sur l'île de Praslin et il n'en reste qu'environ 1 000 dans le monde entier.",
+  "culture": "Aux Seychelles, on mange du poisson grillé avec une sauce au piment et au gingembre, et du curry de poulpe au lait de coco — miam ! En octobre, le Festival Kreol remplit les rues de musique, de costumes colorés et de bonnes odeurs d'épices.",
+  "history": "Il y a très longtemps, le pirate Olivier le Vasseur — surnommé « La Buse » — aurait caché un immense trésor sur ces îles avant d'être arrêté en 1730. Il a lancé une devinette codée dans la foule, et personne n'a encore réussi à la résoudre ! Des chercheurs de trésors continuent de creuser jusqu'à aujourd'hui.",
+  "wows": [
+    "Les îles de granit des Seychelles sont les seules îles de granit au milieu d'un océan dans le monde entier.",
+    "Le palmier coco de mer fait pousser la graine la plus lourde du monde — une noix peut peser 25 kg, plus lourd qu'un enfant !",
+    "Plus de la moitié des Seychelles est une réserve naturelle protégée — c'est le record du monde.",
+    "Victoria est si petite qu'on peut traverser tout le centre-ville à pied en moins de dix minutes.",
+    "Le merle pie des Seychelles n'était plus que 16 oiseaux dans les années 1960 ; grâce à la protection, ils sont maintenant plus de 300.",
+    "Il n'y a aucun serpent venimeux sur aucune île des Seychelles — on peut se promener sans peur !",
+    "L'océan que contrôlent les Seychelles est presque 3 000 fois plus grand que toutes ses terres."
+  ],
+  "myths": [
+    {
+      "myth": "« Les Seychelles, c'est une seule île »",
+      "fact": "C'est 115 îles — certaines en granit, d'autres en corail — réparties sur 1 300 km d'océan. La plupart sont minuscules et sans habitants, chacune avec ses propres animaux."
+    },
+    {
+      "myth": "« Aller d'une île à l'autre, c'est très compliqué »",
+      "fact": "Les trois îles principales — Mahé, Praslin, La Digue — sont reliées par des bateaux publics. Et sur La Digue, on se déplace à vélo !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonzour",
+      "say": "bon-ZOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Mersi",
+      "say": "MAIR-see"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Orevwar",
+      "say": "oh-rev-WAHR"
+    },
+    {
+      "en": "S'il vous plaît",
+      "jp": "Silvouple",
+      "say": "sil-VOO-pl"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Koman sava?",
+      "say": "ko-MON sa-VAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sc-hero.jpg",
+      "alt": "La plage d'Anse Royale sur l'île de Mahé avec une eau turquoise et des rochers de granit bordés de palmiers",
+      "caption": "CÔTE DE MAHÉ — l'océan Indien chaud caresse les rochers de granit de l'île principale",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sc-landmark.jpg",
+      "alt": "La tour de l'horloge de Victoria surnommée Petit Ben, dans la capitale des Seychelles",
+      "caption": "TOUR DE L'HORLOGE DE VICTORIA — Petit Ben, 1903, cœur de la plus petite capitale du monde",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sc-animalA.jpg",
+      "alt": "Une tortue géante d'Aldabra marchant lentement sur un terrain découvert aux Seychelles",
+      "caption": "TORTUE GÉANTE D'ALDABRA — pèse jusqu'à 250 kg et peut vivre plus longtemps que ton arrière-grand-père",
+      "credit": "Wikimedia Commons / Adrian Pingstone"
+    },
+    "animalB": {
+      "src": "/photos/sc-animalB.jpg",
+      "alt": "Esmeralda, la célèbre tortue géante de Bird Island aux Seychelles",
+      "caption": "ESMERALDA — la tortue vedette de Bird Island, peut-être le plus vieil animal vivant sur Terre",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

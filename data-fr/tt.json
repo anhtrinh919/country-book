@@ -1,0 +1,151 @@
+{
+  "name": "TRINITÉ-ET-TOBAGO",
+  "nativeName": "TT",
+  "romaji": "TRINIDAD",
+  "tagline": "Soca, steel & soleil des Caraïbes",
+  "region": "Caribbean",
+  "coords": "10.69°N, 61.22°W",
+  "fileNo": "062",
+  "langName": "créole trinidadien",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#C9B89A",
+    "ink": "#231F1B",
+    "faint": "#8B7355",
+    "line": "#DDD0B8",
+    "accent": "#CC1C2E",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/tt.svg",
+    "title": "Rouge, Noir & Blanc",
+    "note": "Bande diagonale de courage et de dévouement",
+    "keyColor": "#CC1C2E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Trinité-et-Tobago est si proche de l'Amérique du Sud qu'on pourrait presque nager jusque-là ! C'est le pays qui a inventé les tambours en acier qu'on appelle steelpan. Et chaque soir, des milliers d'oiseaux rouge vif brillent comme des flammes dans les marais !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Port of Spain",
+      "sub": "Sur la côte nord-ouest de Trinidad"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,37 million",
+      "sub": "Estimation Banque Mondiale 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar TT",
+      "sub": "1 USD ≈ 6,75 TTD (2024)"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Plus le créole et l'hindi parlés partout"
+    },
+    {
+      "label": "Superficie",
+      "value": "5 131 km²",
+      "sub": "Plus petit que la région Bretagne"
+    },
+    {
+      "label": "Point culminant",
+      "value": "940 m",
+      "sub": "El Cerro del Aripo, Chaîne du Nord"
+    }
+  ],
+  "islands": [
+    "Port Spain",
+    "S. Fernando",
+    "Chaguanas",
+    "Scarborough",
+    "Arima"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Quand l'Amérique du Sud dit bonjour !",
+    "animals": "Ailes écarlates et oiseaux rigolos",
+    "culture": "Steelpan, soca et fête géante",
+    "history": "L'île aux trésors cachés",
+    "wows": "Des trucs qui font wow !"
+  },
+  "geo": "Trinidad était autrefois collée à l'Amérique du Sud — la mer entre les deux est tellement peu profonde ! Au nord, de grandes montagnes attrappent les nuages et font pousser une forêt tropicale magnifique. Tobago, l'île voisine à 30 km, est pleine de coraux colorés et de plages de sable blanc.",
+  "animals": "L'ibis rouge est l'oiseau national de Trinidad — il est tellement rouge qu'on dirait une flamme vivante qui vole ! Cette belle couleur vient des crevettes qu'il mange tous les jours. L'autre île, Tobago, a un oiseau rigolo appelé le cocrico qui crie très fort comme un coq tous les matins.",
+  "culture": "Le carnaval de Trinidad est la plus grande fête du monde des Caraïbes — tout le monde met des costumes géants et danse dans la rue ! Et les instruments de musique appelés steelpan ont été inventés ici : ce sont de vieux fûts de pétrole martelés pour faire de la belle musique.",
+  "history": "Il y a très longtemps, l'île s'est détachée de l'Amérique du Sud comme un grand morceau de puzzle ! Christophe Colomb l'a découverte en 1498 et l'a nommée d'après trois sommets qu'il voyait depuis son bateau.",
+  "wows": [
+    "Il y a un lac de goudron naturel à La Brea — c'est comme une grande flaque noire qui bouillonne toute seule !",
+    "Le steelpan est le seul instrument de musique inventé au 20e siècle — les Nations Unies ont créé une journée mondiale pour le fêter.",
+    "Plus de 470 espèces d'oiseaux vivent ici — plus que dans tout le continent européen, dans un pays minuscule !",
+    "Le lac de goudron se répare tout seul : des objets engloutis il y a des dizaines d'années ressortent parfaitement conservés.",
+    "Géologiquement, Trinidad fait partie de l'Amérique du Sud — pas une île volcanique comme les autres Caraïbes !",
+    "Les « doubles » — des pois chiches épicés dans du pain frit — sont mangés par des millions de personnes chaque matin.",
+    "Des milliers d'ibis rouges rentrent ensemble dans les marais chaque soir — le ciel devient tout rouge !"
+  ],
+  "myths": [
+    {
+      "myth": "Trinité-et-Tobago c'est une seule île",
+      "fact": "C'est deux grandes îles plus 20 autres plus petites ! Trinidad est animée et industrieuse, Tobago est calme avec des récifs coralliens — très différentes."
+    },
+    {
+      "myth": "Le carnaval c'est pour les touristes",
+      "fact": "Le carnaval appartient aux Trinidadiens ! Il est né des chants et danses des esclaves africains et fait partie de l'âme du pays."
+    }
+  ],
+  "words": [
+    {
+      "en": "Se détendre",
+      "jp": "Liming",
+      "say": "LYM-ing"
+    },
+    {
+      "en": "Bête / idiot",
+      "jp": "Dotish",
+      "say": "DOH-tish"
+    },
+    {
+      "en": "Quoi de neuf ?",
+      "jp": "Whappen?",
+      "say": "WAP-un"
+    },
+    {
+      "en": "Danse des hanches",
+      "jp": "Wining",
+      "say": "WY-ning"
+    },
+    {
+      "en": "Bonne ambiance !",
+      "jp": "Vibes real!",
+      "say": "vybz REE-ul"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tt-hero.jpg",
+      "alt": "Vue panoramique de Port of Spain depuis les collines",
+      "caption": "PORT OF SPAIN — la capitale animée vue depuis les collines de la Chaîne du Nord",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/tt-landmark.jpg",
+      "alt": "Surface sombre et bouillonnante du Lac de Poix de Trinidad",
+      "caption": "LAC DE POIX — le plus grand dépôt naturel d'asphalte du monde, à La Brea, Trinidad",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tt-animalA.jpg",
+      "alt": "Ibis rouge qui patague dans l'eau peu profonde",
+      "caption": "IBIS ROUGE — oiseau national de Trinidad, rouge grâce aux crevettes qu'il mange",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/tt-animalB.jpg",
+      "alt": "Eau turquoise et sable blanc à la plage de Crown Point à Tobago",
+      "caption": "PLAGE DE CROWN POINT — le sable blanc et les eaux des Caraïbes à Tobago",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

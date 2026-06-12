@@ -1,0 +1,151 @@
+{
+  "name": "MONTÉNÉGRO",
+  "nativeName": "МЕ",
+  "romaji": "CRNA GORA",
+  "tagline": "La Montagne Noire",
+  "region": "Southern Europe",
+  "coords": "42.7°N 19.4°E",
+  "fileNo": "087",
+  "langName": "monténégrin",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#CBBFA0",
+    "ink": "#252018",
+    "faint": "#7A6B4E",
+    "line": "#D8CEAD",
+    "accent": "#D4A017",
+    "accent2": "#B22222"
+  },
+  "flag": {
+    "assetPath": "/flags/me.svg",
+    "title": "Monténégro",
+    "note": "Fond rouge, bordure dorée, aigle au centre",
+    "keyColor": "#D4A017",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Monténégro s'appelle comme ça parce que ses montagnes semblent toutes noires la nuit ! C'est un tout petit pays en Europe, mais il a des plages, des forêts et des montagnes géantes tous ensemble. On peut se baigner le matin et voir des ours dans la forêt l'après-midi !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Podgorica",
+      "sub": "aussi la ville culturelle Cetinje"
+    },
+    {
+      "label": "Habitants",
+      "value": "~624 000",
+      "sub": "recensement 2023 : 623 633"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "utilisé depuis 2002, pas membre de l'UE"
+    },
+    {
+      "label": "Langue",
+      "value": "monténégrin",
+      "sub": "le serbe et le croate aussi parlés"
+    },
+    {
+      "label": "Superficie",
+      "value": "13 812 km²",
+      "sub": "plus petit que la Corse"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Bobotov Kuk",
+      "sub": "2 523 m, massif du Durmitor"
+    }
+  ],
+  "islands": [
+    "Podgorica",
+    "Kotor",
+    "Budva",
+    "Nikšić",
+    "Cetinje"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des montagnes qui plongent dans la mer !",
+    "animals": "Ours, pélicans et aigles royaux",
+    "culture": "Fromage, chansons et vieilles pierres",
+    "history": "Les guerriers de la montagne noire",
+    "wows": "C'est vrai, je te jure !"
+  },
+  "geo": "Le Monténégro est presque tout en montagnes — avec des pics de pierre pointus et des lacs brillants cachés dans les vallées. La mer est toute proche et la baie de Kotor s'enfonce si loin dans les terres qu'on croirait un lac !",
+  "animals": "Dans les grandes forêts de montagne vivent encore environ 300 ours bruns sauvages — c'est énorme pour un si petit pays ! Sur le lac Skadar, des pélicans dalmates géants — les plus grands oiseaux d'Europe — font leurs nids sur des îles de roseaux qui flottent sur l'eau.",
+  "culture": "Au Monténégro, on mange un jambon de montagne spécial qui sèche pendant des mois dans le vent frais des villages — il s'appelle le pršut et c'est un vrai trésor ! Les gens sont très fiers et ont une expression célèbre : « Nous sommes peu nombreux, mais nous sommes forts ! »",
+  "history": "Il y a très longtemps, les guerriers du Monténégro vivaient dans des montagnes si difficiles à traverser que personne ne pouvait les attraper ! Ils savaient si bien se cacher dans les rochers que leur petit pays n'a jamais été vraiment vaincu.",
+  "wows": [
+    "Le nom « Monténégro » et « Crna Gora » veulent dire tous les deux exactement la même chose : Montagne Noire !",
+    "Le canyon de la Tara est aussi profond que 1 300 mètres — c'est le plus grand gouffre d'Europe !",
+    "Le Monténégro utilise les euros comme toi, mais il n'est pas dans l'Union Européenne — c'est une exception unique !",
+    "Environ 300 ours bruns sauvages vivent dans les forêts — trois fois plus d'ours que dans la plupart des pays d'Europe !",
+    "Un pont géant construit en 1940 s'élève à 172 mètres au-dessus d'une rivière — des gens sautent de là en bungee !",
+    "Le Monténégro a plus de zones protégées par l'UNESCO pour sa taille que presque tous les autres pays d'Europe !",
+    "Des loups, des ours ET des lynx vivent tous ensemble dans les mêmes forêts — trois grands prédateurs sauvages !"
+  ],
+  "myths": [
+    {
+      "myth": "La baie de Kotor est un fjord",
+      "fact": "Non, c'est une vallée de rivière inondée par la mer — les glaciers n'ont jamais atteint cette côte chaude, même si ça ressemble beaucoup à un fjord !"
+    },
+    {
+      "myth": "Le Monténégro fait partie de la Serbie",
+      "fact": "Non, ils étaient ensemble mais le Monténégro a voté pour être son propre pays en 2006 — il a maintenant son propre gouvernement et son propre passeport !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Oui / Non",
+      "jp": "Da / Ne",
+      "say": "dah / neh"
+    },
+    {
+      "en": "Santé !",
+      "jp": "Živjeli!",
+      "say": "ZHIV-yeh-lee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/me-hero.jpg",
+      "alt": "Vue aérienne de la baie de Kotor avec des parois montagneuses abruptes entourant une crique bleu profond",
+      "caption": "BAIE DE KOTOR — les montagnes plongent directement dans l'une des plus spectaculaires baies d'Europe",
+      "credit": "Elisabeth64 / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/me-landmark.jpg",
+      "alt": "Le pont en arc de béton Đurđevića Tara enjambant très haut au-dessus des gorges turquoise de la rivière Tara",
+      "caption": "PONT ĐURĐEVIĆA TARA — 172 m au-dessus du canyon le plus profond d'Europe",
+      "credit": "Aleks.milo / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/me-animalA.jpg",
+      "alt": "Un grand ours brun eurasien au pelage épais regardant face à l'objectif",
+      "caption": "OURS BRUN — environ 300 vivent encore dans les forêts reculées du Monténégro",
+      "credit": "MrPanyGoff / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/me-animalB.jpg",
+      "alt": "Un groupe de grands pélicans dalmates blancs se reposant sur le bord d'un lac",
+      "caption": "PÉLICANS DALMATES — ~300 nichent sur le lac Skadar, l'une des plus grandes colonies du monde",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    }
+  }
+}

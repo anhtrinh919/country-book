@@ -1,0 +1,151 @@
+{
+  "name": "OUGANDA",
+  "nativeName": "UG",
+  "romaji": "UGANDA",
+  "tagline": "La Perle de l'Afrique",
+  "region": "Afrique de l'Est",
+  "coords": "1.37°N, 32.29°E",
+  "fileNo": "080",
+  "langName": "luganda",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CDBF93",
+    "ink": "#211E12",
+    "faint": "#8A7A4A",
+    "line": "#DDD0A8",
+    "accent": "#D90000",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ug.svg",
+    "title": "Drapeau de l'Ouganda",
+    "note": "Noir, jaune et rouge ; disque avec grue couronnée",
+    "keyColor": "#D90000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Ouganda, la moitié de tous les gorilles de montagne du monde vivent dans une seule forêt enchantée ! Le grand fleuve Nil naît ici, tout petit, avant de partir très loin vers la mer. C'est vraiment la Perle de l'Afrique !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kampala",
+      "sub": "La ville aux sept collines"
+    },
+    {
+      "label": "Habitants",
+      "value": "45,9 millions",
+      "sub": "Recensement 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Shilling ougandais",
+      "sub": "Shilling ougandais (UGX)"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Et plus de 56 langues locales"
+    },
+    {
+      "label": "Superficie",
+      "value": "241 038 km²",
+      "sub": "Un peu plus grand que le Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "5 109 m",
+      "sub": "Margherita, monts Rwenzori"
+    }
+  ],
+  "islands": [
+    "Kampala",
+    "Jinja",
+    "Entebbe",
+    "Gulu",
+    "Mbarara"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des lacs, des montagnes et le Nil !",
+    "animals": "Gorilles, géants et oiseaux bizarres",
+    "culture": "Tambours, chapati et grues royales",
+    "history": "Un royaume puissant au bord du lac",
+    "wows": "Sept surprises époustouflantes"
+  },
+  "geo": "L'Ouganda n'a pas de mer, mais l'eau est partout : le lac Victoria, grand comme une mer, brille sur sa frontière. C'est là que naît le Nil, le plus long fleuve du monde, qui part ensuite vers le nord !",
+  "animals": "Le bec-en-sabot est un oiseau bleu géant avec un bec rond comme un sabot de bois — il reste immobile pendant 30 minutes, puis attrape un poisson en un éclair ! Dans le parc Bwindi, des gorilles de montagne vivent en famille dans la forêt brumeuse.",
+  "culture": "Le plat préféré en Ouganda est le matoke — des bananes vertes cuites doucement dans des feuilles jusqu'à être toutes molles et dorées. Dans la rue, tout le monde adore le Rolex : c'est une crêpe roulée avec des œufs et des légumes, et son nom vient de « rolled eggs » !",
+  "history": "Il y a très longtemps, le royaume Buganda était l'un des plus puissants de toute l'Afrique de l'Est, avec un grand roi appelé le kabaka et une flotte de pirogues sur le lac Victoria. Le palais royal de Kampala existe encore aujourd'hui — on peut aller le visiter !",
+  "wows": [
+    "Le Nil — le plus long fleuve du monde — naît en Ouganda. On peut le voir sortir du lac Victoria à Jinja !",
+    "Aux chutes Murchison, tout le Nil passe en grondant dans un trou de seulement 7 mètres de large, comme de l'eau dans un robinet géant !",
+    "L'Ouganda a 19 familles de gorilles habituées aux visiteurs — plus que n'importe quel autre pays au monde.",
+    "Le bec-en-sabot reste immobile comme une statue pendant 30 minutes, puis plonge sur sa proie plus vite que les yeux ne peuvent le voir !",
+    "Dans le secteur d'Ishasha, les lions grimpent dans les arbres dès leur naissance — c'est très rare dans toute l'Afrique !",
+    "La moitié de TOUS les gorilles de montagne du monde vivent dans un seul parc en Ouganda.",
+    "Le Rolex ougandais — une crêpe aux œufs vendue dans la rue — est une vraie attraction touristique officielle depuis 2016 !"
+  ],
+  "myths": [
+    {
+      "myth": "En Ouganda, tout le monde parle la même langue",
+      "fact": "L'Ouganda a plus de 56 langues différentes ! Une personne du nord et une personne du sud peuvent n'avoir aucune langue maternelle en commun."
+    },
+    {
+      "myth": "L'Ouganda est un pays tout plat et tout sec",
+      "fact": "L'Ouganda a des montagnes couvertes de neige, d'immenses lacs, des forêts brumeuses et de grandes cascades — c'est un pays plein de paysages très différents !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Oli otya",
+      "say": "oh-lee oh-CHA"
+    },
+    {
+      "en": "Merci",
+      "jp": "Webale",
+      "say": "way-BAH-lay"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Tukusanyuse",
+      "say": "too-koo-san-YOO"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Nnungi!",
+      "say": "nn-OON-gee"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Weeraba",
+      "say": "way-RAH-bah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ug-hero.jpg",
+      "alt": "Rues animées de Kampala, Ouganda",
+      "caption": "KAMPALA — capitale animée étalée sur sept collines verdoyantes près du lac Victoria.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ug-landmark.jpg",
+      "alt": "Chutes Murchison en Ouganda avec arc-en-ciel",
+      "caption": "CHUTES MURCHISON — le Nil s'engouffre dans un passage de 7 mètres et chute de 43 m.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ug-animalA.jpg",
+      "alt": "Portrait du bec-en-sabot avec son énorme bec",
+      "caption": "BEC-EN-SABOT — son immense bec en forme de sabot happe un poisson en une fraction de seconde.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ug-animalB.jpg",
+      "alt": "Gorille de montagne avec son bébé dans la forêt de Bwindi en Ouganda",
+      "caption": "GORILLE DE MONTAGNE — la moitié de la population mondiale vit dans la forêt de Bwindi en Ouganda.",
+      "credit": "Wikimedia Commons / KMRA"
+    }
+  }
+}

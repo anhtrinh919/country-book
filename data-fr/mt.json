@@ -1,0 +1,151 @@
+{
+  "name": "MALTE",
+  "nativeName": "MT",
+  "romaji": "MALTA",
+  "tagline": "Toute petite île, immense histoire",
+  "region": "Southern Europe",
+  "coords": "35.9°N, 14.5°E",
+  "fileNo": "058",
+  "langName": "maltais",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#C9B98E",
+    "ink": "#28211A",
+    "faint": "#8A7455",
+    "line": "#DDD0B0",
+    "accent": "#C8102E",
+    "accent2": "#F0F0F0"
+  },
+  "flag": {
+    "assetPath": "/flags/mt.svg",
+    "title": "Drapeau de Malte",
+    "note": "Blanc et rouge avec la Croix de Georges en haut à gauche",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Malte est une toute petite île dans la mer bleue — si petite qu'on peut la traverser en voiture en 30 minutes ! Elle a des temples encore plus vieux que les Pyramides d'Égypte !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Valletta",
+      "sub": "La plus petite capitale de l'Union européenne"
+    },
+    {
+      "label": "Habitants",
+      "value": "574 250",
+      "sub": "Estimation 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Adopté le 1er janvier 2008"
+    },
+    {
+      "label": "Langue",
+      "value": "maltais",
+      "sub": "Langue sémitique, alphabet latin"
+    },
+    {
+      "label": "Superficie",
+      "value": "316 km²",
+      "sub": "10e plus petit pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Ta' Dmejrek",
+      "sub": "253 m, près des falaises de Dingli"
+    }
+  ],
+  "islands": [
+    "Valletta",
+    "Mdina",
+    "Marsaxlokk",
+    "Victoria",
+    "Sliema"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Soleil, falaises et mer bleue",
+    "animals": "Ailes, nageoires et rochers",
+    "culture": "Fêtes, pierres et sel de mer",
+    "history": "Temples magiques et chevaliers",
+    "wows": "7 choses incroyables sur Malte"
+  },
+  "geo": "Malte est une petite île dorée posée entre la Sicile et l'Afrique, avec des falaises magnifiques et des grottes creusées par les vagues. Le soleil brille plus de 300 jours par an et la mer est toujours tout près !",
+  "animals": "L'oiseau national de Malte est le Merle de roche bleu — un oiseau bleu cobalt qui vit sur les falaises et les vieux remparts. Chaque automne, des milliers d'oiseaux migrateurs traversent l'île en voyageant entre l'Europe et l'Afrique !",
+  "culture": "Chaque village à Malte organise une grande fête d'été avec des feux d'artifice, des fanfares et des lumières colorées dans les rues. Le plat préféré des Maltais, c'est le ragoût de lapin, et leurs petits gâteaux feuilletés appelés pastizzi sont un délice !",
+  "history": "Malte a des temples en pierre construits il y a 5 600 ans — bien avant les Pyramides et Stonehenge. Des chevaliers courageux appelés les Chevaliers de Saint-Jean ont construit la belle ville de Valletta avec ses hautes murailles !",
+  "wows": [
+    "Les temples de Malte ont 5 600 ans — plus vieux que les Pyramides d'Égypte !",
+    "Valletta n'a que 5 000 habitants : c'est la plus petite capitale de toute l'Europe.",
+    "Le maltais est la seule langue sémitique au monde écrite avec l'alphabet latin.",
+    "Malte compte environ 365 églises — une pour chaque jour de l'année !",
+    "En 1942, le roi George VI a remis la Croix de Georges à toute l'île de Malte.",
+    "L'Hypogée de Ħal Saflieni est le seul site funéraire préhistorique souterrain du monde.",
+    "L'empereur Frédéric II a envoyé 18 fauconniers à Malte pour attraper ses faucons précieux !"
+  ],
+  "myths": [
+    {
+      "myth": "Malte est juste une île pour faire la fête",
+      "fact": "Malte possède trois sites classés au patrimoine mondial de l'UNESCO et des temples plus vieux que les Pyramides. Valletta seule a 320 monuments dans ses petites rues baroques."
+    },
+    {
+      "myth": "Le maltais est un dialecte arabe",
+      "fact": "Le maltais est une vraie langue à lui tout seul — avec des racines arabes mélangées à l'italien, au français et à l'anglais, et écrit avec des lettres latines, pas arabes !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bongu",
+      "say": "BON-joo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Grazzi",
+      "say": "GRAT-see"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Jekk jogħbok",
+      "say": "yek YOH-jbok"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Saħħa",
+      "say": "SAH-ha"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Tajjeb ħafna",
+      "say": "TIE-yeb HAF-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mt-hero.jpg",
+      "alt": "Vue panoramique du Grand Harbour depuis les jardins Upper Barrakka, Valletta, Malte",
+      "caption": "GRAND HARBOUR — L'ancien port de Valletta vu depuis les jardins Upper Barrakka",
+      "credit": "Björn S. / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/mt-landmark.jpg",
+      "alt": "Pierres du temple mégalithique de Hagar Qim sous un ciel bleu, Malte",
+      "caption": "ĦAĠAR QIM — Des pierres mégalithiques plus vieilles que les Pyramides, Malte",
+      "credit": "Frank Vincentz / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mt-animalA.jpg",
+      "alt": "Merle de roche mâle perché sur un rocher, plumage bleu cobalt",
+      "caption": "MERLE DE ROCHE BLEU — L'oiseau national de Malte, chez lui sur les falaises calcaires",
+      "credit": "J. M. Carretero Palacios / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/mt-animalB.jpg",
+      "alt": "Bateaux de pêche luzzu colorés amarrés dans le port de Marsaxlokk, Malte",
+      "caption": "BATEAUX LUZZU — Les célèbres bateaux de pêche peints de Malte dans le port de Marsaxlokk",
+      "credit": "Frank Vincentz / CC BY-SA 3.0"
+    }
+  }
+}

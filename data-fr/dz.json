@@ -1,0 +1,151 @@
+{
+  "name": "ALGÉRIE",
+  "nativeName": "DZ",
+  "romaji": "AL-JAZAIR",
+  "tagline": "Le géant du désert",
+  "region": "North Africa",
+  "coords": "28.0°N, 2.5°E",
+  "fileNo": "DZ",
+  "langName": "arabe",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD9",
+    "dot": "#CDBF9E",
+    "ink": "#1E1A14",
+    "faint": "#7A6E52",
+    "line": "#DDD0B0",
+    "accent": "#006233",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/dz.svg",
+    "title": "Drapeau de l'Algérie",
+    "note": "Vert et blanc avec un croissant et une étoile rouges",
+    "keyColor": "#006233",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Algérie est le plus grand pays d'Afrique — si grand qu'on pourrait y mettre toute l'Europe de l'Ouest ! La plupart du pays est un désert immense avec des dunes de sable et des palmiers-dattiers. La capitale Alger s'appelle « la Ville Blanche » parce que ses maisons brillent comme de la neige au soleil !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Alger",
+      "sub": "Pop. ~3,8 millions (est. 2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "45,6 millions",
+      "sub": "Est. recensement 2023"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dinar (DZD)",
+      "sub": "1 USD ≈ 134 DZD"
+    },
+    {
+      "label": "Langue",
+      "value": "arabe",
+      "sub": "Le tamazight est aussi officiel"
+    },
+    {
+      "label": "Superficie",
+      "value": "2 381 741 km²",
+      "sub": "Le plus grand pays d'Afrique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Tahat 2 908 m",
+      "sub": "Monts Ahaggar, au cœur du Sahara"
+    }
+  ],
+  "islands": [
+    "Algiers",
+    "Oran",
+    "Constantine",
+    "Tamanrasset",
+    "Tlemcen"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une mer de sable et de pierres",
+    "animals": "Les bêtes extraordinaires du Sahara",
+    "culture": "Couscous, tapis et casbah !",
+    "history": "Des villes cachées dans le désert",
+    "wows": "Ouah — tu savais ça ?"
+  },
+  "geo": "L'Algérie est couverte à 90 % par le Sahara, le plus grand désert chaud de la Terre ! Dans le nord, il y a de belles forêts, des champs de blé et une mer bleue étincelante.",
+  "animals": "Le renard fennec est le plus petit renard sauvage du monde, avec des oreilles si grandes qu'il entend les insectes marcher sous le sable la nuit ! Dans les forêts du nord vivent aussi des macaques de Barbarie, des singes espièges qui regardent passer les voitures.",
+  "culture": "Les Algériens adorent le couscous — de petits grains cuits à la vapeur avec de l'agneau, des légumes et des épices parfumées. Le vendredi, toute la famille se réunit autour d'une grande table pleine de saucisses merguez et de gâteaux au miel et aux amandes !",
+  "history": "Il y a très très longtemps, des artistes ont peint des éléphants et des girafes sur les rochers du désert — là où il n'y a plus que du sable aujourd'hui ! Les Romains ont aussi construit une ville entière, Timgad, qui a été ensevelie sous le sable pendant 1 000 ans avant d'être redécouverte.",
+  "wows": [
+    "L'Algérie est plus grande que toute l'Europe de l'Ouest réunie !",
+    "Des peintures rupestres montrent des éléphants là où le Sahara souffle aujourd'hui.",
+    "Le renard fennec n'a jamais besoin de boire — il trouve son eau dans les insectes et les racines.",
+    "La ville romaine de Timgad a dormi sous le sable du Sahara pendant 1 000 ans.",
+    "Des pirates algériens ont un jour attaqué l'Islande en 1627 !",
+    "L'Algérie possède sept sites classés au patrimoine mondial de l'UNESCO.",
+    "Les montagnes Ahaggar au milieu du désert ressemblent à un paysage de la Lune !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Algérie n'est que des dunes de sable",
+      "fact": "Seulement 25 % du Sahara algérien est sableux. La plupart du pays est fait de gravier plat ou de rochers volcaniques, et le nord a des forêts et une belle côte méditerranéenne."
+    },
+    {
+      "myth": "Rien ne peut vivre dans le Sahara",
+      "fact": "Plus de 70 espèces de mammifères, 100 espèces de reptiles et 300 espèces d'oiseaux vivent dans les déserts d'Algérie grâce à l'ombre, l'activité nocturne et des astuces pour économiser l'eau."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Oui",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "Pain",
+      "jp": "خبز",
+      "say": "KHU-bz"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dz-hero.jpg",
+      "alt": "La ville d'Alger vue depuis la mer Méditerranée, avec ses maisons blanches qui montent sur la colline",
+      "caption": "ALGER — la Ville Blanche s'élève au-dessus de la Méditerranée",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dz-landmark.jpg",
+      "alt": "Vue aérienne des ruines romaines de Timgad avec ses rues en quadrillage dans le désert",
+      "caption": "TIMGAD — une ville romaine enfouie sous le sable du Sahara pendant 1 000 ans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/dz-animalA.jpg",
+      "alt": "Renard fennec avec ses immenses oreilles assis sur le sable",
+      "caption": "RENARD FENNEC — ses grandes oreilles détectent les proies sous le sable et évacuent la chaleur",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dz-animalB.jpg",
+      "alt": "Macaque de Barbarie assis dans une forêt de cèdres en Algérie",
+      "caption": "MACAQUE DE BARBARIE — le singe espiègle d'Algérie vit dans les forêts de cèdres de l'Atlas",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

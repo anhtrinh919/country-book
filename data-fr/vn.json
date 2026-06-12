@@ -1,0 +1,151 @@
+{
+  "name": "VIÊT NAM",
+  "nativeName": "VN",
+  "romaji": "VIỆT NAM",
+  "tagline": "Drapeau rouge, étoile dorée",
+  "region": "Southeast Asia",
+  "coords": "21°N · 106°E",
+  "fileNo": "084",
+  "flag": {
+    "assetPath": "/flags/vn.svg",
+    "title": "Cờ đỏ sao vàng",
+    "note": "Fond rouge avec une étoile dorée depuis 1945",
+    "keyColor": "#DA251D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Viêt Nam a la forme d'un S géant — il est si fin qu'on peut aller de la mer aux montagnes en une heure de voiture ! Plus de 100 millions de personnes vivent là, et leur langue ressemble à une chanson avec six façons de chanter chaque mot. C'est un pays magique !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Hanoï",
+      "sub": "Sur le Fleuve Rouge depuis l'an 1010"
+    },
+    {
+      "label": "Habitants",
+      "value": "101,1 millions",
+      "sub": "54 groupes différents de personnes"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Đồng ₫",
+      "sub": "1 dollar = 25 000 đồng environ"
+    },
+    {
+      "label": "Langue",
+      "value": "vietnamien",
+      "sub": "6 tons qui changent le sens des mots"
+    },
+    {
+      "label": "Superficie",
+      "value": "331 212 km²",
+      "sub": "Très long du nord au sud"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Fansipan",
+      "sub": "3 143 m — le toit de l'Indochine"
+    }
+  ],
+  "islands": [
+    "Hanoi",
+    "Ho Chi Minh",
+    "Da Nang",
+    "Hue",
+    "Can Tho"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un S de mer et de montagnes",
+    "animals": "Les bêtes sauvages de la jungle",
+    "culture": "Phở, lanternes et danses du dragon",
+    "history": "Il était une fois un pays courageux",
+    "wows": "Des trucs qui font dire WAOUAH !"
+  },
+  "geo": "Le Viêt Nam est si long qu'il fait 1 650 km du nord au sud, mais par endroits il est tout fin comme un ruban ! Au nord, il y a de hautes montagnes enveloppées de brume, et au sud, un grand delta avec plein de rivières et de marchés flottants.",
+  "animals": "Le saola — qu'on appelle aussi la licorne d'Asie — est un animal si rare que presque personne ne l'a jamais vu en photo vivant ! Dans la célèbre baie de Hạ Long, des tortues de mer nagent près de récifs de corail plein de couleurs.",
+  "culture": "La plus grande fête du Viêt Nam s'appelle le Tết, le Nouvel An lunaire : les familles se retrouvent, les dragons dansent dans les rues et les enfants reçoivent des enveloppes rouges avec de l'argent porte-bonheur ! Le phở est une soupe magique qui mijote toute la nuit avec des épices parfumées.",
+  "history": "Il y a 2 500 ans, les Vietnamiens fabriquaient déjà de magnifiques tambours en bronze ! La légende dit que le peuple vietnamien descend d'un dragon et d'une fée — c'est pour ça qu'ils se sentent à la fois de la mer et des montagnes.",
+  "wows": [
+    "Le Viêt Nam produit plus de noix de cajou que tout autre pays — 8 noix de cajou sur 10 dans le monde viennent de là !",
+    "La baie de Hạ Long est parsemée de 1 969 îles en calcaire, comme des châteaux de pierre qui sortent de l'eau !",
+    "Le Viêt Nam s'écrit avec des lettres comme les nôtres, mais avec plein de petits accents qui changent tout le sens du mot.",
+    "La grotte Hang Sơn Đoòng est la plus grande du monde — elle est si immense qu'il y a une jungle et des nuages à l'intérieur !",
+    "La robe nationale áo dài se porte depuis presque 300 ans et on la voit encore chaque jour dans les rues.",
+    "Le Viêt Nam est le deuxième exportateur de café au monde — les collines poussent un café très fort appelé robusta.",
+    "La marionnette sur eau — rối nước — existe depuis plus de 1 000 ans : les artistes jouent debout dans l'eau jusqu'à la taille !"
+  ],
+  "myths": [
+    {
+      "myth": "Le phở est une soupe rapide à faire",
+      "fact": "Un vrai bouillon de phở mijote 6 à 12 heures avec des oignons grillés, du gingembre et des épices. Les vendeurs commencent à cuisiner à minuit pour être prêts au matin !"
+    },
+    {
+      "myth": "Le Viêt Nam est une grande jungle",
+      "fact": "Le Viêt Nam fabrique aussi plein d'appareils électroniques et de vêtements — c'est l'une des usines les plus importantes d'Asie !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Xin chào",
+      "say": "sin chow"
+    },
+    {
+      "en": "Merci",
+      "jp": "Cảm ơn",
+      "say": "gahm uhn"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Ngon quá!",
+      "say": "ngon kwah"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "Bao nhiêu?",
+      "say": "bow nyew"
+    },
+    {
+      "en": "Magnifique !",
+      "jp": "Đẹp quá!",
+      "say": "dep kwah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vn-hero.jpg",
+      "alt": "Tours de calcaire qui s'élèvent des eaux vertes et calmes de la baie de Hạ Long au lever du soleil",
+      "caption": "BAIE DE HẠ LONG — 1 969 îles de calcaire parsèment une mer émeraude au nord du Viêt Nam.",
+      "credit": "Wikimedia Commons / Aleksander Dragnes"
+    },
+    "landmark": {
+      "src": "/photos/vn-landmark.jpg",
+      "alt": "Lanternes de soie colorées se reflétant dans la rivière Thu Bon la nuit à Hội An",
+      "caption": "HỘI AN — Des lanternes de soie brillent au-dessus de la rivière Thu Bon dans la vieille ville classée à l'UNESCO.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vn-animalA.jpg",
+      "alt": "Tigre d'Indochine se reposant dans la lumière tachetée de la forêt",
+      "caption": "TIGRE D'INDOCHINE — moins de 200 survivent dans les hautes terres boisées du Viêt Nam.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/vn-animalB.jpg",
+      "alt": "Paon vert mâle déployant ses magnifiques plumes dans une clairière forestière",
+      "caption": "PAON VERT — le plus spectaculaire des oiseaux rares du Viêt Nam, indigène de ses forêts.",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "theme": {
+    "paper": "#F2ECD5",
+    "dot": "#CDB99A",
+    "ink": "#2B2118",
+    "faint": "#8A7560",
+    "line": "#DCCFAF",
+    "accent": "#DA251D",
+    "accent2": "#FFCD00"
+  },
+  "motif": "sun",
+  "langName": "vietnamien"
+}

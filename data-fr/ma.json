@@ -1,0 +1,151 @@
+{
+  "name": "MAROC",
+  "nativeName": "المغرب",
+  "romaji": "AL-MAGHRIB",
+  "tagline": "Royaume des couleurs",
+  "region": "North Africa",
+  "coords": "31.79°N, 7.09°W",
+  "fileNo": "042",
+  "langName": "arabe",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#C9B48E",
+    "ink": "#2B1F14",
+    "faint": "#8B6F47",
+    "line": "#DDD0B0",
+    "accent": "#C1272D",
+    "accent2": "#006233"
+  },
+  "flag": {
+    "assetPath": "/flags/ma.svg",
+    "title": "Drapeau du Maroc",
+    "note": "Fond rouge, étoile verte à cinq branches",
+    "keyColor": "#C1272D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Maroc, il y a des dunes de sable géantes qui deviennent dorées au lever du soleil ! Des villes aux murs roses et des marchés colorés remplis d'épices parfumées t'attendent. Et tout près, la mer bleue scintille sous le soleil !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Rabat",
+      "sub": "sur la côte Atlantique"
+    },
+    {
+      "label": "Habitants",
+      "value": "38 millions",
+      "sub": "est. 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dirham (MAD)",
+      "sub": "100 centimes = 1 dirham"
+    },
+    {
+      "label": "Langue",
+      "value": "arabe",
+      "sub": "+ tamazight et français"
+    },
+    {
+      "label": "Superficie",
+      "value": "446 550 km²",
+      "sub": "plus grand que la Californie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Toubkal 4 167 m",
+      "sub": "Montagnes de l'Atlas"
+    }
+  ],
+  "islands": [
+    "Casablanca",
+    "Marrakech",
+    "Fes",
+    "Tangier",
+    "Agadir"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, désert et mer !",
+    "animals": "Les bêtes sauvages de l'Atlas",
+    "culture": "Épices, marchés et conteurs",
+    "history": "Sultans et royaumes anciens",
+    "wows": "Le Maroc te surprend !"
+  },
+  "geo": "Au Maroc, de grandes montagnes s'appellent l'Atlas, et des villages accrochés aux falaises y cachent des forêts de cèdres. Au sud, d'immenses dunes de sable dorées montent jusqu'à 150 mètres de haut — comme un immeuble de 40 étages !",
+  "animals": "Le macaque de Barbarie est le seul singe sauvage du Maroc : il grimpe dans les cèdres et fait des cabrioles ! Le fennec, un tout petit renard du désert, a des oreilles si grandes qu'elles ressemblent à des antennes de télévision.",
+  "culture": "Au Maroc, on boit du thé à la menthe versé de très haut pour faire de la mousse — c'est la coutume ! Le tagine est un plat délicieux : de la viande mijotée avec des abricots et des épices dans un pot en terre cuite en forme de chapeau pointu.",
+  "history": "À Fès, il y a une université qui existe depuis l'an 859 — c'est la plus vieille université du monde entier ! Les Amazighs, les premiers habitants du Maroc, vivent ici depuis 5 000 ans.",
+  "wows": [
+    "L'université d'Al-Qarawiyyin à Fès est la plus vieille du monde : elle a plus de 1 100 ans !",
+    "Les dunes de l'Erg Chebbi sont aussi hautes qu'un immeuble de 40 étages.",
+    "Le Maroc possède presque toutes les réserves de roche phosphatée de la planète.",
+    "L'huile d'argan vient d'arbres qui poussent presque uniquement au Maroc.",
+    "Entre le Maroc et l'Europe, il y a seulement 14 km de mer — tu pourrais presque nager !",
+    "Chaque soir, des conteurs et des acrobates animent la grande place de Marrakech.",
+    "Le Maroc a neuf sites classés au patrimoine mondial de l'UNESCO."
+  ],
+  "myths": [
+    {
+      "myth": "Le Maroc est tout un grand désert chaud",
+      "fact": "Le Sahara n'occupe qu'un tout petit coin au sud-est. Le reste du Maroc a des montagnes, des vallées vertes et des plages. À Ifrane, dans l'Atlas, il neige même en hiver !"
+    },
+    {
+      "myth": "La nourriture marocaine est toujours très piquante",
+      "fact": "La cuisine marocaine est pleine d'épices comme le cumin et la cannelle, mais elle n'est pas piquante. La sauce harissa est servie à part — c'est toi qui choisis si tu en veux !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "بنين",
+      "say": "buh-NEEN"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ma-hero.jpg",
+      "alt": "La place Djemaa el-Fna la nuit, à Marrakech",
+      "caption": "DJEMAA EL-FNA — la célèbre place de Marrakech s'anime avec des conteurs chaque soir",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ma-landmark.jpg",
+      "alt": "La porte Bab Mansour à Meknès",
+      "caption": "BAB MANSOUR — la plus grande porte de ville du Maroc, construite en 1732 à Meknès",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ma-animalA.jpg",
+      "alt": "Un macaque de Barbarie assis dans un cèdre",
+      "caption": "MACAQUE DE BARBARIE — le seul singe sauvage du Maroc vit dans les forêts de cèdres de l'Atlas",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ma-animalB.jpg",
+      "alt": "Un fennec aux grandes oreilles dans le Sahara",
+      "caption": "FENNEC — ses oreilles immenses aident ce tout petit renard du désert à chasser la nuit",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

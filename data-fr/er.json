@@ -1,0 +1,151 @@
+{
+  "name": "ÉRYTHRÉE",
+  "nativeName": "ኤርትራ",
+  "romaji": "ERITREA",
+  "tagline": "Le joyau caché de la mer Rouge",
+  "region": "East Africa",
+  "coords": "15.2°N, 39.8°E",
+  "fileNo": "081",
+  "langName": "tigrigna",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48E",
+    "ink": "#26201A",
+    "faint": "#8A7355",
+    "line": "#DDD0B0",
+    "accent": "#4DA04B",
+    "accent2": "#CC2B2B"
+  },
+  "flag": {
+    "assetPath": "/flags/er.svg",
+    "title": "Drapeau de l'Érythrée",
+    "note": "Vert, rouge et bleu avec une couronne d'olivier",
+    "keyColor": "#4DA04B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Érythrée, la capitale Asmara est posée si haut dans les montagnes qu'il y fait frais même en plein soleil ! Des vaches de mer géantes appelées dugongs vivent dans la mer Rouge juste à côté. C'est un pays plein de merveilles cachées !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Asmara",
+      "sub": "2 325 m au-dessus de la mer"
+    },
+    {
+      "label": "Habitants",
+      "value": "3,6 millions",
+      "sub": "Estimation ONU 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Nakfa (ERN)",
+      "sub": "Nommée d'après une ville"
+    },
+    {
+      "label": "Langue",
+      "value": "Tigrigna",
+      "sub": "Plus l'arabe et l'anglais officiels"
+    },
+    {
+      "label": "Superficie",
+      "value": "117 600 km²",
+      "sub": "À peu près la taille de l'Angleterre"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Emba Soira",
+      "sub": "3 018 m dans les hauts plateaux"
+    }
+  ],
+  "islands": [
+    "Asmara",
+    "Massawa",
+    "Keren",
+    "Assab",
+    "Mendefera"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un plateau suspendu au-dessus de la mer",
+    "animals": "Dugongs, tortues et bouquetins",
+    "culture": "Neuf peuples, un seul pain géant",
+    "history": "Un trésor ancien au bord de la mer",
+    "wows": "Des choses qui vont t'étonner !"
+  },
+  "geo": "L'Érythrée a de hauts plateaux frais où vivent la plupart des gens, et une longue côte chaude sur la mer Rouge. La mer Rouge s'étire sur presque 2 000 km et cache plus de 120 îles entourées de coraux colorés !",
+  "animals": "Dans la mer Rouge, les dugongs sont des animaux doux et ronds qui mangent de l'herbe sous l'eau — on dirait des vaches de la mer ! Sur les rochers des montagnes, les bouquetins de Nubie sautent avec leurs grandes cornes recourbées.",
+  "culture": "En Érythrée, on mange tous ensemble un grand pain mou et spongieux appelé l'injera — il sert à la fois d'assiette et de cuillère ! Les gens adorent la cérémonie du café où on grille les grains devant les invités.",
+  "history": "Il y a très longtemps, le port d'Adulis était un endroit magique où des marchands venaient d'Arabie, d'Inde et de Rome pour échanger des trésors. La ville d'Asmara est remplie de beaux bâtiments construits par les Italiens il y a plus de cent ans !",
+  "wows": [
+    "Asmara est la première ville moderniste d'Afrique classée par l'UNESCO — ses rues ressemblent à un décor de film des années 1930 !",
+    "En 1937, l'Érythrée avait le plus long téléphérique du monde : 72 km de cabines transportant des marchandises.",
+    "Les coraux de la mer Rouge résistent à des températures qui détruiraient les coraux presque partout ailleurs.",
+    "L'Érythrée a interdit les sacs en plastique dès 2005, l'une des premières en Afrique !",
+    "Le pays a neuf langues officielles — c'est plus que la plupart des pays trois fois plus grands.",
+    "La moitié de tous les dugongs de la mer Rouge vivent dans les eaux de l'Érythrée.",
+    "En 1993, presque tous les Érythréens — 99,83 % ! — ont voté pour devenir un pays indépendant."
+  ],
+  "myths": [
+    {
+      "myth": "L'Érythrée fait partie de l'Éthiopie",
+      "fact": "L'Érythrée est un pays tout à fait indépendant depuis 1993, avec son propre gouvernement, sa monnaie et son drapeau."
+    },
+    {
+      "myth": "C'est un pays tout désertique",
+      "fact": "Les hauts plateaux au-dessus de 2 000 m ont de belles terres agricoles et un climat agréable ; Asmara est connue pour être fraîche et verdoyante."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "ሰላም",
+      "say": "Sel-AM"
+    },
+    {
+      "en": "Merci",
+      "jp": "የቐንየለይ",
+      "say": "Ye-ken-ye-LEY"
+    },
+    {
+      "en": "Oui",
+      "jp": "እወ",
+      "say": "Eh-weh"
+    },
+    {
+      "en": "Non",
+      "jp": "ኣይኮነን",
+      "say": "Ay-KOH-nen"
+    },
+    {
+      "en": "À manger !",
+      "jp": "መግቢ",
+      "say": "Meh-GBI"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/er-hero.jpg",
+      "alt": "Une vieille locomotive à vapeur sur le chemin de fer érythréen dans un paysage de montagne",
+      "caption": "CHEMIN DE FER ÉRYTHRÉEN — la ligne centenaire construite par les Italiens grimpe de la mer jusqu'à 2 325 m",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/er-landmark.jpg",
+      "alt": "Le bâtiment futuriste Fiat Tagliero à Asmara en forme d'avion avec des ailes en béton",
+      "caption": "BÂTIMENT FIAT TAGLIERO — monument futuriste d'Asmara construit en 1938, classé à l'UNESCO",
+      "credit": "Clay Gilliland / Wikimedia Commons CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/er-animalA.jpg",
+      "alt": "Un dugong glissant dans des eaux peu profondes et claires avec des herbiers marins",
+      "caption": "DUGONG — la mer Rouge au large de l'Érythrée abrite la moitié de tous les dugongs de cette mer",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/er-animalB.jpg",
+      "alt": "Une tortue verte nageant au-dessus d'un récif corallien dans la mer Rouge",
+      "caption": "TORTUE VERTE — les plages de l'archipel des Dahlak accueillent chaque année d'importants sites de nidification",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

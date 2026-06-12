@@ -1,0 +1,151 @@
+{
+  "name": "BAHREÏN",
+  "nativeName": "البحرن",
+  "romaji": "AL-BAHRAYN",
+  "tagline": "Le royaume insulaire du Golfe",
+  "region": "Middle East",
+  "coords": "26.07°N 50.55°E",
+  "fileNo": "BH",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBA96",
+    "ink": "#29201A",
+    "faint": "#897055",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/bh.svg",
+    "title": "Drapeau de Bahreïn",
+    "note": "Blanc et rouge dentelé, 5 pointes blanches",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bahreïn est un tout petit royaume d'îles dans la mer, plus petit qu'une grande ville ! Des plongeurs cherchaient des perles brillantes dans ses eaux chaudes depuis des milliers d'années. Aujourd'hui, de grandes tours scintillantes poussent à côté des vieux forts !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Manama",
+      "sub": "Environ 200 000 habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,6 million",
+      "sub": "Estimation 2024 ; ~53 % d'expatriés"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dinar bahreïni",
+      "sub": "1 BHD ≈ 2,65 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "Dialecte du Golfe ; anglais courant"
+    },
+    {
+      "label": "Superficie",
+      "value": "778 km²",
+      "sub": "Environ 3 fois l'île de Wight"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Jabal Dukhan",
+      "sub": "134 m — une douce colline de sable"
+    }
+  ],
+  "islands": [
+    "Manama",
+    "Muharraq",
+    "Riffa",
+    "Hamad Town",
+    "Isa Town"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une perle dans le Golfe",
+    "animals": "Désert, mer et ciel",
+    "culture": "Perles, dattes et bolides !",
+    "history": "5 000 ans de voyages",
+    "wows": "Le savais-tu ?"
+  },
+  "geo": "Bahreïn est un archipel de 33 îles posées dans une mer peu profonde entre le Qatar et l'Arabie Saoudite. Une grande route de presque 25 km traverse la mer pour relier Bahreïn au désert !",
+  "animals": "L'oryx d'Arabie, une belle antilope blanche aux longues cornes, vit dans une réserve protégée, et des dauphins joueurs sautent juste au bord des côtes. Le dugong, une douce vache de mer, broute les herbes sous les vagues dans l'une des dernières grandes familles du Golfe !",
+  "culture": "Les gens de Bahreïn adorent se retrouver pour boire un café parfumé à la cardamome et discuter ensemble pendant des heures. Chaque année, des voitures de Formule 1 font un bruit de tonnerre dans le désert la nuit, et tout le monde sort pour regarder !",
+  "history": "Il y a 5 000 ans, Bahreïn s'appelait Dilmun — les vieux textes sumériens en parlent comme d'un pays magique plein de richesses. Un arbre tout seul dans le désert pousse depuis 400 ans sans eau visible : les anciens croyaient qu'il buvait dans le paradis !",
+  "wows": [
+    "Il y a plus de voitures par kilomètre de route à Bahreïn que presque partout ailleurs sur Terre.",
+    "Un arbre appelé l'Arbre de Vie pousse seul dans le désert depuis 400 ans sans aucune eau visible.",
+    "Il y avait autrefois plus de 100 000 anciens tombeaux sur ces petites îles — plus qu'en n'importe quel endroit de la planète !",
+    "Le nom « Bahreïn » veut dire « deux mers » — les eaux douces et salées qui se mélangent autour des îles.",
+    "Le Grand Prix de Bahreïn a été la toute première course de Formule 1 disputée la nuit, éclairée par 495 énormes projecteurs !",
+    "Des sources d'eau douce jaillissent du fond de la mer, comme des fontaines magiques sous les vagues.",
+    "Les plongeurs de perles de Bahreïn plongeaient à mains nues pour ramasser des perles brillantes depuis des milliers d'années !"
+  ],
+  "myths": [
+    {
+      "myth": "Bahreïn n'est qu'un désert plein de pétrole",
+      "fact": "Le pétrole est presque épuisé — Bahreïn gagne maintenant son argent grâce aux banques, aux voyageurs et aux usines."
+    },
+    {
+      "myth": "Il fait toujours trop chaud pour y aller",
+      "fact": "En hiver (novembre à mars), il fait un temps agréable entre 15 et 25 °C, et des centaines de milliers de visiteurs viennent pour le Grand Prix !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "la-THEETH"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bh-hero.jpg",
+      "alt": "Les deux tours du Bahrain World Trade Center au crépuscule",
+      "caption": "BAHRAIN WORLD TRADE CENTER — deux tours reliées par des éoliennes, à Manama.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bh-landmark.jpg",
+      "alt": "Ruines de l'ancien fort Qal'at al-Bahrain",
+      "caption": "QAL'AT AL-BAHRAIN — ruines d'un fort classé à l'UNESCO, datant de 2300 av. J.-C.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bh-animalA.jpg",
+      "alt": "Dugong nageant sous l'eau",
+      "caption": "DUGONG — douce vache de mer qui broute les herbes du Golfe, espèce menacée.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bh-animalB.jpg",
+      "alt": "Tortue imbriquée nageant dans la mer",
+      "caption": "TORTUE IMBRIQUÉE — pond ses œufs la nuit sur les plages tranquilles de Bahreïn.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

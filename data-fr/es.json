@@ -1,0 +1,151 @@
+{
+  "name": "ESPAGNE",
+  "nativeName": "ES",
+  "romaji": "ESPAÑA",
+  "tagline": "Soleil, fiestas et flamenco !",
+  "region": "Southern Europe",
+  "coords": "40.4°N, 3.7°W",
+  "fileNo": "034",
+  "langName": "espagnol",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F7F0DF",
+    "dot": "#D4BC8A",
+    "ink": "#2B2018",
+    "faint": "#9A7D4A",
+    "line": "#E2CFA0",
+    "accent": "#C60B1E",
+    "accent2": "#F1BF00"
+  },
+  "flag": {
+    "assetPath": "/flags/es.svg",
+    "title": "Drapeau de l'Espagne",
+    "note": "Rayures rouges et jaunes avec blason",
+    "keyColor": "#C60B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Espagne, chaque mois d'août, 20 000 personnes se lancent 150 tonnes de tomates dessus — juste pour s'amuser ! C'est un pays où le soleil brille fort, où les châteaux anciens côtoient des trains ultra-rapides. Il y a des fêtes géantes, des danses enflammées et des repas délicieux !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Madrid",
+      "sub": "La capitale la plus haute de l'UE"
+    },
+    {
+      "label": "Habitants",
+      "value": "47,4 millions",
+      "sub": "Estimation 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Monnaie européenne depuis 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "Aussi catalan, basque et galicien"
+    },
+    {
+      "label": "Superficie",
+      "value": "505 990 km²",
+      "sub": "2e plus grand pays de l'UE"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 718 m",
+      "sub": "Le volcan Teide, îles Canaries"
+    }
+  ],
+  "islands": [
+    "Andalusia",
+    "Catalonia",
+    "Madrid",
+    "Valencia",
+    "Galicia"
+  ],
+  "islandsLabel": "GRANDES RÉGIONS :",
+  "sections": {
+    "geography": "Montagnes, plages et grandes plaines !",
+    "animals": "Les animaux sauvages d'Espagne",
+    "culture": "Fêtes, tapas et flamenco !",
+    "history": "Une légende vieille de 800 ans",
+    "wows": "L'Espagne va t'étonner !"
+  },
+  "geo": "L'Espagne est posée sur un grand plateau plat appelé la Meseta, entouré de montagnes comme les Pyrénées au nord. Tout autour, la mer baigne ses côtes : l'Atlantique d'un côté, la Méditerranée de l'autre !",
+  "animals": "Le lynx ibérique vit dans les forêts du sud de l'Espagne — c'est le chat sauvage le plus rare du monde entier ! Des vautours énormes planent au-dessus des gorges, et des ours bruns se promènent dans les montagnes du nord.",
+  "culture": "En Espagne, on mange très tard : le dîner commence souvent à 21 h, quand les petits français dorment déjà ! Les tapas sont de petites assiettes de nourriture que tout le monde partage au bar.",
+  "history": "Pendant presque 800 ans, des rois venus d'Afrique du Nord appelés les Maures ont construit de magnifiques palais en Espagne. Leur plus beau palais, l'Alhambra, est encore debout aujourd'hui — on peut aller le visiter !",
+  "wows": [
+    "À la fête de la Tomatina, 20 000 personnes se lancent 150 tonnes de tomates — quelle bataille !",
+    "La Sagrada Família à Barcelone est en construction depuis 1882 et n'est toujours pas terminée !",
+    "L'Espagne a plus de trésors classés par l'UNESCO que presque tous les autres pays du monde.",
+    "Le musée du Prado à Madrid possède plus de 8 000 tableaux de grands peintres.",
+    "Un Espagnol a inventé le balai à serpillière moderne en 1956 — merci !",
+    "L'espagnol est la 2e langue la plus parlée au monde, avec 490 millions de personnes !",
+    "Le réseau de trains rapides espagnols est le plus long d'Europe : plus de 3 900 km !"
+  ],
+  "myths": [
+    {
+      "myth": "Il fait toujours chaud et beau en Espagne",
+      "fact": "Au nord, comme en Galice, il pleut beaucoup — même plus qu'à Paris parfois !"
+    },
+    {
+      "myth": "Les taureaux chargent à cause de la couleur rouge",
+      "fact": "Les taureaux ne voient pas les couleurs — c'est le mouvement du tissu qui les excite, pas le rouge !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ass"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Qué rico!",
+      "say": "kay REE-koh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Adiós",
+      "say": "ah-dee-OSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/es-hero.jpg",
+      "alt": "Les tours de la basilique Sagrada Família à Barcelone au crépuscule",
+      "caption": "SAGRADA FAMÍLIA — le chef-d'œuvre inachevé de Gaudí qui s'élève sur Barcelone",
+      "credit": "Bernard Gagnon / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/es-landmark.jpg",
+      "alt": "Le palais de l'Alhambra illuminé la nuit à Grenade",
+      "caption": "ALHAMBRA — palais et forteresse maure dominant la ville de Grenade",
+      "credit": "Carlos Delgado / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/es-animalA.jpg",
+      "alt": "Un lynx ibérique au repos dans les broussailles",
+      "caption": "LYNX IBÉRIQUE — le chat sauvage le plus rare du monde, sauvé par la protection de la nature",
+      "credit": "Programa de Conservación / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/es-animalB.jpg",
+      "alt": "Un vautour fauve planant avec les ailes bien déployées",
+      "caption": "VAUTOUR FAUVE — grand oiseau planant dans les gorges et falaises d'Espagne",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

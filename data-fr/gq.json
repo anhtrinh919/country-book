@@ -1,0 +1,151 @@
+{
+  "name": "GUINÉE ÉQUATORIALE",
+  "nativeName": "GQ",
+  "romaji": "GUINEA ECUATL.",
+  "tagline": "Le secret espagnol de l'Afrique",
+  "region": "Central Africa",
+  "coords": "3.7°N, 8.8°E",
+  "fileNo": "085",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B89A",
+    "ink": "#261E14",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B5",
+    "accent": "#3E9A00",
+    "accent2": "#E32118"
+  },
+  "flag": {
+    "assetPath": "/flags/gq.svg",
+    "title": "Drapeau vert et bleu",
+    "note": "Vert, blanc, rouge — triangle bleu à gauche",
+    "keyColor": "#3E9A00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "C'est le seul pays d'Afrique où l'on parle espagnol ! Des singes très rares vivent sur une île volcanique entourée par la mer. Et chaque année, d'immenses tortues de mer viennent pondre leurs œufs sur les plages sous la lune !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Malabo",
+      "sub": "Sur l'île de Bioko, golfe de Guinée"
+    },
+    {
+      "label": "Habitants",
+      "value": "~1,9 million",
+      "sub": "Est. 2024 ; Fang 78 %, Bubi 9 %"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Partagé avec 5 autres pays"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "Seul pays hispanophone d'Afrique"
+    },
+    {
+      "label": "Superficie",
+      "value": "28 051 km²",
+      "sub": "Un peu plus petit que la Belgique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Pico Basilé",
+      "sub": "3 011 m — volcanique, île de Bioko"
+    }
+  ],
+  "islands": [
+    "Bioko",
+    "Río Muni",
+    "Annobón",
+    "Corisco",
+    "Bata"
+  ],
+  "islandsLabel": "RÉGIONS ET ÎLES :",
+  "sections": {
+    "geography": "Volcans, jungle et mer bleue",
+    "animals": "Singes des îles et tortues géantes",
+    "culture": "Tambours espagnols au cœur de la jungle",
+    "history": "Cacao, explorateurs et île du Nouvel An",
+    "wows": "C'est vraiment vrai ?"
+  },
+  "geo": "La Guinée Équatoriale est coupée en deux morceaux ! L'île de Bioko est un grand volcan qui monte jusqu'à 3 011 m au-dessus de la mer, avec la capitale Malabo perchée tout en haut. Sur le continent, la jungle épaisse est traversée de rivières jusqu'aux frontières avec le Cameroun et le Gabon.",
+  "animals": "L'île de Bioko est le seul endroit au monde où vivent les drills de Bioko, des singes au visage coloré très spéciaux ! De novembre à février, d'énormes tortues luth remontent sur les plages la nuit pour enterrer leurs œufs dans le sable.",
+  "culture": "En Guinée Équatoriale, on parle espagnol et on mange des plantains avec des plats qui ressemblent à ceux d'Espagne — une surprise en pleine Afrique ! Le peuple Bubi danse la balélé à Noël, et les musiciens Fang jouent du mvet, une grande harpe aux quinze cordes avec des mélodies secrètes.",
+  "history": "Des marins portugais ont découvert l'île d'Annobón le 1er janvier 1472 — ils l'ont appelée « Anno Bom », qui veut dire « Bonne Année » ! Longtemps après, des plantations de cacao ont poussé partout sur ces terres, et aujourd'hui le pays tire aussi beaucoup de pétrole du fond de la mer.",
+  "wows": [
+    "C'est le seul pays d'Afrique où l'espagnol est la langue officielle !",
+    "La capitale Malabo est sur une île volcanique, séparée du reste du pays par 40 km de mer.",
+    "L'île d'Annobón a été découverte exactement un 1er janvier — c'est pour ça qu'elle s'appelle « Bonne Année » !",
+    "Les drills de Bioko ne vivent nulle part ailleurs dans le monde entier.",
+    "Malgré son nom, la ligne de l'équateur ne traverse pas le pays !",
+    "La tortue luth est la plus grande tortue du monde — elle peut peser autant qu'un cheval !",
+    "La musique du mvet a une écriture secrète que seuls les maîtres initiés ont le droit d'apprendre."
+  ],
+  "myths": [
+    {
+      "myth": "L'équateur traverse le pays",
+      "fact": "Le continent est au nord de l'équateur. Seules les eaux près d'Annobón frôlent la ligne. Le nom est historique, pas géographique !"
+    },
+    {
+      "myth": "Le pétrole a rendu tout le monde riche",
+      "fact": "Sur le papier, c'est l'un des pays les plus riches d'Afrique, mais la plupart des habitants n'ont toujours pas d'eau propre ni d'électricité fiable."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Bonne journée",
+      "jp": "Buenos días",
+      "say": "BWEH-nos DEE-ahs"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Adiós",
+      "say": "ah-DYOSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gq-hero.jpg",
+      "alt": "Cathédrale de Malabo avec ses tours coloniales sur fond de ciel bleu",
+      "caption": "CATHÉDRALE DE MALABO — les deux tours de 40 m de Santa Isabel, construites sous l'Espagne en 1916",
+      "credit": "Ben Sutherland / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/gq-landmark.jpg",
+      "alt": "Forêt équatoriale dense près d'Oyala, en Guinée Équatoriale",
+      "caption": "FORÊT ÉQUATORIALE — une jungle ancienne recouvre l'intérieur du continent Río Muni",
+      "credit": "Mehlauge / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/gq-animalA.jpg",
+      "alt": "Drill de Bioko se reposant sur le sol de la forêt en Guinée Équatoriale",
+      "caption": "DRILL DE BIOKO — primate unique à l'île, photographié en Guinée Équatoriale en 2019",
+      "credit": "Chris Quirin / CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/gq-animalB.jpg",
+      "alt": "Tortue luth se reposant sur une plage de sable",
+      "caption": "TORTUE LUTH — pond ses œufs sur les plages sud de Bioko de novembre à février",
+      "credit": "USFWS / Public Domain"
+    }
+  }
+}

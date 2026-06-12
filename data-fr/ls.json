@@ -1,0 +1,151 @@
+{
+  "name": "LESOTHO",
+  "nativeName": "LS",
+  "romaji": "LESOTHO",
+  "tagline": "Le royaume dans les nuages",
+  "region": "Southern Africa",
+  "coords": "-29.6°N, 28.2°E",
+  "fileNo": "072",
+  "langName": "sesotho",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEE8D8",
+    "dot": "#C8BC9E",
+    "ink": "#252018",
+    "faint": "#857A5C",
+    "line": "#D8CFBA",
+    "accent": "#009A44",
+    "accent2": "#003580"
+  },
+  "flag": {
+    "assetPath": "/flags/ls.svg",
+    "title": "Drapeau du Lesotho",
+    "note": "Bleu, blanc et vert ; chapeau mokorotlo au centre",
+    "keyColor": "#009A44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Lesotho est un royaume de montagnes entièrement entouré par l'Afrique du Sud — même son point le plus bas est plus haut que toutes les montagnes d'Angleterre ! Ses habitants portent de beaux manteaux à motifs colorés et montent des petits poneys robustes dans la neige.",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Maseru",
+      "sub": "env. 360 000 habitants (2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "2,36 millions",
+      "sub": "estimation 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Loti (LSL)",
+      "sub": "lié au rand sud-africain"
+    },
+    {
+      "label": "Langue",
+      "value": "Sesotho",
+      "sub": "+ anglais (officiel)"
+    },
+    {
+      "label": "Superficie",
+      "value": "30 355 km²",
+      "sub": "plus petit que la Belgique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 482 m",
+      "sub": "Mt Ntlenyana, Drakensberg"
+    }
+  ],
+  "islands": [
+    "Maseru",
+    "Leribe",
+    "Mafeteng",
+    "Mokhotlong",
+    "Quthing"
+  ],
+  "islandsLabel": "DISTRICTS PRINCIPAUX :",
+  "sections": {
+    "geography": "Un toit au-dessus des nuages",
+    "animals": "Ailes, sabots et spirales",
+    "culture": "Couvertures, poneys et chansons",
+    "history": "Les rois de la montagne",
+    "wows": "Trop difficile à croire !"
+  },
+  "geo": "Le Lesotho est le seul pays du monde entièrement situé au-dessus de 1 000 m — même ses vallées sont plus hautes que les sommets anglais ! La cascade de Maletsunyane plonge de 192 m d'un seul coup, et toute cette eau de pluie est envoyée par des tuyaux géants vers les villes d'Afrique du Sud.",
+  "animals": "Le gypaète barbu vole sur ses ailes de 2,8 m au-dessus des sommets du Lesotho. Il attrape des os, les emporte très haut et les lâche sur les rochers pour les casser et manger la moelle à l'intérieur !",
+  "culture": "La couverture basotho est bien plus qu'un simple manteau — chaque motif coloré raconte un moment de la vie, comme une naissance ou un mariage. Le chapeau en forme de cône appelé mokorotlo est tellement important qu'il figure sur le drapeau du pays !",
+  "history": "Il y a environ 200 ans, le chef Moshoeshoe I a rassemblé des familles dispersées au sommet d'une montagne appelée Thaba Bosiu, ce qui veut dire « Montagne de la Nuit ». Il était si bon diplomate que beaucoup de personnes venaient se réfugier chez lui et son royaume devint de plus en plus grand !",
+  "wows": [
+    "Le point le plus bas du Lesotho est plus haut que le plus haut sommet de toute l'Angleterre.",
+    "La mine de diamants de Letšeng est à 3 100 m d'altitude — c'est la plus haute mine de diamants du monde !",
+    "4 des 20 plus grands diamants jamais trouvés sur Terre viennent du Lesotho.",
+    "Des traces de dinosaures vieilles de 200 millions d'années sont gravées dans les rochers près de Quthing.",
+    "Le Lesotho gagne de l'argent en vendant son eau de pluie à l'Afrique du Sud par de gigantesques tuyaux.",
+    "Le pub le plus haut d'Afrique est au col de Sani à 2 874 m — on ne peut y aller qu'en gros 4x4 !",
+    "Le gypaète barbu mange presque uniquement des os, que son estomac super-acide dissout complètement."
+  ],
+  "myths": [
+    {
+      "myth": "Le Lesotho fait partie de l'Afrique du Sud",
+      "fact": "Le Lesotho est un royaume totalement indépendant avec son propre roi et sa propre monnaie — il est juste entouré de toutes parts par l'Afrique du Sud !"
+    },
+    {
+      "myth": "Ses montagnes ne cachent rien de précieux",
+      "fact": "Les montagnes du Lesotho abritent des mines de diamants extraordinaires et fournissent des milliards de litres d'eau à l'Afrique du Sud chaque année."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Dumela",
+      "say": "doo-MEH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ke a leboha",
+      "say": "keh ah leh-BOH-ha"
+    },
+    {
+      "en": "Paix",
+      "jp": "Khotso",
+      "say": "KHOT-soh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ee",
+      "say": "eh-eh"
+    },
+    {
+      "en": "Papa / Monsieur",
+      "jp": "Ntate",
+      "say": "nn-TAH-teh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ls-hero.jpg",
+      "alt": "Les chutes de Maletsunyane qui tombent dans une gorge rocheuse au Lesotho",
+      "caption": "CHUTES DE MALETSUNYANE — l'une des plus hautes cascades d'Afrique avec 192 m de chute",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ls-landmark.jpg",
+      "alt": "La montagne plate de Thaba Bosiu, forteresse du roi Moshoeshoe I",
+      "caption": "THABA BOSIU — la forteresse de montagne où Moshoeshoe I a bâti son royaume",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ls-animalA.jpg",
+      "alt": "Gypaète barbu en vol au-dessus des sommets montagneux",
+      "caption": "GYPAÈTE BARBU — le géant casseur d'os des montagnes du Lesotho",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ls-animalB.jpg",
+      "alt": "Aloès spiralé montrant l'arrangement parfait de ses feuilles en tourbillon sur une pente de montagne",
+      "caption": "ALOÈS SPIRALÉ — la fleur nationale du Lesotho, introuvable ailleurs sur Terre",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

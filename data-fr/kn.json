@@ -1,0 +1,163 @@
+{
+  "name": "SAINT-KITTS-ET-NEVIS",
+  "nativeName": "KN",
+  "romaji": "SAINT KITTS",
+  "tagline": "Deux îles, un grand cœur",
+  "region": "Caribbean",
+  "coords": "17.3°N 62.7°W",
+  "fileNo": "087",
+  "langName": "créole kittitien",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA8",
+    "ink": "#252018",
+    "faint": "#857B60",
+    "line": "#DDD5C0",
+    "accent": "#009E49",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/kn.svg",
+    "title": "Triband aux deux étoiles",
+    "note": "Vert, noir et rouge avec deux étoiles blanches",
+    "keyColor": "#009E49",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saint-Kitts-et-Nevis, c'est deux toutes petites îles dans la mer des Caraïbes — si petites qu'on peut en faire le tour en voiture en moins d'une heure ! Et il y a plus de singes sauvages que d'habitants sur ces îles !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Basseterre",
+      "sub": "Ville principale de Saint-Kitts"
+    },
+    {
+      "label": "Habitants",
+      "value": "~47 000",
+      "sub": "Estimation 2022 : 51 320"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar des Caraïbes",
+      "sub": "Lié au dollar américain"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Langue officielle ; créole caribéen parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "261 km²",
+      "sub": "Plus petit que beaucoup de villes"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 156 m",
+      "sub": "Mont Liamuiga, Saint-Kitts"
+    }
+  ],
+  "islands": [
+    "St Kitts",
+    "Nevis",
+    "Basseterre",
+    "Charlestown",
+    "Sandy Point"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Volcans, récifs et forêt magique",
+    "animals": "Singes, pélicans et tortues",
+    "culture": "Fête, batik et plats savoureux",
+    "history": "L'île maman des Caraïbes",
+    "wows": "Des faits vraiment étonnants"
+  },
+  "geo": [
+    "Saint-Kitts ressemble à un pilon de poulet — avec un grand volcan endormi appelé mont Liamuiga qui a un lac caché dans son cratère ! Une forêt tropicale touffue couvre ses pentes, et de belles plages de sable entourent l'île.",
+    "Nevis est juste à 3 km, c'est une montagne presque ronde toujours coiffée de nuages tout en haut. Des récifs coralliens et une eau turquoise chaude entourent les deux îles comme une couverture colorée."
+  ],
+  "animals": [
+    "L'animal le plus surprenant des îles, c'est le singe vervet africain — des Français les ont amenés comme animaux de compagnie il y a très longtemps, ils se sont enfuis dans la forêt et maintenant ils sont plus nombreux que les gens ! On peut presque toujours en voir dans les arbres à mangues.",
+    "L'oiseau national, le pélican brun, plonge comme une fusée dans la mer pour attraper des poissons. Les tortues de mer pondent leurs œufs sur les plages tranquilles, et des poissons arc-en-ciel nagent autour des récifs."
+  ],
+  "culture": [
+    "Le carnaval Sugar Mas, en décembre, est la plus grande fête des îles — des musiciens, des tambours en acier et des danseurs déguisés avec des plumes colorées remplissent les rues pendant des semaines !",
+    "À Romney Manor, des artisans fabriquent des tissus aux couleurs vives avec une technique ancienne à la cire appelée batik. Le plat national, c'est une soupe de chèvre mijotée avec du fruit à pain et des épices — ça sent très bon !"
+  ],
+  "history": [
+    "Il y a très longtemps, Saint-Kitts a été la toute première île des Caraïbes où des Anglais sont venus s'installer, c'est pour ça qu'on l'appelle la « maman des colonies » de cette région !",
+    "Pendant des centaines d'années, la canne à sucre poussait partout sur les îles. Aujourd'hui, les champs de canne ont disparu, et les îles sont indépendantes depuis 1983."
+  ],
+  "wows": [
+    "Saint-Kitts-et-Nevis est la plus petite fédération du monde entier !",
+    "Il y aurait jusqu'à 40 000 singes vervets sauvages sur les deux îles — plus que les habitants !",
+    "Le mont Liamuiga s'appelait « mont Misère » jusqu'en 1983, puis il a retrouvé son vrai nom ancien.",
+    "Saint-Kitts a inventé le premier programme au monde pour obtenir la nationalité en échange d'un investissement, en 1984.",
+    "Le petit train touristique qui faisait le tour de l'île pour la canne à sucre est le dernier de toutes les Antilles.",
+    "La forteresse de Brimstone Hill est classée au patrimoine mondial de l'UNESCO depuis 1999.",
+    "La canne à sucre a poussé sur Saint-Kitts pendant 365 ans sans interruption, de 1640 à 2005 !"
+  ],
+  "myths": [
+    {
+      "myth": "Ces îles sont trop petites pour être intéressantes",
+      "fact": "Avec 261 km², Saint-Kitts-et-Nevis offre un volcan à explorer, une forteresse UNESCO, des récifs coralliens et une forêt tropicale — beaucoup plus grande île ne peut pas en dire autant !"
+    },
+    {
+      "myth": "Saint-Kitts-et-Nevis, c'est une seule île",
+      "fact": "C'est deux îles différentes — Saint-Kitts et Nevis ont chacune leur propre île, leurs propres paysages et leur propre volcan !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Wha' gwan",
+      "say": "wha GWAAN"
+    },
+    {
+      "en": "Ami",
+      "jp": "Pardner",
+      "say": "PAHD-nah"
+    },
+    {
+      "en": "Super !",
+      "jp": "Proper",
+      "say": "PROP-ah"
+    },
+    {
+      "en": "Fête",
+      "jp": "Lime",
+      "say": "LYME"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Laters",
+      "say": "LAY-ters"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/kn-landmark.jpg",
+      "alt": "La forteresse de Brimstone Hill vue d'en bas, avec ses murs de pierre sur une colline verte",
+      "caption": "FORTERESSE DE BRIMSTONE HILL — Site du patrimoine mondial de l'UNESCO sur Saint-Kitts",
+      "credit": "Martin Falbisoner / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/kn-animalA.jpg",
+      "alt": "Un singe vervet vert perché sur une branche qui regarde l'objectif",
+      "caption": "SINGE VERVET — arrivé au XVIIe siècle, il est maintenant plus nombreux que les habitants",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kn-animalB.jpg",
+      "alt": "Un pélican brun en vol au-dessus de l'eau bleue",
+      "caption": "PÉLICAN BRUN — oiseau national, célèbre pour ses plongeons spectaculaires pour attraper des poissons",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "src": "/photos/kn-hero.jpg",
+      "alt": "Le train panoramique de Saint-Kitts longeant la côte avec vue sur la mer",
+      "caption": "TRAIN PANORAMIQUE DE SAINT-KITTS — dernier train à canne à sucre des Antilles",
+      "credit": "Flickr / CC BY 2.0"
+    }
+  }
+}

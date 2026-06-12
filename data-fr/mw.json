@@ -1,0 +1,163 @@
+{
+  "name": "MALAWI",
+  "nativeName": "MW",
+  "romaji": "MALAWI",
+  "tagline": "Le Cœur Chaleureux de l'Afrique",
+  "region": "Afrique australe",
+  "coords": "13.9°S, 33.7°E",
+  "fileNo": "082",
+  "langName": "chichewa",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#1E1A14",
+    "faint": "#7A6A50",
+    "line": "#DDD0B8",
+    "accent": "#1A1A1A",
+    "accent2": "#C0272D"
+  },
+  "flag": {
+    "assetPath": "/flags/mw.svg",
+    "title": "Drapeau du Malawi",
+    "note": "Noir, rouge et vert ; soleil levant ajouté en 2010",
+    "keyColor": "#C0272D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Malawi a un lac si grand qu'il couvre un cinquième de tout le pays — comme une mer géante au milieu des terres ! Ce lac contient plus d'espèces de poissons que n'importe quel autre lac sur Terre. Et les habitants du Malawi sont tellement gentils que leur pays s'appelle le Cœur Chaleureux de l'Afrique !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Lilongwe",
+      "sub": "Depuis l'indépendance en 1964"
+    },
+    {
+      "label": "Habitants",
+      "value": "22,2 millions",
+      "sub": "Estimation ONU, 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Kwacha",
+      "sub": "« Aube » en chichewa"
+    },
+    {
+      "label": "Langue",
+      "value": "Chichewa",
+      "sub": "Plus l'anglais (officiel)"
+    },
+    {
+      "label": "Superficie",
+      "value": "118 484 km²",
+      "sub": "À peu près comme la Pennsylvanie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Sapitwa 3 002 m",
+      "sub": "Sommet du massif du Mulanje"
+    }
+  ],
+  "islands": [
+    "Lilongwe",
+    "Blantyre",
+    "Mzuzu",
+    "Zomba",
+    "Karonga"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un lac grand comme la moitié du pays !",
+    "animals": "Des poissons arc-en-ciel et des aigles géants",
+    "culture": "Masques, tambours et bouillie magique",
+    "history": "Un os vieux de 2 millions d'années !",
+    "wows": "Tu vas pas y croire !"
+  },
+  "geo": [
+    "Le Malawi est tout long et tout fin — presque 900 km du nord au sud, mais jamais plus large que 150 km. Au milieu se trouve le lac Malawi, un immense lac d'eau douce de 584 km de long, aussi clair que du cristal !",
+    "Au sud, le massif du Mulanje dresse ses rochers de granit très haut dans le ciel, au-dessus des plantations de thé bien vertes."
+  ],
+  "animals": [
+    "Le lac Malawi abrite plus de 1 000 espèces de poissons appelés cichlidés — plus que n'importe quel autre lac sur Terre. Ces petits poissons brillent comme des bijoux de toutes les couleurs de l'arc-en-ciel !",
+    "L'aigle pêcheur africain, l'oiseau national du Malawi, chasse au bord du lac et pousse un cri si fort que les gens disent que c'est la vraie voix de l'Afrique."
+  ],
+  "culture": [
+    "Les danseurs Chewa portent des masques secrets et dansent la Gule Wamkulu, la Grande Danse, pour représenter des esprits et des animaux sauvages. L'UNESCO a déclaré cette danse un trésor de l'humanité en 2005 !",
+    "Au Malawi, presque tout le monde mange de la nsima — une grosse bouillie de maïs bien épaisse — avec du poisson ou de la sauce aux arachides, que l'on attrape avec les doigts."
+  ],
+  "history": [
+    "En 1991, on a trouvé au Malawi un os de mâchoire vieux de 2,4 millions d'années — c'est l'une des plus anciennes preuves que des humains ont vécu sur Terre ! C'est presque aussi vieux que les dinosaures du temps des hommes.",
+    "Le pays s'appelait autrefois Nyasaland et a fêté son indépendance le 6 juillet 1964. En 2012, la présidente Joyce Banda a vendu l'avion présidentiel pour gagner de l'argent pour son pays — quelle bonne idée !"
+  ],
+  "wows": [
+    "Le lac Malawi a plus de 1 000 espèces de poissons — plus que tout autre lac sur Terre !",
+    "Un os de mâchoire trouvé ici a 2,4 millions d'années — c'est parmi les plus vieux restes humains jamais découverts !",
+    "Un cinquième du Malawi est de l'eau — on voit le lac depuis l'espace !",
+    "Le mot « kwacha » veut dire « aube » en chichewa — c'est un nouveau jour de liberté !",
+    "Le parc de Liwonde a ramené des lions, des guépards, des lycaons et des rhinocéros noirs en seulement dix ans !",
+    "Les danseurs masqués de la Gule Wamkulu appartiennent à une société secrète qui existe depuis des centaines d'années !",
+    "La présidente Joyce Banda a vendu l'avion présidentiel pour 15 millions de dollars pour aider son pays !"
+  ],
+  "myths": [
+    {
+      "myth": "Il fait toujours très très chaud au Malawi",
+      "fact": "Dans les montagnes du Mulanje, il peut faire vraiment froid la nuit — il peut même geler au-dessus de 2 500 m !"
+    },
+    {
+      "myth": "Il ne faut pas se baigner dans le lac",
+      "fact": "Beaucoup d'endroits près des lodges sont sans danger pour nager et faire de la plongée avec masque et tuba !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Muli bwanji",
+      "say": "moo-li BWAN-jee"
+    },
+    {
+      "en": "Je vais bien",
+      "jp": "Ndili bwino",
+      "say": "in-DEE-li BWEE-no"
+    },
+    {
+      "en": "Merci",
+      "jp": "Zikomo",
+      "say": "zee-KOH-mo"
+    },
+    {
+      "en": "Oui",
+      "jp": "Inde",
+      "say": "in-DEH"
+    },
+    {
+      "en": "Lac",
+      "jp": "Nyanja",
+      "say": "NYAN-ja"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mw-hero.jpg",
+      "alt": "Rivage du lac Malawi à Chiweta avec des montagnes en arrière-plan",
+      "caption": "LAC MALAWI — la mer intérieure qui couvre un cinquième du pays",
+      "credit": "Michaelphoya / Wikimedia CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mw-landmark.jpg",
+      "alt": "Rangées de plantations de thé vert avec le massif du Mulanje qui se dresse derrière",
+      "caption": "MASSIF DU MULANJE — géant de granit qui domine les théiers du sud",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mw-animalA.jpg",
+      "alt": "Poisson cichlidé bleu vif dans une eau claire",
+      "caption": "CICHLIDÉ — l'une des 1 000+ espèces que l'on trouve uniquement dans le lac Malawi",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/mw-animalB.jpg",
+      "alt": "Aigle pêcheur africain planant en vol",
+      "caption": "AIGLE PÊCHEUR AFRICAIN — oiseau national, voix du bord du lac",
+      "credit": "Wikimedia Commons CC BY-SA 4.0"
+    }
+  }
+}

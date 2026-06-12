@@ -1,0 +1,163 @@
+{
+  "name": "PAPOUASIE N GUINÉE",
+  "nativeName": "PG",
+  "romaji": "PAPUA NIUGINI",
+  "tagline": "Le pays de l'inattendu !",
+  "region": "Melanesia, Pacific",
+  "coords": "6°S 147°E",
+  "fileNo": "079",
+  "langName": "tok pisin",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CABB99",
+    "ink": "#221E16",
+    "faint": "#8A7B5A",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/pg.svg",
+    "title": "Papouasie-Nouvelle-Guinée",
+    "note": "Deux moitiés noire et rouge, avec l'Oiseau de Paradis",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Papouasie-Nouvelle-Guinée, les gens parlent plus de 800 langues différentes — plus que dans n'importe quel autre pays du monde ! Les montagnes sont si hautes et si épaisses de jungle que des villages voisins ne se rencontraient jamais. Un oiseau aux plumes orange comme des flammes est le symbole national !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Port Moresby",
+      "sub": "Sur la côte sud"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,3 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Kina (PGK)",
+      "sub": "Nommée d'après un coquillage"
+    },
+    {
+      "label": "Langue",
+      "value": "800+ langues",
+      "sub": "Le plus au monde"
+    },
+    {
+      "label": "Superficie",
+      "value": "462 840 km²",
+      "sub": "Plus grand que la Californie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Wilhelm",
+      "sub": "4 509 m au-dessus de la mer"
+    }
+  ],
+  "islands": [
+    "Port Moresby",
+    "Lae",
+    "Mt Hagen",
+    "Madang",
+    "Bougainville"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Jungles, sommets et volcans !",
+    "animals": "Plumes, couleurs et acrobaties",
+    "culture": "800 langues, un seul peuple",
+    "history": "Une île découverte par les ancêtres",
+    "wows": "Trop incroyable pour être vrai !"
+  },
+  "geo": [
+    "La Papouasie est couverte de hautes montagnes envahies de jungle, où il peut faire froid la nuit même sous les tropiques. Des rivières puissantes dévalent jusqu'à des côtes marécageuses et chaudes.",
+    "Des centaines d'îles entourent le pays, et des volcans actifs peuvent recouvrir des villages entiers sous des tonnes de cendres en une seule nuit !"
+  ],
+  "animals": [
+    "L'Oiseau de Paradis Raggiana a de longues plumes orange flamboyantes et danse sur une branche pour séduire les femelles. Le kangourou arboricole, lui, vit dans les arbres et saute de branche en branche comme un acrobate !",
+    "La forêt abrite aussi des perroquets très colorés et l'énorme casoar, un oiseau géant qui ne vole pas mais court très vite sur ses grandes pattes."
+  ],
+  "culture": [
+    "En Papouasie, il existe plus de 800 langues vivantes — tellement que les voisins d'à côté ne se comprennent pas ! Alors tout le monde parle aussi le tok pisin, un mélange rigolo d'anglais et d'autres langues.",
+    "Les « sing-sings » sont de grandes fêtes colorées où les gens arrivent avec des peintures sur le visage et d'immenses coiffes en plumes pour danser et manger ensemble !"
+  ],
+  "history": [
+    "Les premiers habitants sont arrivés dans cette île il y a au moins 50 000 ans — bien avant les pyramides d'Égypte ! Il y a 10 000 ans, ils cultivaient déjà des légumes dans les montagnes.",
+    "Ces fermiers des Highlands ont inventé l'agriculture tout seuls, en même temps que les peuples du Moyen-Orient, sans jamais se connaître !"
+  ],
+  "wows": [
+    "Plus de 800 langues différentes sont parlées par seulement 10 millions de personnes — c'est le record du monde !",
+    "Les fermiers des Highlands cultivaient des légumes il y a 10 000 ans, bien avant la plupart des civilisations.",
+    "Le mâle Oiseau de Paradis se suspend à l'envers et secoue ses plumes orange dans une véritable explosion de couleurs !",
+    "Le volcan Tavurvur a recouvert la ville de Rabaul sous des mètres de cendres en une seule nuit en 1994.",
+    "Le kangourou arboricole s'agrippe aux arbres avec ses pattes rembourrées — il vit tout en haut de la forêt !",
+    "L'île de Nouvelle-Guinée est la deuxième plus grande île du monde, partagée avec l'Indonésie.",
+    "Certains villages côtiers sont construits entièrement sur pilotis au-dessus de la mer — les enfants se déplacent en pirogue !"
+  ],
+  "myths": [
+    {
+      "myth": "« La Papouasie est un seul peuple »",
+      "fact": "Le pays compte plus de 800 langues et cultures différentes — les habitants des montagnes et ceux des côtes sont aussi différents que les Français et les Japonais !"
+    },
+    {
+      "myth": "« L'Oiseau de Paradis est très rare »",
+      "fact": "Le Raggiana n'est pas en danger — il vit en abondance dans les forêts de Papouasie, et on le voit même sur le drapeau national !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Gude",
+      "say": "GOO-day"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tenkyu",
+      "say": "TEN-kyoo"
+    },
+    {
+      "en": "Oui",
+      "jp": "Yesa",
+      "say": "YEH-sah"
+    },
+    {
+      "en": "Bien !",
+      "jp": "Gutpela",
+      "say": "GOOT-peh-lah"
+    },
+    {
+      "en": "Eau",
+      "jp": "Wara",
+      "say": "WAH-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pg-hero.jpg",
+      "alt": "Le port de Port Moresby avec des bateaux et la skyline de la ville",
+      "caption": "PORT DE PORT MORESBY — le front de mer de la capitale sur la côte sud de la PNG",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pg-landmark.jpg",
+      "alt": "L'allée commémorative de la piste Kokoda bordée de plaques",
+      "caption": "MÉMORIAL DE LA PISTE KOKODA — un souvenir de la grande traversée de la jungle",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pg-animalA.jpg",
+      "alt": "Oiseau de Paradis Raggiana avec ses plumes orange vives sur une branche",
+      "caption": "OISEAU DE PARADIS RAGGIANA — l'oiseau national de la PNG, avec ses plumes orange flamboyantes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pg-animalB.jpg",
+      "alt": "Kangourou arboricole perché dans un arbre",
+      "caption": "KANGOUROU ARBORICOLE — un marsupial qui a troqué le sol contre la canopée forestière",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

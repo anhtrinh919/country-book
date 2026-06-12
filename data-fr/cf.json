@@ -1,0 +1,163 @@
+{
+  "name": "RÉP. CENTRAFRICAINE",
+  "nativeName": "CF",
+  "romaji": "CENTRAFRIQUE",
+  "tagline": "Le cœur du continent",
+  "region": "Central Africa",
+  "coords": "7°N, 21°E",
+  "fileNo": "082",
+  "langName": "sango",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDC",
+    "dot": "#CBBA9E",
+    "ink": "#271E14",
+    "faint": "#8A7558",
+    "line": "#DDD0B5",
+    "accent": "#003082",
+    "accent2": "#BC0026"
+  },
+  "flag": {
+    "assetPath": "/flags/cf.svg",
+    "title": "Cinq bandes et une étoile",
+    "note": "Bleu, blanc, vert, jaune et une bande rouge",
+    "keyColor": "#003082",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ce pays est exactement au milieu de l'Afrique, comme le cœur dans la poitrine ! Des éléphants des forêts se baignent dans des clairières magiques chaque jour. La nuit, le ciel est tellement noir qu'on voit des millions d'étoiles !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bangui",
+      "sub": "Sur le fleuve Ubangi"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,5 millions",
+      "sub": "Plus de 80 groupes différents"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Partagée avec 5 voisins"
+    },
+    {
+      "label": "Langue",
+      "value": "Sango et français",
+      "sub": "Le sango parlé par presque tous"
+    },
+    {
+      "label": "Superficie",
+      "value": "623 000 km²",
+      "sub": "Plus grand que la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Ngaoui",
+      "sub": "1 410 m, près du Cameroun"
+    }
+  ],
+  "islands": [
+    "Bangui",
+    "Berbérati",
+    "Bambari",
+    "Bossangoa",
+    "Carnot"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Le cœur qui bat de l'Afrique",
+    "animals": "Les géants de la forêt et de la savane",
+    "culture": "Musiques, masques et 80 peuples",
+    "history": "Des empereurs et des trésors cachés",
+    "wows": "Sept surprises époustouflantes"
+  },
+  "geo": [
+    "La Centrafrique est posée sur un grand plateau, comme une table géante au milieu du continent. Au sud, une forêt dense et bourdonnante de vie ; au nord, une grande savane dorée qui s'étend à perte de vue.",
+    "Le puissant fleuve Ubangi forme toute la frontière sud, large et brun comme du chocolat chaud. À l'ouest, les montagnes Karre s'élèvent jusqu'au mont Ngaoui, le toit du pays à 1 410 m !"
+  ],
+  "animals": [
+    "Dans les forêts du sud vivent des éléphants des forêts, des gorilles et des bongos — de grandes antilopes châtain-roux avec des rayures blanches, les plus grandes antilopes de forêt du monde entier !",
+    "La clairière de Dzanga Bai est un endroit magique où des dizaines d'éléphants se retrouvent chaque jour pour se rouler dans la boue. C'est comme une fête d'anniversaire pour éléphants !"
+  ],
+  "culture": [
+    "Le peuple Aka, qui vit dans les forêts du sud-ouest, chante des chansons extraordinaires à quatre voix en même temps — chaque enfant apprend ces mélodies dès sa naissance, comme une langue secrète !",
+    "Plus de 80 peuples vivent ici, chacun avec ses propres danses, masques colorés et tambours qu'on entend à des kilomètres à la ronde. La langue sango rassemble tout le monde comme un grand câlin."
+  ],
+  "history": [
+    "Des gens vivent ici depuis au moins 8 000 ans — on a retrouvé de beaux outils en pierre polis il y a très longtemps. Le pays a pris son indépendance le 13 août 1960, comme un enfant qui grandit et devient libre !",
+    "En 1977, un général s'est couronné Empereur Bokassa I dans une fête gigantesque qui coûtait plus d'argent que n'importe quelle fête de roi. Il portait une couronne avec des diamants du pays !"
+  ],
+  "wows": [
+    "La Centrafrique est le pays le plus proche du centre géographique exact de toute l'Afrique !",
+    "Le ciel nocturne est si peu éclairé que la Voie Lactée ressemble à du sucre renversé sur du velours noir.",
+    "Jusqu'à 100 éléphants des forêts se rassemblent en même temps dans la clairière de Dzanga Bai.",
+    "La pluie qui tombe sur la même colline peut couler vers le fleuve Congo ou vers le Nil selon le côté !",
+    "Le sol cache d'énormes diamants, mais le pays n'a pas accès à la mer — chaque diamant voyage des centaines de km à pied !",
+    "Les enfants Aka apprennent à chanter des harmonies à quatre voix aussi naturellement qu'on apprend à parler.",
+    "On y a recensé 772 espèces d'oiseaux — plus que dans toute l'Europe réunie !"
+  ],
+  "myths": [
+    {
+      "myth": "C'est uniquement une forêt pauvre",
+      "fact": "Le nord est une savane ouverte où vivent des lions, et le sol cache de gigantesques diamants, de l'or et de l'uranium — de vrais trésors naturels !"
+    },
+    {
+      "myth": "C'est un tout petit pays oublié",
+      "fact": "Avec 623 000 km², la Centrafrique est plus grande que la France et touche six pays, juste au cœur de l'Afrique."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bara mo",
+      "say": "BAH-rah moh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Singîla",
+      "say": "sin-GEE-lah"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ën",
+      "say": "uhn"
+    },
+    {
+      "en": "Non",
+      "jp": "Ën ën",
+      "say": "uhn-UHN"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Na peko",
+      "say": "nah PAY-koh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cf-hero.jpg",
+      "alt": "Scène de rue dans le centre-ville de Bangui",
+      "caption": "BANGUI — la capitale au bord du fleuve, porte d'entrée du pays",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cf-landmark.jpg",
+      "alt": "Foule devant la cathédrale Notre-Dame de Bangui",
+      "caption": "CATHÉDRALE NOTRE-DAME, BANGUI — monument emblématique de la capitale",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cf-animalA.jpg",
+      "alt": "Éléphants des forêts dans la clairière de Dzanga Bai",
+      "caption": "ÉLÉPHANTS DES FORÊTS à Dzanga Bai — un lieu de rassemblement magique dans la jungle",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cf-animalB.jpg",
+      "alt": "Antilope bongo avec son pelage châtain et ses rayures blanches",
+      "caption": "ANTILOPE BONGO — le géant rayé de la forêt, timide et rarement aperçu",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

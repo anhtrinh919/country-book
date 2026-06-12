@@ -1,0 +1,151 @@
+{
+  "name": "ÉTHIOPIE",
+  "nativeName": "ኢትዮጵ",
+  "romaji": "ITYOPIA",
+  "tagline": "Le toit de l'Afrique",
+  "region": "Afrique de l'Est",
+  "coords": "9°N 40°E",
+  "fileNo": "ET",
+  "langName": "amharique",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CEBF9E",
+    "ink": "#26201A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#1A7A3C",
+    "accent2": "#FCDD09"
+  },
+  "flag": {
+    "assetPath": "/flags/et.svg",
+    "title": "Drapeau éthiopien",
+    "note": "Vert, or et rouge avec un disque bleu",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le café que boivent les adultes a été découvert en Éthiopie — des chèvres ont dansé en mangeant les baies magiques ! C'est l'un des pays les plus anciens du monde, où des gens marchaient déjà il y a 3 millions d'années. Et il a 13 mois dans son calendrier, pas 12 comme chez nous !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Addis-Abeba",
+      "sub": "Env. 5,7 millions d'habitants ; 3e capitale la plus haute"
+    },
+    {
+      "label": "Habitants",
+      "value": "~128 millions",
+      "sub": "Est. 2024 ; 2e pays le plus peuplé d'Afrique"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Birr (ETB)",
+      "sub": "1 birr = 100 santim"
+    },
+    {
+      "label": "Langue",
+      "value": "amharique",
+      "sub": "Plus de 80 langues parlées dans le pays"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 104 300 km²",
+      "sub": "Environ 4 fois la taille du Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Ras Dashen",
+      "sub": "4 550 m — le plus haut sommet d'Éthiopie"
+    }
+  ],
+  "islands": [
+    "Tigray",
+    "Amhara",
+    "Oromia",
+    "SNNPR",
+    "Afar"
+  ],
+  "islandsLabel": "GRANDES RÉGIONS :",
+  "sections": {
+    "geography": "Montagnes, vallées et lacs de lave",
+    "animals": "Loups et babouins des falaises",
+    "culture": "Café, musique et fêtes anciennes",
+    "history": "3 millions d'années d'aventures",
+    "wows": "C'est vraiment vrai ça ?!"
+  },
+  "geo": "L'Éthiopie est posée sur un grand plateau rocheux traversé par la Grande Vallée du Rift. Au nord, les montagnes des Siméon s'élèvent très haut dans les nuages, et à l'est, le sol descend jusqu'à un endroit appelé la dépression Danakil — l'un des lieux les plus chauds de la Terre, avec des lacs de lave orange qui brillent !",
+  "animals": "Le loup éthiopien est le carnivore le plus rare d'Afrique, et il vit seulement sur les hauts plateaux de l'Éthiopie. Le gélada, un singe qui ressemble à un babouin, broute l'herbe au bord des falaises en groupes de centaines, et il montre un joli patch rouge brillant sur sa poitrine !",
+  "culture": "En Éthiopie, faire du café est une vraie cérémonie : on fait griller les grains verts sur du charbon, puis on les prépare dans une belle théière en argile appelée jebena. L'Église orthodoxe a plus de 1 600 ans et il y a plus de 80 jours fériés dans l'année — les Éthiopiens adorent faire la fête !",
+  "history": "Dans la région Afar, les scientifiques ont trouvé les os d'une ancêtre appelée « Lucy » qui a vécu il y a 3,2 millions d'années. L'ancien empire Aksoum était si puissant qu'il commerçait avec Rome et l'Arabie, et il a même inventé son propre alphabet !",
+  "wows": [
+    "L'Éthiopie a 13 mois ! Le 13e mois, Pagume, n'a que 5 ou 6 jours.",
+    "Les Éthiopiens comptent les heures depuis le lever du soleil — leur midi, c'est notre 6h !",
+    "Un berger de chèvres appelé Kaldi a découvert le café vers l'an 850 en voyant ses chèvres danser après avoir mangé des baies.",
+    "Le Nil Bleu, qui apporte presque toute l'eau du Nil en Égypte, commence au lac Tana en Éthiopie.",
+    "Un coureur nommé Abebe Bikila a gagné le marathon olympique de 1960 pieds nus — sans chaussures du tout !",
+    "Dallol, dans la dépression Danakil, est l'endroit habité le plus chaud de toute la planète.",
+    "À Lalibela, 11 églises ont été sculptées dans la roche dure sous terre il y a 800 ans — et les gens y prient encore aujourd'hui !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Éthiopie est un grand désert sans nourriture",
+      "fact": "La plupart de l'Éthiopie est un beau plateau montagneux frais où poussent le café, les céréales et les légumes — c'est un des plus grands pays producteurs de café d'Afrique !"
+    },
+    {
+      "myth": "Tous les pays d'Afrique utilisent le même calendrier",
+      "fact": "L'Éthiopie a son propre calendrier ancien appelé Ge'ez, qui a environ 7 ans de retard sur le nôtre — les Éthiopiens ont fêté l'an 2000 en septembre 2007 !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "ሰላም",
+      "say": "Sel-am"
+    },
+    {
+      "en": "Merci",
+      "jp": "አመሰግናለሁ",
+      "say": "Ah-meh-seg-na-loh"
+    },
+    {
+      "en": "Café",
+      "jp": "ቡና",
+      "say": "Boo-na"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "ጣፋጭ",
+      "say": "Tah-fach"
+    },
+    {
+      "en": "Bonjour le matin",
+      "jp": "እንደምን",
+      "say": "In-de-min-neh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/et-hero.jpg",
+      "alt": "Vue aérienne de la ville d'Addis-Abeba avec ses grands immeubles modernes",
+      "caption": "ADDIS-ABEBA — capitale en altitude à 2 355 m au-dessus de la mer",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/et-landmark.jpg",
+      "alt": "Église de Lalibela taillée dans la roche, creusée sous terre",
+      "caption": "LALIBELA — l'église Bete Giyorgis sculptée dans la roche solide au 12e siècle",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/et-animalA.jpg",
+      "alt": "Loup éthiopien debout dans une prairie des hauts plateaux",
+      "caption": "LOUP ÉTHIOPIEN — le canidé le plus rare d'Afrique, unique aux hauts plateaux éthiopiens",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/et-animalB.jpg",
+      "alt": "Gélada montrant son patch rouge sur la poitrine au bord d'une falaise",
+      "caption": "GÉLADA — broute l'herbe des falaises en groupes de centaines",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "CAMBODGE",
+  "nativeName": "កម្ពុជ",
+  "romaji": "KAMPUCHEA",
+  "tagline": "Le pays des temples et des rivières",
+  "region": "Southeast Asia",
+  "coords": "12.57°N, 104.99°E",
+  "fileNo": "042",
+  "langName": "khmer",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CABA98",
+    "ink": "#27201A",
+    "faint": "#8A7558",
+    "line": "#DED0B0",
+    "accent": "#C0202E",
+    "accent2": "#1A3A7A"
+  },
+  "flag": {
+    "assetPath": "/flags/kh.svg",
+    "title": "Drapeau du Cambodge",
+    "note": "Centre rouge, bords bleus ; Angkor Vat en blanc",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Cambodge, il y a un temple si grand qu'on peut se perdre à l'intérieur — c'est Angkor Vat, le plus grand temple du monde entier ! Des milliers de singes et d'éléphants vivent dans la forêt tout autour. C'est un pays de rivières géantes, de riz et de sourires !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Phnom Penh",
+      "sub": "Sur le fleuve Mékong"
+    },
+    {
+      "label": "Habitants",
+      "value": "17,3 millions",
+      "sub": "Enquête 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Riel (KHR)",
+      "sub": "Les dollars américains aussi"
+    },
+    {
+      "label": "Langue",
+      "value": "Khmer",
+      "sub": "Parlé par plus de 16 millions"
+    },
+    {
+      "label": "Superficie",
+      "value": "181 035 km²",
+      "sub": "Comme l'état d'Oklahoma"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Phnom Aural",
+      "sub": "1 813 m, monts Cardamome"
+    }
+  ],
+  "islands": [
+    "Phnom Penh",
+    "Siem Reap",
+    "Battambang",
+    "Kampot",
+    "Kratie"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Fleuves, lacs et jungle !",
+    "animals": "Les animaux magiques du Mékong",
+    "culture": "Temples, danses et bons plats",
+    "history": "L'empire des rois-dieux",
+    "wows": "Wahou ! Tu savais ça ?"
+  },
+  "geo": "Le Cambodge est un grand pays plat arrosé par le fleuve Mékong. Au milieu se trouve le lac Tonlé Sap — le plus grand lac d'eau douce d'Asie du Sud-Est — qui devient six fois plus grand pendant la saison des pluies !",
+  "animals": "Le dauphin de l'Irrawaddy est un petit dauphin tout rond qui vit dans le Mékong et qui ressemble à un dauphin qui sourit toujours. Les Cambodgiens le considèrent comme sacré et il n'en reste plus que 100 environ !",
+  "culture": "Pour dire bonjour au Cambodge, on joint les mains comme pour une prière et on s'incline — ça s'appelle le sampeah. Les Cambodgiens cuisinent aussi un délicieux poisson cuit dans des feuilles de bananier avec du lait de coco !",
+  "history": "Il y a plus de 1 000 ans, un roi-dieu nommé Jayavarman II a construit un immense empire qui couvrait presque toute l'Asie du Sud-Est. Sa capitale Angkor était la plus grande ville du monde entier à l'époque !",
+  "wows": [
+    "Angkor Vat est si grand qu'il a un fossé de plus de 5 km tout autour — comme une rivière qui fait le tour !",
+    "Le drapeau du Cambodge est le seul au monde à montrer un vrai bâtiment : les tours d'Angkor Vat !",
+    "La rivière Tonlé Sap change de direction deux fois par an — elle coule à l'envers pendant la mousson !",
+    "La ville d'Angkor était plus grande que Los Angeles au XIIIe siècle — sans voitures ni avions !",
+    "Il n'y a pas un seul McDonald's dans tout le Cambodge !",
+    "Le khmer ne ressemble à aucune autre langue voisine — il ne chante pas les mots comme le thaï ou le vietnamien.",
+    "Un mariage cambodgien dure trois jours entiers pour que toute la famille puisse venir fêter !"
+  ],
+  "myths": [
+    {
+      "myth": "Angkor Vat était une ville fantôme oubliée pendant des siècles",
+      "fact": "Angkor n'a jamais été vraiment abandonnée — des gens y vivaient, priaient et cultivaient la terre. C'est juste les explorateurs européens qui l'ont rendue célèbre dans le monde au XIXe siècle."
+    },
+    {
+      "myth": "Le Cambodge est le seul pays dont le drapeau montre un bâtiment",
+      "fact": "D'autres pays aussi ont des bâtiments sur leur drapeau : le Portugal, Saint-Marin et l'Espagne en ont dans leurs armoiries. Angkor Vat est juste le plus connu !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "សួស្តី",
+      "say": "Soo-s'day"
+    },
+    {
+      "en": "Merci",
+      "jp": "អរគុណ",
+      "say": "Aw-koon"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "សុខសប្បាយ?",
+      "say": "Sohk sah-bye?"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "ឆ្ងាញ់!",
+      "say": "Chh-ngayn!"
+    },
+    {
+      "en": "Temple",
+      "jp": "វត្ត",
+      "say": "Wut"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/kh-landmark.jpg",
+      "alt": "Le temple d'Angkor Vat se reflète dans l'étang nord à l'aube",
+      "caption": "ANGKOR VAT — le plus grand monument religieux du monde, miroir dans son étang nord",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/kh-animalA.jpg",
+      "alt": "Un ibis géant marchant dans l'eau peu profonde au Cambodge",
+      "caption": "IBIS GÉANT — l'oiseau national du Cambodge en danger critique, le plus grand ibis du monde",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kh-animalB.jpg",
+      "alt": "Un éléphant d'Asie dans un paysage de jungle",
+      "caption": "ÉLÉPHANT D'ASIE — de petits troupeaux vivent dans les monts Cardamome au sud-ouest",
+      "credit": "Wikimedia Commons / CC BY 2.0"
+    },
+    "hero": {
+      "src": "/photos/kh-hero.jpg",
+      "alt": "Horizon de Phnom Penh le long du front de mer du Mékong",
+      "caption": "PHNOM PENH — la capitale cambodgienne sur le Mékong, vieux temples et nouvelle skyline",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

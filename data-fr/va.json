@@ -1,0 +1,151 @@
+{
+  "name": "CITÉ DU VATICAN",
+  "nativeName": "VA",
+  "romaji": "VATICANO",
+  "tagline": "Le plus petit pays du monde entier",
+  "region": "Europe du Sud",
+  "coords": "41.9°N, 12.45°E",
+  "fileNo": "057",
+  "langName": "Latin",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5F0E4",
+    "dot": "#C9BA9B",
+    "ink": "#2A2318",
+    "faint": "#8B7A55",
+    "line": "#DDD0B2",
+    "accent": "#C8A84B",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/va.svg",
+    "title": "Or et Blanc",
+    "note": "Tiare papale et clés croisées de Saint Pierre",
+    "keyColor": "#C8A84B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Cité du Vatican est un pays si petit qu'on peut le traverser en 20 minutes à pied ! Il se cache à l'intérieur de Rome, entouré de murs comme un château. C'est là que vit le Pape !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Cité du Vatican",
+      "sub": "La seule ville du pays"
+    },
+    {
+      "label": "Habitants",
+      "value": "~800",
+      "sub": "Le plus petit pays du monde"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Ses pièces sont très rares"
+    },
+    {
+      "label": "Langue",
+      "value": "Italien / Latin",
+      "sub": "Les distributeurs ont des menus en latin"
+    },
+    {
+      "label": "Superficie",
+      "value": "0,44 km²",
+      "sub": "Moins de 60 terrains de foot"
+    },
+    {
+      "label": "Point culminant",
+      "value": "76 m",
+      "sub": "La colline du Vatican, dans les murs"
+    }
+  ],
+  "islands": [
+    "Vatican Hill",
+    "St Peter Sq.",
+    "The Gardens",
+    "Papal Palace",
+    "C.Gandolfo"
+  ],
+  "islandsLabel": "LIEUX CLÉS :",
+  "sections": {
+    "geography": "Un château caché dans une grande ville",
+    "animals": "Des ailes sur les jardins secrets",
+    "culture": "De l'or, de l'art et des gardes rigolos",
+    "history": "Une toute petite nation très très vieille",
+    "wows": "Trop bizarre pour être vrai !"
+  },
+  "geo": "La Cité du Vatican se trouve entièrement à l'intérieur de Rome, entourée de hauts murs. Elle est si petite qu'on peut la traverser à pied en 20 minutes !",
+  "animals": "Dans les jardins du Vatican vivent des rouges-gorges qui sautillent sous les arbres et des perruches vertes très bavardes. Ces perruches se sont échappées de leurs cages il y a longtemps et vivent maintenant en liberté !",
+  "culture": "Chaque année, des millions de personnes viennent sur la Place Saint-Pierre pour voir le Pape. Des soldats suisses en uniformes rayés de jaune, rouge et bleu gardent le Pape depuis plus de 500 ans !",
+  "history": "Il y a très très longtemps, les papes ont bâti une immense basilique sur une colline sacrée de Rome. En 1929, la Cité du Vatican est devenue un vrai pays tout seul, le plus jeune pays du monde !",
+  "wows": [
+    "La Cité du Vatican est le seul pays qui se trouve complètement à l'intérieur d'une autre ville !",
+    "On peut traverser tout le pays à pied en seulement 20 minutes.",
+    "Les distributeurs de billets ont un menu en latin, une très vieille langue ancienne.",
+    "Le petit train du Vatican ne fait que 300 mètres — c'est le train le plus court du monde !",
+    "Les gardes suisses doivent être suisses, catholiques et mesurer au moins 1,74 m.",
+    "La bibliothèque du Vatican contient plus d'un million de livres !",
+    "Le Vatican fabrique ses propres pièces en euros très rares que les collectionneurs adorent."
+  ],
+  "myths": [
+    {
+      "myth": "Michel-Ange a dessiné les uniformes des gardes suisses",
+      "fact": "Le bel uniforme rayé a été créé en 1914 par le commandant Jules Repond — Michel-Ange n'y est pour rien, même si tout le monde le croit !"
+    },
+    {
+      "myth": "Le Pape est le propriétaire de la Cité du Vatican",
+      "fact": "La Cité du Vatican est un pays indépendant — personne n'en est le propriétaire, même pas le Pape !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Salve",
+      "say": "SAL-weh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Vale",
+      "say": "WAH-leh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gratias",
+      "say": "GRAH-tee-as"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ita",
+      "say": "EE-tah"
+    },
+    {
+      "en": "Paix",
+      "jp": "Pax",
+      "say": "PAX"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/va-hero.jpg",
+      "alt": "Vue aérienne au crépuscule de la Cité du Vatican et de la Place Saint-Pierre",
+      "caption": "CITÉ DU VATICAN — illuminée au crépuscule, le plus petit pays du monde vu du ciel",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/va-landmark.jpg",
+      "alt": "La Place Saint-Pierre avec la Basilique et l'obélisque",
+      "caption": "PLACE SAINT-PIERRE — la colonnade de Bernin accueille les pèlerins du monde entier",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/va-animalA.jpg",
+      "alt": "Rouge-gorge européen perché sur une branche",
+      "caption": "ROUGE-GORGE EUROPÉEN — un joyeux habitant des jardins verdoyants du Vatican",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/va-animalB.jpg",
+      "alt": "Perruche à collier perchée dans un arbre",
+      "caption": "PERRUCHE À COLLIER — des oiseaux évadés, aujourd'hui libres dans Rome et le Vatican",
+      "credit": "Wikimedia Commons CC BY-SA"
+    }
+  }
+}

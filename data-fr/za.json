@@ -1,0 +1,151 @@
+{
+  "name": "AFRIQUE DU SUD",
+  "nativeName": "ZA",
+  "romaji": "SUID-AFRIKA",
+  "tagline": "La Nation Arc-en-ciel",
+  "region": "Southern Africa",
+  "coords": "-29.0°N, 25.0°E",
+  "fileNo": "047",
+  "langName": "zoulou",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA0",
+    "ink": "#241F1A",
+    "faint": "#7A6E55",
+    "line": "#DDD0B4",
+    "accent": "#007A4D",
+    "accent2": "#FFB612"
+  },
+  "flag": {
+    "assetPath": "/flags/za.svg",
+    "title": "Afrique du Sud",
+    "note": "Six couleurs, une forme en Y, unique au monde",
+    "keyColor": "#007A4D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Afrique du Sud est tout au bout de l'Afrique, là où deux océans se rejoignent presque ! On y trouve des montagnes enneigées, des déserts brûlants, des savanes sauvages et des plages où nagent les baleines. Son drapeau arc-en-ciel a six couleurs — comme un arc-en-ciel dans le ciel !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Pretoria",
+      "sub": "une des trois capitales (exécutive)"
+    },
+    {
+      "label": "Habitants",
+      "value": "61 millions",
+      "sub": "est. 2023"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Rand (ZAR)",
+      "sub": "symbole R ; 100 cents = 1 rand"
+    },
+    {
+      "label": "Langue",
+      "value": "11 langues officielles",
+      "sub": "zoulou, xhosa, afrikaans et plus"
+    },
+    {
+      "label": "Superficie",
+      "value": "1,22 M km²",
+      "sub": "environ deux fois la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 408 m",
+      "sub": "Njesuthi, massif du Drakensberg"
+    }
+  ],
+  "islands": [
+    "Gauteng",
+    "Cape Town",
+    "Durban",
+    "Johannesburg",
+    "Kruger Park"
+  ],
+  "islandsLabel": "GRANDES RÉGIONS ET VILLES :",
+  "sections": {
+    "geography": "Deux océans et des montagnes géantes !",
+    "animals": "Les Cinq Grands et leurs amis",
+    "culture": "Onze langues, un seul pays magique",
+    "history": "Les premiers habitants de la Terre arc-en-ciel",
+    "wows": "Des surprises qui font ouvrir les yeux grands !"
+  },
+  "geo": "L'Afrique du Sud est tout au bout de l'Afrique, avec un grand désert plat au milieu et des montagnes spectaculaires comme une muraille à l'est. Deux océans encadrent ses côtes : l'Atlantique froid à l'ouest et l'océan Indien chaud à l'est !",
+  "animals": "L'Afrique du Sud est la maison des Cinq Grands : le lion, le léopard, l'éléphant, le rhinocéros et le buffle — tous visibles dans le parc Kruger. Des pingouins rigolots se dandinent sur la plage de Boulders, à seulement 40 km d'une grande ville !",
+  "culture": "En Afrique du Sud, on dit bonjour de façon différente selon l'endroit : « Sawubona » en zoulou, « Molo » en xhosa, « Hallo » en afrikaans. Chaque week-end, les familles se retrouvent autour du braai — un grand barbecue où tout le monde mange ensemble !",
+  "history": "Il y a très très longtemps, les San vivaient en Afrique du Sud : ils chassaient les animaux et peignaient de magnifiques images sur les rochers. Ces peintures rupestres ont des milliers d'années et on peut encore les voir aujourd'hui !",
+  "wows": [
+    "La montagne de la Table à Cape Town est vieille de 600 millions d'années — bien plus vieille que les dinosaures !",
+    "Johannesburg est construite sur la plus grande réserve d'or du monde, tout sous les pieds des habitants.",
+    "L'Afrique du Sud a trois capitales différentes — aucun autre pays ne fait ça !",
+    "Plus de 3 000 pingouins sauvages vivent sur une plage, juste à côté d'une grande ville.",
+    "Les baobabs géants du Limpopo peuvent vivre 2 000 ans et stocker des milliers de litres d'eau dans leur tronc.",
+    "L'Afrique du Sud produit 80 % du platine du monde entier — c'est le métal des bijoux brillants !",
+    "Des baleines géantes viennent tous les ans près des côtes pour avoir leurs bébés, et on peut les voir depuis la plage !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Afrique du Sud est pleine de jungles",
+      "fact": "La plupart du pays est une grande prairie sèche et un semi-désert — la vraie forêt ne couvre qu'un tout petit bout de la côte sud."
+    },
+    {
+      "myth": "Les lions se promènent dans les rues",
+      "fact": "Les lions sauvages vivent seulement dans des réserves protégées comme Kruger — dans les jardins des maisons, on trouve plutôt des ibis rigolots !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Sawubona",
+      "say": "sah-woo-BOH-nah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ngiyabonga",
+      "say": "ngi-yah-BON-gah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ngicela",
+      "say": "ngi-CHEH-lah"
+    },
+    {
+      "en": "Oui",
+      "jp": "Yebo",
+      "say": "YEH-boh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Sala kahle",
+      "say": "sah-lah KAH-hleh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/za-hero.jpg",
+      "alt": "Le stade de Cape Town avec la montagne de la Table en arrière-plan",
+      "caption": "STADE DE CAPE TOWN — stade emblématique devant la montagne de la Table aux sommets plats",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/za-landmark.jpg",
+      "alt": "La montagne de la Table au-dessus de Cape Town",
+      "caption": "MONTAGNE DE LA TABLE — ancien sommet plat qui domine la ville de Cape Town",
+      "credit": "Wikimedia Commons / DanieVDM"
+    },
+    "animalA": {
+      "src": "/photos/za-animalA.jpg",
+      "alt": "Lion se reposant dans la savane",
+      "caption": "LION D'AFRIQUE — grand prédateur de la savane et du parc Kruger",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/za-animalB.jpg",
+      "alt": "Pingouin africain sur la plage de Boulders",
+      "caption": "PINGOUIN AFRICAIN — colonie sauvage sur la plage de Boulders près de Cape Town",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

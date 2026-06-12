@@ -1,0 +1,151 @@
+{
+  "name": "VENEZUELA",
+  "nativeName": "VE",
+  "romaji": "VENEZUELA",
+  "tagline": "Le pays des anges et du pétrole",
+  "region": "Nord de l'Amérique du Sud",
+  "coords": "8.0°N, 66.0°W",
+  "fileNo": "058",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBA96",
+    "ink": "#231F1A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#CF142B",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/ve.svg",
+    "title": "Tricolore et étoiles",
+    "note": "Jaune, bleu, rouge avec 8 étoiles en arc",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Venezuela, il y a la plus grande cascade du monde — l'eau tombe si haut qu'elle se transforme en nuage avant d'arriver en bas ! Des montagnes plates et magiques appelées tepuis dépassent des nuages comme des tables de géants. C'est un pays incroyable !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Caracas",
+      "sub": "env. 2,9 millions d'habitants (2023)"
+    },
+    {
+      "label": "Habitants",
+      "value": "~28,3 M",
+      "sub": "est. 2024 ; ~8 M vivent à l'étranger"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Bolívar (VES)",
+      "sub": "Le dollar américain est aussi très utilisé"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "plus ~40 langues indigènes"
+    },
+    {
+      "label": "Superficie",
+      "value": "916 445 km²",
+      "sub": "deux fois la Californie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Pico Bolívar",
+      "sub": "4 978 m — dans les Andes"
+    }
+  ],
+  "islands": [
+    "Caracas",
+    "Maracaibo",
+    "Valencia",
+    "Barquisimeto",
+    "Guayana"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Tepuis, rivières et ciels sauvages",
+    "animals": "Bêtes de la jungle et du fleuve",
+    "culture": "Musique, repas et fête !",
+    "history": "Une légende de cascades et de trésors",
+    "wows": "Trop incroyable, mais c'est vrai !"
+  },
+  "geo": "Au Venezuela, une immense cascade appelée Chutes Angel tombe du haut d'une montagne-table — l'eau fait 979 m de chute, presque 16 fois plus haute que les chutes du Niagara ! Le grand fleuve Orénoque serpente à travers la jungle et arrose presque tout le pays.",
+  "animals": "Le capybara est un cochon d'Inde gros comme un chien — c'est le plus grand rongeur du monde, et il vit au Venezuela ! Dans les rivières vivent aussi des dauphins roses appelés toninas qui nagent dans les eaux sombres de la jungle.",
+  "culture": "Au Venezuela, on mange des arepas — de petits pains de maïs farcis de fromage ou de viande, c'est délicieux ! À Noël, toute la famille prépare ensemble des hallacas, des petits paquets de viande épicée enveloppés dans des feuilles de bananier.",
+  "history": "Il y a très longtemps, des peuples comme les Wayuu vivaient sur ces terres bien avant que les Européens n'arrivent. Plus tard, un homme courageux né à Caracas, Simón Bolívar, a libéré cinq pays de leurs colonisateurs — comme un super-héros de l'histoire !",
+  "wows": [
+    "Les Chutes Angel sont si hautes que l'eau se transforme en brouillard avant de toucher le sol les jours de vent !",
+    "Le lac Maracaibo a un orage permanent presque chaque nuit — des éclairs claquent 280 fois par heure !",
+    "La moitié des plantes qui poussent au sommet des tepuis n'existent nulle part ailleurs sur Terre.",
+    "Le capybara est un rongeur aussi grand qu'un labrador, et il se balade en troupeaux de 100 !",
+    "Le Venezuela possède plus de pétrole sous le sol que n'importe quel autre pays du monde.",
+    "Caracas est à seulement 9 km de la mer des Caraïbes, mais il y fait frais toute l'année !",
+    "Le Venezuela a remporté plus de titres de Miss Univers et Miss Monde que tout autre pays."
+  ],
+  "myths": [
+    {
+      "myth": "Le Venezuela est entièrement couvert de jungle",
+      "fact": "La moitié du pays est une grande plaine herbeuse appelée les Llanos, et il y a aussi des plages des Caraïbes, des montagnes enneigées et des déserts — quatre paysages complètement différents !"
+    },
+    {
+      "myth": "Les Chutes Angel sont nommées d'après un ange",
+      "fact": "Elles portent le nom de Jimmy Angel, un pilote américain qui a atterri en catastrophe au sommet de l'Auyán-tepui en 1937 en cherchant de l'or — et il a survécu !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Ami",
+      "jp": "Pana",
+      "say": "PAH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ve-hero.jpg",
+      "alt": "Les Chutes Angel qui tombent d'un tepui au Venezuela",
+      "caption": "CHUTES ANGEL — 979 m de chute libre depuis l'Auyán-tepui, la plus haute cascade du monde",
+      "credit": "Wikimedia Commons / Paulo Brito"
+    },
+    "landmark": {
+      "src": "/photos/ve-landmark.jpg",
+      "alt": "Montagnes tepuis aux sommets plats qui percent les nuages dans la Gran Sabana",
+      "caption": "TEPUIS — anciennes montagnes-tables qui traversent les nuages de la Gran Sabana",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ve-animalA.jpg",
+      "alt": "Un capybara se reposant près de l'eau",
+      "caption": "CAPYBARA — le plus grand rongeur du monde, chez lui dans les zones humides des Llanos",
+      "credit": "Wikimedia Commons / Cody Pope"
+    },
+    "animalB": {
+      "src": "/photos/ve-animalB.jpg",
+      "alt": "Ibis rouges dans une mangrove",
+      "caption": "IBIS ROUGE — des milliers volent vers le delta de l'Orénoque, le colorant en rouge vif",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

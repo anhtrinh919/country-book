@@ -1,0 +1,151 @@
+{
+  "name": "FINLANDE",
+  "nativeName": "FI",
+  "romaji": "SUOMI",
+  "tagline": "Le pays des lacs et de la lumière",
+  "region": "Europe du Nord",
+  "coords": "64°N, 26°E",
+  "fileNo": "042",
+  "langName": "finnois",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EFF4F0",
+    "dot": "#c5d4c8",
+    "ink": "#1e2820",
+    "faint": "#7a9080",
+    "line": "#d4e0d6",
+    "accent": "#003580",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/fi.svg",
+    "title": "Drapeau finlandais",
+    "note": "Fond blanc avec une croix nordique bleue",
+    "keyColor": "#003580",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Finlande est un pays tout en haut de l'Europe où le ciel s'illumine de lumières vertes magiques la nuit ! Il y a 188 000 lacs — tellement que partout où tu marches, tu es près de l'eau. Et c'est ici que le Père Noël habite pour de vrai !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Helsinki",
+      "sub": "Env. 684 000 hab. sur la côte baltique"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,6 millions",
+      "sub": "Est. 2025 ; beaucoup de forêts, peu de gens"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Comme en France, depuis 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "finnois",
+      "sub": "Aussi le suédois ; très difficile à apprendre !"
+    },
+    {
+      "label": "Superficie",
+      "value": "338 145 km²",
+      "sub": "Plus grand que l'Allemagne ; surtout des forêts"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Halti 1 324 m",
+      "sub": "En Laponie arctique, à la frontière norvégienne"
+    }
+  ],
+  "islands": [
+    "Lapland",
+    "Tampere",
+    "Turku",
+    "Helsinki",
+    "Oulu"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un monde de lacs et de forêts",
+    "animals": "Les animaux sauvages du Grand Nord",
+    "culture": "Saunas, silence et Père Noël",
+    "history": "La légende du pays du Kalevala",
+    "wows": "Mais c'est pas vrai ?!"
+  },
+  "geo": "La Finlande est couverte à 75 % de forêts de sapins et de pins, avec des milliers de petites îles rocheuses sur sa côte. En hiver, tout devient blanc et il fait très très froid — jusqu'à −30 °C dans le nord !",
+  "animals": "L'ours brun est l'animal national de la Finlande, et les forêts en cachent environ 2 000 — les Finlandais le considèrent comme un grand esprit de la forêt. En Laponie, 200 000 rennes se promènent en liberté dans la neige !",
+  "culture": "En Finlande, presque chaque famille a un sauna : une petite cabane très chaude où l'on transpire, puis on plonge dans un lac glacé — même les enfants le font ! C'est aussi le pays qui a inventé Angry Birds, le jeu où l'on lance des oiseaux.",
+  "history": "Il y a très longtemps, les Finlandais racontaient des histoires magiques dans un grand poème appelé le Kalevala, avec des héros, des sorciers et des créatures extraordinaires. Ces contes ont gardé la culture finlandaise vivante pendant des siècles !",
+  "wows": [
+    "La Finlande est le pays le plus heureux du monde depuis 8 années de suite !",
+    "Il y a 188 000 lacs en Finlande — soit presque un lac pour chaque 30 personnes.",
+    "En été en Laponie, le soleil ne se couche jamais : c'est le soleil de minuit !",
+    "Le Père Noël habite officiellement à Rovaniemi, juste sur le cercle arctique.",
+    "La Finlande a 3 millions de saunas pour seulement 5,6 millions de personnes.",
+    "Les aurores boréales peignent le ciel en vert, violet et rose les nuits d'hiver.",
+    "200 000 rennes se baladent librement en Laponie, gardés par le peuple Sámi."
+  ],
+  "myths": [
+    {
+      "myth": "La Finlande est toujours sombre et gelée",
+      "fact": "En été, le sud de la Finlande est chaud et ensoleillé — Helsinki a autant de soleil en juillet que Londres !"
+    },
+    {
+      "myth": "Les Finlandais sont froids et pas gentils",
+      "fact": "Les Finlandais aiment le calme, mais ils sont très loyaux et très généreux avec leurs amis — c'est ce qu'on appelle le sisu !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hei",
+      "say": "hay"
+    },
+    {
+      "en": "Merci",
+      "jp": "Kiitos",
+      "say": "kee-toss"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ole hyvä",
+      "say": "oh-leh hoo-va"
+    },
+    {
+      "en": "Sauna",
+      "jp": "Sauna",
+      "say": "sow-nah"
+    },
+    {
+      "en": "Lac",
+      "jp": "Järvi",
+      "say": "yar-vee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fi-hero.jpg",
+      "alt": "La place du Sénat à Helsinki avec sa cathédrale blanche sous la neige d'hiver",
+      "caption": "PLACE DU SÉNAT D'HELSINKI — le cœur néoclassique de la capitale finlandaise en hiver",
+      "credit": "Wikimedia Commons / panoramio"
+    },
+    "landmark": {
+      "src": "/photos/fi-landmark.jpg",
+      "alt": "Marqueur du cercle arctique à Rovaniemi en Laponie finlandaise",
+      "caption": "MARQUEUR DU CERCLE ARCTIQUE — Rovaniemi, la ville officielle du Père Noël en Laponie",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/fi-animalA.jpg",
+      "alt": "Ours brun dans une forêt finlandaise",
+      "caption": "OURS BRUN — l'animal national de la Finlande rôde dans les forêts de l'est",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/fi-animalB.jpg",
+      "alt": "Cygne chanteur sur un lac finlandais",
+      "caption": "CYGNE CHANTEUR — l'oiseau national de la Finlande sur l'un des 188 000 lacs",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

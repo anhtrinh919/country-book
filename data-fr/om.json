@@ -1,0 +1,151 @@
+{
+  "name": "OMAN",
+  "nativeName": "عُمان",
+  "romaji": "OMAN",
+  "tagline": "Encens & vents de mer",
+  "region": "Middle East / Arabian Gulf",
+  "coords": "21.5°N 55.9°E",
+  "fileNo": "OM",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2118",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B5",
+    "accent": "#C8102E",
+    "accent2": "#007A3D"
+  },
+  "flag": {
+    "assetPath": "/flags/om.svg",
+    "title": "Drapeau d'Oman",
+    "note": "Rouge, blanc et vert avec le poignard khanjar",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "À Oman, il y a des arbres qui pleurent un parfum magique appelé encens — on le brûle depuis 5 000 ans ! Le pays a des forts blancs, des montagnes dorées et une mer turquoise toute brillante. C'est l'un des endroits les plus beaux et les plus accueillants du monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Muscat",
+      "sub": "Env. 1,5 million d'hab. (2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,27 millions",
+      "sub": "Chiffre officiel fin 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Rial omanais",
+      "sub": "1 OMR ≈ 2,60 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "arabe",
+      "sub": "Officielle ; l'anglais est aussi parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "309 500 km²",
+      "sub": "Plus grand que l'Italie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Jebel Shams",
+      "sub": "3 009 m — « la Montagne du Soleil »"
+    }
+  ],
+  "islands": [
+    "Muscat",
+    "Salalah",
+    "Sohar",
+    "Nizwa",
+    "Sur"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Pics dorés et piscines cachées",
+    "animals": "Oryx, tortues et requins baleine",
+    "culture": "Encens, forts et gentillesse",
+    "history": "L'empire des marchands des mers",
+    "wows": "7 choses folles sur Oman"
+  },
+  "geo": "Oman est un pays de déserts dorés et de montagnes rocailleuses, avec de profonds ravins appelés wadis qui se remplissent de piscines turquoise après la pluie. Au sud, les falaises de Dhofar deviennent toutes vertes en été quand le brouillard de la mousson arrive !",
+  "animals": "À Ras al Jinz, jusqu'à 20 000 tortues marines vertes viennent pondre leurs œufs sur la plage chaque année. L'oryx d'Arabie avait disparu, mais Oman en a élevé et relâché dans le désert — cette belle antilope blanche est revenue à la vie !",
+  "culture": "Quand tu arrives chez un Omanais, il t'offre toujours du café à la cardamome et des dattes sucrées — c'est la règle ! À Salalah, on récolte l'encens en faisant couler la sève blanche des arbres Boswellia, et toute la ville sent ce parfum merveilleux.",
+  "history": "Les marins d'Oman naviguaient jusqu'en Afrique, en Inde et en Chine pour vendre de l'encens et des épices. L'explorateur Marco Polo a dit que la vieille ville de Qalhat était l'un des plus beaux ports du monde entier !",
+  "wows": [
+    "L'encens d'Oman est brûlé comme parfum depuis plus de 5 000 ans.",
+    "Un réseau de tunnels en pierre vieux de 3 000 ans apporte encore de l'eau douce aux fermes aujourd'hui !",
+    "Les dunes de Wahiba Sands sont aussi hautes qu'un immeuble de 25 étages.",
+    "L'oryx avait totalement disparu en 1972 ; Oman l'a sauvé et relâché dans le désert.",
+    "Le souk Muttrah vend des parfums et de l'encens depuis 200 ans sans jamais s'arrêter.",
+    "Oman a plus de 1 000 forts et châteaux — plus que presque n'importe où ailleurs sur Terre !",
+    "Les tortues marines retrouvent exactement la même plage où elles sont nées, même des dizaines d'années après."
+  ],
+  "myths": [
+    {
+      "myth": "Oman, c'est juste du désert vide",
+      "fact": "Oman a des montagnes spectaculaires, des falaises vertes, des récifs coralliens et des wadis pleins d'eau — c'est l'un des pays les plus variés d'Arabie !"
+    },
+    {
+      "myth": "L'encens c'est juste un parfum",
+      "fact": "Pendant 5 000 ans, l'encens valait plus que l'or — on s'en servait comme médicament, monnaie et offrande sacrée en Égypte, à Rome et en Chine !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Café",
+      "jp": "قهوة",
+      "say": "GAH-wa"
+    },
+    {
+      "en": "Mer",
+      "jp": "بحر",
+      "say": "BAH-har"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/om-hero.jpg",
+      "alt": "La corniche de Muscat la nuit avec ses bâtiments illuminés et son port",
+      "caption": "CORNICHE DE MUSCAT — le front de mer de la capitale brille au coucher du soleil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/om-landmark.jpg",
+      "alt": "L'immense tour ronde du fort de Nizwa qui s'élève au-dessus des palmeraies",
+      "caption": "FORT DE NIZWA — une tour ronde du XVIIe siècle garde la ville oasis",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/om-animalA.jpg",
+      "alt": "Deux oryx d'Arabie blancs debout dans le désert doré",
+      "caption": "ORYX D'ARABIE — sauvé de l'extinction dans les déserts d'Oman",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/om-animalB.jpg",
+      "alt": "Une tortue marine verte qui avance sur une plage de sable vers l'océan",
+      "caption": "TORTUE VERTE — des milliers viennent pondre à la plage de Ras al Jinz chaque année",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

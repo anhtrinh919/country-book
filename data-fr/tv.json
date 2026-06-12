@@ -1,0 +1,151 @@
+{
+  "name": "TUVALU",
+  "nativeName": "TV",
+  "romaji": "TUVALU",
+  "tagline": "Neuf îles, un ciel infini",
+  "region": "Polynésie, Océan Pacifique",
+  "coords": "8°S 179°E",
+  "fileNo": "093",
+  "langName": "tuvaluan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EEE4",
+    "dot": "#C8C2A8",
+    "ink": "#232018",
+    "faint": "#8a7e62",
+    "line": "#DDDACB",
+    "accent": "#009FCA",
+    "accent2": "#F4C430"
+  },
+  "flag": {
+    "assetPath": "/flags/tv.svg",
+    "title": "Drapeau de Tuvalu",
+    "note": "Neuf étoiles dorées sur fond bleu Pacifique, avec l'Union Jack",
+    "keyColor": "#009FCA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tuvalu est un pays si petit qu'on pourrait le traverser à vélo en dix minutes ! Ses neuf îles sont plates comme des crêpes — l'endroit le plus haut est à peine aussi grand qu'une maison. Onze mille personnes y vivent entourées de l'océan tout bleu !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Funafuti",
+      "sub": "Sur l'atoll principal"
+    },
+    {
+      "label": "Habitants",
+      "value": "~11 000",
+      "sub": "Estimation ONU, 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "AUD / TVD",
+      "sub": "Dollar australien"
+    },
+    {
+      "label": "Langue",
+      "value": "Tuvaluan",
+      "sub": "& anglais"
+    },
+    {
+      "label": "Superficie",
+      "value": "26 km²",
+      "sub": "Plus petit qu'un grand parc"
+    },
+    {
+      "label": "Point culminant",
+      "value": "4,6 m",
+      "sub": "Île de Niulakita"
+    }
+  ],
+  "islands": [
+    "Funafuti",
+    "Vaitupu",
+    "Nanumea",
+    "Nukufetau",
+    "Niutao"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Neuf îles dans le grand océan",
+    "animals": "Requins et tortues géantes",
+    "culture": "Danses, noix de coco et balles",
+    "history": "Des étoiles pour se guider",
+    "wows": "Tuvalu, c'est surprenant !"
+  },
+  "geo": "Tuvalu se trouve au milieu du Pacifique, entre Hawaï et l'Australie. Ses neuf îles sont des atolls coralliens, plats comme des assiettes — on peut à peine les voir depuis un bateau ! Les lagons à l'intérieur sont d'un turquoise brillant, entourés de cocotiers qui se penchent dans le vent.",
+  "animals": "Le requin à pointes noires nage dans les eaux peu profondes, ses nageoires sombres dépassant de la surface comme des petits drapeaux. Les tortues vertes géantes viennent pondre leurs œufs sur les plages de sable — elles peuvent vivre plus longtemps qu'un arrière-grand-papa !",
+  "culture": "Le fatele est une danse où tout le monde chante de plus en plus vite jusqu'à s'essouffler, et ça finit toujours en fou rire ! On mange du poisson frais et de la crème de coco, et on joue à l'ano — un jeu de balles en feuilles de palmier.",
+  "history": "Il y a plus de 2 000 ans, de courageux explorateurs polynésiens ont trouvé ces îles en suivant les étoiles dans le ciel nocturne. Ils naviguaient sans carte ni boussole, juste en regardant les étoiles — comme des super-héros de la mer !",
+  "wows": [
+    "Le code internet de Tuvalu est .tv — des chaînes du monde entier paient pour l'utiliser !",
+    "La piste d'atterrissage de Funafuti sert aussi de terrain de sport et de marché quand il n'y a pas d'avion.",
+    "Tout le pays n'a que 8 km de routes goudronnées — plus court que beaucoup de rues de ville !",
+    "Il n'y a aucune rivière à Tuvalu — les habitants boivent l'eau de pluie récoltée sur les toits.",
+    "Seuls les fonctionnaires du gouvernement ont le droit d'avoir une voiture — l'île est trop petite !",
+    "Les neuf étoiles du drapeau représentent exactement les neuf vraies îles, placées comme sur une carte.",
+    "Tuvalu a décidé qu'il existerait pour toujours en tant que pays, même si l'eau recouvrait toutes ses îles !"
+  ],
+  "myths": [
+    {
+      "myth": "Tuvalu est déjà sous l'eau",
+      "fact": "Les îles sont encore là ! Mais la mer monte d'environ 5 mm chaque année près de Funafuti, alors les gens réfléchissent à comment protéger leur pays."
+    },
+    {
+      "myth": "C'est trop petit pour être important",
+      "fact": "Tuvalu surveille 900 000 km² d'océan, a sa place à l'ONU, et son code .tv est utilisé par des millions de personnes dans le monde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Talofa",
+      "say": "tah-LOH-fah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Fakafetai",
+      "say": "fah-kah-feh-TY"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Tōfā",
+      "say": "toh-FAH"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "E ā koe?",
+      "say": "eh-ah-KOH-eh"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ioe",
+      "say": "ee-OH-eh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tv-hero.jpg",
+      "alt": "Vue aérienne de l'atoll de Funafuti, Tuvalu",
+      "caption": "ATOLL DE FUNAFUTI — l'anneau de corail de la capitale vu du ciel, lagon turquoise au centre",
+      "credit": "Gabriella Jacobi / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/tv-landmark.jpg",
+      "alt": "Plage ensoleillée de l'atoll de Funafuti avec palmiers et eau claire",
+      "caption": "PLAGE DE FUNAFUTI — sable blanc et palmiers penchés sur un bel après-midi en atoll",
+      "credit": "Stefan Lins / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/tv-animalA.jpg",
+      "alt": "Tortue verte nageant au-dessus d'un récif corallien",
+      "caption": "TORTUE VERTE — pond ses œufs sur les îlots de sable de Tuvalu dans la zone de conservation de Funafuti",
+      "credit": "Brocken Inaglory / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/tv-animalB.jpg",
+      "alt": "Requin à pointes noires nageant",
+      "caption": "REQUIN À POINTES NOIRES — patrouille dans les lagons peu profonds de Tuvalu, nageoires aussi sombres que du charbon",
+      "credit": "Kakidai / CC BY-SA 3.0"
+    }
+  }
+}

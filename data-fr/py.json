@@ -1,0 +1,151 @@
+{
+  "name": "PARAGUAY",
+  "nativeName": "PY",
+  "romaji": "PARAGUAY",
+  "tagline": "Le cœur de l'Amérique du Sud",
+  "region": "Cône Sud, Amérique du Sud",
+  "coords": "23°S 58°W",
+  "fileNo": "079",
+  "langName": "guaraní",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EED9",
+    "dot": "#CDBF9A",
+    "ink": "#28201A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#C0202E",
+    "accent2": "#1A3B8C"
+  },
+  "flag": {
+    "assetPath": "/flags/py.svg",
+    "title": "Un drapeau à double surprise",
+    "note": "Le seul drapeau au monde avec un dessin différent de chaque côté !",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Paraguay, le drapeau est différent devant et derrière — c'est le seul pays du monde comme ça ! Un énorme barrage transforme la rivière en électricité pour tout le pays. Presque tout le monde ici parle deux langues en même temps !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Asunción",
+      "sub": "Sur la rivière Paraguay depuis 1537"
+    },
+    {
+      "label": "Habitants",
+      "value": "6,95 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Guaraní ₲",
+      "sub": "Nommée d'après le peuple guaraní"
+    },
+    {
+      "label": "Langue",
+      "value": "Les deux langues",
+      "sub": "Espagnol et guaraní tous les deux officiels"
+    },
+    {
+      "label": "Superficie",
+      "value": "406 752 km²",
+      "sub": "Plus grand que la Californie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Cerro Peró",
+      "sub": "842 m dans les collines de l'est"
+    }
+  ],
+  "islands": [
+    "Gran Chaco",
+    "Asunción",
+    "Cd. del Este",
+    "Encarnación",
+    "Concepción"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES ET RÉGIONS :",
+  "sections": {
+    "geography": "Une rivière, deux pays en un !",
+    "animals": "Les bêtes folles du Chaco",
+    "culture": "Harpes, rires et tisane froide",
+    "history": "Une légende d'explorateurs",
+    "wows": "Les grandes surprises du Paraguay"
+  },
+  "geo": "Une grande rivière coupe le Paraguay en deux moitiés ! À l'est, tout est vert et vallonné ; à l'ouest, s'étend le Gran Chaco, une immense plaine sauvage où il fait très très chaud.",
+  "animals": "Le fourmilier géant se promène dans le Chaco et avale 35 000 fourmis par jour avec son long museau en trompe ! Le cabiai, le plus grand rongeur du monde — aussi gros qu'un chien —, adore barboter dans les rivières du Paraguay.",
+  "culture": "Au Paraguay, les amis partagent tous le même gobelet de tereré, une tisane glacée très fraîche — c'est comme se serrer la main ! On joue de la harpe paraguayenne à toutes les fêtes, et les femmes fabriquent une dentelle appelée ñandutí, ce qui veut dire « toile d'araignée ».",
+  "history": "Le Paraguay s'est séparé de l'Espagne le 14 mai 1811, sans même tirer un seul coup de feu — c'est presque magique ! La capitale Asunción est l'une des plus anciennes villes d'Amérique du Sud, construite au bord de la grande rivière il y a très longtemps.",
+  "wows": [
+    "Le drapeau du Paraguay est le seul au monde avec un dessin différent devant et derrière !",
+    "Le barrage d'Itaipu produit presque toute l'électricité du pays grâce à l'eau d'une rivière.",
+    "Le Paraguay n'a pas de mer mais possède quand même une marine — la plus grande des pays sans côte !",
+    "Presque tout le monde mélange espagnol et guaraní dans la même phrase chaque jour.",
+    "Le Paraguay a fait le plus grand barbecue du monde, avec de la viande pour 30 000 personnes !",
+    "Le cabiai, qui vit ici, est le plus grand rongeur de toute la planète — plus gros qu'un labrador !",
+    "L'eau donne presque 100 % de l'électricité du pays, c'est l'une des énergies les plus propres du monde."
+  ],
+  "myths": [
+    {
+      "myth": "Le Paraguay est tout un désert sec",
+      "fact": "La moitié est est verte et belle avec des collines et des rivières ; seule la partie ouest, le Chaco, est aride — et même elle se remplit d'eau pendant les pluies !"
+    },
+    {
+      "myth": "La langue guaraní est en train de disparaître",
+      "fact": "Le guaraní est très vivant — plus de 90 % des Paraguayens le parlent tous les jours, c'est l'une des langues indigènes les plus parlées au monde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Mba'éichapa",
+      "say": "mba-AY-ee-cha-pa"
+    },
+    {
+      "en": "Merci",
+      "jp": "Aguyje",
+      "say": "ah-goo-YEH"
+    },
+    {
+      "en": "Eau",
+      "jp": "Y",
+      "say": "ü (court)"
+    },
+    {
+      "en": "Ami",
+      "jp": "Chera'a",
+      "say": "che-RA-a"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Hetereí",
+      "say": "he-teh-reh-EE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/py-hero.jpg",
+      "alt": "Vue aérienne du barrage hydroélectrique d'Itaipu sur le fleuve Paraná",
+      "caption": "BARRAGE D'ITAIPU — l'une des centrales électriques les plus puissantes du monde, partagée avec le Brésil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/py-landmark.jpg",
+      "alt": "Vue générale des ruines jésuites de Trinidad, Paraguay",
+      "caption": "RUINES DE TRINIDAD — mission jésuite UNESCO des années 1700, département d'Itapúa",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/py-animalA.jpg",
+      "alt": "Cabiai, le plus grand rongeur du monde, se reposant dehors",
+      "caption": "CABIAI — le plus grand rongeur du monde, tout à l'aise dans les zones humides du Paraguay",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/py-animalB.jpg",
+      "alt": "Fourmilier géant marchant dans une prairie ouverte",
+      "caption": "FOURMILIER GÉANT — mange 35 000 fourmis par jour dans les plaines du Gran Chaco",
+      "credit": "Wikimedia Commons / panoramio"
+    }
+  }
+}

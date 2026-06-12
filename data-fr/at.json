@@ -1,0 +1,151 @@
+{
+  "name": "AUTRICHE",
+  "nativeName": "AT",
+  "romaji": "ÖSTERREICH",
+  "tagline": "Montagnes, Mozart et strudel !",
+  "region": "Central Europe",
+  "coords": "47.5°N, 14.5°E",
+  "fileNo": "032",
+  "langName": "allemand",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F3EDE0",
+    "dot": "#C9B99A",
+    "ink": "#221E1A",
+    "faint": "#8A7A62",
+    "line": "#D9C9B0",
+    "accent": "#C8102E",
+    "accent2": "#F4F4F4"
+  },
+  "flag": {
+    "assetPath": "/flags/at.svg",
+    "title": "Drapeau de l'Autriche",
+    "note": "L'un des plus vieux drapeaux d'Europe",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Autriche, il y a des montagnes tellement hautes qu'elles touchent presque les nuages ! Un petit garçon nommé Mozart y a composé sa première symphonie à seulement 8 ans. Et les Autrichiens ont inventé le croissant que tu manges au petit-déjeuner !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Vienne",
+      "sub": "Env. 2 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "9,1 millions",
+      "sub": "Est. 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Depuis 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "Allemand",
+      "sub": "Langue officielle"
+    },
+    {
+      "label": "Superficie",
+      "value": "83 871 km²",
+      "sub": "À peu près la taille du Portugal"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Großglockner",
+      "sub": "3 798 m au-dessus de la mer"
+    }
+  ],
+  "islands": [
+    "Vienna",
+    "Salzburg",
+    "Innsbruck",
+    "Graz",
+    "Linz"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des pics enneigés et des vallées magiques",
+    "animals": "Les bêtes sauvages des Alpes",
+    "culture": "Musique, gâteaux et grands palais",
+    "history": "Empereurs et légendes d'autrefois",
+    "wows": "7 choses qui vont t'épater !"
+  },
+  "geo": "L'Autriche est presque entièrement couverte par les Alpes, avec des sommets enneigés et des lacs brillants comme des miroirs. Le grand fleuve Danube traverse le nord du pays et passe devant la belle ville de Vienne.",
+  "animals": "Le bouquetin des Alpes grimpe sur des rochers à pic avec ses énormes cornes recourbées — il ne tombe jamais ! En bas, dans les forêts, des chevaux blancs appelés Lipizzans apprennent à danser et à sauter comme des danseurs de ballet.",
+  "culture": "À Vienne, les gens adorent aller dans des cafés douillets pour manger un gâteau au chocolat appelé Sachertorte et boire un café bien chaud. La musique résonne partout en Autriche, car c'est le pays où le célèbre Mozart est né !",
+  "history": "Il y a très longtemps, l'Autriche était dirigée par une famille puissante appelée les Habsbourg pendant plus de 600 ans. Leur ville de Vienne était si grande et si belle que des gens venaient du monde entier pour la voir.",
+  "wows": [
+    "Mozart a composé sa première symphonie à seulement 8 ans — pendant des vacances en famille à Londres !",
+    "C'est l'Autriche qui a inventé le croissant — les boulangers de Vienne l'ont créé, et la France l'a rendu célèbre.",
+    "Le concert du Nouvel An de Vienne est regardé par des gens dans plus de 150 pays, le 1er janvier.",
+    "La route alpine du Großglockner monte si haut qu'on traverse quatre saisons de temps différent en voiture !",
+    "L'école espagnole d'équitation de Vienne apprend aux chevaux à danser de la même façon depuis 450 ans.",
+    "L'Autriche est l'un des champions du monde des médailles olympiques d'hiver, par rapport au nombre d'habitants.",
+    "Red Bull, la boisson des sportifs, a été inventée en Autriche en 1987 !"
+  ],
+  "myths": [
+    {
+      "myth": "« L'Autriche et l'Australie, c'est pareil »",
+      "fact": "L'Autriche est un petit pays au milieu de l'Europe, sans mer. L'Australie est un immense continent entouré d'océan, à l'autre bout du monde — 140 fois plus grand !"
+    },
+    {
+      "myth": "« Mozart était allemand »",
+      "fact": "Mozart est né en 1756 à Salzbourg, une ville qui est bien en Autriche — et les Autrichiens en sont très fiers !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Bonne journée",
+      "jp": "Grüß Gott",
+      "say": "grüss GOT"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Köstlich!",
+      "say": "KERST-likh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/at-hero.jpg",
+      "alt": "Le palais de Schönbrunn à Vienne avec ses jardins à la française",
+      "caption": "PALAIS DE SCHÖNBRUNN — la maison d'été des empereurs Habsbourg, avec 1 441 pièces à Vienne",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/at-landmark.jpg",
+      "alt": "Le village alpin de Hallstatt reflété dans un lac de montagne",
+      "caption": "HALLSTATT — un village de conte de fées accroché à la falaise au bord d'un lac",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/at-animalA.jpg",
+      "alt": "Bouquetin des Alpes avec de grandes cornes recourbées sur une crête rocheuse",
+      "caption": "BOUQUETIN DES ALPES — le champion d'escalade des montagnes autrichiennes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/at-animalB.jpg",
+      "alt": "Cheval lipizzan blanc effectuant de la dressage classique",
+      "caption": "CHEVAL LIPIZZAN — le cheval blanc dansant d'Autriche, dressé de la même façon depuis 450 ans",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

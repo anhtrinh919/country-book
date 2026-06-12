@@ -1,0 +1,151 @@
+{
+  "name": "AZERBAÏDJAN",
+  "nativeName": "AZ",
+  "romaji": "AZƏRBAYCAN",
+  "tagline": "Le pays où la terre brûle !",
+  "region": "South Caucasus, Asia",
+  "coords": "40.4°N, 49.9°E",
+  "fileNo": "AZ",
+  "langName": "azéri",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BCA4",
+    "ink": "#1E1A15",
+    "faint": "#8A7B60",
+    "line": "#DDD0B8",
+    "accent": "#0092BC",
+    "accent2": "#E8352A"
+  },
+  "flag": {
+    "assetPath": "/flags/az.svg",
+    "title": "Drapeau de l'Azerbaïdjan",
+    "note": "Bleu, rouge et vert avec croissant et étoile",
+    "keyColor": "#0092BC",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Azerbaïdjan, le sol crache du feu tout seul — le gaz sous la terre s'allume et brûle depuis des centaines d'années ! La capitale Bakou a des tours gigantesques en forme de flammes qui brillent comme des bougies géantes la nuit.",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bakou",
+      "sub": "Env. 2,3 millions d'habitants (2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,2 millions",
+      "sub": "Est. 2024, statistiques officielles"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Manat (AZN)",
+      "sub": "1 manat = 100 qəpik"
+    },
+    {
+      "label": "Langue",
+      "value": "azéri",
+      "sub": "Famille turque ; aussi le russe"
+    },
+    {
+      "label": "Superficie",
+      "value": "86 600 km²",
+      "sub": "À peu près comme le Portugal"
+    },
+    {
+      "label": "Point culminant",
+      "value": "4 466 m",
+      "sub": "Bazardüzü, à la frontière russe"
+    }
+  ],
+  "islands": [
+    "Baku",
+    "Ganja",
+    "Sheki",
+    "Lankaran",
+    "Mingachevir"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "La terre qui crache du feu",
+    "animals": "Les animaux sauvages du Caucase",
+    "culture": "Le thé, les tapis et les chants",
+    "history": "Un temple de feu magique",
+    "wows": "Tu ne le croiras pas !"
+  },
+  "geo": "Au nord, les montagnes du Caucase sont couvertes de neige, et au bord de la mer Caspienne, la terre est presque plate. La mer Caspienne est le plus grand lac du monde — plus grand que l'Allemagne — et son bord est 28 mètres sous le niveau de la mer !",
+  "animals": "Le léopard du Caucase se promène encore dans les forêts de montagne, mais l'animal préféré du pays c'est le cheval Karabakh — un cheval doré élevé ici depuis plus de 2 000 ans ! Des flamants roses se rassemblent en grands groupes roses sur les bords de la mer Caspienne chaque automne.",
+  "culture": "En Azerbaïdjan, tout le monde boit du thé noir toute la journée dans de jolis verres en forme de poire ! Les tapis faits à la main racontent des histoires avec des fils de laine colorés, et apprendre à les tisser est classé au patrimoine mondial de l'UNESCO.",
+  "history": "Il y a très longtemps, des pèlerins venaient de très loin pour voir le temple d'Ateshgah, dont le feu brûlait sans jamais s'éteindre — comme par magie ! Ces flammes sortaient tout simplement du sol, alimentées par le gaz naturel qui se cachait en dessous.",
+  "wows": [
+    "La colline Yanar Dağ brûle sans s'arrêter depuis les années 1950 grâce au gaz qui sort de la terre.",
+    "Des voitures de Formule 1 font la course chaque année dans les rues de Bakou, juste à côté d'une vieille ville de 800 ans !",
+    "La mer Caspienne abrite 90 % des esturgeons sauvages du monde entier — les poissons qui font le caviar.",
+    "Les tours Flamme de Bakou ont 10 000 panneaux lumineux qui dessinent du feu dans le ciel la nuit.",
+    "À Gobustan, il y a plus de 6 000 dessins gravés dans la roche — certains ont 40 000 ans !",
+    "L'Azerbaïdjan a creusé son premier puits de pétrole en 1846 — 13 ans avant les États-Unis.",
+    "La mer Caspienne est à 28 mètres sous le niveau de l'océan — c'est le plus bas grand lac du monde !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Azerbaïdjan est un pays du Moyen-Orient",
+      "fact": "Il est dans le Caucase du Sud, entre la Russie et la Géorgie — très différent du Moyen-Orient."
+    },
+    {
+      "myth": "La mer Caspienne est une vraie mer",
+      "fact": "Malgré sa grande taille (371 000 km²), c'est en fait un lac d'eau salée entouré de terre, sans lien avec l'océan."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Salam",
+      "say": "sah-LAHM"
+    },
+    {
+      "en": "Merci",
+      "jp": "Təşəkkür",
+      "say": "teh-shek-KUER"
+    },
+    {
+      "en": "Oui",
+      "jp": "Bəli",
+      "say": "beh-LEE"
+    },
+    {
+      "en": "Feu",
+      "jp": "Od",
+      "say": "ODD"
+    },
+    {
+      "en": "Thé",
+      "jp": "Çay",
+      "say": "CHAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/az-hero.jpg",
+      "alt": "Les tours Flamme de Bakou illuminées la nuit au-dessus des toits de la ville",
+      "caption": "TOURS FLAMME — les gratte-ciels en forme de feu de Bakou brillent au crépuscule sur la Caspienne",
+      "credit": "Wikimedia Commons / Interfase"
+    },
+    "landmark": {
+      "src": "/photos/az-landmark.jpg",
+      "alt": "L'ancienne vieille ville fortifiée de Bakou avec la Tour de la Vierge",
+      "caption": "VIEILLE VILLE — remparts médiévaux et Tour de la Vierge, site du patrimoine mondial de l'UNESCO à Bakou",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/az-animalA.jpg",
+      "alt": "Un cheval Karabakh doré trottant dans un champ ouvert",
+      "caption": "CHEVAL KARABAKH — l'ancienne race dorée d'Azerbaïdjan et animal national du pays",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/az-animalB.jpg",
+      "alt": "Un phoque de la Caspienne se reposant sur un rivage rocheux",
+      "caption": "PHOQUE DE LA CASPIENNE — introuvable ailleurs sur Terre, vivant uniquement dans la mer Caspienne",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

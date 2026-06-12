@@ -1,0 +1,151 @@
+{
+  "name": "MACÉDOINE DU NORD",
+  "nativeName": "МК",
+  "romaji": "MAKEDONIJA",
+  "tagline": "Soleil, lacs et vieilles routes",
+  "region": "Balkans, Sud-Est de l'Europe",
+  "coords": "41.6°N, 21.7°E",
+  "fileNo": "082",
+  "langName": "macédonien",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA3",
+    "ink": "#241F1A",
+    "faint": "#8A7455",
+    "line": "#DDD0B5",
+    "accent": "#CE2028",
+    "accent2": "#F0A500"
+  },
+  "flag": {
+    "assetPath": "/flags/mk.svg",
+    "title": "Soleil d'Or",
+    "note": "Fond rouge avec un soleil doré à 8 rayons",
+    "keyColor": "#CE2028",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Macédoine du Nord, il y a un lac tellement vieux qu'il avait déjà 3 millions d'ans quand les dinosaures ont disparu ! Sur le drapeau rouge, un grand soleil doré brille avec 8 rayons. C'est un pays tout petit mais plein de merveilles !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Skopje",
+      "sub": "Sur la rivière Vardar"
+    },
+    {
+      "label": "Habitants",
+      "value": "~1,82 million",
+      "sub": "Fin 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Denar (MKD)",
+      "sub": "100 deni = 1 denar"
+    },
+    {
+      "label": "Langue",
+      "value": "macédonien",
+      "sub": "Alphabet cyrillique"
+    },
+    {
+      "label": "Superficie",
+      "value": "25 436 km²",
+      "sub": "Plus petit que l'Albanie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Golem Korab",
+      "sub": "2 764 m — partagé avec l'Albanie"
+    }
+  ],
+  "islands": [
+    "Skopje",
+    "Ohrid",
+    "Bitola",
+    "Tetovo",
+    "Štip"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, lacs et chemins anciens",
+    "animals": "Les gardiens sauvages des Balkans",
+    "culture": "Fêtes, fresques et saveurs",
+    "history": "Une légende plus vieille que les étoiles",
+    "wows": "Les grandes surprises de Macédoine"
+  },
+  "geo": "La Macédoine du Nord est un pays sans mer, entouré de montagnes et de vallées. Au sud-ouest, le lac Ohrid est si transparent qu'on peut voir jusqu'à 22 mètres de profondeur !",
+  "animals": "Le lynx des Balkans vit dans les forêts de montagne — il est si rare qu'il reste moins de 50 individus dans la nature ! La truite d'Ohrid, avec ses écailles brillantes, vit seulement dans ce lac et nulle part ailleurs sur Terre.",
+  "culture": "Le plat préféré des Macédoniens s'appelle le tavche gravche — des haricots blancs cuits dans un pot en argile avec du paprika, qu'on mange chaque vendredi. À l'automne, toutes les familles préparent l'ajvar, une délicieuse confiture de poivrons rouges qu'on met sur tout !",
+  "history": "Il y a très longtemps, des moines fabriquaient des lettres spéciales appelées l'alphabet cyrillique dans une école près du lac Ohrid. Aujourd'hui, 300 millions de personnes dans le monde utilisent ces lettres pour écrire !",
+  "wows": [
+    "Le lac Ohrid a 3 millions d'années — il existait avant les premiers humains !",
+    "Des astronomes ont donné le nom « Ohrid » à un lac sur la lune de Saturne, Titan.",
+    "L'alphabet cyrillique, utilisé par 300 millions de gens, est né ici au 9e siècle.",
+    "La montagne Golem Korab est le sommet le plus haut de deux pays à la fois !",
+    "La cascade de Korab dégringole de plus de 130 mètres au printemps — comme une tour géante d'eau !",
+    "La vieille cave de Tikveš fait du vin depuis 2 500 ans et envoie 15 millions de bouteilles chaque année.",
+    "Le vieux pont de pierre à Skopje a été construit au 15e siècle — et les gens le traversent encore aujourd'hui !"
+  ],
+  "myths": [
+    {
+      "myth": "Alexandre le Grand était macédonien comme les gens d'aujourd'hui",
+      "fact": "Les Macédoniens d'aujourd'hui sont d'une autre famille de peuples, arrivés bien après Alexandre. Ils partagent la même terre, pas la même famille !"
+    },
+    {
+      "myth": "C'est un tout petit pays sans rien de spécial",
+      "fact": "Le lac Ohrid abrite des centaines d'animaux et de plantes qui vivent seulement là — c'est un trésor de la nature reconnu par l'UNESCO depuis 1979 !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Здраво",
+      "say": "ZDRA-vo"
+    },
+    {
+      "en": "Merci",
+      "jp": "Благодарам",
+      "say": "bla-GO-da-ram"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ве молам",
+      "say": "VEH mo-lam"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Довиѓање",
+      "say": "do-VEE-jahn-ye"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Вкусно!",
+      "say": "VKOOS-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mk-hero.jpg",
+      "alt": "Le vieux pont de pierre traversant la rivière Vardar à Skopje",
+      "caption": "PONT DE PIERRE, SKOPJE — vieux passage ottoman du 15e siècle encore utilisé",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/mk-landmark.jpg",
+      "alt": "L'église Saint-Jean de Kaneo perchée sur les falaises au-dessus du lac Ohrid",
+      "caption": "SAINT-JEAN DE KANEO — église byzantine sur les falaises du lac Ohrid",
+      "credit": "Diego Delso / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/mk-animalA.jpg",
+      "alt": "Un lynx des Balkans au repos dans la forêt de montagne",
+      "caption": "LYNX DES BALKANS — moins de 50 survivent dans la nature ; sur la pièce de 5 denars",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/mk-animalB.jpg",
+      "alt": "Une truite d'Ohrid aux écailles brillantes dans l'eau claire",
+      "caption": "TRUITE D'OHRID — unique au lac Ohrid, introuvable ailleurs sur Terre",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

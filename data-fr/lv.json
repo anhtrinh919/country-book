@@ -1,0 +1,151 @@
+{
+  "name": "LETTONIE",
+  "nativeName": "LV",
+  "romaji": "LATVIJA",
+  "tagline": "Le pays des chansons et de l'ambre",
+  "region": "Northern Europe · Baltic",
+  "coords": "56.9°N, 24.6°E",
+  "fileNo": "042",
+  "langName": "letton",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C8B99A",
+    "ink": "#231F1A",
+    "faint": "#7A6A52",
+    "line": "#DDD0B5",
+    "accent": "#9E3039",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/lv.svg",
+    "title": "Drapeau de la Lettonie",
+    "note": "Rouge carmin foncé — blanc — rouge carmin",
+    "keyColor": "#9E3039",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Lettonie, la moitié du pays est une forêt magique et tout le monde adore chanter ! Après les tempêtes, de vrais morceaux d'ambre doré échouent sur la plage comme des trésors !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Riga",
+      "sub": "Plus grande ville ; env. 600 000 habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,86 million",
+      "sub": "Estimation, mai 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Adopté le 1er jan. 2014"
+    },
+    {
+      "label": "Langue",
+      "value": "letton",
+      "sub": "Une des deux langues baltiques"
+    },
+    {
+      "label": "Superficie",
+      "value": "64 589 km²",
+      "sub": "Un peu plus petit que l'Irlande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "312 m",
+      "sub": "Colline Gaiziņkalns, Vidzeme"
+    }
+  ],
+  "islands": [
+    "Riga",
+    "Vidzeme",
+    "Kurzeme",
+    "Latgale",
+    "Zemgale"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Forêts, tourbières et plages de la Baltique",
+    "animals": "Les animaux sauvages de la forêt",
+    "culture": "Chansons, ambre et pain de seigle",
+    "history": "Une légende vieille de mille ans",
+    "wows": "Difficile à croire, mais c'est vrai !"
+  },
+  "geo": "La Lettonie est un pays très plat au bord de la mer Baltique, couvert à moitié de grandes forêts de pins et de bouleaux. La rivière Daugava traverse le pays jusqu'à la mer, et après les tempêtes, on trouve sur la plage de l'ambre doré vieux de 40 millions d'années !",
+  "animals": "Les forêts lettones cachent des ours bruns, des loups, des lynx et d'immenses élans. Les cigognes blanches sont les invitées préférées de l'été — 14 000 paires font leur nid sur les cheminées des maisons chaque année !",
+  "culture": "Les Lettons ont inventé plus d'un million de petites chansons appelées dainas qui racontent la nature et les saisons. Tous les cinq ans, 40 000 chanteurs se réunissent à Riga pour le grand Festival de la Chanson — c'est comme un concert géant !",
+  "history": "Il y a très longtemps, les Lettons échangeaient leur ambre brillant contre des trésors avec les Romains de l'Antiquité. La nuit de la Saint-Jean, tout le monde cherche la fleur de fougère magique dans la forêt — même si elle n'existe pas vraiment !",
+  "wows": [
+    "Riga a plus de 800 bâtiments aux façades sculptées comme des gâteaux — plus qu'à Paris ou Barcelone !",
+    "La première décoration de Noël sur un arbre a été faite à Riga en 1510 — c'est Riga qui a inventé le sapin de Noël !",
+    "Les Lettons ont écrit 1,2 million de petites chansons populaires — plus que n'importe quel autre pays du monde.",
+    "En 1989, deux millions de personnes se sont tenu la main sur 675 km pour former la plus longue chaîne humaine de l'histoire.",
+    "Tous les cinq ans, 40 000 chanteurs se réunissent pour chanter ensemble à ciel ouvert — un immense concert !",
+    "Plus de la moitié de la Lettonie est couverte de forêt — l'un des pays les plus boisés d'Europe.",
+    "Chaque printemps, 14 000 cigognes reviennent d'Afrique pour faire leurs nids sur les cheminées lettones !"
+  ],
+  "myths": [
+    {
+      "myth": "La Lettonie fait partie de la Scandinavie",
+      "fact": "Non, la Lettonie est un pays baltique ! Le letton ressemble au lituanien, pas du tout aux langues scandinaves, et les traditions sont très différentes."
+    },
+    {
+      "myth": "Il fait toujours froid et gris là-bas",
+      "fact": "Pas du tout ! En été, il fait chaud et les journées sont très longues. En juin, le soleil se couche à peine, et on fait de grands feux de joie pour fêter cette nuit lumineuse !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Sveiki",
+      "say": "SVAY-kee"
+    },
+    {
+      "en": "Merci",
+      "jp": "Paldies",
+      "say": "PAL-dee-yes"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Lūdzu",
+      "say": "LOOD-zoo"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Atā",
+      "say": "ah-TAA"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Garšīgi",
+      "say": "GAR-shee-gee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lv-hero.jpg",
+      "alt": "Panorama de Riga vu depuis la rivière Daugava",
+      "caption": "RIGA — la plus grande ville de la Baltique, reflétée dans la large rivière Daugava",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lv-landmark.jpg",
+      "alt": "Place de l'Hôtel de Ville de Riga avec ses façades colorées et ses pavés",
+      "caption": "VIEILLE VILLE DE RIGA — clochers médiévaux et façades pastel, site du patrimoine mondial de l'UNESCO",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lv-animalA.jpg",
+      "alt": "Cigogne blanche debout dans une prairie",
+      "caption": "CIGOGNE BLANCHE — environ 14 000 paires nichent en Lettonie chaque été sur les cheminées",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lv-animalB.jpg",
+      "alt": "Lynx eurasien dans un arbre en forêt",
+      "caption": "LYNX EURASIEN — un chasseur discret qui rôde dans les profondes forêts de pins de Lettonie",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

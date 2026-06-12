@@ -1,0 +1,151 @@
+{
+  "name": "CAMEROUN",
+  "nativeName": "CM",
+  "romaji": "CAMEROON",
+  "tagline": "L'Afrique en miniature",
+  "region": "Central Africa",
+  "coords": "3.85°N, 11.50°E",
+  "fileNo": "047",
+  "langName": "français",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#cdbfa0",
+    "ink": "#231f1a",
+    "faint": "#8a7a5a",
+    "line": "#dccfb0",
+    "accent": "#007A5E",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/cm.svg",
+    "title": "Tricolore et étoile",
+    "note": "Vert, rouge, jaune avec une étoile dorée",
+    "keyColor": "#007A5E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Cameroun, un volcan géant sort tout droit de la mer ! Ce pays magique a des forêts, des savanes, des montagnes et du désert — tout ça dans un seul pays. Les géographes l'appellent « l'Afrique en miniature » !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Yaoundé",
+      "sub": "environ 4,3 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "~28,6 M",
+      "sub": "est. 2024, en pleine croissance"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "partagé avec 5 voisins"
+    },
+    {
+      "label": "Langue",
+      "value": "FR & EN",
+      "sub": "plus de 280 langues locales aussi"
+    },
+    {
+      "label": "Superficie",
+      "value": "475 442 km²",
+      "sub": "plus grand que la Suède"
+    },
+    {
+      "label": "Point culminant",
+      "value": "4 095 m",
+      "sub": "Mont Cameroun — volcan actif"
+    }
+  ],
+  "islands": [
+    "Yaoundé",
+    "Douala",
+    "Bafoussam",
+    "Garoua",
+    "Buea"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays aux mille paysages",
+    "animals": "Géants de la jungle et oiseaux rares",
+    "culture": "Deux langues, un seul rythme",
+    "history": "Des crevettes à la république",
+    "wows": "C'est vrai, vraiment ?!"
+  },
+  "geo": "Au Cameroun, le sud est une grande forêt pleine d'arbres énormes, et le nord devient tout plat près du lac Tchad. Le mont Cameroun, un volcan encore actif, sort directement de la mer — comme un géant qui sort de l'eau !",
+  "animals": "Dans les forêts du Cameroun vivent des gorilles, des éléphants et des chimpanzés. Le touraco de Bannerman, un oiseau aux ailes rouge vif, n'existe nulle part ailleurs sur Terre — seulement ici !",
+  "culture": "Les Bamiléké font de grandes fêtes où des danseurs portent d'énormes masques en forme d'éléphant qui se balancent au son des tambours. Le plat favori s'appelle le ndólé — une sauce aux feuilles et aux cacahuètes que tout le monde adore !",
+  "history": "Il y a très longtemps, des marins portugais ont découvert une rivière pleine de crevettes géantes et l'ont appelée « Rio dos Camarões » — la rivière des crevettes. C'est de là que vient le nom « Cameroun » !",
+  "wows": [
+    "Le mont Cameroun est le plus haut sommet d'Afrique centrale et il crache encore de la lave !",
+    "Au Cameroun, on parle plus de 280 langues différentes — c'est l'un des pays les plus multilingues du monde.",
+    "À Debundscha, il tombe 10 000 mm de pluie par an — c'est l'un des endroits les plus mouillés de la planète !",
+    "Les Lions Indomptables ont été la première équipe africaine à atteindre les quarts de finale d'une Coupe du Monde en 1990.",
+    "Au Cameroun, on chante deux hymnes nationaux lors des cérémonies — un en français et un en anglais.",
+    "Le lac Nyos a libéré un nuage de gaz invisible en 1986 — un événement si rare qu'il a un nom spécial : éruption limnique.",
+    "Chaque année, des plongeurs sautent dans la rivière Wouri pour apporter des messages aux esprits de l'eau — c'est la fête du Ngondo !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Cameroun n'est que jungle",
+      "fact": "Le Cameroun a tous les paysages d'Afrique : jungle, savane, montagne, semi-désert, côte volcanique et l'endroit le plus pluvieux du continent !"
+    },
+    {
+      "myth": "Les deux langues officielles divisent les gens",
+      "fact": "Le Cameroun est fièrement bilingue — le français et l'anglais apparaissent sur les billets de banque, et tout le monde se comprend grâce au pidgin camerounais."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Pardon",
+      "jp": "Pardon",
+      "say": "par-DOHN"
+    },
+    {
+      "en": "Oui",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Délicieux!",
+      "say": "day-lee-SYUH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cm-hero.jpg",
+      "alt": "Le pont sur le Wouri enjambant l'estuaire à Douala",
+      "caption": "PONT DU WOURI — le grand pont de Douala relie les deux rives de la ville portuaire",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cm-landmark.jpg",
+      "alt": "Le sommet volcanique du mont Cameroun au-dessus de collines verdoyantes",
+      "caption": "MONT CAMEROUN — volcan actif qui s'élève à 4 095 m directement depuis la côte atlantique",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cm-animalA.jpg",
+      "alt": "Gorille de plaine occidental assis dans la végétation forestière",
+      "caption": "GORILLE DE PLAINE OCCIDENTAL — vit dans l'ancienne réserve de forêt pluviale de Dja au Cameroun",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cm-animalB.jpg",
+      "alt": "Touraco de Bannerman perché, montrant son plumage rouge et vert vif",
+      "caption": "TOURACO DE BANNERMAN — existe uniquement dans les forêts de montagne du Cameroun",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

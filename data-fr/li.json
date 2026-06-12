@@ -1,0 +1,151 @@
+{
+  "name": "LIECHTENSTEIN",
+  "nativeName": "LI",
+  "romaji": "LIECHTENSTEIN",
+  "tagline": "Petit prince, grandes Alpes",
+  "region": "Central Europe",
+  "coords": "47.1°N, 9.5°E",
+  "fileNo": "LI",
+  "langName": "allemand",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#c9bfab",
+    "ink": "#26231e",
+    "faint": "#837666",
+    "line": "#dbd0bc",
+    "accent": "#1b3a7a",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/li.svg",
+    "title": "Bleu et rouge avec couronne",
+    "note": "La couronne a été ajoutée en 1937 après confusion avec le drapeau d'Haïti",
+    "keyColor": "#1b3a7a",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Liechtenstein est l'un des plus petits pays du monde — si petit qu'on peut le traverser à vélo en une matinée ! Un vrai prince habite dans un château au sommet d'une colline et il invite tous les habitants à sa fête chaque année !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Vaduz",
+      "sub": "~5 700 personnes dans la capitale"
+    },
+    {
+      "label": "Habitants",
+      "value": "~40 000",
+      "sub": "Estimation Banque mondiale 40 197 (2024)"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc suisse",
+      "sub": "Partage le CHF avec la Suisse"
+    },
+    {
+      "label": "Langue",
+      "value": "Allemand",
+      "sub": "Dialecte alémanique au quotidien"
+    },
+    {
+      "label": "Superficie",
+      "value": "160 km²",
+      "sub": "Plus petit que Paris et sa banlieue proche"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 599 m",
+      "sub": "Le Grauspitz dans les Alpes rhétiques"
+    }
+  ],
+  "islands": [
+    "Vaduz",
+    "Schaan",
+    "Balzers",
+    "Triesenberg",
+    "Triesen"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un tout petit royaume dans les Alpes",
+    "animals": "De drôles de voisins sur les pentes",
+    "culture": "Princes, raisins et fêtes joyeuses",
+    "history": "Un pays né d'une signature de l'Empereur",
+    "wows": "Incroyable mais vrai !"
+  },
+  "geo": "Le Liechtenstein se trouve entre l'Autriche et la Suisse, avec le grand fleuve Rhin à l'ouest et les montagnes pointues des Alpes à l'est. Le pays ne fait que 26 km du nord au sud — on peut le traverser à vélo en une matinée !",
+  "animals": "Dans les Alpes du Liechtenstein vit le chamois, un animal agile comme une chèvre qui saute de rocher en rocher sans jamais tomber. La marmotte alpine, elle, siffle très fort pour alerter ses amis, puis dort tout l'hiver bien au chaud sous la neige !",
+  "culture": "Chaque année le 15 août, le Prince ouvre les portes de son château et invite tous les habitants du pays à une grande fête dans son jardin — tout le monde est bienvenu ! En automne, les vaches descendent des montagnes décorées de fleurs et de cloches dans un grand défilé coloré.",
+  "history": "Il y a très longtemps, en 1719, un grand Empereur du nom de Charles a réuni deux petits territoires et a décidé de les appeler Liechtenstein. Mais les princes qui donnaient leur nom au pays n'ont jamais visité leur nouveau royaume pendant les cent premières années !",
+  "wows": [
+    "On peut traverser tout le pays à vélo en une seule matinée — c'est minuscule !",
+    "Le prince habite pour de vrai dans le château qui surplombe la capitale.",
+    "Il n'y a pas d'aéroport — pour venir, on prend la route ou le train.",
+    "Toutes les médailles olympiques du pays sont en ski alpin — 10 médailles !",
+    "En 1936, ce pays avait exactement le même drapeau qu'Haïti — alors ils ont ajouté une couronne dorée !",
+    "Les timbres-poste du Liechtenstein sont si beaux que des collectionneurs du monde entier les cherchent.",
+    "Sept des 10 médailles olympiques ont été gagnées par les frères et sœurs d'une seule famille !"
+  ],
+  "myths": [
+    {
+      "myth": "\"C'est la même chose que la Suisse\"",
+      "fact": "Le Liechtenstein est un pays totalement indépendant avec son propre parlement et ses propres lois. Il partage la monnaie suisse mais c'est un pays bien à part !"
+    },
+    {
+      "myth": "\"Tout le monde là-bas est très très riche\"",
+      "fact": "C'est un pays prospère, mais la plupart des gens sont des enseignants, des ingénieurs ou des ouvriers ordinaires — beaucoup viennent travailler depuis l'Autriche ou la Suisse."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hoi",
+      "say": "hoy"
+    },
+    {
+      "en": "Merci",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Tschüss",
+      "say": "chüss"
+    },
+    {
+      "en": "Bonjour (formel)",
+      "jp": "Grüezi",
+      "say": "GRÜE-tsi"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/li-hero.jpg",
+      "alt": "Vue panoramique de Vaduz depuis la colline du château",
+      "caption": "VADUZ — la capitale s'étend dans la vallée du Rhin, Alpes en arrière-plan",
+      "credit": "A.Savin / Wikimedia Commons (FAL)"
+    },
+    "landmark": {
+      "src": "/photos/li-landmark.jpg",
+      "alt": "Le château de Vaduz perché sur une colline rocheuse au-dessus de la capitale",
+      "caption": "CHÂTEAU DE VADUZ — la maison du Prince veille sur tout le pays",
+      "credit": "A.Savin / Wikimedia Commons (FAL)"
+    },
+    "animalA": {
+      "src": "/photos/li-animalA.jpg",
+      "alt": "Un chamois dans son environnement naturel de montagne",
+      "caption": "CHAMOIS — sauteur agile des falaises des Alpes du Liechtenstein",
+      "credit": "Isiwal / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "animalB": {
+      "src": "/photos/li-animalB.jpg",
+      "alt": "Une marmotte alpine assise dans un pré rocheux de montagne",
+      "caption": "MARMOTTE ALPINE — petit siffleur dodu qui hiberne tout l'hiver",
+      "credit": "F. Trazzi / Wikimedia Commons (CC BY-SA 3.0)"
+    }
+  }
+}

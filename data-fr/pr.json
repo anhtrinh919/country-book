@@ -1,0 +1,163 @@
+{
+  "name": "PORTO RICO",
+  "nativeName": "PR",
+  "romaji": "PUERTO RICO",
+  "tagline": "L'île enchantée",
+  "region": "Caribbean, North America",
+  "coords": "18.2°N, 66.6°W",
+  "fileNo": "049",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#CCBA9E",
+    "ink": "#2B2118",
+    "faint": "#8A7055",
+    "line": "#DDD0B2",
+    "accent": "#C0202E",
+    "accent2": "#1A3E8F"
+  },
+  "flag": {
+    "assetPath": "/flags/pr.svg",
+    "title": "Drapeau de Porto Rico",
+    "note": "Cinq rayures ; étoile blanche sur triangle bleu",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "À Porto Rico, des grenouilles minuscules crient si fort qu'on les entend toute la nuit ! C'est une île ensoleillée des Caraïbes où tout le monde danse la salsa et mange du riz avec des haricots tous les jours. D'énormes forts en pierre gardent la vieille ville depuis des centaines d'années !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "San Juan",
+      "sub": "La plus vieille ville américaine, fondée en 1521"
+    },
+    {
+      "label": "Habitants",
+      "value": "3,2 millions",
+      "sub": "Estimation 2023, île seulement"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar américain",
+      "sub": "Utilise le dollar USD, pas de monnaie à part"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "L'anglais est aussi officiel ; l'espagnol au quotidien"
+    },
+    {
+      "label": "Superficie",
+      "value": "9 104 km²",
+      "sub": "On traverse l'île en voiture en 3 heures"
+    },
+    {
+      "label": "Point culminant",
+      "value": "1 338 m",
+      "sub": "Cerro de Punta, Cordillera Central"
+    }
+  ],
+  "islands": [
+    "San Juan",
+    "Ponce",
+    "Vieques",
+    "Mayagüez",
+    "Culebra"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES & ÎLES :",
+  "sections": {
+    "geography": "Une île verte sous le soleil",
+    "animals": "Les bêtes de la jungle et de la mer",
+    "culture": "Salsa, couleurs et bonne cuisine",
+    "history": "Des forts géants et une grenouille star",
+    "wows": "7 choses qui font épater"
+  },
+  "geo": [
+    "Porto Rico est une île entre l'Atlantique et la mer des Caraïbes. Une chaîne de montagnes traverse l'île d'est en ouest, et El Yunque est la seule forêt tropicale dans tout le système national américain !",
+    "Les petites îles de Vieques et Culebra ont des plages d'eau cristalline. Juste au nord, l'océan plonge à 8 376 m de profondeur — c'est le point le plus profond de tout l'Atlantique !"
+  ],
+  "animals": [
+    "Le coquí est une grenouille de la taille d'un pouce qui chante « ko-kee » toutes les nuits à 90 décibels — aussi fort qu'une tondeuse à gazon ! Les Portoricains l'adorent tellement qu'ils le dessinent partout.",
+    "La baie Mosquito à Vieques brille en bleu la nuit grâce à des milliards de minuscules organismes vivants. Quand on agite l'eau, elle s'illumine comme des éclairs liquides !"
+  ],
+  "culture": [
+    "À Porto Rico, la musique est partout : dès qu'on allume la salsa, tout le monde se lève pour danser ! Les rues de la vieille ville de San Juan sont pavées de petites pierres bleues venues des vieux bateaux.",
+    "À chaque fête, on mange du mofongo — une purée de plantains frits — et du lechón, un cochon rôti tout doucement. C'est tellement délicieux que ça sent bon dans toute la rue !"
+  ],
+  "history": [
+    "Avant que les explorateurs espagnols arrivent, les Taïnos vivaient ici depuis des siècles. L'Espagne a construit deux immenses forts en pierre — El Morro et San Cristóbal — pour protéger les trésors des bateaux !",
+    "En 1917, tous les Portoricains sont devenus citoyens américains. Aujourd'hui, l'île est fière de sa culture unique, pleine de musique, de couleurs et de saveurs !"
+  ],
+  "wows": [
+    "La baie Mosquito brille en bleu électrique la nuit — c'est la baie bioluminescente la plus lumineuse du monde !",
+    "Le télescope géant d'Arecibo mesurait 305 m de large — aussi grand qu'une ville — creusé dans la jungle !",
+    "La grenouille coquí chante aussi fort qu'une tondeuse, mais les habitants ne peuvent pas dormir sans ce bruit !",
+    "La fosse de Porto Rico à 8 376 m est l'endroit le plus profond de tout l'océan Atlantique !",
+    "El Yunque reçoit 5 000 mm de pluie par an — c'est la seule forêt tropicale nationale américaine !",
+    "Porto Rico a plus de 270 jours ensoleillés par an, même si elle se trouve au cœur des ouragans !",
+    "Les joueurs de baseball portoricains ont gagné plus de trophées Gant d'Or par habitant que partout ailleurs !"
+  ],
+  "myths": [
+    {
+      "myth": "Porto Rico est un pays indépendant",
+      "fact": "Porto Rico fait partie des États-Unis ! Ses 3,2 millions d'habitants sont des citoyens américains, même si l'île a sa propre culture et parle espagnol."
+    },
+    {
+      "myth": "Il y a des ouragans tout le temps",
+      "fact": "Porto Rico a environ 270 jours de soleil par an ! Les gros ouragans sont très rares, et le temps est presque toujours chaud et calme."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "¡Hola!",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Ami",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pr-hero.jpg",
+      "alt": "Panorama de San Juan avec la vieille ville colorée au premier plan",
+      "caption": "SAN JUAN — la vieille ville colorée rencontre les gratte-ciels sur la côte atlantique",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pr-landmark.jpg",
+      "alt": "Le fort El Morro avançant dans la mer à la vieille San Juan",
+      "caption": "EL MORRO — forteresse espagnole du XVIe siècle gardant le port de San Juan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pr-animalA.jpg",
+      "alt": "Une minuscule grenouille coquí accrochée à une feuille verte",
+      "caption": "GRENOUILLE COQUÍ — la petite chanteuse adorée de Porto Rico, aussi forte qu'une tondeuse",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pr-animalB.jpg",
+      "alt": "Un perroquet portoricain vert vif perché sur une branche",
+      "caption": "PERROQUET DE PORTO RICO — l'un des oiseaux les plus rares du monde, seulement ~500 restants",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

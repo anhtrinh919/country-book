@@ -1,0 +1,151 @@
+{
+  "name": "GABON",
+  "nativeName": "GA",
+  "romaji": "GABON",
+  "tagline": "Le dernier paradis vert d'Afrique",
+  "region": "Central Africa",
+  "coords": "0°N 12°E",
+  "fileNo": "083",
+  "langName": "français",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDDF",
+    "dot": "#C8BB9E",
+    "ink": "#1E2016",
+    "faint": "#7A7A55",
+    "line": "#DDD8C0",
+    "accent": "#009E60",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/ga.svg",
+    "title": "Drapeau du Gabon",
+    "note": "Vert, jaune et bleu — la forêt, le soleil, l'océan",
+    "keyColor": "#009E60",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Gabon, des éléphants se promènent sur la plage pendant que les hippos jouent dans les vagues — comme dans un rêve ! Plus de 80 % du pays est recouvert d'une immense forêt magique pleine de gorilles et de singes aux visages multicolores. C'est l'un des endroits les plus verts de toute la planète !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Libreville",
+      "sub": "fondée en 1849, env. 900 000 hab."
+    },
+    {
+      "label": "Habitants",
+      "value": "2,54 millions",
+      "sub": "est. 2024, Banque mondiale"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "partagé avec 5 voisins"
+    },
+    {
+      "label": "Langue",
+      "value": "français",
+      "sub": "officiel ; plus de 40 langues locales"
+    },
+    {
+      "label": "Superficie",
+      "value": "267 668 km²",
+      "sub": "à peu près la taille de la Nouvelle-Zélande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Bengoué",
+      "sub": "1 070 m, nord-est du Gabon"
+    }
+  ],
+  "islands": [
+    "Libreville",
+    "Port-Gentil",
+    "Franceville",
+    "Oyem",
+    "Lambaréné"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une forêt au bord de l'océan",
+    "animals": "Les géants de la jungle",
+    "culture": "Tambours, masques et fêtes",
+    "history": "La ville des hommes libres",
+    "wows": "Les surprises du Gabon"
+  },
+  "geo": "Le Gabon est traversé par l'Équateur, là où l'Afrique touche l'océan Atlantique. Une forêt épaisse couvre plus de 80 % du pays, et le grand fleuve Ogooué serpente sur 1 200 km jusqu'à la mer comme un ruban marron.",
+  "animals": "Au Gabon vivent près de 85 000 éléphants des forêts — plus que partout ailleurs sur Terre ! Dans le parc de Loango, on peut les voir marcher sur la plage pendant que les hippos sautent dans les vagues à côté.",
+  "culture": "Le Gabon compte plus de 40 peuples différents qui font de la musique avec des harpes et des xylophones en bois. À table, on mange du poisson fumé, du manioc, des bananes plantains et du homard fraîchement pêché sur la côte.",
+  "history": "Des marins portugais ont découvert le Gabon en 1472 et ont donné son nom à l'estuaire en forme de grand manteau. La capitale Libreville a été fondée par des personnes libérées de l'esclavage — son nom signifie exactement « ville libre » !",
+  "wows": [
+    "Au Gabon, on peut voir des éléphants sur la plage, des hippos dans les vagues et des baleines au large — tout le même jour !",
+    "Le Gabon absorbe plus de gaz carbonique qu'il n'en produit : c'est comme un grand poumon vert pour la Terre entière.",
+    "En 2002, le Gabon a créé 13 parcs nationaux en une seule journée pour protéger ses animaux.",
+    "Le singe mandrill a un visage rouge et bleu tout brillant — c'est le plus coloré du monde !",
+    "Dans le parc de Lopé, il y a 1 800 dessins anciens gravés dans la roche, juste à côté des gorilles.",
+    "Les éléphants de forêt du Gabon plantent des arbres sans le savoir en semant des graines dans leur caca !",
+    "Le drapeau du Gabon a une forme spéciale partagée par seulement 3 autres pays dans le monde entier."
+  ],
+  "myths": [
+    {
+      "myth": "Le Gabon, c'est juste de la jungle sans rien d'autre",
+      "fact": "Libreville, la capitale, a de grands immeubles modernes, et le Gabon est l'un des pays les plus riches d'Afrique par habitant."
+    },
+    {
+      "myth": "Tous les éléphants d'Afrique sont pareils",
+      "fact": "L'éléphant de forêt du Gabon est une espèce à part — plus petit, avec des défenses plus droites, il vit dans la jungle et non dans la savane."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Oui",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Au revoir",
+      "say": "oh-ruh-VWAH"
+    },
+    {
+      "en": "Éléphant",
+      "jp": "Éléphant",
+      "say": "ay-lay-FAHN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ga-hero.jpg",
+      "alt": "Immeubles modernes dans le centre-ville de Libreville, au Gabon",
+      "caption": "LIBREVILLE — la skyline moderne de la capitale avec l'immeuble Gabon Mining.",
+      "credit": "Delrick Williams, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ga-landmark.jpg",
+      "alt": "Vue panoramique sur la savane et la forêt du parc national de Lopé",
+      "caption": "PARC NATIONAL DE LOPÉ — la savane rencontre la forêt tropicale dans ce site classé au patrimoine mondial de l'UNESCO.",
+      "credit": "Olly Griffin, CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ga-animalA.jpg",
+      "alt": "Mère éléphant de forêt et son petit dans le parc national de Loango, au Gabon",
+      "caption": "ÉLÉPHANT DE FORÊT — mère et petit à Loango, le plus grand refuge d'éléphants de la Terre.",
+      "credit": "Kurt Dundy, CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ga-animalB.jpg",
+      "alt": "Mère gorille de plaine de l'Ouest portant son bébé dans le parc national de Loango",
+      "caption": "GORILLE DE PLAINE DE L'OUEST — mère et bébé sauvages dans la forêt de Loango.",
+      "credit": "TheLeftCoast, CC0 1.0"
+    }
+  }
+}

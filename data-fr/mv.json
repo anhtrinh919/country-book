@@ -1,0 +1,163 @@
+{
+  "name": "MALDIVES",
+  "nativeName": "ދިވެހި",
+  "romaji": "DHIVEHI RAAJJE",
+  "tagline": "Des îles qui flottent sur la mer",
+  "region": "South Asia",
+  "coords": "3.20°N, 73.22°E",
+  "fileNo": "119",
+  "langName": "dhivehi",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EDF6F5",
+    "dot": "#b8d8d5",
+    "ink": "#1a2c2b",
+    "faint": "#6a8e8c",
+    "line": "#c8e2e0",
+    "accent": "#006B3F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/mv.svg",
+    "title": "Drapeau des Maldives",
+    "note": "Panneau vert avec un croissant blanc sur fond rouge",
+    "keyColor": "#006B3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Les Maldives, c'est un collier de 1 190 minuscules îles en corail posées sur l'océan Indien ! Tout le pays est aussi plat qu'une table — le point le plus haut atteint à peine la poignée d'une porte. C'est le pays le plus plat de toute la Terre !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Malé",
+      "sub": "Une des villes les plus peuplées au monde"
+    },
+    {
+      "label": "Habitants",
+      "value": "~530 000",
+      "sub": "ONU 2025 ; ~200 îles habitées"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Rufiyaa",
+      "sub": "MVR ; autrefois des coquillages"
+    },
+    {
+      "label": "Langue",
+      "value": "Dhivehi",
+      "sub": "Écriture Thaana, se lit de droite à gauche"
+    },
+    {
+      "label": "Superficie",
+      "value": "298 km²",
+      "sub": "Plus petit pays d'Asie par la superficie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "5,1 m",
+      "sub": "Mt Villingili, Addu — le plus bas du monde"
+    }
+  ],
+  "islands": [
+    "N. Malé",
+    "S. Malé",
+    "Ari Atoll",
+    "Baa Atoll",
+    "Addu Atoll"
+  ],
+  "islandsLabel": "ATOLLS PRINCIPAUX :",
+  "sections": {
+    "geography": "Un chapelet de couronnes de corail",
+    "animals": "Poissons de récif et géants des mers",
+    "culture": "Tambours, bateaux et thon",
+    "history": "Sultans et légendes de l'océan",
+    "wows": "Trop incroyable pour être vrai !"
+  },
+  "geo": [
+    "Les Maldives sont posées sur une grande crête sous-marine qui traverse l'océan Indien du nord au sud. Les 1 190 îles sont toutes en corail et en sable, et aucune ne dépasse quelques mètres de hauteur !",
+    "Le pays couvre 90 000 km² d'océan, mais toutes ses îles mises bout à bout font seulement 298 km². La plupart sont à peine plus larges qu'un parc et flottent à moins d'un mètre et demi au-dessus des vagues."
+  ],
+  "animals": [
+    "L'animal national est le thon à nageoires jaunes — rapide, puissant, et pêché depuis des siècles avec une simple canne. Plus de 1 000 espèces de poissons vivent dans les récifs coralliens autour des atolls !",
+    "Le requin baleine — le plus grand poisson du monde — nage dans ces eaux chaudes en avalant du plancton. Cinq espèces de tortues de mer pondent leurs œufs ici, et des baleines bleues passent dans les canaux profonds."
+  ],
+  "culture": [
+    "Le Bodu Beru, le « grand tambour », est le cœur des fêtes aux Maldives ! Les musiciens commencent lentement puis jouent de plus en plus vite jusqu'à ce que les danseurs tournent en transe.",
+    "Du poisson se trouve dans presque chaque repas, souvent en garudhiya — un bouillon de thon clair avec du riz, du citron vert et du piment. Le joli bateau en bois appelé dhoni relie les îles depuis plus de mille ans."
+  ],
+  "history": [
+    "Des gens vivent aux Maldives depuis 2 500 ans, venus probablement du Sri Lanka et de l'Inde ! Une vieille légende raconte qu'un prince courageux a apprivoisé un grand djinn de la mer pour protéger les îles.",
+    "En 1153, toutes les îles sont devenues musulmanes, et des sultans ont gouverné les atolls pendant plus de 800 ans. Les Maldives sont devenues tout à fait libres et indépendantes le 26 juillet 1965."
+  ],
+  "wows": [
+    "Le point le plus haut est à seulement 5,1 m — à peine plus qu'une porte et demie — c'est le pays le plus plat du monde !",
+    "Sur l'île de Vaadhoo, les vagues brillent en bleu électrique la nuit : ce sont des milliards de tout petits organismes lumineux !",
+    "En 2009, le gouvernement a tenu une réunion sous la mer, assis sur le fond de l'océan avec des bouteilles d'oxygène.",
+    "Les petits coquillages des Maldives servaient de monnaie en Afrique et en Asie il y a des centaines d'années.",
+    "Il y a 26 atolls mais aucune rivière, aucune colline — l'eau douce vient de la pluie et de machines qui purifient l'eau de mer.",
+    "Les 1 190 îles couvrent un océan plus grand que l'Allemagne, mais toutes leurs terres ensemble sont plus petites que la ville de Séoul !",
+    "En 2008, les Maldives ont prévu d'acheter un autre pays comme maison de secours en cas de montée des eaux — les premiers au monde à faire ça !"
+  ],
+  "myths": [
+    {
+      "myth": "« Les Maldives vont bientôt disparaître sous l'eau »",
+      "fact": "La montée des mers est réelle, mais beaucoup d'îles restent stables ou grandissent. Le gouvernement surélève l'île de Hulhumalé et construit des murs pour protéger les habitants."
+    },
+    {
+      "myth": "« C'est seulement pour les gens très riches »",
+      "fact": "Les hôtels flottants sur l'eau sont chers, mais à Malé et dans les maisons d'hôtes des îles locales, on peut voir les mêmes récifs pour beaucoup moins cher."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Assalaamu",
+      "say": "as-SAH-laa-mu"
+    },
+    {
+      "en": "Merci",
+      "jp": "Shukriyaa",
+      "say": "shoo-KREE-yaa"
+    },
+    {
+      "en": "Oui",
+      "jp": "Aan",
+      "say": "aan"
+    },
+    {
+      "en": "Bonjour (matin)",
+      "jp": "Baajjaveri",
+      "say": "BAA-ja-ve-ree"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Haalu kihine",
+      "say": "HAA-lu ki-HI-neh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mv-hero.jpg",
+      "alt": "Un hydravion blanc roule sur une eau turquoise près d'une île maldivienne bordée de palmiers",
+      "caption": "HYDRAVION À BATHALA — sauter d'île en île à la façon des Maldives",
+      "credit": "Gzzz / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mv-landmark.jpg",
+      "alt": "Vue aérienne de Malé, la minuscule capitale densément construite des Maldives",
+      "caption": "MALÉ VUE DU CIEL — une des îles les plus densément peuplées du monde",
+      "credit": "Shahee Ilyas / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mv-animalA.jpg",
+      "alt": "Gros plan sur l'œil et la grande bouche d'un requin baleine qui filtre l'eau près de la surface",
+      "caption": "REQUIN BALEINE — le plus grand poisson de l'océan, mange seulement du plancton",
+      "credit": "Arturo de Frias Marques / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/mv-animalB.jpg",
+      "alt": "Une raie manta de récif glisse au-dessus du corail dans les eaux claires de l'atoll Baa, Maldives",
+      "caption": "RAIE MANTA DE RÉCIF — géant gracieux des stations de nettoyage de l'atoll Baa",
+      "credit": "Ahmed Abdul Rahman / CC BY-SA 3.0"
+    }
+  }
+}

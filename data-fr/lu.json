@@ -1,0 +1,151 @@
+{
+  "name": "LUXEMBOURG",
+  "nativeName": "LU",
+  "romaji": "LUXEMBOURG",
+  "tagline": "Tout petit pays, grand cœur !",
+  "region": "Western Europe",
+  "coords": "49.8°N, 6.1°E",
+  "fileNo": "047",
+  "langName": "luxembourgeois",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CDBFA0",
+    "ink": "#28201C",
+    "faint": "#857060",
+    "line": "#DDD0B8",
+    "accent": "#EF3340",
+    "accent2": "#009FE3"
+  },
+  "flag": {
+    "assetPath": "/flags/lu.svg",
+    "title": "Drapeau du Grand-Duché",
+    "note": "Rouge, blanc et bleu clair — trois bandes",
+    "keyColor": "#EF3340",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Luxembourg est si petit qu'on peut le traverser en voiture en moins d'une heure — et pourtant il est plein de châteaux de conte de fées et de forêts magiques ! C'est l'un des derniers Grand-Duchés du monde entier. Chaque matin, des centaines de milliers de personnes arrivent d'autres pays pour y travailler !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Luxembourg-Ville",
+      "sub": "Aussi la plus grande ville du pays"
+    },
+    {
+      "label": "Habitants",
+      "value": "~680 000",
+      "sub": "Est. 2024 — presque la moitié vient d'ailleurs"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Adopté en 2002"
+    },
+    {
+      "label": "Langue",
+      "value": "3 langues officielles",
+      "sub": "Luxembourgeois, français, allemand"
+    },
+    {
+      "label": "Superficie",
+      "value": "2 586 km²",
+      "sub": "Plus petit que certaines régions françaises !"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Kneiff 560 m",
+      "sub": "Une douce colline des Ardennes au nord"
+    }
+  ],
+  "islands": [
+    "Ardennes",
+    "Moselle",
+    "Lux. City",
+    "Esch-Alzette",
+    "Müllerthal"
+  ],
+  "islandsLabel": "RÉGIONS PRINCIPALES :",
+  "sections": {
+    "geography": "Châteaux, falaises et jolies rivières",
+    "animals": "Sangliers et oiseaux des vignes",
+    "culture": "Trois langues dans un tout petit pays",
+    "history": "La forteresse des histoires anciennes",
+    "wows": "Petit pays, GRANDES surprises !"
+  },
+  "geo": "Le nord du Luxembourg est couvert de forêts et de collines des Ardennes, avec des rochers en forme de labyrinthe et des ruisseaux tout clairs. Au sud, les terres sont plus douces et ensoleillées — les habitants l'appellent « la Bonne Terre » !",
+  "animals": "Dans les grandes forêts des Ardennes vivent des sangliers, des cerfs roux et même des loutres timides. Les castors sont revenus dans les rivières après avoir disparu pendant deux cents ans entiers !",
+  "culture": "Les enfants du Luxembourg apprennent trois langues avant leurs dix ans — luxembourgeois, français et allemand, c'est impressionnant ! Chaque automne depuis l'an 1340, une grande fête foraine appelée Schueberfouer réunit tout le monde.",
+  "history": "Il y a très longtemps, Luxembourg-Ville avait une énorme forteresse perchée sur des falaises, si puissante qu'on l'appelait le « Gibraltar du Nord ». On l'a démolie pierre par pierre après 1867 pour que le pays reste en paix pour toujours !",
+  "wows": [
+    "Le Luxembourg est le pays le plus riche d'Europe — ses habitants ont le plus d'argent en moyenne !",
+    "Tous les bus, trains et trams sont gratuits pour tout le monde depuis 2020.",
+    "Presque la moitié des habitants du Luxembourg sont nés dans un autre pays.",
+    "Chaque jour, 220 000 personnes arrivent en voiture de France, Belgique ou Allemagne pour travailler.",
+    "Le Müllerthal a des rochers et des grottes si étranges qu'on l'appelle « la Petite Suisse ».",
+    "Luxembourg-Ville accueille trois grandes institutions de l'Union européenne — une ville très importante !",
+    "Le Grand-Duc Henri est l'un des cinq seuls grands-ducs qui règnent encore dans le monde entier."
+  ],
+  "myths": [
+    {
+      "myth": "Le Luxembourg est trop petit pour être intéressant",
+      "fact": "Il a 3 sites classés au patrimoine mondial de l'UNESCO, des villes médiévales, des gorges spectaculaires et de délicieux vins — plein de merveilles !"
+    },
+    {
+      "myth": "Le luxembourgeois est juste de l'allemand",
+      "fact": "Le luxembourgeois est une vraie langue avec ses propres règles et son propre statut officiel — aussi différente de l'allemand que le néerlandais !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Moien",
+      "say": "MOY-en"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "MAIR-see"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ech glift",
+      "say": "esh GLIFT"
+    },
+    {
+      "en": "Oui",
+      "jp": "Jo",
+      "say": "YO"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Äddi",
+      "say": "AH-dee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lu-hero.jpg",
+      "alt": "Panorama de Luxembourg-Ville avec la vieille ville sur les falaises et le quartier moderne de Kirchberg",
+      "caption": "LUXEMBOURG-VILLE — ancienne forteresse sur les falaises face au quartier européen",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lu-landmark.jpg",
+      "alt": "Château de Vianden perché au-dessus de la vallée de l'Our au Luxembourg",
+      "caption": "CHÂTEAU DE VIANDEN — l'une des plus belles forteresses médiévales d'Europe",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lu-animalA.jpg",
+      "alt": "Sanglier sauvage dans les sous-bois d'une forêt",
+      "caption": "SANGLIER — fouille les forêts de chênes des Ardennes au Luxembourg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lu-animalB.jpg",
+      "alt": "Martin-pêcheur posé sur une branche au-dessus de l'eau",
+      "caption": "MARTIN-PÊCHEUR — un éclair de couleurs vives le long des rives de la Moselle",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

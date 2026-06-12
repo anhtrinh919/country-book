@@ -1,0 +1,151 @@
+{
+  "name": "SOMALIE",
+  "nativeName": "SO",
+  "romaji": "SOOMAALIYA",
+  "tagline": "L'étoile de la Corne d'Afrique",
+  "region": "East Africa",
+  "coords": "2°N, 46°E",
+  "fileNo": "074",
+  "langName": "somali",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA0",
+    "ink": "#231F1B",
+    "faint": "#847560",
+    "line": "#DACFB2",
+    "accent": "#4189DD",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/so.svg",
+    "title": "L'Étoile et le Ciel",
+    "note": "Fond bleu avec une étoile blanche à cinq branches",
+    "keyColor": "#4189DD",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Somalie ressemble à un grand chiffre 7 qui pointe dans l'océan Indien — elle a la plus longue côte de toute l'Afrique, avec 3 300 km de plages ! Il y a plus de chameaux que de voitures, et des peintures rupestres vieilles de 9 000 ans attendent dans des grottes mystérieuses !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Mogadiscio",
+      "sub": "La plus grande ville, sur l'océan Indien"
+    },
+    {
+      "label": "Habitants",
+      "value": "~18 millions",
+      "sub": "Est. ONU 2026 ; dernier recensement en 1975"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Shilling (SOS)",
+      "sub": "Des chameaux sont gravés sur les pièces"
+    },
+    {
+      "label": "Langue",
+      "value": "somali",
+      "sub": "L'arabe est aussi langue officielle"
+    },
+    {
+      "label": "Superficie",
+      "value": "637 657 km²",
+      "sub": "Plus grand que la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Shimbiris",
+      "sub": "2 416 m dans le nord"
+    }
+  ],
+  "islands": [
+    "Mogadishu",
+    "Hargeisa",
+    "Kismayo",
+    "Bosaso",
+    "Berbera"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une corne, une mer et des ciels de désert",
+    "animals": "Chameaux, chats et antilopes",
+    "culture": "Poètes, thé et vie de nomade",
+    "history": "Marchands anciens et rois du désert",
+    "wows": "Sept raisons de dire ouaaah !"
+  },
+  "geo": "La Somalie est la pointe de la Corne d'Afrique — le bout pointu qui s'avance le plus loin dans l'océan Indien. Au nord, de grandes montagnes s'élèvent jusqu'à 2 416 m, tandis que le reste du pays est une vaste plaine chaude et sèche brûlée par le soleil.",
+  "animals": "La Somalie a plus de chameaux que n'importe quel autre pays — plus de 7 millions de dromadaires se promènent dans les plaines ! Le gérenuk, une antilope au très long cou, se dresse sur ses pattes arrière pour grignoter les hautes branches des arbres.",
+  "culture": "Les Somaliens adorent tellement la poésie qu'on les appelle la « Nation des Poètes » — les histoires rimées se récitent aux mariages et aux fêtes ! Chaque invité reçoit du shaah, un thé sucré et parfumé, avec du canjeero, un pain plat moelleux à manger avec du miel.",
+  "history": "Il y a 5 000 à 9 000 ans, des artistes ont peint de magnifiques vaches décorées sur les rochers des grottes de Laas Geel — on peut encore les voir aujourd'hui ! Il y a 1 000 ans, Mogadiscio était déjà une ville animée où des bateaux venaient échanger de l'or, de l'ivoire et de l'encens.",
+  "wows": [
+    "La côte somalienne mesure 3 300 km — la plus longue de toute l'Afrique continentale !",
+    "Les peintures des grottes de Laas Geel ont jusqu'à 9 000 ans — parmi les mieux conservées du monde !",
+    "La Somalie a plus de 7 millions de chameaux — plus que n'importe quel autre pays sur Terre !",
+    "L'écriture somalienne officielle n'a été inventée qu'en 1972, et pourtant la poésie orale est très vieille !",
+    "L'étoile du drapeau représente cinq régions où vivent les Somaliens dans quatre pays différents !",
+    "La musique somalienne n'utilise que cinq notes, ce qui lui donne un son très doux et mystérieux !",
+    "Le grand explorateur Ibn Battuta a visité Mogadiscio en 1331 et a dit que c'était une ville magnifique !"
+  ],
+  "myths": [
+    {
+      "myth": "La Somalie est un pays de pirates",
+      "fact": "La piraterie a beaucoup diminué depuis 2011 et la zone à risque a été levée en 2023 — la plupart des pêcheurs vivent paisiblement sur la longue côte."
+    },
+    {
+      "myth": "La Somalie est tout un désert",
+      "fact": "Le nord a de belles montagnes vertes, et le sud a deux rivières avec des terres fertiles ; même les plaines sèches deviennent toutes vertes après les pluies du printemps."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Salaam",
+      "say": "sa-LAAM"
+    },
+    {
+      "en": "Merci",
+      "jp": "Mahadsanid",
+      "say": "ma-HAD-sa-nid"
+    },
+    {
+      "en": "Oui",
+      "jp": "Haa",
+      "say": "HAH"
+    },
+    {
+      "en": "Non",
+      "jp": "Maya",
+      "say": "MY-ah"
+    },
+    {
+      "en": "Eau",
+      "jp": "Biyo",
+      "say": "BEE-yo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/so-hero.jpg",
+      "alt": "Vue aérienne du port maritime de Mogadiscio",
+      "caption": "PORT DE MOGADISCIO — le port reconstruit bourdonne de commerce sur l'océan Indien.",
+      "credit": "Atmis Somalia / CC0"
+    },
+    "landmark": {
+      "src": "/photos/so-landmark.jpg",
+      "alt": "Entrée rocheuse du complexe de grottes de Laas Geel en Somaliland",
+      "caption": "LAAS GEEL — des abris de granit protègent des peintures vieilles de 9 000 ans.",
+      "credit": "John Pavelka / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/so-animalA.jpg",
+      "alt": "Dromadaires marchant dans un paysage désertique",
+      "caption": "DROMADAIRES — la Somalie en a plus de 7 millions, le plus grand nombre au monde.",
+      "credit": "Jerome Bon / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/so-animalB.jpg",
+      "alt": "Deux gérenuks debout dans la savane",
+      "caption": "GÉRENUK — cette antilope au long cou se dresse sur ses pattes arrière pour atteindre les hautes feuilles.",
+      "credit": "frederic.salein / CC BY-SA 2.0"
+    }
+  }
+}

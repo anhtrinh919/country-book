@@ -1,0 +1,151 @@
+{
+  "name": "GUINÉE-BISSAU",
+  "nativeName": "GW",
+  "romaji": "GUINÉ-BISSAU",
+  "tagline": "Îles, noix de cajou et mers sauvages",
+  "region": "West Africa",
+  "coords": "11.8°N, 15.2°W",
+  "fileNo": "074",
+  "langName": "kiriol",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F3EDD9",
+    "dot": "#C9B98E",
+    "ink": "#252018",
+    "faint": "#7D6E48",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#009E60"
+  },
+  "flag": {
+    "assetPath": "/flags/gw.svg",
+    "title": "Drapeau de la Guinée-Bissau",
+    "note": "Rouge, jaune et vert avec une étoile noire",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Guinée-Bissau, les hippopotames se baignent dans l'océan salé la nuit — les seuls hippos du monde à faire ça ! Ce petit pays est entouré de 88 îles couvertes de mangroves et de milliers d'arbres à noix de cajou!",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bissau",
+      "sub": "Sur l'estuaire du fleuve Geba"
+    },
+    {
+      "label": "Habitants",
+      "value": "2,2 millions",
+      "sub": "Est. ONU 2024 ; dernier recensement 2009"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Partagée avec 7 pays d'Afrique de l'Ouest"
+    },
+    {
+      "label": "Langue",
+      "value": "Portugais",
+      "sub": "Le kiriol est parlé par la plupart au quotidien"
+    },
+    {
+      "label": "Superficie",
+      "value": "36 125 km²",
+      "sub": "Un peu plus grand que Taïwan"
+    },
+    {
+      "label": "Point culminant",
+      "value": "277 m",
+      "sub": "Dongol Ronde, près de la frontière guinéenne"
+    }
+  ],
+  "islands": [
+    "Bissau",
+    "Bafatá",
+    "Gabú",
+    "Bubaque",
+    "Bolama"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES ET ÎLES :",
+  "sections": {
+    "geography": "Une côte qui se fond dans la mer",
+    "animals": "Des hippos qui adorent l'océan",
+    "culture": "Tambours et îles magiques",
+    "history": "La légende d'un pays libre",
+    "wows": "La Guinée-Bissau qui émerveille"
+  },
+  "geo": "La Guinée-Bissau est tellement plate que sa plus haute colline ne fait que 277 m — moins haut que beaucoup de tours en ville ! La côte se fragmente en 88 îles bordées de mangroves où la mer entre et sort deux fois par jour.",
+  "animals": "Dans l'archipel des Bijagós, les hippopotames sont les seuls au monde à nager dans l'Atlantique pour manger des herbes marines la nuit. Sur une seule île, plus de 100 000 sternes de Caspienne nichent ensemble — la plus grande colonie d'oiseaux aquatiques d'Afrique de l'Ouest !",
+  "culture": "Plus de 20 groupes différents vivent en Guinée-Bissau, chacun avec ses propres fêtes et sa propre musique. Le son du pays s'appelle le Gumbé — une musique de tambours africains mélangée à des mélodies portugaises !",
+  "history": "Le peuple Bijagó des îles croit que les hippopotames marins sont leurs ancêtres sacrés — c'est pourquoi personne ne leur fait de mal. Chaque année, ils organisent des dizaines de cérémonies pour honorer leurs esprits dans la forêt.",
+  "wows": [
+    "Les hippos des Bijagós sont les seuls hippos du monde à nager et à manger dans l'océan Atlantique !",
+    "La Guinée-Bissau a déclaré son indépendance en 1973 — un an avant que le Portugal l'accepte !",
+    "Une noix de cajou sur douze vendue dans le monde entier vient peut-être de Guinée-Bissau.",
+    "Plus de 100 000 oiseaux nichent ensemble sur une seule petite île des Bijagós.",
+    "Le point le plus haut du pays ne ferait que le 64e étage d'un grand gratte-ciel — c'est presque plat !",
+    "Dans la société Bijagó, ce sont les femmes qui choisissent leur mari — les hommes attendent patiemment !",
+    "L'archipel des Bijagós est une Réserve de Biosphère de l'UNESCO avec des lamantins et des dauphins."
+  ],
+  "myths": [
+    {
+      "myth": "« Les hippos vivent seulement dans les rivières »",
+      "fact": "Les hippos marins de l'île d'Orango entrent chaque nuit dans l'Atlantique pour brouter des herbes marines — uniques au monde. Le peuple Bijagó les considère comme des ancêtres sacrés."
+    },
+    {
+      "myth": "« C'est juste un petit pays ordinaire »",
+      "fact": "Les îles Bijagós de Guinée-Bissau sont une Réserve de Biosphère UNESCO avec des hippos dans la mer salée, des lamantins et la plus grande colonie de sternes d'Afrique de l'Ouest !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Oi",
+      "say": "oy"
+    },
+    {
+      "en": "Merci",
+      "jp": "Obrigadu",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Kuma?",
+      "say": "KOO-mah"
+    },
+    {
+      "en": "Je vais bien",
+      "jp": "N sta bon",
+      "say": "n stah BOHN"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Adeus",
+      "say": "ah-DAY-oosh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gw-hero.jpg",
+      "alt": "Palais présidentiel à Bissau, Guinée-Bissau",
+      "caption": "PALAIS PRÉSIDENTIEL — le bâtiment colonial rose au cœur de Bissau",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gw-landmark.jpg",
+      "alt": "Île de Bolama dans l'archipel des Bijagós, Guinée-Bissau",
+      "caption": "ÎLE DE BOLAMA — un joyau bordé de palmiers dans l'archipel UNESCO des Bijagós",
+      "credit": "Danilo Vaz / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gw-animalA.jpg",
+      "alt": "Hippopotame dans l'eau",
+      "caption": "HIPPO — les hippos des Bijagós sont les seuls à se nourrir dans l'Atlantique ouvert",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gw-animalB.jpg",
+      "alt": "Singe vert avec son bébé en Afrique de l'Ouest",
+      "caption": "SINGE VERT — les troupes bondissent dans les vergers de cajou de Guinée-Bissau",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

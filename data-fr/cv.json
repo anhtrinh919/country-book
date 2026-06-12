@@ -1,0 +1,151 @@
+{
+  "name": "CAP-VERT",
+  "nativeName": "CV",
+  "romaji": "CABO VERDE",
+  "tagline": "Îles de feu et de chansons",
+  "region": "West Africa",
+  "coords": "16.0°N, 24.0°W",
+  "fileNo": "023",
+  "langName": "kriolu",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BBA8",
+    "ink": "#26201A",
+    "faint": "#8B7B62",
+    "line": "#DDD4C2",
+    "accent": "#003893",
+    "accent2": "#CF2027"
+  },
+  "flag": {
+    "assetPath": "/flags/cv.svg",
+    "title": "Drapeau du Cap-Vert",
+    "note": "Mer bleue, chemin rouge et blanc, dix étoiles pour dix îles",
+    "keyColor": "#003893",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Cap-Vert est fait de dix îles volcaniques perdues dans l'océan Atlantique — personne n'y vivait avant l'arrivée des marins il y a plus de 500 ans ! Aujourd'hui, les tortues géantes pondent leurs œufs sur les plages dorées chaque été.",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Praia",
+      "sub": "Sur l'île de Santiago"
+    },
+    {
+      "label": "Habitants",
+      "value": "~525 000",
+      "sub": "Estimation Banque mondiale 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Escudo (CVE)",
+      "sub": "Lié à l'euro"
+    },
+    {
+      "label": "Langue",
+      "value": "Portugais",
+      "sub": "Le kriolu parlé tous les jours"
+    },
+    {
+      "label": "Superficie",
+      "value": "4 033 km²",
+      "sub": "Plus petit que la Corse"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 829 m",
+      "sub": "Volcan Pico do Fogo"
+    }
+  ],
+  "islands": [
+    "Santiago",
+    "São Vicente",
+    "Fogo",
+    "Sal",
+    "Santo Antão"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des îles de feu et de vent !",
+    "animals": "Tortues, oiseaux et baleines",
+    "culture": "Musique, fête et bonne cuisine",
+    "history": "Marins et trésors oubliés",
+    "wows": "Le Cap-Vert qui surprend !"
+  },
+  "geo": "Le Cap-Vert a dix îles : certaines sont toutes plates avec des dunes de sable, d'autres ont des montagnes pointues qui plongent dans la mer. L'île de Fogo est un vrai volcan encore vivant — en 2014, la lave a recouvert tout un village !",
+  "animals": "Chaque été, des milliers de tortues marines géantes sortent de l'eau la nuit pour pondre leurs œufs dans le sable chaud de l'île Boa Vista. Des baleines à bosse passent aussi en hiver, et un minuscule oiseau appelé l'alouette de Raso vit sur une seule toute petite île.",
+  "culture": "La musique du Cap-Vert s'appelle la morna — c'est une chanson douce et mélancolique qui parle de la mer et des gens qui voyagent loin. Le plat préféré des Cap-Verdiens est la cachupa, une soupe épaisse de maïs et de haricots que chaque famille prépare à sa façon !",
+  "history": "Avant 1460, ces îles étaient complètement vides — pas un seul habitant ! Des marins explorateurs sont arrivés en bateau et ont tout construit de zéro, mélangeant des cultures d'Afrique, d'Europe et de l'océan.",
+  "wows": [
+    "Il n'y a aucune rivière au Cap-Vert — l'eau douce vient de machines qui retirent le sel de la mer !",
+    "Le vent souffle si fort sur certaines îles que les arbres poussent tout penchés sur le côté.",
+    "Des gens cultivent du café et des raisins à l'intérieur d'un cratère de volcan !",
+    "Plus de Cap-Verdiens vivent à l'étranger que sur les îles elles-mêmes.",
+    "Une chanteuse tellement célèbre, Cesária Évora, est imprimée sur les billets de banque !",
+    "Plus de 170 000 nids de tortues ont été comptés en une seule saison sur les plages.",
+    "La ville de Mindelo était autrefois une escale très animée pour les grands bateaux à vapeur."
+  ],
+  "myths": [
+    {
+      "myth": "Le Cap-Vert, c'est juste des belles plages",
+      "fact": "Il y a aussi des volcans actifs, des forêts dans les nuages, des oiseaux qu'on ne trouve nulle part ailleurs, et des plages où les tortues marines pondent leurs œufs !"
+    },
+    {
+      "myth": "Tout le monde parle portugais tous les jours",
+      "fact": "Le portugais sert surtout pour écrire, mais dans la vie de tous les jours, les Cap-Verdiens parlent le kriolu, une langue inventée en mélangeant le portugais et des langues africaines."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Ola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Obrigadu",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Bonne journée",
+      "jp": "Bon dia",
+      "say": "bohn DEE-ah"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Modi bu sta?",
+      "say": "MOH-dee boo stah"
+    },
+    {
+      "en": "Très bien !",
+      "jp": "Muitu ben",
+      "say": "MWEE-too ben"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cv-hero.jpg",
+      "alt": "Vue panoramique de la baie et de la ville de Mindelo sur l'île de São Vicente, Cap-Vert",
+      "caption": "MINDELO — la capitale culturelle du Cap-Vert s'étire autour de la grande baie bleue de Porto Grande",
+      "credit": "Manuel de Sousa / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/cv-landmark.jpg",
+      "alt": "Route traversant un paysage volcanique en direction du Pico do Fogo sur l'île de Fogo",
+      "caption": "PICO DO FOGO — une route s'enfonce dans le cratère où le volcan fume encore",
+      "credit": "Cayambe / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/cv-animalA.jpg",
+      "alt": "Mâle de l'alouette de Raso perché, un petit oiseau endémique du Cap-Vert",
+      "caption": "ALOUETTE DE RASO — toute l'espèce vit sur un seul îlot ; il en reste moins de 1 500",
+      "credit": "Justin Welbergen / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/cv-animalB.jpg",
+      "alt": "Plage de Santa Maria sur l'île de Sal, Cap-Vert, avec eau turquoise et sable blanc",
+      "caption": "PLAGE DE SANTA MARIA — les tortues caouannes pondent leurs œufs sur les rives dorées de Sal chaque été",
+      "credit": "Adrião / CC BY 3.0"
+    }
+  }
+}

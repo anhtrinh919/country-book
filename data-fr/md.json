@@ -1,0 +1,151 @@
+{
+  "name": "MOLDAVIE",
+  "nativeName": "MD",
+  "romaji": "MOLDOVA",
+  "tagline": "Le pays des vignes et des caves secrètes",
+  "region": "Eastern Europe",
+  "coords": "47°N 29°E",
+  "fileNo": "148",
+  "langName": "roumain",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#cfc0a0",
+    "ink": "#2b2318",
+    "faint": "#8a7a5a",
+    "line": "#ddd0b2",
+    "accent": "#003DA5",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/md.svg",
+    "title": "Bleu, jaune et rouge",
+    "note": "Un aigle sur le jaune tient une croix et un bouclier",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Moldavie, il y a plus d'un million de bouteilles de vin cachées dans des tunnels creusés dans la roche — et on peut les visiter en voiture ! C'est un tout petit pays entouré de collines dorées et de champs de tournesols. Les gens y font du vin depuis 5 000 ans !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Chișinău",
+      "sub": "Env. 720 000 habitants (2024)"
+    },
+    {
+      "label": "Habitants",
+      "value": "~2,41 M",
+      "sub": "Recensement 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Leu (MDL)",
+      "sub": "≈ 20 MDL par euro"
+    },
+    {
+      "label": "Langue",
+      "value": "roumain",
+      "sub": "Aussi le russe et le gagaouze"
+    },
+    {
+      "label": "Superficie",
+      "value": "33 843 km²",
+      "sub": "Plus petit que l'Irlande"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Bălănești",
+      "sub": "430 m — une douce colline"
+    }
+  ],
+  "islands": [
+    "Chișinău",
+    "Bălți",
+    "Cahul",
+    "Orhei",
+    "Tiraspol"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Collines rondes et vallées de rivières",
+    "animals": "Cigognes, visons et animaux des forêts",
+    "culture": "Vin, danses et fêtes au village",
+    "history": "Un héros qui bâtissait des monastères",
+    "wows": "Sept secrets étonnants"
+  },
+  "geo": "La Moldavie est un pays tout plat avec de douces collines et de grandes rivières — pas du tout de montagnes ! La terre noire très riche s'appelle la « tchernozem » : c'est l'une des meilleures terres pour faire pousser des légumes et du raisin dans le monde entier.",
+  "animals": "L'oiseau préféré de la Moldavie est la cigogne blanche : chaque printemps, des milliers de cigognes reviennent d'Afrique pour faire leur nid sur les cheminées des maisons ! Dans les forêts se cache aussi le vison d'Europe, un petit animal au pelage marron brillant qui adore glisser entre les roseaux au bord de l'eau.",
+  "culture": "En Moldavie, tout le monde danse la « hora » : on se tient par la main en cercle et on tourbillonne ensemble lors des mariages et des fêtes de la récolte ! Chaque octobre, tout le pays fête le Jour National du Vin avec des caves ouvertes et de la musique joyeuse.",
+  "history": "Il y a très longtemps, un grand héros appelé Étienne le Grand gagna presque toutes ses batailles — 34 victoires sur 36 ! Après chaque victoire, il construisait un monastère en remerciement, et on peut encore les voir aujourd'hui, couverts de belles peintures colorées.",
+  "wows": [
+    "La cave de Mileștii Mici garde plus de 1,5 million de bouteilles de vin — le record mondial du Guinness !",
+    "Ses tunnels font 55 km de long : on les visite en voiture sur des rues qui portent des noms de raisins.",
+    "Les vignes couvrent environ 4 % de tout le pays — l'un des plus grands pays de vigne au monde !",
+    "Le monastère d'Orheiul Vechi a été taillé à la main dans une falaise de calcaire blanc il y a 600 ans.",
+    "La Moldavie est entièrement entourée de terres — elle n'a aucune plage ni accès à la mer.",
+    "Des cigognes blanches reviennent chaque année exactement sur la même cheminée moldave, comme si c'était leur maison !",
+    "La terre noire moldave est si bonne que les fermiers peuvent y cultiver des pastèques, des noix et des prunes géantes."
+  ],
+  "myths": [
+    {
+      "myth": "La Moldavie fait partie de la Roumanie",
+      "fact": "La Moldavie et la Roumanie parlent la même langue, mais la Moldavie est un pays tout à fait indépendant depuis 1991 — avec son propre gouvernement et ses propres billets de monnaie !"
+    },
+    {
+      "myth": "Il n'y a rien à voir en Moldavie",
+      "fact": "La Moldavie a des monastères dans des falaises, la plus grande cave à vin du monde, des fêtes folkloriques colorées et de beaux villages — tout ça dans un tout petit pays !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bună ziua",
+      "say": "BOO-nuh ZEE-wah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Mulțumesc",
+      "say": "mool-tsoo-MESK"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Vă rog",
+      "say": "vuh ROKE"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "La revedere",
+      "say": "lah reh-veh-DEH"
+    },
+    {
+      "en": "Du vin !",
+      "jp": "Vin!",
+      "say": "VEEN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/md-hero.jpg",
+      "alt": "Vue panoramique sur les toits de Chișinău et les collines vertes",
+      "caption": "CHIȘINĂU — la capitale de la Moldavie s'étend sur de douces collines vertes",
+      "credit": "Dave Proffer / Wikimedia Commons (CC BY 2.0)"
+    },
+    "landmark": {
+      "src": "/photos/md-landmark.jpg",
+      "alt": "Grand panorama du monastère rupestre d'Orheiul Vechi au-dessus de la vallée de la rivière Raut",
+      "caption": "ORHEIUL VECHI — des moines ont taillé ce monastère dans des falaises de calcaire il y a 600 ans",
+      "credit": "Jekader / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "animalA": {
+      "src": "/photos/md-animalA.jpg",
+      "alt": "Cigogne blanche debout dans son nid dans une réserve ornithologique",
+      "caption": "CIGOGNE BLANCHE — l'oiseau national de la Moldavie, la bienvenue sur chaque toit",
+      "credit": "Dominik Ryba / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "animalB": {
+      "src": "/photos/md-animalB.jpg",
+      "alt": "Vison d'Europe au pelage brun foncé brillant",
+      "caption": "VISON D'EUROPE — en danger critique ; les rivières de Moldavie sont l'un de ses derniers refuges",
+      "credit": "zoofanatic / Wikimedia Commons (CC BY 2.0)"
+    }
+  }
+}

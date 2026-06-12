@@ -1,0 +1,163 @@
+{
+  "name": "HONDURAS",
+  "nativeName": "HN",
+  "romaji": "HONDURAS",
+  "tagline": "Jungles, récifs et sommets dans les nuages",
+  "region": "Central America",
+  "coords": "15.2°N, 86.2°W",
+  "fileNo": "076",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2ECD9",
+    "dot": "#CDBF9E",
+    "ink": "#241F1A",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#1A3D8F",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/hn.svg",
+    "title": "Drapeau du Honduras",
+    "note": "Bleu–blanc–bleu avec cinq étoiles bleues",
+    "keyColor": "#1A3D8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Honduras, il y a un immense récif de corail sous la mer — le deuxième plus grand du monde, plein de poissons multicolores ! Des perroquets géants rouges volent dans la jungle, et des jaguars se promènent entre les arbres. Le nom « Honduras » veut dire « grandes profondeurs » en espagnol !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Tegucigalpa",
+      "sub": "Perchée à ~975 m d'altitude"
+    },
+    {
+      "label": "Habitants",
+      "value": "10,9 millions",
+      "sub": "Est. 2025, UN Pop. Prospects"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Lempira (L)",
+      "sub": "Nommée d'après un chef lenca"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "Plus garifuna et créole"
+    },
+    {
+      "label": "Superficie",
+      "value": "112 492 km²",
+      "sub": "Plus grand que la Bulgarie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Las Minas",
+      "sub": "2 870 m, sommet forestier"
+    }
+  ],
+  "islands": [
+    "Tegucigalpa",
+    "S.P. Sula",
+    "La Ceiba",
+    "Roatán",
+    "Copán"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, côtes et mer profonde",
+    "animals": "Les bêtes sauvages de la jungle et du récif",
+    "culture": "Maïs, musique et racines lenca",
+    "history": "Les pierres mayas et leurs secrets",
+    "wows": "Sept choses qui vont t'épater !"
+  },
+  "geo": [
+    "Le Honduras est couvert de grandes montagnes qui se croisent comme un tissu tout froissé, avec des vallées vertes cachées entre elles. Au nord, le pays touche la mer des Caraïbes, chaude et bleue !",
+    "Juste au large, il y a un récif de corail géant — le deuxième plus grand du monde — où vivent des tortues de mer et des poissons perroquets aux mille couleurs."
+  ],
+  "animals": [
+    "L'ara rouge — un grand perroquet blazant rouge, jaune et bleu — est l'oiseau national du Honduras et vit dans les forêts. Des jaguars et des tapirs se promènent encore dans la grande réserve de la forêt tropicale !",
+    "Au printemps, des requins baleines — les plus grands poissons du monde entier — viennent nager près de l'île d'Utila. On peut nager tout près d'eux, ils sont gentils !"
+  ],
+  "culture": [
+    "Les Honduriens adorent les baleadas : de grandes tortillas pliées avec des haricots, de la crème et du fromage — on en mange à toute heure ! Le maïs est sacré ici depuis des milliers d'années.",
+    "Le peuple garifuna, sur la côte, joue de la musique punta avec des tambours qui battent très vite, et tout le monde danse en bougeant les hanches sur la plage !"
+  ],
+  "history": [
+    "Les anciens Mayas ont construit leur ville la plus belle à Copán. Ils ont gravé 2 200 dessins-messages sur 63 marches d'un grand escalier — c'est le texte maya le plus long du monde !",
+    "La monnaie du Honduras s'appelle le lempira, comme un grand chef guerrier qui était très courageux. C'est une façon de se souvenir de lui pour toujours !"
+  ],
+  "wows": [
+    "L'escalier de Copán a 2 200 dessins mayas gravés dans la pierre — plus que partout ailleurs !",
+    "À Utila, on peut apprendre à plonger sous l'eau pour pas cher du tout.",
+    "Le Honduras produit du café délicieux dans ses montagnes — les meilleurs cafés du monde en raffolent !",
+    "La réserve du Río Plátano est tellement grande que des scientifiques n'ont pas encore exploré tous ses coins !",
+    "Des requins baleines de 12 mètres — aussi longs qu'un bus — viennent nager près d'Utila chaque printemps !",
+    "La capitale s'appelle Tegucigalpa, mais tout le monde dit juste « Tegus » !",
+    "La langue garifuna est parlée par moins de 200 000 personnes dans le monde entier — c'est très rare !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Honduras est une jungle dangereuse partout",
+      "fact": "Les îles de la Baie et les ruines de Copán sont des endroits très agréables que des centaines de milliers de visiteurs adorent chaque année."
+    },
+    {
+      "myth": "Les Mayas ont disparu d'un seul coup",
+      "fact": "Les Mayas de Copán sont partis doucement, sur plusieurs dizaines d'années — probablement à cause de la sécheresse et du manque de nourriture."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Tortilla",
+      "jp": "Tortilla",
+      "say": "tor-TEE-yah"
+    },
+    {
+      "en": "Ami",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hn-hero.jpg",
+      "alt": "Vue aérienne de la ville de Tegucigalpa nichée entre de vertes collines",
+      "caption": "TEGUCIGALPA — la capitale grimpe sur de vertes collines à ~975 m d'altitude",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/hn-landmark.jpg",
+      "alt": "L'Escalier Hiéroglyphique des ruines mayas de Copán",
+      "caption": "COPÁN — la plus longue inscription maya, 2 200 glyphes sur 63 marches de pierre",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hn-animalA.jpg",
+      "alt": "Un ara rouge perché sur une branche avec son plumage rouge, jaune et bleu éclatant",
+      "caption": "ARA ROUGE — l'oiseau national du Honduras brille de rouge et d'or dans la canopée",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hn-animalB.jpg",
+      "alt": "Un immense requin baleine glissant dans l'eau bleue",
+      "caption": "REQUIN BALEINE — le plus grand poisson de l'océan visite Utila chaque printemps près du récif",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

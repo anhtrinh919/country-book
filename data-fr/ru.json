@@ -1,0 +1,151 @@
+{
+  "name": "RUSSIE",
+  "nativeName": "Россия",
+  "romaji": "ROSSIYA",
+  "tagline": "Le plus grand pays du monde",
+  "region": "Europe de l'Est et Asie du Nord",
+  "coords": "61°N, 105°E",
+  "fileNo": "043",
+  "langName": "russe",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEE8DC",
+    "dot": "#CFC5B0",
+    "ink": "#25201C",
+    "faint": "#8A7E68",
+    "line": "#DDD5C2",
+    "accent": "#CC2B2B",
+    "accent2": "#1C3F8C"
+  },
+  "flag": {
+    "assetPath": "/flags/ru.svg",
+    "title": "Tricolore russe",
+    "note": "Blanc, bleu et rouge — depuis Pierre le Grand",
+    "keyColor": "#CC2B2B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Russie est tellement grande que quand les enfants de Moscou mangent leur petit-déjeuner, ceux de l'autre bout du pays vont déjà se coucher ! C'est le plus grand pays du monde — il est deux fois plus grand que les États-Unis. On y trouve la forêt la plus vaste et le lac le plus profond de la planète !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Moscou",
+      "sub": "13 millions d'hab. — la plus grande ville d'Europe"
+    },
+    {
+      "label": "Habitants",
+      "value": "144 millions",
+      "sub": "Estimation 2024, 9e pays le plus peuplé"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Rouble (₽)",
+      "sub": "1 rouble = 100 kopecks"
+    },
+    {
+      "label": "Langue",
+      "value": "russe",
+      "sub": "Écrit avec l'alphabet cyrillique"
+    },
+    {
+      "label": "Superficie",
+      "value": "17,1 M km²",
+      "sub": "Le plus grand pays de la Terre"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Elbrouz",
+      "sub": "5 642 m — le plus haut sommet d'Europe"
+    }
+  ],
+  "islands": [
+    "Siberia",
+    "The Urals",
+    "Moscow",
+    "St Pete's",
+    "Kamchatka"
+  ],
+  "islandsLabel": "GRANDES RÉGIONS ET VILLES :",
+  "sections": {
+    "geography": "Forêts, lacs et volcans géants",
+    "animals": "Ours, tigres et renards des neiges",
+    "culture": "Dômes dorés, ballet et fusées",
+    "history": "Tsars, couronnements et premières dans l'espace",
+    "wows": "Pourquoi la Russie étonne tout le monde"
+  },
+  "geo": "La Russie s'étend sur 11 fuseaux horaires et couvre un huitième de toute la terre du monde ! À l'est, la Kamtchatka a plus de 160 volcans, dont 29 crachent encore de la fumée.",
+  "animals": "Le tigre de l'Amour est le plus grand félin sauvage du monde — il vit dans les forêts de l'extrême est de la Russie. Dans le lac Baïkal vit la nerpa, le seul phoque d'eau douce de la planète !",
+  "culture": "En Russie, on adore les blinis, de fines crêpes que l'on mange avec de la confiture ou de la crème. On boit le thé dans un grand samovar brillant, et tout le monde se retrouve autour de la table !",
+  "history": "Il y a très longtemps, la Russie était gouvernée par des tsars qui vivaient dans des palais couverts d'or. En 1961, un Russe appelé Youri Gagarine fut le premier être humain à voyager dans l'espace !",
+  "wows": [
+    "La Russie a 11 fuseaux horaires — plus que n'importe quel autre pays !",
+    "Le lac Baïkal contient à lui seul 20 % de toute l'eau douce non gelée du monde.",
+    "Le Transsibérien est le train le plus long du monde : 9 289 km de voyage !",
+    "Youri Gagarine fut le premier humain à aller dans l'espace, en avril 1961.",
+    "La forêt de Sibérie est si grande qu'on l'appelle parfois « les poumons de la planète ».",
+    "Les stations de métro de Moscou sont décorées de lustres et de marbre comme des palais.",
+    "La Russie abrite 32 sites classés au patrimoine mondial de l'UNESCO."
+  ],
+  "myths": [
+    {
+      "myth": "La Russie est toujours gelée et couverte de neige",
+      "fact": "Le sud de la Russie a des étés chauds — Moscou peut atteindre 25 °C en juillet et la mer Noire est une destination de plage très appréciée."
+    },
+    {
+      "myth": "Des ours se promènent dans les rues des villes russes",
+      "fact": "Les ours bruns vivent dans des forêts sauvages très loin des villes. En ville, on voit bien plus de pigeons que d'ours !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Привет",
+      "say": "Pree-VYET"
+    },
+    {
+      "en": "Merci",
+      "jp": "Спасибо",
+      "say": "Spa-SEE-ba"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Пожалуйста",
+      "say": "Pa-ZHAL-sta"
+    },
+    {
+      "en": "Oui",
+      "jp": "Да",
+      "say": "Da"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Вкусно!",
+      "say": "VKOOS-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ru-hero.jpg",
+      "alt": "Gratte-ciels de Moscou le long de la rivière Moskova au crépuscule",
+      "caption": "MOSCOU CITY — tours de verre au-dessus de la Moskova au crépuscule",
+      "credit": "Wikimedia Commons / Sergei Korolev"
+    },
+    "landmark": {
+      "src": "/photos/ru-landmark.jpg",
+      "alt": "Cathédrale Saint-Basile et ses dômes colorés sur la Place Rouge à Moscou",
+      "caption": "SAINT-BASILE — dômes multicolores sur la Place Rouge, Moscou",
+      "credit": "Wikimedia Commons / Ludvig14"
+    },
+    "animalA": {
+      "src": "/photos/ru-animalA.jpg",
+      "alt": "Tigre de l'Amour au repos montrant sa fourrure rayée orange et blanche",
+      "caption": "TIGRE DE L'AMOUR — le plus grand félin sauvage du monde, de l'extrême est russe",
+      "credit": "Wikimedia Commons / Dave Pape"
+    },
+    "animalB": {
+      "src": "/photos/ru-animalB.jpg",
+      "alt": "Phoque du Baïkal au repos sur un rocher au lac Baïkal",
+      "caption": "PHOQUE DU BAÏKAL — le seul phoque d'eau douce du monde, unique au lac Baïkal",
+      "credit": "Wikimedia Commons / Sergey Gabdurakhmanov"
+    }
+  }
+}

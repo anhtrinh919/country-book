@@ -1,0 +1,151 @@
+{
+  "name": "BURUNDI",
+  "nativeName": "BI",
+  "romaji": "BURUNDI",
+  "tagline": "Collines, tambours et eaux profondes",
+  "region": "East Africa",
+  "coords": "3.4°S, 29.9°E",
+  "fileNo": "083",
+  "langName": "kirundi",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFA8",
+    "ink": "#261F18",
+    "faint": "#8B7A5A",
+    "line": "#DDD4C0",
+    "accent": "#CE1126",
+    "accent2": "#1EB53A"
+  },
+  "flag": {
+    "assetPath": "/flags/bi.svg",
+    "title": "Drapeau du Burundi",
+    "note": "Rouge et vert séparés par une croix blanche avec 3 étoiles",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Burundi, il y a un lac si profond qu'on pourrait y empiler trois tours Eiffel et elles disparaîtraient sous l'eau ! Ce petit pays est couvert de mille collines vertes comme des vagues géantes. Et là-bas, les gens jouent de gigantesques tambours en dansant !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Gitega",
+      "sub": "Capitale politique depuis 2019"
+    },
+    {
+      "label": "Habitants",
+      "value": "12,3 millions",
+      "sub": "Recensement national 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc BIF",
+      "sub": "Franc burundais (BIF)"
+    },
+    {
+      "label": "Langue",
+      "value": "Kirundi",
+      "sub": "Aussi français et swahili"
+    },
+    {
+      "label": "Superficie",
+      "value": "27 834 km²",
+      "sub": "Plus petit que la Belgique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Heha 2 684 m",
+      "sub": "Dans la province de Bururi, au sud-ouest"
+    }
+  ],
+  "islands": [
+    "Bujumbura",
+    "Gitega",
+    "Ngozi",
+    "Rumonge",
+    "Bururi"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays de mille collines",
+    "animals": "Les animaux du grand lac",
+    "culture": "Tambours, danses et bananes",
+    "history": "Les rois et leurs tambours sacrés",
+    "wows": "Sept surprises du Burundi"
+  },
+  "geo": "Le Burundi est perché très haut dans les nuages — à 1 500 mètres d'altitude — alors il y fait frais même si c'est en Afrique ! Des collines couvertes de bananiers s'étendent à perte de vue. Tout à l'ouest, le lac Tanganyika est si long qu'on ne voit pas le bout, et si profond qu'il cache des poissons qu'on ne trouve nulle part ailleurs sur Terre !",
+  "animals": "Dans la forêt du parc de Kibira, des chimpanzés crient le matin pour se dire bonjour — on les entend de très loin ! Des hippopotames se baignent dans la rivière Rusizi, la bouche grande ouverte comme des baignoires géantes.",
+  "culture": "Au Burundi, les musiciens frappent de très grands tambours en bois en sautant et en dansant en même temps — c'est leur façon de fêter les grandes occasions ! Les amis boivent ensemble une bière de banane appelée urwagwa, en partageant la même paille dans un grand pot.",
+  "history": "Il y a très longtemps, le Burundi était un royaume dirigé par un roi appelé le mwami, et quand il devenait roi on disait qu'il « montait sur le tambour » ! Certains tambours du sanctuaire de Gishora sont tellement sacrés qu'on ne les a jamais frappés une seule fois.",
+  "wows": [
+    "Le lac Tanganyika est le deuxième lac le plus profond du monde — 1 471 mètres de fond !",
+    "Une petite source au mont Gikizi est le point de départ le plus lointain du fleuve Nil.",
+    "Vénuste Niyongabo a gagné la première médaille d'or olympique du Burundi en 1996 !",
+    "Le drapeau du Burundi a une croix en diagonale — très rare dans le monde !",
+    "Le Burundi est l'un des pays les plus peuplés d'Afrique pour sa taille.",
+    "Des scientifiques ont retrouvé en 2011 une grenouille qu'on croyait disparue depuis 1949.",
+    "À Gishora, deux tambours sacrés n'ont jamais été frappés — ils sont trop précieux !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Burundi et le Rwanda, c'est pareil",
+      "fact": "Ce sont deux pays complètement différents, avec chacun leur capitale et leur drapeau, même si leurs langues et traditions se ressemblent."
+    },
+    {
+      "myth": "Le Burundi est si petit qu'il n'a pas d'animaux sauvages",
+      "fact": "Le parc de Kibira abrite des chimpanzés et plus de 200 espèces d'oiseaux, et le lac Tanganyika est plein de poissons colorés uniques au monde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Amahoro",
+      "say": "ah-mah-HO-ro"
+    },
+    {
+      "en": "Merci",
+      "jp": "Murakoze",
+      "say": "moo-rah-KO-zay"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ego",
+      "say": "EH-go"
+    },
+    {
+      "en": "Eau",
+      "jp": "Amazi",
+      "say": "ah-MAH-zee"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Biryoha",
+      "say": "bee-RYO-hah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bi-hero.jpg",
+      "alt": "Vue aérienne de la ville de Bujumbura avec le lac Tanganyika à l'horizon",
+      "caption": "BUJUMBURA ET LE LAC TANGANYIKA — la ville au bord de l'un des lacs les plus profonds du monde",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bi-landmark.jpg",
+      "alt": "Tambourinaires royaux du Burundi jouant de grands tambours ingoma",
+      "caption": "TAMBOURS ROYAUX INGOMA — le cœur battant de la culture burundaise, au patrimoine de l'UNESCO",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bi-animalA.jpg",
+      "alt": "Chimpanzé de l'Est assis dans un arbre en forêt tropicale",
+      "caption": "CHIMPANZÉ DE L'EST — dans la forêt brumeuse de Kibira",
+      "credit": "Wikimedia Commons / Rod Waddington"
+    },
+    "animalB": {
+      "src": "/photos/bi-animalB.jpg",
+      "alt": "Hippopotame à moitié plongé dans une rivière",
+      "caption": "HIPPOPOTAME — se baigne dans le delta de la rivière Rusizi au Burundi",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "name": "ROYAUME-UNI",
+  "nativeName": "GB",
+  "romaji": "UNITED KINGDOM",
+  "tagline": "Une île aux grandes idées",
+  "region": "Western Europe",
+  "coords": "51.5°N, 0.1°W",
+  "fileNo": "047",
+  "langName": "anglais britannique",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBE1",
+    "dot": "#C8BCA8",
+    "ink": "#1E1C1A",
+    "faint": "#7A6E5C",
+    "line": "#D8CEBC",
+    "accent": "#C8102E",
+    "accent2": "#012169"
+  },
+  "flag": {
+    "assetPath": "/flags/gb.svg",
+    "title": "L'Union Jack",
+    "note": "Croix rouge, blanche et bleue de trois nations",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Royaume-Uni est fait de quatre pays sur une seule île — l'Angleterre, l'Écosse, le Pays de Galles et l'Irlande du Nord ! Là-bas, les gens boivent du thé plus de 100 millions de fois chaque jour. C'est aussi le pays qui a inventé le football et offert l'internet au monde entier !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Londres",
+      "sub": "Pop. 9,7 millions"
+    },
+    {
+      "label": "Habitants",
+      "value": "67,6 millions",
+      "sub": "Est. 2023, ONS"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Livre sterling (£)",
+      "sub": "GBP — la plus ancienne monnaie du monde"
+    },
+    {
+      "label": "Langue",
+      "value": "anglais",
+      "sub": "Plus le gallois et le gaélique écossais"
+    },
+    {
+      "label": "Superficie",
+      "value": "243 610 km²",
+      "sub": "Un peu plus grand que la Roumanie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Ben Nevis",
+      "sub": "1 345 m — Écosse"
+    }
+  ],
+  "islands": [
+    "London",
+    "Edinburgh",
+    "Cardiff",
+    "Belfast"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une île de landes et de châteaux",
+    "animals": "Bêtes sauvages et animaux royaux",
+    "culture": "Thé, télé et traditions",
+    "history": "Légendes et grandes inventions",
+    "wows": "Les surprises brillantes de l'île"
+  },
+  "geo": "La Grande-Bretagne est une île séparée de l'Europe par la Manche, large d'à peine 34 km ! L'Écosse a de hautes montagnes avec des lacs mystérieux, et la côte fait 17 800 km — on n'est jamais loin de la mer.",
+  "animals": "Le macareux moine niche sur les falaises rocheuses chaque printemps, avec son bec orange et rouge tout coloré. L'écureuil roux, le vrai écureuil anglais, est aujourd'hui très rare — c'est un trésor à protéger !",
+  "culture": "Au Royaume-Uni, faire la queue bien sagement est presque un sport national — tout le monde attend son tour très poliment ! Le 5 novembre, le ciel s'illumine de feux d'artifice pour la nuit de Guy Fawkes.",
+  "history": "Il y a 5 000 ans, des gens ont dressé d'énormes pierres en cercle pour faire Stonehenge — on ne sait toujours pas comment ! Des chevaliers et des rois habitaient de grands châteaux forts partout sur l'île.",
+  "wows": [
+    "Le métro de Londres a ouvert en 1863 — c'est le plus vieux du monde, les passagers voyageaient dans des wagons en bois !",
+    "Tim Berners-Lee a inventé l'internet et l'a offert gratuitement à tout le monde.",
+    "Le Royaume-Uni a quatre équipes de football différentes pour la Coupe du Monde.",
+    "L'université d'Oxford avait déjà 300 ans quand les Aztèques ont fondé leur empire.",
+    "Big Ben, c'est juste le nom de la grosse cloche — la tour s'appelle en vrai la Tour Élisabeth !",
+    "Stonehenge est si ancien que les mammouths existaient encore quand on a commencé à le construire.",
+    "La reine a des cygnes — tous les cygnes sauvages d'Angleterre appartiennent officiellement au roi !"
+  ],
+  "myths": [
+    {
+      "myth": "Il pleut tout le temps en Angleterre",
+      "fact": "Londres reçoit moins de pluie que Rome ou Miami — il bruine souvent, mais les grosses averses sont rares et le soleil revient vite !"
+    },
+    {
+      "myth": "C'est le roi qui dirige le pays",
+      "fact": "Le roi n'a pas de pouvoir politique — c'est le Parlement et le Premier ministre qui prennent toutes les vraies décisions ; le roi fait surtout des cérémonies."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hiya!",
+      "say": "HI-yah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Cheers!",
+      "say": "CHEERZ"
+    },
+    {
+      "en": "Excellent !",
+      "jp": "Brilliant!",
+      "say": "BRIL-yant"
+    },
+    {
+      "en": "Biscuit",
+      "jp": "Biscuit",
+      "say": "BIS-kit"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Ta-ta!",
+      "say": "tah-TAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gb-hero.jpg",
+      "alt": "Le Tower Bridge sur la Tamise à Londres",
+      "caption": "TOWER BRIDGE — le pont victorien de Londres sur la Tamise, ouvert en 1894",
+      "credit": "© Diliff / Wikimedia Commons CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/gb-landmark.jpg",
+      "alt": "Le cercle de pierres de Stonehenge dans la plaine de Salisbury",
+      "caption": "STONEHENGE — cercle de pierres vieux de 5 000 ans dans la plaine de Salisbury, Angleterre",
+      "credit": "© Adam Kliczek / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/gb-animalA.jpg",
+      "alt": "Macareux moine avec son bec coloré sur une falaise rocheuse",
+      "caption": "MACAREUX MOINE — niche sur les falaises britanniques chaque printemps et été",
+      "credit": "© Ómar Runólfsson / Wikimedia CC BY"
+    },
+    "animalB": {
+      "src": "/photos/gb-animalB.jpg",
+      "alt": "Écureuil roux perché sur une branche",
+      "caption": "ÉCUREUIL ROUX — l'écureuil d'origine britannique, aujourd'hui rare en dehors de l'Écosse",
+      "credit": "© Diliff / Wikimedia Commons CC BY-SA"
+    }
+  }
+}

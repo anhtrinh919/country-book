@@ -1,0 +1,151 @@
+{
+  "name": "ÉTATS-UNIS",
+  "nativeName": "US",
+  "romaji": "UNITED STATES",
+  "tagline": "Le pays des étoiles et des rêves",
+  "region": "Northern America",
+  "coords": "38°N 97°W",
+  "fileNo": "042",
+  "langName": "anglais américain",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C8BBAA",
+    "ink": "#1E1C18",
+    "faint": "#8A7D62",
+    "line": "#DDD2BE",
+    "accent": "#B22234",
+    "accent2": "#3C3B6E"
+  },
+  "flag": {
+    "assetPath": "/flags/us.svg",
+    "title": "Étoiles et rayures",
+    "note": "50 étoiles et 13 rayures rouges et blanches",
+    "keyColor": "#B22234",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Les États-Unis sont si grands qu'il faut traverser six fuseaux horaires pour aller d'un bout à l'autre ! Ce pays géant compte 50 États — des montagnes enneigées aux plages volcaniques. Près de 340 millions de personnes venues du monde entier y habitent !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Washington DC",
+      "sub": "Env. 700 000 hab. — pas un État"
+    },
+    {
+      "label": "Habitants",
+      "value": "~340 millions",
+      "sub": "Recensement américain 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar américain",
+      "sub": "USD — utilisé dans le monde entier"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Langue principale ; pas de langue officielle fédérale"
+    },
+    {
+      "label": "Superficie",
+      "value": "9 833 517 km²",
+      "sub": "3e ou 4e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Denali 6 190 m",
+      "sub": "Alaska — le plus haut sommet d'Amérique du Nord"
+    }
+  ],
+  "islands": [
+    "California",
+    "Texas",
+    "New York",
+    "Alaska",
+    "Hawaii"
+  ],
+  "islandsLabel": "ÉTATS CÉLÈBRES :",
+  "sections": {
+    "geography": "Des océans aux montagnes magiques",
+    "animals": "Des bisons sauvages et des aigles majestueux",
+    "culture": "Un mélange de toutes les cultures du monde",
+    "history": "Une grande aventure pleine de découvertes",
+    "wows": "50 choses épatantes sur les États-Unis"
+  },
+  "geo": "Les États-Unis ont des déserts brûlants, de grandes plaines plates et de hautes montagnes enneigées. Le Grand Canyon est un immense trou creusé par une rivière — il est si grand qu'il a sa propre météo !",
+  "animals": "Le bison américain est un animal gigantesque qui broute dans les grandes plaines protégées. Autrefois, il en existait 60 millions — autant que le nombre d'étoiles visibles dans le ciel la nuit !",
+  "culture": "Aux États-Unis, on adore manger de la pizza, des barbecues et des hamburgers selon la région où l'on vit. Le cinéma d'Hollywood fait rêver des milliards d'enfants et d'adultes partout dans le monde !",
+  "history": "Les Amérindiens ont habité ces terres pendant 15 000 ans avant l'arrivée des Européens. En 1776, treize colonies ont décidé de s'appeler un nouveau pays — les États-Unis d'Amérique — et ont inventé une façon de vivre ensemble appelée démocratie !",
+  "wows": [
+    "Les États-Unis ont plus de 1 200 tornades par an — plus que n'importe quel autre pays !",
+    "L'Alaska est si loin à l'ouest qu'il est plus proche de la Russie que du reste des États-Unis — seulement 88 km de mer les séparent !",
+    "La Bibliothèque du Congrès garde plus de 175 millions de livres — c'est la plus grande bibliothèque du monde !",
+    "Yellowstone est posé sur un super-volcan géant dont la chambre de lave est aussi grande que la ville de Los Angeles !",
+    "Les Américains mangent environ 3 milliards de pizzas chaque année — c'est une pizza toutes les secondes !",
+    "Les autoroutes américaines mises bout à bout feraient presque deux fois le tour de la Terre !",
+    "Plus de 400 prix Nobel ont été remportés par des Américains — plus que tout autre pays au monde !"
+  ],
+  "myths": [
+    {
+      "myth": "« Aux États-Unis, on ne parle qu'anglais »",
+      "fact": "Près de 45 millions de personnes y parlent espagnol tous les jours, et plus de 350 langues différentes sont utilisées dans le pays !"
+    },
+    {
+      "myth": "« Les États-Unis sont toujours chauds et ensoleillés »",
+      "fact": "En Alaska, il fait parfois −62 °C, et certaines régions sont couvertes de neige toute l'année — il y a presque tous les climats du monde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hey!",
+      "say": "hay"
+    },
+    {
+      "en": "Merci",
+      "jp": "Thanks!",
+      "say": "thanks"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "See ya!",
+      "say": "see-YAH"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Please",
+      "say": "pleez"
+    },
+    {
+      "en": "Génial !",
+      "jp": "Awesome!",
+      "say": "AW-sum"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/us-hero.jpg",
+      "alt": "Times Square la nuit, à New York",
+      "caption": "TIMES SQUARE — le cœur lumineux de New York, illuminé par mille enseignes",
+      "credit": "Terabass / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/us-landmark.jpg",
+      "alt": "Panorama du bord sud du Grand Canyon",
+      "caption": "GRAND CANYON — un kilomètre de profondeur, creusé par le fleuve Colorado en millions d'années",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/us-animalA.jpg",
+      "alt": "Bison américain debout dans les grandes plaines",
+      "caption": "BISON AMÉRICAIN — autrefois 60 millions, aujourd'hui protégé et de nouveau en pleine forme",
+      "credit": "Ilja Zeilmaker / Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/us-animalB.jpg",
+      "alt": "Pygargue à tête blanche en vol",
+      "caption": "PYGARGUE À TÊTE BLANCHE — l'oiseau national des États-Unis, chasseur de poissons depuis toujours",
+      "credit": "Wikimedia Commons / Public Domain"
+    }
+  }
+}

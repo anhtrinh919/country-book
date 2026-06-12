@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
 const IS_FR = process.env.VITE_LANG === "fr";
-const BASE = IS_FR ? "/country-book-fr/" : "/country-book/";
+const BASE = IS_FR ? "/country-book/fr/" : "/country-book/";
 const APP_NAME = IS_FR ? "Momo's Livre du Monde" : "Momo's World Book";
 const APP_SHORT = IS_FR ? "Livre Monde" : "World Book";
 const APP_DESC = IS_FR ? "Un atlas de 200 pays pour les jeunes explorateurs" : "An explorer's atlas of 200 countries for young adventurers";

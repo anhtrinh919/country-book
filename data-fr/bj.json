@@ -1,0 +1,151 @@
+{
+  "name": "BÉNIN",
+  "nativeName": "BJ",
+  "romaji": "BÉNIN",
+  "tagline": "Le berceau du Vodoun",
+  "region": "West Africa",
+  "coords": "9.31°N, 2.32°E",
+  "fileNo": "047",
+  "langName": "fon",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CDBF9A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#008751",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/bj.svg",
+    "title": "Drapeau du Bénin",
+    "note": "Bande verte à gauche, bandes jaune et rouge horizontales",
+    "keyColor": "#008751",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Bénin, il y a un village entier construit sur l'eau — les habitants se déplacent partout en pirogue ! Ce pays abrite le Vodoun, une religion où l'on parle aux esprits de la nature et de ses ancêtres. Tout cela dans une petite bande de terre en Afrique de l'Ouest !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Porto-Novo",
+      "sub": "Cotonou est la plus grande ville"
+    },
+    {
+      "label": "Habitants",
+      "value": "13,7 millions",
+      "sub": "Est. 2024, en forte croissance"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Monnaie commune d'Afrique de l'Ouest"
+    },
+    {
+      "label": "Langue",
+      "value": "Français",
+      "sub": "Plus le fon, le yoruba et plus de 50 langues"
+    },
+    {
+      "label": "Superficie",
+      "value": "112 622 km²",
+      "sub": "À peu près la taille de la Pennsylvanie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Sokbaro",
+      "sub": "658 m — une colline boisée au nord"
+    }
+  ],
+  "islands": [
+    "Cotonou",
+    "Porto-Novo",
+    "Abomey",
+    "Parakou",
+    "Natitingou"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Lagunes, savane et merveilles !",
+    "animals": "Les animaux sauvages du Bénin",
+    "culture": "Tambours, esprits et couleurs vives",
+    "history": "Un royaume légendaire d'autrefois",
+    "wows": "7 choses qui vont t'étonner"
+  },
+  "geo": "Le Bénin est tout long et fin — seulement 125 km de large sur la côte, mais 700 km du nord au sud ! Au sud, il y a des plages de sable et le lac Nokoué, où le village de Ganvié est construit tout entier sur des pilotis au-dessus de l'eau.",
+  "animals": "La star du Bénin, c'est l'éléphant d'Afrique — le parc de la Pendjari en abrite plus de 2 000, le plus grand troupeau d'Afrique de l'Ouest ! Dans les rivières vivent des hippopotames et des crocodiles, et des lamantins glissent doucement dans les lagunes côtières.",
+  "culture": "Le Bénin est le pays qui a inventé le Vodoun, une religion où l'on honore les esprits de la nature et les ancêtres. Chaque janvier, la fête du Vodoun remplit les rues de danseurs costumés, de tambours et de cérémonies colorées !",
+  "history": "Il y a très longtemps, vers l'an 1600, le puissant royaume de Dahomey s'est élevé dans cette région. Ses rois commandaient de grandes armées et faisaient fabriquer de magnifiques sculptures en bronze que l'on admire encore dans les musées du monde entier !",
+  "wows": [
+    "Ganvié sur le lac Nokoué abrite 30 000 personnes — même le marché flotte sur l'eau !",
+    "Le 10 janvier est un jour férié national pour le Vodoun — le seul pays du monde à le fêter ainsi.",
+    "Les palais royaux d'Abomey sont classés par l'UNESCO, avec des murs couverts de dessins qui racontent l'histoire comme une grande bande dessinée.",
+    "Certains baobabs du Bénin ont plus de 1 000 ans — les habitants les appellent 'l'arbre qui boit le ciel'.",
+    "La Pendjari est le dernier refuge du lion d'Afrique de l'Ouest — il en reste moins de 400 dans toute la région.",
+    "Les guerrières Agojie du royaume de Dahomey étaient si courageuses que les soldats européens en écrivaient des lettres stupéfaits à leurs familles.",
+    "Des lamantins, des animaux doux comme des peluches géantes, vivent encore dans les lagunes côtières du Bénin !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Voodoo, c'est pour faire des zombies",
+      "fact": "Le Vodoun est une vraie religion avec des prêtres, des autels et des règles — les zombies au cinéma, c'est Hollywood qui a inventé ça !"
+    },
+    {
+      "myth": "Le Bénin fait partie du Nigeria",
+      "fact": "Le Bénin est un pays séparé, à l'ouest du Nigeria — son nom vient de la baie du Bénin, pas de la ville nigériane de Benin City."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Kudo",
+      "say": "koo-DOH"
+    },
+    {
+      "en": "Merci",
+      "jp": "Àgàn",
+      "say": "ah-GAHN"
+    },
+    {
+      "en": "Oui",
+      "jp": "Ɛɛ",
+      "say": "EH-eh"
+    },
+    {
+      "en": "Eau",
+      "jp": "Tɔ",
+      "say": "TAW"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Àwù",
+      "say": "ah-WOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bj-hero.jpg",
+      "alt": "Village sur pilotis de Ganvié sur le lac Nokoué au lever du soleil",
+      "caption": "GANVIÉ — la « Venise de l'Afrique », 30 000 habitants vivent entièrement sur l'eau",
+      "credit": "Wikimedia Commons / Julien Harneis"
+    },
+    "landmark": {
+      "src": "/photos/bj-landmark.jpg",
+      "alt": "Le monument de la Porte du Non-Retour sur la plage d'Ouidah",
+      "caption": "PORTE DU NON-RETOUR — mémorial d'Ouidah pour la traite transatlantique",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bj-animalA.jpg",
+      "alt": "Éléphant d'Afrique avec la trompe levée dans la savane",
+      "caption": "ÉLÉPHANT D'AFRIQUE — la Pendjari abrite le plus grand troupeau d'éléphants d'Afrique de l'Ouest",
+      "credit": "Wikimedia Commons / Muhammad Mahdi Karim"
+    },
+    "animalB": {
+      "src": "/photos/bj-animalB.jpg",
+      "alt": "Hippopotame se reposant dans une rivière",
+      "caption": "HIPPOPOTAME — prospère dans les rivières et les rives des lacs du nord du Bénin",
+      "credit": "Wikimedia Commons / Nevit Dilmen"
+    }
+  }
+}

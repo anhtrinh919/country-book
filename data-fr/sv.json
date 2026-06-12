@@ -1,0 +1,151 @@
+{
+  "name": "EL SALVADOR",
+  "nativeName": "SV",
+  "romaji": "EL SALVADOR",
+  "tagline": "Le pays des volcans",
+  "region": "Central America",
+  "coords": "13.79°N, 88.90°W",
+  "fileNo": "056",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDD7",
+    "dot": "#CCBC96",
+    "ink": "#252018",
+    "faint": "#7A7055",
+    "line": "#DDD3B0",
+    "accent": "#1B3F8B",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/sv.svg",
+    "title": "Bleu–Blanc–Bleu",
+    "note": "Les bandes bleues pour l'océan ; le blanc pour la paix",
+    "keyColor": "#1B3F8B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "El Salvador est si petit qu'on peut le traverser en voiture en quelques heures, et pourtant il cache plus de 20 volcans ! C'est le pays le plus minuscule d'Amérique centrale, grand comme une petite région. Six millions de personnes y vivent, et toutes leurs plages donnent sur l'océan Pacifique !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "San Salvador",
+      "sub": "env. 570 000 habitants dans la ville"
+    },
+    {
+      "label": "Habitants",
+      "value": "6,03 millions",
+      "sub": "recensement 2024 — le premier depuis 2007"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar américain",
+      "sub": "adopté en 2001 ; le colón retiré"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "parlé par presque tout le monde"
+    },
+    {
+      "label": "Superficie",
+      "value": "21 040 km²",
+      "sub": "le plus petit d'Amérique centrale"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 381 m",
+      "sub": "volcan Santa Ana (Ilamatepec)"
+    }
+  ],
+  "islands": [
+    "San Salvador",
+    "Santa Ana",
+    "San Miguel",
+    "Sonsonate",
+    "La Libertad"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des volcans et des vagues !",
+    "animals": "Plumes, fourrure et forêt magique",
+    "culture": "Pupusas, fêtes et café",
+    "history": "Les rois Pipils et leurs secrets",
+    "wows": "El Salvador t'étonne !"
+  },
+  "geo": "El Salvador est assis sur une ceinture de volcans, avec plus de 20 volcans entassés dans un tout petit pays ! Le plus haut, le Santa Ana, possède un lac de cratère de couleur turquoise, comme dans un conte.",
+  "animals": "L'oiseau national s'appelle le torogoz — il a des plumes turquoise et bleu comme des bijoux, et il balance sa longue queue en pendule pour prévenir ses amis ! Sur les plages du Pacifique, des tortues de mer viennent pondre leurs œufs la nuit.",
+  "culture": "La pupusa est la spécialité préférée de tous les Salvadoriens : c'est une galette de maïs bien épaisse, farcie de fromage ou de haricots, grillée jusqu'à être toute dorée ! Chaque famille a sa propre recette secrète.",
+  "history": "Avant l'arrivée des Espagnols, le peuple Pipil, cousin des Aztèques, régnait sur ces terres et les guerriers étaient si courageux qu'ils repoussèrent les premiers envahisseurs ! Un mystérieux village maya appelé Joya de Cerén fut recouvert de cendres volcaniques il y a 1 400 ans, comme la ville de Pompéi.",
+  "wows": [
+    "El Salvador est le seul pays d'Amérique centrale dont toutes les plages donnent sur le Pacifique — pas une seule plage des Caraïbes !",
+    "Un village maya entier, Joya de Cerén, a été enseveli sous les cendres d'un volcan en l'an 600 — on l'appelle la Pompéi des Amériques.",
+    "Plus de 20 volcans sont entassés dans ce tout petit pays — c'est l'un des endroits du monde avec le plus de volcans !",
+    "Le torogoz balance sa queue à raquette comme un pendule pour dire à ses amis qu'il a repéré un prédateur.",
+    "Pendant 300 ans, El Salvador vendait de la teinture bleue indigo au monde entier — c'était son plus grand trésor !",
+    "En 2021, El Salvador est devenu le premier pays de la planète à utiliser le Bitcoin comme vraie monnaie.",
+    "La Journée de la Pupusa est une fête nationale célébrée chaque deuxième dimanche de novembre — c'est la loi !"
+  ],
+  "myths": [
+    {
+      "myth": "El Salvador est un grand pays",
+      "fact": "Avec seulement 21 040 km², c'est le plus petit pays d'Amérique centrale — à peu près la taille du pays de Galles ou de l'État américain du Massachusetts !"
+    },
+    {
+      "myth": "El Salvador n'a pas de volcans actifs",
+      "fact": "Il en possède plus de 20, tous entassés dans ce minuscule pays — et le Santa Ana a encore craché de la lave en 2005 !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Sabroso",
+      "say": "sah-BROH-so"
+    },
+    {
+      "en": "Volcan",
+      "jp": "Volcán",
+      "say": "vol-KAHN"
+    },
+    {
+      "en": "Au revoir !",
+      "jp": "Adiós",
+      "say": "ah-dee-OHS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sv-hero.jpg",
+      "alt": "Monument du Divin Sauveur du Monde à San Salvador",
+      "caption": "EL SALVADOR DEL MUNDO — le monument emblématique au cœur de San Salvador",
+      "credit": "Jcortezchavarria / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/sv-landmark.jpg",
+      "alt": "Vue panoramique du site archéologique de Joya de Cerén",
+      "caption": "JOYA DE CERÉN — village maya enseveli par un volcan en l'an 600",
+      "credit": "Mariordo / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sv-animalA.jpg",
+      "alt": "Oiseau torogoz aux sourcils turquoise perché sur une branche",
+      "caption": "TOROGOZ — l'oiseau national qui balance sa queue à raquette comme un pendule",
+      "credit": "gailhampshire / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/sv-animalB.jpg",
+      "alt": "Cerf à queue blanche dans son habitat naturel de montagne",
+      "caption": "CERF À QUEUE BLANCHE — venado cola blanca des forêts d'El Salvador",
+      "credit": "Santiago Ron (Jambato) / CC BY 4.0"
+    }
+  }
+}

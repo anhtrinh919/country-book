@@ -1,0 +1,151 @@
+{
+  "name": "ZIMBABWE",
+  "nativeName": "ZW",
+  "romaji": "ZIMBABWE",
+  "tagline": "Le pays des maisons en pierres",
+  "region": "Southern Africa",
+  "coords": "20.0°S, 30.0°E",
+  "fileNo": "162",
+  "langName": "shona",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C8B99A",
+    "ink": "#252018",
+    "faint": "#7A6E4A",
+    "line": "#DCCFB0",
+    "accent": "#2D6A2D",
+    "accent2": "#C8A000"
+  },
+  "flag": {
+    "assetPath": "/flags/zw.svg",
+    "title": "Drapeau du Zimbabwe",
+    "note": "Sept rayures ; l'Oiseau du Zimbabwe sur un triangle",
+    "keyColor": "#2D6A2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Zimbabwe, une cascade est si grande et si bruyante qu'on l'entend à 40 kilomètres à la ronde ! Des gens y ont bâti une cité entière en pierres empilées, sans colle ni ciment, il y a 900 ans. C'est un pays plein de magie !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Harare",
+      "sub": "Environ 1,5 million d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "~16,95 m",
+      "sub": "Estimation ONU, 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "ZiG (ZWG)",
+      "sub": "L'or du Zimbabwe, depuis 2024"
+    },
+    {
+      "label": "Langue",
+      "value": "16 langues officielles",
+      "sub": "Record du monde (Guinness) !"
+    },
+    {
+      "label": "Superficie",
+      "value": "390 757 km²",
+      "sub": "Plus grand que l'Allemagne"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Nyangani",
+      "sub": "2 592 m au-dessus de la mer"
+    }
+  ],
+  "islands": [
+    "Harare",
+    "Bulawayo",
+    "Mutare",
+    "Masvingo",
+    "Vic Falls"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Cascades, lacs et hauts plateaux",
+    "animals": "Les Big Five et les chiens sauvages",
+    "culture": "Pierres, musique et bouillie de maïs",
+    "history": "Un royaume bâti en pierres",
+    "wows": "Tu n'y croiras pas !"
+  },
+  "geo": "Le Zimbabwe est posé sur un haut plateau au centre de l'Afrique, alors il fait plus frais qu'on ne l'imagine. Au nord, le fleuve Zambèze plonge dans la cascade Victoria Falls : elle fait 1,7 km de large et 108 m de haut !",
+  "animals": "Le Zimbabwe est le pays des Big Five : lion, léopard, rhinocéros, éléphant et buffle vivent tous ici. Le chien sauvage africain a un manteau de taches unique — aucun chien dans le monde entier ne lui ressemble !",
+  "culture": "Le plat préféré des Zimbabwéens s'appelle le sadza, une grosse bouillie de maïs qu'on mange avec les mains. Le peuple shona joue de la mbira depuis plus de 1 000 ans — c'est un petit piano qu'on gratte avec ses pouces !",
+  "history": "Il y a 900 ans, des bâtisseurs shona ont empilé d'énormes blocs de granit pour créer une ville de 18 000 personnes — sans une seule goutte de colle ! Ce site géant s'appelle le Grand Zimbabwe, ce qui signifie « grandes maisons en pierre ».",
+  "wows": [
+    "Le Zimbabwe a 16 langues officielles — c'est le record du monde !",
+    "La cascade Victoria Falls est si forte qu'on entend son grondement à 40 km de distance.",
+    "Le lac Kariba est le plus grand lac artificiel du monde : il contient 180 km³ d'eau !",
+    "En 2009, le Zimbabwe a fabriqué un billet de 100 000 milliards de dollars — le plus gros chiffre au monde !",
+    "Il y a des peintures rupestres vieilles de 13 000 ans au Zimbabwe — bien avant les pyramides d'Égypte !",
+    "Chaque chien sauvage africain a un pelage unique, comme une empreinte digitale.",
+    "Les ruines du Grand Zimbabwe couvrent 80 hectares — le plus grand ensemble de pierres d'Afrique !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Zimbabwe est un grand désert chaud",
+      "fact": "Son plateau central est à 1 200 m d'altitude, donc il y fait plutôt frais. À l'est, il y a même du givre en hiver !"
+    },
+    {
+      "myth": "La cascade Victoria Falls est surtout en Zambie",
+      "fact": "75 % de la cascade se voit depuis le Zimbabwe. Les parties les plus larges et les plus belles se découvrent du côté zimbabwéen !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Mhoro",
+      "say": "mm-HO-ro"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ndatenda",
+      "say": "nda-TEN-da"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ndapota",
+      "say": "nda-PO-ta"
+    },
+    {
+      "en": "Oui",
+      "jp": "Hongu",
+      "say": "HON-goo"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Chisarai",
+      "say": "chee-SAH-rye"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/zw-hero.jpg",
+      "alt": "La cascade Victoria Falls avec un immense nuage de brume s'élevant au-dessus des gorges",
+      "caption": "VICTORIA FALLS — « La Fumée qui Tonne » envoie sa brume très haut dans le ciel",
+      "credit": "Wikimedia Commons / Diego Delso"
+    },
+    "landmark": {
+      "src": "/photos/zw-landmark.jpg",
+      "alt": "Vue aérienne des ruines du Grand Zimbabwe avec des murs circulaires en pierre",
+      "caption": "GRAND ZIMBABWE — cité en pierres vieille de 900 ans qui a donné son nom au pays",
+      "credit": "Wikimedia Commons / Janice Bell"
+    },
+    "animalA": {
+      "src": "/photos/zw-animalA.jpg",
+      "alt": "Troupeau d'éléphants africains dans la savane",
+      "caption": "ÉLÉPHANT D'AFRIQUE — Hwange abrite ~40 000 éléphants, l'un des plus grands troupeaux du monde",
+      "credit": "Wikimedia Commons / Amoghavarsha"
+    },
+    "animalB": {
+      "src": "/photos/zw-animalB.jpg",
+      "alt": "Chien sauvage africain avec son pelage brun et noir très coloré",
+      "caption": "CHIEN SAUVAGE — chaque animal a un pelage unique ; ~660 survivent au Zimbabwe",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    }
+  }
+}

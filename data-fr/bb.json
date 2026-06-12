@@ -1,0 +1,151 @@
+{
+  "name": "BARBADE",
+  "nativeName": "BB",
+  "romaji": "BARBADOS",
+  "tagline": "Le joyau des Caraïbes",
+  "region": "Caribbean",
+  "coords": "13.1°N, 59.6°W",
+  "fileNo": "042",
+  "langName": "anglais bajan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48E",
+    "ink": "#22190F",
+    "faint": "#8A7355",
+    "line": "#DDD0B0",
+    "accent": "#1B3D8F",
+    "accent2": "#F5C518"
+  },
+  "flag": {
+    "assetPath": "/flags/bb.svg",
+    "title": "Drapeau de la Barbade",
+    "note": "Bleu–or–bleu avec le trident brisé",
+    "keyColor": "#1B3D8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Barbade est une toute petite île de corail — à peine 34 km de long — posée dans la mer des Caraïbes ! C'est ici que le rhum a été inventé il y a plus de 350 ans. Des poissons volants sautent vraiment hors de l'eau comme des avions !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bridgetown",
+      "sub": "Ville classée au patrimoine mondial de l'UNESCO"
+    },
+    {
+      "label": "Habitants",
+      "value": "~282 000",
+      "sub": "est. 2024 (Banque mondiale)"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar bajan",
+      "sub": "Fixé à 2 pour 1 dollar américain depuis 1975"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Le créole bajan est parlé partout"
+    },
+    {
+      "label": "Superficie",
+      "value": "431 km²",
+      "sub": "À peu près la taille de Paris et sa banlieue"
+    },
+    {
+      "label": "Point culminant",
+      "value": "336 m",
+      "sub": "Mont Hillaby, paroisse de Saint-Andrew"
+    }
+  ],
+  "islands": [
+    "Bridgetown",
+    "Speightstown",
+    "Oistins",
+    "Holetown",
+    "Bathsheba"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un bijou de corail dans la mer !",
+    "animals": "Ça vole, ça saute, ça grimpe !",
+    "culture": "Sucre, rhum et calypso !",
+    "history": "Une île pleine de trésors",
+    "wows": "Tu ne savais pas ça !"
+  },
+  "geo": "La Barbade est une île plate faite de corail, avec de douces collines et de belles plages calmes à l'ouest. À l'est, les vagues de l'Atlantique sont grandes comme des montagnes — les surfeurs adorent ça !",
+  "animals": "Le poisson volant est le symbole de la Barbade : il bondit hors de l'eau et plane jusqu'à 45 mètres avec ses nageoires comme des ailes ! L'île abrite aussi 10 000 singes verts qui chipent les mangues dans les arbres.",
+  "culture": "Le plat préféré des Barbadiens, c'est le poisson volant avec du cou-cou, une bouillie crémeuse de maïs et de gombos. Chaque été, le festival Crop Over remplit les rues de déguisements colorés, de musique calypso et de danses joyeuses !",
+  "history": "Il y a très longtemps, des navigateurs ont découvert cette île et l'ont appelée « Les Barbus » à cause des figuiers à longues racines qui ressemblaient à des barbes. La Barbade est devenue une vraie île indépendante en 1966 — et tout le monde a fêté ça !",
+  "wows": [
+    "La distillerie Mount Gay fabrique du rhum depuis 1703 — c'est la plus vieille marque de rhum du monde !",
+    "Le pamplemousse a été inventé à la Barbade — c'est un croisement né par hasard entre deux fruits.",
+    "Les ouragans évitent presque toujours la Barbade — elle est trop à l'est pour qu'ils la touchent.",
+    "Le parlement de la Barbade a été fondé en 1639 — c'est le troisième plus vieux du monde entier !",
+    "Il y a plus de 1 500 boutiques de rhum pour moins de 300 000 habitants — une pour chaque 185 personnes !",
+    "Les poissons volants planent sur 45 mètres au-dessus des vagues avec leurs nageoires comme des ailes.",
+    "Rihanna est née ici en 1988 et est devenue Héroïne nationale le jour où la Barbade est devenue une république !"
+  ],
+  "myths": [
+    {
+      "myth": "La Barbade ressemble à toutes les autres îles des Caraïbes",
+      "fact": "Non ! C'est une île de corail et pas un volcan. Elle est aussi plus à l'est que les autres îles, et n'a jamais été conquise par un autre pays après les Anglais."
+    },
+    {
+      "myth": "Le rhum a été inventé en Jamaïque ou à Cuba",
+      "fact": "Non ! Les premiers écrits sur le rhum viennent de la Barbade, en 1650. La distillerie Mount Gay, fondée avant 1703, est la plus vieille marque de rhum du monde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Wuh gine on?",
+      "say": "Wuh GUY-un on"
+    },
+    {
+      "en": "Ami",
+      "jp": "Bro / Pal",
+      "say": "Bruh"
+    },
+    {
+      "en": "Très bien !",
+      "jp": "Real nice!",
+      "say": "Reel NICE"
+    },
+    {
+      "en": "On y va !",
+      "jp": "Leh we go",
+      "say": "Leh WE go"
+    },
+    {
+      "en": "Pas de souci",
+      "jp": "Nuh worry",
+      "say": "Nuh WUH-ree"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bb-hero.jpg",
+      "alt": "Vue aérienne du port et du centre-ville de Bridgetown",
+      "caption": "BRIDGETOWN — la capitale rose corail vue depuis le port",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bb-landmark.jpg",
+      "alt": "Stalactites et stalagmites scintillantes à l'intérieur de la grotte Harrison",
+      "caption": "GROTTE DE HARRISON — formations de calcaire brillantes sous la terre",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bb-animalA.jpg",
+      "alt": "Mère singe vert et son bébé à la Barbade",
+      "caption": "SINGE VERT — 10 000 singes se promènent librement sur l'île",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bb-animalB.jpg",
+      "alt": "Un poisson volant planant au-dessus de la surface de la mer",
+      "caption": "POISSON VOLANT — symbole national, plane sur 45 m avec ses nageoires-ailes",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

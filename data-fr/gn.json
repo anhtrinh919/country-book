@@ -1,0 +1,151 @@
+{
+  "name": "GUINÉE",
+  "nativeName": "GN",
+  "romaji": "GUINÉE",
+  "tagline": "Le château d'eau de l'Afrique",
+  "region": "Afrique de l'Ouest",
+  "coords": "11.0°N, 10.9°W",
+  "fileNo": "042",
+  "langName": "pular",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBF9E",
+    "ink": "#27211A",
+    "faint": "#8B7A54",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#3A7A3A"
+  },
+  "flag": {
+    "assetPath": "/flags/gn.svg",
+    "title": "Rouge, or et vert",
+    "note": "Rouge, or, vert — travail, justice, solidarité",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Guinée cache sous sa terre rouge les plus grandes réserves d'aluminium de toute la planète ! De ses collines naissent de grands fleuves qui arrosent toute l'Afrique de l'Ouest. Et c'est ici qu'est né le djembé, le tambour que tout le monde connaît !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Conakry",
+      "sub": "Ville côtière sur une presqu'île"
+    },
+    {
+      "label": "Habitants",
+      "value": "17,5 millions",
+      "sub": "Recensement 2025"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc guinéen",
+      "sub": "GNF — des milliers par dollar"
+    },
+    {
+      "label": "Langue",
+      "value": "Français",
+      "sub": "Français officiel ; le pular est très parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "245 857 km²",
+      "sub": "À peu près comme le Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Nimba 1 752 m",
+      "sub": "Sommet classé au patrimoine mondial de l'UNESCO"
+    }
+  ],
+  "islands": [
+    "Conakry",
+    "Kankan",
+    "Labé",
+    "Kindia",
+    "Nzérékoré"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Le château d'eau géant de l'Afrique",
+    "animals": "Chimpanzés, hippos et crapauds magiques",
+    "culture": "Tambours, conteurs et ragoût de cacahuètes",
+    "history": "Le pays qui a dit non !",
+    "wows": "7 choses qui vont t'épater"
+  },
+  "geo": "La Guinée a de hauts plateaux couverts d'herbe verte où il fait bon frais. De ces collines coulent des cascades qui donnent naissance à de grands fleuves comme le Niger et le Sénégal !",
+  "animals": "Les forêts de Guinée abritent des centaines de chimpanzés sauvages qui apprennent à leurs bébés à casser des noix avec des pierres. Sur le mont Nimba vit un crapaud très spécial qui donne naissance à de vrais têtards vivants — pas des œufs comme les autres grenouilles !",
+  "culture": "En Guinée, tout le monde mange du riz avec une sauce aux cacahuètes dans un grand bol partagé. Les griots sont des musiciens-conteurs qui chantent les histoires des familles lors des fêtes et des mariages !",
+  "history": "Il y a très longtemps, la Guinée a été le premier pays d'Afrique à dire à la France : « Nous voulons être libres ! » Les gens étaient si fiers qu'ils ont dit préférer être pauvres et libres plutôt que riches mais pas libres. Quel courage !",
+  "wows": [
+    "La Guinée possède les plus grandes réserves de bauxite du monde — le rocher qui sert à fabriquer l'aluminium de nos canettes et avions !",
+    "Le plateau du Fouta Djallon donne naissance à 22 fleuves qui arrosent toute l'Afrique de l'Ouest.",
+    "Les chimpanzés du village de Bossou utilisent des pierres comme marteaux pour casser des noix et montrent ce truc à leurs petits.",
+    "Le djembé, ce tambour en forme de gobelet, est né en Guinée et se joue maintenant dans le monde entier.",
+    "Le crapaud du mont Nimba donne naissance à de vrais bébés vivants — presque aucun autre amphibien ne fait ça !",
+    "La capitale Conakry est construite sur une presqu'île : on est entouré d'eau presque de tous les côtés !",
+    "La Grande Mosquée de Conakry était la plus grande mosquée de toute l'Afrique noire quand elle a ouvert en 1982."
+  ],
+  "myths": [
+    {
+      "myth": "La Guinée n'est que jungle et pauvreté",
+      "fact": "La Guinée possède un quart des réserves mondiales de bauxite, de magnifiques plateaux, des cascades spectaculaires et une richesse musicale unique qui a influencé toute l'Afrique de l'Ouest."
+    },
+    {
+      "myth": "Tout le monde parle français en Guinée",
+      "fact": "Seulement environ 28 % des Guinéens parlent français tous les jours. La plupart parlent le pular, le malinké ou le soussou à la maison et au marché."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "No ngoolu",
+      "say": "noh ngoo-loo"
+    },
+    {
+      "en": "Merci",
+      "jp": "A jaaraamah",
+      "say": "ah jah-RAH-mah"
+    },
+    {
+      "en": "Oui",
+      "jp": "Eey",
+      "say": "ay"
+    },
+    {
+      "en": "Eau",
+      "jp": "Ndiyam",
+      "say": "ndee-YAHM"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Ñalleen jamm",
+      "say": "nyah-LAYN jahm"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gn-hero.jpg",
+      "alt": "Vue aérienne de la ville et du port de Conakry, Guinée",
+      "caption": "CONAKRY — La capitale de la Guinée s'étire sur une presqu'île dans l'Atlantique.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gn-landmark.jpg",
+      "alt": "Palais du Peuple à Conakry, Guinée",
+      "caption": "PALAIS DU PEUPLE — Le grand palais des fêtes de Conakry, symbole de la Guinée.",
+      "credit": "Soman / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/gn-animalA.jpg",
+      "alt": "Chimpanzé de l'Ouest dans la forêt",
+      "caption": "CHIMPANZÉ DE L'OUEST — La Guinée abrite l'une des plus grandes populations sauvages d'Afrique.",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/gn-animalB.jpg",
+      "alt": "Paysage de la réserve naturelle du mont Nimba, Guinée",
+      "caption": "MONT NIMBA — Sommet UNESCO où vivent des espèces introuvables ailleurs sur Terre.",
+      "credit": "Wikimedia Commons CC BY-SA IGO"
+    }
+  }
+}

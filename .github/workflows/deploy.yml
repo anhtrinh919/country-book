@@ -1,9 +1,8 @@
 name: Deploy to GitHub Pages
 
-# Builds the Vite site and publishes it to GitHub Pages on every push to main.
+# Builds English + French Vite sites and publishes both to GitHub Pages on every push to main.
+# English: /country-book/   French: /country-book/fr/
 # Repo Settings → Pages → "Build and deployment" → Source must be set to "GitHub Actions".
-# NOTE: the site is served at /country-book/ — keep the repo named "country-book"
-# (it must match `base` in vite.config.ts), or update both together.
 
 on:
   push:
@@ -29,7 +28,12 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
-      - run: npm run build
+      - name: Build English
+        run: npm run build
+      - name: Build French (young reader)
+        run: npm run build:fr
+      - name: Merge French into English dist
+        run: mkdir -p dist/fr && cp -r dist-fr/* dist/fr/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

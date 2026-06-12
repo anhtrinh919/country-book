@@ -1,0 +1,163 @@
+{
+  "name": "BIÉLORUSSIE",
+  "nativeName": "BY",
+  "romaji": "BELARUS",
+  "tagline": "Le cœur vert de l'Europe",
+  "region": "Eastern Europe",
+  "coords": "53.9°N, 27.6°E",
+  "fileNo": "051",
+  "langName": "biélorusse",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E6",
+    "dot": "#c8ccb2",
+    "ink": "#1e2118",
+    "faint": "#7a8060",
+    "line": "#d4d8c0",
+    "accent": "#C8282A",
+    "accent2": "#3A7D2C"
+  },
+  "flag": {
+    "assetPath": "/flags/by.svg",
+    "title": "Drapeau de la Biélorussie",
+    "note": "Bandes rouge et verte avec un motif folk brodé",
+    "keyColor": "#C8282A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Biélorussie est presque entièrement plate, couverte d'immenses forêts où vivent de vrais bisons sauvages ! Presque la moitié du pays est une forêt magique pleine de loups et de lynx. Les Biélorusses mangent des galettes de pommes de terre croustillantes tous les jours !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Minsk",
+      "sub": "2 millions d'habitants ; sur la Svislach"
+    },
+    {
+      "label": "Habitants",
+      "value": "9,1 millions",
+      "sub": "Estimation 2025 — proche de l'Autriche"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Rouble biélorusse",
+      "sub": "BYN ; 100 kopecks = 1 rouble"
+    },
+    {
+      "label": "Langue",
+      "value": "Biélorusse",
+      "sub": "& russe — toutes deux officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "207 600 km²",
+      "sub": "Un peu plus petit que le Royaume-Uni"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Colline de Dzyarzhynsk",
+      "sub": "345 m — à peine une petite colline !"
+    }
+  ],
+  "islands": [
+    "Minsk",
+    "Hrodna",
+    "Brest",
+    "Vitebsk",
+    "Homyel"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Forêts, lacs et grande plaine",
+    "animals": "Les bêtes sauvages de la forêt",
+    "culture": "Patates, broderies et hockey",
+    "history": "La légende du grand duché",
+    "wows": "Sept surprises biélorusses"
+  },
+  "geo": [
+    "La Biélorussie est presque complètement plate — le point le plus haut n'est qu'une toute petite colline de 345 mètres ! De grands fleuves traversent d'immenses marécages appelés Palesse, l'une des plus grandes zones humides d'Europe.",
+    "Environ 40 % du pays est couvert de forêts de pins et d'épicéas. Plus de 10 000 lacs brillent comme des miroirs dans le nord du pays !"
+  ],
+  "animals": [
+    "Le bison européen — appelé zubr — est l'animal national de la Biélorussie. Il avait complètement disparu des forêts, mais des gens courageux l'ont sauvé dans des zoos et l'ont ramené dans la nature !",
+    "La forêt de Białowieża abrite aussi des loups, des lynx et des loutres. Chaque été, de grandes cigognes blanches viennent faire leur nid sur les cheminées des villages — ça porte bonheur !"
+  ],
+  "culture": [
+    "Les Biélorusses adorent les draniki : de croustillantes galettes de pommes de terre dorées que l'on mange à chaque repas. La pomme de terre est tellement importante qu'on l'appelle affectueusement bulba !",
+    "Le hockey sur glace est le sport préféré des enfants — ils apprennent à patiner presque avant de marcher. En été, la fête de Kupalle rassemble tout le monde autour de grands feux de joie !"
+  ],
+  "history": [
+    "Il y a très longtemps, la Biélorussie était le cœur d'un immense royaume magique appelé le Grand-Duché de Lituanie — l'un des plus grands d'Europe, qui s'étendait de la mer Baltique presque jusqu'à la mer Noire !",
+    "Ce grand royaume était si puissant que ses chevaliers portaient des armures brillantes et chevauchaient à travers d'immenses forêts. La capitale Minsk a été entièrement reconstruite, pierre par pierre, pour redevenir belle !"
+  ],
+  "wows": [
+    "La forêt de Białowieża est la dernière grande forêt primitive d'Europe — une vraie forêt de conte de fées !",
+    "La Biélorussie produit tellement de pommes de terre que chaque habitant en mange environ 430 kg par an !",
+    "Le point le plus haut du pays ne fait que 345 mètres — moins haut que certains immeubles de grandes villes !",
+    "Les bisons sauvages avaient disparu de la nature ; des scientifiques les ont sauvés et ramenés à la vie !",
+    "Vitebsk est la ville natale de Marc Chagall, un peintre qui inventait des tableaux où les gens volent dans le ciel !",
+    "La Biélorussie est devenue membre fondateur de l'ONU en 1945 — tout en faisant encore partie de l'URSS !",
+    "Plus de 10 000 lacs scintillent dans le nord du pays, créés par les glaciers il y a très très longtemps !"
+  ],
+  "myths": [
+    {
+      "myth": "La Biélorussie fait partie de la Russie",
+      "fact": "Les Biélorusses ont leur propre langue, leurs propres danses, leurs propres broderies colorées — c'est un pays tout à fait différent !"
+    },
+    {
+      "myth": "Tout le pays est dangereux",
+      "fact": "Minsk et la plupart du pays sont des endroits tout à fait sûrs et accueillants. Seule une toute petite zone au sud a des restrictions."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Вітаю",
+      "say": "Vee-TAH-yu"
+    },
+    {
+      "en": "Merci",
+      "jp": "Дзякуй",
+      "say": "DZYA-kooy"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Калі ласка",
+      "say": "KAH-li LAS-ka"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Смачна",
+      "say": "SMACH-na"
+    },
+    {
+      "en": "Forêt",
+      "jp": "Лес",
+      "say": "Lyes"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/by-hero.jpg",
+      "alt": "Le bâtiment en forme de diamant de la Bibliothèque nationale de Biélorussie illuminé la nuit",
+      "caption": "BIBLIOTHÈQUE NATIONALE — le diamant de verre de Minsk brille dans la nuit",
+      "credit": "Wikimedia Commons / A. Mitrofanov"
+    },
+    "landmark": {
+      "src": "/photos/by-landmark.jpg",
+      "alt": "Le château de Mir se reflète dans un lac calme par une journée ensoleillée",
+      "caption": "CHÂTEAU DE MIR — une forteresse classée au patrimoine mondial de l'UNESCO",
+      "credit": "Wikimedia Commons / Homoatrox"
+    },
+    "animalA": {
+      "src": "/photos/by-animalA.jpg",
+      "alt": "Un bison européen debout dans une clairière de forêt",
+      "caption": "BISON EUROPÉEN — le puissant zubr, sauvé de l'extinction",
+      "credit": "Wikimedia Commons / Radomił Binek"
+    },
+    "animalB": {
+      "src": "/photos/by-animalB.jpg",
+      "alt": "Une cigogne blanche debout dans une prairie",
+      "caption": "CIGOGNE BLANCHE — un symbole de chance qui niche sur les cheminées des villages",
+      "credit": "Wikimedia Commons / Siga"
+    }
+  }
+}

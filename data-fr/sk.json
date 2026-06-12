@@ -1,0 +1,151 @@
+{
+  "name": "SLOVAQUIE",
+  "nativeName": "SK",
+  "romaji": "SLOVENSKO",
+  "tagline": "Le pays des châteaux et des sommets",
+  "region": "Central Europe",
+  "coords": "48.7N, 19.5E",
+  "fileNo": "047",
+  "langName": "slovaque",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBE1",
+    "dot": "#C8BAA4",
+    "ink": "#272018",
+    "faint": "#8a7a62",
+    "line": "#D8CCBA",
+    "accent": "#C0202E",
+    "accent2": "#1A3A7A"
+  },
+  "flag": {
+    "assetPath": "/flags/sk.svg",
+    "title": "Tricolore slovaque",
+    "note": "Blanc, bleu, rouge avec un bouclier à double croix",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Slovaquie a plus de châteaux par habitant que presque n'importe quel autre pays au monde ! Des montagnes pointues comme des dents de requin percent les nuages au nord. Des ours bruns se promènent dans les forêts, et les bergers mangent des boulettes de pommes de terre au fromage de brebis !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Bratislava",
+      "sub": "Sur le Danube, près de l'Autriche"
+    },
+    {
+      "label": "Habitants",
+      "value": "5,4 millions",
+      "sub": "Est. 2024, nation de taille moyenne dans l'UE"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "A rejoint la zone euro en 2009"
+    },
+    {
+      "label": "Langue",
+      "value": "slovaque",
+      "sub": "Une langue slave, écriture latine"
+    },
+    {
+      "label": "Superficie",
+      "value": "49 035 km²",
+      "sub": "À peu près la taille du Costa Rica"
+    },
+    {
+      "label": "Point culminant",
+      "value": "2 654 m",
+      "sub": "Gerlachovský štít, Hautes Tatras"
+    }
+  ],
+  "islands": [
+    "Bratislava",
+    "Košice",
+    "Prešov",
+    "B. Bystrica",
+    "Žilina"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, grottes et rivières",
+    "animals": "Ours, lynx et chamois des Tatras",
+    "culture": "Boulettes, art populaire et hockey",
+    "history": "Une légende très ancienne",
+    "wows": "La Slovaquie va t'étonner !"
+  },
+  "geo": "La Slovaquie se trouve dans les Carpates, une grande courbe de montagnes. Les Hautes Tatras au nord montent comme des dents de requin, jusqu'à 2 654 m de hauteur ! Sous la terre, plus de 7 000 grottes ont été découvertes, et six d'entre elles sont classées à l'UNESCO.",
+  "animals": "La Slovaquie abrite environ 1 000 ours bruns qui se promènent dans les forêts des Carpates — c'est l'une des plus grandes densités de l'Union européenne ! Tout en haut des rochers vit le chamois des Tatras, un animal qui n'existe nulle part ailleurs sur Terre.",
+  "culture": "En Slovaquie, chaque village avait autrefois ses propres chansons, costumes colorés et petites églises en bois. Le plat national s'appelle les bryndzové halušky : des petites boulettes de pommes de terre avec du fromage de brebis et du bacon croustillant, miam ! Le hockey sur glace est une passion nationale — les Slovaques ont même gagné le championnat du monde en 2002.",
+  "history": "Il y a très longtemps, en l'an 863, deux missionnaires nommés Cyrille et Méthode ont inventé le tout premier alphabet slave pour les habitants de Grande-Moravie. Plus tard, la ville de Bratislava est devenue une ville royale où les rois étaient couronnés avec de grandes cérémonies.",
+  "wows": [
+    "La Slovaquie a plus de 180 châteaux dans un pays plus petit que le Costa Rica — plus par habitant que presque partout ailleurs !",
+    "Bratislava est la seule capitale au monde qui touche deux pays différents : l'Autriche et la Hongrie.",
+    "Le système de grottes de Demänovský fait 43 km de long — c'est la plus grande grotte des Carpates !",
+    "Le fromage de brebis bryndza est protégé par l'Union européenne, comme le champagne ou le parmesan.",
+    "Le pont UFO de Bratislava a un restaurant en forme de soucoupe volante perché à 85 m au-dessus du Danube !",
+    "Le chamois des Tatras n'existe que dans les Tatras et a failli disparaître, mais il en reste maintenant plus de 1 400 !",
+    "Un inventeur slovaque nommé Štefan Banič a inventé le premier parachute pratique en 1914."
+  ],
+  "myths": [
+    {
+      "myth": "La Slovaquie et la Slovénie, c'est pareil",
+      "fact": "Non, ce sont deux pays différents ! La Slovaquie a des montagnes et pas de mer ; la Slovénie a des Alpes et la mer Adriatique. Les deux capitales s'envoient même le courrier mal adressé !"
+    },
+    {
+      "myth": "La Slovaquie est un pays froid et gris",
+      "fact": "Pas du tout ! Bratislava peut atteindre 30 °C en juillet. L'automne est doré et doux, et les hivers sont plutôt jolis avec la neige."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Ahoj",
+      "say": "AH-hoy"
+    },
+    {
+      "en": "Merci",
+      "jp": "Ďakujem",
+      "say": "DYAH-koo-yem"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Prosím",
+      "say": "PRO-seem"
+    },
+    {
+      "en": "Château",
+      "jp": "Hrad",
+      "say": "hrad"
+    },
+    {
+      "en": "Montagne",
+      "jp": "Hora",
+      "say": "HO-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sk-hero.jpg",
+      "alt": "Vue panoramique de la ville de Bratislava le long du Danube",
+      "caption": "BRATISLAVA — capitale étalée le long du Danube avec son château à quatre tours au-dessus",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/sk-landmark.jpg",
+      "alt": "Ruines du château de Spiš sur une colline en Slovaquie orientale",
+      "caption": "CHÂTEAU DE SPIŠ — la plus grande ruine de château d'Europe centrale, classée au patrimoine mondial de l'UNESCO",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalA": {
+      "src": "/photos/sk-animalA.jpg",
+      "alt": "Ours brun eurasien dans une forêt",
+      "caption": "OURS BRUN — environ 1 000 parcourent les forêts des Carpates slovaques, la plus haute densité de l'UE",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/sk-animalB.jpg",
+      "alt": "Chamois des Tatras sur un rocher dans les Hautes Tatras",
+      "caption": "CHAMOIS DES TATRAS — unique aux Tatras, sauvé de la quasi-extinction grâce à la protection",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

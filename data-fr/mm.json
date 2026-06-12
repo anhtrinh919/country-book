@@ -1,0 +1,151 @@
+{
+  "name": "MYANMAR",
+  "nativeName": "မြန်မာ",
+  "romaji": "MYANMAR",
+  "tagline": "Le pays des temples dorés",
+  "region": "Southeast Asia",
+  "coords": "19.76°N, 96.08°E",
+  "fileNo": "054",
+  "langName": "birman",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF9E",
+    "ink": "#252018",
+    "faint": "#8A7A56",
+    "line": "#DDD0B0",
+    "accent": "#FECB00",
+    "accent2": "#34B233"
+  },
+  "flag": {
+    "assetPath": "/flags/mm.svg",
+    "title": "Drapeau du Myanmar",
+    "note": "Tricolore avec une grande étoile blanche au centre",
+    "keyColor": "#FECB00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Myanmar, il y a plus de 2 000 temples anciens couverts d'or que l'on peut voir depuis des montgolfières dans le ciel ! Un grand fleuve appelé l'Irrawaddy traverse tout le pays jusqu'à la mer.",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Naypyidaw",
+      "sub": "Devient capitale en novembre 2005"
+    },
+    {
+      "label": "Habitants",
+      "value": "51,3 millions",
+      "sub": "Recensement Myanmar 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Kyat (MMK)",
+      "sub": "~2 100 kyats = 1 dollar américain"
+    },
+    {
+      "label": "Langue",
+      "value": "Birman",
+      "sub": "135 groupes ethniques reconnus"
+    },
+    {
+      "label": "Superficie",
+      "value": "676 578 km²",
+      "sub": "Un peu plus grand que le Texas"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Hkakabo Razi",
+      "sub": "5 881 m — le plus haut d'Asie du Sud-Est"
+    }
+  ],
+  "islands": [
+    "Yangon",
+    "Mandalay",
+    "Bagan",
+    "Shan State",
+    "Rakhine"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Fleuves, sommets et rizières",
+    "animals": "Tigres, dauphins et tortues",
+    "culture": "Temples, thé et habits colorés",
+    "history": "Royaumes magiques et rois anciens",
+    "wows": "7 choses qui font dire « Wahou ! »"
+  },
+  "geo": "Le Myanmar ressemble à un cerf-volant avec une longue queue ! Le grand fleuve Irrawaddy traverse presque tout le pays, et dans le nord il y a une montagne enneigée toute l'année — la plus haute de toute l'Asie du Sud-Est.",
+  "animals": "Le dauphin de l'Irrawaddy vit dans le grand fleuve et aide les pêcheurs à attraper des poissons — comme un vrai ami ! La tortue étoilée birmane avait presque disparu, mais des gens gentils l'ont sauvée et maintenant elle revient.",
+  "culture": "Chaque matin, les gens au Myanmar offrent de la nourriture aux moines au lever du soleil, c'est très beau à voir ! En avril, tout le monde se retrouve dehors pour s'arroser d'eau pendant quatre jours — c'est la fête de Thingyan pour chasser la malchance !",
+  "history": "Il y a très très longtemps, un grand royaume a construit plus de 10 000 temples sur une plaine — plus de 2 000 existent encore aujourd'hui ! C'est comme une forêt magique de tours dorées.",
+  "wows": [
+    "À Bagan, il y a plus de temples anciens au même endroit que presque partout ailleurs sur Terre !",
+    "La capitale a une route géante avec 20 voies — mais pendant longtemps, presque personne ne roulait dessus !",
+    "Le Hkakabo Razi est la plus haute montagne de toute l'Asie du Sud-Est, avec de la neige tout l'année !",
+    "Les dauphins de l'Irrawaddy aident vraiment les pêcheurs à attraper du poisson — c'est une vraie amitié sauvage !",
+    "Le Myanmar produit plus de rubis rouges que n'importe quel autre pays du monde entier !",
+    "La tortue étoilée birmane avait presque disparu, mais des humains l'ont sauvée grâce à un élevage spécial !",
+    "Des montgolfières colorées volent au-dessus de 2 000 pagodes dorées à Bagan chaque matin — comme dans un rêve !"
+  ],
+  "myths": [
+    {
+      "myth": "« Myanmar et Birmanie sont deux pays différents »",
+      "fact": "C'est le même pays ! On l'appelait Birmanie avant, puis son nom a changé en Myanmar. Les deux noms sont encore utilisés dans le monde entier."
+    },
+    {
+      "myth": "« Tous les temples d'Asie se ressemblent »",
+      "fact": "Pas du tout ! Les temples du Myanmar sont hauts, en forme de cloche et couverts d'or — très différents des temples des pays voisins. Chaque peuple a son propre style !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "မင်္ဂလာပါ",
+      "say": "min-ga-la-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "ကျေးဇူးပါ",
+      "say": "kyay-zu-ba"
+    },
+    {
+      "en": "Oui",
+      "jp": "ဟုတ်ကဲ့",
+      "say": "hote-keh"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "အရမ်းကောင်း",
+      "say": "a-yan-kaung"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "သွားတော့မယ်",
+      "say": "thwa-daw-meh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mm-hero.jpg",
+      "alt": "Des montgolfières flottent au-dessus de milliers de temples anciens à Bagan au lever du soleil",
+      "caption": "BAGAN À L'AUBE — des montgolfières survolent 2 000 pagodes anciennes au lever du soleil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mm-landmark.jpg",
+      "alt": "La pagode Shwedagon avec son grand dôme doré qui brille au-dessus de Yangon au crépuscule",
+      "caption": "PAGODE SHWEDAGON — le grand dôme doré de Yangon, recouvert de 60 tonnes d'or",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mm-animalA.jpg",
+      "alt": "Un dauphin de l'Irrawaddy sort la tête de l'eau calme du fleuve",
+      "caption": "DAUPHIN DE L'IRRAWADDY — le dauphin à la tête ronde qui aide les pêcheurs",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mm-animalB.jpg",
+      "alt": "Une tortue étoilée birmane avec sa carapace à motifs d'étoiles jaunes sur le sol sableux",
+      "caption": "TORTUE ÉTOILÉE BIRMANE — sauvée du bord de l'extinction",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

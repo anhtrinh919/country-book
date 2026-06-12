@@ -1,0 +1,151 @@
+{
+  "name": "TOGO",
+  "nativeName": "TG",
+  "romaji": "TOGO",
+  "tagline": "Petit, fier et plein de vie !",
+  "region": "West Africa",
+  "coords": "8.62°N, 0.82°E",
+  "fileNo": "096",
+  "langName": "éwé",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBF9E",
+    "ink": "#241E14",
+    "faint": "#8A7A52",
+    "line": "#DDD0B0",
+    "accent": "#006B3F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/tg.svg",
+    "title": "Drapeau du Togo",
+    "note": "5 bandes = 5 régions ; l'étoile = la paix",
+    "keyColor": "#006B3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Togo est si étroit qu'on peut le traverser en voiture en une seule heure ! Sa capitale Lomé est collée à la plage, avec les vagues de l'océan juste à côté des marchés animés. C'est un pays minuscule, mais rempli de surprises incroyables !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Lomé",
+      "sub": "Env. 1 million d'habitants sur la côte"
+    },
+    {
+      "label": "Habitants",
+      "value": "9,5 millions",
+      "sub": "Estimation ONU, 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Partagé avec 7 pays d'Afrique de l'Ouest"
+    },
+    {
+      "label": "Langue",
+      "value": "Français",
+      "sub": "Éwé et Kabyè très parlés"
+    },
+    {
+      "label": "Superficie",
+      "value": "56 785 km²",
+      "sub": "Plus petit que la Croatie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mont Agou",
+      "sub": "986 m au-dessus de la mer"
+    }
+  ],
+  "islands": [
+    "Lomé",
+    "Kara",
+    "Sokodé",
+    "Atakpamé",
+    "Kpalimé"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays mince comme un crayon !",
+    "animals": "Des animaux du nord au sud",
+    "culture": "Tambours, tissus et magie",
+    "history": "Des maisons en boue comme des tours !",
+    "wows": "Vraiment, c'est vrai ?!"
+  },
+  "geo": "Le Togo est l'un des pays les plus étroits du monde — à peine 56 km de large au plus mince ! Il s'étire sur 560 km depuis la plage au sud jusqu'aux grandes savanes sèches du nord.",
+  "animals": "Dans le parc national de Fazao-Malfakassa vivent environ 60 éléphants de savane, les plus à l'ouest de toute l'Afrique de l'Ouest ! Les rivières du sud cachent aussi des hippopotames et des crocodiles.",
+  "culture": "Le peuple Éwé tisse de magnifiques tissus kente aux couleurs vives, portés lors des grandes fêtes. Chaque année, la Fête de l'Igname rassemble tout le monde pour danser, manger et célébrer ensemble !",
+  "history": "Dans le nord du Togo, les Batammariba construisent de grandes maisons en boue en forme de tours, appelées takienta. Ces maisons uniques ont le même style depuis plus de 300 ans et sont classées au patrimoine mondial de l'UNESCO !",
+  "wows": [
+    "Lomé est si proche du Ghana qu'on peut passer d'un pays à l'autre à pied en se promenant dans la ville !",
+    "Le marché Akodessewa à Lomé est le plus grand marché vaudou du monde entier.",
+    "Le drapeau du Togo a été dessiné par un artiste togolais en 1960 — chacune des 5 bandes représente une région.",
+    "Les tambours éwé sont si compliqués que des universités en Europe et en Amérique les enseignent aux musiciens !",
+    "Les maisons-tours en boue du nord du Togo ont le même design depuis plus de 300 ans.",
+    "Le Togo possède d'énormes réserves de phosphate, une poudre magique qui aide les plantes à pousser partout dans le monde.",
+    "Les éléphants du parc Fazao-Malfakassa sont les éléphants de savane les plus à l'ouest de toute l'Afrique !"
+  ],
+  "myths": [
+    {
+      "myth": "Le vaudou, c'est pour faire peur",
+      "fact": "Le vodun est une vraie religion d'Afrique de l'Ouest qui parle des ancêtres, de la guérison et du respect. Ce n'est pas du tout comme dans les films effrayants !"
+    },
+    {
+      "myth": "Le Togo est un pays oublié",
+      "fact": "Le Togo a l'un des ports les plus animés d'Afrique de l'Ouest, une musique connue dans le monde entier, et des trésors classés par l'UNESCO !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Ŋdi",
+      "say": "nn-DEE"
+    },
+    {
+      "en": "Merci",
+      "jp": "Akpe",
+      "say": "AHK-peh"
+    },
+    {
+      "en": "Bonsoir",
+      "jp": "Fienyi",
+      "say": "fee-EHN-yee"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "Woé zɔ",
+      "say": "woh-EH zoh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Hede nyuie",
+      "say": "heh-DEH nyoo-EE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tg-hero.jpg",
+      "alt": "Plage de Lomé sur le golfe de Guinée avec des palmiers et des vagues",
+      "caption": "PLAGE DE LOMÉ — l'Atlantique déferle à quelques mètres du centre-ville",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tg-landmark.jpg",
+      "alt": "Palais des Congrès à Lomé, Togo",
+      "caption": "PALAIS DES CONGRÈS — la grande salle de conférences de Lomé au bord de la mer",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tg-animalA.jpg",
+      "alt": "Éléphant de savane africain dans les herbes",
+      "caption": "ÉLÉPHANT D'AFRIQUE — ~60 vivent dans le parc national de Fazao-Malfakassa",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tg-animalB.jpg",
+      "alt": "Singe patas au pelage roux dans la nature",
+      "caption": "SINGE PATAS — des singes très rapides dans les parcs de savane du Togo",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "CÔTE D'IVOIRE",
+  "nativeName": "CI",
+  "romaji": "CÔTE D'IVOIRE",
+  "tagline": "La côte au goût de chocolat",
+  "region": "West Africa",
+  "coords": "7.54°N, 5.55°W",
+  "fileNo": "032",
+  "langName": "français",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBE9E",
+    "ink": "#251E12",
+    "faint": "#8A7A5E",
+    "line": "#DCCFAA",
+    "accent": "#F77F00",
+    "accent2": "#009A44"
+  },
+  "flag": {
+    "assetPath": "/flags/ci.svg",
+    "title": "Drapeau tricolore",
+    "note": "Trois bandes verticales : orange, blanc et vert",
+    "keyColor": "#F77F00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Presque tout le chocolat du monde vient de Côte d'Ivoire — ce pays fabrique la moitié des fèves de cacao de la planète ! C'est un pays plein de musique, de forêts et de 60 peuples différents. Quelle richesse !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Yamoussoukro",
+      "sub": "Capitale officielle ; Abidjan est le centre économique"
+    },
+    {
+      "label": "Habitants",
+      "value": "≈ 32,8 M",
+      "sub": "est. 2025, en forte croissance"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Monnaie partagée en Afrique de l'Ouest"
+    },
+    {
+      "label": "Langue",
+      "value": "Français",
+      "sub": "Plus de 75 langues locales aussi"
+    },
+    {
+      "label": "Superficie",
+      "value": "322 460 km²",
+      "sub": "Un peu plus grand que le Nouveau-Mexique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Nimba 1 752 m",
+      "sub": "Site UNESCO à la frontière avec la Guinée"
+    }
+  ],
+  "islands": [
+    "Abidjan",
+    "Yamoussoukro",
+    "Bouaké",
+    "San-Pédro",
+    "Man"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Lagunes, forêts et montagnes",
+    "animals": "Chimpanzés, hippopotames et éléphants",
+    "culture": "Musique, masques et maquis",
+    "history": "Cacao, rois et découvertes",
+    "wows": "Des faits incroyables !"
+  },
+  "geo": "La Côte d'Ivoire descend de la savane sèche du nord jusqu'aux forêts tropicales du sud. La côte atlantique est bordée de jolies lagunes et de villages de pêcheurs. À l'ouest, les montagnes Nimba montent jusqu'à 1 752 m et cachent cinquante cascades !",
+  "animals": "L'éléphant de forêt d'Afrique — avec ses grandes oreilles rondes — est l'animal national du pays. Dans le parc de Taï, des chimpanzés très malins utilisent des pierres comme des marteaux pour casser des noix, et ils apprennent ce tour à leurs bébés ! L'hippopotame pygmée, aussi petit qu'un gros cochon, se cache dans les rivières de la forêt.",
+  "culture": "Les gens de Côte d'Ivoire adorent la musique : le Coupé-Décalé, né à Abidjan, est une danse joyeuse et colorée qui a conquis le monde entier ! Dans les marchés, on sent la bonne odeur du poulet grillé et de l'aloko, des tranches de banane plantain frites bien croustillantes.",
+  "history": "Il y a très longtemps, des marins portugais ont découvert cette côte et lui ont donné le nom «Côte d'Ivoire» car ils y achetaient de grandes défenses d'éléphant. Plus tard, des bâtisseurs très courageux ont construit à Yamoussoukro la plus grande église du monde — encore plus grande que Saint-Pierre de Rome !",
+  "wows": [
+    "La Côte d'Ivoire produit presque la moitié du cacao de toute la planète — chaque tablette de chocolat commence ici !",
+    "Abidjan est la 3ᵉ plus grande ville francophone du monde, après Kinshasa et Paris.",
+    "La basilique de Yamoussoukro est la plus grande église de la Terre, plus haute que le Panthéon de Paris.",
+    "Les chimpanzés de Taï utilisent des pierres pour casser des noix, comme de vrais petits outils !",
+    "Il y a plus de 75 langues différentes parlées dans ce seul pays.",
+    "La forêt tropicale du pays abrite le rare hippopotame pygmée, aussi petit qu'un cochon.",
+    "La Côte d'Ivoire a gagné la Coupe d'Afrique des Nations quatre fois, dont une en 2024 !"
+  ],
+  "myths": [
+    {
+      "myth": "« Côte d'Ivoire » vend encore des défenses d'éléphant",
+      "fact": "Le nom rappelle un vieux commerce d'il y a des siècles. Aujourd'hui le pays exporte du cacao, des noix de cajou et du caoutchouc — le commerce international d'ivoire est interdit depuis 1989."
+    },
+    {
+      "myth": "Tout le pays est une grande forêt",
+      "fact": "Le nord est une savane sèche avec des manguiers et presque pas de pluie pendant six mois ; la forêt tropicale couvre seulement le sud et l'ouest."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Comment ça va ?",
+      "jp": "Ça va?",
+      "say": "sa VA"
+    },
+    {
+      "en": "Bien !",
+      "jp": "Bien",
+      "say": "BYAHN"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Au revoir",
+      "say": "oh ruh-VWAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ci-hero.jpg",
+      "alt": "Skyline d'Abidjan vu depuis la lagune",
+      "caption": "ABIDJAN — la ville la plus dynamique d'Afrique de l'Ouest scintille au-dessus de sa célèbre lagune",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ci-landmark.jpg",
+      "alt": "Vue extérieure de la basilique Notre-Dame de la Paix, Yamoussoukro",
+      "caption": "BASILIQUE NOTRE-DAME DE LA PAIX — la plus grande église du monde, à Yamoussoukro",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ci-animalA.jpg",
+      "alt": "Chimpanzé occidental au repos, regardant l'objectif",
+      "caption": "CHIMPANZÉ OCCIDENTAL — les chimpanzés de Taï transmettent leur savoir-faire avec les pierres de génération en génération",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ci-animalB.jpg",
+      "alt": "Hippopotame pygmée debout, petite silhouette trapue",
+      "caption": "HIPPOPOTAME PYGMÉE — hippopotame de forêt grand comme un cochon, l'un des grands mammifères les plus rares de la Terre",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

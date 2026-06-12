@@ -1,0 +1,151 @@
+{
+  "name": "MADAGASCAR",
+  "nativeName": "MG",
+  "romaji": "MADAGASIKARA",
+  "tagline": "Le huitième continent",
+  "region": "Afrique de l'Est / Océan Indien",
+  "coords": "20°S, 47°E",
+  "fileNo": "061",
+  "langName": "malgache",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BEA8",
+    "ink": "#26201A",
+    "faint": "#7A6E58",
+    "line": "#DDD5C2",
+    "accent": "#C0202E",
+    "accent2": "#3A7D44"
+  },
+  "flag": {
+    "assetPath": "/flags/mg.svg",
+    "title": "Madagascar",
+    "note": "Bande verticale blanche et rouge, puis rouge au-dessus du vert",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Madagascar est une île géante dans l'océan Indien — presque aussi grande que la France deux fois ! Neuf animaux sur dix qui y vivent n'existent nulle part ailleurs sur Terre. On l'appelle le huitième continent !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Antananarivo",
+      "sub": "La ville des mille guerriers"
+    },
+    {
+      "label": "Habitants",
+      "value": "31,3 millions",
+      "sub": "Est. 2025, en forte croissance"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Ariary (MGA)",
+      "sub": "Une des rares monnaies non décimales"
+    },
+    {
+      "label": "Langue",
+      "value": "Malgache",
+      "sub": "Plus proche du malais que du swahili"
+    },
+    {
+      "label": "Superficie",
+      "value": "587 041 km²",
+      "sub": "Plus grand que la France"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Maromokotro",
+      "sub": "2 876 m — massif du nord"
+    }
+  ],
+  "islands": [
+    "Antananarivo",
+    "Toamasina",
+    "Mahajanga",
+    "Fianarantsoa",
+    "Toliara"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une île qui flotte toute seule",
+    "animals": "Des bêtes qu'on ne voit que là",
+    "culture": "Du riz, des ancêtres et des baobabs",
+    "history": "Une île née d'un grand voyage",
+    "wows": "Sept choses qui étonnent !"
+  },
+  "geo": "Madagascar est à 400 km de l'Afrique, posée au milieu de l'océan Indien. À l'ouest, de gigantesques baobabs bordent les pistes rouges, et des tours de pierre pointues appelées tsingy déchirent le ciel !",
+  "animals": "Le lémurien souris est le plus petit singe du monde — il pèse à peine 30 grammes, comme un stylo ! Madagascar abrite aussi la moitié des caméléons de la planète, dont certains sont moins grands qu'un ongle.",
+  "culture": "Les Malgaches mangent du riz trois fois par jour et ont plus de 30 mots pour en parler tellement ils l'adorent ! Lors des fêtes, les familles dansent et chantent au son de la musique hira gasy.",
+  "history": "Il y a 2 000 ans, de courageux marins ont traversé 6 000 km d'océan depuis l'Indonésie pour atteindre Madagascar — c'est comme faire le tour de la Terre à moitié ! C'est de là que viennent les premiers habitants de l'île.",
+  "wows": [
+    "Madagascar produit 80 % de toute la vanille du monde — l'arôme de ta glace préférée !",
+    "Les premiers habitants sont arrivés d'Indonésie en bateau, pas d'Afrique juste à côté.",
+    "Il y a ici plus de 100 espèces de lémuriens, qu'on ne trouve nulle part ailleurs.",
+    "Les tsingy sont des rochers pointus comme des couteaux — même les animaux font attention !",
+    "La langue malgache ressemble plus au malais de l'autre côté de la Terre qu'à une langue africaine.",
+    "L'indri lémurien ne survit jamais dans les zoos — il veut rester libre dans sa forêt.",
+    "Chaque famille a ses propres règles rigolotes : l'une n'a pas le droit de manger des anguilles !"
+  ],
+  "myths": [
+    {
+      "myth": "Madagascar, c'est un pays africain comme les autres",
+      "fact": "Les habitants et leur langue viennent d'Indonésie, à 6 000 km à l'est. L'île s'est séparée de l'Afrique il y a 170 millions d'années, bien avant l'arrivée des humains !"
+    },
+    {
+      "myth": "Les lémuriens sont des singes",
+      "fact": "Les lémuriens sont des prosimiens — une famille bien plus ancienne que les singes. Ils ont évolué seuls sur Madagascar pendant des millions d'années."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Salama",
+      "say": "sah-LAH-mah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Misaotra",
+      "say": "mee-SOW-trah"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Veloma",
+      "say": "veh-LOO-mah"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Azafady",
+      "say": "ah-zah-FAH-dee"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Manao ahoana",
+      "say": "mah-NOW ah-OO-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mg-hero.jpg",
+      "alt": "L'avenue des baobabs au coucher du soleil dans l'ouest de Madagascar",
+      "caption": "AVENUE DES BAOBABS — d'anciens géants le long d'une piste rouge près de Morondava",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mg-landmark.jpg",
+      "alt": "Terrasses de riz en escalier sur des collines verdoyantes des hauts plateaux de Madagascar",
+      "caption": "TERRASSES DE RIZ — des collines sculptées pour nourrir un peuple qui adore le riz",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mg-animalA.jpg",
+      "alt": "Lémurien indri accroché à un arbre dans la forêt tropicale de Madagascar",
+      "caption": "LÉMURIEN INDRI — le plus grand lémurien, son cri s'entend à des kilomètres",
+      "credit": "Wikimedia Commons / CC BY 2.5"
+    },
+    "animalB": {
+      "src": "/photos/mg-animalB.jpg",
+      "alt": "Fossa au repos sur une branche — le plus grand prédateur de Madagascar",
+      "caption": "FOSSA — ressemble à un puma mais est cousin de la mangouste",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    }
+  }
+}

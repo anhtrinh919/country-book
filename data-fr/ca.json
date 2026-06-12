@@ -1,0 +1,151 @@
+{
+  "name": "CANADA",
+  "nativeName": "CA",
+  "romaji": "CANADA",
+  "tagline": "De grands ciels et des terres sauvages",
+  "region": "Northern America",
+  "coords": "60°N, 95°W",
+  "fileNo": "012",
+  "langName": "anglais et français",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#CBBFA8",
+    "ink": "#252018",
+    "faint": "#8A7D62",
+    "line": "#DAD0BC",
+    "accent": "#D52B1E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/ca.svg",
+    "title": "La Feuille d'érable",
+    "note": "Rouge, blanc, rouge — une feuille d'érable au centre",
+    "keyColor": "#D52B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Canada est si grand qu'un orignal peut marcher pendant des jours sans voir une seule route ! C'est le deuxième plus grand pays du monde, avec des forêts, des montagnes et des millions de lacs. Et il produit les trois quarts du sirop d'érable de la planète entière !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Ottawa",
+      "sub": "Sur la rivière des Outaouais, Ontario"
+    },
+    {
+      "label": "Habitants",
+      "value": "~41,3 M",
+      "sub": "Statistique Canada, juillet 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "CAD $",
+      "sub": "Dollar canadien"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais et français",
+      "sub": "Deux langues officielles"
+    },
+    {
+      "label": "Superficie",
+      "value": "9,98 M km²",
+      "sub": "2e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "5 959 m",
+      "sub": "Mont Logan, Yukon"
+    }
+  ],
+  "islands": [
+    "Ontario",
+    "Québec",
+    "B.C.",
+    "Alberta",
+    "Yukon"
+  ],
+  "islandsLabel": "GRANDES PROVINCES :",
+  "sections": {
+    "geography": "Immense et terriblement sauvage !",
+    "animals": "Bêtes des forêts et des glaces",
+    "culture": "Hockey, sirop d'érable et bonne humeur",
+    "history": "Les premiers peuples de la grande terre",
+    "wows": "Les records fous du Canada"
+  },
+  "geo": "Le Canada est si immense qu'on pourrait mettre 26 fois le Royaume-Uni à l'intérieur ! À l'ouest se dressent les montagnes Rocheuses, et au centre s'étendent de grandes plaines plates à perte de vue. Le Canada possède plus de lacs que tous les autres pays du monde réunis — environ deux à trois millions de lacs scintillants !",
+  "animals": "L'orignal est le plus grand cerf du monde et adore les forêts canadiennes. Il est si grand qu'il peut traverser un lac entier à la nage avec ses grosses pattes en forme de pagaies ! Chaque automne, des ours polaires se rassemblent près de Churchill, au Manitoba, en attendant que la glace se forme sur la baie d'Hudson.",
+  "culture": "Au Canada, on parle à la fois anglais et français — c'est la loi ! Au Québec, même les boîtes de céréales doivent être écrites en français en premier. Chaque février, les familles canadiennes cuisinent avec du sirop d'érable, car le Canada fabrique les trois quarts du sirop d'érable de toute la planète !",
+  "history": "Depuis au moins 15 000 ans, les peuples des Premières Nations et les Inuits vivaient sur cette terre avec des langues riches et des routes commerciales. Le Canada est devenu un grand pays uni le 1er juillet 1867, quand quatre provinces ont décidé de se rassembler comme une seule grande famille.",
+  "wows": [
+    "La côte du Canada mesure 202 080 km — la plus longue du monde, assez pour faire le tour de la Terre cinq fois !",
+    "Le Canada a plus de lacs que tous les autres pays de la Terre réunis — des millions et des millions !",
+    "Un Canadien a inventé le basket-ball en 1891 en utilisant… un panier à pêches !",
+    "La Tour CN à Toronto a été la plus haute tour du monde pendant 32 ans !",
+    "Le Nunavut est plus grand que l'Europe occidentale, mais seulement 40 000 personnes y habitent.",
+    "Le Canada et les États-Unis partagent la plus longue frontière du monde : 8 891 km sans aucun mur !",
+    "Le Canada produit 75 % du sirop d'érable mondial — c'est lui le roi de l'érable !"
+  ],
+  "myths": [
+    {
+      "myth": "Il fait toujours froid au Canada",
+      "fact": "Les villes du sud comme Vancouver ont des hivers doux et pluvieux, et les étés dans les Prairies peuvent atteindre 35 °C — aussi chaud qu'une journée d'été !"
+    },
+    {
+      "myth": "Tous les Canadiens disent « eh » tout le temps",
+      "fact": "Les Canadiens disent « eh » parfois pour demander si les autres sont d'accord, mais pas à chaque phrase — c'est une petite habitude, pas un tic !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Pardon",
+      "jp": "Pardon",
+      "say": "par-DON"
+    },
+    {
+      "en": "Sirop d'érable",
+      "jp": "Sirop érable",
+      "say": "see-ROH ay-RAB"
+    },
+    {
+      "en": "Bonnet de laine",
+      "jp": "Tuque",
+      "say": "TYOOK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ca-hero.jpg",
+      "alt": "Le centre des congrès Canada Place et ses voiles dans le port de Vancouver",
+      "caption": "CANADA PLACE — le monument aux voiles de Vancouver face au Pacifique.",
+      "credit": "Wikimedia Commons / Dietmar Rabich"
+    },
+    "landmark": {
+      "src": "/photos/ca-landmark.jpg",
+      "alt": "La colline du Parlement à Ottawa avec la Tour de la Paix",
+      "caption": "COLLINE DU PARLEMENT — le cœur gothique de la démocratie canadienne, à Ottawa.",
+      "credit": "Wikimedia Commons / D. Gordon E. Robertson"
+    },
+    "animalA": {
+      "src": "/photos/ca-animalA.jpg",
+      "alt": "Un orignal mâle debout dans l'eau peu profonde",
+      "caption": "ORIGNAL — le plus grand cerf du monde, chez lui dans les zones humides canadiennes.",
+      "credit": "Wikimedia Commons / Gary Kramer, USFWS"
+    },
+    "animalB": {
+      "src": "/photos/ca-animalB.jpg",
+      "alt": "Une ourse polaire et son petit sur la neige près de Churchill",
+      "caption": "OURS POLAIRE — une mère et son petit près de Churchill, la porte arctique du Manitoba.",
+      "credit": "Wikimedia Commons / Alan D. Wilson"
+    }
+  }
+}

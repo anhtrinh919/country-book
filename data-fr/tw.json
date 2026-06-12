@@ -1,0 +1,151 @@
+{
+  "name": "TAÏWAN",
+  "nativeName": "臺灣",
+  "romaji": "TAIWAN",
+  "tagline": "La Belle Île",
+  "region": "East Asia",
+  "coords": "23.7°N, 121.0°E",
+  "fileNo": "058",
+  "langName": "mandarin",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#ccbfa2",
+    "ink": "#28211c",
+    "faint": "#8a7860",
+    "line": "#dccdb0",
+    "accent": "#BE0020",
+    "accent2": "#003F87"
+  },
+  "flag": {
+    "assetPath": "/flags/tw.svg",
+    "title": "République de Chine",
+    "note": "Fond rouge, canton bleu, soleil blanc à 12 rayons",
+    "keyColor": "#BE0020",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Taïwan est une île magnifique avec des montagnes couvertes de forêts ! Des marins portugais l'ont appelée « Formosa » — la belle île — il y a presque 500 ans. C'est ici qu'on a inventé le bubble tea que tu adores peut-être !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Taipei",
+      "sub": "Env. 2,5 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "23,4 millions",
+      "sub": "Est. 2024, toute l'île"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar taïwanais",
+      "sub": "NT$ Nouveau dollar taïwanais"
+    },
+    {
+      "label": "Langue",
+      "value": "Mandarin",
+      "sub": "Et aussi le hokkien taïwanais"
+    },
+    {
+      "label": "Superficie",
+      "value": "36 193 km²",
+      "sub": "Plus petit que les Pays-Bas"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 952 m",
+      "sub": "Yushan (Montagne de Jade)"
+    }
+  ],
+  "islands": [
+    "Taipei",
+    "Kaohsiung",
+    "Tainan",
+    "Taichung",
+    "Hualien"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, côtes et canyons !",
+    "animals": "Les animaux secrets de l'île",
+    "culture": "Bonne nourriture et grandes fêtes",
+    "history": "Une île de légendes",
+    "wows": "Taïwan va t'épater !"
+  },
+  "geo": "Taïwan se trouve sur une ceinture de volcans et de séismes — l'île tremble environ 1 000 fois par an ! Une grande chaîne de montagnes traverse l'île comme une colonne vertébrale, avec presque 200 sommets de plus de 3 000 mètres.",
+  "animals": "La forêt de Taïwan cache un ours noir appelé l'ours de Formose, qui a une grande tache jaune en forme de V sur la poitrine — on l'appelle « l'ours à la lune » ! Chaque hiver, des millions de papillons violets s'envolent vers la vallée de Maolin, comme un blizzard violet vivant.",
+  "culture": "À Taïwan, les marchés nocturnes sont des fêtes en plein air où l'on mange du tofu croustillant, des omelettes aux huîtres et de la glace avec des mangues fraîches. Le bubble tea — du thé sucré avec des petites billes de tapioca — a été inventé ici dans les années 1980 !",
+  "history": "Des peuples venus de très loin se sont installés sur l'île de Taïwan il y a au moins 6 000 ans ! Ils ont construit des villages dans les montagnes et ont navigué sur des pirogues jusqu'aux îles du Pacifique.",
+  "wows": [
+    "Le bubble tea au lait avec des billes a été inventé à Taïwan — et maintenant tout le monde en boit dans le monde entier !",
+    "La montagne Yushan est plus haute que le célèbre mont Fuji au Japon de presque 180 mètres !",
+    "Le canyon de Taroko est creusé entièrement dans du marbre — les murs font 1 000 mètres de haut !",
+    "À Taïwan, il y a une épicerie pour seulement 1 700 personnes — presque partout dans l'île !",
+    "Chaque hiver, des millions de papillons violets couvrent une vallée entière — comme un tapis vivant !",
+    "Les lanternes du festival de Pingxi montent dans le ciel la nuit, portant les vœux des gens vers les étoiles.",
+    "Le métro de Taipei est à l'heure 99,7 % du temps — c'est l'un des plus ponctuels du monde !"
+  ],
+  "myths": [
+    {
+      "myth": "Taïwan, c'est pareil que la Chine",
+      "fact": "Taïwan a son propre gouvernement, sa propre monnaie et ses propres passeports depuis 1949 — c'est une île qui se gouverne toute seule !"
+    },
+    {
+      "myth": "Le tofu puant doit avoir un goût horrible",
+      "fact": "Ça sent très fort, c'est vrai ! Mais ceux qui le mangent disent que c'est doux, croustillant dehors et moelleux dedans — une vraie surprise !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "你好",
+      "say": "nee-how"
+    },
+    {
+      "en": "Merci",
+      "jp": "謝謝",
+      "say": "syeh-syeh"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "好吃",
+      "say": "how-chr"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "多少錢",
+      "say": "dwoh-shao chyen"
+    },
+    {
+      "en": "Marché de nuit",
+      "jp": "夜市",
+      "say": "yeh-shr"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tw-hero.jpg",
+      "alt": "La tour Taipei 101 se dressant sur la skyline de la ville au crépuscule",
+      "caption": "TAIPEI 101 — autrefois le plus grand bâtiment du monde, la tour emblématique de Taïwan",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tw-landmark.jpg",
+      "alt": "Parois de marbre des gorges de Taroko avec la rivière turquoise en contrebas",
+      "caption": "GORGES DE TAROKO — canyon de marbre creusé par la rivière Liwu, à l'est de Taïwan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tw-animalA.jpg",
+      "alt": "Ours noir de Formose avec sa distincte tache jaune en forme de V sur la poitrine",
+      "caption": "OURS DE FORMOSE — l'animal national de Taïwan avec sa marque en croissant de lune",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tw-animalB.jpg",
+      "alt": "Faisan Mikado mâle au plumage bleu-violet irisé dans la forêt de montagne",
+      "caption": "FAISAN MIKADO — l'oiseau national de Taïwan, uniquement dans les forêts de haute montagne",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

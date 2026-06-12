@@ -1,0 +1,163 @@
+{
+  "name": "SÉNÉGAL",
+  "nativeName": "SN",
+  "romaji": "SÉNÉGAL",
+  "tagline": "La porte de l'Afrique",
+  "region": "West Africa",
+  "coords": "14.4°N, 14.4°W",
+  "fileNo": "077",
+  "langName": "wolof",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A52",
+    "line": "#DDD0AC",
+    "accent": "#3A9A3C",
+    "accent2": "#FCCA00"
+  },
+  "flag": {
+    "assetPath": "/flags/sn.svg",
+    "title": "Drapeau du Sénégal",
+    "note": "Vert, jaune et rouge avec une étoile verte",
+    "keyColor": "#3A9A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Sénégal, il y a un lac qui est tout rose, comme de la limonade aux fraises ! De gigantesques arbres baobabs gardent la savane depuis mille ans. Les gens là-bas adorent accueillir les inconnus comme des amis !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Dakar",
+      "sub": "Au bout de l'Afrique, face à l'Atlantique"
+    },
+    {
+      "label": "Habitants",
+      "value": "~17,7 m",
+      "sub": "Est. 2023, en pleine croissance"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc CFA",
+      "sub": "Partagé par 8 pays d'Afrique de l'Ouest"
+    },
+    {
+      "label": "Langue",
+      "value": "Français / Wolof",
+      "sub": "Le wolof parlé par ~80% chaque jour"
+    },
+    {
+      "label": "Superficie",
+      "value": "196 722 km²",
+      "sub": "Un peu plus grand que l'Angleterre × 3"
+    },
+    {
+      "label": "Point culminant",
+      "value": "648 m",
+      "sub": "Crête de Nepen Diakha"
+    }
+  ],
+  "islands": [
+    "Dakar",
+    "Saint-Louis",
+    "Touba",
+    "Ziguinchor",
+    "Casamance"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des plaines plates et une mer rose !",
+    "animals": "Lions, pélicans et baobabs géants",
+    "culture": "Tambours, accueil et lutteurs",
+    "history": "Des empires anciens et des légendes",
+    "wows": "7 surprises folles sur le Sénégal"
+  },
+  "geo": [
+    "Le Sénégal est presque tout plat, avec des plaines de sable qui s'étendent jusqu'aux forêts vertes du sud. Plus de 500 km de côtes donnent à Dakar une belle brise fraîche venue de l'océan !",
+    "Le lac Retba, près de Dakar, est rose vif grâce à de minuscules algues qui adorent le sel — il est encore plus salé que la mer Morte !"
+  ],
+  "animals": [
+    "Dans le parc national de Niokolo-Koba vivent de vrais lions sauvages, qui se promènent dans la savane avec des hippopotames et des chimpanzés !",
+    "Chaque hiver, des millions de pélicans blancs arrivent au sanctuaire de Djoudj — on dirait un nuage de plumes blanches qui descend du ciel !"
+  ],
+  "culture": [
+    "Au Sénégal, quand un inconnu frappe à ta porte, on le nourrit avant même de lui demander son nom — c'est le teranga, la générosité en wolof !",
+    "La lutte traditionnelle appelée laamb est encore plus populaire que le football — les lutteurs portent des amulettes porte-bonheur et dansent avant de commencer !"
+  ],
+  "history": [
+    "Il y a très longtemps, de grands empires comme le Jolof régnaient sur ces terres, et les griots racontaient leur histoire en chantant pour ne jamais l'oublier.",
+    "L'île de Gorée, à 3 km de Dakar, est célèbre dans le monde entier — aujourd'hui c'est un lieu de mémoire classé par l'UNESCO."
+  ],
+  "wows": [
+    "Le lac Retba est rose comme un bonbon — c'est les algues qui font ça !",
+    "Les baobabs peuvent vivre 1 000 ans et garder de l'eau dans leur gros tronc.",
+    "Le monument de la Renaissance africaine à Dakar est plus grand que la Statue de la Liberté !",
+    "Les lutteurs sénégalais gagnent plus d'argent que les footballeurs.",
+    "Le Sénégal entoure presque complètement un autre pays, la Gambie, sur trois côtés !",
+    "Plus de 660 espèces d'oiseaux différents vivent au Sénégal.",
+    "Des millions de pélicans arrivent chaque hiver — comme une grande fête des oiseaux !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Sénégal n'est que désert",
+      "fact": "La plupart du Sénégal est une savane verte ou une forêt tropicale. Le sud est très humide et il y pousse plein de fruits. La cuisine sénégalaise, avec le riz et le poisson thiéboudienne, est délicieuse !"
+    },
+    {
+      "myth": "C'est un pays dangereux",
+      "fact": "Le Sénégal organise des élections tranquilles depuis 1960, sans jamais de coup de force — c'est l'un des pays les plus stables et accueillants d'Afrique !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Salaam aleyk",
+      "say": "sa-LAHM ah-LAY"
+    },
+    {
+      "en": "Merci",
+      "jp": "Jërejëf",
+      "say": "jeh-reh-JEF"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "Na nga def?",
+      "say": "nah nga DEF"
+    },
+    {
+      "en": "Hospitalité",
+      "jp": "Teranga",
+      "say": "teh-RAHN-gah"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Mangi dem",
+      "say": "mahn-gee DEM"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sn-hero.jpg",
+      "alt": "Horizon de la ville de Dakar vu depuis l'océan Atlantique",
+      "caption": "DAKAR — La capitale la plus à l'ouest de l'Afrique, face à l'Atlantique.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sn-landmark.jpg",
+      "alt": "Maisons colorées sur le rivage de l'île de Gorée près de Dakar",
+      "caption": "ÎLE DE GORÉE — Île classée à l'UNESCO, lieu de mémoire mondial.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sn-animalA.jpg",
+      "alt": "Groupe de grands pélicans blancs au sanctuaire national des oiseaux de Djoudj",
+      "caption": "GRANDS PÉLICANS BLANCS — des millions arrivent à Djoudj chaque hiver.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sn-animalB.jpg",
+      "alt": "Ancien baobab au tronc énorme dans la savane sénégalaise",
+      "caption": "BAOBAB — l'arbre de vie de l'Afrique, qui vit plus de 1 000 ans.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

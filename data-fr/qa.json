@@ -1,0 +1,151 @@
+{
+  "name": "QATAR",
+  "nativeName": "قطر",
+  "romaji": "QATAR",
+  "tagline": "Sable, mer et tours étincelantes",
+  "region": "Middle East",
+  "coords": "25.3N, 51.2E",
+  "fileNo": "042",
+  "langName": "arabe",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5ECD7",
+    "dot": "#C9B48E",
+    "ink": "#231F1A",
+    "faint": "#8B7355",
+    "line": "#DDD0B2",
+    "accent": "#8D1B3D",
+    "accent2": "#F0F0F0"
+  },
+  "flag": {
+    "assetPath": "/flags/qa.svg",
+    "title": "Drapeau du Qatar",
+    "note": "Bordeaux avec une bordure blanche dentelée à 9 pointes",
+    "keyColor": "#8D1B3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Qatar est une petite péninsule si plate que sa plus haute colline ne fait que 103 mètres — c'est presque aussi plat qu'une crêpe ! Autrefois, les habitants plongeaient sous l'eau pour trouver des perles brillantes. Aujourd'hui, c'est l'un des pays les plus riches du monde grâce à d'immenses réserves de gaz !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Doha",
+      "sub": "où vivent 80 % des Qatariens"
+    },
+    {
+      "label": "Habitants",
+      "value": "3,21 millions",
+      "sub": "déc. 2025, Conseil de planification"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Riyal qatarien",
+      "sub": "1 QAR ≈ 0,27 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "arabe",
+      "sub": "l'anglais est aussi très parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "11 571 km²",
+      "sub": "plus petit que la Jamaïque"
+    },
+    {
+      "label": "Point culminant",
+      "value": "103 m",
+      "sub": "colline de Qurayn Abu al Bawl"
+    }
+  ],
+  "islands": [
+    "Doha",
+    "Al Wakrah",
+    "Al Khor",
+    "Dukhan",
+    "Lusail"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une presqu'île de sable et de mer",
+    "animals": "Oryx, faucons et géants des mers",
+    "culture": "Perles, café et fauconnerie",
+    "history": "Des perles aux trésors de gaz",
+    "wows": "Le Qatar, c'est incroyable !"
+  },
+  "geo": "Le Qatar ressemble à un pouce qui dépasse dans le Golfe Persique, presque tout plat et entouré de 600 km de côtes. Au sud, d'immenses dunes de sable plongent directement dans la mer — comme un toboggan géant !",
+  "animals": "L'oryx d'Arabie, l'animal national du Qatar, était complètement disparu, mais des soigneurs l'ont sauvé en l'élevant avec beaucoup d'amour. Le Qatar abrite aussi des dugongs — de doux mammifères marins qui ressemblent à des vaches et broutent les herbes sous l'eau !",
+  "culture": "Quand tu arrives chez un Qatarien, il t'offre du café au cardamome dans une toute petite tasse, accompagné de dattes sucrées — c'est la règle de politesse depuis des centaines d'années ! Les courses de chameaux sont très populaires, et les jockeys sont des petits robots télécommandés posés sur le dos des chameaux !",
+  "history": "Pendant des siècles, les habitants du Qatar plongeaient dans la mer sans bouteille d'oxygène pour ramasser des huîtres contenant des perles précieuses. Le Qatar était l'un des plus grands marchés de perles du monde, jusqu'au jour où des huîtres élevées au Japon ont fabriqué des perles moins chères !",
+  "wows": [
+    "La colline la plus haute du Qatar ne fait que 103 m — même la Tour Eiffel est 3 fois plus haute !",
+    "Le Qatar est l'un des 5 pays les plus riches du monde entier.",
+    "La Coupe du Monde de football 2022 s'est jouée au Qatar — les 8 stades étaient à seulement 55 km les uns des autres !",
+    "Les jockeys des courses de chameaux sont de vrais petits robots télécommandés depuis des voitures !",
+    "Des centaines de dugongs vivent dans les eaux du Qatar — c'est l'une des plus grandes populations au monde !",
+    "Le musée d'Art islamique est construit sur sa propre île artificielle au milieu de l'eau.",
+    "Doha a construit un métro climatisé flambant neuf en seulement 7 ans !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Qatar n'est que du désert vide",
+      "fact": "Le Qatar possède 600 km de côtes, des forêts de mangroves, une mer intérieure entourée de grandes dunes, et la ville de Doha avec ses tours futuristes."
+    },
+    {
+      "myth": "Le Qatar n'a pas d'histoire ni de culture",
+      "fact": "La plus vieille perle trouvée au Qatar a 6 600 ans, les habitants pratiquent la fauconnerie depuis des siècles, et Doha possède des musées extraordinaires."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min-FAD-lak"
+    },
+    {
+      "en": "Oui",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "On y va !",
+      "jp": "يلا",
+      "say": "YAL-la"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/qa-landmark.jpg",
+      "alt": "Musée d'Art islamique avec la skyline de Doha derrière",
+      "caption": "MUSÉE D'ART ISLAMIQUE — l'icône de I. M. Pei sur son île, Corniche de Doha",
+      "credit": "Mohamod Fasil / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/qa-animalA.jpg",
+      "alt": "Oryx d'Arabie blanc debout dans une réserve désertique",
+      "caption": "ORYX D'ARABIE — l'animal national du Qatar, sauvé de l'extinction",
+      "credit": "Charles J. Sharp / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/qa-animalB.jpg",
+      "alt": "Dugong nageant sous l'eau",
+      "caption": "DUGONG — les eaux du Qatar abritent l'une des plus grandes populations de dugongs",
+      "credit": "Gejuni / CC BY-SA 3.0"
+    },
+    "hero": {
+      "src": "/photos/qa-hero.jpg",
+      "alt": "Skyline de West Bay à Doha à l'aube, tours se reflétant sur l'eau",
+      "caption": "SKYLINE DE DOHA — les tours de West Bay brillent à l'aube, surgi du désert",
+      "credit": "Francisco Anzola / CC BY 2.0"
+    }
+  }
+}

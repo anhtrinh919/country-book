@@ -1,0 +1,150 @@
+{
+  "name": "POLOGNE",
+  "nativeName": "PL",
+  "romaji": "POLSKA",
+  "tagline": "Là où le courage rencontre la couleur",
+  "region": "Central-Eastern Europe",
+  "coords": "52°N 20°E",
+  "fileNo": "048",
+  "langName": "polonais",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE2",
+    "dot": "#CCBFA3",
+    "ink": "#28221E",
+    "faint": "#8B7A60",
+    "line": "#DACCB2",
+    "accent": "#C7102E",
+    "accent2": "#F5F0EA"
+  },
+  "flag": {
+    "assetPath": "/flags/pl.svg",
+    "title": "Biało-Czerwona",
+    "note": "Blanc sur rouge — simple, fort, reconnaissable partout",
+    "keyColor": "#C7102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Pologne, un aigle blanc est le symbole du pays depuis plus de mille ans — imagine, c'est super vieux ! Presque 38 millions de personnes y vivent et adorent manger des petits chaussons farcis appelés pierogis. C'est un pays magique au cœur de l'Europe !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Varsovie",
+      "sub": "Warszawa — env. 1,86 million d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "37,5 millions",
+      "sub": "Population enregistrée en 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Złoty (PLN)",
+      "sub": "100 groszy = 1 zł"
+    },
+    {
+      "label": "Langue",
+      "value": "polonais",
+      "sub": "Une seule langue officielle"
+    },
+    {
+      "label": "Superficie",
+      "value": "312 679 km²",
+      "sub": "71e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Rysy 2 499 m",
+      "sub": "Monts Tatra, au sud"
+    }
+  ],
+  "islands": [
+    "Mazovia",
+    "Silesia",
+    "Pomerania",
+    "Podlaskie"
+  ],
+  "islandsLabel": "GRANDES RÉGIONS :",
+  "sections": {
+    "geography": "Une grande plaine et des montagnes pointues",
+    "animals": "Bisons, lynx et cigognes",
+    "culture": "Pierogis, ambre et musique joyeuse",
+    "history": "Un pays perdu puis retrouvé",
+    "wows": "Des choses qui vont t'épater !"
+  },
+  "geo": "La Pologne est presque entièrement plate, comme une immense table verte parcourue de grandes rivières qui coulent jusqu'à la mer Baltique. Tout au sud, les monts Tatra se dressent très haut, avec des rochers pointus où grimpent les chamois !",
+  "animals": "Le bison d'Europe est l'animal le plus lourd de tout le continent — il vit dans l'immense forêt de Białowieża, une forêt si vieille qu'elle ressemble à une forêt de conte de fées. La Pologne accueille aussi un quart de toutes les cigognes blanches du monde, et les gens sont super contents quand une cigogne fait son nid sur leur cheminée !",
+  "culture": "En Pologne, on adore manger des pierogis — de petits chaussons de pâte bien gonflés, remplis de pommes de terre, de fromage ou même de fruits rouges. À Noël, les familles mettent toujours une assiette vide sur la table pour accueillir un inconnu qui n'aurait nulle part où aller !",
+  "history": "Il y a plus de mille ans, un roi courageux a fondé le royaume de Pologne sur une grande plaine au cœur de l'Europe. Selon la légende, la ville de Cracovie a été bâtie près d'une grotte où vivait un terrible dragon que les habitants ont vaincu avec ruse !",
+  "wows": [
+    "L'aigle blanc est le symbole de la Pologne depuis plus de 1 000 ans !",
+    "La mine de sel de Wieliczka a des chapelles entières sculptées dans le sel.",
+    "Marie Curie, qui a découvert deux éléments chimiques, est née à Varsovie.",
+    "La Pologne fabrique 70 % de tous les bijoux en ambre du monde entier.",
+    "Les bisons d'Europe avaient disparu de la nature, mais on les a sauvés : 2 000 vivent de nouveau en liberté !",
+    "Un Polonais sur quatre dans le monde vit en dehors de la Pologne !",
+    "Un quart de toutes les cigognes blanches du monde passe l'été en Pologne."
+  ],
+  "myths": [
+    {
+      "myth": "La Pologne est toujours froide et grise",
+      "fact": "En été, il fait souvent 30 °C ! Les villes comme Cracovie ont de belles places colorées et des cafés super animés."
+    },
+    {
+      "myth": "Le polonais est impossible à lire",
+      "fact": "En polonais, chaque lettre fait toujours le même son. Une fois qu'on sait que « sz » se dit « ch », on peut tout lire !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Cześć",
+      "say": "Cheshch"
+    },
+    {
+      "en": "Merci",
+      "jp": "Dziękuję",
+      "say": "Jen-KOO-yeh"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Proszę",
+      "say": "PRO-sheh"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Pyszne!",
+      "say": "PISH-neh"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Do widzenia",
+      "say": "Do vid-ZEN-ya"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pl-hero.jpg",
+      "alt": "Place du marché de la vieille ville de Varsovie avec ses maisons colorées",
+      "caption": "VIEILLE VILLE DE VARSOVIE — reconstruite de zéro, aujourd'hui classée au patrimoine mondial de l'UNESCO",
+      "credit": "Wikimedia Commons / Adrian Grycuk"
+    },
+    "landmark": {
+      "src": "/photos/pl-landmark.jpg",
+      "alt": "Chapelle sculptée dans le sel à l'intérieur de la mine de Wieliczka",
+      "caption": "MINE DE WIELICZKA — des chapelles souterraines entièrement taillées dans le sel, exploitée depuis 700 ans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pl-animalA.jpg",
+      "alt": "Bison d'Europe debout dans la forêt de Białowieża",
+      "caption": "BISON D'EUROPE — l'animal terrestre le plus lourd d'Europe, sauvé de l'extinction ici",
+      "credit": "Wikimedia Commons / Radomił Binek"
+    },
+    "animalB": {
+      "src": "/photos/pl-animalB.jpg",
+      "alt": "Cigogne blanche debout dans un champ polonais",
+      "caption": "CIGOGNE BLANCHE — la Pologne accueille 25 % des cigognes reproductrices du monde chaque été",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

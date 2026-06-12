@@ -1,0 +1,151 @@
+{
+  "name": "TURKMÉNISTAN",
+  "nativeName": "TM",
+  "romaji": "TÜRKMENISTAN",
+  "tagline": "Sable, gaz et chevaux dorés",
+  "region": "Central Asia",
+  "coords": "40°N 60°E",
+  "fileNo": "078",
+  "langName": "turkmène",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EAD8",
+    "dot": "#C8B89A",
+    "ink": "#26201A",
+    "faint": "#867560",
+    "line": "#DDD0B8",
+    "accent": "#1A7A3C",
+    "accent2": "#C0302A"
+  },
+  "flag": {
+    "assetPath": "/flags/tm.svg",
+    "title": "Drapeau du Turkménistan.",
+    "note": "Fond vert, bande rouge avec motifs gul, croissant et étoiles",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Turkménistan, il y a un trou géant dans le désert qui brûle comme un volcan depuis plus de 50 ans — on l'appelle la Porte de l'Enfer ! Ce pays est aussi la maison des plus beaux chevaux du monde, dont le pelage brille tout seul comme de l'or.",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Achgabat",
+      "sub": "Pop. ~1 030 000 (recensement 2022)"
+    },
+    {
+      "label": "Habitants",
+      "value": "~7,1 millions",
+      "sub": "Recensement 2022"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Manat (TMT)",
+      "sub": "Fixe : 3,5 TMT = 1 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "turkmène",
+      "sub": "Le russe est aussi très parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "491 210 km²",
+      "sub": "À peu près la taille de l'Espagne"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Aýrybaba",
+      "sub": "3 139 m — massif du Köýtendag"
+    }
+  ],
+  "islands": [
+    "Ahal",
+    "Balkan",
+    "Dashoguz",
+    "Lebap",
+    "Mary"
+  ],
+  "islandsLabel": "CINQ RÉGIONS :",
+  "sections": {
+    "geography": "Un océan de sable et de secrets",
+    "animals": "Bêtes du désert et chevaux d'or",
+    "culture": "Tapis, chevaux et belles choses",
+    "history": "Routes de soie et cités géantes",
+    "wows": "C'est pas possible !"
+  },
+  "geo": "Le désert Karakum couvre 70 % du pays — c'est un immense tapis de sable chaud où il fait jusqu'à 50 °C ! Mais à l'ouest, il y a la mer Caspienne, et au sud-est, de vraies montagnes avec des forêts.",
+  "animals": "Le cheval Akhal-Teke est le trésor du Turkménistan : son pelage brille tout seul comme de l'or sous le soleil, sans aucune peinture ! Dans le désert vivent aussi des chats des sables qui chassent la nuit et des ânes sauvages appelés kulans.",
+  "culture": "Au Turkménistan, les mamans apprennent à leurs filles à tisser des tapis avec des motifs secrets qui racontent l'histoire de la famille. Chaque année en avril, tout le pays fait la fête pour honorer les chevaux avec des parades et des courses !",
+  "history": "Il y a très très longtemps, la ville de Merv était l'une des plus grandes villes du monde entier, avec peut-être un million de personnes ! Elle était sur la Route de la Soie, le chemin magique qui reliait la Chine à l'Europe.",
+  "wows": [
+    "La capitale Achgabat a 543 bâtiments en marbre blanc — c'est un record du monde Guinness !",
+    "La Porte de l'Enfer est un grand trou qui brûle dans le désert depuis 1971, comme un feu qui ne s'éteint jamais.",
+    "Depuis 2018, les voitures noires sont interdites à Achgabat — le président aime seulement le blanc !",
+    "Le cheval Akhal-Teke brille vraiment comme de l'or — ses poils creux font comme des petits miroirs.",
+    "Le Turkménistan a les 4e plus grandes réserves de gaz naturel du monde, sous son désert.",
+    "L'ancienne ville de Merv était peut-être la plus grande ville du monde au 12e siècle.",
+    "L'ONU a déclaré le Turkménistan pays neutre pour toujours en 1995 — unique au monde !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Turkménistan n'est que du sable",
+      "fact": "Il y a bien 70 % de désert, mais aussi une côte sur la mer Caspienne, des forêts avec des léopards et des vallées fertiles où vivait la grande cité de Merv."
+    },
+    {
+      "myth": "La Porte de l'Enfer a pris feu toute seule",
+      "fact": "Des ingénieurs ont accidentellement percé un trou dans une poche de gaz en 1971, puis ils l'ont allumé exprès en pensant que ça s'éteindrait vite — mais ça a brûlé plus de 50 ans !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Salam",
+      "say": "sah-LAM"
+    },
+    {
+      "en": "Merci",
+      "jp": "Sag boluň",
+      "say": "sahg-bol-UNG"
+    },
+    {
+      "en": "Oui",
+      "jp": "Hawa",
+      "say": "HA-wa"
+    },
+    {
+      "en": "Bien !",
+      "jp": "Gowy",
+      "say": "GO-wee"
+    },
+    {
+      "en": "Pardon !",
+      "jp": "Bagyşlaň",
+      "say": "bah-GISH-lang"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tm-hero.jpg",
+      "alt": "Horizon de la capitale Achgabat avec ses immeubles en marbre blanc",
+      "caption": "ACHGABAT — plus de 543 bâtiments en marbre blanc font briller la capitale, record du monde Guinness.",
+      "credit": "Bayram A / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/tm-landmark.jpg",
+      "alt": "Cratère de gaz de Darvaza qui brûle la nuit dans le désert Karakum",
+      "caption": "CRATÈRE DE DARVAZA — la « Porte de l'Enfer » brûle dans le Karakum depuis 1971.",
+      "credit": "flydime / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/tm-animalA.jpg",
+      "alt": "Chevaux Akhal-Teke en course au stade national d'Achgabat au Turkménistan",
+      "caption": "CHEVAUX AKHAL-TEKE — la race dorée du Turkménistan en course au stade national d'Achgabat.",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/tm-animalB.jpg",
+      "alt": "Kulan du Turkménistan, âne sauvage du désert, vu de profil",
+      "caption": "KULAN DU TURKMÉNISTAN — l'âne sauvage du désert en danger qui parcourt le Karakum.",
+      "credit": "Hans-Peter Scholz / CC BY-SA 2.0 DE"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "RD CONGO",
+  "nativeName": "CD",
+  "romaji": "KONGO",
+  "tagline": "Cœur de la jungle",
+  "region": "Central Africa",
+  "coords": "4°S, 21°E",
+  "fileNo": "059",
+  "langName": "lingala",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9E",
+    "ink": "#231F1C",
+    "faint": "#8A7A5C",
+    "line": "#DDD0B0",
+    "accent": "#007FFF",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/cd.svg",
+    "title": "Drapeau de la RDC",
+    "note": "Bleu ciel, bande diagonale rouge bordée d'or",
+    "keyColor": "#007FFF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le fleuve Congo est si profond qu'on ne voit jamais le fond — c'est le fleuve le plus profond du monde entier ! Une forêt gigantesque s'étend à perte de vue, aussi grande que toute l'Europe de l'Ouest. Des milliers d'animaux extraordinaires y vivent, qu'on ne trouve nulle part ailleurs !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Kinshasa",
+      "sub": "env. 17 M hab. ; la plus grande ville d'Afrique"
+    },
+    {
+      "label": "Habitants",
+      "value": "105 millions",
+      "sub": "est. 2024 ; grandit très vite"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc congolais",
+      "sub": "CDF ; 1 USD ≈ 2 800 CDF"
+    },
+    {
+      "label": "Langue",
+      "value": "Français",
+      "sub": "lingala, swahili, kikongo aussi"
+    },
+    {
+      "label": "Superficie",
+      "value": "2,34 M km²",
+      "sub": "2e plus grand pays d'Afrique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Margherita",
+      "sub": "5 109 m dans les monts Rwenzori"
+    }
+  ],
+  "islands": [
+    "Kinshasa",
+    "Lubumbashi",
+    "Goma",
+    "Kisangani",
+    "Mbuji-Mayi"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un fleuve magique au cœur de la forêt",
+    "animals": "Bêtes géantes et créatures secrètes",
+    "culture": "Musique, couleurs et 200 peuples",
+    "history": "Un grand royaume au cœur de l'Afrique",
+    "wows": "Difficile à croire mais c'est vrai !"
+  },
+  "geo": "Le fleuve Congo serpente à travers le pays comme un énorme point d'interrogation, au milieu d'une forêt aussi grande que l'Europe de l'Ouest. À l'est, des volcans et des montagnes enneigées s'élèvent jusqu'aux nuages, même tout près de l'équateur !",
+  "animals": "L'okapi est un animal timide avec des rayures de zèbre sur les pattes — il ressemble à une girafe et ne vit que dans les forêts du Congo. Le fleuve abrite plus de 700 sortes de poissons différents, dont l'énorme tigerfish aux dents pointues comme des couteaux !",
+  "culture": "Le Congo a inventé la soukous, une musique joyeuse à la guitare électrique qui fait danser toute l'Afrique depuis des décennies. Les gens portent de beaux tissus colorés appelés kitenge, avec des motifs magnifiques qu'on retrouve dans les grandes boutiques de mode du monde entier !",
+  "history": "Il y a très longtemps, un puissant royaume appelé le Royaume Kongo régnait sur une grande partie de l'Afrique centrale, et commerçait du cuivre et des étoffes avec des pays très lointains. Le 30 juin 1960, le Congo est devenu libre et indépendant — ce jour-là, tous les habitants ont célébré avec une joie immense !",
+  "wows": [
+    "Le fleuve Congo est le plus profond du monde entier — plus de 220 mètres !",
+    "Plus de la moitié de toute la forêt tropicale d'Afrique se trouve au Congo.",
+    "Nulle part ailleurs sur Terre il y a autant d'espèces de poissons d'eau douce.",
+    "Kinshasa et Brazzaville sont les deux capitales les plus proches du monde — on peut presque se dire bonjour d'une rive à l'autre !",
+    "La batterie de presque tous les téléphones du monde contient un minéral extrait au Congo.",
+    "Les bonobos sont les seuls grands singes dirigés par des femelles.",
+    "Le volcan Nyiragongo a un lac de lave orange qui brille la nuit comme un soleil sous la terre !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Congo, c'est que de la jungle",
+      "fact": "À l'est, il y a de vraies montagnes avec de la neige, des volcans qui crachent de la lave, et de grandes prairies — très différentes de la forêt !"
+    },
+    {
+      "myth": "On ne peut pas y aller en visite",
+      "fact": "La plupart du pays, comme la grande ville de Kinshasa, est paisible et accueillante pour les visiteurs."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Mbote",
+      "say": "mm-BOH-teh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Merci",
+      "say": "MEHR-see"
+    },
+    {
+      "en": "Oui",
+      "jp": "Iyo",
+      "say": "EE-yoh"
+    },
+    {
+      "en": "Ami",
+      "jp": "Moninga",
+      "say": "moh-NING-ah"
+    },
+    {
+      "en": "Fleuve",
+      "jp": "Ebale",
+      "say": "eh-BAH-leh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cd-hero.jpg",
+      "alt": "Panorama de la ville de Kinshasa vue depuis l'autre rive du fleuve Congo",
+      "caption": "KINSHASA — l'une des plus grandes villes d'Afrique au bord du fleuve Congo",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cd-landmark.jpg",
+      "alt": "Lac de lave incandescent dans le cratère du mont Nyiragongo",
+      "caption": "MT NYIRAGONGO — un lac de lave brûlant brille dans ce volcan actif du Congo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cd-animalA.jpg",
+      "alt": "Okapi debout dans la forêt montrant ses pattes rayées",
+      "caption": "OKAPI — la girafe rayée de la forêt, qu'on trouve uniquement en RD Congo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cd-animalB.jpg",
+      "alt": "Bonobo au repos dans la végétation verte",
+      "caption": "BONOBO — notre cousin singe le plus proche ne vit que dans les forêts du Congo",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "name": "GRENADE",
+  "nativeName": "GD",
+  "romaji": "GRENADA",
+  "tagline": "L'île aux épices des Caraïbes",
+  "region": "Caribbean",
+  "coords": "12.1°N, 61.7°W",
+  "fileNo": "082",
+  "langName": "créole anglais",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F4EEE0",
+    "dot": "#c9b99a",
+    "ink": "#251e18",
+    "faint": "#877358",
+    "line": "#ddd0b8",
+    "accent": "#CE1126",
+    "accent2": "#009E60"
+  },
+  "flag": {
+    "assetPath": "/flags/gd.svg",
+    "title": "Drapeau de la Grenade",
+    "note": "Triangles or et vert, bordure rouge, noix de muscade",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "La Grenade est une toute petite île des Caraïbes qui produit un cinquième de toute la noix de muscade du monde — c'est pour ça qu'elle s'appelle l'Île aux Épices ! Des montagnes couvertes de forêt plongent dans une mer turquoise avec des poissons de toutes les couleurs. Une île minuscule, mais avec un parfum magique !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "St. George's",
+      "sub": "Port en fer à cheval, côte sud-ouest"
+    },
+    {
+      "label": "Habitants",
+      "value": "~117 000",
+      "sub": "Estimation Banque mondiale 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar des Caraïbes",
+      "sub": "Lié au dollar américain depuis 1976"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Le créole est aussi parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "344 km²",
+      "sub": "Environ 3 fois Malte"
+    },
+    {
+      "label": "Point culminant",
+      "value": "840 m",
+      "sub": "Mont Sainte-Catherine, sommet forestier"
+    }
+  ],
+  "islands": [
+    "Grenada",
+    "Carriacou",
+    "Petite Mart.",
+    "Ronde Island"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Une île volcanique parfumée",
+    "animals": "Singes espiègles et tortues géantes",
+    "culture": "Tambours, fête et plats mijotés",
+    "history": "Une île pleine de secrets anciens",
+    "wows": "Des choses vraiment incroyables !"
+  },
+  "geo": "La Grenade est une ancienne montagne volcanique habillée de forêt tropicale. Au cœur de l'île, le lac Grand Etang dort dans un vieux cratère entouré de grandes fougères et de brouillard.",
+  "animals": "Des singes mona sautent entre les branches de la forêt — ils sont arrivés d'Afrique il y a plus de 260 ans et se promènent librement ! De grandes tortues luths viennent pondre leurs œufs sur la plage de Levera la nuit, au clair de lune.",
+  "culture": "Chaque mois d'août, la Grenade fait une grande fête appelée Spicemas avec des tambours, des déguisements et des danses colorées. Le plat national s'appelle l'oildown : du fruit à pain, du lait de coco et de la viande mijotent dans un grand pot — ça sent tellement bon !",
+  "history": "Les premiers habitants appelaient cette île Camerhogne, et Christophe Colomb l'a aperçue depuis son bateau en 1498. Les Français sont arrivés en 1649 et ont laissé plein de jolis noms de villages qui sonnent encore français aujourd'hui !",
+  "wows": [
+    "La Grenade produit un cinquième de toute la noix de muscade de la planète — son sol volcanique la rend extra parfumée !",
+    "Sous l'eau, à 5 mètres de profondeur, il y a 65 statues couvertes de coraux — le premier parc de sculptures sous-marines du monde !",
+    "Le drapeau de la Grenade porte une vraie noix de muscade — seul pays au monde à mettre une épice sur son drapeau !",
+    "Les singes mona viennent d'Afrique, mais ils vivent sauvages sur l'île depuis plus de 260 ans.",
+    "Un tunnel creusé à la main dans la roche volcanique en 1894 sert encore aux voitures aujourd'hui !",
+    "Les tortues luths existent depuis bien avant les îles des Caraïbes — ce sont des animaux plus anciens que l'île elle-même !",
+    "À la Grenade, les gens ne paient pas d'impôts sur leurs revenus — c'est très rare dans le monde entier !"
+  ],
+  "myths": [
+    {
+      "myth": "La Grenade fait partie des Grenadines",
+      "fact": "Ce sont deux endroits différents ! Les Grenadines sont partagées avec Saint-Vincent. La Grenade est son propre pays plus au sud, avec ses îles sœurs Carriacou et Petite Martinique."
+    },
+    {
+      "myth": "Les muscadiers poussent vite",
+      "fact": "Un muscadier met 7 à 9 ans avant de donner ses premières épices et jusqu'à 20 ans pour en produire beaucoup — chaque petite noix représente des années de patience !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Wha happenin",
+      "say": "wha HAP-en-in"
+    },
+    {
+      "en": "Merci",
+      "jp": "Tanks nuh",
+      "say": "tanks NOO"
+    },
+    {
+      "en": "Très bien",
+      "jp": "Real good",
+      "say": "ree-uhl GOOD"
+    },
+    {
+      "en": "Ami",
+      "jp": "Pardner",
+      "say": "PARD-nuh"
+    },
+    {
+      "en": "On y va !",
+      "jp": "Come nuh",
+      "say": "kum NOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gd-hero.jpg",
+      "alt": "Panorama du port de St. George's, Grenade",
+      "caption": "PORT DE ST. GEORGE'S — des maisons colorées entourent l'un des plus beaux ports des Caraïbes",
+      "credit": "Wikimedia Commons / panoramio"
+    },
+    "landmark": {
+      "src": "/photos/gd-landmark.jpg",
+      "alt": "Sculpture sous-marine dans la baie de Molinere, Grenade",
+      "caption": "PARC DE SCULPTURES DE MOLINERE — la première galerie d'art sous-marine du monde, aujourd'hui couverte de coraux",
+      "credit": "SunCat / Flickr via Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gd-animalA.jpg",
+      "alt": "Singe mona et son bébé accrochés à une branche",
+      "caption": "SINGE MONA — descendants de passagers clandestins africains, sauvages à la Grenade depuis 260 ans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gd-animalB.jpg",
+      "alt": "Tortue luth sur une plage la nuit",
+      "caption": "TORTUE LUTH — le plus grand reptile des océans pond ses œufs sur la plage de Levera",
+      "credit": "Wikimedia Commons / NPS USVI"
+    }
+  }
+}

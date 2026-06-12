@@ -1,0 +1,151 @@
+{
+  "name": "ISRAËL",
+  "nativeName": "ישראל",
+  "romaji": "YISRA'EL",
+  "tagline": "Là où l'histoire est vivante",
+  "region": "Middle East",
+  "coords": "31.0°N 35.0°E",
+  "fileNo": "042",
+  "langName": "hébreu",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#CEC8B5",
+    "ink": "#1E1C18",
+    "faint": "#8A8070",
+    "line": "#DCD8C8",
+    "accent": "#1D4FA0",
+    "accent2": "#D0D0D0"
+  },
+  "flag": {
+    "assetPath": "/flags/il.svg",
+    "title": "Drapeau d'Israël",
+    "note": "Deux bandes bleues encadrent une étoile de David",
+    "keyColor": "#1D4FA0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Il y a une mer en Israël tellement salée qu'on flotte tout seul sans nager ! Jérusalem, la capitale, est une ville sainte pour trois religions en même temps. Des fleurs poussent même au milieu du désert !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Jérusalem",
+      "sub": "Ville sainte pour 3 religions"
+    },
+    {
+      "label": "Habitants",
+      "value": "10 millions",
+      "sub": "CBS Israël, fin 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Shekel (₪)",
+      "sub": "Nouveau shekel israélien"
+    },
+    {
+      "label": "Langue",
+      "value": "Hébreu",
+      "sub": "L'arabe est aussi officiel"
+    },
+    {
+      "label": "Superficie",
+      "value": "20 770 km²",
+      "sub": "Plus petit que le Pays de Galles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Hermon 2 236 m",
+      "sub": "Couvert de neige en hiver"
+    }
+  ],
+  "islands": [
+    "Jerusalem",
+    "Tel Aviv",
+    "Haifa",
+    "Eilat",
+    "Be'er Sheva"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Déserts, mers et montagnes enneigées",
+    "animals": "Les animaux fabuleux d'Israël",
+    "culture": "Fêtes, saveurs et traditions",
+    "history": "3 000 ans d'histoires extraordinaires",
+    "wows": "Incroyable mais vrai !"
+  },
+  "geo": "En Israël, il y a une côte verte, un désert immense, une montagne enneigée et une vallée fleurie — tout ça dans un tout petit pays ! Le Jourdain coule vers la mer Morte, le point le plus bas de toute la Terre.",
+  "animals": "Deux fois par an, 500 millions d'oiseaux traversent le ciel d'Israël comme une rivière géante de plumes ! L'oryx d'Arabie, une antilope blanche qui ressemble à une licorne, a été sauvé de la disparition et vit maintenant dans le désert du Néguev.",
+  "culture": "En Israël, on mange du houmous et des falafels délicieux tous les jours ! Le vendredi soir, toute la famille se réunit autour d'une grande table avec des bougies et un gros pain tressé appelé challah.",
+  "history": "Le roi David a construit sa capitale à Jérusalem il y a 3 000 ans et son fils Salomon y a élevé un temple immense. Israël est le seul pays au monde à avoir ressuscité une langue morte — l'hébreu — pour en faire la langue de tous les jours !",
+  "wows": [
+    "La mer Morte est tellement salée qu'on ne peut pas couler, même si on essaie très fort !",
+    "L'hébreu n'était plus parlé depuis 2 000 ans — Israël l'a ramené à la vie, unique au monde.",
+    "500 millions d'oiseaux survolent Israël deux fois par an — c'est comme une tempête de plumes !",
+    "Des scientifiques israéliens ont inventé la petite tomate cerise dans les années 1970.",
+    "Israël a plus de musées par personne que n'importe quel autre pays — il y en a même un sur le pain !",
+    "La mer Morte se trouve à 430 mètres sous le niveau de la mer — c'est le point le plus bas de la Terre !",
+    "L'oiseau national d'Israël est la huppe fasciée — un oiseau rayé et huppé choisi par vote du public !"
+  ],
+  "myths": [
+    {
+      "myth": "La mer Morte est une vraie mer",
+      "fact": "C'est en réalité un lac salé sans sortie vers l'océan. L'eau s'évapore et le sel reste, si bien que les poissons ne peuvent pas y vivre."
+    },
+    {
+      "myth": "Israël n'est qu'un désert",
+      "fact": "Le Néguev est un désert, mais le nord a des vallées vertes, des pentes enneigées sur le mont Hermon en hiver, et une belle côte méditerranéenne avec des vergers et des réserves naturelles."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "שָׁלוֹם",
+      "say": "sha-LOM"
+    },
+    {
+      "en": "Merci",
+      "jp": "תּוֹדָה",
+      "say": "to-DAH"
+    },
+    {
+      "en": "Oui",
+      "jp": "כֵּן",
+      "say": "ken"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "טָעִים",
+      "say": "ta-EEM"
+    },
+    {
+      "en": "Ami",
+      "jp": "חָבֵר",
+      "say": "cha-VER"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/il-hero.jpg",
+      "alt": "Vue aérienne de la vieille ville de Jérusalem avec le Dôme du Rocher doré",
+      "caption": "VIEILLE VILLE DE JÉRUSALEM — le Dôme du Rocher doré brille sur 3 000 ans d'histoire",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/il-landmark.jpg",
+      "alt": "Une personne flottant sans effort dans la mer Morte ultra-salée",
+      "caption": "MER MORTE — tellement salée qu'on flotte tout seul, à 430 m sous le niveau de la mer",
+      "credit": "David Shankbone / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/il-animalA.jpg",
+      "alt": "Des milliers de grues volant au-dessus des zones humides de la vallée du Houla en Israël",
+      "caption": "GRUES DE LA VALLÉE DU HOULA — 500 millions d'oiseaux survolent Israël chaque saison de migration",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/il-animalB.jpg",
+      "alt": "Un oryx d'Arabie blanc debout dans le désert du Néguev",
+      "caption": "ORYX D'ARABIE — sauvé de l'extinction, il vit de nouveau dans le Néguev",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "ARMÉNIE",
+  "nativeName": "Հայաստ",
+  "romaji": "HAYASTAN",
+  "tagline": "Pierres anciennes et lumière dorée",
+  "region": "South Caucasus, Western Asia",
+  "coords": "40.1°N, 45.0°E",
+  "fileNo": "031",
+  "langName": "arménien",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE2",
+    "dot": "#CDBFA0",
+    "ink": "#2A2118",
+    "faint": "#8A7860",
+    "line": "#DCCFB0",
+    "accent": "#D90012",
+    "accent2": "#F2A800"
+  },
+  "flag": {
+    "assetPath": "/flags/am.svg",
+    "title": "Drapeau de l'Arménie",
+    "note": "Tricolore : rouge, bleu et orange abricot",
+    "keyColor": "#D90012",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Arménie a inventé son propre alphabet il y a 1 600 ans — et les enfants grimpent dessus dans un parc ! C'est aussi le premier pays au monde à avoir choisi la religion chrétienne. Les monastères sont taillés dans la roche vive !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Erevan",
+      "sub": "L'une des plus vieilles villes du monde"
+    },
+    {
+      "label": "Habitants",
+      "value": "2,97 millions",
+      "sub": "StatCom arménien, 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dram (AMD)",
+      "sub": "Son nom vient de la drachme grecque"
+    },
+    {
+      "label": "Langue",
+      "value": "arménien",
+      "sub": "Alphabet propre, inventé en 405 apr. J.-C."
+    },
+    {
+      "label": "Superficie",
+      "value": "29 743 km²",
+      "sub": "Plus petit que la Belgique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Aragats 4 090 m",
+      "sub": "Un volcan éteint à quatre sommets"
+    }
+  ],
+  "islands": [
+    "Yerevan",
+    "Gyumri",
+    "Vanadzor",
+    "Dilijan",
+    "Goris"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, lacs et roches volcaniques",
+    "animals": "Aigles, ours et truites rares",
+    "culture": "Fêtes, pierres et vieilles lettres",
+    "history": "La première nation chrétienne du monde",
+    "wows": "Des trucs qui vont t'épater !"
+  },
+  "geo": [
+    "L'Arménie est presque entièrement montagneuse — on y est en moyenne plus haut que dans les Alpes suisses ! Elle n'a aucune mer ni océan : des pays la entourent de partout.",
+    "Le lac Sévan est posé à 1 900 mètres d'altitude, comme au sommet d'une montagne géante. Il brille d'un bleu éclatant entre des collines dorées !"
+  ],
+  "animals": [
+    "Le mouflon arménien est un mouton sauvage des montagnes avec de gigantesques cornes courbées. On le retrouve sculpté sur des pierres vieilles de milliers d'années !",
+    "Le lac Sévan abrite l'ishkhan, une truite qui n'existe nulle part ailleurs sur Terre. Des vautours fauves et des aigles royaux planent haut dans le ciel au-dessus des vieux monastères."
+  ],
+  "culture": [
+    "L'Arménie a inventé son propre alphabet de 38 lettres en 405 apr. J.-C. — il ne ressemble à aucune autre écriture du monde. Au Parc de l'Alphabet à Erevan, les enfants grimpent sur de gigantesques lettres en pierre !",
+    "Le lavash est un pain plat cuit dans un four en argile enterré dans le sol — reconnu par l'UNESCO. L'abricot est le fruit national : en latin, « armeniaca » veut dire « venu d'Arménie » !"
+  ],
+  "history": [
+    "Il y a très longtemps, le roi Tiridate III a décidé que toute l'Arménie deviendrait chrétienne — c'était le premier pays du monde à le faire ! Le monastère de Geghard est creusé directement dans la roche.",
+    "Une légende dit que Noé et son arche se seraient posés sur le mont Ararat, la montagne symbole de l'Arménie, après le grand déluge."
+  ],
+  "wows": [
+    "Erevan s'appelle la « Ville Rose » — ses bâtiments sont construits en pierre volcanique rose locale !",
+    "La plus vieille chaussure du monde (5 500 ans !) a été trouvée parfaitement conservée dans une grotte arménienne en 2008.",
+    "Une cave à vin vieille de 6 100 ans a été découverte près du village d'Areni — l'une des plus anciennes jamais trouvées.",
+    "L'alphabet arménien n'a presque pas changé depuis 1 600 ans — c'est l'un des plus stables de l'histoire !",
+    "L'escalier Cascade à Erevan compte 572 marches et cache un escalator secret à l'intérieur.",
+    "Le jeu d'échecs est obligatoire à l'école en Arménie — le seul pays où les enfants doivent l'apprendre dès 7 ans !",
+    "Le téléphérique de Tatev s'étire sur 5,7 km au-dessus d'un canyon impressionnant — le plus long trajet sans arrêt du monde !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Arménie fait partie du Moyen-Orient",
+      "fact": "L'Arménie se trouve dans le Caucase du Sud, un carrefour entre l'Europe et l'Asie. Elle ressemble bien plus à la Géorgie et à l'Europe de l'Est qu'aux pays arabes."
+    },
+    {
+      "myth": "Le mont Ararat est en Arménie",
+      "fact": "Ce grand sommet enneigé dessiné sur le blason arménien se trouve en Turquie ! Les Arméniens l'adorent quand même comme leur symbole national."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Բարև",
+      "say": "ba-REV"
+    },
+    {
+      "en": "Merci",
+      "jp": "Շնորհակալ",
+      "say": "sh-nor-ha-KAL"
+    },
+    {
+      "en": "Oui",
+      "jp": "Այո",
+      "say": "AY-o"
+    },
+    {
+      "en": "Pain",
+      "jp": "Հաց",
+      "say": "hats"
+    },
+    {
+      "en": "Abricot",
+      "jp": "Ծիրան",
+      "say": "tsi-RAN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/am-hero.jpg",
+      "alt": "L'escalier Cascade à Erevan au crépuscule avec les lumières de la ville en bas",
+      "caption": "CASCADE D'EREVAN — le grand escalier au-dessus de la capitale rose de l'Arménie",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/am-landmark.jpg",
+      "alt": "Le monastère de Geghard taillé dans une falaise au fond d'un canyon montagneux",
+      "caption": "MONASTÈRE DE GEGHARD — creusé dans la roche vive, fondé au IVe siècle",
+      "credit": "Lori Butcher / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/am-animalA.jpg",
+      "alt": "Mouflon arménien avec de grandes cornes courbées sur un flanc de colline rocheuse",
+      "caption": "MOUFLON ARMÉNIEN — le mouton sauvage emblématique des pentes montagneuses d'Arménie",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/am-animalB.jpg",
+      "alt": "Le lac Sévan d'un bleu profond entouré de collines dorées sous un ciel limpide",
+      "caption": "LAC SÉVAN — demeure de la truite ishkhan qu'on ne trouve nulle part ailleurs sur Terre",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

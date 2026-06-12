@@ -1,0 +1,151 @@
+{
+  "name": "PÉROU",
+  "nativeName": "PE",
+  "romaji": "PERU",
+  "tagline": "Le pays des Incas",
+  "region": "South America",
+  "coords": "9.19°S, 75.01°W",
+  "fileNo": "042",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA5",
+    "ink": "#2B2318",
+    "faint": "#8A7A5A",
+    "line": "#DACFB2",
+    "accent": "#D91023",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/pe.svg",
+    "title": "Drapeau du Pérou",
+    "note": "Rayures rouge-blanc-rouge depuis 1825",
+    "keyColor": "#D91023",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Pérou, il y a une ville secrète construite tout en haut d'une montagne dans les nuages — elle s'appelle Machu Picchu et on ne l'a retrouvée qu'il y a cent ans ! Les Incas y ont empilé des pierres gigantesques si parfaitement qu'elles tiennent encore debout sans colle du tout !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Lima",
+      "sub": "La Cité des Rois, fondée en 1535"
+    },
+    {
+      "label": "Habitants",
+      "value": "33,3 millions",
+      "sub": "Estimation INEI 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Sol (PEN)",
+      "sub": "1 sol = 100 centimes"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "Quechua et aymara aussi officiels"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 285 216 km²",
+      "sub": "3× la taille de la Californie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "6 768 m",
+      "sub": "Le Huascarán, dans les Andes"
+    }
+  ],
+  "islands": [
+    "Lima",
+    "Cusco",
+    "Arequipa",
+    "Iquitos",
+    "Trujillo"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Trois pays en un seul !",
+    "animals": "Poils, plumes et couleurs vives",
+    "culture": "Fêtes, saveurs et flûtes magiques",
+    "history": "La légende du grand empire",
+    "wows": "Des choses qui t'étonneront vraiment !"
+  },
+  "geo": "Au Pérou, il y a un désert au bord de la mer, de gigantesques montagnes enneigées au milieu, et une grande jungle amazone derrière. Tout au fond, il y a un lac tellement haut dans les montagnes que les oiseaux doivent battre des ailes plus vite pour voler !",
+  "animals": "L'alpaga est un animal tout doux et tout bouclé qui vit dans les montagnes — sa laine est encore plus douce que celle d'un mouton ! Au Pérou, il y a aussi un oiseau tout orange électrique qui danse et tournoie pour impressionner ses amis.",
+  "culture": "La pomme de terre vient du Pérou — il en existe plus de 3 000 sortes différentes rien que là-bas ! Chaque année à Cusco, les gens s'habillent avec des costumes incroyables et dansent pour célébrer le dieu soleil des Incas.",
+  "history": "Il y a très longtemps, les Incas ont construit un empire immense en déplaçant des pierres aussi lourdes que des éléphants, sans camions ni grues. Ils avaient aussi des routes longues de 40 000 km — comme faire le tour de la Terre !",
+  "wows": [
+    "Machu Picchu était cachée dans les nuages depuis 400 ans et personne ne la connaissait !",
+    "Au Pérou, on trouve 1 800 sortes d'oiseaux différents — presque un oiseau sur cinq de toute la Terre !",
+    "Les Lignes de Nazca sont des dessins géants dans le désert, visibles seulement depuis un avion.",
+    "Toutes les pommes de terre du monde — les frites aussi ! — viennent des Andes péruviennes.",
+    "Le canyon de Colca est deux fois plus profond que le Grand Canyon américain.",
+    "Le fleuve Amazone commence sa course dans les montagnes du Pérou avant de parcourir 5 600 km.",
+    "Les pierres incas s'emboîtent si bien qu'on ne peut même pas glisser une feuille entre elles !"
+  ],
+  "myths": [
+    {
+      "myth": "Machu Picchu était la capitale des Incas",
+      "fact": "C'était en fait la maison de vacances d'un grand roi inca ! La vraie capitale était Cusco."
+    },
+    {
+      "myth": "L'Amazone commence au Brésil",
+      "fact": "Non — il commence tout petit dans les montagnes du Pérou, à 5 600 km de la mer !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "¡Riquísimo!",
+      "say": "ree-KEE-see-moh"
+    },
+    {
+      "en": "On va où ?",
+      "jp": "¿A dónde?",
+      "say": "ah DON-deh"
+    },
+    {
+      "en": "Ami",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pe-hero.jpg",
+      "alt": "Vue aérienne de la citadelle de Machu Picchu sur une crête de montagne brumeuse",
+      "caption": "MACHU PICCHU — la citadelle inca perchée dans les nuages à 2 430 m au-dessus de la vallée de l'Urubamba",
+      "credit": "Wikimedia Commons / Allard Schmidt"
+    },
+    "landmark": {
+      "src": "/photos/pe-landmark.jpg",
+      "alt": "Terrasses et temples en pierre de Machu Picchu",
+      "caption": "TERRASSES DE MACHU PICCHU — construites sans mortier, ces murs résistent aux grands tremblements de terre",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pe-animalA.jpg",
+      "alt": "Alpaga blanc dans une prairie andine avec des montagnes derrière",
+      "caption": "ALPAGA — le plus doux des habitants des Andes, précieux pour sa toison ultra-douce",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pe-animalB.jpg",
+      "alt": "Coq-de-roche d'un orange vif perché sur une branche",
+      "caption": "COQ-DE-ROCHE — l'oiseau national du Pérou, tout orange électrique, qui vit dans la forêt nuageuse",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

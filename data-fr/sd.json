@@ -1,0 +1,151 @@
+{
+  "name": "SOUDAN",
+  "nativeName": "SD",
+  "romaji": "AS-SUDAN",
+  "tagline": "Le pays aux mille pyramides",
+  "region": "North Africa",
+  "coords": "15°N 30°E",
+  "fileNo": "093",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#C8B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7055",
+    "line": "#DDD0B0",
+    "accent": "#D21034",
+    "accent2": "#007229"
+  },
+  "flag": {
+    "assetPath": "/flags/sd.svg",
+    "title": "Drapeau du Soudan",
+    "note": "Rouge-blanc-noir avec un triangle vert",
+    "keyColor": "#D21034",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Soudan a plus de pyramides qu'en Égypte — plus de 200 rien qu'à Meroë, cachées dans le désert ! Deux grands fleuves Nil se rencontrent à Khartoum en tourbillons de deux couleurs différentes. C'est l'un des pays les plus étonnants de toute l'Afrique !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Khartoum",
+      "sub": "là où deux Nil se rejoignent"
+    },
+    {
+      "label": "Habitants",
+      "value": "~47 millions",
+      "sub": "estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "livre SDG",
+      "sub": "livre soudanaise"
+    },
+    {
+      "label": "Langue",
+      "value": "arabe",
+      "sub": "officielle ; plus de 70 autres langues parlées"
+    },
+    {
+      "label": "Superficie",
+      "value": "1,86 M km²",
+      "sub": "3e plus grand pays d'Afrique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 042 m",
+      "sub": "Caldera Deriba, Jebel Marra"
+    }
+  ],
+  "islands": [
+    "Khartoum",
+    "Omdurman",
+    "Port Sudan",
+    "Kassala",
+    "El-Obeid"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Désert, fleuve et volcan",
+    "animals": "Crocs, chameaux et gazelles",
+    "culture": "Pyramides, henné et musique du Nil",
+    "history": "Les pharaons noirs du Koush",
+    "wows": "Des trucs qui font « Waouh ! »"
+  },
+  "geo": "Au nord, le Soudan est un grand désert brûlant où se cachent des pyramides. À Khartoum, le Nil Bleu et le Nil Blanc se rejoignent et on peut voir deux couleurs d'eau couler côte à côte !",
+  "animals": "Le crocodile du Nil se cache dans les rivières du Soudan et peut mesurer 5 mètres de long — c'est aussi grand que deux voitures ! Les gazelles de Dorcas traversent le désert en courant très vite et n'ont même pas besoin de boire de l'eau.",
+  "culture": "Au Soudan, quand un invité arrive, on lui offre toujours un café épicé ou un thé sucré pour dire « bienvenue ». Le matin, tout le monde mange des haricots mijotés appelés ful medames, avec du pain chaud.",
+  "history": "Il y a 2 600 ans, les rois du royaume de Koush étaient si puissants qu'ils ont conquis toute l'Égypte et sont devenus pharaons ! Ces pharaons noirs ont construit des centaines de pyramides pointues le long du Nil.",
+  "wows": [
+    "Le Soudan a plus de pyramides que l'Égypte — plus de 200 rien qu'à Meroë !",
+    "Les pyramides soudanaises sont bien plus pointues que celles d'Égypte.",
+    "À Khartoum, deux fleuves se rejoignent avec des couleurs différentes : un bleu-vert et un brun boueux.",
+    "Les pharaons noirs du Koush ont gouverné l'Égypte pendant presque 100 ans !",
+    "Le volcan Jebel Marra a un lac de cratère avec des sources d'eau chaude qui bouillonnent.",
+    "Le Soudan possède le plus grand marché de chameaux d'Afrique à Omdurman.",
+    "L'Égypte ancienne appelait ce pays « Nubie » — son mot pour désigner l'or, car le Soudan leur fournissait presque tout leur or !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Soudan est entièrement désertique",
+      "fact": "Seul le nord est un désert — le sud a des savanes tropicales, des marécages et une côte sur la mer Rouge avec des coraux."
+    },
+    {
+      "myth": "L'Égypte a le plus de pyramides",
+      "fact": "Le Soudan a environ 255 pyramides, plus du double du nombre de l'Égypte ! Elles ont été construites après 700 av. J.-C."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "سلام",
+      "say": "sa-LAAM"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Eau",
+      "jp": "ماء",
+      "say": "MAA"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/sd-landmark.jpg",
+      "alt": "Anciennes pyramides pointues de Meroë s'élevant des sables du désert soudanais",
+      "caption": "PYRAMIDES DE MEROË — tombeaux royaux du royaume koushite dans le désert du Nil",
+      "credit": "Fabrizio Demartis / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/sd-animalA.jpg",
+      "alt": "Vue latérale complète d'un crocodile du Nil",
+      "caption": "CROCODILE DU NIL — grand prédateur des rivières africaines, jusqu'à 5 mètres de long",
+      "credit": "Derek Ramsey / CC BY-SA 2.5"
+    },
+    "animalB": {
+      "src": "/photos/sd-animalB.jpg",
+      "alt": "Chameaux dromadaires dans un paysage aride à Gedaref, au Soudan",
+      "caption": "CHAMEAU DROMADAIRE — maître du désert dans les sables nubiens du Soudan depuis des millénaires",
+      "credit": "Diego Tirira / CC BY-SA 2.0"
+    },
+    "hero": {
+      "src": "/photos/sd-hero.jpg",
+      "alt": "Vue aérienne de la confluence du Nil Bleu et du Nil Blanc à Khartoum avec leurs couleurs visiblement différentes",
+      "caption": "CONFLUENCE DES NILS — deux fleuves de couleurs différentes se rencontrent à Khartoum",
+      "credit": "Hans Birger Nilsen / CC BY-SA 2.0"
+    }
+  }
+}

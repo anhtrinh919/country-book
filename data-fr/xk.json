@@ -1,0 +1,151 @@
+{
+  "name": "KOSOVO",
+  "nativeName": "Kosovë",
+  "romaji": "KOSOVË",
+  "tagline": "Le pays le plus jeune d'Europe",
+  "region": "Balkans, Europe du Sud-Est",
+  "coords": "42.60°N, 20.90°E",
+  "fileNo": "XK",
+  "langName": "albanais",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEE8D8",
+    "dot": "#C8BCA0",
+    "ink": "#1E1C18",
+    "faint": "#7A6E52",
+    "line": "#D8CEB6",
+    "accent": "#244AA5",
+    "accent2": "#F5CD00"
+  },
+  "flag": {
+    "assetPath": "/flags/xk.svg",
+    "title": "Drapeau du Kosovo",
+    "note": "Fond bleu, carte dorée, six étoiles blanches",
+    "keyColor": "#244AA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Le Kosovo est né en 2008 — il est plus jeune que beaucoup de jouets que tu as à la maison ! Sur son drapeau bleu, on voit une carte dessinée en or du pays lui-même. C'est le pays le plus jeune d'Europe, plein de montagnes, de châteaux et de gens joyeux !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Pristina",
+      "sub": "La plus grande ville du pays"
+    },
+    {
+      "label": "Habitants",
+      "value": "1,60 million",
+      "sub": "Recensement 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Euro (€)",
+      "sub": "Utilise l'euro sans être dans l'UE"
+    },
+    {
+      "label": "Langue",
+      "value": "albanais",
+      "sub": "Le serbe est aussi officiel"
+    },
+    {
+      "label": "Superficie",
+      "value": "10 887 km²",
+      "sub": "À peu près la taille de la Jamaïque"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Gjeravica",
+      "sub": "2 656 m — Montagnes Maudites"
+    }
+  ],
+  "islands": [
+    "Pristina",
+    "Prizren",
+    "Peja",
+    "Gjilan",
+    "Mitrovica"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, vallées et grands ciels",
+    "animals": "Les bêtes sauvages des sommets",
+    "culture": "Café, danse et bijoux en argent",
+    "history": "Un royaume, des tours et un nouveau matin",
+    "wows": "Le Kosovo fait QUOI ?!"
+  },
+  "geo": "Le Kosovo est entouré de belles montagnes de tous les côtés, comme dans un bol géant ! Au milieu, des plaines vertes où les fermiers cultivent du blé et des poivrons.",
+  "animals": "Dans les montagnes du Kosovo vit le lynx des Balkans, un grand chat sauvage avec des oreilles pointues et des taches comme un léopard. Il est si rare qu'on saute de joie chaque fois qu'une caméra cachée prend sa photo !",
+  "culture": "Au Kosovo, les gens adorent se retrouver autour d'un café — c'est comme ça qu'on se fait des amis ! Aux mariages, tout le monde se prend par la main et danse ensemble en cercle : ça s'appelle la Valle.",
+  "history": "Il y a très très longtemps, de grandes monastères décorées comme des palais brillaient au Kosovo. Les histoires de cette époque sont encore chantées en chanson aujourd'hui !",
+  "wows": [
+    "Le Kosovo est né en 2008 — plus jeune que beaucoup de téléphones portables !",
+    "Chaque année, le grand monument NEWBORN à Pristina est repeint d'un nouveau dessin.",
+    "Le Kosovo utilise l'euro tous les jours, mais il ne fait pas partie de l'Union européenne.",
+    "Une petite statue en argile de 6 000 ans — une déesse assise sur un trône — a été trouvée près de Pristina !",
+    "Le Kosovo fait du vin depuis l'époque des Romains, il y a plus de 2 000 ans.",
+    "Plus de 7 personnes sur 10 au Kosovo ont moins de 35 ans — c'est le pays le plus jeune d'Europe !",
+    "Sur le drapeau du Kosovo, on voit la forme du pays dessiné en or — comme une carte sur un drapeau !"
+  ],
+  "myths": [
+    {
+      "myth": "Le Kosovo est encore un pays dangereux",
+      "fact": "Le Kosovo est aujourd'hui un pays paisible, adoré par les randonneurs et les voyageurs curieux."
+    },
+    {
+      "myth": "Le Kosovo n'est pas un vrai pays",
+      "fact": "Plus de 100 pays dans le monde reconnaissent le Kosovo, dont la France, les États-Unis et le Royaume-Uni !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Përshëndetje",
+      "say": "per-shen-DET-yeh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Faleminderit",
+      "say": "fah-leh-min-DEET"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Ju lutem",
+      "say": "yoo LOO-tem"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "Mirupafshim",
+      "say": "meer-oo-PAF-shim"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "E shijshme!",
+      "say": "eh SHEESH-meh"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/xk-landmark.jpg",
+      "alt": "Pont de pierre et mosquée Sinan Pasha à Prizren, Kosovo",
+      "caption": "PRIZREN — le vieux pont ottoman enjambe la rivière Bistrica sous la forteresse.",
+      "credit": "Bujar I Gashi / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/xk-animalA.jpg",
+      "alt": "Lynx des Balkans au zoo de Tirana",
+      "caption": "LYNX DES BALKANS — moins de 50 individus vivent encore dans la nature.",
+      "credit": "Albinfo / CC0"
+    },
+    "animalB": {
+      "src": "/photos/xk-animalB.jpg",
+      "alt": "Aigle royal perché sur un poteau",
+      "caption": "AIGLE ROYAL — il vole au-dessus des sommets du Kosovo, symbole de fierté albanaise.",
+      "credit": "Shravans14 / CC BY-SA 3.0"
+    },
+    "hero": {
+      "src": "/photos/xk-hero.jpg",
+      "alt": "Monument NEWBORN au centre de Pristina",
+      "caption": "MONUMENT NEWBORN — inauguré le jour de l'indépendance en 2008, repeint chaque année.",
+      "credit": "Diego Delso / CC BY-SA 3.0"
+    }
+  }
+}

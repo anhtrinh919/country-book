@@ -1,0 +1,151 @@
+{
+  "name": "HONGRIE",
+  "nativeName": "HU",
+  "romaji": "MAGYARORSZÁG",
+  "tagline": "Le pays du paprika et des sources chaudes",
+  "region": "Eastern Europe",
+  "coords": "47.16°N, 19.50°E",
+  "fileNo": "036",
+  "langName": "hongrois",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CDBFA0",
+    "ink": "#2A2218",
+    "faint": "#8C7A5A",
+    "line": "#DDD0B0",
+    "accent": "#CE2939",
+    "accent2": "#436F4D"
+  },
+  "flag": {
+    "assetPath": "/flags/hu.svg",
+    "title": "Drapeau de la Hongrie",
+    "note": "Rouge, blanc et vert — fierté nationale depuis 1848",
+    "keyColor": "#CE2939",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Hongrie, plus de 1 300 sources d'eau chaude jaillissent du sol — tout le pays est comme un immense bain bouillonnant ! Les Hongrois ont inventé le Rubik's Cube, ce cube coloré que tu essaies peut-être de résoudre à la maison. Quelle chance d'habiter un pays aussi inventif !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Budapest",
+      "sub": "Env. 1,7 million d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "9,6 millions",
+      "sub": "Est. janv. 2024 (KSH)"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Forint (HUF)",
+      "sub": "~370 HUF = 1 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "hongrois",
+      "sub": "Magyar — unique en Europe"
+    },
+    {
+      "label": "Superficie",
+      "value": "93 028 km²",
+      "sub": "Un peu plus petit que le Portugal"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Kékes 1 014 m",
+      "sub": "Sommet dans les collines de Mátra"
+    }
+  ],
+  "islands": [
+    "Budapest",
+    "Debrecen",
+    "Miskolc",
+    "Pécs",
+    "Győr"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Grandes plaines et bains magiques",
+    "animals": "Les animaux de la Puszta",
+    "culture": "Paprika, musique et inventions",
+    "history": "Les rois et les légendes",
+    "wows": "La Hongrie t'épate !"
+  },
+  "geo": "La Hongrie est presque entièrement plate, comme un grand bol appelé le Bassin des Carpates. Le lac Balaton, grand comme une mer, est si peu profond qu'on peut marcher très loin dans l'eau sans se mouiller le ventre !",
+  "animals": "Dans les grandes prairies de la Puszta vit l'outarde géante, le plus lourd oiseau qui sache voler au monde. Quand il veut impressionner, il gonfle ses plumes et devient gros comme un ballon !",
+  "culture": "La cuisine hongroise est toute rouge grâce au paprika, une épice venue d'Amérique il y a 400 ans. Le goulasch est une soupe bien chaude et parfumée que les bergers préparaient autrefois près de leur feu de camp.",
+  "history": "Il y a très longtemps, des cavaliers nomades appelés les Magyars ont galopé depuis de lointaines steppes pour s'installer en Hongrie. Leur roi Étienne reçut une couronne dorée envoyée par le pape — cette couronne est encore aujourd'hui le trésor le plus précieux du pays !",
+  "wows": [
+    "Le Rubik's Cube a été inventé par Ernő Rubik en 1974 — c'est le jouet puzzle le plus vendu de toute l'histoire !",
+    "Le métro de Budapest (1896) est le premier métro souterrain de tout le continent européen.",
+    "La Hongrie gagne plus de médailles d'or olympiques par habitant que presque tous les autres pays.",
+    "Laszlo Biro a inventé le stylo à bille en 1938 — les Anglais appellent encore tous les stylos des « biros » !",
+    "Le lac Balaton n'a en moyenne que 3 mètres de profondeur — on peut marcher très loin du bord !",
+    "La langue hongroise est cousine du finnois, parlé à 1 500 km de là en Finlande.",
+    "Budapest possède plus de 100 sources chaudes — plus que n'importe quelle autre capitale du monde !"
+  ],
+  "myths": [
+    {
+      "myth": "Le goulasch est un ragoût épais",
+      "fact": "Le vrai goulasch hongrois est une soupe légère et bouillonnante que l'on mange à la cuillère. Le ragoût épais que l'on connaît ailleurs est une invention étrangère qui fait sourire les Hongrois !"
+    },
+    {
+      "myth": "Les Hongrois parlent une langue comme leurs voisins",
+      "fact": "Non ! Le hongrois est une langue complètement différente de toutes les langues voisines. Les ancêtres des Hongrois venaient des montagnes de l'Oural, très loin à l'est."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Szia",
+      "say": "SEE-yah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Köszönöm",
+      "say": "KUH-suh-nuhm"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Kérem",
+      "say": "KAY-rem"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Finom",
+      "say": "FEE-nom"
+    },
+    {
+      "en": "Santé !",
+      "jp": "Egészségre",
+      "say": "egg-ACE-shayg-reh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hu-hero.jpg",
+      "alt": "Le pont des Chaînes illuminé sur le Danube la nuit avec le château de Buda brillant derrière",
+      "caption": "PONT DES CHAÎNES — le pont suspendu de Budapest de 1849 brille sur le Danube la nuit",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/hu-landmark.jpg",
+      "alt": "Le Parlement hongrois sur les rives du Danube à Budapest",
+      "caption": "PARLEMENT — chef-d'œuvre néo-gothique sur le Danube, l'un des plus grands bâtiments d'Europe",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hu-animalA.jpg",
+      "alt": "Outarde mâle en parade nuptiale dans les plaines herbeuses",
+      "caption": "OUTARDE GÉANTE — le plus lourd oiseau volant du monde marche fièrement sur la Puszta",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hu-animalB.jpg",
+      "alt": "Bovins gris hongrois aux longues cornes recourbées sur la prairie de la Puszta",
+      "caption": "BOVINS GRIS — ancienne race hongroise aux spectaculaires longues cornes sur la Puszta",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

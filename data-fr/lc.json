@@ -1,0 +1,151 @@
+{
+  "name": "SAINTE-LUCIE",
+  "nativeName": "LC",
+  "romaji": "SAINT LUCIA",
+  "tagline": "L'île des Pitons et de lumière",
+  "region": "Caribbean",
+  "coords": "13.91°N, 60.98°W",
+  "fileNo": "079",
+  "langName": "kwéyòl",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBF9E",
+    "ink": "#1E1A16",
+    "faint": "#7A6B4E",
+    "line": "#DDD0B0",
+    "accent": "#65CFFF",
+    "accent2": "#003F87"
+  },
+  "flag": {
+    "assetPath": "/flags/lc.svg",
+    "title": "Sainte-Lucie",
+    "note": "Les deux Pitons sur fond bleu ciel et doré",
+    "keyColor": "#65CFFF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "À Sainte-Lucie, deux énormes montagnes pointues poussent directement de la mer bleue — on les appelle les Pitons ! On peut aussi conduire une voiture jusqu'au bord d'un volcan bouillonnant !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Castries",
+      "sub": "Plus grande ville et port"
+    },
+    {
+      "label": "Habitants",
+      "value": "180 000",
+      "sub": "Est. 2023, Afro-Caribéens"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Dollar des Caraïbes",
+      "sub": "1 XCD ≈ 0,37 USD"
+    },
+    {
+      "label": "Langue",
+      "value": "Anglais",
+      "sub": "Le kwéyòl est très parlé"
+    },
+    {
+      "label": "Superficie",
+      "value": "617 km²",
+      "sub": "Plus petit que Los Angeles"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Mt Gimie",
+      "sub": "958 m, sommet de la forêt"
+    }
+  ],
+  "islands": [
+    "Castries",
+    "Soufrière",
+    "Gros Islet",
+    "Vieux Fort",
+    "Micoud"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, mer et volcans !",
+    "animals": "Les animaux de la forêt magique",
+    "culture": "Fête, musique et cuisine créole",
+    "history": "Une île que tout le monde voulait",
+    "wows": "Des choses incroyables à Sainte-Lucie"
+  },
+  "geo": "Sainte-Lucie est une petite île des Caraïbes née de volcans anciens. Les deux Pitons — deux montagnes pointues comme des dents géantes — sont classés au patrimoine mondial de l'UNESCO et se voient de très loin en mer. Près de la ville de Soufrière, il y a un volcan spécial où tu peux t'approcher en voiture de la boue bouillonnante et sentir l'odeur de la Terre !",
+  "animals": "Le perroquet de Sainte-Lucie, surnommé Jacquot, est un oiseau vert brillant avec des plumes rouges, bleues et jaunes — il ne vit nulle part ailleurs sur Terre ! Les tortues luth, aussi lourdes qu'une moto, viennent pondre leurs œufs sur les plages de l'île chaque printemps.",
+  "culture": "Les habitants de Sainte-Lucie parlent un créole amusant qui ressemble à du français mélangé avec de la musique des Caraïbes — c'est le kwéyòl ! Chaque juillet, le Carnaval éclate avec des costumes colorés et de la musique soca qui donne envie de danser.",
+  "history": "Avant les Européens, des peuples Caraïbes vivaient sur cette belle île. La France et l'Angleterre se sont disputé l'île quatorze fois — comme un jouet trop beau que tout le monde voulait garder !",
+  "wows": [
+    "Sainte-Lucie a deux lauréats du prix Nobel — plus qu'aucun autre pays par habitant dans le monde entier !",
+    "Les Pitons sont si reconnaissables qu'on peut identifier l'île depuis l'espace rien qu'à leur forme !",
+    "À Sulphur Springs, on peut garer une voiture à 20 mètres d'une boue volcanique qui bout — unique sur Terre !",
+    "Le perroquet Jacquot est passé de 150 oiseaux en 1977 à plus de 1 000 aujourd'hui grâce aux habitants qui l'ont sauvé !",
+    "La France et l'Angleterre ont échangé cette île 14 fois — c'est un record dans les Caraïbes !",
+    "Les bananes poussent dans la terre volcanique de l'île et sont bien plus sucrées que celles du supermarché !",
+    "Les deux Pitons protègent la baie de Soufrière du vent — c'est l'un des endroits les plus calmes pour naviguer dans les Caraïbes !"
+  ],
+  "myths": [
+    {
+      "myth": "« Les Pitons ne sont qu'une seule montagne »",
+      "fact": "Ce sont deux volcans séparés — le Gros Piton (770 m) et le Petit Piton (743 m) — avec une vallée entre eux. Depuis la mer, ils ont l'air collés ensemble !"
+    },
+    {
+      "myth": "« Le volcan à voitures crache du feu »",
+      "fact": "Sulphur Springs est un champ de vapeur et de boue chaude — impressionnant et malodorant, mais le volcan n'a pas vraiment explosé depuis environ 20 000 ans !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Bonjou",
+      "say": "bohn-ZHOO"
+    },
+    {
+      "en": "Merci",
+      "jp": "Mèsi",
+      "say": "MED-see"
+    },
+    {
+      "en": "Bonjour matin",
+      "jp": "Bonjou maten",
+      "say": "bohn-ZHOO mah-TEN"
+    },
+    {
+      "en": "Comment tu vas ?",
+      "jp": "Koman ou yé?",
+      "say": "koh-MAHN oo YEH"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Bon anpil!",
+      "say": "bohn ahm-PEEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lc-hero.jpg",
+      "alt": "Les deux sommets des Pitons qui surgissent de la mer des Caraïbes",
+      "caption": "LES PITONS — deux flèches volcaniques UNESCO au-dessus de la baie de Soufrière",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lc-landmark.jpg",
+      "alt": "Mares de boue grise bouillonnante au parc volcanique de Sulphur Springs",
+      "caption": "SULPHUR SPRINGS — le seul volcan au monde où on entre en voiture, près de Soufrière",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lc-animalA.jpg",
+      "alt": "Le perroquet de Sainte-Lucie perché sur une branche avec son plumage vert",
+      "caption": "PERROQUET DE SAINTE-LUCIE — le Jacquot endémique, sauvé de l'extinction",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lc-animalB.jpg",
+      "alt": "Une tortue luth rampant sur une plage la nuit",
+      "caption": "TORTUE LUTH — la plus grande tortue du monde, pond ses œufs sur les plages de Sainte-Lucie",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

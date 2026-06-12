@@ -1,0 +1,151 @@
+{
+  "name": "LIBAN",
+  "nativeName": "لبنان",
+  "romaji": "LUBNAN",
+  "tagline": "Cèdres géants et mer ancienne !",
+  "region": "Middle East",
+  "coords": "33.85°N, 35.86°E",
+  "fileNo": "LB",
+  "langName": "arabe",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2218",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#C0202E",
+    "accent2": "#2B6B3E"
+  },
+  "flag": {
+    "assetPath": "/flags/lb.svg",
+    "title": "Drapeau du Liban",
+    "note": "Rouge–blanc–rouge avec un cèdre au milieu",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Au Liban, on peut faire du ski le matin et se baigner dans la mer l'après-midi — le même jour ! C'est un tout petit pays avec des montagnes enneigées et une mer bleue toute proche. Les gens d'ici ont inventé l'alphabet que le monde entier utilise aujourd'hui !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Beyrouth",
+      "sub": "La ville aux sept renaissances"
+    },
+    {
+      "label": "Habitants",
+      "value": "~5,8 millions",
+      "sub": "Estimation Banque mondiale 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Livre libanaise (LBP)",
+      "sub": "Livre libanaise"
+    },
+    {
+      "label": "Langue",
+      "value": "Arabe",
+      "sub": "Le français est très parlé aussi"
+    },
+    {
+      "label": "Superficie",
+      "value": "10 452 km²",
+      "sub": "Le plus petit pays d'Asie"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 088 m",
+      "sub": "Qurnat as Sawda'"
+    }
+  ],
+  "islands": [
+    "BEIRUT",
+    "TRIPOLI",
+    "SIDON",
+    "BAALBEK",
+    "TYRE"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, mer et cèdres magiques",
+    "animals": "Bêtes des sommets et tortues marines",
+    "culture": "Festins, fêtes et danse du dabké",
+    "history": "Une légende vieille de 6 000 ans",
+    "wows": "Le Liban, ça m'épate !"
+  },
+  "geo": "Le Liban est rayé comme un arc-en-ciel : une côte ensoleillée, de hautes montagnes, une grande vallée plate et encore des montagnes. Entre les deux rangées de montagnes, la vallée de la Bekaa garde l'eau de pluie pour faire pousser les légumes et les raisins !",
+  "animals": "Le cèdre du Liban est un arbre géant qui vit plus de mille ans et déploie ses branches comme un grand parasol vert. Chaque été, des tortues marines viennent pondre leurs œufs sur les plages de sable chaud du Liban !",
+  "culture": "Au Liban, quand quelqu'un arrive à la maison, on lui sert tout de suite un café chaud parfumé à la cardamome. Aux mariages, tout le monde danse le dabké en se tenant le bras et en frappant fort du pied ensemble — boum, boum, boum !",
+  "history": "Il y a très très longtemps, les Phéniciens vivaient ici et ont inventé les lettres de l'alphabet — les mêmes que tu apprends à l'école ! Ils naviguaient sur de grands bateaux en bois et emportaient leur alphabet partout dans le monde.",
+  "wows": [
+    "Les Phéniciens ont inventé l'alphabet il y a 3 000 ans — tes lettres viennent d'ici !",
+    "On peut skier le matin sur la neige et se baigner dans la mer l'après-midi, à seulement 50 km de distance.",
+    "À Baalbek, trois pierres géantes pèsent chacune 1 000 tonnes — comme 500 éléphants — et personne ne sait comment elles ont été soulevées !",
+    "Byblos est l'une des plus vieilles villes du monde : les gens y vivent depuis 7 000 ans sans s'arrêter.",
+    "Il y a 14 millions de Libanais dans le monde entier — deux fois plus que ceux qui habitent au Liban !",
+    "La ville de Tyr était sur une île ; Alexandre le Grand a construit un pont de 1 km dans la mer pour l'atteindre.",
+    "Les pharaons d'Égypte envoyaient des bateaux au Liban juste pour ramener du bois de cèdre pour leurs temples."
+  ],
+  "myths": [
+    {
+      "myth": "Le Liban est un désert",
+      "fact": "Pas du tout ! Les montagnes du Liban se couvrent de neige en hiver et les vallées sont bien vertes. C'est même l'un des pays les plus verdoyants du Moyen-Orient."
+    },
+    {
+      "myth": "Les Libanais parlent comme les autres pays arabes",
+      "fact": "Le libanais est très spécial : en une seule phrase, on mélange des mots arabes, français et anglais. C'est une façon de parler unique au monde !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "Mar-HA-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Bienvenue",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lb-hero.jpg",
+      "alt": "Le front de mer de Beyrouth la nuit avec des gratte-ciels illuminés se reflétant dans la mer",
+      "caption": "FRONT DE MER DE BEYROUTH — la corniche scintille après la nuit tombée",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lb-landmark.jpg",
+      "alt": "Les hautes colonnes romaines du Temple de Bacchus à Baalbek sous un ciel bleu",
+      "caption": "BAALBEK — Temple de Bacchus, la plus belle ruine romaine du Moyen-Orient",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lb-animalA.jpg",
+      "alt": "Vieux cèdres du Liban aux larges canopées plates dans un bosquet de montagne",
+      "caption": "CEDRUS LIBANI — cèdres millénaires dans le bosquet de Bcharre",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lb-animalB.jpg",
+      "alt": "Une tortue caouanne glissant dans l'eau bleue claire de la Méditerranée",
+      "caption": "TORTUE CAOUANNE — pond ses œufs sur les plages du Liban chaque été",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

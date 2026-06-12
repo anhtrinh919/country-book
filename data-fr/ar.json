@@ -1,0 +1,151 @@
+{
+  "name": "ARGENTINE",
+  "nativeName": "AR",
+  "romaji": "ARGENTINA",
+  "tagline": "Au bout du monde, tout commence !",
+  "region": "South America",
+  "coords": "34°S 64°W",
+  "fileNo": "012",
+  "langName": "espagnol",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EBD8",
+    "dot": "#C8B89A",
+    "ink": "#252018",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B5",
+    "accent": "#74ACDF",
+    "accent2": "#FCBF49"
+  },
+  "flag": {
+    "assetPath": "/flags/ar.svg",
+    "title": "Sol de Mayo",
+    "note": "Bandes bleues et blanches avec un Soleil de Mai doré",
+    "keyColor": "#74ACDF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Argentine, il y a une cascade tellement grande qu'elle est plus large que 13 tours Eiffel côte à côte ! Il y a aussi des glaciers géants, des pingouins sauvages et les plus hautes montagnes hors d'Asie. Les Argentins adorent danser le tango et manger des grillades avec toute la famille !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Buenos Aires",
+      "sub": "Env. 3,1 millions d'habitants"
+    },
+    {
+      "label": "Habitants",
+      "value": "46,0 millions",
+      "sub": "Recensement 2022"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Peso (ARS)",
+      "sub": "Symbole $"
+    },
+    {
+      "label": "Langue",
+      "value": "espagnol",
+      "sub": "Avec un accent très unique !"
+    },
+    {
+      "label": "Superficie",
+      "value": "2 780 400 km²",
+      "sub": "8e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Aconcagua",
+      "sub": "6 959 m — le plus haut hors d'Asie"
+    }
+  ],
+  "islands": [
+    "Buenos Aires",
+    "Córdoba",
+    "Mendoza",
+    "Ushuaia",
+    "Bariloche"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Glaciers, cascades et montagnes !",
+    "animals": "Pingouins, capybaras et fourmiliers",
+    "culture": "Tango, grillades et thé amer",
+    "history": "Légendes et découvertes lointaines",
+    "wows": "Wahou — tu savais ça ?"
+  },
+  "geo": "L'Argentine est si grande qu'elle va de la jungle chaude au nord jusqu'aux glaces de la Patagonie au sud ! Les chutes d'Iguazú, c'est 275 cascades toutes ensemble — la plus grande douche du monde !",
+  "animals": "Le capybara est le plus gros rongeur du monde, aussi lourd qu'un grand chien, et il adore se baigner dans les marécages argentins. En Patagonie, plus d'un million de pingouins de Magellan se rassemblent chaque printemps — c'est la plus grande colonie de pingouins du monde !",
+  "culture": "Le tango est une danse née à Buenos Aires où les gens bougent très près l'un de l'autre sur une belle musique. Les Argentins adorent aussi faire des grands barbecues en famille qu'on appelle l'asado — ça cuit des heures et tout le monde se régale !",
+  "history": "Il y a très longtemps, des gens courageux ont marché jusqu'au bout de la Patagonie, il y a 13 000 ans ! Les Incas, qui construisaient des cités magnifiques, sont arrivés dans le nord de l'Argentine il y a plus de 600 ans.",
+  "wows": [
+    "Le premier dessin animé du monde a été fabriqué en Argentine en 1917 !",
+    "L'Aconcagua est la plus haute montagne de tout l'hémisphère occidental — 6 959 mètres !",
+    "On a trouvé en Patagonie le plus grand dinosaure de tous les temps : le Titanosaure !",
+    "Un bébé est né en Antarctique en 1978 — ses parents argentins habitaient une base là-bas !",
+    "Le sport national argentin, El Pato, se joue à cheval — comme du polo avec un panier !",
+    "La toute première émission de radio publique au monde vient d'un toit de Buenos Aires en 1920 !",
+    "Les chutes d'Iguazú sont plus larges que 13 tours Eiffel mises bout à bout — incroyable !"
+  ],
+  "myths": [
+    {
+      "myth": "L'Argentine n'est qu'une grande ferme avec des vaches",
+      "fact": "Il y a aussi de la jungle tropicale, des glaciers immenses, des déserts et des montagnes enneigées — c'est un pays très varié !"
+    },
+    {
+      "myth": "Le tango a toujours été une danse très élégante",
+      "fact": "Au début, le tango était une danse si sauvage que les écoles l'interdisaient — avant de devenir la danse magnifique qu'on connaît aujourd'hui !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-see-ass"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Comment vas-tu ?",
+      "jp": "¿Cómo estás?",
+      "say": "KOH-mo es-TAHS"
+    },
+    {
+      "en": "Au revoir",
+      "jp": "¡Chau!",
+      "say": "chow"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ar-hero.jpg",
+      "alt": "Le monument Obélisque sur l'Avenida 9 de Julio à Buenos Aires",
+      "caption": "OBÉLISQUE — la tour emblématique de Buenos Aires sur la plus grande avenue du monde",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ar-landmark.jpg",
+      "alt": "Les chutes d'Iguazú vues du côté argentin avec de nombreuses cascades",
+      "caption": "CHUTES D'IGUAZÚ — 275 cascades sur 2,7 km à la frontière de la jungle",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ar-animalA.jpg",
+      "alt": "La face du glacier Perito Moreno se dressant au-dessus de l'eau bleue en Patagonie",
+      "caption": "GLACIER PERITO MORENO — un fleuve de glace vivant qui continue de grandir en Patagonie",
+      "credit": "Luca Galuzzi / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ar-animalB.jpg",
+      "alt": "Un capybara assis dans l'herbe, le plus grand rongeur du monde",
+      "caption": "CAPYBARA — le plus gros rongeur du monde, chez lui dans les zones humides d'Iberá",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

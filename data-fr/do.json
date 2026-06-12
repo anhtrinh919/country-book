@@ -1,0 +1,151 @@
+{
+  "name": "RÉP. DOMINICAINE",
+  "nativeName": "DO",
+  "romaji": "DOMINICANA",
+  "tagline": "Perle des Caraïbes",
+  "region": "Caribbean",
+  "coords": "18.7°N, 70.2°W",
+  "fileNo": "085",
+  "langName": "espagnol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA3",
+    "ink": "#27201C",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#002D62",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/do.svg",
+    "title": "Drapeau de la Rép. dominicaine",
+    "note": "Bleu et rouge divisés par une croix blanche",
+    "keyColor": "#002D62",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Dans ce pays des Caraïbes, il y a des montagnes si hautes qu'elles sont couvertes de neige ! La capitale Santo Domingo est la plus vieille ville construite par les Européens dans toute l'Amérique. Et c'est ici qu'est né le merengue, cette danse où tout le monde bouge les hanches !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Santo Domingo",
+      "sub": "La plus vieille ville européenne des Amériques"
+    },
+    {
+      "label": "Habitants",
+      "value": "11,4 millions",
+      "sub": "Est. 2024 ; âge moyen 28,7 ans"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Peso (DOP)",
+      "sub": "Le peso dominicain depuis 1844"
+    },
+    {
+      "label": "Langue",
+      "value": "Espagnol",
+      "sub": "Avec des racines taïnos et africaines"
+    },
+    {
+      "label": "Superficie",
+      "value": "48 670 km²",
+      "sub": "Partie est de l'île Hispaniola"
+    },
+    {
+      "label": "Point culminant",
+      "value": "3 098 m",
+      "sub": "Pico Duarte — le plus haut sommet des Caraïbes"
+    }
+  ],
+  "islands": [
+    "Sto. Domingo",
+    "Santiago",
+    "Punta Cana",
+    "Samaná",
+    "Barahona"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Montagnes, lacs et côtes sauvages",
+    "animals": "Plumes, écailles et géants des mers",
+    "culture": "Rythmes, couleurs et saveurs du soleil",
+    "history": "Une ville plus vieille que toute l'Amérique",
+    "wows": "Sept choses qui vont t'épater !"
+  },
+  "geo": "Le Pico Duarte est la montagne la plus haute de toutes les Caraïbes — si haut qu'on y trouve des forêts de pins comme en Europe ! Tout près, il y a un lac salé qui se trouve sous le niveau de la mer, où vivent des crocodiles et des flamants roses.",
+  "animals": "Le palmiste huppé est l'oiseau national — il vit nulle part ailleurs sur Terre et construit des nids géants en brindilles dans les palmiers avec ses amis ! Chaque hiver, plus de 1 500 baleines à bosse arrivent dans la baie de Samaná pour jouer et chanter ensemble.",
+  "culture": "Le merengue et la bachata sont deux danses nées ici — aujourd'hui, tout le monde les danse partout dans le monde ! La République dominicaine fabrique aussi du chocolat bio délicieux et une pierre bleue magique appelée larimar, qu'on ne trouve que dans une seule colline au monde.",
+  "history": "Il y a plus de 500 ans, Santo Domingo est devenue la première grande ville construite par les Européens dans toute l'Amérique — la première cathédrale, la première université, tout était là ! Le héros Juan Pablo Duarte a dessiné le drapeau bleu et rouge avec sa croix blanche pour célébrer la liberté.",
+  "wows": [
+    "Un enfant né ici a 5 fois plus de chances de jouer dans la grande ligue de baseball américaine qu'un enfant né aux États-Unis !",
+    "La pierre larimar, d'un bleu de ciel, n'existe qu'à un seul endroit sur toute la Terre : une colline en République dominicaine.",
+    "Des crocodiles et des flamants roses vivent ensemble dans le même lac salé, sous le niveau de la mer !",
+    "Plus de 1 500 baleines à bosse se retrouvent chaque hiver dans la baie de Samaná — une des plus grandes fêtes de baleines au monde !",
+    "L'ambre de ce pays a 20 millions d'années et conserve des insectes parfaitement à l'intérieur, comme des bijoux du temps des dinosaures.",
+    "La bachata était interdite à la radio car on la trouvait trop populaire — aujourd'hui l'UNESCO dit que c'est un trésor du monde entier !",
+    "Santo Domingo a servi de modèle pour construire presque toutes les villes espagnoles d'Amérique — comme un plan magique recopié partout !"
+  ],
+  "myths": [
+    {
+      "myth": "C'est juste une plage pour les vacances",
+      "fact": "Ce pays a aussi les plus hautes montagnes des Caraïbes, des forêts nuageuses, un lac à crocodiles sous le niveau de la mer et une vieille ville classée par l'UNESCO — les plages ne sont qu'une petite partie !"
+    },
+    {
+      "myth": "La Rép. dominicaine et Haïti, c'est le même pays",
+      "fact": "Ces deux pays partagent la même île, mais ce sont deux nations différentes avec des langues et des histoires différentes depuis 1844."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "¡Hola!",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Merci",
+      "jp": "Gracias",
+      "say": "GRAH-syass"
+    },
+    {
+      "en": "Quoi de neuf ?",
+      "jp": "¿Qué lo que?",
+      "say": "KEH-loh-KEH"
+    },
+    {
+      "en": "Pas de souci",
+      "jp": "No hay lio",
+      "say": "no eye LEE-oh"
+    },
+    {
+      "en": "Super !",
+      "jp": "Bacano",
+      "say": "bah-KAH-no"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/do-landmark.jpg",
+      "alt": "La rue Calle El Conde la nuit dans la Zone coloniale de Santo Domingo",
+      "caption": "ZONE COLONIALE — le plus vieux plan de rues européen des Amériques, Santo Domingo",
+      "credit": "Luis Fuentes / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/do-animalA.jpg",
+      "alt": "Un palmiste huppé perché sur une branche en République dominicaine",
+      "caption": "PALMISTE HUPPÉ — l'oiseau national, qu'on ne trouve que sur l'île Hispaniola",
+      "credit": "Jorge checo / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/do-animalB.jpg",
+      "alt": "Un iguane rhinocéros mâle dans la province de Pedernales, République dominicaine",
+      "caption": "IGUANE RHINOCÉROS — endémique d'Hispaniola, province de Pedernales",
+      "credit": "Tim Ross / Public domain"
+    },
+    "hero": {
+      "src": "/photos/do-hero.jpg",
+      "alt": "Plage turquoise et palmiers à Punta Cana, République dominicaine",
+      "caption": "PUNTA CANA — la célèbre côte caraïbe aux eaux turquoise de la Rép. dominicaine",
+      "credit": "Channone Arif / CC BY 2.0"
+    }
+  }
+}

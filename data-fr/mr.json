@@ -1,0 +1,163 @@
+{
+  "name": "MAURITANIE",
+  "nativeName": "موريتا",
+  "romaji": "MURITANIYYA",
+  "tagline": "Désert, étoiles et livres anciens",
+  "region": "North Africa",
+  "coords": "20°N 12°W",
+  "fileNo": "083",
+  "langName": "arabe",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#25201A",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#1A7A3C",
+    "accent2": "#C8A020"
+  },
+  "flag": {
+    "assetPath": "/flags/mr.svg",
+    "title": "Vert et Or",
+    "note": "Étoile et croissant sur fond vert, bandes rouges en bordure",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Mauritanie, presque tout le pays est couvert par le grand désert du Sahara ! Il y a un train tellement long qu'il mesure presque 3 km — comme 30 immeubles couchés bout à bout. Et dans ce désert, il y a un énorme cercle de rochers si grand qu'on peut le voir depuis l'espace !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Nouakchott",
+      "sub": "Env. 1,6 million d'hab. (2023)"
+    },
+    {
+      "label": "Habitants",
+      "value": "4,99 millions",
+      "sub": "Estimation ONU 2024"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Ouguiya",
+      "sub": "MRU — 5 khoums chacun"
+    },
+    {
+      "label": "Langue",
+      "value": "arabe",
+      "sub": "Dialecte hassaniyya au quotidien"
+    },
+    {
+      "label": "Superficie",
+      "value": "1 030 700 km²",
+      "sub": "11e plus grand pays d'Afrique"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Kediet Ijill",
+      "sub": "915 m — une montagne de minerai de fer"
+    }
+  ],
+  "islands": [
+    "Nouakchott",
+    "Nouadhibou",
+    "Atar",
+    "Rosso",
+    "Zouerate"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Sable, mer et pierres millénaires",
+    "animals": "Grandes oreilles et ailes sur l'océan",
+    "culture": "Tentes, thé et vieux livres",
+    "history": "Caravanes et savants du désert",
+    "wows": "7 choses qui font épater les yeux"
+  },
+  "geo": [
+    "Presque toute la Mauritanie est un immense désert de sable et de pierres, avec des dunes énormes et des vallées creusées dans le roc. Au milieu du pays, un grand plateau de rochers est parsemé d'oasis ombragées par des palmiers.",
+    "Sur la côte atlantique, l'océan rencontre le désert et crée de belles lagunes remplies de poissons et d'oiseaux. Tout au sud, la rivière Sénégal dessine une longue bande verte et fertile."
+  ],
+  "animals": [
+    "Le fennec est un petit renard du désert avec des oreilles immenses — plus grandes que sa tête ! Ces grandes oreilles lui permettent d'entendre les insectes cachés sous le sable et de rester frais sous la chaleur.",
+    "Chaque hiver, plus de deux millions d'oiseaux arrivent dans le parc du Banc d'Arguin — des flamants roses, des pélicans et des spatules se rassemblent en une foule d'oiseaux géante."
+  ],
+  "culture": [
+    "En Mauritanie, les familles partagent un grand plat de riz et d'agneau, tous assis ensemble autour d'une table basse, en mangeant avec les mains. C'est chaleureux et joyeux !",
+    "Le thé à la menthe se prépare trois fois et se verse de haut pour faire de la mousse — boire les trois petits verres est un signe d'amitié. Beaucoup de familles possèdent encore des tentes et promènent leurs chameaux dans le désert."
+  ],
+  "history": [
+    "Il y a très longtemps, des marchands traversaient le désert à dos de chameau pour commercer, et la ville de Chinguetti est devenue une cité sainte pleine de bibliothèques remplies de livres anciens écrits à la main.",
+    "Ces vieilles bibliothèques gardent encore des milliers de livres sur les étoiles, les lois et la poésie, certains vieux de plus de 1 000 ans — comme des trésors cachés dans le sable !"
+  ],
+  "wows": [
+    "L'Œil du Sahara est un cercle de rochers de 40 km de large — si grand que les astronautes s'en servent pour se repérer depuis l'espace !",
+    "Le train de minerai de fer mesure presque 3 km de long et transporte 17 000 tonnes — c'est l'un des plus longs trains du monde.",
+    "Chinguetti possède 13 bibliothèques privées avec environ 6 000 livres écrits à la main, dont certains ont plus de 1 200 ans.",
+    "Chaque hiver, plus de deux millions d'oiseaux migrateurs se rassemblent dans le parc du Banc d'Arguin — l'un des plus grands rassemblements d'oiseaux sur Terre.",
+    "Les eaux de l'Atlantique mauritanien comptent parmi les plus poissonneuses du monde — les poissons représentent 20 % de ce que le pays vend à l'étranger.",
+    "Le sommet Kediet Ijill est presque entièrement fait de minerai de fer solide — c'est une vraie montagne de métal !",
+    "Nouakchott était un petit village de quelques centaines d'habitants en 1957 ; aujourd'hui c'est une capitale de 1,6 million de personnes."
+  ],
+  "myths": [
+    {
+      "myth": "La Mauritanie n'est qu'un désert vide",
+      "fact": "Il y a bien 90 % de Sahara, mais la côte atlantique regorge de poissons et d'oiseaux, le sud a des champs au bord de la rivière, et de vieilles villes gardent des bibliothèques inestimables."
+    },
+    {
+      "myth": "Rien ne vit dans ce désert",
+      "fact": "Les oasis, les palmiers et les acacias abritent des chameaux, des fennecs, des gazelles et des millions d'oiseaux migrateurs chaque année."
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "مرحبا",
+      "say": "mar-HAH-ba"
+    },
+    {
+      "en": "Merci",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Eau",
+      "jp": "ماء",
+      "say": "MA-ah"
+    },
+    {
+      "en": "Chameau",
+      "jp": "جمل",
+      "say": "JA-mal"
+    },
+    {
+      "en": "Désert",
+      "jp": "صحراء",
+      "say": "SAH-ra"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mr-hero.jpg",
+      "alt": "Le train de minerai de fer de Mauritanie qui s'étire dans le désert du Sahara près de Choum",
+      "caption": "TRAIN DE MINERAI DE FER — presque 3 km de wagons traversent le Sahara",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mr-landmark.jpg",
+      "alt": "La structure Richat, l'Œil du Sahara, vue depuis l'espace au-dessus de la Mauritanie",
+      "caption": "L'ŒIL DU SAHARA — la structure Richat, 40 km de large, photographiée depuis l'orbite",
+      "credit": "ESA / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mr-animalA.jpg",
+      "alt": "Un fennec aux très grandes oreilles assis, attentif, sur le sable du désert",
+      "caption": "FENNEC — ses grandes oreilles détectent les proies sous le sable la nuit",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/mr-animalB.jpg",
+      "alt": "Une antilope addax aux longues cornes spiralées dans un paysage de désert sableux",
+      "caption": "ANTILOPE ADDAX — pelage pâle et larges sabots faits pour la vie au Sahara",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

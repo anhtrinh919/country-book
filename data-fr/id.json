@@ -1,0 +1,163 @@
+{
+  "name": "INDONÉSIE",
+  "nativeName": "ID",
+  "romaji": "INDONESIA",
+  "tagline": "Îles de feu et d'épices",
+  "region": "Southeast Asia",
+  "coords": "-2.5°S, 118°E",
+  "fileNo": "017",
+  "langName": "indonésien",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2B2218",
+    "faint": "#8A7A5A",
+    "line": "#DCCFB0",
+    "accent": "#CE1126",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/id.svg",
+    "title": "Merah-Putih",
+    "note": "Rouge sur blanc — courage et pureté",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "L'Indonésie est faite de plus de 17 000 îles — c'est plus large que les États-Unis ! Des volcans grondent sous des forêts où vivent des orangs-outans. Les mers sont si colorées que les poissons sont partout autour de toi !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Jakarta*",
+      "sub": "*nouvelle capitale Nusantara en construction"
+    },
+    {
+      "label": "Habitants",
+      "value": "281 millions",
+      "sub": "4e pays le plus peuplé (est. 2024)"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Roupie (IDR)",
+      "sub": "1 USD ≈ 16 500 IDR (2025)"
+    },
+    {
+      "label": "Langue",
+      "value": "indonésien",
+      "sub": "Bahasa + 700 langues locales"
+    },
+    {
+      "label": "Superficie",
+      "value": "1,9 M km²",
+      "sub": "14e plus grand pays du monde"
+    },
+    {
+      "label": "Point culminant",
+      "value": "Puncak Jaya",
+      "sub": "4 884 m — le plus haut d'Océanie"
+    }
+  ],
+  "islands": [
+    "Java",
+    "Sumatra",
+    "Borneo",
+    "Sulawesi",
+    "Bali"
+  ],
+  "islandsLabel": "ÎLES PRINCIPALES :",
+  "sections": {
+    "geography": "Un pays d'îles et de volcans !",
+    "animals": "Géants de la jungle et merveilles de la mer",
+    "culture": "Batik, épices et musique de bronze",
+    "history": "Temples magiques et épices précieuses",
+    "wows": "Trop incroyable pour y croire !"
+  },
+  "geo": [
+    "L'Indonésie est sur l'Anneau de Feu du Pacifique avec 130 volcans actifs — plus que tout autre pays ! L'archipel s'étire sur 5 100 km d'est en ouest, des montagnes couvertes de jungle jusqu'aux petits îlots coralliens.",
+    "L'éruption du Krakatoa en 1883 a été entendue jusqu'en Australie, à 3 100 km de là !"
+  ],
+  "animals": [
+    "Sumatra est le seul endroit où tigres, éléphants, rhinocéros et orangs-outans vivent tous dans la même forêt ! Le dragon de Komodo peut mesurer 3 mètres de long et vit uniquement sur quelques îles indonésiennes.",
+    "La mer autour de l'est de l'Indonésie abrite plus de 600 espèces de coraux et 3 000 sortes de poissons — des requins-baleines aux tout petits hippocampes pygmées !"
+  ],
+  "culture": [
+    "En Indonésie, on parle plus de 700 langues différentes, mais tout le monde apprend le bahasa indonésien à l'école ! Les spectacles de marionnettes wayang kulit durent toute la nuit et sont inscrits au patrimoine de l'UNESCO.",
+    "Le tissu batik est peint avec de la cire en beaux motifs et porté aux mariages comme au bureau. L'orchestre gamelan fait résonner des gongs en bronze comme une cascade de musique !"
+  ],
+  "history": [
+    "Il y a 1 200 ans, des rois bâtisseurs ont construit Borobudur — le plus grand temple bouddhiste du monde, avec des milliers de sculptures ! Des sultans musulmans ont ensuite commandé le commerce mondial des épices comme la noix de muscade et le poivre.",
+    "La devise « Bhinneka Tunggal Ika » — l'unité dans la diversité — a été écrite il y a 700 ans, et les Indonésiens la récitent encore aujourd'hui !"
+  ],
+  "wows": [
+    "L'Indonésie a plus de volcans actifs que n'importe quel autre pays — environ 130 !",
+    "L'île de Java est l'île la plus densément peuplée de la Terre avec 155 millions de personnes.",
+    "Le dragon de Komodo peut sentir sa proie avec sa langue à 9 km de distance !",
+    "Les 2 672 panneaux sculptés de Borobudur, mis bout à bout, s'étireraient sur plus de 6 km.",
+    "L'Indonésie produit environ 75 % de la noix de muscade mondiale — toute la noix de muscade du monde vient de là !",
+    "Sur la montagne Puncak Jaya, il y a un vrai glacier sous les tropiques — l'un des derniers au monde.",
+    "L'Indonésie construit une toute nouvelle capitale dans la jungle de Bornéo, appelée Nusantara !"
+  ],
+  "myths": [
+    {
+      "myth": "Bali, c'est l'Indonésie",
+      "fact": "Bali est une seule île parmi plus de 17 000 ! La plupart des Indonésiens sont musulmans — la culture hindoue de Bali est une belle exception, pas la règle."
+    },
+    {
+      "myth": "Toutes les îles sont plates et tropicales",
+      "fact": "La montagne Puncak Jaya à Papouasie monte à 4 884 m et possède un vrai glacier tropical — l'un des derniers en dehors des Andes !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Halo",
+      "say": "hah-LO"
+    },
+    {
+      "en": "Merci",
+      "jp": "Terima kasih",
+      "say": "tree-MAH kah-SEE"
+    },
+    {
+      "en": "Délicieux !",
+      "jp": "Enak!",
+      "say": "EH-nahk"
+    },
+    {
+      "en": "Combien ?",
+      "jp": "Berapa?",
+      "say": "beh-RAH-pah"
+    },
+    {
+      "en": "Île",
+      "jp": "Pulau",
+      "say": "POO-lau"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/id-hero.jpg",
+      "alt": "Horizon de Jakarta au crépuscule",
+      "caption": "JAKARTA — l'immense capitale de l'Indonésie scintille sur la côte de Java",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/id-landmark.jpg",
+      "alt": "Temple bouddhiste de Borobudur au lever du soleil à Java",
+      "caption": "BOROBUDUR — le plus grand temple bouddhiste du monde, construit vers 800 ap. J.-C. à Java",
+      "credit": "Wikimedia Commons / Gunawan Kartapranata"
+    },
+    "animalA": {
+      "src": "/photos/id-animalA.jpg",
+      "alt": "Dragon de Komodo marchant sur un terrain sec sur l'île de Rinca",
+      "caption": "DRAGON DE KOMODO — le plus grand lézard de la Terre, présent uniquement sur des îles indonésiennes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/id-animalB.jpg",
+      "alt": "Orang-outan de Bornéo dans la canopée de la forêt",
+      "caption": "ORANG-OUTAN DE BORNÉO — « l'homme de la forêt », en danger à Bornéo et Sumatra",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

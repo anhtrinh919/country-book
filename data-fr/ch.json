@@ -1,0 +1,151 @@
+{
+  "name": "SUISSE",
+  "nativeName": "CH",
+  "romaji": "SCHWEIZ",
+  "tagline": "Alpes, chocolat et montres magiques",
+  "region": "Europe centrale",
+  "coords": "46.8°N, 8.2°E",
+  "fileNo": "041",
+  "langName": "allemand",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#CBBFA8",
+    "ink": "#242018",
+    "faint": "#857060",
+    "line": "#D8CEBC",
+    "accent": "#D0021B",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/ch.svg",
+    "title": "Croix suisse",
+    "note": "Grande croix blanche sur un carré rouge",
+    "keyColor": "#D0021B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "En Suisse, les montagnes sont si hautes qu'elles touchent les nuages et on entend les cloches des vaches dans les prairies ! Ce tout petit pays parle quatre langues différentes et fabrique le meilleur chocolat du monde !",
+  "facts": [
+    {
+      "label": "Capitale",
+      "value": "Berne",
+      "sub": "depuis 1848 ; env. 146 000 hab."
+    },
+    {
+      "label": "Habitants",
+      "value": "9,1 millions",
+      "sub": "est. 2024 ; plus de 9 M"
+    },
+    {
+      "label": "Monnaie",
+      "value": "Franc suisse",
+      "sub": "CHF ; monnaie très solide"
+    },
+    {
+      "label": "Langue",
+      "value": "4 langues officielles",
+      "sub": "Allemand, français, italien, romanche"
+    },
+    {
+      "label": "Superficie",
+      "value": "41 285 km²",
+      "sub": "à peu près comme le Danemark"
+    },
+    {
+      "label": "Point culminant",
+      "value": "4 634 m",
+      "sub": "Dufourspitze, Monte Rosa"
+    }
+  ],
+  "islands": [
+    "Zurich",
+    "Geneva",
+    "Basel",
+    "Bern",
+    "Lucerne"
+  ],
+  "islandsLabel": "VILLES PRINCIPALES :",
+  "sections": {
+    "geography": "Des montagnes, des lacs et des prairies",
+    "animals": "Les animaux des sommets",
+    "culture": "Fromage fondu, montres et quatre langues",
+    "history": "Des bergers qui ont changé le monde",
+    "wows": "Oh là là — la Suisse a vraiment fait ÇA ?"
+  },
+  "geo": "La Suisse est nichée au cœur de l'Europe, entourée de grandes montagnes appelées les Alpes. Plus de 1 500 lacs brillent entre les pics comme des miroirs géants !",
+  "animals": "L'ibex des Alpes est une chèvre sauvage avec des cornes courbées plus longues que ton bras ! La marmotte, elle, dort toute l'hiver sous la terre en ronflant bien au chaud.",
+  "culture": "En Suisse, on mange de la fondue : on trempe du pain dans un grand pot de fromage fondu tout chaud, miam ! Les Suisses fabriquent aussi des montres tellement précises qu'elles ne se trompent presque jamais.",
+  "history": "Il y a très très longtemps, en 1291, trois petits villages de montagne se sont donné la main et ont promis de se protéger — c'est comme ça que la Suisse est née ! Chaque 1er août, tous les Suisses font la fête pour cet anniversaire.",
+  "wows": [
+    "Les Suisses mangent environ 10 kg de chocolat chacun par an — c'est énorme !",
+    "Le tunnel ferroviaire de Saint-Gothard fait 57 km — le plus long train souterrain du monde !",
+    "Le couteau suisse a été inventé en 1891 et il a des dizaines d'outils cachés à l'intérieur.",
+    "Le Velcro a été inventé par un Suisse qui regardait des graines collées sur son chien.",
+    "La fontaine Jet d'Eau à Genève envoie l'eau à 140 mètres de haut — plus haut que Notre-Dame !",
+    "La Suisse a assez de bunkers souterrains pour cacher tous ses habitants si besoin.",
+    "En Suisse, les gens votent sur presque tout — même choisir si on construit un nouveau tunnel !"
+  ],
+  "myths": [
+    {
+      "myth": "En Suisse, il fait toujours froid et il neige tout le temps",
+      "fact": "En été, il peut faire jusqu'à 30 °C sur le plateau suisse, et au sud, dans le canton du Tessin, il y a même des palmiers !"
+    },
+    {
+      "myth": "Tout le monde parle allemand en Suisse",
+      "fact": "63 % parlent l'allemand suisse, mais 23 % parlent français, 8 % italien, et quelques-uns parlent une vieille langue rare appelée le romanche !"
+    }
+  ],
+  "words": [
+    {
+      "en": "Bonjour",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Merci",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "S'il te plaît",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Fromage",
+      "jp": "Käse",
+      "say": "KAY-zeh"
+    },
+    {
+      "en": "Montagne",
+      "jp": "Berg",
+      "say": "BAIRK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ch-hero.jpg",
+      "alt": "Le pic du Cervin au-dessus du village de Zermatt en hiver",
+      "caption": "CERVIN — pyramide mythique de 4 478 m dominant Zermatt",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ch-landmark.jpg",
+      "alt": "Le château de Chillon sur les rives du lac Léman",
+      "caption": "CHÂTEAU DE CHILLON — forteresse médiévale au bord du lac Léman",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ch-animalA.jpg",
+      "alt": "Bouquetin des Alpes avec de longues cornes courbées sur un rocher",
+      "caption": "BOUQUETIN DES ALPES — chèvre sauvage agile des hautes montagnes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ch-animalB.jpg",
+      "alt": "Marmotte des Alpes assise droite dans une prairie verte",
+      "caption": "MARMOTTE DES ALPES — championne du sommeil, elle hiberne tout l'hiver",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}
