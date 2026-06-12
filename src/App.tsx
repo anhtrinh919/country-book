@@ -5,10 +5,13 @@ import { Cover, Passport, ContinentDivider, PlanetOverview, HowToRead, TableOfCo
 import { QuizStop, AnswerKey } from "./components/Quiz";
 import { WorldMapTOC } from "./components/WorldMap";
 import { QUIZZES } from "../book.config";
-import { COUNTRIES, getCountry, ISO_LIST } from "./data";
+import { COUNTRIES, getCountry, getCountryLang, ISO_LIST } from "./data";
 import { STOP_OF, TOTAL_STOPS, PERSON, LAYOUT_OF, SPINE, type Page } from "../book.config";
 import { useVisited, toggleVisited, markVisited, resetProgress, visitedCountryCount } from "./progress";
 import { useProfile, setProfile, hasOnboarded, COUNTRY_OPTIONS, type Profile } from "./profile";
+import { LangContext } from "./LangContext";
+import { getLang, setLang, type Lang } from "./lang";
+import { LOCALES } from "./locale";
 
 const SPREAD_W = 1588;
 const SPREAD_H = 1123;
@@ -63,13 +66,13 @@ function SpineFrame({ n, children }: { n: number; children: React.ReactNode }) {
 }
 
 /* render any SPINE page by its type — country spreads + connective-tissue pages */
-function renderSpinePage(p: Page, print = false, explorerName: string = PERSON.name): React.ReactNode {
+function renderSpinePage(p: Page, print = false, explorerName: string = PERSON.name, lang = "en"): React.ReactNode {
   switch (p.type) {
     case "cover": return <Cover />;
     case "passport": return <Passport print={print} />;
     case "continent-divider": return <ContinentDivider continent={p.continent!} />;
     case "country": {
-      const base = getCountry(p.iso!);
+      const base = getCountryLang(p.iso!, lang);
       if (!base) return <PlaceholderSpread title={`Missing: ${p.iso}`} note="No data file for this country." />;
       const c = { ...base, layout: LAYOUT_OF[p.iso!] ?? base.layout };
       return <CountrySpread country={c} ctx={{ stop: STOP_OF[p.iso!] ?? 1, total: TOTAL_STOPS, explorerName }} />;
@@ -95,7 +98,7 @@ function renderSpinePage(p: Page, print = false, explorerName: string = PERSON.n
 function PrintPage() {
   const { n = "1" } = useParams();
   const idx = Math.max(0, Math.min(SPINE.length - 1, parseInt(n, 10) - 1));
-  return <div id="print-root" style={{ width: SPREAD_W2, height: SPREAD_H2, background: "#fff" }}><SpineFrame n={idx + 1}>{renderSpinePage(SPINE[idx], true)}</SpineFrame></div>;
+  return <div id="print-root" style={{ width: SPREAD_W2, height: SPREAD_H2, background: "#fff" }}><SpineFrame n={idx + 1}>{renderSpinePage(SPINE[idx], true, PERSON.name, "en")}</SpineFrame></div>;
 }
 
 function spineLabel(p: Page): string {
@@ -116,6 +119,9 @@ function BookReader() {
   const idx = Math.max(0, Math.min(SPINE.length - 1, parseInt(n, 10) - 1));
   const page = SPINE[idx];
   const dir = React.useRef<1 | -1>(1);
+
+  // language toggle (EN / VI)
+  const { lang } = React.useContext(LangContext);
 
   // viewport tracking → responsive scale; narrow screens read one page at a time
   const [vp, setVp] = React.useState(() => ({ w: window.innerWidth, h: window.innerHeight }));
@@ -219,7 +225,7 @@ function BookReader() {
         <div style={{ width: wrapW, height: wrapH, position: "relative", overflow: "hidden" }}>
           <div style={{ position: "absolute", top: 0, left: 0, width: SPREAD_W2, height: SPREAD_H2, transform: innerTransform, transformOrigin: "top left" }}>
             <div key={`${idx}-${half}`} style={{ boxShadow: "0 30px 80px rgba(0,0,0,.55)", animation: `${dir.current > 0 ? "flipNext" : "flipPrev"} .42s cubic-bezier(.22,.61,.36,1)` }}>
-              <SpineFrame n={idx + 1}>{renderSpinePage(page, false, prof.name)}</SpineFrame>
+              <SpineFrame n={idx + 1}>{renderSpinePage(page, false, prof.name, lang)}</SpineFrame>
             </div>
           </div>
         </div>
@@ -276,6 +282,16 @@ function BookReader() {
                 style={chipBtn(false)}>✎ {prof.name}</button>
               <button onClick={() => { reveal(); setConfirmReset(true); }} title="Reset all progress"
                 style={chipBtn(false)}>Reset</button>
+              {!IS_FR_BUILD && (
+                <div style={{ display: "flex", gap: 2, border: "1px solid #4a3f30", borderRadius: 7, overflow: "hidden" }}>
+                  {(["en", "vi"] as Lang[]).map((l) => (
+                    <button key={l} onClick={() => { reveal(); setLang(l); }} title={l === "en" ? "English" : "Tiếng Việt"}
+                      style={{ background: lang === l ? "#B23A2E" : "transparent", color: lang === l ? "#fff" : "#E7D9BC", border: "none", padding: "7px 10px", fontFamily: "'Spline Sans Mono', monospace", fontSize: 12, cursor: "pointer", letterSpacing: ".08em" }}>
+                      {l.toUpperCase()}
+                    </button>
+                  ))}
+                </div>
+              )}
               <button onClick={() => go(1)} disabled={atEnd} style={navBtn(atEnd)}>Next →</button>
             </div>
           </>
@@ -409,18 +425,32 @@ function Index() {
   );
 }
 
+const IS_FR_BUILD = import.meta.env.VITE_LANG === "fr";
+const IS_YOUNG_BUILD = import.meta.env.VITE_YOUNG === "1";
+
 export default function App() {
+  const [lang, setLangState] = React.useState<Lang>(IS_FR_BUILD ? "fr" : getLang);
+  React.useEffect(() => {
+    if (IS_FR_BUILD) return;
+    const handler = () => setLangState(getLang());
+    window.addEventListener("cb-lang-change", handler);
+    return () => window.removeEventListener("cb-lang-change", handler);
+  }, []);
+  const locale = LOCALES[lang] ?? LOCALES.en;
+
   return (
-    <HashRouter>
-      <Routes>
-        <Route path="/" element={<Navigate to="/book/1" replace />} />
-        <Route path="/dev" element={<Index />} />
-        <Route path="/book" element={<BookReader />} />
-        <Route path="/book/:n" element={<BookReader />} />
-        <Route path="/print/:n" element={<PrintPage />} />
-        <Route path="/spread/:iso" element={<SpreadView />} />
-        <Route path="/raw/:iso" element={<SpreadView raw />} />
-      </Routes>
-    </HashRouter>
+    <LangContext.Provider value={{ lang, locale, young: IS_YOUNG_BUILD }}>
+      <HashRouter>
+        <Routes>
+          <Route path="/" element={<Navigate to="/book/1" replace />} />
+          <Route path="/dev" element={<Index />} />
+          <Route path="/book" element={<BookReader />} />
+          <Route path="/book/:n" element={<BookReader />} />
+          <Route path="/print/:n" element={<PrintPage />} />
+          <Route path="/spread/:iso" element={<SpreadView />} />
+          <Route path="/raw/:iso" element={<SpreadView raw />} />
+        </Routes>
+      </HashRouter>
+    </LangContext.Provider>
   );
 }
