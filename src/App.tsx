@@ -112,11 +112,38 @@ function BookReader() {
   const idx = Math.max(0, Math.min(SPINE.length - 1, parseInt(n, 10) - 1));
   const page = SPINE[idx];
   const dir = React.useRef<1 | -1>(1);
+
+  // viewport tracking → responsive scale; narrow screens read one page at a time
+  const [vp, setVp] = React.useState(() => ({ w: window.innerWidth, h: window.innerHeight }));
+  React.useEffect(() => {
+    const onR = () => setVp({ w: window.innerWidth, h: window.innerHeight });
+    window.addEventListener("resize", onR);
+    window.addEventListener("orientationchange", onR);
+    return () => { window.removeEventListener("resize", onR); window.removeEventListener("orientationchange", onR); };
+  }, []);
+  const mobile = vp.w < 900;
+  const [half, setHalf] = React.useState(0); // 0 = left page, 1 = right page (mobile single-page view)
+  React.useEffect(() => { if (!mobile && half !== 0) setHalf(0); }, [mobile, half]);
+
+  const atStart = idx <= 0 && (!mobile || half === 0);
+  const atEnd = idx >= SPINE.length - 1 && (!mobile || half === 1);
+
   const go = React.useCallback((d: number) => {
-    if ((d > 0 && idx >= SPINE.length - 1) || (d < 0 && idx <= 0)) return;
     dir.current = d > 0 ? 1 : -1;
+    if (mobile) {
+      if (d > 0) {
+        if (half === 0) { setHalf(1); return; }            // left → right page of same spread
+        if (idx >= SPINE.length - 1) return;
+        setHalf(0); nav(`/book/${idx + 2}`); return;       // right → next spread, left page
+      } else {
+        if (half === 1) { setHalf(0); return; }            // right → left page of same spread
+        if (idx <= 0) return;
+        setHalf(1); nav(`/book/${idx}`); return;           // left → previous spread, right page
+      }
+    }
+    if ((d > 0 && idx >= SPINE.length - 1) || (d < 0 && idx <= 0)) return;
     nav(`/book/${idx + d + 1}`);
-  }, [idx, nav]);
+  }, [idx, nav, mobile, half]);
 
   React.useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -128,16 +155,15 @@ function BookReader() {
     return () => window.removeEventListener("keydown", onKey);
   }, [go]);
 
-  // fit spread to viewport — reserve the bottom-bar height so the bar never covers the spread
-  const ref = React.useRef<HTMLDivElement>(null);
-  React.useEffect(() => {
-    const fit = () => {
-      const s = Math.min((window.innerWidth - 20) / SPREAD_W2, (window.innerHeight - BAR_H - 20) / SPREAD_H2);
-      if (ref.current) ref.current.style.transform = `scale(${Math.min(s, 1)})`;
-    };
-    fit(); window.addEventListener("resize", fit);
-    return () => window.removeEventListener("resize", fit);
-  }, []);
+  // responsive scale: fit the whole spread (desktop) or a single page (mobile) into the viewport,
+  // then size the wrapper to the SCALED dimensions so it always centers (transform alone doesn't
+  // shrink the layout box, which is what pushed the spread off-centre / off-screen before).
+  const PAGE_W = 794, FOLD = 2;
+  const fitW = mobile ? PAGE_W : SPREAD_W2;
+  const pad = mobile ? 0 : 24;
+  const scale = Math.min((vp.w - pad) / fitW, (vp.h - BAR_H - pad) / SPREAD_H2, 1);
+  const wrapW = fitW * scale, wrapH = SPREAD_H2 * scale;
+  const innerTransform = mobile ? `scale(${scale}) translateX(${-half * (PAGE_W + FOLD)}px)` : `scale(${scale})`;
 
   // progress tracking — stay on a page 120s and it auto-marks as visited
   const visited = useVisited();
@@ -157,7 +183,7 @@ function BookReader() {
   const [jump, setJump] = React.useState("");
   const goJump = () => {
     const t = parseInt(jump, 10);
-    if (t >= 1 && t <= SPINE.length) { dir.current = t - 1 > idx ? 1 : -1; nav(`/book/${t}`); }
+    if (t >= 1 && t <= SPINE.length) { dir.current = t - 1 > idx ? 1 : -1; setHalf(0); nav(`/book/${t}`); }
     setJump("");
   };
   const hideTimer = React.useRef<ReturnType<typeof setTimeout>>();
@@ -186,53 +212,70 @@ function BookReader() {
       style={{ position: "fixed", inset: 0, background: "#1c1915", overflow: "hidden", touchAction: "pan-y" }}>
       <style>{FLIP_KEYFRAMES}</style>
       <div style={{ position: "absolute", inset: 0, paddingBottom: BAR_H, display: "grid", placeItems: "center" }}>
-        <div ref={ref} style={{ transformOrigin: "center center" }}>
-          <div key={idx} style={{ boxShadow: "0 30px 80px rgba(0,0,0,.55)", animation: `${dir.current > 0 ? "flipNext" : "flipPrev"} .42s cubic-bezier(.22,.61,.36,1)` }}>
-            <SpineFrame n={idx + 1}>{renderSpinePage(page, false, prof.name)}</SpineFrame>
+        <div style={{ width: wrapW, height: wrapH, position: "relative", overflow: "hidden" }}>
+          <div style={{ position: "absolute", top: 0, left: 0, width: SPREAD_W2, height: SPREAD_H2, transform: innerTransform, transformOrigin: "top left" }}>
+            <div key={`${idx}-${half}`} style={{ boxShadow: "0 30px 80px rgba(0,0,0,.55)", animation: `${dir.current > 0 ? "flipNext" : "flipPrev"} .42s cubic-bezier(.22,.61,.36,1)` }}>
+              <SpineFrame n={idx + 1}>{renderSpinePage(page, false, prof.name)}</SpineFrame>
+            </div>
           </div>
         </div>
       </div>
 
       {/* click left / right to flip (content pages only) */}
       {!interactive && <>
-        {idx > 0 && <ClickZone side="left" onClick={() => go(-1)} />}
-        {idx < SPINE.length - 1 && <ClickZone side="right" onClick={() => go(1)} />}
+        {!atStart && <ClickZone side="left" onClick={() => go(-1)} />}
+        {!atEnd && <ClickZone side="right" onClick={() => go(1)} />}
       </>}
 
-      {/* auto-hiding bottom bar */}
-      <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, height: BAR_H, background: "rgba(21,18,15,.95)", borderTop: "1px solid #332c22", display: "flex", alignItems: "center", justifyContent: "space-between", padding: "0 22px", color: "#E7D9BC", fontFamily: "'Spline Sans Mono', monospace", transform: barShown ? "translateY(0)" : "translateY(100%)", transition: "transform .25s ease", zIndex: 20 }}>
-        <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
-          <button onClick={() => go(-1)} disabled={idx === 0} style={navBtn(idx === 0)}>← Prev</button>
-          <button onClick={() => { reveal(); toggleVisited(idx + 1); }} title="Mark this page visited / not visited"
-            style={chipBtn(isVisited)}>{isVisited ? "✓ Visited" : "Mark visited"}</button>
-        </div>
-        <div style={{ display: "flex", alignItems: "center", gap: 14, fontSize: 13 }}>
-          <Link to="/book/4" style={{ color: "#B23A2E", textDecoration: "none" }}>Map</Link>
-          <span style={{ opacity: .6 }}>·</span>
-          <span style={{ fontWeight: 700 }}>{spineLabel(page)}</span>
-          <span style={{ display: "flex", alignItems: "center", gap: 6, opacity: .85 }}>
-            <span style={{ opacity: .6 }}>page</span>
-            <input
-              value={jump}
-              onChange={(e) => { reveal(); setJump(e.target.value.replace(/[^0-9]/g, "")); }}
-              onFocus={reveal}
-              onKeyDown={(e) => { reveal(); if (e.key === "Enter") goJump(); }}
-              placeholder={String(idx + 1)}
-              aria-label="Go to page"
-              style={{ width: 52, textAlign: "center", background: "#0f0d0a", color: "#E7D9BC", border: "1px solid #4a3f30", borderRadius: 5, padding: "4px 6px", fontFamily: "inherit", fontSize: 13, outline: "none" }}
-            />
-            <span style={{ opacity: .5 }}>/ {SPINE.length}</span>
-          </span>
-          <span style={{ opacity: .6 }}>·</span>
-          <span title="Countries visited" style={{ color: "#7FB069" }}>🌍 {visitedCountryCount(visited)}/{TOTAL_STOPS}</span>
-        </div>
-        <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
-          <button onClick={() => { reveal(); setShowOnboard(true); }} title="Make this book yours — set name, age, home country"
-            style={chipBtn(false)}>✎ {prof.name}</button>
-          <button onClick={() => { reveal(); setConfirmReset(true); }} title="Reset all progress"
-            style={chipBtn(false)}>Reset</button>
-          <button onClick={() => go(1)} disabled={idx === SPINE.length - 1} style={navBtn(idx === SPINE.length - 1)}>Next →</button>
-        </div>
+      {/* auto-hiding bottom bar (compact on mobile so nothing clips) */}
+      <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, height: BAR_H, background: "rgba(21,18,15,.95)", borderTop: "1px solid #332c22", display: "flex", alignItems: "center", justifyContent: "space-between", gap: mobile ? 8 : 0, padding: mobile ? "0 12px" : "0 22px", color: "#E7D9BC", fontFamily: "'Spline Sans Mono', monospace", fontSize: mobile ? 12 : 13, transform: barShown ? "translateY(0)" : "translateY(100%)", transition: "transform .25s ease", zIndex: 20 }}>
+        {mobile ? (
+          <>
+            <button onClick={() => go(-1)} disabled={atStart} style={navBtn(atStart)}>←</button>
+            <button onClick={() => { reveal(); toggleVisited(idx + 1); }} title="Mark this page visited / not visited" style={chipBtn(isVisited)}>{isVisited ? "✓" : "○"}</button>
+            <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center", gap: 12, minWidth: 0, whiteSpace: "nowrap" }}>
+              <span style={{ fontWeight: 700 }}>{idx + 1}<span style={{ opacity: .5 }}> / {SPINE.length}</span></span>
+              <span title="Countries visited" style={{ color: "#7FB069" }}>🌍 {visitedCountryCount(visited)}</span>
+            </div>
+            <button onClick={() => { reveal(); setShowOnboard(true); }} title="Make this book yours — set name, age, home country" style={chipBtn(false)}>✎</button>
+            <button onClick={() => go(1)} disabled={atEnd} style={navBtn(atEnd)}>→</button>
+          </>
+        ) : (
+          <>
+            <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+              <button onClick={() => go(-1)} disabled={atStart} style={navBtn(atStart)}>← Prev</button>
+              <button onClick={() => { reveal(); toggleVisited(idx + 1); }} title="Mark this page visited / not visited"
+                style={chipBtn(isVisited)}>{isVisited ? "✓ Visited" : "Mark visited"}</button>
+            </div>
+            <div style={{ display: "flex", alignItems: "center", gap: 14, fontSize: 13 }}>
+              <Link to="/book/4" style={{ color: "#B23A2E", textDecoration: "none" }}>Map</Link>
+              <span style={{ opacity: .6 }}>·</span>
+              <span style={{ fontWeight: 700 }}>{spineLabel(page)}</span>
+              <span style={{ display: "flex", alignItems: "center", gap: 6, opacity: .85 }}>
+                <span style={{ opacity: .6 }}>page</span>
+                <input
+                  value={jump}
+                  onChange={(e) => { reveal(); setJump(e.target.value.replace(/[^0-9]/g, "")); }}
+                  onFocus={reveal}
+                  onKeyDown={(e) => { reveal(); if (e.key === "Enter") goJump(); }}
+                  placeholder={String(idx + 1)}
+                  aria-label="Go to page"
+                  style={{ width: 52, textAlign: "center", background: "#0f0d0a", color: "#E7D9BC", border: "1px solid #4a3f30", borderRadius: 5, padding: "4px 6px", fontFamily: "inherit", fontSize: 13, outline: "none" }}
+                />
+                <span style={{ opacity: .5 }}>/ {SPINE.length}</span>
+              </span>
+              <span style={{ opacity: .6 }}>·</span>
+              <span title="Countries visited" style={{ color: "#7FB069" }}>🌍 {visitedCountryCount(visited)}/{TOTAL_STOPS}</span>
+            </div>
+            <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+              <button onClick={() => { reveal(); setShowOnboard(true); }} title="Make this book yours — set name, age, home country"
+                style={chipBtn(false)}>✎ {prof.name}</button>
+              <button onClick={() => { reveal(); setConfirmReset(true); }} title="Reset all progress"
+                style={chipBtn(false)}>Reset</button>
+              <button onClick={() => go(1)} disabled={atEnd} style={navBtn(atEnd)}>Next →</button>
+            </div>
+          </>
+        )}
       </div>
 
       {/* reset confirmation */}
@@ -240,7 +283,7 @@ function BookReader() {
         <div onClick={() => setConfirmReset(false)}
           style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,.6)", display: "grid", placeItems: "center", zIndex: 40 }}>
           <div onClick={(e) => e.stopPropagation()}
-            style={{ background: "#26221d", color: "#F0E6D1", border: "1px solid #4a3f30", borderRadius: 14, padding: "26px 30px", width: 380, fontFamily: "'Spline Sans Mono', monospace", boxShadow: "0 24px 60px rgba(0,0,0,.6)" }}>
+            style={{ background: "#26221d", color: "#F0E6D1", border: "1px solid #4a3f30", borderRadius: 14, padding: "26px 30px", width: "min(380px, 92vw)", fontFamily: "'Spline Sans Mono', monospace", boxShadow: "0 24px 60px rgba(0,0,0,.6)" }}>
             <div style={{ fontFamily: "'Bricolage Grotesque', sans-serif", fontWeight: 800, fontSize: 22, marginBottom: 8 }}>Reset all progress?</div>
             <p style={{ fontSize: 13.5, lineHeight: 1.5, opacity: .85, margin: "0 0 22px" }}>
               This clears every visited page and all collected stamps for {prof.name}. This can't be undone.
@@ -288,7 +331,7 @@ function OnboardingModal({ onClose }: { onClose: () => void }) {
     <div onClick={onClose}
       style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,.6)", display: "grid", placeItems: "center", zIndex: 50 }}>
       <div onClick={(e) => e.stopPropagation()}
-        style={{ background: "#26221d", color: "#F0E6D1", border: "1px solid #4a3f30", borderRadius: 16, padding: "28px 32px", width: 440, fontFamily: "'Spline Sans Mono', monospace", boxShadow: "0 28px 70px rgba(0,0,0,.65)" }}>
+        style={{ background: "#26221d", color: "#F0E6D1", border: "1px solid #4a3f30", borderRadius: 16, padding: "28px 32px", width: "min(440px, 92vw)", maxHeight: "88vh", overflowY: "auto", fontFamily: "'Spline Sans Mono', monospace", boxShadow: "0 28px 70px rgba(0,0,0,.65)" }}>
         <div style={{ fontFamily: "'Bricolage Grotesque', sans-serif", fontWeight: 800, fontSize: 26, lineHeight: 1.05 }}>Make this book yours</div>
         <p style={{ fontSize: 13, lineHeight: 1.5, opacity: .8, margin: "8px 0 22px" }}>
           Tell us who's exploring. Your name appears on the cover and passport, and your journey starts at home.
