@@ -1,0 +1,163 @@
+{
+  "name": "SUDAN",
+  "nativeName": "SD",
+  "romaji": "AS-SUDAN",
+  "tagline": "Land of a thousand pyramids",
+  "region": "North Africa",
+  "coords": "15°N 30°E",
+  "fileNo": "093",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#C8B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7055",
+    "line": "#DDD0B0",
+    "accent": "#D21034",
+    "accent2": "#007229"
+  },
+  "flag": {
+    "assetPath": "/flags/sd.svg",
+    "title": "Flag of Sudan",
+    "note": "Red-white-black with green triangle",
+    "keyColor": "#D21034",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Sudan sits where Africa meets the Arab world — two great Nile rivers converge at Khartoum in swirling colours. The desert north hides more pyramids than Egypt, lions and crocodiles roam the green south, and an ancient kingdom once ruled Egypt itself. One of Africa's largest and most surprising countries.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Khartoum",
+      "sub": "where two Niles meet"
+    },
+    {
+      "label": "People",
+      "value": "~47 million",
+      "sub": "UN est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "SDG pound",
+      "sub": "Sudanese pound"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "official; 70+ others spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "1.86 m km²",
+      "sub": "3rd largest in Africa"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "3,042 m",
+      "sub": "Deriba Caldera, Jebel Marra"
+    }
+  ],
+  "islands": [
+    "Khartoum",
+    "Omdurman",
+    "Port Sudan",
+    "Kassala",
+    "El-Obeid"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Desert, river & volcano",
+    "animals": "Crocs, camels & gazelles",
+    "culture": "Pyramids, henna & Nile music",
+    "history": "Black Pharaohs & Kush",
+    "wows": "Things to blow your mind"
+  },
+  "geo": [
+    "Sudan is mostly Sahara in the north, where the ancient Nubian Desert bakes under fierce sun. The Nile snakes through the country, and where its Blue and White branches crash together at Khartoum you can see two different colours of water swirling side by side before merging.",
+    "In the west, dormant volcano Jebel Marra rises nearly 3,000 m with a sparkling crater lake inside. The south turns green and swampy with savannah wildlife, while the east meets the Red Sea — giving Sudan beaches, desert, and jungle all at once."
+  ],
+  "animals": [
+    "The Nile crocodile lurks in Sudan's rivers, growing up to 5 metres and waiting motionless for hours before snapping. Dorcas gazelles dart across the northern desert on delicate legs, surviving without drinking water by eating moisture-rich plants.",
+    "Dromedary camels have carried loads across the Nubian Desert for thousands of years. Lions and leopards hunt in southern grasslands, and the African rock python — Africa's longest snake — coils along riverbanks. Over 630 bird species fill the skies."
+  ],
+  "culture": [
+    "Sudanese hospitality means guests are always offered strong spiced coffee or sweet tea. Nubian people are famous for colourful geometric wall paintings, bold handwoven textiles, and music played on drums and the oud lute.",
+    "Henna patterns on hands and feet are central to weddings that last several nights. The giant Omdurman souq buzzes with spices and gold jewellery. Ful medames — slow-cooked spiced beans — is the beloved everyday breakfast."
+  ],
+  "history": [
+    "Around 2,600 years ago the Kingdom of Kush grew so powerful its rulers — the Black Pharaohs — conquered all of Egypt. They built hundreds of steep pyramids along the Nile, more than exist in Egypt today, as royal tombs for Kushite kings.",
+    "Sudan became part of the Ottoman Empire, then British-Egyptian rule, before winning independence in 1956. In 2011 South Sudan voted to separate, becoming Africa's newest nation in one of the most recent peaceful independences on Earth."
+  ],
+  "wows": [
+    "Sudan has more ancient pyramids than Egypt — over 200 at Meroë alone, built by Kushite kings.",
+    "The Black Pharaohs of Kush conquered Egypt in 747 BC and ruled the empire for nearly a century.",
+    "At Khartoum, two rivers — one blue-green, one muddy-brown — flow visibly side by side before mixing.",
+    "Jebel Marra volcano erupted just 3,500 years ago; hot springs still bubble inside its crater lake.",
+    "Sudan's pyramids are steeper than Egypt's — a sharp 72-degree angle compared to Egypt's 54 degrees.",
+    "Sudan has the largest camel market in Africa at Omdurman, trading thousands of camels every week.",
+    "Egypt called this land 'Nubia' from their word for gold — Sudan supplied most of ancient Egypt's gold."
+  ],
+  "myths": [
+    {
+      "myth": "Sudan is just desert",
+      "fact": "Only the north is desert — the south has tropical savannah, swamps, and a Red Sea coast with coral reefs."
+    },
+    {
+      "myth": "Egypt has the most pyramids",
+      "fact": "Sudan has around 255 pyramids, more than twice Egypt's total. They were mostly built after 700 BC and are less visited."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "سلام",
+      "say": "sa-LAAM"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Water",
+      "jp": "ماء",
+      "say": "MAA"
+    },
+    {
+      "en": "Delicious",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/sd-landmark.jpg",
+      "alt": "Ancient steep pyramids of Meroe rising from the Sudanese desert sands",
+      "caption": "MEROË PYRAMIDS — royal tombs of the Kushite kingdom in the Nile Desert",
+      "credit": "Fabrizio Demartis / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/sd-animalA.jpg",
+      "alt": "Full-body side view of a Nile crocodile",
+      "caption": "NILE CROCODILE — Africa's apex river predator, up to 5 metres long",
+      "credit": "Derek Ramsey / CC BY-SA 2.5"
+    },
+    "animalB": {
+      "src": "/photos/sd-animalB.jpg",
+      "alt": "Dromedary camels in an arid landscape in Gedaret, Sudan",
+      "caption": "DROMEDARY CAMEL — desert master of Sudan's Nubian sands for millennia",
+      "credit": "Diego Tirira / CC BY-SA 2.0"
+    },
+    "hero": {
+      "src": "/photos/sd-hero.jpg",
+      "alt": "Aerial view of the Blue and White Nile rivers meeting at Khartoum with visibly different colours",
+      "caption": "CONFLUENCE OF THE NILES — two differently coloured rivers meet at Khartoum",
+      "credit": "Hans Birger Nilsen / CC BY-SA 2.0"
+    }
+  }
+}

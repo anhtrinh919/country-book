@@ -1,0 +1,163 @@
+{
+  "name": "CAMEROON",
+  "nativeName": "CM",
+  "romaji": "CAMEROON",
+  "tagline": "Africa in miniature",
+  "region": "Central Africa",
+  "coords": "3.85°N, 11.50°E",
+  "fileNo": "047",
+  "langName": "French",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#cdbfa0",
+    "ink": "#231f1a",
+    "faint": "#8a7a5a",
+    "line": "#dccfb0",
+    "accent": "#007A5E",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/cm.svg",
+    "title": "Tricolour & Star",
+    "note": "Green, red, yellow with gold star",
+    "keyColor": "#007A5E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Cameroon sits at Africa's crossroads — thick rainforest meets open savanna, a volcano rises straight from the sea, and 280 languages fill the air. Geographers nicknamed it \"Africa in miniature\" because its landscapes pack in nearly every terrain the continent has: desert, jungle, highland, and coast, all within one country.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Yaoundé",
+      "sub": "population ~4.3 million"
+    },
+    {
+      "label": "People",
+      "value": "~28.6 M",
+      "sub": "est. 2024, growing fast"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "shared with 5 neighbours"
+    },
+    {
+      "label": "Language",
+      "value": "FR & EN",
+      "sub": "280+ local languages too"
+    },
+    {
+      "label": "Land area",
+      "value": "475,442 km²",
+      "sub": "larger than Sweden"
+    },
+    {
+      "label": "High point",
+      "value": "4,095 m",
+      "sub": "Mt Cameroon — active volcano"
+    }
+  ],
+  "islands": [
+    "Yaoundé",
+    "Douala",
+    "Bafoussam",
+    "Garoua",
+    "Buea"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of every landscape",
+    "animals": "Jungle giants & rare birds",
+    "culture": "Two tongues, one beat",
+    "history": "From prawns to republic",
+    "wows": "Wait — really?!"
+  },
+  "geo": [
+    "Cameroon is shaped like an upside-down triangle. The south is dense equatorial rainforest; the centre rises to cool highlands; the north flattens into Sahel grassland near Lake Chad. The Adamawa Plateau runs like a green spine through the middle.",
+    "The coast faces the Gulf of Guinea, where Mount Cameroon — an active volcano — rises straight from the sea. The remote Dja Forest is one of Africa's best-preserved rainforest reserves, listed as a UNESCO World Heritage Site."
+  ],
+  "animals": [
+    "Cameroon's rainforests shelter western lowland gorillas, forest elephants, and chimpanzees. The Dja Reserve alone hosts 100+ mammal species. Drills — big, brightly faced monkeys — live only here and on nearby Bioko Island.",
+    "Birdwatchers seek the Cameroon Highlands for 20+ birds found nowhere else on Earth, including the Bannerman's turaco with brilliant red wings. Leatherback sea turtles nest quietly on Atlantic beaches each year."
+  ],
+  "culture": [
+    "Cameroon has over 280 ethnic groups — Bamileke, Fulani, Beti, Bassa and dozens more. The Bamileke are famed for elephant-mask dances where huge carved headdresses sway to thundering drums at royal festivals.",
+    "Food centres on ndólé (bitter-leaf stew with groundnuts), eru, and plantain pounded into fufu. Football is a national obsession — the Indomitable Lions won the Africa Cup of Nations five times."
+  ],
+  "history": [
+    "Bantu-speaking peoples settled Cameroon's forests thousands of years ago. Portuguese sailors arrived in 1472 and named the Wouri River 'Rio dos Camarões' (River of Prawns) — giving the country its name. Germany colonised the region in 1884.",
+    "After WWI, Britain and France split the territory. French Cameroun gained independence on 1 January 1960. The British section voted to join in 1961, creating today's bilingual republic with Yaoundé as capital."
+  ],
+  "wows": [
+    "Mount Cameroon is the tallest peak in West-Central Africa and one of the continent's most active volcanoes.",
+    "Cameroon has 280+ distinct languages — one of the highest concentrations per km² on Earth.",
+    "Debundscha on the Cameroon coast averages 10,000 mm of rain a year — among the world's wettest spots.",
+    "The Indomitable Lions were the first African team to reach a World Cup quarter-final, in Italy 1990.",
+    "Cameroon plays two national anthems at official events — one in French, one in English.",
+    "Lake Nyos released a deadly CO₂ cloud in 1986 in one of history's rarest disasters: a limnic eruption.",
+    "The Ngondo festival sends a diver into the Wouri River to deliver messages to river spirits — centuries old."
+  ],
+  "myths": [
+    {
+      "myth": "Cameroon is just jungle",
+      "fact": "Cameroon holds every African terrain: jungle, savanna, highland, semi-desert, volcanic coast, and the wettest coastal spot on the continent."
+    },
+    {
+      "myth": "Its two official languages cause constant tension",
+      "fact": "Cameroon is proudly bilingual — both languages appear on banknotes and signs, and Cameroonian Pidgin bridges communities daily."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Excuse me",
+      "jp": "Pardon",
+      "say": "par-DOHN"
+    },
+    {
+      "en": "Yes",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Yummy!",
+      "jp": "Délicieux!",
+      "say": "day-lee-SYUH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cm-hero.jpg",
+      "alt": "Wouri Bridge spanning the estuary at Douala",
+      "caption": "WOURI BRIDGE — Douala's great river crossing links the port city's two halves",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cm-landmark.jpg",
+      "alt": "Mount Cameroon volcanic peak above green foothills",
+      "caption": "MOUNT CAMEROON — active volcano rising 4,095 m straight from the Atlantic coast",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cm-animalA.jpg",
+      "alt": "Western lowland gorilla seated in forest vegetation",
+      "caption": "WESTERN LOWLAND GORILLA — lives in Cameroon's ancient Dja rainforest reserve",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cm-animalB.jpg",
+      "alt": "Bannerman's turaco perched showing vivid red and green plumage",
+      "caption": "BANNERMAN'S TURACO — exists only in Cameroon's highland forests",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "MICRONESIA",
+  "nativeName": "FM",
+  "romaji": "MICRONESIA",
+  "tagline": "Pearls of the Pacific",
+  "region": "Oceania / Pacific",
+  "coords": "6.9°N, 158.2°E",
+  "fileNo": "072",
+  "langName": "Pohnpeian",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EDF4F9",
+    "dot": "#b8cfe0",
+    "ink": "#1a2830",
+    "faint": "#6a8a9e",
+    "line": "#cce0ef",
+    "accent": "#75B2DD",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/fm.svg",
+    "title": "Four Stars & Ocean",
+    "note": "Blue for the Pacific; 4 stars for 4 states",
+    "keyColor": "#75B2DD",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Scattered like gemstones across the world's largest ocean, the Federated States of Micronesia is 607 islands spread over an expanse bigger than Europe — yet the total land fits inside a small city. Here you'll find a city built on a coral reef, stone wheels used as money, and lagoons hiding an entire sunken wartime fleet.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Palikir",
+      "sub": "On Pohnpei island"
+    },
+    {
+      "label": "People",
+      "value": "~114,000",
+      "sub": "Est. 2023 census"
+    },
+    {
+      "label": "Money",
+      "value": "US Dollar",
+      "sub": "Uses USD since 1944"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus 8 local tongues"
+    },
+    {
+      "label": "Land area",
+      "value": "702 km²",
+      "sub": "Across 3M km² of sea"
+    },
+    {
+      "label": "Top of land",
+      "value": "Nanlaud 782 m",
+      "sub": "Cloud-capped, Pohnpei"
+    }
+  ],
+  "islands": [
+    "Pohnpei",
+    "Chuuk",
+    "Yap",
+    "Kosrae"
+  ],
+  "islandsLabel": "MAIN STATES:",
+  "sections": {
+    "geography": "607 islands, one big ocean",
+    "animals": "Wings, fins & stone money",
+    "culture": "Ancient stones & sakau",
+    "history": "From reef kings to free nation",
+    "wows": "Things that'll surprise you"
+  },
+  "geo": [
+    "Micronesia's 607 islands stretch nearly 3,000 km across the western Pacific — but squished together they'd fit inside London. Most are low coral atolls fringed by turquoise lagoons, but Pohnpei rises dramatically to jungle-wrapped peaks hidden in cloud.",
+    "Pohnpei gets over 7,600 mm of rain a year — one of Earth's wettest spots. Kosrae is cloaked in dense mangrove right to the shoreline, flat Yap barely clears sea level, and the ocean between the islands plunges 8 km deep."
+  ],
+  "animals": [
+    "Yap's warm channels host over 100 resident manta rays, gliding in lazy loops for reef cleaning. Hawksbill and green sea turtles nest on quiet beaches, while reef fish dart through coral gardens harbouring nearly 1,000 species.",
+    "At dusk, fruit bats fill the sky, and the Micronesian imperial pigeon nests in coastal forest. Pingelap hosts enormous coconut crabs that can crack a coconut with their claws and live up to 60 years."
+  ],
+  "culture": [
+    "Every state has its own language and customs. On Pohnpei, the ceremonial drink sakau — pounded from a plant root, shared from a coconut shell in strict order of rank — is the heart of every feast and a powerful act of respect.",
+    "Weavers on every island craft baskets and clothing from pandanus and hibiscus fibre. Dance is serious — stick dances and standing dances mark every celebration, passed down through many generations without written notes."
+  ],
+  "history": [
+    "Ancient Micronesians were master navigators, reading stars, wave swells, and bird flight to cross thousands of km. Around 1200 AD the Saudeleur dynasty built Nan Madol — 100 stone islands in a lagoon, joined by canals, still standing today.",
+    "Spain, Germany, then Japan ruled in turn. A US air assault in 1944 sank 60+ Japanese ships in Chuuk Lagoon. The FSM became self-governing in 1979 and fully independent in 1986 via a Compact of Free Association with the USA."
+  ],
+  "wows": [
+    "Nan Madol is the only ancient city built on a coral reef — raised with basalt logs, no metal tools.",
+    "Yap's rai stones can weigh 4 tonnes; ownership changes by community agreement, not by moving them.",
+    "Chuuk Lagoon holds 60+ WWII ships and 200 aircraft — the world's greatest underwater museum.",
+    "On Pingelap Atoll, 1 in 10 people has total colour blindness — from one typhoon survivor in 1775.",
+    "The FSM's ocean territory is 5× the size of France, yet total land is smaller than Houston.",
+    "Operation Christmas Drop airlifts gifts to remote islands each December — running since 1952.",
+    "Nanlaud peak stays so cloud-wrapped it wasn't fully surveyed until the 20th century."
+  ],
+  "myths": [
+    {
+      "myth": "Micronesia is part of Polynesia",
+      "fact": "They are separate Pacific regions with different cultures and languages. Micronesia is northwest Pacific; Polynesia includes Samoa, Tonga, and Hawaiʻi — thousands of km away."
+    },
+    {
+      "myth": "Yapese stone money is decoration",
+      "fact": "Rai stones are real currency still used for land rights and marriage. No one moves them; the whole community simply remembers and agrees on who owns each one."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Kaselehlie",
+      "say": "kah-say-LEH-lee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Kalahngan",
+      "say": "kah-LAHN-gahn"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ehng",
+      "say": "eng"
+    },
+    {
+      "en": "No",
+      "jp": "Soh",
+      "say": "soh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Kaselehlie",
+      "say": "kah-say-LEH-lee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fm-hero.jpg",
+      "alt": "Aerial view of Pohnpei lagoon and islets from a plane window",
+      "caption": "POHNPEI LAGOON — the emerald island ringed by its reef, seen from above",
+      "credit": "Zykasaa / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/fm-landmark.jpg",
+      "alt": "Stone walls of Nan Madol beside a canal in Pohnpei",
+      "caption": "NAN MADOL — basalt city on a coral reef, the Venice of the Pacific",
+      "credit": "Uhooep / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/fm-animalA.jpg",
+      "alt": "Giant oceanic manta ray gliding underwater",
+      "caption": "MANTA RAY — 100+ residents patrol Yap's famous cleaning channels",
+      "credit": "A. de Frias Marques / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/fm-animalB.jpg",
+      "alt": "Large circular Rai stone money at a village on Yap island",
+      "caption": "RAI STONE — Yap's living currency; ownership shifts by memory alone",
+      "credit": "Eric Guinther / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

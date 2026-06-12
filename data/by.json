@@ -1,0 +1,163 @@
+{
+  "name": "BELARUS",
+  "nativeName": "BY",
+  "romaji": "BELARUS",
+  "tagline": "Europe's green forest heart",
+  "region": "Eastern Europe",
+  "coords": "53.9°N, 27.6°E",
+  "fileNo": "051",
+  "langName": "Belarusian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E6",
+    "dot": "#c8ccb2",
+    "ink": "#1e2118",
+    "faint": "#7a8060",
+    "line": "#d4d8c0",
+    "accent": "#C8282A",
+    "accent2": "#3A7D2C"
+  },
+  "flag": {
+    "assetPath": "/flags/by.svg",
+    "title": "Flag of Belarus",
+    "note": "Red & green stripes, folk-pattern band",
+    "keyColor": "#C8282A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Belarus sits in flat Eastern Europe, wrapped in ancient forests and dotted with lakes. Nearly half the country is woodland — home to bison and lynx. Minsk was rebuilt from rubble after WWII and gleams with grand boulevards. Belarusians love potatoes, folk embroidery, and ice hockey played with fierce national pride.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Minsk",
+      "sub": "Pop. 2 million; on the Svislach"
+    },
+    {
+      "label": "People",
+      "value": "9.1 million",
+      "sub": "Est. 2025 — close to Austria"
+    },
+    {
+      "label": "Money",
+      "value": "BYN Ruble",
+      "sub": "BYN; 100 kopecks = 1 ruble"
+    },
+    {
+      "label": "Language",
+      "value": "Belarusian",
+      "sub": "& Russian — both official"
+    },
+    {
+      "label": "Land area",
+      "value": "207,600 km²",
+      "sub": "Slightly smaller than the UK"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Dzyarzhynsk.",
+      "sub": "345 m — barely a gentle hill!"
+    }
+  ],
+  "islands": [
+    "Minsk",
+    "Hrodna",
+    "Brest",
+    "Vitebsk",
+    "Homyel"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Forests, lakes & flat land",
+    "animals": "Wild things in deep woods",
+    "culture": "Potatoes, folk art & hockey",
+    "history": "Grand duchy to Soviet state",
+    "wows": "Seven Belarus surprises"
+  },
+  "geo": [
+    "Belarus is almost perfectly flat — the whole country fits inside just 345 metres of elevation! Great rivers like the Dnieper drift through vast marshlands called Palesse, one of Europe's largest wetlands, full of rare frogs and wading birds.",
+    "About 40% of Belarus is dense pine and spruce forest. Over 10,000 glacial lakes sparkle across the north. Belarus is landlocked, sharing borders with Poland, Ukraine, Russia, Latvia, and Lithuania — no sea in sight."
+  ],
+  "animals": [
+    "The European bison — the zubr — is Belarus's national animal and its greatest conservation triumph. Hunted to extinction in the wild by 1927, it was bred back in zoos and reintroduced. Białowieża Forest now holds around 1,000 wild bison — the world's largest contiguous wild herd.",
+    "Białowieża also shelters wolves, lynx, and river otters. White storks nest on village chimneys each summer, considered lucky by locals. The Pripyat marshes draw thousands of migrating cranes every autumn, filling the sky with noise."
+  ],
+  "culture": [
+    "Belarusians treasure vyshyvanka — intricate embroidery in red and white geometric patterns worn on shirts and festival costumes. The potato (bulba) is a national obsession: draniki, crispy potato pancakes, appear at every table, every day.",
+    "Ice hockey is the sport of the nation — children lace skates almost before they can walk, and Minsk hosted the IIHF World Championship in 2014. Kupalle, the midsummer festival, sees young people leap bonfires and float flower wreaths on rivers."
+  ],
+  "history": [
+    "Belarus was the core of the powerful Grand Duchy of Lithuania in the 14–16th centuries — at its peak one of Europe's biggest states, from the Baltic almost to the Black Sea. It later fell under Russian imperial rule and endured fierce fighting in both World Wars.",
+    "The Nazi occupation of 1941–44 was catastrophic: Belarus lost roughly a quarter of its entire population. After liberation it was rebuilt as a Soviet showcase republic. Independence came in 1991 when the USSR dissolved peacefully."
+  ],
+  "wows": [
+    "Białowieża Forest is the last primeval lowland forest in Europe, shared by Belarus and Poland.",
+    "Minsk was so completely destroyed in WWII it was rebuilt from scratch as a Soviet showcase.",
+    "Belarus grows more potatoes per person than almost any country — around 430 kg each per year.",
+    "Its highest 'peak', Dzyarzhynsk Hill, is just 345 m — lower than many city skyscrapers.",
+    "Belarus reintroduced European bison to the wild after they were declared extinct in nature.",
+    "Vitebsk is the birthplace of Marc Chagall, whose dreamlike paintings hang in galleries worldwide.",
+    "Belarus was a founding UN member in 1945 — while still part of the Soviet Union!"
+  ],
+  "myths": [
+    {
+      "myth": "Belarus is just part of Russia",
+      "fact": "Belarusians have their own distinct language, folk culture, and centuries of separate statehood as the Grand Duchy of Lithuania — not Russian at all."
+    },
+    {
+      "myth": "The whole country is radioactive",
+      "fact": "The 1986 Chernobyl blast sent most fallout into southern Belarus; those zones have restrictions. Minsk and most of the country are safe to visit."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Вітаю",
+      "say": "Vee-TAH-yu"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Дзякуй",
+      "say": "DZYA-kooy"
+    },
+    {
+      "en": "Please",
+      "jp": "Калі ласка",
+      "say": "KAH-li LAS-ka"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Смачна",
+      "say": "SMACH-na"
+    },
+    {
+      "en": "Forest",
+      "jp": "Лес",
+      "say": "Lyes"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/by-hero.jpg",
+      "alt": "National Library of Belarus diamond-shaped glass building lit at night",
+      "caption": "NATIONAL LIBRARY — Minsk's diamond glass landmark glows after dark",
+      "credit": "Wikimedia Commons / A. Mitrofanov"
+    },
+    "landmark": {
+      "src": "/photos/by-landmark.jpg",
+      "alt": "Mir Castle reflecting in a calm lake on a sunny day",
+      "caption": "MIR CASTLE — a UNESCO World Heritage fortress above its moat",
+      "credit": "Wikimedia Commons / Homoatrox"
+    },
+    "animalA": {
+      "src": "/photos/by-animalA.jpg",
+      "alt": "European bison standing in a forest clearing",
+      "caption": "EUROPEAN BISON — the mighty zubr, rescued from extinction",
+      "credit": "Wikimedia Commons / Radomił Binek"
+    },
+    "animalB": {
+      "src": "/photos/by-animalB.jpg",
+      "alt": "White stork standing in a meadow",
+      "caption": "WHITE STORK — a lucky symbol nesting on village chimneys each summer",
+      "credit": "Wikimedia Commons / Siga"
+    }
+  }
+}

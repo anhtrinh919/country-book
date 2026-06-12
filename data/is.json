@@ -1,0 +1,163 @@
+{
+  "name": "ICELAND",
+  "nativeName": "IS",
+  "romaji": "ISLAND",
+  "tagline": "Fire, Ice & Northern Lights",
+  "region": "North Atlantic, Europe",
+  "coords": "64.96°N, 19.02°W",
+  "fileNo": "047",
+  "langName": "Icelandic",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEF3F6",
+    "dot": "#c2cdd6",
+    "ink": "#1e2730",
+    "faint": "#6e8090",
+    "line": "#d4dde4",
+    "accent": "#003897",
+    "accent2": "#D72828"
+  },
+  "flag": {
+    "assetPath": "/flags/is.svg",
+    "title": "Flag of Iceland",
+    "note": "Blue with a red cross edged in white",
+    "keyColor": "#003897",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Iceland perches on the Arctic edge where volcanoes rumble under glaciers and the sky blazes green on winter nights. Still being shaped by fresh lava, fewer than 400,000 people live here — yet they get free hot water and heating straight from the volcano heat underfoot. Fire below, ice on top, breathtaking skies above.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Reykjavik",
+      "sub": "Northernmost capital on Earth"
+    },
+    {
+      "label": "People",
+      "value": "~376,000",
+      "sub": "Est. 2024 — tiny for a country"
+    },
+    {
+      "label": "Money",
+      "value": "Króna (ISK)",
+      "sub": "One crown = 100 aurar"
+    },
+    {
+      "label": "Language",
+      "value": "Icelandic",
+      "sub": "Nearly unchanged for 1,000 years"
+    },
+    {
+      "label": "Area",
+      "value": "103,000 km²",
+      "sub": "About the size of Kentucky, USA"
+    },
+    {
+      "label": "Highest peak",
+      "value": "2,110 m",
+      "sub": "Hvannadalshnjúkur — atop a volcano"
+    }
+  ],
+  "islands": [
+    "Reykjavik",
+    "Akureyri",
+    "Keflavik",
+    "Ísafjörður",
+    "Höfn"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of fire & ice",
+    "animals": "Wild things of the north",
+    "culture": "Vikings, sagas & hot pots",
+    "history": "From settlers to superstars",
+    "wows": "Iceland's wow moments"
+  },
+  "geo": [
+    "Iceland straddles two tectonic plates pulling apart by 2 cm a year. The result is bubbling geysers, steaming hot springs, black lava fields, and over 130 volcanoes, about 30 still active today.",
+    "More than 10% of Iceland is glacier, yet the ground underneath is warm. Geyser Strokkur shoots boiling water 20 metres high every few minutes, like the Earth clearing its throat on schedule."
+  ],
+  "animals": [
+    "Iceland has no native land predators — no bears, no wolves, no snakes. The Arctic fox is the only land mammal that arrived on its own, padding across frozen sea ice thousands of years ago.",
+    "The seas swarm with humpback whales and orcas. Millions of puffins nest here each summer, flapping stubby wings up to 400 beats per minute — like tiny feathery helicopters."
+  ],
+  "culture": [
+    "Icelanders love the 'hot pot' — outdoor geothermal pools where neighbours gossip and kids splash. Every town has one, and soaking at 40 °C while snowflakes fall on your head is a perfectly normal Tuesday.",
+    "Iceland reads more books per person than almost anywhere on Earth. On Christmas Eve everyone gives novels to read in bed that night — the 'Jólabókaflóð', or Christmas Book Flood, rooted in Viking saga storytelling."
+  ],
+  "history": [
+    "Vikings from Norway settled Iceland around 874 AD. In 930 AD Icelanders created the Althing — one of the world's oldest parliaments — meeting in the open air to debate and make laws together.",
+    "Iceland spent centuries under Danish rule, survived volcanic eruptions that killed a quarter of its people in 1783, became independent in 1944, and grew from one of Europe's poorest to one of its wealthiest in one generation."
+  ],
+  "wows": [
+    "Iceland generates nearly 100% of its electricity from geothermal and hydropower — almost zero carbon.",
+    "The Northern Lights dance green and purple over Reykjavik on clear winter nights.",
+    "Icelanders have no family surnames — each child uses a parent's first name plus -son or -dóttir.",
+    "Iceland has no army, navy, or air force — one of few nations with zero military forces.",
+    "At Silfra fissure you can swim between two tectonic plates in water so clear you see 100 m ahead.",
+    "Roads have been rerouted to avoid disturbing rocks where the hidden folk (Huldufólk) are said to live.",
+    "Eyjafjallajökull erupted in 2010 and grounded millions of airline passengers across Europe for weeks."
+  ],
+  "myths": [
+    {
+      "myth": "Iceland is covered in ice",
+      "fact": "Iceland is surprisingly green — about 23% grassland. A Viking named it Iceland to keep the good land secret; Greenland is the one mostly covered in ice."
+    },
+    {
+      "myth": "It's always bitterly cold there",
+      "fact": "Reykjavik winters are milder than New York City's, thanks to the Gulf Stream. Temperatures rarely drop below -10 °C and geothermal heating keeps homes warm year-round."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Halló",
+      "say": "HAL-oh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Takk",
+      "say": "tahk"
+    },
+    {
+      "en": "Volcano",
+      "jp": "Eldfjall",
+      "say": "ELD-fyatl"
+    },
+    {
+      "en": "Yes",
+      "jp": "Já",
+      "say": "yow"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Bless",
+      "say": "bless"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/is-hero.jpg",
+      "alt": "Reykjavik city skyline at night with Hallgrimskirkja church lit up",
+      "caption": "REYKJAVÍK — the capital glows beneath the aurora-lit Arctic sky",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/is-landmark.jpg",
+      "alt": "Strokkur geyser erupting a tall column of boiling water",
+      "caption": "STROKKUR GEYSER — blasts boiling water 20 m high every few minutes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/is-animalA.jpg",
+      "alt": "Atlantic puffin with colourful beak standing on a cliff",
+      "caption": "ATLANTIC PUFFIN — Iceland hosts millions of these clown-faced seabirds each summer",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/is-animalB.jpg",
+      "alt": "White Arctic fox standing in snowy landscape",
+      "caption": "ARCTIC FOX — Iceland's only native land mammal in its white winter coat",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

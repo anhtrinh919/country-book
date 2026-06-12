@@ -1,0 +1,163 @@
+{
+  "name": "NEW ZEALAND",
+  "nativeName": "NZ",
+  "romaji": "AOTEAROA",
+  "tagline": "Land of the Long White Cloud",
+  "region": "Australasia & Pacific",
+  "coords": "41°S, 174°E",
+  "fileNo": "042",
+  "langName": "Māori",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF0E5",
+    "dot": "#c8ccb5",
+    "ink": "#1e2318",
+    "faint": "#7a8466",
+    "line": "#d8dcc8",
+    "accent": "#00247D",
+    "accent2": "#CC142B"
+  },
+  "flag": {
+    "assetPath": "/flags/nz.svg",
+    "title": "Blue Ensign+Stars",
+    "note": "Union Jack + 4 red stars of Southern Cross",
+    "keyColor": "#00247D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "New Zealand is two gorgeous islands at the bottom of the world. The Māori called it Aotearoa — \"Land of the Long White Cloud\" — arriving by canoe around 700 years ago. Today it's famous for fiery volcanoes, ancient reptiles that outlived dinosaurs, and being the first country to let women vote. Real-life Middle-earth too!",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Wellington",
+      "sub": "Windiest city in the world"
+    },
+    {
+      "label": "People",
+      "value": "5.34 million",
+      "sub": "Stats NZ estimate, Dec 2025"
+    },
+    {
+      "label": "Money",
+      "value": "NZ Dollar",
+      "sub": "Kiwi dollar, symbol $"
+    },
+    {
+      "label": "Language",
+      "value": "English+Māori",
+      "sub": "3 official languages incl. Sign"
+    },
+    {
+      "label": "Land area",
+      "value": "268,021 km²",
+      "sub": "Slightly bigger than the UK"
+    },
+    {
+      "label": "High point",
+      "value": "Aoraki 3,724m",
+      "sub": "Māori name for Mount Cook"
+    }
+  ],
+  "islands": [
+    "North Island",
+    "South Island",
+    "Stewart Is.",
+    "Chatham Is.",
+    "Barrier Is."
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Islands of fire & fjords",
+    "animals": "Creatures like no other",
+    "culture": "Haka, hongi & hobbits",
+    "history": "Canoes to the Treaty",
+    "wows": "Seven kiwi surprises"
+  },
+  "geo": [
+    "New Zealand sits on the Pacific Ring of Fire — it has active volcanoes, bubbling mud pools, and frequent earthquakes. The South Island's Southern Alps are a sharp, snowy spine of peaks, while deep fjords like Milford Sound slice into the coast.",
+    "The North Island has steaming geysers and a volcanic plateau. Most Kiwis live here, including in Auckland, the biggest city, perched between two harbours. Wellington, the capital, clings to a hilly harbour at the island's southern tip."
+  ],
+  "animals": [
+    "New Zealand split from the super-continent Gondwana 80 million years ago before mammals arrived, so birds evolved to fill every role. The kiwi sniffs out worms with nostrils on its beak-tip and lays an egg a quarter of its own body weight.",
+    "The tuatara looks like a lizard but is the last survivor of a reptile family that lived beside dinosaurs — 220 million years ago. It grows past 100 years old. New Zealand also hosts the world's heaviest parrot, the flightless kākāpō."
+  ],
+  "culture": [
+    "The Māori brought their language and the haka — a powerful dance of stamping, tongue-poking, and chanting. The All Blacks rugby team performs it before every match. A traditional hongi greeting involves pressing foreheads and noses together to share breath.",
+    "New Zealand food blends Māori and Pacific flavours. The hāngi is a feast slow-cooked underground on hot stones. Pavlova — meringue piled with cream and kiwifruit — is claimed by both New Zealand and Australia as their own."
+  ],
+  "history": [
+    "The Māori navigated here from Polynesia by canoe around 1300 CE, guided by stars and ocean swells. Dutch explorer Abel Tasman spotted the islands in 1642 but sailed off quickly after a hostile encounter near shore.",
+    "In 1840, the Crown and 500+ Māori chiefs signed the Treaty of Waitangi. New Zealand became self-governing in 1907 and in 1893 became the first country in the world to grant women the right to vote."
+  ],
+  "wows": [
+    "In 1893 NZ became the first country on Earth to grant women the right to vote.",
+    "NZ sits atop Zealandia — a mostly sunken continent scientists confirmed in 2017.",
+    "Seven penguin species swim in NZ waters — more than any other country.",
+    "Tuatara Henry fathered chicks at age 111 — still growing at 35 years old.",
+    "There are about 4.6 sheep per person; in 1982 the ratio was 22 sheep each.",
+    "The world’s first commercial bungee jump opened at Queenstown in 1988.",
+    "All three Lord of the Rings films were shot across 150+ NZ locations."
+  ],
+  "myths": [
+    {
+      "myth": "NZ is part of Australia",
+      "fact": "New Zealand is a separate country 2,000 km across the Tasman Sea, with its own government, currency, and distinct culture."
+    },
+    {
+      "myth": "Every Kiwi speaks Māori",
+      "fact": "English is the everyday language. About 4% of New Zealanders speak conversational Māori, though the number is rising fast."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Kia ora",
+      "say": "kee-ah OR-ah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ngā mihi",
+      "say": "Nah MEE-hee"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Haere mai",
+      "say": "Ha-eh-reh MY"
+    },
+    {
+      "en": "Family",
+      "jp": "Whānau",
+      "say": "FAH-no"
+    },
+    {
+      "en": "Be strong",
+      "jp": "Kia kaha",
+      "say": "kee-ah KAH-hah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nz-hero.jpg",
+      "alt": "Milford Sound fjord with Mitre Peak reflected in still water, New Zealand",
+      "caption": "MILFORD SOUND — Mitre Peak towers above NZ's most iconic fjord",
+      "credit": "Wikimedia Commons / CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/nz-landmark.jpg",
+      "alt": "Auckland city skyline and Sky Tower from Viaduct Harbour",
+      "caption": "AUCKLAND SKY TOWER — NZ's biggest city seen from the waterfront",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/nz-animalA.jpg",
+      "alt": "Brown kiwi bird on the forest floor showing its long beak",
+      "caption": "KIWI — NZ's nocturnal national bird sniffs worms with its beak-tip",
+      "credit": "Wikimedia Commons / CC BY-SA 2.0"
+    },
+    "animalB": {
+      "src": "/photos/nz-animalB.jpg",
+      "alt": "Tuatara reptile on a rock showing spiny crest",
+      "caption": "TUATARA — a living fossil unchanged for 200 million years",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

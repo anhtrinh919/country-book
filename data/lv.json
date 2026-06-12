@@ -1,0 +1,163 @@
+{
+  "name": "LATVIA",
+  "nativeName": "LV",
+  "romaji": "LATVIJA",
+  "tagline": "Land of Song & Amber",
+  "region": "Northern Europe · Baltic",
+  "coords": "56.9°N, 24.6°E",
+  "fileNo": "042",
+  "langName": "Latvian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C8B99A",
+    "ink": "#231F1A",
+    "faint": "#7A6A52",
+    "line": "#DDD0B5",
+    "accent": "#9E3039",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/lv.svg",
+    "title": "Latvian Flag",
+    "note": "Dark carmine red — white — carmine red",
+    "keyColor": "#9E3039",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Latvia is a small Baltic country where half the land is ancient forest and singing is a national sport. Riga has more Art Nouveau buildings than almost anywhere on Earth, 40,000 voices gather every five years for the great Song Festival, storks nest on chimneys, amber washes up on the beach, and Midsummer bonfires burn till sunrise.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Riga",
+      "sub": "Largest city; pop. ~600,000"
+    },
+    {
+      "label": "People",
+      "value": "1.86 million",
+      "sub": "Estimate, May 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Adopted 1 Jan 2014"
+    },
+    {
+      "label": "Language",
+      "value": "Latvian",
+      "sub": "One of two Baltic languages"
+    },
+    {
+      "label": "Land area",
+      "value": "64,589 km²",
+      "sub": "Slightly smaller than Ireland"
+    },
+    {
+      "label": "Top point",
+      "value": "312 m",
+      "sub": "Gaiziņkalns hill, Vidzeme"
+    }
+  ],
+  "islands": [
+    "Riga",
+    "Vidzeme",
+    "Kurzeme",
+    "Latgale",
+    "Zemgale"
+  ],
+  "islandsLabel": "MAIN REGIONS:",
+  "sections": {
+    "geography": "Forests, bogs & Baltic shores",
+    "animals": "Wild things in the woodland",
+    "culture": "Songs, amber & dark rye bread",
+    "history": "From crusaders to freedom",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Latvia sits on the eastern Baltic coast — flat and low, with no point above 312 metres. More than half the land is ancient forest of pine, birch and oak, laced with rivers, lakes and boggy marshes full of dragonflies.",
+    "The Daugava River cuts west to the sea at Riga. The 500 km Baltic shoreline is sandy beach, and after storms you can find golden amber — tree resin from forests that lived 40 million years ago."
+  ],
+  "animals": [
+    "Latvia's forests shelter brown bears, grey wolves, lynx and the moose — Europe's largest deer. At Pape Nature Reserve, European bison and wild horses roam coastal dunes, a glimpse of ancient Ice Age grassland.",
+    "White storks are Latvia's beloved summer guests — around 14,000 pairs nest here, one of Europe's densest populations, perching on chimneys. The national bird is the cheerful little white wagtail."
+  ],
+  "culture": [
+    "Latvians have collected over 1.2 million folk-song texts called dainas — short rhyming verses about nature and seasons. Every five years, the Song and Dance Festival fills Riga with 40,000 performers, a UNESCO-listed celebration.",
+    "Rye bread is eaten at every meal, baked by a thousand-year-old recipe. On Midsummer Night (Jāņi), families light bonfires and weave flower crowns. Everyone searches for the fern flower — which doesn't exist — and goes anyway."
+  ],
+  "history": [
+    "Latvians traded Baltic amber with ancient Rome. In the 13th century German crusading knights arrived, built stone castles and ruled for centuries. Latvia passed between Polish, Swedish and Russian empires before declaring independence on 18 November 1918.",
+    "Soviets occupied Latvia in 1940 and again from 1944. In 1989, two million people held hands in a 675 km human chain across all three Baltic states. Latvia restored full independence on 21 August 1991."
+  ],
+  "wows": [
+    "Riga has 800+ Art Nouveau buildings — more than Paris or Barcelona, making it the world's Art Nouveau capital.",
+    "Riga claims the world's first Christmas tree, raised in 1510 — merchants decorated it, danced, then burned it.",
+    "Latvia has 1.2 million collected folk-song texts — more songs per person than almost any other nation.",
+    "The 1989 Baltic Way was history's longest human chain: 675 km of linked hands crossing three countries.",
+    "Latvia's Song and Dance Festival draws ~40,000 performers to one huge outdoor choir every five years.",
+    "More than 55% of Latvia is forest — one of the highest proportions of any country in Europe.",
+    "About 14,000 stork pairs return from Africa to nest in Latvia each spring, among Europe's highest densities."
+  ],
+  "myths": [
+    {
+      "myth": "Latvia is part of Scandinavia",
+      "fact": "Latvia is a Baltic state — a distinct region. Latvian is related to Lithuanian, not to any Scandinavian tongue, and the cultures differ greatly."
+    },
+    {
+      "myth": "It's always cold and grey there",
+      "fact": "Latvia has warm sunny summers with very long days. In late June the sun barely sets, and Midsummer bonfires celebrate exactly this bright night."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Sveiki",
+      "say": "SVAY-kee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Paldies",
+      "say": "PAL-dee-yes"
+    },
+    {
+      "en": "Please",
+      "jp": "Lūdzu",
+      "say": "LOOD-zoo"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Atā",
+      "say": "ah-TAA"
+    },
+    {
+      "en": "Yummy!",
+      "jp": "Garšīgi",
+      "say": "GAR-shee-gee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lv-hero.jpg",
+      "alt": "Riga skyline viewed across the Daugava River",
+      "caption": "RIGA — the Baltic's biggest city, mirrored in the wide Daugava River",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lv-landmark.jpg",
+      "alt": "Riga Old Town Hall Square with colourful facades and cobblestones",
+      "caption": "RIGA OLD TOWN — medieval spires and pastel facades, a UNESCO World Heritage site",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lv-animalA.jpg",
+      "alt": "White stork standing in a meadow",
+      "caption": "WHITE STORK — ~14,000 pairs nest in Latvia each summer on chimney tops",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lv-animalB.jpg",
+      "alt": "Eurasian lynx in a forest tree",
+      "caption": "EURASIAN LYNX — a secretive hunter prowling Latvia's deep pine forests",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

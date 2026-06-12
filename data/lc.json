@@ -1,0 +1,163 @@
+{
+  "name": "SAINT LUCIA",
+  "nativeName": "LC",
+  "romaji": "SAINT LUCIA",
+  "tagline": "Island of Light & Pitons",
+  "region": "Caribbean",
+  "coords": "13.91°N, 60.98°W",
+  "fileNo": "079",
+  "langName": "Kwéyòl",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBF9E",
+    "ink": "#1E1A16",
+    "faint": "#7A6B4E",
+    "line": "#DDD0B0",
+    "accent": "#65CFFF",
+    "accent2": "#003F87"
+  },
+  "flag": {
+    "assetPath": "/flags/lc.svg",
+    "title": "Saint Lucia",
+    "note": "Twin Pitons on sky-blue & gold",
+    "keyColor": "#65CFFF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saint Lucia is a volcanic Caribbean island famous for the Pitons — two dramatic cones rising straight from the sea. Nicknamed \"Helen of the West Indies,\" it changed hands between Britain and France fourteen times. Today it has rainforests, a drive-in volcano, coral reefs, and banana plantations on every hillside.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Castries",
+      "sub": "Largest city & harbour"
+    },
+    {
+      "label": "People",
+      "value": "180,000",
+      "sub": "Est. 2023, Afro-Caribbean"
+    },
+    {
+      "label": "Money",
+      "value": "EC Dollar",
+      "sub": "1 XCD ≈ 0.37 USD"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Kwéyòl widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "617 km²",
+      "sub": "Smaller than Los Angeles"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Gimie",
+      "sub": "958 m, rainforest peak"
+    }
+  ],
+  "islands": [
+    "Castries",
+    "Soufrière",
+    "Gros Islet",
+    "Vieux Fort",
+    "Micoud"
+  ],
+  "islandsLabel": "MAIN TOWNS:",
+  "sections": {
+    "geography": "Mountains, sea & volcanoes",
+    "animals": "Creatures of the rainforest",
+    "culture": "Carnival colours & Creole",
+    "history": "Fought over 14 times",
+    "wows": "Surprising Saint Lucia facts"
+  },
+  "geo": [
+    "Saint Lucia sits between the Caribbean Sea and the Atlantic, shaped by ancient volcanoes. The twin Pitons — Gros Piton (770 m) and Petit Piton (743 m) — are a UNESCO World Heritage Site visible far out at sea.",
+    "The island's interior is thick tropical rainforest fed by 2,000 mm of rain each year. Sulphur Springs near Soufrière is the world's only drive-in volcano — you park beside bubbling grey mud and smell the hot earth."
+  ],
+  "animals": [
+    "Saint Lucia is home to the Saint Lucia Parrot (Jacquot) — a brilliant green bird with red, blue and yellow markings found nowhere else on Earth. Fewer than 150 survived in the 1970s; conservation brought numbers back to over 1,000.",
+    "Leatherback sea turtles — heavier than a motorbike — haul themselves up Saint Lucia's beaches each spring to nest. The island's reefs shelter seahorses, flying fish, and the frogfish, which disguises itself as a bumpy rock."
+  ],
+  "culture": [
+    "Saint Lucians blend French, African and British traditions. The Creole language Kwéyòl sounds like French through a Caribbean filter and has its own national day — Jounen Kwéyòl — celebrated every October with food, music and storytelling.",
+    "The island has two Nobel Prize winners — the most per capita anywhere. Carnival erupts each July with soca music and dazzling costumes. The national dish is green fig and saltfish, and cricket is practically a religion."
+  ],
+  "history": [
+    "Indigenous Arawak then Carib people lived here long before Europeans arrived. The island's strategic harbour made it a prize: Britain and France swapped control fourteen times between 1660 and 1814 — a Caribbean record.",
+    "Enslaved Africans were brought to work sugar plantations; their descendants form most of today's population. Slavery ended in 1834. Saint Lucia gained full independence on 22 February 1979 and flies its blue-gold Piton flag."
+  ],
+  "wows": [
+    "Saint Lucia has 2 Nobel Prize winners — more per capita than any other country on Earth.",
+    "The Pitons are so iconic that Saint Lucia can be identified from space by their shape alone.",
+    "Sulphur Springs lets you drive a car to within 20 m of boiling volcanic mud — unique on Earth.",
+    "The Saint Lucia Parrot rose from 150 birds in 1977 to 1,000+ today thanks to passionate local conservation.",
+    "Saint Lucia changed colonial rulers 14 times, leaving French AND British fingerprints on everything.",
+    "Bananas grown in volcanic soil here taste noticeably sweeter than most store-bought varieties.",
+    "The twin Pitons create a natural windbreak giving Soufrière bay some of the calmest sailing in the Caribbean."
+  ],
+  "myths": [
+    {
+      "myth": "\"The Pitons are one mountain\"",
+      "fact": "They are two separate volcanic plugs — Gros Piton (770 m) and Petit Piton (743 m) — with a valley between them, though they look merged when viewed from the sea."
+    },
+    {
+      "myth": "\"Drive-in volcano = active eruption\"",
+      "fact": "Sulphur Springs is a geothermal field of steam vents and boiling mud — dramatic and smelly, but Soufrière last erupted roughly 20,000 years ago."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjou",
+      "say": "bohn-ZHOO"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mèsi",
+      "say": "MED-see"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Bonjou maten",
+      "say": "bohn-ZHOO mah-TEN"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Koman ou yé?",
+      "say": "koh-MAHN oo YEH"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Bon anpil!",
+      "say": "bohn ahm-PEEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lc-hero.jpg",
+      "alt": "The twin Piton peaks rising from the Caribbean sea",
+      "caption": "THE PITONS — UNESCO twin volcanic spires above Soufrière Bay",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lc-landmark.jpg",
+      "alt": "Bubbling grey mud pools at Sulphur Springs volcano park",
+      "caption": "SULPHUR SPRINGS — world's only drive-in volcano near Soufrière",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lc-animalA.jpg",
+      "alt": "Saint Lucia Parrot perched on a branch showing green plumage",
+      "caption": "SAINT LUCIA PARROT — endemic Jacquot, rescued from near-extinction",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lc-animalB.jpg",
+      "alt": "Leatherback sea turtle crawling on a beach at night",
+      "caption": "LEATHERBACK TURTLE — world's largest turtle, nests on Saint Lucia beaches",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

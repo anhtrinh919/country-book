@@ -1,0 +1,163 @@
+{
+  "name": "CHILE",
+  "nativeName": "CL",
+  "romaji": "CHILE",
+  "tagline": "The skinny edge of Earth",
+  "region": "South America",
+  "coords": "-30.0°N, -71.0°E",
+  "fileNo": "CL",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA5",
+    "ink": "#25201B",
+    "faint": "#877A5C",
+    "line": "#DDD5C0",
+    "accent": "#D52B1E",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/cl.svg",
+    "title": "Flag of Chile",
+    "note": "Red, white & blue with lone star",
+    "keyColor": "#D52B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Chile is a country that stretches like a long ribbon down the western edge of South America — so narrow you can drive from the Pacific Ocean to the Andes in just hours, yet so tall it spans every climate on Earth, from the world's driest desert in the north to icy glaciers and penguins in the far south.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Santiago",
+      "sub": "Pop. ~6.3 m in metro area"
+    },
+    {
+      "label": "People",
+      "value": "19.5 million",
+      "sub": "2024 estimate"
+    },
+    {
+      "label": "Money",
+      "value": "Chilean Peso",
+      "sub": "CLP — 1 USD ≈ 950 CLP"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Mapudungun also spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "756,102 km²",
+      "sub": "4× the size of UK"
+    },
+    {
+      "label": "High point",
+      "value": "6,893 m",
+      "sub": "Ojos del Salado, highest volcano"
+    }
+  ],
+  "islands": [
+    "Santiago",
+    "Valparaíso",
+    "Atacama",
+    "Patagonia",
+    "Chiloé"
+  ],
+  "islandsLabel": "KEY REGIONS:",
+  "sections": {
+    "geography": "A ribbon of wild extremes",
+    "animals": "Flamingos & foxes",
+    "culture": "Poets, empanadas & rodeos",
+    "history": "From Mapuche to republic",
+    "wows": "Did you know?"
+  },
+  "geo": [
+    "Chile is the world's longest and thinnest country — 4,300 km from top to bottom but never more than 350 km wide. The Andes run the entire length like a spine, while the Atacama Desert in the north receives less than 1 mm of rain a year — drier than Mars.",
+    "Down south, Patagonia is a wonderland of crashing glaciers and jade fjords. Easter Island, a tiny dot 3,700 km offshore in the South Pacific, is also part of Chile — one of the most remote inhabited spots on Earth."
+  ],
+  "animals": [
+    "The Andean flamingo wades through salt lakes so shallow they look like pink mirrors; huge flocks nest at Salar de Atacama. The Andean condor, with a 3-metre wingspan, soars on thermals above the peaks for hours without a single flap.",
+    "In the cold Humboldt Current, Magellanic penguins swim alongside sea lions and dolphins. The pudú — the world's tiniest deer at just 35 cm tall — hides in southern rainforests alongside the chilla, Chile's own grey fox."
+  ],
+  "culture": [
+    "Chileans are proud of their empanadas — pastry pockets stuffed with beef, olives, and egg — and their national sport of rodeo, where pairs of horsemen called huasos herd a calf around a ring in embroidered ponchos. Football is an obsession too.",
+    "Nobel Prize poets Pablo Neruda and Gabriela Mistral were both Chilean. Neruda built three eccentric houses, one shaped like a ship. The cueca dance, where partners wave handkerchiefs like courting birds, is the beloved national dance."
+  ],
+  "history": [
+    "The Mapuche people farmed and hunted across Chile long before Europeans arrived, famously resisting Inca conquest. Spanish explorers founded Santiago in 1541, and Chile won independence in 1818 under Bernardo O'Higgins after years of hard fighting.",
+    "The 20th century brought a socialist government in 1970, then a military coup in 1973 lasting until democracy returned in 1990. Today Chile is South America's most stable economy, producing a third of the world's copper and fine wines."
+  ],
+  "wows": [
+    "Chile is 4,300 km long but averages only 177 km wide — longer than the USA is tall.",
+    "The Atacama Desert has weather stations that have never recorded a single drop of rain.",
+    "Chile produces roughly one-third of all the copper mined on Earth each year.",
+    "Ojos del Salado on the Andes border is the world's highest active volcano at 6,893 m.",
+    "Easter Island's giant moai statues were carved and moved without wheels or metal tools.",
+    "The pudú, native to Chilean forests, is the world's smallest deer at just 35 cm tall.",
+    "Chile's coastline stretches 6,435 km — enough to reach from London to New York."
+  ],
+  "myths": [
+    {
+      "myth": "\"Chile is always cold and icy\"",
+      "fact": "Only the far south is icy — the Atacama in the north is a scorching desert, and Santiago enjoys warm Mediterranean summers much like California."
+    },
+    {
+      "myth": "\"Easter Island belongs to Polynesia\"",
+      "fact": "Easter Island is geographically Polynesian but has been Chilean territory since 1888 — residents hold Chilean citizenship and use Chilean pesos."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Rico!",
+      "say": "REE-koh"
+    },
+    {
+      "en": "Friend",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Chao",
+      "say": "chow"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cl-hero.jpg",
+      "alt": "Santiago skyline with snow-capped Andes behind",
+      "caption": "SANTIAGO — Chile's capital backed by snow-capped Andes peaks",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cl-landmark.jpg",
+      "alt": "Atacama Desert red rock formations under blue sky",
+      "caption": "ATACAMA DESERT — the driest non-polar desert on Earth",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cl-animalA.jpg",
+      "alt": "Andean flamingos standing in a shallow pink salt lake",
+      "caption": "ANDEAN FLAMINGO — wading in Salar de Atacama's still waters",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cl-animalB.jpg",
+      "alt": "Magellanic penguins on a rocky southern shore",
+      "caption": "MAGELLANIC PENGUINS — nesting on Chile's windswept southern coast",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

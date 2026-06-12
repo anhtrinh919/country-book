@@ -1,0 +1,163 @@
+{
+  "name": "SLOVAKIA",
+  "nativeName": "SK",
+  "romaji": "SLOVENSKO",
+  "tagline": "Land of Castles & Peaks",
+  "region": "Central Europe",
+  "coords": "48.7N, 19.5E",
+  "fileNo": "047",
+  "langName": "Slovak",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBE1",
+    "dot": "#C8BAA4",
+    "ink": "#272018",
+    "faint": "#8a7a62",
+    "line": "#D8CCBA",
+    "accent": "#C0202E",
+    "accent2": "#1A3A7A"
+  },
+  "flag": {
+    "assetPath": "/flags/sk.svg",
+    "title": "Slovak Tricolour",
+    "note": "White, blue, red with double-cross shield",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Slovakia packs enormous mountains, mysterious caves and more castles per person than almost anywhere on Earth into one small country. The High Tatras pierce the north; ancient fortresses dot sleepy valleys. Brown bears roam Carpathian forests, and the national dish — dumplings in sheep cheese — has warmed hearts since shepherd days.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bratislava",
+      "sub": "On the Danube, near Austria"
+    },
+    {
+      "label": "People",
+      "value": "5.4 million",
+      "sub": "Est. 2024, mid-sized EU nation"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Joined the Eurozone in 2009"
+    },
+    {
+      "label": "Language",
+      "value": "Slovak",
+      "sub": "A Slavic tongue, Latin script"
+    },
+    {
+      "label": "Land area",
+      "value": "49,035 km²",
+      "sub": "About the size of Costa Rica"
+    },
+    {
+      "label": "Top peak",
+      "value": "2,654 m",
+      "sub": "Gerlachovský štít, High Tatras"
+    }
+  ],
+  "islands": [
+    "Bratislava",
+    "Košice",
+    "Prešov",
+    "B. Bystrica",
+    "Žilina"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, caves & rivers",
+    "animals": "Bears, lynx & Tatra chamois",
+    "culture": "Dumplings, folk art & hockey",
+    "history": "Empires & the Velvet Split",
+    "wows": "Slovakia will surprise you"
+  },
+  "geo": [
+    "Slovakia sits in the Carpathian arc, a great curve of mountains across Central Europe. The High Tatras in the north rise like shark teeth, with Gerlachovský štít topping 2,654 m. Thick forests cover gentler hills further south, and the Danube forms the southern border with Hungary.",
+    "Below ground, Slovakia hides one of Europe's great cave worlds. Over 7,000 caves have been found — six are UNESCO listed. The Demänovský system under the Low Tatras stretches 43 km, the longest cave in the entire Carpathian range."
+  ],
+  "animals": [
+    "Slovakia is one of Central Europe's last great wildlife strongholds. Around 1,000 brown bears roam the Carpathian forests — among the EU's highest densities. Wolves hunt in packs and elusive Eurasian lynx pad silently through old-growth spruce woods.",
+    "High on rocky ridges lives the Tatra chamois, a nimble goat-antelope found nowhere else on Earth. Numbers crashed below 200 around 2000, but protection drove them to a peak of over 1,400 — one of Europe's great wildlife comeback stories."
+  ],
+  "culture": [
+    "Slovakia has a strong folk tradition — each village once had its own songs, costumes, and wooden churches. Craftspeople still carve wood and weave bright textiles. Bryndzové halušky — potato dumplings with sheep's cheese and crispy bacon — is the beloved national dish.",
+    "Ice hockey is a national obsession; Slovaks won the world championship in 2002. Slovakia also has more castles per square kilometre than almost any country — over 180 ruined or restored fortresses dot the hills."
+  ],
+  "history": [
+    "Slavic tribes settled here in the 5th century. In 863 missionaries Cyril and Methodius brought the first Slavic alphabet to Great Moravia. After Great Moravia fell, Slovakia spent roughly 1,000 years in the Kingdom of Hungary, with Bratislava serving as its royal coronation city.",
+    "In 1918 Slovakia joined the Czechs to form Czechoslovakia. Communist rule ended with the peaceful Velvet Revolution in 1989. On 1 January 1993 — the Velvet Divorce — Slovakia and Czechia parted as two friendly nations."
+  ],
+  "wows": [
+    "Slovakia has over 180 castles in an area smaller than Costa Rica — more per person than almost anywhere.",
+    "Bratislava is the only capital city that borders two different countries: Austria and Hungary.",
+    "The Demänovský cave system is 43 km long, the longest cave in the Carpathians.",
+    "Bryndza sheep's cheese holds EU Protected status, like Champagne or Parmesan.",
+    "Bratislava's UFO Bridge has a flying-saucer restaurant perched 85 m above the Danube.",
+    "The Tatra chamois exists only in the Tatras and recovered from under 200 to over 1,400 animals.",
+    "Slovak inventor Štefan Banič patented the first practical parachute in 1914."
+  ],
+  "myths": [
+    {
+      "myth": "Slovakia and Slovenia are the same place",
+      "fact": "Two separate countries. Slovakia has Tatra peaks and no coast; Slovenia has Alps and the Adriatic. Both capitals even forward misdirected mail to each other."
+    },
+    {
+      "myth": "Slovakia is a cold, grey country",
+      "fact": "Bratislava regularly hits 30°C in July. Autumn is golden and mild, and winters are more snowy-scenic than bitterly harsh across most of the country."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Ahoj",
+      "say": "AH-hoy"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ďakujem",
+      "say": "DYAH-koo-yem"
+    },
+    {
+      "en": "Please",
+      "jp": "Prosím",
+      "say": "PRO-seem"
+    },
+    {
+      "en": "Castle",
+      "jp": "Hrad",
+      "say": "hrad"
+    },
+    {
+      "en": "Mountain",
+      "jp": "Hora",
+      "say": "HO-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sk-hero.jpg",
+      "alt": "Panoramic view of Bratislava city along the Danube river",
+      "caption": "BRATISLAVA — capital city spread along the Danube with its four-towered castle above",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/sk-landmark.jpg",
+      "alt": "Spiš Castle ruins on a hilltop in eastern Slovakia",
+      "caption": "SPIŠ CASTLE — Central Europe's largest castle ruin, a UNESCO World Heritage Site",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalA": {
+      "src": "/photos/sk-animalA.jpg",
+      "alt": "Eurasian brown bear in a forest",
+      "caption": "BROWN BEAR — around 1,000 roam Slovakia's Carpathian forests, the EU's highest density",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/sk-animalB.jpg",
+      "alt": "Tatra chamois on rocky ridge in the High Tatras",
+      "caption": "TATRA CHAMOIS — unique to the Tatras, rescued from near-extinction by conservation",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "PAPUA N GUINEA",
+  "nativeName": "PG",
+  "romaji": "PAPUA NIUGINI",
+  "tagline": "Land of the Unexpected",
+  "region": "Melanesia, Pacific",
+  "coords": "6°S 147°E",
+  "fileNo": "079",
+  "langName": "Tok Pisin",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CABB99",
+    "ink": "#221E16",
+    "faint": "#8A7B5A",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/pg.svg",
+    "title": "Papua New Guinea",
+    "note": "Black & red halves, Bird of Paradise",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Papua New Guinea sits north of Australia on the world's second-largest island. Jungle mountains so steep that tribes lived for centuries without meeting gave it more languages than anywhere on Earth. Volcanoes rumble in the highlands, coral reefs ring the shores, and a bird with flame-orange tail feathers is its national symbol.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Port Moresby",
+      "sub": "On the southern coast"
+    },
+    {
+      "label": "People",
+      "value": "10.3 million",
+      "sub": "2024 UN estimate"
+    },
+    {
+      "label": "Money",
+      "value": "Kina (PGK)",
+      "sub": "Named after a shell"
+    },
+    {
+      "label": "Language",
+      "value": "800+ languages",
+      "sub": "Most in any country"
+    },
+    {
+      "label": "Land area",
+      "value": "462,840 km²",
+      "sub": "Bigger than California"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Wilhelm",
+      "sub": "4,509 m above sea"
+    }
+  ],
+  "islands": [
+    "Port Moresby",
+    "Lae",
+    "Mt Hagen",
+    "Madang",
+    "Bougainville"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Jungles, peaks & volcanoes",
+    "animals": "Feathers, fangs & colour",
+    "culture": "800 languages, one people",
+    "history": "Tribes, gold & independence",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Papua New Guinea's spine is a chain of jungle-cloaked mountains called the Highlands, where valleys sit so high it frosts at night. Rivers crash through dense rainforest to swampy lowland coasts.",
+    "Hundreds of islands dot its waters — including New Britain and Bougainville. Active volcanoes like Tavurvur have buried entire towns in ash, and earthquakes shake the ground regularly."
+  ],
+  "animals": [
+    "The Raggiana Bird of Paradise grows long, flame-orange tail plumes and dances on a branch to impress females. Tree kangaroos live high in the forest, bouncing between branches like tiny furry acrobats.",
+    "The Papuan taipan, one of the world's most venomous snakes, lurks in grasslands. Colourful parrots, giant cassowaries, and over 700 orchid species fill the forests."
+  ],
+  "culture": [
+    "PNG has over 800 living languages — more than any other country. Villages often cannot understand their nearest neighbours, so Tok Pisin, a lively creole English mix, became the common tongue.",
+    "Sing-sings are enormous festivals where clans arrive in spectacular face paint and feathered headdresses to dance and feast. Each group's costume is a walking encyclopaedia of a tribe's identity."
+  ],
+  "history": [
+    "Humans reached New Guinea at least 50,000 years ago. Highland farmers were growing taro and yams 10,000 years ago — among the world's very first agriculturalists, inventing farming independently.",
+    "Germany and Britain carved up the island in 1884; Australia took over after WWI. The Kokoda Track saw fierce WWII jungle fighting. PNG gained independence on 16 September 1975."
+  ],
+  "wows": [
+    "PNG has more languages than any other country — over 800 — spoken by just 10 million people.",
+    "Highland farmers here invented agriculture 10,000 years ago, at the same time as the Middle East.",
+    "The male Raggiana Bird of Paradise hangs upside-down and shakes his orange plumes in a wild feather explosion.",
+    "Tavurvur volcano erupted in 1994 and buried the town of Rabaul in metres of ash almost overnight.",
+    "PNG's tree kangaroos grip bark with padded paws — they actually live up in the forest canopy.",
+    "New Guinea island is the world's second-largest, shared between PNG and Indonesia.",
+    "Some coastal villages stand entirely on stilts over the sea, children paddling between houses by canoe."
+  ],
+  "myths": [
+    {
+      "myth": "\"PNG is all one jungle culture\"",
+      "fact": "The country has 800+ distinct languages and cultures — Highlanders, coastal Melanesians, and island peoples differ as much as Europeans differ from each other."
+    },
+    {
+      "myth": "\"Bird of Paradise feathers are rare\"",
+      "fact": "Raggiana Birds of Paradise are not endangered — they thrive in PNG's forests, and the national flag proudly shows one in full flight."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Gude",
+      "say": "GOO-day"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tenkyu",
+      "say": "TEN-kyoo"
+    },
+    {
+      "en": "Yes",
+      "jp": "Yesa",
+      "say": "YEH-sah"
+    },
+    {
+      "en": "Good",
+      "jp": "Gutpela",
+      "say": "GOOT-peh-lah"
+    },
+    {
+      "en": "Water",
+      "jp": "Wara",
+      "say": "WAH-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pg-hero.jpg",
+      "alt": "Port Moresby harbour with boats and city skyline",
+      "caption": "PORT MORESBY HARBOUR — the capital's waterfront on PNG's southern coast",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pg-landmark.jpg",
+      "alt": "Kokoda Track Memorial Walkway lined with plaques",
+      "caption": "KOKODA TRACK MEMORIAL — honouring the fierce WWII jungle campaign",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pg-animalA.jpg",
+      "alt": "Raggiana Bird of Paradise with vivid orange plumes on a branch",
+      "caption": "RAGGIANA BIRD OF PARADISE — PNG's national bird, with flame-orange tail plumes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pg-animalB.jpg",
+      "alt": "Tree kangaroo perched in a tree",
+      "caption": "TREE KANGAROO — a marsupial that swapped the ground for the forest canopy",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

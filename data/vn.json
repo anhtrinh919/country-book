@@ -1,0 +1,163 @@
+{
+  "name": "VIETNAM",
+  "nativeName": "VN",
+  "romaji": "VIỆT NAM",
+  "tagline": "Red flag, golden star",
+  "region": "Southeast Asia",
+  "coords": "21°N · 106°E",
+  "fileNo": "084",
+  "flag": {
+    "assetPath": "/flags/vn.svg",
+    "title": "Cờ đỏ sao vàng",
+    "note": "Red field, one gold star since 1945",
+    "keyColor": "#DA251D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Vietnam is a long S-shaped strip on Asia's eastern edge — so skinny you can drive from sea to mountains in an hour. Over 100 million people call it home, speaking a language with six musical tones. From misty rice terraces in the north to glowing limestone islands in the south, every corner feels like a different world in one extraordinary place.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Hanoi",
+      "sub": "On the Red River since 1010 AD"
+    },
+    {
+      "label": "People",
+      "value": "101.1 million",
+      "sub": "2024 census; 54 ethnic groups"
+    },
+    {
+      "label": "Money",
+      "value": "Đồng ₫",
+      "sub": "One USD ≈ 25,000 đồng"
+    },
+    {
+      "label": "Language",
+      "value": "Vietnamese",
+      "sub": "6 tones change a word's meaning"
+    },
+    {
+      "label": "Land area",
+      "value": "331,212 km²",
+      "sub": "Longer north–south than wide"
+    },
+    {
+      "label": "Top",
+      "value": "Fansipan",
+      "sub": "3,143 m — Roof of Indochina"
+    }
+  ],
+  "islands": [
+    "Hanoi",
+    "Ho Chi Minh",
+    "Da Nang",
+    "Hue",
+    "Can Tho"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A skinny S of sea & mountains",
+    "animals": "Wild things of jungle & bay",
+    "culture": "Pho, lanterns & dragon dances",
+    "history": "A thousand years of resilience",
+    "wows": "Facts that'll make you go WOW!"
+  },
+  "geo": [
+    "Vietnam stretches 1,650 km from top to bottom but is barely 50 km wide at its narrowest. The north has the Red River Delta and soaring mountains where mist curls around rice terraces carved over centuries. The Annamite Range runs like a spine all the way south.",
+    "The south fans out into the Mekong Delta — a watery maze of rivers and floating markets. Vietnam also has nearly 3,000 km of coastline and over 3,000 islands, including the fairytale limestone towers of Hạ Long Bay, a UNESCO World Heritage Site."
+  ],
+  "animals": [
+    "Vietnam harbours some of the world's rarest creatures. The saola — the Asian unicorn — was only discovered in 1992 and is so elusive almost no one has photographed one alive. Indochinese tigers and clouded leopards prowl the ancient border forests.",
+    "In the waters near Hạ Long Bay, dugongs graze on sea grass while sea turtles glide past coral reefs. Vietnam hosts nearly 1,000 bird species — more than all of Europe — including the Vietnamese pheasant found nowhere else."
+  ],
+  "culture": [
+    "Vietnamese culture weaves 54 ethnic traditions together. The biggest celebration is Tết — Lunar New Year — when families reunite, firecrackers pop, and dragon dancers fill every street. Red envelopes with lucky money go to children, and homes fill with incense and peach blossoms.",
+    "Food is a serious art: phở broth simmers for hours with star anise and charred ginger. Bánh mì — a crusty baguette stuffed with Vietnamese fillings — shows how cultures can collide deliciously. Hội An glows with silk lanterns every single night."
+  ],
+  "history": [
+    "Vietnam's Đông Sơn civilisation was beating bronze drums 2,500 years ago. After 1,000 years of Chinese rule, general Ngô Quyền defeated a Chinese fleet in 938 AD using iron-tipped stakes hidden beneath the tide — a victory still celebrated today.",
+    "France colonised the country in the 1800s. A long independence struggle led by Hồ Chí Minh ended in 1975 reunification. Today Vietnam is one of Asia's fastest-growing economies, its cities buzzing with motorbikes and ambition."
+  ],
+  "wows": [
+    "Vietnam exports more cashew kernels than any country — over 80% of all processed cashews on Earth.",
+    "Hạ Long Bay holds around 1,969 limestone islands, many hollow with vast caves inside.",
+    "Vietnamese uses Latin letters but tiny accent marks that change every word's tone and meaning.",
+    "Hang Sơn Đoòng is the world's largest cave — big enough to hold its own jungle and clouds.",
+    "The áo dài national dress has been worn for nearly 300 years, still seen daily on city streets.",
+    "Vietnam is the world's second-largest coffee exporter, growing bold robusta in the highlands.",
+    "Water puppetry — rối nước — is over 1,000 years old; puppeteers stand waist-deep to perform."
+  ],
+  "myths": [
+    {
+      "myth": "Phở is a quick, simple dish",
+      "fact": "A proper phở broth simmers 6–12 hours with charred onion, ginger, star anise, and cinnamon. Street vendors start cooking at midnight to be ready by dawn."
+    },
+    {
+      "myth": "Vietnam is mostly jungle",
+      "fact": "Vietnam is highly urbanised and is one of Asia's top exporters of electronics and textiles — manufacturing now outpaces rice and rubber in export value."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Xin chào",
+      "say": "sin chow"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Cảm ơn",
+      "say": "gahm uhn"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Ngon quá!",
+      "say": "ngon kwah"
+    },
+    {
+      "en": "How much?",
+      "jp": "Bao nhiêu?",
+      "say": "bow nyew"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Đẹp quá!",
+      "say": "dep kwah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vn-hero.jpg",
+      "alt": "Limestone karst towers rising from calm green waters of Ha Long Bay at sunrise",
+      "caption": "HẠ LONG BAY — 1,969 limestone islands dotting an emerald sea in northern Vietnam.",
+      "credit": "Wikimedia Commons / Aleksander Dragnes"
+    },
+    "landmark": {
+      "src": "/photos/vn-landmark.jpg",
+      "alt": "Colourful silk lanterns reflected in the Thu Bon River at night in Hoi An",
+      "caption": "HỘI AN — Silk lanterns glow over the Thu Bon River in the UNESCO old town.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vn-animalA.jpg",
+      "alt": "Indochinese tiger resting in dappled forest light",
+      "caption": "INDOCHINESE TIGER — fewer than 200 survive in Vietnam's forested highlands.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/vn-animalB.jpg",
+      "alt": "Male green peafowl fanning brilliant tail feathers in a forest clearing",
+      "caption": "GREEN PEAFOWL — Vietnam's rarest spectacular bird, native to its forests.",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "theme": {
+    "paper": "#F2ECD5",
+    "dot": "#CDB99A",
+    "ink": "#2B2118",
+    "faint": "#8A7560",
+    "line": "#DCCFAF",
+    "accent": "#DA251D",
+    "accent2": "#FFCD00"
+  },
+  "motif": "sun",
+  "langName": "Vietnamese"
+}

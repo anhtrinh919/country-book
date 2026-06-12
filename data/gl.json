@@ -1,0 +1,163 @@
+{
+  "name": "GREENLAND",
+  "nativeName": "GL",
+  "romaji": "KALAALLIT NUNAAT",
+  "tagline": "Ice, Ocean & Midnight Sun",
+  "region": "North Atlantic / Arctic",
+  "coords": "72°N, 40°W",
+  "fileNo": "082",
+  "langName": "Greenlandic",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEF3F5",
+    "dot": "#C8D8DF",
+    "ink": "#1A2830",
+    "faint": "#6E8A96",
+    "line": "#D8E5EA",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/gl.svg",
+    "title": "Erfalasorput",
+    "note": "White & red halves; disc reversed on each",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Greenland is the world's biggest island — nearly all buried under ice 3 km thick, yet people have lived on its rocky coasts for 4,500 years. Inuit hunters still read the sea ice, dog-sleds race across frozen fjords, and the northern lights paint the winter sky in curtains of green and violet.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Nuuk",
+      "sub": "Greenland's largest city"
+    },
+    {
+      "label": "People",
+      "value": "56,542",
+      "sub": "1 Jan 2025, Statistics Greenland"
+    },
+    {
+      "label": "Money",
+      "value": "Danish Krone",
+      "sub": "DKK; shared with Denmark"
+    },
+    {
+      "label": "Language",
+      "value": "Kalaallisut",
+      "sub": "Greenlandic; Danish widely used"
+    },
+    {
+      "label": "Area",
+      "value": "2,166,086 km²",
+      "sub": "World's largest island by area"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "3,694 m",
+      "sub": "Gunnbjørn Fjeld, east Greenland"
+    }
+  ],
+  "islands": [
+    "Nuuk",
+    "Ilulissat",
+    "Sisimiut",
+    "Qaqortoq",
+    "Tasiilaq"
+  ],
+  "islandsLabel": "MAIN TOWNS:",
+  "sections": {
+    "geography": "A world buried in ice",
+    "animals": "Unicorns of the sea & beyond",
+    "culture": "Life on the frozen edge",
+    "history": "Vikings, Inuit & ice",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Greenland's ice sheet covers 80% of the island and holds enough freshwater to raise global sea levels by 7 metres if it melted. Beneath it hides a vast canyon longer than the Grand Canyon — invisible from the surface.",
+    "The ice-free coast is a jigsaw of deep fjords, sharp peaks, and tiny colourful towns on rocky ledges. In summer the sun never sets; in winter it never rises. Icebergs taller than skyscrapers drift past fishing boats like slow-moving mountains."
+  ],
+  "animals": [
+    "The narwhal — the real-life unicorn of the Arctic — lives in Greenland's icy waters. Its spiral tusk can grow up to 3 metres long. Polar bears prowl the sea ice hunting seals, though they rarely venture near towns.",
+    "Musk oxen lumber across the tundra in qiviut, the warmest wool on Earth. Arctic foxes turn white in winter. Humpback whales bubble-net fish offshore, and vast flocks of little auks blacken the summer cliffs."
+  ],
+  "culture": [
+    "Greenlandic culture is built around the sea. The qajaq — the original kayak — was invented by Inuit hunters who needed a silent boat to approach seals. Drum dancing and throat singing are ancient arts still performed at festivals.",
+    "The national dish is suaasat, a warming seal or whale stew. Towns are famous for bright red, yellow, and blue houses — once colour-coded so fishermen could spot them through blizzards. Greenland's parliament meets in a glass building in Nuuk."
+  ],
+  "history": [
+    "People have lived in Greenland for 4,500 years. Around 982 AD, Norse exile Erik the Red named the icy island 'Greenland' to lure settlers. Two Viking colonies thrived for nearly 500 years before vanishing — one of history's great mysteries.",
+    "The Thule people, ancestors of today's Greenlanders, arrived around 1200 AD and spread across the whole island. Denmark colonised Greenland in 1721. In 2009 it gained self-governance, with full independence now a live debate."
+  ],
+  "wows": [
+    "The ice presses Greenland's land 300 m below sea level — remove it and the centre becomes a shallow sea.",
+    "The Ilulissat Glacier moves up to 46 m per day, calving 10% of all Greenland's icebergs.",
+    "A hidden canyon 750 km long — longer than the Grand Canyon — lies entirely under the ice sheet.",
+    "More Greenlandic people live in Copenhagen than in any single town in Greenland itself.",
+    "It is illegal to bring non-Greenland dog breeds north of the Arctic Circle to keep the sled dog pure.",
+    "Northern Greenland gets 24-hour daylight for months — children play football outside at midnight.",
+    "Greenland's flag has no cross — unique among Nordic flags — to show a distinct Inuit-led identity."
+  ],
+  "myths": [
+    {
+      "myth": "\"Greenland is green, Iceland is icy\"",
+      "fact": "80% of Greenland is ice. Erik the Red chose the name around 982 AD to attract settlers — not because it was lush. Iceland has far more green farmland."
+    },
+    {
+      "myth": "\"Polar bears wander into Greenlandic towns\"",
+      "fact": "Polar bears live mostly on remote sea ice and rarely venture near inhabited towns. Most Greenlanders will never encounter one in the wild."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Aluu",
+      "say": "ah-LOO"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Qujanaq",
+      "say": "KOO-yah-nakh"
+    },
+    {
+      "en": "Yes",
+      "jp": "Aap",
+      "say": "ahp"
+    },
+    {
+      "en": "No",
+      "jp": "Naamik",
+      "say": "NAH-mik"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Takuss",
+      "say": "tah-KOOS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gl-hero.jpg",
+      "alt": "Colourful wooden houses line the rocky coast of Nuuk with mountains behind",
+      "caption": "NUUK — bright painted houses crowd the rocky shoreline of Greenland's capital",
+      "credit": "amanderson2 / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/gl-landmark.jpg",
+      "alt": "A towering blue iceberg floats in the Ilulissat Icefjord under a clear sky",
+      "caption": "ILULISSAT ICEFJORD — a cathedral of blue ice in Greenland's UNESCO heritage fjord",
+      "credit": "Marcus Engdahl / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/gl-animalA.jpg",
+      "alt": "A shaggy musk ox stands on the Arctic tundra",
+      "caption": "MUSK OX — its dense qiviut wool is warmer than sheep's wool, lighter than cashmere",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalB": {
+      "src": "/photos/gl-animalB.jpg",
+      "alt": "A polar bear walks across sea ice in the Arctic",
+      "caption": "POLAR BEAR — the world's largest land predator hunts seals on Greenland's sea ice",
+      "credit": "Ansgar Walk / CC BY-SA 2.5"
+    }
+  }
+}

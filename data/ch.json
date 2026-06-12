@@ -1,0 +1,163 @@
+{
+  "name": "SWITZERLAND",
+  "nativeName": "CH",
+  "romaji": "SCHWEIZ",
+  "tagline": "Alps, clocks & chocolate",
+  "region": "Central Europe",
+  "coords": "46.8°N, 8.2°E",
+  "fileNo": "041",
+  "langName": "German",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#CBBFA8",
+    "ink": "#242018",
+    "faint": "#857060",
+    "line": "#D8CEBC",
+    "accent": "#D0021B",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/ch.svg",
+    "title": "Swiss Cross",
+    "note": "Bold white cross on a square red field",
+    "keyColor": "#D0021B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Landlocked in the heart of Europe, Switzerland is where soaring Alpine peaks scrape the clouds, cowbells echo across meadows, and four languages share one train timetable. Tiny but mighty, it has stayed neutral in every war for over 200 years and invented the Red Cross, modern banking, and some of the world's best chocolate.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bern",
+      "sub": "since 1848; pop. ~146,000"
+    },
+    {
+      "label": "People",
+      "value": "9.1 million",
+      "sub": "est. 2024; grew past 9M"
+    },
+    {
+      "label": "Money",
+      "value": "Swiss Franc",
+      "sub": "CHF; safe-haven currency"
+    },
+    {
+      "label": "Language",
+      "value": "4 official",
+      "sub": "German, French, Italian, Romansh"
+    },
+    {
+      "label": "Area",
+      "value": "41,285 km²",
+      "sub": "similar size to Denmark"
+    },
+    {
+      "label": "Top peak",
+      "value": "4,634 m",
+      "sub": "Dufourspitze, Monte Rosa"
+    }
+  ],
+  "islands": [
+    "Zurich",
+    "Geneva",
+    "Basel",
+    "Bern",
+    "Lucerne"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, lakes & meadows",
+    "animals": "Creatures of the high Alps",
+    "culture": "Cheese, clocks & four tongues",
+    "history": "From shepherds to world peace",
+    "wows": "Wait — Switzerland did WHAT?"
+  },
+  "geo": [
+    "Switzerland sits where the Alps rise like a giant wall across Central Europe. Glaciers carve deep valleys, and over 1,500 lakes shimmer between the peaks — Lake Geneva alone is big enough to sail a ship across. The Rhine, Rhône, and Inn rivers all begin here.",
+    "A rolling plateau in the middle is where most Swiss people live and work. The Jura Mountains form a quieter ridge to the north-west. Despite being surrounded by five countries, Switzerland has no coast at all."
+  ],
+  "animals": [
+    "The Alps are home to the ibex — a wild mountain goat with curving horns longer than your arm — and the marmot, a chubby, whistling rodent that naps underground all winter. Golden eagles soar above the treeline scanning for prey.",
+    "In forests below, red deer and chamois graze while the bearded vulture — reintroduced in 1991 — wheels on thermals above. The Saint Bernard dog was bred by monks at the Great Saint Bernard Pass to rescue lost travellers in the snow."
+  ],
+  "culture": [
+    "Switzerland speaks four languages and it works perfectly — signs switch tongue at cantonal borders. Swiss German sounds nothing like classroom German; even Germans struggle with it. Fondue and raclette (melted cheese poured over potatoes) are national comfort foods shared around a communal pot.",
+    "Watchmaking has been a Swiss art since the 1600s; Rolex and Swatch are both born here. Yodelling and the alphorn — a long wooden horn blasted across valleys — stay proud folk traditions. Direct democracy means citizens vote on nearly everything, from tax rates to new tunnels."
+  ],
+  "history": [
+    "Celtic Helvetians settled here before Julius Caesar marched through in 58 BC. The Swiss Confederation was born in 1291 when three mountain communities signed a mutual-defence pact — that date is still National Day, celebrated on 1 August.",
+    "Switzerland declared permanent neutrality in 1815. Geneva became the Red Cross headquarters in 1863 and later hosted the League of Nations. Today it holds more international organisations than anywhere else, making tiny Switzerland a giant in global diplomacy."
+  ],
+  "wows": [
+    "Switzerland has more banks per person than almost any country on Earth.",
+    "The St Gotthard Base Tunnel — opened 2016 — is the world's longest railway tunnel at 57 km.",
+    "Swiss people eat about 10 kg of chocolate each per year — one of the highest figures on the planet.",
+    "The country has enough underground bunkers to shelter its entire population in an emergency.",
+    "Switzerland invented Velcro — engineer George de Mestral copied burr seeds stuck to his dog.",
+    "The Swiss army knife was first made in 1891 and is still produced in the canton of Schwyz.",
+    "Geneva's Jet d'Eau fountain shoots water 140 metres high — taller than Notre-Dame Cathedral."
+  ],
+  "myths": [
+    {
+      "myth": "Switzerland is always cold and snowy",
+      "fact": "Summers on the Swiss Plateau regularly hit 30 °C, and the southern canton of Ticino is almost Mediterranean — with palm trees and warm lakes."
+    },
+    {
+      "myth": "Everyone in Switzerland speaks German",
+      "fact": "About 63% speak Swiss German, but 23% speak French, 8% Italian, and a small community still uses ancient Romansh — all four are fully official languages."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "Please",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Cheese",
+      "jp": "Käse",
+      "say": "KAY-zeh"
+    },
+    {
+      "en": "Mountain",
+      "jp": "Berg",
+      "say": "BAIRK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ch-hero.jpg",
+      "alt": "Matterhorn peak rising above Zermatt village in winter",
+      "caption": "MATTERHORN — iconic 4,478 m pyramid looming over Zermatt",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ch-landmark.jpg",
+      "alt": "Chillon Castle on the shore of Lake Geneva",
+      "caption": "CHILLON CASTLE — medieval fortress on the edge of Lake Geneva",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ch-animalA.jpg",
+      "alt": "Alpine ibex with long curved horns on a rocky mountain ledge",
+      "caption": "ALPINE IBEX — sure-footed wild goat of the high Alps",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ch-animalB.jpg",
+      "alt": "Alpine marmot sitting upright on a grassy meadow",
+      "caption": "ALPINE MARMOT — champion hibernator sleeping all winter underground",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "GUINEA-BISSAU",
+  "nativeName": "GW",
+  "romaji": "GUINÉ-BISSAU",
+  "tagline": "Islands, cashews & wild seas",
+  "region": "West Africa",
+  "coords": "11.8°N, 15.2°W",
+  "fileNo": "074",
+  "langName": "Kiriol",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F3EDD9",
+    "dot": "#C9B98E",
+    "ink": "#252018",
+    "faint": "#7D6E48",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#009E60"
+  },
+  "flag": {
+    "assetPath": "/flags/gw.svg",
+    "title": "Guinea-Bissau flag",
+    "note": "Red, yellow & green with a black star",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guinea-Bissau is a tiny West African nation where the coast dissolves into 88 mangrove islands. Cashew trees carpet half the land, hippos swim in saltwater, and 20 peoples fill the air with drumbeats. One of the world's least-visited countries — and one of its most extraordinary wild places.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bissau",
+      "sub": "On the Geba river estuary"
+    },
+    {
+      "label": "People",
+      "value": "2.2 million",
+      "sub": "UN est. 2024; last census 2009"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared with 7 W. African nations"
+    },
+    {
+      "label": "Language",
+      "value": "Portuguese",
+      "sub": "Kiriol spoken by most daily"
+    },
+    {
+      "label": "Land area",
+      "value": "36,125 km²",
+      "sub": "Slightly bigger than Taiwan"
+    },
+    {
+      "label": "Top point",
+      "value": "277 m",
+      "sub": "Dongol Ronde, near Guinea border"
+    }
+  ],
+  "islands": [
+    "Bissau",
+    "Bafatá",
+    "Gabú",
+    "Bubaque",
+    "Bolama"
+  ],
+  "islandsLabel": "MAIN CITIES & ISLANDS:",
+  "sections": {
+    "geography": "A coast eaten by the sea",
+    "animals": "Hippos that love the ocean",
+    "culture": "Drumbeats & sacred islands",
+    "history": "Fighting for freedom",
+    "wows": "Mind-blowing Guinea-Bissau"
+  },
+  "geo": [
+    "Guinea-Bissau is so flat its highest hill stands just 277 m — lower than many city towers. The coast dissolves into 88 mangrove-fringed islands. Atlantic tides flood and drain vast mudflats twice daily, creating a glittering jigsaw of sea and land.",
+    "Inland, cashew orchards and rice paddies stretch toward a gentle savanna plateau near the Guinea border. The rainy season (June–October) drops nearly all of the year’s 2,000 mm of rain in just a few months, turning dusty tracks into rivers overnight."
+  ],
+  "animals": [
+    "The Bijagós Archipelago, a UNESCO Biosphere Reserve, shelters wonders found almost nowhere else. Marine hippos wade into the open Atlantic at night to graze on sea-grasses — the only hippos on Earth that regularly feed in saltwater. Crocodiles and West African manatees share the same channels.",
+    "Over 100,000 Caspian terns nest on a single island, the largest waterbird colony in West Africa. Green monkeys bounce through cashew groves onshore, while Atlantic humpback dolphins surf beside fishing pirogues just offshore."
+  ],
+  "culture": [
+    "More than 20 ethnic groups share Guinea-Bissau, each with its own language and ceremonies. The sound of the country is Gumbé — African percussion fused with Portuguese melody. Kora lutes and balafon xylophones echo through every celebration.",
+    "On the Bijagós Islands, the Bijagó people hold up to 100 ceremony days a year. The fanado initiation sends young people into the forest for months with village elders. Bijagó society is matriarchal: women own the land and choose their husbands."
+  ],
+  "history": [
+    "Portuguese traders arrived in the 1400s and the coast became a hub for the Atlantic slave trade. Colonial rule tightened over centuries, forcing the country to endure nearly 500 years of foreign control before a generation rose to fight back.",
+    "In 1956, Amílcar Cabral founded the PAIGC liberation movement. After eleven years of guerrilla war, independence was declared on 24 September 1973 — before Portugal even accepted defeat. The country has survived many coups since, but its people keep rebuilding."
+  ],
+  "wows": [
+    "Guinea-Bissau declared independence in 1973 — a full year before Portugal officially accepted it.",
+    "The Bijagós hippos are the only ones on Earth that regularly swim and feed in the open Atlantic Ocean.",
+    "One in every twelve cashew packets sold worldwide may contain a nut grown in Guinea-Bissau.",
+    "Over 100,000 Caspian terns nest on a single Bijagós island — West Africa’s biggest waterbird colony.",
+    "The country has seen over nine coups or coup attempts since 1974, among the most of any nation.",
+    "Its highest point at 277 m would only reach the 64th floor of a tall skyscraper — the land is nearly flat.",
+    "Bijagó women traditionally select their own husbands — men must wait patiently to be chosen."
+  ],
+  "myths": [
+    {
+      "myth": "\"Hippos only live in rivers\"",
+      "fact": "The marine hippos of Orango Island wade nightly into the Atlantic to graze on sea-grass — unique on Earth. The Bijagó people regard them as sacred ancestors."
+    },
+    {
+      "myth": "\"It’s just another small poor country\"",
+      "fact": "Guinea-Bissau’s Bijagós Islands are a UNESCO Biosphere Reserve with saltwater hippos, manatees, and West Africa’s largest tern colony."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Oi",
+      "say": "oy"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Obrigadu",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Kuma?",
+      "say": "KOO-mah"
+    },
+    {
+      "en": "I'm fine",
+      "jp": "N sta bon",
+      "say": "n stah BOHN"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Adeus",
+      "say": "ah-DAY-oosh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gw-hero.jpg",
+      "alt": "Presidential Palace in Bissau, Guinea-Bissau",
+      "caption": "PRESIDENTIAL PALACE — the pink colonial landmark at the heart of Bissau",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gw-landmark.jpg",
+      "alt": "Bolama Island in the Bijagós Archipelago, Guinea-Bissau",
+      "caption": "BOLAMA ISLAND — a palm-fringed jewel in the UNESCO Bijagós Archipelago",
+      "credit": "Danilo Vaz / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gw-animalA.jpg",
+      "alt": "Hippopotamus in water",
+      "caption": "HIPPO — Bijagós marines are the only hippos that feed in the open Atlantic Ocean",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gw-animalB.jpg",
+      "alt": "Green monkey with baby in West Africa",
+      "caption": "GREEN MONKEY — troops leap through cashew orchards across Guinea-Bissau",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

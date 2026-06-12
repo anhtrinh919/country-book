@@ -1,0 +1,163 @@
+{
+  "name": "TUNISIA",
+  "nativeName": "تونس",
+  "romaji": "TUNIS",
+  "tagline": "Where Sahara meets the sea",
+  "region": "North Africa",
+  "coords": "33.89°N, 9.54°E",
+  "fileNo": "088",
+  "langName": "Arabic",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4C09A",
+    "ink": "#2A2018",
+    "faint": "#8A7455",
+    "line": "#E0CFA8",
+    "accent": "#E70013",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/tn.svg",
+    "title": "Flag of Tunisia",
+    "note": "Red crescent & star on white disc",
+    "keyColor": "#E70013",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tunisia is a sunny land where Sahara dunes meet Mediterranean beaches. Packed with Roman ruins and medinas fragrant with jasmine and spice, it punches far above its size. In 2011, Tunisians peacefully overthrew their government — the first Arab country to do so — inspiring change across the whole region.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Tunis",
+      "sub": "Metro pop. ~2.7 million"
+    },
+    {
+      "label": "People",
+      "value": "12.1 million",
+      "sub": "Est. 2024, Arab-Berber majority"
+    },
+    {
+      "label": "Money",
+      "value": "Dinar (TND)",
+      "sub": "1 dinar = 1,000 millimes"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Dialect Arabic; French also used"
+    },
+    {
+      "label": "Land area",
+      "value": "163,610 km²",
+      "sub": "About the size of Georgia, USA"
+    },
+    {
+      "label": "High point",
+      "value": "Jebel Chambi",
+      "sub": "1,544 m — a forested summit"
+    }
+  ],
+  "islands": [
+    "Tunis",
+    "Sfax",
+    "Sousse",
+    "Kairouan",
+    "Djerba"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Desert, sea & hills between",
+    "animals": "Creatures of sand and shore",
+    "culture": "Medinas, mint tea & Star Wars",
+    "history": "Carthage to the Arab Spring",
+    "wows": "Seven wow-worthy facts"
+  },
+  "geo": [
+    "Tunisia is shaped like an ear. The north is green and hilly, covered in olive groves and wheat fields, with 1,300 km of Mediterranean coast offering white-sand beaches and turquoise water.",
+    "Head south and the land turns to the Chott el-Djerid — a vast salt lake shimmering like a mirror — then the Sahara begins, with towering orange dunes near Douz where camels plod at sunset."
+  ],
+  "animals": [
+    "The shallow Gulf of Gabès is a nursery for octopus, sea bream, and endangered loggerhead sea turtles that nest on quiet beaches. Pink flamingos wade in coastal lagoons every winter.",
+    "In northern cork-oak forests, wild boar and reintroduced Barbary red deer roam the undergrowth. Striped hyenas and fennec foxes — with ears like satellite dishes — prowl the desert edge at night."
+  ],
+  "culture": [
+    "Tunisian food is fiery and fragrant. Harissa — a brick-red chilli paste of dried peppers, garlic, and cumin — goes on almost everything. A classic breakfast is brik: a crispy pastry with a runny egg inside, eaten fast before it drips.",
+    "Music blends Andalusian strings, Berber percussion, and modern pop in a style called malouf. The walled medina of Tunis is a UNESCO-listed maze of souks selling perfume, copper lanterns, and carpets. Tatooine in Star Wars was filmed here."
+  ],
+  "history": [
+    "Carthage, founded near modern Tunis around 814 BC, became one of the ancient world's mightiest cities. Its general Hannibal crossed the Alps with war elephants to attack Rome. Rome eventually won, flattened Carthage, then rebuilt it as a grand city.",
+    "Arabs brought Islam in the 7th century; Ottoman rule followed, then French colonisation in 1881. Independence came in 1956. In 2011, street vendor Mohamed Bouazizi's protest ignited the Jasmine Revolution, sparking the wider Arab Spring."
+  ],
+  "wows": [
+    "Tunisia grows olive oil from trees over 2,000 years old and exports about 1.8 billion litres a year.",
+    "Matmata is built underground — families carved homes into rock and it doubled as Luke's planet in Star Wars.",
+    "The Chott el-Djerid salt lake is so flat and reflective it looks like liquid silver from the air.",
+    "Tunisia abolished slavery in 1846 — nearly 20 years before the United States did the same.",
+    "The Bardo Museum holds the world's largest collection of ancient Roman floor mosaics.",
+    "Tunis's medina packs over 700 monuments into lanes so narrow no car can enter.",
+    "Carthage was so thoroughly destroyed that Romans reportedly ploughed salt into its ruins."
+  ],
+  "myths": [
+    {
+      "myth": "Tunisia is all desert",
+      "fact": "Only the southern third is Sahara. The north has green hills, cork forests, rivers, and a mild Mediterranean coast — more like southern Italy than a sand dune."
+    },
+    {
+      "myth": "Harissa is just hot sauce",
+      "fact": "Real harissa is a slow-roasted paste of dried chillies, garlic, cumin, and coriander — each family's recipe differs, making it far more complex than simple hot sauce."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "أهلاً",
+      "say": "AH-hlan"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHOOK-ran"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "بنين",
+      "say": "ba-NEEN"
+    },
+    {
+      "en": "How much?",
+      "jp": "قداش؟",
+      "say": "GAD-daysh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tn-hero.jpg",
+      "alt": "Aerial view of the ancient medina of Tunis at dusk",
+      "caption": "TUNIS MEDINA — the ancient walled city glows gold at sunset",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tn-landmark.jpg",
+      "alt": "The vast Roman amphitheatre of El Djem rising from the Tunisian plain",
+      "caption": "EL DJEM AMPHITHEATRE — Rome's third-largest colosseum, still towering after 1,800 years",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tn-animalA.jpg",
+      "alt": "A fennec fox with enormous ears sitting on pale desert sand",
+      "caption": "FENNEC FOX — giant ears radiate heat and hear beetles moving underground",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tn-animalB.jpg",
+      "alt": "Pink flamingos wading in a shallow Tunisian coastal lagoon",
+      "caption": "FLAMINGOS — thousands winter in Tunisia's salty coastal lagoons each year",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

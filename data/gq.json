@@ -1,0 +1,163 @@
+{
+  "name": "EQUAT. GUINEA",
+  "nativeName": "GQ",
+  "romaji": "GUINEA ECUATL.",
+  "tagline": "Africa's Spanish secret",
+  "region": "Central Africa",
+  "coords": "3.7°N, 8.8°E",
+  "fileNo": "085",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B89A",
+    "ink": "#261E14",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B5",
+    "accent": "#3E9A00",
+    "accent2": "#E32118"
+  },
+  "flag": {
+    "assetPath": "/flags/gq.svg",
+    "title": "Green & Blue Flag",
+    "note": "Green, white, red — blue triangle at hoist",
+    "keyColor": "#3E9A00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "A tiny oil-rich nation split across island and jungle. Equatorial Guinea is the only African country where Spanish is official — a quirk of centuries of colonial rule. Dense rainforest covers much of the land, rare monkeys live on volcanic Bioko Island, and giant sea turtles nest on its moonlit beaches each year.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Malabo",
+      "sub": "On Bioko Island, Gulf of Guinea"
+    },
+    {
+      "label": "People",
+      "value": "~1.9 million",
+      "sub": "Est. 2024; Fang 78%, Bubi 9%"
+    },
+    {
+      "label": "Money",
+      "value": "CFA franc",
+      "sub": "Shared with 5 other nations"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Only Spanish nation in Africa"
+    },
+    {
+      "label": "Area",
+      "value": "28,051 km²",
+      "sub": "Slightly smaller than Belgium"
+    },
+    {
+      "label": "High point",
+      "value": "Pico Basilé",
+      "sub": "3,011 m — volcanic, Bioko Island"
+    }
+  ],
+  "islands": [
+    "Bioko",
+    "Río Muni",
+    "Annobón",
+    "Corisco",
+    "Bata"
+  ],
+  "islandsLabel": "REGIONS & ISLANDS:",
+  "sections": {
+    "geography": "Volcanoes, jungle & sea",
+    "animals": "Island beasts & turtle beaches",
+    "culture": "Spanish drums in the jungle",
+    "history": "Cocoa, colonists & crude oil",
+    "wows": "Wait — that’s really true?"
+  },
+  "geo": [
+    "Equatorial Guinea is split in two. Bioko Island sits 40 km off Cameroon in the Gulf of Guinea — a volcanic cone wrapped in cloud forest, rising to the 3,011 m summit of Pico Basilé. The capital Malabo perches on its northern rim.",
+    "The mainland slab, Río Muni, lies between Cameroon and Gabon — equatorial rainforest laced with rivers. Tiny Annobón island sits 700 km south. Despite its name, the equator doesn’t cross the mainland at all."
+  ],
+  "animals": [
+    "Bioko Island is a lifeboat for rare primates. The Bioko drill — a bold-faced forest monkey found nowhere else on Earth — scrambles through the trees. Chimpanzees and seven other monkey species share the misty canopy.",
+    "Every November to February, leatherback, green, hawksbill, and olive ridley turtles haul onto Bioko’s southern beaches to lay eggs — one of West Africa’s most important rookeries. Humpback whales cruise the waters offshore."
+  ],
+  "culture": [
+    "Despite being in Africa, Equatorial Guinea sounds partly Spanish — Catholic cathedrals, tapas alongside plantain, and street signs in Spanish. Three languages are official: Spanish, French, and Portuguese.",
+    "The Fang people’s heartbeat is the mvet — a harp-zither with up to fifteen strings whose music is so sacred that only initiated players may learn its notation. The Bubi perform the balélé dance at Christmas, and Makossa rhythms from Cameroon fill Malabo’s bars."
+  ],
+  "history": [
+    "Portugal landed on Bioko on New Year’s Day 1472 — naming the southernmost island Annobón (Anno Bom = Good Year). Spain took over in 1778, growing vast cocoa plantations built on forced labour.",
+    "Independence arrived 12 October 1968, but a brutal dictatorship drove a third of the population away or to their deaths. Oil struck offshore in the 1990s transformed this tiny nation into one of Africa’s biggest petroleum exporters."
+  ],
+  "wows": [
+    "Equatorial Guinea is the only country in Africa where Spanish is an official language.",
+    "Its capital Malabo is on a volcanic island, separated from the mainland by 40 km of open sea.",
+    "Annobón island was discovered on New Year’s Day 1472 — that’s literally how it got its name.",
+    "Bioko Island holds the world’s only insular population of drill monkeys.",
+    "Despite its name, no part of the mainland crosses the equator.",
+    "Oil gives it one of Africa’s highest GDPs per person, yet most citizens still lack clean water.",
+    "The Fang mvet has a secret notation that only initiated masters may learn."
+  ],
+  "myths": [
+    {
+      "myth": "The equator runs through it",
+      "fact": "The mainland sits north of the equator. Only waters near Annobón island brush the equatorial line. The name is historical, not geographic."
+    },
+    {
+      "myth": "Oil made everyone rich",
+      "fact": "High GDP per capita on paper, but the wealth is extremely concentrated and most citizens live without reliable water or electricity."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Good day",
+      "jp": "Buenos días",
+      "say": "BWEH-nos DEE-ahs"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Adiós",
+      "say": "ah-DYOSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gq-hero.jpg",
+      "alt": "Cathedral of Malabo with colonial towers against blue sky",
+      "caption": "MALABO CATHEDRAL — twin 40 m towers of Santa Isabel, built under Spanish rule in 1916",
+      "credit": "Ben Sutherland / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/gq-landmark.jpg",
+      "alt": "Dense equatorial rainforest near Oyala, Equatorial Guinea",
+      "caption": "EQUATORIAL RAINFOREST — ancient jungle cloaks the Río Muni mainland interior",
+      "credit": "Mehlauge / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/gq-animalA.jpg",
+      "alt": "Bioko drill monkey resting on forest floor in Equatorial Guinea",
+      "caption": "BIOKO DRILL — island-only primate, photographed in Equatorial Guinea, 2019",
+      "credit": "Chris Quirin / CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/gq-animalB.jpg",
+      "alt": "Leatherback sea turtle resting on sandy beach",
+      "caption": "LEATHERBACK SEA TURTLE — nests on Bioko’s southern beaches Nov–Feb each year",
+      "credit": "USFWS / Public Domain"
+    }
+  }
+}

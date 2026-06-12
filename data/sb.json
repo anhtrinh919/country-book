@@ -1,0 +1,163 @@
+{
+  "name": "SOLOMON IS.",
+  "nativeName": "SB",
+  "romaji": "SOLOMON ISLANDS",
+  "tagline": "A thousand islands, one sea",
+  "region": "Melanesia, Pacific Ocean",
+  "coords": "9.65°S, 160.16°E",
+  "fileNo": "168",
+  "langName": "Pijin",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c8bfa8",
+    "ink": "#252018",
+    "faint": "#857a60",
+    "line": "#dbd0bb",
+    "accent": "#0A2D9C",
+    "accent2": "#2E7D32"
+  },
+  "flag": {
+    "assetPath": "/flags/sb.svg",
+    "title": "Solomon Islands",
+    "note": "Blue & green split by a gold stripe; 5 stars",
+    "keyColor": "#0A2D9C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Solomon Islands is a chain of over 900 tropical islands in the South Pacific. Nearly a million people live here, speaking 70+ languages plus Pijin — a friendly blend of English and island words. Blue for ocean, green for jungle: the flag says it all, split by a golden stripe with five white stars.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Honiara",
+      "sub": "on Guadalcanal island"
+    },
+    {
+      "label": "People",
+      "value": "~820,000",
+      "sub": "est. 2024; 2019 census base"
+    },
+    {
+      "label": "Money",
+      "value": "SBD dollar",
+      "sub": "Solomon Islands dollar"
+    },
+    {
+      "label": "Language",
+      "value": "English/Pijin",
+      "sub": "70+ local languages too"
+    },
+    {
+      "label": "Land area",
+      "value": "28,896 km²",
+      "sub": "about the size of Haiti"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mt Popomanaseu",
+      "sub": "2,335 m, Guadalcanal"
+    }
+  ],
+  "islands": [
+    "Guadalcanal",
+    "Malaita",
+    "New Georgia",
+    "Makira",
+    "Santa Isabel"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Islands, reefs & rainforest",
+    "animals": "Wild wings & hidden creatures",
+    "culture": "Kastom, wantok & song",
+    "history": "Coastwatchers & WWII tides",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Solomon Islands stretches 1,500 km across the Pacific — over 900 islands topped with rainforest and volcanic peaks. The largest, Guadalcanal, holds the capital and Mount Popomanaseu, rising 2,335 m into the clouds.",
+    "The sea is just as dramatic. Marovo Lagoon — the world's largest double-barrier saltwater lagoon — shimmers in turquoise and jade. Coral reefs hug the shores, and the water is so clear you can see 30 m to the sandy bottom."
+  ],
+  "animals": [
+    "The eclectus parrot is a jaw-dropper: males are bright green, females red and blue — so different that scientists once thought they were two separate species. Solomon Islands holds 69 endemic bird species, more than almost any similar-sized area on Earth.",
+    "Giant fruit bats flap through the forest at dusk, pollinating trees as they go. The spotted cuscus — a fluffy marsupial with huge round eyes — dozes in the canopy by day. Sea turtles nest on remote beaches, and the reefs teem with sharks, rays, and clownfish."
+  ],
+  "culture": [
+    "Life runs on kastom — the web of traditional rules, ceremonies, and storytelling passed down through families. Shell money, carved shields, and pan-pipe music are not museum pieces; they are used in real celebrations today.",
+    "The wantok system ties communities together: wantok means 'one talk', and anyone who speaks your language is kin. You share food, help, and loyalty. Most villages have both a church and a traditional meeting house standing side by side."
+  ],
+  "history": [
+    "People have lived here for at least 30,000 years. Spanish explorer Mendaña arrived in 1568, named the islands after King Solomon's legendary gold, and sparked centuries of outside interest. Britain made them a protectorate in 1893.",
+    "In 1942–43 Guadalcanal became one of WWII's fiercest battlegrounds. Local Solomon Islanders served as coastwatchers and scouts; a US admiral said they 'saved Guadalcanal'. Independence came on 7 July 1978."
+  ],
+  "wows": [
+    "The world's largest coral colony was found here in 2024 — wider than two basketball courts side by side.",
+    "Solomon Islands has 69 endemic bird species — more per km² than almost anywhere else on Earth.",
+    "Marovo Lagoon is the world's largest double-barrier enclosed saltwater lagoon.",
+    "Over 70 distinct local languages are spoken — a different tongue in nearly every valley.",
+    "Male and female eclectus parrots look so unlike each other that scientists listed them as 2 species.",
+    "WWII wrecks near Guadalcanal are now coral gardens — among the world's top dive sites.",
+    "The Honiara parliament was a US gift, built in memory of soldiers lost at Guadalcanal."
+  ],
+  "myths": [
+    {
+      "myth": "The islands hide King Solomon's gold",
+      "fact": "Spaniard Mendaña named them hoping to find biblical riches in 1568 — no gold hoard was ever discovered. The legend outlasted the explorer."
+    },
+    {
+      "myth": "Allied soldiers won the Pacific war alone",
+      "fact": "Local Solomon Islanders served as coastwatchers and scouts. A US admiral credited them directly with saving Guadalcanal — and the wider Pacific campaign."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Halo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tanggio",
+      "say": "TANG-ee-oh"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ia",
+      "say": "EE-ah"
+    },
+    {
+      "en": "No",
+      "jp": "Nomoa",
+      "say": "NOH-moh-ah"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Yu oraet?",
+      "say": "yoo oh-RYE-et"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sb-hero.jpg",
+      "alt": "Aerial view of Solomon Islands tropical coastline with jungle and turquoise sea",
+      "caption": "SOLOMON ISLANDS — lush jungle meets the Pacific along Guadalcanal's coast",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sb-landmark.jpg",
+      "alt": "Honiara shoreline with palm trees and the Pacific Ocean",
+      "caption": "HONIARA — the capital city fronts the calm waters of Iron Bottom Sound",
+      "credit": "Wikimedia Commons / US Embassy"
+    },
+    "animalA": {
+      "src": "/photos/sb-animalA.jpg",
+      "alt": "Bright green male eclectus parrot perched on a branch",
+      "caption": "ECLECTUS PARROT — green male and red-blue female were once classed as 2 species",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sb-animalB.jpg",
+      "alt": "Spotted cuscus marsupial with large orange eyes and spotted fur",
+      "caption": "SPOTTED CUSCUS — a slow, wide-eyed marsupial that hides in the forest canopy",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

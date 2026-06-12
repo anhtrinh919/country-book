@@ -1,0 +1,163 @@
+{
+  "name": "DOMINICA",
+  "nativeName": "DM",
+  "romaji": "DOMINICA",
+  "tagline": "The Nature Isle",
+  "region": "Caribbean",
+  "coords": "15.42°N, 61.37°W",
+  "fileNo": "027",
+  "langName": "Kwéyòl Creole",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c7bfa8",
+    "ink": "#262018",
+    "faint": "#7a7055",
+    "line": "#dbd3bd",
+    "accent": "#2A6B3A",
+    "accent2": "#C0202E"
+  },
+  "flag": {
+    "assetPath": "/flags/dm.svg",
+    "title": "Sisserou Flag",
+    "note": "One of only 2 flags with purple colour",
+    "keyColor": "#2A6B3A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Dominica is a tiny volcanic Caribbean island cloaked in rainforest. Known as the \"Nature Isle,\" it packs 365 rivers, nine active volcanoes, and a Boiling Lake into 750 km². Sperm whales live offshore year-round, and the Kalinago — the last indigenous Caribbean people — have called this green mountain home for thousands of years.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Roseau",
+      "sub": "Pop. ~16,500; west coast port town"
+    },
+    {
+      "label": "People",
+      "value": "72,000",
+      "sub": "Est. 2024; Creole & Kalinago roots"
+    },
+    {
+      "label": "Money",
+      "value": "EC Dollar",
+      "sub": "Eastern Caribbean Dollar (XCD)"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus Kwéyòl Creole widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "750 km²",
+      "sub": "About the size of Singapore"
+    },
+    {
+      "label": "Top peak",
+      "value": "1,447 m",
+      "sub": "Morne Diablotins, 1,447 m peak"
+    }
+  ],
+  "islands": [
+    "Roseau",
+    "Portsmouth",
+    "Marigot",
+    "Castle Bruce",
+    "Soufrière"
+  ],
+  "islandsLabel": "MAIN TOWNS:",
+  "sections": {
+    "geography": "A land of volcanoes & rivers",
+    "animals": "Parrots, whales & wild things",
+    "culture": "Kalinago roots & Creole beats",
+    "history": "Fierce island, long free",
+    "wows": "Jaw-dropping island secrets"
+  },
+  "geo": [
+    "Dominica is sculpted by nine active volcanoes draped in rainforest so dense that early settlers could barely land. Over 365 rivers slice the mountains. Twin Trafalgar Falls thunder into a jungle pool just 20 minutes from the capital Roseau.",
+    "Morne Trois Pitons National Park — a UNESCO World Heritage Site — hides the Boiling Lake, a 60-metre fumarole of churning grey-blue water. Black-sand beaches line the wild Atlantic coast; the calm Caribbean side draws sperm whales all year."
+  ],
+  "animals": [
+    "Dominica’s Sisserou parrot — a purple-chested Amazon — exists nowhere else on Earth. It graces the national flag, yet only ~50 mature birds survive in the wild. Its smaller cousin, the Jaco (red-necked Amazon), is also entirely endemic to the island.",
+    "Sperm whales live in Dominica’s warm offshore waters all year — the only country where this is true. Researchers swim alongside them. The giant Crapaud frog, once a prized Creole meal called 'mountain chicken,' is now protected."
+  ],
+  "culture": [
+    "Dominica blends African, French and Kalinago threads into a vibrant Creole identity. The Kalinago — ~3,000 strong on the east coast — are the last pre-Columbian people of the Eastern Caribbean, famed for basket weaving and dugout canoe carving.",
+    "Kwéyòl (French Creole) is heard everywhere beside English. Each October, Creole Day fills streets with madras fabric. Carnival — locally 'The Real Mas' — explodes with calypso and costumes. Local dishes star callaloo soup, fresh fish and plantain."
+  ],
+  "history": [
+    "Columbus spotted Dominica on a Sunday in 1493 — 'Domingo' in Spanish gave it the name. Kalinago people resisted colonisers so fiercely that it became one of the last Caribbean islands settled. Britain and France fought for it before Britain took control in 1763.",
+    "In 1838, Dominica became the only British Caribbean colony with a Black-controlled legislature. Full independence came on 3 November 1978. Hurricane Maria devastated it in 2017; Dominica pledged to rebuild as the world's first climate-resilient nation."
+  ],
+  "wows": [
+    "Dominica is the only country where sperm whales live in the sea all year — you can swim near them.",
+    "The island squeezes 365+ rivers into 750 km² — one of the highest river densities on Earth.",
+    "Its flag features the colour purple — one of only two national flags in the world to do so.",
+    "The Kalinago resisted colonisers so effectively, Dominica was the last Caribbean island settled.",
+    "In 1838, Dominica was the only British Caribbean colony ever run by a Black-majority legislature.",
+    "The Waitukubuli Trail is the Caribbean’s first long-distance hiking path — 183 km of wild jungle.",
+    "Nine active volcanoes crowd the island; the Boiling Lake is Earth’s second-largest flooded fumarole."
+  ],
+  "myths": [
+    {
+      "myth": "Dominica = the Dominican Republic",
+      "fact": "They are different countries 600 miles apart. Dominica is a tiny English-speaking island; the Dominican Republic is a large Spanish-speaking nation on Hispaniola."
+    },
+    {
+      "myth": "Kalinago violently replaced peaceful Arawaks",
+      "fact": "Kalinago oral history and evidence suggests the two groups often coexisted and intermarried; the violent-replacement tale is a colonial-era oversimplification."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bon Jou",
+      "say": "bohn zhoo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Més",
+      "say": "meh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Ovwa",
+      "say": "oh-vwah"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Sa ka fete?",
+      "say": "sah kah fet"
+    },
+    {
+      "en": "Beautiful!",
+      "jp": "Bel!",
+      "say": "bell"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dm-hero.jpg",
+      "alt": "Aerial view of Roseau, Dominica",
+      "caption": "ROSEAU — the compact green capital hugs the Caribbean coast",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dm-landmark.jpg",
+      "alt": "Trafalgar Falls twin waterfalls in Dominica",
+      "caption": "TRAFALGAR FALLS — twin cascades thunder into a jungle pool near Roseau",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/dm-animalA.jpg",
+      "alt": "Sisserou Imperial Amazon parrot of Dominica",
+      "caption": "SISSEROU PARROT — purple-chested national bird found only in Dominica",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dm-animalB.jpg",
+      "alt": "Jaco red-necked Amazon parrot of Dominica",
+      "caption": "JACO PARROT — Dominica’s second endemic Amazon parrot species",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

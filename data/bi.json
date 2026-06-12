@@ -1,0 +1,163 @@
+{
+  "name": "BURUNDI",
+  "nativeName": "BI",
+  "romaji": "BURUNDI",
+  "tagline": "Hills, drums & deep waters",
+  "region": "East Africa",
+  "coords": "3.4°S, 29.9°E",
+  "fileNo": "083",
+  "langName": "Kirundi",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFA8",
+    "ink": "#261F18",
+    "faint": "#8B7A5A",
+    "line": "#DDD4C0",
+    "accent": "#CE1126",
+    "accent2": "#1EB53A"
+  },
+  "flag": {
+    "assetPath": "/flags/bi.svg",
+    "title": "Flag of Burundi",
+    "note": "Red & green split by white saltire + 3 stars",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Burundi is a tiny landlocked country in East Africa where green ridges drop to Lake Tanganyika — one of the world's deepest lakes. Called the Switzerland of Africa for its cool highlands, it is a land of thunderous royal drums, champion runners, and remarkable human energy packed into one of the continent's smallest countries.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Gitega",
+      "sub": "Political capital since 2019"
+    },
+    {
+      "label": "People",
+      "value": "12.3 million",
+      "sub": "2024 national census"
+    },
+    {
+      "label": "Money",
+      "value": "BIF franc",
+      "sub": "Burundian franc (BIF)"
+    },
+    {
+      "label": "Language",
+      "value": "Kirundi",
+      "sub": "Also French & Swahili"
+    },
+    {
+      "label": "Land area",
+      "value": "27,834 km²",
+      "sub": "Smaller than Belgium"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mt Heha 2,684m",
+      "sub": "In Bururi Province, SW"
+    }
+  ],
+  "islands": [
+    "Bujumbura",
+    "Gitega",
+    "Ngozi",
+    "Rumonge",
+    "Bururi"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of a thousand hills",
+    "animals": "Wildlife of the deep rift",
+    "culture": "Drums, dance & banana beer",
+    "history": "Kings, colonists & courage",
+    "wows": "Seven surprising Burundi facts"
+  },
+  "geo": [
+    "Burundi sits on a high plateau averaging 1,500 m above sea level, so even this tropical country feels pleasantly breezy. Forested ridges ripple east to west, broken by river valleys where banana plants crowd every slope.",
+    "Lake Tanganyika hugs the entire western edge: 676 km long and 1,471 m deep, with fish found nowhere else on Earth. A tiny stream on Mount Gikizi in the southern highlands is the most remote source of the River Nile."
+  ],
+  "animals": [
+    "Kibira National Park in the northwest is Burundi's wildest corner — 400 km² of montane rainforest echoing with chimpanzee calls at dawn. Colobus monkeys leap through the canopy while hundreds of bird species dart through the mist.",
+    "Hippos wallow in the Rusizi River delta and along Lake Tanganyika's shore. Beneath the lake, over 130 species of cichlid fish shimmer in colours scientists study as a living masterclass in evolution."
+  ],
+  "culture": [
+    "Burundi's heartbeat is the ingoma drum. Royal drummers — dressed in red, white and green — beat enormous hand-carved drums in perfect unison while dancing acrobatically. UNESCO added this tradition to its Intangible Heritage list in 2014.",
+    "Everyday life revolves around hillside farms growing plantains, sweet potatoes and sorghum. Friends sip urwagwa — a lightly fizzy banana beer — through long shared straws from a communal pot, a custom as old as the kingdom itself."
+  ],
+  "history": [
+    "For centuries Burundi was a powerful monarchy; a mwami (king) was said to 'ascend the drum' when he took the throne. The kingdom survived Arab traders and German colonisers before Belgium took control after World War I.",
+    "Independence came on 1 July 1962. Painful civil conflict followed in later decades, but a peace deal in 2000 slowly rebuilt stability, and today a young population is shaping a new future."
+  ],
+  "wows": [
+    "Burundi's flag has a saltire — a rare diagonal cross — dividing its red and green fields.",
+    "A spring in southern Burundi on Mount Gikizi is the most remote source of the River Nile.",
+    "Vénuste Niyongabo won Burundi's first Olympic gold at Atlanta 1996 in the 5,000 m race.",
+    "Lake Tanganyika holds 17% of Earth's unfrozen fresh surface water — second deepest lake on Earth.",
+    "Burundi is Africa's third most densely populated country — twice as crowded per km² as France.",
+    "Scientists rediscovered the Bururi long-fingered frog in 2011 — presumed extinct since 1949.",
+    "Gishora Sanctuary has two sacred drums so holy they have never once been struck."
+  ],
+  "myths": [
+    {
+      "myth": "Burundi and Rwanda are the same country",
+      "fact": "They are two entirely separate nations with their own governments, capitals and flags, though they share related languages and many cultural traditions."
+    },
+    {
+      "myth": "Burundi has no wildlife because it’s so small",
+      "fact": "Kibira National Park shelters chimpanzees and 200+ bird species; Lake Tanganyika is a global hotspot for freshwater fish biodiversity."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Amahoro",
+      "say": "ah-mah-HO-ro"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Murakoze",
+      "say": "moo-rah-KO-zay"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ego",
+      "say": "EH-go"
+    },
+    {
+      "en": "Water",
+      "jp": "Amazi",
+      "say": "ah-MAH-zee"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Biryoha",
+      "say": "bee-RYO-hah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bi-hero.jpg",
+      "alt": "Aerial view of Bujumbura city with Lake Tanganyika stretching to the horizon",
+      "caption": "BUJUMBURA & LAKE TANGANYIKA — city meets one of Earth's deepest lakes",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bi-landmark.jpg",
+      "alt": "Royal drummers of Burundi performing with large ingoma drums",
+      "caption": "INGOMA ROYAL DRUMS — UNESCO-listed heartbeat of Burundian culture",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bi-animalA.jpg",
+      "alt": "Eastern chimpanzee sitting in a tree in a rainforest",
+      "caption": "EASTERN CHIMPANZEE — found in Kibira's misty montane rainforest",
+      "credit": "Wikimedia Commons / Rod Waddington"
+    },
+    "animalB": {
+      "src": "/photos/bi-animalB.jpg",
+      "alt": "Hippopotamus partially submerged in a river",
+      "caption": "HIPPOPOTAMUS — wallows in Burundi's Rusizi River delta",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

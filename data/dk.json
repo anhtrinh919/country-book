@@ -1,0 +1,163 @@
+{
+  "name": "DENMARK",
+  "nativeName": "DK",
+  "romaji": "DANMARK",
+  "tagline": "Vikings, LEGO & endless sky",
+  "region": "Northern Europe",
+  "coords": "56°N, 10°E",
+  "fileNo": "043",
+  "langName": "Danish",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EAD8",
+    "dot": "#C9BAA0",
+    "ink": "#1E1B18",
+    "faint": "#7A6E58",
+    "line": "#DDD3BC",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/dk.svg",
+    "title": "Dannebrog",
+    "note": "World's oldest national flag, since 1370",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Denmark is a small, flat country in northern Europe where islands are linked by giant bridges. It gave the world LEGO bricks, Vikings, and Hans Christian Andersen's fairy tales. Danes love cycling, cosy candlelit evenings called hygge, and open-faced sandwiches piled high. You can drive from one side to the other in just a few hours.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Copenhagen",
+      "sub": "On the island of Zealand"
+    },
+    {
+      "label": "People",
+      "value": "5.97 million",
+      "sub": "Est. 2024, Statistics Denmark"
+    },
+    {
+      "label": "Money",
+      "value": "Krone (DKK)",
+      "sub": "~7.46 DKK per Euro"
+    },
+    {
+      "label": "Language",
+      "value": "Danish",
+      "sub": "Nearly all speak English too"
+    },
+    {
+      "label": "Land area",
+      "value": "43,094 km²",
+      "sub": "About the size of Switzerland"
+    },
+    {
+      "label": "Top peak",
+      "value": "Møllehøj 171 m",
+      "sub": "Denmark is remarkably flat"
+    }
+  ],
+  "islands": [
+    "Copenhagen",
+    "Aarhus",
+    "Odense",
+    "Aalborg",
+    "Bornholm"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Flat land & windswept shores",
+    "animals": "Creatures of sea & meadow",
+    "culture": "Hygge, LEGO & fairy tales",
+    "history": "Vikings to happy kingdom",
+    "wows": "7 surprising Danish facts"
+  },
+  "geo": [
+    "Denmark sits on the Jutland peninsula plus over 400 islands. The land is so flat its highest hill stands only 171 m — shorter than many city skyscrapers. Sandy beaches, chalk cliffs, and ancient beech forests line the coasts.",
+    "The Great Belt Bridge is nearly 18 km long. The Øresund Bridge links Denmark directly to Sweden — you drive between two countries across open sea in minutes."
+  ],
+  "animals": [
+    "Harbour porpoises and grey seals populate coastal waters, basking on rocky outcrops. White storks nest on rooftops in the south each spring, and red deer roam ancient beech forests inland.",
+    "European hares sprint at 70 km/h across open fields. Each autumn, millions of starlings swirl in shape-shifting clouds over southern marshes in a spectacle Danes call 'Sort Sol' — Black Sun."
+  ],
+  "culture": [
+    "Danes live by hygge — cosiness, warm company, candles, and hot drinks. Open-faced sandwiches called smørrebrød are piled with herring, eggs, or roast beef and eaten with a knife and fork.",
+    "Denmark gave the world LEGO (from 'leg godt', 'play well') and storyteller Hans Christian Andersen. Danish design is famous for clean, simple shapes seen in furniture and everyday objects worldwide."
+  ],
+  "history": [
+    "The Vikings set out from Denmark over 1,000 years ago in longships, reaching England, Iceland, Greenland, and even North America. Danish kings once ruled a vast northern empire across the Atlantic.",
+    "Denmark became a peaceful constitutional monarchy in 1849. Today it ranks among the world's least corrupt and happiest nations, with free education and healthcare — a far cry from its raiding past."
+  ],
+  "wows": [
+    "The Dannebrog is the world's oldest national flag still in use — legend says it fell from the sky in 1219.",
+    "Denmark generates around 60% of its electricity from wind turbines spinning in the grey North Sea.",
+    "LEGO was founded in a tiny Danish carpentry workshop in 1932 and is now the world's top toy brand.",
+    "Copenhagen's cycle lanes carry more bikes than cars through the city centre every single day.",
+    "Greenland — the world's largest island — is part of the Danish realm, making Denmark an Arctic nation.",
+    "Denmark has ranked among the world's happiest countries many years running in the UN report.",
+    "Nowhere in Denmark is more than 52 km from the sea, despite having no mountains at all."
+  ],
+  "myths": [
+    {
+      "myth": "The Little Mermaid has a happy ending",
+      "fact": "In Andersen's original tale the mermaid dissolves into sea foam — she does not marry the prince. She earns a soul as a spirit of the air."
+    },
+    {
+      "myth": "Vikings wore horned helmets",
+      "fact": "Real Viking helmets were simple iron caps with a nose guard. Horned helmets were invented by 19th-century artists for costumes and operas."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hej",
+      "say": "HEY"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tak",
+      "say": "TAHG"
+    },
+    {
+      "en": "Please",
+      "jp": "Vær venlig",
+      "say": "VEH VEN-lee"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "Skål!",
+      "say": "SKOHL"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Farvel",
+      "say": "FAH-vel"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dk-hero.jpg",
+      "alt": "Colourful houses along Nyhavn canal in Copenhagen",
+      "caption": "NYHAVN CANAL — Copenhagen's iconic coloured facades reflected in still water",
+      "credit": "Wikimedia Commons / Orf3us"
+    },
+    "landmark": {
+      "src": "/photos/dk-landmark.jpg",
+      "alt": "The Little Mermaid bronze statue on a rock in Copenhagen harbour",
+      "caption": "LITTLE MERMAID — Andersen's heroine sits in Copenhagen harbour since 1913",
+      "credit": "Wikimedia Commons / Wikimol"
+    },
+    "animalA": {
+      "src": "/photos/dk-animalA.jpg",
+      "alt": "Harbour porpoise swimming at the surface",
+      "caption": "HARBOUR PORPOISE — Denmark's smallest whale in cold coastal waters",
+      "credit": "Wikimedia Commons / NOAA"
+    },
+    "animalB": {
+      "src": "/photos/dk-animalB.jpg",
+      "alt": "Enormous flock of starlings swirling in sky over marshland",
+      "caption": "BLACK SUN — millions of starlings swirl over Danish marshes each autumn",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    }
+  }
+}

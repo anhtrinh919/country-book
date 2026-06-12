@@ -1,0 +1,163 @@
+{
+  "name": "CUBA",
+  "nativeName": "CU",
+  "romaji": "CUBA",
+  "tagline": "Island of Music & Colour",
+  "region": "Caribbean",
+  "coords": "22°N 80°W",
+  "fileNo": "047",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA3",
+    "ink": "#241E18",
+    "faint": "#8A7558",
+    "line": "#DDD0B0",
+    "accent": "#002A8F",
+    "accent2": "#CC1414"
+  },
+  "flag": {
+    "assetPath": "/flags/cu.svg",
+    "title": "The Cuban Flag",
+    "note": "Blue & white stripes, red triangle, star",
+    "keyColor": "#002A8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Cuba is the Caribbean's biggest island, where candy-coloured vintage cars rumble past crumbling-beautiful buildings and music leaks from every doorway. Havana, its capital, overflows with dancers and sea-salt air. The island grows sugar cane, makes world-famous cigars, and hides mountains, caves, and coral reefs waiting to be explored.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Havana",
+      "sub": "Pop. ~2.1 million"
+    },
+    {
+      "label": "People",
+      "value": "11.2 million",
+      "sub": "Est. 2023"
+    },
+    {
+      "label": "Money",
+      "value": "Cuban Peso",
+      "sub": "CUP"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Only official language"
+    },
+    {
+      "label": "Land area",
+      "value": "109,884 km²",
+      "sub": "Bigger than Iceland"
+    },
+    {
+      "label": "High point",
+      "value": "Pico Turquino",
+      "sub": "1,974 m — Sierra Maestra"
+    }
+  ],
+  "islands": [
+    "Havana",
+    "Santiago",
+    "Trinidad",
+    "Varadero",
+    "Cienfuegos"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of sea & mountains",
+    "animals": "Wild creatures of the tropics",
+    "culture": "Rhythm, rum & bright colours",
+    "history": "Pirates, sugar & revolution",
+    "wows": "Seven amazing Cuban surprises"
+  },
+  "geo": [
+    "Cuba is a long, thin island — 1,200 km from end to end but rarely more than 100 km wide. The Escambray and Sierra Maestra mountains rise in the south-east, draped in cloud forest, while the north coast opens onto calm turquoise sea.",
+    "Inland, broad plains were once carpeted in sugar cane. Cuba claims more than 4,000 smaller islets, plus spectacular limestone caves, underground rivers, and coral reefs teeming with fish."
+  ],
+  "animals": [
+    "Cuba's star creature is the bee hummingbird — the world's tiniest bird, barely bigger than a bumblebee, weighing less than a paperclip. The Cuban solenodon is a shrew-like mammal so ancient it scarcely changed since dinosaur times.",
+    "Flamingos wade in rosy flocks along the northern cays. Cuban crocodiles — stocky and bright-eyed — splash through freshwater swamps and are found nowhere else on Earth. Manatees, hawksbill turtles, and whale sharks patrol the surrounding sea."
+  ],
+  "culture": [
+    "Cubans are passionate about music — son, salsa, and rumba were all born here. Any street corner can turn into a dance floor. Baseball is the national sport; kids practise from the moment they can hold a bat.",
+    "Food is hearty: black beans and rice (moros y cristianos), fried plantain, and slow-roasted pork. Cigars hand-rolled in the Vuelta Abajo region are considered the finest on the planet."
+  ],
+  "history": [
+    "Cuba was home to the Taíno people before Columbus landed in 1492. Spain ruled for nearly 400 years, building wealth on sugar plantations worked by enslaved Africans — a legacy that shaped Cuban culture, food, and music.",
+    "After a fierce independence struggle, Cuba broke free from Spain in 1898. In 1959, Fidel Castro's revolution turned the island into a communist state. That system still governs today, making Cuba one of the world's most singular countries."
+  ],
+  "wows": [
+    "The bee hummingbird, only found in Cuba, is the world's smallest bird — lighter than a coin.",
+    "Cuba sends more doctors abroad to help other nations than almost any country on Earth.",
+    "Havana's 1950s American cars still run daily because imports were banned for decades.",
+    "Cuba was once the world's top sugar exporter, covering huge swaths of land in cane.",
+    "The Monte Iberia eleuth frog, found in Cuba, is one of the world's tiniest vertebrates.",
+    "A 1961 literacy campaign sent students island-wide, lifting the rate from 23% to 96%.",
+    "Cuba sits in a hurricane hotspot, yet its evacuation system is globally praised for saving lives."
+  ],
+  "myths": [
+    {
+      "myth": "All Cubans smoke cigars every day",
+      "fact": "Cigars are a famous export, but most Cubans rarely smoke them — they're expensive and made largely for overseas buyers."
+    },
+    {
+      "myth": "Cuba is frozen in the 1950s",
+      "fact": "Vintage cars are real, but Cuba also has modern hospitals, universities, biotech labs, and growing internet access."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Friend",
+      "jp": "Amigo",
+      "say": "ah-MEE-go"
+    },
+    {
+      "en": "Music",
+      "jp": "Música",
+      "say": "MOO-see-kah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cu-hero.jpg",
+      "alt": "Colourful vintage cars on a Havana street with colonial buildings",
+      "caption": "HAVANA MALECÓN — classic 1950s cars cruise Cuba's iconic seafront boulevard",
+      "credit": "Wikimedia Commons / Matthias Bethke"
+    },
+    "landmark": {
+      "src": "/photos/cu-landmark.jpg",
+      "alt": "El Capitolio building in Havana with its grand dome",
+      "caption": "EL CAPITOLIO — Havana's grand domed capitol, completed in 1929",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cu-animalA.jpg",
+      "alt": "Bee hummingbird perched on a thin branch showing its tiny size",
+      "caption": "BEE HUMMINGBIRD — the world's smallest bird, found only in Cuba",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cu-animalB.jpg",
+      "alt": "Cuban crocodile on a riverbank showing its distinctive bright markings",
+      "caption": "CUBAN CROCODILE — a jewel-patterned reptile found nowhere else on Earth",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

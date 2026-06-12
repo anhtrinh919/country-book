@@ -1,0 +1,163 @@
+{
+  "name": "MEXICO",
+  "nativeName": "México",
+  "romaji": "MÉXICO",
+  "tagline": "Land of sun, spice & story",
+  "region": "Northern America",
+  "coords": "23°N 102°W",
+  "fileNo": "042",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#251E14",
+    "faint": "#8A7350",
+    "line": "#DDD0AA",
+    "accent": "#006847",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/mx.svg",
+    "title": "Flag of México",
+    "note": "Green, white & red with eagle emblem",
+    "keyColor": "#006847",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mexico sits at the base of North America where snowy volcanoes loom over ancient pyramids and jungle hides jaguars. Home to the mighty Aztec Empire and a culture that turns remembering the dead into a joyful fiesta, Mexico gave the world chocolate, corn, and colour television.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Mexico City",
+      "sub": "Largest city in North America"
+    },
+    {
+      "label": "People",
+      "value": "~129 million",
+      "sub": "UN estimate 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Mexican peso",
+      "sub": "MXN, symbol $"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Plus 68 indigenous tongues"
+    },
+    {
+      "label": "Land area",
+      "value": "1,972,550 km²",
+      "sub": "13th largest country on Earth"
+    },
+    {
+      "label": "High point",
+      "value": "5,610 m",
+      "sub": "Citlaltépetl — a dormant volcano"
+    }
+  ],
+  "islands": [
+    "Baja Calif.",
+    "Yucatán",
+    "Oaxaca",
+    "Chiapas",
+    "Sonora"
+  ],
+  "islandsLabel": "BIG STATES:",
+  "sections": {
+    "geography": "Mountains, deserts & jungle",
+    "animals": "Creatures wild & wonderful",
+    "culture": "Fiestas, food & folklore",
+    "history": "Empires, conquest & freedom",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Mexico wears three faces: a spiny desert north, a towering mountain spine called the Sierra Madre, and thick tropical jungle in the south. Two great seas hug it on either side.",
+    "Mexico City sits 2,240 m above sea level — so high that visiting footballers struggle to breathe. The country also has 200 volcanoes, with 48 still active today."
+  ],
+  "animals": [
+    "The golden eagle on Mexico's flag is real — a bird that can spot a rabbit two kilometres away. Gentle whale sharks cruise Yucatán's reefs, big enough to swim alongside.",
+    "The axolotl is a smiling, feathery-gilled salamander that never fully grows up and can regrow lost limbs. It lives only in Xochimilco's canals inside Mexico City."
+  ],
+  "culture": [
+    "Every November, families build flower-covered altars and visit candlelit cemeteries to welcome ancestors' spirits for Día de los Muertos. It's joyful: marigolds, music, and favourite foods of loved ones.",
+    "Mariachi bands in silver-studded suits play trumpets and violins while street stalls sell tacos, tamales, and buttered corn. Mexican cuisine is a UNESCO world heritage."
+  ],
+  "history": [
+    "Long before Europeans arrived, the Aztec Empire ruled from Tenochtitlan, a glittering island city where Mexico City stands today. At its peak the city held around 300,000 people trading gold and cacao.",
+    "Spanish conquistador Hernán Cortés toppled the Aztecs in 1521. Priest Miguel Hidalgo rang his church bell in 1810 to spark revolt, and Mexico won independence in 1821."
+  ],
+  "wows": [
+    "Cholula's pyramid is the world's biggest by volume — so wide a whole church sits on top.",
+    "Mexico's 1940 colour-TV patent later helped NASA beam back colour images of Jupiter.",
+    "Mexico City is sinking into the ancient lake beneath it — some spots have dropped over 12 m in a century.",
+    "The Chihuahua is the world's tiniest dog breed, named after a Mexican state bigger than the UK.",
+    "Every winter, hundreds of millions of monarch butterflies fly 4,500 km from Canada to Mexico's forests.",
+    "The Americas' first printing press was set up in Mexico City in 1539, centuries before most neighbours.",
+    "The Maya and Aztecs drank chocolate as a bitter spiced liquid long before anyone added sugar."
+  ],
+  "myths": [
+    {
+      "myth": "Mexico is mostly desert",
+      "fact": "Rainforests, cloud forests, coral reefs, and fertile valleys cover far more of Mexico than its famous northern deserts."
+    },
+    {
+      "myth": "Day of the Dead is Halloween",
+      "fact": "Día de los Muertos (1–2 Nov) is a warm family reunion with ancestors — marigolds and favourite foods, not frights."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Friend",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    },
+    {
+      "en": "Let's go!",
+      "jp": "¡Vámonos!",
+      "say": "VAH-moh-nos"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mx-hero.jpg",
+      "alt": "Mexico City skyline along Paseo de la Reforma boulevard",
+      "caption": "MEXICO CITY — Paseo de la Reforma skyline, one of the Americas' great boulevards",
+      "credit": "Héctor García / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/mx-landmark.jpg",
+      "alt": "El Castillo pyramid at Chichen Itza under blue sky",
+      "caption": "CHICHEN ITZA — El Castillo, the Mayan pyramid and one of the New Seven Wonders",
+      "credit": "Ovedc / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mx-animalA.jpg",
+      "alt": "White axolotl with feathery pink gills in water",
+      "caption": "AXOLOTL — Mexico's smiling salamander that can regrow its own legs",
+      "credit": "LoKiLeCh / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/mx-animalB.jpg",
+      "alt": "Golden eagle close-up showing golden neck feathers",
+      "caption": "GOLDEN EAGLE — Mexico's national bird, on the flag since Aztec times",
+      "credit": "Böhringer Friedrich / CC BY-SA 2.5"
+    }
+  }
+}

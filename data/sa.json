@@ -1,0 +1,163 @@
+{
+  "name": "SAUDI ARABIA",
+  "nativeName": "السعود",
+  "romaji": "ARABIA AL-SAUDIA",
+  "tagline": "Land of sand, oil & faith",
+  "region": "Middle East",
+  "coords": "24°N 45°E",
+  "fileNo": "SA",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D9C8A0",
+    "ink": "#1E1A14",
+    "faint": "#8A7A5E",
+    "line": "#E0D0AE",
+    "accent": "#165A30",
+    "accent2": "#C8B400"
+  },
+  "flag": {
+    "assetPath": "/flags/sa.svg",
+    "title": "The Green Banner",
+    "note": "Green with white sword & shahada",
+    "keyColor": "#165A30",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saudi Arabia is a vast desert kingdom on the Arabian Peninsula, home to Islam's holiest cities — Mecca and Medina. Millions of pilgrims travel there yearly. Beneath golden dunes lie some of the world's greatest oil reserves. From ancient rock tombs to gleaming futuristic towers, this kingdom spans centuries in one glance.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Riyadh",
+      "sub": "Pop. ~7.8 million (2024)"
+    },
+    {
+      "label": "People",
+      "value": "35.3 million",
+      "sub": "Est. 2024, incl. expats"
+    },
+    {
+      "label": "Money",
+      "value": "Saudi Riyal",
+      "sub": "SAR; 1 USD ≈ 3.75 SAR"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Gulf Arabic dialect"
+    },
+    {
+      "label": "Land area",
+      "value": "2,150,000 km²",
+      "sub": "5th largest in Asia"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Jabal Sawda",
+      "sub": "3,015 m, Asir Mtns"
+    }
+  ],
+  "islands": [
+    "Riyadh",
+    "Jeddah",
+    "Mecca",
+    "Medina",
+    "Dammam"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A sea of sand & stone",
+    "animals": "Desert beasts & falcons",
+    "culture": "Faith, feast & tradition",
+    "history": "Tribes to kingdom",
+    "wows": "Jaw-dropping Saudi facts"
+  },
+  "geo": [
+    "Saudi Arabia is mostly a vast plateau of sand and gravel. The Rub' al Khali — the Empty Quarter — is the world's largest continuous sand desert, bigger than France. Towering dunes reach 250 metres high.",
+    "Along the west, the Hejaz and Asir ranges bring cooler air and even rain. The Red Sea coast hides coral reefs, while the east opens onto the shallow, oil-rich Persian Gulf."
+  ],
+  "animals": [
+    "The Arabian dromedary camel can go a week without water and carries huge loads across scorching desert. Arabian oryx, once extinct in the wild, were bred in captivity and released — herds now roam protected reserves.",
+    "Falconry has been practised here for 2,000 years; Saudi falconers train Peregrine and Saker falcons as prized partners. The rare Arabian leopard clings on in the Asir highlands."
+  ],
+  "culture": [
+    "Islam shapes daily life deeply — prayers happen five times a day, and Ramadan brings fasting from sunrise to sunset. During Eid, families feast on lamb, kabsa rice, and sweet dates.",
+    "Saudi hospitality is legendary: guests are offered cardamom-spiced qahwa coffee and dates on arrival. Traditional white thobe and black abaya are worn with pride alongside modern city fashion."
+  ],
+  "history": [
+    "Nomadic Bedouin tribes crossed these deserts for millennia, and Mecca became a great trading hub long before Islam. The Prophet Muhammad was born there around 570 CE, and the faith spread outward from this peninsula.",
+    "In 1932, King Abdulaziz ibn Saud united warring tribes into one kingdom. Just years later, vast oil fields were discovered, turning a desert realm into a global powerhouse almost overnight."
+  ],
+  "wows": [
+    "The Rub' al Khali is so large it could swallow all of France — and still have room left over.",
+    "Saudi Arabia has no permanent rivers — not a single one in the entire country.",
+    "The Hajj pilgrimage draws nearly 2 million visitors to Mecca in just one week.",
+    "Saudi Arabia holds roughly 17% of the world's proven oil reserves.",
+    "Al-Ula's Hegra has Nabataean rock tombs carved over 2,000 years ago.",
+    "NEOM's 'The Line' was dreamed up as a 170 km city built inside two mirrored walls with no roads or cars.",
+    "The Arabian oryx is thought to have inspired the legend of the unicorn."
+  ],
+  "myths": [
+    {
+      "myth": "\"It's just one endless flat desert\"",
+      "fact": "Saudi Arabia has mountains over 3,000 m in the west, lush terraced valleys in Asir, and a Red Sea coast with coral reefs — far more varied than most imagine."
+    },
+    {
+      "myth": "\"Non-Muslims can never visit Saudi\"",
+      "fact": "Saudi Arabia opened tourist visas in 2019; non-Muslims can explore ruins, deserts, and beaches freely — only Mecca and the holy centre of Medina stay restricted."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HAH-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sa-hero.jpg",
+      "alt": "Riyadh skyline at dusk viewed from Kingdom Tower",
+      "caption": "RIYADH SKYLINE — glittering towers rise from the desert at dusk",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sa-landmark.jpg",
+      "alt": "Aerial view of Masjid al-Haram mosque in Mecca",
+      "caption": "MASJID AL-HARAM — Islam's holiest mosque surrounds the Kaaba",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sa-animalA.jpg",
+      "alt": "Arabian dromedary camel portrait",
+      "caption": "ARABIAN CAMEL — survives a week in the desert without water",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sa-animalB.jpg",
+      "alt": "White Arabian oryx standing in desert",
+      "caption": "ARABIAN ORYX — once extinct in the wild, now roaming free again",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

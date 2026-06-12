@@ -1,0 +1,163 @@
+{
+  "name": "JAMAICA",
+  "nativeName": "JM",
+  "romaji": "JAMAICA",
+  "tagline": "Land of Wood & Water",
+  "region": "Caribbean",
+  "coords": "18°N 77°W",
+  "fileNo": "042",
+  "langName": "Patois",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CEBB99",
+    "ink": "#1E1A10",
+    "faint": "#8A7A52",
+    "line": "#DDD0B0",
+    "accent": "#000000",
+    "accent2": "#007B3E"
+  },
+  "flag": {
+    "assetPath": "/flags/jm.svg",
+    "title": "Flag of Jamaica",
+    "note": "Gold saltire; black & green triangles",
+    "keyColor": "#F9D23C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Jamaica is a sun-drenched Caribbean island smaller than Connecticut. The Taíno named it Xaymaca — \"land of wood and water\" — and both remain: rushing rivers, rainforests, dazzling beaches. It gave the world reggae, the fastest runners ever timed, and a mountain coffee so prized Japan buys most of the crop.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kingston",
+      "sub": "Largest city & harbour capital"
+    },
+    {
+      "label": "People",
+      "value": "2.83 million",
+      "sub": "Est. 2024, STATIN"
+    },
+    {
+      "label": "Money",
+      "value": "JMD $",
+      "sub": "Jamaican dollar"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Patois spoken daily"
+    },
+    {
+      "label": "Land area",
+      "value": "10,830 km²",
+      "sub": "World Bank 2023"
+    },
+    {
+      "label": "Top peak",
+      "value": "2,256 m",
+      "sub": "Blue Mountain Peak"
+    }
+  ],
+  "islands": [
+    "Kingston",
+    "Montego Bay",
+    "Ocho Rios",
+    "Negril",
+    "Port Antonio"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, rivers & beaches",
+    "animals": "Wild creatures of the island",
+    "culture": "Riddim, coffee & jerk spice",
+    "history": "From Xaymaca to independence",
+    "wows": "Jamaica surprises!"
+  },
+  "geo": [
+    "Jamaica has a rugged spine of mountains running east to west. The Blue Mountains soar to 2,256 m — high enough to brew clouds and grow some of Earth's most famous coffee. Dozens of rivers tumble down these slopes to the sea.",
+    "The coastline switches from dramatic cliffs to mangrove lagoons to long white beaches. The south is drier; the north is lush with rain. Hot springs bubble up, but there are no active volcanoes."
+  ],
+  "animals": [
+    "Jamaica's national bird is the Doctor Bird — a red-billed streamertail hummingbird found nowhere else. The male has two long tail feathers that stream behind him as he hovers, beating his wings 50 times per second to sip nectar.",
+    "The Jamaican iguana was thought extinct for 40 years until rediscovered in the Hellshire Hills in 1990. It grows nearly a metre long and is one of the world's rarest lizards. The gentle yellow boa, a non-venomous snake, also lives only here."
+  ],
+  "culture": [
+    "Jamaica invented reggae in the 1960s — a slow rhythmic beat carrying messages of peace. Bob Marley spread it worldwide, and UNESCO added reggae to its cultural heritage list in 2018. Music spills from open windows everywhere you go.",
+    "Jerk chicken — rubbed with scotch bonnet pepper and allspice, smoked over pimento wood — is the island's signature dish. Ackee and saltfish is the national breakfast. Blue Mountain coffee, grown in misty highland air, is among the world's most expensive cups."
+  ],
+  "history": [
+    "The Taíno arrived around 600 AD and named the island Xaymaca. Columbus landed in 1494; within a century the Taíno had vanished from European disease. The Spanish, then the British after 1655, ran vast sugar plantations worked by enslaved Africans.",
+    "Slavery ended in 1834, but real power stayed with plantation owners for another century. Jamaicans organised and voted for self-rule until, on 6 August 1962, the island became fully independent. Kingston still lights fireworks over the harbour each year."
+  ],
+  "wows": [
+    "Usain Bolt's 100 m world record of 9.58 s, set in 2009, still stands — no one has run faster.",
+    "Jamaica's flag is the only national flag containing neither red, white, nor blue.",
+    "About 70% of Jamaica's Blue Mountain coffee goes to Japan, selling for $50+ per pound.",
+    "In 1988 Jamaica's bobsled team entered the Calgary Winter Olympics — a tropical island in a sled race.",
+    "The Doctor Bird beats its wings ~50 times per second, hovering so still it looks frozen.",
+    "At 10,830 km², Jamaica is among the smallest nations ever to win Olympic sprint gold.",
+    "Dunn's River Falls flows over terraced steps directly onto a beach into the Caribbean Sea."
+  ],
+  "myths": [
+    {
+      "myth": "Everyone in Jamaica only speaks Patois",
+      "fact": "English is the official language used in schools, courts, and media. Patois is vibrant and beloved, but most Jamaicans switch comfortably between both every day."
+    },
+    {
+      "myth": "Jamaica is dangerous everywhere",
+      "fact": "Crime is concentrated in specific urban pockets. Beaches, mountain villages, and resort towns are peaceful, and millions visit safely every year."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Wah gwaan",
+      "say": "wah GWAAN"
+    },
+    {
+      "en": "I'm great",
+      "jp": "Mi irie",
+      "say": "mee EE-ree"
+    },
+    {
+      "en": "No problem",
+      "jp": "No problem",
+      "say": "no PROB-lem mon"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "One love",
+      "say": "wun LUV"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Bless up",
+      "say": "BLESS up"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/jm-hero.jpg",
+      "alt": "Tourists climbing the terraced limestone steps of Dunn's River Falls with water flowing around them",
+      "caption": "DUNN'S RIVER FALLS — Jamaica's living staircase pours into the Caribbean Sea",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "landmark": {
+      "src": "/photos/jm-landmark.jpg",
+      "alt": "Dunn's River Falls cascading over natural limestone terraces into a turquoise pool",
+      "caption": "DUNN'S RIVER FALLS — 55 m of natural terraces near Ocho Rios",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/jm-animalA.jpg",
+      "alt": "Red-billed streamertail hummingbird hovering showing iridescent green plumage",
+      "caption": "DOCTOR BIRD — Jamaica's national bird, found nowhere else on Earth",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/jm-animalB.jpg",
+      "alt": "Misty blue-green mountain ridges stretching to the horizon under soft clouds",
+      "caption": "BLUE MOUNTAINS — misty home of rare wildlife and Jamaica's prized coffee",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

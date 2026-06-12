@@ -1,0 +1,163 @@
+{
+  "name": "LEBANON",
+  "nativeName": "لبنان",
+  "romaji": "LUBNAN",
+  "tagline": "Cedar trees & ancient seas",
+  "region": "Middle East",
+  "coords": "33.85°N, 35.86°E",
+  "fileNo": "LB",
+  "langName": "Arabic",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2218",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#C0202E",
+    "accent2": "#2B6B3E"
+  },
+  "flag": {
+    "assetPath": "/flags/lb.svg",
+    "title": "Flag of Lebanon",
+    "note": "Red–white–red with a cedar tree",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Lebanon is a tiny Mediterranean country holding 6,000 years of history. Phoenicians launched ships from here carrying the world's first alphabet. Today Beirut blends Roman ruins and street-food lanes in one short walk. Snow peaks rise an hour from sunny beaches — ski and swim on the same winter day.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Beirut",
+      "sub": "City of seven rebirths"
+    },
+    {
+      "label": "People",
+      "value": "~5.8 million",
+      "sub": "World Bank est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "LBP pound",
+      "sub": "Lebanese pound"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "French widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "10,452 km²",
+      "sub": "Smallest country in Asia"
+    },
+    {
+      "label": "Top peak",
+      "value": "3,088 m",
+      "sub": "Qurnat as Sawda'"
+    }
+  ],
+  "islands": [
+    "BEIRUT",
+    "TRIPOLI",
+    "SIDON",
+    "BAALBEK",
+    "TYRE"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, coast & cedars",
+    "animals": "Wild peaks & turquoise sea",
+    "culture": "Feasts, faith & dabke dance",
+    "history": "6,000 years of living history",
+    "wows": "Jaw-dropping Lebanon facts"
+  },
+  "geo": [
+    "Lebanon runs in four north–south stripes: a sunny Mediterranean coast, the towering Mount Lebanon range, the flat Bekaa Valley, and the Anti-Lebanon mountains on the Syrian border. The Bekaa catches water from both ranges, making it Lebanon's bread-basket.",
+    "The Kadisha Valley, carved into the northern mountains, is a UNESCO World Heritage Site where monks sheltered in cliff-face caves for centuries. Cedar groves protected above 1,400 m shelter trees over a thousand years old."
+  ],
+  "animals": [
+    "The Lebanon cedar (Cedrus libani) is the living national emblem — ancient trees in the Shouf reserve spread wide flat canopies like giant green parasols. Striped hyenas, wild boar, and stone martens roam the mountain forests after dark.",
+    "Loggerhead sea turtles nest on Lebanon's sandy beaches each summer. Every autumn, soaring flocks of migrating raptors — honey buzzards and short-toed eagles — funnel through the mountain ridges in spectacular rivers of wings."
+  ],
+  "culture": [
+    "Lebanese food is famous worldwide: meze spreads of hummus, tabbouleh, and warm flatbread cover every table before the main dish arrives. Hospitality is a point of national pride — guests receive cardamom coffee the moment they walk through the door.",
+    "The dabke is a stomping line-dance performed at weddings, dancers linking arms and kicking in perfect unison. The Baalbeck International Festival — inside colossal Roman ruins — has hosted opera and jazz since 1956."
+  ],
+  "history": [
+    "Phoenicians founded trading cities here around 3000 BCE, spreading the world's first widely-used alphabet to Greece and beyond. Alexander the Great, Romans, Crusaders, and Ottomans each left temples, castles, or boulevards still walkable today.",
+    "Lebanon gained independence from France in 1943. A civil war (1975–1990) split Beirut along the Green Line, but the city rebuilt dramatically. Baalbek's Roman temples have stood through 2,000 years of earthquakes and invasions."
+  ],
+  "wows": [
+    "Phoenicians invented the 22-letter alphabet that became the root of Greek, Latin, and Arabic writing.",
+    "You can ski Mzaar in the morning and swim in the Mediterranean that same afternoon — just 50 km apart.",
+    "Baalbek's Trilithon foundation holds three stones each weighing up to 1,000 tonnes — moved without machines.",
+    "Byblos has been continuously inhabited since ~5000 BCE — one of the oldest cities on Earth.",
+    "The Lebanese diaspora of ~14 million worldwide is more than double the home population.",
+    "Tyre was built on an island; Alexander filled the sea with a km-long causeway in 332 BCE — still there.",
+    "Egyptian pharaohs sent entire fleets to Lebanon to buy cedar wood for royal ships and temples."
+  ],
+  "myths": [
+    {
+      "myth": "Lebanon is mostly desert",
+      "fact": "Lebanon gets heavy mountain snow from December to April. Ski resorts, lush valleys, and reliable rainfall make it one of the greenest countries in the Middle East."
+    },
+    {
+      "myth": "Lebanese is just standard Arabic",
+      "fact": "Lebanese Arabic naturally blends Arabic, French, and English mid-sentence. This code-switching sounds unlike any other Arabic dialect spoken elsewhere."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "Mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lb-hero.jpg",
+      "alt": "Beirut waterfront at night with lit skyscrapers reflecting in the sea",
+      "caption": "BEIRUT WATERFRONT — the corniche glitters after dark",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lb-landmark.jpg",
+      "alt": "Towering Roman columns of the Temple of Bacchus at Baalbek against a blue sky",
+      "caption": "BAALBEK — Temple of Bacchus, finest Roman ruin in the Middle East",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lb-animalA.jpg",
+      "alt": "Ancient Lebanese cedar trees with broad flat canopies in a mountain grove",
+      "caption": "CEDRUS LIBANI — thousand-year-old cedars in the Bcharre grove",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lb-animalB.jpg",
+      "alt": "A loggerhead sea turtle gliding through clear blue Mediterranean water",
+      "caption": "LOGGERHEAD TURTLE — nests on Lebanon's beaches each summer",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

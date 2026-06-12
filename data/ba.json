@@ -1,0 +1,163 @@
+{
+  "name": "BOSNIA",
+  "nativeName": "BA",
+  "romaji": "BOSNA",
+  "tagline": "Where East meets West",
+  "region": "Balkans, Southeast Europe",
+  "coords": "44.0°N, 17.9°E",
+  "fileNo": "048",
+  "langName": "Bosnian",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B89A",
+    "ink": "#272018",
+    "faint": "#8B7355",
+    "line": "#DDD0B5",
+    "accent": "#003DA5",
+    "accent2": "#FDCC00"
+  },
+  "flag": {
+    "assetPath": "/flags/ba.svg",
+    "title": "Bosnia & Herzeg.",
+    "note": "Blue field, yellow triangle, white stars",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bosnia and Herzegovina is a mountain country in the Balkans where minarets and church steeples share the same skyline. Ottoman bazaars, coffee pots, and stone bridges sit alongside Austro-Hungarian town halls. Its rivers run emerald-green, its forests hide bears and wolves, and its capital Sarajevo once sparked World War One.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Sarajevo",
+      "sub": "population ~275,000"
+    },
+    {
+      "label": "People",
+      "value": "~3.2 million",
+      "sub": "est. 2024, declining"
+    },
+    {
+      "label": "Money",
+      "value": "Mark (KM)",
+      "sub": "Convertible Mark (BAM)"
+    },
+    {
+      "label": "Language",
+      "value": "Bosnian",
+      "sub": "also Serbian & Croatian"
+    },
+    {
+      "label": "Land area",
+      "value": "51,197 km²",
+      "sub": "slightly smaller than Croatia"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Maglić 2,386m",
+      "sub": "rocky peak near Montenegro"
+    }
+  ],
+  "islands": [
+    "Sarajevo",
+    "Mostar",
+    "Banja Luka",
+    "Tuzla",
+    "Neum"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, rivers & wild woods",
+    "animals": "Bears, lynx & cave creatures",
+    "culture": "Coffee, ćevapi & two empires",
+    "history": "Empires, bridges & one bullet",
+    "wows": "7 jaw-dropping Bosnia facts"
+  },
+  "geo": [
+    "Bosnia is almost entirely mountain and forest — the rugged Dinaric Alps cover most of the country, cut by emerald rivers like the Neretva and the Una. Snow caps the peaks all winter and melts into rapids perfect for rafting.",
+    "The south is drier Herzegovina, growing grapes and figs. Bosnia has only 20 km of Adriatic coast — the shortest sea-front of any European country — and the port of Neum sits in that tiny gap."
+  ],
+  "animals": [
+    "Bosnia's forests are one of the last places in Europe where bears, wolves, and lynx all live wild together. About 1,000 brown bears roam the mountains, and the Eurasian lynx — Europe's largest wild cat — pads silently through the pines.",
+    "Underground is equally wild: Vjetrenica Cave holds over 200 animal species, including blind shrimps and beetles found nowhere else. Biologists call it one of the most biodiverse caves on Earth."
+  ],
+  "culture": [
+    "Coffee here is a ceremony. Finely ground coffee is boiled in a copper džezva pot, poured into a tiny fildžan cup, and sipped through a dipped sugar cube with cold water. Never call it 'Turkish coffee' — Bosnians will gently correct you!",
+    "The favourite street food is ćevapi: small grilled meat rolls in fluffy flatbread with raw onion. In old Sarajevo, a mosque, Catholic church, Orthodox church, and synagogue all stand within a few minutes' walk."
+  ],
+  "history": [
+    "Bosnia was Ottoman territory from 1463 for over 400 years, then Austrian from 1878. On 28 June 1914, Gavrilo Princip shot Archduke Franz Ferdinand on a Sarajevo street — one bullet that set off World War One.",
+    "A brutal war tore the country apart in 1992–1995. Sarajevo endured a 1,425-day siege. Peace came, the Stari Most bridge was rebuilt stone by stone, and visitors slowly returned to this welcoming land."
+  ],
+  "wows": [
+    "Sarajevo hosted the 1984 Winter Olympics — the only Winter Games ever held in a communist country before 2022.",
+    "Stari Most bridge stood 427 years, was destroyed in 1993, then rebuilt and reopened in 2004.",
+    "Bosnia's entire Adriatic coastline is just 20 km — the shortest sea-front of any European country.",
+    "Perućica in Sutjeska National Park is one of just two primeval forests left in all of Europe.",
+    "During the siege, Sarajevans dug a secret tunnel under the UN airport to smuggle in food and fuel.",
+    "Vjetrenica Cave contains 200+ animal species, many found absolutely nowhere else on Earth.",
+    "Bosnia ranks top-10 worldwide for coffee consumption and invented its own unique brewing style."
+  ],
+  "myths": [
+    {
+      "myth": "Bosnia is still a war zone",
+      "fact": "The war ended in 1995 — 30 years ago. Sarajevo and Mostar are lively tourist cities with UNESCO sites. Nearly 2 million visitors arrived in 2024."
+    },
+    {
+      "myth": "Bosnian coffee is Turkish coffee",
+      "fact": "Bosnians insist it is different: no sugar added while brewing, grounds settle in the cup, and it is sipped slowly through a dipped sugar cube — a ritual all its own."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "Please",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Good day",
+      "jp": "Dobar dan",
+      "say": "DOH-bar dahn"
+    },
+    {
+      "en": "Old bridge",
+      "jp": "Stari most",
+      "say": "STAH-ree most"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ba-hero.jpg",
+      "alt": "Panoramic view of Sarajevo city nestled in a valley surrounded by green hills",
+      "caption": "SARAJEVO — the capital spreads across a valley ringed by forested hills",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ba-landmark.jpg",
+      "alt": "The iconic Stari Most stone arch bridge over the green Neretva river in Mostar",
+      "caption": "STARI MOST — the rebuilt 16th-century bridge arches over the Neretva river",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ba-animalA.jpg",
+      "alt": "A large brown bear standing in a natural forest setting",
+      "caption": "BROWN BEAR — around 1,000 roam Bosnia's mountain forests",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ba-animalB.jpg",
+      "alt": "A Eurasian lynx with tufted ears resting in a forest",
+      "caption": "EURASIAN LYNX — Europe's largest wild cat prowls Bosnia's pines",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "GREECE",
+  "nativeName": "Ελλάς",
+  "romaji": "ELLAS",
+  "tagline": "Where myths meet the sea",
+  "region": "Southern Europe / Balkans",
+  "coords": "39°N 22°E",
+  "fileNo": "036",
+  "langName": "Greek",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EDD8",
+    "dot": "#C9BFA0",
+    "ink": "#1E1B16",
+    "faint": "#8A7A5E",
+    "line": "#DACCAE",
+    "accent": "#0D5EAF",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/gr.svg",
+    "title": "Hellenic Flag",
+    "note": "Nine blue & white stripes + white cross",
+    "keyColor": "#0D5EAF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Greece dangles into the Mediterranean where ancient temples crown rocky hills and dolphins leap beside ferries. It gave the world the Olympics, democracy, and the alphabet. Thousands of islands dot three seas, and nowhere in the country is more than 137 km from sparkling water.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Athens",
+      "sub": "Home to the Acropolis"
+    },
+    {
+      "label": "People",
+      "value": "10.4 million",
+      "sub": "Census 2021"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Since 2001"
+    },
+    {
+      "label": "Language",
+      "value": "Greek",
+      "sub": "One of world's oldest"
+    },
+    {
+      "label": "Land area",
+      "value": "131,957 km²",
+      "sub": "About half of UK"
+    },
+    {
+      "label": "High point",
+      "value": "2,917 m",
+      "sub": "Mt Olympus — Mytikas"
+    }
+  ],
+  "islands": [
+    "Athens",
+    "Thessaloniki",
+    "Crete",
+    "Rhodes",
+    "Corfu"
+  ],
+  "islandsLabel": "MAIN ISLANDS & CITIES:",
+  "sections": {
+    "geography": "Land of islands & fire",
+    "animals": "Wild seas, wild creatures",
+    "culture": "Feasts, gods & blue domes",
+    "history": "Cradle of civilisation",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Greece dangles like a thumb into the Mediterranean, ringed by the Aegean, Ionian, and Cretan seas. Eighty per cent is mountain — the Pindus range runs like a spine — yet no point is farther than 137 km from the coast.",
+    "The country has up to 6,000 islands, though only around 227 are inhabited. Its coastline stretches 13,676 km — 11th longest on Earth — weaving around sea-stacks, coves, and the rim of the ancient Santorini volcano."
+  ],
+  "animals": [
+    "The Mediterranean monk seal is one of Earth's rarest mammals — about 900 remain, and a large share live in Greek caves and rocky coastlines. The Sporades islands are their last great stronghold.",
+    "Every summer, loggerhead turtles (Caretta caretta) haul ashore on Zakynthos beach to lay their eggs — the same beach their great-grandmothers used. Greece hosts over 3,000 nests a year, the most in the Mediterranean."
+  ],
+  "culture": [
+    "Easter beats Christmas in Greece. At midnight on Holy Saturday, church bells ring, fireworks crack, and the priest shouts 'Christos Anesti!' — Christ is risen! Everyone kisses, candles glow, and the fast breaks with magiritsa soup.",
+    "A taverna meal stretches for hours: small plates of mezedes, bread dipped in thick olive oil, long conversations. Greeks consume more olive oil per person than any other nation on Earth — the highest per-capita rate in the world."
+  ],
+  "history": [
+    "Ancient Athens invented democracy around 508 BC, letting male citizens vote in a public assembly. The same city produced Socrates, Plato, and Aristotle, whose ideas still fill philosophy classrooms worldwide.",
+    "After centuries under Byzantine and then Ottoman rule, Greece won independence in an eight-year war. Each year on 25 March — Independence Day — parades and blue-and-white flags fill every town square."
+  ],
+  "wows": [
+    "Greek has been spoken and written continuously for over 3,000 years.",
+    "Greece has more archaeological museums than any other country on Earth.",
+    "The first Olympic Games were held in Olympia in 776 BC to honour the god Zeus.",
+    "No point in Greece is farther than 137 km from the sea.",
+    "The word 'alphabet' comes from Greek letters alpha and beta.",
+    "Greeks work the longest hours in the EU — around 1,900 hours per worker each year.",
+    "Santorini sits on a collapsed giant volcano whose eruption (~1600 BC) may have inspired the Atlantis legend."
+  ],
+  "myths": [
+    {
+      "myth": "Pandora opened a box of evil",
+      "fact": "She actually opened a large clay jar (pithos). The word 'box' is a 16th-century mistranslation by scholar Erasmus that stuck for 500 years."
+    },
+    {
+      "myth": "All Greeks are relaxed and slow",
+      "fact": "Greeks work the longest hours of any EU nation — around 1,900 hours a year — placing them at the very top of Europe's hardest-working countries."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Γεια σας",
+      "say": "YAH-sahs"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ευχαριστώ",
+      "say": "ef-kha-ree-STO"
+    },
+    {
+      "en": "Please",
+      "jp": "Παρακαλώ",
+      "say": "pa-ra-ka-LO"
+    },
+    {
+      "en": "Excuse me",
+      "jp": "Συγγνώμη",
+      "say": "seeg-NO-mee"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Καλημέρα",
+      "say": "ka-lee-MEH-ra"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gr-hero.jpg",
+      "alt": "White-washed Oia village on Santorini's volcanic caldera cliff edge",
+      "caption": "SANTORINI, OIA — clifftop villages spill down the volcanic rim to the Aegean Sea",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/gr-landmark.jpg",
+      "alt": "The Parthenon temple on the Acropolis hill above Athens",
+      "caption": "PARTHENON, ATHENS — 2,500-year-old temple crowning the rocky Acropolis",
+      "credit": "Yair Haklai, CC BY-SA 3.0, Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gr-animalA.jpg",
+      "alt": "Mediterranean monk seal resting on rocks near the water",
+      "caption": "MEDITERRANEAN MONK SEAL — one of Earth's rarest mammals, found mostly in Greek waters",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/gr-animalB.jpg",
+      "alt": "Loggerhead sea turtle swimming above a sandy seabed",
+      "caption": "LOGGERHEAD TURTLE — thousands nest on Zakynthos beach each summer",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    }
+  }
+}

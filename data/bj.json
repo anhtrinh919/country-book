@@ -1,0 +1,163 @@
+{
+  "name": "BENIN",
+  "nativeName": "BJ",
+  "romaji": "BÉNIN",
+  "tagline": "Birthplace of Voodoo",
+  "region": "West Africa",
+  "coords": "9.31°N, 2.32°E",
+  "fileNo": "047",
+  "langName": "Fon",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CDBF9A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#008751",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/bj.svg",
+    "title": "Flag of Benin",
+    "note": "Green hoist, yellow & red horizontal bands",
+    "keyColor": "#008751",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Benin is a slim finger of land in West Africa where ancient kingdoms made bronze sculptures now in world museums. It is the homeland of Vodun — a living religion of spirits and ancestors, not movie-monster magic. The south holds lagoon villages built on stilts; the north opens to dry savannah roamed by elephants.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Porto-Novo",
+      "sub": "Cotonou is the biggest city"
+    },
+    {
+      "label": "People",
+      "value": "13.7 million",
+      "sub": "Est. 2024, growing quickly"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared West African currency"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "Plus Fon, Yoruba & 50+ tongues"
+    },
+    {
+      "label": "Land area",
+      "value": "112,622 km²",
+      "sub": "About the size of Pennsylvania"
+    },
+    {
+      "label": "High point",
+      "value": "Mont Sokbaro",
+      "sub": "658 m — a wooded hill up north"
+    }
+  ],
+  "islands": [
+    "Cotonou",
+    "Porto-Novo",
+    "Abomey",
+    "Parakou",
+    "Natitingou"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Lagoons, savannah & beyond",
+    "animals": "Wild things of Benin",
+    "culture": "Kingdoms, drums & spirits",
+    "history": "From empire to independence",
+    "wows": "7 things that'll surprise you"
+  },
+  "geo": [
+    "Benin is long and narrow — only 125 km wide at its coast but stretching 700 km north. The south has sandy beaches, mangrove swamps, and Lake Nokoué, where the village of Ganvié sits entirely on stilts above the water.",
+    "Moving north, forested hills rise to dry savannah and Pendjari National Park — one of West Africa's finest reserves, where lions roam free alongside elephants and hippos."
+  ],
+  "animals": [
+    "Benin's star animal is the African elephant — Pendjari Park shelters over 2,000 of them, the largest population in West Africa. Lion prides stalk tall grass, and rare African wild dogs patrol in packs.",
+    "Waterways teem with hippos and Nile crocodiles. Rare manatees glide through coastal lagoons. Colourful bee-eaters and giant hornbills call through the forest canopy at dawn."
+  ],
+  "culture": [
+    "Benin is the world's birthplace of Vodun — a religion honouring spirits of nature and ancestors. Every January, Vodun Day fills Ouidah's streets with drummers, vivid costumed dancers, and elaborate ceremonies.",
+    "Dahomey's all-female Agojie warriors inspired the film 'The Woman King'. Colourful appliqué tapestries still stitched in Abomey retell those battle stories panel by panel."
+  ],
+  "history": [
+    "The Kingdom of Dahomey rose around 1600 CE, growing rich through trade — tragically including the slave trade through Ouidah's 'Door of No Return'. Its kings commanded vast armies and commissioned extraordinary bronze artworks.",
+    "France colonised the region in the 1890s. Independence came 1 August 1960. After political upheaval the country renamed itself Benin in 1975 and built one of West Africa's more stable democracies."
+  ],
+  "wows": [
+    "Ouidah's 'Door of No Return' beach is where ~1 million enslaved people were shipped to the Americas.",
+    "Ganvié on Lake Nokoué holds 30,000 people who travel everywhere by canoe — even the market floats.",
+    "Dahomey's Agojie female warriors were so fierce that European soldiers wrote home in awe of their bravery.",
+    "10 January is a national Vodun holiday — Benin is the only country in the world to honour it this way.",
+    "Abomey's royal palaces are UNESCO-listed, with bas-relief walls that tell history like a giant comic strip.",
+    "Some of Benin's baobab trees are over 1,000 years old — locals call them 'the tree that drinks the sky'.",
+    "Pendjari is the last stronghold of the West African lion; fewer than 400 survive in the whole region."
+  ],
+  "myths": [
+    {
+      "myth": "Voodoo is all about zombie curses",
+      "fact": "Vodun is a sophisticated ancestral religion with priests, shrines, and ethical codes — Hollywood invented the zombie curse for horror films."
+    },
+    {
+      "myth": "Benin is part of Nigeria",
+      "fact": "Benin is a separate country west of Nigeria; the name comes from the Bight of Benin coastal bay, not Nigeria's Benin City."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Kudo",
+      "say": "koo-DOH"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Àgàn",
+      "say": "ah-GAHN"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ɛɛ",
+      "say": "EH-eh"
+    },
+    {
+      "en": "Water",
+      "jp": "Tɔ",
+      "say": "TAW"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Àwù",
+      "say": "ah-WOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bj-hero.jpg",
+      "alt": "Ganvié stilt village on Lake Nokoué at sunrise",
+      "caption": "GANVIÉ — the 'Venice of Africa', 30,000 residents live entirely on water",
+      "credit": "Wikimedia Commons / Julien Harneis"
+    },
+    "landmark": {
+      "src": "/photos/bj-landmark.jpg",
+      "alt": "The Door of No Return monument on the beach at Ouidah",
+      "caption": "DOOR OF NO RETURN — Ouidah's memorial to the transatlantic slave trade",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bj-animalA.jpg",
+      "alt": "African elephant with raised trunk in savannah",
+      "caption": "AFRICAN ELEPHANT — Pendjari shelters West Africa's largest elephant herd",
+      "credit": "Wikimedia Commons / Muhammad Mahdi Karim"
+    },
+    "animalB": {
+      "src": "/photos/bj-animalB.jpg",
+      "alt": "Hippopotamus resting in a river",
+      "caption": "HIPPOPOTAMUS — thrives in Benin's northern rivers and lake shores",
+      "credit": "Wikimedia Commons / Nevit Dilmen"
+    }
+  }
+}

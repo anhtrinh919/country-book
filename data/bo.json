@@ -1,0 +1,163 @@
+{
+  "name": "BOLIVIA",
+  "nativeName": "BO",
+  "romaji": "BOLIVIA",
+  "tagline": "Roof of the World",
+  "region": "South America",
+  "coords": "-16.5°S, 68.1°W",
+  "fileNo": "038",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA96",
+    "ink": "#2B2118",
+    "faint": "#8B7355",
+    "line": "#DDD0B0",
+    "accent": "#D52B1E",
+    "accent2": "#F4E400"
+  },
+  "flag": {
+    "assetPath": "/flags/bo.svg",
+    "title": "Flag of Bolivia",
+    "note": "Red, yellow & green — coat of arms",
+    "keyColor": "#D52B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bolivia sits in the heart of South America, so high up that its biggest city leaves you breathless just walking to the shops. Snowcapped volcanoes, the world's largest salt flat, and a lake that glitters like a mirror in the sky make this one of Earth's most jaw-dropping places. Over 30 indigenous peoples call it home.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Sucre",
+      "sub": "constitutional; La Paz is govt"
+    },
+    {
+      "label": "People",
+      "value": "12.3 million",
+      "sub": "est. 2024 — 40%+ indigenous"
+    },
+    {
+      "label": "Money",
+      "value": "Boliviano",
+      "sub": "BOB — ~7 per US dollar"
+    },
+    {
+      "label": "Language",
+      "value": "37 official",
+      "sub": "Spanish, Quechua & Aymara"
+    },
+    {
+      "label": "Land area",
+      "value": "1,098,581 km²",
+      "sub": "larger than Egypt, landlocked"
+    },
+    {
+      "label": "Top peak",
+      "value": "6,542 m",
+      "sub": "Nevado Sajama — dormant volcano"
+    }
+  ],
+  "islands": [
+    "La Paz",
+    "Santa Cruz",
+    "Cochabamba",
+    "Sucre",
+    "Potosí"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Sky-high plains & jungle",
+    "animals": "Flamingos, llamas & big cats",
+    "culture": "Festivals, hats & old mines",
+    "history": "Empires, silver & independence",
+    "wows": "7 reasons Bolivia blows minds"
+  },
+  "geo": [
+    "Bolivia has three worlds stacked on top of each other. The Altiplano is a vast freezing plateau above 3,600 m — higher than most European mountains. Lake Titicaca glitters blue at 3,810 m, making it the world's highest navigable lake.",
+    "Below the plateau, the Yungas valleys tumble steeply into tropical forest. The eastern lowlands drain into the Amazon. Bolivia has no coast — it lost sea access to Chile in 1884 and keeps a navy that trains on Lake Titicaca."
+  ],
+  "animals": [
+    "The Altiplano is flamingo country. Three species wade in pink flocks on high salt lakes. Llamas and their fluffy cousins vicuñas roam in herds, and the Andean condor soars on thermals — wingspan stretching a full 3 m.",
+    "Drop into the lowlands and jaguars stalk the Pantanal, giant river otters fish oxbow lakes, and giant anteaters shuffle through the savannah. Bolivia's rainforests shelter more bird species than all of North America combined."
+  ],
+  "culture": [
+    "Bolivia's indigenous heritage shapes everything. Aymara and Quechua women wear layered skirts called polleras and small bowler hats — a British railway-worker fashion the women brilliantly made their own. Handwoven textiles called aguayos carry patterns encoding family history.",
+    "The Oruro Carnival fills streets with 50,000 dancers in towering devil masks performing the Diablada — a UNESCO-recognised battle dance between good and evil. Food centres on quinoa, potato (the Andes gave the world the potato), and baked salteñas pastries."
+  ],
+  "history": [
+    "Humans have lived on the Altiplano for 10,000 years. The Tiwanaku people built huge stone temples near Lake Titicaca around 400 CE. By the 1400s the Inca Empire swept through, mining silver at Potosí's sacred Cerro Rico mountain.",
+    "Spanish conquistadors arrived in 1532, and Potosí's silver mines powered the entire Spanish Empire for 300 years. Bolivia declared independence in 1825, named for liberator Simón Bolívar. In 2006 Evo Morales became the first indigenous president."
+  ],
+  "wows": [
+    "Bolivia has 37 official languages — more than any other country.",
+    "The Salar de Uyuni covers 10,582 km² and becomes a perfect mirror after rain.",
+    "La Paz's cable-car network is the world's longest urban gondola system.",
+    "Potosí was once larger than London, fuelled entirely by silver from one mountain.",
+    "Bolivia's landlocked navy keeps 173 vessels ready on Lake Titicaca.",
+    "A hotel on the Uyuni salt flat is built entirely of salt bricks, including the furniture.",
+    "Bolivia's rainforest holds more bird species than the whole North American continent."
+  ],
+  "myths": [
+    {
+      "myth": "La Paz is Bolivia's only capital",
+      "fact": "Bolivia has two capitals: Sucre is the constitutional seat where the Supreme Court sits; La Paz is the government seat — a quirk from a 19th-century civil war."
+    },
+    {
+      "myth": "Bolivia is too poor to be worth visiting",
+      "fact": "Bolivia had South America's fastest-growing economy for over a decade and offers stunning nature, vibrant cities, and a world-class cable-car transit system."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-la"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Hermoso",
+      "say": "er-MOH-so"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bo-hero.jpg",
+      "alt": "Mirror-like reflection on the Salar de Uyuni salt flat at sunset",
+      "caption": "SALAR DE UYUNI — the world's largest mirror after rain, Bolivia",
+      "credit": "Luca Galuzzi / Wikimedia Commons CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/bo-landmark.jpg",
+      "alt": "Deep blue Lake Titicaca under a bright Andean sky",
+      "caption": "LAKE TITICACA — world's highest navigable lake at 3,810 m",
+      "credit": "Håkan Svensson / Wikimedia CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/bo-animalA.jpg",
+      "alt": "Pink flamingos wading in red-tinged Laguna Colorada",
+      "caption": "FLAMINGOS — thousands wade Bolivia's vivid high-altitude salt lakes",
+      "credit": "Luca Galuzzi / Wikimedia CC BY-SA 2.5"
+    },
+    "animalB": {
+      "src": "/photos/bo-animalB.jpg",
+      "alt": "Vicuña standing on the open Altiplano with mountains behind",
+      "caption": "VICUÑA — wild cousin of the llama on Bolivia's high plateau",
+      "credit": "Christian Mehlführer / Wikimedia CC BY 2.5"
+    }
+  }
+}

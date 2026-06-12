@@ -1,0 +1,163 @@
+{
+  "name": "SIERRA LEONE",
+  "nativeName": "SL",
+  "romaji": "SALONE",
+  "tagline": "Land of Lions & Diamonds",
+  "region": "West Africa",
+  "coords": "8.5°N, 11.8°W",
+  "fileNo": "088",
+  "langName": "Krio",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA8",
+    "ink": "#252018",
+    "faint": "#887A5C",
+    "line": "#DDD4BC",
+    "accent": "#1A7A3C",
+    "accent2": "#1A4FA0"
+  },
+  "flag": {
+    "assetPath": "/flags/sl.svg",
+    "title": "Green, White, Blue",
+    "note": "Adopted 1961 at independence",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Sierra Leone sits on West Africa's coast where rainforests meet dazzling Atlantic beaches. Freetown, the capital, was founded by freed slaves in 1787 — one of history's most extraordinary city stories. Beneath the red soil lie some of the world's finest diamonds, while chimpanzees swing through jungle canopies above turquoise coves.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Freetown",
+      "sub": "Home to Africa's deepest harbour"
+    },
+    {
+      "label": "People",
+      "value": "8.46 million",
+      "sub": "2023 census; median age just 19"
+    },
+    {
+      "label": "Money",
+      "value": "Leone (SLE)",
+      "sub": "Issued by Bank of Sierra Leone"
+    },
+    {
+      "label": "Language",
+      "value": "English / Krio",
+      "sub": "Krio spoken by 96% of people"
+    },
+    {
+      "label": "Land area",
+      "value": "73,252 km²",
+      "sub": "About the size of Scotland"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "1,948 m",
+      "sub": "Mt. Bintumani — King of Mountains"
+    }
+  ],
+  "islands": [
+    "Freetown",
+    "Bo",
+    "Kenema",
+    "Makeni",
+    "Koidu"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Beaches, jungle & harbour",
+    "animals": "Chimps, hippos & wild things",
+    "culture": "Krio rhythms & rice bowls",
+    "history": "Freed slaves & lion mountains",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Sierra Leone packs everything in tightly — thick rainforests in the east, rolling hills in the north crowned by Mount Bintumani, and a coast fringed with white-sand beaches that many travellers call the finest in West Africa.",
+    "Freetown sits on one of the world's largest natural deep-water harbours, sheltering ships for centuries. The Gola Rainforest in the south-east is one of the last fragments of the ancient Upper Guinea forest, a biodiversity hotspot millions of years old."
+  ],
+  "animals": [
+    "Sierra Leone's forests shelter over 5,500 western chimpanzees — the second-largest wild population in the world. The Tacugama Sanctuary near Freetown rescues orphaned chimps and carefully returns them to the wild.",
+    "The tiny pygmy hippopotamus hides along the Moa River — just 200 kg, it lives alone in dense undergrowth unlike its giant cousin. The Gola malimbe, a brilliant red-and-black weaver bird, is found almost nowhere else on Earth."
+  ],
+  "culture": [
+    "Krio — a creole born from English, African languages, and Caribbean speech — ties all of Sierra Leone's ethnic groups together. Music fills Freetown's streets: Afrobeat, reggae, and palm-wine guitar blended into something uniquely Salone.",
+    "Rice anchors every meal — jollof rice with stew, groundnut soup over white rice, or slow-cooked cassava-leaf sauce. The August Freetown Carnival fills streets with colour, drumming, and dancing long into the warm night."
+  ],
+  "history": [
+    "In 1787 British abolitionists settled freed Black people on a peninsula called 'Province of Freedom' — the seed of Freetown. Thousands more freed Africans arrived after Britain banned the slave trade in 1807, making it a great city of liberty.",
+    "Diamonds found in 1930 brought wealth and conflict. A brutal civil war (1991–2002) funded by 'blood diamonds' killed 50,000 people. Since peace returned Sierra Leone has rebuilt with remarkable spirit, welcoming visitors to its beaches."
+  ],
+  "wows": [
+    "A 969-carat diamond — the Star of Sierra Leone (1972) — is the largest alluvial diamond ever found.",
+    "Freetown's harbour is so deep that the world's largest ships anchor without touching the seabed.",
+    "A 300-year-old Cotton Tree in the city centre saw freed slaves pray beneath it in 1792.",
+    "Krio sounds so close to English that many native speakers can partially understand it.",
+    "Tacugama Sanctuary has rehabilitated 100+ chimps and returned some to wild forest.",
+    "Tokeh and River No. 2 Beach are listed among Africa's most beautiful — yet barely visited.",
+    "Half of Sierra Leone's population is under 19 — one of the world's youngest nations."
+  ],
+  "myths": [
+    {
+      "myth": "\"Sierra Leone is still dangerous\"",
+      "fact": "The civil war ended in 2002. Freetown is a lively, welcoming city with a growing tourism scene. Check current travel advice as with any destination."
+    },
+    {
+      "myth": "\"Named after real lions\"",
+      "fact": "Portuguese explorer Pedro de Sintra named it 'Serra Lyoa' in 1462 for thunder that rumbled like a lion's roar around the hills — not for any lions."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Kushɛ",
+      "say": "koo-SHEH"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tɛnki",
+      "say": "TEN-kee"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Aw di bodi?",
+      "say": "aw di BOH-di"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "A de go",
+      "say": "ah day GOH"
+    },
+    {
+      "en": "No problem",
+      "jp": "Nɔ bad",
+      "say": "nor BAD"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sl-hero.jpg",
+      "alt": "Aerial view of Freetown harbour and peninsula",
+      "caption": "FREETOWN — aerial view over one of Africa's largest natural harbours",
+      "credit": "David Hond / Wikimedia Commons CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/sl-landmark.jpg",
+      "alt": "Lumley Beach in Freetown, Sierra Leone",
+      "caption": "LUMLEY BEACH — golden Atlantic sands minutes from the city centre",
+      "credit": "Hussein Kefel / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sl-animalA.jpg",
+      "alt": "Western chimpanzee portrait in West Africa",
+      "caption": "WESTERN CHIMPANZEE — Sierra Leone holds the world's 2nd-largest wild population",
+      "credit": "Ben Costamagna / iNaturalist CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/sl-animalB.jpg",
+      "alt": "Pygmy hippopotamus at Bristol Zoo",
+      "caption": "PYGMY HIPPOPOTAMUS — the shy mini-hippo hides in Sierra Leone's rivers",
+      "credit": "Adrian Pingstone / Wikimedia Commons PD"
+    }
+  }
+}

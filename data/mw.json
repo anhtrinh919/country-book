@@ -1,0 +1,163 @@
+{
+  "name": "MALAWI",
+  "nativeName": "MW",
+  "romaji": "MALAWI",
+  "tagline": "Warm Heart of Africa",
+  "region": "Southern Africa",
+  "coords": "13.9°S, 33.7°E",
+  "fileNo": "082",
+  "langName": "Chichewa",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#1E1A14",
+    "faint": "#7A6A50",
+    "line": "#DDD0B8",
+    "accent": "#1A1A1A",
+    "accent2": "#C0272D"
+  },
+  "flag": {
+    "assetPath": "/flags/mw.svg",
+    "title": "Flag of Malawi",
+    "note": "Black, red & green; rising sun added 2010",
+    "keyColor": "#C0272D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Malawi is a small landlocked country in Southern Africa where one-fifth of the land is water. The vast Lake Malawi holds more fish species than any other lake on Earth. Despite being one of the world's poorest nations, Malawi is famous for its smiling, welcoming people — earning the nickname the Warm Heart of Africa.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Lilongwe",
+      "sub": "Since independence 1964"
+    },
+    {
+      "label": "People",
+      "value": "22.2 million",
+      "sub": "UN estimate, 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Kwacha",
+      "sub": "\"Dawn\" in Chichewa"
+    },
+    {
+      "label": "Language",
+      "value": "Chichewa",
+      "sub": "Plus English (official)"
+    },
+    {
+      "label": "Land area",
+      "value": "118,484 km²",
+      "sub": "About the size of Pennsylvania"
+    },
+    {
+      "label": "High point",
+      "value": "Sapitwa 3,002m",
+      "sub": "Peak of Mulanje Massif"
+    }
+  ],
+  "islands": [
+    "Lilongwe",
+    "Blantyre",
+    "Mzuzu",
+    "Zomba",
+    "Karonga"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A lake half a country wide",
+    "animals": "Wild shores & rainbow waters",
+    "culture": "Dance, drums & warm hearts",
+    "history": "From Nyasaland to freedom",
+    "wows": "You won't believe these bits!"
+  },
+  "geo": [
+    "Malawi is long and thin — nearly 900 km north to south but never wider than 150 km. The Great Rift Valley carved through it, leaving steep escarpments and the deep basin filled by Lake Malawi: Africa's third-largest freshwater lake, 584 km long and crystal-clear.",
+    "The south is dominated by the dramatic Mulanje Massif, a granite plateau rising above tea plantations. The Shire River drains the lake southward through papyrus swamps and wildlife-rich valleys before joining the Zambezi in Mozambique."
+  ],
+  "animals": [
+    "Lake Malawi holds 1,000+ cichlid fish species — more than any lake on Earth. These jewel-bright fish evolved here into every colour imaginable. The African fish eagle, Malawi's national bird, hunts the shoreline with a cry that locals call the true voice of Africa.",
+    "Liwonde National Park shelters 600 elephants, 2,500 hippos, and recently reintroduced lions and black rhinos. Nile crocodiles bask on sandbanks while borassus palms tower overhead. It's one of Africa's greatest conservation comeback stories."
+  ],
+  "culture": [
+    "The Chewa people perform Gule Wamkulu — the Great Dance — where masked dancers represent spirits and wild animals. UNESCO named it an Intangible Cultural Heritage in 2005. Masks are carved in secret and dancers are believed to become the spirits they portray.",
+    "Nsima, a stiff maize porridge, appears at nearly every meal, scooped by hand and dipped into relishes of fish or groundnut sauce. Music fills everyday life — planting songs, harvest songs, wedding songs — often played on the mambilira, a wooden xylophone."
+  ],
+  "history": [
+    "A jawbone found in Malawi in 1991 dates back 2.4 million years — among the oldest evidence of the human genus ever found. The Maravi kingdom dominated the region for centuries before Scottish explorer David Livingstone arrived in the 1850s and mapped the great lake.",
+    "Britain made the territory Nyasaland in 1891. Hastings Banda led the country to independence on 6 July 1964. After 30 years of one-party rule, democracy arrived in 1994. In 2012 President Joyce Banda sold the presidential jet to boost the national budget."
+  ],
+  "wows": [
+    "Lake Malawi holds more fish species than any other lake on Earth — over 1,000 kinds of cichlids.",
+    "A 2.4-million-year-old jawbone found here is among the oldest evidence of the human genus ever.",
+    "One-fifth of Malawi's entire territory is water — mostly Lake Malawi, visible from space.",
+    "The word kwacha means \"dawn\" in Chichewa, chosen to symbolise a new day of freedom.",
+    "Liwonde Park reintroduced lions, cheetahs, wild dogs, and black rhinos all within one decade.",
+    "Gule Wamkulu masked dancers belong to a secret society that has existed for centuries.",
+    "President Joyce Banda sold the presidential jet for $15 million to fund the national budget."
+  ],
+  "myths": [
+    {
+      "myth": "Malawi is always dangerously hot",
+      "fact": "The Mulanje highlands can be genuinely cold — hikers need warm layers at night, and frost is possible above 2,500 m."
+    },
+    {
+      "myth": "The lake water is unsafe to swim in",
+      "fact": "Most open lake water near lodges is bilharzia-free; designated spots are popular and considered safe for snorkelling."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Muli bwanji",
+      "say": "moo-li BWAN-jee"
+    },
+    {
+      "en": "I'm fine",
+      "jp": "Ndili bwino",
+      "say": "in-DEE-li BWEE-no"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Zikomo",
+      "say": "zee-KOH-mo"
+    },
+    {
+      "en": "Yes",
+      "jp": "Inde",
+      "say": "in-DEH"
+    },
+    {
+      "en": "Lake",
+      "jp": "Nyanja",
+      "say": "NYAN-ja"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mw-hero.jpg",
+      "alt": "Lake Malawi shoreline at Chiweta with mountains in the background",
+      "caption": "LAKE MALAWI — the inland sea that covers a fifth of the country",
+      "credit": "Michaelphoya / Wikimedia CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mw-landmark.jpg",
+      "alt": "Green tea plantation rows with Mulanje Massif rising behind",
+      "caption": "MULANJE MASSIF — granite giant towering above southern tea country",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mw-animalA.jpg",
+      "alt": "Bright blue cichlid fish in clear water",
+      "caption": "CICHLID FISH — one of 1,000+ species found only in Lake Malawi",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/mw-animalB.jpg",
+      "alt": "African fish eagle soaring in flight",
+      "caption": "AFRICAN FISH EAGLE — national bird, voice of the lakeshore",
+      "credit": "Wikimedia Commons CC BY-SA 4.0"
+    }
+  }
+}

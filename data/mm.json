@@ -1,0 +1,163 @@
+{
+  "name": "MYANMAR",
+  "nativeName": "မြန်မာ",
+  "romaji": "MYANMAR",
+  "tagline": "Land of golden temples",
+  "region": "Southeast Asia",
+  "coords": "19.76°N, 96.08°E",
+  "fileNo": "054",
+  "langName": "Burmese",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF9E",
+    "ink": "#252018",
+    "faint": "#8A7A56",
+    "line": "#DDD0B0",
+    "accent": "#FECB00",
+    "accent2": "#34B233"
+  },
+  "flag": {
+    "assetPath": "/flags/mm.svg",
+    "title": "Flag of Myanmar",
+    "note": "Tricolour with large white star at centre",
+    "keyColor": "#FECB00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Myanmar sits at the heart of Southeast Asia, where the Irrawaddy River flows past thousands of golden pagodas to the sea. From snowy peaks in the north to coral islands in the south, it holds ancient temples, rare wildlife, and dozens of peoples — each with their own language, dress, and festivals.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Naypyidaw",
+      "sub": "Made capital in November 2005"
+    },
+    {
+      "label": "People",
+      "value": "51.3 million",
+      "sub": "Myanmar census 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Kyat (MMK)",
+      "sub": "~2,100 kyat = US$1"
+    },
+    {
+      "label": "Language",
+      "value": "Burmese",
+      "sub": "135 recognised ethnic groups"
+    },
+    {
+      "label": "Land area",
+      "value": "676,578 km²",
+      "sub": "Slightly bigger than Texas"
+    },
+    {
+      "label": "Top peak",
+      "value": "Hkakabo Razi",
+      "sub": "5,881 m — SE Asia's tallest"
+    }
+  ],
+  "islands": [
+    "Yangon",
+    "Mandalay",
+    "Bagan",
+    "Shan State",
+    "Rakhine"
+  ],
+  "islandsLabel": "KEY PLACES:",
+  "sections": {
+    "geography": "Rivers, peaks & rice plains",
+    "animals": "Tigers, dolphins & tortoises",
+    "culture": "Temples, tea & longyi cloth",
+    "history": "Kingdoms, kings & independence",
+    "wows": "7 things to make you go wow"
+  },
+  "geo": [
+    "Myanmar is shaped like a kite with a long tail. The mighty Irrawaddy River runs almost the full length of the country, carrying rich silt to the flat central plains where most rice grows. Rugged, forested mountains ring the north and east.",
+    "The south stretches into a narrow peninsula along the Andaman Sea, ending in tropical islands. In the far north, Hkakabo Razi stays snow-capped all year — the highest peak in all of Southeast Asia."
+  ],
+  "animals": [
+    "Myanmar's forests shelter tigers, Asian elephants, and clouded leopards. The rare Irrawaddy dolphin lives in the great river — locals say it herds fish toward fishermen's nets in a remarkable partnership.",
+    "Birdwatchers treasure Myanmar: the gurney's pitta, one of the world's rarest birds, hides here. Giant flying squirrels glide between trees, and the Burmese star tortoise is slowly making a comeback from near-extinction."
+  ],
+  "culture": [
+    "Most people in Myanmar are Buddhist and offer food to monks each morning at sunrise. Festivals are huge — the Thingyan water festival in April is a giant outdoor water fight lasting four days to wash away bad luck.",
+    "Men and women both wear a longyi — a tube of colourful cloth wrapped at the waist. Mohinga, a rich fish-noodle soup, is the national breakfast. Laphet, pickled tea leaves eaten as a salad, is unlike anything else on Earth."
+  ],
+  "history": [
+    "The Pagan Kingdom built over 10,000 temples across a dry plain from the 11th century — more than 2,000 still stand today. Powerful empires rose and fell before British colonists took over the entire country by 1885.",
+    "Independence came in 1948. General Aung San, the Father of the Nation, was assassinated just six months before seeing it. Myanmar has endured long periods of military rule, yet its people have kept their culture and spirit fiercely alive."
+  ],
+  "wows": [
+    "Bagan has more ancient Buddhist temples per square km than almost anywhere else on Earth.",
+    "Naypyidaw's 20-lane highway was nearly empty of traffic for years after it was built.",
+    "Hkakabo Razi at 5,881 m is the tallest mountain in all of Southeast Asia.",
+    "Irrawaddy dolphins herd fish toward fishermen's nets — a real wild-animal partnership.",
+    "Myanmar is the world's largest producer of rubies; the finest come from the Mogok Valley.",
+    "The Burmese star tortoise was declared functionally extinct but has been revived by breeding programmes.",
+    "At Bagan, hot-air balloons float over 2,000 pagodas at dawn — one of Asia's greatest sights."
+  ],
+  "myths": [
+    {
+      "myth": "\"Myanmar and Burma are different countries\"",
+      "fact": "Same country — the military renamed it Myanmar in 1989. Burma is the older English name. Both names are still used worldwide today."
+    },
+    {
+      "myth": "\"All Southeast Asian temples look alike\"",
+      "fact": "Myanmar's stupas are tall, bell-shaped, and gold-leafed — quite different from Thailand's spires or Cambodia's stone towers. Each ethnic group has its own distinct style."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "မင်္ဂလာပါ",
+      "say": "min-ga-la-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "ကျေးဇူးပါ",
+      "say": "kyay-zu-ba"
+    },
+    {
+      "en": "Yes",
+      "jp": "ဟုတ်ကဲ့",
+      "say": "hote-keh"
+    },
+    {
+      "en": "Delicious",
+      "jp": "အရမ်းကောင်း",
+      "say": "a-yan-kaung"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "သွားတော့မယ်",
+      "say": "thwa-daw-meh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mm-hero.jpg",
+      "alt": "Hot-air balloons floating over thousands of ancient temples at Bagan at sunrise",
+      "caption": "BAGAN AT DAWN — balloons drift over 2,000 ancient pagodas at sunrise",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mm-landmark.jpg",
+      "alt": "Shwedagon Pagoda golden stupa towering above Yangon at dusk",
+      "caption": "SHWEDAGON PAGODA — Yangon's golden stupa, clad in 60 tonnes of gold",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mm-animalA.jpg",
+      "alt": "Irrawaddy dolphin surfacing in calm river water",
+      "caption": "IRRAWADDY DOLPHIN — round-headed river dolphin that helps fishermen",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mm-animalB.jpg",
+      "alt": "Burmese star tortoise with distinctive yellow-starred shell pattern on sandy ground",
+      "caption": "BURMESE STAR TORTOISE — revived from the brink of extinction",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

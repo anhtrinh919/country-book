@@ -1,0 +1,163 @@
+{
+  "name": "BELGIUM",
+  "nativeName": "BE",
+  "romaji": "BELGIQUE",
+  "tagline": "Waffles, Comics & Diamonds",
+  "region": "Western Europe",
+  "coords": "50.8°N, 4.4°E",
+  "fileNo": "032",
+  "langName": "French",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F3EFE3",
+    "dot": "#CFC4A8",
+    "ink": "#231F1A",
+    "faint": "#8A7D62",
+    "line": "#DDD3BA",
+    "accent": "#1C1C1C",
+    "accent2": "#C8212C"
+  },
+  "flag": {
+    "assetPath": "/flags/be.svg",
+    "title": "Belgian Tricolour",
+    "note": "Black, yellow & red vertical stripes",
+    "keyColor": "#C8212C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Belgium is a small but mighty country between France, Germany, and the Netherlands. It invented the world-famous waffle, pioneered comic-strip art (hello, Tintin!), and has three official languages. Despite being roughly the size of Maryland, it has more castles per square kilometre than almost anywhere else on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Brussels",
+      "sub": "Also the EU's HQ city"
+    },
+    {
+      "label": "People",
+      "value": "11.7 million",
+      "sub": "Est. 2024 — smaller than Ohio"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Joined the euro in 2002"
+    },
+    {
+      "label": "Language",
+      "value": "3 official",
+      "sub": "French, Dutch & German"
+    },
+    {
+      "label": "Area",
+      "value": "30,528 km²",
+      "sub": "About the size of Maryland"
+    },
+    {
+      "label": "Top peak",
+      "value": "694 m",
+      "sub": "Signal de Botrange, Ardennes"
+    }
+  ],
+  "islands": [
+    "Brussels",
+    "Antwerp",
+    "Ghent",
+    "Bruges",
+    "Liège"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A flat land with hidden hills",
+    "animals": "Wild creatures of wood & coast",
+    "culture": "Waffles, comics & carillons",
+    "history": "Crossroads of empires",
+    "wows": "Belgium will surprise you!"
+  },
+  "geo": [
+    "Belgium is mostly flat farmland and sandy dunes along its 67-kilometre North Sea coast. Rivers like the Meuse and Scheldt crisscross the country, and ancient canals still carry boats through medieval city centres.",
+    "In the south, the Ardennes forest rises into rolling hills — thick with pine trees and caves. This is where Belgium hides its highest point and wildest scenery, a world away from the busy cities up north."
+  ],
+  "animals": [
+    "The red fox trots through Ardennes forests at dusk, while the European hedgehog snuffles through Belgian gardens. White storks nest on church rooftops in spring, and starlings swirl in murmurations over Brussels each autumn.",
+    "Along the coast, grey seals loll on sandbanks and harbour porpoises swim just offshore. The Scheldt estuary is a motorway for migrating birds — godwits, avocets, and spoonbills stop to refuel on their long journeys."
+  ],
+  "culture": [
+    "Belgium has three communities side by side — Dutch-speaking Flemish in the north, French-speaking Walloons in the south, and a small German-speaking pocket in the east. Everyone agrees on beer, chocolate, and football.",
+    "Belgian comics are a national treasure: Tintin, the Smurfs, and Lucky Luke were all born here. Every town has a carillon — a tower of bells played like a keyboard — ringing out over the rooftops every quarter-hour."
+  ],
+  "history": [
+    "Belgium's location made it a prize for every great power. Romans, Spanish kings, Austrian emperors, Napoleon, and the Dutch all ruled here before Belgians declared independence in 1830 and chose their own king.",
+    "Two World Wars tore through Belgian soil. After 1945, Belgium helped build a new Europe: Brussels became home to NATO and the EU, turning the old crossroads into a continent's capital."
+  ],
+  "wows": [
+    "Belgium has over 1,500 named beer varieties — more than any other country on Earth.",
+    "Antwerp handles roughly half of all the world's rough diamonds every single year.",
+    "Belgians invented the French fry and eat frites with mayonnaise, not ketchup.",
+    "The Atomium in Brussels is an iron crystal model blown up 165 billion times, built in 1958.",
+    "Belgium once owned the Congo — a colony 77 times larger than Belgium itself.",
+    "The Brussels sprout has been grown near the Belgian capital since the 13th century.",
+    "Brussels has 50 giant comic-strip murals painted across city walls as a heritage trail."
+  ],
+  "myths": [
+    {
+      "myth": "Belgium has no real culture of its own",
+      "fact": "Belgium gave the world Tintin, the Smurfs, Art Nouveau, Trappist beer, and the saxophone — invented by Brussels-born Adolphe Sax in 1846."
+    },
+    {
+      "myth": "A Belgian waffle is just a waffle",
+      "fact": "There are two distinct Belgian waffles: the crispy rectangular Brussels waffle and the sweet, sugar-pearl Liège waffle — locals are very serious about the difference."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Chocolate",
+      "jp": "Chocolat",
+      "say": "sho-ko-LAH"
+    },
+    {
+      "en": "Waffle",
+      "jp": "Gaufre",
+      "say": "GOH-fruh"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "Santé!",
+      "say": "san-TAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/be-hero.jpg",
+      "alt": "Grand Place Brussels at night with illuminated golden guildhalls",
+      "caption": "GRAND PLACE — Brussels' gilded 17th-century square, heart of the city",
+      "credit": "Wikimedia Commons / Jorge Royan"
+    },
+    "landmark": {
+      "src": "/photos/be-landmark.jpg",
+      "alt": "Gravensteen medieval castle rising above Ghent canals",
+      "caption": "GRAVENSTEEN CASTLE — a 12th-century fortress above Ghent's canals",
+      "credit": "Wikimedia Commons / Gzzz"
+    },
+    "animalA": {
+      "src": "/photos/be-animalA.jpg",
+      "alt": "Red fox resting in a snowy Belgian forest",
+      "caption": "RED FOX — a common sight in the Ardennes forests of southern Belgium",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    },
+    "animalB": {
+      "src": "/photos/be-animalB.jpg",
+      "alt": "White stork standing tall in a green field",
+      "caption": "WHITE STORK — nests on Belgian church rooftops every spring",
+      "credit": "Wikimedia Commons / José Varela"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "LITHUANIA",
+  "nativeName": "LT",
+  "romaji": "LIETUVA",
+  "tagline": "Baltic soul, amber coast",
+  "region": "Northern Europe",
+  "coords": "55.17°N, 23.88°E",
+  "fileNo": "073",
+  "langName": "Lithuanian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDD8",
+    "dot": "#C9BC9A",
+    "ink": "#252018",
+    "faint": "#857A55",
+    "line": "#DDD5B8",
+    "accent": "#FDB913",
+    "accent2": "#006A44"
+  },
+  "flag": {
+    "assetPath": "/flags/lt.svg",
+    "title": "Trispalvė",
+    "note": "Yellow, green & red — sun, forests, bravery",
+    "keyColor": "#FDB913",
+    "mastheadMotif": "clipped-flag"
+  },
+  "lead": "Lithuania is the biggest of the three Baltic countries on the eastern shore of the Baltic Sea — and a scientist calculated that the exact centre of Europe sits just north of Vilnius. Thick forests, amber beaches, a fairy-tale red castle on a lake island, and the world's most cross-covered hill make this small nation quietly extraordinary.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Vilnius",
+      "sub": "pop. ~610,000"
+    },
+    {
+      "label": "People",
+      "value": "2.83 million",
+      "sub": "est. 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "since Jan 2015"
+    },
+    {
+      "label": "Language",
+      "value": "Lithuanian",
+      "sub": "oldest living IE tongue"
+    },
+    {
+      "label": "Land area",
+      "value": "65,300 km²",
+      "sub": "slightly larger than Ireland"
+    },
+    {
+      "label": "Top of land",
+      "value": "294 m",
+      "sub": "Aukštojas Hill, SE Lithuania"
+    }
+  ],
+  "islands": [
+    "Vilnius",
+    "Kaunas",
+    "Klaipėda",
+    "Šiauliai",
+    "Panevėžys"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Forests, dunes & lagoons",
+    "animals": "Storks, wolves & wisent",
+    "culture": "Amber, song & hoops",
+    "history": "Grand duchy to freedom",
+    "wows": "Lithuania's wow list"
+  },
+  "geo": [
+    "Lithuania is almost completely flat — its highest hill is only as tall as a 90-storey building. Half the country is forest, and 3,000 lakes and rivers dot the land. Scientists put the exact centre of Europe just 26 km north of Vilnius.",
+    "On the coast, the Curonian Spit is a narrow sand sliver that stretches 98 km along the Baltic Sea, sheltering a calm lagoon on one side and massive shifting dunes on the other. It is a UNESCO World Heritage Site."
+  ],
+  "animals": [
+    "Lithuania's national bird is the white stork, and the country has more stork nests per square kilometre than almost anywhere on Earth. Every spring, thousands arrive from Africa, nesting on rooftops and telegraph poles. Wolves roam the deep forests.",
+    "European bison — the continent's heaviest land animal, once nearly extinct — were reintroduced to Lithuanian forests and now roam freely. Beavers have made a huge comeback, reshaping rivers with their dams."
+  ],
+  "culture": [
+    "Lithuanians are passionate about singing and basketball. Every four years the country holds a giant Song Festival where tens of thousands perform together. Lithuanian basketball players are heroes — the national team won three Olympic bronze medals.",
+    "Amber is Lithuania's treasure. Up to 80% of the world's amber washes onto Baltic shores, and Lithuanians have carved it for 4,000 years. A summer festival called Joninės lights bonfires on the shortest night, echoing ancient pagan traditions."
+  ],
+  "history": [
+    "Lithuania was once the biggest country in Europe. In the 14th century the Grand Duchy stretched from the Baltic almost to the Black Sea. King Mindaugas united the tribes in 1253 and remains the only Lithuanian king ever crowned.",
+    "After Soviet rule, Lithuania became the first Soviet republic to declare independence in 1990. Two million people then formed a 675-km human chain linking Vilnius to Tallinn, demanding freedom in the peaceful Baltic Way protest."
+  ],
+  "wows": [
+    "The exact centre of Europe is a granite column with gold stars, just north of Vilnius.",
+    "Soviet bulldozers cleared the Hill of Crosses three times — Lithuanians rebuilt it secretly each time.",
+    "Lithuanian is so ancient that linguists use it to decode the sounds of 3,500-year-old Sanskrit.",
+    "Lithuania's team wore Grateful Dead-funded tie-dye skeleton shirts on the 1992 Olympic podium.",
+    "Lithuania controls over half the global market for ultrashort scientific lasers, used at CERN and NASA.",
+    "The Curonian Spit's dunes drift up to 10 metres a year, slowly swallowing the forest.",
+    "Vilnius Old Town is one of the largest surviving medieval city centres in northern Europe."
+  ],
+  "myths": [
+    {
+      "myth": "Lithuania is Eastern European",
+      "fact": "Geographically it is Northern Europe — and the literal centre of the European continent sits just north of Vilnius, not east of it."
+    },
+    {
+      "myth": "Lithuanians speak a Slavic language",
+      "fact": "Lithuanian is a Baltic language, separate from Russian or Polish, and one of the oldest surviving Indo-European tongues."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Labas",
+      "say": "LAH-bahs"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ačiū",
+      "say": "AH-choo"
+    },
+    {
+      "en": "Please",
+      "jp": "Prašau",
+      "say": "prah-SHOW"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Viso gero",
+      "say": "VEE-so GEH-ro"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Gražu",
+      "say": "GRAH-zhoo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lt-hero.jpg",
+      "alt": "Aerial view of Vilnius Old Town rooftops and church spires",
+      "caption": "VILNIUS OLD TOWN — red rooftops and baroque spires at the heart of Europe",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lt-landmark.jpg",
+      "alt": "Thousands of crosses covering the Hill of Crosses in Lithuania",
+      "caption": "HILL OF CROSSES — 100,000+ crosses planted by pilgrims near Šiauliai",
+      "credit": "Wikimedia Commons / Avi1111"
+    },
+    "animalA": {
+      "src": "/photos/lt-animalA.jpg",
+      "alt": "White stork standing in a green meadow",
+      "caption": "WHITE STORK — Lithuania's national bird returns to rooftops every spring",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lt-animalB.jpg",
+      "alt": "European bison standing in a forest clearing",
+      "caption": "EUROPEAN BISON — once nearly extinct, now roaming Lithuanian forests again",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

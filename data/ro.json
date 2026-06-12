@@ -1,0 +1,163 @@
+{
+  "name": "ROMANIA",
+  "nativeName": "RO",
+  "romaji": "ROMÂNIA",
+  "tagline": "Land of castles & forests",
+  "region": "Eastern Europe",
+  "coords": "45.9°N, 24.9°E",
+  "fileNo": "042",
+  "langName": "Romanian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA3",
+    "ink": "#271E18",
+    "faint": "#8A7A5E",
+    "line": "#DCCFB0",
+    "accent": "#002B7F",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/ro.svg",
+    "title": "Tricolorul",
+    "note": "Blue, yellow & red vertical stripes",
+    "keyColor": "#002B7F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Romania lies in Eastern Europe where Carpathian forests meet a vast river delta on the Black Sea. It holds one of Europe's largest brown bear populations, painted medieval monasteries, and Bran Castle — the fortress behind the Dracula legend. Romanians speak a Latin tongue descended from Roman soldiers who settled here 2,000 years ago.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bucharest",
+      "sub": "Pop. ~1.7 million"
+    },
+    {
+      "label": "People",
+      "value": "~19 million",
+      "sub": "Est. 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Leu (RON)",
+      "sub": "1 leu = 100 bani"
+    },
+    {
+      "label": "Language",
+      "value": "Romanian",
+      "sub": "A Latin tongue"
+    },
+    {
+      "label": "Land area",
+      "value": "238,397 km²",
+      "sub": "Smaller than UK"
+    },
+    {
+      "label": "Top peak",
+      "value": "Moldoveanu",
+      "sub": "2,544 m high"
+    }
+  ],
+  "islands": [
+    "Transylvania",
+    "Wallachia",
+    "Moldavia",
+    "Dobrogea",
+    "Bucharest"
+  ],
+  "islandsLabel": "BIG REGIONS:",
+  "sections": {
+    "geography": "Mountains, rivers & delta",
+    "animals": "Bears, wolves & pelicans",
+    "culture": "Castles, crafts & music",
+    "history": "Romans to revolution",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "The Carpathian Mountains curve through Romania like a horseshoe, wrapping the interior in beech and fir forests. Below the peaks, wide plains stretch south and east, watered by the Danube — Europe's second-longest river.",
+    "Where the Danube meets the Black Sea it splits into three channels, forming the Danube Delta — a UNESCO wetland the size of a small country. Over 300 bird species nest or stop here, making it one of Europe's greatest wildlife refuges."
+  ],
+  "animals": [
+    "Romania is home to over 10,000 brown bears — the largest population in Europe. Wolves, lynx, and chamois share the same Carpathian slopes, rarely seen but always close.",
+    "The Danube Delta is a pelican paradise. Great white pelicans and Dalmatian pelicans glide over the reed beds in thousands. Each spring, thousands of white storks nest across Romanian villages."
+  ],
+  "culture": [
+    "Romania's craftspeople carve wooden gates so ornate they take months to finish — the ornate gates of Maramureș are celebrated works of folk art. Embroidered blouses called ie inspired Henri Matisse, and every region has its own pattern.",
+    "Folk music uses a fiddle, a cobza lute, and a long alphorn called a bucium. Village festivals called hora gather everyone in a circle dance. Romanian food loves polenta (mămăligă), slow stews, and sour soup called ciorbă."
+  ],
+  "history": [
+    "Two thousand years ago, Roman legions conquered the Dacian people here, building roads and cities. Latin mixed with the local tongue — and that Roman language is still spoken today as Romanian.",
+    "After Ottoman, Habsburg, and Russian rule, Romania united in 1918. Communist dictatorship lasted until 1989, when a dramatic revolution toppled Nicolae Ceaușescu in ten days. Romania joined the EU in 2007."
+  ],
+  "wows": [
+    "Roșia Montană's ancient gold landscape became a UNESCO World Heritage Site in 2021.",
+    "The Parliament Palace in Bucharest is the world's heaviest building at roughly 4 billion kilograms.",
+    "Bram Stoker never visited Romania, yet based Dracula's castle on the real Bran Castle in Transylvania.",
+    "Nadia Comaneci scored the first perfect 10 in Olympic gymnastics history at the 1976 Montreal Games.",
+    "The Merry Cemetery in Săpânța has colourful wooden crosses with funny poems about each person's death.",
+    "Romania has eight UNESCO-listed painted monasteries, with vivid medieval frescoes on every outdoor wall.",
+    "Bears regularly wander into mountain towns like Brașov to raid rubbish bins, becoming local celebrities."
+  ],
+  "myths": [
+    {
+      "myth": "Transylvania is gloomy and dark",
+      "fact": "Transylvania is a sunny plateau ringed by mountains, famous for medieval walled cities like Sibiu and Sighișoara — far more cheerful than its spooky reputation."
+    },
+    {
+      "myth": "Romanian is a Slavic language",
+      "fact": "Romanian is a Romance language descended directly from Latin — closer to Italian and Spanish than to Russian or Polish."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bună ziua",
+      "say": "BOO-nuh ZEE-wah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mulțumesc",
+      "say": "mool-tsoo-MESK"
+    },
+    {
+      "en": "Please",
+      "jp": "Vă rog",
+      "say": "vuh ROHG"
+    },
+    {
+      "en": "Yes",
+      "jp": "Da",
+      "say": "dah"
+    },
+    {
+      "en": "Bear",
+      "jp": "Urs",
+      "say": "oors"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ro-hero.jpg",
+      "alt": "Bran Castle perched on a rocky hilltop in Transylvania",
+      "caption": "BRAN CASTLE — Transylvania fortress that inspired Dracula",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ro-landmark.jpg",
+      "alt": "The massive Palace of Parliament in Bucharest",
+      "caption": "PALACE OF PARLIAMENT — world's heaviest building, Bucharest",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ro-animalA.jpg",
+      "alt": "A brown bear running through a forest clearing",
+      "caption": "BROWN BEAR — over 10,000 roam Romania's Carpathian forests",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ro-animalB.jpg",
+      "alt": "Great white pelicans gliding over the Danube Delta wetlands",
+      "caption": "GREAT WHITE PELICAN — thousands nest in the Danube Delta",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

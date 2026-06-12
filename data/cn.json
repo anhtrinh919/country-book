@@ -1,0 +1,163 @@
+{
+  "name": "CHINA",
+  "nativeName": "中国",
+  "romaji": "ZHŌNGGUÓ",
+  "tagline": "The Middle Kingdom",
+  "region": "East Asia",
+  "coords": "39°N · 116°E",
+  "fileNo": "CN",
+  "flag": {
+    "assetPath": "/flags/cn.svg",
+    "title": "Five-Star Red",
+    "note": "Red field; large star + 4 small stars",
+    "keyColor": "#DE2910",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "China is the world's most populous country and one of its oldest civilisations — home to the Great Wall, giant pandas, and a writing system barely changed in 3,000 years. From icy Himalayan peaks to steamy tropical islands, China stretches so far that sunrise happens two hours earlier in the east than the west, yet every clock shows the same time.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Beijing",
+      "sub": "Home to the Forbidden City palace"
+    },
+    {
+      "label": "People",
+      "value": "1.41 billion",
+      "sub": "2024 estimate — 2nd most populous"
+    },
+    {
+      "label": "Money",
+      "value": "Yuan ¥",
+      "sub": "Also called the Renminbi (RMB)"
+    },
+    {
+      "label": "Language",
+      "value": "Mandarin",
+      "sub": "Most spoken language on Earth"
+    },
+    {
+      "label": "Land area",
+      "value": "9,596,960 km²",
+      "sub": "3rd or 4th largest country"
+    },
+    {
+      "label": "High point",
+      "value": "8,849 m",
+      "sub": "Mt Everest, Nepal–Tibet border"
+    }
+  ],
+  "islands": [
+    "Beijing",
+    "Shanghai",
+    "Sichuan",
+    "Xinjiang",
+    "Tibet"
+  ],
+  "islandsLabel": "BIG REGIONS:",
+  "sections": {
+    "geography": "Walls, peaks & giant rivers",
+    "animals": "Pandas, leopards & salamanders",
+    "culture": "Noodles, tea & red envelopes",
+    "history": "Five thousand years of empire",
+    "wows": "China will blow your mind"
+  },
+  "geo": [
+    "China borders 14 countries — more than any other nation. The west is ruled by the Tibetan Plateau, the 'Roof of the World', where air is so thin lowlanders get dizzy walking. Three of Asia's greatest rivers — Yangtze, Yellow, and Mekong — are born here among glaciers.",
+    "Head east and land drops to fertile plains. The Yangtze is longer than the distance from London to New York and feeds 400 million people. The Gobi Desert up north spans an area bigger than Western Europe, yet a day's drive away lie lush rice paddies and bamboo forests thick enough to hide a panda."
+  ],
+  "animals": [
+    "China's giant panda nearly vanished but wild numbers have climbed back to around 1,900 thanks to careful protection. They spend up to 14 hours munching bamboo — eating 12 kg daily — because bamboo is so low in nutrition it is basically leafy cardboard.",
+    "The Yangtze holds the Chinese giant salamander, the world's largest amphibian, which can grow as long as a human is tall and breathes partly through wrinkly skin. High on the Tibetan plateau, the snow leopard hunts wild sheep; as few as 4,000 are thought to survive across all of Asia."
+  ],
+  "culture": [
+    "Chinese New Year triggers the world's biggest annual migration — hundreds of millions travel home, filling every train and plane. Families hang red lanterns, set off fireworks to scare bad luck, and give children red envelopes stuffed with money. Each year is named after one of 12 animals in a repeating cycle.",
+    "China invented paper, printing, gunpowder, and the compass — four things that changed the world. Food varies wildly: Sichuan cuisine is tongue-numbing spicy, Cantonese is delicate and steamed, northern chefs pull noodles by hand in seconds. Tea was discovered here 5,000 years ago and China is still the planet's top producer."
+  ],
+  "history": [
+    "China's history stretches 5,000 years. Emperor Qin Shi Huang unified rival kingdoms in 221 BC and ordered a wall across the north to stop invaders. He buried 8,000 life-sized terracotta soldiers with him — each face unique — rediscovered by farmers in 1974.",
+    "For centuries China was the richest country on Earth, trading silk and porcelain along the Silk Road to Rome. Dynasties rose and fell — Han, Tang, Ming, Qing. In 1949 the People's Republic was founded; today China has the world's second-largest economy."
+  ],
+  "wows": [
+    "China shares a border with 14 countries — more than any other nation on the planet.",
+    "China's high-speed rail network tops 50,000 km — longer than all other countries combined.",
+    "The Three Gorges Dam is Earth's largest power station, supplying power to tens of millions.",
+    "China used more cement in three years than the USA used in the entire 20th century.",
+    "A panda's 'thumb' is actually an enlarged wrist bone — evolution's trick for gripping bamboo.",
+    "Written Chinese is understood across dialects that sound completely different when spoken.",
+    "All of China runs on one time zone despite spanning the width of five normal ones."
+  ],
+  "myths": [
+    {
+      "myth": "The Great Wall is visible from space",
+      "fact": "Astronauts consistently report they cannot see it with the naked eye — it is long but only about 5 metres wide, far too thin to spot from orbit without a lens."
+    },
+    {
+      "myth": "Fortune cookies are Chinese",
+      "fact": "Fortune cookies were created by Japanese immigrants in early 20th-century California and are virtually unknown inside China itself."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "你好",
+      "say": "Nǐ hǎo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "谢谢",
+      "say": "Xièxiè"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "好吃",
+      "say": "Hǎo chī"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "再见",
+      "say": "Zàijiàn"
+    },
+    {
+      "en": "Friend",
+      "jp": "朋友",
+      "say": "Péngyǒu"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cn-hero.jpg",
+      "alt": "The Bund waterfront in Shanghai at dusk with illuminated skyscrapers",
+      "caption": "THE BUND, Shanghai — colonial facades face a skyline of supertall towers",
+      "credit": "Wikimedia Commons / Siyuwj"
+    },
+    "landmark": {
+      "src": "/photos/cn-landmark.jpg",
+      "alt": "The Great Wall of China snaking over green mountain ridges",
+      "caption": "GREAT WALL — 21,000 km of fortification built across China's mountain ridges",
+      "credit": "Wikimedia Commons / Saad Akhtar"
+    },
+    "animalA": {
+      "src": "/photos/cn-animalA.jpg",
+      "alt": "Giant panda sitting and eating bamboo",
+      "caption": "GIANT PANDA — spends 14 hours a day eating bamboo to get enough energy",
+      "credit": "Wikimedia Commons / Manfred Werner"
+    },
+    "animalB": {
+      "src": "/photos/cn-animalB.jpg",
+      "alt": "Snow leopard with piercing eyes in a rocky mountain setting",
+      "caption": "SNOW LEOPARD — as few as 4,000 survive across the high Asian mountains",
+      "credit": "Wikimedia Commons / Snow Leopard Trust"
+    }
+  },
+  "theme": {
+    "paper": "#F5ECD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2118",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#DE2910",
+    "accent2": "#FFBE00"
+  },
+  "motif": "sun",
+  "langName": "Mandarin"
+}

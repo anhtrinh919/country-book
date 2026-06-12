@@ -1,0 +1,163 @@
+{
+  "name": "SYRIA",
+  "nativeName": "سوريا",
+  "romaji": "SURIYA",
+  "tagline": "Where history began",
+  "region": "Middle East",
+  "coords": "34.8°N 38.9°E",
+  "fileNo": "SY",
+  "langName": "Arabic",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EAD8",
+    "dot": "#C9B99A",
+    "ink": "#241E18",
+    "faint": "#8B7355",
+    "line": "#DDD0B8",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/sy.svg",
+    "title": "Flag of Syria",
+    "note": "Green, white & black with 2 red stars",
+    "keyColor": "#007A3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Syria sits at the crossroads of three continents, where the first farmers planted seeds 12,000 years ago. Its capital Damascus may be the oldest city on Earth never abandoned — home to people since before the pyramids. Desert temples, crusader castles, and ancient bazaars make Syria one of the world's richest treasure-chests of history.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Damascus",
+      "sub": "One of Earth's oldest cities"
+    },
+    {
+      "label": "People",
+      "value": "~25.6 million",
+      "sub": "UN estimate, mid-2025"
+    },
+    {
+      "label": "Money",
+      "value": "Syrian pound",
+      "sub": "Redenominated Jan 2026"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Aramaic still spoken in villages"
+    },
+    {
+      "label": "Land area",
+      "value": "185,180 km²",
+      "sub": "Bigger than Cambodia"
+    },
+    {
+      "label": "Highest pt",
+      "value": "2,814 m",
+      "sub": "Mount Hermon, SW border"
+    }
+  ],
+  "islands": [
+    "Damascus",
+    "Aleppo",
+    "Homs",
+    "Hama",
+    "Latakia"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Desert, river & mountain",
+    "animals": "Desert creatures & migrants",
+    "culture": "Silk Road flavours",
+    "history": "Where civilisation began",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Syria has three very different faces. A thin green coastal strip catches sea rain and grows citrus. Behind it, mountain ridges rise steeply, then the land drops into a wide steppe and desert covering more than half the country.",
+    "The Euphrates River crosses the northeast, feeding fields of wheat and cotton. Near Hama, giant wooden water wheels — some taller than a six-storey building — have been scooping river water for over 600 years."
+  ],
+  "animals": [
+    "Syria sits on one of the world's busiest bird flyways. Every spring and autumn, millions of storks, eagles, and songbirds funnel through the narrow Levant corridor — like a feathered rush-hour highway above the desert.",
+    "The reem gazelle, now on Syria's new banknotes, sprints across the steppe. Striped hyenas prowl at night, wolves roam the mountains, and rivers shelter softshell turtles and otters in cool, reedy bends."
+  ],
+  "culture": [
+    "Syrian food is a 10,000-year experiment. Flatbreads from clay ovens, hummus, lamb slow-cooked with spices — many dishes the world loves today were first perfected right here, passed down through countless generations.",
+    "The Damask rose, named after Damascus, blooms every May outside the capital. Farmers harvest petals at dawn before the scent fades, then distil them into rose water that perfumers from Paris to Tokyo still treasure."
+  ],
+  "history": [
+    "Humans lived near Damascus as far back as 10,000 BC. By 3000 BC the city of Ebla had a royal library of 17,000 clay tablets — records from a time when most of Europe was still living in wooden huts.",
+    "Syria later sat at the heart of the Silk Road, linking China to the Mediterranean. Merchants from every corner of the world crowded Aleppo's covered bazaar, swapping silk, spices, glass, and stories for centuries."
+  ],
+  "wows": [
+    "Every pet hamster alive today descends from one family dug up near Aleppo, Syria, in 1930.",
+    "Damascus has been lived in non-stop for at least 10,000 years — one of Earth's oldest cities.",
+    "Syria has six UNESCO World Heritage Sites — one of the highest densities in the Middle East.",
+    "Aramaic — the language Jesus likely spoke — is still used daily in a few Syrian mountain villages.",
+    "Aleppo's Al-Madina Souk stretches 13 km, one of the longest covered bazaars on Earth.",
+    "Hama's wooden water wheels, up to 21 m tall, were the world's tallest for nearly 500 years.",
+    "Syria's 2026 banknotes swapped political portraits for the Damask rose, a swallow, and a gazelle."
+  ],
+  "myths": [
+    {
+      "myth": "Syria is only desert",
+      "fact": "More than half is desert, but Syria also has snowy mountains, a lush Mediterranean coast, and green river valleys. Mount Hermon even has a ski resort."
+    },
+    {
+      "myth": "Arabic is Syria's only language",
+      "fact": "Arabic is official, but Kurdish, Armenian, and ancient Aramaic are also spoken. A few villages near Damascus still use Aramaic every day."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHOOK-ran"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sy-hero.jpg",
+      "alt": "Grand courtyard of the Umayyad Mosque in Damascus with golden dome",
+      "caption": "UMAYYAD MOSQUE — Damascus's 8th-century great mosque, one of Islam's oldest",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sy-landmark.jpg",
+      "alt": "Krak des Chevaliers Crusader castle on a Syrian hilltop",
+      "caption": "KRAK DES CHEVALIERS — finest medieval Crusader castle, perched above Syrian hills",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sy-animalA.jpg",
+      "alt": "Pink Damask rose flowers in full bloom",
+      "caption": "DAMASK ROSE — Syria's famous bloom, harvested at dawn for precious perfume oil",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sy-animalB.jpg",
+      "alt": "Ancient Roman columns and monumental arch at Palmyra in the Syrian desert",
+      "caption": "PALMYRA RUINS — ancient desert city, once the greatest Silk Road trading hub",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

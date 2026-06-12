@@ -1,0 +1,163 @@
+{
+  "name": "IRAN",
+  "nativeName": "ایران",
+  "romaji": "IRAN",
+  "tagline": "Land of Roses & Ruins",
+  "region": "Middle East",
+  "coords": "32°N 53°E",
+  "fileNo": "042",
+  "langName": "Persian",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#D4BFA0",
+    "ink": "#2B2018",
+    "faint": "#8A7055",
+    "line": "#DFD0B8",
+    "accent": "#239F40",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/ir.svg",
+    "title": "Flag of Iran",
+    "note": "Green, white & red with the Allah emblem",
+    "keyColor": "#239F40",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Iran sits at the crossroads of ancient civilisations, where the Persian Empire once ruled from Egypt to India. Today it is a vast land of sand deserts, snowy mountains, saffron fields, and bazaars piled high with carpets and spices. People have lived here for more than 7,000 years, making Iran one of the oldest civilisations on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Tehran",
+      "sub": "Pop. ~9.5 m; sits at 1,200 m"
+    },
+    {
+      "label": "People",
+      "value": "90 million",
+      "sub": "Est. 2024 — about 78% urban"
+    },
+    {
+      "label": "Money",
+      "value": "Rial (IRR)",
+      "sub": "10,000 Rials = 1 Toman daily"
+    },
+    {
+      "label": "Language",
+      "value": "Persian",
+      "sub": "Farsi; written right-to-left"
+    },
+    {
+      "label": "Land area",
+      "value": "1,648,195 km²",
+      "sub": "17th largest country on Earth"
+    },
+    {
+      "label": "High point",
+      "value": "5,610 m",
+      "sub": "Mt Damavand — dormant volcano"
+    }
+  ],
+  "islands": [
+    "Tehran",
+    "Isfahan",
+    "Shiraz",
+    "Tabriz",
+    "Mashhad"
+  ],
+  "islandsLabel": "MAJOR CITIES:",
+  "sections": {
+    "geography": "Peaks, deserts & salt lakes",
+    "animals": "Rare cats & pink flamingos",
+    "culture": "Carpets, poetry & saffron",
+    "history": "Empires older than Rome",
+    "wows": "Seven surprising facts"
+  },
+  "geo": [
+    "Iran is a high plateau ringed by mountains. The Alborz range holds Mount Damavand, a snow-capped volcano taller than any Alpine peak. The Zagros Mountains stretch 1,500 km across the west like a great spine.",
+    "Two giant deserts fill the centre — the salt desert Dasht-e Kavir and the sand desert Dasht-e Lut, one of the hottest places on Earth. Yet the north hugs the Caspian Sea, green and rainy as a jungle."
+  ],
+  "animals": [
+    "Iran's Asiatic cheetah is the rarest cat on Earth — fewer than 30 survive in the wild, all in Iran. Persian leopards prowl the Alborz forests, and brown bears fish in mountain streams each autumn.",
+    "The Persian fallow deer, once thought extinct, was rediscovered in Khuzestan. Flamingos paint Lake Urmia pink every spring, and the rare Siberian crane stops here on its long migration south."
+  ],
+  "culture": [
+    "Persian poetry is so beloved that Iranians quote Hafez and Rumi like song lyrics. Nowruz (New Year) falls on the spring equinox — families set a table of seven symbolic items and leap over bonfires.",
+    "Iranian carpet-weaving is a 2,500-year-old art; one fine carpet can take three weavers two years to finish. Iran grows 90% of the world's saffron — red threads plucked from purple crocuses at dawn each October."
+  ],
+  "history": [
+    "The Achaemenid Persian Empire, founded by Cyrus the Great around 550 BC, was the largest empire the ancient world had seen. Cyrus issued one of history's first human-rights declarations, now kept at the British Museum.",
+    "After Alexander, then Parthians and Sassanids, Iran became the heart of the Islamic Golden Age — its scholars preserved Greek science and pioneered algebra and medicine for the whole world."
+  ],
+  "wows": [
+    "Mount Damavand is the highest volcano in all of Asia at 5,610 m.",
+    "Cyrus the Great built history's first postal network — couriers ran 2,700 km across his empire.",
+    "Yazd's ancient wind-towers (badgir) cooled buildings 2,500 years before air conditioning.",
+    "Iran grows roughly 90% of the world's saffron — more than every other country combined.",
+    "The Asiatic cheetah survives only in Iran; it is the last wild population outside Africa.",
+    "Backgammon was invented in Persia ~5,000 years ago; an ancient board was found at Burnt City.",
+    "Iran's qanat underground water channels have irrigated the plateau for over 3,000 years."
+  ],
+  "myths": [
+    {
+      "myth": "Iran and Iraq are the same place",
+      "fact": "They are neighbouring countries with different languages and histories. Iran speaks Persian; Iraq's main language is Arabic. They share a border but little else."
+    },
+    {
+      "myth": "Iran is all sand dunes and desert",
+      "fact": "Only about a quarter is desert. The rest is snowy mountains, lush Caspian forests, green valleys, and farmland growing pistachios and pomegranates."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "سلام",
+      "say": "Sa-laam"
+    },
+    {
+      "en": "Thank you",
+      "jp": "ممنون",
+      "say": "Mam-noon"
+    },
+    {
+      "en": "Yes",
+      "jp": "بله",
+      "say": "Ba-le"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "خوشمزه",
+      "say": "Khosh-ma-ze"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "زیبا",
+      "say": "Zee-baa"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ir-hero.jpg",
+      "alt": "Tehran skyline with Milad Tower at dusk",
+      "caption": "TEHRAN — Iran's capital spreads below the snowy Alborz mountains",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ir-landmark.jpg",
+      "alt": "Pink Mosque interior glowing with rainbow light from stained glass",
+      "caption": "PINK MOSQUE — Nasir ol-Molk mosque in Shiraz glows with rainbow light at dawn",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ir-animalA.jpg",
+      "alt": "Asiatic cheetah resting on a rocky outcrop in Iran",
+      "caption": "ASIATIC CHEETAH — fewer than 30 survive, all in Iran's central deserts",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ir-animalB.jpg",
+      "alt": "Flamingos wading in the pink waters of Lake Urmia, Iran",
+      "caption": "FLAMINGOS — thousands flock to Lake Urmia each spring, turning it pink",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

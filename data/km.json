@@ -1,0 +1,162 @@
+{
+  "name": "COMOROS",
+  "nativeName": "جزر",
+  "romaji": "KOMORI",
+  "tagline": "Islands of the Moon",
+  "region": "East Africa",
+  "coords": "-11.6° S, 43.3° E",
+  "fileNo": "089",
+  "langName": "Comorian",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFA8",
+    "ink": "#272018",
+    "faint": "#857560",
+    "line": "#DDD5C0",
+    "accent": "#3A7D44",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/km.svg",
+    "title": "Union of Comoros",
+    "note": "Green hoist, crescent & 4 stars, 4 stripe",
+    "keyColor": "#3A7D44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Comoros is a tiny cluster of volcanic islands in the Indian Ocean between Madagascar and Africa. Its name means \"Islands of the Moon\" in Arabic. Three main islands — each with its own volcano — make up one of the world's smallest nations. The air smells of ylang-ylang flowers, harvested here for the world's most famous perfumes.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Moroni",
+      "sub": "Built at foot of an active volcano"
+    },
+    {
+      "label": "People",
+      "value": "~883,000",
+      "sub": "UN estimate 2025"
+    },
+    {
+      "label": "Money",
+      "value": "KMF franc",
+      "sub": "Pegged to the euro"
+    },
+    {
+      "label": "Language",
+      "value": "Comorian",
+      "sub": "Plus Arabic & French"
+    },
+    {
+      "label": "Land area",
+      "value": "1,862 km²",
+      "sub": "Smaller than London city"
+    },
+    {
+      "label": "Top peak",
+      "value": "2,361 m",
+      "sub": "Karthala, an active volcano"
+    }
+  ],
+  "islands": [
+    "Gde Comore",
+    "Anjouan",
+    "Mohéli",
+    "Moroni"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Volcanoes rise from the sea",
+    "animals": "Living fossils & giant bats",
+    "culture": "Feasts, flowers & twarab beats",
+    "history": "Sultans, spices & sea routes",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Comoros is born of fire — all three islands are volcanic. The biggest, Grande Comore, hosts the still-active Mount Karthala, whose crater is over 3 km wide — you could fit a small town inside. The islands rise steeply from the sea with almost no flat land.",
+    "Ringed by coral reefs and warm Indian Ocean waters, the islands get lush tropical rain that feeds dense rainforest. Mohéli, the smallest island, stays the most wild, with forest down to the beach and sea turtles nesting on untouched sand."
+  ],
+  "animals": [
+    "The coelacanth — a fish thought extinct for 65 million years — was rediscovered alive in 1938, and Comoros is its main home. It hides in deep underwater caves off Grande Comore, growing up to 2 metres long: a true living fossil.",
+    "Livingstone's fruit bat lives only in Comoros and is among the world's rarest mammals — fewer than 1,500 remain. Its wingspan reaches 1.4 metres. Each of the three islands also has its own unique tiny scops owl found nowhere else on Earth."
+  ],
+  "culture": [
+    "The Grand Mariage is the most important event in a Comorian life — a two-week wedding celebration with feasts, dances, and glittering sultan-style costumes. Families save for years and the whole village joins in. It matters more than almost anything else.",
+    "Music called twarab — Arabic lute, violin, and Swahili poetry — drifts from every corner. Women paint faces with golden sandalwood paste called msindzano for celebrations. The scent of ylang-ylang flower oil hangs in the warm air."
+  ],
+  "history": [
+    "Arab traders brought Islam to Comoros around the 10th century, naming the islands Juzur al-Qamar — Islands of the Moon. For centuries rival sultans ruled each island and traded spices across the Indian Ocean with Persia, India, and East Africa.",
+    "France took control in the 1800s, and independence came in 1975. More than 20 coups in 50 years earned Comoros the nickname 'the coup-coup islands.' Things are calmer now, and the islands are building a more stable future."
+  ],
+  "wows": [
+    "Comoros supplies ~80% of the world's ylang-ylang oil — the flower at the heart of Chanel No. 5.",
+    "Karthala erupts every 11 years on average — most recently 2007 — one of Earth's most active volcanoes.",
+    "Comoros has seen 20+ coups since 1975 — more per capita than almost any country on Earth.",
+    "The coelacanth was thought gone 65 million years before a live one was caught off Comoros in 1938.",
+    "Moroni is one of very few capitals on Earth built directly on an active volcanic lava field.",
+    "Livingstone's fruit bat exists only in Comoros; fewer than 1,500 survive worldwide.",
+    "Mohéli became sub-Saharan Africa's first community marine park in 2001, protecting reefs and turtles."
+  ],
+  "myths": [
+    {
+      "myth": "Comoros is part of Madagascar",
+      "fact": "They are entirely separate countries 300 km apart. Comoros has its own language, president, and culture, though both sit in the Indian Ocean off East Africa."
+    },
+    {
+      "myth": "The islands are always unstable",
+      "fact": "Comoros has been politically stable since 2001 and welcomes visitors. Its beaches, reefs, and rainforests attract growing numbers of travellers each year."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Jeje",
+      "say": "JEH-jeh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Marahaba",
+      "say": "mah-rah-HAH-bah"
+    },
+    {
+      "en": "I'm well",
+      "jp": "Salama",
+      "say": "sah-LAH-mah"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Karibu",
+      "say": "kah-REE-boo"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Ritsoonana",
+      "say": "rit-so-NAH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/km-hero.jpg",
+      "alt": "Aerial view of Moroni city with mosque and harbour bay",
+      "caption": "MORONI — the capital's grand mosque and harbour seen from above",
+      "credit": "Sascha Grabow / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/km-landmark.jpg",
+      "alt": "Panoramic view into the vast crater of Mount Karthala volcano",
+      "caption": "MOUNT KARTHALA — the enormous 3 km-wide crater of Comoros' active volcano",
+      "credit": "Rokaso / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/km-animalA.jpg",
+      "alt": "Livingstone's fruit bat hanging with wings spread at Bristol Zoo",
+      "caption": "LIVINGSTONE'S FRUIT BAT — rarest bat on Earth, found only in Comoros",
+      "credit": "Adrian Pingstone / Public domain"
+    },
+    "animalB": {
+      "src": "/photos/km-animalB.jpg",
+      "alt": "Preserved coelacanth specimen showing its distinctive lobed fins",
+      "caption": "COELACANTH — the living fossil fish, rediscovered alive off Comoros in 1938",
+      "credit": "BrokenSphere / CC BY-SA 3.0"
+    }
+  }
+}

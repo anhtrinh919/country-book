@@ -1,0 +1,162 @@
+{
+  "name": "LIBYA",
+  "nativeName": "ليبيا",
+  "romaji": "LIBYĀ",
+  "tagline": "Sea, sand & Roman gold",
+  "region": "North Africa",
+  "coords": "26.3°N, 17.2°E",
+  "fileNo": "LY",
+  "langName": "Arabic",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA2",
+    "ink": "#251F18",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#239E3F",
+    "accent2": "#C8000A"
+  },
+  "flag": {
+    "assetPath": "/flags/ly.svg",
+    "title": "Libya's Flag",
+    "note": "Red, black & green with crescent & star",
+    "keyColor": "#239E3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Libya is a vast North African country where the Sahara meets a sparkling Mediterranean coast. More than 90% is desert — golden dunes, black volcanic craters, and ancient lakes hidden in the sand. Yet beneath those dunes lie colossal Roman ruins and oceans of oil, making Libya one of Africa's most surprising places.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Tripoli",
+      "sub": "City on the Med coast"
+    },
+    {
+      "label": "People",
+      "value": "7.4 million",
+      "sub": "UN est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Libyan Dinar",
+      "sub": "1 dinar = 1,000 dirhams"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Berber also spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "1,676,198 km²",
+      "sub": "4th largest in Africa"
+    },
+    {
+      "label": "Highest pt",
+      "value": "Bikku Bitti",
+      "sub": "2,267 m in the south"
+    }
+  ],
+  "islands": [
+    "Tripolitania",
+    "Cyrenaica",
+    "Fezzan",
+    "Sirte"
+  ],
+  "islandsLabel": "MAIN REGIONS:",
+  "sections": {
+    "geography": "A sea of sand & stone",
+    "animals": "Desert survivors",
+    "culture": "Feasts & ancient arts",
+    "history": "Empires in the dunes",
+    "wows": "Hard to believe!"
+  },
+  "geo": [
+    "Libya's coast runs 1,770 km along the Mediterranean — Africa's longest on that sea. Behind it, the land rises onto a flat plateau, then drops into the Sahara, the world's biggest hot desert.",
+    "Deep in the Fezzan, hidden lakes shimmer among towering red dunes at Ubari, fed by ancient rainwater trapped underground for thousands of years. A dormant volcano called Waw an Namus leaves a dark ink-blot of ash in the golden sand."
+  ],
+  "animals": [
+    "The fennec fox is Libya's most charming desert resident. Its enormous ears act like satellite dishes, picking up insects moving underground at night. It never needs to drink water, getting all moisture from food.",
+    "Barbary sheep scramble up rocky desert cliffs with ease, their shaggy manes rippling in the wind. Dorcas gazelles sprint across open sand, and sandfish skinks — lizards that 'swim' through loose sand — vanish in a blink."
+  ],
+  "culture": [
+    "Libyan cooking is hearty and aromatic. Bazin — a firm bread-dough cooked in salted water — is the national dish, eaten by breaking off pieces and dipping into stew. Couscous and spiced lamb fill family tables at celebrations.",
+    "Berber communities have woven carpets and hammered silver for centuries, with geometric patterns carrying family stories in every knot. In ancient Ghadames, rooftops connect so women could cross the whole town above street level, staying cool in the shade."
+  ],
+  "history": [
+    "Phoenician traders founded coastal cities around 1000 BC; Greeks settled Cyrene in 631 BC. Then Rome took over — Emperor Septimius Severus, born in Libya, rebuilt Leptis Magna into one of the Mediterranean world's grandest cities.",
+    "Arab armies brought Islam in 642 AD. Italy colonised Libya from 1911 until Allied forces drove them out in 1943. Libya became independent in 1951, and oil was discovered just seven years later, transforming the country overnight."
+  ],
+  "wows": [
+    "Libya holds Africa's largest oil reserves — about 48 billion barrels.",
+    "Roman Leptis Magna was buried under sand for 800 years, emerging almost perfectly preserved.",
+    "Waw an Namus volcano left a 20 km ash field with three salty crater lakes in the Sahara.",
+    "Over 90% of Libya is desert — one of Earth's highest desert percentages.",
+    "Libya's Mediterranean coastline at 1,770 km is Africa's longest on that sea.",
+    "Ancient Ghadames has rooftop walkways so residents could cross town above street level.",
+    "Greek city Cyrene, founded 631 BC, still stands — columns carved into a Libyan hillside."
+  ],
+  "myths": [
+    {
+      "myth": "Libya is just empty desert",
+      "fact": "Libya has 1,770 km of Mediterranean coastline, five UNESCO World Heritage Sites, and ancient cities built by Greeks, Romans, and Berbers — far from empty."
+    },
+    {
+      "myth": "The Sahara is all rolling sand dunes",
+      "fact": "Most of the Sahara, including large parts of Libya, is flat gravel plains and bare rock — the famous dunes cover only about 25% of the desert."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Delicious",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Desert",
+      "jp": "صحراء",
+      "say": "SAH-ra"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/ly-landmark.jpg",
+      "alt": "Turquoise lakes nestled among red Sahara dunes at Ubari, Libya",
+      "caption": "UBARI LAKES — ancient oasis waters shimmering among Fezzan's towering dunes",
+      "credit": "Luca Galuzzi / CC BY-SA 2.5"
+    },
+    "animalA": {
+      "src": "/photos/ly-animalA.jpg",
+      "alt": "Fennec fox with large ears in the Sahara desert",
+      "caption": "FENNEC FOX — giant ears help it hear prey moving underground at night",
+      "credit": "Merzougaloisirs / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/ly-animalB.jpg",
+      "alt": "Barbary sheep standing on rocky terrain",
+      "caption": "BARBARY SHEEP — Africa's only wild sheep, built for rocky desert cliffs",
+      "credit": "Kevin Floyd / CC BY 4.0"
+    },
+    "hero": {
+      "src": "/photos/ly-hero.jpg",
+      "alt": "The Roman Arch of Marcus Aurelius in Tripoli's old city",
+      "caption": "MARCUS AURELIUS ARCH — a Roman triumphal arch built 163 CE in Tripoli's old city",
+      "credit": "Daniel & Kate Pett / CC BY 2.0"
+    }
+  }
+}

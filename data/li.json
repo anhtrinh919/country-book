@@ -1,0 +1,163 @@
+{
+  "name": "LIECHTENSTEIN",
+  "nativeName": "LI",
+  "romaji": "LIECHTENSTEIN",
+  "tagline": "Tiny prince, big Alps",
+  "region": "Central Europe",
+  "coords": "47.1°N, 9.5°E",
+  "fileNo": "LI",
+  "langName": "German",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#c9bfab",
+    "ink": "#26231e",
+    "faint": "#837666",
+    "line": "#dbd0bc",
+    "accent": "#1b3a7a",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/li.svg",
+    "title": "Blue & Red Crown",
+    "note": "Crown added 1937 after Haiti flag mix-up",
+    "keyColor": "#1b3a7a",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Liechtenstein is one of the world's tiniest countries — yet it packs in soaring Alpine peaks, a real prince in a hilltop castle, and one of the highest incomes per person on Earth. Squeezed between Switzerland and Austria, this principality has no army and no airport, but great skiing, fine wine, and famous stamps.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Vaduz",
+      "sub": "~5,700 people in the capital"
+    },
+    {
+      "label": "People",
+      "value": "~40,000",
+      "sub": "World Bank est. 40,197 (2024)"
+    },
+    {
+      "label": "Money",
+      "value": "Swiss Franc",
+      "sub": "Shares Switzerland's CHF"
+    },
+    {
+      "label": "Language",
+      "value": "German",
+      "sub": "Alemannic dialect day-to-day"
+    },
+    {
+      "label": "Land area",
+      "value": "160 km²",
+      "sub": "Smaller than Washington D.C."
+    },
+    {
+      "label": "Highest pt.",
+      "value": "2,599 m",
+      "sub": "Grauspitz in the Rätikon Alps"
+    }
+  ],
+  "islands": [
+    "Vaduz",
+    "Schaan",
+    "Balzers",
+    "Triesenberg",
+    "Triesen"
+  ],
+  "islandsLabel": "MAIN TOWNS:",
+  "sections": {
+    "geography": "A pocket kingdom in the Alps",
+    "animals": "Wild neighbours on the slopes",
+    "culture": "Princes, wine & operettas",
+    "history": "From empire to independence",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Liechtenstein sits between Austria and Switzerland, with the broad Rhine River marking its western edge and the jagged Rätikon Alps rising sharply to the east. The country is only 26 km from tip to tip — you could cycle it in a morning.",
+    "The flat Rhine valley floor gives way to steep forested hillsides, alpine meadows, and snowy peaks. The lowest point is the Rhine at 430 m; the highest is Grauspitz at 2,599 m. Nearly half the land is forest."
+  ],
+  "animals": [
+    "The Alpine slopes are home to chamois — nimble goat-like animals that leap between cliffs — alongside ibex, whistling marmots fattening up for winter, and red deer grazing in forest clearings.",
+    "Above the treeline, golden eagles circle on broad wings. Over 150 bird species have been recorded here. In autumn, flower-garlanded cattle parade down from summer pastures in a festive procession called Alpabzug."
+  ],
+  "culture": [
+    "Liechtensteiners speak a lilting Alemannic German dialect. On National Day (15 August) the Prince opens the castle gates and invites every citizen to a garden party — the whole country is welcome.",
+    "Autumn brings 'Wimmlete', the grape harvest on sunny Rhine-valley slopes producing fine Pinot Noir. Operetta societies in Balzers and Vaduz have staged musicals for over 80 years."
+  ],
+  "history": [
+    "The principality was born on 23 January 1719 when Holy Roman Emperor Charles VI united tiny Vaduz and Schellenberg and named them after the Liechtenstein family. Curiously, the princes never actually visited for the first century.",
+    "After Napoleon dissolved the Holy Roman Empire in 1806, Liechtenstein joined his Rhine Confederation. Full independence arrived in 1866. The country abolished its tiny army in 1868 and has stayed peacefully neutral ever since."
+  ],
+  "wows": [
+    "One of only 2 'doubly landlocked' countries — every neighbour is also landlocked. The other is Uzbekistan.",
+    "All 10 Olympic medals are in Alpine skiing — the most medals per person of any country on Earth.",
+    "The Princely House is reportedly Europe's wealthiest royal family, worth around $5 billion.",
+    "Liechtenstein has no airport — visitors arrive entirely by road or train.",
+    "Famous postage stamps are a genuine export earner; collectors worldwide hunt Liechtenstein issues.",
+    "In 1936 officials found Liechtenstein's flag was identical to Haiti's, so they added a gold crown.",
+    "Seven of 10 Olympic medals came from one family: siblings Hanni & Andreas Wenzel, plus Hanni's daughter."
+  ],
+  "myths": [
+    {
+      "myth": "\"It's basically part of Switzerland\"",
+      "fact": "Liechtenstein is fully independent with its own parliament and laws. It shares a currency with Switzerland but has a fiercely distinct national identity."
+    },
+    {
+      "myth": "\"Everyone there is a billionaire\"",
+      "fact": "GDP per head is very high, but most residents are ordinary workers — teachers, engineers, factory staff — many commuting in from Austria and Switzerland."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hoi",
+      "say": "hoy"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "Please",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Tschüss",
+      "say": "chüss"
+    },
+    {
+      "en": "Good day",
+      "jp": "Grüezi",
+      "say": "GRÜE-tsi"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/li-hero.jpg",
+      "alt": "Panoramic cityscape of Vaduz seen from near the castle hill",
+      "caption": "VADUZ — capital city spreads across the Rhine valley, Alps beyond",
+      "credit": "A.Savin / Wikimedia Commons (FAL)"
+    },
+    "landmark": {
+      "src": "/photos/li-landmark.jpg",
+      "alt": "Vaduz Castle perched on a rocky hilltop above the capital",
+      "caption": "VADUZ CASTLE — the Prince's home watches over the whole country",
+      "credit": "A.Savin / Wikimedia Commons (FAL)"
+    },
+    "animalA": {
+      "src": "/photos/li-animalA.jpg",
+      "alt": "A chamois mountain goat-antelope in a natural setting",
+      "caption": "CHAMOIS — agile cliff-leapers native to Liechtenstein's Alps",
+      "credit": "Isiwal / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "animalB": {
+      "src": "/photos/li-animalB.jpg",
+      "alt": "An alpine marmot sitting alertly in a rocky alpine meadow",
+      "caption": "ALPINE MARMOT — chubby whistlers that hibernate all winter",
+      "credit": "F. Trazzi / Wikimedia Commons (CC BY-SA 3.0)"
+    }
+  }
+}

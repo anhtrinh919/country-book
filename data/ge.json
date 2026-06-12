@@ -1,0 +1,163 @@
+{
+  "name": "GEORGIA",
+  "nativeName": "საქართ",
+  "romaji": "SAKARTVELO",
+  "tagline": "Cradle of wine & song",
+  "region": "South Caucasus",
+  "coords": "41.69°N 44.80°E",
+  "fileNo": "083",
+  "langName": "Georgian",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C8B89A",
+    "ink": "#27201B",
+    "faint": "#8B7A5A",
+    "line": "#DCCEBB",
+    "accent": "#C8102E",
+    "accent2": "#1A3A5C"
+  },
+  "flag": {
+    "assetPath": "/flags/ge.svg",
+    "title": "Flag of Georgia",
+    "note": "White with red cross & four red crosses",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tucked between the Caucasus and Black Sea, Georgia is tiny but extraordinary. People pressed grapes here 8,000 years ago — the world's oldest wine. Its singers harmonise in three independent voices; one Georgian song was even sent into space. Ancient towers, fiery food, and a unique alphabet make this place one-of-a-kind.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Tbilisi",
+      "sub": "Founded c. 458 AD by hot springs"
+    },
+    {
+      "label": "People",
+      "value": "3.9 million",
+      "sub": "Geostat census, Nov 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Lari (GEL)",
+      "sub": "100 tetri = 1 lari"
+    },
+    {
+      "label": "Language",
+      "value": "Georgian",
+      "sub": "Unique 33-letter script"
+    },
+    {
+      "label": "Land area",
+      "value": "69,700 km²",
+      "sub": "About the size of Ireland"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Shkhara",
+      "sub": "5,201 m — Greater Caucasus"
+    }
+  ],
+  "islands": [
+    "Tbilisi",
+    "Kutaisi",
+    "Batumi",
+    "Mtskheta",
+    "Telavi"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, sea & hot springs",
+    "animals": "Wild peaks, wild creatures",
+    "culture": "Wine, song & ancient script",
+    "history": "Kingdoms, conquest & comeback",
+    "wows": "Surprising Georgia"
+  },
+  "geo": [
+    "Georgia sits at the crossroads of Europe and Asia, with the snow-capped Greater Caucasus range forming a giant natural wall along the north. Mount Shkhara soars to 5,201 m — taller than anything in the Alps.",
+    "The west enjoys a lush, subtropical climate fed by Black Sea breezes, while the east is drier and sunnier. Tbilisi sits in a warm river valley famous for naturally hot sulphur springs that bubble up right in the city."
+  ],
+  "animals": [
+    "Georgia's mountains shelter the East Caucasian tur — a wild goat with spectacular curved horns — which scrambles across cliffs at up to 4,000 m. The elusive Caucasian leopard, the world's largest leopard subspecies, still prowls remote forests.",
+    "Each autumn, over one million raptors funnel through the Batumi bottleneck on the Black Sea coast — one of Earth's great bird migrations. Ancient Colchic rainforests in the west shelter the endemic Caucasian salamander."
+  ],
+  "culture": [
+    "Georgians have made wine for 8,000 years using qvevri — clay jars buried underground. The wine ferments slowly in the cool earth, giving it a golden, nutty character. UNESCO added this ancient method to its heritage list in 2013.",
+    "Georgian polyphonic singing — three voices weaving independent melodies — is one of the oldest musical traditions on Earth, also UNESCO-listed. The Georgian alphabet, mkhedruli, dates to the 5th century and is used nowhere else in the world."
+  ],
+  "history": [
+    "Ancient western Georgia was Colchis — the very land where Greek hero Jason sailed to steal the Golden Fleece. By the 11th century, a united Georgian Kingdom stretched from the Black Sea to the Caspian in a golden age of art and learning.",
+    "Georgia was absorbed into the Russian Empire in the 19th century, then into the Soviet Union in 1921. When the USSR collapsed, Georgia declared independence on 9 April 1991 and has been reclaiming its ancient identity — wine, script and song — ever since."
+  ],
+  "wows": [
+    "Georgia is the birthplace of wine: 8,000-year-old grape residue was found in Neolithic villages near Tbilisi.",
+    "A Georgian folk song, Chakrulo, was placed on the Voyager Golden Record sent into space in 1977.",
+    "The Georgian alphabet has 33 letters and is one of the world's few truly original scripts.",
+    "Tbilisi is named after hot springs: a king built it where his falcon's prey fell into steaming waters.",
+    "Over one million birds of prey migrate past Batumi on the Black Sea in a single autumn season.",
+    "Georgia has over 500 indigenous grape varieties — more than almost any other country on Earth.",
+    "Georgia's three ancient scripts are UNESCO heritage: Asomtavruli, Nuskhuri, and Mkhedruli."
+  ],
+  "myths": [
+    {
+      "myth": "Georgia is part of Russia / Eastern Europe",
+      "fact": "Georgia is in the South Caucasus, not Eastern Europe. Its language, script and culture are entirely its own — most Georgians proudly identify as European."
+    },
+    {
+      "myth": "Georgians mainly drink vodka",
+      "fact": "Georgia is a wine nation. Wine has been central to Georgian life for 8,000 years. The local spirit is chacha, a grape brandy — vodka is not part of the tradition."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "გამარჯობა",
+      "say": "gah-mar-JO-bah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "გმადლობთ",
+      "say": "gmad-LOBT"
+    },
+    {
+      "en": "Yes",
+      "jp": "კი",
+      "say": "kee"
+    },
+    {
+      "en": "No",
+      "jp": "არა",
+      "say": "AH-rah"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "გაუმარჯოს",
+      "say": "gau-MAR-jos"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ge-hero.jpg",
+      "alt": "Panoramic view of Old Tbilisi with Narikala Fortress on the hill",
+      "caption": "OLD TBILISI — ancient Narikala Fortress crowns the hill above the River Mtkvari",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ge-landmark.jpg",
+      "alt": "Jvari Monastery on a rocky hilltop above the confluence of two rivers",
+      "caption": "JVARI MONASTERY — 6th-century church above Mtskheta, Georgia's ancient capital",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ge-animalA.jpg",
+      "alt": "East Caucasian tur mountain goat with curved horns on rocky cliff",
+      "caption": "EAST CAUCASIAN TUR — wild mountain goat found only in the Greater Caucasus",
+      "credit": "Wikimedia Commons / iNaturalist"
+    },
+    "animalB": {
+      "src": "/photos/ge-animalB.jpg",
+      "alt": "Caucasian leopard specimen at the Georgian National Museum",
+      "caption": "CAUCASIAN LEOPARD — world's largest leopard subspecies, native to Georgia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

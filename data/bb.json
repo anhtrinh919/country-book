@@ -1,0 +1,163 @@
+{
+  "name": "BARBADOS",
+  "nativeName": "BB",
+  "romaji": "BARBADOS",
+  "tagline": "Gem of the Caribbean",
+  "region": "Caribbean",
+  "coords": "13.1°N, 59.6°W",
+  "fileNo": "042",
+  "langName": "Bajan English",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48E",
+    "ink": "#22190F",
+    "faint": "#8A7355",
+    "line": "#DDD0B0",
+    "accent": "#1B3D8F",
+    "accent2": "#F5C518"
+  },
+  "flag": {
+    "assetPath": "/flags/bb.svg",
+    "title": "Flag of Barbados",
+    "note": "Blue–gold–blue with the broken trident",
+    "keyColor": "#1B3D8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Barbados is a tiny coral island — barely 34 km long — perched at the eastern tip of the Caribbean. It was the birthplace of rum, grew so much sugar it once out-earned all of England's other colonies combined, and in 2021 calmly became a republic while keeping cricket, calypso, and flying fish firmly on the menu.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bridgetown",
+      "sub": "UNESCO World Heritage city"
+    },
+    {
+      "label": "People",
+      "value": "~282,000",
+      "sub": "est. 2024 (World Bank)"
+    },
+    {
+      "label": "Money",
+      "value": "Bajan Dollar",
+      "sub": "Pegged 2:1 to USD since 1975"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Bajan Creole spoken widely"
+    },
+    {
+      "label": "Land area",
+      "value": "431 km²",
+      "sub": "About the size of Chicago"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "336 m",
+      "sub": "Mount Hillaby, St. Andrew"
+    }
+  ],
+  "islands": [
+    "Bridgetown",
+    "Speightstown",
+    "Oistins",
+    "Holetown",
+    "Bathsheba"
+  ],
+  "islandsLabel": "MAIN TOWNS:",
+  "sections": {
+    "geography": "A coral jewel in the sea",
+    "animals": "Flying, leaping, swinging!",
+    "culture": "Sugar, rum & calypso",
+    "history": "From cane fields to republic",
+    "wows": "Bet you didn't know this!"
+  },
+  "geo": [
+    "Barbados sits alone in the Atlantic, east of the other Caribbean islands. Unlike its volcanic neighbours, it is a flat coral limestone platform, gently terraced from the breezy east coast cliffs up to Mount Hillaby at 336 m.",
+    "The rugged Scotland District in the north has rolling hills and gullies carved by rain. The south and west coasts are lined with calm, reef-protected beaches — the east coast faces open Atlantic surf beloved by surfers."
+  ],
+  "animals": [
+    "The flying fish is Barbados's national symbol. It leaps from the sea and glides up to 45 m on wing-like fins to escape predators — you'll spot them from ferries at dawn, flashing silver in the spray.",
+    "About 10,000 green monkeys (Chlorocebus sabaeus) roam the island, brought from West Africa centuries ago. With no natural predators, they raid mango trees boldly. The Barbados bullfinch is the island's only endemic bird."
+  ],
+  "culture": [
+    "The national dish is flying fish and cou-cou — a creamy cornmeal-and-okra porridge topped with steamed fish in tomato sauce. Rum shops on every corner serve the local spirit; Barbados has more than 1,500 of them for under 300,000 people.",
+    "Crop Over festival fills the island from June to August with calypso contests, street food, and the Grand Kadooment — a dazzling costumed parade through Bridgetown. Tuk bands play African rhythms on drums and penny whistles at the roadside."
+  ],
+  "history": [
+    "British settlers arrived in 1627 and planted sugar cane. By the late 1600s tiny Barbados produced more wealth than all of England's North American colonies together — built on the brutal labour of enslaved Africans.",
+    "Parliament met here from 1639, making it the third oldest in the world. Barbados gained independence in 1966 and, on 30 November 2021, peacefully became a republic — removing the British monarch as head of state."
+  ],
+  "wows": [
+    "Mount Gay Distillery has made rum in Barbados since 1703 — the world's oldest surviving commercial rum brand.",
+    "The grapefruit was born in Barbados — a wild cross between shaddock and sweet orange in the 1700s.",
+    "Barbados rarely gets hit by hurricanes because it sits east of the main Caribbean hurricane belt.",
+    "Barbados's Parliament was founded in 1639 — the third oldest legislature in the world.",
+    "Barbados has 1,500+ rum shops for fewer than 300,000 people — one per 185 residents.",
+    "Flying fish glide up to 45 m above the waves using oversized pectoral fins that work like wings.",
+    "Rihanna, born here in 1988, was declared a National Hero the day Barbados became a republic in 2021."
+  ],
+  "myths": [
+    {
+      "myth": "Barbados is just like every other Caribbean island",
+      "fact": "It's coral, not volcanic; sits east of the Caribbean chain; and was never captured by another colonial power after British settlement in 1627."
+    },
+    {
+      "myth": "Rum was invented in Jamaica or Cuba",
+      "fact": "The earliest written record of rum is from Barbados in the 1650s. Mount Gay, founded by 1703, is the world's oldest surviving rum brand."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Wuh gine on?",
+      "say": "Wuh GUY-un on"
+    },
+    {
+      "en": "Friend",
+      "jp": "Bro / Pal",
+      "say": "Bruh"
+    },
+    {
+      "en": "Very good",
+      "jp": "Real nice!",
+      "say": "Reel NICE"
+    },
+    {
+      "en": "Let's go!",
+      "jp": "Leh we go",
+      "say": "Leh WE go"
+    },
+    {
+      "en": "No problem",
+      "jp": "Nuh worry",
+      "say": "Nuh WUH-ree"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bb-hero.jpg",
+      "alt": "Aerial view of Bridgetown harbour and city centre",
+      "caption": "BRIDGETOWN — the coral-pink capital seen from the harbour",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bb-landmark.jpg",
+      "alt": "Crystal stalactites and stalagmites inside Harrison's Cave",
+      "caption": "HARRISON'S CAVE — glittering limestone formations underground",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bb-animalA.jpg",
+      "alt": "Green monkey mother and baby in Barbados",
+      "caption": "GREEN MONKEY — 10,000 of them roam the island freely",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bb-animalB.jpg",
+      "alt": "A flying fish gliding above the sea surface",
+      "caption": "FLYING FISH — national symbol, glides 45 m on fin-wings",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "THAILAND",
+  "nativeName": "ไทย",
+  "romaji": "THAILAND",
+  "tagline": "Land of Smiles & Temples",
+  "region": "Southeast Asia",
+  "coords": "15.87°N, 100.99°E",
+  "fileNo": "076",
+  "flag": {
+    "assetPath": "/flags/th.svg",
+    "title": "Flag of Thailand",
+    "note": "Red, white & blue — nation, faith, king",
+    "keyColor": "#A51831",
+    "mastheadMotif": "clipped-flag"
+  },
+  "lead": "Thailand sits at the heart of Southeast Asia — ancient temples, misty mountains in the north, warm beaches in the south, and buzzing Bangkok in the middle. The only nation never colonised by Europeans, its name means Land of the Free. From Muay Thai gyms to floating markets, every corner pulses with colour, flavour, and smiles.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bangkok",
+      "sub": "Krung Thep — City of Angels"
+    },
+    {
+      "label": "People",
+      "value": "70.3 million",
+      "sub": "2025 official census, 1 April 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Thai Baht ฿",
+      "sub": "100 satang = 1 baht"
+    },
+    {
+      "label": "Language",
+      "value": "Thai",
+      "sub": "Script with roots in ancient Khmer"
+    },
+    {
+      "label": "Land area",
+      "value": "513,115 km²",
+      "sub": "Roughly twice the size of the UK"
+    },
+    {
+      "label": "High point",
+      "value": "Doi Inthanon",
+      "sub": "2,565 m — the Roof of Thailand"
+    }
+  ],
+  "islands": [
+    "Bangkok",
+    "Chiang Mai",
+    "Phuket",
+    "Chiang Rai",
+    "Ayutthaya"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, rivers & warm seas",
+    "animals": "Elephants, fish & wild cats",
+    "culture": "Temples, food & ancient arts",
+    "history": "The kingdom that stayed free",
+    "wows": "7 things to make you go wow!"
+  },
+  "geo": [
+    "Thailand is shaped like a long axe. The wide top half is rugged highlands and river valleys draining into the Chao Phraya. The narrow southern strip — the Kra Peninsula — hangs between the Gulf of Thailand and the Andaman Sea.",
+    "The north has mist-draped mountains including Doi Inthanon at 2,565 m. The south has thousands of islands, bright coral reefs, and limestone cliffs that shoot straight out of turquoise water like giant green teeth."
+  ],
+  "animals": [
+    "Thailand's most famous animal is the Asian elephant — once used in battle and logging, now protected in national parks. Around 4,000–4,400 wild elephants roam forests like Khao Yai, and the rare white elephant is a sacred royal symbol.",
+    "The Siamese fighting fish — a jewel-bright freshwater fish — is the national aquatic animal, bred here for over 1,000 years. Clouded leopards, Indochinese tigers, and sun bears still prowl the dense northern forests."
+  ],
+  "culture": [
+    "Thailand is deeply Buddhist — over 93% follow the faith, and the country has more than 40,000 temples. Young men often spend weeks as monks. The graceful Wai greeting, palms pressed together, means everything from hello to thank you.",
+    "Food is a national passion: fragrant curries, tangy papaya salad, and Pad Thai noodles. Songkran, the Thai New Year in April, is the world's biggest water fight — everyone gets soaked to wash away bad luck."
+  ],
+  "history": [
+    "The first great Thai kingdoms rose at Sukhothai in the 13th century, followed by powerful Ayutthaya, which ruled for 400 years. Clever kings kept European colonial powers at bay, making Thailand the only Southeast Asian nation never colonised.",
+    "In 1939 the country renamed itself from Siam to Thailand — meaning Land of the Free. Bangkok's ceremonial name is 168 letters long, earning a Guinness World Record for the planet's longest city name."
+  ],
+  "wows": [
+    "Bangkok's ceremonial full name is 168 letters long — a Guinness World Record.",
+    "The world's largest solid gold Buddha, 5.5 tonnes, hid under plaster in Bangkok for around 200 years.",
+    "Thailand has over 40,000 Buddhist temples — more than most countries have petrol stations.",
+    "Thailand is the only country in Southeast Asia never colonised by a European power.",
+    "Siamese fighting fish were first kept as pets in Thailand over 1,000 years ago.",
+    "Pad Thai noodles were invented in the 1940s by government order to cut wartime rice use.",
+    "Doi Inthanon was renamed for the last ruler of Chiang Mai, whose remains are buried near its summit."
+  ],
+  "myths": [
+    {
+      "myth": "\"Pad Thai is an ancient recipe\"",
+      "fact": "Pad Thai was invented in the 1940s when the government promoted a noodle recipe to stretch rice supplies in WWII. Tasty, but thoroughly modern."
+    },
+    {
+      "myth": "\"Elephants roam everywhere\"",
+      "fact": "Wild Asian elephants are endangered — only around 4,000–4,400 survive in Thai forests. You are far more likely to see one at a sanctuary."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "สวัสดี",
+      "say": "Sa-wat-dee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "ขอบคุณ",
+      "say": "Khob-khun"
+    },
+    {
+      "en": "Delicious",
+      "jp": "อร่อย",
+      "say": "A-roi"
+    },
+    {
+      "en": "Temple",
+      "jp": "วัด",
+      "say": "Wat"
+    },
+    {
+      "en": "Water",
+      "jp": "น้ำ",
+      "say": "Nahm"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/th-landmark.jpg",
+      "alt": "Wat Arun temple seen across the Chao Phraya River at dawn",
+      "caption": "WAT ARUN — Bangkok's Temple of Dawn glitters from the riverside",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/th-animalA.jpg",
+      "alt": "Asian elephant at Ayutthaya elephant camp, Thailand",
+      "caption": "ASIAN ELEPHANT — a sacred symbol of Thai royalty and culture",
+      "credit": "Yosemite / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/th-animalB.jpg",
+      "alt": "Siamese fighting fish Betta splendens showing vivid fin colours",
+      "caption": "SIAMESE FIGHTING FISH — Thailand's national aquatic animal",
+      "credit": "ErgoSum88 / Wikimedia Commons Public Domain"
+    },
+    "hero": {
+      "src": "/photos/th-hero.jpg",
+      "alt": "Bangkok skyline with BTS Skytrain elevated rail in foreground",
+      "caption": "BTS SKYTRAIN — Bangkok's sleek elevated rail above the city skyline",
+      "credit": "V. Argenberg / Wikimedia CC BY 4.0"
+    }
+  },
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2318",
+    "faint": "#8B7A56",
+    "line": "#DDD0B0",
+    "accent": "#A51931",
+    "accent2": "#2D2A7A"
+  },
+  "motif": "sun",
+  "langName": "Thai"
+}

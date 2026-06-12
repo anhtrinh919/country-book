@@ -1,0 +1,163 @@
+{
+  "name": "MALI",
+  "nativeName": "ML",
+  "romaji": "MALI",
+  "tagline": "Land of Gold & the Niger",
+  "region": "West Africa",
+  "coords": "17°N, 3°W",
+  "fileNo": "082",
+  "langName": "French",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D9C89E",
+    "ink": "#2B1F0A",
+    "faint": "#8C7A4E",
+    "line": "#E3D3A8",
+    "accent": "#1A7A3C",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/ml.svg",
+    "title": "Flag of Mali",
+    "note": "Green, gold & red — Pan-African pride",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mali is a vast landlocked country where the Niger River curves across the Sahara's edge. Once home to the world's richest empires, kings here gave away gold as gifts. Today mud-brick mosques rise like sandcastles, nomads ride camels across golden dunes, and griots keep ancient tales alive with kora harps and talking drums.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bamako",
+      "sub": "On the Niger River"
+    },
+    {
+      "label": "People",
+      "value": "23.3 million",
+      "sub": "Est. 2024, fast-growing"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared with W. Africa"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "+ Bambara widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "1,240,192 km²",
+      "sub": "Bigger than South Africa"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "1,155 m",
+      "sub": "Hombori Tondo peak"
+    }
+  ],
+  "islands": [
+    "Bamako",
+    "Timbuktu",
+    "Mopti",
+    "Gao",
+    "Ségou"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rivers, dunes & desert skies",
+    "animals": "Wild things of the Sahel",
+    "culture": "Gold, drums & mud towers",
+    "history": "Empires of gold & salt",
+    "wows": "7 facts to blow your mind"
+  },
+  "geo": [
+    "Mali is two-thirds Sahara Desert — an ocean of golden sand where temperatures soar above 45 °C. The Niger River is its lifeline, flooding farmland each year and feeding millions with fish and rice.",
+    "The Sahel grassland belt runs across the south, turning green after rains. The Bandiagara Cliffs rise 500 m from the plain, where Dogon people have carved cliff-side villages into rock for nearly a thousand years."
+  ],
+  "animals": [
+    "The Niger River shelters hippos and Nile crocodiles that bask on sandy banks. African manatees glide through quiet backwaters — slow, whiskered mammals rarely seen elsewhere in West Africa.",
+    "Desert-adapted creatures roam the north: fennec foxes with enormous ears, sand gazelles, and golden jackals. Rare West African giraffes still wander near the Niger's inland delta, stretching tall to reach acacia leaves."
+  ],
+  "culture": [
+    "Mali is the birthplace of the griot — musician, historian and storyteller in one. Griots play the kora (a 21-string harp-lute made from a gourd) and recite royal histories going back 700 years.",
+    "The Great Mosque of Djenné is the world's largest mud-brick building, replastered by the whole town after every rainy season. Malian mud cloth (bogolanfini) is hand-painted with symbols that tell stories in pattern and colour."
+  ],
+  "history": [
+    "Around 1300 CE the Mali Empire ruled territory bigger than Western Europe. Emperor Mansa Musa was possibly history's wealthiest person — his 1324 pilgrimage with 12,000 servants and tonnes of gold caused inflation across North Africa.",
+    "Timbuktu became a great centre of learning with over 25,000 university students. Mali gained independence from France on 22 September 1960, celebrated today as its national holiday."
+  ],
+  "wows": [
+    "The Great Mosque of Djenné has been replastered from mud every year for over 800 years.",
+    "Mansa Musa's 1324 caravan had 60,000 people and carried roughly 18 tonnes of gold.",
+    "Mali holds over 700,000 ancient manuscripts, some stored in family homes in Timbuktu.",
+    "The Niger Inland Delta floods yearly into a wetland the size of Belgium, drawing millions of birds.",
+    "Timbuktu was so legendary that Europeans offered prizes to whoever could reach it and return.",
+    "Malian guitarist Ali Farka Touré's style directly shaped American blues music history.",
+    "Dogon people described the invisible star Sirius B centuries before telescopes confirmed it."
+  ],
+  "myths": [
+    {
+      "myth": "Mali is all empty desert",
+      "fact": "Only two-thirds is desert; the south has rivers, forests, farmland and wetlands hosting dramatic wildlife migrations."
+    },
+    {
+      "myth": "Timbuktu means 'the middle of nowhere'",
+      "fact": "Timbuktu was one of the medieval world's great cities — a wealthy trading hub with 180 Quranic schools at its peak."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Please",
+      "jp": "Je vous prie",
+      "say": "zhuh voo PREE"
+    },
+    {
+      "en": "Yes",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Bienvenue",
+      "say": "byan-veh-NOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ml-hero.jpg",
+      "alt": "Panoramic view of Bamako on the Niger River",
+      "caption": "BAMAKO — Mali's capital spreads along the curved banks of the Niger River",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ml-landmark.jpg",
+      "alt": "Great Mosque of Djenné, world's largest mud-brick building",
+      "caption": "GREAT MOSQUE OF DJENNÉ — world's largest mud-brick structure, replastered each year",
+      "credit": "Andy Gilham / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ml-animalA.jpg",
+      "alt": "Hippo emerging from water",
+      "caption": "HIPPOPOTAMUS — the Niger River is one of West Africa's last hippo strongholds",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ml-animalB.jpg",
+      "alt": "West African giraffe stretching to eat acacia leaves",
+      "caption": "WEST AFRICAN GIRAFFE — rare giants that still roam near the Niger Inland Delta",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

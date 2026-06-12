@@ -1,0 +1,163 @@
+{
+  "name": "PUERTO RICO",
+  "nativeName": "PR",
+  "romaji": "PUERTO RICO",
+  "tagline": "Island of Enchantment",
+  "region": "Caribbean, North America",
+  "coords": "18.2°N, 66.6°W",
+  "fileNo": "049",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#CCBA9E",
+    "ink": "#2B2118",
+    "faint": "#8A7055",
+    "line": "#DDD0B2",
+    "accent": "#C0202E",
+    "accent2": "#1A3E8F"
+  },
+  "flag": {
+    "assetPath": "/flags/pr.svg",
+    "title": "Puerto Rico Flag",
+    "note": "Five stripes; white star on blue triangle",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Puerto Rico is a sunny Caribbean island that belongs to the USA but has its own proud Latin soul. People speak Spanish, dance salsa, and eat rice and beans at almost every meal. Ancient forts guard Old San Juan, while glowing bays and giant radio telescopes make it truly extraordinary.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "San Juan",
+      "sub": "Oldest US city; Spain est. it 1521"
+    },
+    {
+      "label": "People",
+      "value": "3.2 million",
+      "sub": "US Census est. 2023; island only"
+    },
+    {
+      "label": "Money",
+      "value": "US Dollar",
+      "sub": "Uses USD; no separate PR currency"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "English co-official; Spanish daily"
+    },
+    {
+      "label": "Land area",
+      "value": "9,104 km²",
+      "sub": "Drive end to end in about 3 hours"
+    },
+    {
+      "label": "High point",
+      "value": "1,338 m",
+      "sub": "Cerro de Punta, Cordillera Central"
+    }
+  ],
+  "islands": [
+    "San Juan",
+    "Ponce",
+    "Vieques",
+    "Mayagüez",
+    "Culebra"
+  ],
+  "islandsLabel": "MAIN CITIES & ISLANDS:",
+  "sections": {
+    "geography": "A jungle island in the sun",
+    "animals": "Wild things of land & sea",
+    "culture": "Salsa, flavour & bold colour",
+    "history": "Forts, sugar & a new flag",
+    "wows": "7 things to blow your mind"
+  },
+  "geo": [
+    "Puerto Rico sits where the Atlantic meets the Caribbean. A mountain spine called the Cordillera Central runs east to west, with green valleys and rivers — and El Yunque, the only tropical rainforest in the entire US National Forest system.",
+    "Tiny Vieques and Culebra islands have crystal-clear beaches to the east. Just north, the Puerto Rico Trench plunges to 8,376 m — the deepest point in the Atlantic, deeper than Everest is tall."
+  ],
+  "animals": [
+    "The coquí is a thumb-sized tree frog whose 'ko-kee' call fills every Puerto Rican night at around 90 decibels. Puerto Ricans love it so much it appears on logos, art, and tattoos. The island also shelters the Puerto Rican parrot, one of Earth's rarest birds.",
+    "Sea turtles nest on Puerto Rican beaches each summer. Mosquito Bay on Vieques glows electric blue at night — billions of tiny organisms light up every splash like liquid lightning. Manatees drift through western coastal lagoons."
+  ],
+  "culture": [
+    "Puerto Rican culture blends Taíno, Spanish, and African traditions. Salsa was partly born here — start the music and everyone moves. Bomba and plena drumming styles tell island stories in plazas during festivals throughout the year.",
+    "Food is the island's love language: mofongo (mashed fried plantains), lechón (slow-roasted pork), and golden pastelillos at every party. Old San Juan's streets are paved with blue cobblestones from old ship ballast."
+  ],
+  "history": [
+    "Taíno people lived here centuries before Columbus arrived in 1493. Spain built massive forts — El Morro and San Cristóbal — to protect treasure fleets, and brought enslaved Africans to work sugar plantations. Puerto Rico became a US territory in 1898.",
+    "In 1917 Puerto Ricans became US citizens. A great migration to New York in the 1950s spread island culture across America. Today Puerto Ricans debate statehood vs. independence, but pride in island identity is universal."
+  ],
+  "wows": [
+    "Mosquito Bay on Vieques is the world's brightest bioluminescent bay — the water glows blue when you move.",
+    "Arecibo Observatory was once the world's largest radio telescope, 305 m wide, built into a jungle sinkhole.",
+    "The coquí frog hits 90 decibels — as loud as a lawnmower — yet locals can't sleep without its song.",
+    "The Puerto Rico Trench at 8,376 m is the deepest point in the entire Atlantic Ocean.",
+    "El Yunque is the only tropical rainforest in the US National Forest system, getting 5,000 mm of rain yearly.",
+    "Puerto Rican players have won more MLB Gold Glove awards per capita than any other territory on Earth.",
+    "Puerto Rico has over 270 sunny days per year despite sitting in the heart of the hurricane belt."
+  ],
+  "myths": [
+    {
+      "myth": "Puerto Rico is an independent country",
+      "fact": "Puerto Rico is a US territory — its 3.2 million residents are American citizens but cannot vote in US presidential elections and have no voting member in Congress."
+    },
+    {
+      "myth": "It's always battered by hurricanes",
+      "fact": "Puerto Rico enjoys about 270 sunny days a year; major hurricanes are rare, and warm, calm weather greets visitors almost year-round."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "¡Hola!",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Friend",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pr-hero.jpg",
+      "alt": "San Juan skyline with historic Old San Juan in the foreground",
+      "caption": "SAN JUAN — colourful Old City meets modern skyline on the Atlantic coast",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pr-landmark.jpg",
+      "alt": "El Morro fort jutting into the sea at Old San Juan",
+      "caption": "EL MORRO — 16th-century Spanish fortress guarding San Juan harbour",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pr-animalA.jpg",
+      "alt": "A tiny coquí tree frog clinging to a green leaf",
+      "caption": "COQUÍ FROG — Puerto Rico's beloved tiny singer, loud as a lawnmower",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pr-animalB.jpg",
+      "alt": "A bright green Puerto Rican parrot perched on a branch",
+      "caption": "PUERTO RICAN PARROT — one of the world's rarest birds, only ~500 remain",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

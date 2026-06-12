@@ -1,0 +1,163 @@
+{
+  "name": "SURINAME",
+  "nativeName": "SR",
+  "romaji": "SURINAME",
+  "tagline": "Rainforest's hidden heart",
+  "region": "Northern South America",
+  "coords": "5.8°N, 56.0°W",
+  "fileNo": "074",
+  "langName": "Sranan Tongo",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B899",
+    "ink": "#252018",
+    "faint": "#8C7A56",
+    "line": "#DDD0B2",
+    "accent": "#377E3F",
+    "accent2": "#C8192A"
+  },
+  "flag": {
+    "assetPath": "/flags/sr.svg",
+    "title": "Flag of Suriname",
+    "note": "Green-white-red-white-green, gold star",
+    "keyColor": "#377E3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Suriname is South America's tiniest country, yet nine-tenths is untouched rainforest. Squeezed between Guyana, Brazil, and French Guiana, it spills north to the Atlantic. Paramaribo is a UNESCO city of Dutch wooden buildings where Creoles, Hindustanis, Javanese, Maroons, and Indigenous peoples share one humid, gold-rich world.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Paramaribo",
+      "sub": "UNESCO wooden city; Suriname River"
+    },
+    {
+      "label": "People",
+      "value": "~654,000",
+      "sub": "2025 est. — S. America's smallest"
+    },
+    {
+      "label": "Money",
+      "value": "SRD",
+      "sub": "Surinamese Dollar (100 cents)"
+    },
+    {
+      "label": "Language",
+      "value": "Dutch",
+      "sub": "Sranan Tongo spoken day-to-day"
+    },
+    {
+      "label": "Land area",
+      "value": "163,820 km²",
+      "sub": "About the size of Georgia, USA"
+    },
+    {
+      "label": "Top peak",
+      "value": "Julianatop",
+      "sub": "1,280 m in Wilhelmina Mtns"
+    }
+  ],
+  "islands": [
+    "Paramaribo",
+    "N. Nickerie",
+    "Lelydorp",
+    "Moengo",
+    "Albina"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of rivers & rainforest",
+    "animals": "Giants of the jungle rivers",
+    "culture": "A world in one city block",
+    "history": "Traded for Manhattan",
+    "wows": "Seven surprising secrets"
+  },
+  "geo": [
+    "Suriname sits on the ancient Guiana Shield, one of Earth's oldest rock formations. The north is a low coastal belt where rivers fan out into the Atlantic. Dense tropical forest covers the vast interior, broken only by granite mountains and dark-water rivers.",
+    "The Suriname, Marowijne, and Coppename rivers drain the highlands. The Central Suriname Nature Reserve — 1.6 million hectares of primary forest — protects the upper watersheds and holds over 5,000 plant species. More than 90% of the country remains forested."
+  ],
+  "animals": [
+    "The giant river otter — nearly 2 metres long — is Suriname's river royalty. Family groups fish together on remote sandbanks, chattering loudly. Suriname's pristine waterways are one of the last strongholds for this endangered species.",
+    "Jaguars roam the deep interior, leaving paw prints along quiet river banks. The forest also shelters harpy eagles, tapirs, giant armadillos, and eight monkey species. Over 700 bird species have been recorded, including the brilliant scarlet macaw."
+  ],
+  "culture": [
+    "Paramaribo's most extraordinary sight is a mosque and a Jewish synagogue standing side by side on the same street — a symbol of 300 years of religious tolerance. Hindu temples, Catholic cathedrals, and Winti shrines share the same neighbourhoods.",
+    "Food mirrors the mix: roti with curry (Hindustani), nasi goreng (Javanese), pom chicken (Creole), and bara fried lentil dough. The Central Market buzzes with colour, spice, and a dozen languages every morning."
+  ],
+  "history": [
+    "Indigenous Lokono and Kalina people lived along the rivers for centuries before Europeans arrived. England settled the coast in the 1650s, but in 1667 the Dutch swapped rights to a small island called Manhattan to take Suriname — then the world's richest sugar colony.",
+    "African enslaved people fled brutal plantations into the forest, forming the free Maroon nations that fought the Dutch to a standstill, signing peace treaties in the 1760s. Suriname became fully independent on 25 November 1975."
+  ],
+  "wows": [
+    "Suriname was traded for Manhattan Island in 1667 — the Dutch gave up New York to get this sugar colony.",
+    "It is the only country outside Europe where Dutch is the official majority language.",
+    "Over 90% of Suriname is intact tropical rainforest — second-highest forest cover of any nation on Earth.",
+    "St. Peter and Paul Cathedral in Paramaribo is the largest wooden building in the Western Hemisphere.",
+    "A mosque and a Jewish synagogue stand literally next to each other on Keizerstraat in old Paramaribo.",
+    "Julianatop was first summited only in 1963 — its Amerindian name means 'He who stands alone.'",
+    "Gold now makes up 79% of all exports; some 20,000 artisanal miners pan the interior rivers."
+  ],
+  "myths": [
+    {
+      "myth": "Suriname is a Caribbean island",
+      "fact": "It is firmly on the South American mainland, bordering Brazil to the south — though its culture has strong Caribbean flavour from centuries of shared Atlantic history."
+    },
+    {
+      "myth": "Everyone speaks Spanish here",
+      "fact": "Suriname is surrounded by Spanish-speaking nations but its official language is Dutch, and the street lingua franca is Sranan Tongo, an English-based creole."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Odi",
+      "say": "OH-dee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Grantangi",
+      "say": "gran-TAN-ghee"
+    },
+    {
+      "en": "Yes",
+      "jp": "Iya",
+      "say": "EE-ya"
+    },
+    {
+      "en": "No",
+      "jp": "No",
+      "say": "no"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Mooie",
+      "say": "MOO-ee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sr-hero.jpg",
+      "alt": "Paramaribo waterfront colonial wooden buildings seen from Suriname River",
+      "caption": "PARAMARIBO WATERFRONT — Dutch colonial wooden buildings line the river",
+      "credit": "Mark Ahsmann / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/sr-landmark.jpg",
+      "alt": "Fort Zeelandia historic Dutch fort in Paramaribo Suriname",
+      "caption": "FORT ZEELANDIA — Dutch fort built in 1667, now a riverside museum",
+      "credit": "Mark Ahsmann / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sr-animalA.jpg",
+      "alt": "Giant river otter Pteronura brasiliensis looking alert",
+      "caption": "GIANT RIVER OTTER — up to 2 m long, Suriname rivers are their stronghold",
+      "credit": "Frank Wouters / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/sr-animalB.jpg",
+      "alt": "Wide view of the Suriname river winding through dense tropical rainforest",
+      "caption": "SURINAME RIVER — winding through deep forest in Sipaliwini province",
+      "credit": "-JvL- / CC BY 2.0"
+    }
+  }
+}

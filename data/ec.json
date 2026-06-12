@@ -1,0 +1,163 @@
+{
+  "name": "ECUADOR",
+  "nativeName": "EC",
+  "romaji": "ECUADOR",
+  "tagline": "Four worlds in one country",
+  "region": "South America",
+  "coords": "1.83°S, 78.18°W",
+  "fileNo": "47",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CEBF9A",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#DCCFA8",
+    "accent": "#E8B800",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/ec.svg",
+    "title": "Flag of Ecuador",
+    "note": "Yellow, blue & red with coat of arms",
+    "keyColor": "#E8B800",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ecuador's name means 'equator' — it sits right on the line that splits the Earth in half. In one small country you'll find snowy volcanoes, Amazon jungle, Pacific beaches, and the Galápagos Islands, where giant tortoises roam freely. It is one of Earth's most biodiverse places, with more bird species per km² than almost anywhere else.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Quito",
+      "sub": "Sits 2,850 m above sea level"
+    },
+    {
+      "label": "People",
+      "value": "18.6 million",
+      "sub": "Est. 2024, INEC projection"
+    },
+    {
+      "label": "Money",
+      "value": "US Dollar",
+      "sub": "Uses USD since 2000"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Kichwa also widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "283,561 km²",
+      "sub": "Incl. Galápagos Islands"
+    },
+    {
+      "label": "Top peak",
+      "value": "6,263 m",
+      "sub": "Chimborazo volcano"
+    }
+  ],
+  "islands": [
+    "QUITO",
+    "GUAYAQUIL",
+    "CUENCA",
+    "GALÁPAGOS",
+    "MANTA"
+  ],
+  "islandsLabel": "MAIN CITIES & REGIONS:",
+  "sections": {
+    "geography": "Four worlds, one tiny country",
+    "animals": "Giants, iguanas & hummingbirds",
+    "culture": "Hats, music & hilltop markets",
+    "history": "Inca gold to independence",
+    "wows": "Surprising Ecuador facts!"
+  },
+  "geo": [
+    "Ecuador squeezes four worlds together: the Andes run down the middle like a spine, with Chimborazo so tall its peak is the farthest point from Earth's centre of any spot on the planet.",
+    "East lies a slice of the Amazon; west, Pacific beaches. Then 1,000 km offshore, the volcanic Galápagos Islands rise from the ocean — where animals evolved unlike anywhere else on Earth."
+  ],
+  "animals": [
+    "The Galápagos giant tortoise weighs 400 kg and lives over 100 years. Marine iguanas dive into the sea to eat algae — the only lizard on Earth that does this.",
+    "On the mainland, jaguars stalk the Amazon, spectacled bears roam cloud forests, and Ecuador's 130+ hummingbird species hover like tiny jewels. The Andean condor soars on a 3-metre wingspan."
+  ],
+  "culture": [
+    "The famous 'Panama hat' is Ecuadorian — woven by hand from toquilla straw in coastal villages, a craft so fine it's on UNESCO's heritage list. A quality hat can take months to complete.",
+    "Music ranges from Andean pipes and drums to coastal marimba. The Otavalo market, run by Kichwa communities, has traded vivid hand-woven textiles for centuries."
+  ],
+  "history": [
+    "Long before Spanish arrival, the Inca Empire swept through in the 1400s, making Quito a northern capital. Conquistadors arrived in 1534, building churches on top of Inca foundations.",
+    "Ecuador declared independence in 1822 with Simón Bolívar's help. In 2008 it became the first country to write the rights of nature into its constitution, giving rivers legal protections."
+  ],
+  "wows": [
+    "Chimborazo's summit is farther from Earth's centre than Everest's, because our planet bulges at the equator.",
+    "Ecuador ships over 5 million tonnes of bananas a year, ranking among the world's top exporters.",
+    "The Galápagos marine iguana sneezes out sea-salt it absorbs, leaving white crusts on its face.",
+    "Quito was the first city ever declared a UNESCO World Heritage Site, in 1978.",
+    "Ecuador holds 4,000+ orchid species — more than any other country on Earth.",
+    "At Mitad del Mundo you can stand with one foot in each hemisphere at the same time.",
+    "Darwin's 1835 Galápagos visit sparked his world-changing theory of evolution."
+  ],
+  "myths": [
+    {
+      "myth": "\"Panama hats come from Panama\"",
+      "fact": "They were made in Ecuador all along — exported via Panama in the 1800s, which stuck them with the wrong name. The finest ones come from Montecristi, Ecuador."
+    },
+    {
+      "myth": "\"Chimborazo is lower than Everest\"",
+      "fact": "By sea-level height, yes — but measured from Earth's centre, Chimborazo wins. Earth's equatorial bulge lifts its summit roughly 2,168 km higher than Everest's."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ass"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Delicioso!",
+      "say": "deh-lee-SYOH-so"
+    },
+    {
+      "en": "Where is...?",
+      "jp": "¿Dónde está?",
+      "say": "DON-deh es-TAH"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Adiós",
+      "say": "ah-DYOSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ec-hero.jpg",
+      "alt": "Aerial view of Quito's historic centre with colonial church spires",
+      "caption": "QUITO OLD TOWN — one of the best-preserved colonial centres in the Americas",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ec-landmark.jpg",
+      "alt": "Snow-capped Cotopaxi volcano cone rising above Andean plateau",
+      "caption": "COTOPAXI — one of the world's highest active volcanoes at 5,897 m",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ec-animalA.jpg",
+      "alt": "Galápagos giant tortoise with dome shell on grass",
+      "caption": "GALÁPAGOS GIANT TORTOISE — can outlive any human, surpassing 100 years",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ec-animalB.jpg",
+      "alt": "Blue-footed booby standing on rock showing vivid blue feet",
+      "caption": "BLUE-FOOTED BOOBY — dances to show off its brilliant blue feet",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

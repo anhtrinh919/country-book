@@ -1,0 +1,163 @@
+{
+  "name": "KAZAKHSTAN",
+  "nativeName": "ҚЗ",
+  "romaji": "QAZAQSTAN",
+  "tagline": "Steppe, Sky & Space",
+  "region": "Central Asia",
+  "coords": "48°N 68°E",
+  "fileNo": "62",
+  "langName": "Kazakh",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EAD4",
+    "dot": "#C9B98A",
+    "ink": "#1E1A12",
+    "faint": "#8A7A4E",
+    "line": "#DDD0A8",
+    "accent": "#00AEEF",
+    "accent2": "#F0C020"
+  },
+  "flag": {
+    "assetPath": "/flags/kz.svg",
+    "title": "Sky & Sun",
+    "note": "Blue sky, gold sun & soaring eagle, 32 rays",
+    "keyColor": "#00AEEF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kazakhstan is the world's biggest landlocked country — endless golden steppe, Tian Shan peaks, and skies that swallow the horizon. Kazakh nomads rode horses here for millennia, living in portable round tents called yurts. Today it launches rockets from Baikonur and grows futuristic cities from flat grassland.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Astana",
+      "sub": "On the Ishim River, since 1997"
+    },
+    {
+      "label": "People",
+      "value": "20.2 million",
+      "sub": "Official estimate, Jan 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Tenge ₸",
+      "sub": "Introduced Nov 1993"
+    },
+    {
+      "label": "Language",
+      "value": "Kazakh",
+      "sub": "Russian also official"
+    },
+    {
+      "label": "Land area",
+      "value": "2,724,900 km²",
+      "sub": "9th largest country on Earth"
+    },
+    {
+      "label": "High point",
+      "value": "6,995 m",
+      "sub": "Khan Tengri, Tian Shan range"
+    }
+  ],
+  "islands": [
+    "Astana",
+    "Almaty",
+    "Shymkent",
+    "Karaganda",
+    "Aktau"
+  ],
+  "islandsLabel": "MAJOR CITIES:",
+  "sections": {
+    "geography": "Sea of grass & sky",
+    "animals": "Wild herds & hunting eagles",
+    "culture": "Nomad feasts & dombra songs",
+    "history": "Silk Road to rocket age",
+    "wows": "Wait, really?!"
+  },
+  "geo": [
+    "Kazakhstan is so vast it spans the width of Western Europe. Most is steppe — endless flat grassland — but the south-east rises into jagged Tian Shan peaks, and the west dips into a hollow 132 m below sea level.",
+    "The Aral Sea, once the world's fourth-largest lake, shrank to 10% of its size after Soviet engineers diverted its rivers for cotton. Kazakhstan built a dam in 2005 and the northern section is slowly, remarkably, refilling."
+  ],
+  "animals": [
+    "Kazakhstan's national animal is the golden eagle. Hunters called berkutchi have trained these birds to hunt from horseback for over 4,000 years — a golden eagle can dive at 240 km/h and spot prey a kilometre away.",
+    "The saiga antelope's bulbous nose filters steppe dust and warms icy air. Once nearly extinct, the population has rebounded to over 2.8 million — one of conservation's greatest comeback stories."
+  ],
+  "culture": [
+    "Kazakh hospitality is legendary — guests are always fed first, and hosts carve a whole sheep, giving the head to the most honoured visitor. The national dish, beshbarmak ('five fingers'), is boiled horse or lamb over noodles, eaten with your hands.",
+    "Music flows through Kazakh life via the dombra, a two-stringed lute that is the soul of the steppe. Fermented mare's milk, kumiss, has been drunk here for 5,000 years and is considered both beverage and medicine."
+  ],
+  "history": [
+    "Kazakh lands sat at the crossroads of the Silk Road; caravans of silk and spice passed through Taraz and Otrar. Genghis Khan swept through in 1219, but the Kazakh Khanate rose again in the 15th century as proud nomadic rulers.",
+    "Russia absorbed Kazakhstan through the 18th–19th centuries, and Soviet rule brought space launches from Baikonur. Kazakhstan declared independence on 16 December 1991 — the very last Soviet republic to do so."
+  ],
+  "wows": [
+    "Kazakhstan is larger than all of Western Europe, yet no border touches an ocean.",
+    "DNA studies confirm the wild apple forests near Almaty are the original home of every apple on Earth.",
+    "Baikonur launched Sputnik (1957) and Yuri Gagarin (1961) — both space firsts on Kazakh soil.",
+    "The tenge symbol ₸ was chosen by national competition in 2007, 14 years after the currency launched.",
+    "Khan Tengri's pure marble summit glows blood-red at sunset — climbers call it King of the Sky.",
+    "The saiga rebounded from 50,000 to 2.8 million animals in two decades — a record wildlife recovery.",
+    "Astana's winters plunge to −40 °C, making it one of the coldest capital cities on the planet."
+  ],
+  "myths": [
+    {
+      "myth": "Kazakhstan is just like Borat shows",
+      "fact": "Borat was filmed in Romania. Real Kazakhstan has modern cities, women vote and drive, and the government was furious with the film."
+    },
+    {
+      "myth": "It's all flat, featureless desert",
+      "fact": "The steppe is vast, but Kazakhstan also has Tian Shan glaciers, Altai forests, deep canyons, and a Caspian Sea coastline."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Сәлем",
+      "say": "SAH-lem"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Рахмет",
+      "say": "RAKH-met"
+    },
+    {
+      "en": "Yes",
+      "jp": "Иә",
+      "say": "YAH"
+    },
+    {
+      "en": "No",
+      "jp": "Жоқ",
+      "say": "ZHOK"
+    },
+    {
+      "en": "Horse",
+      "jp": "Жылқы",
+      "say": "ZHIL-kuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kz-hero.jpg",
+      "alt": "Khan Shatyr tent-shaped entertainment centre in Astana",
+      "caption": "KHAN SHATYR — Astana's giant transparent tent rises 150 m above the steppe",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kz-landmark.jpg",
+      "alt": "Bayterek Tower monument in Astana, Kazakhstan",
+      "caption": "BAYTEREK TOWER — Astana's golden-sphere symbol, 105 m tall",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kz-animalA.jpg",
+      "alt": "Saiga antelope on the Kazakh steppe showing its distinctive bulbous nose",
+      "caption": "SAIGA ANTELOPE — its bulbous nose filters dust on the open steppe",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kz-animalB.jpg",
+      "alt": "Kazakh berkutchi eagle hunter on horseback with golden eagle",
+      "caption": "GOLDEN EAGLE — berkutchi hunters have flown these birds for 4,000 years",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

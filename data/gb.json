@@ -1,0 +1,162 @@
+{
+  "name": "UK",
+  "nativeName": "GB",
+  "romaji": "UNITED KINGDOM",
+  "tagline": "An island of big ideas",
+  "region": "Western Europe",
+  "coords": "51.5°N, 0.1°W",
+  "fileNo": "047",
+  "langName": "British English",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBE1",
+    "dot": "#C8BCA8",
+    "ink": "#1E1C1A",
+    "faint": "#7A6E5C",
+    "line": "#D8CEBC",
+    "accent": "#C8102E",
+    "accent2": "#012169"
+  },
+  "flag": {
+    "assetPath": "/flags/gb.svg",
+    "title": "The Union Jack",
+    "note": "Red, white & blue cross of three nations",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "The UK is four countries — England, Scotland, Wales, N. Ireland — one island home off Europe's coast. It gave the world Shakespeare, the steam engine, the Web, and football. Rainy, tea-loving, full of castles: once ruling a quarter of the Earth, today it leads in music, science, and storytelling.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "London",
+      "sub": "Pop. 9.7 million"
+    },
+    {
+      "label": "People",
+      "value": "67.6 million",
+      "sub": "Est. 2023, ONS"
+    },
+    {
+      "label": "Money",
+      "value": "Pound (£)",
+      "sub": "GBP — world's oldest currency"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus Welsh, Scots Gaelic"
+    },
+    {
+      "label": "Land area",
+      "value": "243,610 km²",
+      "sub": "Slightly bigger than Romania"
+    },
+    {
+      "label": "Top point",
+      "value": "Ben Nevis",
+      "sub": "1,345 m — Scotland"
+    }
+  ],
+  "islands": [
+    "London",
+    "Edinburgh",
+    "Cardiff",
+    "Belfast"
+  ],
+  "islandsLabel": "CAPITAL CITIES:",
+  "sections": {
+    "geography": "An island of moors & castles",
+    "animals": "Wild things & royal beasts",
+    "culture": "Tea, telly & tradition",
+    "history": "Empires & inventions",
+    "wows": "Brilliant British surprises"
+  },
+  "geo": [
+    "Britain sits on two main islands separated from Europe by the Channel — just 34 km wide at its narrowest. Scotland's Highlands have ancient lochs and craggy mountains; Wales has green valleys; England's south is gentle chalk downs.",
+    "The coastline stretches over 17,800 km — no point in England is more than 113 km from the sea. The Gulf Stream keeps winters mild, but also delivers those famous grey skies that inspired countless poets."
+  ],
+  "animals": [
+    "The red squirrel is Britain's native squirrel, now rare after the larger grey squirrel arrived from America in 1876. Puffins nest on rocky sea cliffs each spring, and grey seals bask by the thousand on remote Scottish shores.",
+    "The robin is Britain's unofficial national bird — bold enough to perch on a gardener's spade. Rare wildcats still prowl Scottish glens, and wild Dartmoor ponies roam the southwest moors as they have for centuries."
+  ],
+  "culture": [
+    "The British love a queue — standing in an orderly line is practically a national sport. Tea is brewed over 100 million times every day. The BBC, founded in 1927, is the world's oldest national broadcaster, reaching 468 million people weekly.",
+    "Football was codified in England in 1863 and spread to every corner of the globe. Bonfire Night on 5 November fills the sky with fireworks. The Changing of the Guard at Buckingham Palace, with bearskin hats and brass bands, draws millions of visitors each year."
+  ],
+  "history": [
+    "Romans invaded in 43 AD, building roads and baths still visible today. The Normans arrived in 1066 — the last successful invasion — changing the language and laws forever. Magna Carta in 1215 planted the seed of modern democracy.",
+    "The Industrial Revolution ignited here in the 1760s, turning the world from farms to factories. The British Empire became the largest in history by the 1920s. In 1948 Britain created the NHS — free healthcare for every citizen."
+  ],
+  "wows": [
+    "London's Underground opened in 1863 — the world's first metro; passengers rode gas-lit wooden carriages.",
+    "Tim Berners-Lee invented the World Wide Web and gave it away free so everyone could use it.",
+    "Britain has no written constitution — it runs on centuries-old laws and customs.",
+    "The UK fields four separate World Cup football teams: England, Scotland, Wales, N. Ireland.",
+    "Oxford University was already 300 years old when the Aztec Empire was founded.",
+    "More Nobel Prize winners came from the UK than any country except the United States.",
+    "Big Ben is just the bell — the tower is officially called the Elizabeth Tower."
+  ],
+  "myths": [
+    {
+      "myth": "It rains every single day in Britain",
+      "fact": "London gets less annual rainfall than Rome or Miami — the drizzle is frequent but rarely a downpour, and often clears by afternoon."
+    },
+    {
+      "myth": "The King rules the country",
+      "fact": "The monarch holds no political power — Parliament and the Prime Minister make every real decision; the King's role is ceremonial."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hiya!",
+      "say": "HI-yah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Cheers!",
+      "say": "CHEERZ"
+    },
+    {
+      "en": "Excellent",
+      "jp": "Brilliant!",
+      "say": "BRIL-yant"
+    },
+    {
+      "en": "Biscuit",
+      "jp": "Biscuit",
+      "say": "BIS-kit"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Ta-ta!",
+      "say": "tah-TAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gb-hero.jpg",
+      "alt": "Tower Bridge over the Thames in London",
+      "caption": "TOWER BRIDGE — London's Victorian bascule bridge over the Thames, opened 1894",
+      "credit": "© Diliff / Wikimedia Commons CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/gb-landmark.jpg",
+      "alt": "Stonehenge stone circle on Salisbury Plain",
+      "caption": "STONEHENGE — 5,000-year-old standing stones on Salisbury Plain, England",
+      "credit": "© Adam Kliczek / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/gb-animalA.jpg",
+      "alt": "Atlantic puffin with colourful beak on a rocky cliff",
+      "caption": "ATLANTIC PUFFIN — nests on British sea cliffs each spring and summer",
+      "credit": "© Ómar Runólfsson / Wikimedia CC BY"
+    },
+    "animalB": {
+      "src": "/photos/gb-animalB.jpg",
+      "alt": "Red squirrel perched on a branch",
+      "caption": "RED SQUIRREL — Britain's native squirrel, now rare outside Scotland",
+      "credit": "© Diliff / Wikimedia Commons CC BY-SA"
+    }
+  }
+}

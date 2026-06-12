@@ -1,0 +1,163 @@
+{
+  "name": "VENEZUELA",
+  "nativeName": "VE",
+  "romaji": "VENEZUELA",
+  "tagline": "Land of Angels & Oil",
+  "region": "Northern South America",
+  "coords": "8.0°N, 66.0°W",
+  "fileNo": "058",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBA96",
+    "ink": "#231F1A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#CF142B",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/ve.svg",
+    "title": "Tricolor & Stars",
+    "note": "Yellow, blue, red with 8 stars in arc",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Venezuela tops South America, where the Orinoco winds through jungle and the world's tallest waterfall turns to mist before landing. Flat-topped mountains called tepuis rise above clouds sheltering animals found nowhere else. From Caribbean beaches to Andes snowcaps, Venezuela packs astonishing variety into one wild, colourful country.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Caracas",
+      "sub": "pop. ~2.9 million (2023 est.)"
+    },
+    {
+      "label": "People",
+      "value": "~28.3 M",
+      "sub": "est. 2024; ~8 M living abroad"
+    },
+    {
+      "label": "Money",
+      "value": "Bolívar (VES)",
+      "sub": "US dollar widely used too"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "plus ~40 indigenous languages"
+    },
+    {
+      "label": "Land area",
+      "value": "916,445 km²",
+      "sub": "twice the size of California"
+    },
+    {
+      "label": "High point",
+      "value": "Pico Bolívar",
+      "sub": "4,978 m — in the Andes"
+    }
+  ],
+  "islands": [
+    "Caracas",
+    "Maracaibo",
+    "Valencia",
+    "Barquisimeto",
+    "Guayana"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Tepuis, rivers & wild skies",
+    "animals": "Creatures of jungle & river",
+    "culture": "Music, food & fiesta",
+    "history": "From colonies to black gold",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Venezuela has four worlds squeezed together: icy Andes in the west, warm Caribbean beaches in the north, vast grassy Llanos plains in the centre, and Amazon rainforest in the south. The mighty Orinoco, one of South America's longest rivers, drains almost the entire country.",
+    "The Gran Sabana in the southeast is otherworldly — flat-topped mountains called tepuis burst through clouds like giant stone tables. Angel Falls tumbles 979 m off Auyán-tepui, the world's highest uninterrupted waterfall, nearly 16 times taller than Niagara."
+  ],
+  "animals": [
+    "The Orinoco teems with giant anacondas, spectacled caimans, and Orinoco crocodiles. Capybaras — dog-sized guinea pigs, the world's largest rodents — graze in huge herds. Pink river dolphins called toninas glide through murky jungle waterways.",
+    "Venezuela's cloud forests hide jaguars, tapirs, and spectacled bears. The tiny pebble toad on the tepuis rolls itself into a ball to escape danger. Over 1,400 bird species live here — more than all of Europe combined."
+  ],
+  "culture": [
+    "Venezuelans are passionate about baseball, the national sport since the 1940s. The joropo — played on harp, maracas, and a small four-string cuatro guitar — is the national music, fast and festive as a cowboy party on the open plains.",
+    "Food centres on the arepa: a corn cake stuffed with cheese, beans, or shredded beef. At Christmas, whole families fold hallacas — spiced meat parcels in banana leaves. Strong café negro is sipped at every hour of the day."
+  ],
+  "history": [
+    "Indigenous Wayuu and Timoto-Cuica peoples lived here before Columbus touched Venezuelan shores in 1498 — mainland America. Spain ruled 300 years, importing enslaved Africans for cacao and sugar plantations.",
+    "Simón Bolívar, born in Caracas in 1783, liberated Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spain. Oil discovered under Lake Maracaibo in 1914 made Venezuela one of the Americas' wealthiest nations, though managing that fortune proved an enormous challenge."
+  ],
+  "wows": [
+    "Angel Falls is so tall the water turns to mist before reaching the ground on windy days.",
+    "Venezuela holds the world's largest proven oil reserves — more than Saudi Arabia.",
+    "Half the plant species atop the tepuis grow nowhere else on the planet.",
+    "Lake Maracaibo has a permanent lightning storm firing ~280 bolts per hour most nights.",
+    "The capybara, a rodent the size of a Labrador, roams the Llanos in herds of 100+.",
+    "Caracas is just 9 km from the Caribbean Sea yet stays cool year-round at 900 m altitude.",
+    "Venezuela has won more Miss Universe and Miss World titles than any other country."
+  ],
+  "myths": [
+    {
+      "myth": "Venezuela is all jungle and rainforest",
+      "fact": "Half the country is open Llanos grassland, and it also has snowy Andes peaks, Caribbean beaches, and arid scrubland — four completely different landscapes."
+    },
+    {
+      "myth": "Angel Falls is named after an angel",
+      "fact": "It is named after Jimmy Angel, an American pilot who crash-landed on top of Auyán-tepui in 1937 while searching for gold — and survived the trek out."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Friend",
+      "jp": "Pana",
+      "say": "PAH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ve-hero.jpg",
+      "alt": "Angel Falls cascading from a tepui in Venezuela",
+      "caption": "ANGEL FALLS — 979 m of freefall off Auyán-tepui, the world's highest waterfall",
+      "credit": "Wikimedia Commons / Paulo Brito"
+    },
+    "landmark": {
+      "src": "/photos/ve-landmark.jpg",
+      "alt": "Flat-topped tepui mountains rising through clouds in the Gran Sabana",
+      "caption": "TEPUIS — ancient table-top mountains piercing the clouds of Gran Sabana",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ve-animalA.jpg",
+      "alt": "Capybara resting near water",
+      "caption": "CAPYBARA — world's biggest rodent, at home in Venezuela's Llanos wetlands",
+      "credit": "Wikimedia Commons / Cody Pope"
+    },
+    "animalB": {
+      "src": "/photos/ve-animalB.jpg",
+      "alt": "Scarlet ibis birds in mangrove wetland",
+      "caption": "SCARLET IBIS — thousands flock to the Orinoco Delta, turning it bright red",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

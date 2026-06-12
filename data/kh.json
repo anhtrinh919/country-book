@@ -1,0 +1,163 @@
+{
+  "name": "CAMBODIA",
+  "nativeName": "កម្ពុជ",
+  "romaji": "KAMPUCHEA",
+  "tagline": "Land of Temples & Rivers",
+  "region": "Southeast Asia",
+  "coords": "12.57°N, 104.99°E",
+  "fileNo": "042",
+  "langName": "Khmer",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CABA98",
+    "ink": "#27201A",
+    "faint": "#8A7558",
+    "line": "#DED0B0",
+    "accent": "#C0202E",
+    "accent2": "#1A3A7A"
+  },
+  "flag": {
+    "assetPath": "/flags/kh.svg",
+    "title": "Flag of Cambodia",
+    "note": "Red centre, blue edges; Angkor Wat in white",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Cambodia sits at the heart of Southeast Asia, where the Mekong flows past jungles hiding one of the world's greatest wonders — Angkor Wat. The Khmer people built a vast empire here over a thousand years ago, and stone temples still stand in the forest. Life revolves around rice, fish from the great Tonle Sap lake, and the monsoon rains.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Phnom Penh",
+      "sub": "On the Mekong River"
+    },
+    {
+      "label": "People",
+      "value": "17.3 million",
+      "sub": "2024 inter-censal survey"
+    },
+    {
+      "label": "Money",
+      "value": "Riel (KHR)",
+      "sub": "US dollars also used daily"
+    },
+    {
+      "label": "Language",
+      "value": "Khmer",
+      "sub": "Spoken by 16 m+ people"
+    },
+    {
+      "label": "Land area",
+      "value": "181,035 km²",
+      "sub": "Similar in size to Oklahoma"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Phnom Aural",
+      "sub": "1,813 m, Cardamom Mtns"
+    }
+  ],
+  "islands": [
+    "Phnom Penh",
+    "Siem Reap",
+    "Battambang",
+    "Kampot",
+    "Kratie"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rivers, Lakes & Jungle",
+    "animals": "Wild Creatures of the Mekong",
+    "culture": "Temples, Dance & Flavour",
+    "history": "Empires, Temples & Rebirth",
+    "wows": "Wow! Did You Know?"
+  },
+  "geo": [
+    "Cambodia is mostly flat lowlands watered by the Mekong River. At the centre lies Tonle Sap — Southeast Asia's largest freshwater lake, which swells to six times its dry-season size when monsoon floods reverse its river's flow.",
+    "The Cardamom Mountains rise in the southwest, sheltering dense rainforest. About 20 % of the land is farmed — mostly rice paddies that shimmer green each wet season as the rains arrive."
+  ],
+  "animals": [
+    "The Irrawaddy dolphin — a chubby, smiling freshwater dolphin — lives only in a short stretch of the Mekong near Kratie. Cambodians consider these rare creatures sacred. Around 100 individuals survive today, and careful protection has helped the population slowly grow.",
+    "The giant ibis is Cambodia's national bird, a huge wading bird nearly as tall as a child. Critically endangered, it nests in northern forests. Asian elephants still roam the Cardamom Mountains in small, protected herds."
+  ],
+  "culture": [
+    "Cambodians greet each other with a sampeah — pressing palms together and bowing slightly. The higher the hands, the more respect is shown. Classical Apsara dance, inscribed by UNESCO, uses intricate hand gestures to tell stories from ancient mythology.",
+    "Khmer food is built around prahok — a fermented fish paste nicknamed 'Cambodian cheese'. It gives dishes a deep, rich flavour. Fish amok, steamed in banana leaves with coconut milk, is the dish visitors most remember."
+  ],
+  "history": [
+    "In 802 CE, King Jayavarman II declared himself god-king and launched the Khmer Empire. Over 600 years it grew to cover much of mainland Southeast Asia. Angkor, its capital, became the largest pre-industrial city on Earth.",
+    "The empire fell in 1431 to Thai invaders, and Cambodia later became a French colony. In the 1970s the Khmer Rouge caused devastating loss of life. Since the 1990s, the country has rebuilt with remarkable determination."
+  ],
+  "wows": [
+    "Angkor Wat is the world's largest religious monument — 162 hectares, with a moat over 5 km around its walls.",
+    "Cambodia's flag shows an actual building — the towers of Angkor Wat — as its central design.",
+    "The Tonle Sap River reverses direction twice a year when Mekong monsoon floods push water upstream.",
+    "Angkor was Earth's biggest pre-industrial city at its 13th-century peak, as wide as modern Los Angeles.",
+    "Cambodia has no McDonald's — one of the last countries in Southeast Asia without a single branch.",
+    "Khmer is not a tonal language, unlike neighbours Thai and Vietnamese — a rare trait in the region.",
+    "Cambodian weddings last three full days, so every relative from every village can celebrate."
+  ],
+  "myths": [
+    {
+      "myth": "Angkor Wat was a 'lost city' forgotten for centuries",
+      "fact": "Angkor was never truly abandoned — people lived, farmed, and worshipped there continuously. European explorers simply made it famous abroad in the 1800s."
+    },
+    {
+      "myth": "Cambodia has the only flag with a building on it",
+      "fact": "Other flags also show buildings: Portugal, San Marino, and Spain each include one in their coat of arms. Cambodia's Angkor Wat is just the most prominent."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "សួស្តី",
+      "say": "Soo-s'day"
+    },
+    {
+      "en": "Thank you",
+      "jp": "អរគុណ",
+      "say": "Aw-koon"
+    },
+    {
+      "en": "How are you?",
+      "jp": "សុខសប្បាយ?",
+      "say": "Sohk sah-bye?"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "ឆ្ងាញ់!",
+      "say": "Chh-ngayn!"
+    },
+    {
+      "en": "Temple",
+      "jp": "វត្ត",
+      "say": "Wut"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/kh-landmark.jpg",
+      "alt": "Angkor Wat temple reflected in the north pond at dawn",
+      "caption": "ANGKOR WAT — world's largest religious monument, mirrored in its north pond",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/kh-animalA.jpg",
+      "alt": "A giant ibis wading in shallow water in Cambodia",
+      "caption": "GIANT IBIS — Cambodia's critically endangered national bird, tallest ibis on Earth",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kh-animalB.jpg",
+      "alt": "Asian elephant in jungle landscape",
+      "caption": "ASIAN ELEPHANT — small herds roam the Cardamom Mountains of southwest Cambodia",
+      "credit": "Wikimedia Commons / CC BY 2.0"
+    },
+    "hero": {
+      "src": "/photos/kh-hero.jpg",
+      "alt": "Phnom Penh city skyline along the Mekong River waterfront",
+      "caption": "PHNOM PENH — Cambodia's capital on the Mekong, old temples meet new skyline",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

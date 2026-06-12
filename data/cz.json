@@ -1,0 +1,163 @@
+{
+  "name": "CZECHIA",
+  "nativeName": "Česko",
+  "romaji": "CZECHIA",
+  "tagline": "Heart of Europe",
+  "region": "Central Europe",
+  "coords": "49.8°N, 15.5°E",
+  "fileNo": "042",
+  "langName": "Czech",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BBA8",
+    "ink": "#27231F",
+    "faint": "#8A7A62",
+    "line": "#DDD3C0",
+    "accent": "#D7141A",
+    "accent2": "#11457E"
+  },
+  "flag": {
+    "assetPath": "/flags/cz.svg",
+    "title": "Flag of Czechia",
+    "note": "White, red & blue with blue wedge at hoist",
+    "keyColor": "#D7141A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Czechia sits in the heart of Europe — locked in by Germany, Austria, Slovakia and Poland, no sea in sight. A land of fairy-tale castles, Gothic spires, golden beer and cobblestone squares. Prague is one of the best-preserved medieval cities on Earth, with more castles per square kilometre than almost anywhere else.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Prague",
+      "sub": "Pop. 1.4 m — city on the Vltava"
+    },
+    {
+      "label": "People",
+      "value": "10.9 million",
+      "sub": "Est. 2024, Czech Stat. Office"
+    },
+    {
+      "label": "Money",
+      "value": "Czech Koruna",
+      "sub": "CZK — 'koruna' means crown"
+    },
+    {
+      "label": "Language",
+      "value": "Czech",
+      "sub": "West Slavic, kin to Slovak"
+    },
+    {
+      "label": "Land area",
+      "value": "78,867 km²",
+      "sub": "Slightly smaller than Austria"
+    },
+    {
+      "label": "High point",
+      "value": "Sněžka 1,603 m",
+      "sub": "Krkonoše (Giant Mountains)"
+    }
+  ],
+  "islands": [
+    "Prague",
+    "Brno",
+    "Ostrava",
+    "Plzeň",
+    "Olomouc"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A kingdom of hills & rivers",
+    "animals": "Lynx, deer & forest folk",
+    "culture": "Beer, brass & fairy tales",
+    "history": "Empires, springs & velvet",
+    "wows": "Jaw-dropping Czechia facts"
+  },
+  "geo": [
+    "Czechia has no coast at all — completely landlocked, ringed by gentle mountain ranges. The west is rolling Bohemian hills; the east opens into Moravia's flatter plains, famous for vineyards and folk festivals.",
+    "The Vltava River winds 430 km through the country, threading under Prague's famous bridges before joining the Elbe. Dense pine forests cover the southern Šumava range, sheltering wolves, lynx and otters in one of Central Europe's wildest corners."
+  ],
+  "animals": [
+    "The Eurasian lynx prowls Šumava forest — a spotted, tufty-eared wildcat the size of a labrador. Hunted to extinction, it was reintroduced in the 1980s; around 60 now live quietly in the Bohemian hills.",
+    "Red deer bugle through misty autumn valleys, and white-tailed eagles soar over fishpond-dotted South Bohemia. The great bustard, Europe's heaviest flying bird, still struts across Moravian fields in small, precious flocks."
+  ],
+  "culture": [
+    "Czechs drink more beer per person than anyone else on Earth — roughly 150 litres each per year. Pilsen invented the pale lager style in 1842, and the Pilsner Urquell brewery still makes it there today.",
+    "Marionette puppetry is a centuries-old Czech art form; intricate wooden puppets perform full operas. Czechs also love fairy tales — TV fairy-tale films air every Christmas Eve and the whole family watches together."
+  ],
+  "history": [
+    "Bohemia was the heart of the Holy Roman Empire under Charles IV, who built Charles Bridge (1357), founded Central Europe's first university (1348) and turned Prague into a glittering imperial capital.",
+    "In 1968 Soviet tanks crushed the Prague Spring reforms. Then in 1989, students took to Wenceslas Square and — in just 43 days of peaceful protest — toppled communist rule without a shot fired: the Velvet Revolution."
+  ],
+  "wows": [
+    "Czechia has over 2,000 castles and châteaux — more than almost any other country in Europe.",
+    "Prague Castle is the world's largest ancient castle complex at nearly 70,000 square metres.",
+    "The word 'robot' was coined by Czech playwright Karel Čapek in his 1920 play R.U.R.",
+    "Czech scientist Otto Wichterle invented the world's first soft contact lenses at home, Christmas Day 1961.",
+    "Czechs hold the world record for highest beer consumption per person — every single year since 1993.",
+    "The ABO blood-type system was first fully classified by Czech psychiatrist Jan Jánský in 1907.",
+    "Czechia packs 16 UNESCO World Heritage Sites into a country smaller than Austria."
+  ],
+  "myths": [
+    {
+      "myth": "Czech Republic and Czechoslovakia are the same",
+      "fact": "Czechoslovakia split peacefully on 1 Jan 1993 — the Velvet Divorce. Czechia (west) and Slovakia (east) became separate nations with their own flags, languages and currencies."
+    },
+    {
+      "myth": "Prague is in Eastern Europe",
+      "fact": "Prague sits further west than Vienna and nearly level with Stockholm. Czechia is Central Europe; the 'Eastern' label is a Cold War political tag, not a geography fact."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Ahoj",
+      "say": "ah-HOY"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Děkuji",
+      "say": "DYEH-koo-yi"
+    },
+    {
+      "en": "Please",
+      "jp": "Prosím",
+      "say": "PRO-seem"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "Na zdraví",
+      "say": "nah ZDRA-vee"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Na shledanou",
+      "say": "nah SKLE-dah-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cz-hero.jpg",
+      "alt": "Charles Bridge spanning the Vltava River in Prague at golden hour",
+      "caption": "CHARLES BRIDGE — Prague's 14th-century stone bridge lined with Baroque saints",
+      "credit": "Wikimedia Commons / DOWIMA, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/cz-landmark.jpg",
+      "alt": "Panoramic view of Prague Castle and St Vitus Cathedral from Charles Bridge",
+      "caption": "PRAGUE CASTLE — the world's largest castle complex on the Vltava skyline",
+      "credit": "Wikimedia Commons / D. Mottl, CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/cz-animalA.jpg",
+      "alt": "Eurasian lynx crouching in a forest showing spotted coat and tufted ears",
+      "caption": "EURASIAN LYNX — reintroduced to the Šumava forest in the 1980s",
+      "credit": "Wikimedia Commons, CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/cz-animalB.jpg",
+      "alt": "Red deer stag with large antlers standing in an autumn meadow",
+      "caption": "RED DEER STAG — roaming forests and valleys across Bohemia and Moravia",
+      "credit": "Wikimedia Commons, CC BY-SA 3.0"
+    }
+  }
+}

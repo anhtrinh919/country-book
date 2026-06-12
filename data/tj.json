@@ -1,0 +1,163 @@
+{
+  "name": "TAJIKISTAN",
+  "nativeName": "Тоҷик",
+  "romaji": "TOJIKISTON",
+  "tagline": "Roof of the World",
+  "region": "Central Asia",
+  "coords": "38.5N, 71.0E",
+  "fileNo": "084",
+  "langName": "Tajik",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#c9bfa8",
+    "ink": "#25201a",
+    "faint": "#8a7a5e",
+    "line": "#ddd0bb",
+    "accent": "#CC2027",
+    "accent2": "#2E7D32"
+  },
+  "flag": {
+    "assetPath": "/flags/tj.svg",
+    "title": "Tajikistan",
+    "note": "Tricolour: red, white, green + crown & stars",
+    "keyColor": "#CC2027",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tajikistan is a landlocked mountain kingdom where 90% of the land is dramatic peaks and valleys. The Pamirs — dubbed the Roof of the World — rise so high that half the country sits above 3,000 m. Silk Road caravans once threaded these passes. Today snow leopards prowl glaciers and nomads herd giant-horned sheep above the clouds.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Dushanbe",
+      "sub": "Name means 'Monday' in Tajik"
+    },
+    {
+      "label": "People",
+      "value": "10.6 million",
+      "sub": "UN estimate 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Somoni (TJS)",
+      "sub": "1 somoni = 100 dirams"
+    },
+    {
+      "label": "Language",
+      "value": "Tajik",
+      "sub": "Persian family; Cyrillic script"
+    },
+    {
+      "label": "Land area",
+      "value": "141,400 km²",
+      "sub": "Roughly the size of Greece"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "7,495 m",
+      "sub": "Ismoil Somoni Peak, Pamirs"
+    }
+  ],
+  "islands": [
+    "Dushanbe",
+    "Khujand",
+    "Khorog",
+    "Kulob",
+    "Istaravshan"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of sky-high peaks",
+    "animals": "Ghosts of the Pamirs",
+    "culture": "Bread, tea & silk roads",
+    "history": "Empires on the roof",
+    "wows": "Hard to believe!"
+  },
+  "geo": [
+    "The Pamir Mountains dominate the east — so vast and lofty they earned the nickname Roof of the World. Ismoil Somoni Peak reaches 7,495 m, the tallest summit in the former Soviet Union. The Fedchenko Glacier stretches 77 km, the longest glacier outside the polar regions.",
+    "Over 900 rivers carve through the highlands, feeding Central Asia's great rivers. The Nurek Dam — 300 m tall — is one of the world's highest and stores water in a spectacular 70 km canyon reservoir that glows an impossible shade of blue."
+  ],
+  "animals": [
+    "The snow leopard — ghostly grey spotted cat of the high Pamirs — is Tajikistan's most iconic predator. About 250–280 of these rare big cats stalk the rocky ridgelines, hunting ibex and wild sheep in near-total secrecy. Locals call it the ghost of the mountains.",
+    "The Marco Polo sheep is the national animal: its corkscrew horns can grow over 1.5 m long — the largest of any wild sheep on Earth. These shaggy giants graze at over 4,000 m, unbothered by thin air and bitter cold of the high Pamirs."
+  ],
+  "culture": [
+    "Tajik culture revolves around hospitality and bread. A guest is never turned away — tea, flatbread (non), dried fruit and nuts appear on the dastarkhan spread-cloth. The national dish osh is fragrant rice cooked with lamb, carrots and spices in a massive iron kazan pot.",
+    "Every 21 March, Navruz — the Persian New Year — fills streets with music, dancing and the sweet porridge sumalak, stirred all night. Blazing atlas silk dresses and embroidered skullcaps called tubeteika are worn with pride at every celebration."
+  ],
+  "history": [
+    "Tajikistan sits at the crossroads of ancient civilisations. Sogdian merchants carried silk and gold along these passes for over a millennium. In the 9th–10th centuries the Samanid Empire made nearby Bukhara a dazzling centre of Persian poetry and science.",
+    "Russia absorbed the region in the 1800s and Tajikistan became a Soviet republic in 1929. Independence came on 9 September 1991, followed by a civil war that ended in 1997. Since then the country has rebuilt and welcomes visitors to its spectacular peaks."
+  ],
+  "wows": [
+    "Dushanbe means 'Monday' in Tajik — the city grew around a famous weekly Monday market.",
+    "The Dushanbe flagpole stood 165 m tall in 2011 — briefly the world's tallest flagpole.",
+    "The Fedchenko Glacier at 77 km is the longest glacier outside the Arctic and Antarctic.",
+    "Lake Iskanderkul is named after Alexander the Great, who legend says drowned his horse there.",
+    "A 12-metre sleeping Buddha was found buried underground in northern Tajikistan in 1966.",
+    "Over 93% of Tajikistan is mountainous, making it one of Earth's most rugged countries.",
+    "The Nurek Dam stands 300 m tall — one of the highest dams ever built on Earth."
+  ],
+  "myths": [
+    {
+      "myth": "Tajikistan is impossible to visit",
+      "fact": "Adventurous travellers have explored it for decades via the Pamir Highway. Tourism is growing — the main challenge is remoteness, not access."
+    },
+    {
+      "myth": "It's always freezing cold there",
+      "fact": "Summers in the valleys reach 30 °C and Dushanbe is warm May–October. Bitter cold only strikes the high Pamir plateau in winter."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Салом",
+      "say": "sah-LOM"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Раҳмат",
+      "say": "rah-MAT"
+    },
+    {
+      "en": "Yes / No",
+      "jp": "Ҳа / Не",
+      "say": "ha / neh"
+    },
+    {
+      "en": "Please",
+      "jp": "Лутфан",
+      "say": "LOOT-fan"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Хайр",
+      "say": "KHAYR"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/tj-landmark.jpg",
+      "alt": "Palace of Nations with the giant flagpole in Dushanbe, Tajikistan",
+      "caption": "PALACE OF NATIONS — Dushanbe's grand civic centre and record-breaking flagpole",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tj-animalA.jpg",
+      "alt": "A pair of Marco Polo sheep with enormous curling horns in the Pamir Mountains",
+      "caption": "MARCO POLO SHEEP — national animal with the world's longest wild-sheep horns",
+      "credit": "Fábio Olmos / Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/tj-animalB.jpg",
+      "alt": "A snow leopard resting on a rocky surface, grey spotted coat",
+      "caption": "SNOW LEOPARD — the ghost of the Pamirs; ~250 remain in Tajikistan",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "src": "/photos/tj-hero.jpg",
+      "alt": "Modern tree-lined boulevard in central Dushanbe with grand buildings",
+      "caption": "DUSHANBE BOULEVARD — the modern capital built on the site of a Monday bazaar",
+      "credit": "Ninara / Wikimedia Commons / CC BY 2.0"
+    }
+  }
+}

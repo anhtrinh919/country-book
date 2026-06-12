@@ -1,0 +1,163 @@
+{
+  "name": "GAMBIA",
+  "nativeName": "GM",
+  "romaji": "GAMBIA",
+  "tagline": "Africa's Smallest Nation",
+  "region": "West Africa",
+  "coords": "13.45°N, 16.58°W",
+  "fileNo": "047",
+  "langName": "Mandinka",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4C09A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A55",
+    "line": "#E0D0A8",
+    "accent": "#3A7728",
+    "accent2": "#C8262B"
+  },
+  "flag": {
+    "assetPath": "/flags/gm.svg",
+    "title": "The Gambia",
+    "note": "Red, blue & green with white borders",
+    "keyColor": "#3A7728",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Gambia is the smallest country in mainland Africa — a thin sliver curled around the Gambia River. Senegal wraps around it on three sides. The river is the lifeline: people fish, farm, and travel it daily. Despite its size, Gambia bursts with colourful birds, friendly villages, and sunny Atlantic beaches.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Banjul",
+      "sub": "Pop. ~460,000 metro area"
+    },
+    {
+      "label": "People",
+      "value": "2.8 million",
+      "sub": "Est. 2023 (World Bank)"
+    },
+    {
+      "label": "Money",
+      "value": "Dalasi (GMD)",
+      "sub": "≈ 75 dalasi to US$1"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Official; Mandinka widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "11,295 km²",
+      "sub": "Smaller than Jamaica"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "53 m",
+      "sub": "Unnamed ridge, near Sabi"
+    }
+  ],
+  "islands": [
+    "Banjul",
+    "Serekunda",
+    "Brikama",
+    "Farafenni",
+    "Basse"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A river runs through it",
+    "animals": "Wings, fins & river giants",
+    "culture": "Music, groundnuts & kora",
+    "history": "From empire to independence",
+    "wows": "Surprising Gambia"
+  },
+  "geo": [
+    "Gambia is shaped like a long thin finger pointing east into West Africa. The Gambia River fills the centre, flanked by floodplains, mangrove swamps, and savanna. The Atlantic coast has sandy beaches stretching for kilometres.",
+    "Because the land is so flat — nowhere higher than a five-storey building — the river defines everything. In the rainy season it swells dramatically, flooding fields that farmers rely on for rice and millet."
+  ],
+  "animals": [
+    "Gambia is a birdwatcher's paradise with over 560 species, including brilliant bee-eaters and kingfishers. Baboons roam Abuko Nature Reserve near the capital, and green monkeys leap through riverside trees.",
+    "The river teems with Nile crocodiles and hippos that surface with a thunderous snort. At Kachikally's sacred pool, visitors actually touch the crocodiles — considered a blessing by locals."
+  ],
+  "culture": [
+    "The kora — a 21-stringed instrument made from a giant gourd — is Gambia's musical soul. Griots (storytelling musicians) travel between villages singing history and praise, keeping centuries of memory alive without writing it down.",
+    "Groundnuts appear in stews, sauces, and snacks. The main meal, benachin (rice cooked in tomato and fish), is eaten from a shared bowl — a tradition that says: what is mine is yours."
+  ],
+  "history": [
+    "The Gambia River valley was part of the great Mali Empire, controlling gold and salt trade routes. Portuguese sailors arrived in 1455, one of Africa's earliest European contacts. Britain later used Banjul as a base to help end the slave trade.",
+    "Gambia gained independence on 18 February 1965. It briefly merged with Senegal as 'Senegambia' in the 1980s, but the union dissolved in 1989. A long dictatorship ended in 2017 via a peaceful democratic election."
+  ],
+  "wows": [
+    "Gambia is so narrow you can stand in its middle and be closer to the Atlantic than to any border town.",
+    "The sacred crocodile pool at Kachikally holds 80+ wild Nile crocs that calmly allow humans to touch them.",
+    "Over 560 bird species live in an area smaller than Yorkshire — world-class birding in miniature.",
+    "Gambia is almost entirely surrounded by one country — Senegal wraps around it on three sides.",
+    "The kora's 21 strings can sound like harp, guitar, and drum simultaneously — it takes years to master.",
+    "Gambia briefly vanished as a name: 1982–89 it merged with Senegal into the 'Senegambia' confederation.",
+    "Banjul's estuary is so wide the opposite bank is invisible — it looks exactly like open sea."
+  ],
+  "myths": [
+    {
+      "myth": "Gambia is part of Senegal",
+      "fact": "Gambia is fully independent since 1965 — it just happens to be almost entirely surrounded by Senegal, which makes it appear enclave-like on maps."
+    },
+    {
+      "myth": "Too small to be worth visiting",
+      "fact": "Despite its tiny size, Gambia packs in 560+ bird species, Atlantic beaches, hippos, and living griot music traditions that travellers fly continents to experience."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "I be nyadi",
+      "say": "ee-beh NYA-dee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Abaraka",
+      "say": "ah-bah-RAH-kah"
+    },
+    {
+      "en": "Yes",
+      "jp": "Haa",
+      "say": "haa"
+    },
+    {
+      "en": "Food",
+      "jp": "Domo",
+      "say": "DOH-moh"
+    },
+    {
+      "en": "River",
+      "jp": "Baa",
+      "say": "baa"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gm-hero.jpg",
+      "alt": "Banjul cityscape viewed from the Gambia River",
+      "caption": "BANJUL — tiny capital sits where the Gambia River meets the Atlantic",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gm-landmark.jpg",
+      "alt": "Arch 22 monument in Banjul, Gambia",
+      "caption": "ARCH 22 — Banjul's 35-metre triumphal arch, a city landmark",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gm-animalA.jpg",
+      "alt": "Malachite kingfisher perched on a reed",
+      "caption": "MALACHITE KINGFISHER — one of 560+ species along the Gambia River",
+      "credit": "Wikimedia Commons / Dick Daniels"
+    },
+    "animalB": {
+      "src": "/photos/gm-animalB.jpg",
+      "alt": "Nile crocodile resting with mouth open",
+      "caption": "NILE CROCODILE — sacred Kachikally pool lets visitors touch these giants",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

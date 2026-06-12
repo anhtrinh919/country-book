@@ -1,0 +1,163 @@
+{
+  "name": "TRINIDAD",
+  "nativeName": "TT",
+  "romaji": "TRINIDAD",
+  "tagline": "Soca, steel & sweet lime",
+  "region": "Caribbean",
+  "coords": "10.69°N, 61.22°W",
+  "fileNo": "062",
+  "langName": "Trini Creole",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#C9B89A",
+    "ink": "#231F1B",
+    "faint": "#8B7355",
+    "line": "#DDD0B8",
+    "accent": "#CC1C2E",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/tt.svg",
+    "title": "Red, Black & White",
+    "note": "Diagonal stripe of courage & dedication",
+    "keyColor": "#CC1C2E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Twin-island T&T sits 11 km off Venezuela — Trinidad was once attached to South America itself. It gave the world the steelpan, calypso, and one of Earth's wildest street parties. Underground lies a bubbling asphalt lake, and at dusk thousands of scarlet ibis glow red in the mangrove swamps.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Port of Spain",
+      "sub": "On Trinidad's northwest coast"
+    },
+    {
+      "label": "People",
+      "value": "1.37 million",
+      "sub": "World Bank est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "TT Dollar",
+      "sub": "1 USD ≈ 6.75 TTD (2024)"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus Creole & Hindi spoken widely"
+    },
+    {
+      "label": "Land area",
+      "value": "5,131 km²",
+      "sub": "Smaller than Devon, England"
+    },
+    {
+      "label": "High point",
+      "value": "940 m",
+      "sub": "El Cerro del Aripo, N. Range"
+    }
+  ],
+  "islands": [
+    "Port Spain",
+    "S. Fernando",
+    "Chaguanas",
+    "Scarborough",
+    "Arima"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Where South America says hi",
+    "animals": "Scarlet wings & rowdy birds",
+    "culture": "Steelpan, soca & sweet lime",
+    "history": "Oil, sugar & independence",
+    "wows": "Things that'll make you go wow"
+  },
+  "geo": [
+    "Trinidad was once attached to South America — the Gulf of Paria between them is so shallow you could almost wade across. The Northern Range catches clouds and feeds lush rainforest; the south is flat and rich with oil.",
+    "Tobago, 30 km northeast, feels like a different world: coral reefs, quiet fishing villages, and jungle. Together the two islands cover 5,131 km² yet pack in extraordinary wildlife."
+  ],
+  "animals": [
+    "Trinidad's national bird is the scarlet ibis — a flamingo-red wader that glows electric in the setting sun as thousands roost in Caroni Swamp. That vivid colour comes entirely from the shrimps they eat.",
+    "Tobago's bird is the cocrico, a noisy turkey-like forest creature that wakes everyone at dawn. Both appear on the coat of arms. The islands hold 470+ bird species — more than all of Europe."
+  ],
+  "culture": [
+    "Carnival here is the template every other carnival copies. Before Lent, Port of Spain erupts in costumes, soca music, and J'ouvert — where revellers cover themselves in paint and mud before sunrise.",
+    "The steelpan was born in the 1930s when colonial rulers banned drumming. Young musicians hammered oil drums into tuned instruments — the only acoustic instrument invented in the 20th century."
+  ],
+  "history": [
+    "Columbus landed in 1498 and named the island after three peaks he spotted. Spanish, French, and British colonisers followed. Enslaved Africans worked sugar plantations; after emancipation in 1838, indentured workers arrived from India.",
+    "Oil was struck in 1857. Independence came on 31 August 1962 with Dr. Eric Williams as first Prime Minister. The country became a republic in 1976 and is one of the Caribbean's wealthiest economies."
+  ],
+  "wows": [
+    "Pitch Lake at La Brea holds 10 million tonnes of natural asphalt — Raleigh caulked his ships here in 1595.",
+    "Steelpan is the only acoustic instrument invented in the 20th century — the UN made 11 Aug World Steelpan Day.",
+    "Brian Lara of Trinidad scored 400 not out in 2004 — the highest individual Test innings ever played.",
+    "Trinidad rests on the South American shelf — geologically it IS South America, not a volcanic island.",
+    "Pitch Lake heals its own cracks; objects swallowed decades ago resurface later, perfectly preserved.",
+    "Over 470 bird species live here — more than the entire continent of Europe, in a country smaller than Devon.",
+    "Doubles — curried chickpeas in fried bara — were invented in the 1930s and millions eat them every morning."
+  ],
+  "myths": [
+    {
+      "myth": "Trinidad is just one island",
+      "fact": "It is two main islands plus 20+ smaller ones, 30 km apart and feeling totally different — one industrial and buzzing, one all reefs and rainforest."
+    },
+    {
+      "myth": "Carnival is mainly for tourists",
+      "fact": "Carnival belongs to Trinidadians. It grew from the resistance of enslaved Africans and is woven into national identity — most revellers are locals."
+    }
+  ],
+  "words": [
+    {
+      "en": "Chilling out",
+      "jp": "Liming",
+      "say": "LYM-ing"
+    },
+    {
+      "en": "Silly / daft",
+      "jp": "Dotish",
+      "say": "DOH-tish"
+    },
+    {
+      "en": "What's up?",
+      "jp": "Whappen?",
+      "say": "WAP-un"
+    },
+    {
+      "en": "Hip dance",
+      "jp": "Wining",
+      "say": "WY-ning"
+    },
+    {
+      "en": "Good vibes!",
+      "jp": "Vibes real!",
+      "say": "vybz REE-ul"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tt-hero.jpg",
+      "alt": "Port of Spain cityscape viewed from the hills above",
+      "caption": "PORT OF SPAIN — the bustling capital seen from the Northern Range hills",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/tt-landmark.jpg",
+      "alt": "Dark bubbling surface of the Pitch Lake Trinidad",
+      "caption": "PITCH LAKE — world's largest natural asphalt deposit, La Brea, Trinidad",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tt-animalA.jpg",
+      "alt": "Scarlet ibis wading in shallow water",
+      "caption": "SCARLET IBIS — national bird of Trinidad, red from the shrimps it eats",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/tt-animalB.jpg",
+      "alt": "Turquoise water and white sand at Crown Point Beach Tobago",
+      "caption": "CROWN POINT BEACH — Tobago's famous white sand and Caribbean waters",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

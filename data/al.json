@@ -1,0 +1,163 @@
+{
+  "name": "ALBANIA",
+  "nativeName": "AL",
+  "romaji": "SHQIPËRI",
+  "tagline": "Land of Eagles",
+  "region": "Balkans, Southeast Europe",
+  "coords": "41°N 20°E",
+  "fileNo": "AL",
+  "langName": "Albanian",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CCBBA4",
+    "ink": "#221E1A",
+    "faint": "#8A7460",
+    "line": "#DACCB8",
+    "accent": "#D21034",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/al.svg",
+    "title": "Flag of Albania",
+    "note": "Red field with black double-headed eagle",
+    "keyColor": "#D21034",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Albania is a small country on the Adriatic Sea, squeezed between mountains and turquoise water. Its Albanian name — Shqipëria — means \"Land of the Eagles,\" and a fierce black double-headed eagle soars across its red flag. Ancient castles, Ottoman bazaars, and hidden beaches crowd into a country barely bigger than Wales.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Tirana",
+      "sub": "Population ~600,000"
+    },
+    {
+      "label": "People",
+      "value": "2.4 million",
+      "sub": "Census 2023"
+    },
+    {
+      "label": "Money",
+      "value": "Lek (ALL)",
+      "sub": "~95 lek ≈ €1"
+    },
+    {
+      "label": "Language",
+      "value": "Albanian",
+      "sub": "Unique language family"
+    },
+    {
+      "label": "Land area",
+      "value": "28,748 km²",
+      "sub": "Slightly smaller than Belgium"
+    },
+    {
+      "label": "High point",
+      "value": "Korab 2,764 m",
+      "sub": "On the N. Macedonia border"
+    }
+  ],
+  "islands": [
+    "Tirana",
+    "Durrës",
+    "Gjirokastër",
+    "Shkodër",
+    "Vlorë"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, sea & wild rivers",
+    "animals": "Eagles, bears & pelicans",
+    "culture": "Besa, music & painted towers",
+    "history": "Illyrians to independence",
+    "wows": "Did you know?"
+  },
+  "geo": [
+    "Almost all of Albania is mountains and hills. The Albanian Alps in the north are so rugged that villages were cut off for centuries. Three dazzling national lakes — Shkodër, Ohrid, and Prespa — shimmer along the borders.",
+    "The coast stretches 476 km of Adriatic and Ionian Sea, with brilliant turquoise beaches. The Vjosë River, one of Europe's last wild rivers, flows entirely free without a single dam — and in 2023 became Europe's first Wild River National Park."
+  ],
+  "animals": [
+    "The golden eagle is Albania's national animal and flag star. Brown bears roam the northern highlands; wolves and lynx hide in beech forests. Prespa Lakes host Europe's largest Dalmatian pelican colony — birds with wingspans wider than a tall adult.",
+    "The Ionian coast shelters nesting loggerhead sea turtles. Ohrid trout, found only in Lake Ohrid, has its own protected status. Even flamingos visit Narta Lagoon each winter."
+  ],
+  "culture": [
+    "Albania runs on an ancient honour code called Besa — your word is your bond. Traditional music features iso-polyphony, where voices weave haunting multi-part harmonies; UNESCO lists it as intangible heritage.",
+    "Tirana is one of Europe's most colourful capitals — a mayor ordered every grey communist block painted in vivid murals. Byrek (flaky cheese pastry), tavë kosi (baked lamb with yoghurt), and strong espresso fuel daily life."
+  ],
+  "history": [
+    "The Illyrians built hilltop forts here 2,500 years ago. After Romans and Byzantines, the Ottomans ruled for nearly 500 years from 1479. Hero Skanderbeg held off the Ottoman army for 25 years, inspiring all of Europe.",
+    "Independence came in 1912. Dictator Enver Hoxha then sealed Albania off from the world, banning religion and building 173,000 bunkers. Many now serve as cafés and museums. Albania joined NATO in 2009."
+  ],
+  "wows": [
+    "Albania has more bunkers per km² than any country — about one for every 14 people.",
+    "In Albania, nodding means NO and shaking your head means YES — the opposite of most countries.",
+    "Shqipëria means Land of the Eagles — a name used only in Albanian, found in no other language on Earth.",
+    "Gjirokastër is a UNESCO city where every roof is made of flat stone slabs, not clay tiles.",
+    "Lake Ohrid is one of the world's oldest lakes — over 1.3 million years old.",
+    "Albania ended WWII with more Jews than it started with — the only Nazi-occupied land to do so.",
+    "The Albanian Alps hold villages where a 600-year-old law code called the Kanun still guides life."
+  ],
+  "myths": [
+    {
+      "myth": "Albania is dangerous to visit",
+      "fact": "Albania ranks among Europe's safest destinations. Violent crime is very low and locals treat guests like family under the Besa code of honour."
+    },
+    {
+      "myth": "Albanian and Greek are related languages",
+      "fact": "Albanian is its own unique language family, descended from ancient Illyrian roots — completely unrelated to Greek, Latin, or any Slavic tongue."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Mirëdita",
+      "say": "meer-DEE-tah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Faleminderit",
+      "say": "fah-lem-DEER-eet"
+    },
+    {
+      "en": "Please",
+      "jp": "Ju lutem",
+      "say": "yoo LOO-tem"
+    },
+    {
+      "en": "Yes",
+      "jp": "Po",
+      "say": "poh"
+    },
+    {
+      "en": "Eagle",
+      "jp": "Shqiponjë",
+      "say": "shchee-PON-yuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/al-hero.jpg",
+      "alt": "Panoramic view of Tirana city with colourful buildings",
+      "caption": "TIRANA — Albania's vivid, mural-splashed capital viewed from above",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/al-landmark.jpg",
+      "alt": "The ancient Ottoman city of Berat with white stone houses",
+      "caption": "BERAT — UNESCO 'City of a Thousand Windows' on the Osum River",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/al-animalA.jpg",
+      "alt": "Dalmatian pelicans on Lake Prespa",
+      "caption": "DALMATIAN PELICAN — rare giants nesting at Albania's Prespa Lakes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/al-animalB.jpg",
+      "alt": "Golden eagle soaring in flight",
+      "caption": "GOLDEN EAGLE — Albania's national symbol, master of the mountain sky",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

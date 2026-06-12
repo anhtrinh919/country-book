@@ -1,0 +1,163 @@
+{
+  "name": "SERBIA",
+  "nativeName": "СРБ",
+  "romaji": "SRBIJA",
+  "tagline": "Where Europe meets the East",
+  "region": "Southeast Europe",
+  "coords": "44°N 21°E",
+  "fileNo": "RS",
+  "langName": "Serbian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBE0",
+    "dot": "#cbb89a",
+    "ink": "#2b2118",
+    "faint": "#8a7060",
+    "line": "#dbc9b0",
+    "accent": "#C0282E",
+    "accent2": "#23406b"
+  },
+  "flag": {
+    "assetPath": "/flags/rs.svg",
+    "title": "Serbian Flag",
+    "note": "Red, blue & white with golden coat of arms",
+    "keyColor": "#C0282E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Serbia sits in the heart of the Balkans, where Roman roads, Ottoman spice markets, and Belgrade nightlife all collide. Two great rivers — the Danube and the Sava — meet here, surrounded by medieval monasteries, raspberry farms, and towns rebuilt many times over. Small but bold, loud but warm.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Belgrade",
+      "sub": "Where Danube meets Sava"
+    },
+    {
+      "label": "People",
+      "value": "6.6 million",
+      "sub": "2022 census result"
+    },
+    {
+      "label": "Money",
+      "value": "Dinar (RSD)",
+      "sub": "About 102 RSD = 1 USD"
+    },
+    {
+      "label": "Language",
+      "value": "Serbian",
+      "sub": "Cyrillic & Latin scripts"
+    },
+    {
+      "label": "Land area",
+      "value": "77,474 km²",
+      "sub": "Slightly bigger than Ireland"
+    },
+    {
+      "label": "Top peak",
+      "value": "Midžur 2,169m",
+      "sub": "Eastern mountain tip"
+    }
+  ],
+  "islands": [
+    "Belgrade",
+    "Novi Sad",
+    "Niš",
+    "Kragujevac",
+    "Subotica"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rivers, plains & mountains",
+    "animals": "Lynx, bears & wild things",
+    "culture": "Rakija, music & big hearts",
+    "history": "Empires come and go",
+    "wows": "7 surprising facts"
+  },
+  "geo": [
+    "Serbia is landlocked — no coast at all. The north is flat Pannonian Plain with sunflowers stretching to the horizon; the south rises into the Carpathian and Dinaric mountains. The Danube flows through for 588 km, making it one of Europe's great river highways.",
+    "Tara National Park in the west guards deep gorges and Pančić's spruce, a tree found nowhere else on Earth. At Đerdap, the Danube squeezes between 300 m cliffs in Europe's longest river gorge."
+  ],
+  "animals": [
+    "Serbia's forests shelter brown bears, grey wolves, and the rare Eurasian lynx — one of the most secretive big cats on the continent. The Danube wetlands host over 300 bird species, including white-tailed eagles with wingspans wider than a grown-up's arms.",
+    "The Balkans pond turtle basks on river rocks, while the northern plains hide the great bustard — the world's heaviest flying bird, which puffs up like a feathery balloon during its spectacular spring mating display."
+  ],
+  "culture": [
+    "Serbians take hospitality seriously — guests never leave hungry. Tables always hold burek (flaky pastry), roast lamb, and ajvar: a sweet-smoky red pepper relish that families spend whole autumn weekends jarring together.",
+    "Music is everywhere: brass bands shake villages at the Guča festival each August. Slava — a family's patron-saint feast day — is so central to identity that UNESCO added it to its heritage list in 2014."
+  ],
+  "history": [
+    "Romans, Byzantines, and Ottomans all ruled Serbia. The medieval Serbian Empire of Tsar Dušan in the 1300s stretched from the Danube to the Aegean. Ottomans held Serbia for nearly 400 years until uprisings in 1804 won autonomy.",
+    "The 20th century was turbulent: Serbia sat at the centre of both World Wars, then joined Yugoslavia. It became an independent republic again in 2006. Belgrade kept rebuilding — today it's one of Europe's fastest-growing capitals."
+  ],
+  "wows": [
+    "Serbia is Europe's biggest raspberry grower and the world's top exporter of frozen raspberries.",
+    "Tesla, inventor of AC electricity, was born in 1856 to a Serbian family — proud to call himself Serbian.",
+    "Belgrade has been destroyed and rebuilt 44 times in recorded history.",
+    "The Đerdap Gorge is Europe's longest river gorge at over 100 km.",
+    "Serbia uses two alphabets — Cyrillic and Latin — side by side on street signs.",
+    "Exit festival in Novi Sad started as a student protest in 2000 and grew into a top European event.",
+    "Home distilling of slivovitz plum brandy is a celebrated Serbian tradition with UNESCO heritage status."
+  ],
+  "myths": [
+    {
+      "myth": "Serbia is just mountains and war stories",
+      "fact": "The north is flat farmland, and Belgrade is a buzzing capital ranked among Europe's top cities — with river beaches, great food, and a young creative scene."
+    },
+    {
+      "myth": "Cyrillic means you can't read anything",
+      "fact": "Serbia uses both Cyrillic and Latin scripts — most signs and menus appear in both, so visitors navigate easily."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "Please",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Ukusno",
+      "say": "OO-koos-noh"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "Živeli!",
+      "say": "ZHEE-veh-lee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/rs-hero.jpg",
+      "alt": "Panoramic view of Belgrade from the Sava river",
+      "caption": "BELGRADE — where the Danube and Sava rivers meet at the heart of the Balkans",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/rs-landmark.jpg",
+      "alt": "Studenica Monastery white marble church in green hills",
+      "caption": "STUDENICA MONASTERY — 12th-century UNESCO white marble church in the hills",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/rs-animalA.jpg",
+      "alt": "Eurasian lynx in forest",
+      "caption": "EURASIAN LYNX — one of Europe's rarest big cats, found in Serbia's mountain forests",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/rs-animalB.jpg",
+      "alt": "Great bustard in open grassland",
+      "caption": "GREAT BUSTARD — the world's heaviest flying bird, living on Serbia's northern plains",
+      "credit": "Wikimedia Commons / Marek Szczepanek"
+    }
+  }
+}

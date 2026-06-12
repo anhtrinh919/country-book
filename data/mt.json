@@ -1,0 +1,163 @@
+{
+  "name": "MALTA",
+  "nativeName": "MT",
+  "romaji": "MALTA",
+  "tagline": "Tiny island, huge history",
+  "region": "Southern Europe",
+  "coords": "35.9°N, 14.5°E",
+  "fileNo": "058",
+  "langName": "Maltese",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#C9B98E",
+    "ink": "#28211A",
+    "faint": "#8A7455",
+    "line": "#DDD0B0",
+    "accent": "#C8102E",
+    "accent2": "#F0F0F0"
+  },
+  "flag": {
+    "assetPath": "/flags/mt.svg",
+    "title": "Flag of Malta",
+    "note": "White & red with George Cross top-left",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Malta is a tiny Mediterranean island — so small you could drive across it in 30 minutes, yet packed with temples older than the Pyramids. Warrior monks called the Knights of St John built its gorgeous walled capital Valletta. Today it's one of Europe's sunniest, most crowded countries, speaking a language found nowhere else on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Valletta",
+      "sub": "Smallest EU capital by area"
+    },
+    {
+      "label": "People",
+      "value": "574,250",
+      "sub": "NSO estimate, end 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Adopted 1 January 2008"
+    },
+    {
+      "label": "Language",
+      "value": "Maltese",
+      "sub": "Semitic language, Latin script"
+    },
+    {
+      "label": "Area",
+      "value": "316 km²",
+      "sub": "10th-smallest country on Earth"
+    },
+    {
+      "label": "Top",
+      "value": "Ta' Dmejrek",
+      "sub": "253 m, near Dingli cliffs"
+    }
+  ],
+  "islands": [
+    "Valletta",
+    "Mdina",
+    "Marsaxlokk",
+    "Victoria",
+    "Sliema"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Sun, cliffs & blue sea",
+    "animals": "Wings, fins & rocky shores",
+    "culture": "Feasts, stone & sea salt",
+    "history": "Temples, knights & sieges",
+    "wows": "7 reasons Malta amazes"
+  },
+  "geo": [
+    "Malta sits between Sicily and North Africa — a small archipelago of three inhabited islands made almost entirely of golden limestone. The coastline is a dramatic tangle of sea caves, sheer cliffs and perfect harbours carved by millennia of waves.",
+    "At just 316 km², Malta is smaller than many cities, yet nearly 575,000 people call it home — making it one of the world's most densely crowded countries. The sun shines over 300 days a year and the sea is never far away."
+  ],
+  "animals": [
+    "Malta's national bird is the Blue Rock Thrush — a cobalt-blue songbird that nests on sea cliffs and old fortress walls. Each autumn, thousands of migrating birds funnel across the island on their journey between Europe and Africa.",
+    "The warm surrounding sea teems with life. Lampuki (mahi-mahi) arrive each autumn in golden-green schools, lured by fishermen using floating palm-leaf mats. Colourful luzzu boats land octopus, grouper and sea bream daily."
+  ],
+  "culture": [
+    "Maltese culture blends Arab, Italian and British influences bound by strong Catholic faith. Every village hosts a summer festa — a raucous street party of fireworks, brass bands and coloured lights that rivals anything in Europe.",
+    "Food reflects the same mix: rabbit stew is the national dish, pastizzi (flaky ricotta pastry) are the favourite snack, and lampuki pie celebrates autumn. English is spoken everywhere, but locals switch easily to musical Maltese."
+  ],
+  "history": [
+    "Malta's story stretches back 7,000 years. Its Megalithic Temples — built around 3600 BC — are among the oldest freestanding structures on Earth, predating Stonehenge and the Pyramids. Phoenicians, Romans, Arabs and Normans all followed.",
+    "The Knights of St John arrived in 1530 and built gorgeous Valletta after surviving the Great Siege of 1565. In World War II, Malta endured 154 days of near-constant bombing — so brave that King George VI awarded the whole island the George Cross."
+  ],
+  "wows": [
+    "Malta's temples date to 3600 BC — older than Stonehenge and the Egyptian Pyramids.",
+    "Valletta has only 5,000 residents, making it the EU's smallest capital city.",
+    "Maltese is the only Semitic language in the world written in the Latin alphabet.",
+    "Malta has roughly 365 churches — about one for every day of the year.",
+    "In 1942, King George VI awarded the George Cross to the entire island of Malta.",
+    "The Ħal Saflieni Hypogeum is the world's only known prehistoric underground burial site.",
+    "Emperor Frederick II sent 18 falconers to Malta in 1239 to catch its prized falcons."
+  ],
+  "myths": [
+    {
+      "myth": "Malta is just a party island",
+      "fact": "It has three UNESCO World Heritage Sites and temples older than the Pyramids. Valletta alone holds 320 monuments packed into 0.8 km² of baroque streets."
+    },
+    {
+      "myth": "Maltese is a dialect of Arabic",
+      "fact": "Maltese is its own language — Arabic roots blended with Italian, French and English, uniquely written in Latin script, not Arabic letters."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bongu",
+      "say": "BON-joo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Grazzi",
+      "say": "GRAT-see"
+    },
+    {
+      "en": "Please",
+      "jp": "Jekk jogħbok",
+      "say": "yek YOH-jbok"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Saħħa",
+      "say": "SAH-ha"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Tajjeb ħafna",
+      "say": "TIE-yeb HAF-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mt-hero.jpg",
+      "alt": "Panoramic view of Grand Harbour from Upper Barrakka Gardens, Valletta, Malta",
+      "caption": "GRAND HARBOUR — Valletta's ancient harbour from the Upper Barrakka Gardens",
+      "credit": "Björn S. / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/mt-landmark.jpg",
+      "alt": "Hagar Qim megalithic temple stones under blue sky, Malta",
+      "caption": "ĦAĠAR QIM — Megalithic stones older than the Pyramids, Malta",
+      "credit": "Frank Vincentz / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mt-animalA.jpg",
+      "alt": "Male Blue Rock Thrush perched on a rock, cobalt blue plumage",
+      "caption": "BLUE ROCK THRUSH — Malta's national bird, at home on limestone cliffs",
+      "credit": "J. M. Carretero Palacios / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/mt-animalB.jpg",
+      "alt": "Colourful luzzu fishing boats moored in Marsaxlokk harbour, Malta",
+      "caption": "LUZZU BOATS — Malta's iconic painted fishing boats in Marsaxlokk harbour",
+      "credit": "Frank Vincentz / CC BY-SA 3.0"
+    }
+  }
+}

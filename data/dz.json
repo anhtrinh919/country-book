@@ -1,0 +1,163 @@
+{
+  "name": "ALGERIA",
+  "nativeName": "DZ",
+  "romaji": "AL-JAZAIR",
+  "tagline": "Desert giant of the north",
+  "region": "North Africa",
+  "coords": "28.0°N, 2.5°E",
+  "fileNo": "DZ",
+  "langName": "Arabic",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD9",
+    "dot": "#CDBF9E",
+    "ink": "#1E1A14",
+    "faint": "#7A6E52",
+    "line": "#DDD0B0",
+    "accent": "#006233",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/dz.svg",
+    "title": "Flag of Algeria",
+    "note": "Green & white with red crescent & star",
+    "keyColor": "#006233",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Algeria is Africa's biggest country — enormous enough to swallow all of western Europe. Most is pure Sahara: dunes, rocky plains, and oases where date palms grow tall. In the north, farmers harvest wheat and olives beside a sparkling sea. The capital Algiers is called \"the White City\" because its hilltop houses gleam in the sun.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Algiers",
+      "sub": "Pop. ~3.8 million (2024 est.)"
+    },
+    {
+      "label": "People",
+      "value": "45.6 million",
+      "sub": "Census 2023 est."
+    },
+    {
+      "label": "Money",
+      "value": "Dinar (DZD)",
+      "sub": "1 USD ≈ 134 DZD"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Tamazight also official"
+    },
+    {
+      "label": "Land area",
+      "value": "2,381,741 km²",
+      "sub": "Largest in Africa"
+    },
+    {
+      "label": "Highest peak",
+      "value": "Tahat 2,908m",
+      "sub": "Ahaggar Mtns, deep Sahara"
+    }
+  ],
+  "islands": [
+    "Algiers",
+    "Oran",
+    "Constantine",
+    "Tamanrasset",
+    "Tlemcen"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A sea of sand & stone",
+    "animals": "Wild things of the Sahara",
+    "culture": "Couscous, carpets & casbah",
+    "history": "Empires, pirates & freedom",
+    "wows": "Wow — did you know?"
+  },
+  "geo": [
+    "Algeria is 90 % Sahara Desert — the largest hot desert on Earth. But most is bare rock and gravel called 'reg', not sandy dunes. Rivers in the north feed rich wheat fields and vineyards along a narrow green coastal strip.",
+    "The Ahaggar Mountains rise from the Sahara like a moonscape of ancient volcanic spires. The north has Atlas Mountain cedar forests and the Chiffa Gorge where Barbary macaques sit watching cars go by."
+  ],
+  "animals": [
+    "The fennec fox — the world's smallest wild fox — has ears so enormous it can hear beetles walking under sand at night. Addax antelope cross the open dunes, and sand cats with wide flat paws prowl after dark.",
+    "Barbary macaques live in Atlas cedar forests. Horned vipers zigzag across desert rock, the rare Saharan cheetah still roams the far south, and flamingos flock to northern salt lakes each autumn."
+  ],
+  "culture": [
+    "Algerians love couscous — semolina grains steamed over lamb, vegetables, and fragrant spice. Friday is family lunch day: the table fills with merguez sausage, harissa paste, and honey-dripping almond pastries.",
+    "Handwoven Berber carpets from Ghardaïa burst with bold geometric diamonds. Raï music — soulful pop mixing Arabic lyrics with electric guitars — was born in Oran and spread worldwide. Algiers' ancient casbah is a UNESCO maze of white staircases and arched doorways."
+  ],
+  "history": [
+    "Algeria has been home to Berber (Amazigh) people for 10,000 years. Phoenicians built coastal cities; Romans left spectacular Timgad — a whole city still standing in the desert. Ottoman rule then brought corsair fleets that made European kings tremble.",
+    "France conquered Algeria in 1830. After a fierce eight-year war of independence — one of history's most celebrated struggles — Algeria became free on 5 July 1962, the proudest holiday on the calendar."
+  ],
+  "wows": [
+    "Algeria is bigger than all of Western Europe combined.",
+    "Rock paintings at Tassili n'Ajjer show elephants living where Sahara sand now blows.",
+    "Energy exports — oil and gas — make up about 95 % of Algeria's foreign earnings.",
+    "Timgad's Roman grid was buried under Saharan sand for 1,000 years before discovery.",
+    "Algerian corsairs once raided as far north as Iceland, in 1627.",
+    "Algeria has seven UNESCO World Heritage Sites.",
+    "The fennec fox never needs to drink — it gets moisture from insects and desert roots."
+  ],
+  "myths": [
+    {
+      "myth": "Algeria is just endless sand dunes",
+      "fact": "Only ~25 % of Algeria's Sahara is sandy. Most is flat gravel or bare volcanic rock, and the north has forests and a lush Mediterranean coast."
+    },
+    {
+      "myth": "Nothing can live in the Sahara",
+      "fact": "Over 70 mammal species, 100 reptile species, and 300 bird species survive in Algeria's deserts using shade, night activity, and water-saving adaptations."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Yes",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "Bread",
+      "jp": "خبز",
+      "say": "KHU-bz"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dz-hero.jpg",
+      "alt": "Algiers city viewed from the Mediterranean Sea, white buildings rising up the hillside",
+      "caption": "ALGIERS — the White City rises steeply above the Mediterranean",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dz-landmark.jpg",
+      "alt": "Aerial view of the Roman ruins of Timgad with grid-pattern streets in the desert",
+      "caption": "TIMGAD — a Roman city grid lost under Saharan sand for 1,000 years",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/dz-animalA.jpg",
+      "alt": "Fennec fox with enormous ears sitting on sand",
+      "caption": "FENNEC FOX — giant ears detect prey underground & shed desert heat",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dz-animalB.jpg",
+      "alt": "Barbary macaque sitting in cedar forest in Algeria",
+      "caption": "BARBARY MACAQUE — Algeria's cheeky primate lives in Atlas cedar forests",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

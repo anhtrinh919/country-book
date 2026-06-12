@@ -1,0 +1,163 @@
+{
+  "name": "COTE DIVOIRE",
+  "nativeName": "CI",
+  "romaji": "CÔTE D'IVOIRE",
+  "tagline": "The Cocoa Coast",
+  "region": "West Africa",
+  "coords": "7.54°N, 5.55°W",
+  "fileNo": "032",
+  "langName": "French",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBE9E",
+    "ink": "#251E12",
+    "faint": "#8A7A5E",
+    "line": "#DCCFAA",
+    "accent": "#F77F00",
+    "accent2": "#009A44"
+  },
+  "flag": {
+    "assetPath": "/flags/ci.svg",
+    "title": "Tricolour Flag",
+    "note": "Orange, white & green vertical stripes",
+    "keyColor": "#F77F00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Côte d'Ivoire — French for \"Ivory Coast\" — hugs West Africa's Atlantic shore. It grows nearly half the world's cocoa, so almost every chocolate bar starts here. Two capitals share power: Yamoussoukro holds the official title while Abidjan runs the economy. Over 60 peoples and 75 languages fill this vibrant, music-loving nation.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Yamoussoukro",
+      "sub": "Official; Abidjan is economic hub"
+    },
+    {
+      "label": "People",
+      "value": "≈ 32.8 m",
+      "sub": "est. 2025, growing fast"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "West African shared currency"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "75+ local languages too"
+    },
+    {
+      "label": "Land area",
+      "value": "322,460 km²",
+      "sub": "Slightly bigger than New Mexico"
+    },
+    {
+      "label": "High point",
+      "value": "Nimba 1,752m",
+      "sub": "UNESCO site on Guinea border"
+    }
+  ],
+  "islands": [
+    "Abidjan",
+    "Yamoussoukro",
+    "Bouaké",
+    "San-Pédro",
+    "Man"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Lagoons, forests & highlands",
+    "animals": "Chimps, hippos & elephants",
+    "culture": "Music, masks & maquis",
+    "history": "Cocoa, kings & independence",
+    "wows": "Wild & wonderful facts"
+  },
+  "geo": [
+    "Côte d'Ivoire slopes from dusty northern savanna down to dense southern rainforest. The Atlantic coast is fringed with lagoons and fishing villages. Abidjan sits on islands connected by bridges across a glittering lagoon.",
+    "In the far west, the Nimba mountains rise to 1,752 m — a UNESCO rainforest shared with Guinea. Fifty springs tumble off their slopes. Four major rivers cross the country's 322,460 km², giving farmers water year-round."
+  ],
+  "animals": [
+    "The African forest elephant — rounder-eared and smaller than its savanna cousin — is the national animal. Taï National Park shelters leopards, bongo antelopes, and western chimpanzees that scientists have studied for 50 years.",
+    "The pygmy hippopotamus — a forest hippo roughly the size of a large pig — hides in Taï's streams. It is among Earth's rarest large mammals. Olive colobus monkeys, hundreds of bird species, and patterned chameleons share this lush world."
+  ],
+  "culture": [
+    "Côte d'Ivoire has 60+ ethnic groups. Baoulé people craft intricate gold jewellery and wooden masks worn at festivals. Dan masks from the west are believed to carry their own spirit. Markets burst with colour, noise, and the scent of grilled fish.",
+    "Music is everywhere — Coupé-Décalé, born in Abidjan, mixes electronic beats with flamboyant dance and went global in the 2000s. Maquis restaurants serve smoky braised chicken with attiéké. Aloko — fried plantain with chilli — is the favourite street snack."
+  ],
+  "history": [
+    "Portuguese traders arrived in the 1400s, naming the shore for the ivory they bought. France made it a colony in 1893. In 1960 Félix Houphouët-Boigny led peaceful independence and built one of Africa's wealthiest economies on cocoa and coffee.",
+    "His biggest monument: the Basilica of Our Lady of Peace in Yamoussoukro — completed 1989, bigger than St Peter's in Rome. After civil conflict in the 2000s the country rebuilt fast. It won the Africa Cup of Nations on home soil in 2024."
+  ],
+  "wows": [
+    "Côte d'Ivoire grows ~45% of the world's cocoa — nearly every chocolate bar starts here.",
+    "Abidjan is the world's 3rd-largest French-speaking city, after Kinshasa and Paris.",
+    "The Yamoussoukro basilica is the biggest church on Earth, dome taller than the Panthéon.",
+    "Yamoussoukro only became official capital in 1983; Abidjan still does most governing.",
+    "Taï chimps use stone tools to crack nuts — a skill passed down through generations.",
+    "Since 1960, about 90% of Côte d'Ivoire's original rainforest has been cleared for farms.",
+    "The country has won the Africa Cup of Nations four times, most recently in 2024."
+  ],
+  "myths": [
+    {
+      "myth": "\"Ivory Coast\" still exports ivory",
+      "fact": "The name recalls centuries-old ivory trade. Today the country exports cocoa, cashews, and rubber — international ivory trade has been banned since 1989."
+    },
+    {
+      "myth": "It’s one big jungle",
+      "fact": "The north is dry savanna with mango trees and barely any rain for half the year; tropical rainforest covers only the south and west."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Ça va?",
+      "say": "sa VA"
+    },
+    {
+      "en": "Good",
+      "jp": "Bien",
+      "say": "BYAHN"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Au revoir",
+      "say": "oh ruh-VWAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ci-hero.jpg",
+      "alt": "Abidjan skyline seen across the lagoon",
+      "caption": "ABIDJAN — West Africa's most dynamic city shimmers across its famous lagoon",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ci-landmark.jpg",
+      "alt": "Basilica of Our Lady of Peace, Yamoussoukro, exterior view",
+      "caption": "BASILICA OF OUR LADY OF PEACE — the world's largest church, Yamoussoukro",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ci-animalA.jpg",
+      "alt": "Western chimpanzee resting, looking at camera",
+      "caption": "WESTERN CHIMPANZEE — Taï's chimps pass stone-tool skills down through generations",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ci-animalB.jpg",
+      "alt": "Pygmy hippopotamus standing, small stocky build",
+      "caption": "PYGMY HIPPOPOTAMUS — pig-sized forest hippo, one of Earth's rarest large mammals",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "TURKMENISTAN",
+  "nativeName": "TM",
+  "romaji": "TÜRKMENISTAN",
+  "tagline": "Sand, gas & golden horses",
+  "region": "Central Asia",
+  "coords": "40°N 60°E",
+  "fileNo": "078",
+  "langName": "Turkmen",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EAD8",
+    "dot": "#C8B89A",
+    "ink": "#26201A",
+    "faint": "#867560",
+    "line": "#DDD0B8",
+    "accent": "#1A7A3C",
+    "accent2": "#C0302A"
+  },
+  "flag": {
+    "assetPath": "/flags/tm.svg",
+    "title": "Flag of Turkmen.",
+    "note": "Green field, red gul stripe, crescent+stars",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Turkmenistan is a vast desert country in Central Asia — 70% Karakum sand. Beneath it lies enough natural gas to rank 4th on Earth. Its marble capital Ashgabat holds Guinness records, a giant burning desert pit called the Door to Hell draws adventurers, and its golden Akhal-Teke horses are among the most beautiful animals alive.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Ashgabat",
+      "sub": "Pop. ~1,030,000 (2022 census)"
+    },
+    {
+      "label": "People",
+      "value": "~7.1 million",
+      "sub": "2022 census (results pub. 2023)"
+    },
+    {
+      "label": "Money",
+      "value": "Manat (TMT)",
+      "sub": "Fixed: 3.5 TMT = 1 USD"
+    },
+    {
+      "label": "Language",
+      "value": "Turkmen",
+      "sub": "Also widely spoken: Russian"
+    },
+    {
+      "label": "Land area",
+      "value": "491,210 km²",
+      "sub": "About the size of Spain"
+    },
+    {
+      "label": "High point",
+      "value": "Aýrybaba",
+      "sub": "3,139 m — SE Köýtendag range"
+    }
+  ],
+  "islands": [
+    "Ahal",
+    "Balkan",
+    "Dashoguz",
+    "Lebap",
+    "Mary"
+  ],
+  "islandsLabel": "FIVE REGIONS:",
+  "sections": {
+    "geography": "A sea of sand & secrets",
+    "animals": "Desert beasts & gold steeds",
+    "culture": "Carpets, horses & craft",
+    "history": "Silk Roads & Soviet sands",
+    "wows": "Wait — seriously?!"
+  },
+  "geo": [
+    "The Karakum — meaning 'black sand' in Turkmen — covers 70% of the country, making it one of Earth's largest sand deserts. Daytime temperatures hit 50°C, yet hardy saxaul trees and wildlife survive on barely a drop of rain.",
+    "Along the western edge lies the Caspian Sea, while the southeast rises into the Köýtendag mountains. Turkmenistan is landlocked, sharing borders with Iran, Afghanistan, Uzbekistan and Kazakhstan."
+  ],
+  "animals": [
+    "The Akhal-Teke horse is Turkmenistan's living national treasure — a breed 3,000 years old whose coat shimmers metallic gold in sunlight. UNESCO calls their breeding tradition intangible heritage. Locals say owning one is like owning a piece of the sky.",
+    "In the Karakum roam rare Turkmenian kulans (wild desert donkeys), secretive sand cats that pounce on jerboas by night, and the endangered Persian leopard in mountain forests. Over 80 reptile species include the giant desert monitor lizard."
+  ],
+  "culture": [
+    "Turkmen carpets are not just floor coverings — they are family stories knotted in wool. Mothers teach daughters each tribal pattern (called a gul) that identifies their clan. The five carpet guls on the national flag celebrate this living art form.",
+    "Turkmen Horse Day each April is a national holiday of parades and races honoring the Akhal-Teke. The national dish plov — rice, meat and carrots in one big pot — feeds whole villages, and green tea is poured before any conversation begins."
+  ],
+  "history": [
+    "Ancient Turkmenistan sat on the famous Silk Road linking China to Rome. The city of Merv (near today's Mary) was once one of the world's largest cities, home to perhaps a million people in the 12th century.",
+    "Russia absorbed the region in the 1880s, and Turkmenistan became a Soviet republic. After independence in 1991, the first president renamed months after his family and built a gold rotating statue of himself that always faced the sun."
+  ],
+  "wows": [
+    "Ashgabat's Guinness record: most white marble-clad buildings in the world — 543 of them.",
+    "Darvaza crater: drilled open by accident in 1971, deliberately lit to burn off gas. It blazed for 50+ years.",
+    "Turkmenistan holds the world's 4th largest natural gas reserves, behind Russia, Iran and Qatar.",
+    "Non-white cars were banned in Ashgabat from 2018 — the president believes white colour brings good luck.",
+    "The Akhal-Teke's hollow hair shafts scatter light like metal, giving a genuine gold shimmer — no dye needed.",
+    "The ancient city of Merv may have been the world's largest city in the 12th century.",
+    "The UN recognised Turkmenistan's permanent neutrality by resolution in 1995 — unique in the world."
+  ],
+  "myths": [
+    {
+      "myth": "Turkmenistan is all barren desert",
+      "fact": "While 70% is Karakum Desert, there's also Caspian coastline, mountain forests sheltering leopards, and fertile valleys that fed the ancient mega-city of Merv."
+    },
+    {
+      "myth": "The Door to Hell burned naturally",
+      "fact": "Soviet engineers accidentally drilled into a gas pocket in 1971, then deliberately lit it expecting a quick burnout. It blazed 50+ years before dying down around 2025."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Salam",
+      "say": "sah-LAM"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Sag boluň",
+      "say": "sahg-bol-UNG"
+    },
+    {
+      "en": "Yes",
+      "jp": "Hawa",
+      "say": "HA-wa"
+    },
+    {
+      "en": "Good",
+      "jp": "Gowy",
+      "say": "GO-wee"
+    },
+    {
+      "en": "Excuse me",
+      "jp": "Bagyşlaň",
+      "say": "bah-GISH-lang"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tm-hero.jpg",
+      "alt": "Ashgabat downtown white marble skyline",
+      "caption": "ASHGABAT — over 543 white-marble buildings give the capital its Guinness record glow.",
+      "credit": "Bayram A / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/tm-landmark.jpg",
+      "alt": "Darvaza gas crater burning at night in the Karakum Desert",
+      "caption": "DARVAZA GAS CRATER — the 'Door to Hell' blazed in the Karakum since 1971.",
+      "credit": "flydime / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/tm-animalA.jpg",
+      "alt": "Akhal-Teke horses racing at the national stadium in Ashgabat Turkmenistan",
+      "caption": "AKHAL-TEKE HORSES — Turkmenistan's golden breed racing at Ashgabat's national stadium.",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/tm-animalB.jpg",
+      "alt": "Turkmenian kulan wild ass standing in profile",
+      "caption": "TURKMENIAN KULAN — the endangered wild desert ass that roams the Karakum Desert.",
+      "credit": "Hans-Peter Scholz / CC BY-SA 2.0 DE"
+    }
+  }
+}

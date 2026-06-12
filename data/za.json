@@ -1,0 +1,163 @@
+{
+  "name": "SOUTH AFRICA",
+  "nativeName": "ZA",
+  "romaji": "SUID-AFRIKA",
+  "tagline": "Rainbow Nation",
+  "region": "Southern Africa",
+  "coords": "-29.0°N, 25.0°E",
+  "fileNo": "047",
+  "langName": "Zulu",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA0",
+    "ink": "#241F1A",
+    "faint": "#7A6E55",
+    "line": "#DDD0B4",
+    "accent": "#007A4D",
+    "accent2": "#FFB612"
+  },
+  "flag": {
+    "assetPath": "/flags/za.svg",
+    "title": "South Africa",
+    "note": "Six colours, Y-shape, unique in the world",
+    "keyColor": "#007A4D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "South Africa sits at the very tip of Africa, where the Atlantic and Indian oceans nearly meet. It holds snowy mountains, scorching deserts, wild savannahs, and whale-watched coastlines all in one country. Eleven official languages make it the world's most multilingual nation — and its rainbow flag tells the whole story.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Pretoria",
+      "sub": "one of three capitals (exec.)"
+    },
+    {
+      "label": "People",
+      "value": "61 million",
+      "sub": "est. 2023, Stats SA mid-year"
+    },
+    {
+      "label": "Money",
+      "value": "Rand (ZAR)",
+      "sub": "symbol R; 100 cents = 1 rand"
+    },
+    {
+      "label": "Language",
+      "value": "11 official",
+      "sub": "Zulu, Xhosa, Afrikaans & more"
+    },
+    {
+      "label": "Land area",
+      "value": "1.22 m km²",
+      "sub": "roughly twice the size of France"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "3,408 m",
+      "sub": "Njesuthi, Drakensberg range"
+    }
+  ],
+  "islands": [
+    "Gauteng",
+    "Cape Town",
+    "Durban",
+    "Johannesburg",
+    "Kruger Park"
+  ],
+  "islandsLabel": "BIG REGIONS & CITIES:",
+  "sections": {
+    "geography": "A land of two oceans & peaks",
+    "animals": "Big Five & beyond",
+    "culture": "Eleven tongues, one nation",
+    "history": "From apartheid to rainbow",
+    "wows": "Seriously surprising SA facts"
+  },
+  "geo": [
+    "South Africa wraps around the southern tip of Africa. The flat Karoo desert stretches across the centre, while the dramatic Drakensberg mountains form a giant wall along the east.",
+    "Two oceans frame the coastline — the cold Atlantic in the west and the warm Indian Ocean in the east. They meet near Cape Agulhas, the true southern tip of the continent."
+  ],
+  "animals": [
+    "South Africa is home to the Big Five — lion, leopard, elephant, rhino, and buffalo — all easily spotted in Kruger National Park, one of Africa's largest game reserves.",
+    "The waters off Hermanus are the world's best place to watch southern right whales from shore. Penguins waddle on Boulders Beach, just 40 km from Cape Town."
+  ],
+  "culture": [
+    "South Africa has 11 official languages — more than any other country. Greetings change every few kilometres: 'Sawubona' in Zulu, 'Molo' in Xhosa, 'Hallo' in Afrikaans.",
+    "Braai (barbecue) is the great national pastime — families gather around charcoal fires every weekend. Rugby is almost a religion, and the Springboks are World Cup champions."
+  ],
+  "history": [
+    "For millennia, San hunter-gatherers and Bantu-speaking farmers called southern Africa home. Dutch settlers arrived in 1652, followed by the British, reshaping the land through conflict.",
+    "Apartheid — a cruel system of racial separation — ruled from 1948 until 1994. Nelson Mandela spent 27 years in prison before becoming the country's first democratically elected president."
+  ],
+  "wows": [
+    "South Africa is the only country to have voluntarily dismantled its own nuclear weapons.",
+    "Johannesburg sits atop the world's largest gold reef — more gold mined here than anywhere on Earth.",
+    "SA has three capital cities: Pretoria, Cape Town, and Bloemfontein.",
+    "Boulders Beach hosts over 3,000 wild African penguins just 40 km from Cape Town.",
+    "South Africa produces around 80% of the world's platinum supply.",
+    "Baobab trees in Limpopo can live 2,000 years, storing thousands of litres inside.",
+    "Table Mountain is ~600 million years old — far older than the Himalayas."
+  ],
+  "myths": [
+    {
+      "myth": "South Africa is mostly jungle",
+      "fact": "Most of SA is dry grassland (veld) and semi-desert Karoo — true rainforest covers only a tiny sliver of the south coast."
+    },
+    {
+      "myth": "Lions roam the streets",
+      "fact": "Wild lions live only in protected reserves like Kruger — city residents are far more likely to spot a hadeda ibis in the garden."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Sawubona",
+      "say": "sah-woo-BOH-nah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ngiyabonga",
+      "say": "ngi-yah-BON-gah"
+    },
+    {
+      "en": "Please",
+      "jp": "Ngicela",
+      "say": "ngi-CHEH-lah"
+    },
+    {
+      "en": "Yes",
+      "jp": "Yebo",
+      "say": "YEH-boh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Sala kahle",
+      "say": "sah-lah KAH-hleh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/za-hero.jpg",
+      "alt": "Cape Town Stadium with Table Mountain in background",
+      "caption": "CAPE TOWN STADIUM — iconic venue backed by flat-topped Table Mountain",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/za-landmark.jpg",
+      "alt": "Table Mountain above Cape Town",
+      "caption": "TABLE MOUNTAIN — ancient flat-topped peak over Cape Town's city bowl",
+      "credit": "Wikimedia Commons / DanieVDM"
+    },
+    "animalA": {
+      "src": "/photos/za-animalA.jpg",
+      "alt": "Lion resting on savannah",
+      "caption": "AFRICAN LION — apex predator of the savannah and Kruger Park",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/za-animalB.jpg",
+      "alt": "African penguin at Boulders Beach",
+      "caption": "AFRICAN PENGUIN — wild colony at Boulders Beach near Cape Town",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

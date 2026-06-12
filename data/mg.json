@@ -1,0 +1,163 @@
+{
+  "name": "MADAGASCAR",
+  "nativeName": "MG",
+  "romaji": "MADAGASIKARA",
+  "tagline": "The eighth continent",
+  "region": "East Africa / Indian Ocean",
+  "coords": "20°S, 47°E",
+  "fileNo": "061",
+  "langName": "Malagasy",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BEA8",
+    "ink": "#26201A",
+    "faint": "#7A6E58",
+    "line": "#DDD5C2",
+    "accent": "#C0202E",
+    "accent2": "#3A7D44"
+  },
+  "flag": {
+    "assetPath": "/flags/mg.svg",
+    "title": "Madagascar",
+    "note": "White & red vertical, then red over green",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Madagascar is the world's fourth-largest island — a floating ark in the Indian Ocean. Drifted from Africa 170 million years ago, about 90% of its animals live nowhere else on Earth. Over 100 lemur species, half the world's chameleons, and enormous ancient baobabs call it home. Scientists nickname it the eighth continent.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Antananarivo",
+      "sub": "City of a thousand warriors"
+    },
+    {
+      "label": "People",
+      "value": "31.3 million",
+      "sub": "Est. 2025, fast-growing"
+    },
+    {
+      "label": "Money",
+      "value": "Ariary (MGA)",
+      "sub": "One of few non-decimal currencies"
+    },
+    {
+      "label": "Language",
+      "value": "Malagasy",
+      "sub": "Austronesian — closer to Malay"
+    },
+    {
+      "label": "Land area",
+      "value": "587,041 km²",
+      "sub": "Bigger than France"
+    },
+    {
+      "label": "Top peak",
+      "value": "Maromokotro",
+      "sub": "2,876 m — northern massif"
+    }
+  ],
+  "islands": [
+    "Antananarivo",
+    "Toamasina",
+    "Mahajanga",
+    "Fianarantsoa",
+    "Toliara"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A floating world apart",
+    "animals": "Creatures found nowhere else",
+    "culture": "Ancestors, rice & baobabs",
+    "history": "Kingdoms & independence",
+    "wows": "Eight surprising facts"
+  },
+  "geo": [
+    "Madagascar sits 400 km off Africa's east coast. A highland spine runs the island's length, dropping to a rainforest east coast. The west is drier, lined with giant baobabs and razor-sharp limestone towers called tsingy — 'where you cannot walk barefoot' in Malagasy.",
+    "The south is near-desert, full of spiny plants found nowhere else. Six climate zones pack into one island. Red-clay soil gives Madagascar its nickname: the Great Red Island. Humpback whales breed in the warm offshore waters each winter."
+  ],
+  "animals": [
+    "Over 100 lemur species live here, from the 30-gram mouse lemur — the world's tiniest primate — to the indri, whose haunting wail echoes for kilometres. About 90% of Madagascar's wildlife is endemic, meaning it exists absolutely nowhere else on the planet.",
+    "The fossa, Madagascar's top predator, looks like a small puma but is related to the mongoose. Half the world's chameleons live here, including the Brookesia micra — barely thumbnail-sized. Panther chameleons flash electric colours, and frogs glow under ultraviolet light."
+  ],
+  "culture": [
+    "Malagasy culture revolves around ancestors called razana, believed to watch over the living. Families follow fady — personal taboos passed down for generations. The most striking tradition is famadihana: families exhume ancestors' bones, wrap them in fresh silk, then dance with them joyfully before reburial.",
+    "Rice is sacred — Malagasy eat it three times a day and have over 30 words for rice dishes. The national dish, romazava, is a brothy zebu-beef stew with wild greens. Zebu cattle appear in every ceremony. Village celebrations fill with hira gasy music and costumed storytelling."
+  ],
+  "history": [
+    "Polynesian sailors crossed 6,000 km of open ocean to settle Madagascar around 2,000 years ago — one of history's boldest voyages. Bantu farmers arrived from Africa later. By the 1700s the Merina kingdom had united much of the island under a highland royal family.",
+    "France colonised Madagascar in 1896, exiling the queen and ending the monarchy. A brutal 1947 uprising killed tens of thousands. On 26 June 1960 Madagascar gained full independence, a date still marked as a national holiday with parades across the island."
+  ],
+  "wows": [
+    "Madagascar grows about 80% of all the world's vanilla, yet it is one of the planet's poorest countries.",
+    "The first Malagasy settlers sailed from Indonesia — over 6,000 km away — not from nearby Africa.",
+    "Madagascar hosts nearly half of all chameleon species on Earth: about 59 found nowhere else.",
+    "Tsingy limestone spires are razor-sharp; wildlife shelters inside, safe from human hunters.",
+    "Malagasy is an Austronesian language, more closely related to Malay than to Swahili.",
+    "No zoo has ever kept an indri lemur alive long-term; it refuses to survive in captivity.",
+    "Each family has unique fady: one may never eat eel; another may never face north at meals."
+  ],
+  "myths": [
+    {
+      "myth": "Madagascar is culturally African",
+      "fact": "Its people and language trace to Indonesia, 6,000 km east. Malagasy is Austronesian. The island split from Africa 170 million years ago — long before humans appeared."
+    },
+    {
+      "myth": "Lemurs are monkeys",
+      "fact": "Lemurs are prosimians — a far older primate branch. They evolved alone on Madagascar for millions of years, entirely separate from monkeys or apes."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Salama",
+      "say": "sah-LAH-mah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Misaotra",
+      "say": "mee-SOW-trah"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Veloma",
+      "say": "veh-LOO-mah"
+    },
+    {
+      "en": "Please",
+      "jp": "Azafady",
+      "say": "ah-zah-FAH-dee"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Manao ahoana",
+      "say": "mah-NOW ah-OO-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mg-hero.jpg",
+      "alt": "Avenue of the Baobabs at sunset in western Madagascar",
+      "caption": "AVENUE OF THE BAOBABS — ancient giants lining a red dirt road near Morondava",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mg-landmark.jpg",
+      "alt": "Stepped rice terraces on green hillsides in Madagascar highlands",
+      "caption": "HIGHLAND RICE TERRACES — sculpted hillsides feed a rice-loving nation",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mg-animalA.jpg",
+      "alt": "Indri lemur clinging to a tree in Madagascar rainforest",
+      "caption": "INDRI LEMUR — largest lemur, its haunting call heard for kilometres",
+      "credit": "Wikimedia Commons / CC BY 2.5"
+    },
+    "animalB": {
+      "src": "/photos/mg-animalB.jpg",
+      "alt": "Fossa resting on a branch — Madagascar's largest predator",
+      "caption": "FOSSA — looks like a puma but is related to the mongoose",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    }
+  }
+}

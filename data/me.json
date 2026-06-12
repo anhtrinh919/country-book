@@ -1,0 +1,163 @@
+{
+  "name": "MONTENEGRO",
+  "nativeName": "МЕ",
+  "romaji": "CRNA GORA",
+  "tagline": "The Black Mountain",
+  "region": "Southern Europe",
+  "coords": "42.7°N 19.4°E",
+  "fileNo": "087",
+  "langName": "Montenegrin",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#CBBFA0",
+    "ink": "#252018",
+    "faint": "#7A6B4E",
+    "line": "#D8CEAD",
+    "accent": "#D4A017",
+    "accent2": "#B22222"
+  },
+  "flag": {
+    "assetPath": "/flags/me.svg",
+    "title": "Montenegro",
+    "note": "Red field, gold border, eagle crest",
+    "keyColor": "#D4A017",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tucked into the western Balkans where jagged mountains plunge into the Adriatic, Montenegro is one of Europe's newest, smallest countries. Its name means \"Black Mountain.\" Swim in a warm bay in the morning, hike past glacial lakes by afternoon, spot pelicans at a vast inland lake by evening — all within a land smaller than Connecticut.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Podgorica",
+      "sub": "also cultural capital Cetinje"
+    },
+    {
+      "label": "People",
+      "value": "~624,000",
+      "sub": "2023 census: 623,633"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "used since 2002, not EU member"
+    },
+    {
+      "label": "Language",
+      "value": "Montenegrin",
+      "sub": "Serbian, Croatian also spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "13,812 km²",
+      "sub": "smaller than Northern Ireland"
+    },
+    {
+      "label": "Top peak",
+      "value": "Bobotov Kuk",
+      "sub": "2,523 m, Durmitor range"
+    }
+  ],
+  "islands": [
+    "Podgorica",
+    "Kotor",
+    "Budva",
+    "Nikšić",
+    "Cetinje"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains meet the Adriatic",
+    "animals": "Bears, pelicans & eagles",
+    "culture": "Pršut, poetry & old stones",
+    "history": "Warriors of the Black Mountain",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Montenegro is mostly mountain — over 70% of the land is rugged limestone peaks and deep gorges. The Durmitor range in the north holds 18 glacial lakes, called 'mountain eyes', glittering in valleys carved long ago by rivers of ice.",
+    "The coast stretches only 293 km, but the Bay of Kotor cuts so deep inland it feels almost landlocked. In the south, Lake Skadar — the Balkans' largest lake — straddles the Albanian border, fringed with water lilies and reed beds."
+  ],
+  "animals": [
+    "Montenegro's thick mountain forests shelter one of Europe's last wild brown bear populations. Around 300 roam the remote beech-fir slopes of Durmitor and Prokletije, sharing territory with wolves and Eurasian lynx.",
+    "Lake Skadar hosts one of the world's largest Dalmatian pelican colonies — around 300 enormous white birds nesting on floating reed islands. Griffon vultures ride thermals above the Tara Canyon cliffs, scanning the gorge far below."
+  ],
+  "culture": [
+    "Food is rich and smoky. The most prized ingredient is Njeguški pršut — dry-cured mountain ham hung for months in the cool winds of Njeguši village, where cold winters and warm summers do all the work. Eat with hard sheep's cheese.",
+    "Montenegrins are famously proud. A saying goes: 'There are few of us, but we are strong.' Epic poetry celebrating warrior heroes was sung for centuries and shaped much of the wider region's literary tradition."
+  ],
+  "history": [
+    "Tiny Montenegro resisted the Ottoman Empire for centuries when most of the Balkans had fallen. Mountain warriors used jagged terrain to hold off far larger armies, and the principality was never fully conquered — remarkable for such a small territory.",
+    "In 2006, Montenegro voted to break away from its union with Serbia. The result was 55.5% — just clearing the 55% threshold, making it one of history's closest independence votes."
+  ],
+  "wows": [
+    "Only country with 'mountain' in its name — 'Monte Negro' and 'Crna Gora' both mean 'Black Mountain'.",
+    "The Tara Canyon is 1,300 m deep — Europe's deepest gorge, second only to the Grand Canyon worldwide.",
+    "Montenegro uses the euro without being an EU member — it simply adopted the currency unilaterally in 2002.",
+    "Cetinje had the first South Slavic printing press in 1493 — very early even for Europe.",
+    "It has more UNESCO-protected area per km² than almost any other European nation.",
+    "Brown bears, wolves, and lynx all still roam wild — three big predators now rare in Western Europe.",
+    "The Đurđevića Tara Bridge (1940) stands 172 m above the river — thrill-seekers bungee jump from it."
+  ],
+  "myths": [
+    {
+      "myth": "Kotor Bay is a fjord",
+      "fact": "It's a ria — a drowned river valley, not a glacially carved fjord. Glaciers never reached this warm coast; the steep cliffs just look identical."
+    },
+    {
+      "myth": "Montenegro is part of Serbia",
+      "fact": "The two were in a union until 2006, when Montenegro voted for independence and became a fully separate country with its own government and passport."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "Please",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Yes / No",
+      "jp": "Da / Ne",
+      "say": "dah / neh"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "Živjeli!",
+      "say": "ZHIV-yeh-lee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/me-hero.jpg",
+      "alt": "Aerial view of the Bay of Kotor with steep mountain walls surrounding a deep blue inlet",
+      "caption": "BAY OF KOTOR — mountains drop straight into one of Europe's most dramatic bays",
+      "credit": "Elisabeth64 / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/me-landmark.jpg",
+      "alt": "The Đurđevića Tara concrete arch bridge spanning high above the turquoise Tara River gorge",
+      "caption": "ĐURĐEVIĆA TARA BRIDGE — 172 m above Europe's deepest canyon river",
+      "credit": "Aleks.milo / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/me-animalA.jpg",
+      "alt": "A large Eurasian brown bear with thick fur facing the camera",
+      "caption": "BROWN BEAR — around 300 still roam Montenegro's remote mountain forests",
+      "credit": "MrPanyGoff / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/me-animalB.jpg",
+      "alt": "A group of large white Dalmatian pelicans resting on a lake shore",
+      "caption": "DALMATIAN PELICANS — ~300 nest on Lake Skadar, one of the world's biggest colonies",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    }
+  }
+}

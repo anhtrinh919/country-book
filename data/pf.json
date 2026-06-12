@@ -1,0 +1,163 @@
+{
+  "name": "FR. POLYNESIA",
+  "nativeName": "PF",
+  "romaji": "POLYNÉSIE",
+  "tagline": "Islands kissed by the sun",
+  "region": "Polynesia, South Pacific",
+  "coords": "17°32′S 149°34′W",
+  "fileNo": "118",
+  "langName": "Tahitian",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BCA4",
+    "ink": "#252018",
+    "faint": "#8a7a5e",
+    "line": "#DAD0BC",
+    "accent": "#C8192E",
+    "accent2": "#2B5FA5"
+  },
+  "flag": {
+    "assetPath": "/flags/pf.svg",
+    "title": "Red, White & Canoe",
+    "note": "Red-white-red; 5 paddlers = 5 island groups",
+    "keyColor": "#C8192E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "121 islands flung across the South Pacific — an ocean zone bigger than Europe, yet all the land fits in a small county. Volcanic peaks tower over crystal lagoons, atolls sit barely above sea level. This is where \"tattoo\" was born, where black pearls grow in oysters, and dancers stomp at the Heiva festival each July.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Papeete",
+      "sub": "On the island of Tahiti"
+    },
+    {
+      "label": "People",
+      "value": "278,786",
+      "sub": "Census 2022 (ISPF)"
+    },
+    {
+      "label": "Money",
+      "value": "CFP Franc",
+      "sub": "Code: XPF"
+    },
+    {
+      "label": "Language",
+      "value": "Fr. & Tahitian",
+      "sub": "Both officially recognised"
+    },
+    {
+      "label": "Land area",
+      "value": "3,521 km²",
+      "sub": "Spread over 2,000 km of ocean"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mt Orohena",
+      "sub": "2,241 m, Tahiti"
+    }
+  ],
+  "islands": [
+    "Society Is.",
+    "Marquesas",
+    "Tuamotu",
+    "Australs",
+    "Gambier Is."
+  ],
+  "islandsLabel": "MAIN ISLAND GROUPS:",
+  "sections": {
+    "geography": "Lagoons, peaks & coral",
+    "animals": "Whales, rays & rare birds",
+    "culture": "Dance, ink & black pearls",
+    "history": "Explorers, art & nuclear tests",
+    "wows": "Surprising island secrets"
+  },
+  "geo": [
+    "French Polynesia's 121 islands span an ocean zone bigger than Europe, yet all the land fits in a small county. The Society Islands hold the tallest peaks — Orohena on Tahiti soars to 2,241 m — while the Marquesas have some of the world's most dramatic sea cliffs.",
+    "The Tuamotu group is the planet's largest chain of coral atolls: flat rings of reef barely above sea level enclosing brilliant turquoise lagoons. Bora Bora's emerald volcano rising from its lagoon is so perfectly shaped that WWII soldiers called it the most beautiful island on Earth."
+  ],
+  "animals": [
+    "Humpback whales arrive every July to November to give birth, and near Moorea you can snorkel beside a mother and calf. Reef manta rays glide like underwater kites at Bora Bora's Anau cleaning station nearly year-round.",
+    "The tiny Tahiti Monarch — a critically endangered black flycatcher found nowhere else on Earth — is slowly being saved by conservationists. The vivid blue lorikeet, Vini peruviana, flits through coconut palms on remote atolls, electric blue against white sand."
+  ],
+  "culture": [
+    "The word tattoo comes from the Polynesian tatu — and Polynesians have worn complex inked patterns as family histories for thousands of years. Every July the month-long Heiva i Tahiti festival erupts: dancers compete in breathtaking 'ori Tahiti, hips moving faster than the eye can follow.",
+    "French Polynesia farms the world's most prized black pearls in black-lip oysters across the Tuamotu lagoons — the islands' biggest export. Daily life follows aita pea pea — 'no worries' — shaping how islanders greet strangers and share their food."
+  ],
+  "history": [
+    "Polynesian voyagers settled these islands around 300 CE, navigating by stars in outrigger canoes. British captain Samuel Wallis reached Tahiti in 1767; Bougainville followed a year later, calling it paradise and inspiring centuries of romantic myth.",
+    "France annexed the islands in 1880, then detonated 193 nuclear weapons in the Tuamotu atolls from 1966 to 1996. Decades of official lies were finally admitted in the 2010s. French Polynesia is now an autonomous collectivity of France with a growing independence voice."
+  ],
+  "wows": [
+    "121 islands spread so far that flying all of them covers the same distance as London to Moscow.",
+    "The English word tattoo comes from Polynesian tatu, brought home by Cook's sailors in 1769.",
+    "One Tahitian black pearl takes up to two years to grow — and is the islands' single biggest export.",
+    "Near Moorea you can snorkel beside a humpback whale mother and calf in the open ocean.",
+    "France exploded 193 nuclear weapons here — 46 above ground — giving Tahiti 500× safe radiation.",
+    "Bora Bora's lagoon is so vivid that WWII soldiers thought the island simply could not be real.",
+    "French Polynesia's ocean zone of 5 million km² is one of the world's largest for such tiny land."
+  ],
+  "myths": [
+    {
+      "myth": "Tahiti is one island",
+      "fact": "Tahiti is just one of 121 islands in five groups. Visitors who say 'going to Tahiti' often stay on Bora Bora or Moorea, which are separate islands far away."
+    },
+    {
+      "myth": "The lagoons are always calm",
+      "fact": "French Polynesia sits in the cyclone belt; storms hit from November to April, and low-lying atolls can be dangerously flooded by ocean swells."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Ia ora na",
+      "say": "ee-ah OH-rah nah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Māururuu",
+      "say": "mah-oo-ROO-roo"
+    },
+    {
+      "en": "No worries",
+      "jp": "Aita pea pea",
+      "say": "EYE-tah pay pay"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Nehenehe",
+      "say": "neh-heh-NEH-heh"
+    },
+    {
+      "en": "The sea",
+      "jp": "Te moana",
+      "say": "teh moh-AH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pf-hero.jpg",
+      "alt": "Aerial view of Bora Bora island surrounded by turquoise lagoon and barrier reef",
+      "caption": "BORA BORA — the iconic volcanic island cradled in its dazzling turquoise lagoon",
+      "credit": "Samuel Etienne / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/pf-landmark.jpg",
+      "alt": "Panoramic view over Papeete harbour with Moorea island on the horizon",
+      "caption": "PAPEETE — Tahiti's capital harbour with Moorea's peaks on the horizon",
+      "credit": "Jérémie Silvestro (Avatea) / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/pf-animalA.jpg",
+      "alt": "Young humpback whale calf swimming underwater near Moorea, French Polynesia",
+      "caption": "HUMPBACK WHALE CALF — swimming warm waters off Moorea every winter season",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/pf-animalB.jpg",
+      "alt": "Brilliant blue lorikeet perched in tropical foliage in the Pacific islands",
+      "caption": "BLUE LORIKEET (Vini peruviana) — a jewel-bright parrot of the Pacific atolls",
+      "credit": "desertnaturalist / CC BY 4.0"
+    }
+  }
+}

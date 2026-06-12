@@ -1,0 +1,163 @@
+{
+  "name": "COSTA RICA",
+  "nativeName": "CR",
+  "romaji": "COSTA RICA",
+  "tagline": "Pura Vida forever!",
+  "region": "Central America",
+  "coords": "9.75°N, 83.75°W",
+  "fileNo": "052",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EEE0",
+    "dot": "#CBBFA0",
+    "ink": "#2B2318",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#1A3E8C",
+    "accent2": "#C8202E"
+  },
+  "flag": {
+    "assetPath": "/flags/cr.svg",
+    "title": "Costa Rica",
+    "note": "Blue-white-red-white-blue + coat of arms",
+    "keyColor": "#1A3E8C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Costa Rica is tiny — smaller than West Virginia — yet holds more species than almost anywhere on Earth. It has active volcanoes, misty cloud forests, and two ocean coasts just three hours apart by car. Costa Ricans greet every moment with \"Pura Vida\" — Pure Life — a phrase that means hello, goodbye, and \"life is wonderful\" all at once.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "San José",
+      "sub": "Pop. ~345 000 city"
+    },
+    {
+      "label": "People",
+      "value": "5.2 million",
+      "sub": "Estimate 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Colón (CRC)",
+      "sub": "~530 colones = US $1"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Pura Vida is iconic"
+    },
+    {
+      "label": "Land area",
+      "value": "51 100 km²",
+      "sub": "About 0.5× Iceland"
+    },
+    {
+      "label": "Top peak",
+      "value": "3 821 m",
+      "sub": "Cerro Chirripó"
+    }
+  ],
+  "islands": [
+    "San José",
+    "Guanacaste",
+    "Limón",
+    "Puntarenas",
+    "Heredia"
+  ],
+  "islandsLabel": "MAIN PROVINCES:",
+  "sections": {
+    "geography": "Volcanoes, coasts & cloud",
+    "animals": "Wild things in every tree",
+    "culture": "Pura Vida every single day",
+    "history": "From conquest to peace nation",
+    "wows": "Surprising Costa Rica facts"
+  },
+  "geo": [
+    "Costa Rica sits on the Ring of Fire, with five active volcanoes. Arenal, a near-perfect cone, last erupted dramatically in 1968. Its central mountain spine creates cool cloud forests that feed rivers tumbling to the Pacific on the west and the Caribbean on the east.",
+    "Two very different coasts sit just 120 km apart. The Pacific side has dry golden beaches; the Caribbean coast is lush with coral reefs and sea turtles. Cocos Island, 550 km offshore, is a UNESCO World Heritage site and legendary scuba-diving destination."
+  ],
+  "animals": [
+    "Costa Rica holds 5% of all species on Earth in just 0.03% of its land — a staggering deal. Resplendent Quetzals flash emerald tails in cloud forests; scarlet macaws wheel over the Osa Peninsula; poison dart frogs glow electric blue on the forest floor.",
+    "Leatherback sea turtles — up to 900 kg — haul ashore at Tortuguero to lay eggs each year. Sloths doze in cecropia trees; howler monkeys shake the canopy at dawn. Over 900 bird species recorded — more than in all of North America combined."
+  ],
+  "culture": [
+    "Ticos (Costa Ricans) are famously warm and unhurried. \"Pura Vida\" is said dozens of times a day. Football is a national obsession — the 2014 World Cup quarter-final run still echoes in every living room. Gallo pinto, rice and black beans fried together, appears at breakfast alongside strong Central Valley coffee.",
+    "Traditional oxcart painting (carretas) is so intricate UNESCO recognised it as heritage. Costa Rica abolished its army in 1948 — the constitution literally bans a standing military — and spends that budget on schools and hospitals. Literacy sits above 98%."
+  ],
+  "history": [
+    "Indigenous peoples including the Bribri lived here thousands of years before Columbus arrived in 1502, naming it \"Rich Coast\". Spanish settlement was slow — little gold meant colonists farmed small plots themselves, building a more equal society than neighbouring colonies.",
+    "Costa Rica broke from Spain peacefully in 1821. After a brief civil war in 1948, President Figueres abolished the army and redirected that budget to schools and clinics. That brave choice shaped the peaceful, educated nation Costa Rica is today."
+  ],
+  "wows": [
+    "Over 99% of Costa Rica's electricity comes from renewables — hydro, geothermal, and wind.",
+    "Its constitution bans a standing army — one of the only countries on Earth with this rule.",
+    "Arenal was thought extinct for 400 years before erupting without warning in 1968.",
+    "Costa Rica covers 0.03% of Earth yet shelters roughly 5% of all known species.",
+    "The resplendent quetzal's tail feathers can reach 65 cm — longer than its own body.",
+    "Tortuguero beach hosts more leatherback sea turtle nests than almost any site on Earth.",
+    "Costa Rica has more orchid species (1 500+) than the whole of North America."
+  ],
+  "myths": [
+    {
+      "myth": "\"It's just tropical beaches all the way\"",
+      "fact": "Half the country is rugged mountains above 1 000 m. San José sits at 1 170 m and can be chilly at night — locals always keep a sweater handy."
+    },
+    {
+      "myth": "\"Costa Rica is like any Central American country\"",
+      "fact": "No army, 98%+ literacy, and near-100% renewable power make it a global outlier — not a typical case anywhere in the world."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Pure Life!",
+      "jp": "Pura Vida",
+      "say": "POO-rah VEE-dah"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Very tasty!",
+      "jp": "¡Qué rico!",
+      "say": "kay REE-koh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cr-hero.jpg",
+      "alt": "Arenal Volcano rising above rainforest at dusk",
+      "caption": "ARENAL VOLCANO — a perfect cone, one of Central America's most active peaks",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "landmark": {
+      "src": "/photos/cr-landmark.jpg",
+      "alt": "Ornate neoclassical facade of Teatro Nacional in San José",
+      "caption": "TEATRO NACIONAL — San José's gilded opera house, built 1897",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "animalA": {
+      "src": "/photos/cr-animalA.jpg",
+      "alt": "Resplendent Quetzal male perched on a mossy branch in cloud forest",
+      "caption": "RESPLENDENT QUETZAL — cloud forest jewel, tail longer than its own body",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "animalB": {
+      "src": "/photos/cr-animalB.jpg",
+      "alt": "Bright red strawberry poison dart frog on a green leaf",
+      "caption": "STRAWBERRY POISON DART FROG — tiny, brilliant red, dangerously toxic",
+      "credit": "Wikimedia Commons / public domain"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "PALAU",
+  "nativeName": "Belau",
+  "romaji": "BELAU",
+  "tagline": "Ocean's gem of the Pacific",
+  "region": "Micronesia, Pacific",
+  "coords": "7.5°N, 134.6°E",
+  "fileNo": "PW",
+  "langName": "Palauan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF6F5",
+    "dot": "#C2DCD9",
+    "ink": "#1A2E2C",
+    "faint": "#6E8C8A",
+    "line": "#D4ECEB",
+    "accent": "#0085CA",
+    "accent2": "#FFD100"
+  },
+  "flag": {
+    "assetPath": "/flags/pw.svg",
+    "title": "Flag of Palau",
+    "note": "Blue sea, golden moon — peace & harvest",
+    "keyColor": "#0085CA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Palau is a tiny island nation in the Pacific — 340 coral islands like green pebbles on a turquoise sea. Its reefs teem with so much life they are called the Underwater Serengeti. The last place on Earth to leave UN trusteeship, Palau became independent in 1994. Today this small nation invents ocean protection rules the whole world copies.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Ngerulmud",
+      "sub": "World's least-populous capital"
+    },
+    {
+      "label": "People",
+      "value": "~18,000",
+      "sub": "Est. 2024, 73% native Palauan"
+    },
+    {
+      "label": "Money",
+      "value": "US Dollar",
+      "sub": "USD — no own currency"
+    },
+    {
+      "label": "Language",
+      "value": "Palauan",
+      "sub": "& English, both official"
+    },
+    {
+      "label": "Land area",
+      "value": "459 km²",
+      "sub": "Smaller than Hong Kong island"
+    },
+    {
+      "label": "Highest pt",
+      "value": "242 m",
+      "sub": "Mt Ngerchelchuus, Babeldaob"
+    }
+  ],
+  "islands": [
+    "Babeldaob",
+    "Koror",
+    "Peleliu",
+    "Angaur",
+    "Kayangel"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Islands of jade & turquoise",
+    "animals": "Stingless jellies & sea cows",
+    "culture": "Carved tales & moon feasts",
+    "history": "From Spain to the stars",
+    "wows": "Seven wild wonders"
+  },
+  "geo": [
+    "Palau sits in the western Pacific, roughly halfway between the Philippines and Papua New Guinea. Its 340 islands perch on an underwater ridge, ringed by one of the world's richest reefs — over 500 coral species and 1,300 fish.",
+    "The Rock Islands — hundreds of mushroom-shaped limestone domes rising from a glassy lagoon — became a UNESCO World Heritage Site in 2012. Hidden among them are more than 50 landlocked marine lakes, sealed from the sea for millennia."
+  ],
+  "animals": [
+    "Jellyfish Lake on Eil Malk holds nearly a million golden jellyfish that lost their sting after evolving alone for 12,000 years. Every day they migrate across the lake following the sun — you can snorkel right among them.",
+    "Palau's warm bays shelter one of the Pacific's most isolated dugong herds, gentle sea-cows grazing on seagrass. Saltwater crocodiles (called ius) lurk in mangrove estuaries, growing up to 4.5 metres long."
+  ],
+  "culture": [
+    "The bai is a grand wooden meeting house with painted story-panels on every beam, each telling a myth or moral tale. The last original-style bai, in Airai village, is at least 180 years old and still stands today.",
+    "Palau's society is matrilineal — land and clan title pass through mothers. The full moon is the best time for fishing and feasting, so important events are timed carefully to the lunar calendar."
+  ],
+  "history": [
+    "Humans settled Palau at least 3,000 years ago. Spain claimed the islands in 1885, sold them to Germany in 1899, and Japan seized them in 1914. The 1944 Battle of Peleliu lasted 74 brutal days — far longer than anyone expected.",
+    "After WWII the USA administered Palau as the planet's last UN trust territory. Palau became a fully independent republic on 1 October 1994, signing a Compact of Free Association with the United States."
+  ],
+  "wows": [
+    "Ngerulmud is the world's least-populous national capital — it has no permanent fixed population at all.",
+    "In 2009 Palau created Earth's first national shark sanctuary, shielding 135+ species across 600,000 km².",
+    "From 2020, Palau was the first country to ban sunscreen chemicals proven to damage coral reefs.",
+    "Every visitor signs the 'Palau Pledge' — a conservation promise actually stamped into their passport.",
+    "The golden jellyfish of Jellyfish Lake is a subspecies found absolutely nowhere else on the planet.",
+    "Palau has closed 80% of its exclusive economic zone to fishing — one of Earth's largest marine reserves.",
+    "The Rock Islands is the only UNESCO mixed heritage site in all of the Pacific Islands."
+  ],
+  "myths": [
+    {
+      "myth": "Palau is too tiny to matter globally",
+      "fact": "Palau invented the world's first shark sanctuary, first reef-toxic sunscreen ban, and a marine reserve the size of France — giant ideas from an 18,000-person nation."
+    },
+    {
+      "myth": "The jellyfish in Jellyfish Lake will sting you",
+      "fact": "These golden jellyfish evolved for 12,000 years without predators and lost any effective sting. Snorkelling among millions of them is completely harmless."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Alii",
+      "say": "ah-LEE"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Sulang",
+      "say": "soo-LANG"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Ungil tutau",
+      "say": "OON-gil too-TAW"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Mechikung",
+      "say": "meh-CHEE-kung"
+    },
+    {
+      "en": "Yes",
+      "jp": "Choi",
+      "say": "choy"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pw-hero.jpg",
+      "alt": "Aerial view of Palau's Rock Islands, hundreds of forested limestone domes rising from turquoise lagoon",
+      "caption": "ROCK ISLANDS — emerald limestone domes scattered across Palau's turquoise Southern Lagoon",
+      "credit": "Luka Peternel / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/pw-landmark.jpg",
+      "alt": "Aerial view of Ngerukewid Seventy Islands marine sanctuary in Palau",
+      "caption": "NGERUKEWID — the Seventy Islands sanctuary, a UNESCO world heritage marine treasure",
+      "credit": "Luka Peternel / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/pw-animalA.jpg",
+      "alt": "Snorkeler swimming among millions of golden jellyfish in Jellyfish Lake, Palau",
+      "caption": "JELLYFISH LAKE — a snorkeller glides through clouds of stingless golden jellyfish",
+      "credit": "Archipelago / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/pw-animalB.jpg",
+      "alt": "A dugong gliding underwater near a seagrass bed",
+      "caption": "DUGONG — the gentle sea-cow that grazes in Palau's sheltered bays",
+      "credit": "Julien Willem / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

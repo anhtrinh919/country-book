@@ -1,0 +1,163 @@
+{
+  "name": "TUVALU",
+  "nativeName": "TV",
+  "romaji": "TUVALU",
+  "tagline": "Nine islands, endless sky",
+  "region": "Polynesia, Pacific Ocean",
+  "coords": "8°S 179°E",
+  "fileNo": "093",
+  "langName": "Tuvaluan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EEE4",
+    "dot": "#C8C2A8",
+    "ink": "#232018",
+    "faint": "#8a7e62",
+    "line": "#DDDACB",
+    "accent": "#009FCA",
+    "accent2": "#F4C430"
+  },
+  "flag": {
+    "assetPath": "/flags/tv.svg",
+    "title": "Flag of Tuvalu",
+    "note": "Nine gold stars on Pacific blue, Union Jack",
+    "keyColor": "#009FCA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tuvalu is one of the tiniest nations on Earth — nine flat coral islands in the Pacific, so low the highest point is barely 5 metres. About 11,000 people live here, fishing, weaving, and playing ano, a local ball game. The ocean gives food, trade, and identity — but rising seas are pushing Tuvalu to reinvent itself.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Funafuti",
+      "sub": "On the main atoll"
+    },
+    {
+      "label": "People",
+      "value": "~11,000",
+      "sub": "UN estimate, 2024"
+    },
+    {
+      "label": "Money",
+      "value": "AUD / TVD",
+      "sub": "Australian dollar"
+    },
+    {
+      "label": "Language",
+      "value": "Tuvaluan",
+      "sub": "& English"
+    },
+    {
+      "label": "Land area",
+      "value": "26 km²",
+      "sub": "Smaller than Manhattan"
+    },
+    {
+      "label": "High point",
+      "value": "4.6 m",
+      "sub": "Niulakita island"
+    }
+  ],
+  "islands": [
+    "Funafuti",
+    "Vaitupu",
+    "Nanumea",
+    "Nukufetau",
+    "Niutao"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Nine atolls, one ocean",
+    "animals": "Reef sharks & sea turtles",
+    "culture": "Drums, coconuts & ano",
+    "history": "Stars, Britain & freedom",
+    "wows": "Surprising Tuvalu"
+  },
+  "geo": [
+    "Tuvalu sits in the central Pacific, halfway between Hawaii and Australia. Its nine islands are coral atolls — rings of reef on old volcanic peaks — so flat you can barely spot them from a boat. Total land: just 26 km², smaller than most city parks.",
+    "There are no rivers anywhere. Drinking water comes entirely from rain caught on rooftops. The lagoons inside each atoll are brilliant turquoise, ringed by coconut palms leaning in the trade winds."
+  ],
+  "animals": [
+    "Blacktip reef sharks patrol the shallows with dark fin tips slicing the surface, while giant Napoleon wrasse — fish with a funny forehead bump — glide through coral gardens. The waters are dazzlingly alive.",
+    "Green sea turtles crawl onto sandy islets to lay eggs in the Funafuti Conservation Area. Sooty terns nest in noisy flocks on outer islets, and the tiny Tuvalu skink lizard lives nowhere else on Earth."
+  ],
+  "culture": [
+    "The fatele is a group dance where singers repeat each verse faster and faster until everyone is breathless — it always ends in laughter. The maneapa, an open meeting house, is the heart of community life for feasts and decisions.",
+    "Food comes from the ocean and the coconut palm: fresh fish, coconut cream, and pulaka root. Ano — two hard pandanus-leaf balls volleyed at high speed — is played by whole villages together."
+  ],
+  "history": [
+    "Polynesian navigators settled Tuvalu over 2,000 years ago, guided by stars and ocean swells. European missionaries arrived in the 1800s, and by 1916 Britain had merged the islands into the Gilbert and Ellice Islands Colony.",
+    "In 1974 Tuvaluans voted to govern themselves separately. On 1 October 1978 Tuvalu became fully independent. In 2023 it rewrote its constitution declaring statehood continues forever — even if the sea swallows every island."
+  ],
+  "wows": [
+    "Tuvalu's internet code is .tv — it earns ~$10 million a year licensing it to streaming sites.",
+    "The first .tv million paid Tuvalu's UN membership fee, letting it join the world body in 2000.",
+    "Funafuti's airport runway doubles as the town's sports field and market when no plane is due.",
+    "Tuvalu rewrote its constitution in 2023 so the nation legally exists even if its land sinks.",
+    "Only government officials may own cars on Funafuti — the island has no room for more.",
+    "The whole country has just 8 km of paved road — less than many suburban streets.",
+    "Its nine flag stars are arranged to mirror the true geography of each real island."
+  ],
+  "myths": [
+    {
+      "myth": "Tuvalu is already underwater",
+      "fact": "The islands still stand, but seas rise ~5 mm per year near Funafuti — nearly 3× the global average — making the threat urgent and real."
+    },
+    {
+      "myth": "Too tiny to matter globally",
+      "fact": "Tuvalu controls 900,000 km² of ocean, holds a UN seat, and pioneered the legal concept of a digital nation."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Talofa",
+      "say": "tah-LOH-fah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Fakafetai",
+      "say": "fah-kah-feh-TY"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Tōfā",
+      "say": "toh-FAH"
+    },
+    {
+      "en": "How are you?",
+      "jp": "E ā koe?",
+      "say": "eh-ah-KOH-eh"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ioe",
+      "say": "ee-OH-eh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tv-hero.jpg",
+      "alt": "Aerial view of Funafuti Atoll, Tuvalu",
+      "caption": "FUNAFUTI ATOLL — the capital's coral ring seen from the air, turquoise lagoon within",
+      "credit": "Gabriella Jacobi / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/tv-landmark.jpg",
+      "alt": "Sunny beach at Funafuti atoll with palm trees and clear water",
+      "caption": "FUNAFUTI BEACH — white sand and leaning palms on a bright atoll afternoon",
+      "credit": "Stefan Lins / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/tv-animalA.jpg",
+      "alt": "Green sea turtle swimming over coral reef",
+      "caption": "GREEN SEA TURTLE — nests on Tuvalu's sandy islets in the Funafuti Conservation Area",
+      "credit": "Brocken Inaglory / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/tv-animalB.jpg",
+      "alt": "Blacktip reef shark swimming",
+      "caption": "BLACKTIP REEF SHARK — patrols Tuvalu's shallow lagoons, fin tips dark as charcoal",
+      "credit": "Kakidai / CC BY-SA 3.0"
+    }
+  }
+}

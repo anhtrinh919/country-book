@@ -1,0 +1,163 @@
+{
+  "name": "SWEDEN",
+  "nativeName": "SE",
+  "romaji": "SVERIGE",
+  "tagline": "Land of forests & light",
+  "region": "Northern Europe",
+  "coords": "62°N, 15°E",
+  "fileNo": "042",
+  "langName": "Swedish",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#C8BCA8",
+    "ink": "#1E2318",
+    "faint": "#7A7860",
+    "line": "#D8CFBC",
+    "accent": "#006AA7",
+    "accent2": "#FECC02"
+  },
+  "flag": {
+    "assetPath": "/flags/se.svg",
+    "title": "Swedish Flag",
+    "note": "Blue field with gold Nordic cross",
+    "keyColor": "#006AA7",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Sweden is a long northern country where forests cover half the land and the summer sun barely sets. It gave the world IKEA, Spotify, and dynamite — and recycles so well it imports rubbish for fuel. Moose roam the trees, Vikings once sailed every sea, and Swedish children eat meatballs with lingonberry jam for dinner.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Stockholm",
+      "sub": "city on 14 islands"
+    },
+    {
+      "label": "People",
+      "value": "10.6 million",
+      "sub": "end of 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Krona (SEK)",
+      "sub": "1 kr = 100 öre"
+    },
+    {
+      "label": "Language",
+      "value": "Swedish",
+      "sub": "+ 5 official minorities"
+    },
+    {
+      "label": "Land area",
+      "value": "450,295 km²",
+      "sub": "bigger than California"
+    },
+    {
+      "label": "Top peak",
+      "value": "Kebnekaise",
+      "sub": "2,097 m, in Lapland"
+    }
+  ],
+  "islands": [
+    "Stockholm",
+    "Gothenburg",
+    "Malmö",
+    "Uppsala",
+    "Kiruna"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Forests, lakes & midnight sun",
+    "animals": "Moose, wolves & reindeer",
+    "culture": "Design, ABBA & meatballs",
+    "history": "Vikings to welfare state",
+    "wows": "Did you know?"
+  },
+  "geo": [
+    "Sweden stretches 1,500 km from south to north — so long that southern farms grow strawberries while Arctic peaks stay snow-capped. Nearly 100,000 lakes dot the land and thick pine forests blanket most of the country.",
+    "In the far north, Lapland sits above the Arctic Circle. The sun never fully sets in June and never fully rises in January — and clear winter nights blaze with green and violet aurora."
+  ],
+  "animals": [
+    "Sweden's älg — the moose — stands taller than a horse and wanders into suburbs every autumn. Sweden has around 300,000 of them, one of the world's densest moose populations.",
+    "Wolves returned in the 1980s after near-extinction, now sharing forests with bears, lynx, and wolverines. In Lapland, Sámi people still herd vast reindeer herds across the tundra each season."
+  ],
+  "culture": [
+    "Sweden is obsessed with beautiful, useful design — IKEA, Spotify, Minecraft, and Skype all started here. Swedes celebrate every week with fika: a cosy coffee-and-cake break that is basically a national religion.",
+    "Midsommar is the biggest party: dancing around a flower-covered pole, eating pickled herring under a sun that won't set. In December, Saint Lucia Day fills the dark with girls in white robes and candle crowns."
+  ],
+  "history": [
+    "Around 800 CE, Norse Vikings sailed east and west — trading, raiding, and founding settlements from Constantinople to Newfoundland. Sweden became a powerful Baltic empire in the 1600s, controlling much of northern Europe.",
+    "Sweden hasn't fought a war in over 200 years — one of the world's longest peace streaks. It built a welfare state where healthcare and school are free, and it now ranks among the happiest, most equal countries on Earth."
+  ],
+  "wows": [
+    "Sweden has around 270,000 islands — most are tiny rocky outcrops in the Baltic Sea and along its coasts.",
+    "Sweden imports rubbish from other countries because it converts waste to energy so efficiently it runs short.",
+    "ABBA sold over 400 million records worldwide from a country of just 10 million people.",
+    "The Nobel Prize was created by Alfred Nobel, a Swede who also invented dynamite.",
+    "In 1967 the whole country switched from left- to right-side driving overnight at 5 a.m.",
+    "Stockholm's metro is called 'the world's longest art gallery' — 100 stations covered in art.",
+    "Swedish meatballs trace back to a Turkish recipe brought home by King Charles XII in the early 1700s."
+  ],
+  "myths": [
+    {
+      "myth": "Sweden is always freezing cold",
+      "fact": "Stockholm summers average 23°C and southern Sweden grows apples and strawberries. Only the far north stays truly icy year-round."
+    },
+    {
+      "myth": "Meatballs are a Swedish invention",
+      "fact": "King Charles XII brought the recipe inspiration from Turkey around 1715 — it is influenced by Middle Eastern spiced köfte."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hej",
+      "say": "hey"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tack",
+      "say": "tahk"
+    },
+    {
+      "en": "Please",
+      "jp": "Snälla",
+      "say": "SNEL-ah"
+    },
+    {
+      "en": "Moose",
+      "jp": "Älg",
+      "say": "elg"
+    },
+    {
+      "en": "Cosy break",
+      "jp": "Fika",
+      "say": "FEE-kah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/se-hero.jpg",
+      "alt": "Panoramic view of Stockholm old town and waterfront",
+      "caption": "STOCKHOLM — the capital sits across 14 islands where Lake Mälaren meets the Baltic Sea.",
+      "credit": "Arild Vågen / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/se-landmark.jpg",
+      "alt": "Aerial view of Drottningholm Palace and its formal gardens",
+      "caption": "DROTTNINGHOLM PALACE — the royal family's lakeside home, a UNESCO World Heritage site.",
+      "credit": "Holger Ellgaard / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/se-animalA.jpg",
+      "alt": "Large male moose standing in a forest clearing",
+      "caption": "MOOSE — Sweden's forest giant, taller than a horse and built for deep snow.",
+      "credit": "Gunnar Ries / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/se-animalB.jpg",
+      "alt": "Reindeer herd on snowy tundra in Swedish Lapland",
+      "caption": "REINDEER — herded by Sámi people across Arctic tundra for thousands of years.",
+      "credit": "Susanne Nilsson / Wikimedia Commons"
+    }
+  }
+}

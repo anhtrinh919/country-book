@@ -1,0 +1,163 @@
+{
+  "name": "OMAN",
+  "nativeName": "عُمان",
+  "romaji": "OMAN",
+  "tagline": "Frankincense & Sea Winds",
+  "region": "Middle East / Arabian Gulf",
+  "coords": "21.5°N 55.9°E",
+  "fileNo": "OM",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2118",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B5",
+    "accent": "#C8102E",
+    "accent2": "#007A3D"
+  },
+  "flag": {
+    "assetPath": "/flags/om.svg",
+    "title": "Flag of Oman",
+    "note": "Red, white & green with khanjar dagger",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Oman perches at the tip of Arabia, where desert mountains tumble into a sparkling sea. It is famous for frankincense — a perfumed resin traded here for 5,000 years — and its welcoming sailors who linked Africa, India, and Persia. White forts, turquoise mountain pools, and a 3,000 km coastline make Oman one of Arabia's greatest adventures.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Muscat",
+      "sub": "Pop. ~1.5 m (2024 est.)"
+    },
+    {
+      "label": "People",
+      "value": "5.27 million",
+      "sub": "Official count, end 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Omani Rial",
+      "sub": "1 OMR ≈ 2.60 USD"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Official; English widely used"
+    },
+    {
+      "label": "Land area",
+      "value": "309,500 km²",
+      "sub": "Bigger than Italy"
+    },
+    {
+      "label": "Top point",
+      "value": "Jebel Shams",
+      "sub": "3,009 m — 'Mountain of the Sun'"
+    }
+  ],
+  "islands": [
+    "Muscat",
+    "Salalah",
+    "Sohar",
+    "Nizwa",
+    "Sur"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Desert peaks & hidden pools",
+    "animals": "Oryx, turtles & whale sharks",
+    "culture": "Frankincense, forts & kindness",
+    "history": "Ancient spice-route empire",
+    "wows": "7 reasons Oman amazes"
+  },
+  "geo": [
+    "Oman is mostly golden desert and craggy limestone mountains. The Al Hajar range has deep gorges called wadis — dry riverbeds that fill with turquoise pools after rain. Jebel Shams is so high it sometimes gets frost.",
+    "In the south, the Dhofar cliffs turn bright green every summer when monsoon mist rolls in. The coast stretches over 3,000 km — more shoreline than the entire coast of France."
+  ],
+  "animals": [
+    "Oman has one of the most important nesting beaches for green turtles at Ras al Jinz — up to 20,000 mothers crawl ashore each year to lay eggs. Arabian oryx, once extinct in the wild, were bred in Oman and now roam the desert again.",
+    "Offshore, whale sharks glide through warm waters and spinner dolphins surf every morning. In the mountains, Arabian leopards — one of the rarest big cats on Earth — still pad silently over ancient rocks."
+  ],
+  "culture": [
+    "Omani hospitality is legendary: guests are always offered qahwa (cardamom coffee) and sticky dates on arrival. Men wear a white robe called a dishdasha and the curved khanjar dagger — the same symbol on the flag — on special occasions.",
+    "Salalah is the world's frankincense capital; milky sap is tapped from Boswellia trees and burned as incense. Omani music blends African rhythms from centuries of trade, giving it a beat unlike anywhere else in Arabia."
+  ],
+  "history": [
+    "Oman's sailors built a trading empire stretching from East Africa to China, carrying frankincense, horses, and spices. The ancient city of Qalhat was so rich that Marco Polo described it as one of the finest ports in the world.",
+    "Portugal seized Omani ports in the 1500s but was driven out. By the 18th century Oman controlled Zanzibar. In 1970, Sultan Qaboos transformed the country from a land with just three schools into a modern state with universities and airports."
+  ],
+  "wows": [
+    "Oman produces some of the world's finest frankincense and has burned it as incense for over 5,000 years.",
+    "A 3,000-year-old falaj system still channels fresh water to farms through over 1,000 km of stone tunnels.",
+    "Wahiba Sands has dunes as tall as a 25-storey building.",
+    "Oryx were declared extinct in the wild in 1972; Oman bred and released them — the species survived.",
+    "Muttrah souq has traded continuously for 200 years and smells of rose-water and oud.",
+    "Oman has over 1,000 forts and castles — more per km² than almost anywhere on Earth.",
+    "Green turtle mothers navigate back to the exact beach where they were born, decades later."
+  ],
+  "myths": [
+    {
+      "myth": "Oman is just empty desert",
+      "fact": "Oman has dramatic mountains, monsoon-green cliffs, coral reefs, and lush wadis — one of Arabia's most varied landscapes."
+    },
+    {
+      "myth": "Frankincense is just perfume",
+      "fact": "For 5,000 years frankincense was more valuable than gold — used as medicine, currency, and sacred offering across Egypt, Rome, and China."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Coffee",
+      "jp": "قهوة",
+      "say": "GAH-wa"
+    },
+    {
+      "en": "Sea",
+      "jp": "بحر",
+      "say": "BAH-har"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/om-hero.jpg",
+      "alt": "Muscat corniche at night with illuminated buildings and harbour",
+      "caption": "MUSCAT CORNICHE — the capital's seafront glows at dusk",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/om-landmark.jpg",
+      "alt": "Nizwa Fort's massive round tower rising above date-palm groves",
+      "caption": "NIZWA FORT — a 17th-century round tower guards the oasis city",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/om-animalA.jpg",
+      "alt": "Two white Arabian oryx standing in golden desert",
+      "caption": "ARABIAN ORYX — brought back from extinction in Oman's deserts",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/om-animalB.jpg",
+      "alt": "Green sea turtle crawling across a sandy beach toward the ocean",
+      "caption": "GREEN TURTLE — thousands nest at Ras al Jinz beach every year",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

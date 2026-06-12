@@ -1,0 +1,163 @@
+{
+  "name": "GUINEA",
+  "nativeName": "GN",
+  "romaji": "GUINÉE",
+  "tagline": "Water tower of Africa",
+  "region": "West Africa",
+  "coords": "11.0°N, 10.9°W",
+  "fileNo": "042",
+  "langName": "Pular",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBF9E",
+    "ink": "#27211A",
+    "faint": "#8B7A54",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#3A7A3A"
+  },
+  "flag": {
+    "assetPath": "/flags/gn.svg",
+    "title": "Red, Gold & Green",
+    "note": "Red, gold, green — work, justice, solidarity",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guinea sits on West Africa's coast where rainforests meet grassy highlands. Its hills feed the Niger, Gambia and Senegal rivers — the Water Tower of West Africa. Beneath the red soil hides the planet's biggest bauxite store, the ore that makes aluminium. From its villages came the djembe drum, now heard on every continent.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Conakry",
+      "sub": "Coastal city on a peninsula"
+    },
+    {
+      "label": "People",
+      "value": "17.5 million",
+      "sub": "2025 census"
+    },
+    {
+      "label": "Money",
+      "value": "Guinean Franc",
+      "sub": "GNF — thousands per dollar"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "French official; Pular widely used"
+    },
+    {
+      "label": "Land area",
+      "value": "245,857 km²",
+      "sub": "About the same size as the UK"
+    },
+    {
+      "label": "High point",
+      "value": "Nimba 1,752 m",
+      "sub": "UNESCO World Heritage summit"
+    }
+  ],
+  "islands": [
+    "Conakry",
+    "Kankan",
+    "Labé",
+    "Kindia",
+    "Nzérékoré"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "The water tower of Africa",
+    "animals": "Chimps, hippos & rare toads",
+    "culture": "Drums, griots & peanut stew",
+    "history": "The land that said no",
+    "wows": "7 things to make you go wow"
+  },
+  "geo": [
+    "Guinea divides into four zones. The Atlantic coast has mangrove swamps and humid lowlands. Inland, the Fouta Djallon plateau rises to cool grasslands cut by spectacular gorges and waterfalls that feed rivers flowing across West Africa.",
+    "The Forest Region in the south-east is dense jungle shared with chimpanzees and rare wildlife. Along the Ivory Coast border, Mount Nimba is a UNESCO nature reserve protecting hundreds of species found nowhere else on Earth."
+  ],
+  "animals": [
+    "Guinea's forests shelter one of the world's largest western chimpanzee populations. In Bossou village, wild chimps live alongside people, cracking nuts with stones — a skill passed mother to child like a family recipe.",
+    "The shy pygmy hippopotamus hides in Guinea's swampy lowlands. On Mount Nimba lives the viviparous toad, which gives birth to live tadpoles — one of the strangest amphibians on the planet."
+  ],
+  "culture": [
+    "Guinea is the heartland of the djembe drum, a goblet-shaped instrument that spread from Mandinka villages to concert stages worldwide. Griots are storyteller-musicians who memorise royal histories and sing them at weddings and festivals, keeping the past alive with voice and kora harp.",
+    "Rice with peanut sauce is the everyday meal, eaten from a shared bowl. Three big groups — the Pular, Malinke and Susu — each bring their own language and music, making Guinea feel like three countries stitched together under one flag."
+  ],
+  "history": [
+    "On 2 October 1958, Guinea became the first French colony to vote for independence. Leader Sékou Touré told France: ‘We prefer poverty in freedom to riches in slavery.’ France pulled out in weeks, ripping phones from walls. Guinea stood alone — and survived.",
+    "Touré ruled harshly for 26 years, jailing thousands. After his death in 1984, Guinea slowly opened up. Its enormous bauxite reserves — the rock that makes all aluminium — still make it one of Africa's most strategically important nations."
+  ],
+  "wows": [
+    "Guinea holds the world's largest bauxite reserves — the ore used to make aluminium for cans, planes and foil.",
+    "The Fouta Djallon plateau feeds 22 West African rivers, including the Niger, Gambia and Senegal.",
+    "Bossou village chimps use stone hammers to crack oil-palm nuts, teaching the skill to their young.",
+    "Guinea is the birthplace of the djembe drum, now played in music schools from Tokyo to Toronto.",
+    "Mount Nimba's viviparous toad gives live birth to toadlets — almost no other amphibian does this.",
+    "The 2014 Ebola outbreak that alarmed the world began in one small Guinean village in December 2013.",
+    "Conakry's Grand Mosque was the largest mosque in sub-Saharan Africa when it opened in 1982."
+  ],
+  "myths": [
+    {
+      "myth": "Guinea is just jungle and poverty",
+      "fact": "Guinea holds a quarter of the world's bauxite and has stunning highland plateaus, spectacular waterfalls and a rich musical heritage that shaped West Africa."
+    },
+    {
+      "myth": "Everyone speaks French there",
+      "fact": "Only about 28% of Guineans use French daily. Most speak Pular, Malinke or Susu at home, at market and with friends."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "No ngoolu",
+      "say": "noh ngoo-loo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "A jaaraamah",
+      "say": "ah jah-RAH-mah"
+    },
+    {
+      "en": "Yes",
+      "jp": "Eey",
+      "say": "ay"
+    },
+    {
+      "en": "Water",
+      "jp": "Ndiyam",
+      "say": "ndee-YAHM"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Ñalleen jamm",
+      "say": "nyah-LAYN jahm"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gn-hero.jpg",
+      "alt": "Aerial view of Conakry city and harbour, Guinea",
+      "caption": "CONAKRY — Guinea's capital city stretches across a peninsula into the Atlantic.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gn-landmark.jpg",
+      "alt": "Palais du Peuple convention centre in Conakry, Guinea",
+      "caption": "PALAIS DU PEUPLE — Conakry's Palace of the People, Guinea's civic landmark.",
+      "credit": "Soman / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/gn-animalA.jpg",
+      "alt": "Western chimpanzee in forest",
+      "caption": "WESTERN CHIMPANZEE — Guinea shelters one of Africa's largest wild populations.",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/gn-animalB.jpg",
+      "alt": "Mount Nimba nature reserve landscape, Guinea",
+      "caption": "MOUNT NIMBA — UNESCO peak home to species found nowhere else on Earth.",
+      "credit": "Wikimedia Commons CC BY-SA IGO"
+    }
+  }
+}

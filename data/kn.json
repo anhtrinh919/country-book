@@ -1,0 +1,163 @@
+{
+  "name": "ST KITTS NEVIS",
+  "nativeName": "KN",
+  "romaji": "SAINT KITTS",
+  "tagline": "Twin islands, one big heart",
+  "region": "Caribbean",
+  "coords": "17.3°N 62.7°W",
+  "fileNo": "087",
+  "langName": "Kittitian Creole",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA8",
+    "ink": "#252018",
+    "faint": "#857B60",
+    "line": "#DDD5C0",
+    "accent": "#009E49",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/kn.svg",
+    "title": "Twin-star triband",
+    "note": "Green, black & red with two white stars",
+    "keyColor": "#009E49",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "St Kitts and Nevis are two tiny volcanic islands in the Caribbean Sea — so small you could drive around either one in under an hour. Yet this pint-sized nation is the world's smallest federation, home to a jungle volcano, a UNESCO fortress, and more wild monkeys than people.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Basseterre",
+      "sub": "Main city on St Kitts"
+    },
+    {
+      "label": "People",
+      "value": "~47,000",
+      "sub": "Census est. 2022: 51,320"
+    },
+    {
+      "label": "Money",
+      "value": "EC Dollar",
+      "sub": "Pegged to the US dollar"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Official; Caribbean creole spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "261 km²",
+      "sub": "Smaller than many cities"
+    },
+    {
+      "label": "Top peak",
+      "value": "1,156 m",
+      "sub": "Mount Liamuiga, St Kitts"
+    }
+  ],
+  "islands": [
+    "St Kitts",
+    "Nevis",
+    "Basseterre",
+    "Charlestown",
+    "Sandy Point"
+  ],
+  "islandsLabel": "MAIN PLACES:",
+  "sections": {
+    "geography": "Volcanoes, reefs & rainforest",
+    "animals": "Monkeys, pelicans & turtles",
+    "culture": "Sugar, batik & big carnival",
+    "history": "Mother colony of the Caribbean",
+    "wows": "Seriously surprising facts"
+  },
+  "geo": [
+    "St Kitts is shaped like a chicken drumstick — a long volcanic spine capped by Mount Liamuiga, a sleeping stratovolcano with a crater lake inside. Dense rainforest cloaks its slopes, while sandy beaches ring the coastline below.",
+    "Nevis sits just 3 km away, a near-perfect mountain cone almost always wrapped in cloud at the top. Coral reefs and warm turquoise water surround both islands, making the sea as rich with life as the jungle above."
+  ],
+  "animals": [
+    "The islands' most surprising resident is the African green vervet monkey — brought as pets by French colonists in the 1600s, they escaped into the forest and now outnumber the humans. Spotting a troop raiding a mango tree is almost guaranteed.",
+    "The national bird, the brown pelican, plunge-dives dramatically into the sea to scoop up fish. Sea turtles — green, hawksbill, and leatherback — nest on quiet beaches, while colourful reef fish dart around 18 official dive sites offshore."
+  ],
+  "culture": [
+    "Sugar Mas carnival, held every December through New Year, is the islands' biggest party — calypso bands, steel pans, and masquerade dancers in feathered headdresses fill Basseterre's streets for weeks.",
+    "At Romney Manor, artisans practise Caribelle Batik, hand-dyeing vivid fabrics using an ancient wax technique. Cricket is almost a religion, and local cooking stars goat water stew — the national dish — slow-cooked with breadfruit and spices."
+  ],
+  "history": [
+    "In 1623, English captain Thomas Warner landed on St Kitts and founded the first English colony in the Caribbean, earning the island the title 'Mother Colony of the West Indies'. French settlers soon joined on the same island.",
+    "For 365 years, sugar cane was king — plantations built with enslaved African labour made Nevis briefly the richest British colony in the Americas. The industry closed in 2005; independence had come back in 1983."
+  ],
+  "wows": [
+    "St Kitts and Nevis is the world's smallest sovereign federation by both area and population.",
+    "Wild vervet monkeys are estimated to outnumber people, with up to 40,000 roaming the two islands.",
+    "Mount Liamuiga was called 'Mount Misery' until independence day 1983, when it got its Kalinago name.",
+    "St Kitts launched the world's first citizenship-by-investment programme in 1984.",
+    "The scenic railway, built for sugar cane, is the last of its kind in the whole West Indies.",
+    "Brimstone Hill Fortress, built by enslaved workers, earned UNESCO status in 1999.",
+    "Sugar ran unbroken on St Kitts for 365 years, from 1640 until the factory shut in 2005."
+  ],
+  "myths": [
+    {
+      "myth": "These islands are too tiny to bother visiting",
+      "fact": "At 261 km², St Kitts and Nevis pack in a volcano hike, a UNESCO fortress, coral reefs, and a rainforest — variety that much larger islands envy."
+    },
+    {
+      "myth": "St Kitts and Nevis is one island",
+      "fact": "It's a two-island federation — St Kitts and Nevis are separate islands with their own assemblies, distinct landscapes, and separate volcano peaks."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Wha' gwan",
+      "say": "wha GWAAN"
+    },
+    {
+      "en": "Friend",
+      "jp": "Pardner",
+      "say": "PAHD-nah"
+    },
+    {
+      "en": "Great!",
+      "jp": "Proper",
+      "say": "PROP-ah"
+    },
+    {
+      "en": "Party",
+      "jp": "Lime",
+      "say": "LYME"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Laters",
+      "say": "LAY-ters"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/kn-landmark.jpg",
+      "alt": "Brimstone Hill Fortress viewed from below, stone walls rising on a green hilltop",
+      "caption": "BRIMSTONE HILL FORTRESS — UNESCO World Heritage Site overlooking St Kitts",
+      "credit": "Martin Falbisoner / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/kn-animalA.jpg",
+      "alt": "A green vervet monkey perched on a branch looking at the camera",
+      "caption": "VERVET MONKEY — introduced in the 1600s, now outnumbers humans on the islands",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kn-animalB.jpg",
+      "alt": "A brown pelican in flight over blue water",
+      "caption": "BROWN PELICAN — national bird, famous for dramatic plunge-dives for fish",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "src": "/photos/kn-hero.jpg",
+      "alt": "The St Kitts Scenic Railway train moving along the coastline with sea views",
+      "caption": "ST KITTS SCENIC RAILWAY — last sugar-cane railway in the West Indies",
+      "credit": "Flickr / CC BY 2.0"
+    }
+  }
+}

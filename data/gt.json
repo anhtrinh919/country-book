@@ -1,0 +1,163 @@
+{
+  "name": "GUATEMALA",
+  "nativeName": "GT",
+  "romaji": "GUATEMALA",
+  "tagline": "Land of Eternal Spring",
+  "region": "Central America",
+  "coords": "15.78°N, 90.23°W",
+  "fileNo": "047",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDD6",
+    "dot": "#CCBD97",
+    "ink": "#26221A",
+    "faint": "#8A7A56",
+    "line": "#DDD3B0",
+    "accent": "#1B5E2B",
+    "accent2": "#4169A6"
+  },
+  "flag": {
+    "assetPath": "/flags/gt.svg",
+    "title": "Flag of Guatemala",
+    "note": "Blue-white-blue with coat of arms",
+    "keyColor": "#1B5E2B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guatemala sits in Central America where smoking volcanoes tower over Mayan temples and cloud forests drip with mist. Its nickname \"Land of Eternal Spring\" comes from its mild highland climate. Twenty-two Mayan languages are spoken here every day, making it one of the most culturally rich countries in the Americas.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Guatemala City",
+      "sub": "Pop. ~3.2 million metro"
+    },
+    {
+      "label": "People",
+      "value": "18.4 million",
+      "sub": "Est. 2024, World Bank"
+    },
+    {
+      "label": "Money",
+      "value": "Quetzal (GTQ)",
+      "sub": "Named after national bird"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Plus 22 Mayan languages"
+    },
+    {
+      "label": "Land area",
+      "value": "108,889 km²",
+      "sub": "Bigger than Iceland"
+    },
+    {
+      "label": "Highest peak",
+      "value": "4,220 m",
+      "sub": "Tajumulco volcano"
+    }
+  ],
+  "islands": [
+    "ANTIGUA",
+    "FLORES",
+    "XELA",
+    "COBÁN",
+    "PTO. BARRIOS"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Volcanoes, lakes & jungle",
+    "animals": "Quetzals & jungle creatures",
+    "culture": "Maya traditions & colour",
+    "history": "Temples, conquest & freedom",
+    "wows": "Did you know?"
+  },
+  "geo": [
+    "Guatemala has 37 volcanoes — three still active and rumbling. The highlands stay pleasantly cool year-round, while thick rainforest covers the northern Petén lowlands full of howler monkeys and jaguar.",
+    "Lake Atitlán sits inside an ancient volcanic crater ringed by three more volcanoes. To the east, a short Caribbean coast has warm beaches and coral reefs."
+  ],
+  "animals": [
+    "The resplendent quetzal — Guatemala's national bird — has tail feathers up to 65 cm long that shimmer emerald and crimson. Ancient Maya considered it sacred and used its feathers as currency.",
+    "Jaguars still roam the Petén jungle. The rainforest also shelters tapirs, scarlet macaws, and harpy eagles. Sea turtles nest on Pacific beaches between July and November each year."
+  ],
+  "culture": [
+    "Guatemala's indigenous Maya make up roughly 40% of the population. Women weave detailed cloth called huipiles on backstrap looms — each village has its own pattern that identifies exactly where the weaver is from.",
+    "Chichicastenango market is one of the most colourful in the Americas, filling the town square twice a week with flowers, textiles, and incense. Marimba music — a giant wooden xylophone — is the national sound."
+  ],
+  "history": [
+    "The Maya civilisation flourished here for over 2,000 years. Tikal was a city of perhaps 60,000 people at its height around 750 CE. Its tallest temple rises 65 metres above the jungle floor and appeared in the original Star Wars film.",
+    "Spanish conquistadors arrived in 1524 and ruled for nearly 300 years. Guatemala declared independence on 15 September 1821 — still celebrated with torch relay races run across the whole country."
+  ],
+  "wows": [
+    "Guatemala has 37 volcanoes — more per square kilometre than almost anywhere on Earth.",
+    "Ancient Maya here invented one of the world's first chocolate drinks, mixing cacao with chilli.",
+    "Tikal's Temple IV peeks above the jungle canopy — you see nothing but treetops for miles around.",
+    "The Maya believed the quetzal would die before living in a cage — making it their symbol of freedom.",
+    "Guatemala City is the largest city in all of Central America by population.",
+    "Lake Atitlán is 340 metres deep — its bottom has never been fully mapped by sonar.",
+    "Guatemalan volcanic-soil coffee is prized worldwide for its rich, chocolatey flavour."
+  ],
+  "myths": [
+    {
+      "myth": "\"The Maya civilisation collapsed\"",
+      "fact": "Over 7 million Maya people live in Guatemala today, speaking 22 languages and keeping ceremonies, weaving, and ancient traditions very much alive."
+    },
+    {
+      "myth": "\"Guatemala is just jungle and ruins\"",
+      "fact": "It also has snow-capped volcanoes, highland meadows, Caribbean beaches, and a busy modern capital — one of the most varied countries in the Americas."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Hermoso",
+      "say": "er-MOH-soh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gt-hero.jpg",
+      "alt": "Tikal Temple I rising above the jungle canopy at sunrise",
+      "caption": "TIKAL TEMPLE I — the great pyramid soars 47 m above the plaza, built c.732 CE.",
+      "credit": "Wikimedia Commons / Raymond Ostertag"
+    },
+    "landmark": {
+      "src": "/photos/gt-landmark.jpg",
+      "alt": "Lake Atitlán with three volcanoes reflected in calm blue water",
+      "caption": "LAKE ATITLÁN — a crater lake ringed by three volcanoes in the highlands.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gt-animalA.jpg",
+      "alt": "Resplendent quetzal bird perched on a branch showing long emerald tail feathers",
+      "caption": "RESPLENDENT QUETZAL — sacred bird of the Maya, tail feathers up to 65 cm long.",
+      "credit": "Wikimedia Commons / Dave Montreuil"
+    },
+    "animalB": {
+      "src": "/photos/gt-animalB.jpg",
+      "alt": "Jaguar resting on a log showing its spotted golden coat",
+      "caption": "JAGUAR — apex predator of the Petén rainforest, revered by the ancient Maya.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

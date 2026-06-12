@@ -1,0 +1,163 @@
+{
+  "name": "NORWAY",
+  "nativeName": "NO",
+  "romaji": "NORGE",
+  "tagline": "Fjords, midnight & Vikings",
+  "region": "Northern Europe",
+  "coords": "60.5°N, 8.5°E",
+  "fileNo": "047",
+  "langName": "Norwegian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E8",
+    "dot": "#c8cbb8",
+    "ink": "#1e2118",
+    "faint": "#7a8070",
+    "line": "#d8dbc8",
+    "accent": "#EF2B2D",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/no.svg",
+    "title": "The Norwegian Flag",
+    "note": "Red with a blue cross edged in white",
+    "keyColor": "#EF2B2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Norway perches at the top of Europe where mountains plunge into sea-inlets called fjords. In summer the sun never sets for weeks. In winter, green ribbons called the Northern Lights dance overhead. Vikings sailed from here a thousand years ago. Today Norwegians are famous for skiing, trolls, and the world's biggest national piggy bank.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Oslo",
+      "sub": "Sits at the head of Oslofjord"
+    },
+    {
+      "label": "People",
+      "value": "5.62 million",
+      "sub": "Est. 2025, Statistics Norway"
+    },
+    {
+      "label": "Money",
+      "value": "Krone (NOK)",
+      "sub": "\"Krone\" means crown"
+    },
+    {
+      "label": "Language",
+      "value": "Norwegian",
+      "sub": "Bokmål & Nynorsk written forms"
+    },
+    {
+      "label": "Land area",
+      "value": "304,282 km²",
+      "sub": "About the size of New Mexico"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "2,469 m",
+      "sub": "Galdhøpiggen, Jotunheimen"
+    }
+  ],
+  "islands": [
+    "Oslo",
+    "Bergen",
+    "Tromsø",
+    "Stavanger",
+    "Trondheim"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Fjords, peaks & midnight sun",
+    "animals": "Kings of the forest",
+    "culture": "Bunads, trolls & hot dogs",
+    "history": "Vikings to oil billions",
+    "wows": "7 things to make you go wow"
+  },
+  "geo": [
+    "Norway stretches 1,752 km from south to north — incredibly long and narrow. Glaciers carved thousands of deep fjords into the coastline, creating inlets where ships sail between walls of rock rising 1,400 m straight up from emerald water.",
+    "Over 50,000 islands fringe the coast and 150,000 lakes dot the land. In the far north, the sun stays up 76 days in a row in summer. The world's longest road tunnel, Lærdalstunnellen, bores 24.5 km through the mountains."
+  ],
+  "animals": [
+    "Norway's unofficial national animal is the moose — the biggest creature in its forests, weighing as much as a small car. Reindeer roam wild in the uplands, and wolves, bears, and lynx still prowl the dark forests.",
+    "Coastal waters hold puffins, seals, and humpback whales. In the Arctic north lives the fluffy Arctic fox, whose thick coat keeps it warm down to −70 °C. Trolls are mythical only — but Norwegians love them very much."
+  ],
+  "culture": [
+    "Every 17 May, Constitution Day turns the country into one giant children's parade. Bands march, flags wave, and everyone eats hot dogs and ice cream. Many Norwegians wear a bunad — a hand-embroidered costume whose colours show exactly which valley their family is from.",
+    "Skiing was invented here some 4,000 years ago — rock carvings prove it. Today cross-country skiing is practically a national religion. Norwegians also leave babies to nap outside in prams in winter, trusting that cold fresh air builds strong children."
+  ],
+  "history": [
+    "Vikings launched from Norway's fjords over 1,000 years ago, reaching Iceland, Greenland, and North America long before Columbus. Expert sailors and traders, they crossed oceans in dragon-prowed longships that are still iconic today.",
+    "Oil was found on Christmas Eve 1969, transforming a small fishing nation. Norway saved most of the money. By 2026 its oil fund topped $2 trillion — over $350,000 per citizen — making it the world's largest sovereign wealth fund."
+  ],
+  "wows": [
+    "Norway has over 50,000 islands — so many that no one has settled on an exact count.",
+    "The Norwegian paperclip, patented in 1900, became a WWII symbol of national resistance.",
+    "Norway's oil fund owns roughly 1.5% of every listed company on Earth.",
+    "The Lærdal Tunnel at 24.5 km is the world's longest road tunnel for cars.",
+    "In Svalbard it is against the rules to die — the permafrost cannot accommodate graves.",
+    "Norway gifts Finland a Christmas tree each year as thanks for WWII solidarity.",
+    "Galdhøpiggen is Northern Europe's highest peak and 30,000 people climb it yearly."
+  ],
+  "myths": [
+    {
+      "myth": "Norway is always bitterly cold",
+      "fact": "The Gulf Stream keeps Bergen's winters mild and Tromsø, inside the Arctic Circle, often sits above freezing. Coastal Norway is warmer than its latitude suggests."
+    },
+    {
+      "myth": "Northern Lights appear every clear night",
+      "fact": "The aurora needs strong solar activity and full darkness. In Oslo, some residents live their whole lives without ever seeing the lights."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hei",
+      "say": "hay"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Takk",
+      "say": "tahk"
+    },
+    {
+      "en": "Please",
+      "jp": "Vær så snill",
+      "say": "vair saw sneel"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Ha det bra",
+      "say": "hah deh bra"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "Skål",
+      "say": "skawl"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/no-hero.jpg",
+      "alt": "Oslo Opera House rising from the waterfront like a glacier",
+      "caption": "OSLO OPERA HOUSE — its sloping marble roof doubles as a public plaza.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/no-landmark.jpg",
+      "alt": "Geirangerfjord with turquoise water and steep green cliffs",
+      "caption": "GEIRANGERFJORD — a UNESCO fjord ringed by waterfalls and 1,400 m cliffs.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/no-animalA.jpg",
+      "alt": "Large bull moose standing in a wetland",
+      "caption": "MOOSE — Norway's beloved forest giant, heavier than a small car.",
+      "credit": "Wikimedia Commons / Diego Delso"
+    },
+    "animalB": {
+      "src": "/photos/no-animalB.jpg",
+      "alt": "White Arctic fox in snowy landscape",
+      "caption": "ARCTIC FOX — its winter coat works down to −70 °C.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

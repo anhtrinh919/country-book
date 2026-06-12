@@ -1,0 +1,163 @@
+{
+  "name": "UGANDA",
+  "nativeName": "UG",
+  "romaji": "UGANDA",
+  "tagline": "The Pearl of Africa",
+  "region": "East Africa",
+  "coords": "1.37°N, 32.29°E",
+  "fileNo": "080",
+  "langName": "Luganda",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CDBF93",
+    "ink": "#211E12",
+    "faint": "#8A7A4A",
+    "line": "#DDD0A8",
+    "accent": "#D90000",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ug.svg",
+    "title": "Flag of Uganda",
+    "note": "Black, yellow & red; crested crane disc",
+    "keyColor": "#D90000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Uganda sits on the equator, draped in forest, savannah, and lakes. Churchill named it \"Pearl of Africa\" — spot a gorilla in the jungle or the Nile squeeze through a seven-metre gap and you understand. Half the world's mountain gorillas live here, alongside the shoebill: a bird so strange it looks like a pelican crossed with a dinosaur.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kampala",
+      "sub": "City of seven hills"
+    },
+    {
+      "label": "People",
+      "value": "45.9 million",
+      "sub": "NPHC census 2024"
+    },
+    {
+      "label": "Money",
+      "value": "UGX Shilling",
+      "sub": "Ugandan Shilling"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus 56+ local tongues"
+    },
+    {
+      "label": "Land area",
+      "value": "241,038 km²",
+      "sub": "A bit bigger than the UK"
+    },
+    {
+      "label": "Top peak",
+      "value": "5,109 m",
+      "sub": "Margherita, Rwenzori Mts"
+    }
+  ],
+  "islands": [
+    "Kampala",
+    "Jinja",
+    "Entebbe",
+    "Gulu",
+    "Mbarara"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Lakes, mountains & the Nile",
+    "animals": "Gorillas, giants & odd birds",
+    "culture": "Drums, chapati & cranes",
+    "history": "Kingdoms, colonies & freedom",
+    "wows": "Seven jaw-dropping surprises"
+  },
+  "geo": [
+    "Uganda is landlocked — no coast at all — yet water is everywhere. Lake Victoria, the world's second-largest freshwater lake, laps its southern border. The Nile is born here, spilling from the lake at Jinja to begin its 6,650 km journey north to the sea.",
+    "The western edge holds the Rwenzori — the legendary \"Mountains of the Moon\" — whose peaks stay icy even on the equator. Uganda's land sweeps from hot northern savannah to cool, mist-wrapped highland forest, feeling like several countries rolled into one."
+  ],
+  "animals": [
+    "Uganda packs over 1,090 bird species — nearly half of all African birds. Most wanted is the shoebill: a slate-blue giant with a bill shaped like a wooden clog, which stands motionless for 30 minutes then snatches a lungfish in a lightning lunge from the papyrus swamps.",
+    "Bwindi Impenetrable National Park shelters roughly 459 mountain gorillas — half the global total. In Queen Elizabeth Park, lions do something almost no lions elsewhere manage: they climb trees and lounge in the branches, lazily scanning the plains far below."
+  ],
+  "culture": [
+    "Ugandan food stars matoke — green bananas steamed in leaves until soft and golden. The street-food king is the Rolex: a chapati rolled around fried eggs and veggies. The name is just \"rolled eggs\" shortened, though locals enjoy the luxury-brand joke.",
+    "Music runs on percussion. Buganda royal drummers can send messages across hills using only rhythm. Each year the Nyege Nyege festival draws thousands to the Nile bank at Jinja for four nights of music from across Africa — one of the continent's biggest outdoor parties."
+  ],
+  "history": [
+    "The Buganda Kingdom, founded in the 14th century near Lake Victoria, grew into one of east Africa's most powerful states. Its kabaka commanded a large army and a fleet of canoes; the royal palace at Kampala still stands today.",
+    "Britain made Uganda a protectorate in 1894. On 9 October 1962 — still celebrated as Independence Day — Uganda became free. After the brutal Idi Amin era in the 1970s, the country rebuilt and is now one of Africa's warmest safari destinations."
+  ],
+  "wows": [
+    "The Nile — world's longest river — is born in Uganda. You can watch it leave Lake Victoria at Jinja.",
+    "At Murchison Falls the entire Nile squeezes through a 7-metre gap then drops 43 m in a roaring curtain.",
+    "Uganda has more habituated gorilla groups for trekking than any country: 19 families.",
+    "The shoebill stands still as a statue for 30 minutes, then strikes prey faster than the eye can follow.",
+    "Lions in Ishasha sector climb trees from cubhood — a habit almost unique in all of Africa.",
+    "Uganda holds roughly half of ALL the world's mountain gorillas inside one single park.",
+    "The Ugandan Rolex street snack was declared an official tourist attraction by the government in 2016."
+  ],
+  "myths": [
+    {
+      "myth": "Uganda is too dangerous to visit",
+      "fact": "Top safari zones like Bwindi and Queen Elizabeth Park have very low crime rates; Uganda consistently ranks among East Africa's most welcoming destinations."
+    },
+    {
+      "myth": "All Ugandans speak the same language",
+      "fact": "Uganda has over 56 distinct languages. A person from the north and one from the south may share no common mother tongue at all."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Oli otya",
+      "say": "oh-lee oh-CHA"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Webale",
+      "say": "way-BAH-lay"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Tukusanyuse",
+      "say": "too-koo-san-YOO"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Nnungi!",
+      "say": "nn-OON-gee"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Weeraba",
+      "say": "way-RAH-bah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ug-hero.jpg",
+      "alt": "Kampala city streets Uganda",
+      "caption": "KAMPALA — bustling capital spread across seven green hills near Lake Victoria.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ug-landmark.jpg",
+      "alt": "Murchison Falls Uganda wide view rainbow",
+      "caption": "MURCHISON FALLS — the Nile squeezes through a 7-metre gap and drops 43 m below.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ug-animalA.jpg",
+      "alt": "Shoebill stork portrait large bill",
+      "caption": "SHOEBILL STORK — its enormous clog-shaped bill snaps a lungfish in a split second.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ug-animalB.jpg",
+      "alt": "Mountain gorilla with infant in Bwindi forest Uganda",
+      "caption": "MOUNTAIN GORILLA — half the world's population lives in Uganda's Bwindi forest.",
+      "credit": "Wikimedia Commons / KMRA"
+    }
+  }
+}

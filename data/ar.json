@@ -1,0 +1,163 @@
+{
+  "name": "ARGENTINA",
+  "nativeName": "AR",
+  "romaji": "ARGENTINA",
+  "tagline": "End of the world, start",
+  "region": "South America",
+  "coords": "34°S 64°W",
+  "fileNo": "012",
+  "langName": "Spanish",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EBD8",
+    "dot": "#C8B89A",
+    "ink": "#252018",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B5",
+    "accent": "#74ACDF",
+    "accent2": "#FCBF49"
+  },
+  "flag": {
+    "assetPath": "/flags/ar.svg",
+    "title": "Sol de Mayo",
+    "note": "Blue & white bands; golden Sun of May",
+    "keyColor": "#74ACDF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Argentina stretches from steamy jungle in the north to icy Patagonia in the south — six climate zones in one country. Home to thundering Iguazú Falls, tango, giant glaciers, and the highest peak outside Asia. Argentines sip bitter mate at all hours, grill enormous steaks, and cheer for football with a passion that shakes entire cities.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Buenos Aires",
+      "sub": "Pop. ~3.1 m city proper"
+    },
+    {
+      "label": "People",
+      "value": "46.0 million",
+      "sub": "INDEC census 2022"
+    },
+    {
+      "label": "Money",
+      "value": "Peso (ARS)",
+      "sub": "Symbol $"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Argentine accent is unique"
+    },
+    {
+      "label": "Area",
+      "value": "2,780,400 km²",
+      "sub": "8th largest country on Earth"
+    },
+    {
+      "label": "Top point",
+      "value": "Aconcagua",
+      "sub": "6,959 m — highest outside Asia"
+    }
+  ],
+  "islands": [
+    "Buenos Aires",
+    "Córdoba",
+    "Mendoza",
+    "Ushuaia",
+    "Bariloche"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Glaciers, falls & the Andes",
+    "animals": "Penguins, capybaras & more",
+    "culture": "Tango, asado & mate",
+    "history": "Cowboys, colonists & freedom",
+    "wows": "Wow — did you know?"
+  },
+  "geo": [
+    "Argentina is the world's eighth-largest country. The Andes mountains run the entire western edge like a spine. To the east lie the flat, grassy Pampas — perfect for cattle. In the far south, Patagonia is a cold, windy plateau peppered with glaciers.",
+    "Iguazú Falls in the north — nearly 275 separate cascades — is wider than any other waterfall on Earth. Far south, Ushuaia is the world's most southerly city, so close to Antarctica that cruise ships stop there before heading to the frozen continent."
+  ],
+  "animals": [
+    "The capybara, Earth's biggest rodent, can weigh as much as a large dog and loves paddling in Argentina's Iberá wetlands alongside caimans. The giant anteater shuffles through the same marshes, slurping up 35,000 ants a day with its sticky tongue.",
+    "Patagonia's Atlantic coast hosts the world's largest Magellanic penguin colony at Punta Tombo — over a million birds nest every spring. Guanacos (wild relatives of the llama) roam the windy steppe in thousands, sometimes running faster than a car on a quiet road."
+  ],
+  "culture": [
+    "Tango was born in the port neighbourhoods of Buenos Aires in the 1880s, blending African rhythms with European waltzes. Today couples dance it on street corners and in candlelit milonga halls every night of the week.",
+    "The asado (barbecue) is practically a religion — Argentines grill beef for hours over wood embers with family and friends. Mate, a bitter herbal tea sipped through a metal straw, is shared in a communal gourd as a sign of friendship."
+  ],
+  "history": [
+    "Humans reached the tip of Patagonia about 13,000 years ago. The Inca Empire pushed south into northwest Argentina in the 1400s, but most of the country was home to many independent peoples when Spanish explorers arrived in 1516.",
+    "Argentina declared independence on 9 July 1816 — still celebrated as a national holiday. General José de San Martín then crossed the Andes to free neighbouring Chile and Peru, becoming one of South America's greatest liberating heroes."
+  ],
+  "wows": [
+    "Argentina made the world's first animated feature film — 'El Apóstol' — in 1917.",
+    "Buenos Aires has more psychoanalysts per person than any other city on Earth.",
+    "Argentina's national sport, El Pato, is a horseback game mixing polo and basketball.",
+    "The first-ever public radio broadcast was made from a Buenos Aires rooftop in 1920.",
+    "Aconcagua (6,959 m) is the tallest peak in the Western and Southern Hemispheres.",
+    "A Titanosaur found in Patagonia may be the largest dinosaur ever discovered.",
+    "A baby was born at an Argentine Antarctic base in 1978 — the first Antarctic-born person."
+  ],
+  "myths": [
+    {
+      "myth": "Argentina is one big beef farm",
+      "fact": "Argentina is hugely varied — Mendoza makes world-class wine, Misiones has dense jungle, and Patagonia looks more like Iceland than a cattle ranch."
+    },
+    {
+      "myth": "Tango has always been elegant",
+      "fact": "Early tango was considered scandalously wild — banned in schools and condemned by the Pope before becoming the beloved art form it is today."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ass"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "How are you?",
+      "jp": "¿Cómo estás?",
+      "say": "KOH-mo es-TAHS"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "¡Chau!",
+      "say": "chow"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ar-hero.jpg",
+      "alt": "The Obelisco monument on Avenida 9 de Julio, Buenos Aires",
+      "caption": "OBELISCO — Buenos Aires' iconic tower on the world's widest avenue",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ar-landmark.jpg",
+      "alt": "Iguazú Falls from Argentina side showing multiple cascades",
+      "caption": "IGUAZÚ FALLS — 275 cascades spanning 2.7 km on the jungle border",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ar-animalA.jpg",
+      "alt": "Perito Moreno glacier face rising from blue water in Patagonia",
+      "caption": "PERITO MORENO GLACIER — a living river of ice that still grows in Patagonia",
+      "credit": "Luca Galuzzi / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ar-animalB.jpg",
+      "alt": "Capybara sitting in grass, the world's largest rodent",
+      "caption": "CAPYBARA — the world's biggest rodent, at home in Argentina's Iberá wetlands",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

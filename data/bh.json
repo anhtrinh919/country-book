@@ -1,0 +1,163 @@
+{
+  "name": "BAHRAIN",
+  "nativeName": "البحرن",
+  "romaji": "AL-BAHRAYN",
+  "tagline": "Island Kingdom of the Gulf",
+  "region": "Middle East",
+  "coords": "26.07°N 50.55°E",
+  "fileNo": "BH",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBA96",
+    "ink": "#29201A",
+    "faint": "#897055",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/bh.svg",
+    "title": "Flag of Bahrain",
+    "note": "White and serrated red, 5 white points",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bahrain is a tiny island kingdom in the Persian Gulf — smaller than London but packed with history. Pearl divers worked its warm waters for thousands of years, and today gleaming towers rise beside ancient forts. It was the first country in the Arabian Gulf to strike oil, then nearly run out, so it built racing circuits and banks instead.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Manama",
+      "sub": "City proper ~200,000 people"
+    },
+    {
+      "label": "People",
+      "value": "1.6 million",
+      "sub": "2024 est; ~53% expats"
+    },
+    {
+      "label": "Money",
+      "value": "Bahraini Dinar",
+      "sub": "1 BHD ≈ USD 2.65"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Gulf dialect; English common"
+    },
+    {
+      "label": "Area",
+      "value": "778 km²",
+      "sub": "About 3× Isle of Wight"
+    },
+    {
+      "label": "High point",
+      "value": "Jabal Dukhan",
+      "sub": "134 m — a gentle sandy hill"
+    }
+  ],
+  "islands": [
+    "Manama",
+    "Muharraq",
+    "Riffa",
+    "Hamad Town",
+    "Isa Town"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A pearl in the Gulf",
+    "animals": "Desert, sea & sky",
+    "culture": "Pearls, dates & F1",
+    "history": "5,000 years of trade",
+    "wows": "Did you know?"
+  },
+  "geo": [
+    "Bahrain is an archipelago of 33 islands in a shallow bay between Qatar and Saudi Arabia. A causeway nearly 25 km long links it to the Saudi mainland, so you can actually drive here from the desert.",
+    "Most land is flat and sandy, but freshwater springs bubble up from the seabed. Ancient sailors prized this. The northern coast grows lush where underground springs feed date palms and small farms."
+  ],
+  "animals": [
+    "The Arabian oryx roams a protected reserve, and bottlenose dolphins loop through Gulf shallows just offshore. Hawksbill sea turtles drag themselves up quiet beaches at night to lay eggs in the warm sand.",
+    "Socotra cormorants arrive in vast winter flocks — the Hawar Islands hold one of the world's largest nesting colonies. The dugong, a gentle sea-cow, grazes seagrass meadows beneath the waves in one of the Gulf's last healthy populations."
+  ],
+  "culture": [
+    "Bahrainis love the majlis — sitting together, drinking cardamom coffee and talking for hours. Music called sawt, played on the oud lute, drifts from open doors, and frankincense curls through gold-laden souqs.",
+    "The Bahrain Grand Prix roars through Sakhir each year, making F1 a national obsession. Locals feast on machboos — spiced rice with fish or lamb — and Ramadan turns evenings into lively street festivals."
+  ],
+  "history": [
+    "Bahrain was the heart of ancient Dilmun, a trading civilisation in Sumerian texts 5,000 years ago. The Portuguese captured its forts in 1521; the Al Khalifa family, who rule today, arrived in 1783.",
+    "Britain made it a protectorate in 1820. Oil was struck in 1932 — first in the Arabian Gulf. Independence came 1971. As oil thinned out, Bahrain reinvented itself as a banking hub other Gulf states later copied."
+  ],
+  "wows": [
+    "Bahrain has more cars per km of road than almost anywhere on Earth.",
+    "A 400-year-old tree called the Tree of Life grows alone in open desert with no visible water source.",
+    "Over 100,000 ancient burial mounds once dotted the island — more graves per km² than anywhere on the planet.",
+    "In 2002, Bahrain was first in the Gulf where women both voted and ran in national elections.",
+    "The name 'Bahrain' means 'two seas' — the fresh and salt waters that mingle around the islands.",
+    "Japan's cultured pearls in the 1930s collapsed Bahrain's entire pearl industry almost overnight.",
+    "The Bahrain Grand Prix was the first Formula 1 race held at night, lit by 495 blazing floodlights."
+  ],
+  "myths": [
+    {
+      "myth": "Bahrain is just a sandbar with oil",
+      "fact": "Oil is nearly gone — Bahrain earns most income from banking, tourism, and manufacturing, and has done so for decades."
+    },
+    {
+      "myth": "It's too hot to visit",
+      "fact": "Winters (Nov–Mar) are pleasantly warm at 15–25 °C, and the March Grand Prix draws hundreds of thousands of visitors."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Delicious",
+      "jp": "لذيذ",
+      "say": "la-THEETH"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bh-hero.jpg",
+      "alt": "Bahrain World Trade Center twin towers at dusk",
+      "caption": "BAHRAIN WORLD TRADE CENTER — twin towers linked by wind turbines, Manama.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bh-landmark.jpg",
+      "alt": "Qal'at al-Bahrain ancient fort ruins",
+      "caption": "QAL'AT AL-BAHRAIN — UNESCO fort ruins dating back to 2300 BC.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bh-animalA.jpg",
+      "alt": "Dugong swimming underwater",
+      "caption": "DUGONG — gentle sea-cow grazing Gulf seagrass, near threatened.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bh-animalB.jpg",
+      "alt": "Hawksbill sea turtle swimming",
+      "caption": "HAWKSBILL TURTLE — nests on quiet Bahraini beaches under cover of night.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

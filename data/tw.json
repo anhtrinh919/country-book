@@ -1,0 +1,163 @@
+{
+  "name": "TAIWAN",
+  "nativeName": "臺灣",
+  "romaji": "TAIWAN",
+  "tagline": "The Beautiful Island",
+  "region": "East Asia",
+  "coords": "23.7°N, 121.0°E",
+  "fileNo": "058",
+  "langName": "Mandarin",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#ccbfa2",
+    "ink": "#28211c",
+    "faint": "#8a7860",
+    "line": "#dccdb0",
+    "accent": "#BE0020",
+    "accent2": "#003F87"
+  },
+  "flag": {
+    "assetPath": "/flags/tw.svg",
+    "title": "Republic of China",
+    "note": "Red field, blue canton, white sun of 12 rays",
+    "keyColor": "#BE0020",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Taiwan is a lush, mountainous island off China's coast. Portuguese sailors named it \"Formosa\" — beautiful island — in 1542, and it still fits. Half is steep forested peaks; the rest is flat farmland and buzzing cities. Taiwan makes most of the world's most advanced chips and invented bubble tea, now loved everywhere.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Taipei",
+      "sub": "Pop. ~2.5 million city"
+    },
+    {
+      "label": "People",
+      "value": "23.4 million",
+      "sub": "Est. 2024, island-wide"
+    },
+    {
+      "label": "Money",
+      "value": "NT Dollar",
+      "sub": "NT$ New Taiwan Dollar"
+    },
+    {
+      "label": "Language",
+      "value": "Mandarin",
+      "sub": "Plus Taiwanese Hokkien"
+    },
+    {
+      "label": "Land area",
+      "value": "36,193 km²",
+      "sub": "Smaller than Netherlands"
+    },
+    {
+      "label": "Top peak",
+      "value": "3,952 m",
+      "sub": "Yushan (Jade Mountain)"
+    }
+  ],
+  "islands": [
+    "Taipei",
+    "Kaohsiung",
+    "Tainan",
+    "Taichung",
+    "Hualien"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, coasts & canyons",
+    "animals": "Wild creatures of the island",
+    "culture": "Food, festivals & invention",
+    "history": "From Formosa to tech giant",
+    "wows": "Taiwan will surprise you!"
+  },
+  "geo": [
+    "Taiwan sits on the Pacific Ring of Fire — the island gets about 1,000 small earthquakes a year. The Central Mountain Range runs like a spine down the middle, with nearly 200 peaks topping 3,000 m.",
+    "The east coast drops dramatically into the Pacific. Taroko Gorge cuts a stunning marble canyon through the mountains, its turquoise river carving walls 1,000 m high."
+  ],
+  "animals": [
+    "Taiwan's forests hide the Formosan black bear — a shy giant with a V-shaped yellow chest patch locals call the \"moon bear\". Up in the misty peaks, the Mikado pheasant glows iridescent blue-purple.",
+    "Every winter, millions of purple crow butterflies migrate to Maolin valley to shelter from the cold — a living purple blizzard stretching as far as you can see."
+  ],
+  "culture": [
+    "Night markets are Taiwan's living rooms — open-air bazaars where you eat stinky tofu, oyster omelettes, and shaved ice topped with fresh mango. Bubble tea — chewy tapioca pearls in sweet milk tea — was invented in Taichung in the 1980s.",
+    "Lantern Festival each February sees thousands of sky lanterns released over Pingxi, wishes written in ink floating upward. Over 15,000 temples dot the island — more per square kilometre than almost anywhere on Earth."
+  ],
+  "history": [
+    "Aboriginal Austronesian peoples settled Taiwan at least 6,000 years ago. Dutch traders arrived in 1624, then Chinese settlers poured in. Japan controlled the island 1895–1945, building railways and schools.",
+    "After World War II, Taiwan's Nationalist government fled mainland China in 1949. The island transformed from a farming economy into a technology powerhouse — today it makes roughly 90% of the world's most advanced microchips."
+  ],
+  "wows": [
+    "Taiwan's TSMC produces roughly 90% of the world's most advanced chips — the brains inside every smartphone.",
+    "Bubble tea was invented in Taichung, Taiwan, in the 1980s and is now a global industry.",
+    "Taipei's metro has a punctuality rate above 99.7% — among the most reliable in the world.",
+    "Taiwan has one convenience store for every 1,700 people — more per person than almost any country.",
+    "Yushan (Jade Mountain) is nearly 180 m taller than Japan's famous Mount Fuji.",
+    "Taroko Gorge is carved almost entirely from marble — one of Earth's largest marble canyons.",
+    "Taiwan's Lantern Festival releases so many sky lanterns the sky turns orange above the hills."
+  ],
+  "myths": [
+    {
+      "myth": "Taiwan is just part of China",
+      "fact": "Taiwan has had its own elected government, military, currency, and passport since 1949 — a self-governing democracy, though its international status is disputed."
+    },
+    {
+      "myth": "Stinky tofu tastes terrible",
+      "fact": "The smell is famously pungent, but fans say the taste is mild — crispy outside, soft inside, and surprisingly addictive once you brave the first bite."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "你好",
+      "say": "nee-how"
+    },
+    {
+      "en": "Thank you",
+      "jp": "謝謝",
+      "say": "syeh-syeh"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "好吃",
+      "say": "how-chr"
+    },
+    {
+      "en": "How much?",
+      "jp": "多少錢",
+      "say": "dwoh-shao chyen"
+    },
+    {
+      "en": "Night market",
+      "jp": "夜市",
+      "say": "yeh-shr"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tw-hero.jpg",
+      "alt": "Taipei 101 skyscraper towering over the city skyline at dusk",
+      "caption": "TAIPEI 101 — once the world's tallest building, Taiwan's iconic tower",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tw-landmark.jpg",
+      "alt": "Marble walls of Taroko Gorge with turquoise river below",
+      "caption": "TAROKO GORGE — marble canyon carved by the Liwu River, eastern Taiwan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tw-animalA.jpg",
+      "alt": "Formosan black bear with distinctive yellow V-shaped chest patch",
+      "caption": "FORMOSAN BLACK BEAR — Taiwan's national animal with its moon-shaped chest mark",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tw-animalB.jpg",
+      "alt": "Male Mikado pheasant with iridescent blue-purple plumage in mountain forest",
+      "caption": "MIKADO PHEASANT — Taiwan's national bird, only in high mountain forests",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

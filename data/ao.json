@@ -1,0 +1,163 @@
+{
+  "name": "ANGOLA",
+  "nativeName": "AO",
+  "romaji": "ANGOLA",
+  "tagline": "Africa's giant awakening",
+  "region": "Southern Africa",
+  "coords": "-11.2°S, 17.9°E",
+  "fileNo": "050",
+  "langName": "Portuguese",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CFBA98",
+    "ink": "#2B2118",
+    "faint": "#8A7352",
+    "line": "#DED0B0",
+    "accent": "#CC0000",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ao.svg",
+    "title": "Flag of Angola",
+    "note": "Red, black & a gold machete-star emblem",
+    "keyColor": "#CC0000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Angola sits on Africa's Atlantic coast, roughly twice the size of Texas. It hides one of Africa's biggest waterfalls, a national animal so rare only 310 survive, and a dance — semba — that sailed the ocean and became Brazil's samba. After 27 years of civil war, skyscrapers now rise over Luanda's bay and Angola grows fast.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Luanda",
+      "sub": "~9 million people on the coast"
+    },
+    {
+      "label": "People",
+      "value": "~39 million",
+      "sub": "UN est. 2025; median age 16"
+    },
+    {
+      "label": "Money",
+      "value": "Kwanza (Kz)",
+      "sub": "Code AOA; ~920 Kz = 1 USD"
+    },
+    {
+      "label": "Language",
+      "value": "Portuguese",
+      "sub": "Plus Umbundu & Kimbundu"
+    },
+    {
+      "label": "Land area",
+      "value": "1,246,700 km²",
+      "sub": "7th largest country in Africa"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mt Moco 2,620m",
+      "sub": "In Huambo; named an Angola wonder"
+    }
+  ],
+  "islands": [
+    "Luanda",
+    "Huambo",
+    "Benguela",
+    "Malanje",
+    "Lubango"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Land of falls & black rocks",
+    "animals": "Wild & barely surviving",
+    "culture": "Beats, bowls & bold colours",
+    "history": "Kingdoms, colonies & comeback",
+    "wows": "7 things to boggle your brain"
+  },
+  "geo": [
+    "Angola stretches from the Congo River basin in the north to the Namib Desert in the south — rainforest, savanna and sand dunes all in one country. The Kwanza River winds past elephant parks and fishing villages before emptying into the Atlantic.",
+    "In Malanje Province, black boulders called the Pedras Negras rise 200 metres above flat savanna. Nearby, Kalandula Falls — 105 metres tall, 400 metres wide — is a thundering curtain of water almost nobody outside Africa has heard of."
+  ],
+  "animals": [
+    "Angola's national animal is the giant sable antelope — the palanca negra gigante — a jet-black bull with sweeping horns over 1.6 m long. It exists nowhere else on Earth. Civil war nearly wiped it out; only about 310 survive in two protected reserves.",
+    "Kissama National Park shelters elephants, hippos and crocodiles along the Kwanza River. In 2001, conservationists airlifted elephants in from Botswana by helicopter — one of Africa's most dramatic animal rescues ever."
+  ],
+  "culture": [
+    "Angola gave the world a dance. Semba — a close, playful partner dance — was carried to Brazil and became samba. Back home, a smoother version called kizomba is now danced from Lisbon to Tokyo. Music fills markets, buses and every celebration.",
+    "Meals are built around funge, a thick cassava porridge scooped with your fingers, and moamba de galinha — chicken slow-cooked in red palm oil until golden. Guests are always offered food before any business is discussed."
+  ],
+  "history": [
+    "The Kingdom of Kongo ruled northern Angola from the 1300s, trading ivory and cloth across Central Africa. When Portuguese ships arrived in 1483, the king welcomed them; his son Afonso I became one of Africa's first Christian monarchs.",
+    "Portugal colonised Angola for nearly 500 years. Independence came on 11 November 1975 — but civil war erupted the same day and raged until 2002. Twenty-four years of peace later, Angola is one of Africa's fastest-growing economies."
+  ],
+  "wows": [
+    "Kalandula Falls is Africa's 2nd-largest waterfall by volume — almost unknown outside the continent.",
+    "Brazil's samba traces directly to Angola's semba, carried across the Atlantic 400 years ago.",
+    "Half of Angola's population is under 16 — one of the world's youngest countries.",
+    "Scientists feared the giant sable extinct; in 2009 a bull was found and airlifted to safety.",
+    "Angola pumps over 1 million barrels of oil a day — the most in sub-Saharan Africa.",
+    "Landmines from the civil war are still being cleared; Princess Diana visited in 1997.",
+    "The Pedras Negras boulders are said to hold the footprints of warrior Queen Nzinga (1600s)."
+  ],
+  "myths": [
+    {
+      "myth": "Angola is one of Africa's poorest countries",
+      "fact": "Angola is the 6th richest in Africa by GDP and its largest oil producer south of the Sahara, though wealth is unevenly shared."
+    },
+    {
+      "myth": "Samba is purely a Brazilian dance",
+      "fact": "Samba grew from Angola's semba; the word comes from Kimbundu 'semba', a belly-bump move enslaved Angolans carried to Brazil."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Bom dia",
+      "say": "bom JEE-ah"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Muito bom!",
+      "say": "MWEEN-too bom"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ao-hero.jpg",
+      "alt": "Luanda bay skyline with the Fortaleza de São Miguel",
+      "caption": "LUANDA BAY — modern skyline watched over by a 1576 Portuguese fort",
+      "credit": "David Stanley / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/ao-landmark.jpg",
+      "alt": "Kalandula Falls on the Lucala River in Malanje Angola",
+      "caption": "KALANDULA FALLS — Africa's 2nd-largest waterfall, 105 m tall and 400 m wide",
+      "credit": "Paulo César Santos / CC0"
+    },
+    "animalA": {
+      "src": "/photos/ao-animalA.jpg",
+      "alt": "Adult male sable antelope with sweeping curved horns in African savanna",
+      "caption": "SABLE ANTELOPE — close cousin of Angola's critically endangered palanca negra",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/ao-animalB.jpg",
+      "alt": "African elephant walking through natural habitat",
+      "caption": "AFRICAN ELEPHANT — reintroduced to Kissama Park by helicopter airlift in 2001",
+      "credit": "Charles J. Sharp / CC BY-SA 3.0"
+    }
+  }
+}

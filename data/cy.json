@@ -1,0 +1,163 @@
+{
+  "name": "CYPRUS",
+  "nativeName": "Κύπρος",
+  "romaji": "KYPROS",
+  "tagline": "Island of love & copper",
+  "region": "Middle East",
+  "coords": "35°N, 33°E",
+  "fileNo": "CY",
+  "langName": "Greek",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CEBF9A",
+    "ink": "#2B2218",
+    "faint": "#8C7A54",
+    "line": "#DDD0AF",
+    "accent": "#C87137",
+    "accent2": "#3A6B3A"
+  },
+  "flag": {
+    "assetPath": "/flags/cy.svg",
+    "title": "Flag of Cyprus",
+    "note": "White field, copper island, olive branches",
+    "keyColor": "#C87137",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Cyprus is a sun-drenched island in the eastern Mediterranean where Aphrodite, goddess of love, was said to rise from the sea. It gave the world the word for copper — mined here for thousands of years. Today it is a small, friendly republic of beaches, mountains, and the world's oldest named wine, where cats outnumber people.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Nicosia",
+      "sub": "Only divided capital in the world"
+    },
+    {
+      "label": "People",
+      "value": "~1.36 M",
+      "sub": "World Bank estimate, 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Joined eurozone 2008"
+    },
+    {
+      "label": "Language",
+      "value": "Greek",
+      "sub": "Turkish also official"
+    },
+    {
+      "label": "Land area",
+      "value": "9,251 km²",
+      "sub": "3rd largest Med island"
+    },
+    {
+      "label": "Top peak",
+      "value": "1,952 m",
+      "sub": "Mt Olympus, Troodos"
+    }
+  ],
+  "islands": [
+    "Nicosia",
+    "Limassol",
+    "Larnaca",
+    "Paphos",
+    "Kyrenia"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Sun, sea & copper mountains",
+    "animals": "Wild sheep & cat-eyed snakes",
+    "culture": "Halloumi, feasts & olives",
+    "history": "Copper, gods & crusaders",
+    "wows": "Did you know?"
+  },
+  "geo": [
+    "Cyprus sits at the crossroads of Europe, Asia, and Africa in the warm eastern Mediterranean. The Troodos Mountains rise through the centre, topped by Mount Olympus at 1,952 m — high enough to have a ski resort.",
+    "A flat, sun-baked plain called the Mesaoria stretches between the mountains and the northern Kyrenia hills. Cyprus enjoys over 300 sunny days a year — one of the sunniest places in all of Europe."
+  ],
+  "animals": [
+    "The Cyprus mouflon is a stocky wild sheep with great curling horns, found only in the Paphos forest on the Troodos slopes. Once nearly extinct, its numbers have recovered to about 3,000 — it is the national animal.",
+    "The cat snake hunts at night and has eerie vertical pupils, just like a cat's. Cyprus is also famous for its huge street-cat population — around 1 million cats live on the island, comfortably outnumbering its people."
+  ],
+  "culture": [
+    "Halloumi is Cyprus's squeaky, salty cheese that can be grilled without melting. Made in village kitchens for centuries, it is now EU-protected as uniquely Cypriot and exported worldwide.",
+    "Every spring, the Kataklysmos festival turns coastal towns into water-fight arenas, blending ancient sea-god traditions with Christian celebration. Boat races, music, and grilled halloumi fill the harbours."
+  ],
+  "history": [
+    "Copper was mined in Cyprus as early as 2500 BC — the island was the ancient world's biggest supplier. The Latin word for copper, cuprum, comes directly from the island's own name, Kypros.",
+    "Aphrodite's legendary birthplace at Petra tou Romiou drew pilgrims for centuries. Romans, Byzantines, Crusaders, and Ottomans all ruled here before Cyprus became an independent republic in 1960."
+  ],
+  "wows": [
+    "Cyprus is one of only two countries whose flag shows a map of itself — the other is Kosovo.",
+    "Commandaria is the world's oldest named wine — made in the Troodos hills since at least 800 BC.",
+    "The world's oldest known pet burial was found here: a cat interred beside its owner 9,500 years ago.",
+    "Dwarf elephants and pygmy hippos once lived on Cyprus — their fossils have been found across the island.",
+    "Up to 20,000 flamingos winter at Larnaca Salt Lake, turning its shores bright pink from November to March.",
+    "The world's oldest perfumes — 4,000 years old, scented with lavender and rosemary — were dug up in Cyprus.",
+    "Nicosia is the last divided capital on Earth, split by a UN buffer zone through its walled centre."
+  ],
+  "myths": [
+    {
+      "myth": "Cyprus is too hot to visit in summer",
+      "fact": "The coast is very hot (38°C+), but the Troodos Mountains stay cool, and sea breezes make evenings perfect for outdoor dining and fresh fish."
+    },
+    {
+      "myth": "Halloumi is just like feta",
+      "fact": "Halloumi is firm, layered, and made to be grilled — unlike feta it has a high melting point, turning golden outside and chewy inside."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Γεια σου",
+      "say": "YAH-soo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ευχαριστώ",
+      "say": "ef-kha-ree-STO"
+    },
+    {
+      "en": "Please",
+      "jp": "Παρακαλώ",
+      "say": "pa-ra-ka-LO"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Αντίο",
+      "say": "an-DEE-oh"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Καλημέρα",
+      "say": "kah-lee-MEH-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cy-hero.jpg",
+      "alt": "Panoramic view of Nicosia from Shacolas Tower",
+      "caption": "NICOSIA — the world's last divided capital, seen from the Shacolas Tower",
+      "credit": "A.Savin / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cy-landmark.jpg",
+      "alt": "Petra tou Romiou Aphrodite's Rock coastal landscape",
+      "caption": "PETRA TOU ROMIOU — legendary birthplace of Aphrodite on the Paphos coast",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cy-animalA.jpg",
+      "alt": "Cyprus mouflon wild sheep with curling horns",
+      "caption": "CYPRUS MOUFLON — the island's national animal, with its iconic curved horns",
+      "credit": "WoodsAndrew / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/cy-animalB.jpg",
+      "alt": "European cat snake Telescopus fallax close-up",
+      "caption": "CAT SNAKE — named for its vertical pupils, a nocturnal hunter found in Cyprus",
+      "credit": "Benny Trapp / Wikimedia Commons"
+    }
+  }
+}

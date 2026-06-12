@@ -1,0 +1,163 @@
+{
+  "name": "EL SALVADOR",
+  "nativeName": "SV",
+  "romaji": "EL SALVADOR",
+  "tagline": "Land of Volcanoes",
+  "region": "Central America",
+  "coords": "13.79°N, 88.90°W",
+  "fileNo": "056",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDD7",
+    "dot": "#CCBC96",
+    "ink": "#252018",
+    "faint": "#7A7055",
+    "line": "#DDD3B0",
+    "accent": "#1B3F8B",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/sv.svg",
+    "title": "Blue–White–Blue",
+    "note": "Blue stripes for the ocean; white for peace",
+    "keyColor": "#1B3F8B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "El Salvador is the tiniest country in Central America, yet it packs in 20-plus volcanoes, coffee forests, and Pacific surf beaches. The Pipil people farmed here before Spanish explorers arrived in 1524. Today 6 million Salvadorans share a country no bigger than Wales — the only one in Central America with no Caribbean coast.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "San Salvador",
+      "sub": "pop. ~570,000 in the city"
+    },
+    {
+      "label": "People",
+      "value": "6.03 million",
+      "sub": "2024 census — first since 2007"
+    },
+    {
+      "label": "Money",
+      "value": "US Dollar",
+      "sub": "adopted 2001; colón retired"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "spoken by nearly everyone"
+    },
+    {
+      "label": "Land area",
+      "value": "21,040 km²",
+      "sub": "smallest in Central America"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "2,381 m",
+      "sub": "Santa Ana (Ilamatepec) volcano"
+    }
+  ],
+  "islands": [
+    "San Salvador",
+    "Santa Ana",
+    "San Miguel",
+    "Sonsonate",
+    "La Libertad"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of volcanoes & surf",
+    "animals": "Feathers, fur & forest life",
+    "culture": "Pupusas, festivals & coffee",
+    "history": "From Pipil kings to peace",
+    "wows": "Surprising El Salvador"
+  },
+  "geo": [
+    "El Salvador sits on the Pacific Ring of Fire, packed with more than 20 volcanoes in a space the size of Wales. Santa Ana, the highest at 2,381 m, holds a vivid crater lake and last erupted in 2005. Earthquakes rattle the ground regularly.",
+    "The Pacific coast stretches 307 km — El Salvador's only coastline, making it the sole Central American country with no Caribbean shore. Inland, pine-forested highlands drop to fertile valleys where coffee and sugar cane thrive."
+  ],
+  "animals": [
+    "El Salvador's national bird is the turquoise-browed motmot, called 'torogoz'. This jewel-coloured bird swings its long racket-tipped tail like a pendulum. Sea turtles nest on Pacific beaches and howler monkeys roam the forests.",
+    "White-tailed deer and coatis share highland forests with ocelots. Over 500 bird species have been recorded here, making El Salvador a quiet birdwatching gem despite being the smallest country in Central America."
+  ],
+  "culture": [
+    "Pupusas are El Salvador's gift to the world: thick handmade cornmeal patties stuffed with cheese, beans, or pork, griddled until golden and served with tangy pickled cabbage called curtido. Every family has a favourite recipe.",
+    "Coffee has shaped the country since the 1880s, with highland haciendas growing prized shade-grown beans. El Tunco beach pulses with surf culture, while festivals blend Catholic traditions with ancient Pipil dances and marimba music."
+  ],
+  "history": [
+    "The Pipil people, related to the Aztecs, ruled El Salvador before Spanish conquistador Pedro de Alvarado arrived in 1524. Warriors repelled the first invasion — it took three expeditions to conquer them. Coffee wealth later built grand estates but left most farmers poor.",
+    "A brutal civil war (1979–1992) killed over 75,000 people before peace accords ended the conflict. In 2021 El Salvador became the first country to adopt Bitcoin as legal tender, though the experiment was reversed in 2025."
+  ],
+  "wows": [
+    "El Salvador is the only Central American nation with no Caribbean coast — all beaches face the Pacific.",
+    "A Maya village called Joya de Cerén was buried in volcanic ash around AD 600 — the Pompeii of the Americas.",
+    "El Salvador has 20-plus volcanoes crammed into an area the size of Wales — among Earth's densest.",
+    "The torogoz bird swings its racket-tipped tail like a pendulum to signal predators it has been spotted.",
+    "Indigo dye was El Salvador's top export for 300 years until cheap synthetic dyes wiped out the trade.",
+    "In 2021 El Salvador became the first nation on Earth to make Bitcoin legal tender.",
+    "Pupusa Day is a national holiday celebrated every second Sunday of November, enshrined by law."
+  ],
+  "myths": [
+    {
+      "myth": "El Salvador is too dangerous to visit",
+      "fact": "Homicide rates fell sharply after 2022 reforms; El Salvador now has one of Central America's lowest crime rates and a thriving surf-tourism industry."
+    },
+    {
+      "myth": "El Salvador is a large country",
+      "fact": "At 21,040 km² it is the smallest country in Central America — roughly the size of Wales or the US state of Massachusetts."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Sabroso",
+      "say": "sah-BROH-so"
+    },
+    {
+      "en": "Volcano",
+      "jp": "Volcán",
+      "say": "vol-KAHN"
+    },
+    {
+      "en": "Bye!",
+      "jp": "Adiós",
+      "say": "ah-dee-OHS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sv-hero.jpg",
+      "alt": "Monument to the Divine Savior of the World in San Salvador",
+      "caption": "EL SALVADOR DEL MUNDO — the iconic monument at the heart of San Salvador",
+      "credit": "Jcortezchavarria / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/sv-landmark.jpg",
+      "alt": "Panoramic view of the Joya de Cerén archaeological site",
+      "caption": "JOYA DE CERÉN — Maya village buried by volcano in AD 600",
+      "credit": "Mariordo / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sv-animalA.jpg",
+      "alt": "Turquoise-browed motmot bird perched on a branch",
+      "caption": "TOROGOZ — national bird that swings its racket tail like a pendulum",
+      "credit": "gailhampshire / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/sv-animalB.jpg",
+      "alt": "White-tailed deer in natural highland habitat",
+      "caption": "WHITE-TAILED DEER — venado cola blanca of El Salvador's forests",
+      "credit": "Santiago Ron (Jambato) / CC BY 4.0"
+    }
+  }
+}

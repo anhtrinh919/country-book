@@ -1,0 +1,163 @@
+{
+  "name": "SINGAPORE",
+  "nativeName": "新加坡",
+  "romaji": "SINGAPURA",
+  "tagline": "The Lion City Shines",
+  "region": "Southeast Asia",
+  "coords": "1.35°N, 103.82°E",
+  "fileNo": "065",
+  "flag": {
+    "assetPath": "/flags/sg.svg",
+    "title": "Flag of Singapore",
+    "note": "Red & white, crescent moon, five stars",
+    "keyColor": "#EF3340",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Singapore is a tiny island city-state at the tip of the Malay Peninsula — so small you could drive across it in an hour, yet one of the world's wealthiest nations. From a fishing village to a global hub in two generations, it pulses with gleaming towers, fragrant hawker stalls, and rainforest where pangolins still roam the night.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Singapore",
+      "sub": "also the whole country"
+    },
+    {
+      "label": "People",
+      "value": "6.04 million",
+      "sub": "est. June 2024"
+    },
+    {
+      "label": "Money",
+      "value": "SGD $",
+      "sub": "Singapore Dollar"
+    },
+    {
+      "label": "Language",
+      "value": "4 official",
+      "sub": "English, Malay, Mandarin, Tamil"
+    },
+    {
+      "label": "Land area",
+      "value": "735 km²",
+      "sub": "smaller than Hong Kong"
+    },
+    {
+      "label": "High point",
+      "value": "164 m",
+      "sub": "Bukit Timah Hill"
+    }
+  ],
+  "islands": [
+    "Central",
+    "Sentosa",
+    "Jurong Is.",
+    "Pulau Ubin",
+    "Changi"
+  ],
+  "islandsLabel": "KEY DISTRICTS & ISLES:",
+  "sections": {
+    "geography": "A city built on water",
+    "animals": "Urban jungle survivors",
+    "culture": "Four flavours, one table",
+    "history": "From village to world city",
+    "wows": "Believe it or not!"
+  },
+  "geo": [
+    "Singapore sits on one main island plus 63 smaller ones at the foot of the Malay Peninsula, hugging the world's busiest shipping lane. There are no mountains — the highest natural point, Bukit Timah Hill, is just 164 metres tall.",
+    "With almost no natural resources, Singapore imports nearly all its food and water. Engineers have grown the island by 25% over the past two centuries by pumping in millions of tonnes of sand to reclaim land from the sea."
+  ],
+  "animals": [
+    "Singapore is far wilder than its skyline suggests. Smooth-coated otters splash through city canals and have become social-media celebrities. The critically endangered Sunda pangolin — the world's most trafficked mammal — still hides in Bukit Timah and Central Catchment reserves.",
+    "Oriental pied hornbills vanished from Singapore by the 1960s but bounced back after conservationists put up nesting boxes. Around 60–100 now soar over parks and roadside trees, a black-and-white bird with an improbably large yellow beak."
+  ],
+  "culture": [
+    "Singapore's food is its greatest pride. At hawker centres — giant open-air food halls on UNESCO's Intangible Heritage list — Chinese, Malay, Indian, and Peranakan stalls sit side by side. A plate of chicken rice or laksa costs just a few dollars.",
+    "Four official languages (English, Malay, Mandarin, Tamil) give rise to a street speech called Singlish, where sentences end with \"lah\", \"leh\", or \"lor\". The national anthem, Majulah Singapura, is sung entirely in Malay."
+  ],
+  "history": [
+    "In 1819 British officer Stamford Raffles chose this swampy island as a free-trade port. Within two years traders had flooded in and the population leapt from 150 to 5,000. By 1821, $8 million of goods passed through each year.",
+    "Singapore joined Malaysia in 1963 but was expelled just two years later. On 9 August 1965, Prime Minister Lee Kuan Yew tearfully announced independence — and built one of the world's richest economies within a single generation."
+  ],
+  "wows": [
+    "Changi Airport has won the title of World's Best Airport 14 times at the Skytrax Awards, including 2026.",
+    "Singapore has the world's highest GDP per capita by purchasing power parity — richer per person than the USA.",
+    "The Night Safari, opened in 1994, was the world's very first zoo designed entirely for nocturnal visits.",
+    "Gardens by the Bay's Flower Dome is the world's largest glass greenhouse, certified by Guinness World Records.",
+    "Singapore's MRT trains are so precise that delays are officially measured from the five-minute mark.",
+    "Despite being tinier than London, Singapore is the world's second-busiest container port by volume.",
+    "The country has grown itself over 24% bigger since independence by importing sand and filling in the sea."
+  ],
+  "myths": [
+    {
+      "myth": "You'll be caned for chewing gum",
+      "fact": "Selling or importing gum is banned (a fine, not caning), but chewing it is not illegal — therapeutic gums from a pharmacist are allowed."
+    },
+    {
+      "myth": "Singapore is just one big mall",
+      "fact": "Over 300 km of park connectors link nature reserves where otters, hornbills, and even pangolins live wild in the heart of the city."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Apa khabar",
+      "say": "AH-pah KAH-bar"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Terima kasih",
+      "say": "TREE-mah KAH-see"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Selamat pagi",
+      "say": "slah-MAHT PAH-ghee"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Sedap!",
+      "say": "suh-DAHP"
+    },
+    {
+      "en": "Excuse me",
+      "jp": "Maaf",
+      "say": "MAH-af"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sg-hero.jpg",
+      "alt": "Marina Bay Sands hotel and casino at dusk reflected in Marina Bay",
+      "caption": "MARINA BAY SANDS — Singapore's iconic triple-tower hotel crowns the city at dusk.",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/sg-landmark.jpg",
+      "alt": "Supertree Grove at Gardens by the Bay lit up at dusk with tall vertical gardens",
+      "caption": "SUPERTREES — The 50-metre solar-powered trees of Gardens by the Bay glow at dusk.",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/sg-animalA.jpg",
+      "alt": "Oriental pied hornbill perched on a branch showing black-and-white plumage and large yellow beak",
+      "caption": "ORIENTAL PIED HORNBILL — a conservation comeback story in Singapore's parks.",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/sg-animalB.jpg",
+      "alt": "Sunda pangolin showing its scaly armour on a forest floor at night",
+      "caption": "SUNDA PANGOLIN — a shy, scaly mammal that still roams Singapore's reserves at night.",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  },
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#CFC0A8",
+    "ink": "#28231E",
+    "faint": "#897865",
+    "line": "#DACED8",
+    "accent": "#EF3340",
+    "accent2": "#FFFFFF"
+  },
+  "motif": "dots",
+  "langName": "Singlish"
+}

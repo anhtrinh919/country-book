@@ -1,0 +1,163 @@
+{
+  "name": "GHANA",
+  "nativeName": "GH",
+  "romaji": "GHANA",
+  "tagline": "Gold, cocoa & warm smiles",
+  "region": "West Africa",
+  "coords": "8°N 2°W",
+  "fileNo": "042",
+  "langName": "Twi",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#C8B48A",
+    "ink": "#1E1A10",
+    "faint": "#8A7545",
+    "line": "#DDD0AA",
+    "accent": "#CC0000",
+    "accent2": "#006B3F"
+  },
+  "flag": {
+    "assetPath": "/flags/gh.svg",
+    "title": "Flag of Ghana",
+    "note": "Red, gold & green with a black star",
+    "keyColor": "#CC0000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ghana sits on the Gulf of Guinea where forest meets golden savanna. The first sub-Saharan country to win independence in 1957, its cheers echoed across Africa. Today it grows more cocoa than almost any nation — markets burst with kente cloth, and highlife music from every corner makes standing still nearly impossible.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Accra",
+      "sub": "Pop. ~3.6 m, on the Atlantic coast"
+    },
+    {
+      "label": "People",
+      "value": "34 million",
+      "sub": "2024 estimate; 80+ ethnic groups"
+    },
+    {
+      "label": "Money",
+      "value": "Cedi (GHS)",
+      "sub": "Named after a cowrie shell"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus Twi, Ewe, Ga & 70+ others"
+    },
+    {
+      "label": "Land area",
+      "value": "238,533 km²",
+      "sub": "Slightly smaller than the UK"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Afadjato",
+      "sub": "885 m — Volta Region"
+    }
+  ],
+  "islands": [
+    "ACCRA",
+    "KUMASI",
+    "VOLTA",
+    "ASHANTI",
+    "NORTHERN"
+  ],
+  "islandsLabel": "MAIN REGIONS:",
+  "sections": {
+    "geography": "A coast of gold & great rivers",
+    "animals": "Wild things of forest & shore",
+    "culture": "Kente, drums & cocoa dreams",
+    "history": "From Gold Coast to freedom",
+    "wows": "Ghana will surprise you!"
+  },
+  "geo": [
+    "Ghana's south is a humid strip of sandy beaches and mangrove lagoons along the Atlantic. Inland, tropical rainforest rises to rolling hills in the Ashanti heartland. The Volta River was dammed in 1965 to form Lake Volta — the world's largest artificial lake by surface area.",
+    "Further north, dry Guinea savanna opens up, dotted with baobab trees and termite mounds. The far north bakes in Sahel heat where cattle herders follow seasonal rains. Three climate zones pack a continent's worth of landscape into one compact country."
+  ],
+  "animals": [
+    "Ghana's western forests shelter forest elephants, chimpanzees, and the rare bongo antelope with spiral horns. Mole National Park is the best place to watch elephants wade into waterholes at dusk, sometimes just metres from the viewing platform.",
+    "Rivers and lagoons harbour Nile crocodiles and the African lungfish, which breathes air and survives droughts buried in mud. Along the coast, olive ridley sea turtles haul themselves onto beaches at night to lay eggs — locals guard the nests by torchlight."
+  ],
+  "culture": [
+    "Kente cloth — woven in vivid gold, green and red strips — was once worn only by Ashanti kings; today every Ghanaian pulls it on for weddings and celebrations. Funerals here are joyful parties: families commission fantastical coffins carved like fish, aeroplanes, or cocoa pods.",
+    "Ghanaian food centres on hearty one-pot dishes: spicy groundnut soup over fufu, or jollof rice whose aroma fuels the great Ghana-vs-Nigeria debate weekly. Highlife music, born in 1920s port towns, blends jazz horns with talking-drum rhythms."
+  ],
+  "history": [
+    "Long before Europeans arrived, the Ashanti Empire controlled West Africa's gold trade. Portuguese sailors reached the coast in 1471 and named it the Gold Coast. Soon a grim trade in enslaved people scarred the land — Cape Coast Castle still stands as a solemn reminder.",
+    "On 6 March 1957, Kwame Nkrumah declared independence — the first Black African nation south of the Sahara. His cry 'Forward Ever, Backward Never' is still quoted today, and Ghana's Independence Day remains Africa's most celebrated birthday."
+  ],
+  "wows": [
+    "Lake Volta covers 3.6% of Ghana's land — it's the world's largest artificial lake by surface area.",
+    "Ghana is the world's 2nd-largest cocoa producer — roughly 1 in 5 chocolate bars starts as a cocoa pod here.",
+    "Cape Coast Castle (1653) was a transit point for over 1 million enslaved Africans before abolition.",
+    "Ghanaians pioneered 'fantasy coffins' — bespoke caskets shaped like cars, lobsters, or Nike trainers.",
+    "The Ashanti Golden Stool is believed to hold the nation's soul; no human has ever sat upon it.",
+    "Hydroelectric dams on the Volta generate roughly 60% of Ghana's electricity.",
+    "Accra hosts one of the world's largest e-waste markets, receiving discarded gadgets from every continent."
+  ],
+  "myths": [
+    {
+      "myth": "Ghana has little infrastructure or economy",
+      "fact": "Ghana has one of West Africa's most stable democracies and fastest-growing economies, with major highways and a tech scene nicknamed 'Silicon Accra'."
+    },
+    {
+      "myth": "Africa is one big homogeneous culture",
+      "fact": "Ghana alone has 80+ ethnic groups — Ashanti, Ewe, Ga, Dagomba — each with distinct language and traditions."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Akwaaba",
+      "say": "ah-KWAH-bah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Medaase",
+      "say": "meh-DAH-seh"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Wo ho te?",
+      "say": "woh-HO-teh"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Ɛyɛ dɛ",
+      "say": "eh-YEH-deh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Nante yie",
+      "say": "NAN-teh-yee-EH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gh-hero.jpg",
+      "alt": "Aerial view of Accra, Ghana's capital city",
+      "caption": "ACCRA — Ghana's bustling capital stretches from the Atlantic coast inland",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gh-landmark.jpg",
+      "alt": "Cape Coast Castle on the Ghanaian coastline",
+      "caption": "CAPE COAST CASTLE — 17th-century fort that witnessed the Atlantic slave trade",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gh-animalA.jpg",
+      "alt": "African elephant walking through savanna",
+      "caption": "AFRICAN ELEPHANT — spotted at Mole National Park in Ghana's north",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gh-animalB.jpg",
+      "alt": "Olive ridley sea turtle on a beach",
+      "caption": "OLIVE RIDLEY TURTLE — nests on Ghana's Atlantic beaches under moonlight",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

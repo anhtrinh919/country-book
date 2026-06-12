@@ -1,0 +1,163 @@
+{
+  "name": "NAURU",
+  "nativeName": "NR",
+  "romaji": "NAOERO",
+  "tagline": "Tiny island, big story",
+  "region": "Micronesia, Pacific Ocean",
+  "coords": "0.52°S, 166.93°E",
+  "fileNo": "078",
+  "langName": "Nauruan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EFF5F0",
+    "dot": "#c2d4c8",
+    "ink": "#1a2820",
+    "faint": "#6a8a72",
+    "line": "#d4e3d8",
+    "accent": "#002B7F",
+    "accent2": "#FFC61E"
+  },
+  "flag": {
+    "assetPath": "/flags/nr.svg",
+    "title": "Flag of Nauru",
+    "note": "Blue sea, gold equator, 12-point star",
+    "keyColor": "#002B7F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nauru is the world's smallest republic — a coral dot in the Pacific barely bigger than 1,000 football pitches. Sailors called it Pleasant Island. Its soil turned out to be phosphate — ancient seabird droppings — making it one of the richest places on Earth. Today Nauruans rebuild among jagged limestone left by the mines.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Yaren",
+      "sub": "De facto seat of government"
+    },
+    {
+      "label": "People",
+      "value": "11,680",
+      "sub": "2021 national census"
+    },
+    {
+      "label": "Money",
+      "value": "AUD $",
+      "sub": "Australian dollar"
+    },
+    {
+      "label": "Language",
+      "value": "Nauruan",
+      "sub": "Also English (official)"
+    },
+    {
+      "label": "Land area",
+      "value": "21 km²",
+      "sub": "World's 3rd-smallest country"
+    },
+    {
+      "label": "Top point",
+      "value": "Command Ridge",
+      "sub": "71 m above sea level"
+    }
+  ],
+  "islands": [
+    "Yaren",
+    "Anibare",
+    "Buada",
+    "Aiwo",
+    "Boe"
+  ],
+  "islandsLabel": "MAIN DISTRICTS:",
+  "sections": {
+    "geography": "A coral dot in the Pacific",
+    "animals": "Wings, reefs & rare birds",
+    "culture": "Feasts, clans & island life",
+    "history": "From riches to rocky roads",
+    "wows": "Hard to believe but true!"
+  },
+  "geo": [
+    "Nauru is a flat oval of raised coral reef, ringed by a narrow coastal strip where almost everyone lives. Inland, a central plateau sits about 30 metres up — once covered in phosphate-rich soil, now largely bare limestone after a century of mining.",
+    "The island has no rivers and almost no freshwater except Buada Lagoon, a quiet inland pond fringed with palms. The ocean drops to great depths just offshore, making for spectacular reef diving right on its fringe."
+  ],
+  "animals": [
+    "Nauru's most famous resident is the Nauru reed warbler — a small brown bird found nowhere else on Earth. It hops through remaining scrub hunting insects with its thin beak. Mining destroyed most of its forest home, making it vulnerable.",
+    "Great frigatebirds swoop above the coast, riding warm currents to snatch fish mid-flight. Beneath the waves, colourful reef fish, sea turtles, and trevally dart around coral. Open-ocean wanderers like tuna pass just offshore."
+  ],
+  "culture": [
+    "Nauruans belong to 12 ancient clans, each with its own stories. Descent is traced through mothers — your clan follows your mum's family. Feasts bring everyone together around fresh fish, coconut, and pandanus fruit.",
+    "Traditional chants and dances keep old stories alive. Woven pandanus mats and baskets are skills passed down through generations. Weightlifting is a proudly national sport; Nauruan athletes have won Olympic medals in it."
+  ],
+  "history": [
+    "Micronesian settlers arrived around 1000 BCE. In 1798 British captain John Fearn called it Pleasant Island. Germany claimed it in 1888; Britain, Australia, and Japan each controlled it at different points during both world wars.",
+    "Phosphate mining began in 1907 and made Nauru the world's richest country per capita by the 1970s. Reserves ran dry by the early 2000s, leaving 80% of the land stripped bare. Nauru has been independent since 1968."
+  ],
+  "wows": [
+    "Nauru is the world's smallest independent republic — only Vatican City and Monaco are tinier.",
+    "You can drive around the entire island in about 20 minutes on the one ring road.",
+    "Nauru's phosphate formed from millions of years of seabird droppings — wealth built on ancient poo.",
+    "In the 1970s Nauru had one of the highest incomes per person on Earth, funding its own airline.",
+    "Nauru has no official capital; government offices sit in Yaren, the closest thing to a main town.",
+    "Only around 200 tourists visit Nauru each year — one of the lowest figures of any country on Earth.",
+    "Each of the 12 points on the flag's star stands for one of Nauru's 12 original clans."
+  ],
+  "myths": [
+    {
+      "myth": "Nauru is still a rich, prosperous island",
+      "fact": "Nauru was fabulously wealthy in the 1970s–80s from phosphate. When the mines ran dry, so did the money. Today it is rebuilding its economy and restoring mined-out land."
+    },
+    {
+      "myth": "The interior is lush tropical jungle",
+      "fact": "Mining stripped 80% of the island bare, leaving jagged limestone spikes. Wildlife inland is sparse; the main land bird is the vulnerable Nauru reed warbler."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Óyó",
+      "say": "OH-yo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tubwa",
+      "say": "TOOB-wah"
+    },
+    {
+      "en": "Yes",
+      "jp": "Io",
+      "say": "EE-oh"
+    },
+    {
+      "en": "No",
+      "jp": "Pue",
+      "say": "POO-eh"
+    },
+    {
+      "en": "Fish",
+      "jp": "Ikir",
+      "say": "EE-keer"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nr-hero.jpg",
+      "alt": "Sunset over Nauru coastline with calm Pacific Ocean",
+      "caption": "NAURU COASTLINE — the Pacific glows gold at sunset on the world's smallest republic.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/nr-landmark.jpg",
+      "alt": "Jagged coral limestone pinnacles on Nauru plateau after phosphate mining",
+      "caption": "NAURU PINNACLES — jagged limestone spires mark where phosphate was mined for decades.",
+      "credit": "Stefan Lins / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/nr-animalA.jpg",
+      "alt": "Great frigatebird in flight over tropical ocean",
+      "caption": "GREAT FRIGATEBIRD — a skilled aerial pirate soaring above Nauru's Pacific waters.",
+      "credit": "Charles J Sharp / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/nr-animalB.jpg",
+      "alt": "Frigatebird with distinctive forked tail perched on tropical island",
+      "caption": "FRIGATEBIRD — with a 2.3 m wingspan, these birds ride warm Pacific air effortlessly.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

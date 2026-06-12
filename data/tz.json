@@ -1,0 +1,163 @@
+{
+  "name": "TANZANIA",
+  "nativeName": "TZ",
+  "romaji": "TANZANIA",
+  "tagline": "Wild heart of Africa",
+  "region": "East Africa",
+  "coords": "6.37°S, 34.89°E",
+  "fileNo": "082",
+  "langName": "Swahili",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9E",
+    "ink": "#251E16",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#1DA354",
+    "accent2": "#1B75BC"
+  },
+  "flag": {
+    "assetPath": "/flags/tz.svg",
+    "title": "Flag of Tanzania",
+    "note": "Green, black & blue — land, people & sea",
+    "keyColor": "#1DA354",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tanzania is a giant East African land where Africa's highest peak wears snow, millions of wildebeest thunder across golden plains each year, and a spice island floats in a turquoise sea. From an ancient volcanic crater to Zanzibar's coral reefs, it packs more wild wonders into one country than almost anywhere on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Dodoma",
+      "sub": "Official capital since 1974"
+    },
+    {
+      "label": "People",
+      "value": "61.7 million",
+      "sub": "2022 national census"
+    },
+    {
+      "label": "Money",
+      "value": "TZS Shilling",
+      "sub": "Tanzanian shilling (TZS)"
+    },
+    {
+      "label": "Language",
+      "value": "Swahili",
+      "sub": "Also English in schools"
+    },
+    {
+      "label": "Land area",
+      "value": "885,800 km²",
+      "sub": "Bigger than Texas & California"
+    },
+    {
+      "label": "Top peak",
+      "value": "5,895 m",
+      "sub": "Mt Kilimanjaro — Africa's roof"
+    }
+  ],
+  "islands": [
+    "Zanzibar",
+    "Dodoma",
+    "Arusha",
+    "Mwanza",
+    "Pemba"
+  ],
+  "islandsLabel": "MAIN CITIES & ISLANDS:",
+  "sections": {
+    "geography": "Roof of Africa & wild plains",
+    "animals": "The greatest show on Earth",
+    "culture": "A hundred tribes, one nation",
+    "history": "From sultanates to freedom",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Tanzania sits on a vast high plateau dotted with volcanoes, ancient craters, and glittering lakes. The Great Rift Valley cuts through the west, creating Lake Tanganyika — the world's longest freshwater lake, so deep you could stack four Eiffel Towers inside it.",
+    "Mount Kilimanjaro stands alone on the northeastern plains — a snow-capped volcano rising 5,895 m above sea level, the tallest free-standing mountain on the planet. Nearly 30% of Tanzania is protected national park, more than almost any other country."
+  ],
+  "animals": [
+    "The Serengeti hosts the Great Migration — over 1.5 million wildebeest plus hundreds of thousands of zebras and gazelles stampeding in a giant loop across the plains. It is the largest overland animal movement on Earth, with nail-biting crocodile river crossings.",
+    "Tanzania's national animal is the Maasai giraffe, the tallest creature alive. The country also shelters lions, elephants, cheetahs, hippos, flamingos, and over 1,100 bird species, all roaming parks so vast the animals barely notice the jeeps."
+  ],
+  "culture": [
+    "Tanzania is home to over 120 ethnic groups, yet Swahili — a melodic blend of Bantu and Arabic — ties them all together. On Zanzibar, carved wooden doors and Arabic arches recall centuries of spice-trade merchants; cloves and cinnamon still perfume the island air.",
+    "Music and dance pulse through daily life, from the acrobatic leaps of Maasai warriors to the taarab orchestras of Zanzibar blending violins with ouds. Ugali — a firm maize porridge — is the everyday staple, scooped up with stew, beans, or grilled fish."
+  ],
+  "history": [
+    "Ancient humans left footprints in volcanic ash at Laetoli 3.6 million years ago — the oldest known hominin footprints on Earth. Arab and Persian traders settled the coast from the 8th century, building Stone Town and a busy ocean trade in spices and enslaved people.",
+    "Germany then Britain colonised the mainland, but on 9 December 1961 Julius Nyerere led Tanganyika to independence. In 1964, Tanganyika and Zanzibar united to form Tanzania. Nyerere championed Swahili to forge one proud nation from hundreds of tribal identities."
+  ],
+  "wows": [
+    "Ngorongoro is Earth's largest intact volcanic caldera — a bowl 20 km wide holding 25,000 large animals.",
+    "Human ancestor footprints from 3.6 million years ago are still preserved in ash at Laetoli, Tanzania.",
+    "Freddie Mercury, lead singer of Queen, was born in Zanzibar in 1946.",
+    "Lake Tanganyika holds 16% of Earth's surface fresh water and plunges 1,470 m deep.",
+    "Tanzania has more UNESCO World Heritage Sites than any other East African country.",
+    "The Great Migration never stops — wildebeest travel 800 km every year with no map.",
+    "Kilimanjaro's glaciers have shrunk 80% since 1912 and may vanish by 2050."
+  ],
+  "myths": [
+    {
+      "myth": "Kilimanjaro is in Kenya",
+      "fact": "Mount Kilimanjaro is entirely in Tanzania, near the Kenyan border. Kenya's highest peak is Mount Kenya, which stands about 500 m shorter."
+    },
+    {
+      "myth": "Migration only happens in summer",
+      "fact": "The wildebeest migration is year-round — the herds circle continuously, with the famous river crossings peaking between July and October."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Jambo",
+      "say": "JAM-bo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Asante",
+      "say": "ah-SAN-tay"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Karibu",
+      "say": "kah-REE-boo"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Kwaheri",
+      "say": "kwah-HEH-ree"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Habari gani?",
+      "say": "ha-BAH-ree GAH-nee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tz-hero.jpg",
+      "alt": "Mount Kilimanjaro rising above the savanna with acacia trees in the foreground",
+      "caption": "MOUNT KILIMANJARO — Africa's highest peak towers over the golden plains",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tz-landmark.jpg",
+      "alt": "Panoramic view of Stone Town Zanzibar with historic buildings",
+      "caption": "STONE TOWN, ZANZIBAR — a UNESCO World Heritage spice-trade city",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tz-animalA.jpg",
+      "alt": "Masai giraffe standing tall on the Tanzanian savanna",
+      "caption": "MASAI GIRAFFE — Tanzania's national animal, the world's tallest creature",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tz-animalB.jpg",
+      "alt": "Vast herd of wildebeest crossing the Serengeti during the Great Migration",
+      "caption": "GREAT MIGRATION — 1.5 million wildebeest thunder across the Serengeti",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

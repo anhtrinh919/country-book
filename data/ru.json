@@ -1,0 +1,163 @@
+{
+  "name": "RUSSIA",
+  "nativeName": "Россия",
+  "romaji": "ROSSIYA",
+  "tagline": "The world's biggest country",
+  "region": "Eastern Europe & North Asia",
+  "coords": "61°N, 105°E",
+  "fileNo": "043",
+  "langName": "Russian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEE8DC",
+    "dot": "#CFC5B0",
+    "ink": "#25201C",
+    "faint": "#8A7E68",
+    "line": "#DDD5C2",
+    "accent": "#CC2B2B",
+    "accent2": "#1C3F8C"
+  },
+  "flag": {
+    "assetPath": "/flags/ru.svg",
+    "title": "Russian Tricolour",
+    "note": "White, blue & red — since Peter the Great",
+    "keyColor": "#CC2B2B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Russia spans eleven time zones — when kids in Moscow eat breakfast, children near the Pacific coast are already going to bed. It holds the world's deepest lake, its densest forests, and land enough to fit the USA nearly twice over. Yet most Russians live in the west, in grand cities where golden domes stand beside rocket museums.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Moscow",
+      "sub": "Pop. 13 m — Europe's biggest city"
+    },
+    {
+      "label": "People",
+      "value": "144 million",
+      "sub": "Est. 2024, world's 9th largest"
+    },
+    {
+      "label": "Money",
+      "value": "Ruble (₽)",
+      "sub": "1 ruble = 100 kopecks"
+    },
+    {
+      "label": "Language",
+      "value": "Russian",
+      "sub": "Written in the Cyrillic alphabet"
+    },
+    {
+      "label": "Land area",
+      "value": "17.1 m km²",
+      "sub": "Largest country on Earth by area"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Mt Elbrus",
+      "sub": "5,642 m — tallest peak in Europe"
+    }
+  ],
+  "islands": [
+    "Siberia",
+    "The Urals",
+    "Moscow",
+    "St Pete's",
+    "Kamchatka"
+  ],
+  "islandsLabel": "BIG REGIONS & CITIES:",
+  "sections": {
+    "geography": "Forests, lakes & volcanoes",
+    "animals": "Bears, tigers & frozen foxes",
+    "culture": "Domes, ballet & space dreams",
+    "history": "Tsars, revolution & Sputnik",
+    "wows": "Why Russia surprises everyone"
+  },
+  "geo": [
+    "Russia spans 11 time zones and covers one-eighth of all the land on Earth. Its western plains rise at the Ural Mountains — the boundary between Europe and Asia — then open into the vast Siberian taiga, the planet's largest forest.",
+    "Lake Baikal holds about one-fifth of all Earth's unfrozen fresh water and plunges 1,642 m deep. In the far east, Kamchatka bristles with more than 160 volcanoes, around 29 of which are still active."
+  ],
+  "animals": [
+    "Russia is home to the Amur tiger, the world's largest wild cat, prowling birch forests in the far east. The brown bear is the unofficial national animal — they outnumber tigers by tens of thousands.",
+    "The Arctic fox wears a coat that turns pure white in winter to hide on the tundra. Lake Baikal's nerpa is the world's only freshwater seal, found nowhere else on Earth."
+  ],
+  "culture": [
+    "Russians are fiercely proud of their arts. The Bolshoi Ballet has wowed audiences for 250 years, and Tchaikovsky gave the world Swan Lake. Matryoshka nesting dolls are among the world's most recognised crafts.",
+    "Food is hearty: borscht (beetroot soup), blini (thin pancakes) and pelmeni dumplings fuel people through long winters. A glass of tea from a samovar is the heart of any Russian gathering."
+  ],
+  "history": [
+    "Russia began as medieval Slavic city-states. Ivan the Terrible became the first tsar in 1547, and Peter the Great built St Petersburg from scratch, dragging the country into the modern age by sheer force of will.",
+    "Revolution in 1917 swept away the tsar and created the Soviet Union. In 1957 the Soviets launched Sputnik, the world's first satellite, and in 1961 Yuri Gagarin became the first human in space. The USSR dissolved in 1991."
+  ],
+  "wows": [
+    "Russia has 11 time zones — more than any other country on Earth.",
+    "Lake Baikal alone holds 20% of all the world's unfrozen fresh water.",
+    "The Trans-Siberian Railway is the longest rail line on Earth at 9,289 km.",
+    "Yuri Gagarin became the first human ever in space in April 1961.",
+    "Russia has 32 UNESCO World Heritage Sites, from the Kremlin to Lake Baikal.",
+    "The Siberian taiga is so vast it is sometimes called the lungs of the planet.",
+    "Moscow's metro stations are decorated with chandeliers and marble — nicknamed 'the people's palace'."
+  ],
+  "myths": [
+    {
+      "myth": "Russia is always frozen and covered in snow",
+      "fact": "Southern Russia has warm summers — Moscow hits 25°C in July and the Black Sea coast is a popular beach destination."
+    },
+    {
+      "myth": "Bears roam the streets of Russian cities",
+      "fact": "Brown bears live deep in remote forests, far from cities. Urban Russians are far more likely to spot pigeons than bears."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Привет",
+      "say": "Pree-VYET"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Спасибо",
+      "say": "Spa-SEE-ba"
+    },
+    {
+      "en": "Please",
+      "jp": "Пожалуйста",
+      "say": "Pa-ZHAL-sta"
+    },
+    {
+      "en": "Yes",
+      "jp": "Да",
+      "say": "Da"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Вкусно!",
+      "say": "VKOOS-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ru-hero.jpg",
+      "alt": "Moscow City skyscrapers along the Moskva River at dusk",
+      "caption": "MOSCOW CITY — glass towers above the Moskva River at dusk",
+      "credit": "Wikimedia Commons / Sergei Korolev"
+    },
+    "landmark": {
+      "src": "/photos/ru-landmark.jpg",
+      "alt": "Saint Basil's Cathedral colourful onion domes on Red Square Moscow",
+      "caption": "SAINT BASIL'S — candy-coloured domes on Red Square, Moscow",
+      "credit": "Wikimedia Commons / Ludvig14"
+    },
+    "animalA": {
+      "src": "/photos/ru-animalA.jpg",
+      "alt": "Amur tiger resting showing thick orange and white striped fur",
+      "caption": "AMUR TIGER — the world's largest wild cat, from Russia's far east",
+      "credit": "Wikimedia Commons / Dave Pape"
+    },
+    "animalB": {
+      "src": "/photos/ru-animalB.jpg",
+      "alt": "Baikal seal resting on a rock at Lake Baikal",
+      "caption": "BAIKAL SEAL — the world's only freshwater seal, Lake Baikal only",
+      "credit": "Wikimedia Commons / Sergey Gabdurakhmanov"
+    }
+  }
+}

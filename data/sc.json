@@ -1,0 +1,163 @@
+{
+  "name": "SEYCHELLES",
+  "nativeName": "SC",
+  "romaji": "SEYCHELLES",
+  "tagline": "115 islands, one paradise",
+  "region": "East Africa / Indian Ocean",
+  "coords": "4°S, 55°E",
+  "fileNo": "115",
+  "langName": "Creole (Seselwa)",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EEE3",
+    "dot": "#C9BFA8",
+    "ink": "#1E2118",
+    "faint": "#7A7A5C",
+    "line": "#DDD8C6",
+    "accent": "#003F87",
+    "accent2": "#D62828"
+  },
+  "flag": {
+    "assetPath": "/flags/sc.svg",
+    "title": "Flag of Seychelles",
+    "note": "Five rays of blue, yellow, red, white, green",
+    "keyColor": "#003F87",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Seychelles is a tiny island nation — 115 granite and coral islands in the Indian Ocean where turquoise water laps boulders the colour of elephant skin. Fewer people live here than in most small towns, yet over half the land is protected nature reserve, giant tortoises outnumber humans, and one palm grows the heaviest seed on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Victoria",
+      "sub": "World's smallest capital city"
+    },
+    {
+      "label": "People",
+      "value": "~99,000",
+      "sub": "Est. 2024 — a very small nation"
+    },
+    {
+      "label": "Money",
+      "value": "Rupee (SCR)",
+      "sub": "Called roupi in Creole"
+    },
+    {
+      "label": "Language",
+      "value": "3 official",
+      "sub": "Creole, English & French"
+    },
+    {
+      "label": "Land area",
+      "value": "452 km²",
+      "sub": "Smaller than Isle of Man"
+    },
+    {
+      "label": "High point",
+      "value": "905 m",
+      "sub": "Morne Seychellois, Mahé"
+    }
+  ],
+  "islands": [
+    "Mahé",
+    "Praslin",
+    "La Digue",
+    "Aldabra",
+    "Silhouette"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Rock, reef & open ocean",
+    "animals": "Tortoises, parrots & giants",
+    "culture": "Creole rhythms & spice",
+    "history": "Pirates, planters & freedom",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Seychelles sits alone in the Indian Ocean, about 1,500 km east of mainland Africa. Its inner islands are ancient granite — the only oceanic granite islands on Earth — giving them dramatic rounded boulders and forested peaks. Mahé, the biggest, holds the capital Victoria and 90% of all residents.",
+    "The outer islands are flat coral atolls. Aldabra, a UNESCO World Heritage site, is so remote that its wildlife evolved in near-total isolation. The country's ocean territory is over 1.3 million km² — nearly 3,000 times its land area."
+  ],
+  "animals": [
+    "The Aldabra giant tortoise is Seychelles' living symbol — over 100,000 roam Aldabra Atoll, grazing like slow armoured lawnmowers. They weigh up to 250 kg and live past 150 years. Esmeralda, on Bird Island, may be the world's oldest living animal.",
+    "The Seychelles black parrot — kato nwar — lives only on Praslin, numbering about 1,000 birds. Green sea turtles nest on quiet beaches, and whale sharks glide through warm coral gardens offshore."
+  ],
+  "culture": [
+    "Seychellois culture blends African, French, Indian and Chinese roots into something uniquely Creole. Grilled fish with chilli-ginger sauce, octopus curry in coconut milk, and papaya chutney fill the table. The Festival Kreol in October fills streets with costume, music and spice.",
+    "Music runs deep: moutya — UNESCO-listed — was born from enslaved people's chants, sung around beach bonfires. Sega, with its hip-swaying shuffle and bongo drums, brings everyone to their feet."
+  ],
+  "history": [
+    "Arab traders knew these islands centuries ago, but they stayed uninhabited until 1770, when French settlers arrived with enslaved Africans to plant spices and coconuts. Britain seized the islands in 1810 and ruled for 166 years. Independence came peacefully on 29 June 1976.",
+    "The pirate Olivier le Vasseur — 'La Buse', the Buzzard — is said to have buried a vast treasure here before his 1730 execution. A coded riddle he threw to the crowd still hasn't been solved. Treasure hunters keep digging."
+  ],
+  "wows": [
+    "Seychelles' inner islands are the only oceanic granite islands on Earth — not volcanic, not coral.",
+    "The coco de mer palm grows the world's largest seed — one nut can weigh 25 kg, heavier than a small child.",
+    "Over 50% of Seychelles land is protected nature reserve — the highest share of any country.",
+    "Victoria is so compact you can walk across the entire city centre in under ten minutes.",
+    "The Seychelles magpie-robin fell to just 16 birds in the 1960s; conservation brought it back to 300+.",
+    "No venomous snakes exist on any Seychelles island — it is completely serpent-safe.",
+    "Seychelles controls an ocean zone nearly 3,000 times bigger than its actual land area."
+  ],
+  "myths": [
+    {
+      "myth": "\"Seychelles is just one island\"",
+      "fact": "It is 115 islands — some granite, some coral — spread across 1,300 km of ocean. Most are tiny and uninhabited, each with its own wildlife and character."
+    },
+    {
+      "myth": "\"Getting between islands is expensive\"",
+      "fact": "The three main islands — Mahé, Praslin, La Digue — are linked by public ferries. La Digue's world-famous beach is best reached by bicycle."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonzour",
+      "say": "bon-ZOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mersi",
+      "say": "MAIR-see"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Orevwar",
+      "say": "oh-rev-WAHR"
+    },
+    {
+      "en": "Please",
+      "jp": "Silvouple",
+      "say": "sil-VOO-pl"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Koman sava?",
+      "say": "ko-MON sa-VAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sc-hero.jpg",
+      "alt": "Anse Royale beach on Mahé island with turquoise water and palm-lined granite shore",
+      "caption": "MAHÉ COASTLINE — warm Indian Ocean laps the granite shores of the main island",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sc-landmark.jpg",
+      "alt": "The Victoria Clock Tower known as Little Ben in the capital of Seychelles",
+      "caption": "VICTORIA CLOCK TOWER — Little Ben, 1903, heart of the world's smallest capital",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sc-animalA.jpg",
+      "alt": "Aldabra giant tortoise walking slowly on open ground in Seychelles",
+      "caption": "ALDABRA GIANT TORTOISE — weighs up to 250 kg and can outlive your great-grandparents",
+      "credit": "Wikimedia Commons / Adrian Pingstone"
+    },
+    "animalB": {
+      "src": "/photos/sc-animalB.jpg",
+      "alt": "Esmeralda, the famous giant tortoise on Bird Island, Seychelles",
+      "caption": "ESMERALDA — Bird Island's celebrity tortoise, possibly the oldest living animal on Earth",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

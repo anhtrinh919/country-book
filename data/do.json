@@ -1,0 +1,163 @@
+{
+  "name": "DOMINICAN REP",
+  "nativeName": "DO",
+  "romaji": "DOMINICANA",
+  "tagline": "Pearl of the Caribbean",
+  "region": "Caribbean",
+  "coords": "18.7°N, 70.2°W",
+  "fileNo": "085",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA3",
+    "ink": "#27201C",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#002D62",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/do.svg",
+    "title": "Flag of DR",
+    "note": "Blue & red quartered by a white cross",
+    "keyColor": "#002D62",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "The Dominican Republic shares Hispaniola with Haiti and packs a continent's worth of geography into one Caribbean island — towering peaks, saltwater lakes below sea level, rainforests and 1,600 km of beach. Santo Domingo, its capital, is the oldest European city in the Americas. It also gave the world both merengue and bachata.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Santo Domingo",
+      "sub": "Oldest European city in Americas"
+    },
+    {
+      "label": "People",
+      "value": "11.4 million",
+      "sub": "Est. 2024; median age 28.7"
+    },
+    {
+      "label": "Money",
+      "value": "Peso (DOP)",
+      "sub": "Dominican peso since 1844"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "With Taíno & African roots"
+    },
+    {
+      "label": "Land area",
+      "value": "48,670 km²",
+      "sub": "Eastern Hispaniola"
+    },
+    {
+      "label": "High point",
+      "value": "3,098 m",
+      "sub": "Pico Duarte — Caribbean’s tallest"
+    }
+  ],
+  "islands": [
+    "Sto. Domingo",
+    "Santiago",
+    "Punta Cana",
+    "Samaná",
+    "Barahona"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, lakes & wild coasts",
+    "animals": "Wings, scales & ocean giants",
+    "culture": "Rhythm, colour & deep roots",
+    "history": "Firsts, freedom & a new world",
+    "wows": "Seven things to make you gasp"
+  },
+  "geo": [
+    "The DR covers the eastern two-thirds of Hispaniola. Pico Duarte (3,098 m) is the Caribbean's tallest peak — hikers camp in pine forests that feel more Swiss than tropical. Nearby, dry cactus scrubland stretches south to the coast.",
+    "Lake Enriquillo sits 46 m below sea level — the Caribbean's lowest point. It is saltier than the sea and hosts hundreds of American crocodiles and flocks of flamingos, all within sight of towering desert cliffs."
+  ],
+  "animals": [
+    "The palmchat is the national bird and the only member of its entire family — found nowhere else on Earth. Noisy flocks of 20–30 birds share enormous twig nests piled high in royal palms.",
+    "The rhinoceros iguana, named for the horn-like lumps on its snout, roams dry scrubland in the southwest. Every January, over 1,500 humpback whales crowd Samaná Bay to breed."
+  ],
+  "culture": [
+    "Merengue (UNESCO 2016) and bachata (UNESCO 2019) were both born here. Bachata started as music of the poor, banned from radio — now it fills dance floors on every continent.",
+    "The DR leads the world in organic cocoa production, and mines larimar, a sky-blue gemstone found only in one hillside in Barahona Province. Amber here holds 20-million-year-old insects perfectly preserved."
+  ],
+  "history": [
+    "Santo Domingo was founded in 1498. The first cathedral, university, castle, and monastery in the Americas were all built here — Spain used the city as its launch pad for conquering an entire hemisphere.",
+    "The DR declared independence from Haiti in 1844 — the only nation to win independence from another Caribbean country. The blue-and-red flag was designed by independence hero Juan Pablo Duarte."
+  ],
+  "wows": [
+    "A child born in the DR is 5x more likely to play in the MLB than one born in the USA.",
+    "Larimar gemstone exists in only ONE spot on Earth: a hillside in Barahona Province, DR.",
+    "Santo Domingo’s 1498 street grid became the template for almost every Spanish city in the Americas.",
+    "Lake Enriquillo is saltier than the ocean AND sits 46 m below sea level — crocodiles and flamingos share it.",
+    "Over 1,500 humpback whales gather in Samaná Bay each winter — one of Earth’s biggest whale gatherings.",
+    "DR amber (up to 20 million years old) has yielded the oldest blood droplets ever found preserved in resin.",
+    "Bachata was banned from Dominican radio as ‘gutter music’ — then UNESCO declared it world heritage."
+  ],
+  "myths": [
+    {
+      "myth": "It's just a beach holiday",
+      "fact": "The DR has the Caribbean’s tallest mountains, cloud forests, a salt lake with crocodiles below sea level, and a UNESCO colonial city — beaches are just one layer."
+    },
+    {
+      "myth": "DR and Haiti are one country",
+      "fact": "They share one island but are two separate nations with different languages, histories, and governments since 1844."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "¡Hola!",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-syass"
+    },
+    {
+      "en": "What's up?",
+      "jp": "¿Qué lo que?",
+      "say": "KEH-loh-KEH"
+    },
+    {
+      "en": "No worries",
+      "jp": "No hay lio",
+      "say": "no eye LEE-oh"
+    },
+    {
+      "en": "Cool/great",
+      "jp": "Bacano",
+      "say": "bah-KAH-no"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/do-landmark.jpg",
+      "alt": "Calle El Conde at night in the Zona Colonial, Santo Domingo",
+      "caption": "ZONA COLONIAL — oldest European street grid in the Americas, Santo Domingo",
+      "credit": "Luis Fuentes / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/do-animalA.jpg",
+      "alt": "Palmchat perched on a branch in Dominican Republic",
+      "caption": "PALMCHAT — the national bird, found only on Hispaniola",
+      "credit": "Jorge checo / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/do-animalB.jpg",
+      "alt": "Male rhinoceros iguana in Pedernales Province, Dominican Republic",
+      "caption": "RHINOCEROS IGUANA — endemic to Hispaniola, Pedernales Province",
+      "credit": "Tim Ross / Public domain"
+    },
+    "hero": {
+      "src": "/photos/do-hero.jpg",
+      "alt": "Turquoise beach and palm trees at Punta Cana, Dominican Republic",
+      "caption": "PUNTA CANA — the DR's iconic Caribbean coast with turquoise waters",
+      "credit": "Channone Arif / CC BY 2.0"
+    }
+  }
+}

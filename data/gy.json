@@ -1,0 +1,163 @@
+{
+  "name": "GUYANA",
+  "nativeName": "GY",
+  "romaji": "GUYANA",
+  "tagline": "Land of Many Waters",
+  "region": "Northern South America",
+  "coords": "4.86°N, 58.93°W",
+  "fileNo": "084",
+  "langName": "Creole English",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F3EDD8",
+    "dot": "#C8BA9A",
+    "ink": "#251E14",
+    "faint": "#8A7A55",
+    "line": "#DCCFA8",
+    "accent": "#009E60",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/gy.svg",
+    "title": "Golden Arrowhead",
+    "note": "Green field; gold arrow edged black, tip red",
+    "keyColor": "#009E60",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guyana hugs South America's north shore yet feels Caribbean — the only mainland nation where English is official. Most live on a low coastal strip, behind which lies wild rainforest, ancient flat-topped mountains, and golden savannah. An oil strike in 2015 turned this quiet place into one of the world's fastest-growing economies.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Georgetown",
+      "sub": "Built below sea level on sea walls"
+    },
+    {
+      "label": "People",
+      "value": "~808,000",
+      "sub": "est. 2024; small S. American pop."
+    },
+    {
+      "label": "Money",
+      "value": "GY Dollar",
+      "sub": "Guyanese dollar (GYD) since 1839"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Only English-speaking S.A. nation"
+    },
+    {
+      "label": "Land area",
+      "value": "214,969 km²",
+      "sub": "Roughly the size of the UK"
+    },
+    {
+      "label": "High point",
+      "value": "Mt. Roraima",
+      "sub": "2,772 m — ancient flat tepui"
+    }
+  ],
+  "islands": [
+    "Georgetown",
+    "Linden",
+    "Lethem",
+    "Bartica",
+    "Anna Regina"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rivers, tepuis & lost worlds",
+    "animals": "Jaguars, giants & rocket frogs",
+    "culture": "Cricket, curry & Carnival",
+    "history": "Sugar, freedom & black gold",
+    "wows": "Surprising Guyana"
+  },
+  "geo": [
+    "Guyana means 'land of many waters' in Arawak — fitting for a country laced by 40+ rivers. The Atlantic coast sits below sea level, held back by Dutch-built sea walls. Inland, rainforest covers 80% of the land, growing on Guiana Shield rocks two billion years old.",
+    "To the south lies the Rupununi Savannah, a vast grassland shared with Brazil. Looming above are tepuis — gigantic flat-topped sandstone plateaus. Mount Roraima (2,772 m) sits where Guyana, Venezuela, and Brazil meet, and inspired Conan Doyle's The Lost World."
+  ],
+  "animals": [
+    "Guyana's Iwokrama Forest is rated one of the world's best places to spot a wild jaguar. Harpy eagles nest in the tallest trees with talons as big as a grizzly's claws. Giant river otters, up to 1.8 m long, hunt noisily in family gangs along the Rupununi.",
+    "Near Kaieteur Falls lives the golden rocket frog — found nowhere else on Earth, raising tadpoles inside giant bromeliad plants. Cock-of-the-rock birds blaze orange through the canopy. Arapaima fish top 2 m long and must surface to breathe air, like tiny whales."
+  ],
+  "culture": [
+    "Guyana's culture blends African, Indian, Amerindian, and European roots. Cricket is a national passion — Guyanese stars have anchored West Indies teams for generations. The national dish, pepperpot, is a dark Amerindian stew cooked for Christmas and kept warm for days, growing richer each time.",
+    "Diwali, Eid, and Phagwah (Holi) are all public holidays, reflecting Hindu, Muslim, and Christian communities living side by side. Mashramani — Republic Day carnival in February — fills Georgetown with steel-pan music and elaborate floats. Guyanese Creole weaves English, Hindi, and Dutch into a warm musical dialect."
+  ],
+  "history": [
+    "Dutch colonists built sugar plantations along the rivers in the 1600s, importing enslaved Africans to work them. Britain took over in 1814 and after abolishing slavery in 1833 brought indentured workers from India, shaping the country's layered ethnic mix forever.",
+    "Independence came on 26 May 1966. For decades Guyana was one of South America's poorest nations. Then in 2015 ExxonMobil struck massive deepwater oil fields. By 2024 GDP was growing at 43% a year — among the fastest rates ever recorded on Earth."
+  ],
+  "wows": [
+    "Kaieteur Falls is 4.5× taller than Niagara — yet most people have never heard of it.",
+    "Georgetown sits below sea level, protected by 300-year-old Dutch-built sea walls.",
+    "The golden rocket frog exists only in bromeliad plants near Kaieteur Falls — nowhere else.",
+    "Guyana's GDP grew 43% in 2024, one of the fastest national growth rates ever recorded.",
+    "Roraima's summit is so high that clouds form below you — you stand above the weather.",
+    "Guyana is the only English-speaking country on the entire South American mainland.",
+    "The arapaima fish grows over 2 m long and must surface to breathe air, like a whale."
+  ],
+  "myths": [
+    {
+      "myth": "Guyana is a Caribbean island",
+      "fact": "Guyana is on the South American mainland, bordering Venezuela, Brazil, and Suriname — its English language and Caribbean cultural ties just make it feel like an island nation."
+    },
+    {
+      "myth": "It has always been very poor",
+      "fact": "Since the 2015 offshore oil discovery, GDP per capita surged from ~US$5,000 to over US$29,000 by 2024 — one of history's fastest national income leaps."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Wha' happen?",
+      "say": "wha HAP-en"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tank yuh",
+      "say": "TANK yuh"
+    },
+    {
+      "en": "Very good",
+      "jp": "Proper so",
+      "say": "PROP-ah so"
+    },
+    {
+      "en": "Friend",
+      "jp": "Bredda",
+      "say": "BRED-ah"
+    },
+    {
+      "en": "No problem",
+      "jp": "Nuh worry",
+      "say": "nuh WOR-ee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gy-hero.jpg",
+      "alt": "Georgetown waterfront with colourful buildings along the Demerara River",
+      "caption": "GEORGETOWN WATERFRONT — capital's Dutch-era harbour on the Demerara River",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gy-landmark.jpg",
+      "alt": "Kaieteur Falls plunging over a sandstone cliff into green rainforest",
+      "caption": "KAIETEUR FALLS — 226 m of thunder, four times taller than Niagara Falls",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gy-animalA.jpg",
+      "alt": "Jaguar resting on a riverbank in South American rainforest",
+      "caption": "JAGUAR — Guyana's national animal, king of the Iwokrama rainforest",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/gy-animalB.jpg",
+      "alt": "Giant river otters swimming together in a South American river",
+      "caption": "GIANT RIVER OTTER — up to 1.8 m long, the Rupununi is their stronghold",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "MOLDOVA",
+  "nativeName": "MD",
+  "romaji": "MOLDOVA",
+  "tagline": "Land of vines & hidden caves",
+  "region": "Eastern Europe",
+  "coords": "47°N 29°E",
+  "fileNo": "148",
+  "langName": "Romanian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#cfc0a0",
+    "ink": "#2b2318",
+    "faint": "#8a7a5a",
+    "line": "#ddd0b2",
+    "accent": "#003DA5",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/md.svg",
+    "title": "Blue, Yellow & Red",
+    "note": "Eagle on yellow holds a cross & shield",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Moldova is a tiny landlocked country between Romania and Ukraine. Smaller than Ireland, it hides millions of wine bottles in cave-tunnels carved from limestone. Farmers have made wine here for 5,000 years. Today it heads toward the EU, trading the Soviet shadow for sunflower fields, cliff monasteries, and a warm welcome.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Chișinău",
+      "sub": "Pop. ~720,000 (2024 census)"
+    },
+    {
+      "label": "People",
+      "value": "~2.41 M",
+      "sub": "2024 Population Census"
+    },
+    {
+      "label": "Money",
+      "value": "Leu (MDL)",
+      "sub": "≈ 20 MDL per euro"
+    },
+    {
+      "label": "Language",
+      "value": "Romanian",
+      "sub": "Also Russian & Gagauz"
+    },
+    {
+      "label": "Land area",
+      "value": "33,843 km²",
+      "sub": "Smaller than Ireland"
+    },
+    {
+      "label": "Top point",
+      "value": "Bălănești",
+      "sub": "430 m — a gentle hill"
+    }
+  ],
+  "islands": [
+    "Chișinău",
+    "Bălți",
+    "Cahul",
+    "Orhei",
+    "Tiraspol"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rolling hills & river valleys",
+    "animals": "Storks, mink & forest folk",
+    "culture": "Wine, dance & village feasts",
+    "history": "Princes, tsars & independence",
+    "wows": "Seven surprising secrets"
+  },
+  "geo": [
+    "Moldova is one of Europe's flattest countries — no mountains, just gentle hills and wide river valleys carved by the Prut and Dniester. Rich black soil called chernozem makes it one of the world's best farming lands.",
+    "Forests of oak and hornbeam cover the central Codru hills, sheltering deer and wild boar. The country has no sea coast at all — completely landlocked, making it one of Europe's quietest and most surprising destinations."
+  ],
+  "animals": [
+    "Moldova's national bird is the white stork. Thousands nest on chimney tops every spring — it's very good luck to have one on your roof! Oak forests hide roe deer, wild boar, badgers, and the shy Eurasian wildcat.",
+    "The rarest resident is the European mink, a small chestnut-furred creature that slides through riverside reeds. Critically endangered worldwide, it clings on in Moldova's Prut River floodplains, one of its last wild homes in Europe."
+  ],
+  "culture": [
+    "Moldovans love to dance — the hora is a whirling circle dance at every wedding and harvest feast, with everyone joining hands. Folk crafts like woven rugs and embroidered blouses with bright geometric borders are still made by hand in villages.",
+    "Wine is the heart of Moldovan life. Families tend their own vines, and every October the whole country celebrates National Wine Day with open cellars and folk music. Even a Soviet-era limestone quarry was turned into a vast underground wine city."
+  ],
+  "history": [
+    "Moldova's greatest hero, Stephen the Great, ruled 1457–1504 and won 34 of his 36 battles against the Ottomans. He built a monastery after every victory — dozens still stand as living treasures of stone and fresco.",
+    "After centuries ruled by Ottomans then Russia, Moldova became Soviet in 1940. On 27 August 1991, as the USSR crumbled, Moldova declared independence. It opened EU accession talks on 25 June 2024 — a huge moment for its people."
+  ],
+  "wows": [
+    "Mileștii Mici holds over 1.5 million bottles — the Guinness record for the world's largest wine collection.",
+    "Its 55 km of wine tunnels are so vast that visitors explore by car, on streets named after grape varieties.",
+    "Vines cover roughly 4% of Moldova's land — one of the highest vineyard densities of any country on Earth.",
+    "The cave monastery at Orheiul Vechi was carved into a white limestone cliff by monks over 600 years ago.",
+    "Remittances from Moldovans working abroad equal roughly 12% of the country's entire economy.",
+    "Moldova opened EU accession talks on 25 June 2024 — a landmark shift for this small Eastern European nation.",
+    "White storks fly from sub-Saharan Africa each spring to nest on the same Moldovan chimney, year after year."
+  ],
+  "myths": [
+    {
+      "myth": "Moldova is part of Romania",
+      "fact": "Moldova and Romania share a language but Moldova has been fully independent since 1991 — its own government, currency, and passport. Two nations, one tongue."
+    },
+    {
+      "myth": "There's nothing to see or do",
+      "fact": "Moldova has cliff monasteries, the world's largest wine cellar, Soviet mosaics, folk festivals, and the quirky territory of Transnistria — all in an area smaller than Ireland."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bună ziua",
+      "say": "BOO-nuh ZEE-wah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mulțumesc",
+      "say": "mool-tsoo-MESK"
+    },
+    {
+      "en": "Please",
+      "jp": "Vă rog",
+      "say": "vuh ROKE"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "La revedere",
+      "say": "lah reh-veh-DEH"
+    },
+    {
+      "en": "Wine!",
+      "jp": "Vin!",
+      "say": "VEEN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/md-hero.jpg",
+      "alt": "Panoramic view over Chisinau city rooftops and green hills",
+      "caption": "CHIȘINĂU — Moldova's capital spreads across rolling green hills",
+      "credit": "Dave Proffer / Wikimedia Commons (CC BY 2.0)"
+    },
+    "landmark": {
+      "src": "/photos/md-landmark.jpg",
+      "alt": "Wide panorama of Orheiul Vechi cliff monastery above the Raut River valley",
+      "caption": "ORHEIUL VECHI — monks carved this monastery into limestone cliffs 600 years ago",
+      "credit": "Jekader / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "animalA": {
+      "src": "/photos/md-animalA.jpg",
+      "alt": "White stork standing in its nest at an ornithology reserve",
+      "caption": "WHITE STORK — Moldova's national bird, welcomed on every rooftop",
+      "credit": "Dominik Ryba / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "animalB": {
+      "src": "/photos/md-animalB.jpg",
+      "alt": "European mink with glossy dark brown fur",
+      "caption": "EUROPEAN MINK — critically endangered; Moldova's rivers are a vital last refuge",
+      "credit": "zoofanatic / Wikimedia Commons (CC BY 2.0)"
+    }
+  }
+}

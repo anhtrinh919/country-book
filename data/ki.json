@@ -1,0 +1,163 @@
+{
+  "name": "KIRIBATI",
+  "nativeName": "KI",
+  "romaji": "KIRIBAS",
+  "tagline": "First to see the sunrise",
+  "region": "Micronesia, Pacific",
+  "coords": "1.87°N, 173.0°E",
+  "fileNo": "096",
+  "langName": "Gilbertese",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2ECD9",
+    "dot": "#C9B99A",
+    "ink": "#252018",
+    "faint": "#8C7B5F",
+    "line": "#DDD0B5",
+    "accent": "#C8281A",
+    "accent2": "#1A4B8C"
+  },
+  "flag": {
+    "assetPath": "/flags/ki.svg",
+    "title": "Flag of Kiribati",
+    "note": "Frigatebird soars over a 17-rayed rising sun",
+    "keyColor": "#C8281A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kiribati (say \"Kiribas\") is 33 coral atolls so spread across the Pacific they touch all four hemispheres at once. Most land sits barely 2 m above sea level. South Tarawa saw one of WWII's bloodiest Pacific battles in 1943. Today I-Kiribati people fish, dance, and meet in open maneaba halls — always first to greet each new day.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "South Tarawa",
+      "sub": "~64,000 on a narrow atoll strip"
+    },
+    {
+      "label": "People",
+      "value": "~119,000",
+      "sub": "2020 census; ~135,000 est. 2025"
+    },
+    {
+      "label": "Money",
+      "value": "AUD (A$)",
+      "sub": "Australia's dollar is legal tender"
+    },
+    {
+      "label": "Language",
+      "value": "Gilbertese",
+      "sub": "English is official co-language"
+    },
+    {
+      "label": "Land area",
+      "value": "811 km²",
+      "sub": "Over 3.5 million km² of ocean"
+    },
+    {
+      "label": "High point",
+      "value": "87 m",
+      "sub": "Banaba Island, raised coral reef"
+    }
+  ],
+  "islands": [
+    "Gilberts",
+    "Phoenix Is.",
+    "Line Is.",
+    "Banaba",
+    "Kiritimati"
+  ],
+  "islandsLabel": "MAIN ISLAND GROUPS:",
+  "sections": {
+    "geography": "33 atolls, 4 hemispheres",
+    "animals": "Wings, claws & coral reefs",
+    "culture": "Dance, maneaba & the sea",
+    "history": "Phosphate, war & freedom",
+    "wows": "Wait — seriously?!"
+  },
+  "geo": [
+    "Kiribati's 33 atolls are flung across the Pacific like confetti — yet total land is only 811 km², less than Hong Kong. The vast majority sits no higher than 2 m above sea level, making storm waves a constant threat.",
+    "Kiritimati (Christmas Island) in the Line group holds nearly half the country's land and is one of Earth's largest atolls. Only Banaba, a raised coral island, climbs to 87 m — a mountain by Kiribati standards."
+  ],
+  "animals": [
+    "The magnificent frigatebird rules Kiribati's skies — and its flag. With a wingspan up to 2.3 m, the male inflates a shiny red throat pouch to impress females and steals fish mid-air from other birds.",
+    "Under the palms lurks the coconut crab, the world's largest land invertebrate at up to 4 kg — it cracks coconuts with bare claws and lives 60 years. The rare bokikokiko reed-warbler sings only on Kiritimati, found nowhere else on Earth."
+  ],
+  "culture": [
+    "Every village has a maneaba — an open-sided meeting house with a soaring pandanus-leaf roof on coconut-wood beams. Villagers gather to debate, feast, and watch te mwaie dance where every finger flutter tells a story.",
+    "Dance styles mimic the frigatebird's glide: arms sweep low, eyes flash sideways. Eight distinct styles range from slow seated buki to vigorous standing katei — keeping oral history alive without a single written word."
+  ],
+  "history": [
+    "Micronesian ancestors settled the Gilbert Islands over 2,000 years ago. Britain made them a protectorate in 1892, then mined Banaba's phosphate for decades, displacing the entire Banaban population to Fiji to extract every last tonne.",
+    "In 1943, US Marines stormed Betio in Tarawa Atoll; 1,700 Americans died in 76 hours, one of the Pacific War's costliest assaults. Kiribati won independence from Britain on 12 July 1979."
+  ],
+  "wows": [
+    "Kiribati is the only country lying in all four hemispheres — north, south, east, and west — simultaneously.",
+    "Its Line Islands are so far east that Kiritimati is first to ring in every new year on Earth.",
+    "Two Kiribati islands vanished underwater in 1999 — swallowed by rising seas.",
+    "The Phoenix Islands Protected Area (UNESCO World Heritage) is bigger than California.",
+    "More than half of Kiribati adults smoke — one of the highest rates on the planet.",
+    "Kiribati has zero army, zero navy, zero air force — Australia and NZ provide defence.",
+    "Kiritimati holds nearly half of Kiribati's land but fewer than 10,000 people live there."
+  ],
+  "myths": [
+    {
+      "myth": "\"Kiribati\" is silent — just say KIR-ih-bass",
+      "fact": "The 'ti' in Gilbertese is always pronounced 's', so Kiribati = 'Kiribas' and Kiritimati = 'Kirisimas' (Christmas)."
+    },
+    {
+      "myth": "Sinking islands means Kiribati will disappear soon",
+      "fact": "The government has bought land in Fiji as a long-term option and is investing in sea walls and raised platforms — the response is serious and practical."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Mauri",
+      "say": "mah-OO-ree"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ko rabwa",
+      "say": "koh RAB-wah"
+    },
+    {
+      "en": "Please",
+      "jp": "Taiaoka",
+      "say": "tye-YOH-kah"
+    },
+    {
+      "en": "Yes",
+      "jp": "Eng",
+      "say": "eng"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Ti a bo",
+      "say": "tee ah BOH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ki-hero.jpg",
+      "alt": "Aerial view of South Tarawa atoll, Kiribati",
+      "caption": "SOUTH TARAWA — the capital sits on a coral ribbon between lagoon and open ocean",
+      "credit": "Govt of Kiribati / Australian Dept of Defence"
+    },
+    "landmark": {
+      "src": "/photos/ki-landmark.jpg",
+      "alt": "Aerial view of Kuria atoll, Gilbert Islands, Kiribati",
+      "caption": "KURIA ATOLL — a classic Gilbert Islands coral ring, barely 2 m above the sea",
+      "credit": "Flexmaen / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ki-animalA.jpg",
+      "alt": "Christmas frigatebird in flight",
+      "caption": "CHRISTMAS FRIGATEBIRD — Kiribati's emblem, steals fish mid-air, never lands on water",
+      "credit": "Shah Jahan / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ki-animalB.jpg",
+      "alt": "Coconut crab Birgus latro on rocks",
+      "caption": "COCONUT CRAB — world's largest land invertebrate, cracks coconuts with bare claws",
+      "credit": "Lance Vanlewen / CC BY-SA 4.0"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "NIGERIA",
+  "nativeName": "NG",
+  "romaji": "NIGERIA",
+  "tagline": "Giant of Africa",
+  "region": "West Africa",
+  "coords": "9.08°N, 8.67°E",
+  "fileNo": "087",
+  "langName": "Hausa",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBB9A",
+    "ink": "#1E1C18",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#008751",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/ng.svg",
+    "title": "Green & White",
+    "note": "Two green stripes, one white stripe",
+    "keyColor": "#008751",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nigeria is the most populated country in Africa — one in six Africans lives here! Dense rainforest in the south melts into dry savanna and the ancient city of Kano in the north. Nigeria gave the world Afrobeats music, Nollywood films, and jollof rice that people argue about lovingly across the continent.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Abuja",
+      "sub": "Purpose-built city, opened 1991"
+    },
+    {
+      "label": "People",
+      "value": "~224 million",
+      "sub": "UN 2024 — Africa's largest"
+    },
+    {
+      "label": "Money",
+      "value": "Naira ₦",
+      "sub": "100 kobo = 1 naira"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus Hausa, Yoruba, Igbo"
+    },
+    {
+      "label": "Land area",
+      "value": "923,768 km²",
+      "sub": "Bigger than Texas & California"
+    },
+    {
+      "label": "High point",
+      "value": "Chappal Waddi",
+      "sub": "2,419 m, Taraba State"
+    }
+  ],
+  "islands": [
+    "Lagos",
+    "Kano",
+    "Abuja",
+    "P. Harcourt",
+    "Ibadan"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rivers, savanna & jungle",
+    "animals": "Wild creatures of Nigeria",
+    "culture": "Music, food & 500 languages",
+    "history": "Empires, oil & independence",
+    "wows": "Nigeria's wildest facts"
+  },
+  "geo": [
+    "Nigeria has two great rivers — the Niger and the Benue — that meet in the middle like a giant letter Y. The south is thick rainforest; the north is dry Sahel grassland baking under the sun.",
+    "At the far north-east, Lake Chad is slowly shrinking. In the south, the Niger Delta fans into a vast maze of creeks and mangroves — one of Earth's largest river deltas."
+  ],
+  "animals": [
+    "Nigeria's forests shelter forest elephants, chimpanzees, and the rare Cross River gorilla — fewer than 300 left, living in misty hills near the Cameroon border. Colourful sunbirds flash through the canopy.",
+    "Yankari National Park in Bauchi State has hot springs and West Africa's finest elephant herd — over 350 roaming free. Nile crocodiles and manatees patrol the rivers below."
+  ],
+  "culture": [
+    "Nigeria has over 500 languages and 250 ethnic groups. Hausa-Fulani, Yoruba, and Igbo are the largest three. Every group brings its own festivals and clothing. Kano's Durbar horse parades are breathtakingly spectacular.",
+    "Nollywood makes around 2,500 films a year — second only to Bollywood. Afrobeats stars like Burna Boy fill stadiums worldwide. And Nigerians will firmly insist their jollof rice beats every other country's version."
+  ],
+  "history": [
+    "The Nok civilisation made remarkable terracotta sculptures 2,000 years ago. Later, the Kanem-Bornu Empire and Yoruba Kingdom of Oyo were powerful states long before Europeans arrived.",
+    "Britain colonised Nigeria in 1914, merging hundreds of groups. Independence came on 1 October 1960. A civil war (1967–70) was followed by oil wealth that turned Lagos into a megacity of 15 million."
+  ],
+  "wows": [
+    "Nigeria produces more films per year than Hollywood — Nollywood is Africa's biggest film industry.",
+    "Lagos is home to over 15 million people, ranking it among the ten largest cities on Earth.",
+    "Nigeria is both Africa's biggest oil producer and its largest economy by GDP.",
+    "The Cross River gorilla is so rare scientists track individuals by their unique nose prints.",
+    "Nigerian diaspora remittances sometimes exceed the country's entire oil revenue in a year.",
+    "Benin Bronzes cast here 500 years ago are rated among the finest sculptures ever made.",
+    "More people speak English in Nigeria than in the United Kingdom itself."
+  ],
+  "myths": [
+    {
+      "myth": "Nigeria is just jungle and poverty",
+      "fact": "Nigeria has a booming tech scene (called Silicon Lagos), a growing middle class, and cities with skyscrapers and world-class restaurants."
+    },
+    {
+      "myth": "All Nigerians speak one language",
+      "fact": "Nigeria has over 500 distinct languages — a child in Kano and one in Lagos may need English just to talk to each other."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Sannu",
+      "say": "SAH-noo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Na gode",
+      "say": "nah GOH-day"
+    },
+    {
+      "en": "Food",
+      "jp": "Abinci",
+      "say": "ah-BIN-chee"
+    },
+    {
+      "en": "Water",
+      "jp": "Ruwa",
+      "say": "ROO-wah"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Maraba",
+      "say": "mah-RAH-bah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ng-hero.jpg",
+      "alt": "Lagos Island skyline viewed from Carter Bridge",
+      "caption": "LAGOS SKYLINE — Africa's megacity of 15 million gleams at dusk",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ng-landmark.jpg",
+      "alt": "Zuma Rock monolith near Abuja Nigeria",
+      "caption": "ZUMA ROCK — Nigeria's 725 m monolith guards the road to Abuja",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ng-animalA.jpg",
+      "alt": "Cross River gorilla in forest",
+      "caption": "CROSS RIVER GORILLA — fewer than 300 survive in the wild",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ng-animalB.jpg",
+      "alt": "African forest elephant in woodland",
+      "caption": "FOREST ELEPHANT — smaller and shyer than its savanna cousin",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

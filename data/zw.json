@@ -1,0 +1,163 @@
+{
+  "name": "ZIMBABWE",
+  "nativeName": "ZW",
+  "romaji": "ZIMBABWE",
+  "tagline": "Land of ancient stones",
+  "region": "Southern Africa",
+  "coords": "20.0°S, 30.0°E",
+  "fileNo": "162",
+  "langName": "Shona",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C8B99A",
+    "ink": "#252018",
+    "faint": "#7A6E4A",
+    "line": "#DCCFB0",
+    "accent": "#2D6A2D",
+    "accent2": "#C8A000"
+  },
+  "flag": {
+    "assetPath": "/flags/zw.svg",
+    "title": "Flag of Zimbabwe",
+    "note": "Seven stripes; Zimbabwe Bird on triangle",
+    "keyColor": "#2D6A2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Zimbabwe sits landlocked in southern Africa, where 900-year-old stone ruins gave the country its name. Victoria Falls — heard 40 km away — and Lake Kariba, the world's biggest man-made lake, live here. Elephant-packed savannah, ancient granite fortresses, and more official languages than any nation: Africa's wonder-packed heartland.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Harare",
+      "sub": "Population ~1.5 million"
+    },
+    {
+      "label": "People",
+      "value": "~16.95 m",
+      "sub": "UN estimate, 2025"
+    },
+    {
+      "label": "Money",
+      "value": "ZiG (ZWG)",
+      "sub": "Zimbabwe Gold, since 2024"
+    },
+    {
+      "label": "Language",
+      "value": "16 official",
+      "sub": "Most in any country (Guinness)"
+    },
+    {
+      "label": "Land area",
+      "value": "390,757 km²",
+      "sub": "Bigger than Germany"
+    },
+    {
+      "label": "Top point",
+      "value": "Mt Nyangani",
+      "sub": "2,592 m above sea level"
+    }
+  ],
+  "islands": [
+    "Harare",
+    "Bulawayo",
+    "Mutare",
+    "Masvingo",
+    "Vic Falls"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Falls, lakes & high plateaus",
+    "animals": "Big Five & painted dogs",
+    "culture": "Stones, music & sadza",
+    "history": "Kingdoms, ruins & freedom",
+    "wows": "You won't believe this!"
+  },
+  "geo": [
+    "Zimbabwe sits on a high central plateau — the Highveld — at around 1,200 m, so it stays cooler than you'd expect near the equator. The Zambezi borders the north, then plunges over Victoria Falls: 1.7 km wide, 108 m tall, with spray that forms a permanent rainbow.",
+    "The Eastern Highlands rise to Mount Nyangani at 2,592 m — cold enough for frost in winter. Lake Kariba, formed when a dam was completed in 1959, stretches 280 km along the Zambian border and powers millions of homes."
+  ],
+  "animals": [
+    "Zimbabwe is Big Five country — lion, leopard, rhino, elephant, and buffalo all roam here. Hwange National Park shelters around 40,000 elephants, one of Earth's densest populations, plus giraffe, zebra, and wild dogs.",
+    "The African painted dog is one of Zimbabwe's most endangered animals — about 660 in 86 packs, each with a unique coat like a fingerprint. The Zambezi also hosts enormous Nile crocodiles and huge pods of hippos."
+  ],
+  "culture": [
+    "The Shona people — about 70% of Zimbabwe — have played the mbira, a thumb piano with metal keys, for over 1,000 years. It summons ancestors during healing ceremonies called bira, and its layered sound has influenced musicians worldwide.",
+    "The daily staple is sadza — stiff maize porridge scooped by hand and dipped into meat or pumpkin-leaf stew. The Ndebele people are famed for bold geometric murals painted on home walls in black, white, and red."
+  ],
+  "history": [
+    "About 900 years ago the Shona kingdom built a hilltop city of stacked granite — no mortar, just skill. It housed 18,000 people and traded gold as far as China. 'Zimbabwe' means 'great stone houses' in Shona.",
+    "British colonists arrived in 1890, renaming the land Rhodesia. On 18 April 1980 Zimbabwe raised its flag — the last African country to win independence from Britain. A new era opened in 2017 when Emmerson Mnangagwa took power."
+  ],
+  "wows": [
+    "Zimbabwe has 16 official languages — a Guinness World Record for the most of any country.",
+    "In 2009 Zimbabwe printed a 100 trillion dollar note — the largest denomination ever — worth ~40 US cents.",
+    "Victoria Falls is so loud its roar carries 40 km, earning its Shona name: The Smoke That Thunders.",
+    "Lake Kariba is the world's largest man-made reservoir by volume — about 180 cubic kilometres of water.",
+    "Zimbabwe has more ancient rock-art sites than anywhere else in southern Africa, painted over 13,000 years.",
+    "Each African painted dog has a unique coat; no two wild dogs in the world look exactly the same.",
+    "Great Zimbabwe ruins cover 80 hectares — the biggest pre-modern stone complex in sub-Saharan Africa."
+  ],
+  "myths": [
+    {
+      "myth": "Zimbabwe is just one big hot desert",
+      "fact": "Its central Highveld plateau sits at 1,200 m, keeping temperatures mild. The Eastern Highlands get heavy rain and frost on the peaks in winter."
+    },
+    {
+      "myth": "Victoria Falls is mostly on the Zambia side",
+      "fact": "Zimbabwe faces 75% of the falls. The widest, most dramatic sections — Main Falls and Rainbow Falls — are best seen from the Zimbabwean bank."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Mhoro",
+      "say": "mm-HO-ro"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ndatenda",
+      "say": "nda-TEN-da"
+    },
+    {
+      "en": "Please",
+      "jp": "Ndapota",
+      "say": "nda-PO-ta"
+    },
+    {
+      "en": "Yes",
+      "jp": "Hongu",
+      "say": "HON-goo"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Chisarai",
+      "say": "chee-SAH-rye"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/zw-hero.jpg",
+      "alt": "Victoria Falls waterfall with massive spray cloud rising above the gorge",
+      "caption": "VICTORIA FALLS — 'The Smoke That Thunders' sends spray high above the gorge",
+      "credit": "Wikimedia Commons / Diego Delso"
+    },
+    "landmark": {
+      "src": "/photos/zw-landmark.jpg",
+      "alt": "Aerial view of Great Zimbabwe ruins showing circular stone walls",
+      "caption": "GREAT ZIMBABWE — 900-year-old stone city that named an entire nation",
+      "credit": "Wikimedia Commons / Janice Bell"
+    },
+    "animalA": {
+      "src": "/photos/zw-animalA.jpg",
+      "alt": "African elephant herd on savannah plains",
+      "caption": "AFRICAN ELEPHANT — Hwange shelters ~40,000, one of Earth's largest herds",
+      "credit": "Wikimedia Commons / Amoghavarsha"
+    },
+    "animalB": {
+      "src": "/photos/zw-animalB.jpg",
+      "alt": "African painted dog with vivid patchy brown and black coat",
+      "caption": "PAINTED DOG — unique coat per animal; ~660 survive in Zimbabwe today",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    }
+  }
+}

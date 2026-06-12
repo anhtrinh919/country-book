@@ -1,0 +1,163 @@
+{
+  "name": "BURKINA FASO",
+  "nativeName": "BF",
+  "romaji": "BURKINA FASO",
+  "tagline": "Land of Upright People",
+  "region": "West Africa",
+  "coords": "12.3°N, 1.5°W",
+  "fileNo": "071",
+  "langName": "Mooré",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#C9B48A",
+    "ink": "#231E12",
+    "faint": "#8A7455",
+    "line": "#DDD0B0",
+    "accent": "#EF2B2D",
+    "accent2": "#009A44"
+  },
+  "flag": {
+    "assetPath": "/flags/bf.svg",
+    "title": "Flag of Burkina",
+    "note": "Red & green halves, gold star at centre",
+    "keyColor": "#EF2B2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Burkina Faso is a landlocked West African country ringed by six neighbours with no ocean in sight. Its name means \"Land of Upright People,\" chosen by a president who believed honesty was a nation's greatest treasure. Most people here are farmers, the skies enormous, and sunsets over the flat savanna burn brilliant gold.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Ouagadougou",
+      "sub": "Nicknamed \"Ouaga\""
+    },
+    {
+      "label": "People",
+      "value": "24.1 million",
+      "sub": "UN estimate, 2025"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared W. Africa coin"
+    },
+    {
+      "label": "Language",
+      "value": "Mooré & more",
+      "sub": "60+ languages spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "274,223 km²",
+      "sub": "Bigger than the UK"
+    },
+    {
+      "label": "High point",
+      "value": "747 m",
+      "sub": "Mount Tenakourou, SW"
+    }
+  ],
+  "islands": [
+    "Ouagadougou",
+    "Bobo",
+    "Koudougou",
+    "Banfora",
+    "Ouahigouya"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A flat land under big skies",
+    "animals": "Wild things of the savanna",
+    "culture": "Masks, movies & rhythm",
+    "history": "Kingdoms, coups & courage",
+    "wows": "Seven surprises!"
+  },
+  "geo": [
+    "Burkina Faso sits on a vast plateau about 400 m above sea level — flat as a tabletop, baked by sun, and crossed by three rivers: the Black Volta, Red Volta, and White Volta. The short rainy season transforms parched dust into green savanna almost overnight.",
+    "The highest peak, Mount Tenakourou, is only 747 m — more a forested hill than a mountain. From its summit you can see Mali and Ivory Coast at once. The Sahel desert creeps south each decade, making tree-planting one of the nation's most vital jobs."
+  ],
+  "animals": [
+    "Burkina Faso's wildlife shelters in four southern parks. The W-Arly-Pendjari complex holds about 200 elephants, 100 lions, hippos, crocodiles, and 300+ bird species. Elephants wade the Arli river at dawn; cheetahs flick their tails in long grass nearby.",
+    "Near Bazoulé, 30 km from the capital, over a hundred Nile crocodiles share a sacred pond with locals. Villagers believe the crocs arrived with the first rains centuries ago and treat them like neighbours — children play safely near the water's edge."
+  ],
+  "culture": [
+    "Burkina Faso's 60-plus ethnic groups all make music and masks. Mossi, Bobo, and Bwa peoples carve tall wooden masks representing ancestors and animals, worn in ceremonies linking the living to those who came before. Drums, balafon, and kora fill festival nights.",
+    "Every two years Ouagadougou hosts FESPACO — Africa's biggest film festival. Directors from 50+ countries compete for the Golden Stallion of Yennenga, named after a legendary Mossi princess. Burkina Faso punches well above its weight in African cinema."
+  ],
+  "history": [
+    "The Mossi kingdoms ruled this region from around 1100 CE, resisting conquest for centuries. France colonised it as Upper Volta in 1896. On 5 August 1960 the country gained independence, joining West Africa's first wave of free nations.",
+    "In 1983 Captain Thomas Sankara renamed the country Burkina Faso, vaccinated 2.5 million children in one week, and planted 10 million trees to fight desertification. A hero to millions, he was assassinated in a coup four years later."
+  ],
+  "wows": [
+    "Burkina Faso's name blends two languages: 'upright' in Mooré and 'fatherland' in Dyula.",
+    "FESPACO in Ouagadougou is Africa's largest film festival, running since 1969.",
+    "Over 100 wild Nile crocodiles at Bazoulé are treated as sacred ancestors by villagers.",
+    "From Mount Tenakourou's summit you can see three countries at once.",
+    "Burkina Faso is a top-15 global gold producer, yet most people farm to eat.",
+    "Sankara's team vaccinated 2.5 million children in one week without foreign aid.",
+    "Six countries share a border with Burkina Faso — most neighbours in West Africa."
+  ],
+  "myths": [
+    {
+      "myth": "\"The name means 'Incorruptible People'\"",
+      "fact": "It means 'Upright People.' 'Burkina' is upright/honest in Mooré; 'Faso' is fatherland in Dyula. Sankara chose the name in 1984 to inspire pride in integrity."
+    },
+    {
+      "myth": "\"Landlocked nations lack cultural power\"",
+      "fact": "Burkina Faso hosts Africa's biggest film festival (FESPACO), has world-renowned mask traditions, and Ouagadougou draws artists from 50+ nations every two years."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Laafi",
+      "say": "LAH-fee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Y barka",
+      "say": "ee BAR-kah"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ngye",
+      "say": "nn-GYEH"
+    },
+    {
+      "en": "No",
+      "jp": "Ayo",
+      "say": "AH-yoh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Nindaare",
+      "say": "nin-DAH-reh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bf-hero.jpg",
+      "alt": "Night view over central Ouagadougou city",
+      "caption": "OUAGADOUGOU — the capital glowing at night, seen from a rooftop",
+      "credit": "Wegmann / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/bf-landmark.jpg",
+      "alt": "Grand Mosque of Bobo-Dioulasso mud-brick facade",
+      "caption": "GRAND MOSQUE — Bobo-Dioulasso's iconic mud-brick landmark",
+      "credit": "Semiliki / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/bf-animalA.jpg",
+      "alt": "Hippopotamus surfacing from a lake near Satiri in Burkina Faso",
+      "caption": "HIPPOPOTAMUS — surfacing at Hippopotamus Lake near Satiri",
+      "credit": "Adam Jones Ph.D. / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/bf-animalB.jpg",
+      "alt": "Sacred Nile crocodiles at the Bazoulé pond",
+      "caption": "SACRED CROCODILES — the revered reptiles of Bazoulé village",
+      "credit": "Marco Schmidt / CC BY-SA 3.0"
+    }
+  }
+}

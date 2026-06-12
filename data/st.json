@@ -1,0 +1,163 @@
+{
+  "name": "SAO TOME",
+  "nativeName": "ST",
+  "romaji": "SÃO TOMÉ",
+  "tagline": "Chocolate Islands",
+  "region": "Central Africa",
+  "coords": "0.19°N, 6.61°E",
+  "fileNo": "178",
+  "langName": "Portuguese",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F3EDD8",
+    "dot": "#C8B88A",
+    "ink": "#2B2015",
+    "faint": "#8B7A50",
+    "line": "#DDD0AC",
+    "accent": "#12873A",
+    "accent2": "#FFCB00"
+  },
+  "flag": {
+    "assetPath": "/flags/st.svg",
+    "title": "Green, Yellow, Red",
+    "note": "Black star on yellow centre stripe",
+    "keyColor": "#12873A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Two volcanic islands on the equator in the Gulf of Guinea, once the world's biggest chocolate makers. Dense rainforest hides rare birds found nowhere else, crumbling plantation mansions sink into the jungle, and sea turtles nest on the beaches every night. Africa's second-smallest country packs breathtaking nature into 1,001 km².",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "São Tomé",
+      "sub": "Pop. ~80,000 on the coast"
+    },
+    {
+      "label": "People",
+      "value": "240,000",
+      "sub": "UN estimate, 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Dobra (STN)",
+      "sub": "Pegged to the euro"
+    },
+    {
+      "label": "Language",
+      "value": "Portuguese",
+      "sub": "Plus Forro & Creole"
+    },
+    {
+      "label": "Land area",
+      "value": "1,001 km²",
+      "sub": "Africa's 2nd smallest state"
+    },
+    {
+      "label": "High point",
+      "value": "Pico 2,024 m",
+      "sub": "Pico de São Tomé"
+    }
+  ],
+  "islands": [
+    "São Tomé",
+    "Príncipe",
+    "Rolas Islet",
+    "Água Grande",
+    "Lobata"
+  ],
+  "islandsLabel": "MAIN ISLANDS & ZONES:",
+  "sections": {
+    "geography": "Land of islands & fire",
+    "animals": "Birds like nowhere else",
+    "culture": "Cocoa, music & roças",
+    "history": "Sugar, slavery & freedom",
+    "wows": "Hard to believe!"
+  },
+  "geo": [
+    "Two shield volcanoes rising from the deep Atlantic floor, the islands sit almost exactly on the equator. Thick rainforest cloaks mountain slopes, fed by some of Africa's heaviest rainfall, while rugged cliffs drop into warm turquoise water.",
+    "The dramatic needle of Pico Cão Grande — a 300-metre volcanic plug — spears out of the jungle like a giant tooth. The equator line crosses tiny Ilhéu das Rolas, where you can stand with one foot in each hemisphere."
+  ],
+  "animals": [
+    "São Tomé and Príncipe has more endemic bird species per km² than almost anywhere, even beating the Galápagos. The world's largest sunbird and smallest ibis share the canopy with the brilliant São Tomé paradise flycatcher.",
+    "Leatherback, hawksbill, and green turtles nest on the beaches every year. All native frog species are found nowhere else on Earth, and the critically endangered São Tomé grosbeak — a giant finch — was rediscovered only in 1991."
+  ],
+  "culture": [
+    "Life moves to the beat of puxa — a joyful local music style — and the sweet smell of roasting cacao. Islanders cook calulu, a slow-simmered stew of smoked fish and palm oil that has warmed these islands for centuries.",
+    "Crumbling colonial plantation estates called roças dot the countryside, grand churches now draped in vines. In 2024, the traditional cacao agroforestry was named a FAO Globally Important Agricultural Heritage System."
+  ],
+  "history": [
+    "Portuguese sailors found the islands uninhabited around 1470. Within decades São Tomé became the world's busiest sugar producer, powered by enslaved Africans — a brutal history that shaped the islands' mixed Creole culture.",
+    "Independence came peacefully on 12 July 1975. In 1990 São Tomé became one of Africa's first multi-party democracies, holding free elections in 1991 — a remarkable leap just 15 years after colonial rule ended."
+  ],
+  "wows": [
+    "Once the world's largest cacao producer — a nation smaller than London fed the planet's chocolate habit.",
+    "More endemic bird species per km² than even the famous Galápagos Islands.",
+    "Pico Cão Grande towers 300 m above the jungle — as tall as the Eiffel Tower — wider at top than base.",
+    "The equator bisects tiny Ilhéu das Rolas: step north to south in a single stride.",
+    "Every native frog species on São Tomé Island is endemic — found absolutely nowhere else on Earth.",
+    "Dobra banknotes are decorated with butterflies, not politicians or monuments.",
+    "The São Tomé grosbeak is 50% heavier than any other canary-family bird and was unknown to science until 1991."
+  ],
+  "myths": [
+    {
+      "myth": "\"Just another tiny African island\"",
+      "fact": "São Tomé and Príncipe rivals the Galápagos for unique species per km² — over 25 endemic bird species, plus dozens of unique frogs, reptiles, and plants."
+    },
+    {
+      "myth": "\"Chocolate comes from big countries\"",
+      "fact": "This two-island nation was once the entire world's top cacao supplier, and its rare Amelonado variety is still prized by fine-chocolate makers today."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Olá",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Chocolate",
+      "jp": "Chocolate",
+      "say": "sho-koh-LAH-teh"
+    },
+    {
+      "en": "Island",
+      "jp": "Ilha",
+      "say": "EEL-yah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/st-hero.jpg",
+      "alt": "Shipping containers in the port of São Tomé city",
+      "caption": "PORT OF SÃO TOMÉ — the equatorial capital’s busy harbour at dawn",
+      "credit": "Ji-Elle / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/st-landmark.jpg",
+      "alt": "Pico Cão Grande volcanic plug rising from the jungle",
+      "caption": "PICO CÃO GRANDE — a 300-metre volcanic needle soars above the rainforest",
+      "credit": "Yakoo1986 / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/st-animalA.jpg",
+      "alt": "Male São Tomé sunbird perched on a branch",
+      "caption": "SÃO TOMÉ SUNBIRD — world’s largest sunbird, found only on these islands",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/st-animalB.jpg",
+      "alt": "Colonial plantation buildings of Roça Agostinho Neto in tropical forest",
+      "caption": "ROÇA AGOSTINHO NETO — the grandest cacao plantation, now swallowed by jungle",
+      "credit": "Ji-Elle / CC BY-SA 4.0"
+    }
+  }
+}

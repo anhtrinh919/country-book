@@ -1,0 +1,163 @@
+{
+  "name": "UZBEKISTAN",
+  "nativeName": "O'zbek",
+  "romaji": "UZBEKISTON",
+  "tagline": "Heart of the Silk Road",
+  "region": "Central Asia",
+  "coords": "41°N 64°E",
+  "fileNo": "062",
+  "langName": "Uzbek",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#D4C49A",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#E0D0A8",
+    "accent": "#1A6B9A",
+    "accent2": "#2E8B4A"
+  },
+  "flag": {
+    "assetPath": "/flags/uz.svg",
+    "title": "Flag of Uzbekistan",
+    "note": "Blue, white & green with 12 stars + crescent",
+    "keyColor": "#1A6B9A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Uzbekistan sits at the heart of Asia, where Silk Road caravans carried silk and spices between China and Europe. Walk through Samarkand's glittering blue-tiled squares and gaze at minarets standing 600 years. It's one of only two doubly-landlocked nations on Earth — cross two borders just to reach the sea!",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Tashkent",
+      "sub": "Population ~3 million"
+    },
+    {
+      "label": "People",
+      "value": "37.5 million",
+      "sub": "Est. Jan 2025, Statistics Agency"
+    },
+    {
+      "label": "Money",
+      "value": "Som (UZS)",
+      "sub": "\"Som\" means \"pure\" in Turkic"
+    },
+    {
+      "label": "Language",
+      "value": "Uzbek",
+      "sub": "A Turkic language, Latin script"
+    },
+    {
+      "label": "Land area",
+      "value": "447,400 km²",
+      "sub": "Slightly bigger than Sweden"
+    },
+    {
+      "label": "Top peak",
+      "value": "4,668 m",
+      "sub": "Alpomish, Gissar Range (2023)"
+    }
+  ],
+  "islands": [
+    "Tashkent",
+    "Samarkand",
+    "Bukhara",
+    "Khiva",
+    "Fergana"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Deserts, rivers & mountains",
+    "animals": "Steppe & mountain creatures",
+    "culture": "Silk Road spice & blue tiles",
+    "history": "Empires at the crossroads",
+    "wows": "You won't believe these!"
+  },
+  "geo": [
+    "Uzbekistan is mostly flat desert and dry steppe, crossed by two life-giving rivers — the Amu Darya and Syr Darya. These rivers fed vast cotton fields until Soviet planners diverted them for irrigation, triggering an environmental catastrophe.",
+    "The east rises into dramatic mountains with year-round snow. In the west, the Ustyurt Plateau stretches flat as a table. The Aral Sea, once the world's fourth-largest lake, lost 90% of its water after the rivers were diverted."
+  ],
+  "animals": [
+    "The steppe shelters the saiga antelope — an Ice Age survivor with a bulging nose that warms cold air before it reaches its lungs. Saiga herds migrate across the Ustyurt Plateau each winter, snorting clouds of steam.",
+    "High in the Kugitang mountains lives the Bukharan markhor, a wild goat with magnificent corkscrew horns over a metre long. Elusive snow leopards also patrol the highest ridges, hunting among rocky crags."
+  ],
+  "culture": [
+    "Plov — fragrant rice cooked with lamb, carrot and cumin in a giant iron pot — is the national soul food. An old proverb says: 'Rich or poor, eat plov.' Men traditionally cook it for weddings, outdoors over roaring fires.",
+    "Navruz, the spring New Year at the March equinox, is the biggest holiday. Families clean their homes, forgive old quarrels, and feast in the parks. This celebration has continued here for over 3,000 years."
+  ],
+  "history": [
+    "Samarkand and Bukhara flourished as great Silk Road cities from the 8th century, growing rich on trade between China and Europe. The astronomer-ruler Ulugbek built an observatory in Samarkand in the 1420s that mapped over 1,000 stars.",
+    "In the 14th century, conqueror Timur (Tamerlane) made Samarkand the dazzling capital of a vast empire, filling it with turquoise-tiled monuments. Russia absorbed the region in the 1860s–80s; Uzbekistan declared independence in 1991."
+  ],
+  "wows": [
+    "Only two countries are doubly-landlocked — Uzbekistan is one; cross two borders to reach any ocean.",
+    "Samarkand's Registan is covered in so much turquoise mosaic it glows like a jewel from space.",
+    "Tashkent's metro stations are underground palaces; tourists were banned from photographing them for 41 years.",
+    "The Aral Sea was the world's 4th-largest lake in 1960; most of it is now sandy desert.",
+    "Old fishing boats from the Aral Sea sit stranded up to 150 km from the nearest water today.",
+    "Khiva's walled inner city, Itchan Kala, packs 50+ ancient monuments inside mud-brick walls.",
+    "In 2017, Tashkent chefs cooked over 7 tonnes of plov in a single record-breaking cauldron."
+  ],
+  "myths": [
+    {
+      "myth": "Uzbekistan is hard to visit and unsafe",
+      "fact": "Visas are free for 90+ nationalities after reforms launched in 2016, and millions of tourists safely explore its Silk Road cities every year."
+    },
+    {
+      "myth": "The Aral Sea disaster cannot be undone",
+      "fact": "Kazakhstan's 2005 Kok-Aral Dam partly refilled the northern Aral within months. Uzbekistan has since planted saxaul trees across the dry seabed, cutting deadly dust storms."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Salom",
+      "say": "sah-LOM"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Rahmat",
+      "say": "RAH-mat"
+    },
+    {
+      "en": "Please",
+      "jp": "Iltimos",
+      "say": "il-TI-mos"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ha",
+      "say": "ha"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Mazali!",
+      "say": "ma-ZA-li"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/uz-hero.jpg",
+      "alt": "Aerial view of Tashkent city, Uzbekistan",
+      "caption": "TASHKENT — Central Asia's largest capital seen from the air",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/uz-landmark.jpg",
+      "alt": "Registan square with three madrasas in Samarkand, Uzbekistan",
+      "caption": "REGISTAN SQUARE — Samarkand's three turquoise-tiled madrasas, jewel of the Silk Road",
+      "credit": "Stomac / Wikimedia Commons CC BY-SA 2.0 FR"
+    },
+    "animalA": {
+      "src": "/photos/uz-animalA.jpg",
+      "alt": "Saiga antelope on the Central Asian steppe",
+      "caption": "SAIGA ANTELOPE — the bulge-nosed Ice Age survivor of Uzbekistan's steppes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/uz-animalB.jpg",
+      "alt": "Markhor wild goat with corkscrew horns",
+      "caption": "BUKHARAN MARKHOR — corkscrew-horned wild goat of the Kugitang mountains",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

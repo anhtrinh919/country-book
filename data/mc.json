@@ -1,0 +1,163 @@
+{
+  "name": "MONACO",
+  "nativeName": "MC",
+  "romaji": "MONACO",
+  "tagline": "Tiny rock, big glamour",
+  "region": "Western Europe",
+  "coords": "43°44′N 7°24′E",
+  "fileNo": "125",
+  "langName": "French",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDE2",
+    "dot": "#CDBBA4",
+    "ink": "#231F1B",
+    "faint": "#8A7060",
+    "line": "#DCCCB8",
+    "accent": "#CE1126",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/mc.svg",
+    "title": "Red & White",
+    "note": "Red over white — Grimaldi colours since 1339",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Monaco is a tiny principality — barely bigger than a city park — squeezed between France and the Mediterranean Sea. The Grimaldi family has ruled this rocky cliff since 1297. Today it is famous for its grand casino, its Formula One street race, and having more millionaires per square metre than anywhere else on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Monaco-Ville",
+      "sub": "also called Le Rocher"
+    },
+    {
+      "label": "People",
+      "value": "38,423",
+      "sub": "census 2024, IMSEE"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "adopted 1999"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "also Monegasque"
+    },
+    {
+      "label": "Land area",
+      "value": "2.1 km²",
+      "sub": "2nd smallest country"
+    },
+    {
+      "label": "High point",
+      "value": "164 m",
+      "sub": "Chemin des Révoires"
+    }
+  ],
+  "islands": [
+    "Monaco-Ville",
+    "Monte-Carlo",
+    "La Condamine",
+    "Fontvieille",
+    "Larvotto"
+  ],
+  "islandsLabel": "MAIN DISTRICTS:",
+  "sections": {
+    "geography": "A cliff above the sea",
+    "animals": "Sea, sky & hidden life",
+    "culture": "Glamour on a postage stamp",
+    "history": "Monks, princes & casinos",
+    "wows": "You won't believe this!"
+  },
+  "geo": [
+    "Monaco clings to a limestone cliff on the French Riviera, wrapped by France on three sides and the Mediterranean to the south. The whole country is barely bigger than New York's Central Park — you can walk across it in 20 minutes.",
+    "The harbour, Port Hercule, fills with the world's largest superyachts each spring. Engineers have reclaimed land from the sea over decades, quietly making Monaco a little bigger each year."
+  ],
+  "animals": [
+    "Monaco's waters teem with Mediterranean life — octopus, sea bream, and moray eels lurk below the harbour. Striped dolphins and fin whales pass offshore each summer, tracked by the Oceanographic Museum's research boats.",
+    "On land and rooftop, the yellow-legged gull reigns, swooping over the marina with a sharp cry. Tiny gardens hide red foxes and the blind Mediterranean mole, navigating entirely by touch beneath the soil."
+  ],
+  "culture": [
+    "Monaco blends French elegance with Italian warmth. The national dish is barbajuan — a crispy fried parcel stuffed with chard and ricotta. The Monte-Carlo Ballet, Philharmonic Orchestra, and Opéra all share the same gilded Belle Époque building.",
+    "The Monaco Grand Prix turns every street into a racing circuit each May. Native Monegasques make up only about a quarter of residents — and are banned by law from entering the famous casino."
+  ],
+  "history": [
+    "In 1297, François Grimaldi dressed as a monk and tricked his way into Monaco's fortress, sword hidden under his habit. His family has held the rock ever since — the oldest reigning dynasty in Europe.",
+    "In the 1860s Monaco nearly went bankrupt. Prince Charles III opened the Monte-Carlo Casino in 1863; wealthy gamblers flooded in. By 1869 revenues were so vast he abolished income tax — a policy that still stands."
+  ],
+  "wows": [
+    "Monaco is the world's most densely populated country, with over 18,000 people per km².",
+    "Monegasque citizens are banned by law from gambling in the Monte-Carlo Casino.",
+    "Prince Charles III abolished income tax in 1869 — and it has never come back.",
+    "The Monaco Grand Prix has run on the same street circuit since 1929 — motorsport's oldest active race.",
+    "Monaco has zero public debt — one of the very few countries that owes nothing.",
+    "Fontvieille district sits entirely on land reclaimed from the sea.",
+    "Ayrton Senna won the Monaco Grand Prix six times — a record that still stands."
+  ],
+  "myths": [
+    {
+      "myth": "Monaco is just for billionaires",
+      "fact": "Anyone can visit freely. The casino, palace square, and beaches are open to all — a train from Nice takes about 25 minutes and costs a few euros."
+    },
+    {
+      "myth": "Monaco has its own airport",
+      "fact": "There is no airport in Monaco at all. The nearest is Nice Côte d'Azur — a 20-minute helicopter hop or 40-minute drive along the Riviera."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Please",
+      "jp": "S'il vous",
+      "say": "seel-voo-PLAY"
+    },
+    {
+      "en": "The sea",
+      "jp": "La mer",
+      "say": "la MAIR"
+    },
+    {
+      "en": "Palace",
+      "jp": "Le palais",
+      "say": "luh pa-LAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mc-hero.jpg",
+      "alt": "Aerial view of Monaco's Port Hercule harbour packed with yachts during Grand Prix weekend",
+      "caption": "PORT HERCULE — Monaco's famous harbour from above during Formula 1 weekend",
+      "credit": "Niels Mickers / CC BY 3.0 NL"
+    },
+    "landmark": {
+      "src": "/photos/mc-landmark.jpg",
+      "alt": "The Prince's Palace of Monaco perched on the rocky cliff above the sea",
+      "caption": "PRINCE'S PALACE — the Grimaldi family's cliff-top home since 1297",
+      "credit": "Niels Mickers / CC BY 3.0 NL"
+    },
+    "animalA": {
+      "src": "/photos/mc-animalA.jpg",
+      "alt": "A yellow-legged gull standing with its distinctive yellow legs and grey wings",
+      "caption": "YELLOW-LEGGED GULL — Monaco's signature coastal bird, lord of every marina",
+      "credit": "Alexis Lours / CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/mc-animalB.jpg",
+      "alt": "Adult bottlenose dolphin swimming alongside its young calf",
+      "caption": "BOTTLENOSE DOLPHIN — seasonal visitors to Monaco's warm offshore waters",
+      "credit": "Peter Asprey / CC BY-SA 3.0"
+    }
+  }
+}

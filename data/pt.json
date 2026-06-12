@@ -1,0 +1,163 @@
+{
+  "name": "PORTUGAL",
+  "nativeName": "PT",
+  "romaji": "PORTUGAL",
+  "tagline": "Edge of the Old World",
+  "region": "Southern Europe",
+  "coords": "39.5°N, 8.0°W",
+  "fileNo": "042",
+  "langName": "Portuguese",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#c9b99a",
+    "ink": "#231f1b",
+    "faint": "#897055",
+    "line": "#ddd0b8",
+    "accent": "#006600",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/pt.svg",
+    "title": "Portugal",
+    "note": "Green & red with armillary sphere",
+    "keyColor": "#006600",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Portugal sits at Europe's western edge, where the Atlantic begins. Portuguese sailors once mapped half the globe; their language is spoken by 260 million people today. Famous for golden beaches, fado music, and cork trees supplying half the world's bottle stoppers — its borders are Europe's oldest, nearly unchanged since 1139.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Lisbon",
+      "sub": "Oldest capital in Western Europe"
+    },
+    {
+      "label": "People",
+      "value": "10.3 million",
+      "sub": "2021 census; ~10.8M est. 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Adopted the euro in 2002"
+    },
+    {
+      "label": "Language",
+      "value": "Portuguese",
+      "sub": "260M speakers worldwide"
+    },
+    {
+      "label": "Land area",
+      "value": "91,470 km²",
+      "sub": "Incl. Azores & Madeira islands"
+    },
+    {
+      "label": "High point",
+      "value": "Pico 2,351 m",
+      "sub": "Volcano on Azores island of Pico"
+    }
+  ],
+  "islands": [
+    "Lisbon",
+    "Porto",
+    "Algarve",
+    "Azores",
+    "Madeira"
+  ],
+  "islandsLabel": "KEY REGIONS:",
+  "sections": {
+    "geography": "Where the land meets the sea",
+    "animals": "Wild hearts of Iberia",
+    "culture": "Fado, tiles & football",
+    "history": "Sailors who mapped the world",
+    "wows": "Portugal's wow moments"
+  },
+  "geo": [
+    "Portugal stretches down the Iberian Peninsula's western edge with 832 km of Atlantic coastline. The north is green and hilly, soaked by Atlantic rain; the south bakes under Mediterranean sun, with golden cliffs tumbling into turquoise water.",
+    "Far offshore, Portugal also owns the Azores — volcanic islands 1,500 km west — and lush Madeira, closer to Morocco than Lisbon. Its highest peak, Mount Pico, is a dormant volcano rising straight from the sea."
+  ],
+  "animals": [
+    "The Iberian lynx prowls cork-oak forests on oversized paws, ears swivelling for rabbits. Once nearly extinct (fewer than 100 in 2002), breeding programmes brought it back to over 1,600 animals across Portugal and Spain.",
+    "The Iberian wolf — leaner and darker than northern cousins, with striped legs — hunts in small packs through misty highlands north of the Douro. About 300 survive in Portugal, protected by law since 1988."
+  ],
+  "culture": [
+    "Blue-and-white azulejo tiles coat church walls, railway stations, and houses — a tradition from Moorish rulers 500 years ago. Fado is music that aches beautifully: one singer, a guitar, and saudade — longing for something you can't quite name.",
+    "Football is a religion, with Benfica, Porto, and Sporting in eternal rivalry. The pastéis de nata — a tiny custard tart with a scorched top, invented by Lisbon monks in the 1800s — is eaten by millions daily."
+  ],
+  "history": [
+    "Portugal became a kingdom in 1139 — one of Europe's oldest nations. In the 1400s its sailors launched the Age of Discovery: Vasco da Gama reached India by sea; Pedro Álvares Cabral landed in Brazil. The empire spanned four continents.",
+    "The 1755 Lisbon earthquake flattened the capital and triggered a tsunami felt across Europe. The city was rebuilt in a bold grid within years. In 1974 the peaceful Carnation Revolution ended dictatorship — named for flowers placed in soldiers' rifle barrels."
+  ],
+  "wows": [
+    "Portugal produces roughly half the world's cork, stripped from living trees by hand every nine years.",
+    "Lisbon was founded around 1200 BC — four centuries before Rome was even built.",
+    "In early 2025 Portugal generated over 80% of its electricity from renewables in a single quarter.",
+    "The world's oldest operating bookshop, Livraria Bertrand in Lisbon, has been open since 1732.",
+    "Portugal's borders have barely shifted since 1139 — oldest in continental Europe.",
+    "Portuguese is the official language of nine countries across four continents.",
+    "The 1974 Carnation Revolution was so peaceful that protesters placed flowers in soldiers' rifle barrels."
+  ],
+  "myths": [
+    {
+      "myth": "Portugal is always warm and sunny",
+      "fact": "Porto is wetter than London in winter. Heavy Atlantic rain soaks the north; even the Algarve gets rainy spells. Only the far south earns the postcard weather."
+    },
+    {
+      "myth": "Portuguese is just Spanish with an accent",
+      "fact": "They share Latin roots but sound very different. A Spanish speaker cannot automatically understand European Portuguese — the two are distinct languages."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Delicioso",
+      "say": "deh-lee-SYOH-zoo"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Adeus",
+      "say": "ah-DAY-oosh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pt-hero.jpg",
+      "alt": "Panoramic view of Lisbon across the Tagus River",
+      "caption": "LISBON — Europe's oldest western capital spills across seven hills above the Tagus",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pt-landmark.jpg",
+      "alt": "Belém Tower rising from the Tagus River in Lisbon",
+      "caption": "BELÉM TOWER — Manueline fortress built 1516, gateway for Age of Discovery voyages",
+      "credit": "Diego Delso / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/pt-animalA.jpg",
+      "alt": "Iberian lynx in Mediterranean scrubland",
+      "caption": "IBERIAN LYNX — rescued from near-extinction; 1,600+ now roam Iberian forests",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pt-animalB.jpg",
+      "alt": "Iberian wolf in natural habitat",
+      "caption": "IBERIAN WOLF — ~300 survive in Portugal's northern highlands, protected since 1988",
+      "credit": "Wikimedia Commons CC BY-SA"
+    }
+  }
+}

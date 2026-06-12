@@ -1,0 +1,163 @@
+{
+  "name": "BULGARIA",
+  "nativeName": "БГ",
+  "romaji": "BALGARIYA",
+  "tagline": "Roses, ruins & rose-red wine",
+  "region": "Eastern Europe",
+  "coords": "42.7°N, 25.5°E",
+  "fileNo": "BG",
+  "langName": "Bulgarian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CCBFA0",
+    "ink": "#27201A",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#24693D",
+    "accent2": "#D01C2A"
+  },
+  "flag": {
+    "assetPath": "/flags/bg.svg",
+    "title": "Flag of Bulgaria",
+    "note": "White, green & red stripes since 1878",
+    "keyColor": "#24693D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bulgaria sits in the Balkans where ancient tombs hide under wheat fields and whole valleys bloom pink each May to make the world's finest rose oil. One of Europe's oldest countries — its name has barely changed since AD 681 — it packs snowy mountains, the Danube River, and a sparkling Black Sea coast all into a land smaller than Iceland.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Sofia",
+      "sub": "~1.3 m people; sits at 550 m"
+    },
+    {
+      "label": "People",
+      "value": "6.4 million",
+      "sub": "2024 NSI official census"
+    },
+    {
+      "label": "Money",
+      "value": "Lev (BGN)",
+      "sub": "1 lev = 100 stotinki"
+    },
+    {
+      "label": "Language",
+      "value": "Bulgarian",
+      "sub": "Written in Cyrillic script"
+    },
+    {
+      "label": "Land area",
+      "value": "110,994 km²",
+      "sub": "Slightly larger than Iceland"
+    },
+    {
+      "label": "Top peak",
+      "value": "Musala 2925 m",
+      "sub": "Highest in the Balkan Peninsula"
+    }
+  ],
+  "islands": [
+    "Sofia",
+    "Plovdiv",
+    "Varna",
+    "Burgas",
+    "Ruse"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, rivers & sea",
+    "animals": "Wild bears & dancing bees",
+    "culture": "Roses, rhythm & ritual",
+    "history": "Tsars, saints & Soviets",
+    "wows": "Bulgaria will surprise you!"
+  },
+  "geo": [
+    "Bulgaria is a landscape sandwich. The Balkan Mountains cut across the middle; the Rhodope range rises in the south to Musala — the Balkans' highest peak. Between them lies the Thracian Plain, Europe's finest rose-growing valley.",
+    "The Danube River forms the entire northern border and the Black Sea coast stretches 378 km east. Forests cover a third of the country, sheltering lynx and brown bears among ancient oak trees."
+  ],
+  "animals": [
+    "The brown bear is Bulgaria's biggest wild animal — around 700 bears live in the Rhodope and Balkan mountains, munching berries and honey. The Dalmatian pelican nests on Srebarna Lake, a UNESCO wetland near the Danube.",
+    "Bulgaria's honeybees produce some of Europe's finest mountain wildflower honey. The ancient Karakachan shepherd dog has guarded flocks here for over 2,000 years without changing much at all."
+  ],
+  "culture": [
+    "Every May the Rose Valley near Kazanlak fills with pink damask roses harvested before sunrise — three tonnes of petals yield just one kilogram of rose oil used in the world's top perfumes. Bulgarians also love yoghurt so much they named the key bacteria after themselves: Lactobacillus bulgaricus.",
+    "Bulgarian folk music uses wild time signatures — 7/8 or 11/16 — that baffle Western listeners yet send Bulgarian dancers spinning perfectly. The horo chain dance can link hundreds of people in a giant swirling circle."
+  ],
+  "history": [
+    "Bulgaria was born in AD 681 when Khan Asparuh united Bulgar warriors with Slavic tribes. In the 9th century, disciples of Saints Cyril and Methodius developed the Cyrillic script at Bulgarian literary schools — now used by 250 million people worldwide.",
+    "After nearly 500 years of Ottoman rule, Russia helped win independence in 1878. Bulgaria became communist after WWII until peaceful protests ended the regime in 1989. It joined NATO in 2004 and the EU in 2007."
+  ],
+  "wows": [
+    "Bulgaria gave the world Cyrillic, now written by over 250 million people across 50+ languages.",
+    "The Rose Valley produces around 70% of the world's rose oil for luxury perfumes.",
+    "Musala is the highest peak in the Balkans and the tallest mountain between the Alps and the Caucasus.",
+    "In Bulgaria, nodding means NO and shaking your head means YES — the opposite of almost everywhere.",
+    "Plovdiv has been continuously inhabited for over 6,000 years, one of Europe's oldest cities.",
+    "Kazanlak's Thracian tomb is UNESCO-listed with 2,300-year-old vivid painted murals.",
+    "The yoghurt bacteria Lactobacillus bulgaricus was first identified in Bulgarian yoghurt in 1905."
+  ],
+  "myths": [
+    {
+      "myth": "Bulgarians nod to mean yes",
+      "fact": "It's the opposite — a nod means NO and a head-shake means YES, confusing almost every first-time visitor."
+    },
+    {
+      "myth": "Cyrillic was invented by St Cyril",
+      "fact": "Cyril and Methodius created the Glagolitic script. Cyrillic was developed by their disciples at Bulgarian literary schools in the 9th century."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Здравей",
+      "say": "ZDRA-vey"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Благодаря",
+      "say": "bla-go-da-RYA"
+    },
+    {
+      "en": "Please",
+      "jp": "Моля",
+      "say": "MOL-ya"
+    },
+    {
+      "en": "Yes",
+      "jp": "Да",
+      "say": "da"
+    },
+    {
+      "en": "Rose",
+      "jp": "Роза",
+      "say": "RO-za"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bg-hero.jpg",
+      "alt": "Alexander Nevsky Cathedral golden domes in Sofia",
+      "caption": "ALEXANDER NEVSKY CATHEDRAL — Sofia's golden-domed landmark, one of Europe's largest.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bg-landmark.jpg",
+      "alt": "Rila Monastery in mountain setting",
+      "caption": "RILA MONASTERY — UNESCO fortress of faith deep in Bulgaria's mountains.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bg-animalA.jpg",
+      "alt": "Brown bear running through forest",
+      "caption": "BROWN BEAR — Around 700 bears roam Bulgaria's Rhodope and Balkan forests.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bg-animalB.jpg",
+      "alt": "Dalmatian pelican on water",
+      "caption": "DALMATIAN PELICAN — Nests at Srebarna UNESCO wetland on the Danube.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

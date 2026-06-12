@@ -1,0 +1,163 @@
+{
+  "name": "SENEGAL",
+  "nativeName": "SN",
+  "romaji": "SÉNÉGAL",
+  "tagline": "Gateway to Africa",
+  "region": "West Africa",
+  "coords": "14.4°N, 14.4°W",
+  "fileNo": "077",
+  "langName": "Wolof",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A52",
+    "line": "#DDD0AC",
+    "accent": "#3A9A3C",
+    "accent2": "#FCCA00"
+  },
+  "flag": {
+    "assetPath": "/flags/sn.svg",
+    "title": "Drapeau du Sénégal",
+    "note": "Green–yellow–red with a green star",
+    "keyColor": "#3A9A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Senegal juts out at Africa's westernmost tip, Dakar buzzing with music and fish stew. Giant baobab trees dot the savannah, a lake turns bubblegum pink, and wrestlers fill stadiums football can only envy. Senegalese live by teranga — a Wolof word for hospitality so deep that strangers feel like family the moment they arrive.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Dakar",
+      "sub": "On the Atlantic tip of Africa"
+    },
+    {
+      "label": "People",
+      "value": "~17.7 m",
+      "sub": "Est. 2023, growing fast"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared by 8 W. African nations"
+    },
+    {
+      "label": "Language",
+      "value": "French/Wolof",
+      "sub": "Wolof spoken by ~80% daily"
+    },
+    {
+      "label": "Land area",
+      "value": "196,722 km²",
+      "sub": "A bit bigger than England×3"
+    },
+    {
+      "label": "High point",
+      "value": "648 m",
+      "sub": "Nepen Diakha ridge"
+    }
+  ],
+  "islands": [
+    "Dakar",
+    "Saint-Louis",
+    "Touba",
+    "Ziguinchor",
+    "Casamance"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Flat lands & a pink sea",
+    "animals": "Lions, pelicans & baobabs",
+    "culture": "Drums, teranga & wrestlers",
+    "history": "Empires, slaves & freedom",
+    "wows": "7 wild Senegal surprises"
+  },
+  "geo": [
+    "Senegal is almost perfectly flat — sandy plains roll from the dry Sahel in the north to thick green forests in the lush Casamance south. The country wraps around tiny Gambia on three sides, and 531 km of Atlantic coast gives Dakar its cool sea breeze.",
+    "Inland, the Senegal River marks the northern border while the Gambia River cuts east–west. Lake Retba north of Dakar shimmers pink from salt-loving algae — saltier than the Dead Sea, its banks crusted white and harvested daily by local workers."
+  ],
+  "animals": [
+    "Niokolo-Koba National Park shelters one of West Africa's last wild lion populations — lean, thin-maned cats roaming 9,000 km² of savannah alongside hippos and chimpanzees in a UNESCO World Heritage park.",
+    "Djoudj Bird Sanctuary hosts up to 3 million birds each winter — great white pelicans arrive in clouds of white feathers alongside spoonbills, herons, and cormorants. Senegal records over 660 bird species in total."
+  ],
+  "culture": [
+    "Music is Senegal's heartbeat. Youssou N'Dour blended sabar drumming with jazz to create mbalax, then sang it to the world. Griots — hereditary storytellers — preserve centuries of history entirely by memory and song.",
+    "Teranga (hospitality) shapes daily life: strangers are fed before the family even asks their name. Traditional wrestling, laamb, rivals football — wrestlers wear gris-gris amulets and dance before bouts watched by 70,000 roaring fans."
+  ],
+  "history": [
+    "Ancient Ghana and Jolof empires once flourished here. From the 1400s, Europeans used Gorée Island — 3 km off Dakar — as a holding post for enslaved Africans. The haunting Door of No Return still stands, now a UNESCO World Heritage site.",
+    "France ruled from the 1800s until 4 April 1960, when Senegal declared independence under poet-president Léopold Sédar Senghor. Every handover of power since has been peaceful, making it one of Africa's oldest stable democracies."
+  ],
+  "wows": [
+    "Lake Retba is saltier than the Dead Sea — you float without even trying!",
+    "Dakar's African Renaissance Monument stands taller than the Statue of Liberty.",
+    "Senegal nearly wraps around Gambia on three sides — geography's oddest hug.",
+    "Wrestlers earn more than footballers and fill stadiums of 70,000 fans.",
+    "Baobab trees can live 1,000 years and store tonnes of water inside.",
+    "Senegal has had zero military coups since independence in 1960.",
+    "Youssou N'Dour has sold 30 million albums and served as a minister."
+  ],
+  "myths": [
+    {
+      "myth": "Senegal is all desert and famine",
+      "fact": "Most of Senegal is green savannah or lush forest. The south (Casamance) is tropical and rainy, and food culture — especially thiéboudienne rice and fish — is rich and diverse."
+    },
+    {
+      "myth": "Like most of Africa, it’s politically unstable",
+      "fact": "Senegal has had only peaceful elections since 1960 with no military coups — widely cited as one of Africa's model democracies with a free press."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Salaam aleyk",
+      "say": "sa-LAHM ah-LAY"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Jërejëf",
+      "say": "jeh-reh-JEF"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Na nga def?",
+      "say": "nah nga DEF"
+    },
+    {
+      "en": "Hospitality",
+      "jp": "Teranga",
+      "say": "teh-RAHN-gah"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Mangi dem",
+      "say": "mahn-gee DEM"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sn-hero.jpg",
+      "alt": "Dakar city skyline viewed from the Atlantic Ocean",
+      "caption": "DAKAR — Africa's westernmost capital above the Atlantic Ocean.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sn-landmark.jpg",
+      "alt": "Colourful houses lining the shore of Gorée Island off Dakar",
+      "caption": "GORÉE ISLAND — UNESCO isle that once held enslaved Africans.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sn-animalA.jpg",
+      "alt": "Flock of great white pelicans at Djoudj National Bird Sanctuary",
+      "caption": "GREAT WHITE PELICANS — millions arrive at Djoudj each winter.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sn-animalB.jpg",
+      "alt": "Ancient baobab tree with wide swollen trunk on Senegalese savannah",
+      "caption": "BAOBAB TREE — Africa's tree of life, living over 1,000 years.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

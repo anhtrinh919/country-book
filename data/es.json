@@ -1,0 +1,163 @@
+{
+  "name": "SPAIN",
+  "nativeName": "ES",
+  "romaji": "ESPAÑA",
+  "tagline": "Sun, fiestas & flamenco",
+  "region": "Southern Europe",
+  "coords": "40.4°N, 3.7°W",
+  "fileNo": "034",
+  "langName": "Spanish",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F7F0DF",
+    "dot": "#D4BC8A",
+    "ink": "#2B2018",
+    "faint": "#9A7D4A",
+    "line": "#E2CFA0",
+    "accent": "#C60B1E",
+    "accent2": "#F1BF00"
+  },
+  "flag": {
+    "assetPath": "/flags/es.svg",
+    "title": "Flag of Spain",
+    "note": "Red & yellow stripes, coat of arms",
+    "keyColor": "#C60B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Spain sits at the western tip of Europe, where the Atlantic and Mediterranean meet. A land of blazing sunshine, ancient castles, and some of the loudest festivals on Earth — where matadors, tapas, and siestas are real, but so are high-speed trains topping 300 km/h and cities full of futuristic art.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Madrid",
+      "sub": "Highest capital city in the EU"
+    },
+    {
+      "label": "People",
+      "value": "47.4 million",
+      "sub": "Census estimate 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Uses EU currency since 2002"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Also Catalan, Basque & Galician"
+    },
+    {
+      "label": "Area",
+      "value": "505,990 km²",
+      "sub": "2nd largest country in the EU"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "3,718 m",
+      "sub": "Teide volcano, Canary Islands"
+    }
+  ],
+  "islands": [
+    "Andalusia",
+    "Catalonia",
+    "Madrid",
+    "Valencia",
+    "Galicia"
+  ],
+  "islandsLabel": "BIG REGIONS:",
+  "sections": {
+    "geography": "Mountains, coast & hot plains",
+    "animals": "Wild creatures of Spain",
+    "culture": "Fiestas, food & flamenco",
+    "history": "Empires, art & revolution",
+    "wows": "Spain will surprise you!"
+  },
+  "geo": [
+    "Spain is mostly a high, flat plateau called the Meseta, ringed by mountains. The Pyrenees form a great wall in the north, separating Spain from France, while the Sierra Nevada towers near Granada in the south.",
+    "Three seas lap its shores: the Atlantic, the Mediterranean, and the Bay of Biscay. Spain also owns the sunny Canary Islands off Africa's coast and the Balearic Islands (Mallorca, Ibiza) in the Mediterranean."
+  ],
+  "animals": [
+    "Spain's wild south — the Doñana wetlands — shelters the Iberian lynx, the world's rarest wild cat, rescued from near-extinction. The Iberian wolf still roams the northern hills in small packs.",
+    "Brown bears lumber through the Cantabrian mountains, and huge griffon vultures circle the gorges of Extremadura. In autumn, red deer stags bellow across misty forests in a noisy contest called the berrea."
+  ],
+  "culture": [
+    "Spain runs on a different clock. Lunch is the big meal — eaten at 2–3 pm — and dinner rarely starts before 9 pm. Tapas are small dishes shared at the bar; the word once meant bread placed on a glass to keep flies out.",
+    "Flamenco — clapping, guitar, and stamping dance — was born in Andalusia and is now a UNESCO treasure. Every town has its own fiesta: Pamplona runs bulls through its streets; Valencia burns giant wooden sculptures every March."
+  ],
+  "history": [
+    "Spain was home to Romans, Visigoths, and then Muslim rulers called the Moors for nearly 800 years. Moorish palaces like the Alhambra still stand. In 1492 — the year Columbus sailed west — the last Moorish kingdom fell.",
+    "Spain then built a vast empire spanning the Americas and Asia. After empire came struggle — a brutal civil war in the 1930s — but Spain emerged as a vibrant democracy and joined the EU in 1986."
+  ],
+  "wows": [
+    "Spain's La Tomatina festival sees 20,000 people hurl 150 tonnes of tomatoes at each other every August.",
+    "The Sagrada Família in Barcelona has been under construction since 1882 and is still not finished.",
+    "Spain has more UNESCO World Heritage Sites than almost any other country on Earth.",
+    "Madrid's Prado Museum holds over 8,000 paintings by Velázquez, Goya, and El Greco.",
+    "A Spaniard invented the modern mop — Manuel Jalón Corominas patented it in 1956.",
+    "Spanish is the world's second most spoken native language, with 490 million speakers.",
+    "Spain's AVE high-speed rail network is the longest in Europe at over 3,900 km."
+  ],
+  "myths": [
+    {
+      "myth": "Spain is always hot and sunny",
+      "fact": "Northern Spain (Galicia, Basque Country) is famously rainy and green — locals joke it rains more than London."
+    },
+    {
+      "myth": "Bulls charge because of the red",
+      "fact": "Bulls are colourblind to red; it's the movement of the cloth that excites them, not its colour."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ass"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Qué rico!",
+      "say": "kay REE-koh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Adiós",
+      "say": "ah-dee-OSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/es-hero.jpg",
+      "alt": "Sagrada Família basilica towers in Barcelona at dusk",
+      "caption": "SAGRADA FAMÍLIA — Gaudí's unfinished masterpiece rising over Barcelona",
+      "credit": "Bernard Gagnon / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/es-landmark.jpg",
+      "alt": "The Alhambra palace lit up at night in Granada",
+      "caption": "ALHAMBRA — Moorish palace and fortress overlooking Granada",
+      "credit": "Carlos Delgado / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/es-animalA.jpg",
+      "alt": "Iberian lynx resting in scrubland",
+      "caption": "IBERIAN LYNX — the world's rarest wild cat, saved by conservation",
+      "credit": "Programa de Conservación / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/es-animalB.jpg",
+      "alt": "Griffon vulture soaring with wings outstretched",
+      "caption": "GRIFFON VULTURE — giant soaring bird of Spain's gorges and cliffs",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

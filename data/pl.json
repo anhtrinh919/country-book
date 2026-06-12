@@ -1,0 +1,162 @@
+{
+  "name": "POLAND",
+  "nativeName": "PL",
+  "romaji": "POLSKA",
+  "tagline": "Where courage meets colour",
+  "region": "Central-Eastern Europe",
+  "coords": "52°N 20°E",
+  "fileNo": "048",
+  "langName": "Polish",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE2",
+    "dot": "#CCBFA3",
+    "ink": "#28221E",
+    "faint": "#8B7A60",
+    "line": "#DACCB2",
+    "accent": "#C7102E",
+    "accent2": "#F5F0EA"
+  },
+  "flag": {
+    "assetPath": "/flags/pl.svg",
+    "title": "Biało-Czerwona",
+    "note": "White over red — simple, bold, unmistakable",
+    "keyColor": "#C7102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Poland sits in the heart of Europe on a vast flat plain. It was wiped off the map for 123 years, rebuilt its capital from rubble, and produced world-famous scientists and musicians. Today nearly 38 million people call it home — famous for pierogies, Baltic amber, and a white eagle that has been Poland's symbol for over a thousand years.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Warsaw",
+      "sub": "Warszawa — pop. ~1.86 m"
+    },
+    {
+      "label": "People",
+      "value": "37.5 million",
+      "sub": "GUS registered pop. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Złoty (PLN)",
+      "sub": "100 groszy = 1 zł"
+    },
+    {
+      "label": "Language",
+      "value": "Polish",
+      "sub": "One official language"
+    },
+    {
+      "label": "Land area",
+      "value": "312,679 km²",
+      "sub": "71st largest on Earth"
+    },
+    {
+      "label": "High point",
+      "value": "Rysy 2,499 m",
+      "sub": "Tatra Mountains, south"
+    }
+  ],
+  "islands": [
+    "Mazovia",
+    "Silesia",
+    "Pomerania",
+    "Podlaskie"
+  ],
+  "islandsLabel": "BIG REGIONS:",
+  "sections": {
+    "geography": "A land of plains & mountains",
+    "animals": "Bison, lynx & eagles",
+    "culture": "Pierogies, polkas & amber",
+    "history": "Lost & found — 1,000 years",
+    "wows": "Things that'll blow your mind"
+  },
+  "geo": [
+    "Poland is mostly one vast flat plain, so it has always been easy to cross — which is why so many armies marched through it. Mighty rivers like the Vistula and Oder flow north to the Baltic Sea, passing ancient cities and dark pine forests.",
+    "The south is completely different: the Tatra Mountains rise sharply along the Slovak border with rocky peaks where ibex leap between cliffs. In between lie rolling hills, glacier lakes, and the vast primeval Białowieża Forest."
+  ],
+  "animals": [
+    "Poland's most famous animal is the European bison — the heaviest land animal in Europe. Hunted to extinction in the wild by 1927, scientists bred them back from zoo animals and released them. Over 2,000 now roam free across Poland, with the largest herd in ancient Białowieża Forest.",
+    "The Tatra Mountains shelter brown bears, wolves, and the lynx — a cat with huge paws built for snow. White-tailed eagles soar above Polish lakes, and Poland hosts roughly 25% of all white storks in the world; villages celebrate when storks nest on chimneys."
+  ],
+  "culture": [
+    "Polish food is hearty: pierogi (dough pockets stuffed with potato, cheese, or berries), żurek (sour rye soup), and bigos (hunter's stew). Amber from the Baltic coast has been traded for 3,000 years — Poland crafts around 70% of the world's amber jewellery.",
+    "Music is huge: Frédéric Chopin was Polish, and every five years pianists compete in Warsaw's famous Chopin Competition. Christmas is the biggest celebration, with an extra plate left at the table for any stranger who might need a meal."
+  ],
+  "history": [
+    "Poland became a kingdom over 1,000 years ago. By the 16th century the Polish-Lithuanian Commonwealth was one of Europe's largest states. Then three powerful neighbours carved Poland up and erased it from maps entirely for 123 years.",
+    "Poland reappeared in 1918, then suffered terribly in WWII — Warsaw was nearly destroyed and six million citizens were killed. In 1989 the Solidarity trade union movement achieved a peaceful revolution and won Poland's first free elections."
+  ],
+  "wows": [
+    "Poland was erased from world maps for 123 years yet language and culture survived.",
+    "Warsaw's Old Town was rebuilt brick-by-brick using 18th-century paintings as blueprints.",
+    "Marie Curie, two-time Nobel laureate in two sciences, was born in Warsaw in 1867.",
+    "Poland crafts around 70% of the world's amber jewellery — resin from forests 40 million years old.",
+    "European bison were extinct in the wild by 1927 but bred back; 2,000+ now roam free in Poland.",
+    "About 25% of all white storks on Earth nest in Poland every summer.",
+    "Wieliczka Salt Mine has underground chapels and chandeliers carved entirely from salt."
+  ],
+  "myths": [
+    {
+      "myth": "Poland is always cold and grey",
+      "fact": "Summers regularly hit 30°C; Kraków and Gdańsk are sunny, colourful cities with thriving café cultures and beautiful medieval squares."
+    },
+    {
+      "myth": "Polish spelling is impossible to learn",
+      "fact": "Polish spelling is consistent — each letter makes one sound. Once you know sz=sh and cz=ch, words like Szczecin become readable quickly."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Cześć",
+      "say": "Cheshch"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Dziękuję",
+      "say": "Jen-KOO-yeh"
+    },
+    {
+      "en": "Please",
+      "jp": "Proszę",
+      "say": "PRO-sheh"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Pyszne!",
+      "say": "PISH-neh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Do widzenia",
+      "say": "Do vid-ZEN-ya"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pl-hero.jpg",
+      "alt": "Warsaw Old Town Market Square with colourful townhouses",
+      "caption": "WARSAW OLD TOWN — rebuilt from rubble, now a UNESCO World Heritage Site",
+      "credit": "Wikimedia Commons / Adrian Grycuk"
+    },
+    "landmark": {
+      "src": "/photos/pl-landmark.jpg",
+      "alt": "Carved salt chapel inside Wieliczka mine",
+      "caption": "WIELICZKA MINE — underground chapels carved from solid salt, mined 700 years",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pl-animalA.jpg",
+      "alt": "European bison standing in Białowieża Forest",
+      "caption": "EUROPEAN BISON — heaviest land animal in Europe, saved from extinction here",
+      "credit": "Wikimedia Commons / Radomił Binek"
+    },
+    "animalB": {
+      "src": "/photos/pl-animalB.jpg",
+      "alt": "White stork standing in a Polish field",
+      "caption": "WHITE STORK — Poland hosts 25% of the world's breeding storks each summer",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

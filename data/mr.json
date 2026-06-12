@@ -1,0 +1,163 @@
+{
+  "name": "MAURITANIA",
+  "nativeName": "موريتا",
+  "romaji": "MURITANIYYA",
+  "tagline": "Desert, Stars & Ancient Ink",
+  "region": "North Africa",
+  "coords": "20°N 12°W",
+  "fileNo": "083",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#25201A",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#1A7A3C",
+    "accent2": "#C8A020"
+  },
+  "flag": {
+    "assetPath": "/flags/mr.svg",
+    "title": "Green & Gold",
+    "note": "Star & crescent on green, red border bands",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mauritania is a vast Saharan country where desert covers nine-tenths of the land. Ancient caravan cities sit half-buried in dunes, a train nearly 3 km long hauls iron ore, and a rock formation visible from space looks like a giant eye. Flamingos crowd Atlantic lagoons; old libraries hold priceless Arabic manuscripts.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Nouakchott",
+      "sub": "Pop. ~1.6 m (2023 est.)"
+    },
+    {
+      "label": "People",
+      "value": "4.99 million",
+      "sub": "2024 UN estimate"
+    },
+    {
+      "label": "Money",
+      "value": "Ouguiya",
+      "sub": "MRU — 5 khoums each"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Hassaniya dialect daily"
+    },
+    {
+      "label": "Land area",
+      "value": "1,030,700 km²",
+      "sub": "11th largest in Africa"
+    },
+    {
+      "label": "High point",
+      "value": "Kediet Ijill",
+      "sub": "915 m — iron-ore mountain"
+    }
+  ],
+  "islands": [
+    "Nouakchott",
+    "Nouadhibou",
+    "Atar",
+    "Rosso",
+    "Zouerate"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Sand, Sea & Ancient Stone",
+    "animals": "Desert Ears & Ocean Wings",
+    "culture": "Tents, Tea & Library Dust",
+    "history": "Caravans, Scholars & Freedom",
+    "wows": "7 Things to Make You Blink"
+  },
+  "geo": [
+    "Nine-tenths of Mauritania is pure Sahara — endless dunes, flat gravel plains, and rocky plateaus. The Adrar plateau rises in the centre, cut by dramatic canyons and oases shaded by date palms.",
+    "Along the Atlantic coast, cool ocean currents meet the desert edge, creating rich lagoons packed with fish and seabirds. The Senegal River along the southern border is the one truly green strip in the country."
+  ],
+  "animals": [
+    "The fennec fox is the Sahara's most charming survivor — its enormous ears, bigger than its head, detect beetles moving under sand at night and work like radiators to shed desert heat.",
+    "Banc d'Arguin National Park hosts over two million migratory birds each winter — flamingos, pelicans, and spoonbills pack the shallow mudflats in one of the greatest bird gatherings on Earth."
+  ],
+  "culture": [
+    "Mauritanian culture weaves Arab, Berber, and West African traditions. Moorish families celebrate occasions by sharing a huge communal bowl of lamb and rice, eating together by hand around a low table.",
+    "Mint tea is brewed three times and poured from a height to make froth — drinking all three glasses shows respect. Nomadic ways linger; many families own traditional tents and still herd camels across the desert."
+  ],
+  "history": [
+    "Mauritania sat at the crossroads of trans-Saharan trade. Chinguetti became one of Islam's seven holy cities, its private libraries preserving thousands of medieval manuscripts on astronomy, law, and poetry.",
+    "France colonised the territory in the early 1900s; independence came on 28 November 1960. Today Mauritania is an Islamic republic, building wealth from iron ore, offshore natural gas, and rich Atlantic fisheries."
+  ],
+  "wows": [
+    "The Eye of the Sahara is a 40-km-wide rock dome so enormous astronauts use it to navigate above Africa.",
+    "The iron-ore train can stretch nearly 3 km and haul 17,000 tonnes — making it one of Earth's longest trains.",
+    "Chinguetti holds 13 private libraries with ~6,000 handwritten manuscripts, some dating to the 8th century.",
+    "Banc d'Arguin hosts over two million migratory wading birds each winter — one of Earth's biggest gatherings.",
+    "Mauritanian Atlantic waters rank among the world's richest fishing grounds, supplying ~20% of its exports.",
+    "Kediet Ijill, the highest peak, is almost entirely solid iron ore — a whole mountain made of metal.",
+    "Nouakchott grew from a village of hundreds in 1957 to a capital of 1.6 million people today."
+  ],
+  "myths": [
+    {
+      "myth": "Mauritania is just empty desert",
+      "fact": "While 90% is Sahara, the Atlantic coast brims with fish and birds, the south has river farmland, and ancient cities guard priceless libraries."
+    },
+    {
+      "myth": "Nothing lives in the Sahara here",
+      "fact": "Oases, date palms, and acacia trees support camels, fennec foxes, gazelles, and millions of migratory seabirds every year."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HAH-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Water",
+      "jp": "ماء",
+      "say": "MA-ah"
+    },
+    {
+      "en": "Camel",
+      "jp": "جمل",
+      "say": "JA-mal"
+    },
+    {
+      "en": "Desert",
+      "jp": "صحراء",
+      "say": "SAH-ra"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mr-hero.jpg",
+      "alt": "The Mauritania iron ore train stretching through the Sahara Desert near Choum",
+      "caption": "IRON ORE TRAIN — nearly 3 km of wagons haul ore across the Sahara",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mr-landmark.jpg",
+      "alt": "The Richat Structure Eye of the Sahara seen from space over Mauritania",
+      "caption": "EYE OF THE SAHARA — the Richat Structure, 40 km wide, shot from orbit",
+      "credit": "ESA / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mr-animalA.jpg",
+      "alt": "A fennec fox with very large ears sitting alert in desert sand",
+      "caption": "FENNEC FOX — giant ears detect prey beneath the sand at night",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/mr-animalB.jpg",
+      "alt": "An addax antelope with long spiral horns in a sandy desert landscape",
+      "caption": "ADDAX ANTELOPE — pale coat and broad hooves built for Sahara life",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

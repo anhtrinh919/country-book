@@ -1,0 +1,166 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "World Country Book — Country Record",
+  "description": "One record drives one A3 spread. Counts are FIXED and char limits reliably fit the page; the overflow=0 page check is the final authority.",
+  "type": "object",
+  "required": [
+    "name", "nativeName", "romaji", "tagline", "region", "coords", "fileNo",
+    "flag", "lead", "facts", "islands", "sections", "langName", "layout", "theme", "motif",
+    "geo", "animals", "culture", "history", "wows", "myths", "words"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "name":       { "type": "string", "maxLength": 14, "description": "Display name, UPPERCASE. ≤9 chars sits at 70px; shrink font for longer." },
+    "nativeName": { "type": "string", "maxLength": 6,  "description": "Native-script glyph(s) for the emblem disc, e.g. 日本. If Latin/long, may repeat name." },
+    "romaji":     { "type": "string", "maxLength": 16, "description": "Local/transliterated name, e.g. NIPPON." },
+    "tagline":    { "type": "string", "maxLength": 28, "description": "Nickname, e.g. 'Land of the Rising Sun'." },
+    "region":     { "type": "string", "maxLength": 28, "description": "e.g. 'East Asia · Pacific Ocean'." },
+    "coords":     { "type": "string", "maxLength": 18, "description": "Approx capital coords, e.g. '36°N · 138°E'." },
+    "fileNo":     { "type": "string", "maxLength": 3,  "description": "Display index (sequential or ISO-3166 numeric)." },
+    "langName":   { "type": "string", "maxLength": 16, "description": "Language shown in the phrasebook tick, e.g. 'Japanese', 'Aussie English'." },
+    "stop":       { "type": "integer", "minimum": 1, "maximum": 195, "description": "Position in the around-the-world series (Explorer's Log stamp)." },
+    "titleSize":  { "type": "number", "description": "Optional masthead font-size override (px) for long names. Default 70; e.g. AUSTRALIA uses 50." },
+
+    "layout": {
+      "type": "string", "enum": ["atlas", "hero", "modular", "postcard", "timeline"],
+      "description": "Which spread template renders this country. ROTATE across the book — never give a whole continent/region the same layout. See README 'Palette × Layout rotation'."
+    },
+    "motif": {
+      "type": "string", "enum": ["sun", "chevron", "tricolore", "papel", "diamond", "dots"],
+      "description": "Signature decorative ribbon under the header. Pick one that suits the country's visual culture (add new ones as needed). Distinct from layout."
+    },
+    "theme": {
+      "type": "object",
+      "description": "Per-country palette, applied via CSS variables. Keep the warm field-journal family (low-chroma paper, dark warm ink); the two accents come from the flag.",
+      "required": ["paper", "dot", "ink", "faint", "line", "accent", "accent2"],
+      "additionalProperties": false,
+      "properties": {
+        "paper":   { "type": "string", "description": "Page background — a country-specific warm tint (sand, parchment, ochre…). e.g. '#F2E4BD'." },
+        "dot":     { "type": "string", "description": "Background dot-grid colour, ~1 step darker than paper." },
+        "ink":     { "type": "string", "description": "Primary text colour — a dark, warm near-black tuned to the paper." },
+        "faint":   { "type": "string", "description": "Muted text (captions, subs, kickers)." },
+        "line":    { "type": "string", "description": "Hairlines, dividers, photo edges." },
+        "accent":  { "type": "string", "description": "PRIMARY flag-derived colour: spine, data-bar, section rules, drop-cap, WOW numbers, myth border, stamp. e.g. '#C0202E'." },
+        "accent2": { "type": "string", "description": "SECONDARY flag colour used in the motif ribbon (and free for layout accents). e.g. '#23406b'." }
+      }
+    },
+
+    "flag": {
+      "type": "object",
+      "required": ["assetPath", "title", "note"],
+      "additionalProperties": false,
+      "properties": {
+        "assetPath":   { "type": "string", "description": "Path to a real flag SVG (flag-icons / Wikimedia PD). Trivial geometric flags MAY be CSS-drawn instead." },
+        "title":       { "type": "string", "maxLength": 18, "description": "Flag name, e.g. 'The Hinomaru'." },
+        "note":        { "type": "string", "maxLength": 44, "description": "e.g. 'a red sun on white · official since 1999'." },
+        "keyColor":    { "type": "string", "description": "Hex of the flag's dominant color; feeds the 'sun'/emblem token. e.g. '#BC002D'." },
+        "mastheadMotif": { "type": "string", "enum": ["clipped-flag", "geometric-emblem"], "default": "geometric-emblem", "description": "How the circular masthead disc is derived per country." }
+      }
+    },
+
+    "lead": { "type": "string", "maxLength": 360, "description": "Intro paragraph (drop-cap). ~55-65 words." },
+
+    "facts": {
+      "type": "array", "minItems": 6, "maxItems": 6,
+      "description": "Exactly 6, in order: Capital, People, Money, Language, Land area, Highest point.",
+      "items": {
+        "type": "object",
+        "required": ["label", "value", "sub"],
+        "additionalProperties": false,
+        "properties": {
+          "label": { "type": "string", "maxLength": 12 },
+          "value": { "type": "string", "maxLength": 14, "description": "Rendered NOWRAP — keep short." },
+          "sub":   { "type": "string", "maxLength": 34 }
+        }
+      }
+    },
+
+    "islands": {
+      "type": "array", "minItems": 3, "maxItems": 5,
+      "description": "Major regions/islands/states for the chip row. Relabel the heading per country.",
+      "items": { "type": "string", "maxLength": 12 }
+    },
+    "islandsLabel": { "type": "string", "maxLength": 22, "default": "FOUR BIG ISLANDS:", "description": "Heading for the chip row." },
+
+    "sections": {
+      "type": "object",
+      "description": "Per-country flavor titles for the 6 SecHeads (all NOWRAP, ≤30 chars).",
+      "required": ["geography", "animals", "culture", "history", "wows"],
+      "additionalProperties": false,
+      "properties": {
+        "geography": { "type": "string", "maxLength": 30 },
+        "animals":   { "type": "string", "maxLength": 30 },
+        "culture":   { "type": "string", "maxLength": 30 },
+        "history":   { "type": "string", "maxLength": 30 },
+        "wows":      { "type": "string", "maxLength": 30 }
+      }
+    },
+
+    "geo":     { "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "string", "maxLength": 320 }, "description": "colBreak — keep the two paragraphs roughly equal." },
+    "animals": { "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "string", "maxLength": 300 }, "description": "colBreak." },
+    "culture": { "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "string", "maxLength": 330 }, "description": "Natural 2-col flow (NOT colBreak) — keep balanced." },
+    "history": { "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "string", "maxLength": 280 }, "description": "colBreak." },
+
+    "wows": {
+      "type": "array", "minItems": 7, "maxItems": 7,
+      "description": "Exactly 7 one-sentence 'WOW' facts, all verifiable.",
+      "items": { "type": "string", "maxLength": 110 }
+    },
+
+    "myths": {
+      "type": "array", "minItems": 2, "maxItems": 2,
+      "description": "Mandatory myth-busting feature: exactly 2 popular myths + gentle corrections.",
+      "items": {
+        "type": "object",
+        "required": ["myth", "fact"],
+        "additionalProperties": false,
+        "properties": {
+          "myth": { "type": "string", "maxLength": 60 },
+          "fact": { "type": "string", "maxLength": 175 }
+        }
+      }
+    },
+
+    "words": {
+      "type": "array", "minItems": 5, "maxItems": 5,
+      "description": "Exactly 5 phrasebook entries.",
+      "items": {
+        "type": "object",
+        "required": ["en", "jp", "say"],
+        "additionalProperties": false,
+        "properties": {
+          "en":  { "type": "string", "maxLength": 12, "description": "English meaning." },
+          "jp":  { "type": "string", "maxLength": 12, "description": "Word in local language." },
+          "say": { "type": "string", "maxLength": 18, "description": "Pronunciation guide." }
+        }
+      }
+    },
+
+    "photos": {
+      "type": "object",
+      "description": "4 Creative-Commons landscape photos, subject clearly centered. Self-host in production + attribute.",
+      "required": ["landmark", "animalA", "animalB", "hero"],
+      "additionalProperties": false,
+      "properties": {
+        "landmark": { "$ref": "#/$defs/photo" },
+        "animalA":  { "$ref": "#/$defs/photo" },
+        "animalB":  { "$ref": "#/$defs/photo" },
+        "hero":     { "$ref": "#/$defs/photo", "description": "Iconic transport/architecture/modern scene (right page, h=170)." }
+      }
+    }
+  },
+
+  "$defs": {
+    "photo": {
+      "type": "object",
+      "required": ["src", "alt", "caption", "credit"],
+      "additionalProperties": false,
+      "properties": {
+        "src":     { "type": "string", "description": "Self-hosted asset path. Landscape, ≥1600px long edge." },
+        "alt":     { "type": "string" },
+        "caption": { "type": "string", "maxLength": 90, "description": "Mono caption; lead with the SUBJECT in caps." },
+        "credit":  { "type": "string", "maxLength": 48, "description": "e.g. 'Photo · Wikimedia Commons · CC BY-SA'." }
+      }
+    }
+  }
+}

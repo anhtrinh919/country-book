@@ -1,0 +1,163 @@
+{
+  "name": "ESTONIA",
+  "nativeName": "Eesti",
+  "romaji": "EESTI",
+  "tagline": "Digital Baltic Gem",
+  "region": "Northern Europe",
+  "coords": "58.6°N, 25.0°E",
+  "fileNo": "042",
+  "langName": "Estonian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E8",
+    "dot": "#c8ccb8",
+    "ink": "#1e2218",
+    "faint": "#7a8070",
+    "line": "#d4d8c8",
+    "accent": "#0072CE",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ee.svg",
+    "title": "The Tricolour",
+    "note": "Blue, black & white — sky, soil, snow",
+    "keyColor": "#0072CE",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Estonia sits on the Baltic Sea — tiny but packed with surprises. It has 2,000+ islands, fairy-tale towns, and eerie bogs. It was first to hold online elections and today almost everything runs digitally. Singing festivals gather a quarter of the nation, and medieval Tallinn looks straight out of a storybook.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Tallinn",
+      "sub": "Pop. ~460,000 (2024 est.)"
+    },
+    {
+      "label": "People",
+      "value": "1.37 million",
+      "sub": "Statistics Estonia, 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Adopted 2011"
+    },
+    {
+      "label": "Language",
+      "value": "Estonian",
+      "sub": "Finno-Ugric family"
+    },
+    {
+      "label": "Land area",
+      "value": "45,339 km²",
+      "sub": "Slightly smaller than Denmark"
+    },
+    {
+      "label": "Top peak",
+      "value": "318 m",
+      "sub": "Suur Munamägi, SE Estonia"
+    }
+  ],
+  "islands": [
+    "Tallinn",
+    "Tartu",
+    "Narva",
+    "Pärnu",
+    "Saaremaa"
+  ],
+  "islandsLabel": "MAIN CITIES & PLACES:",
+  "sections": {
+    "geography": "Bogs, forests & 2,000 isles",
+    "animals": "Wolves, lynxes & white storks",
+    "culture": "Songs, saunas & e-everything",
+    "history": "Vikings, castles & digital age",
+    "wows": "Seven surprises about Estonia"
+  },
+  "geo": [
+    "Estonia is almost half forest — pines, birches and spruces stretch like a giant green blanket. Ancient peat bogs spread for miles, their dark water perfectly still. The flat coastline is fringed with more than 2,200 islands and thousands of glittering lakes.",
+    "The biggest island, Saaremaa, has a meteor crater lake called Kaali — a space rock punched it into the limestone 3,500 years ago. Winters are snowy and dark; summers burst with 19 hours of daylight and crowds flock to Pärnu's sandy beaches."
+  ],
+  "animals": [
+    "Estonia's forests shelter wolves, brown bears, lynxes and elk — big wild animals roaming freely. White-tailed eagles soar over coastal wetlands, and every spring thousands of cranes gather in the bogs during migration, filling the air with trumpeting calls.",
+    "White storks nest on rooftop poles in village after village — Estonians consider them lucky. The Baltic Sea brings harbour and grey seals bobbing near the islands. Ringed seals, once endangered here, are slowly recovering thanks to strict protection laws."
+  ],
+  "culture": [
+    "Estonians love singing — seriously. Every five years the Song Festival draws up to 100,000 performers; when 30,000 voices join together the sound carries for kilometres. This tradition helped Estonia hold onto its identity through decades of foreign rule.",
+    "Sauna is a national ritual, shared with family and friends. Cuisine leans on rye bread, smoked fish and wild berries. Estonia is a tech pioneer — Skype was built here and children learn to code from age seven in school."
+  ],
+  "history": [
+    "Estonia was ruled by Danes, Germans, Swedes and Russians over the centuries, yet Estonians held onto their language and songs every time. Tallinn's cone-topped towers were built by German merchants in the 13th century — the Old Town is a UNESCO World Heritage Site.",
+    "In 1991 Estonia broke free from the Soviet Union and immediately built a digital state. By 2005 it held the world's first legally-binding internet election. Today 'e-Residency' lets anyone on Earth start an Estonian company entirely online."
+  ],
+  "wows": [
+    "Estonia has more meteorite craters per km² than almost any other country on Earth.",
+    "Skype was built by Estonian engineers in Tallinn and launched in 2003, changing global communication.",
+    "Estonia held the world's first legally-binding national internet election in 2005.",
+    "Citizens can register a company online in minutes — government is almost fully digital.",
+    "The Estonian Song Festival is on UNESCO's Intangible Cultural Heritage of Humanity list.",
+    "More than half of Estonia is covered by forest — one of Europe's highest proportions.",
+    "In 1989, Estonians joined a 675 km human chain across three Baltic states to demand freedom."
+  ],
+  "myths": [
+    {
+      "myth": "Estonia is a Scandinavian country",
+      "fact": "Estonia is Baltic, not Scandinavian. Its language is related to Finnish and Hungarian — an entirely different family from Swedish or Norwegian."
+    },
+    {
+      "myth": "Estonia is cold and grey all year",
+      "fact": "Summers are warm and sunny with nearly 20 hours of daylight. July often reaches 25°C and the beach town of Pärnu buzzes with visitors all season."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Tere",
+      "say": "TEH-reh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Aitäh",
+      "say": "EYE-tah"
+    },
+    {
+      "en": "Please",
+      "jp": "Palun",
+      "say": "PAH-loon"
+    },
+    {
+      "en": "Yes",
+      "jp": "Jah",
+      "say": "yah"
+    },
+    {
+      "en": "Forest",
+      "jp": "Mets",
+      "say": "mets"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ee-hero.jpg",
+      "alt": "Panoramic view of Tallinn Old Town with medieval towers and red rooftops",
+      "caption": "TALLINN OLD TOWN — medieval towers & spires above the Baltic city",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ee-landmark.jpg",
+      "alt": "Kaali meteor crater lake on Saaremaa island Estonia",
+      "caption": "KAALI CRATER — a meteor punched this lake into Saaremaa 3,500 years ago",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ee-animalA.jpg",
+      "alt": "Eurasian lynx standing in a snowy forest",
+      "caption": "EURASIAN LYNX — Estonia's secretive forest hunter, rarely seen",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ee-animalB.jpg",
+      "alt": "White stork standing in a field",
+      "caption": "WHITE STORK — lucky symbol, nesting on rooftop poles across Estonia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

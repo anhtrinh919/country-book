@@ -1,0 +1,163 @@
+{
+  "name": "BHUTAN",
+  "nativeName": "འབྲུག",
+  "romaji": "DRUK YUL",
+  "tagline": "Land of the Thunder Dragon",
+  "region": "South Asia",
+  "coords": "27.5°N, 90.4°E",
+  "fileNo": "049",
+  "langName": "Dzongkha",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#1E1A14",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#FF7F00",
+    "accent2": "#E63329"
+  },
+  "flag": {
+    "assetPath": "/flags/bt.svg",
+    "title": "Bhutan",
+    "note": "Thunder dragon on saffron & crimson",
+    "keyColor": "#FF7F00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bhutan is a tiny kingdom hidden in the Himalayas between India and China. Its people call it Druk Yul — Land of the Thunder Dragon. Bhutan measures success not just by money but by happiness. It is famous for clifftop monasteries, clean rivers, and snow-capped peaks that touch the clouds.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Thimphu",
+      "sub": "Highest capital city in Asia"
+    },
+    {
+      "label": "People",
+      "value": "797,000",
+      "sub": "Estimate 2025, UN projection"
+    },
+    {
+      "label": "Money",
+      "value": "Ngultrum",
+      "sub": "Tied 1:1 to the Indian Rupee"
+    },
+    {
+      "label": "Language",
+      "value": "Dzongkha",
+      "sub": "Plus ~19 local languages spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "38,394 km²",
+      "sub": "About the size of Switzerland"
+    },
+    {
+      "label": "High point",
+      "value": "7,570 m",
+      "sub": "Gangkhar Puesum — unclimbed peak"
+    }
+  ],
+  "islands": [
+    "Thimphu",
+    "Paro",
+    "Punakha",
+    "Bumthang",
+    "Trongsa"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, dragons & clean air",
+    "animals": "Takins, tigers & red pandas",
+    "culture": "Happiness, archery & red rice",
+    "history": "Thunder kings & fortress forts",
+    "wows": "7 surprises about Bhutan"
+  },
+  "geo": [
+    "Bhutan is almost entirely mountains. The Himalayas stack up in the north — icy peaks above 7,000 m — while subtropical jungle grows in the warm southern valleys. Three rivers carve deep gorges, fed by melting glaciers year-round.",
+    "About 72% of Bhutan is covered in trees, making it one of the most forested nations on Earth. The country absorbs more carbon dioxide than it produces, making it officially carbon-negative."
+  ],
+  "animals": [
+    "Bhutan's national animal is the takin — a shaggy beast that looks like someone stitched a cow's body onto a goat's head. Legend says a Buddhist saint created it from the bones of both animals at a feast.",
+    "Snow leopards prowl the high peaks, while Bengal tigers have been camera-trapped at 4,000 m. Red pandas curl in bamboo forests, and the sacred black-necked crane winters each year in Phobjikha Valley."
+  ],
+  "culture": [
+    "Bhutan measures wellbeing by Gross National Happiness, balancing economy, environment, culture, and governance. Archery is the national sport — competitions are loud festivals with music, dancing, and cheerful teasing when opponents miss.",
+    "Men wear a knee-length robe called a gho; women wear the woven kira dress. Red rice and chilli cheese (ema datshi) are daily staples. Huge whitewashed dzongs serve as both government offices and monasteries."
+  ],
+  "history": [
+    "Bhutan was unified in the 1600s by monk-warrior Zhabdrung Ngawang Namgyal, who built fortress-dzongs to defend each valley. He created laws and dress codes still followed today. Bhutan was never colonised.",
+    "In 2008 Bhutan became a constitutional democracy, though the king remains deeply beloved. Television and internet only arrived in 1999. Tourism opened in 1974 with strict limits to protect culture and forests."
+  ],
+  "wows": [
+    "Bhutan is carbon-negative — its forests soak up far more CO₂ than the whole country produces.",
+    "Gangkhar Puesum is Earth's tallest unclimbed peak; Bhutan bans summit bids to respect mountain spirits.",
+    "TV and internet only switched on in 1999 — both launched on the same day, the king's coronation anniversary.",
+    "Gross National Happiness is written into Bhutan's constitution as the official measure of progress.",
+    "Thimphu is the only capital in the world without traffic lights — police direct every junction by hand.",
+    "Tigers have been photographed at 4,000 m altitude — higher than almost anywhere else on Earth.",
+    "Every building in Bhutan must follow traditional architecture by law — no glass towers allowed."
+  ],
+  "myths": [
+    {
+      "myth": "Bhutan is the happiest country on Earth",
+      "fact": "GNH is a policy tool measuring balance across four pillars. Bhutan ranks outside the top 90 in the UN World Happiness Report, which uses different measures."
+    },
+    {
+      "myth": "Bhutan is part of Nepal or Tibet",
+      "fact": "Bhutan is its own sovereign kingdom with its own language, royal family, and history — never ruled by Nepal, Tibet, or China."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Kuzu Zangpo",
+      "say": "KOO-zoo ZANG-po"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Kadrin Chhe",
+      "say": "KAH-drin CHAY"
+    },
+    {
+      "en": "Good",
+      "jp": "Legso",
+      "say": "LEG-so"
+    },
+    {
+      "en": "Rice",
+      "jp": "Dro",
+      "say": "DRO"
+    },
+    {
+      "en": "Dragon",
+      "jp": "Druk",
+      "say": "DROOK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bt-hero.jpg",
+      "alt": "Taktsang Monastery clinging to a sheer cliff above Paro Valley",
+      "caption": "TAKTSANG MONASTERY — 'Tiger's Nest' perches 900 m above Paro Valley",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bt-landmark.jpg",
+      "alt": "Punakha Dzong fortress-monastery at the river confluence",
+      "caption": "PUNAKHA DZONG — fortress-monastery where two sacred rivers meet",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bt-animalA.jpg",
+      "alt": "A takin with shaggy golden coat at the Thimphu preserve",
+      "caption": "TAKIN — Bhutan's shaggy national animal, found only in the Himalayas",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bt-animalB.jpg",
+      "alt": "Black-necked cranes in the Phobjikha Valley wetlands",
+      "caption": "BLACK-NECKED CRANE — sacred winter visitor to Phobjikha Valley",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

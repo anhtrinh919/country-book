@@ -1,0 +1,163 @@
+{
+  "name": "PARAGUAY",
+  "nativeName": "PY",
+  "romaji": "PARAGUAY",
+  "tagline": "Heart of South America",
+  "region": "Southern Cone, South America",
+  "coords": "23°S 58°W",
+  "fileNo": "079",
+  "langName": "Guaraní",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EED9",
+    "dot": "#CDBF9A",
+    "ink": "#28201A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#C0202E",
+    "accent2": "#1A3B8C"
+  },
+  "flag": {
+    "assetPath": "/flags/py.svg",
+    "title": "Tri-sided wonder",
+    "note": "Only flag with a unique design on each side",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tucked in the heart of South America, Paraguay has no sea but plenty of surprises. A river divides it: green farmland to the east, vast dry Chaco to the west. Almost everyone speaks two languages — Spanish and Guaraní — and shares cold herbal tea from the same cup. The colossal Itaipu Dam powers the whole country from water alone.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Asunción",
+      "sub": "On the Paraguay River since 1537"
+    },
+    {
+      "label": "People",
+      "value": "6.95 million",
+      "sub": "UN estimate 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Guaraní ₲",
+      "sub": "Named after the Guaraní people"
+    },
+    {
+      "label": "Language",
+      "value": "Both languages",
+      "sub": "Spanish & Guaraní both official"
+    },
+    {
+      "label": "Land area",
+      "value": "406,752 km²",
+      "sub": "Bigger than California"
+    },
+    {
+      "label": "High point",
+      "value": "Cerro Peró",
+      "sub": "842 m in the eastern hills"
+    }
+  ],
+  "islands": [
+    "Gran Chaco",
+    "Asunción",
+    "Cd. del Este",
+    "Encarnación",
+    "Concepción"
+  ],
+  "islandsLabel": "MAIN CITIES & REGIONS:",
+  "sections": {
+    "geography": "Two lands, one river",
+    "animals": "Wild things of the Chaco",
+    "culture": "Strings, sips & song",
+    "history": "Wars that shaped a nation",
+    "wows": "Paraguay's big surprises"
+  },
+  "geo": [
+    "The Paraguay River cuts the country in half. To the east lies the Oriental region — green, hilly, home to most people. Farmers grow soya beans on rich red soil; the Paraná River marks the border with Brazil and Argentina.",
+    "To the west sprawls the Gran Chaco — South America’s vast wild plain. Thorny forests and wetlands bake in fierce heat. It covers 60% of the land yet holds fewer people than a small town. The Pantanal wetlands touch the far north."
+  ],
+  "animals": [
+    "The giant anteater roams the Chaco on its knuckles, slurping 35,000 ants a day through a tube-like snout. Jaguars pad through the night and tapirs crash through riverside undergrowth near the rivers.",
+    "The capybara — world’s largest rodent, as big as a labrador — wallows happily in Paraguay’s wetlands. Over 500 bird species fill the air, including the brilliant hyacinth macaw and the towering jabiru stork."
+  ],
+  "culture": [
+    "Paraguay is one of the only countries where nearly everyone speaks an indigenous language daily. Guaraní rings out in markets, songs, and jokes. The Paraguayan harp — light and portable — plays at every celebration alongside guitar.",
+    "Sharing tereré (ice-cold yerba mate) is as important as a handshake. Friends pass the same gourd in a circle; UNESCO lists it as Intangible Heritage. Delicate lace called ñandutí, meaning ‘spider web’, is another beloved Paraguayan craft."
+  ],
+  "history": [
+    "Paraguay broke from Spain on 14 May 1811 without a shot fired. But the War of the Triple Alliance (1864–70) against Brazil, Argentina, and Uruguay was catastrophic: it killed roughly half the population and nearly 90% of adult men.",
+    "The country rebuilt, then beat Bolivia in the Chaco War (1932–35), winning most of the disputed wilderness. A long dictatorship under Stroessner (1954–89) ended peacefully; democracy has held ever since."
+  ],
+  "wows": [
+    "Paraguay’s flag is the only one worldwide with a different emblem each side — star on front, lion on back.",
+    "Itaipu Dam set a 2016 world record: 103 terawatt-hours of hydro power in a single year.",
+    "Landlocked but mighty: Paraguay has the largest navy of any country with no coastline.",
+    "Pistol duelling is technically still legal here — as long as both duelists are registered blood donors.",
+    "Paraguay set a Guinness record for the world’s largest barbecue, cooking for around 30,000 people.",
+    "About 90% of Paraguayans blend Spanish and Guaraní mid-sentence in a daily mix called Jopará.",
+    "Paraguay generates nearly 100% of its electricity from water, one of the cleanest grids on Earth."
+  ],
+  "myths": [
+    {
+      "myth": "Paraguay is just dry desert",
+      "fact": "The eastern half is lush with rolling hills and river valleys; only the western Chaco is arid — and even it floods into wetland life during the rains."
+    },
+    {
+      "myth": "Guaraní is a dying language",
+      "fact": "Guaraní thrives — spoken daily by over 90% of Paraguayans regardless of wealth or background, making it one of the healthiest indigenous languages anywhere."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Mba'éichapa",
+      "say": "mba-AY-ee-cha-pa"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Aguyje",
+      "say": "ah-goo-YEH"
+    },
+    {
+      "en": "Water",
+      "jp": "Y",
+      "say": "ü (short)"
+    },
+    {
+      "en": "Friend",
+      "jp": "Chera'a",
+      "say": "che-RA-a"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Hetereí",
+      "say": "he-teh-reh-EE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/py-hero.jpg",
+      "alt": "Aerial view of Itaipu hydroelectric dam on the Paraná River",
+      "caption": "ITAIPU DAM — one of the world’s mightiest power stations, shared with Brazil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/py-landmark.jpg",
+      "alt": "General view of the Jesuit ruins at Trinidad, Paraguay",
+      "caption": "TRINIDAD RUINS — UNESCO Jesuit mission from the 1700s, Itapúa Dept.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/py-animalA.jpg",
+      "alt": "Capybara, the world’s largest rodent, resting outdoors",
+      "caption": "CAPYBARA — world’s biggest rodent, right at home in Paraguay’s wetlands",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/py-animalB.jpg",
+      "alt": "Giant anteater walking through open grassland",
+      "caption": "GIANT ANTEATER — eats 35,000 ants a day across the Gran Chaco plains",
+      "credit": "Wikimedia Commons / panoramio"
+    }
+  }
+}

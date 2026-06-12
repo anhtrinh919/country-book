@@ -1,0 +1,163 @@
+{
+  "name": "PHILIPPINES",
+  "nativeName": "PH",
+  "romaji": "PILIPINAS",
+  "tagline": "7,641 islands of wonder",
+  "region": "Southeast Asia",
+  "coords": "12.88°N, 121.77°E",
+  "fileNo": "042",
+  "langName": "Filipino",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#252018",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#0038A8",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/ph.svg",
+    "title": "Philippines Flag",
+    "note": "Blue, red, white — sun & three stars",
+    "keyColor": "#0038A8",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "The Philippines is a giant jigsaw of 7,641 islands in the western Pacific. Volcanoes rumble, rice terraces climb misty mountains, and coral reefs hold more fish species than almost anywhere on Earth. Filipinos are known for warm smiles, and their mix of Malay, Spanish, and American history makes the country unlike any other place in Asia.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Manila",
+      "sub": "On Luzon's Manila Bay"
+    },
+    {
+      "label": "People",
+      "value": "112.7 million",
+      "sub": "2024 Census — 8th in Asia"
+    },
+    {
+      "label": "Money",
+      "value": "Peso (₱)",
+      "sub": "Code PHP"
+    },
+    {
+      "label": "Language",
+      "value": "Filipino/Eng",
+      "sub": "Both are official languages"
+    },
+    {
+      "label": "Land area",
+      "value": "300,000 km²",
+      "sub": "Roughly the size of Italy"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mt Apo 2,954 m",
+      "sub": "Dormant volcano, Mindanao"
+    }
+  ],
+  "islands": [
+    "Luzon",
+    "Visayas",
+    "Mindanao",
+    "Palawan",
+    "Cebu"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "A land of islands & fire",
+    "animals": "Creatures found nowhere else",
+    "culture": "Fiestas, food & family",
+    "history": "Explorers, heroes & freedom",
+    "wows": "Wait — that's really true?"
+  },
+  "geo": [
+    "The Philippines sits on the Pacific Ring of Fire with over 20 active volcanoes. Mayon Volcano has an almost perfect cone, and tiny Taal sits inside a lake inside another volcano.",
+    "Palawan's Puerto Princesa Underground River is a cathedral-like cave you paddle through for kilometres. Bohol's Chocolate Hills — over 1,260 smooth brown mounds — look like a giant's chocolate box."
+  ],
+  "animals": [
+    "The Philippine eagle has a wingspan as wide as a classroom door. Tiny tarsiers — palm-sized primates with eyes bigger than their brains — cling to trees on Bohol.",
+    "Whale sharks visit Tubbataha Reef each spring. The tamaraw, a dwarf water buffalo, and the Visayan warty pig live nowhere else on Earth."
+  ],
+  "culture": [
+    "Filipinos celebrate hundreds of fiestas yearly — at Ati-Atihan, dancers paint their faces and drum through the streets for days. The country has more Catholic churches per person than almost anywhere in Asia.",
+    "Adobo — meat slow-cooked in vinegar, soy sauce, and garlic — is the beloved national dish. Karaoke is taken very seriously; singing together is how families show love."
+  ],
+  "history": [
+    "Named after King Philip II of Spain, who never visited, the Philippines was ruled by Spain for 333 years from 1565. The USA took over in 1898, building English schools across every island.",
+    "José Rizal's novels sparked revolution; he was executed in 1896. Independence came in 1946. In 1986 the peaceful People Power Revolution — millions marching with flowers — toppled a dictator without firing a shot."
+  ],
+  "wows": [
+    "The Philippines has 7,641 islands but fewer than 2,000 of them even have names.",
+    "Filipino borrows words from Spanish, English, Malay, and Chinese all at once.",
+    "The Chocolate Hills turn brown each dry season — over 1,260 mounds look like real chocolate.",
+    "Killing a Philippine eagle carries up to 12 years in prison — the same as many violent crimes.",
+    "Jeepneys were made by decorating US Army jeeps left behind after World War II.",
+    "Christmas officially begins in September — four full months of carols and lights.",
+    "Taal is a volcano on an island in a lake on an island — four layers nested inside each other."
+  ],
+  "myths": [
+    {
+      "myth": "\"The Philippines is always hot\"",
+      "fact": "Baguio City sits at 1,500 m and can drop to 9 °C in January — locals wear jumpers and grow strawberries there."
+    },
+    {
+      "myth": "\"Filipinos all speak one language\"",
+      "fact": "Over 170 distinct languages are spoken across the islands — Filipino and English are the national glue, but each region has its own tongue."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Kamusta",
+      "say": "ka-MOOS-ta"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Salamat",
+      "say": "sa-LA-mat"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Masarap!",
+      "say": "ma-SA-rap"
+    },
+    {
+      "en": "Friend",
+      "jp": "Kaibigan",
+      "say": "kai-BEE-gan"
+    },
+    {
+      "en": "Let's eat!",
+      "jp": "Kain na!",
+      "say": "KAH-in na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ph-hero.jpg",
+      "alt": "Colourfully decorated Filipino jeepney on a Manila street",
+      "caption": "JEEPNEY — the Philippines' iconic wildly painted public bus",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ph-landmark.jpg",
+      "alt": "Mayon Volcano with its near-perfect cone above green fields",
+      "caption": "MAYON VOLCANO — the world's most perfectly shaped volcanic cone",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ph-animalA.jpg",
+      "alt": "Philippine eagle close-up showing brown and white plumage",
+      "caption": "PHILIPPINE EAGLE — one of the largest, rarest eagles on Earth",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ph-animalB.jpg",
+      "alt": "A tarsier clinging to a branch with enormous round eyes",
+      "caption": "PHILIPPINE TARSIER — eyes bigger than its brain, only here",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

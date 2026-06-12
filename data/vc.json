@@ -1,0 +1,163 @@
+{
+  "name": "ST VINCENT",
+  "nativeName": "VC",
+  "romaji": "SAINT VINCENT",
+  "tagline": "Gems of the Caribbean",
+  "region": "Eastern Caribbean",
+  "coords": "13.2°N 61.2°W",
+  "fileNo": "vc",
+  "langName": "Creole English",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c9bfa8",
+    "ink": "#252018",
+    "faint": "#8a7d60",
+    "line": "#dbd4c0",
+    "accent": "#2B7A3B",
+    "accent2": "#F5C518"
+  },
+  "flag": {
+    "assetPath": "/flags/vc.svg",
+    "title": "The Gems Flag",
+    "note": "Three green diamonds in a V on yellow",
+    "keyColor": "#2B7A3B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saint Vincent and the Grenadines is a chain of 32 volcanic islands where rainforest meets turquoise lagoons. Most people live on Saint Vincent, home to a rumbling volcano. The Grenadines include celebrity Mustique and the Tobago Cays, where sea turtles glide past coral. These \"Gems of the Caribbean\" are tiny but overflowing with life.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kingstown",
+      "sub": "South coast of St Vincent"
+    },
+    {
+      "label": "People",
+      "value": "~101,000",
+      "sub": "Est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "EC Dollar",
+      "sub": "Pegged to USD"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Official & everyday"
+    },
+    {
+      "label": "Land area",
+      "value": "389 km²",
+      "sub": "Smaller than Barbados"
+    },
+    {
+      "label": "Top peak",
+      "value": "1,235 m",
+      "sub": "La Soufrière volcano"
+    }
+  ],
+  "islands": [
+    "St Vincent",
+    "Bequia",
+    "Mustique",
+    "Canouan",
+    "Union Island"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Volcanoes & coral lagoons",
+    "animals": "Parrots, turtles & rare geckos",
+    "culture": "Carnival drums & breadfruit",
+    "history": "Warriors, exiles & freedom",
+    "wows": "Seven gem-sized surprises"
+  },
+  "geo": [
+    "Saint Vincent is volcanic, draped in dense rainforest. La Soufrière last erupted in April 2021, coating the island in ash and forcing 16,000 people to flee. Lush valleys meet black-sand beaches on the windward coast and calmer golden bays to the leeward.",
+    "The Grenadines scatter 90 km southward. The Tobago Cays — five tiny uninhabited islets — sit inside a horseshoe coral reef sheltering one of the clearest lagoons in the world, visited by sailors and sea turtles alike every year."
+  ],
+  "animals": [
+    "The St Vincent Parrot is the national bird — a blaze of bronze, violet and blue found only here. Fewer than 1,000 survive in the wild, nesting in highland forest far from settlements. Hawksbill sea turtles nest on beaches across the islands each June through October.",
+    "The Union Island gecko, discovered only in 2005, is barely the size of a thumb and lives nowhere else on Earth. Coral reefs teem with reef fish, eagle rays, and whale sharks drifting through the Grenadines on seasonal visits."
+  ],
+  "culture": [
+    "Vincy Mas — the national carnival held in late June and July — fills Kingstown with steel pan, soca, and elaborate costumes for twelve days. J'ouvert revellers smear each other in paint and molasses before dawn in a tradition going back generations.",
+    "The national dish is fried jackfish with roast breadfruit cooked over charcoal. Kingstown's botanical garden, founded in 1765, is among the oldest in the Western Hemisphere and grows a breadfruit tree brought by Captain Bligh after the Bounty mutiny."
+  ],
+  "history": [
+    "The Garifuna — descendants of Caribs and shipwrecked Africans — fiercely resisted the British. Chief Joseph Chatoyer forced a peace treaty in 1773, the first Britain signed with non-white people in the Caribbean. He died in 1795 and is today the nation's sole National Hero.",
+    "After Chatoyer's defeat, nearly 5,000 Garifuna were exiled to Honduras in 1797. Their descendants still speak Garifuna in Central America today. Saint Vincent and the Grenadines gained full independence on 27 October 1979."
+  ],
+  "wows": [
+    "SVG grows about 95% of the world's arrowroot, once used by Caribs to treat arrow wounds.",
+    "Pirates of the Caribbean's Port Royal was built at Wallilabou Bay — the props are still there.",
+    "Mustique was bought in 1958 for $67,000; Princess Margaret received a plot as a wedding gift.",
+    "La Soufrière has erupted 8 times since 1718; the 2021 blast evacuated 16,000 people in one day.",
+    "The Union Island gecko was unknown to science until 2005 and lives only on one tiny island.",
+    "Bequia holds one of the world's last legal hand-harpoon whale hunts under a cultural IWC quota.",
+    "Kingstown's botanic garden (est. 1765) is one of the oldest in the entire Western Hemisphere."
+  ],
+  "myths": [
+    {
+      "myth": "\"Too small to be interesting\"",
+      "fact": "SVG packs an active volcano, 170+ bird species, world-leading arrowroot, a Pirates of the Caribbean film set, and superb coral reefs into just 389 km²."
+    },
+    {
+      "myth": "\"The Grenadines are one island\"",
+      "fact": "They are 31 islands, islets and cays spread 90 km across the sea — each different, from glitzy Mustique to wild, turtle-rich Union Island."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Wha happenin",
+      "say": "wha-HAP-en-in"
+    },
+    {
+      "en": "Good food!",
+      "jp": "It nice!",
+      "say": "it NICE"
+    },
+    {
+      "en": "Friend",
+      "jp": "Pardner",
+      "say": "PAHD-nah"
+    },
+    {
+      "en": "Hanging out",
+      "jp": "Liming",
+      "say": "LYE-ming"
+    },
+    {
+      "en": "Really?",
+      "jp": "For real?",
+      "say": "fuh REEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vc-hero.jpg",
+      "alt": "Kingstown harbour with colourful boats and green hillside",
+      "caption": "KINGSTOWN HARBOUR — the busy capital nestled at the foot of volcanic hills",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/vc-landmark.jpg",
+      "alt": "La Soufrière volcano summit crater with steam venting",
+      "caption": "LA SOUFRIÈRE — Saint Vincent's active volcano towers at 1,235 m",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vc-animalA.jpg",
+      "alt": "St Vincent Parrot colourful plumage green bronze blue and yellow",
+      "caption": "ST VINCENT PARROT — the national bird, found nowhere else on Earth",
+      "credit": "Wikimedia Commons / Drew Avery"
+    },
+    "animalB": {
+      "src": "/photos/vc-animalB.jpg",
+      "alt": "Tobago Cays aerial turquoise lagoon coral reef sea turtles",
+      "caption": "TOBAGO CAYS — five tiny islets inside a reef, home to green sea turtles",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

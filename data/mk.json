@@ -1,0 +1,163 @@
+{
+  "name": "N. MACEDONIA",
+  "nativeName": "МК",
+  "romaji": "MAKEDONIJA",
+  "tagline": "Sun, lakes & ancient roads",
+  "region": "Balkans, Southeast Europe",
+  "coords": "41.6°N, 21.7°E",
+  "fileNo": "082",
+  "langName": "Macedonian",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA3",
+    "ink": "#241F1A",
+    "faint": "#8A7455",
+    "line": "#DDD0B5",
+    "accent": "#CE2028",
+    "accent2": "#F0A500"
+  },
+  "flag": {
+    "assetPath": "/flags/mk.svg",
+    "title": "Golden Sun",
+    "note": "Red field, golden sun with 8 rays",
+    "keyColor": "#CE2028",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "North Macedonia is a small Balkan country with a huge story: home to one of Europe's oldest lakes, the Cyrillic alphabet was shaped here, and its highest peak is shared with Albania. Ancient roads, Byzantine frescoes, and Ottoman bazaars all converge here — crowned by a golden sun on a red flag that blazes across the whole Balkan sky.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Skopje",
+      "sub": "On the Vardar River"
+    },
+    {
+      "label": "People",
+      "value": "~1.82 million",
+      "sub": "End-2024, State Stat. Office"
+    },
+    {
+      "label": "Money",
+      "value": "Denar (MKD)",
+      "sub": "100 deni = 1 denar"
+    },
+    {
+      "label": "Language",
+      "value": "Macedonian",
+      "sub": "Cyrillic script"
+    },
+    {
+      "label": "Land area",
+      "value": "25,436 km²",
+      "sub": "Smaller than Albania"
+    },
+    {
+      "label": "Top peak",
+      "value": "Golem Korab",
+      "sub": "2,764 m — shared with Albania"
+    }
+  ],
+  "islands": [
+    "Skopje",
+    "Ohrid",
+    "Bitola",
+    "Tetovo",
+    "Štip"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, lakes & old roads",
+    "animals": "Wild guardians of the Balkans",
+    "culture": "Feasts, frescoes & festivals",
+    "history": "Kingdoms, empires & a new name",
+    "wows": "Macedonia's big surprises"
+  },
+  "geo": [
+    "North Macedonia is a landlocked patchwork of mountains and river valleys. The Vardar River cuts through the middle, draining south toward the Aegean. Three national parks protect rugged ridges, and the western border climbs to Golem Korab at 2,764 m — the shared high point of two nations.",
+    "In the southwest, Lake Ohrid gleams with up to 22 m of visibility — crystal clarity fed by underground springs. Lake Prespa sits even higher at 850 m. Despite having no coast, the far south feels almost Mediterranean, warmed by Aegean breezes just 60 km away."
+  ],
+  "animals": [
+    "The Balkan lynx — a critically rare subspecies with fewer than 50 individuals left in the wild — haunts the mountain forests and is the country's wildlife emblem, even appearing on the 5-denar coin. Brown bears, grey wolves, and golden eagles share the same steep wilderness.",
+    "Lake Ohrid is an evolutionary wonder: 2–3 million years old, with several fish species found nowhere else on Earth. The most prized is the Ohrid trout, famous for its rosy flesh — so rare and delicious it is strictly protected today."
+  ],
+  "culture": [
+    "Macedonian food is a joyful collision of Balkan, Ottoman, and Mediterranean flavours. The national dish is tavche gravche — baked white beans with paprika in a clay pot, eaten every Friday. Ajvar, a smoky red-pepper relish made in huge autumn batches, is spread on everything.",
+    "Folk dancers in embroidered costumes perform the oro chain dance at every village celebration. The Tikveš wine region has produced wine for over 2,500 years, warmed by Aegean breezes. Tikveš winery, founded 1885, now ships over 15 million bottles a year."
+  ],
+  "history": [
+    "This small land straddles ancient crossroads. Philip II and Alexander the Great built their empire from here in the 4th century BC; the Roman Via Egnatia later cut straight through en route to Constantinople. Roman coins and forts still surface in farmers' fields.",
+    "Slavic settlers arrived in the 6th–7th centuries. Saint Clement founded the Ohrid Literary School in the 880s, where Cyrillic was developed. After Ottoman rule, independence from Yugoslavia came in 1991. A 2019 agreement with Greece made 'North Macedonia' official."
+  ],
+  "wows": [
+    "Lake Ohrid is up to 3 million years old — one of the world's truly ancient lakes.",
+    "Golem Korab is the highest point of both North Macedonia AND Albania — one of the rarest feats in Europe.",
+    "The Cyrillic alphabet — used by 300 million people — was shaped at Ohrid's Literary School in the 9th century.",
+    "Astronomers named a lake on Saturn's moon Titan 'Ohrid Lacus' in honour of this ancient lake.",
+    "Korab Falls drops over 130 m in spring — the tallest waterfall in the country, fed by snowmelt.",
+    "Tikveš winery, founded 1885, ships 15 million bottles a year from vines over 2,500 years old.",
+    "The Ottoman Stone Bridge in Skopje, built in the 15th century, is still a working pedestrian crossing today."
+  ],
+  "myths": [
+    {
+      "myth": "Alexander the Great was Macedonian like today",
+      "fact": "Today's Macedonians are Slavic; Slavic peoples arrived ~1,000 years after Alexander's death. Ancient Macedon and the modern republic share geography, not bloodline."
+    },
+    {
+      "myth": "It's just a tiny landlocked backwater",
+      "fact": "Lake Ohrid hosts hundreds of species found nowhere else, and the Ohrid region has been a UNESCO World Heritage Site since 1979."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Здраво",
+      "say": "ZDRA-vo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Благодарам",
+      "say": "bla-GO-da-ram"
+    },
+    {
+      "en": "Please",
+      "jp": "Ве молам",
+      "say": "VEH mo-lam"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Довиѓање",
+      "say": "do-VEE-jahn-ye"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Вкусно!",
+      "say": "VKOOS-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mk-hero.jpg",
+      "alt": "The historic Stone Bridge spanning the Vardar River in Skopje",
+      "caption": "STONE BRIDGE, SKOPJE — 15th-century Ottoman crossing still in use",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/mk-landmark.jpg",
+      "alt": "Church of Saint John at Kaneo perched on cliffs above Lake Ohrid",
+      "caption": "ST JOHN AT KANEO — Byzantine church on the cliffs of Lake Ohrid",
+      "credit": "Diego Delso / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/mk-animalA.jpg",
+      "alt": "Balkan lynx resting in mountain forest",
+      "caption": "BALKAN LYNX — fewer than 50 remain in the wild; on the 5-denar coin",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/mk-animalB.jpg",
+      "alt": "Ohrid trout with iridescent scales in clear water",
+      "caption": "OHRID TROUT — endemic to Lake Ohrid, found nowhere else on Earth",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

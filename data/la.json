@@ -1,0 +1,163 @@
+{
+  "name": "LAOS",
+  "nativeName": "ລາວ",
+  "romaji": "LAO PDR",
+  "tagline": "Land of a Million Elephants",
+  "region": "Southeast Asia",
+  "coords": "18°N 103°E",
+  "fileNo": "076",
+  "langName": "Lao",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EAD8",
+    "dot": "#C9B898",
+    "ink": "#221E18",
+    "faint": "#7D6E52",
+    "line": "#DACBB0",
+    "accent": "#CE1126",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/la.svg",
+    "title": "Flag of Laos",
+    "note": "Red, blue, red — white disc for unity",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Laos is a forested kingdom tucked between six neighbours in Southeast Asia — the only landlocked country in the region. The Mekong River flows along its western edge, giving life to rice paddies and ancient temple towns. Monks collect alms at dawn, giant stone jars sit on misty plateaus, and wild elephants wade through jungle rivers.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Vientiane",
+      "sub": "On the Mekong River"
+    },
+    {
+      "label": "People",
+      "value": "7.8 million",
+      "sub": "UN est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Lao Kip",
+      "sub": "LAK — notes only, no coins"
+    },
+    {
+      "label": "Language",
+      "value": "Lao",
+      "sub": "Written in a curly script"
+    },
+    {
+      "label": "Area",
+      "value": "236,800 km²",
+      "sub": "A bit bigger than the UK"
+    },
+    {
+      "label": "High point",
+      "value": "Phu Bia 2,819m",
+      "sub": "Xaisomboun Province"
+    }
+  ],
+  "islands": [
+    "Vientiane",
+    "L. Prabang",
+    "Pakse",
+    "Savannakhet",
+    "Phonsavan"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rivers, jungles & plateaus",
+    "animals": "Elephants, bears & river gods",
+    "culture": "Monks, rice & festivals",
+    "history": "Kingdoms, wars & bombs",
+    "wows": "Seven surprising facts"
+  },
+  "geo": [
+    "Nearly three-quarters of Laos is steep mountain and thick jungle. The cool Bolaven Plateau is famous for coffee and waterfalls — at Kuang Si, water tumbles over white limestone into pools of brilliant turquoise.",
+    "The Mekong runs 1,835 km along the western border. Despite being landlocked, southern Laos holds Si Phan Don — the 'Four Thousand Islands' — a maze of river islands where you can watch the current drift past from a hammock."
+  ],
+  "animals": [
+    "Laos was called the Land of a Million Elephants, and Asian elephants still roam its forests — around 700 remain. At Tad Lo river, elephants wade through the shallows at golden hour. Moon bears, clouded leopards, and the unicorn-like saola (discovered 1992) hide in the Annamite mountains.",
+    "The Mekong held Irrawaddy dolphins — round-headed, sacred freshwater mammals — but the last one in Laos died in 2022. Giant Mekong catfish, among the world's largest freshwater fish at up to 300 kg, still lurk in the deep river pools."
+  ],
+  "culture": [
+    "Laotians eat more sticky rice per person than any nation on Earth — about 171 kg each year. Meals are shared communally, with fish, herbs, and papaya salad called som tam alongside rice rolled into little balls.",
+    "Buddhism shapes every day. In Luang Prabang, hundreds of saffron-robed monks file silently through the streets at sunrise to collect rice — a ritual called Tak Bat. Festivals mark the seasons, from the Rocket Festival to candlelit Boun That Luang in November."
+  ],
+  "history": [
+    "The kingdom of Lan Xang — Million Elephants — was founded in 1353 and once stretched from the Yunnan border to Cambodia. Luang Prabang was its gilded capital, and the three-headed elephant symbol lived in royal flags for 600 years.",
+    "France colonised Laos in 1893. After independence in 1953, Laos was drawn into the Vietnam War. Between 1964–73, the US secretly dropped over two million tonnes of bombs. One third never exploded; UXO still injures people today."
+  ],
+  "wows": [
+    "Laos is Southeast Asia's only landlocked country — not one centimetre of coastline.",
+    "It is the most bombed country per capita in history: over two million tonnes of bombs fell 1964–73.",
+    "The Plain of Jars: thousands of stone vessels up to 14 tonnes, over 2,500 years old — origin still debated.",
+    "Laotians eat an average of 171 kg of sticky rice per person each year — a world record.",
+    "The saola, found in 1992, is so rare that no scientist has ever seen a live one in the wild.",
+    "Si Phan Don means 'Four Thousand Islands' — a landlocked nation richer in islands than many sea countries.",
+    "Pha That Luang in Vientiane is clad in real gold and appears on every Lao banknote."
+  ],
+  "myths": [
+    {
+      "myth": "Laos is always hot and tropical",
+      "fact": "Highland towns like Phonsavan drop near freezing in winter, and the Bolaven Plateau is cool enough to grow strawberries year-round."
+    },
+    {
+      "myth": "The Plain of Jars is alien-made",
+      "fact": "The jars date to around 500 BC–AD 500 and were almost certainly used for funerary rituals by early Bronze Age peoples — remarkable human work."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "ສະບາຍດີ",
+      "say": "sa-bai-dee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "ຂໍຂອບໃຈ",
+      "say": "khob chai"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "ແຊບ",
+      "say": "saep"
+    },
+    {
+      "en": "River",
+      "jp": "ແມ່ນ້ຳ",
+      "say": "mae nam"
+    },
+    {
+      "en": "Elephant",
+      "jp": "ຊ້າງ",
+      "say": "saang"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/la-landmark.jpg",
+      "alt": "Golden Pha That Luang stupa in Vientiane, Laos",
+      "caption": "PHA THAT LUANG — Vientiane's gold-clad national stupa, built 1566",
+      "credit": "shankar s. / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/la-animalA.jpg",
+      "alt": "Asian elephant wading through Tad Lo river at golden hour, Bolaven Plateau, Laos",
+      "caption": "ASIAN ELEPHANT — wading the Tad Lo river at golden hour, Bolaven Plateau",
+      "credit": "Basile Morin / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/la-animalB.jpg",
+      "alt": "Kuang Si Falls cascading into a turquoise pool, Luang Prabang, Laos",
+      "caption": "KUANG SI FALLS — turquoise tiered waterfall near Luang Prabang",
+      "credit": "Basile Morin / CC BY-SA 4.0"
+    },
+    "hero": {
+      "src": "/photos/la-hero.jpg",
+      "alt": "Buddhist monks in saffron robes receiving alms at dawn in Luang Prabang, Laos",
+      "caption": "TAK BAT — saffron-robed monks collect morning alms at dawn, Luang Prabang",
+      "credit": "Christophe95 / CC BY-SA 4.0"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "KYRGYZSTAN",
+  "nativeName": "КР",
+  "romaji": "KYRGYZSTAN",
+  "tagline": "Land of Eagles & Sky",
+  "region": "Central Asia",
+  "coords": "41.2°N, 74.7°E",
+  "fileNo": "KG",
+  "langName": "Kyrgyz",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C9BA9B",
+    "ink": "#1E1A15",
+    "faint": "#7D7055",
+    "line": "#DDD0B0",
+    "accent": "#E8102A",
+    "accent2": "#FFD700"
+  },
+  "flag": {
+    "assetPath": "/flags/kg.svg",
+    "title": "Flag of Kyrgyzstan",
+    "note": "Red field, golden sun with yurt crown",
+    "keyColor": "#E8102A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kyrgyzstan is a tiny landlocked country deep in Central Asia, almost entirely made of mountains. Snow-capped peaks stretch in every direction, and nomadic herders still ride horses across vast grassy valleys. One of Earth's most dramatic landscapes — and one of its best-kept secrets.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bishkek",
+      "sub": "Largest city; pop. ~1.2 million"
+    },
+    {
+      "label": "People",
+      "value": "7.2 million",
+      "sub": "2024 est. — mostly Kyrgyz"
+    },
+    {
+      "label": "Money",
+      "value": "Som (KGS)",
+      "sub": "1 USD ≈ 87 som (2024)"
+    },
+    {
+      "label": "Language",
+      "value": "Kyrgyz/Russian",
+      "sub": "Both are official languages"
+    },
+    {
+      "label": "Land area",
+      "value": "199,951 km²",
+      "sub": "Slightly smaller than Belarus"
+    },
+    {
+      "label": "High point",
+      "value": "7,439 m",
+      "sub": "Jengish Chokusu, Chinese border"
+    }
+  ],
+  "islands": [
+    "Bishkek",
+    "Osh",
+    "Jalal-Abad",
+    "Karakol",
+    "Naryn"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, lakes & sky",
+    "animals": "Eagles, horses & leopards",
+    "culture": "Yurts, felt & epic tales",
+    "history": "Nomads, Silk Road & freedom",
+    "wows": "Seven surprises"
+  },
+  "geo": [
+    "About 90% of Kyrgyzstan is mountains — mostly the mighty Tian Shan range, meaning \"Heavenly Mountains.\" Valleys between them fill with summer meadows where families set up round felt tents called yurts, just as their ancestors did a thousand years ago.",
+    "The jewel is Issyk-Kul, the world's second-largest alpine lake. It never freezes, because natural salts act as anti-freeze. On clear days you can see snow peaks perfectly reflected in its brilliant blue surface."
+  ],
+  "animals": [
+    "The snow leopard prowls Kyrgyzstan's high peaks — around 550 live here, making it one of the best countries on Earth to protect them. Golden eagles are trained by skilled hunters, a partnership over 2,000 years old still practised today.",
+    "Wild Przewalski's horses once roamed these steppes; their domestic cousins are still central to Kyrgyz life. Kumiss — fermented mare's milk — is the national drink. The Marco Polo argali, world's largest wild sheep, grazes the high Pamir plateau."
+  ],
+  "culture": [
+    "Kyrgyz culture revolves around the yurt — a portable felt tent assembled in under an hour. The flag shows a top-down view of the yurt's crown (tunduk) inside a golden sun. Felt-making is UNESCO-listed intangible heritage.",
+    "The national epic Manas is 20 times longer than the Iliad and Odyssey combined. Storytellers called manaschi recite it for hours from memory. The World Nomad Games — hosted in Kyrgyzstan — features ancient sports like kok-boru, a horse-mounted game using a goat carcass."
+  ],
+  "history": [
+    "Kyrgyz tribes roamed Central Asia for over 2,000 years. The ancient Silk Road passed through these mountains, carrying Chinese silk and Persian spices. In the 13th century Genghis Khan's Mongol empire swept across the region, absorbing the Kyrgyz clans.",
+    "Russia absorbed Kyrgyzstan in the 1860s. When the Soviet Union collapsed in 1991, independence was declared on 31 August. Kyrgyzstan has since held relatively free elections, earning a reputation as Central Asia's most open democracy."
+  ],
+  "wows": [
+    "Issyk-Kul never freezes in winter; mineral salts in the water act as natural anti-freeze.",
+    "The epic poem Manas tops 500,000 lines — the longest epic poem in the world.",
+    "Kyrgyzstan has the world's second-highest average elevation — only the Tibetan Plateau sits higher overall.",
+    "Eagle hunters train golden eagles from chicks — a 2,000-year-old tradition still alive today.",
+    "The flag's sun has exactly 40 rays — one for each ancient tribe that Manas united to form the Kyrgyz nation.",
+    "The World Nomad Games, invented here in 2014, are like the Olympics for horse culture.",
+    "Kyrgyzstan shelters over 550 snow leopards — roughly 10% of the entire world population."
+  ],
+  "myths": [
+    {
+      "myth": "Kyrgyzstan is in the Middle East",
+      "fact": "It sits firmly in Central Asia, bordering China to the east and Kazakhstan to the north — closer to Beijing than to Tehran."
+    },
+    {
+      "myth": "Nomads live in yurts all year round",
+      "fact": "Most Kyrgyz live in modern houses; yurts are used seasonally on summer mountain pastures and at festivals."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Саламатсызбы",
+      "say": "sa-la-MAT-seez-bee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Рахмат",
+      "say": "rah-MAHT"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ооба",
+      "say": "OH-ba"
+    },
+    {
+      "en": "Horse",
+      "jp": "Жылкы",
+      "say": "ZHIL-kuh"
+    },
+    {
+      "en": "Mountain",
+      "jp": "Тоо",
+      "say": "TOH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kg-hero.jpg",
+      "alt": "Ala-Too Square in central Bishkek with mountains in background",
+      "caption": "ALA-TOO SQUARE — Bishkek's grand plaza framed by snowy Tian Shan peaks",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kg-landmark.jpg",
+      "alt": "Issyk-Kul alpine lake panorama with mountains",
+      "caption": "ISSYK-KUL — Central Asia's warm alpine lake ringed by snow-capped peaks",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kg-animalA.jpg",
+      "alt": "Snow leopard resting on a rock",
+      "caption": "SNOW LEOPARD — Kyrgyzstan shelters ~550 of these rare mountain cats",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kg-animalB.jpg",
+      "alt": "Kyrgyz eagle hunter on horseback with golden eagle on arm",
+      "caption": "EAGLE HUNTER — a berkutchi with his trained golden eagle, a 2,000-year tradition",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

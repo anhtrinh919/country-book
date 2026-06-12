@@ -1,0 +1,163 @@
+{
+  "name": "TURKEY",
+  "nativeName": "TR",
+  "romaji": "TÜRKİYE",
+  "tagline": "Where East Meets West",
+  "region": "Southeast Europe / West Asia",
+  "coords": "39°N 35°E",
+  "fileNo": "042",
+  "langName": "Turkish",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CCBBA0",
+    "ink": "#27201A",
+    "faint": "#8A7255",
+    "line": "#DDD0BA",
+    "accent": "#E30A17",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/tr.svg",
+    "title": "The Red Banner",
+    "note": "Red with a white crescent & star",
+    "keyColor": "#E30A17",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Turkey is a giant bridge — literally. Istanbul sits on two continents, one foot in Europe and the other in Asia. Ringed by four seas, Turkey has sun-baked deserts, soaring mountains, and a cave city where people once lived underground. It gave the world tulips, coffee houses, and some of the finest carpets ever woven.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Ankara",
+      "sub": "Central Anatolian plateau"
+    },
+    {
+      "label": "People",
+      "value": "85.3 million",
+      "sub": "est. 2023, TurkStat"
+    },
+    {
+      "label": "Money",
+      "value": "Lira (TRY)",
+      "sub": "₺ — Turkish lira"
+    },
+    {
+      "label": "Language",
+      "value": "Turkish",
+      "sub": "Spoken by ~85% of people"
+    },
+    {
+      "label": "Land area",
+      "value": "783,562 km²",
+      "sub": "Bigger than Texas and France"
+    },
+    {
+      "label": "Top peak",
+      "value": "Ararat 5,137m",
+      "sub": "Legendary home of Noah's Ark"
+    }
+  ],
+  "islands": [
+    "Istanbul",
+    "Ankara",
+    "Cappadocia",
+    "Antalya",
+    "Trabzon"
+  ],
+  "islandsLabel": "MAIN CITIES & REGIONS:",
+  "sections": {
+    "geography": "Four seas & fairy chimneys",
+    "animals": "Bears, cats & sea turtles",
+    "culture": "Tea, tiles & dervish dancers",
+    "history": "Empires upon empires",
+    "wows": "Wait — seriously?!"
+  },
+  "geo": [
+    "Turkey straddles two continents — 97% is the Asian peninsula of Anatolia, and just 3% is in Europe. It is ringed by the Black Sea, Aegean, Mediterranean, and the narrow Sea of Marmara, which links them like a watery corridor.",
+    "Inland the landscape shifts from silky beaches to a high central plateau, then up to the rugged Taurus Mountains. In Cappadocia, ancient volcanic eruptions left mushroom-shaped rocks called fairy chimneys, and people carved entire homes inside them."
+  ],
+  "animals": [
+    "Turkey's forests shelter brown bears, grey wolves, and the rare Anatolian leopard — one of Earth's most endangered big cats. The Bosphorus is a world-famous migration highway where millions of buzzards and eagles funnel through each autumn.",
+    "Loggerhead sea turtles lumber ashore on the Mediterranean coast every summer to bury eggs in warm sand. The Van cat — white, with one blue eye and one amber eye — is a national treasure named after Lake Van in eastern Turkey."
+  ],
+  "culture": [
+    "Turkish tea (çay) is poured into tiny tulip-shaped glasses at breakfast, after lunch, and at every family visit — Turkey drinks more tea per person than almost anywhere on Earth. Street vendors sell simit, a sesame-crusted bread ring, from red carts across every city.",
+    "Handmade kilim carpets, dazzling blue Iznik tiles, and the whirling skirts of Sufi dervish dancers fill Turkish art. Ornate marble hammams (bathhouses) have been places to relax and chat since Ottoman times, and many welcome visitors today."
+  ],
+  "history": [
+    "Anatolia is one of the oldest continuously inhabited places on Earth. Göbekli Tepe — a temple built around 9600 BC — predates Stonehenge by 6,000 years. Hittites, Greeks, Romans, and Byzantines all called this land home.",
+    "In 1453 Sultan Mehmed II conquered Constantinople, ending the Byzantine Empire. The Ottomans built a realm from Vienna to Baghdad. In 1923 Atatürk founded the modern Turkish Republic and moved the capital from Istanbul to Ankara."
+  ],
+  "wows": [
+    "Göbekli Tepe is 12,000 years old — the earliest known human-built temple, predating farming itself.",
+    "Istanbul is the only city on Earth spanning two continents, linked by the Bosphorus Bridge.",
+    "Turkey grows about 70% of the world's hazelnuts along its lush Black Sea coast.",
+    "Ephesus held the Temple of Artemis — a Wonder of the Ancient World — and a library with 12,000 scrolls.",
+    "Turkish belongs to a language family stretching from Turkey all the way to Central Asia.",
+    "Oil wrestling (yağlı güreş), where athletes coat themselves in olive oil, has run yearly since 1362.",
+    "Derinkuyu underground city sheltered 20,000 people — and livestock — some 85 metres below ground."
+  ],
+  "myths": [
+    {
+      "myth": "Turkey is entirely in Europe",
+      "fact": "Only 3% of Turkey sits in Europe. The vast Anatolian peninsula is in Asia, making Turkey a transcontinental country straddling both."
+    },
+    {
+      "myth": "The turban is Turkey's historic hat",
+      "fact": "Atatürk banned the fez in 1925 and promoted Western-style hats. Headwear has changed many times across Turkey's long history."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Merhaba",
+      "say": "mer-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Teşekkürler",
+      "say": "tesh-ek-UR-ler"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Lezzetli",
+      "say": "lez-ZET-lee"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Hoşgeldiniz",
+      "say": "hosh-gel-DEE-neez"
+    },
+    {
+      "en": "Good night",
+      "jp": "İyi geceler",
+      "say": "ee-YEE geh-jeh-LER"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tr-hero.jpg",
+      "alt": "Bosphorus Bridge illuminated at night spanning the strait between Europe and Asia in Istanbul",
+      "caption": "BOSPHORUS BRIDGE — Istanbul's glittering span linking two continents",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/tr-landmark.jpg",
+      "alt": "Hagia Sophia with its iconic domes and minarets in Istanbul Turkey",
+      "caption": "HAGIA SOPHIA — Istanbul's 1,500-year-old dome, once a church, then a mosque",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tr-animalA.jpg",
+      "alt": "Loggerhead sea turtle swimming underwater near the surface",
+      "caption": "LOGGERHEAD TURTLE — nests on Turkey's warm Mediterranean beaches each summer",
+      "credit": "Wikimedia Commons / Luc Viatour CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/tr-animalB.jpg",
+      "alt": "White Van cat with one blue and one amber eye",
+      "caption": "VAN CAT — Turkey's rare treasure with its famous mismatched eyes",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

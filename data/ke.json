@@ -1,0 +1,163 @@
+{
+  "name": "KENYA",
+  "nativeName": "KE",
+  "romaji": "KENYA",
+  "tagline": "Wild heart of Africa",
+  "region": "East Africa",
+  "coords": "0.02°N, 37.91°E",
+  "fileNo": "047",
+  "langName": "Swahili",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBC9E",
+    "ink": "#1E1C18",
+    "faint": "#7A6E52",
+    "line": "#DDD0B4",
+    "accent": "#006600",
+    "accent2": "#BB0000"
+  },
+  "flag": {
+    "assetPath": "/flags/ke.svg",
+    "title": "Flag of Kenya",
+    "note": "Black, red & green with Maasai shield",
+    "keyColor": "#006600",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kenya sits on the equator, where savannahs stretch to the horizon and wildebeest thunder across the Maasai Mara each year. Mount Kenya — Africa second-tallest peak — rises from the heat. The Great Rift Valley cuts across the land. Nairobi is the only capital with a national park on its doorstep, where lions roam minutes from skyscrapers.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Nairobi",
+      "sub": "Pop. 4.4 million (2019)"
+    },
+    {
+      "label": "People",
+      "value": "55 million",
+      "sub": "Est. 2023, 47 ethnic groups"
+    },
+    {
+      "label": "Money",
+      "value": "KES shilling",
+      "sub": "100 cents = 1 shilling"
+    },
+    {
+      "label": "Language",
+      "value": "Swahili & Eng",
+      "sub": "Both are official languages"
+    },
+    {
+      "label": "Land area",
+      "value": "580,367 km²",
+      "sub": "About 2× the size of UK"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Kenya 5199m",
+      "sub": "Africa's 2nd highest peak"
+    }
+  ],
+  "islands": [
+    "NAIROBI",
+    "MOMBASA",
+    "KISUMU",
+    "NAKURU",
+    "ELDORET"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A crack in the Earth",
+    "animals": "The greatest show on land",
+    "culture": "Rhythm, beads & chapati",
+    "history": "Cradle to independence",
+    "wows": "Kenya's wow moments"
+  },
+  "geo": [
+    "Kenya straddles the equator, so it has no winter. The Great Rift Valley slices the country north to south, dotted with flamingo-pink soda lakes. Snow-capped Mount Kenya rises from the equatorial heat — a peak so dramatic it named the whole country.",
+    "The Indian Ocean coast is lined with white-sand beaches and coral reefs. The north turns to desert and scrubland, while the south holds lush savannahs and the shores of Lake Victoria, Africa's largest lake."
+  ],
+  "animals": [
+    "The Maasai Mara hosts the Great Migration — 1.5 million wildebeest and zebra crossing the crocodile-filled Mara River every July to October. Kenya is one of few places where you can see the Big Five (lion, elephant, leopard, rhino, buffalo) in a single day.",
+    "Over 1,100 bird species live here. Flamingos turn Lake Nakuru bright pink, and Amboseli's elephants roam in front of Kilimanjaro, making some of the most photographed wildlife scenes on Earth."
+  ],
+  "culture": [
+    "Kenya has 47 ethnic groups with their own traditions. The Maasai wear bright red shukas and perform the adumu jumping dance, leaping to compete for height. Swahili culture along the coast blends African, Arab, and Indian influences from centuries of ocean trade.",
+    "Ugali — a stiff maize porridge — is the national staple, eaten with sukuma wiki (braised kale) or stew. Kenyan runners from the Rift Valley train at high altitude and dominate world marathon records."
+  ],
+  "history": [
+    "Fossils over 3 million years old found near Lake Turkana earned the region the nickname 'Cradle of Mankind'. Arab traders built Swahili city-states on the coast a thousand years ago, whose coral ruins still stand at Gede and Lamu.",
+    "Britain colonised Kenya in the 1890s. Mau Mau fighters launched fierce resistance in the 1950s, and Kenya won independence on 12 December 1963. Jomo Kenyatta became its first president, launching East Africa's biggest economy."
+  ],
+  "wows": [
+    "Lake Turkana is the world's largest desert lake — 290 km of volcanic blue in Kenya's north.",
+    "Runners from the tiny town of Iten have won more Olympic distance medals than most countries.",
+    "Nairobi National Park is the only wildlife reserve inside a capital city, 7 km from the CBD.",
+    "A coelacanth — fish thought extinct 65 million years — was found alive off Kenya's coast in 2001.",
+    "Kenya's M-Pesa (2007) was the world's first mobile money system, now used by 30 million people.",
+    "Lake Bogoria turns so pink with flamingos it looks like spilled bubble-gum paint from the air.",
+    "Lamu Old Town has no cars — donkeys are the main transport on its ancient coral-stone streets."
+  ],
+  "myths": [
+    {
+      "myth": "Kenya is all jungle and safari",
+      "fact": "Most of Kenya is open savannah, semi-desert, or highland farms. Dense rainforest covers only a thin strip on Mount Kenya's slopes and at Kakamega."
+    },
+    {
+      "myth": "Lions roam everywhere in Kenya",
+      "fact": "Lions live only in protected game reserves covering about 8% of Kenya. The rest is farmland and cities where lions are almost never seen."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Jambo",
+      "say": "JAM-boh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Asante",
+      "say": "ah-SAN-teh"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ndiyo",
+      "say": "nDEE-yoh"
+    },
+    {
+      "en": "No worries",
+      "jp": "Hakuna",
+      "say": "ha-KOO-na"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Tamu sana",
+      "say": "TA-moo SA-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ke-hero.jpg",
+      "alt": "Nairobi city skyline at dusk with modern skyscrapers",
+      "caption": "NAIROBI SKYLINE — East Africa's most vibrant capital glows at dusk",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ke-landmark.jpg",
+      "alt": "Elephants walking across Amboseli plain with Mount Kilimanjaro behind",
+      "caption": "AMBOSELI — elephants roam below Kilimanjaro's snow-capped summit",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ke-animalA.jpg",
+      "alt": "Lioness resting in the Maasai Mara grasslands",
+      "caption": "LIONESS — queen of the Maasai Mara savannah",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ke-animalB.jpg",
+      "alt": "Thousands of flamingos covering Lake Nakuru in pink",
+      "caption": "LAKE NAKURU — a million flamingos turn the soda lake bright pink",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

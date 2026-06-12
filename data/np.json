@@ -1,0 +1,163 @@
+{
+  "name": "NEPAL",
+  "nativeName": "नेपाल",
+  "romaji": "NEPAL",
+  "tagline": "Roof of the World",
+  "region": "South Asia",
+  "coords": "28°N 84°E",
+  "fileNo": "042",
+  "langName": "Nepali",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBA9E",
+    "ink": "#251E18",
+    "faint": "#8A7260",
+    "line": "#DCCFB0",
+    "accent": "#BA1B1E",
+    "accent2": "#14305A"
+  },
+  "flag": {
+    "assetPath": "/flags/np.svg",
+    "title": "Flag of Nepal",
+    "note": "World's only non-rectangular national flag",
+    "keyColor": "#BA1B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Squeezed between India and China, Nepal holds eight of the world's ten tallest mountains. From steamy jungles where rhinos roam to icy peaks where snow leopards prowl, it packs wild variety into a land barely bigger than England. The Buddha was born here; ancient temples, vivid festivals, and a warm Namaste draw adventurers and pilgrims.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kathmandu",
+      "sub": "Elevation 1,324 m"
+    },
+    {
+      "label": "People",
+      "value": "~30 million",
+      "sub": "World Bank est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Rupee (NPR)",
+      "sub": "100 paisa = 1 rupee"
+    },
+    {
+      "label": "Language",
+      "value": "Nepali",
+      "sub": "Plus 123 other languages"
+    },
+    {
+      "label": "Land area",
+      "value": "147,181 km²",
+      "sub": "Bigger than England"
+    },
+    {
+      "label": "High point",
+      "value": "8,849 m",
+      "sub": "Mt. Everest — world record"
+    }
+  ],
+  "islands": [
+    "Kathmandu",
+    "Terai Plains",
+    "Pokhara",
+    "Chitwan",
+    "Mustang"
+  ],
+  "islandsLabel": "KEY REGIONS:",
+  "sections": {
+    "geography": "Mountains, jungles & rivers",
+    "animals": "From rhinos to snow leopards",
+    "culture": "Temples, festivals & Namaste",
+    "history": "Kings, Gurkhas & a republic",
+    "wows": "You won't believe this!"
+  },
+  "geo": [
+    "Nepal stretches 800 km east to west yet crosses four astonishing climate zones. The flat, steamy Terai in the south touches the Ganges plain; mid-hills rise in the middle; then the Great Himalayas loom in the north, home to eight peaks above 8,000 m.",
+    "Landlocked between India and China, Nepal has no sea — but thousands of glacial rivers fed by snow-melt. The Kali Gandaki Gorge drops over 5,500 m between two Himalayan peaks, making it one of Earth's deepest gorges."
+  ],
+  "animals": [
+    "The warm Terai lowlands shelter the greater one-horned rhinoceros and Bengal tiger inside Chitwan National Park. Rare Gangetic river dolphins swim in jungle rivers, and wild elephants wade through tall elephant grass.",
+    "High in the mountains, the elusive snow leopard hunts among glaciers while red pandas nap in rhododendron forests. Nepal's national bird, the Danphe (Himalayan monal pheasant), flashes rainbow feathers across alpine meadows."
+  ],
+  "culture": [
+    "Nepal is Hindu and Buddhist all at once — temples to Shiva stand beside golden stupas draped in prayer flags. Festivals like Dashain and Tihar (festival of lights) fill the streets with colour, music, and marigolds for weeks at a time.",
+    "The Newari people of Kathmandu Valley built breathtaking pagoda temples over 1,000 years ago. Sherpas from the high Himalayas are famous worldwide as expert mountain guides. Everywhere, pressed-hands Namaste greets strangers with genuine warmth."
+  ],
+  "history": [
+    "Lumbini, in the Terai, is where the Buddha was born around 563 BCE — one of the world's great spiritual birthplaces. For centuries rival kingdoms ruled the valleys until Prithvi Narayan Shah united them into one Nepal in 1768.",
+    "Nepal was the last Hindu kingdom on Earth until 2008, when citizens voted to become a republic. The Gurkha soldiers of Nepal earned worldwide fame fighting alongside British forces — their curved kukri knife became a symbol of extraordinary courage."
+  ],
+  "wows": [
+    "Nepal's flag is the world's only non-rectangular national flag — shaped from two stacked triangles.",
+    "Eight of the world's ten highest mountains stand inside Nepal, including Everest at 8,849 m.",
+    "The Buddha was born in Lumbini, Nepal — one of Asia's most sacred pilgrimage sites.",
+    "Nepal has 124 spoken languages — more than most countries ten times its size.",
+    "The Kali Gandaki Gorge between two Himalayan giants is deeper than the Grand Canyon.",
+    "Kathmandu Valley was, legend says, once a vast lake drained by a god with one sword-stroke.",
+    "Kami Rita Sherpa has summited Everest 32 times — the all-time world record."
+  ],
+  "myths": [
+    {
+      "myth": "Everest is the tallest mountain",
+      "fact": "Everest is highest above sea level (8,849 m), but Mauna Kea in Hawaii is taller base-to-peak — most of it hides under the Pacific Ocean."
+    },
+    {
+      "myth": "Nepal is only mountains",
+      "fact": "The southern Terai is flat tropical jungle full of tigers, rhinos, and elephants — as hot and lush as anywhere in India."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "नमस्ते",
+      "say": "Na-mas-tay"
+    },
+    {
+      "en": "Thank you",
+      "jp": "धन्यवाद",
+      "say": "Dhan-ya-baad"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "मिठो छ",
+      "say": "Mi-tho cha"
+    },
+    {
+      "en": "Mountain",
+      "jp": "हिमाल",
+      "say": "Hi-maal"
+    },
+    {
+      "en": "My name is…",
+      "jp": "मेरो नाम…",
+      "say": "Me-ro naam…"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/np-hero.jpg",
+      "alt": "Mount Everest snow-capped peak above the Himalayas under blue sky",
+      "caption": "MOUNT EVEREST — the highest point on Earth at 8,849 m, Nepal",
+      "credit": "Vyacheslav Argenberg / CC BY 4.0"
+    },
+    "landmark": {
+      "src": "/photos/np-landmark.jpg",
+      "alt": "Pashupatinath Temple golden rooftops beside the Bagmati River in Kathmandu",
+      "caption": "PASHUPATINATH TEMPLE — sacred Hindu shrine, Bagmati River, Kathmandu",
+      "credit": "Ondřej Žváček / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/np-animalA.jpg",
+      "alt": "Greater one-horned rhinoceros mother and calf in Chitwan National Park Nepal",
+      "caption": "ONE-HORNED RHINO — mother and calf in Chitwan National Park, Nepal",
+      "credit": "Bocardodarapti / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/np-animalB.jpg",
+      "alt": "Snow leopard close-up portrait showing spotted fur and pale eyes",
+      "caption": "SNOW LEOPARD — the elusive ghost of the Himalayas",
+      "credit": "Tambako The Jaguar / CC BY-SA 2.0"
+    }
+  }
+}

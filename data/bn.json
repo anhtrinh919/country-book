@@ -1,0 +1,162 @@
+{
+  "name": "BRUNEI",
+  "nativeName": "بروني",
+  "romaji": "BRUNEI",
+  "tagline": "Tiny sultanate, ocean of oil",
+  "region": "Southeast Asia",
+  "coords": "4.9°N, 114.9°E",
+  "fileNo": "058",
+  "langName": "Malay",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF99",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#DDD0AD",
+    "accent": "#F0C235",
+    "accent2": "#C8292B"
+  },
+  "flag": {
+    "assetPath": "/flags/bn.svg",
+    "title": "Flag of Brunei",
+    "note": "Gold field with white & black diagonal bands",
+    "keyColor": "#F0C235",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Brunei is a tiny kingdom on Borneo, smaller than Delaware, yet rich beyond measure from oil. The same royal family has ruled 600+ years. Citizens pay zero tax, study free, see a doctor free. Dense rainforest hides proboscis monkeys and giant hornbills — all just minutes from a golden-domed mosque that glows over its own lagoon.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bandar S. Beg.",
+      "sub": "Pop. ~100,000 (city, 2024 est.)"
+    },
+    {
+      "label": "People",
+      "value": "455,500",
+      "sub": "Official estimate, 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Brunei Dollar",
+      "sub": "BND; pegged 1:1 to SGD"
+    },
+    {
+      "label": "Language",
+      "value": "Malay",
+      "sub": "Also: English & Chinese"
+    },
+    {
+      "label": "Land area",
+      "value": "5,765 km²",
+      "sub": "Smaller than Delaware, USA"
+    },
+    {
+      "label": "High point",
+      "value": "Bukit Pagon",
+      "sub": "1,841 m — SE jungle hills"
+    }
+  ],
+  "islands": [
+    "Brunei-Muara",
+    "Belait",
+    "Tutong",
+    "Temburong"
+  ],
+  "islandsLabel": "MAIN DISTRICTS:",
+  "sections": {
+    "geography": "A jungle jewel on Borneo",
+    "animals": "Creatures of the canopy",
+    "culture": "Gold, stilts & royal life",
+    "history": "From empire to oil kingdom",
+    "wows": "Things that'll blow your mind"
+  },
+  "geo": [
+    "Brunei hugs Borneo's north coast, split into two pieces by Malaysian Sarawak. A thin coastal plain faces the South China Sea, then the land climbs into misty jungle. The enclave of Temburong was only reachable by speedboat until a 30 km bridge opened in 2020.",
+    "Two-thirds of the country is pristine rainforest — among the least-disturbed in Southeast Asia. Rivers like the Brunei River serve as highways through the green. Seria on the coast sits atop the oil field that transformed this quiet sultanate in 1929."
+  ],
+  "animals": [
+    "The proboscis monkey lives only on Borneo — a big-nosed, pot-bellied primate that swims rivers and crashes through mangroves at dusk. Whole troops gather along the Brunei River each evening, and spotting one feels like a genuine wildlife privilege.",
+    "Ulu Temburong park shelters pygmy elephants, clouded leopards, and sun bears. The Rhinoceros hornbill — Brunei's national bird — sports a giant red-and-yellow casque that looks like a banana glued to its beak. The gliding colugo floats between trees under a skin-cape."
+  ],
+  "culture": [
+    "Islam shapes every day: mosques call to prayer five times, shops close Friday afternoons, and Ramadan brings quiet days and festive nights. At Hari Raya, the Sultan opens his 1,788-room palace to thousands of citizens — the world's largest annual royal open house.",
+    "Kampong Ayer, the 'Water Village', houses ~13,000 people on stilts over the Brunei River, linked by 36 km of walkways. Weavers still make gold-threaded jong sarat for royal weddings. The Gadong Night Market sizzles every evening with satay and ambuyat, the sticky national dish."
+  ],
+  "history": [
+    "Brunei's sultanate rose in the 14th century and once ruled much of Borneo and the Philippines. When Magellan's crew visited in 1521, they found a glittering court of gold and cannon. Decline followed, and by 1888 Brunei became a British protectorate to stop further losses.",
+    "Oil struck at Seria in 1929 transformed everything. After Japanese occupation (1941–45) and a failed 1962 revolt, the Sultan kept Brunei out of Malaysia. Full independence came on 1 January 1984, with the Sultan proclaiming a proud Islamic Malay monarchy."
+  ],
+  "wows": [
+    "Brunei citizens pay zero income tax — oil revenues cover the government instead.",
+    "The Sultan's palace has 1,788 rooms and 5 pools — the world's largest royal residence.",
+    "The same royal family has reigned 600+ years, one of Earth's longest dynasties.",
+    "Brunei is the only fully independent nation entirely on Borneo.",
+    "Citizens get free healthcare and free university — all funded by oil money.",
+    "Temburong was reachable only by boat until a 30 km bridge opened in 2020.",
+    "Ambuyat — a gluey tapioca paste — is Brunei's beloved national dish."
+  ],
+  "myths": [
+    {
+      "myth": "Brunei bans alcohol for everyone",
+      "fact": "Public sale is banned, but non-Muslim visitors over 17 may import 2 litres of spirits or 12 cans of beer for private use — tourists are not left completely dry."
+    },
+    {
+      "myth": "Brunei is tiny and unimportant",
+      "fact": "By GDP per capita (~US$35,000), Brunei ranks among the world's wealthiest nations and is a major Asian energy exporter."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Selamat",
+      "say": "suh-LAH-mat"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Terima kasih",
+      "say": "truh-MAH kah-SEE"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Selamat pagi",
+      "say": "sla-MAT PAH-gee"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Sedap!",
+      "say": "suh-DAHP"
+    },
+    {
+      "en": "How much?",
+      "jp": "Berapa harga",
+      "say": "buh-RAH-pa HAR-ga"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bn-hero.jpg",
+      "alt": "Omar Ali Saifuddien Mosque reflected in its lagoon, Bandar Seri Begawan",
+      "caption": "OMAR ALI SAIFUDDIEN MOSQUE — golden dome over its man-made lagoon",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/bn-landmark.jpg",
+      "alt": "Bandar Seri Begawan waterfront and capital skyline",
+      "caption": "BANDAR SERI BEGAWAN — the compact capital hugging the Brunei River",
+      "credit": "Wikimedia Commons / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/bn-animalA.jpg",
+      "alt": "Female proboscis monkey perched in a tree in Borneo",
+      "caption": "PROBOSCIS MONKEY — the big-nosed primate found only on Borneo",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/bn-animalB.jpg",
+      "alt": "Proboscis monkey with baby crossing rope bridge in Borneo",
+      "caption": "PROBOSCIS MONKEY & BABY — crossing a bridge in Borneo jungle",
+      "credit": "Wikimedia Commons / CC BY 4.0"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "PERU",
+  "nativeName": "PE",
+  "romaji": "PERU",
+  "tagline": "Land of the Incas",
+  "region": "South America",
+  "coords": "9.19°S, 75.01°W",
+  "fileNo": "042",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA5",
+    "ink": "#2B2318",
+    "faint": "#8A7A5A",
+    "line": "#DACFB2",
+    "accent": "#D91023",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/pe.svg",
+    "title": "Flag of Peru",
+    "note": "Red-white-red stripes since 1825",
+    "keyColor": "#D91023",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Peru is where the snowcapped Andes, steamy Amazon jungle, and a cool desert coast all meet at once. The mighty Inca Empire built stone cities so precisely fitted that no mortar was needed — and Machu Picchu still perches on its misty mountaintop today. Peru also holds the world's highest navigable lake and the deepest canyon.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Lima",
+      "sub": "City of Kings, founded 1535"
+    },
+    {
+      "label": "People",
+      "value": "33.3 million",
+      "sub": "INEI estimate 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Sol (PEN)",
+      "sub": "1 sol = 100 céntimos"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Quechua & Aymara co-official"
+    },
+    {
+      "label": "Land area",
+      "value": "1,285,216 km²",
+      "sub": "3× the size of California"
+    },
+    {
+      "label": "High point",
+      "value": "6,768 m",
+      "sub": "Huascarán, Andes"
+    }
+  ],
+  "islands": [
+    "Lima",
+    "Cusco",
+    "Arequipa",
+    "Iquitos",
+    "Trujillo"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Three worlds in one country",
+    "animals": "Wool, wings & whiskers",
+    "culture": "Flavours, fiestas & flutes",
+    "history": "Empires of gold & stone",
+    "wows": "Things that’ll blow your mind"
+  },
+  "geo": [
+    "Peru packs three totally different landscapes side by side. The Pacific coast is mostly desert — drier than the Sahara in spots — yet it holds most of the country's people. The Andes spine runs down the middle, with peaks over 6,000 m capped in permanent snow.",
+    "East of the Andes the land drops into the Amazon Basin, blanketing more than half the country in jungle. Lake Titicaca sits at 3,812 m on the southern border — so high the air feels thin — making it the world's highest large navigable lake."
+  ],
+  "animals": [
+    "The woolly alpaca grazes on Andean grasslands and its super-soft fleece has been spun into clothing for thousands of years. The vicuña, its wild cousin, was so precious that Inca emperors declared it sacred. The giant condor rides thermals with a 3.2 m wingspan.",
+    "In the Amazon, pink river dolphins swim the flooded forest and jaguars pad the undergrowth. The cock-of-the-rock — Peru's national bird — blazes electric orange and dances to win a mate. Tiny poison dart frogs hide vivid warning colours in the leaf litter."
+  ],
+  "culture": [
+    "Peruvian food is one of the world's most celebrated cuisines. Ceviche — fish cured in lime juice with chilli — is the national dish. Peru gave the world the potato (over 3,000 varieties still grow here) and purple corn used to make chicha morada.",
+    "Music and colour fill every festival. Inti Raymi in Cusco honours the Inca sun god each June solstice with dazzling costumes. Andean panpipes and the tiny charango guitar give the highlands their sound, and 2,000-year-old weaving traditions still produce the world's finest textiles."
+  ],
+  "history": [
+    "Around 1400 CE the Inca built the largest empire the Americas had seen — 4,000 km from Colombia to Chile — moving massive stones without wheels and linking their realm with 40,000 km of road.",
+    "Spanish conquistadors arrived in 1532 and the empire collapsed within a decade. Peru became Spain's richest colony. Independence came in 1821, declared by liberator José de San Martín."
+  ],
+  "wows": [
+    "Machu Picchu was unknown outside Peru until 1911 — a whole city hidden in the clouds for 400 years.",
+    "Peru has over 1,800 bird species — roughly one in five of all birds on Earth.",
+    "The Nazca Lines are giant desert drawings only visible from the air, made 2,000 years ago.",
+    "Potatoes originated in Peru — all 5,000+ global varieties descend from wild Andean plants.",
+    "Colca Canyon near Arequipa is twice as deep as the Grand Canyon at 3,400 m.",
+    "The Amazon River starts as snowmelt in the Peruvian Andes, 5,600 km from the sea.",
+    "Inca stones fit so precisely a sheet of paper cannot slide between them — no mortar needed."
+  ],
+  "myths": [
+    {
+      "myth": "Machu Picchu was the lost Inca capital",
+      "fact": "It was a royal retreat for Emperor Pachacuti, not the capital. Cusco ruled the empire; local people never forgot Machu Picchu existed."
+    },
+    {
+      "myth": "The Amazon River starts in Brazil",
+      "fact": "The Amazon’s confirmed source (2014) is the Mantaro River in the Peruvian Andes, 5,600 km from the Atlantic mouth."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Riquísimo!",
+      "say": "ree-KEE-see-moh"
+    },
+    {
+      "en": "Where to?",
+      "jp": "¿A dónde?",
+      "say": "ah DON-deh"
+    },
+    {
+      "en": "Friend",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pe-hero.jpg",
+      "alt": "Aerial view of Machu Picchu citadel on a misty mountain ridge",
+      "caption": "MACHU PICCHU — the Inca citadel perches cloud-wrapped at 2,430 m above the Urubamba valley",
+      "credit": "Wikimedia Commons / Allard Schmidt"
+    },
+    "landmark": {
+      "src": "/photos/pe-landmark.jpg",
+      "alt": "Stone terraces and temples of Machu Picchu",
+      "caption": "MACHU PICCHU TERRACES — fitted without mortar, these walls survive major earthquakes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pe-animalA.jpg",
+      "alt": "White alpaca on Andean grassland with mountains behind",
+      "caption": "ALPACA — the Andes' fluffiest resident, prized for its ultra-soft fleece",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pe-animalB.jpg",
+      "alt": "Brilliant orange cock-of-the-rock bird perched on a branch",
+      "caption": "COCK-OF-THE-ROCK — Peru’s electric-orange national bird, found in cloud forest",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

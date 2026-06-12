@@ -1,0 +1,163 @@
+{
+  "name": "ZAMBIA",
+  "nativeName": "ZM",
+  "romaji": "ZAMBIA",
+  "tagline": "Land of the mighty falls",
+  "region": "Southern Africa",
+  "coords": "13°S, 28°E",
+  "fileNo": "072",
+  "langName": "Nyanja",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEB98A",
+    "ink": "#231F1A",
+    "faint": "#8A7050",
+    "line": "#DDD0B0",
+    "accent": "#198A00",
+    "accent2": "#DE2010"
+  },
+  "flag": {
+    "assetPath": "/flags/zm.svg",
+    "title": "Flag of Zambia",
+    "note": "Green with orange eagle, red & black stripes",
+    "keyColor": "#198A00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Landlocked in the heart of Africa, Zambia is draped in savannah and forest. The Zambezi River plunges 108 m over Victoria Falls in a curtain of thunder and mist. Zambia won freedom from Britain in 1964, naming itself after that river. With 20 national parks, it is one of Africa's greatest wildlife destinations.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Lusaka",
+      "sub": "Pop. ~3.5 million (2023 est.)"
+    },
+    {
+      "label": "People",
+      "value": "20.5 million",
+      "sub": "2023 UN estimate"
+    },
+    {
+      "label": "Money",
+      "value": "Kwacha (ZMW)",
+      "sub": "100 ngwee = 1 kwacha"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "72+ Bantu languages spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "752,618 km²",
+      "sub": "Bigger than France & Germany"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mafinga Hills",
+      "sub": "2,301 m above sea level"
+    }
+  ],
+  "islands": [
+    "Lusaka",
+    "Livingstone",
+    "Ndola",
+    "Kitwe",
+    "Kasama"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rivers, falls & wild plains",
+    "animals": "Giants of the bush & water",
+    "culture": "Drums, colour & warm welcome",
+    "history": "From kingdoms to independence",
+    "wows": "Zambia's wow moments"
+  },
+  "geo": [
+    "Zambia sits on a high plateau averaging 1,200 m — so even near the equator it stays pleasant. Three great rivers cross it: the Zambezi, the Kafue, and the Luangwa. Lake Tanganyika, one of the world's deepest lakes, touches its northern border.",
+    "Victoria Falls — locally Mosi-oa-Tunya, 'the smoke that thunders' — straddles the Zimbabwe border. Spray rises 400 m in flood season, visible 50 km away. The vast Bangweulu Swamps in the north shelter the rare shoebill stork."
+  ],
+  "animals": [
+    "Zambia protects wildlife across 20 national parks. South Luangwa is famous for walking safaris — tracking lions and leopards on foot. Kafue National Park is the size of Switzerland, sheltering wild dogs, cheetahs, and vast buffalo herds.",
+    "The Zambezi teems with hippos and crocodiles. The Bangweulu Swamps harbour the shoebill — a massive grey bird that stands motionless for hours. Zambia also hosts the Thornicroft's giraffe, a rare subspecies found nowhere else on Earth."
+  ],
+  "culture": [
+    "Zambia has 70+ ethnic groups yet is famed for unity — the motto is 'One Zambia, One Nation'. Music and dance anchor every celebration. Each February the Ngoni perform Nc'wala, giving thanks for the harvest with warrior dances and drumming.",
+    "Food centres on nshima — thick maize porridge eaten by rolling a ball and dipping it into fish, beans, or greens. Chitenge — boldly patterned cloth — is worn as skirts, slings, and headscarves, turning every market into a blaze of colour."
+  ],
+  "history": [
+    "Before Europeans arrived, the Lozi kingdom ruled the fertile Barotse floodplain and the Bemba held the north. David Livingstone reached Victoria Falls in 1855; by 1924 the territory became British-ruled Northern Rhodesia.",
+    "Zambia won independence on 24 October 1964, with Kenneth Kaunda as first president, and renamed itself after the Zambezi. Copper brought wealth; falling prices in the 1970s caused hardship, but growth has been steady since the 1990s."
+  ],
+  "wows": [
+    "Victoria Falls is 1,708 m wide — the world's largest by width and height combined.",
+    "The Zambia–Zimbabwe border runs right through the middle of the falls.",
+    "Kafue National Park covers 22,400 km² — larger than the whole of Wales.",
+    "Zambia was among the first African nations to broadcast TV, as early as 1961.",
+    "The shoebill stork stands over 1.5 m tall with a beak shaped like a wooden clog.",
+    "Zambezi rapids below the falls are Class 5 — the maximum survivable grade.",
+    "Zambia holds over 40% of Africa's surface fresh water within its borders."
+  ],
+  "myths": [
+    {
+      "myth": "Zambia is dry desert or scrubland",
+      "fact": "Zambia is about 65% forest and woodland, crossed by three major rivers and vast wetlands. Its high-plateau climate is mild and green for much of the year."
+    },
+    {
+      "myth": "Victoria Falls belongs only to Zimbabwe",
+      "fact": "The falls straddle both countries equally. Zambia's town of Livingstone sits right on the bank and offers the best full-width view of the cascade."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Moni",
+      "say": "moh-nee"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Zikomo",
+      "say": "zee-KOH-moh"
+    },
+    {
+      "en": "Yes",
+      "jp": "Inde",
+      "say": "in-day"
+    },
+    {
+      "en": "Food",
+      "jp": "Chakudya",
+      "say": "cha-KOO-dyah"
+    },
+    {
+      "en": "Water",
+      "jp": "Madzi",
+      "say": "MAH-dzee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/zm-hero.jpg",
+      "alt": "Victoria Falls in full flood viewed from the Zambian side",
+      "caption": "VICTORIA FALLS — the Zambezi roars over the world's widest water curtain",
+      "credit": "Wikimedia Commons / Ninara"
+    },
+    "landmark": {
+      "src": "/photos/zm-landmark.jpg",
+      "alt": "Aerial view of Victoria Falls and the Zambezi gorge",
+      "caption": "MOSI-OA-TUNYA — spray rises 400 m, visible 50 km away in flood season",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/zm-animalA.jpg",
+      "alt": "A shoebill stork standing motionless in a swamp",
+      "caption": "SHOEBILL STORK — Bangweulu Swamps shelter this ancient-looking giant bird",
+      "credit": "Wikimedia Commons / Quartl"
+    },
+    "animalB": {
+      "src": "/photos/zm-animalB.jpg",
+      "alt": "Hippopotamus with mouth wide open showing tusks",
+      "caption": "HIPPOPOTAMUS — the Zambezi holds some of Africa's densest hippo populations",
+      "credit": "Wikimedia Commons / Scott Kinmartin"
+    }
+  }
+}

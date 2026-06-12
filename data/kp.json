@@ -1,0 +1,163 @@
+{
+  "name": "NORTH KOREA",
+  "nativeName": "조선",
+  "romaji": "JOSEON",
+  "tagline": "Land of Morning Calm",
+  "region": "East Asia",
+  "coords": "40°N 127°E",
+  "fileNo": "KP",
+  "langName": "Korean",
+  "motif": "sun",
+  "theme": {
+    "paper": "#EEE9DD",
+    "dot": "#C9BFAE",
+    "ink": "#241E1A",
+    "faint": "#7A6E60",
+    "line": "#D8CFBC",
+    "accent": "#ED1C27",
+    "accent2": "#024FA2"
+  },
+  "flag": {
+    "assetPath": "/flags/kp.svg",
+    "title": "Flag of N. Korea",
+    "note": "Red star on white disc, broad red band",
+    "keyColor": "#ED1C27",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "North Korea sits at the northern half of a peninsula between China and Japan. One of the most secretive countries on Earth, it has been ruled by the Kim family since 1948. Nearly every hill is forested, the capital Pyongyang gleams with grand monuments, and the sacred volcano Paektu watches over it all from the Chinese border.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Pyongyang",
+      "sub": "Pop. ~3.2 million"
+    },
+    {
+      "label": "People",
+      "value": "~26.6 million",
+      "sub": "Est. 2025; last census 2008"
+    },
+    {
+      "label": "Money",
+      "value": "KP Won (₩)",
+      "sub": "Not freely exchangeable"
+    },
+    {
+      "label": "Language",
+      "value": "Korean",
+      "sub": "Sole official language"
+    },
+    {
+      "label": "Land area",
+      "value": "120,538 km²",
+      "sub": "About the size of Greece"
+    },
+    {
+      "label": "High point",
+      "value": "Mt. Paektu",
+      "sub": "2,744 m — sacred volcano"
+    }
+  ],
+  "islands": [
+    "Pyongyang",
+    "Hamhung",
+    "Chongjin",
+    "Wonsan",
+    "Kaesong"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, rivers & fire",
+    "animals": "Forest giants of the North",
+    "culture": "Monuments & mass games",
+    "history": "From kingdom to closed state",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "North Korea is about 80% mountains. The Nangnim and Hamgyong ranges run like a spine down the country, leaving only thin coastal plains for farming. Three great rivers — Yalu, Tumen, and Taedong — carve through valleys forming borders with China and Russia.",
+    "In the far north sits Mount Paektu, a sleeping volcano with a stunning crater lake called Heaven Lake. The lake is 384 m deep and winter summit temperatures can plunge to a bone-cracking −48 °C."
+  ],
+  "animals": [
+    "The cold northern forests shelter the Asiatic black bear — a stocky bear with a white crescent on its chest, sometimes called the moon bear. Shy and solitary, it raids fruit trees in autumn to fatten up before its winter sleep.",
+    "The Korean water deer lives in river marshes across the peninsula. Unlike most deer, males grow no antlers — instead they have long curved fangs that poke below the lip, earning them the nickname 'vampire deer'."
+  ],
+  "culture": [
+    "Every year the Mass Games fill Pyongyang's May Day Stadium — the world's biggest. Over 100,000 performers move in perfect unison: gymnasts, dancers, and a human mosaic of 30,000 card-flipping schoolchildren creating giant pictures. Guinness crowned it the largest gymnastic display on Earth.",
+    "Music and art are woven into daily life, but always around state-approved themes. Schoolchildren spend hundreds of hours studying the ruling Kim family. Citizens once had to choose their hairstyle from just 28 government-approved cuts."
+  ],
+  "history": [
+    "Korea was a united kingdom for over a thousand years before Japan took control in 1910. After Japan's defeat in 1945, the peninsula was split: the Soviet Union backed the North, the United States the South. Kim Il Sung became leader in 1948.",
+    "The Korean War (1950–53) ended in a ceasefire, not a peace treaty — so the two Koreas are technically still at war. The Kim family has ruled ever since: grandfather, then son, then grandson Kim Jong Un from 2011."
+  ],
+  "wows": [
+    "North Korea used its own Juche calendar but switched back to the Gregorian calendar in 2024.",
+    "Pyongyang's 105-storey Ryugyong Hotel has stood since 1987 but has never once opened its doors.",
+    "Mt. Paektu's AD 946 eruption shot ash to Japan — one of the biggest volcanic blasts in recorded history.",
+    "North Korea shifted clocks 30 minutes in 2015 for independence, then reversed the change in 2018 for peace.",
+    "The Mass Games card stunt uses 30,000 schoolchildren with boards — the world's biggest live mosaic.",
+    "North Korea has its own internet, Kwangmyong, completely separate from the global web.",
+    "The DMZ between North and South has been undisturbed 70+ years and is now a rare wildlife sanctuary."
+  ],
+  "myths": [
+    {
+      "myth": "North Koreans are all the same height",
+      "fact": "Average heights fell after 1990s famines — many are shorter than South Koreans on average — but individuals vary widely, as anywhere."
+    },
+    {
+      "myth": "North Korea is totally dark from space",
+      "fact": "Satellite photos show far less light due to energy scarcity — Pyongyang has electricity; rural areas have very little."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "안녕하세요",
+      "say": "an-nyong-ha-se-yo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "감사합니다",
+      "say": "gam-sa-ham-ni-da"
+    },
+    {
+      "en": "Yes",
+      "jp": "네",
+      "say": "ne"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "맛있어요",
+      "say": "ma-si-so-yo"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "안녕히 가세요",
+      "say": "an-nyong-hi gaseyo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kp-hero.jpg",
+      "alt": "Heaven Lake crater lake at the summit of Mount Paektu",
+      "caption": "MOUNT PAEKTU — Heaven Lake fills the ancient volcanic crater at 2,744 m",
+      "credit": "Uri Tours / CC BY-SA 2.0"
+    },
+    "landmark": {
+      "src": "/photos/kp-landmark.jpg",
+      "alt": "The Arch of Triumph in Pyongyang with the Ryugyong Hotel behind",
+      "caption": "ARCH OF TRIUMPH — Pyongyang's granite arch, taller than Paris's original",
+      "credit": "Kok Leng Yeo / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/kp-animalA.jpg",
+      "alt": "Asiatic black bear with distinctive white crescent chest marking",
+      "caption": "MOON BEAR — the white chest crescent gives this forest bear its nickname",
+      "credit": "ThomasMelle / CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/kp-animalB.jpg",
+      "alt": "Korean water deer with small visible fangs",
+      "caption": "WATER DEER — fanged but gentle; found across Korean river marshes",
+      "credit": "까칠한 감자씨 / CC BY-SA 2.5"
+    }
+  }
+}

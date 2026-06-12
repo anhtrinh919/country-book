@@ -1,0 +1,163 @@
+{
+  "name": "NETHERLANDS",
+  "nativeName": "NL",
+  "romaji": "NEDERLAND",
+  "tagline": "Land below the sea",
+  "region": "Western Europe",
+  "coords": "52.1N, 5.3E",
+  "fileNo": "047",
+  "langName": "Dutch",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#cfc0a2",
+    "ink": "#272018",
+    "faint": "#7a6e52",
+    "line": "#ddd0b8",
+    "accent": "#AE1C28",
+    "accent2": "#21468B"
+  },
+  "flag": {
+    "assetPath": "/flags/nl.svg",
+    "title": "Driekleur",
+    "note": "Red, white & blue — oldest tricolour",
+    "keyColor": "#AE1C28",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "A tiny flat country where a quarter of the land sits below the sea. For centuries the Dutch have built enormous dykes to keep the ocean out and pumped water away with windmills. Today it is famous for tulip fields blazing orange every spring, bicycles that outnumber people, and canals threading through storybook cities like Amsterdam.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Amsterdam",
+      "sub": "seat of govt: The Hague"
+    },
+    {
+      "label": "People",
+      "value": "18.1 million",
+      "sub": "est. 2024, CBS Netherlands"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "joined eurozone 2002"
+    },
+    {
+      "label": "Language",
+      "value": "Dutch",
+      "sub": "Frisian co-official in Friesland"
+    },
+    {
+      "label": "Land area",
+      "value": "41,543 km²",
+      "sub": "total area incl. waterways"
+    },
+    {
+      "label": "High point",
+      "value": "Vaalserberg",
+      "sub": "322 m, far south-east"
+    }
+  ],
+  "islands": [
+    "Amsterdam",
+    "Rotterdam",
+    "The Hague",
+    "Utrecht",
+    "Eindhoven"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land won from the sea",
+    "animals": "Creatures of the delta",
+    "culture": "Bikes, blooms & bold art",
+    "history": "Merchants of the world",
+    "wows": "Can you believe it?"
+  },
+  "geo": [
+    "The Netherlands is so flat you can cycle for days without climbing a hill. About a quarter is polder — former seabed drained by dykes and pumps over centuries. The Rhine and Maas fan into a wide delta before meeting the North Sea.",
+    "To the south, gentle hills appear near Vaalserberg. The Wadden Sea coast is a UNESCO tidal wonderland where the sea empties and fills twice daily, leaving sandbanks crowded with birds and basking seals."
+  ],
+  "animals": [
+    "Grey seals haul out on Wadden Sea sandbanks in their thousands, sunning themselves as the tide retreats. White storks return every spring to nest on rooftops and poles across the polders, welcomed as good-luck charms by villagers below.",
+    "The European badger digs its sett in the wooded east, while stocky ash-grey Konik horses roam freely in rewilded reserves like Oostvaardersplassen, keeping the grassland cropped as wild grazers once did."
+  ],
+  "culture": [
+    "The Dutch are famously direct — they say exactly what they mean, which surprises visitors but saves confusion. Cycling is not a hobby here, it is simply life: 23 million bikes for 18 million people means rush-hour traffic jams are made of bicycles.",
+    "Dutch food is hearty: stroopwafels (waffle-and-caramel sandwiches), raw herring at street stalls, Gouda cheese at open-air markets. The country also gave the world Rembrandt, Vermeer, and Van Gogh."
+  ],
+  "history": [
+    "In the 1600s the Dutch became the world's richest traders. Ships sailed to Asia, Africa, and the Americas; Amsterdam was the planet's busiest port. The Dutch East India Company was history's first company anyone could buy shares in.",
+    "Nazi occupation in WWII caused the terrible Hunger Winter of 1944–45. After liberation the Dutch rebuilt fast, created a modern welfare state, and became a founding member of both NATO and the European Union."
+  ],
+  "wows": [
+    "A quarter of the Netherlands is below sea level — without dykes, Amsterdam would sit under water.",
+    "The Dutch own 23 million bicycles for 18 million people — more bikes than people.",
+    "The Netherlands exports more than a billion tulip bulbs every year to flower markets worldwide.",
+    "Schiphol Airport is built on a drained lake bed, sitting around 3 metres below sea level.",
+    "Rotterdam is Europe's largest port, handling over 400 million tonnes of cargo yearly.",
+    "The Netherlands leads all of Europe in public EV charger density per person.",
+    "A tiny Caribbean island, Sint Maarten, is shared with France — two countries, one island."
+  ],
+  "myths": [
+    {
+      "myth": "The Netherlands = Holland",
+      "fact": "Holland is just two western provinces. The full country is the Netherlands — regions like Friesland and Limburg are very different from 'Holland'."
+    },
+    {
+      "myth": "Windmills still pump the polders",
+      "fact": "Modern electric pumps do the work now. Historic windmills are preserved landmarks; a few still grind grain, but none manage flood control today."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Dankjewel",
+      "say": "DANK-yuh-vel"
+    },
+    {
+      "en": "Bicycle",
+      "jp": "Fiets",
+      "say": "feets"
+    },
+    {
+      "en": "Cheese",
+      "jp": "Kaas",
+      "say": "kahs"
+    },
+    {
+      "en": "Windmill",
+      "jp": "Molen",
+      "say": "MOH-len"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nl-hero.jpg",
+      "alt": "Amsterdam canal with narrow gabled houses reflecting in the water",
+      "caption": "AMSTERDAM CANALS — 17th-century gabled houses mirror in still water",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/nl-landmark.jpg",
+      "alt": "Row of historic windmills at Kinderdijk at sunset",
+      "caption": "KINDERDIJK WINDMILLS — 19 mills in a row, UNESCO Heritage Site",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/nl-animalA.jpg",
+      "alt": "Grey seal resting on a sandbank in the Wadden Sea",
+      "caption": "GREY SEAL — basking on a Wadden Sea sandbank at low tide",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/nl-animalB.jpg",
+      "alt": "White stork standing in a Dutch polder field",
+      "caption": "WHITE STORK — a welcome spring visitor to the Dutch polders",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

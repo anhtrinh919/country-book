@@ -1,0 +1,163 @@
+{
+  "name": "VATICAN CITY",
+  "nativeName": "VA",
+  "romaji": "VATICANO",
+  "tagline": "The world's tiniest country",
+  "region": "Southern Europe",
+  "coords": "41.9°N, 12.45°E",
+  "fileNo": "057",
+  "langName": "Latin",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5F0E4",
+    "dot": "#C9BA9B",
+    "ink": "#2A2318",
+    "faint": "#8B7A55",
+    "line": "#DDD0B2",
+    "accent": "#C8A84B",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/va.svg",
+    "title": "Gold & White",
+    "note": "Papal tiara and crossed keys of St Peter",
+    "keyColor": "#C8A84B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tucked inside Rome, Vatican City is the world's tiniest country — smaller than most shopping malls. It is home to the Pope and some of the greatest art ever made. St Peter's Square, the Sistine Chapel ceiling, and the Swiss Guard in their striped Renaissance uniforms make this 0.44 km² dot one of the most visited places on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Vatican City",
+      "sub": "Only city in the country"
+    },
+    {
+      "label": "People",
+      "value": "~800",
+      "sub": "Est. 2024, world's smallest"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Own rare collector coins"
+    },
+    {
+      "label": "Language",
+      "value": "Italian/Latin",
+      "sub": "Latin ATMs still exist"
+    },
+    {
+      "label": "Land area",
+      "value": "0.44 km²",
+      "sub": "Smaller than 60 football pitches"
+    },
+    {
+      "label": "High point",
+      "value": "76 m",
+      "sub": "Vatican Hill, inside the walls"
+    }
+  ],
+  "islands": [
+    "Vatican Hill",
+    "St Peter Sq.",
+    "The Gardens",
+    "Papal Palace",
+    "C.Gandolfo"
+  ],
+  "islandsLabel": "KEY PLACES:",
+  "sections": {
+    "geography": "A hill inside a city",
+    "animals": "Wings over the Gardens",
+    "culture": "Art, gold & ancient guards",
+    "history": "From empire to microstate",
+    "wows": "Hard to believe — but true!"
+  },
+  "geo": [
+    "Vatican City sits entirely inside Rome — a walled hilltop enclave of just 0.44 km². The Vatican Hill rises to 76 metres. About half the land is the Vatican Gardens: fountains, sculpted hedges, and ancient olive trees.",
+    "A single tiny railway, just 300 metres long, connects it to Italy. The Pope also owns Castel Gandolfo, a summer palace 25 km away in the Alban Hills, which sits even higher above sea level."
+  ],
+  "animals": [
+    "Because Vatican City is mostly buildings, wildlife shelters in the Gardens — a green oasis of 23 hectares. European robins hop under cypress trees, barn swallows streak overhead in summer, and starling murmurations swirl above the rooftops at dusk.",
+    "The bright green rose-ringed parakeet — escaped from pet shops in the 1970s — now chatters through Vatican trees. Historically the Gardens held caged lions and ostriches, until a pope freed them all, saying he could not bear to see animals locked away."
+  ],
+  "culture": [
+    "The Vatican is the heart of Roman Catholicism. Each year millions pour into St Peter's Square hoping to glimpse the Pope. The Sistine Chapel, painted by Michelangelo between 1508 and 1512, draws visitors who crane their necks at his extraordinary ceiling.",
+    "The Swiss Guard — 135 soldiers, all Swiss Catholics — has protected the Pope since 1506. Their striped yellow, red, and blue uniforms need 154 pieces to assemble. The Vatican also mints its own rare euro coins, eagerly collected worldwide."
+  ],
+  "history": [
+    "St Peter's Hill has been sacred since early Christianity. The great basilica was built over the believed tomb of Saint Peter, and popes lived here for centuries. In 1870, Italy unified and absorbed the Papal States, leaving the Pope confined inside the Vatican for 59 years.",
+    "On 11 February 1929, Italy and the Holy See signed the Lateran Treaty, creating Vatican City as an independent country. It is the world's newest sovereign state by founding date, yet home to some of the oldest continuous traditions in human history."
+  ],
+  "wows": [
+    "Vatican City is the only country that fits entirely inside another city — Rome.",
+    "You can walk across the entire country in about 20 minutes.",
+    "The Vatican's ATMs offer Latin as a language option — the only ones in the world.",
+    "Vatican City's railway is just 300 metres long and rarely carries passengers.",
+    "Swiss Guards must be Swiss, Catholic, male, and at least 174 cm tall.",
+    "New Swiss Guards are sworn in each May 6th, recalling 147 guards who died defending the Pope in 1527.",
+    "The Vatican Library holds over 1 million books and 80,000 manuscripts."
+  ],
+  "myths": [
+    {
+      "myth": "Michelangelo designed the Swiss Guard uniforms",
+      "fact": "The bold striped uniform was created in 1914 by Commandant Jules Repond — Michelangelo never designed it, though the legend persists everywhere."
+    },
+    {
+      "myth": "The Pope owns all of Vatican City",
+      "fact": "Vatican City is a sovereign state governed by the Holy See as an institution — no single person owns it, including the Pope himself."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Salve",
+      "say": "SAL-weh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Vale",
+      "say": "WAH-leh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gratias",
+      "say": "GRAH-tee-as"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ita",
+      "say": "EE-tah"
+    },
+    {
+      "en": "Peace",
+      "jp": "Pax",
+      "say": "PAX"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/va-hero.jpg",
+      "alt": "Aerial twilight view of Vatican City and St Peter's Square",
+      "caption": "VATICAN CITY — glowing at twilight, smallest country on Earth seen from above",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/va-landmark.jpg",
+      "alt": "St Peter's Square with the Basilica and obelisk",
+      "caption": "ST PETER'S SQUARE — Bernini's colonnade embraces pilgrims from across the world",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/va-animalA.jpg",
+      "alt": "European robin perched on a branch",
+      "caption": "EUROPEAN ROBIN — a cheerful resident of the Vatican's lush 23-hectare gardens",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/va-animalB.jpg",
+      "alt": "Rose-ringed parakeet perched in a tree",
+      "caption": "ROSE-RINGED PARAKEET — escaped pet birds, now wild across Rome and the Vatican",
+      "credit": "Wikimedia Commons CC BY-SA"
+    }
+  }
+}

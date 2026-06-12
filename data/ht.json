@@ -1,0 +1,163 @@
+{
+  "name": "HAITI",
+  "nativeName": "HT",
+  "romaji": "AYITI",
+  "tagline": "Born free, forever proud",
+  "region": "Caribbean",
+  "coords": "18.97°N, 72.29°W",
+  "fileNo": "049",
+  "langName": "Haitian Creole",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF9E",
+    "ink": "#1E1810",
+    "faint": "#8A7555",
+    "line": "#DDD0B2",
+    "accent": "#00209F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/ht.svg",
+    "title": "Haitian Flag",
+    "note": "Blue over red, coat of arms at centre",
+    "keyColor": "#00209F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Haiti was the first country built by people who freed themselves from slavery. In 1804 Haitians defeated Napoleon's armies and declared independence. About 12 million people live among rugged mountains and bright blue sea. Haiti is the birthplace of Vodou, carnival music, and vivid iron sculptures hammered from oil drums.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Port-au-Prince",
+      "sub": "Largest city, on the bay"
+    },
+    {
+      "label": "People",
+      "value": "11.9 million",
+      "sub": "UN estimate, 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Gourde (HTG)",
+      "sub": "100 centimes = 1 gourde"
+    },
+    {
+      "label": "Language",
+      "value": "Haitian Creole",
+      "sub": "French also official"
+    },
+    {
+      "label": "Land area",
+      "value": "27,750 km²",
+      "sub": "Slightly bigger than Wales"
+    },
+    {
+      "label": "Top peak",
+      "value": "Pic la Selle",
+      "sub": "2,674 m — 3rd in Caribbean"
+    }
+  ],
+  "islands": [
+    "Cap-Haïtien",
+    "Jacmel",
+    "Gonaïves",
+    "Les Cayes",
+    "Jérémie"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, sea & surprise",
+    "animals": "Horns, wings & venom",
+    "culture": "Drums, colour & spirit",
+    "history": "Revolution & resistance",
+    "wows": "Mind-blowing Haiti facts"
+  },
+  "geo": [
+    "Haiti is one of the most mountainous countries in the Caribbean — the Taíno name Ayiti means 'land of high mountains'. Peaks rise sharply from the coast, with valleys where farmers grow coffee and mangoes on terraced hillsides.",
+    "Haiti shares Hispaniola with the Dominican Republic. Two peninsulas jut into the Caribbean Sea, giving Haiti one of the longest coastlines in the region, with turquoise bays and hidden beaches."
+  ],
+  "animals": [
+    "Haiti's strangest mammal is the Hispaniolan solenodon, a long-nosed creature that injects venom through a tooth groove — a trick almost no other mammal can do, unchanged since dinosaur times.",
+    "The rhinoceros iguana, named for bony nose-horn bumps, is a dinosaur-sized lizard on rocky limestone cliffs. The bright-green Hispaniolan Amazon parrot chatters loudly in mountain forest canopies above the coast."
+  ],
+  "culture": [
+    "Haiti has a vivid art scene unlike anywhere else. Jacmel craftspeople make giant papier-mâché carnival masks — dragons, pigs, politicians — that parade during Kanaval. Artists hammer recycled oil drums into haunting iron sculptures, a tradition begun by blacksmith Georges Liautaud.",
+    "Vodou is Haiti's spiritual heart, rooted in West African tradition and used for healing and community. Rara music fills streets during Lent: bamboo vaksen horns, metal bells, and thundering drums echo around every corner."
+  ],
+  "history": [
+    "In 1791, enslaved people on the French colony of Saint-Domingue rose up in history's greatest slave rebellion. Led by Toussaint Louverture and others, they fought French, Spanish, and British armies for 13 brutal years.",
+    "On 1 January 1804, Dessalines declared the Republic of Haiti — the first free Black nation and first Latin American country to win independence, inspiring freedom movements worldwide."
+  ],
+  "wows": [
+    "Haiti produced half of Europe's sugar and coffee in the 1750s — it was called 'The Pearl of the Antilles'.",
+    "After independence France sent warships demanding 150 million gold francs; Haiti finished paying only in 1947.",
+    "The Citadelle Laferrière is the Western Hemisphere's largest fortress — mortar mixed with molasses and blood.",
+    "Haiti's flag was born when Dessalines ripped the white stripe from a French tricolour and re-stitched it.",
+    "The Hispaniolan solenodon injects venom through a tooth groove — a 76-million-year-old mammal trick.",
+    "Every tap-tap bus is painted head-to-toe with saints, footballers, and vivid religious slogans.",
+    "Haitian Creole was created in one or two generations by enslaved Africans from dozens of language groups."
+  ],
+  "myths": [
+    {
+      "myth": "Haiti is just dangerous and broken",
+      "fact": "Haiti has stunning beaches, lush mountains, vibrant cities, and an extraordinary art scene. Real challenges exist, but its creativity has dazzled the world for centuries."
+    },
+    {
+      "myth": "Vodou is dark magic",
+      "fact": "Vodou is a West African-rooted religion used for healing and community guidance. The Hollywood horror version has nothing to do with the real practice."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjou",
+      "say": "BOH-joo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mèsi",
+      "say": "meh-SEE"
+    },
+    {
+      "en": "Yes",
+      "jp": "Wi",
+      "say": "wee"
+    },
+    {
+      "en": "Friend",
+      "jp": "Zanmi",
+      "say": "ZAN-mee"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Bèl",
+      "say": "bell"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ht-hero.jpg",
+      "alt": "Brightly painted Haitian tap-tap bus loaded with passengers",
+      "caption": "TAP-TAP BUS — Haiti's colourful shared taxis are rolling works of art",
+      "credit": "Michelle Walz Eriksson / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/ht-landmark.jpg",
+      "alt": "The massive Citadelle Laferriere fortress on a mountain peak in northern Haiti",
+      "caption": "CITADELLE LAFERRIÈRE — largest fortress in the Western Hemisphere, built by freed slaves",
+      "credit": "Alex Proimos / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/ht-animalA.jpg",
+      "alt": "A rhinoceros iguana showing its distinctive horned snout and scaly body",
+      "caption": "RHINOCEROS IGUANA — named for the bony horn bumps on its nose",
+      "credit": "H. Zell / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ht-animalB.jpg",
+      "alt": "A bright green Hispaniolan Amazon parrot perched on a branch",
+      "caption": "HISPANIOLAN AMAZON — a chatty green parrot endemic to Hispaniola",
+      "credit": "Yolanda M. Leon / CC BY 2.0"
+    }
+  }
+}

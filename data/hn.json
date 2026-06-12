@@ -1,0 +1,163 @@
+{
+  "name": "HONDURAS",
+  "nativeName": "HN",
+  "romaji": "HONDURAS",
+  "tagline": "Jungles, reefs & cloud tops",
+  "region": "Central America",
+  "coords": "15.2°N, 86.2°W",
+  "fileNo": "076",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2ECD9",
+    "dot": "#CDBF9E",
+    "ink": "#241F1A",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#1A3D8F",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/hn.svg",
+    "title": "Flag of Honduras",
+    "note": "Blue–white–blue with five blue stars",
+    "keyColor": "#1A3D8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Honduras sits in the heart of Central America, with cloud-wrapped mountains, ancient Maya cities, and the world's second-largest coral reef just offshore. Scarlet macaws screech through rainforests where jaguars still prowl. The name means \"great depths\" in Spanish — sailors marvelled at the deep waters off its northern coast.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Tegucigalpa",
+      "sub": "Perched at ~975 m altitude"
+    },
+    {
+      "label": "People",
+      "value": "10.9 million",
+      "sub": "Est. 2025, UN Pop. Prospects"
+    },
+    {
+      "label": "Money",
+      "value": "Lempira (L)",
+      "sub": "Named after a Lenca chief"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Plus Garífuna & Creole"
+    },
+    {
+      "label": "Land area",
+      "value": "112,492 km²",
+      "sub": "Bigger than Bulgaria"
+    },
+    {
+      "label": "Top",
+      "value": "Las Minas",
+      "sub": "2,870 m, forested summit"
+    }
+  ],
+  "islands": [
+    "Tegucigalpa",
+    "S.P. Sula",
+    "La Ceiba",
+    "Roatán",
+    "Copán"
+  ],
+  "islandsLabel": "MAIN CITIES & PLACES:",
+  "sections": {
+    "geography": "Mountains, coasts & deep sea",
+    "animals": "Wild things of jungle & reef",
+    "culture": "Maize, music & Lenca roots",
+    "history": "Maya stones to republic",
+    "wows": "Seven things that'll stun you"
+  },
+  "geo": [
+    "Honduras is mostly mountains — rugged ridges run east to west like a crumpled tablecloth, with fertile valleys tucked between. The north coast opens onto the warm Caribbean, while the south touches the hot Gulf of Fonseca on the Pacific side.",
+    "The Mesoamerican Barrier Reef, the world's second-largest reef system, hugs Honduras's Caribbean shore. The Bay Islands — Roatán, Utila, Guanaja — sit right on it, so snorkellers float above parrotfish and sea turtles just metres from the beach."
+  ],
+  "animals": [
+    "The scarlet macaw — blazing red, yellow, and blue — is Honduras's national bird and nests in the lowland forests of the Mosquito Coast. Jaguars, tapirs, and giant anteaters still roam the Río Plátano Biosphere Reserve, the largest tropical rainforest in Central America.",
+    "Offshore, whale sharks — the biggest fish on Earth — gather each spring near Utila to feed on tiny eggs. The reef also shelters sea horses, moray eels, and hawksbill sea turtles that lay eggs on moonlit beaches."
+  ],
+  "culture": [
+    "Hondurans are proud of baleadas — thick tortillas folded around refried beans, cream, and crumbly cheese, eaten at any hour. Maize has been sacred here for thousands of years; tamales in banana leaves appear at every festival.",
+    "The Garífuna people of the Caribbean coast blend African, Carib, and Arawak roots into a culture UNESCO calls a world treasure. Their punta music — fast drumming, hip-shaking dancing — fills beach villages, and their fishing canoes are still carved by hand."
+  ],
+  "history": [
+    "The ancient Maya built their most elaborate city at Copán. Its Hieroglyphic Stairway — 2,200 carved glyphs on 63 steps — is the longest known Maya inscription. The dynasty began around AD 427 and the city was largely abandoned by AD 900.",
+    "Spanish conquistadors arrived in the 1520s. Honduras won independence in 1821, then went it alone in 1838. The Lempira currency honours a Lenca warrior chief who resisted the Spanish before dying in 1537."
+  ],
+  "wows": [
+    "Copán's stairway holds 2,200 Maya glyphs — more carved text than any other Maya monument.",
+    "Utila is one of the cheapest places on Earth to get a scuba diving certification.",
+    "Honduras is Central America's top coffee exporter; its highland beans are prized by speciality roasters.",
+    "The Río Plátano reserve is so remote that parts have never been fully mapped by scientists.",
+    "Whale sharks up to 12 m long visit Utila each spring — you can legally swim alongside them.",
+    "Tegucigalpa is one of few capitals almost always called just by its nickname, 'Tegus'.",
+    "Garífuna language, listed by UNESCO in 2001, is spoken by fewer than 200,000 people globally."
+  ],
+  "myths": [
+    {
+      "myth": "Honduras is all dangerous jungle",
+      "fact": "The Bay Islands and Copán ruins are safe, popular spots enjoyed by hundreds of thousands of visitors each year without trouble."
+    },
+    {
+      "myth": "The Maya just vanished overnight",
+      "fact": "Copán's Maya left gradually over decades — likely due to drought, soil exhaustion, and political stress, not a single disaster."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Tortilla",
+      "jp": "Tortilla",
+      "say": "tor-TEE-yah"
+    },
+    {
+      "en": "Friend",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hn-hero.jpg",
+      "alt": "Aerial view of Tegucigalpa city nestled among green hills",
+      "caption": "TEGUCIGALPA — the capital climbs steep green hillsides at ~975 m above sea level",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/hn-landmark.jpg",
+      "alt": "The Hieroglyphic Stairway at Copán Maya ruins",
+      "caption": "COPÁN — the longest Maya inscription, 2,200 glyphs on 63 stone steps",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hn-animalA.jpg",
+      "alt": "Scarlet macaw perched on a branch showing vivid red, yellow and blue plumage",
+      "caption": "SCARLET MACAW — Honduras's national bird blazes red and gold in the canopy",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hn-animalB.jpg",
+      "alt": "Massive whale shark gliding through blue water",
+      "caption": "WHALE SHARK — the ocean's largest fish visits Utila each spring near the reef",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

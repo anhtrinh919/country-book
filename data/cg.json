@@ -1,0 +1,163 @@
+{
+  "name": "CONGO",
+  "nativeName": "CG",
+  "romaji": "KONGO",
+  "tagline": "Heart of the Rainforest",
+  "region": "Central Africa",
+  "coords": "4°S 15°E",
+  "fileNo": "042",
+  "langName": "French",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F4EFE2",
+    "dot": "#C9B98E",
+    "ink": "#241E16",
+    "faint": "#7E6C44",
+    "line": "#DDD1B0",
+    "accent": "#009543",
+    "accent2": "#DC241F"
+  },
+  "flag": {
+    "assetPath": "/flags/cg.svg",
+    "title": "Green, Yellow, Red",
+    "note": "Diagonal tricolour: green, yellow, red",
+    "keyColor": "#009543",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Congo is a land of steamy rainforest in the heart of Africa — trees so thick sunlight barely reaches the ground. Gorillas, forest elephants, and thousands of birds live inside. The capital Brazzaville sits on the mighty Congo River, facing Kinshasa just 4 km away: two capitals closer to each other than any other pair on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Brazzaville",
+      "sub": "On the Congo River bank"
+    },
+    {
+      "label": "People",
+      "value": "6.1 million",
+      "sub": "Est. 2024; 67% urban"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared with 5 neighbours"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "Lingala & Kituba spoken widely"
+    },
+    {
+      "label": "Land Area",
+      "value": "342,000 km²",
+      "sub": "Bigger than Germany"
+    },
+    {
+      "label": "High Point",
+      "value": "Mont Nabeba",
+      "sub": "1,020 m in the Mayumbe hills"
+    }
+  ],
+  "islands": [
+    "Brazzaville",
+    "Pointe-Noire",
+    "Dolisie",
+    "Ouesso",
+    "Impfondo"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A green and steamy land",
+    "animals": "Giants of the forest",
+    "culture": "Rhythm, colour & rumba",
+    "history": "Kingdoms, rivers & freedom",
+    "wows": "Wait — really?!"
+  },
+  "geo": [
+    "Congo's forests cover about 65% of the country — part of the world's second-largest tropical rainforest. The Congo Basin drains more water than any river except the Amazon.",
+    "The Congo River forms the eastern border and is so deep that fish have evolved completely blind. To the west, the Crystal Mountains rise before dropping to the Atlantic coast."
+  ],
+  "animals": [
+    "Western lowland gorillas live deep in Odzala-Kokoua National Park — one of Africa's oldest protected areas. Family groups knuckle-walk through undergrowth, and visitors can sit just metres from a silverback.",
+    "Forest elephants are smaller and rounder-eared than savannah cousins. They create clearings called bais where dozens gather at mineral-rich mud pools. Over 400 bird species share these wild spaces."
+  ],
+  "culture": [
+    "Congolese rumba — born from Bantu rhythms, Cuban music, and French ballroom — swept the world in the 1950s and is now UNESCO-recognised. Bands in Brazzaville still play late into the night.",
+    "Colourful pagne (wax-print cloth) is worn for weddings, church, and daily life. The Sape movement — dandies in flamboyant designer suits — turns Brazzaville's streets into a fashion show."
+  ],
+  "history": [
+    "Bantu-speaking peoples settled the Congo Basin over 2,000 years ago. French explorer Pierre de Brazza signed a treaty with the Tio king in 1880, and the capital was named after him.",
+    "Congo became independent on 15 August 1960. Brazzaville made history in 1944 when de Gaulle held a landmark conference there that began reshaping France's ties with all its African territories."
+  ],
+  "wows": [
+    "Brazzaville and Kinshasa are the only two capitals facing each other across a river — just 4 km apart.",
+    "The Congo River plunges over 220 m deep — enough to hide a 20-storey building completely underwater.",
+    "Congo's peatlands store ~30 billion tonnes of carbon — about 3 years of all global fossil-fuel emissions.",
+    "Oil makes up about 89% of Congo's exports, even though most of the country is pristine rainforest.",
+    "Odzala-Kokoua was first protected in 1935, making it one of Africa's oldest national parks.",
+    "The Congo–Ocean Railway took 13 gruelling years to build by hand through jungle, finishing in 1934.",
+    "Nearly 70% of Congolese live in cities — one of Africa's highest urban rates despite vast wilderness."
+  ],
+  "myths": [
+    {
+      "myth": "Congo = the DRC (Kinshasa)",
+      "fact": "There are TWO Congos. Republic of the Congo (Brazzaville) is smaller and west of the river; DR Congo (Kinshasa) is much larger to the east."
+    },
+    {
+      "myth": "It's all dangerous jungle",
+      "fact": "Congo is one of Africa's most urbanised nations — about 70% live in cities with restaurants, music venues, and river promenades."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Forest",
+      "jp": "Forêt",
+      "say": "foh-RAY"
+    },
+    {
+      "en": "River",
+      "jp": "Fleuve",
+      "say": "FLUHV"
+    },
+    {
+      "en": "Gorilla",
+      "jp": "Gorille",
+      "say": "goh-REE-yuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cg-hero.jpg",
+      "alt": "Train arriving at Brazzaville station in 2018",
+      "caption": "BRAZZAVILLE STATION — Congo-Ocean train arrives after two-year gap, Nov 2018",
+      "credit": "Arsène Séverin / Voice of America"
+    },
+    "landmark": {
+      "src": "/photos/cg-landmark.jpg",
+      "alt": "Exterior of Basilique Sainte-Anne-du-Congo in Brazzaville",
+      "caption": "BASILIQUE SAINTE-ANNE-DU-CONGO — Brazzaville's iconic twin-towered basilica",
+      "credit": "NGOULOU BATALA Ryddhel / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/cg-animalA.jpg",
+      "alt": "Western lowland gorillas at a salt lick in Odzala-Kokoua National Park",
+      "caption": "WESTERN LOWLAND GORILLAS — at a bai forest clearing in Odzala-Kokoua Park",
+      "credit": "Ekassa / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/cg-animalB.jpg",
+      "alt": "Forest elephant in Odzala-Kokoua National Park",
+      "caption": "FOREST ELEPHANT — smaller, rounder-eared cousin of the savannah elephant, Odzala",
+      "credit": "John P Friel / CC BY 4.0"
+    }
+  }
+}

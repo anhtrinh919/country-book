@@ -1,0 +1,163 @@
+{
+  "name": "SAMOA",
+  "nativeName": "WS",
+  "romaji": "SAMOA",
+  "tagline": "Islands of blue & tatau",
+  "region": "Polynesia, South Pacific",
+  "coords": "13°35′S 172°20′W",
+  "fileNo": "063",
+  "langName": "Samoan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F3EDE0",
+    "dot": "#C9BAA2",
+    "ink": "#252018",
+    "faint": "#7E6E52",
+    "line": "#DACFB8",
+    "accent": "#C0202E",
+    "accent2": "#1A3A6B"
+  },
+  "flag": {
+    "assetPath": "/flags/ws.svg",
+    "title": "Flag of Samoa",
+    "note": "Red & blue with Southern Cross stars",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Samoa is a tiny island nation in the South Pacific, made up of two volcanic islands ringed by coral reefs and rainforest. Polynesians settled here 3,000 years ago, and the old way of life — Fa'a Samoa — is still alive today: big extended families, open-walled houses, and a tattoo tradition that gave the whole world the word \"tattoo\".",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Apia",
+      "sub": "On Upolu island's north coast"
+    },
+    {
+      "label": "People",
+      "value": "≈ 218,000",
+      "sub": "Est. 2024; 3/4 live on Upolu"
+    },
+    {
+      "label": "Money",
+      "value": "Samoan tālā",
+      "sub": "WS$; 100 sene = 1 tālā"
+    },
+    {
+      "label": "Language",
+      "value": "Samoan",
+      "sub": "Also English; both are official"
+    },
+    {
+      "label": "Land area",
+      "value": "2,842 km²",
+      "sub": "About the size of Luxembourg"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mt Silisili",
+      "sub": "1,858 m — on Savai'i island"
+    }
+  ],
+  "islands": [
+    "Upolu",
+    "Savai'i",
+    "Manono",
+    "Apolima",
+    "Aleipata"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Volcanoes, reefs & blue holes",
+    "animals": "Bats, birds & sea turtles",
+    "culture": "Fa'a Samoa — the Samoan way",
+    "history": "3,000 years of island story",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Samoa sits on two volcanic islands that burst from the ocean floor. Savai'i, the larger one, still has vast lava fields from a 1905 eruption. Both islands have rugged mountains draped in rainforest, with white-sand beaches and coral reefs along the coast.",
+    "The most jaw-dropping sight is To Sua Ocean Trench — a circular swimming hole 30 metres deep, carved from a collapsed lava tube and connected to the open ocean by an underwater cave."
+  ],
+  "animals": [
+    "Samoa's only native land mammals are bats — chiefly the Samoan flying fox, which soars in daylight hunting fruit and spreads seeds across the rainforest. Sea turtles nest on quiet beaches, and the reef teems with colourful tropical fish.",
+    "The rarest resident is the manumea, or tooth-billed pigeon — Samoa's national bird and the 'little dodo'. Fewer than 250 survive in the forest, with a hooked, toothed bill unlike any other living pigeon. Over 84% of Samoa's birds live nowhere else on Earth."
+  ],
+  "culture": [
+    "Life is shaped by Fa'a Samoa — the Samoan Way. Extended families share open-walled houses called fale and make decisions together. Before any ceremony, elders share a ritual drink called 'ava from a polished coconut shell, following precise ancient rules about who speaks and who drinks first.",
+    "Samoa gave the world the word 'tattoo' (from tatau). Young men receive the pe'a — an intricate pattern from waist to knee — as a mark of identity and strength. Music, dance, and weaving fine mats are central arts, and Sunday is treated as a near-sacred day of rest."
+  ],
+  "history": [
+    "Polynesians arrived by canoe from Tonga around 1000 BCE. By 200 CE, Samoa was a launching point for great voyages that settled eastern Polynesia, including Hawaii and New Zealand. British missionaries arrived in 1830 and converted most of the island within a decade.",
+    "Germany and the US divided the islands in 1899. New Zealand took over in 1914. On 1 January 1962, Samoa became the first Pacific Island nation to gain full independence — a milestone for the whole Pacific region."
+  ],
+  "wows": [
+    "Samoa erased 30 December 2011 from its calendar when it hopped across the International Date Line.",
+    "The word 'tattoo', used in every language, comes from the Samoan word tatau.",
+    "In 2009 Samoa switched from driving on the right to the left — overnight, in one go.",
+    "Samoa is a 30-minute flight from 'yesterday' — American Samoa sits on the other side of the Date Line.",
+    "Scientists went five years without photographing a live manumea — it is that rare and shy.",
+    "Samoa has no army at all — one of only 21 countries in the world with zero military.",
+    "Samoan flying foxes hunt fruit in full daylight, which is very unusual for any bat species."
+  ],
+  "myths": [
+    {
+      "myth": "Samoa and American Samoa are the same place",
+      "fact": "They are separate. Samoa (capital Apia) is an independent nation; American Samoa is a US territory 164 km away, with a different government, currency, and even calendar day."
+    },
+    {
+      "myth": "Samoan tattoo patterns are just a style anyone can copy",
+      "fact": "The pe'a and malu are sacred rites tied to family and Samoan identity. The designs carry specific meaning and are earned through ceremony, not chosen from a pattern sheet."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Talofa",
+      "say": "ta-LOH-fa"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Fa'afetai",
+      "say": "fah-ah-feh-TIE"
+    },
+    {
+      "en": "Please",
+      "jp": "Fa'amolemole",
+      "say": "fah-MOH-leh-MOH"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Tofa",
+      "say": "TOH-fah"
+    },
+    {
+      "en": "How are you?",
+      "jp": "O ā mai oe?",
+      "say": "oh AH my OH-ay"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ws-hero.jpg",
+      "alt": "Apia waterfront at midday with palm trees and colourful buildings lining the seafront",
+      "caption": "APIA WATERFRONT — Samoa's lively capital hugs the harbour on Upolu's north coast",
+      "credit": "Michael Coghlan / CC BY-SA 2.0"
+    },
+    "landmark": {
+      "src": "/photos/ws-landmark.jpg",
+      "alt": "Deep circular ocean swimming hole surrounded by lush tropical greenery and a wooden ladder",
+      "caption": "TO SUA OCEAN TRENCH — a 30 m deep lava-tube pool connected to the Pacific ocean",
+      "credit": "Neil (Flickr) / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/ws-animalA.jpg",
+      "alt": "Samoan flying fox hanging in a tree with wings folded, brown fur visible",
+      "caption": "SAMOAN FLYING FOX — the only native land mammal, hunts fruit in broad daylight",
+      "credit": "Paul Asman & Jill Lenoble / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/ws-animalB.jpg",
+      "alt": "Tooth-billed pigeon perched on a branch, showing its distinctive hooked orange bill",
+      "caption": "MANUMEA — Samoa's critically endangered 'little dodo', fewer than 250 remain",
+      "credit": "Augustin Kramer, 1901 / Public domain"
+    }
+  }
+}

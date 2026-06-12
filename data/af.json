@@ -1,0 +1,162 @@
+{
+  "name": "AFGHANISTAN",
+  "nativeName": "افغان",
+  "romaji": "AFGHANISTAN",
+  "tagline": "Roof of the World",
+  "region": "South Asia",
+  "coords": "33.94°N, 67.71°E",
+  "fileNo": "004",
+  "langName": "Dari",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A5A",
+    "line": "#DCCFB0",
+    "accent": "#009A44",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/af.svg",
+    "title": "Afghan flag",
+    "note": "Black, red & green with white emblem",
+    "keyColor": "#009A44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Afghanistan sits at the crossroads of Asia, where mighty mountains meet vast desert plains. The Hindu Kush range cuts through the middle like a spine of ice and rock. For thousands of years, traders on the Silk Road passed right through here, making Kabul one of the world's great meeting points of cultures and ideas.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kabul",
+      "sub": "Pop. ~4.9 million"
+    },
+    {
+      "label": "People",
+      "value": "~43 million",
+      "sub": "Est. 2023, no census"
+    },
+    {
+      "label": "Money",
+      "value": "Afghani (AFN)",
+      "sub": "1 USD ≈ 64 AFN"
+    },
+    {
+      "label": "Language",
+      "value": "Dari & Pashto",
+      "sub": "Both official languages"
+    },
+    {
+      "label": "Land area",
+      "value": "652,230 km²",
+      "sub": "Bigger than France"
+    },
+    {
+      "label": "Highest peak",
+      "value": "Noshaq 7,492 m",
+      "sub": "2nd-tallest in Hindu Kush"
+    }
+  ],
+  "islands": [
+    "Kabul",
+    "Kandahar",
+    "Herat",
+    "Mazar-Sharif"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, deserts & silk road",
+    "animals": "Snow leopards & wild horses",
+    "culture": "Carpets, poetry & green tea",
+    "history": "Empires & crossroads of Asia",
+    "wows": "7 surprising Afghan facts"
+  },
+  "geo": [
+    "Afghanistan has no sea coast at all — it is completely surrounded by land. The Hindu Kush mountains run through the middle with peaks above 7,000 m, while the south is hot sandy desert called the Registan.",
+    "The Amu Darya river forms the northern border, and the Wakhan Corridor — a thin finger of land — stretches east to touch China. Spring brings a brief explosion of wildflowers across the valleys."
+  ],
+  "animals": [
+    "The snow leopard prowls the high rocky passes of the Hindu Kush, padding silently on enormous paws that act like snowshoes. Marco Polo sheep have huge curling horns and live above 4,000 m.",
+    "The Afghan hound, one of the world's oldest dog breeds, has silky long fur that kept it warm on mountain hunts. Wild ibex also roam the rugged valleys, watched over by golden eagles circling overhead."
+  ],
+  "culture": [
+    "Afghans are famous for hand-knotted carpets that take months to make, telling stories in colourful geometric patterns. Poetry is deeply loved — the medieval poet Rumi, born near Balkh, is still read worldwide.",
+    "Green tea with cardamom is offered to every guest as a sign of welcome. The national sport, buzkashi, involves riders on horseback competing to carry a goat carcass across a goal line."
+  ],
+  "history": [
+    "Afghanistan has been crossed by history's greatest empires — Alexander the Great, the Mauryans, Mongols under Genghis Khan, and Timur all swept through, each leaving traces in art, language, and culture.",
+    "In the 1800s, Britain and Russia played the 'Great Game' competing for control. Afghanistan kept its independence. The 20th century brought a Soviet invasion in 1979, followed by decades of turbulent rebuilding."
+  ],
+  "wows": [
+    "Kandahar pomegranates are among the world's sweetest — prized across Asia for over 1,000 years.",
+    "The ancient city of Balkh is called 'Mother of Cities' — it is over 3,000 years old.",
+    "The Bamiyan Buddhas, carved 1,500 years ago, were once the world's tallest standing Buddha statues.",
+    "The Band-e Amir lakes are so vivid blue they look photoshopped — formed by natural travertine dams.",
+    "Buzkashi — riders competing on horseback over a goat carcass — has been played here for over 1,000 years.",
+    "The Minaret of Jam, hidden in a remote valley, is a UNESCO site standing 65 m tall.",
+    "Afghanistan borders six countries: Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, China."
+  ],
+  "myths": [
+    {
+      "myth": "Afghanistan is only desert",
+      "fact": "The north and east are covered by the Hindu Kush mountains and lush river valleys. Only the south and southwest are true desert."
+    },
+    {
+      "myth": "Only one language is spoken",
+      "fact": "Dari and Pashto are both official, and at least 30 other languages — Uzbek, Hazaragi, Turkmen — are spoken across the country."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "سلام",
+      "say": "Sa-LAAM"
+    },
+    {
+      "en": "Thank you",
+      "jp": "تشکر",
+      "say": "tash-A-KOR"
+    },
+    {
+      "en": "Yes",
+      "jp": "بله",
+      "say": "ba-LAY"
+    },
+    {
+      "en": "No",
+      "jp": "نه",
+      "say": "na"
+    },
+    {
+      "en": "Welcome",
+      "jp": "خوش آمدید",
+      "say": "khosh-aa-ma-DEED"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/af-hero.jpg",
+      "alt": "Panoramic view of Kabul city with mountains behind",
+      "caption": "KABUL — capital city nestled in a mountain valley at 1,800 m above sea level",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/af-landmark.jpg",
+      "alt": "Deep blue lakes of Band-e Amir surrounded by red cliffs",
+      "caption": "BAND-E AMIR — vivid blue natural lakes, Afghanistan's first national park",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/af-animalA.jpg",
+      "alt": "Snow leopard resting on a rocky ledge",
+      "caption": "SNOW LEOPARD — the ghost of the Hindu Kush, rarely seen in the wild",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/af-animalB.jpg",
+      "alt": "Afghan hound with long silky flowing coat",
+      "caption": "AFGHAN HOUND — one of the world's most ancient dog breeds from the mountains",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

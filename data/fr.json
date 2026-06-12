@@ -1,0 +1,163 @@
+{
+  "name": "FRANCE",
+  "nativeName": "FR",
+  "romaji": "FRANCE",
+  "tagline": "Land of Art & Baguettes",
+  "region": "Western Europe",
+  "coords": "46°N 2°E",
+  "fileNo": "008",
+  "langName": "French",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#ccbfa3",
+    "ink": "#252018",
+    "faint": "#8a7a5e",
+    "line": "#dccfb0",
+    "accent": "#002395",
+    "accent2": "#ED2939"
+  },
+  "flag": {
+    "assetPath": "/flags/fr.svg",
+    "title": "Le Tricolore",
+    "note": "Blue, white & red since 1794",
+    "keyColor": "#002395",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "France is Europe's largest country, where snowy Alps meet sunflower fields and castles overlook café terraces. About 90 million tourists visit every year — more than France's whole population — to see the Eiffel Tower, taste croissants, and walk through ancient vineyards. Every corner, from Normandy to Provence, tells a different story.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Paris",
+      "sub": "City of Light, pop. 2.1 m"
+    },
+    {
+      "label": "People",
+      "value": "68.4 million",
+      "sub": "Est. 2024, incl. overseas"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Joined eurozone 2002"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "Official; spoken globally"
+    },
+    {
+      "label": "Land area",
+      "value": "643,801 km²",
+      "sub": "Largest country in the EU"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Mont Blanc",
+      "sub": "4,808 m — roof of the Alps"
+    }
+  ],
+  "islands": [
+    "Paris",
+    "Lyon",
+    "Marseille",
+    "Bordeaux",
+    "Strasbourg"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, rivers & plains",
+    "animals": "Forests, peaks & wetlands",
+    "culture": "Art, food & the good life",
+    "history": "Revolutions & empire",
+    "wows": "Surprises about France!"
+  },
+  "geo": [
+    "France is shaped almost like a hexagon — French people call it l'Hexagone! The north has flat farmland and chalk cliffs above the Channel, while the south basks in Mediterranean sunshine. The Loire and Seine rivers wind past grand châteaux.",
+    "The Alps rise along the east, with Mont Blanc the highest peak in Western Europe. The Pyrenees form a wall with Spain, and the ancient Massif Central volcanic plateau sits right in the country's middle."
+  ],
+  "animals": [
+    "France's forests shelter red deer, wild boar, and shy roe deer. Golden eagles soar above the Pyrenees, and flamingos wade through the shallow Camargue lagoons in the south — a surprise splash of pink against the reedy marshes.",
+    "The Camargue is also home to wild white horses roaming free in herds. Otters have returned to mountain streams, and the lynx quietly hunts in the Vosges forests — rewilding efforts are bringing rare species back."
+  ],
+  "culture": [
+    "France gave the world impressionist painting, cinema (invented in Lyon in 1895), and haute couture — Paris hosts four major fashion weeks a year. The French take lunch seriously: a proper midday meal with several courses is still normal in many towns.",
+    "Bread is practically sacred — a law means a true baguette must be baked fresh on site. Over 1,200 named cheeses exist, and the French eat roughly 26 kg of cheese per person each year. Eating well is a patriotic duty."
+  ],
+  "history": [
+    "France was home to Celtic Gauls before Julius Caesar conquered it in 52 BC. In 1431, teenage Joan of Arc rallied the French army, helping end the Hundred Years' War. She remains France's greatest national hero.",
+    "The 1789 Revolution toppled the king and spread the idea that people should rule themselves. Napoleon conquered much of Europe before defeat in 1815. In 1944, Allied forces liberated Paris from Nazi occupation."
+  ],
+  "wows": [
+    "France welcomes ~90 million tourists a year — more visitors than its entire population.",
+    "The Eiffel Tower was meant to be torn down after 1889 — now it's the world's most-visited paid monument.",
+    "French territory touches the Atlantic, Pacific, Indian Ocean, and even borders Brazil.",
+    "A French law ensures bakers rotate holidays so no neighbourhood ever runs out of fresh bread.",
+    "Tour de France riders cycle ~3,400 km in 3 weeks, burning 8,000 calories on mountain days.",
+    "Camargue flamingos hatch grey — they turn pink only after years eating algae and shrimp.",
+    "France has won more Nobel Prizes in Literature than any other nation — 15 laureates."
+  ],
+  "myths": [
+    {
+      "myth": "\"French people are rude to tourists\"",
+      "fact": "Studies show French locals are among Europe's most helpful — a simple \"Bonjour!\" before asking transforms most interactions completely."
+    },
+    {
+      "myth": "\"Napoleon was very short\"",
+      "fact": "Napoleon stood about 1.69 m (5 ft 7 in), average for his era. The legend came from a mix-up between French and English measurements."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Sorry!",
+      "jp": "Pardon!",
+      "say": "par-DOHN"
+    },
+    {
+      "en": "Bread",
+      "jp": "Pain",
+      "say": "PAN"
+    },
+    {
+      "en": "Cheese",
+      "jp": "Fromage",
+      "say": "froh-MAHZH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fr-hero.jpg",
+      "alt": "The Eiffel Tower rising above green lawns on a sunny day",
+      "caption": "EIFFEL TOWER — Paris's iron lady, built 1889, now loved forever",
+      "credit": "Benh LIEU SONG / Wikimedia CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/fr-landmark.jpg",
+      "alt": "Mont Saint-Michel island abbey rising from tidal flats at dusk",
+      "caption": "MONT SAINT-MICHEL — medieval abbey on Normandy's tidal bay",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/fr-animalA.jpg",
+      "alt": "A flock of pink flamingos wading in a shallow Camargue lagoon",
+      "caption": "CAMARGUE FLAMINGOS — thousands of pink birds in the southern wetlands",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/fr-animalB.jpg",
+      "alt": "A white Camargue horse splashing through shallow lagoon water",
+      "caption": "CAMARGUE HORSE — wild white horses roam free in southern marshes",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

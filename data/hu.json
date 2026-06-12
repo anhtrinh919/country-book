@@ -1,0 +1,163 @@
+{
+  "name": "HUNGARY",
+  "nativeName": "HU",
+  "romaji": "MAGYARORSZÁG",
+  "tagline": "Land of spice & hot springs",
+  "region": "Eastern Europe",
+  "coords": "47.16°N, 19.50°E",
+  "fileNo": "036",
+  "langName": "Hungarian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CDBFA0",
+    "ink": "#2A2218",
+    "faint": "#8C7A5A",
+    "line": "#DDD0B0",
+    "accent": "#CE2939",
+    "accent2": "#436F4D"
+  },
+  "flag": {
+    "assetPath": "/flags/hu.svg",
+    "title": "Flag of Hungary",
+    "note": "Red, white & green — pride since 1848",
+    "keyColor": "#CE2939",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hungary sits in the heart of Europe, cradled by the Carpathians. Its capital Budapest spans two cities joined by elegant bridges across the Danube. Hungarians invented the Rubik's Cube, the ballpoint pen, and the noiseless safety match. Over 1,300 thermal springs bubble up underground, turning the whole country into a giant natural spa.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Budapest",
+      "sub": "Pop. ~1.7 million"
+    },
+    {
+      "label": "People",
+      "value": "9.6 million",
+      "sub": "Est. Jan 2024 (KSH)"
+    },
+    {
+      "label": "Money",
+      "value": "Forint (HUF)",
+      "sub": "~370 HUF = 1 USD"
+    },
+    {
+      "label": "Language",
+      "value": "Hungarian",
+      "sub": "Magyar — unique in Europe"
+    },
+    {
+      "label": "Land area",
+      "value": "93,028 km²",
+      "sub": "Slightly smaller than Portugal"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Kékes 1,014 m",
+      "sub": "Peak in the Mátra Hills"
+    }
+  ],
+  "islands": [
+    "Budapest",
+    "Debrecen",
+    "Miskolc",
+    "Pécs",
+    "Győr"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rolling plains & warm springs",
+    "animals": "Wildlife of the Puszta",
+    "culture": "Paprika, music & invention",
+    "history": "Empires rise and fall",
+    "wows": "Hungary's wildest facts"
+  },
+  "geo": [
+    "Hungary is almost entirely flat — a giant bowl called the Pannonian Basin. The Great Plain (Puszta) stretches east, a windswept grassland where cowboys once rode. Two great rivers, the Danube and Tisza, carve the land into thirds.",
+    "Over 1,300 thermal springs dot the country. Lake Balaton — Central Europe's largest lake — fills a valley in the west. Its warm, shallow waters draw millions of swimmers and sailors every summer."
+  ],
+  "animals": [
+    "The Puszta is home to grey cattle and racka sheep with spectacular corkscrew horns. The great bustard, the world's heaviest flying bird, still strides across Hungarian plains, its enormous wings spread wide at mating time.",
+    "The Danube teems with giant catfish and sturgeon. White-tailed eagles — wingspan as wide as a sofa — patrol the riverbanks, while European ground squirrels pop up like meerkats across the open grasslands."
+  ],
+  "culture": [
+    "Hungarian food is painted red with paprika, a spice brought from the Americas 400 years ago. Goulash (gulyás) began as a herdsman's campfire soup on the Puszta and is now loved around the world.",
+    "Béla Bartók tramped through villages recording ancient folk songs on wax cylinders. The ornate Liszt Academy still trains concert pianists today. Families spend Sunday mornings soaking in 36°C mineral pools — bath culture is simply part of life."
+  ],
+  "history": [
+    "Nomadic Magyar tribes galloped from the Ural steppes and settled the Carpathian Basin in AD 895. King Stephen I converted the kingdom to Christianity around 1000 AD and received a crown from the Pope — still Hungary's most sacred object.",
+    "Hungary was ruled by Ottomans for 150 years, then Habsburgs for nearly two centuries. In 1989 Hungarians peacefully dismantled the Iron Curtain fence, helping spark the end of the Cold War across all of Europe."
+  ],
+  "wows": [
+    "The Rubik's Cube, invented by Ernő Rubik in 1974, became the best-selling puzzle toy in history.",
+    "Budapest's metro Line 1 (1896) was the first underground railway on the European continent.",
+    "Hungary wins more Olympic gold medals per capita than almost any other country on Earth.",
+    "Laszlo Biro patented the ballpoint pen in 1938 — Brits still call all ballpoints 'biros'.",
+    "Lake Balaton averages just 3 m deep — so shallow you can wade surprisingly far from shore.",
+    "Hungarian's closest living relative is Finnish, spoken about 1,500 km away across Europe.",
+    "Budapest has over 100 thermal springs — more than any other capital city on the planet."
+  ],
+  "myths": [
+    {
+      "myth": "Goulash is a thick stew",
+      "fact": "Traditional gulyás is actually a thin, brothy soup eaten with a spoon. The thick stew version is a foreign invention that Hungarians find rather amusing."
+    },
+    {
+      "myth": "Hungarians are Slavic people",
+      "fact": "Magyar is a Finno-Ugric language, completely unrelated to Slavic tongues. Hungarian ancestors came from the Ural mountains, not from the same roots as neighbouring countries."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Szia",
+      "say": "SEE-yah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Köszönöm",
+      "say": "KUH-suh-nuhm"
+    },
+    {
+      "en": "Please",
+      "jp": "Kérem",
+      "say": "KAY-rem"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Finom",
+      "say": "FEE-nom"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "Egészségre",
+      "say": "egg-ACE-shayg-reh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hu-hero.jpg",
+      "alt": "Chain Bridge illuminated over the Danube at night with Buda Castle glowing behind",
+      "caption": "CHAIN BRIDGE — Budapest's 1849 suspension bridge gleams over the Danube at night",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/hu-landmark.jpg",
+      "alt": "Hungarian Parliament Building on the banks of the Danube in Budapest",
+      "caption": "PARLIAMENT — Neo-Gothic masterpiece on the Danube, one of Europe's largest buildings",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hu-animalA.jpg",
+      "alt": "Great bustard male in full feathered display on open grassland",
+      "caption": "GREAT BUSTARD — the world's heaviest flying bird strides the Puszta plains",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hu-animalB.jpg",
+      "alt": "Hungarian grey cattle with long curved horns on the Puszta grassland",
+      "caption": "GREY CATTLE — ancient Hungarian breed with spectacular long horns on the Puszta",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

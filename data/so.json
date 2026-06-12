@@ -1,0 +1,163 @@
+{
+  "name": "SOMALIA",
+  "nativeName": "SO",
+  "romaji": "SOOMAALIYA",
+  "tagline": "Horn of Africa's star",
+  "region": "East Africa",
+  "coords": "2°N, 46°E",
+  "fileNo": "074",
+  "langName": "Somali",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA0",
+    "ink": "#231F1B",
+    "faint": "#847560",
+    "line": "#DACFB2",
+    "accent": "#4189DD",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/so.svg",
+    "title": "The Star & Sky",
+    "note": "Blue field with a white five-pointed star",
+    "keyColor": "#4189DD",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Somalia juts like a number 7 from Africa's horn into the Indian Ocean — mainland Africa's longest coastline at 3,300 km. Camels outnumber cars, ancient cave paintings glow near Hargeisa, and Somali poets have recited epics by campfire for a thousand years. A land rebuilding itself, full of colour, music, and desert pride.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Mogadishu",
+      "sub": "Largest city, on the Indian Ocean"
+    },
+    {
+      "label": "People",
+      "value": "~18 million",
+      "sub": "UN est. 2026; last census 1975"
+    },
+    {
+      "label": "Money",
+      "value": "Shilling (SOS)",
+      "sub": "Camels featured on the coins"
+    },
+    {
+      "label": "Language",
+      "value": "Somali",
+      "sub": "Arabic also official"
+    },
+    {
+      "label": "Land area",
+      "value": "637,657 km²",
+      "sub": "Bigger than France"
+    },
+    {
+      "label": "Top peak",
+      "value": "Shimbiris",
+      "sub": "2,416 m in the north"
+    }
+  ],
+  "islands": [
+    "Mogadishu",
+    "Hargeisa",
+    "Kismayo",
+    "Bosaso",
+    "Berbera"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A horn, a sea & desert skies",
+    "animals": "Camels, cats & antelope",
+    "culture": "Poets, tea & a nomad's life",
+    "history": "Ancient trade & desert kings",
+    "wows": "Seven reasons to say wow"
+  },
+  "geo": [
+    "Somalia is the very tip of the Horn of Africa — the pointy bit poking furthest east into the Indian Ocean. Its northern mountains hold Shimbiris at 2,416 m, while most of the country is flat, hot thorn-scrub savanna baked by the sun.",
+    "Two rivers — the Jubba and the Shabelle — flow down from Ethiopia and give farmers the only green strips in an otherwise arid landscape. Dry monsoon winds carve sandy plains and rocky gorges across this wide, sun-scorched land."
+  ],
+  "animals": [
+    "Somalia has more camels than any other country — over 7 million dromedaries wander its plains, giving families milk, transport, and wealth. The gerenuk, a long-necked antelope, stands on its hind legs to nibble high branches.",
+    "The critically endangered Somali wild ass, ancestor of the donkey, still roams the rocky north. Offshore, whale sharks and sea turtles glide past barely-explored Indian Ocean reefs."
+  ],
+  "culture": [
+    "Somalis are so celebrated for poetry that scholars call theirs a 'Nation of Poets'. Verses are memorised and recited at weddings, markets, and peace talks — words carry real power here. Music uses a pentatonic scale and the warm tones of the oud lute.",
+    "Hospitality is sacred: every guest gets shaah (sweet spiced tea) and canjeero, a spongy sourdough flatbread eaten with honey or stew. Women wear the colourful guntiino wrap; men the macawis sarong — bright stripes for every occasion."
+  ],
+  "history": [
+    "Somali trading cities like Zeila and Mogadishu were busy Arab sea-trade ports over a thousand years ago, swapping gold, ivory, and frankincense. Cave paintings at Laas Geel near Hargeisa show decorated cattle painted 5,000–9,000 years ago.",
+    "Somalia was split between British and Italian colonial rulers in the 1800s, then united as an independent country on 1 July 1960. Civil war from 1991 shattered the state, but a federal government was restored and the country has been slowly rebuilding since the 2010s."
+  ],
+  "wows": [
+    "Somalia's mainland coastline tops 3,300 km — the longest of any country on mainland Africa.",
+    "Laas Geel cave paintings are up to 9,000 years old — among the best-preserved rock art on Earth.",
+    "Somalia holds over 7 million camels — more than any other country on the planet.",
+    "Somali only got an official written script in 1972, yet has one of Africa's richest oral poetry traditions.",
+    "The flag's five-pointed star stands for five regions where Somali people live across four countries.",
+    "Somali songs use only five notes per octave, giving the music a haunting, ancient sound.",
+    "Mogadishu was a thriving trading city 1,000+ years ago, visited by the explorer Ibn Battuta in 1331."
+  ],
+  "myths": [
+    {
+      "myth": "Somalia is all pirates",
+      "fact": "Piracy peaked around 2011 and has since fallen sharply — the High Risk Area was lifted in 2023, and most of Somalia's long coast is peacefully fished by local communities."
+    },
+    {
+      "myth": "Somalia is a total desert",
+      "fact": "The north has green mountain ranges and the south has two rivers with fertile farmland; even the dry plains turn vivid green after the spring rains."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Salaam",
+      "say": "sa-LAAM"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mahadsanid",
+      "say": "ma-HAD-sa-nid"
+    },
+    {
+      "en": "Yes",
+      "jp": "Haa",
+      "say": "HAH"
+    },
+    {
+      "en": "No",
+      "jp": "Maya",
+      "say": "MY-ah"
+    },
+    {
+      "en": "Water",
+      "jp": "Biyo",
+      "say": "BEE-yo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/so-hero.jpg",
+      "alt": "Aerial view of Mogadishu Sea Port",
+      "caption": "MOGADISHU SEA PORT — the rebuilt harbour buzzes with Indian Ocean trade.",
+      "credit": "Atmis Somalia / CC0"
+    },
+    "landmark": {
+      "src": "/photos/so-landmark.jpg",
+      "alt": "Rocky entrance to the Laas Geel cave complex in Somaliland",
+      "caption": "LAAS GEEL — granite overhangs shelter paintings up to 9,000 years old.",
+      "credit": "John Pavelka / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/so-animalA.jpg",
+      "alt": "Dromedary camels walking through desert landscape",
+      "caption": "DROMEDARY CAMELS — Somalia has over 7 million, the highest count on Earth.",
+      "credit": "Jerome Bon / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/so-animalB.jpg",
+      "alt": "Two gerenuks standing in savanna",
+      "caption": "GERENUK — this long-necked antelope stands on hind legs to reach high leaves.",
+      "credit": "frederic.salein / CC BY-SA 2.0"
+    }
+  }
+}

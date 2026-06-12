@@ -1,0 +1,163 @@
+{
+  "name": "CAPE VERDE",
+  "nativeName": "CV",
+  "romaji": "CABO VERDE",
+  "tagline": "Islands of fire & song",
+  "region": "West Africa",
+  "coords": "16.0°N, 24.0°W",
+  "fileNo": "023",
+  "langName": "Kriolu",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BBA8",
+    "ink": "#26201A",
+    "faint": "#8B7B62",
+    "line": "#DDD4C2",
+    "accent": "#003893",
+    "accent2": "#CF2027"
+  },
+  "flag": {
+    "assetPath": "/flags/cv.svg",
+    "title": "Cabo Verde Flag",
+    "note": "Blue seas, red-white path, ten island stars",
+    "keyColor": "#003893",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ten volcanic islands in the Atlantic, 570 km off West Africa. Nobody lived here until Portuguese sailors arrived in 1460 — so every person and song is a blend of Africa, Europe, and the sea. Today Cape Verde is one of Africa's most stable democracies, famous for surf, nesting sea turtles, and a soulful music called morna.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Praia",
+      "sub": "On Santiago island"
+    },
+    {
+      "label": "People",
+      "value": "~525,000",
+      "sub": "World Bank est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Escudo (CVE)",
+      "sub": "Pegged to the euro"
+    },
+    {
+      "label": "Language",
+      "value": "Portuguese",
+      "sub": "Kriolu spoken daily"
+    },
+    {
+      "label": "Land area",
+      "value": "4,033 km²",
+      "sub": "Smaller than Corsica"
+    },
+    {
+      "label": "Top peak",
+      "value": "2,829 m",
+      "sub": "Pico do Fogo volcano"
+    }
+  ],
+  "islands": [
+    "Santiago",
+    "São Vicente",
+    "Fogo",
+    "Sal",
+    "Santo Antão"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "A land of fire & desert winds",
+    "animals": "Turtles, seabirds & sea life",
+    "culture": "Music, food & island soul",
+    "history": "Sailors, traders & freedom",
+    "wows": "Surprising Cape Verde"
+  },
+  "geo": [
+    "Cape Verde's ten islands split into two groups: the flat, sandy eastern islands — Sal and Boa Vista — where wind sculpts endless dunes, and the rugged western islands — Santo Antão and Fogo — where jagged peaks plunge into the sea.",
+    "The biggest wow is Fogo island: an active volcano last erupted in 2014 and buried a whole village in lava. Farmers now grow coffee and grapes inside the crater — one of the world's most dramatic vineyards."
+  ],
+  "animals": [
+    "Cape Verde has one of the world's largest loggerhead turtle nesting colonies — over 170,000 nests in a single season on Boa Vista's beaches. Each August, mother turtles haul ashore by night to lay eggs in the warm sand.",
+    "The Raso lark survives only on one tiny uninhabited islet — the whole species would fit inside a football stadium. Humpback whales pass through in winter and five turtle species swim in Cape Verdean waters."
+  ],
+  "culture": [
+    "Cape Verdean culture blends African rhythm with Portuguese melody. Morna — a slow, soulful music of longing and sea — was added to UNESCO's intangible heritage list in 2019. Cesária Évora, the 'Barefoot Diva' from Mindelo, carried it to concert halls worldwide.",
+    "Food reflects the same blend: cachupa is a national stew of corn and beans simmered with fish or meat — every family has its own recipe. Mindelo throws one of Africa's most colourful carnival parades each February."
+  ],
+  "history": [
+    "Before 1460 the islands were completely empty. Portuguese explorers built a colony that became West Africa's first major trading hub, linking Europe, Africa, and the Americas — and, tragically, a key stop in the transatlantic slave trade.",
+    "For 500 years Cape Verde was Portuguese. Leader Amílcar Cabral inspired the independence movement, and freedom was won without a battle — through negotiation after Portugal's 1974 revolution. Independence Day: 5 July 1975."
+  ],
+  "wows": [
+    "Cape Verde has no rivers — most islands get fresh water entirely from desalination plants.",
+    "Cesária Évora's face appears on the 2,000 escudo note — rare for a musician on currency.",
+    "Pico do Fogo erupted in 2014; people moved back and farm inside the lava field today.",
+    "Cape Verde has never had a military coup — remarkable stability in the region.",
+    "Trade winds blow so hard on some islands that trees grow permanently sideways.",
+    "More Cape Verdeans live abroad than on the islands — a global diaspora of musicians & fishers.",
+    "In the 1800s Mindelo was one of the Atlantic's busiest coaling stops for steam ships."
+  ],
+  "myths": [
+    {
+      "myth": "Cape Verde is just a beach destination",
+      "fact": "The islands also have active volcanoes, cloud-forest hikes, windsurfing, endemic birds found nowhere else, and a vast sea-turtle nesting ground."
+    },
+    {
+      "myth": "Everyone speaks Portuguese day-to-day",
+      "fact": "Portuguese is official for writing, but virtually all Cape Verdeans speak Kriolu — a creole blending Portuguese with West African languages — as their real mother tongue."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Ola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Obrigadu",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Bon dia",
+      "say": "bohn DEE-ah"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Modi bu sta?",
+      "say": "MOH-dee boo stah"
+    },
+    {
+      "en": "Very good",
+      "jp": "Muitu ben",
+      "say": "MWEE-too ben"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cv-hero.jpg",
+      "alt": "Panoramic view of Mindelo bay and town on São Vicente island, Cape Verde",
+      "caption": "MINDELO — Cape Verde's cultural capital curves around the deep blue Porto Grande bay",
+      "credit": "Manuel de Sousa / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/cv-landmark.jpg",
+      "alt": "Road leading through volcanic landscape toward Pico do Fogo on Fogo island",
+      "caption": "PICO DO FOGO — a road winds into the crater where an active volcano still smoulders",
+      "credit": "Cayambe / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/cv-animalA.jpg",
+      "alt": "Male Raso lark perched, a small bird endemic to Cape Verde",
+      "caption": "RASO LARK — the whole species lives on one islet; fewer than 1,500 birds remain",
+      "credit": "Justin Welbergen / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/cv-animalB.jpg",
+      "alt": "Santa Maria beach on Sal island, Cape Verde, with turquoise water and white sand",
+      "caption": "SANTA MARIA BEACH — loggerhead turtles nest on Sal's golden shores each summer",
+      "credit": "Adrião / CC BY 3.0"
+    }
+  }
+}

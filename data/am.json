@@ -1,0 +1,163 @@
+{
+  "name": "ARMENIA",
+  "nativeName": "Հայաստ",
+  "romaji": "HAYASTAN",
+  "tagline": "Ancient stone & golden light",
+  "region": "South Caucasus, Western Asia",
+  "coords": "40.1°N, 45.0°E",
+  "fileNo": "031",
+  "langName": "Armenian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE2",
+    "dot": "#CDBFA0",
+    "ink": "#2A2118",
+    "faint": "#8A7860",
+    "line": "#DCCFB0",
+    "accent": "#D90012",
+    "accent2": "#F2A800"
+  },
+  "flag": {
+    "assetPath": "/flags/am.svg",
+    "title": "Flag of Armenia",
+    "note": "Tricolour: red, blue & apricot orange",
+    "keyColor": "#D90012",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Armenia is one of the world's oldest nations — landlocked in the Caucasus where Europe meets Asia. In 301 AD it became the first country to adopt Christianity. Ancient monasteries cling to cliffsides, apricot orchards perfume the summers, and its people have kept a unique alphabet alive for 1,600 years.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Yerevan",
+      "sub": "Among the world's oldest cities"
+    },
+    {
+      "label": "People",
+      "value": "2.97 million",
+      "sub": "Armenian StatCom, 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Dram (AMD)",
+      "sub": "Named after the Greek drachma"
+    },
+    {
+      "label": "Language",
+      "value": "Armenian",
+      "sub": "Own alphabet, invented 405 AD"
+    },
+    {
+      "label": "Land area",
+      "value": "29,743 km²",
+      "sub": "Smaller than Belgium"
+    },
+    {
+      "label": "High point",
+      "value": "Aragats 4,090m",
+      "sub": "An extinct four-peaked volcano"
+    }
+  ],
+  "islands": [
+    "Yerevan",
+    "Gyumri",
+    "Vanadzor",
+    "Dilijan",
+    "Goris"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, lakes & lava rock",
+    "animals": "Eagles, bears & rare trout",
+    "culture": "Feasts, stones & old script",
+    "history": "First Christian nation ever",
+    "wows": "Things that'll wow you!"
+  },
+  "geo": [
+    "Armenia is almost entirely mountainous — the average altitude is around 1,800 metres, higher than the Swiss national average. It is landlocked, bordered by Georgia, Azerbaijan, Iran and Turkey, with no sea coast at all.",
+    "Lake Sevan sits 1,900 metres above sea level, making it one of the world's largest high-altitude lakes. It sparkles brilliant blue among golden hills — swimmers love it despite the chilly water."
+  ],
+  "animals": [
+    "The Armenian mouflon — a wild mountain sheep with enormous curved horns — roams the rocky south and appears on ancient carvings. Brown bears and lynx live in the forested northern valleys around Dilijan.",
+    "Lake Sevan holds the ishkhan, a trout found nowhere else on Earth. Griffon vultures and golden eagles soar on thermals above ancient monasteries, scanning the valleys far below."
+  ],
+  "culture": [
+    "Armenia invented its own 38-letter alphabet in 405 AD — it looks like no other script in the world. Alphabet Park in Yerevan has giant stone carvings of every letter that children love to climb.",
+    "Lavash flatbread — baked in a clay tonir oven sunk into the ground — is a UNESCO heritage food. Apricots are the national fruit; the Latin word 'armeniaca' literally means 'from Armenia'."
+  ],
+  "history": [
+    "In 301 AD, King Tiridates III declared Christianity the state religion — making Armenia the first nation in history to do so. Monasteries like Geghard, carved into solid rock, have stood for 1,700 years.",
+    "Armenia spent centuries under Persian, Byzantine, Arab and Ottoman rule. In 1991, after 70 years inside the Soviet Union, Armenians voted for independence and raised their red-blue-orange flag again."
+  ],
+  "wows": [
+    "Yerevan is called the 'Pink City' — most buildings are built from rosy local volcanic stone called tuff.",
+    "The world's oldest leather shoe (5,500 years!) was found perfectly preserved in an Armenian cave in 2008.",
+    "A 6,100-year-old winery was excavated near Areni village — one of the oldest ever discovered.",
+    "Armenia's alphabet is nearly unchanged after 1,600 years — one of history's most stable writing systems.",
+    "Yerevan's Cascade staircase has 572 steps and a hidden underground escalator inside.",
+    "Chess is compulsory at school in Armenia — the only country where children must study it from age seven.",
+    "The Tatev tramway stretches 5.7 km over a dramatic gorge — the world's longest non-stop cable car."
+  ],
+  "myths": [
+    {
+      "myth": "Armenia is part of the Middle East",
+      "fact": "Armenia sits in the South Caucasus — a crossroads between Europe and Asia. It shares more cultural ties with Georgia and Eastern Europe than with Arab nations."
+    },
+    {
+      "myth": "Mount Ararat belongs to Armenia",
+      "fact": "The snow-capped peak on Armenia's coat of arms sits inside Turkey — Turkish territory since 1921 — though Armenians cherish it as a national symbol."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Բարև",
+      "say": "ba-REV"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Շնորհակալ",
+      "say": "sh-nor-ha-KAL"
+    },
+    {
+      "en": "Yes",
+      "jp": "Այո",
+      "say": "AY-o"
+    },
+    {
+      "en": "Bread",
+      "jp": "Հաց",
+      "say": "hats"
+    },
+    {
+      "en": "Apricot",
+      "jp": "Ծիրան",
+      "say": "tsi-RAN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/am-hero.jpg",
+      "alt": "The Cascade staircase in Yerevan at dusk with city lights below",
+      "caption": "YEREVAN CASCADE — the monumental stairway over Armenia's pink-stone capital",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/am-landmark.jpg",
+      "alt": "Geghard monastery carved into a cliff in a mountain gorge",
+      "caption": "GEGHARD MONASTERY — carved from solid rock, founded in the 4th century",
+      "credit": "Lori Butcher / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/am-animalA.jpg",
+      "alt": "Armenian mouflon wild sheep with large curving horns on a rocky hillside",
+      "caption": "ARMENIAN MOUFLON — iconic wild sheep of Armenia's mountain slopes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/am-animalB.jpg",
+      "alt": "Deep blue Lake Sevan surrounded by golden hills under clear sky",
+      "caption": "LAKE SEVAN — home to the ishkhan trout found nowhere else on Earth",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "GERMANY",
+  "nativeName": "DE",
+  "romaji": "DEUTSCHLAND",
+  "tagline": "Land of forests & ideas",
+  "region": "Central Europe",
+  "coords": "51°N 10°E",
+  "fileNo": "042",
+  "langName": "German",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#262018",
+    "faint": "#857567",
+    "line": "#DDD0BC",
+    "accent": "#DD0000",
+    "accent2": "#FFCE00"
+  },
+  "flag": {
+    "assetPath": "/flags/de.svg",
+    "title": "Flag of Germany",
+    "note": "Three equal bands: black, red, gold",
+    "keyColor": "#DD0000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Germany sits in the heart of Europe — dark fairy-tale forests, snowy Alpine peaks, and buzzing cities. It invented the printing press, the car, and the Christmas tree. About 84 million people call it home, making it Europe's most populous country and its biggest economy.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Berlin",
+      "sub": "Pop. ~3.8 million"
+    },
+    {
+      "label": "People",
+      "value": "~84 million",
+      "sub": "Est. 2025, Eurostat"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Used since 2002"
+    },
+    {
+      "label": "Language",
+      "value": "German",
+      "sub": "Spoken by ~95%"
+    },
+    {
+      "label": "Land area",
+      "value": "357,600 km²",
+      "sub": "Slightly > Montana"
+    },
+    {
+      "label": "Top peak",
+      "value": "Zugspitze",
+      "sub": "2,962 m above sea"
+    }
+  ],
+  "islands": [
+    "Bavaria",
+    "Berlin",
+    "Hamburg",
+    "Rhine Valley",
+    "Black Forest"
+  ],
+  "islandsLabel": "KEY REGIONS:",
+  "sections": {
+    "geography": "Forests, rivers & icy peaks",
+    "animals": "Wild things of the woods",
+    "culture": "Bread, beer & big ideas",
+    "history": "From kingdoms to reunification",
+    "wows": "Germany surprises!"
+  },
+  "geo": [
+    "Germany is a landscape sampler: flat windy coasts in the north, rolling farmland and the mighty Rhine River in the middle, and jagged Bavarian Alps in the south. The Zugspitze mountain touches the clouds at 2,962 metres.",
+    "Great forests cover nearly a third of the country. The Black Forest in the southwest is so thick and gloomy it inspired the Brothers Grimm fairy tales. The Rhine and Elbe rivers have carried traders past castle-crowned hills for thousands of years."
+  ],
+  "animals": [
+    "Germany's forests are full of wild boar — tusked, bristly pigs that snuffle through leaves for acorns. Their numbers have grown so large that boar are sometimes spotted in Berlin's suburbs at night, right inside a city of millions.",
+    "Every spring, white storks flap home from Africa and land on the same rooftop nest as the year before. Germans consider them lucky. Red squirrels — rusty-red with ear tufts — dart through pine trees, something rarely seen in countries where grey squirrels took over."
+  ],
+  "culture": [
+    "Germany has over 1,300 types of bread — more varieties than any other country. Bakers take the craft so seriously that German bread-making sits on UNESCO's cultural heritage list. Sit down for lunch and a thick dark rye loaf arrives first.",
+    "Music runs deep here. Bach, Beethoven, and Brahms were all German. Germany has more opera houses than any other country — over 80. Every December, town squares fill with glittering Christmas markets, a tradition that started here about 500 years ago."
+  ],
+  "history": [
+    "Germany was not always one country. For centuries it was a patchwork of kingdoms, duchies, and free cities. It only united into one nation in 1871. After World War II it was split into democratic West Germany and communist East Germany, divided by the Berlin Wall.",
+    "In 1989 that wall came tumbling down as crowds cheered on both sides. East and West reunified in 1990, and Berlin became the capital again. Today Germany is a peaceful democracy and the economic engine of the European Union."
+  ],
+  "wows": [
+    "Hamburg has more bridges than Venice, Amsterdam, and London combined — over 2,300!",
+    "Germany invented the gummy bear: Hans Riegel created the first chewy fruit sweet in Bonn in 1922.",
+    "Some Autobahn sections have no speed limit — the only major motorway network on Earth like this.",
+    "Gutenberg printed Europe's first book using movable type in Mainz around 1450, changing history.",
+    "Czechs actually drink more beer per person than Germans — Germany ranks only seventh worldwide.",
+    "Over 800 million currywurst sausages are eaten in Germany every year, 70 million in Berlin alone.",
+    "Germany has 16 states, each with its own parliament, police, and school-holiday schedule."
+  ],
+  "myths": [
+    {
+      "myth": "All Germans wear lederhosen",
+      "fact": "Lederhosen and dirndls are Bavarian folk dress worn mostly at festivals. In Berlin or Hamburg, ordinary people dress like anywhere else in jeans and trainers."
+    },
+    {
+      "myth": "The whole Autobahn has no speed limit",
+      "fact": "About 40% of the Autobahn has posted limits in roadworks and towns. Only roughly 60% is unrestricted, and a 130 km/h advisory speed is still recommended."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "Please",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Tschüss",
+      "say": "CHÜSS"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Lecker!",
+      "say": "LEK-ker"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/de-hero.jpg",
+      "alt": "White ICE high-speed train at Frankfurt central station",
+      "caption": "ICE TRAIN — Germany's sleek high-speed rail at Frankfurt Hauptbahnhof",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/de-landmark.jpg",
+      "alt": "Neuschwanstein Castle perched on a forested Bavarian hillside",
+      "caption": "NEUSCHWANSTEIN CASTLE — the fairy-tale palace that inspired Disney's Cinderella castle",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/de-animalA.jpg",
+      "alt": "White stork with red beak standing tall",
+      "caption": "WHITE STORK — returns to the same German rooftop nest each spring from Africa",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/de-animalB.jpg",
+      "alt": "Wild boar foraging in a European forest",
+      "caption": "WILD BOAR — tusked forest forager spotted even in Berlin's suburbs at night",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

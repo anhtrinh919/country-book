@@ -1,0 +1,163 @@
+{
+  "name": "PAKISTAN",
+  "nativeName": "پاک",
+  "romaji": "PAKISTAN",
+  "tagline": "Mountains, mangoes & markets",
+  "region": "South Asia",
+  "coords": "30.38°N, 69.35°E",
+  "fileNo": "PK",
+  "langName": "Urdu",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA2",
+    "ink": "#2B2318",
+    "faint": "#8B7A58",
+    "line": "#DCCFB0",
+    "accent": "#01411C",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/pk.svg",
+    "title": "Flag of Pakistan",
+    "note": "Green with white crescent & star",
+    "keyColor": "#01411C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Pakistan sits where the Silk Road crossed the world's tallest peaks. Five of Earth's fourteen highest mountains stand here, yet the south melts into warm Arabian Sea beaches. The Indus River — one of civilisation's oldest cradles — still waters farms growing the juiciest mangoes on Earth. Over 240 million people call Pakistan home.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Islamabad",
+      "sub": "Purpose-built city from the 1960s"
+    },
+    {
+      "label": "People",
+      "value": "241 million",
+      "sub": "2023 census — 5th most populous"
+    },
+    {
+      "label": "Money",
+      "value": "Pak Rupee",
+      "sub": "Symbol ₨, called 'rupee'"
+    },
+    {
+      "label": "Language",
+      "value": "Urdu",
+      "sub": "70+ regional languages spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "881,913 km²",
+      "sub": "Bigger than France & Germany"
+    },
+    {
+      "label": "High point",
+      "value": "K2, 8,611 m",
+      "sub": "2nd highest mountain on Earth"
+    }
+  ],
+  "islands": [
+    "Punjab",
+    "Sindh",
+    "KP",
+    "Balochistan",
+    "Gilgit"
+  ],
+  "islandsLabel": "BIG PROVINCES:",
+  "sections": {
+    "geography": "Mountains, deserts & rivers",
+    "animals": "Snow leopards & river dolphins",
+    "culture": "Cricket, trucks & great food",
+    "history": "5,000 years of civilisations",
+    "wows": "Pakistan will surprise you!"
+  },
+  "geo": [
+    "Pakistan is a land of wild contrasts. The north holds the Karakoram and Himalayan ranges — K2 is so steep that more people have walked on the Moon than reached its summit. Massive glaciers feed rivers flowing all the way to the sea.",
+    "The south is completely different: the Thar Desert bakes under a blazing sun, while the Indus Valley stretches across fertile plains where wheat, cotton, and sugarcane grow in vast fields."
+  ],
+  "animals": [
+    "The snow leopard prowls Pakistan's high mountains — a ghostly spotted cat so secretive it's called the 'ghost of the mountains'. Pakistan has one of the world's largest wild snow leopard populations, living above 3,000 m.",
+    "The Indus blind dolphin lives only in one stretch of the Indus River, navigating by sonar because the muddy water is too cloudy to see through. The markhor — a wild goat with spectacular corkscrew horns — is Pakistan's national animal."
+  ],
+  "culture": [
+    "Pakistan's truck art is world-famous — drivers paint their lorries in blazing colours with flowers, portraits, and poems, turning roads into rolling art galleries. The smell of freshly baked naan from a clay tandoor drifts through every bazaar.",
+    "Cricket is practically a religion: matches stop traffic and the whole country watches together. During Eid, families share biryani and sweet sheer khurma, dress in new clothes, and visit neighbours — entire neighbourhoods become one big joyful party."
+  ],
+  "history": [
+    "The Indus Valley Civilisation flourished at Mohenjo-daro over 4,500 years ago. Its people had running water, brick houses, and a writing system before most of the world knew what a city was. Alexander the Great later marched his army through these same passes.",
+    "The mighty Mughal Empire built grand mosques and the glittering Lahore Fort here. In 1947 Pakistan became independent when the British Indian Empire was partitioned — one of the 20th century's most dramatic moments."
+  ],
+  "wows": [
+    "Pakistan grows over 1.8 million tonnes of mangoes a year — Sindhri mangoes are among the sweetest on Earth.",
+    "K2's death rate is roughly 1 in 10 summiteers — about five times deadlier than Everest.",
+    "Mohenjo-daro had covered sewage drains nearly 2,000 years before Rome built its famous sewers.",
+    "The Karakoram Highway climbs to 4,714 m, making it one of the highest paved roads on Earth.",
+    "The Lahore Fort's Mirror Palace is tiled with thousands of mirror chips — one candle looks like a galaxy.",
+    "Pakistan has more than 7,000 glaciers outside the polar regions — more than anywhere else at this latitude.",
+    "K2 was the last 8,000 m peak unclimbed in winter — ten Nepali climbers finally summited in 2021."
+  ],
+  "myths": [
+    {
+      "myth": "Pakistan is all desert and dry wasteland",
+      "fact": "The Hunza and Swat valleys are lush and green, with alpine meadows, thick forests, and over 7,000 glaciers — the north looks more like Switzerland."
+    },
+    {
+      "myth": "Urdu and Hindi are completely different",
+      "fact": "Spoken casually, Urdu and Hindi are mutually intelligible — the main differences are the script and formal vocabulary borrowed from Persian or Sanskrit."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "آداب",
+      "say": "Adaab"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شکریہ",
+      "say": "Shukriya"
+    },
+    {
+      "en": "Yes",
+      "jp": "جی ہاں",
+      "say": "Ji haan"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "لذیذ!",
+      "say": "Laziz!"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "خوبصورت",
+      "say": "Khubsoorat"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pk-hero.jpg",
+      "alt": "Badshahi Mosque in Lahore with its grand courtyard at dusk",
+      "caption": "BADSHAHI MOSQUE — one of the world's largest mosques, built in Lahore in 1673.",
+      "credit": "Ali Imran / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/pk-landmark.jpg",
+      "alt": "Ancient brick ruins of Mohenjo-daro archaeological site",
+      "caption": "MOHENJO-DARO — a 4,500-year-old city with the world's first urban drains.",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalA": {
+      "src": "/photos/pk-animalA.jpg",
+      "alt": "Snow leopard with spotted coat resting on rocks",
+      "caption": "SNOW LEOPARD — Pakistan's ghost of the mountains, prowling above 3,000 m.",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/pk-animalB.jpg",
+      "alt": "Markhor wild goat with long twisted spiral horns on a rocky hillside",
+      "caption": "MARKHOR — Pakistan's national animal, with corkscrew horns up to 1.6 m long.",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

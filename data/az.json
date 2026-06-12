@@ -1,0 +1,163 @@
+{
+  "name": "AZERBAIJAN",
+  "nativeName": "AZ",
+  "romaji": "AZƏRBAYCAN",
+  "tagline": "Land of Fire & Flame",
+  "region": "South Caucasus, Asia",
+  "coords": "40.4°N, 49.9°E",
+  "fileNo": "AZ",
+  "langName": "Azerbaijani",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BCA4",
+    "ink": "#1E1A15",
+    "faint": "#8A7B60",
+    "line": "#DDD0B8",
+    "accent": "#0092BC",
+    "accent2": "#E8352A"
+  },
+  "flag": {
+    "assetPath": "/flags/az.svg",
+    "title": "Flag of Azerbaijan",
+    "note": "Blue, red & green with crescent & star",
+    "keyColor": "#0092BC",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Azerbaijan sits where Europe meets Asia, between the Caspian Sea and the Caucasus peaks. It is called the \"Land of Fire\" because natural gas seeps from the earth and has burned for centuries. Baku, the capital, mixes medieval stone towers with futuristic skyscrapers that glow like embers above the Caspian at night.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Baku",
+      "sub": "Pop. ~2.3 million (2024)"
+    },
+    {
+      "label": "People",
+      "value": "10.2 million",
+      "sub": "Est. 2024, official statistics"
+    },
+    {
+      "label": "Money",
+      "value": "Manat (AZN)",
+      "sub": "1 manat = 100 qəpik"
+    },
+    {
+      "label": "Language",
+      "value": "Azerbaijani",
+      "sub": "Turkic family; also Russian"
+    },
+    {
+      "label": "Land area",
+      "value": "86,600 km²",
+      "sub": "About the size of Portugal"
+    },
+    {
+      "label": "Top peak",
+      "value": "4,466 m",
+      "sub": "Bazardüzü, on Russian border"
+    }
+  ],
+  "islands": [
+    "Baku",
+    "Ganja",
+    "Sheki",
+    "Lankaran",
+    "Mingachevir"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Flames from the earth",
+    "animals": "Wild Caucasus creatures",
+    "culture": "Tea, rugs & poetry",
+    "history": "Crossroads of empires",
+    "wows": "Hard to believe!"
+  },
+  "geo": [
+    "Azerbaijan stretches from snow-capped Caucasus peaks in the north to the flat Absheron Peninsula poking into the Caspian Sea. The Caspian is the world's biggest lake — bigger than Germany — and its shore sits about 28 metres below sea level.",
+    "The south holds subtropical Talysh forests so wet that rare silkworm trees grow there. Overall Azerbaijan squeezes nine of Earth's eleven climate zones into one small country."
+  ],
+  "animals": [
+    "The Caucasian leopard still prowls remote mountain forests, and brown bears roam high ridges. The elegant Karabakh horse — bred here for over 2,000 years — is Azerbaijan's national animal, famed for its golden coat and speed.",
+    "Flamingos gather in pink flocks on Caspian mudflats each autumn. The Caspian seal — found nowhere else on Earth — hauls out on sandbanks, while giant sturgeon the size of small cars once filled the sea."
+  ],
+  "culture": [
+    "Azerbaijanis drink black tea from pear-shaped armudu glasses all day, always with sugar cubes held between the teeth. Hand-knotted carpets tell stories in wool — each region has secret patterns, and Azerbaijani carpet-weaving is on UNESCO's heritage list.",
+    "Mugham is the country's hypnotic classical music: a singer improvises over a tar lute for an hour without repeating a phrase. Novruz, the spring New Year, fills streets with bonfires, painted eggs, and trays of sprouted green wheat."
+  ],
+  "history": [
+    "Ancient fire temples drew Zoroastrian pilgrims for millennia; one at Ateshgah burned continuously for centuries. Arab caliphs, Mongol khans, Persian shahs, and Russian tsars each swept through, leaving mosques and fortresses behind.",
+    "Oil transformed Azerbaijan in the 1870s — Baku once produced half the world's petroleum. Independence came in 1918 (one of the first democratic republics in the Muslim world) and again in 1991 when the Soviet Union collapsed."
+  ],
+  "wows": [
+    "Yanar Dağ hillside has burned non-stop since the 1950s, fuelled by natural gas seeping from below.",
+    "Baku's Formula 1 street race roars past an 800-year-old walled medieval city every year.",
+    "The Caspian Sea holds about 90% of the world's remaining wild sturgeon, source of the finest caviar.",
+    "Flame Towers' 10,000 LED panels display animated fire visible from across the whole city at night.",
+    "Gobustan's 6,000+ rock carvings span up to 40,000 years of human history — UNESCO-listed.",
+    "Azerbaijan drilled an industrial oil well in 1846 — 13 years before the famous Pennsylvania well.",
+    "The Caspian lies about 28 metres below ocean sea level, the world's lowest large lake surface."
+  ],
+  "myths": [
+    {
+      "myth": "Azerbaijan is part of the Middle East",
+      "fact": "It sits in the South Caucasus, bordering Russia and Georgia — culturally and geographically distinct from the Middle East."
+    },
+    {
+      "myth": "The Caspian Sea is a real sea",
+      "fact": "Despite its vast size (371,000 km²), it is a landlocked saltwater lake with no connection to any ocean."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Salam",
+      "say": "sah-LAHM"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Təşəkkür",
+      "say": "teh-shek-KUER"
+    },
+    {
+      "en": "Yes",
+      "jp": "Bəli",
+      "say": "beh-LEE"
+    },
+    {
+      "en": "Fire",
+      "jp": "Od",
+      "say": "ODD"
+    },
+    {
+      "en": "Tea",
+      "jp": "Çay",
+      "say": "CHAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/az-hero.jpg",
+      "alt": "Baku Flame Towers lit up at night above the city skyline",
+      "caption": "FLAME TOWERS — Baku's fire-shaped skyscrapers glow at dusk over the Caspian",
+      "credit": "Wikimedia Commons / Interfase"
+    },
+    "landmark": {
+      "src": "/photos/az-landmark.jpg",
+      "alt": "The ancient walled Old City of Baku with the Maiden Tower",
+      "caption": "OLD CITY — medieval walls and Maiden Tower, a UNESCO World Heritage site in Baku",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/az-animalA.jpg",
+      "alt": "A golden Karabakh horse trotting in an open field",
+      "caption": "KARABAKH HORSE — Azerbaijan's ancient golden breed and national animal",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/az-animalB.jpg",
+      "alt": "A Caspian seal resting on a rocky shore",
+      "caption": "CASPIAN SEAL — found nowhere else on Earth, living only in the Caspian Sea",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

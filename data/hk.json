@@ -1,0 +1,162 @@
+{
+  "name": "HONG KONG",
+  "nativeName": "香港",
+  "romaji": "HEUNG GONG",
+  "tagline": "City on the Harbour",
+  "region": "East Asia",
+  "coords": "22.3°N 114.2°E",
+  "fileNo": "042",
+  "langName": "Cantonese",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFAC",
+    "ink": "#1E1C1A",
+    "faint": "#857565",
+    "line": "#DDD3C0",
+    "accent": "#DE2110",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/hk.svg",
+    "title": "Hong Kong Flag",
+    "note": "Red with a white bauhinia flower",
+    "keyColor": "#DE2110",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hong Kong is a tiny, towering city on China's coast where skyscrapers climb steep hills right to the harbour's edge. Once British, it returned to China in 1997 yet keeps its own laws and currency. Seven million people share this small place — eating dim sum, riding neon-lit trams, and crossing the harbour on the famous Star Ferry.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Hong Kong",
+      "sub": "City and territory are one"
+    },
+    {
+      "label": "People",
+      "value": "7.5 million",
+      "sub": "2024 estimate"
+    },
+    {
+      "label": "Money",
+      "value": "HK Dollar",
+      "sub": "HKD — pegged to USD"
+    },
+    {
+      "label": "Language",
+      "value": "Cantonese",
+      "sub": "English also official"
+    },
+    {
+      "label": "Land area",
+      "value": "1,114 km²",
+      "sub": "Smaller than Los Angeles"
+    },
+    {
+      "label": "High point",
+      "value": "Tai Mo Shan",
+      "sub": "957 m — a misty peak"
+    }
+  ],
+  "islands": [
+    "HK Island",
+    "Kowloon",
+    "Lantau",
+    "Cheung Chau"
+  ],
+  "islandsLabel": "MAIN AREAS:",
+  "sections": {
+    "geography": "A harbour carved by dragons",
+    "animals": "Wild side of the city",
+    "culture": "Neon, dumplings & dragons",
+    "history": "Village to world skyline",
+    "wows": "Wait — that's actually true?"
+  },
+  "geo": [
+    "Hong Kong hugs the Pearl River estuary, scattered across a peninsula and 263 islands. The harbour between Hong Kong Island and Kowloon is so deep that giant cargo ships park right in the city's heart.",
+    "Over 70% of the land is countryside — steep jungle hills, beaches, and reserves. Yet the urban strip is so dense that Hong Kong has more skyscrapers than any other city on Earth."
+  ],
+  "animals": [
+    "Chinese pangolins — shy, scale-covered animals that roll into a ball when scared — shuffle through forest at night. Wild boars trot through suburbs, and barking deer call from country-park bushes.",
+    "The Mai Po wetlands host 400+ bird species including the rare black-faced spoonbill. Green turtles nest on quiet beaches, and Indo-Pacific finless porpoises play in the harbour shallows."
+  ],
+  "culture": [
+    "Hong Kong blends Cantonese tradition with British echoes. Families gather for yum cha — wheeled bamboo steamers of har gow and siu mai — while trams rattle past Victorian buildings. The Hungry Ghost Festival fills streets with burning paper offerings every autumn.",
+    "Neon signs, lucky red envelopes, and firecrackers mark the Cantonese calendar. Yet Hongkongers also queue for afternoon tea and watch horse races at Happy Valley — a track inside the city since 1846."
+  ],
+  "history": [
+    "Fishermen lived here for thousands of years before Britain took Hong Kong Island in 1842 after the First Opium War. It grew into a major trading port, and Kowloon was added in the following decades.",
+    "Japan occupied it in World War II; Britain returned and the city boomed into a global finance hub. On 1 July 1997, under 'one country, two systems', Hong Kong rejoined China — keeping its courts and currency until at least 2047."
+  ],
+  "wows": [
+    "Hong Kong has more Rolls-Royce cars per person than anywhere else on Earth.",
+    "The MTR metro runs on time 99.9% of all journeys — one of the most reliable systems anywhere.",
+    "Land reclamation has added about 70 km² of new ground to Hong Kong since the 1800s.",
+    "The world's longest outdoor covered escalator — 800 m — climbs Mid-Levels hill.",
+    "Over 90% of daily trips use public transport, the highest share of any city on the planet.",
+    "The Peak Tram has carried passengers up the same steep hill since 1888.",
+    "Hong Kong has over 1,000 buildings taller than 100 m — more than New York, Chicago, and Dubai combined."
+  ],
+  "myths": [
+    {
+      "myth": "Hong Kong is just part of China now",
+      "fact": "Since 1997 it has been a Special Administrative Region with its own laws, courts, currency, and passport under 'one country, two systems' until at least 2047."
+    },
+    {
+      "myth": "It's only a city — no nature at all",
+      "fact": "More than 70% of Hong Kong's land is protected countryside, with jungle trails, 260+ islands, and beaches most visitors never find."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "你好",
+      "say": "nay HO"
+    },
+    {
+      "en": "Thank you",
+      "jp": "唔該",
+      "say": "mm GOY"
+    },
+    {
+      "en": "Delicious",
+      "jp": "好味",
+      "say": "ho MAY"
+    },
+    {
+      "en": "How much?",
+      "jp": "幾錢?",
+      "say": "gay CHIN"
+    },
+    {
+      "en": "Bye-bye",
+      "jp": "拜拜",
+      "say": "bye-BYE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hk-hero.jpg",
+      "alt": "Hong Kong skyline at night with Victoria Harbour in the foreground",
+      "caption": "VICTORIA HARBOUR — neon towers reflected in the water at dusk",
+      "credit": "Wikimedia Commons / Diliff"
+    },
+    "landmark": {
+      "src": "/photos/hk-landmark.jpg",
+      "alt": "View of Hong Kong from Victoria Peak showing the dense skyline",
+      "caption": "VICTORIA PEAK — the 552 m lookout towering above the skyscrapers",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hk-animalA.jpg",
+      "alt": "Pink Bauhinia blakeana flower, Hong Kong's city emblem",
+      "caption": "BAUHINIA FLOWER — Hong Kong's emblem blooms on the city's flag",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hk-animalB.jpg",
+      "alt": "Black-faced spoonbill wading in Mai Po wetlands",
+      "caption": "BLACK-FACED SPOONBILL — rare wader sheltered at Mai Po marshes",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "COLOMBIA",
+  "nativeName": "CO",
+  "romaji": "COLOMBIA",
+  "tagline": "Where Andes meet Amazon",
+  "region": "Northern South America",
+  "coords": "4.57°N, 74.30°W",
+  "fileNo": "042",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFD6",
+    "dot": "#CBBF96",
+    "ink": "#2B2218",
+    "faint": "#8B7A4E",
+    "line": "#DDD0A8",
+    "accent": "#FCD116",
+    "accent2": "#003893"
+  },
+  "flag": {
+    "assetPath": "/flags/co.svg",
+    "title": "Tricolor Patria",
+    "note": "Yellow, blue & red — bold equal stripes",
+    "keyColor": "#FCD116",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Colombia tops South America where the Andes split into three ranges before melting into Amazon jungle and Caribbean beaches. The only South American nation with coasts on both the Pacific and Caribbean, it holds the world bird-species record, exports millions of flowers daily, and grows coffee loved across the globe.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bogotá",
+      "sub": "2,600 m above sea level"
+    },
+    {
+      "label": "People",
+      "value": "52.2 million",
+      "sub": "Est. 2024, DANE"
+    },
+    {
+      "label": "Money",
+      "value": "Peso (COP)",
+      "sub": "~4,100 COP = 1 USD"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "65+ indigenous langs too"
+    },
+    {
+      "label": "Land area",
+      "value": "1,141,748 km²",
+      "sub": "26th largest country"
+    },
+    {
+      "label": "Top peak",
+      "value": "5,775 m",
+      "sub": "Pico Cristóbal Colón"
+    }
+  ],
+  "islands": [
+    "BOGOTÁ",
+    "MEDELLÍN",
+    "CALI",
+    "CARTAGENA",
+    "BARRANQUILLA"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, jungle & two seas",
+    "animals": "The world's bird paradise",
+    "culture": "Coffee, colour & cumbia",
+    "history": "Conquistadors to peace deal",
+    "wows": "Colombia's wildest records"
+  },
+  "geo": [
+    "Colombia is squeezed between the Caribbean and the Pacific, with three Andes ranges running top to bottom. Bogotá sits so high that visitors feel dizzy just walking around. Rivers pour east into flat grasslands called Los Llanos, where cowboys herd cattle beneath enormous skies.",
+    "In the south the Amazon rainforest begins — one of the wettest, greenest places on Earth. The north has golden beaches and coral reefs. Colombia even owns tiny San Andrés island, which floats closer to Nicaragua than to Bogotá itself."
+  ],
+  "animals": [
+    "Colombia holds the world record for bird species — over 1,900 kinds. The Andean cock-of-the-rock, the national bird, is neon orange and looks like it wears a crash helmet. Spectacled bears, South America's only bears, lumber through the cloud forests.",
+    "Pink river dolphins swim in the Amazon tributaries. Poison dart frogs no bigger than a thumbnail glow blue and red to warn predators. Green sea turtles haul themselves onto Pacific beaches to lay eggs every nesting season."
+  ],
+  "culture": [
+    "Colombians celebrate with music everywhere — cumbia rhythms pound from coastal towns while Andean bambuco flutes sound like a mountain breeze. The Barranquilla Carnival is four days of parades, UNESCO-listed and second only to Rio for sheer spectacle.",
+    "Coffee is almost sacred: farmers grow beans on steep misty hillsides, and Colombians drink small strong tinto cups all day. Medellín's Feria de las Flores fills the city with roses, orchids, and carnations every August."
+  ],
+  "history": [
+    "Long before Europeans arrived, the Muisca people traded emeralds on Bogotá's high plateau. Spanish conquistadors came in the 1500s, drawn by El Dorado legends, making Colombia the heart of New Granada.",
+    "Simón Bolívar led independence and Colombia broke free in 1819. A landmark 2016 peace deal ended the world's longest guerrilla war, and the country has been rebuilding and booming ever since."
+  ],
+  "wows": [
+    "Colombia exports more cut flowers than any country except the Netherlands — 200,000 tonnes a year.",
+    "Bogotá's TransMilenio buses carry 2.4 million passengers every single day.",
+    "The Lost City is 650 years older than Peru's Machu Picchu.",
+    "Colombia produces roughly 15% of the world's finest emeralds.",
+    "The country has 59 national parks covering 12% of its land.",
+    "Medellín won the world's most innovative city award in 2013.",
+    "Colombia's Pacific coast receives up to 13,000 mm of rain per year — among Earth's wettest spots."
+  ],
+  "myths": [
+    {
+      "myth": "Colombia is always too dangerous to visit",
+      "fact": "Medellín and Cartagena have transformed hugely. Millions of tourists visit safely each year, and Colombia ranks among South America's top destinations."
+    },
+    {
+      "myth": "Colombia is in Central America",
+      "fact": "Colombia is firmly in South America, sharing borders with Venezuela, Brazil, Peru, Ecuador, and Panama at the continent's northern tip."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Coffee",
+      "jp": "Tinto",
+      "say": "TEEN-toh"
+    },
+    {
+      "en": "How cool!",
+      "jp": "¡Chévere!",
+      "say": "CHEH-veh-reh"
+    },
+    {
+      "en": "Friend",
+      "jp": "Parcero",
+      "say": "par-SEH-roh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/co-hero.jpg",
+      "alt": "Panoramic view of Bogotá skyline with Andes mountains behind",
+      "caption": "BOGOTÁ — the sprawling capital city sits at 2,600 m in the clouds",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/co-landmark.jpg",
+      "alt": "Colonial stone city walls of Cartagena de Indias by the Caribbean",
+      "caption": "CARTAGENA WALLS — 400-year-old Spanish fortifications ring the old city",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/co-animalA.jpg",
+      "alt": "Brilliant orange Andean cock-of-the-rock male perched on a branch",
+      "caption": "COCK-OF-THE-ROCK — Colombia's neon-orange national bird",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/co-animalB.jpg",
+      "alt": "Pink river dolphin swimming in a dark Amazon river",
+      "caption": "PINK RIVER DOLPHIN — swims Colombia's Amazon rivers below the canopy",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "MALDIVES",
+  "nativeName": "ދިވެހި",
+  "romaji": "DHIVEHI RAAJJE",
+  "tagline": "Islands floating on the sea",
+  "region": "South Asia",
+  "coords": "3.20°N, 73.22°E",
+  "fileNo": "119",
+  "langName": "Dhivehi",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EDF6F5",
+    "dot": "#b8d8d5",
+    "ink": "#1a2c2b",
+    "faint": "#6a8e8c",
+    "line": "#c8e2e0",
+    "accent": "#006B3F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/mv.svg",
+    "title": "Flag of Maldives",
+    "note": "Green panel, white crescent on red field",
+    "keyColor": "#006B3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "The Maldives is a necklace of coral islands in the Indian Ocean, south-west of Sri Lanka. About 1,190 tiny islands form 26 atolls — all the land fits inside a medium city. Turquoise lagoons, reef fish, and overwater bungalows draw visitors worldwide. It is Earth's flattest country — its highest point barely reaches a door handle.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Malé",
+      "sub": "One of world's most crowded cities"
+    },
+    {
+      "label": "People",
+      "value": "~530,000",
+      "sub": "UN 2025; ~200 islands inhabited"
+    },
+    {
+      "label": "Money",
+      "value": "Rufiyaa",
+      "sub": "MVR; cowrie shells once used"
+    },
+    {
+      "label": "Language",
+      "value": "Dhivehi",
+      "sub": "Thaana script, reads right to left"
+    },
+    {
+      "label": "Land area",
+      "value": "298 km²",
+      "sub": "Smallest country in Asia by land"
+    },
+    {
+      "label": "Top point",
+      "value": "5.1 m",
+      "sub": "Mt Villingili, Addu — world lowest"
+    }
+  ],
+  "islands": [
+    "N. Malé",
+    "S. Malé",
+    "Ari Atoll",
+    "Baa Atoll",
+    "Addu Atoll"
+  ],
+  "islandsLabel": "MAIN ATOLLS:",
+  "sections": {
+    "geography": "A chain of tiny coral crowns",
+    "animals": "Reef life & ocean giants",
+    "culture": "Drums, dhonis & tuna",
+    "history": "Sultans, sea routes & freedom",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "The Maldives sits atop a long underwater ridge running north to south in the Indian Ocean. All 1,190 islands are coral and sand — none stand more than a few metres above sea level.",
+    "The country spreads across 90,000 km² of ocean yet its land is just 298 km². Most islands are barely 1–2 km wide and sit less than 1.5 m above the waves on average."
+  ],
+  "animals": [
+    "The national animal is the yellowfin tuna — fast, powerful, caught for centuries using a single pole and line. Over 1,000 fish species live in the coral reefs surrounding the atolls.",
+    "Whale sharks — the biggest fish on Earth — cruise these warm waters filtering plankton. Five sea turtle species nest here, and blue whales and dolphins pass through deep inter-atoll channels."
+  ],
+  "culture": [
+    "Bodu Beru ('big drum') is the heartbeat of celebrations — drummers start slowly and build to a fast, trance-like beat while dancers spin. The rhythm arrived with African sailors around the 11th century.",
+    "Fish appears at almost every meal, often as garudhiya — a clear tuna broth with rice, lime, and chilli. The elegant wooden dhoni boat has linked islands for over a thousand years."
+  ],
+  "history": [
+    "People have lived in the Maldives for 2,500 years, likely arriving from Sri Lanka and India. In 1153 the islands converted to Islam, starting over 800 years of sultans ruling the atolls.",
+    "Portugal seized Malé in 1558 but was expelled 15 years later. Britain made the islands a protectorate in 1887. Full independence came on 26 July 1965; republic declared 11 November 1968."
+  ],
+  "wows": [
+    "The highest point is just 5.1 m — about a door and a half tall — making it Earth's flattest nation.",
+    "On Vaadhoo Island, waves glow electric blue at night as disturbed plankton flash tiny bursts of light.",
+    "In 2009 the cabinet held the world's first underwater meeting, signing a climate declaration on the sea floor.",
+    "Maldivian cowrie shells were once traded as money across Africa and Asia for hundreds of years.",
+    "The country has 26 atolls but zero rivers or hills; fresh water comes from rain and desalination.",
+    "Its 1,190 islands span an ocean bigger than Germany, yet all the land together is smaller than Seoul.",
+    "In 2008 the Maldives became the first nation to plan buying land abroad as a climate backup homeland."
+  ],
+  "myths": [
+    {
+      "myth": "\"The Maldives will vanish underwater soon\"",
+      "fact": "Sea rise is real, but many islands have stayed stable or grown. The government is raising Hulhumalé island and building sea walls to protect people."
+    },
+    {
+      "myth": "\"It's only for millionaires\"",
+      "fact": "Luxury private-island resorts are pricey, but Malé and guesthouses on local islands offer the same reefs at a fraction of the price."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Assalaamu",
+      "say": "as-SAH-laa-mu"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Shukriyaa",
+      "say": "shoo-KREE-yaa"
+    },
+    {
+      "en": "Yes",
+      "jp": "Aan",
+      "say": "aan"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Baajjaveri",
+      "say": "BAA-ja-ve-ree"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Haalu kihine",
+      "say": "HAA-lu ki-HI-neh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mv-hero.jpg",
+      "alt": "A white floatplane taxis on turquoise water beside a palm-fringed Maldivian island",
+      "caption": "FLOATPLANE AT BATHALA — island-hopping the Maldivian way",
+      "credit": "Gzzz / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mv-landmark.jpg",
+      "alt": "Aerial view of Malé, the tiny densely built capital island of the Maldives",
+      "caption": "MALÉ FROM ABOVE — one of the world's most densely packed islands",
+      "credit": "Shahee Ilyas / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mv-animalA.jpg",
+      "alt": "Close-up of a whale shark's eye and wide mouth as it filter-feeds near the surface",
+      "caption": "WHALE SHARK — the ocean's biggest fish, a gentle plankton feeder",
+      "credit": "Arturo de Frias Marques / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/mv-animalB.jpg",
+      "alt": "A reef manta ray glides over coral in the clear waters of Baa Atoll, Maldives",
+      "caption": "REEF MANTA RAY — graceful giant of Baa Atoll's cleaning stations",
+      "credit": "Ahmed Abdul Rahman / CC BY-SA 3.0"
+    }
+  }
+}

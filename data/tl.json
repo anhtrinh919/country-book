@@ -1,0 +1,163 @@
+{
+  "name": "TIMOR-LESTE",
+  "nativeName": "TL",
+  "romaji": "TIMOR-LESTE",
+  "tagline": "Young, brave, & beautiful",
+  "region": "Southeast Asia",
+  "coords": "8.87°S, 125.73°E",
+  "fileNo": "076",
+  "langName": "Tetum",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CBBA96",
+    "ink": "#241E14",
+    "faint": "#8A7355",
+    "line": "#DDD0B0",
+    "accent": "#DC241F",
+    "accent2": "#F8C300"
+  },
+  "flag": {
+    "assetPath": "/flags/tl.svg",
+    "title": "Timor-Leste Flag",
+    "note": "Red, yellow & black triangles, white star",
+    "keyColor": "#DC241F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Timor-Leste only became independent in 2002, making it one of the world's newest nations. Tucked onto a tropical island between Indonesia and Australia, it has emerald mountains, coral beaches, and fish-packed seas. Fewer tourists visit here than almost anywhere in Asia — so its reefs and rainforests stay gloriously wild.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Dili",
+      "sub": "Coastal city on the north shore"
+    },
+    {
+      "label": "People",
+      "value": "1.42 million",
+      "sub": "Est. 2025 — one of Asia's smallest"
+    },
+    {
+      "label": "Money",
+      "value": "US Dollar",
+      "sub": "Uses USD since independence"
+    },
+    {
+      "label": "Language",
+      "value": "Tetum & Port.",
+      "sub": "Plus 30+ local languages"
+    },
+    {
+      "label": "Land area",
+      "value": "14,874 km²",
+      "sub": "About the size of Connecticut"
+    },
+    {
+      "label": "Top point",
+      "value": "2,963 m",
+      "sub": "Mt Tatamailau, the sacred peak"
+    }
+  ],
+  "islands": [
+    "Dili",
+    "Baucau",
+    "Maliana",
+    "Suai",
+    "Oecusse"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, sea & sacred peaks",
+    "animals": "Creatures of the coral kingdom",
+    "culture": "Tais, feasts & the tebe dance",
+    "history": "The long road to freedom",
+    "wows": "Surprising Timor-Leste facts"
+  },
+  "geo": [
+    "Timor-Leste covers the eastern tip of Timor island, ringed by the Timor Sea and the Banda Sea. Rugged mountains spine the whole country — perfect for cool-weather coffee farms. The enclave of Oecusse sits separately, wrapped by Indonesian territory.",
+    "The Coral Triangle laps its shores, making these some of the most biodiverse waters anywhere. Ataúro island, about 30 km north of Dili, has been called the world's most fish-rich island by marine scientists."
+  ],
+  "animals": [
+    "The Timor deer — called rusa — roams mountain forests and is a national symbol. Coconut crabs, the world's largest land crab, haul themselves up palms on Ataúro island. Dugongs (sea cows) graze seagrass beds in the Timor Sea.",
+    "Sperm whales and dolphins surf deep channels just offshore — whale-watching boats leave from Dili. The forests shelter the Timor imperial pigeon, a plump grey bird found only on Timor and nearby Wetar island."
+  ],
+  "culture": [
+    "Timorese life revolves around the uma lulik — the sacred house, a thatched ancestral home every family tends with offerings and ceremonies. Woven cloth called tais carries clan stories in its patterns; no two designs are alike.",
+    "The tebe-tebe is a circle dance where whole villages lock arms and sing together for hours. Coffee is the nation's soul crop — chemical-free mountain beans are prized by specialty roasters worldwide."
+  ],
+  "history": [
+    "Portugal colonised Timor from the 1500s, trading in sandalwood and coffee. Japan occupied it in World War II; after the war Portugal returned, but in 1975 Indonesia invaded and ruled harshly for 24 years, causing enormous loss of life.",
+    "A 1999 UN referendum saw 78% vote for independence despite widespread violence. In 2002 Timor-Leste became Asia's newest nation. Nobel winners Bishop Belo and José Ramos-Horta led the international fight for freedom."
+  ],
+  "wows": [
+    "Timor-Leste is the only country in Asia that uses the US dollar as its everyday currency.",
+    "Ataúro island holds a world record — over 250 reef fish species counted per survey site on average.",
+    "The country has more than 30 distinct indigenous languages, roughly one for every valley.",
+    "Timorese mountain coffee is organic and fair-trade certified, sold in speciality shops across the US.",
+    "Tatamailau means 'Grandfather of All' — local belief says ancestral spirits travel to its summit.",
+    "Sperm whales pass so close to Dili that local spotters hear them blowing in the still of the night.",
+    "Timor-Leste was the 21st century's very first new country, gaining full independence on 20 May 2002."
+  ],
+  "myths": [
+    {
+      "myth": "\"Timor-Leste is part of Indonesia\"",
+      "fact": "It is fully independent since 2002. Indonesia governs West Timor on the same island, but Timor-Leste has its own government, flag, currency, and UN seat."
+    },
+    {
+      "myth": "\"There's nothing to see or do there\"",
+      "fact": "Divers rate its reefs among the world's top five for fish diversity, and whale-watching, hiking, and weaving tours all run year-round from Dili."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Obrigadu",
+      "say": "oh-bri-GAH-doo"
+    },
+    {
+      "en": "Yes",
+      "jp": "Sin",
+      "say": "SEEN"
+    },
+    {
+      "en": "Water",
+      "jp": "Bee",
+      "say": "BEE"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Bonitu",
+      "say": "bo-NEE-too"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tl-hero.jpg",
+      "alt": "Dili waterfront with palm trees and hills behind",
+      "caption": "DILI WATERFRONT — the capital's palm-lined bay backed by green hills",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tl-landmark.jpg",
+      "alt": "Cristo Rei statue on a hilltop above the Timor Sea",
+      "caption": "CRISTO REI OF DILI — 27-metre hilltop statue gazing over the Timor Sea",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tl-animalA.jpg",
+      "alt": "A large coconut crab clinging to a coconut palm trunk",
+      "caption": "COCONUT CRAB — world's largest land crab, found on Ataúro island",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tl-animalB.jpg",
+      "alt": "A dugong swimming through shallow seagrass waters",
+      "caption": "DUGONG — gentle sea cow grazing Timor Sea seagrass beds",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

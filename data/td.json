@@ -1,0 +1,163 @@
+{
+  "name": "CHAD",
+  "nativeName": "تشاد",
+  "romaji": "TCHAD",
+  "tagline": "Desert, Lake & Ancient Sahel",
+  "region": "Central Africa",
+  "coords": "15.45°N, 18.73°E",
+  "fileNo": "089",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F4EDD8",
+    "dot": "#D4BF96",
+    "ink": "#2B2218",
+    "faint": "#8B7A55",
+    "line": "#DDD0B0",
+    "accent": "#002664",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/td.svg",
+    "title": "Flag of Chad",
+    "note": "Blue, yellow & red vertical stripes",
+    "keyColor": "#002664",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Chad sits in Africa's heart, where Sahara dunes melt into savannah and green wetlands. Home to 200+ peoples, camels pace the north while hippos splash in the south. At its western edge, shrinking Lake Chad once fed millions — its dramatic retreat is one of the planet's great environmental stories.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "N'Djamena",
+      "sub": "~1.6 million, on the Chari River"
+    },
+    {
+      "label": "People",
+      "value": "~18.5 million",
+      "sub": "Est. 2024; 200+ ethnic groups"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared with 5 other nations"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic/French",
+      "sub": "Plus 120+ local languages"
+    },
+    {
+      "label": "Land area",
+      "value": "1,284,000 km²",
+      "sub": "5th largest country in Africa"
+    },
+    {
+      "label": "High point",
+      "value": "Emi Koussi",
+      "sub": "3,445 m — a Saharan volcano"
+    }
+  ],
+  "islands": [
+    "N'Djamena",
+    "Moundou",
+    "Abéché",
+    "Sarh",
+    "Bol"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Dunes, lakes & wild savannah",
+    "animals": "Elephants, camels & wild dogs",
+    "culture": "200 peoples, one heartbeat",
+    "history": "Empires of sand and salt",
+    "wows": "Mind-blowing Chad facts"
+  },
+  "geo": [
+    "Chad splits into three dramatic bands. The north is pure Sahara — sand seas, rock towers, and the volcanic Tibesti mountains, where Emi Koussi rises 3,445 m. Ancient rock paintings prove people thrived here 7,000 years ago when it was lush and green.",
+    "The middle Sahel belt is dry grassland for nomads and herds. In the south, summer rains turn plains bright green. Lake Chad in the west once rivalled the Caspian Sea — today it has shrunk to barely 10% of its 1963 size, a vivid sign of our changing climate."
+  ],
+  "animals": [
+    "Chad's south holds some of Africa's last wild wonders. Zakouma National Park shelters 700 elephants — a herd that doubled after rangers tackled poachers. Hippos wallow in the Chari River, and over 370 bird species fill the air with colour and noise.",
+    "Across the Sahel, lions, spotted hyenas, and rare African wild dogs still roam. In the north, Dorcas gazelles sprint across dunes and Barbary sheep cling to rocky Tibesti cliffs. Lake Chad itself is a winter stopover for millions of birds migrating from Europe."
+  ],
+  "culture": [
+    "With 200+ ethnic groups, Chad fizzes with variety. In the north, Tubu and Arab nomads celebrate with camel races and three-cup tea ceremonies — each cup meaning life, love, or death. Wrestling is the national sport; village bouts draw enormous, cheering crowds.",
+    "Music ranges from the gentle n'goni lute of the south to the thundering Sara drums. Colourful woven gandoura robes billow at markets. Rounded thatched huts in the south and flat-roofed mud compounds in the north tell you exactly where you are."
+  ],
+  "history": [
+    "Long before France arrived, Chad was heartland of the Kanem-Bornu Empire — one of Africa's longest-lasting states, ruling nearly 1,000 years. It traded salt, ivory, and cloth across the Sahara to Egypt, and spread Islam deep into Central Africa.",
+    "France colonised the region early 1900s; Chad gained independence in 1960. Decades of civil conflict followed. Oil was discovered in 2003, bringing new roads — and new tensions. Today Chad is a key partner fighting armed groups across the Sahel."
+  ],
+  "wows": [
+    "Lake Chad has shrunk 90% since 1963 — from 25,000 km² to barely 1,500 km² today.",
+    "Emi Koussi in the Tibesti is the Sahara's largest volcano, wider than Greater London.",
+    "Chad is one of the world's most landlocked countries, furthest from any ocean.",
+    "Ennedi's rock art shows crocodiles in what is now bone-dry desert — the Sahara was once green.",
+    "Zakouma's elephant herd doubled in a decade thanks to a community anti-poaching programme.",
+    "In dry season the Chari River border with Cameroon is narrow enough to wade across.",
+    "The oldest known hominid skull — 7 million years old — was found in Chad's desert in 2001."
+  ],
+  "myths": [
+    {
+      "myth": "Chad is just empty desert",
+      "fact": "Only the north is Sahara; the south has green wetlands, a national park teeming with elephants and lions, and the mighty Chari River feeding the country."
+    },
+    {
+      "myth": "Lake Chad is still a great lake",
+      "fact": "It has shrunk by about 90% since the 1960s due to drought and irrigation — what remains is mostly marshes and islands, not open water."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Water",
+      "jp": "ماء",
+      "say": "MAH"
+    },
+    {
+      "en": "Friend",
+      "jp": "صديق",
+      "say": "sa-DEEK"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "جميل",
+      "say": "ja-MEEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/td-hero.jpg",
+      "alt": "N'Djamena city viewed from the Chari River",
+      "caption": "N'DJAMENA — Chad's capital on the Chari River at dusk",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/td-landmark.jpg",
+      "alt": "Sandstone arches of the Ennedi plateau in Chad",
+      "caption": "ENNEDI PLATEAU — UNESCO sandstone arches carved by ancient wind",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/td-animalA.jpg",
+      "alt": "Elephant herd at Zakouma National Park, Chad",
+      "caption": "ZAKOUMA ELEPHANTS — 700-strong, Central Africa's finest herd",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/td-animalB.jpg",
+      "alt": "Dorcas gazelle alert in Sahel scrubland",
+      "caption": "DORCAS GAZELLE — swift desert survivor of Chad's dune fringe",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

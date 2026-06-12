@@ -1,0 +1,163 @@
+{
+  "name": "TOGO",
+  "nativeName": "TG",
+  "romaji": "TOGO",
+  "tagline": "Slim, proud & full of life",
+  "region": "West Africa",
+  "coords": "8.62°N, 0.82°E",
+  "fileNo": "096",
+  "langName": "Ewe",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBF9E",
+    "ink": "#241E14",
+    "faint": "#8A7A52",
+    "line": "#DDD0B0",
+    "accent": "#006B3F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/tg.svg",
+    "title": "Flag of Togo",
+    "note": "5 stripes = 5 regions; star = peace",
+    "keyColor": "#006B3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Togo is a tiny sliver of West Africa — so narrow you could drive across it in an hour. Its capital Lomé sits right on the beach, with Atlantic waves close to busy market stalls. Togo has mud tower-houses, the world's biggest voodoo market, and forests where elephants roam. Small in size, enormous in character.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Lomé",
+      "sub": "Pop. ~1 million on the coast"
+    },
+    {
+      "label": "People",
+      "value": "9.5 million",
+      "sub": "UN estimate, 2024"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared with 7 W. African nations"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "Ewe & Kabye widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "56,785 km²",
+      "sub": "Smaller than Croatia"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Mont Agou",
+      "sub": "986 m above sea level"
+    }
+  ],
+  "islands": [
+    "Lomé",
+    "Kara",
+    "Sokodé",
+    "Atakpamé",
+    "Kpalimé"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A very thin strip of land",
+    "animals": "Wild things, north to south",
+    "culture": "Drums, cloth & voodoo",
+    "history": "From Togoland to freedom",
+    "wows": "Wait — seriously?"
+  },
+  "geo": [
+    "Togo is one of the world's narrowest countries — barely 56 km wide at its slimmest. It stretches 560 km from the Gulf of Guinea beach in the south all the way north to dry savanna bordering Burkina Faso.",
+    "The landscape shifts heading north: sandy coast gives way to rolling plateaus, then the Togo Mountains rise. Mont Agou, at 986 m, is the tallest peak, and open savanna fans out to the north."
+  ],
+  "animals": [
+    "Fazao-Malfakassa National Park shelters about 60 savanna elephants — the most westerly viable elephant group in the Guinea savanna zone — plus patas monkeys, baboons, and roan antelopes.",
+    "The park hosts over 244 bird species. Southern rivers shelter hippos and crocodiles, while vervet monkeys and bushbuck move between gallery woodland and open grassland."
+  ],
+  "culture": [
+    "The Ewe people weave stunning kente cloth — vivid geometric strips stitched into colourful robes worn at festivals. Their complex polyrhythmic drumming is studied by musicians in universities worldwide.",
+    "Vodun (voodoo) is an officially recognised religion. Lomé's Akodessewa market is the world's largest fetish market. The annual Yam Festival is a joyful harvest celebration of food, dance, and community."
+  ],
+  "history": [
+    "Germany claimed Togoland in 1884, building a railway and Lomé's port. In 1914, British and French forces captured it in the very first Allied victory of WWI — in just 26 days.",
+    "France governed the eastern half until 27 April 1960, when Togo gained independence. Koutammakou in the north, with its mud tower-houses, became a UNESCO World Heritage Site in 2004."
+  ],
+  "wows": [
+    "Lomé borders Ghana so closely you can stroll on foot from one country to the other through the city.",
+    "Togo holds the world's 4th-largest phosphate reserves, a key fertiliser helping grow food globally.",
+    "Lomé's Akodessewa is Earth's largest voodoo market, supplying healers across West Africa.",
+    "Germany built one of Africa's earliest railways here in the 1900s to move goods to Lomé's port.",
+    "The Batammariba build two-storey mud tower-houses called takienta using the same design for 300+ years.",
+    "Togo's flag was designed by artist Paul Ahyi in 1960; each of its five stripes stands for one region.",
+    "Ewe drumming from southern Togo is so complex that universities in the USA and Europe teach it formally."
+  ],
+  "myths": [
+    {
+      "myth": "Voodoo is all about evil spells",
+      "fact": "Vodun is a West African religion focused on ancestors, healing, and community. The scary Hollywood version is fiction — balance and respect are its true heart."
+    },
+    {
+      "myth": "Togo is just a tiny forgotten place",
+      "fact": "Togo has one of West Africa's busiest ports, a UNESCO World Heritage Site, globally studied music, and phosphate reserves that help feed the world."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Ŋdi",
+      "say": "nn-DEE"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Akpe",
+      "say": "AHK-peh"
+    },
+    {
+      "en": "Good evening",
+      "jp": "Fienyi",
+      "say": "fee-EHN-yee"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Woé zɔ",
+      "say": "woh-EH zoh"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Hede nyuie",
+      "say": "heh-DEH nyoo-EE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tg-hero.jpg",
+      "alt": "Lomé beach on the Gulf of Guinea with palm trees and waves",
+      "caption": "LOMÉ BEACH — the Atlantic rolls in metres from the city centre",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tg-landmark.jpg",
+      "alt": "Palais des Congrès in Lomé Togo",
+      "caption": "PALAIS DES CONGRÈS — Lomé's grand conference hall by the sea",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tg-animalA.jpg",
+      "alt": "African savanna elephant in grassland",
+      "caption": "AFRICAN ELEPHANT — ~60 roam Fazao-Malfakassa National Park",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tg-animalB.jpg",
+      "alt": "Patas monkey with russet fur in the wild",
+      "caption": "PATAS MONKEY — fast primates in Togo's central savanna parks",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

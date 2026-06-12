@@ -1,0 +1,163 @@
+{
+  "name": "FINLAND",
+  "nativeName": "FI",
+  "romaji": "SUOMI",
+  "tagline": "Land of Lakes & Light",
+  "region": "Northern Europe",
+  "coords": "64°N, 26°E",
+  "fileNo": "042",
+  "langName": "Finnish",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EFF4F0",
+    "dot": "#c5d4c8",
+    "ink": "#1e2820",
+    "faint": "#7a9080",
+    "line": "#d4e0d6",
+    "accent": "#003580",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/fi.svg",
+    "title": "Finnish Flag",
+    "note": "White field with blue Nordic cross",
+    "keyColor": "#003580",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Finland sits at the top of Europe where winter nights blaze with green northern lights and summers bring sun that never fully sets. The country has about 188,000 lakes and forests thick with elk. Finns invented the sauna — a hot steam followed by a plunge into icy water is something almost every family does weekly.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Helsinki",
+      "sub": "Pop. ~684,000 on the Baltic coast"
+    },
+    {
+      "label": "People",
+      "value": "5.6 million",
+      "sub": "Est. 2025; EU's least-dense lands"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Uses EU currency since 2002"
+    },
+    {
+      "label": "Language",
+      "value": "Finnish",
+      "sub": "Also Swedish; famously tricky"
+    },
+    {
+      "label": "Land area",
+      "value": "338,145 km²",
+      "sub": "Bigger than Germany; mostly forest"
+    },
+    {
+      "label": "High point",
+      "value": "Halti 1,324 m",
+      "sub": "Arctic Lapland, at Norway's border"
+    }
+  ],
+  "islands": [
+    "Lapland",
+    "Tampere",
+    "Turku",
+    "Helsinki",
+    "Oulu"
+  ],
+  "islandsLabel": "MAIN REGIONS & CITIES:",
+  "sections": {
+    "geography": "A World of Lakes & Forest",
+    "animals": "Creatures of the Wild North",
+    "culture": "Saunas, Silence & Santa",
+    "history": "From Grand Duchy to Pioneer",
+    "wows": "Wait — Really?!"
+  },
+  "geo": [
+    "Finland is so flat and forested that standing on a hill is exciting. About 75% of the land is trees — pine and spruce — and the southern coast is dotted with thousands of rocky islands. In winter the whole country turns white and temperatures in the north dip below −30 °C.",
+    "Up in Lapland, north of the Arctic Circle, the sun never rises for weeks in midwinter. But that same region gets midnight sun every summer, when the sun skims the horizon without ever dipping below it."
+  ],
+  "animals": [
+    "Finland's forests shelter roughly 2,000 brown bears near the Russian border, plus wolverines, lynx, and wolves. The brown bear is the national animal, honoured in ancient Finnish mythology as a great forest spirit.",
+    "The whooper swan, Finland's national bird, nests on quiet lakes. Elk are so common that road signs warn drivers. In Lapland, roughly 200,000 reindeer roam freely, herded by the indigenous Sámi people."
+  ],
+  "culture": [
+    "Finnish culture prizes quietness, honesty, and 'sisu' — gut-grit that keeps you going when things get hard. The sauna is sacred: Finland has roughly three million saunas for 5.6 million people. Business deals and friendships alike are sealed in the steam.",
+    "Finland gave the world Angry Birds and the Linux operating system. Santa Claus's official village sits on the Arctic Circle in Rovaniemi. Folk music on the kantele harp echoes stories from the epic poem Kalevala."
+  ],
+  "history": [
+    "Sweden ruled Finland for ~600 years, leaving its language and Lutheran churches. In 1809 Russia took over, making Finland a semi-autonomous Grand Duchy. Finnish culture grew quietly stronger, fuelled by the Kalevala epic published in 1835.",
+    "Finland declared independence on 6 December 1917. In 1940 the Soviet Union invaded; Finland fought back fiercely in the Winter War, holding off a vastly larger Soviet force. Today Finland is among the world's happiest countries and joined NATO in April 2023."
+  ],
+  "wows": [
+    "Finland has ranked the world's happiest country eight years running per the UN.",
+    "Finland's 188,000 lakes mean you are never far from water almost anywhere you stand.",
+    "Finnish is one of the few European languages unrelated to Latin, Greek, or Germanic roots.",
+    "Finland gave women full voting rights in 1906 — first country in the world to do so.",
+    "The sauna tradition in Finland is thought to be thousands of years old, predating written Finnish.",
+    "Santa Claus's official home is Rovaniemi, Finland, right on the Arctic Circle.",
+    "Sámi herders move roughly 200,000 reindeer across Lapland on routes mapped over centuries."
+  ],
+  "myths": [
+    {
+      "myth": "Finland is always dark and freezing",
+      "fact": "Southern Finnish summers reach 25 °C with near-endless daylight; Helsinki gets as much July sunshine as London does."
+    },
+    {
+      "myth": "Finns are cold and unfriendly",
+      "fact": "Finns value silence and personal space, but are deeply loyal, generous hosts once you earn their trust — sisu means warmth too."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hei",
+      "say": "hay"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Kiitos",
+      "say": "kee-toss"
+    },
+    {
+      "en": "Please",
+      "jp": "Ole hyvä",
+      "say": "oh-leh hoo-va"
+    },
+    {
+      "en": "Sauna",
+      "jp": "Sauna",
+      "say": "sow-nah"
+    },
+    {
+      "en": "Lake",
+      "jp": "Järvi",
+      "say": "yar-vee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fi-hero.jpg",
+      "alt": "Helsinki Senate Square with white cathedral in winter snow",
+      "caption": "HELSINKI SENATE SQUARE — neoclassical heart of the Finnish capital in winter",
+      "credit": "Wikimedia Commons / panoramio"
+    },
+    "landmark": {
+      "src": "/photos/fi-landmark.jpg",
+      "alt": "Arctic Circle marker in Rovaniemi Lapland Finland",
+      "caption": "ARCTIC CIRCLE MARKER — Rovaniemi, Santa's official Finnish hometown in Lapland",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/fi-animalA.jpg",
+      "alt": "Brown bear in Finnish forest",
+      "caption": "BROWN BEAR — Finland's national animal prowls the eastern taiga forests",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/fi-animalB.jpg",
+      "alt": "Whooper swan on a Finnish lake",
+      "caption": "WHOOPER SWAN — Finland's national bird nesting on one of 188,000 lakes",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

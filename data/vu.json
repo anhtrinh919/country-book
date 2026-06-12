@@ -1,0 +1,163 @@
+{
+  "name": "VANUATU",
+  "nativeName": "VU",
+  "romaji": "VANUATU",
+  "tagline": "Islands of fire & kastom",
+  "region": "Melanesia, South Pacific",
+  "coords": "15.38°S 166.96°E",
+  "fileNo": "183",
+  "langName": "Bislama",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA4",
+    "ink": "#252018",
+    "faint": "#847560",
+    "line": "#DDD5BE",
+    "accent": "#2B6B3C",
+    "accent2": "#C0202E"
+  },
+  "flag": {
+    "assetPath": "/flags/vu.svg",
+    "title": "Flag of Vanuatu",
+    "note": "Green, red, black with yellow boar's tusk",
+    "keyColor": "#2B6B3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Vanuatu is 83 volcanic islands in the South Pacific. Its people speak more languages per person than anywhere — 138 tongues for under 340,000 people. A volcano you can walk right up to, a ritual that inspired bungee jumping, and a tribe that once worshipped a British prince: extraordinary tales, tiny islands.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Port Vila",
+      "sub": "On Efate Island"
+    },
+    {
+      "label": "People",
+      "value": "~335,000",
+      "sub": "UN est. 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Vatu (VUV)",
+      "sub": "Symbol: Vt"
+    },
+    {
+      "label": "Language",
+      "value": "Bislama",
+      "sub": "Plus English & French"
+    },
+    {
+      "label": "Land area",
+      "value": "12,189 km²",
+      "sub": "65 islands inhabited"
+    },
+    {
+      "label": "Top peak",
+      "value": "1,877 m",
+      "sub": "Mt Tabwemasana"
+    }
+  ],
+  "islands": [
+    "Efate",
+    "Santo",
+    "Tanna",
+    "Pentecost",
+    "Malekula"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "A land of islands & fire",
+    "animals": "Crabs, bats & reef life",
+    "culture": "Kastom, kava & community",
+    "history": "Two colonies, one free nation",
+    "wows": "Extraordinary Vanuatu"
+  },
+  "geo": [
+    "Vanuatu sits on the Pacific Ring of Fire, where tectonic plates push volcanic mountains through the sea. The archipelago stretches 1,300 km north to south; Espiritu Santo, the largest island, holds the highest peak, Mt Tabwemasana, at 1,877 m.",
+    "Narrow beaches give way to dense rainforest and rugged highlands. Underwater, coral gardens flourish alongside the wreck of the SS President Coolidge, sunk in 1942 and now one of the world's great dive sites."
+  ],
+  "animals": [
+    "The coconut crab — Earth's largest land crab — prowls the islands at night, cracking open coconuts with claws strong enough to bend steel. Vanuatu's own flying fox pollinates forests at dusk.",
+    "Seven bird species are found nowhere else on Earth. Dugongs graze on sea grass in sheltered bays, and brilliantly coloured parrotfish crunch coral on every reef."
+  ],
+  "culture": [
+    "Kastom — Bislama for traditional culture — governs daily life. Every village has its own version, but all share respect for elders and the land. Kava, made from the pepper plant root, is shared at nakamals (kava bars) each evening as the main social ritual.",
+    "Three official languages (Bislama, English, French) survive from colonial rule. Traditional ceremonies mix chiefly rank, costumes, and drumming. Weaving, wood carving, and sand drawing are living art forms passed from grandparent to child."
+  ],
+  "history": [
+    "Melanesian people settled these islands around 3,000 years ago. By 1906, Britain and France created the New Hebrides Condominium — two governments, two police forces, two prison systems, running at once on the same islands.",
+    "Vanuatu declared independence on 30 July 1980. The name means 'our land stands forever.' Today it ranks among the world's happiest nations, topping the Happy Planet Index in both 2006 and 2024."
+  ],
+  "wows": [
+    "Vanuatu has more languages per person than any country: 138 tongues for under 340,000 people.",
+    "Mt Yasur on Tanna has erupted nearly non-stop for centuries — the world's most accessible active volcano.",
+    "The nagol land-dive on Pentecost — men leap from towers with vine-ankles — directly inspired bungee jumping.",
+    "Vanuatu ranked No. 1 on the Happy Planet Index in both 2006 and 2024, twenty years apart.",
+    "A Tanna tribe once worshipped Prince Philip as a god and exchanged signed portraits with Buckingham Palace.",
+    "There is no income tax, no corporate tax, and no capital gains tax anywhere in Vanuatu.",
+    "The coconut crab found here is the world's largest land arthropod, weighing up to 4 kg."
+  ],
+  "myths": [
+    {
+      "myth": "Vanuatu is just one island",
+      "fact": "Vanuatu is an archipelago of 83 islands over 1,300 km — 65 inhabited, each with its own language and kastom."
+    },
+    {
+      "myth": "Bungee jumping was invented in NZ",
+      "fact": "A.J. Hackett was inspired by Vanuatu's ancient nagol ritual on Pentecost Island, where men have leapt from towers with vine-ankles for centuries."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Halo",
+      "say": "hah-loh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tangkyu",
+      "say": "tank-yoo"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Yu oraet?",
+      "say": "yoo oh-rye"
+    },
+    {
+      "en": "Good",
+      "jp": "I gud",
+      "say": "ee good"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Tata",
+      "say": "tah-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vu-hero.jpg",
+      "alt": "Port Vila harbour with boats and green hills",
+      "caption": "PORT VILA — the colourful capital harbour on Efate Island",
+      "credit": "PhillipC / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/vu-landmark.jpg",
+      "alt": "Mount Yasur active volcano with glowing lava",
+      "caption": "MT YASUR — Tanna's perpetually erupting volcano, walkable on foot",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vu-animalA.jpg",
+      "alt": "Large coconut crab on a tree",
+      "caption": "COCONUT CRAB — world's largest land crab, found across Vanuatu",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/vu-animalB.jpg",
+      "alt": "Flying fox bat hanging in a tree at dusk",
+      "caption": "PACIFIC FLYING FOX — essential night pollinator of island forests",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

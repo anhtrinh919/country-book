@@ -1,0 +1,163 @@
+{
+  "name": "DJIBOUTI",
+  "nativeName": "جيبوتي",
+  "romaji": "JABUUTI",
+  "tagline": "Africa's Crossroads",
+  "region": "East Africa / Horn of Africa",
+  "coords": "11.83°N, 42.59°E",
+  "fileNo": "DJ",
+  "langName": "Somali",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#C9B89A",
+    "ink": "#24201A",
+    "faint": "#8A7A5E",
+    "line": "#DACFB2",
+    "accent": "#5AABE0",
+    "accent2": "#4BA04A"
+  },
+  "flag": {
+    "assetPath": "/flags/dj.svg",
+    "title": "Flag of Djibouti",
+    "note": "Blue & green bands, white triangle, red star",
+    "keyColor": "#5AABE0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Djibouti is a tiny country wedged at the mouth of the Red Sea where Africa nearly touches Arabia. Its superpower is location — every ship sailing between Asia and Europe squeezes past its coast. Scorching salt lakes sit below sea level, baby whale sharks cruise its gulf, and the city hosts military bases from six nations.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Djibouti City",
+      "sub": "Built on coral reefs in the gulf"
+    },
+    {
+      "label": "People",
+      "value": "1,066,809",
+      "sub": "Census of 20 May 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Franc (DJF)",
+      "sub": "Pegged to the US dollar since 1949"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic/French",
+      "sub": "Somali & Afar widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "23,200 km²",
+      "sub": "About the size of Wales"
+    },
+    {
+      "label": "Top point",
+      "value": "Mousa Ali",
+      "sub": "Shared volcano, 2,021 m"
+    }
+  ],
+  "islands": [
+    "Djibouti",
+    "Tadjoura",
+    "Obock",
+    "Ali Sabieh",
+    "Dikhil"
+  ],
+  "islandsLabel": "MAIN REGIONS:",
+  "sections": {
+    "geography": "Where continents nearly meet",
+    "animals": "Sharks, flamingos & rare birds",
+    "culture": "Spice, khat & ocean crossings",
+    "history": "From French colony to Gulf hub",
+    "wows": "Surprising Djibouti"
+  },
+  "geo": [
+    "Djibouti sits in the Afar Triangle, where three tectonic plates slowly pull apart — making it one of Earth's most geologically alive places. Lake Assal, a blinding-white salt lake, lies 155 m below sea level: the lowest point on the entire African continent.",
+    "The coast opens onto the Gulf of Tadjoura, warm and coral-rich. Inland, black lava fields and knife-sharp cliffs dominate. The whole country is barely bigger than Wales — yet packs in deserts, volcanoes, and seashore all at once."
+  ],
+  "animals": [
+    "The Gulf of Tadjoura is one of the world's best places to swim with whale sharks. From November to February, plankton blooms draw dozens of gentle giants — some only two metres long, the youngest average size of any known gathering on Earth.",
+    "On land, the rare Djibouti spurfowl survives only in one small juniper forest in the Goda Mountains — fewer than 500 remain. At Lake Abbé, flamingos wade among tall limestone chimneys that look like another planet."
+  ],
+  "culture": [
+    "Djiboutian cooking blends Somali, Afar, Yemeni and French flavours. The national dish, skoudehkaris, is lamb and rice stewed with cardamom, cloves and cinnamon. Sweet xalwo — sticky sugar-and-ghee candy — appears at every wedding.",
+    "Every afternoon the city slows to a khat rhythm. Friends gather on mats, chew the leafy stimulant and debate politics for hours. Two main peoples, the Somali Issa and the Afar, each bring vivid music, oral poetry and nomadic tradition."
+  ],
+  "history": [
+    "Arabs and traders used Djibouti's harbours for over a thousand years. France arrived in 1862 and by the 1890s controlled the whole territory as French Somaliland. The railway to Addis Ababa, finished in 1917, made the port vital for landlocked Ethiopia.",
+    "On 27 June 1977, a 99.8% vote chose independence. The new nation named itself after its capital. Remaining stable while neighbours battled, it became East Africa's safe hub — earning income by renting land to foreign militaries."
+  ],
+  "wows": [
+    "About 12% of all global maritime trade sails past Djibouti's coast every day.",
+    "Djibouti hosts bases from the USA, France, China, Italy and Japan simultaneously.",
+    "Lake Assal is ten times saltier than the sea — you float like the Dead Sea.",
+    "The Afar Triangle is actively tearing apart: a new ocean will form here in ~10 million years.",
+    "Ethiopia — 130 million people — sends over 95% of its trade through Djibouti's port.",
+    "Gulf of Tadjoura whale sharks are the youngest average size of any known gathering site.",
+    "Djibouti is home to Africa's first cross-border electrified railway."
+  ],
+  "myths": [
+    {
+      "myth": "\"Just a featureless desert\"",
+      "fact": "Djibouti has coral reefs, whale sharks, flamingo lakes, ancient juniper forests, and volcanic chimneys — remarkable variety packed into a Wales-sized space."
+    },
+    {
+      "myth": "\"Lake Abbé inspired Planet of the Apes\"",
+      "fact": "Tour guides love this story, but the 1968 Charlton Heston film was shot entirely in Arizona and California — not in Djibouti at all."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Nabad",
+      "say": "NAH-bad"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mahadsanid",
+      "say": "ma-HAD-sa-nid"
+    },
+    {
+      "en": "Water",
+      "jp": "Biyo",
+      "say": "BEE-yo"
+    },
+    {
+      "en": "Good",
+      "jp": "Wanaagsan",
+      "say": "wa-NAAG-san"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Soo dhawoow",
+      "say": "so dha-WOW"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dj-hero.jpg",
+      "alt": "Aerial view of the Port of Djibouti with container cranes and ships",
+      "caption": "PORT OF DJIBOUTI — one of East Africa's busiest gateways",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dj-landmark.jpg",
+      "alt": "White salt crust of Lake Assal with turquoise water and mountains",
+      "caption": "LAKE ASSAL — Africa's lowest point, 155 m below sea level",
+      "credit": "Wikimedia Commons / Fishercd"
+    },
+    "animalA": {
+      "src": "/photos/dj-animalA.jpg",
+      "alt": "Limestone chimney towers at Lake Abbé with flamingos below",
+      "caption": "LAKE ABBÉ CHIMNEYS — volcanic towers rising from a flamingo lake",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dj-animalB.jpg",
+      "alt": "Whale shark swimming in clear blue water with a diver nearby",
+      "caption": "WHALE SHARK — young giants gather in the Gulf of Tadjoura",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

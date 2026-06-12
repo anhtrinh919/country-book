@@ -1,0 +1,163 @@
+{
+  "name": "BAHAMAS",
+  "nativeName": "BS",
+  "romaji": "BAHAMAS",
+  "tagline": "700 Islands of Blue",
+  "region": "Caribbean",
+  "coords": "25.0° N, 77.4° W",
+  "fileNo": "044",
+  "langName": "Bahamian English",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EFDF",
+    "dot": "#C8C6A0",
+    "ink": "#1E2320",
+    "faint": "#7A8870",
+    "line": "#DCDBB8",
+    "accent": "#00B2CA",
+    "accent2": "#F0C030"
+  },
+  "flag": {
+    "assetPath": "/flags/bs.svg",
+    "title": "Black Triangle",
+    "note": "Aquamarine, gold & black since 1973",
+    "keyColor": "#00B2CA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Scatter 700 islands across the warm Atlantic, paint the water turquoise, and you have the Bahamas — where Columbus first set foot in the Americas in 1492, wild pigs swim to tourist boats, and most islands have nobody living on them, leaving endless empty beaches to explore.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Nassau",
+      "sub": "New Providence Island"
+    },
+    {
+      "label": "People",
+      "value": "~393,000",
+      "sub": "est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "BSD $1",
+      "sub": "= 1 US dollar, always"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Official; Creole spoken too"
+    },
+    {
+      "label": "Land area",
+      "value": "13,878 km²",
+      "sub": "~size of Wales"
+    },
+    {
+      "label": "Top point",
+      "value": "63 m",
+      "sub": "Mt Alvernia, Cat Island"
+    }
+  ],
+  "islands": [
+    "Nassau",
+    "Andros",
+    "Exuma",
+    "Eleuthera",
+    "Grand Bahama"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "A sea of 700 islands",
+    "animals": "Flamingos & reef kings",
+    "culture": "Conch, colour & carnival",
+    "history": "Pirates to paradise",
+    "wows": "Hard to believe!"
+  },
+  "geo": [
+    "The Bahamas stretches across 700 islands and 2,400 cays — but only about 30 are inhabited. The land is flat coral limestone, shaped by ancient reefs dissolved by rain and time, rarely more than a few metres above the sea.",
+    "Andros is the largest island and hides the world's third-longest barrier reef at 190 km. Underground, Lucayan National Park contains one of Earth's biggest underwater cave systems, completely invisible from the surface."
+  ],
+  "animals": [
+    "The American flamingo is the national bird. Great Inagua shelters one of the world's largest breeding colonies — over 50,000 birds turn the shoreline pink as they wade through salt flats at dusk.",
+    "The Nassau grouper patrols coral reefs in dazzling camouflage, shifting spots within seconds. Once superabundant, it is now critically endangered because it gathers in huge spawning schools and was dangerously easy to catch."
+  ],
+  "culture": [
+    "Junkanoo is the Bahamas' greatest party: a pre-dawn parade on Boxing Day and New Year's morning where teams in giant crepe-paper costumes dance to cowbells, goatskin drums, and brass bands. Roots go back to enslaved Africans celebrating rare holiday freedom; now a UNESCO heritage tradition.",
+    "Conch (say 'konk') is both national dish and obsession — eaten raw in salad, battered as fritters, or curried. The shell appears on the coat of arms. Lucayan people ate conch here 1,300 years ago and left vast shell middens archaeologists still study."
+  ],
+  "history": [
+    "Columbus landed on San Salvador on 12 October 1492 — his first Americas contact. He named the region 'baja mar' (shallow sea). Within 25 years, Spanish slavers had taken every one of the 40,000 Lucayan people; the islands sat empty for over a century.",
+    "English settlers arrived in the 1640s, and pirates like Blackbeard soon ruled Nassau's harbour. Britain governed for 325 years until 10 July 1973, when the Bahamas raised its new aquamarine-and-gold flag and became fully independent."
+  ],
+  "wows": [
+    "The Bahamas has more blue holes — underwater sinkholes — per square mile than anywhere on Earth.",
+    "Dean's Blue Hole on Long Island is 202 m deep; freedivers hold their breath past 100 m to set world records.",
+    "Wild pigs on Big Major Cay swim out to tourist boats seeking snacks; nobody knows how they arrived.",
+    "The Bahamian dollar has been pegged exactly 1-to-1 with the US dollar every single day since 1966.",
+    "Harbour Island's beach is naturally pink, coloured by millions of crushed red coral shell fragments.",
+    "There is no income tax, capital gains tax, or inheritance tax anywhere in the Bahamas.",
+    "Columbus wrote that the Lucayan people were the most beautiful and gentle he had ever seen."
+  ],
+  "myths": [
+    {
+      "myth": "Every Bahamian beach is white sand",
+      "fact": "Harbour Island's famous beach is pink, coloured by shell fragments from a local coral — one of only a handful of natural pink-sand beaches on the planet."
+    },
+    {
+      "myth": "The Bahamas is just one big island",
+      "fact": "There are 700 islands and 2,400 tiny cays; most have no roads or people — you could visit a new empty beach every day for years."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hey there!",
+      "say": "HEY theh"
+    },
+    {
+      "en": "Beach",
+      "jp": "De beach",
+      "say": "deh BEECH"
+    },
+    {
+      "en": "Conch",
+      "jp": "Conch",
+      "say": "KONK"
+    },
+    {
+      "en": "Party",
+      "jp": "Junkanoo",
+      "say": "JUNK-uh-noo"
+    },
+    {
+      "en": "No worries",
+      "jp": "No problem",
+      "say": "no PROB-lem"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bs-hero.jpg",
+      "alt": "Atlantis Paradise Island resort seen from the water, Nassau Bahamas",
+      "caption": "ATLANTIS RESORT — the pink towers of Paradise Island rise over Nassau harbour",
+      "credit": "Drumguy8800 / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/bs-landmark.jpg",
+      "alt": "Pink sand beach curving along Harbour Island shore in the Bahamas",
+      "caption": "PINK SANDS BEACH — Harbour Island's shore turns rosy from crushed coral shells",
+      "credit": "Mike's Birds / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/bs-animalA.jpg",
+      "alt": "American flamingo standing in shallow water showing vivid pink plumage",
+      "caption": "AMERICAN FLAMINGO — national bird; 50,000 breed on Great Inagua island",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/bs-animalB.jpg",
+      "alt": "Nassau grouper fish hovering over a Caribbean coral reef",
+      "caption": "NASSAU GROUPER — named for the capital; critically endangered reef fish",
+      "credit": "Bernard Dupont / CC BY-SA 2.0"
+    }
+  }
+}

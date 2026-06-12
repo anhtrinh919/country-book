@@ -1,0 +1,163 @@
+{
+  "name": "INDONESIA",
+  "nativeName": "ID",
+  "romaji": "INDONESIA",
+  "tagline": "Islands of fire & spice",
+  "region": "Southeast Asia",
+  "coords": "-2.5°S, 118°E",
+  "fileNo": "017",
+  "langName": "Indonesian",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2B2218",
+    "faint": "#8A7A5A",
+    "line": "#DCCFB0",
+    "accent": "#CE1126",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/id.svg",
+    "title": "Merah-Putih",
+    "note": "Red over white — courage & purity",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Indonesia is the world's biggest archipelago — over 17,000 islands wider than the USA. Volcanoes rumble under rainforests where orangutans swing through the canopy. Ancient temples rise from rice terraces, and the seas burst with so much colour that snorkellers barely need to search for fish — they are simply everywhere.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Jakarta*",
+      "sub": "*new capital Nusantara building"
+    },
+    {
+      "label": "People",
+      "value": "281 million",
+      "sub": "4th most populous (2024 est.)"
+    },
+    {
+      "label": "Money",
+      "value": "Rupiah (IDR)",
+      "sub": "1 USD ≈ 16,500 IDR (2025)"
+    },
+    {
+      "label": "Language",
+      "value": "Indonesian",
+      "sub": "Bahasa + 700+ local languages"
+    },
+    {
+      "label": "Land area",
+      "value": "1.9 m km²",
+      "sub": "14th largest country on Earth"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Puncak Jaya",
+      "sub": "4,884 m — highest in Oceania"
+    }
+  ],
+  "islands": [
+    "Java",
+    "Sumatra",
+    "Borneo",
+    "Sulawesi",
+    "Bali"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "A land of islands & fire",
+    "animals": "Jungle giants & sea wonders",
+    "culture": "Batik, spice & gamelan beats",
+    "history": "Empires, spice & independence",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Indonesia sits on the Pacific Ring of Fire with 130 active volcanoes — more than any other country. Krakatoa's 1883 eruption was heard in Australia, 3,100 km away.",
+    "The archipelago stretches 5,100 km east to west — roughly London to Tehran. Islands range from jungle mountains to flat coral atolls barely above the waves."
+  ],
+  "animals": [
+    "Sumatra is the only place where tigers, elephants, rhinos, and orangutans all share one rainforest. The Komodo dragon — up to 3 m long — lives only on a handful of Indonesian islands.",
+    "The Coral Triangle around eastern Indonesia holds the richest marine life on Earth: 600+ coral species and 3,000 kinds of fish, from whale sharks to pygmy seahorses."
+  ],
+  "culture": [
+    "Indonesia has 300+ ethnic groups and 700 languages, yet Bahasa Indonesia unites them all at school. Wayang kulit shadow puppet shows, lasting all night, are on UNESCO's heritage list.",
+    "Batik cloth — wax-resist dyed in intricate patterns — is worn at weddings and offices alike. The gamelan orchestra's bronze gongs create shimmering music like a waterfall of notes."
+  ],
+  "history": [
+    "Hindu and Buddhist kingdoms thrived here for a thousand years; Borobudur (c. 800 CE) is the world's largest Buddhist monument. Later, Muslim sultanates commanded the global spice trade.",
+    "The Dutch ruled for three and a half centuries, drawn by nutmeg, pepper, and cloves. Sukarno declared independence on 17 August 1945 — a date every Indonesian knows by heart."
+  ],
+  "wows": [
+    "Indonesia has more active volcanoes than any other country — about 130.",
+    "Java holds 155 million people, making it the most densely populated large island on Earth.",
+    "Komodo dragons can detect prey with their tongue from up to 9 km away.",
+    "Borobudur's 2,672 relief panels, laid end to end, would stretch over 6 km.",
+    "Indonesia grows around 75% of the world's nutmeg — more than any other nation.",
+    "The motto 'Bhinneka Tunggal Ika' — Unity in Diversity — was written 700 years ago.",
+    "Indonesia is relocating its capital to a brand-new jungle city called Nusantara in Borneo."
+  ],
+  "myths": [
+    {
+      "myth": "Bali IS Indonesia",
+      "fact": "Bali is one of 17,000+ islands. Most Indonesians are Muslim — Bali's Hindu culture is a beautiful, rare exception, not the national norm."
+    },
+    {
+      "myth": "All islands are flat & tropical",
+      "fact": "Papua's Puncak Jaya (4,884 m) carries a glacier — one of the last tropical glaciers outside the Andes, and scientists warn it may vanish by 2030."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Halo",
+      "say": "hah-LO"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Terima kasih",
+      "say": "tree-MAH kah-SEE"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Enak!",
+      "say": "EH-nahk"
+    },
+    {
+      "en": "How much?",
+      "jp": "Berapa?",
+      "say": "beh-RAH-pah"
+    },
+    {
+      "en": "Island",
+      "jp": "Pulau",
+      "say": "POO-lau"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/id-hero.jpg",
+      "alt": "Jakarta city skyline at dusk",
+      "caption": "JAKARTA — Indonesia's vast capital glitters across the Java coast",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/id-landmark.jpg",
+      "alt": "Borobudur Buddhist temple at sunrise in Central Java",
+      "caption": "BOROBUDUR — world's largest Buddhist temple, built c. 800 CE in Java",
+      "credit": "Wikimedia Commons / Gunawan Kartapranata"
+    },
+    "animalA": {
+      "src": "/photos/id-animalA.jpg",
+      "alt": "Komodo dragon walking on dry ground on Rinca Island",
+      "caption": "KOMODO DRAGON — Earth's largest lizard, native to Indonesian islands only",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/id-animalB.jpg",
+      "alt": "Bornean orangutan in forest canopy",
+      "caption": "BORNEAN ORANGUTAN — 'person of the forest', endangered in Borneo & Sumatra",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

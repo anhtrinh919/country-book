@@ -1,0 +1,163 @@
+{
+  "name": "BRAZIL",
+  "nativeName": "BR",
+  "romaji": "BRASIL",
+  "tagline": "Land of Carnival & Jungle",
+  "region": "South America",
+  "coords": "-14.2°N, -51.9°W",
+  "fileNo": "BRA",
+  "langName": "Portuguese",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9A",
+    "ink": "#1E2A18",
+    "faint": "#7A8A6E",
+    "line": "#DDD3B8",
+    "accent": "#009C3B",
+    "accent2": "#FEDD00"
+  },
+  "flag": {
+    "assetPath": "/flags/br.svg",
+    "title": "Flag of Brazil",
+    "note": "Green, gold diamond, blue globe & stars",
+    "keyColor": "#009C3B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Brazil is the giant of South America — so big it borders almost every other country on the continent. It holds the world's largest tropical rainforest, the Amazon, home to more species than anywhere on Earth. From Rio's glittering beaches to the thundering Iguaçu Falls, Brazil is loud, colourful, and bursting with life.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Brasília",
+      "sub": "Built from scratch in 41 months"
+    },
+    {
+      "label": "People",
+      "value": "215 million",
+      "sub": "2022 census — 5th most populous"
+    },
+    {
+      "label": "Money",
+      "value": "Real (BRL)",
+      "sub": "Symbol R$; 100 centavos = 1 real"
+    },
+    {
+      "label": "Language",
+      "value": "Portuguese",
+      "sub": "Only Portuguese nation in Americas"
+    },
+    {
+      "label": "Land area",
+      "value": "8.51 M km²",
+      "sub": "5th largest country on Earth"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "2,994 m",
+      "sub": "Pico da Neblina, near Venezuela"
+    }
+  ],
+  "islands": [
+    "São Paulo",
+    "Rio de Jan.",
+    "Amazonas",
+    "Bahia",
+    "Rio Grande"
+  ],
+  "islandsLabel": "MAJOR STATES:",
+  "sections": {
+    "geography": "A land of rivers & forest",
+    "animals": "Wild things, big & small",
+    "culture": "Rhythm, colour & football",
+    "history": "From colony to giant nation",
+    "wows": "Brazil's wow moments"
+  },
+  "geo": [
+    "Brazil holds 60% of the Amazon rainforest — the planet's biggest tropical jungle, larger than Western Europe. The Amazon River pours more fresh water into the sea than any other river on Earth.",
+    "Beyond the jungle lie vast grasslands called the Cerrado, the Pantanal wetlands (the world's largest), sun-baked northeastern beaches, and the Iguaçu Falls — wider than Niagara Falls."
+  ],
+  "animals": [
+    "The Amazon shelters jaguars, pink river dolphins, giant anteaters, and the capybara — the world's largest rodent, which looks like a giant guinea pig and loves to swim. Neon poison-dart frogs warn off predators with colour.",
+    "Brazil's skies fill with toucans and scarlet macaws. Rivers hold piranhas and the giant arapaima fish. The Pantanal has the densest jaguar population on Earth."
+  ],
+  "culture": [
+    "Brazil gave the world samba, bossa nova, and football legends like Pelé. Carnival — the biggest street party on the planet — draws two million people a day into Rio's glittering, drumming, dancing parades before Lent.",
+    "Food is celebration: churrasco piles grilled meats high, while feijoada — a rich black-bean and pork stew — is the beloved national dish. Brazilians greet strangers warmly and rarely skip a chance to dance."
+  ],
+  "history": [
+    "Portugal colonised Brazil from 1500, harvesting sugar, gold, and rubber. Millions of Africans were enslaved and brought here — a painful legacy that deeply shapes Brazilian music, culture, and food today.",
+    "Brazil declared independence in 1822 with a Portuguese prince as its first emperor. After the republic formed in 1889, it grew fast. Its bold modernist capital Brasília was carved from empty plateau and opened in 1960."
+  ],
+  "wows": [
+    "Brazil is the only country in the Americas where Portuguese — not Spanish — is the official language.",
+    "The Amazon dumps so much fresh water into the Atlantic that you can drink from the ocean 160 km offshore.",
+    "Brazil has won the FIFA World Cup a record five times — more than any other nation on Earth.",
+    "Iguaçu Falls stretches nearly 3 km wide across 275 separate waterfalls — Niagara is dwarfed.",
+    "São Paulo has more Japanese-descended residents than any city outside Japan.",
+    "Brazil's Pantanal wetlands flood to the size of France every wet season.",
+    "Brasília was built in 41 months and became a UNESCO World Heritage Site in 1987."
+  ],
+  "myths": [
+    {
+      "myth": "The Amazon makes 20% of Earth's oxygen",
+      "fact": "The Amazon absorbs and releases roughly equal amounts of oxygen. Its real power is locking away billions of tonnes of carbon dioxide, not net oxygen production."
+    },
+    {
+      "myth": "Piranhas attack everything in sight",
+      "fact": "Piranhas are mostly scavengers. Local people swim alongside them every day — they only bite when starving or cornered, not as a default."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Please",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Football",
+      "jp": "Futebol",
+      "say": "foo-chee-BOL"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Gostoso",
+      "say": "gos-TOH-zoo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/br-hero.jpg",
+      "alt": "Aerial view of Rio de Janeiro from Sugarloaf Mountain",
+      "caption": "RIO DE JANEIRO — city tumbles between jungle peaks and crescent beaches",
+      "credit": "Wikimedia Commons / Martin St-Amant"
+    },
+    "landmark": {
+      "src": "/photos/br-landmark.jpg",
+      "alt": "Christ the Redeemer statue on Corcovado mountain overlooking Rio",
+      "caption": "CHRIST THE REDEEMER — arms wide over Rio from 710 m up Corcovado",
+      "credit": "Wikimedia Commons / Vincent van Zeijst"
+    },
+    "animalA": {
+      "src": "/photos/br-animalA.jpg",
+      "alt": "Jaguar walking along a riverbank in the Pantanal",
+      "caption": "JAGUAR — the Americas' biggest cat patrols Brazil's Pantanal wetlands",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/br-animalB.jpg",
+      "alt": "Toco toucan perched on a branch showing its enormous orange beak",
+      "caption": "TOCO TOUCAN — its huge beak grabs fruit and sheds heat in the tropics",
+      "credit": "Wikimedia Commons / Ltshears"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "TONGA",
+  "nativeName": "TO",
+  "romaji": "TONGA",
+  "tagline": "Kingdom of the Pacific",
+  "region": "Polynesia, South Pacific",
+  "coords": "21°S, 175°W",
+  "fileNo": "093",
+  "langName": "Tongan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CDBAA0",
+    "ink": "#27201A",
+    "faint": "#8A7355",
+    "line": "#DDD0BA",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/to.svg",
+    "title": "Tonga",
+    "note": "Red field, white canton with red cross",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tonga is the only Pacific island kingdom never colonised by a foreign power — it kept its royal family and pride. Scattered across a vast ocean, its 170 islands hide coral reefs, humpback whale nurseries, and ancient stone arches built by a civilisation that left no writing, only huge rocks fitted perfectly together.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Nuku'alofa",
+      "sub": "on Tongatapu island"
+    },
+    {
+      "label": "People",
+      "value": "~100,000",
+      "sub": "est. 2021 census"
+    },
+    {
+      "label": "Money",
+      "value": "Pa'anga (TOP)",
+      "sub": "100 seniti = 1 TOP"
+    },
+    {
+      "label": "Language",
+      "value": "Tongan/English",
+      "sub": "both are official"
+    },
+    {
+      "label": "Land area",
+      "value": "748 km²",
+      "sub": "smaller than Hong Kong"
+    },
+    {
+      "label": "High point",
+      "value": "Kao, 1,046 m",
+      "sub": "an active volcano"
+    }
+  ],
+  "islands": [
+    "Tongatapu",
+    "Vava'u",
+    "'Eua",
+    "Ha'apai",
+    "Niuas"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Islands, reefs & volcanoes",
+    "animals": "Whales, bats & bright fish",
+    "culture": "Royal feasts & fine weaving",
+    "history": "A kingdom that stood firm",
+    "wows": "Wait — seriously?!"
+  },
+  "geo": [
+    "Tonga's 170 islands stretch 800 km north to south. The western chain is volcanic — Kao and Tofua rise steeply from deep ocean. The eastern islands are flat coral limestone, barely above sea level, fringed by colourful reefs.",
+    "The Tonga Trench plunges 10,800 metres nearby — one of Earth's deepest points. Every year the islands nudge westward as the Pacific plate slides underneath, making Tonga one of the world's most earthquake-prone places."
+  ],
+  "animals": [
+    "Humpback whales swim to Tonga's warm waters every July–October to give birth and sing. You can snorkel right beside them — one of very few places on Earth where that is legal and safe.",
+    "The flying fox (fruit bat) is Tonga's largest native land mammal and is considered sacred — only the king may hunt it. Brilliant parrotfish and sea turtles also call these reef waters home."
+  ],
+  "culture": [
+    "Tongan society runs on strict rank — chiefs above commoners, and everyone knows their place at a feast. No gathering is complete without a massive umu (underground oven) heaped with pig, yam, and coconut cream.",
+    "Women weave fine mats from pandanus leaves that can take years to finish and are more valuable than money at weddings. Tapa cloth — beaten from mulberry bark into big decorated sheets — is given as a royal gift."
+  ],
+  "history": [
+    "Tonga's Tu'i Tonga dynasty began around 950 AD, one of the Pacific's oldest royal lines. At its height it controlled trade across Fiji, Samoa, and Niue — a Pacific superpower run from a coral island.",
+    "Captain Cook visited three times and called it the 'Friendly Islands'. King Tāufa'āhau Tupou I wrote a constitution in 1875 before Britain could take full control. Tonga joined the Commonwealth in 1970 as the only monarchy."
+  ],
+  "wows": [
+    "Tonga is the only Pacific nation never formally colonised by a European power.",
+    "You can legally swim alongside humpback whale mothers and newborn calves in Tonga.",
+    "Tonga sits so far east it is often the first country to ring in the New Year.",
+    "The Ha'amonga 'a Maui is a 40-tonne coral arch built c.1200 AD — Tonga's Stonehenge.",
+    "Flying foxes in Tonga are royal property; commoners are banned from hunting them.",
+    "Tonga's rugby team has beaten France and Italy at Rugby World Cups.",
+    "Tongans rank among the tallest and heaviest people on Earth on average."
+  ],
+  "myths": [
+    {
+      "myth": "Tonga is just one island",
+      "fact": "Tonga is 170 islands spread across an ocean area bigger than France, though total dry land is tiny."
+    },
+    {
+      "myth": "All Pacific islands are the same",
+      "fact": "Tonga has its own royal culture, ranked society, and unique language — and was never colonised, unlike most neighbours."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Mālō e lelei",
+      "say": "MAH-lo eh leh-LAY"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mālō",
+      "say": "MAH-lo"
+    },
+    {
+      "en": "Yes",
+      "jp": "'Io",
+      "say": "EE-oh"
+    },
+    {
+      "en": "No",
+      "jp": "'Ikai",
+      "say": "EE-kai"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Mālohi!",
+      "say": "MAH-lo-hee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/to-hero.jpg",
+      "alt": "Aerial view of Nuku'alofa, Tonga's capital",
+      "caption": "NUKU'ALOFA — Tonga's low-lying capital hugs the reef-sheltered coast of Tongatapu.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/to-landmark.jpg",
+      "alt": "Ha'amonga 'a Maui coral trilithon stone arch",
+      "caption": "HA'AMONGA 'A MAUI — a 40-tonne coral arch built around 1200 AD, Tonga's Stonehenge.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/to-animalA.jpg",
+      "alt": "Humpback whale underwater in clear blue ocean",
+      "caption": "HUMPBACK WHALE — mothers bring calves to Tonga's warm waters every July to October.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/to-animalB.jpg",
+      "alt": "Tongan flying fox fruit bat in a tree",
+      "caption": "TONGAN FLYING FOX — a royal animal; only the king may legally hunt this giant bat.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

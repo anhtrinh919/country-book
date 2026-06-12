@@ -1,0 +1,163 @@
+{
+  "name": "UKRAINE",
+  "nativeName": "UA",
+  "romaji": "UKRAINA",
+  "tagline": "Fields of gold & blue sky",
+  "region": "Eastern Europe",
+  "coords": "49°N 32°E",
+  "fileNo": "42",
+  "langName": "Ukrainian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBD8",
+    "dot": "#D4C9A8",
+    "ink": "#1E1B14",
+    "faint": "#7A7055",
+    "line": "#DDD4B8",
+    "accent": "#005BBB",
+    "accent2": "#FFD500"
+  },
+  "flag": {
+    "assetPath": "/flags/ua.svg",
+    "title": "Blue & Yellow",
+    "note": "Blue sky over golden wheat fields",
+    "keyColor": "#005BBB",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ukraine is vast: golden wheat fields under wide blue skies — a landscape so lovely it inspired the flag. Ancient golden-domed churches shimmer in Kyiv's sunlight. Ukrainians have one of Europe's richest folk traditions: painted eggs, embroidered shirts, and songs so old nobody knows who first sang them.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kyiv",
+      "sub": "On the Dnipro River"
+    },
+    {
+      "label": "People",
+      "value": "37.9 million",
+      "sub": "UN est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Hryvnia ₴",
+      "sub": "UAH"
+    },
+    {
+      "label": "Language",
+      "value": "Ukrainian",
+      "sub": "Cyrillic script"
+    },
+    {
+      "label": "Land area",
+      "value": "603,628 km²",
+      "sub": "Largest in Europe"
+    },
+    {
+      "label": "Top peak",
+      "value": "Hoverla 2,061m",
+      "sub": "In the Carpathians"
+    }
+  ],
+  "islands": [
+    "Kyiv",
+    "Lviv",
+    "Odesa",
+    "Kharkiv",
+    "Carpathians"
+  ],
+  "islandsLabel": "KEY PLACES:",
+  "sections": {
+    "geography": "A sea of golden plains",
+    "animals": "Wild horses & rare eagles",
+    "culture": "Songs, eggs & embroidery",
+    "history": "Cossacks & ancient kingdoms",
+    "wows": "7 things to make you go WOW"
+  },
+  "geo": [
+    "Ukraine is the largest country entirely inside Europe — bigger than France. Most of it is flat, fertile steppe, the famous ‘breadbasket’ that grows sunflowers, wheat, and corn for the whole world.",
+    "In the south, the Black Sea offers sandy beaches. In the west, the green Carpathian Mountains rise to Hoverla, where you can hike through spruce forests and hear cowbells in the mist."
+  ],
+  "animals": [
+    "The Przewalski’s horse — the last truly wild horse on Earth — roams the Chornobyl zone, where nature has quietly taken over abandoned towns. Pink pelicans nest in the Danube Delta in huge noisy colonies.",
+    "The steppe eagle soars over southern grasslands, hunting ground squirrels. Ukraine’s forests shelter wolves, lynx, and European bison, while the Dnipro River holds giant catfish as long as a car."
+  ],
+  "culture": [
+    "Ukrainians are world-famous for pysanky — Easter eggs covered in tiny wax-and-dye patterns. Each symbol has a meaning: spirals for eternity, wheat for a good harvest. No two eggs are ever the same.",
+    "The embroidered vyshyvanka shirt is worn proudly at festivals and school. Borshch — deep-red beetroot soup — is so treasured that UNESCO added it to the world’s living-culture heritage list."
+  ],
+  "history": [
+    "Over 1,000 years ago, Kyiv led a powerful realm called Kyivan Rus — one of medieval Europe’s greatest states. The grand Saint Sophia Cathedral, still standing, was built around 1037 AD.",
+    "For centuries Ukraine was split between empires — Polish, Russian, Ottoman. Cossack warriors on horseback fought fiercely for freedom. Ukraine became fully independent in 1991 when the Soviet Union collapsed."
+  ],
+  "wows": [
+    "Ukraine supplies about a third of the world’s sunflower oil — more than any other country.",
+    "Cossack leader Pylyp Orlyk wrote one of the world’s first democratic constitutions in 1710.",
+    "Kyiv’s Arsenalna metro station sits 105 m underground — deeper than Big Ben is tall.",
+    "Chornobyl’s exclusion zone is one of Europe’s largest wildlife sanctuaries — wolves and wild horses thrive.",
+    "Ukraine’s Carpathians hold over 70% of Europe’s primeval beech forest — a UNESCO Natural Heritage site.",
+    "Medieval gaming pieces carved from bone and walrus tusk have been found in Viking-age Kyiv ruins.",
+    "Ukraine holds Europe’s largest titanium reserves — enough to supply the US and EU for 25 years."
+  ],
+  "myths": [
+    {
+      "myth": "Ukraine is just part of Russia",
+      "fact": "Ukraine is fully independent with its own language and 1,000-year history — predating modern Russia. It has been a sovereign nation since 1991."
+    },
+    {
+      "myth": "Chornobyl is a dead toxic wasteland",
+      "fact": "Wildlife has surged in the exclusion zone — wolves, lynx, and wild horses thrive there now because no humans live nearby, though some radiation remains."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Привіт",
+      "say": "pry-VEET"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Дякую",
+      "say": "DYA-ku-yu"
+    },
+    {
+      "en": "Please",
+      "jp": "Будь ласка",
+      "say": "bood' LAS-ka"
+    },
+    {
+      "en": "Yes",
+      "jp": "Так",
+      "say": "tak"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Смачно!",
+      "say": "SMACH-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ua-hero.jpg",
+      "alt": "Aerial view of Kyiv Pechersk Lavra monastery with golden domes",
+      "caption": "KYIV PECHERSK LAVRA — golden domes shimmer above the Dnipro River",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ua-landmark.jpg",
+      "alt": "Saint Sophia Cathedral in Kyiv with green and gold domes",
+      "caption": "SAINT SOPHIA CATHEDRAL — built in 1037, still dazzling after 1,000 years",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ua-animalA.jpg",
+      "alt": "Przewalski's horse standing on open steppe",
+      "caption": "PRZEWALSKI'S HORSE — the last truly wild horse, roaming free in Ukraine",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ua-animalB.jpg",
+      "alt": "Great white pelican with wings spread",
+      "caption": "GREAT WHITE PELICAN — nests in Ukraine’s vast Danube Delta wetlands",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

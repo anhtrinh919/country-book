@@ -1,0 +1,163 @@
+{
+  "name": "SRI LANKA",
+  "nativeName": "ශ්‍රී",
+  "romaji": "SRI LANKA",
+  "tagline": "Island of gems & spices",
+  "region": "South Asia",
+  "coords": "7.87°N, 80.77°E",
+  "fileNo": "094",
+  "langName": "Sinhala",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA0",
+    "ink": "#2B2318",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#8D153A",
+    "accent2": "#F4811F"
+  },
+  "flag": {
+    "assetPath": "/flags/lk.svg",
+    "title": "Sri Lanka",
+    "note": "Lion flag with Bo-leaf corners",
+    "keyColor": "#8D153A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Sri Lanka is a teardrop island off India's southern tip — small enough to drive across in a day, yet packed with ancient temples, misty tea hills, golden beaches, and elephants. Called the Pearl of the Indian Ocean for 2,000 years, its sapphire lagoons and emerald highlands still dazzle every visitor who arrives.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kotte/Colombo",
+      "sub": "Kotte official; Colombo commercial"
+    },
+    {
+      "label": "People",
+      "value": "21.8 million",
+      "sub": "Est. 2024 — Sinhalese, Tamil, Moor"
+    },
+    {
+      "label": "Money",
+      "value": "LKR rupee",
+      "sub": "Sri Lankan rupee, symbol Rs"
+    },
+    {
+      "label": "Language",
+      "value": "Sinhala/Tamil",
+      "sub": "Both official; English widely used"
+    },
+    {
+      "label": "Land area",
+      "value": "65,610 km²",
+      "sub": "A bit bigger than Ireland"
+    },
+    {
+      "label": "Top peak",
+      "value": "2,524 m",
+      "sub": "Pidurutalagala — central highlands"
+    }
+  ],
+  "islands": [
+    "Colombo",
+    "Kandy",
+    "Galle",
+    "Jaffna",
+    "Trincomalee"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A teardrop in the ocean",
+    "animals": "Wild tuskers & sea turtles",
+    "culture": "Tea, temples & two languages",
+    "history": "2,500 years of kings & spice",
+    "wows": "Surprising Sri Lanka"
+  },
+  "geo": [
+    "Sri Lanka sits in the Indian Ocean just 31 km from India's southern tip. The centre rises into cool, cloud-wrapped highlands where waterfalls tumble through terraced tea estates — among the world's most scenic.",
+    "Flat coastal plains wrap the highlands like a skirt. The south-west gets drenching monsoon rains while the north-east bakes dry, so two different weathers can exist on the same island on the same day."
+  ],
+  "animals": [
+    "Wild Asian elephants roam ancient forests, leopards prowl Yala National Park, and sloth bears shuffle through scrubland. Blue whales — the biggest animals on Earth — swim just off the southern coast from November to April each year.",
+    "Five of the world's seven sea turtle species nest on Sri Lanka's beaches. The island is home to the Sri Lankan junglefowl, a brilliantly coloured bird found nowhere else on the planet and the national symbol of the country."
+  ],
+  "culture": [
+    "About 70 % of Sri Lankans are Buddhist, and golden-roofed temples called viharas dot every town. The Buddha's Tooth Relic, kept in Kandy's famous temple, is the most sacred object in the country.",
+    "Tamil Hindus celebrate fire-walking festivals in the north, while everyone shares a love of rice-and-curry eaten with fingers, fiercely passionate cricket, and the world's finest cinnamon — traded here 3,000 years ago."
+  ],
+  "history": [
+    "Sri Lanka has been inhabited for at least 30,000 years. The Sinhalese kingdom of Anuradhapura ruled for over a millennium, building vast irrigation tanks so farmers could grow rice across the dry northern plains.",
+    "Arab, Portuguese, Dutch, and British traders all wanted Sri Lanka's spices, gems, and harbours. Britain called it Ceylon. In 1948 it gained independence, and in 1972 it became Sri Lanka."
+  ],
+  "wows": [
+    "Sri Lanka invented cinnamon — it grew wild here and was traded to Egypt and Rome over 3,000 years ago.",
+    "Nearly every district has gem-bearing soil; sapphires and rubies still wash out of riverbeds after rain.",
+    "Sri Lanka elected the world's first female prime minister, Sirimavo Bandaranaike, in 1960.",
+    "Blue whales — the largest animals ever — swim so close to shore they can sometimes be spotted from the beach.",
+    "Sigiriya fortress was built atop a 180-metre rock in the 5th century; its vivid frescoes survive today.",
+    "The English word 'serendipity' comes from Serendip, the ancient Persian name for Sri Lanka.",
+    "Adam's Peak is sacred to four religions: Buddhist, Hindu, Muslim, and Christian pilgrims all climb it yearly."
+  ],
+  "myths": [
+    {
+      "myth": "Sri Lanka is part of India",
+      "fact": "Sri Lanka is a separate island nation divided from India by the Palk Strait, with its own government, languages, and 2,500-year history."
+    },
+    {
+      "myth": "Sri Lanka only exports tea",
+      "fact": "Tea is famous, but Sri Lanka also leads the world in cinnamon, supplies fine sapphires and rubies, and has a growing tech and tourism sector."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "ආයුබෝවන්",
+      "say": "Aa-yu-boh-wan"
+    },
+    {
+      "en": "Thank you",
+      "jp": "ස්තූතියි",
+      "say": "Stoo-thi-yi"
+    },
+    {
+      "en": "Yes",
+      "jp": "ඔව්",
+      "say": "Oh-wu"
+    },
+    {
+      "en": "Delicious",
+      "jp": "රසයි",
+      "say": "Ra-sa-yi"
+    },
+    {
+      "en": "Elephant",
+      "jp": "අලියා",
+      "say": "A-li-yaa"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lk-hero.jpg",
+      "alt": "Colombo city skyline reflected in Beira Lake at dusk",
+      "caption": "COLOMBO — modern towers mirror in Beira Lake at dusk",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lk-landmark.jpg",
+      "alt": "Sigiriya rock fortress rising above jungle",
+      "caption": "SIGIRIYA — 5th-century rock fortress soaring 180 m above the jungle",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lk-animalA.jpg",
+      "alt": "Wild Sri Lankan elephants at Minneriya reservoir",
+      "caption": "SRI LANKAN ELEPHANTS — hundreds gather at Minneriya each dry season",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lk-animalB.jpg",
+      "alt": "Sea turtle gliding over coral reef",
+      "caption": "SEA TURTLE — five of seven species nest on Sri Lanka's beaches",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

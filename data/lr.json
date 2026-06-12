@@ -1,0 +1,163 @@
+{
+  "name": "LIBERIA",
+  "nativeName": "LR",
+  "romaji": "LIBERIA",
+  "tagline": "Africa's Lone Star",
+  "region": "West Africa",
+  "coords": "6.3°N, 9.4°W",
+  "fileNo": "072",
+  "langName": "Liberian English",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A58",
+    "line": "#DCCFB0",
+    "accent": "#BF1F2E",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/lr.svg",
+    "title": "The Lone Star",
+    "note": "11 red & white stripes; blue canton & star",
+    "keyColor": "#BF1F2E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Liberia is Africa's oldest republic — founded in 1847 by freed Black Americans who sailed across the ocean to build a new nation. Thick rainforests hide pygmy hippos and chimpanzees. Its flag echoes the US Stars and Stripes, made by its founders. About 5.2 million Liberians live along this lush West African coast.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Monrovia",
+      "sub": "named after US Pres. James Monroe"
+    },
+    {
+      "label": "People",
+      "value": "5.2 million",
+      "sub": "2022 national census result"
+    },
+    {
+      "label": "Money",
+      "value": "Lib. Dollar",
+      "sub": "LRD; US dollars also widely used"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "plus 20+ indigenous languages"
+    },
+    {
+      "label": "Land area",
+      "value": "111,369 km²",
+      "sub": "slightly bigger than South Korea"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Mt Wuteve",
+      "sub": "1,448 m — in the Nimba Range"
+    }
+  ],
+  "islands": [
+    "Montserrado",
+    "Bong",
+    "Nimba",
+    "Sinoe",
+    "Maryland"
+  ],
+  "islandsLabel": "MAIN COUNTIES:",
+  "sections": {
+    "geography": "Rainforests, rivers & coast",
+    "animals": "Secret creatures of Sapo",
+    "culture": "Two worlds, one nation",
+    "history": "From ships to Lone Star",
+    "wows": "Wait — did you know?"
+  },
+  "geo": [
+    "Liberia's coastline stretches 570 km along the Atlantic, fringed with sandy beaches and mangrove swamps. Inland, green hills rise toward the Guinea Highlands and wide rivers slice through dense jungle.",
+    "More than 40% of West Africa's surviving Upper Guinean rainforest grows inside Liberia. The rainy season dumps up to 5 metres of rain near the coast each year, keeping the forest brilliantly green."
+  ],
+  "animals": [
+    "Liberia's Sapo National Park is one of the best places on Earth to spot the pygmy hippopotamus — a forest hippo the size of a large pig. So elusive, it was barely photographed in the wild until camera traps finally caught it wading through Sapo's streams.",
+    "Western chimpanzees — Africa's most endangered chimp — swing through Liberia's ancient trees. Forest elephants, Jentink's duiker, Diana monkeys, and the slender-snouted crocodile also share these jungles."
+  ],
+  "culture": [
+    "Liberian culture blends two worlds: the 16 indigenous groups — Kpelle, Bassa, Grebo and more — who have lived here for centuries, and Americo-Liberian settlers who arrived from the US, bringing quilting, southern cooking, and wooden colonial buildings.",
+    "Rice anchors every meal, served with palava sauce — greens, dried fish, and palm oil. Liberians speak a vivid local English: 'no fuss' means don't worry, and 'pekin' means small child. Masked dance ceremonies keep ancient stories alive."
+  ],
+  "history": [
+    "In 1822, the first freed Black Americans landed on Providence Island at the Mesurado River, backed by the American Colonization Society. By 1847 they declared independence — making Liberia Africa's very first republic.",
+    "The 20th century brought the giant Firestone rubber farm (1926), brutal civil wars (1989–2003), then hope: in 2006 Ellen Johnson Sirleaf became Africa's first elected female president, winning the Nobel Peace Prize in 2011."
+  ],
+  "wows": [
+    "Liberia's Firestone plantation covers ~450 km² — the world's largest rubber farm under one company.",
+    "The pygmy hippo weighs just 270 kg — one-tenth the size of its common hippo cousin.",
+    "Ellen Johnson Sirleaf was the first woman ever elected head of state in Africa (2006).",
+    "Liberia's flag has 11 stripes, one for each signer of its 1847 Declaration of Independence.",
+    "Liberia runs on GMT exactly — no offset at all, sitting neatly on the prime-meridian band.",
+    "Sapo is West Africa's second-largest block of untouched lowland rainforest after Taï in Côte d'Ivoire.",
+    "Liberian rubber was so vital in WWII that historians credit it with helping the Allies win the war."
+  ],
+  "myths": [
+    {
+      "myth": "\"Liberia was never colonised\"",
+      "fact": "No European power ruled it, but Americo-Liberian settlers dominated indigenous peoples for over a century — historians call this internal colonialism."
+    },
+    {
+      "myth": "\"Lions are Liberia's national animal\"",
+      "fact": "Liberia's official coat of arms shows a dove and a sailing ship — symbols of peace and the founders' ocean voyage, not a lion."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "How de body?",
+      "say": "How-dee BOD-ee"
+    },
+    {
+      "en": "No problem",
+      "jp": "No fuss",
+      "say": "No FUSS"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tank ya",
+      "say": "Tank YA"
+    },
+    {
+      "en": "Let's go",
+      "jp": "We move",
+      "say": "Wee MOOV"
+    },
+    {
+      "en": "Small child",
+      "jp": "Pekin",
+      "say": "PEH-kin"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lr-hero.jpg",
+      "alt": "Coastal neighbourhood of Sinkor, Monrovia, Liberia",
+      "caption": "MONROVIA — the sun-bright Atlantic coast of Africa's oldest republic",
+      "credit": "Panoramio / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lr-landmark.jpg",
+      "alt": "City Hall building in Monrovia, Liberia",
+      "caption": "MONROVIA CITY HALL — colonial-era civic heart of Liberia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lr-animalA.jpg",
+      "alt": "Pygmy hippopotamus close-up at Edinburgh Zoo",
+      "caption": "PYGMY HIPPO — Liberia's shy forest creature, rarely seen in the wild",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lr-animalB.jpg",
+      "alt": "Common chimpanzee sitting outdoors",
+      "caption": "WESTERN CHIMPANZEE — critically endangered and at home in Sapo's trees",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

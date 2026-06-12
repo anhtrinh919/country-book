@@ -1,0 +1,163 @@
+{
+  "name": "MALAYSIA",
+  "nativeName": "MY",
+  "romaji": "MALAYSIA",
+  "tagline": "Truly Asia, all at once",
+  "region": "Southeast Asia",
+  "coords": "4.21°N, 101.97°E",
+  "fileNo": "043",
+  "langName": "Malay",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A58",
+    "line": "#DACFB0",
+    "accent": "#CC0001",
+    "accent2": "#010066"
+  },
+  "flag": {
+    "assetPath": "/flags/my.svg",
+    "title": "Jalur Gemilang",
+    "note": "14 red & white stripes, blue canton",
+    "keyColor": "#CC0001",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Malaysia sits in the heart of Southeast Asia — split between a peninsula dangling from Thailand and two big states on Borneo. Rainforests older than the Amazon grow beside gleaming city towers, where Malay, Chinese, Indian, and dozens of indigenous cultures share the same streets — and the same extraordinary food.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kuala Lumpur",
+      "sub": "KL — a great SE Asian skyline"
+    },
+    {
+      "label": "People",
+      "value": "34.1 million",
+      "sub": "est. 2024 (DOSM), very diverse"
+    },
+    {
+      "label": "Money",
+      "value": "Ringgit (MYR)",
+      "sub": "RM — means 'jagged'"
+    },
+    {
+      "label": "Language",
+      "value": "Bahasa Melayu",
+      "sub": "+ English widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "329,847 km²",
+      "sub": "a bit bigger than Norway"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Kinabalu",
+      "sub": "4,095 m — Sabah, Borneo"
+    }
+  ],
+  "islands": [
+    "Peninsula",
+    "Sabah",
+    "Sarawak",
+    "Labuan",
+    "Putrajaya"
+  ],
+  "islandsLabel": "MAIN REGIONS:",
+  "sections": {
+    "geography": "Rainforests & twin peaks",
+    "animals": "Beasts of the jungle",
+    "culture": "Spice, silk & festival light",
+    "history": "Spice ports to skyscrapers",
+    "wows": "Wait — really?"
+  },
+  "geo": [
+    "Malaysia's peninsula is mostly lush highlands draped in rainforest, with mangrove coasts on both sides. The Titiwangsa range runs down the spine like a green backbone, keeping the east coast wilder than the west.",
+    "Across the South China Sea, Sabah and Sarawak cover a vast chunk of Borneo. Rivers serve as highways, caves are the size of stadiums, and Mount Kinabalu stands alone above the clouds — a granite giant visible far out to sea."
+  ],
+  "animals": [
+    "Malaysia's rainforest is over 130 million years old. Orangutans swing through Borneo's canopy, pygmy elephants wade Sabah's rivers, and the Malayan tiger prowls the deep interior — fewer than 150 remain in the wild.",
+    "Proboscis monkeys with enormous noses honk from riverside trees. The Rafflesia — up to a metre wide — is the world's largest flower. Fireflies light up mangrove trees along the Selangor River like a living Christmas display every night."
+  ],
+  "culture": [
+    "Malaysia is a mosaic: Malay, Chinese, Indian, and over 60 indigenous groups. Hari Raya, Chinese New Year, Deepavali, and Christmas are all public holidays — and everyone tends to join everyone else's celebrations.",
+    "Food is the national obsession. Nasi lemak, roti canai, char kway teow, and laksa all exist within a short walk in any town. The Petronas Twin Towers — world's tallest 1998–2004 — loom over a city that never stops eating."
+  ],
+  "history": [
+    "Malacca was Southeast Asia's greatest trading port in the 1400s — Arab, Indian, Chinese, and Javanese merchants all docked here. The Portuguese seized it in 1511, then the Dutch, then the British, leaving a layered colonial old town still standing.",
+    "Britain knitted the sultanates into British Malaya and added North Borneo. Independence came 31 August 1957 — Merdeka! Malaysia as a federation formed in 1963, transforming from a tin-and-rubber economy into a high-tech hub in decades."
+  ],
+  "wows": [
+    "Mulu's Sarawak Chamber is the world's largest cave room — big enough to fit 40 Boeing 747s.",
+    "Malaysia produces about a quarter of the world's palm oil — one of the top two producers.",
+    "The Petronas sky bridge connects the Twin Towers at floors 41–42 — 170 metres up.",
+    "Sabah and Sarawak are separated from Peninsular Malaysia by the South China Sea.",
+    "The tapir has barely changed in 20 million years — a living fossil still roaming Malaysian forests.",
+    "Kuala Lumpur means 'muddy confluence' — it started as a tin-mining camp in the 1850s.",
+    "Deer Cave in Mulu houses around three million bats that spiral out at dusk like a dark tornado."
+  ],
+  "myths": [
+    {
+      "myth": "Malaysia is just jungle with no cities",
+      "fact": "Kuala Lumpur has one of Asia's most dramatic skylines, and over 70% of Malaysians live in cities — with fast internet and highways to match."
+    },
+    {
+      "myth": "It's always unbearably hot",
+      "fact": "The Cameron Highlands sit at 1,500 m and are cool enough to grow strawberries and tea year-round."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Helo",
+      "say": "heh-loh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Terima kasih",
+      "say": "teh-REE-mah KAH-si"
+    },
+    {
+      "en": "Delicious",
+      "jp": "Sedap",
+      "say": "seh-DAP"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Cantik",
+      "say": "CHAN-tik"
+    },
+    {
+      "en": "Let's eat!",
+      "jp": "Jom makan!",
+      "say": "jom MAH-kan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/my-hero.jpg",
+      "alt": "Petronas Twin Towers lit up at night above Kuala Lumpur",
+      "caption": "PETRONAS TOWERS — world's tallest 1998–2004, Kuala Lumpur",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/my-landmark.jpg",
+      "alt": "Red Dutch Stadthuys building on Melaka waterfront",
+      "caption": "STADTHUYS, MELAKA — Dutch colonial heart of the UNESCO old town",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/my-animalA.jpg",
+      "alt": "Orangutan resting in rainforest canopy in Sarawak Borneo",
+      "caption": "ORANGUTAN — Borneo's great red ape, Semenggoh Reserve Sarawak",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/my-animalB.jpg",
+      "alt": "Giant Rafflesia flower in bloom on the forest floor in Sabah",
+      "caption": "RAFFLESIA — world's largest flower, blooms in Sabah's forests",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

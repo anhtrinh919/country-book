@@ -1,0 +1,163 @@
+{
+  "name": "MOROCCO",
+  "nativeName": "المغرب",
+  "romaji": "AL-MAGHRIB",
+  "tagline": "Kingdom of colours",
+  "region": "North Africa",
+  "coords": "31.79°N, 7.09°W",
+  "fileNo": "042",
+  "langName": "Arabic",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#C9B48E",
+    "ink": "#2B1F14",
+    "faint": "#8B6F47",
+    "line": "#DDD0B0",
+    "accent": "#C1272D",
+    "accent2": "#006233"
+  },
+  "flag": {
+    "assetPath": "/flags/ma.svg",
+    "title": "Flag of Morocco",
+    "note": "Red field, green five-pointed star",
+    "keyColor": "#C1272D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Morocco sits at Africa's top-left corner, where the Sahara nearly touches the Mediterranean. Souks full of spice-dyed silks, rose-pink walled cities, and the world's oldest university call this kingdom home. Snow-capped mountains rise behind Atlantic surf beaches, and the muezzin's call echoes across rooftop terraces at sunset.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Rabat",
+      "sub": "on the Atlantic coast"
+    },
+    {
+      "label": "People",
+      "value": "38 million",
+      "sub": "est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Dirham (MAD)",
+      "sub": "100 centimes = 1 dirham"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "+ Tamazight & French"
+    },
+    {
+      "label": "Land area",
+      "value": "446,550 km²",
+      "sub": "larger than California"
+    },
+    {
+      "label": "High point",
+      "value": "Toubkal 4,167m",
+      "sub": "Atlas Mountains"
+    }
+  ],
+  "islands": [
+    "Casablanca",
+    "Marrakech",
+    "Fes",
+    "Tangier",
+    "Agadir"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, desert & sea",
+    "animals": "Wild creatures of the Atlas",
+    "culture": "Spices, souks & storytellers",
+    "history": "Sultans & ancient kingdoms",
+    "wows": "Morocco's jaw-droppers"
+  },
+  "geo": [
+    "Morocco has three mountain chains — the Rif, Middle Atlas, and High Atlas — where Berber villages cling to cliffs above cedar forests. Rivers tumble west to the Atlantic, feeding fertile plains where argan trees grow wild.",
+    "To the south, the land drops into the Sahara. Enormous dunes at Erg Chebbi rise 150 m high, turning gold at sunrise. The Atlantic coast stretches 1,800 km, giving Morocco both surf beaches and fishing harbours."
+  ],
+  "animals": [
+    "The Barbary macaque — Morocco's only wild monkey — scrambles through cedar forests near Azrou. Loggerhead sea turtles nest on southern beaches each summer, and flamingos wade in coastal lagoons near Moulay Bousselham.",
+    "The High Atlas shelters the rare Barbary leopard, shy and seldom seen. Dromedary camels cross Saharan dunes, and the fennec fox — with ears like satellite dishes — hunts beetles through the sand at night."
+  ],
+  "culture": [
+    "Morocco's souks are a maze of craftspeople: coppersmiths hammering lanterns, weavers knotting Berber rugs, tanners dyeing leather in rainbow vats. Mint tea is poured from a great height to make it frothy — refusing a glass is considered rude.",
+    "Gnawa musicians play iron castanets and a three-string guembri late into the evening. Tagine — meat slow-cooked with apricots, olives, and cumin in a cone-shaped clay pot — arrives at the table still steaming."
+  ],
+  "history": [
+    "The University of al-Qarawiyyin in Fes, founded in 859 CE, is the world's oldest continuously operating university. Berber (Amazigh) peoples have lived here for 5,000 years, long before Arab traders arrived in the 7th century.",
+    "Morocco was the first country to recognise the United States in 1777. France and Spain colonised it in 1912, but King Mohammed V led it to independence in 1956. King Mohammed VI still rules from the palace in Rabat today."
+  ],
+  "wows": [
+    "Al-Qarawiyyin in Fes, founded 859 CE, is the world's oldest continuously operating university.",
+    "Morocco holds about 70% of the planet's known phosphate rock reserves — the world's largest share.",
+    "Saharan dunes at Erg Chebbi reach 150 m tall — higher than a 40-storey building.",
+    "Morocco has nine UNESCO World Heritage Sites, including the medinas of Fes, Marrakech, and Meknes.",
+    "Argan oil for cooking and cosmetics comes from trees that grow almost exclusively in Morocco.",
+    "The Strait of Gibraltar is just 14 km wide — Morocco's nearest point to Europe.",
+    "Djemaa el-Fna in Marrakech hosts storytellers and acrobats nightly, listed as UNESCO intangible heritage."
+  ],
+  "myths": [
+    {
+      "myth": "Morocco is all hot desert",
+      "fact": "The Sahara covers only the far south-east corner. Most of Morocco has mountains, green valleys, and Atlantic beaches. Ifrane in the Atlas gets heavy snow every winter."
+    },
+    {
+      "myth": "Moroccan food is always fiery-hot",
+      "fact": "Moroccan cooking is richly spiced with cumin, saffron, and cinnamon but rarely fiery. Heat comes from harissa sauce served on the side — you choose how much to add."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "بنين",
+      "say": "buh-NEEN"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ma-hero.jpg",
+      "alt": "Djemaa el-Fna square at night, Marrakech",
+      "caption": "DJEMAA EL-FNA — Marrakech's famous square buzzes with storytellers every night",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ma-landmark.jpg",
+      "alt": "Bab Mansour gate in Meknes",
+      "caption": "BAB MANSOUR — Morocco's grandest city gate, built in 1732 in Meknes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ma-animalA.jpg",
+      "alt": "Barbary macaque sitting in cedar tree",
+      "caption": "BARBARY MACAQUE — Morocco's only wild monkey lives in Atlas cedar forests",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ma-animalB.jpg",
+      "alt": "Fennec fox with large ears in the Sahara",
+      "caption": "FENNEC FOX — enormous ears help this tiny desert fox hunt at night",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

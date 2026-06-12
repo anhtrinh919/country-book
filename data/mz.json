@@ -1,0 +1,163 @@
+{
+  "name": "MOZAMBIQUE",
+  "nativeName": "MZ",
+  "romaji": "MOZAMBIQUE",
+  "tagline": "Where bush meets the blue",
+  "region": "Southern Africa",
+  "coords": "18°S 35°E",
+  "fileNo": "074",
+  "langName": "Portuguese",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBA9A",
+    "ink": "#252018",
+    "faint": "#8B7A55",
+    "line": "#DDD0B2",
+    "accent": "#009A44",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/mz.svg",
+    "title": "Flag of Mozambique",
+    "note": "AK-47 on a flag — unique in the world",
+    "keyColor": "#009A44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mozambique stretches along south-east Africa where savanna, wetland, and golden beach meet the warm Indian Ocean. Portuguese traders arrived 500 years ago; today the country blends African, Arab, and Portuguese flavours — piri-piri prawns, Makonde carvings, and marrabenta music drifting from a seaside café.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Maputo",
+      "sub": "City of acacias on the bay"
+    },
+    {
+      "label": "People",
+      "value": "34.8 million",
+      "sub": "UN estimate 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Metical",
+      "sub": "MZN — ~64 per US$1"
+    },
+    {
+      "label": "Language",
+      "value": "Portuguese",
+      "sub": "Plus 40+ local languages"
+    },
+    {
+      "label": "Land area",
+      "value": "799,380 km²",
+      "sub": "Bigger than France+Germany"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Monte Binga",
+      "sub": "2,436 m, shared with Zimbabwe"
+    }
+  ],
+  "islands": [
+    "Maputo",
+    "Beira",
+    "Nampula",
+    "Tete",
+    "Inhambane"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "2,470 km of golden coast",
+    "animals": "Safari & sea in one country",
+    "culture": "Rhythms, carvings & piri-piri",
+    "history": "From traders to freedom",
+    "wows": "Surprising Mozambique"
+  },
+  "geo": [
+    "Mozambique's Indian Ocean coastline runs 2,470 km — one of Africa's longest — laced with coral reefs, mangroves, and islands like the palm-fringed Bazaruto Archipelago. Great rivers including the Zambezi cross the country and fan into vast deltas before reaching the sea.",
+    "Inland, flat coastal plains rise to highland plateaus and the Chimanimani Mountains, where Monte Binga reaches 2,436 m on the Zimbabwe border. The wide interior is a mosaic of miombo woodland and wetlands that flood gloriously every rainy season."
+  ],
+  "animals": [
+    "The Bazaruto Archipelago shelters East Africa's last healthy dugong colony — gentle sea-cow relatives grazing on seagrass in turquoise bays. Whale sharks and manta rays cruise the same waters October to April, and five turtle species nest on the beaches.",
+    "Inland, Gorongosa National Park bounced back from near-total collapse; a 2024 survey counted 110,000 large animals including lions, elephants, and hippos. Over 750 bird species live here — more than all of mainland Europe."
+  ],
+  "culture": [
+    "Mozambican cooking is a happy mash-up: piri-piri chilli fires up prawns and grilled chicken; cassava and coconut-milk stews reflect Bantu roots; Arabic flatbreads appear in the north. Piri-piri sauce, arguably the country's greatest food export, is now eaten worldwide.",
+    "Music is everywhere. Marrabenta — born on homemade guitars built from oil cans and fishing wire in the 1950s — has a bouncy beat perfect for dancing. The Chopi people are famed for their timbila xylophone orchestras, which UNESCO recognised as a masterpiece of oral heritage."
+  ],
+  "history": [
+    "Arab traders reached Mozambique's coast around 800 CE, building wealthy Swahili city-states. Vasco da Gama anchored here in 1498, and the country became a key stop on Portugal's spice route to India, ruled from the tiny Island of Mozambique — a UNESCO World Heritage site.",
+    "A ten-year independence war ended in 1975 when FRELIMO won freedom. A brutal sixteen-year civil war followed, killing over a million people. Peace arrived in 1992, and Mozambique rebuilt — Gorongosa is now Africa's greatest wildlife comeback story."
+  ],
+  "wows": [
+    "Mozambique is the only country whose name contains all five vowels: A, E, I, O, U.",
+    "Its flag is the only national flag on Earth to show an AK-47 assault rifle.",
+    "A Portuguese chapel built here in 1522 is the oldest European building in the southern hemisphere.",
+    "Mozambique has 750+ bird species — about 50 more than all of continental Europe.",
+    "Bazaruto holds Africa's last viable east-coast dugong colony: ~250–350 animals.",
+    "In Scrabble, 'Mozambique' scores 34 points — the highest of any one-word country.",
+    "Gorongosa's 2024 survey found 110,000 large animals, up from near-zero after civil war."
+  ],
+  "myths": [
+    {
+      "myth": "Mozambique is mostly desert",
+      "fact": "Most of Mozambique is lush tropical savanna with great rivers, wetlands, and coral reefs. The Sahara Desert is thousands of kilometres to the north."
+    },
+    {
+      "myth": "It's too dangerous to visit",
+      "fact": "Popular areas — Maputo, Inhambane, Bazaruto — are well-established destinations with good infrastructure, visited safely by thousands each year."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Bom dia",
+      "say": "bom JEE-ah"
+    },
+    {
+      "en": "No problem",
+      "jp": "Não faz mal",
+      "say": "now fahz MAHL"
+    },
+    {
+      "en": "How much?",
+      "jp": "Quanto custa",
+      "say": "KWAN-too KOOS-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mz-hero.jpg",
+      "alt": "Aerial view of Maputo city and bay, Mozambique",
+      "caption": "MAPUTO — the capital spreads across a green bay on the Indian Ocean",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mz-landmark.jpg",
+      "alt": "Maputo Central Railway Station, elegant Beaux-Arts building",
+      "caption": "MAPUTO STATION — built 1908–1916, one of the world's most beautiful stations",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mz-animalA.jpg",
+      "alt": "Dugong swimming underwater near seagrass",
+      "caption": "DUGONG — Bazaruto holds Africa's last thriving east-coast sea-cow colony",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mz-animalB.jpg",
+      "alt": "Whale shark swimming in clear blue ocean water",
+      "caption": "WHALE SHARK — gentle giants visit Mozambique's coast October to April",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

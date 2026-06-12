@@ -1,0 +1,163 @@
+{
+  "name": "MAURITIUS",
+  "nativeName": "MU",
+  "romaji": "MORIS",
+  "tagline": "Island of a thousand colours",
+  "region": "East Africa / Indian Ocean",
+  "coords": "20°S 57°E",
+  "fileNo": "042",
+  "langName": "Mauritian Creole",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9E",
+    "ink": "#2A2318",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#C0202E",
+    "accent2": "#1C5FA8"
+  },
+  "flag": {
+    "assetPath": "/flags/mu.svg",
+    "title": "Les Quatre Bandes",
+    "note": "Four equal stripes: red, blue, yellow, green",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mauritius is a tiny island in the Indian Ocean, 2,000 km off Africa. No one lived here until the 1600s, so everyone today descends from Dutch, French, British, African, or Indian arrivals. That rich mix created one of the world's most colourful cultures — and the island is also the only place the famous dodo bird ever called home.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Port Louis",
+      "sub": "Busy harbour city, pop. ~149,000"
+    },
+    {
+      "label": "People",
+      "value": "1.3 million",
+      "sub": "Est. 2024; densest in Africa"
+    },
+    {
+      "label": "Money",
+      "value": "Rupee (MUR)",
+      "sub": "Stable upper-middle-income economy"
+    },
+    {
+      "label": "Language",
+      "value": "Creole/English",
+      "sub": "French widely spoken too"
+    },
+    {
+      "label": "Land area",
+      "value": "2,040 km²",
+      "sub": "Smaller than Luxembourg"
+    },
+    {
+      "label": "Top peak",
+      "value": "828 m",
+      "sub": "Piton de la Petite Rivière Noire"
+    }
+  ],
+  "islands": [
+    "Port Louis",
+    "Grand Baie",
+    "Curepipe",
+    "Mahébourg",
+    "Rodrigues"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Lagoons, peaks & sand dunes",
+    "animals": "Rare birds & sea creatures",
+    "culture": "Creole rhythms & spice",
+    "history": "From dodos to democracy",
+    "wows": "Seven reasons to be amazed"
+  },
+  "geo": [
+    "Mauritius is a volcanic island ringed by coral reefs and crystal-clear lagoons. The centre rises into rugged mountains draped in tropical forest, while black sand beaches and dramatic basalt cliffs dot the coast.",
+    "The south-west hides the Seven Coloured Earths at Chamarel — dunes striped in seven shades of red, violet, blue and yellow caused by different amounts of iron in volcanic soil. No matter how often they are mixed, the colours always re-separate."
+  ],
+  "animals": [
+    "The pink pigeon is Mauritius's rarest bird — just 10 survived in the wild in 1991, but careful conservation has brought hundreds back. The Mauritian flying fox, a large fruit bat, pollinates the forest each night.",
+    "Beneath the turquoise lagoons, spinner dolphins, green sea turtles and reef fish thrive. Aldabra giant tortoises — up to 250 kg — were introduced to restore island ecosystems, filling the role once played by long-lost native relatives."
+  ],
+  "culture": [
+    "Mauritius is Africa's only Hindu-majority nation, yet celebrates Eid, Christmas, Diwali and Chinese New Year with equal joy. The result is a feast of festivals and street food — from Indian dholl puri flatbreads to Creole rougaille stew.",
+    "Sega music, born when African enslaved people danced around campfires to lift their spirits, was recognised by UNESCO in 2014. Played on goatskin drums called ravanne, it gets everyone moving. More than half the island speaks French-rooted Creole at home."
+  ],
+  "history": [
+    "Mauritius was completely uninhabited until Dutch sailors arrived in 1638 — one of the few countries today with no indigenous people. The Dutch accidentally introduced rats and pigs that ate dodo eggs; by 1681, the dodo was gone forever.",
+    "France built sugar plantations using enslaved Africans; Britain seized the island in 1810 and freed the enslaved, replacing them with Indian indentured workers. Mauritius won independence peacefully on 12 March 1968 and became a republic in 1992."
+  ],
+  "wows": [
+    "The dodo, found only in Mauritius, went from first sighting to total extinction in under 80 years.",
+    "An optical illusion off south-west Mauritius looks like an underwater waterfall — seen only from the air.",
+    "Mauritius has no indigenous people; everyone descends from settlers who arrived after 1638.",
+    "The Seven Coloured Earths always re-separate into distinct bands, even after being fully mixed.",
+    "Sega music was created by enslaved people as emotional release — now it is UNESCO heritage.",
+    "Mauritius briefly became a high-income country in 2020, one of only two in Sub-Saharan Africa.",
+    "The Mauritian rupee coin features the dodo, a bird extinct for over 340 years."
+  ],
+  "myths": [
+    {
+      "myth": "Mauritius is just a honeymoon beach resort",
+      "fact": "Beyond the beaches: Hindu temples, Chinese shrines, Creole markets, volcanic peaks, and wildlife found nowhere else on Earth."
+    },
+    {
+      "myth": "The dodo was slow and stupid",
+      "fact": "The dodo evolved with no predators, so it was fearless, not foolish. Invasive rats eating its eggs — not just hunting — drove it to extinction."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonzour",
+      "say": "bon-ZOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Mersi",
+      "say": "MAIR-see"
+    },
+    {
+      "en": "Please",
+      "jp": "Siouplé",
+      "say": "syoo-PLAY"
+    },
+    {
+      "en": "No problem",
+      "jp": "Pena problem",
+      "say": "PAY-na PRO-blem"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Ki manier?",
+      "say": "kee man-YAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mu-hero.jpg",
+      "alt": "Caudan Waterfront in Port Louis, Mauritius",
+      "caption": "PORT LOUIS — the Caudan Waterfront harbour, heart of the island's capital city",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/mu-landmark.jpg",
+      "alt": "Le Morne Brabant peninsula and turquoise lagoon, Mauritius",
+      "caption": "LE MORNE BRABANT — UNESCO World Heritage basalt mountain above a turquoise lagoon",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mu-animalA.jpg",
+      "alt": "Pink pigeon perched on a branch",
+      "caption": "PINK PIGEON — Mauritius's rarest bird, rescued from just 10 wild survivors in 1991",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/mu-animalB.jpg",
+      "alt": "Aldabra giant tortoise on grass",
+      "caption": "ALDABRA TORTOISE — introduced to Mauritius to restore island ecosystems",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

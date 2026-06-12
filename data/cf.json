@@ -1,0 +1,163 @@
+{
+  "name": "CENT.AFR.REP.",
+  "nativeName": "CF",
+  "romaji": "CENTRAFRIQUE",
+  "tagline": "Heart of a continent",
+  "region": "Central Africa",
+  "coords": "7°N, 21°E",
+  "fileNo": "082",
+  "langName": "Sango",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDC",
+    "dot": "#CBBA9E",
+    "ink": "#271E14",
+    "faint": "#8A7558",
+    "line": "#DDD0B5",
+    "accent": "#003082",
+    "accent2": "#BC0026"
+  },
+  "flag": {
+    "assetPath": "/flags/cf.svg",
+    "title": "Five-stripe & star",
+    "note": "Blue, white, green, yellow + red band",
+    "keyColor": "#003082",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Africa's heart, landlocked, no sea in sight. Dense Congo rainforest blankets the south; lion-roamed savanna stretches north. Forest elephants wade into jungle clearings, the Aka sing jaw-dropping four-part harmonies, and the Ubangi River lines the whole southern border. Almost zero light pollution — stars blaze wall-to-wall every night.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Bangui",
+      "sub": "On the Ubangi River"
+    },
+    {
+      "label": "People",
+      "value": "5.5 million",
+      "sub": "UN est. 2025, 80+ ethnic groups"
+    },
+    {
+      "label": "Money",
+      "value": "CFA franc",
+      "sub": "Shared with 5 neighbours"
+    },
+    {
+      "label": "Language",
+      "value": "Sango & French",
+      "sub": "Sango spoken by nearly all"
+    },
+    {
+      "label": "Land area",
+      "value": "623,000 km²",
+      "sub": "Bigger than France"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mont Ngaoui",
+      "sub": "1,410 m, near Cameroon border"
+    }
+  ],
+  "islands": [
+    "Bangui",
+    "Berbérati",
+    "Bambari",
+    "Bossangoa",
+    "Carnot"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Africa's beating heart",
+    "animals": "Giants of forest & savanna",
+    "culture": "Music, masks & 80 peoples",
+    "history": "Emperors & independence",
+    "wows": "Seven wild surprises"
+  },
+  "geo": [
+    "CAR sits on a broad plateau averaging 600 m. Southern Congo rainforest hums with life; northern savanna stretches toward the Sahel. Rivers here drain two ways — some to the Congo, some ultimately toward the Nile — straddling both great watersheds.",
+    "The mighty Ubangi River forms the entire southern border, separating CAR from DR Congo across wide brown water. The Karre Mountains rise in the west, crowned by Mont Ngaoui at 1,410 m — the country's rocky rooftop."
+  ],
+  "animals": [
+    "Southern forests shelter critically endangered forest elephants, western lowland gorillas, and chimps. Bongo antelopes — chestnut-red with white stripes and the largest forest antelope on Earth — ghost through the Dzanga-Sangha undergrowth.",
+    "In the north, lions, leopards, and giant buffalo herds roam open woodlands. CAR counts 772 bird species and 209 mammals. Dzanga Bai is a jungle clearing where dozens of forest elephants gather daily around mineral-rich mud."
+  ],
+  "culture": [
+    "More than 80 ethnic groups live here, each with its own language. The Aka people of the southwest forests are world-famous for intricate four-voice polyphonic singing — overlapping melodies that every child learns from birth, inscribed by UNESCO as world heritage.",
+    "The Gbaya, Banda, and Mandjia hold vibrant mask ceremonies with drumming heard for kilometres. National language Sango — a creole born from river-trade — stitches all peoples together as a shared everyday tongue."
+  ],
+  "history": [
+    "People have lived here at least 8,000 years — polished stone tools prove it. France named the colony Ubangi-Shari after its two rivers. Independence came on 13 August 1960, led by visionary Barthélémy Boganda, who died in a mysterious plane crash the year before.",
+    "In 1977, army commander Jean-Bédel Bokassa crowned himself Emperor Bokassa I in a $200 million ceremony modelled on Napoleon's coronation. France quietly removed him two years later. Since then, the country has worked toward stable democratic governance."
+  ],
+  "wows": [
+    "CAR has almost zero light pollution — the Milky Way blazes like spilled sugar on every clear night.",
+    "Dzanga Bai clearing can draw up to 100 forest elephants into view in a single afternoon.",
+    "Aka polyphony is so complex that musicians spent years decoding it, yet local children sing it naturally.",
+    "Rain falling on the same hill can flow either toward the Congo or ultimately toward the Nile.",
+    "CAR holds gem-quality diamonds but is landlocked — every carat must travel hundreds of km to a port.",
+    "CAR is the country closest to the literal geographic centre of the entire African continent.",
+    "CAR's 772 recorded bird species outnumber every bird species found across the whole of Europe."
+  ],
+  "myths": [
+    {
+      "myth": "CAR is all jungle and poverty",
+      "fact": "The north is open lion-roamed savanna, and the ground holds enormous diamonds, gold, and uranium — natural wealth that rivals far better-known nations."
+    },
+    {
+      "myth": "It's a tiny, forgotten country",
+      "fact": "At 623,000 km² CAR is bigger than France and borders six countries at the true geographic heart of Africa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bara mo",
+      "say": "BAH-rah moh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Singîla",
+      "say": "sin-GEE-lah"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ën",
+      "say": "uhn"
+    },
+    {
+      "en": "No",
+      "jp": "Ën ën",
+      "say": "uhn-UHN"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Na peko",
+      "say": "nah PAY-koh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cf-hero.jpg",
+      "alt": "Bangui city centre street scene",
+      "caption": "BANGUI — the riverside capital, gateway to the whole country",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cf-landmark.jpg",
+      "alt": "Crowd outside Notre-Dame Cathedral in Bangui",
+      "caption": "NOTRE-DAME CATHEDRAL, BANGUI — landmark of the capital",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cf-animalA.jpg",
+      "alt": "Forest elephants at Dzanga Bai clearing",
+      "caption": "FOREST ELEPHANTS at Dzanga Bai — a magical jungle gathering place",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cf-animalB.jpg",
+      "alt": "Bongo antelope with chestnut coat and white stripes",
+      "caption": "BONGO ANTELOPE — the forest's striped giant, shy and rarely seen",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

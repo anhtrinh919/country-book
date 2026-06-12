@@ -1,0 +1,163 @@
+{
+  "name": "ANDORRA",
+  "nativeName": "AD",
+  "romaji": "ANDORRA",
+  "tagline": "Tiny prince, big mountains",
+  "region": "Southern Europe",
+  "coords": "42°30′N 1°31′E",
+  "fileNo": "036",
+  "langName": "Catalan",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BEA8",
+    "ink": "#252018",
+    "faint": "#857560",
+    "line": "#DDD4C0",
+    "accent": "#003DA5",
+    "accent2": "#FEDF00"
+  },
+  "flag": {
+    "assetPath": "/flags/ad.svg",
+    "title": "Flag of Andorra",
+    "note": "Blue, yellow & red with royal coat of arms",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Andorra is a tiny mountain country tucked between France and Spain — drive across it in 30 minutes. Ruled by two princes at once, a French president and a Spanish bishop, it has sat in the Pyrenees for 700+ years. Millions come for ski slopes and bargain shopping, making it one of the most-visited countries per person on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "And. la Vella",
+      "sub": "Highest capital in Europe, 1,023 m"
+    },
+    {
+      "label": "People",
+      "value": "~89,000",
+      "sub": "2025 est. — tiny European nation"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Not EU, but uses the euro currency"
+    },
+    {
+      "label": "Language",
+      "value": "Catalan",
+      "sub": "Only country with Catalan official"
+    },
+    {
+      "label": "Land area",
+      "value": "468 km²",
+      "sub": "Smaller than Los Angeles city"
+    },
+    {
+      "label": "High point",
+      "value": "Coma Pedrosa",
+      "sub": "2,942 m — Pyrenean peak, hikeable"
+    }
+  ],
+  "islands": [
+    "Andorra lV",
+    "Escaldes",
+    "Encamp",
+    "La Massana",
+    "Canillo"
+  ],
+  "islandsLabel": "MAIN PARISHES:",
+  "sections": {
+    "geography": "A land of sky-high valleys",
+    "animals": "Wild neighbours on the peaks",
+    "culture": "Bargains, spas & old churches",
+    "history": "Two princes, one tiny nation",
+    "wows": "Seven head-scratchers"
+  },
+  "geo": [
+    "Andorra sits entirely inside the Pyrenees, with an average height of nearly 2,000 m — roughly as tall as Table Mountain in South Africa. Every town is in a valley carved by rivers, and forests of pine and fir cover the slopes between them.",
+    "Its two main rivers rush down through rocky gorges before crossing into Spain. Because mountains ring it completely, Andorra has no coastline, no port, and no airport — visitors must drive in over mountain passes from France or Spain."
+  ],
+  "animals": [
+    "The bearded vulture — called the lammergeier — is Andorra's national bird. It has a wingspan wider than a family sofa and does something no other bird does: it eats bones, dropping them from great heights onto rocks to crack them open for the marrow inside.",
+    "The isard, a goat-antelope related to the chamois, bounds across snowy ridges at up to 3,000 m. Sturdy and sure-footed, it wears a dark mask like a cartoon bandit. Golden eagles and wild boar also roam the forested hillsides below."
+  ],
+  "culture": [
+    "Andorra's people speak Catalan, the same language used in Barcelona. The old quarter of Andorra la Vella holds Romanesque stone churches built nearly 900 years ago, including Sant Esteve, which still rings its bells each morning.",
+    "Every September, parishes celebrate with folk dances and giant paper-mâché figures called gegants. The thermal spa Caldea — shaped like a glittering glass rocket — lets visitors soak in Pyrenean spring water at Europe's largest spa complex."
+  ],
+  "history": [
+    "A peace deal in 1278 settled a quarrel between the Bishop of Urgell and the Count of Foix: instead of one winner, they agreed to share Andorra equally. That treaty, called a paréage, created a co-principality that has never been dissolved.",
+    "When Henry IV became King of France in 1607, the co-prince title passed to every French president that followed. Andorra finally got its first written constitution in 1993, signed by President Mitterrand and the Bishop of Urgell."
+  ],
+  "wows": [
+    "Andorra has TWO heads of state — the French president AND a Spanish bishop both serve as co-prince.",
+    "It is the only country where Catalan is the sole official national language.",
+    "Andorra la Vella is the highest capital city in all of Europe at 1,023 m above sea level.",
+    "Andorra has no army and has been at peace for over 700 years, relying on France and Spain for defence.",
+    "Grandvalira ski resort is the largest skiable area in the entire Pyrenean mountain range.",
+    "Andorra charges just 4.5% sales tax — 20–40% cheaper than in France or Spain next door.",
+    "Tiny Andorra gets over 8 million tourists a year — nearly 100 visitors for every one resident."
+  ],
+  "myths": [
+    {
+      "myth": "Andorra is part of Spain or France",
+      "fact": "It is fully independent with its own government, parliament, laws, and passport, separate from both neighbours since 1278."
+    },
+    {
+      "myth": "You need French to visit Andorra",
+      "fact": "The official language is Catalan; Spanish is widely used too, and most shopkeepers speak English — French ranks third in daily life."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gràcies",
+      "say": "GRAH-see-es"
+    },
+    {
+      "en": "Please",
+      "jp": "Si us plau",
+      "say": "see oos PLOW"
+    },
+    {
+      "en": "Mountain",
+      "jp": "Muntanya",
+      "say": "moon-TAN-ya"
+    },
+    {
+      "en": "Snow",
+      "jp": "Neu",
+      "say": "NAY-oo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ad-hero.jpg",
+      "alt": "Panoramic view over Andorra la Vella city in summer",
+      "caption": "ANDORRA LA VELLA — Europe's highest capital city in its Pyrenean valley",
+      "credit": "DadaRacer / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ad-landmark.jpg",
+      "alt": "Caldea spa glass tower in Escaldes-Engordany Andorra",
+      "caption": "CALDEA SPA — Andorra's glass rocket tower, the Pyrenees' biggest thermal spa",
+      "credit": "FrankAndProust / CC0 1.0"
+    },
+    "animalA": {
+      "src": "/photos/ad-animalA.jpg",
+      "alt": "Bearded vulture lammergeier in flight over mountains",
+      "caption": "BEARDED VULTURE — national bird that smashes bones on rocks to eat the marrow",
+      "credit": "Imran Shah / CC BY-SA 2.0"
+    },
+    "animalB": {
+      "src": "/photos/ad-animalB.jpg",
+      "alt": "Pyrenean chamois isard on mountain slopes in the Pyrenees",
+      "caption": "ISARD — Andorra's sure-footed Pyrenean chamois, masked like a mountain bandit",
+      "credit": "Kitty Terwolbeck / CC BY 2.0"
+    }
+  }
+}

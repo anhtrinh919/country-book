@@ -1,0 +1,163 @@
+{
+  "name": "SOUTH KOREA",
+  "nativeName": "한국",
+  "romaji": "HANGUK",
+  "tagline": "Land of Morning Calm",
+  "region": "East Asia",
+  "coords": "37°N 127°E",
+  "fileNo": "082",
+  "langName": "Korean",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EDE4",
+    "dot": "#C9C0AF",
+    "ink": "#1E1C18",
+    "faint": "#7D7260",
+    "line": "#DDD8CC",
+    "accent": "#C60C30",
+    "accent2": "#003478"
+  },
+  "flag": {
+    "assetPath": "/flags/kr.svg",
+    "title": "태극기 Taegukgi",
+    "note": "Yin-yang circle & four trigrams on white",
+    "keyColor": "#C60C30",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "South Korea is a mountainous peninsula between China and Japan that punches far above its size. It gave the world K-pop, invented one of history's cleverest alphabets, and turned post-war rubble into a tech powerhouse in two generations. From ancient palaces to volcanic Jeju, it blends 5,000 years of history with bullet trains.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Seoul",
+      "sub": "Pop. ~9.6 million in the city"
+    },
+    {
+      "label": "People",
+      "value": "51.8 million",
+      "sub": "2024 census, Statistics Korea"
+    },
+    {
+      "label": "Money",
+      "value": "Won (₩)",
+      "sub": "1 USD ≈ 1,450 Won"
+    },
+    {
+      "label": "Language",
+      "value": "Korean",
+      "sub": "Hangul script, 24 letters"
+    },
+    {
+      "label": "Land area",
+      "value": "100,339 km²",
+      "sub": "Slightly bigger than Iceland"
+    },
+    {
+      "label": "Top peak",
+      "value": "Hallasan 1947m",
+      "sub": "Volcano on Jeju Island"
+    }
+  ],
+  "islands": [
+    "Seoul",
+    "Busan",
+    "Jeju",
+    "Incheon",
+    "Gwangju"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Peaks, coasts & rice paddies",
+    "animals": "Tigers, cranes & sea life",
+    "culture": "Kimchi, K-pop & temples",
+    "history": "Dynasties, war & a miracle",
+    "wows": "7 things you won't believe"
+  },
+  "geo": [
+    "About 70% of South Korea is steep, forested mountains, leaving narrow coastal plains where most people live and rice grows in flooded paddies. The country has over 3,000 islands around its jagged southern and western coasts.",
+    "The Han River cuts through Seoul. Jeju Island to the south is a volcanic wonder with lava tubes you can walk through and Korea's tallest mountain, Hallasan, rising from its centre."
+  ],
+  "animals": [
+    "South Korea's national animal is the Siberian tiger — powerful and ghostly white in snow. Tigers once roamed every Korean mountain but were wiped out by the 1920s. Mysterious tracks near the Demilitarized Zone still spark hope.",
+    "The red-crowned crane, with its scarlet cap and white feathers, is a beloved symbol of luck. Each winter, thousands fly to Korea's DMZ wetlands — an accidental nature reserve where no humans have walked for over 70 years."
+  ],
+  "culture": [
+    "Korea's biggest food star is kimchi — spicy, garlicky fermented cabbage eaten at almost every meal. There are 200+ varieties, and making it together each autumn (kimjang) is a UNESCO heritage tradition.",
+    "K-pop is more than music — it's idol groups, dazzling videos, and devoted global fan armies. The Korean Wave (Hallyu) swept dramas, food, and fashion from Asia to every corner of the world."
+  ],
+  "history": [
+    "Korean civilisation stretches back 5,000 years. The Joseon dynasty ruled for 500 years from 1392, building grand palaces, inventing the Hangul alphabet, and producing great scholars — before Japan forcibly took control in 1910.",
+    "In 1950, North Korea invaded the South, sparking a devastating three-year war. Yet within decades South Korea rebuilt into a wealthy tech giant — Samsung, Hyundai — in what economists call the 'Miracle on the Han River'."
+  ],
+  "wows": [
+    "South Korea has some of the world's fastest internet, with 89% of homes connected by lightning-fast fibre.",
+    "Hangul was designed so cleverly in 1443 that scholars say you can learn to read it in a single morning.",
+    "Seoul has thousands of jjimjilbang — giant bathhouses where Koreans relax, sleep, and eat inside.",
+    "Samsung's revenue has equalled roughly 20% of South Korea's entire economy in peak years.",
+    "South Korea borders only North Korea by land, making it effectively an island nation.",
+    "The DMZ is one of Asia's most biodiverse nature reserves, home to 6,200 wild species since 1953.",
+    "Traditionally, every Korean baby was already one year old at birth — a custom only officially dropped in 2023."
+  ],
+  "myths": [
+    {
+      "myth": "Korean food is always fiery hot",
+      "fact": "Chilli only arrived via Portuguese and Japanese traders around 1600. Many traditional dishes — soups, rice cakes, temple food — are completely mild and heat-free."
+    },
+    {
+      "myth": "K-pop stars just sing and dance",
+      "fact": "Idols typically train for years in singing, dancing, languages, and performance before ever debuting — one of the world's most demanding entertainment industries."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "안녕하세요",
+      "say": "an-nyong-ha-se-yo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "감사합니다",
+      "say": "gam-sa-ham-ni-da"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "맛있어요",
+      "say": "ma-shi-sso-yo"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "안녕히 가세요",
+      "say": "anyong-hi-ga-seyo"
+    },
+    {
+      "en": "Yes / No",
+      "jp": "네 / 아니요",
+      "say": "ne / a-ni-yo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kr-hero.jpg",
+      "alt": "KTX bullet train at Seoul Station",
+      "caption": "KTX BULLET TRAIN — Korea's high-speed rail at Seoul Station",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kr-landmark.jpg",
+      "alt": "Gyeongbokgung Palace exterior view in Seoul",
+      "caption": "GYEONGBOKGUNG PALACE — Grand 14th-century royal palace of Seoul",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kr-animalA.jpg",
+      "alt": "Siberian Amur tiger in snowy forest",
+      "caption": "SIBERIAN TIGER — Korea's national animal, now extinct on the peninsula",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kr-animalB.jpg",
+      "alt": "Red-crowned crane in wetland",
+      "caption": "RED-CROWNED CRANE — Sacred symbol of luck, winters in Korea's DMZ",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

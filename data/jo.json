@@ -1,0 +1,163 @@
+{
+  "name": "JORDAN",
+  "nativeName": "الأردن",
+  "romaji": "AL-URDUN",
+  "tagline": "Sand, spice & rose-red stone",
+  "region": "Middle East",
+  "coords": "31.0°N 36.0°E",
+  "fileNo": "JO",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBB97",
+    "ink": "#2B2318",
+    "faint": "#8A7355",
+    "line": "#DFD0AA",
+    "accent": "#C8102E",
+    "accent2": "#007A3D"
+  },
+  "flag": {
+    "assetPath": "/flags/jo.svg",
+    "title": "Flag of Jordan",
+    "note": "Black, white & green with red chevron",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Jordan is a desert kingdom in the Middle East where a city was carved from rose-red rock, a sea so salty you float without swimming, and Bedouin tribespeople have roamed vast sandy landscapes for centuries. It sits at a crossroads where Africa, Asia, and Europe once traded spices and silk.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Amman",
+      "sub": "Pop. ~4.7 million"
+    },
+    {
+      "label": "People",
+      "value": "~11.5 m",
+      "sub": "UN est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Dinar (JOD)",
+      "sub": "1 JOD ≈ 1.41 USD"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Levantine dialect spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "89,342 km²",
+      "sub": "Slightly smaller than Portugal"
+    },
+    {
+      "label": "Top peak",
+      "value": "1,854 m",
+      "sub": "Jabal Umm ad Dami"
+    }
+  ],
+  "islands": [
+    "Amman",
+    "Aqaba",
+    "Petra",
+    "Zarqa",
+    "Irbid"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Sand, cliffs & two seas",
+    "animals": "Desert hunters & night fliers",
+    "culture": "Feasts, forts & open doors",
+    "history": "Empires carved in stone",
+    "wows": "Seven jaw-dropping facts"
+  },
+  "geo": [
+    "Jordan is mostly golden desert and rocky plateau, split by the Great Rift Valley. The Dead Sea — the lowest place on Earth at around 430 m below sea level — shimmers with water so salty nothing can live in it. The Jordan River snakes along the western edge.",
+    "In the south, Wadi Rum glows orange at sunset. Its towering sandstone pillars look so alien that film-makers use it as a stand-in for Mars. The north has green hills and olive groves, and Aqaba gives Jordan its only slice of coastline."
+  ],
+  "animals": [
+    "The Arabian oryx — a white antelope with long straight horns — was hunted to extinction in the wild, but a global rescue programme bred it back and herds were released into Wadi Rum in 2009. The sand cat, a tiny golden wildcat with huge ears, hunts lizards by night and never needs to drink water.",
+    "Griffon vultures soar on warm air above the Dana Biosphere Reserve. The Azraq wetland oasis — the only freshwater marsh for hundreds of kilometres — is a vital pit-stop for millions of migrating birds every spring and autumn."
+  ],
+  "culture": [
+    "Jordanians are famously hospitable. Refusing cardamom-spiced coffee is rude; tiny cups keep coming until you tilt yours sideways to say 'enough'. The national dish, mansaf, is lamb slow-cooked in dried-yoghurt sauce over fragrant rice, eaten by hand around a communal tray.",
+    "Friday is the day of rest and families gather for long lunches after prayers. Amman's Roman amphitheatre still hosts concerts. Traditional embroidery — bright red cross-stitch on black cloth — is worn at festivals and sold in every market."
+  ],
+  "history": [
+    "The Nabataeans carved an entire city — Petra — into rose-red cliffs about 2,000 years ago, growing rich controlling spice and silk routes. Rome absorbed their kingdom; the colonnaded city of Jerash, one of the best-preserved Roman towns outside Italy, still stands near Amman.",
+    "Crusaders built castles, Saladin reclaimed the land, and the Ottomans ruled for 400 years. After World War I Jordan became a kingdom. King Abdullah II, in power since 1999, traces his lineage to the Prophet Muhammad — 41 generations back."
+  ],
+  "wows": [
+    "The Dead Sea is about 10 times saltier than the ocean — you float without any effort.",
+    "Petra was unknown to outsiders for centuries; a Swiss explorer disguised himself to sneak in in 1812.",
+    "Wadi Rum doubled as Mars in the film 'The Martian' — its red sand looks extraterrestrial.",
+    "Amman is built on seven hills, just like Rome — locals call them 'the Seven Jebels'.",
+    "The Jordan River shrinks to barely 30 metres wide after so much water is diverted upstream.",
+    "Jordan is one of the world's most water-scarce countries — second-driest on Earth by some counts.",
+    "Azraq Wetland dried up by 1992 but conservationists refilled it; migrating birds returned fast."
+  ],
+  "myths": [
+    {
+      "myth": "Jordan is just endless desert",
+      "fact": "The north has lush green highlands with oak forests and apple orchards — Ajloun gets up to 500 mm of rain a year and feels nothing like a desert."
+    },
+    {
+      "myth": "The Dead Sea is almost gone",
+      "fact": "Its level drops about 1 metre per year, which is serious — but that still leaves a very long time before it disappears, and conservation work continues."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "MAR-ha-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/jo-hero.jpg",
+      "alt": "Wadi Rum desert landscape with towering red sandstone formations at sunset",
+      "caption": "WADI RUM — Mars-like sandstone pillars glow orange at sunset in southern Jordan.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/jo-landmark.jpg",
+      "alt": "The Treasury facade carved into rose-red rock at Petra Jordan",
+      "caption": "PETRA TREASURY — Nabataeans carved this 40 m facade from living rock 2,000 years ago.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/jo-animalA.jpg",
+      "alt": "Arabian oryx standing in desert scrub with long straight horns",
+      "caption": "ARABIAN ORYX — hunted to extinction in the wild, then brought back by Jordan.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/jo-animalB.jpg",
+      "alt": "Sand cat with oversized ears resting on pale sandy ground",
+      "caption": "SAND CAT — this tiny desert hunter survives without ever drinking liquid water.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

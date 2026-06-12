@@ -1,0 +1,163 @@
+{
+  "name": "KUWAIT",
+  "nativeName": "الكويت",
+  "romaji": "AL-KUWAIT",
+  "tagline": "Desert gold, Gulf blue",
+  "region": "Middle East",
+  "coords": "29.3°N, 47.7°E",
+  "fileNo": "042",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7455",
+    "line": "#DDD0AE",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/kw.svg",
+    "title": "State of Kuwait",
+    "note": "Green, white & red stripes; black trapezoid",
+    "keyColor": "#007A3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kuwait is a tiny Gulf state where oil turned desert into one of Earth's wealthiest nations. Kuwaitis pay no income tax — thanks to the black gold underfoot. Before oil, brave men dived for pearls and dhow traders linked Kuwait to India and Africa. Today blue towers pierce the skyline and pink flamingos wade the bay each winter.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kuwait City",
+      "sub": "pop. ~3.4 million metro"
+    },
+    {
+      "label": "People",
+      "value": "4.9 million",
+      "sub": "est. 2024, ~31% Kuwaiti"
+    },
+    {
+      "label": "Money",
+      "value": "KWD Dinar",
+      "sub": "World's top-value currency"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Gulf dialect at home"
+    },
+    {
+      "label": "Land area",
+      "value": "17,818 km²",
+      "sub": "Smaller than Wales"
+    },
+    {
+      "label": "High point",
+      "value": "306 m",
+      "sub": "Unnamed hill, W desert"
+    }
+  ],
+  "islands": [
+    "Kuwait City",
+    "Hawalli",
+    "Al Ahmadi",
+    "Jahra",
+    "Salmiya"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Sand, sea & summer heat",
+    "animals": "Desert survivors & bay birds",
+    "culture": "Coffee, pearls & generosity",
+    "history": "From pearls to petrodollars",
+    "wows": "Surprising Kuwait!"
+  },
+  "geo": [
+    "Kuwait is almost entirely flat desert — its highest point is just 306 metres, an unnamed hill near the western border. Summer sand bakes past 50 °C, making it one of Earth's hottest countries. Kuwait Bay carves a 40-km scoop into the coast, giving the capital a natural harbour that sailors have relied on for centuries.",
+    "The country has no rivers, no lakes, and almost no rain. Every drop of drinking water comes from desalination machines that turn seawater drinkable. In 1951 Kuwait became the very first country to build a large desalination plant for drinking water, long before most people had heard of the technology."
+  ],
+  "animals": [
+    "Kuwait's national animal is the dromedary camel — single-humped, able to go a week without water, comfortable in blinding sandstorms. Camel races are huge events here, and since 2005 the jockeys have been tiny robots steered by remote control, after children were banned from the sport.",
+    "Every winter, thousands of rosy greater flamingos fly in to wade the mudflats of Sulaibikhat Bay, turning the shoreline pink. Gentle dugongs — sea cows — graze seagrass beds offshore, though they are now rare and fully protected."
+  ],
+  "culture": [
+    "Kuwaitis are famous for hospitality. Every home has a diwaniya — a sitting room where neighbours and strangers gather to drink cardamom coffee, share dates, and talk late into the night. Refusing the tiny handle-less cup first offered would be quite rude.",
+    "The national dish is machboos: spiced rice piled with slow-cooked lamb or fish, perfumed with dried black lime. Before oil, the country's heartbeat was pearl diving — men plunging 12 m on one breath — still celebrated at the annual Pearl Diving Festival."
+  ],
+  "history": [
+    "Bani Khalid settlers built a small fort at Kuwait Bay in the 1670s — 'Kuwait' means 'little fort near water' in Arabic. The Al-Sabah family took leadership around 1752. By the 1800s, Kuwait's pearl trade and dhow fleet made it the busiest port on the upper Gulf.",
+    "Oil was found in 1938 and exports began in 1946, transforming the country in a generation. In 1990 Iraq invaded and burned over 600 oil wells on retreat; fires took nine months to put out. A US-led coalition liberated Kuwait in 1991, and it rebuilt with remarkable speed."
+  ],
+  "wows": [
+    "One Kuwaiti dinar is worth over three US dollars — the world's most valuable currency unit.",
+    "Retreating Iraqi troops torched more than 600 oil wells in 1991; smoke blocked out the sun for months.",
+    "Kuwait has no natural freshwater at all — every drop is desalinated from the sea.",
+    "Summer temperatures can exceed 50 °C, placing Kuwait among Earth's very hottest spots.",
+    "Camel races use robot jockeys — Kuwait adopted this in 2005 to protect children from the sport.",
+    "The Kuwait Towers hold thousands of cubic metres of fresh water in their globe tanks.",
+    "Al-Hashemi-II in Kuwait City is the world's largest wooden dhow per Guinness records."
+  ],
+  "myths": [
+    {
+      "myth": "Kuwait is just empty desert",
+      "fact": "Kuwait Bay hosts thousands of pink flamingos every winter, and offshore seagrass beds shelter dugongs and sea turtles, making the country surprisingly rich in wildlife."
+    },
+    {
+      "myth": "All Kuwaitis are oil billionaires",
+      "fact": "Around 69% of Kuwait's population are foreign workers — mostly from South Asia — who do not share in oil wealth and often earn modest wages."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Welcome",
+      "jp": "تفضل",
+      "say": "tf-AD-dal"
+    },
+    {
+      "en": "My friend",
+      "jp": "حبيبي",
+      "say": "ha-BEE-bee"
+    },
+    {
+      "en": "How are you?",
+      "jp": "شلونك؟",
+      "say": "sh-LOH-nik?"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kw-hero.jpg",
+      "alt": "Kuwait Towers and Al-Hamra skyscraper against blue sky",
+      "caption": "KUWAIT CITY — iconic Towers rise beside the modern skyline on the Gulf shore",
+      "credit": "Wikimedia Commons / CC BY 4.0"
+    },
+    "landmark": {
+      "src": "/photos/kw-landmark.jpg",
+      "alt": "The three Kuwait Towers overlooking the Persian Gulf",
+      "caption": "KUWAIT TOWERS — blue-globe water towers, opened 1979, symbol of Kuwait",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/kw-animalA.jpg",
+      "alt": "A dromedary camel standing in desert landscape",
+      "caption": "DROMEDARY CAMEL — Kuwait's national animal, built for scorching desert life",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kw-animalB.jpg",
+      "alt": "Greater flamingos wading in shallow water",
+      "caption": "GREATER FLAMINGO — thousands wade Kuwait Bay's mudflats each winter",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

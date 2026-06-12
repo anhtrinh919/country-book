@@ -1,0 +1,163 @@
+{
+  "name": "USA",
+  "nativeName": "US",
+  "romaji": "UNITED STATES",
+  "tagline": "Land of stars & stripes",
+  "region": "Northern America",
+  "coords": "38°N 97°W",
+  "fileNo": "042",
+  "langName": "American English",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C8BBAA",
+    "ink": "#1E1C18",
+    "faint": "#8A7D62",
+    "line": "#DDD2BE",
+    "accent": "#B22234",
+    "accent2": "#3C3B6E"
+  },
+  "flag": {
+    "assetPath": "/flags/us.svg",
+    "title": "Stars & Stripes",
+    "note": "50 stars, 13 red-and-white stripes",
+    "keyColor": "#B22234",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "The United States stretches from the Atlantic to the Pacific — 50 states stitched into one enormous country. It has towering mountains, scorching deserts, vast prairies, and tropical islands. Americans invented the lightbulb, the aeroplane, and the internet. About 340 million people from almost every corner of the world call it home.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Washington DC",
+      "sub": "Pop. ~700,000 — not a state"
+    },
+    {
+      "label": "People",
+      "value": "~340 million",
+      "sub": "US Census est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "US Dollar",
+      "sub": "USD — used worldwide"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "De facto; no federal official"
+    },
+    {
+      "label": "Land area",
+      "value": "9,833,517 km²",
+      "sub": "3rd or 4th largest on Earth"
+    },
+    {
+      "label": "Highest pt",
+      "value": "Denali 6,190 m",
+      "sub": "Alaska — tallest in N. America"
+    }
+  ],
+  "islands": [
+    "California",
+    "Texas",
+    "New York",
+    "Alaska",
+    "Hawaii"
+  ],
+  "islandsLabel": "FAMOUS STATES:",
+  "sections": {
+    "geography": "From sea to shining sea",
+    "animals": "Wild from bear to bison",
+    "culture": "A melting pot of everything",
+    "history": "Revolution to superpower",
+    "wows": "50 surprising USA facts"
+  },
+  "geo": [
+    "The USA spans six time zones and nearly every climate. The Rocky Mountains divide the west; the Great Plains roll through the middle; the Appalachians line the east coast. The Mississippi River drains the heartland all the way to the Gulf of Mexico.",
+    "Alaska adds tundra, glaciers, and the continent's tallest peak. Hawaii, 3,800 km out in the Pacific, is a volcanic chain with active lava flows. The Grand Canyon, carved by the Colorado River, is so vast it has its own weather systems."
+  ],
+  "animals": [
+    "The bald eagle, national symbol since 1782, soars over rivers hunting fish. American bison once numbered 60 million on the Great Plains; hunted nearly to extinction, herds now graze in protected parks. Grizzly bears roam Yellowstone and alligators lurk in Florida swamps.",
+    "Monarch butterflies migrate 4,000 km each autumn to Mexican mountain forests. Yellowstone's wolves, reintroduced in 1995, actually changed the course of rivers by keeping elk moving — proving one animal can reshape a whole landscape."
+  ],
+  "culture": [
+    "American culture is a remix — jazz born in New Orleans, hip-hop in New York, rock and roll in the South. Hollywood films are watched by billions. Baseball, basketball, and football pack enormous stadiums every weekend.",
+    "Food tells the whole story: New York pizza, Texas barbecue, Louisiana gumbo. Spanish is spoken daily by nearly 45 million people. The USA has more public libraries than McDonald's — about 17,000 — lending more books than almost any country."
+  ],
+  "history": [
+    "American Indians lived here for 15,000 years before Europeans arrived. Britain's 13 colonies declared independence in 1776, won the Revolutionary War, and launched the first modern democracy.",
+    "The country expanded west, fought a Civil War (1861–65) to end slavery, and became an industrial giant. After helping win two World Wars, it emerged from the Cold War in 1991 as the world's sole superpower."
+  ],
+  "wows": [
+    "The USA has over 1,200 tornadoes per year — more than any other country on Earth.",
+    "Alaska is so far west it's closer to Russia than to the lower 48 states — just 88 km of sea apart.",
+    "The Library of Congress holds over 175 million items — the world's largest library.",
+    "Yellowstone sits atop a supervolcano whose magma chamber is roughly the size of Los Angeles.",
+    "Americans eat roughly 3 billion pizzas every year — about 100 acres of pizza per day.",
+    "The US interstate highway network, laid end to end, would circle Earth's equator nearly twice.",
+    "More Nobel Prize winners have come from the USA than from any other country — over 400 in total."
+  ],
+  "myths": [
+    {
+      "myth": "\"Americans only speak English\"",
+      "fact": "Spanish is spoken daily by nearly 45 million US residents, and over 350 languages are used across the country — extraordinary variety."
+    },
+    {
+      "myth": "\"The US is always hot and sunny\"",
+      "fact": "Alaska hits −62 °C, Minnesota buries under metres of snow, and the Rockies hold glaciers — the USA spans nearly every climate zone."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hey!",
+      "say": "hay"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Thanks!",
+      "say": "thanks"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "See ya!",
+      "say": "see-YAH"
+    },
+    {
+      "en": "Please",
+      "jp": "Please",
+      "say": "pleez"
+    },
+    {
+      "en": "Awesome!",
+      "jp": "Awesome!",
+      "say": "AW-sum"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/us-hero.jpg",
+      "alt": "Times Square at night, New York City",
+      "caption": "TIMES SQUARE — New York City's blazing heart, lit by a thousand signs",
+      "credit": "Terabass / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/us-landmark.jpg",
+      "alt": "Grand Canyon South Rim panorama",
+      "caption": "GRAND CANYON — one mile deep, carved by the Colorado River over millions of years",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/us-animalA.jpg",
+      "alt": "American bison standing on the Great Plains",
+      "caption": "AMERICAN BISON — once 60 million strong, now thriving again in protected parks",
+      "credit": "Ilja Zeilmaker / Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/us-animalB.jpg",
+      "alt": "Bald eagle in flight",
+      "caption": "BALD EAGLE — the US national bird, fishing rivers since before the republic",
+      "credit": "Wikimedia Commons / Public Domain"
+    }
+  }
+}

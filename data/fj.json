@@ -1,0 +1,163 @@
+{
+  "name": "FIJI",
+  "nativeName": "FJ",
+  "romaji": "VITI",
+  "tagline": "Bula! Life is good here.",
+  "region": "Melanesia, Pacific",
+  "coords": "18°S 178°E",
+  "fileNo": "047",
+  "langName": "Fijian",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF4F6",
+    "dot": "#b8d0da",
+    "ink": "#1c2c35",
+    "faint": "#6e8a98",
+    "line": "#cde0e8",
+    "accent": "#009FCA",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/fj.svg",
+    "title": "Flag of Fiji",
+    "note": "Light blue field, Union Jack & coat of arms",
+    "keyColor": "#009FCA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Fiji is 333 islands scattered across the warm South Pacific — only 110 have people on them, but together they make one of Earth's most colourful places: rainbow coral reefs, emerald rainforest, and a welcome so warm it has its own word, Bula! Two big islands do the heavy lifting: Viti Levu, home to the capital Suva, and Vanua Levu.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Suva",
+      "sub": "on Viti Levu island"
+    },
+    {
+      "label": "People",
+      "value": "933,000",
+      "sub": "UN estimate 2025"
+    },
+    {
+      "label": "Money",
+      "value": "FJD $",
+      "sub": "Fijian dollar"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "plus Fijian & Hindi"
+    },
+    {
+      "label": "Land area",
+      "value": "18,272 km²",
+      "sub": "about the size of Wales"
+    },
+    {
+      "label": "High point",
+      "value": "1,324 m",
+      "sub": "Mt Tomanivi, Viti Levu"
+    }
+  ],
+  "islands": [
+    "Viti Levu",
+    "Vanua Levu",
+    "Taveuni",
+    "Yasawa",
+    "Kadavu"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Islands, reefs & rainforest",
+    "animals": "Iguanas, lories & flying foxes",
+    "culture": "Bula spirit & fire walkers",
+    "history": "Chiefs, cane & independence",
+    "wows": "Seven surprising Fiji facts"
+  },
+  "geo": [
+    "Fiji sits in the South Pacific about 1,770 km north of New Zealand. Its two biggest islands — Viti Levu and Vanua Levu — are ancient volcanoes cloaked in rainforest, with rushing rivers and cool highlands. Mount Tomanivi on Viti Levu tops out at 1,324 m.",
+    "Around the islands stretches the Great Sea Reef (Cakaulevu), the world's third-longest barrier reef at over 200 km. Fiji is also called the Soft Coral Capital of the World, with more than 390 coral species in its turquoise waters."
+  ],
+  "animals": [
+    "Fiji's star reptile is the banded iguana — an electric-green lizard with white stripes found only here. The critically endangered crested iguana survives in dry forest on just a handful of north-western islands.",
+    "The national bird, the collared lory, is a scarlet-and-green parrot that darts through flowering trees. The Pacific flying fox is Fiji's only native land mammal, and manta rays glide around Kadavu's reefs."
+  ],
+  "culture": [
+    "Fijians greet everyone with Bula! — a word meaning 'life' that doubles as hello, welcome, and cheers. Hospitality is sacred: visitors to a village share a kava ceremony, drinking earthy root juice from a communal wooden bowl.",
+    "On Beqa island, men of the Nakarovu clan walk barefoot across white-hot stones in a 500-year-old ritual. The meke dance combines chanting, drumming, and flowing movement to pass legends between generations."
+  ],
+  "history": [
+    "People have lived in Fiji for at least 3,500 years. In 1874, after conflict between chiefs and foreign pressure, Chief Cakobau signed the Deed of Cession, giving Fiji to Queen Victoria and beginning 96 years of British rule.",
+    "Britain brought 61,000 Indian workers to cut sugar cane between 1879 and 1916, shaping Fiji's unique cultural mix. On 10 October 1970 — the same date as the Cession — Fiji won full independence."
+  ],
+  "wows": [
+    "Fiji won Olympic gold in rugby sevens at three consecutive Games — remarkable for a nation under a million.",
+    "The International Date Line bends specifically to keep all of Fiji in one time zone.",
+    "Fiji's Great Sea Reef is the world's third-longest barrier reef at over 200 km.",
+    "More than half of all Fiji's species are found nowhere else on the planet.",
+    "Fijians say 'yes' by silently raising both eyebrows — no words needed.",
+    "Fiji has more registered rugby players per person than any other country.",
+    "In 2021, conservationists planted 1,000 heat-adapted corals underwater spelling BULA."
+  ],
+  "myths": [
+    {
+      "myth": "Fiji is just one tropical resort island",
+      "fact": "Fiji has 333 islands (only 110 inhabited), a real capital city, cool highlands, and two major cultures — iTaukei and Indo-Fijian — each with distinct food and languages."
+    },
+    {
+      "myth": "Fire walking is a tourist performance",
+      "fact": "Beqa firewalking is a sacred Nakarovu clan ritual needing weeks of spiritual preparation; walkers cross stones genuinely heated above 300 °C."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bula!",
+      "say": "BOO-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Vinaka",
+      "say": "vee-NAH-kah"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Moce",
+      "say": "MO-they"
+    },
+    {
+      "en": "Please",
+      "jp": "Kerekere",
+      "say": "keh-reh-KEH-reh"
+    },
+    {
+      "en": "Yes",
+      "jp": "Io",
+      "say": "EE-oh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fj-hero.jpg",
+      "alt": "Aerial view of Sigatoka Sand Dunes along Fiji's Coral Coast",
+      "caption": "SIGATOKA SAND DUNES — Fiji's first national park rolls along the Coral Coast of Viti Levu",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/fj-landmark.jpg",
+      "alt": "Colourful Sri Siva Subramaniya Hindu temple in Nadi, Fiji",
+      "caption": "SRI SIVA SUBRAMANIYA TEMPLE — the largest Hindu temple in the Southern Hemisphere, Nadi",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/fj-animalA.jpg",
+      "alt": "Bright green Fiji banded iguana on a branch",
+      "caption": "FIJI BANDED IGUANA — electric-green endemic lizard found only on these islands",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/fj-animalB.jpg",
+      "alt": "Scarlet and green collared lory parrot perched on a branch in Fiji",
+      "caption": "COLLARED LORY — Fiji's scarlet national bird, known locally as kula",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "ETHIOPIA",
+  "nativeName": "ኢትዮጵ",
+  "romaji": "ITYOPIA",
+  "tagline": "Roof of Africa",
+  "region": "East Africa",
+  "coords": "9°N 40°E",
+  "fileNo": "ET",
+  "langName": "Amharic",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CEBF9E",
+    "ink": "#26201A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#1A7A3C",
+    "accent2": "#FCDD09"
+  },
+  "flag": {
+    "assetPath": "/flags/et.svg",
+    "title": "Ethiopian Flag",
+    "note": "Green, gold & red with blue disc",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ethiopia is one of Earth's oldest countries — ancestors walked here 3 million years ago. Its highland plateau stays cool near the equator. Never colonised, it has a fierce, proud identity. Coffee was born here, marathon hero Abebe Bikila raced barefoot to Olympic gold, and an ancient alphabet scrolls across church walls today.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Addis Ababa",
+      "sub": "Pop. ~5.7 m; 3rd-highest capital"
+    },
+    {
+      "label": "People",
+      "value": "~128 m",
+      "sub": "Est. 2024; 2nd most in Africa"
+    },
+    {
+      "label": "Money",
+      "value": "Birr (ETB)",
+      "sub": "1 birr = 100 santim"
+    },
+    {
+      "label": "Language",
+      "value": "Amharic",
+      "sub": "80+ languages spoken nationwide"
+    },
+    {
+      "label": "Land area",
+      "value": "1,104,300 km²",
+      "sub": "About 4× the size of the UK"
+    },
+    {
+      "label": "Top peak",
+      "value": "Ras Dashen",
+      "sub": "4,550 m — Ethiopia's highest"
+    }
+  ],
+  "islands": [
+    "Tigray",
+    "Amhara",
+    "Oromia",
+    "SNNPR",
+    "Afar"
+  ],
+  "islandsLabel": "BIG REGIONS:",
+  "sections": {
+    "geography": "Highlands, rift & lava lakes",
+    "animals": "Wolves & cliff-top baboons",
+    "culture": "Coffee, music & ancient faith",
+    "history": "3 million years of history",
+    "wows": "Wait — that's really true?"
+  },
+  "geo": [
+    "Ethiopia sits on a vast rocky plateau split by the Great Rift Valley. Tall volcanoes, deep gorges and cold misty meadows make it look nothing like the flat desert many people imagine.",
+    "In the north the Simien Mountains jut like broken teeth above the clouds. In the east the land drops to the Danakil Depression — one of Earth's hottest, lowest spots, with glowing orange lava lakes."
+  ],
+  "animals": [
+    "The Ethiopian wolf is Africa's rarest carnivore, hunting giant mole-rats on the Bale plateau. The gelada baboon — found nowhere else — grazes clifftop meadows in troops of hundreds, flashing bright red chest patches.",
+    "The Walia ibex leaps along near-vertical Simien cliffs without a wobble. Hippos wallow in the Omo River, and the endangered Grevy's zebra roams the lowlands with the narrowest zebra stripes on Earth."
+  ],
+  "culture": [
+    "Coffee here is a ceremony: green beans roasted over charcoal, brewed in a clay jebena pot, poured three times. Each cup has its own name and skipping the third is considered rude.",
+    "Ethiopia follows a 13-month Ge'ez calendar, running about 7 years behind Gregorian. The Orthodox Church, over 1,600 years old, fills cities with chanting and incense across 80+ public holidays a year."
+  ],
+  "history": [
+    "Fossils in the Afar region include 'Lucy' — a 3.2-million-year-old ancestor found in 1974. The ancient Aksumite Empire traded with Rome and Arabia and invented its own alphabet.",
+    "Ethiopia is the only African country never colonised. Italy tried in 1896 but lost at the Battle of Adwa — a shock that inspired independence movements across the continent."
+  ],
+  "wows": [
+    "Ethiopia has 13 months — the 13th, Pagume, has only 5 or 6 days.",
+    "Ethiopians start their clock at sunrise, so their noon is our 6 o'clock.",
+    "Goat herder Kaldi found coffee after his goats danced on the berries c. 850 AD.",
+    "The Blue Nile, carrying ~85% of Nile flow into Egypt, begins at Lake Tana.",
+    "Abebe Bikila won the 1960 Olympic marathon barefoot, then won again in 1964 with shoes.",
+    "Dallol in the Danakil holds the record for hottest average temp of any inhabited place.",
+    "Lalibela's 11 churches carved from solid rock underground are still in use today."
+  ],
+  "myths": [
+    {
+      "myth": "Ethiopia is all desert and famine",
+      "fact": "Most of Ethiopia is cool highland plateau growing coffee, grains, and vegetables — it feeds 128 million people and exports more coffee than almost any African nation."
+    },
+    {
+      "myth": "Africa uses one shared calendar",
+      "fact": "Ethiopia uses the ancient Ge'ez calendar, about 7 years behind Gregorian. Ethiopians celebrated the year 2000 in September 2007."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "ሰላም",
+      "say": "Sel-am"
+    },
+    {
+      "en": "Thank you",
+      "jp": "አመሰግናለሁ",
+      "say": "Ah-meh-seg-na-loh"
+    },
+    {
+      "en": "Coffee",
+      "jp": "ቡና",
+      "say": "Boo-na"
+    },
+    {
+      "en": "Delicious",
+      "jp": "ጣፋጭ",
+      "say": "Tah-fach"
+    },
+    {
+      "en": "Good morning",
+      "jp": "እንደምን",
+      "say": "In-de-min-neh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/et-hero.jpg",
+      "alt": "Aerial view of Addis Ababa skyline with modern buildings",
+      "caption": "ADDIS ABABA — high-altitude capital city at 2,355 m above sea level",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/et-landmark.jpg",
+      "alt": "Lalibela rock-hewn church of St George carved into the ground",
+      "caption": "LALIBELA — Bete Giyorgis church carved from solid rock in the 12th century",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/et-animalA.jpg",
+      "alt": "Ethiopian wolf standing on highland grassland",
+      "caption": "ETHIOPIAN WOLF — Africa's rarest canid, endemic to Ethiopian highlands",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/et-animalB.jpg",
+      "alt": "Gelada baboon showing red chest patch on a mountain cliff",
+      "caption": "GELADA BABOON — grazes clifftop meadows in troops of hundreds",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

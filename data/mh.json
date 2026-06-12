@@ -1,0 +1,163 @@
+{
+  "name": "MARSHALL IS.",
+  "nativeName": "MH",
+  "romaji": "MAJOL",
+  "tagline": "Atolls at the edge of sky",
+  "region": "Micronesia, Pacific Ocean",
+  "coords": "7°N, 171°E",
+  "fileNo": "096",
+  "langName": "Marshallese",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EFF5F0",
+    "dot": "#c2d4c5",
+    "ink": "#1e2b20",
+    "faint": "#7a9080",
+    "line": "#d4e4d7",
+    "accent": "#1A3A7A",
+    "accent2": "#E87722"
+  },
+  "flag": {
+    "assetPath": "/flags/mh.svg",
+    "title": "Flag of the RMI",
+    "note": "Blue field, orange & white bands, 24-pt star",
+    "keyColor": "#1A3A7A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Scattered like dropped beads across the Pacific, the Marshall Islands are two chains of coral atolls so flat you can see clear across most of them. Every view is ocean — turquoise lagoons one side, open sea the other. The country holds the world record for the lowest average height of any nation, barely two metres above the waves.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Majuro",
+      "sub": "population ~28,000"
+    },
+    {
+      "label": "People",
+      "value": "~42,000",
+      "sub": "est. 2024, World Bank"
+    },
+    {
+      "label": "Money",
+      "value": "US Dollar",
+      "sub": "no own currency"
+    },
+    {
+      "label": "Language",
+      "value": "Marshallese",
+      "sub": "& English official"
+    },
+    {
+      "label": "Land area",
+      "value": "181 km²",
+      "sub": "spread over 2 M km² sea"
+    },
+    {
+      "label": "High point",
+      "value": "14 m",
+      "sub": "Airik Island, Maloelap"
+    }
+  ],
+  "islands": [
+    "Majuro",
+    "Kwajalein",
+    "Jaluit",
+    "Bikini",
+    "Ebeye"
+  ],
+  "islandsLabel": "MAIN ATOLLS:",
+  "sections": {
+    "geography": "A necklace of coral & sea",
+    "animals": "Claws, wings & reef",
+    "culture": "Canoes, stars & Christmas",
+    "history": "War, bombs & independence",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "The Marshall Islands are two parallel chains — Ratak (Sunrise) and Ralik (Sunset) — totalling 29 atolls and 5 single islands. All 1,152 specks of land share just 181 km² of ground, less than Washington D.C., while the ocean they dot covers nearly 2 million km².",
+    "Coral atolls form as rings of reef around sunken volcanoes, leaving a calm lagoon in the middle. Kwajalein holds the world's largest lagoon — big enough to hide a city inside. The average altitude is just 2 metres, making every king-tide a genuine emergency."
+  ],
+  "animals": [
+    "The real zoo here is underwater: 250-plus reef fish species weave through 300 kinds of coral. Green and hawksbill sea turtles nest on quiet beaches, and humpback whales pass through on migration.",
+    "On land, the great frigatebird rules the sky — a pirate bird that steals fish mid-air. Giant coconut crabs, the world's largest land invertebrate, scale palm trees and crack coconuts with claws like bolt cutters."
+  ],
+  "culture": [
+    "Marshallese society is matrilineal — land and rank pass through mothers, not fathers. Traditional stick charts called rebbelib were used by navigators to read ocean-swell patterns between atolls, a skill unique to these islands.",
+    "Christmas, called Kūrijmōj, is a four-month community celebration of songs and feasting. Outrigger canoe building remains a living craft, and woven pandanus mats made by women are prized as gifts."
+  ],
+  "history": [
+    "Marshallese ancestors arrived some 2,000 years ago, mastering open-ocean navigation. Spanish, German, and then Japanese colonial powers each claimed the atolls before the US took control after fierce World War II battles.",
+    "Between 1946 and 1958 the US detonated 67 nuclear weapons on Bikini and Enewetak — total blast force 7,000 times Hiroshima. The Marshall Islands gained independence in 1986."
+  ],
+  "wows": [
+    "Bikini Atoll is UNESCO World Heritage; sunken warships from nuclear tests sit on its lagoon floor.",
+    "The Marshall Islands sits west of the Date Line, sharing a calendar day with Asia rather than nearby Hawaii.",
+    "Marshallese read ocean swells felt under the hull to find islands over the horizon — wave piloting.",
+    "The country uses the US Dollar and has no central bank — one of few nations without its own currency.",
+    "Soil on Bikini Atoll measures radiation ten times higher than the Chernobyl and Fukushima exclusion zones.",
+    "Majuro's main island is rarely wider than 300 metres — you can walk lagoon to ocean in two minutes.",
+    "Marshallese citizens need no visa to live and work in the USA under the Compact of Free Association."
+  ],
+  "myths": [
+    {
+      "myth": "The islands are flat, treeless deserts",
+      "fact": "The atolls are lush with coconut palms, breadfruit, and pandanus — vivid green rings around brilliant blue lagoons, nothing like a desert."
+    },
+    {
+      "myth": "Only Bikini islanders were affected by nuclear tests",
+      "fact": "The 1954 Castle Bravo bomb rained fallout on inhabited atolls 150 km away, harming thousands with health effects lasting generations."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Iakwe",
+      "say": "YAH-kway"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Kommol",
+      "say": "KOM-mol"
+    },
+    {
+      "en": "Yes",
+      "jp": "Aet",
+      "say": "ah-ET"
+    },
+    {
+      "en": "No",
+      "jp": "Jab",
+      "say": "jahb"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Kommol tata",
+      "say": "KOM-mol TAH-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mh-hero.jpg",
+      "alt": "Coastal landscape of Majuro atoll, Marshall Islands",
+      "caption": "MAJURO — the capital sits on a coral ribbon barely wider than a city block",
+      "credit": "Erin Magee / DFAT (CC BY 2.0)"
+    },
+    "landmark": {
+      "src": "/photos/mh-landmark.jpg",
+      "alt": "Aerial view of Kwajalein Atoll showing the ring of coral and turquoise lagoon",
+      "caption": "KWAJALEIN ATOLL — the world's largest lagoon, big enough to hold a city",
+      "credit": "Matt Kieffer (CC BY-SA 2.0)"
+    },
+    "animalA": {
+      "src": "/photos/mh-animalA.jpg",
+      "alt": "Large coconut crab on ground showing its massive claws",
+      "caption": "COCONUT CRAB — world's biggest land invertebrate, claws strong enough to crack a nut",
+      "credit": "Lance Vanlewen (CC BY-SA 4.0)"
+    },
+    "animalB": {
+      "src": "/photos/mh-animalB.jpg",
+      "alt": "Great frigatebird soaring in flight over the Pacific Ocean",
+      "caption": "GREAT FRIGATEBIRD — the pirate of Pacific skies, stealing fish mid-flight",
+      "credit": "NOAA Photo Library (CC BY 2.0)"
+    }
+  }
+}

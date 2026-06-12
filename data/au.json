@@ -1,0 +1,163 @@
+{
+  "name": "AUSTRALIA",
+  "nativeName": "AU",
+  "romaji": "AUSTRALIA",
+  "tagline": "Wide land, wild heart",
+  "region": "Australasia & Oceania",
+  "coords": "-25.3, 133.8",
+  "fileNo": "012",
+  "langName": "Aussie English",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#252018",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B5",
+    "accent": "#00387A",
+    "accent2": "#CC2229"
+  },
+  "flag": {
+    "assetPath": "/flags/au.svg",
+    "title": "Australian Flag",
+    "note": "Union Jack, Southern Cross, Federation Star",
+    "keyColor": "#00387A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Australia is the only country filling an entire continent — a sun-baked land bigger than Europe, where kangaroos outnumber people and the oldest living culture on Earth has thrived for 65,000 years. From red desert heart to tropical reef to snowy mountains, it packs almost every landscape imaginable into one enormous island.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Canberra",
+      "sub": "Built between Sydney & Melbourne"
+    },
+    {
+      "label": "People",
+      "value": "26.8 million",
+      "sub": "ABS estimate, 2024"
+    },
+    {
+      "label": "Money",
+      "value": "AUD $",
+      "sub": "Australian dollar"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus 250+ Aboriginal languages"
+    },
+    {
+      "label": "Land area",
+      "value": "7.69 M km²",
+      "sub": "6th largest country on Earth"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Kosciuszko",
+      "sub": "2,228 m, Snowy Mountains"
+    }
+  ],
+  "islands": [
+    "NSW",
+    "Queensland",
+    "W. Australia",
+    "Victoria",
+    "S. Australia"
+  ],
+  "islandsLabel": "BIG STATES:",
+  "sections": {
+    "geography": "Red rock & glittering reef",
+    "animals": "Creatures found nowhere else",
+    "culture": "BBQs, beaches & bush",
+    "history": "From Dreaming to Federation",
+    "wows": "Wait, really?!"
+  },
+  "geo": [
+    "Australia sits on its own tectonic plate and is the flattest, driest inhabited continent. The vast red Outback bakes under a relentless sun, studded with Uluru — a sandstone monolith that glows orange at sunset and stands 348 m tall.",
+    "Around the edges the landscape flips: tropical rainforest in Queensland, surf beaches in New South Wales, wine valleys in South Australia, and snowy Alps in the south-east. The Great Barrier Reef stretches 2,300 km — the world's largest living structure."
+  ],
+  "animals": [
+    "Australia spent millions of years cut off from the world, so evolution went its own way. Kangaroos carry babies in pouches; wombats produce cube-shaped droppings; the platypus — a mammal with a duck's bill that lays eggs and senses prey with electricity — left scientists speechless.",
+    "The koala sleeps 22 hours a day on eucalyptus leaves. The emu is a 1.9 m flightless bird that fought the Australian army in 1932 and won. Deadly wonders abound: box jellyfish and the inland taipan, the world's most venomous snake."
+  ],
+  "culture": [
+    "Australians live mostly on the coast and treat the beach like a backyard. Surfing, cricket, and Aussie Rules Football are near-religions. A Sunday 'barbie' with snags — beef or pork sausages — is practically a national ceremony.",
+    "Aboriginal cultures are the world's oldest living traditions, rich with Dreamtime stories, dot painting, and the didgeridoo — a wind instrument hollowed by termites. Vegemite, a salty dark yeast spread, divides the world into devoted fans and horrified first-timers."
+  ],
+  "history": [
+    "Aboriginal peoples arrived at least 65,000 years ago. They developed rich oral traditions, fire-stick farming, and continent-wide trade networks long before any European arrived.",
+    "British ships founded a penal colony at Sydney Cove in 1788. Gold rushes drove rapid growth, and on 1 January 1901 six colonies united as the Commonwealth of Australia — a prosperous, multicultural democracy and one of the world's most liveable nations today."
+  ],
+  "wows": [
+    "Australia is the only country that is also an entire continent, with no land borders at all.",
+    "The Great Barrier Reef is so vast it is visible from space with the naked eye.",
+    "Anna Creek cattle station in SA is larger than the entire country of Israel.",
+    "Australia has more venomous snake species than any other country on Earth.",
+    "Aboriginal culture is the oldest continuous living culture on the planet at 65,000+ years.",
+    "In 1932, soldiers tried to cull emus with machine guns — the emus won and the army withdrew.",
+    "Canberra was purpose-built as capital because Sydney and Melbourne couldn't agree."
+  ],
+  "myths": [
+    {
+      "myth": "Australia is always hot and sunny",
+      "fact": "The Snowy Mountains get heavy snowfall each winter; Canberra regularly hits -10 °C. Australia's enormous size means it hosts almost every climate zone on Earth."
+    },
+    {
+      "myth": "Toilets flush the opposite way Down Under",
+      "fact": "The Coriolis effect is far too weak to spin a toilet bowl. Water direction depends on the bowl's shape, not the hemisphere you're standing in."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "G'day",
+      "say": "guh-DAY"
+    },
+    {
+      "en": "Afternoon",
+      "jp": "Arvo",
+      "say": "AH-voh"
+    },
+    {
+      "en": "Biscuit",
+      "jp": "Biccy",
+      "say": "BIK-ee"
+    },
+    {
+      "en": "Sunglasses",
+      "jp": "Sunnies",
+      "say": "SUN-eez"
+    },
+    {
+      "en": "Barbecue",
+      "jp": "Barbie",
+      "say": "BAH-bee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/au-hero.jpg",
+      "alt": "Sydney Opera House at dusk with harbour bridge behind",
+      "caption": "SYDNEY OPERA HOUSE — shell-shaped roof took 14 years to build",
+      "credit": "Adam.J.W.C. / Wikimedia Commons CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/au-landmark.jpg",
+      "alt": "Uluru sandstone monolith glowing red in the Australian Outback",
+      "caption": "ULURU — sacred sandstone monolith glows vivid red at sunrise",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/au-animalA.jpg",
+      "alt": "Red kangaroo with joey visible in its pouch",
+      "caption": "KANGAROO — a joey peeks from its mother's pouch on open plains",
+      "credit": "Geoff Shaw / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/au-animalB.jpg",
+      "alt": "Koala gripping a eucalyptus tree branch",
+      "caption": "KOALA — sleeps up to 22 hours a day on eucalyptus leaves",
+      "credit": "David Iliff / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

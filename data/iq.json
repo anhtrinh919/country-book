@@ -1,0 +1,163 @@
+{
+  "name": "IRAQ",
+  "nativeName": "العراق",
+  "romaji": "AL-IRAQ",
+  "tagline": "Cradle of Civilisation",
+  "region": "Middle East",
+  "coords": "33°N 44°E",
+  "fileNo": "IQ",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4BA8A",
+    "ink": "#1E1A14",
+    "faint": "#8A7455",
+    "line": "#E0CFA0",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/iq.svg",
+    "title": "Flag of Iraq",
+    "note": "Green, white & red with Kufic script",
+    "keyColor": "#007A3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Iraq sits where humans first invented writing and cities 5,000 years ago, between the Tigris and Euphrates rivers. Baghdad is a buzzing capital of nearly eight million, oil derricks dot the plains, and the southern marshes shelter water buffalo in reed houses. From snowy mountains to scorching desert, Iraq holds a whole world.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Baghdad",
+      "sub": "Pop. ~7.9 million"
+    },
+    {
+      "label": "People",
+      "value": "46.1 million",
+      "sub": "2024 census"
+    },
+    {
+      "label": "Money",
+      "value": "Iraqi Dinar",
+      "sub": "IQD"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Kurdish also official"
+    },
+    {
+      "label": "Land area",
+      "value": "438,317 km²",
+      "sub": "Bigger than California"
+    },
+    {
+      "label": "Top peak",
+      "value": "Cheekha Dar",
+      "sub": "3,611 m, Kurdish north"
+    }
+  ],
+  "islands": [
+    "Baghdad",
+    "Basra",
+    "Erbil",
+    "Mosul",
+    "Najaf"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Two rivers, deserts & peaks",
+    "animals": "Wild lions once roamed here",
+    "culture": "Dates, poetry & ancient clay",
+    "history": "Where history was invented",
+    "wows": "Surprising Iraq facts"
+  },
+  "geo": [
+    "Iraq is shaped by the Tigris and Euphrates rivers flowing south to the Persian Gulf. Between them lies Mesopotamia — flat, fertile land where great cities were born. The north rises into the Kurdistan mountains, snow-capped in winter.",
+    "The west is pure desert, baking at over 50 °C. The far south holds the Mesopotamian Marshes — a vast wetland of reeds and waterways listed as a UNESCO World Heritage Site."
+  ],
+  "animals": [
+    "The Mesopotamian Marshes teem with smooth-coated otters, water buffalo, and millions of migrating birds. The Basra reed warbler nests nowhere else on Earth. Striped hyenas and golden jackals roam the desert fringes at night.",
+    "Iraq's rivers hold the giant Tigris catfish, which grows longer than a child is tall. Persian fallow deer survive in the protected north. Sadly, the Asiatic lion — once painted on Babylon's walls — vanished in the 20th century."
+  ],
+  "culture": [
+    "Iraq invented writing — Sumerians pressed wedge shapes into clay here around 3200 BCE. Today Iraqis cherish poetry, reciting verses aloud with family, while strong cardamom tea in tiny glass cups is the national ritual.",
+    "Dates are practically the national food — Iraq grows over 1,000 varieties. Friday lunch often means slow-cooked lamb with saffron rice. Oud lute music fills tea houses in every city."
+  ],
+  "history": [
+    "About 5,000 years ago the Sumerians built the world's first cities, inventing the wheel and schools. Babylon later rose as the greatest city on Earth, home to the legendary Hanging Gardens.",
+    "Baghdad was founded in 762 CE and became the world's science hub during the Islamic Golden Age — scholars here invented algebra. Oil wealth and 20th-century wars shaped modern Iraq."
+  ],
+  "wows": [
+    "The Epic of Gilgamesh, the world's oldest story, was pressed into clay tablets here over 4,000 years ago.",
+    "Babylonian mathematicians invented the 60-minute hour and 360-degree circle; we still use both today.",
+    "Iraq holds the world's fourth-largest proven oil reserves, according to OPEC.",
+    "Ancient Ur in southern Iraq is believed to be the birthplace of the biblical Abraham.",
+    "The word 'algebra' comes from Arabic — Baghdad scholar al-Khwarizmi invented it around 820 CE.",
+    "Iraq's southern marshes were over half reflooded after 2003 and earned UNESCO World Heritage status in 2016.",
+    "Iraq's football team won the 2007 AFC Asian Cup, stunning the whole region with the victory."
+  ],
+  "myths": [
+    {
+      "myth": "Iraq is all hot desert",
+      "fact": "Iraq has snow-capped mountains in the north, vast reed marshes in the south, and green river plains in between — desert is just one part of a varied land."
+    },
+    {
+      "myth": "Babylon's Hanging Gardens are confirmed",
+      "fact": "Listed as an Ancient Wonder, no archaeological proof has been found at Babylon — some historians now argue the gardens stood at Nineveh, the Assyrian capital."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ban"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Yes",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/iq-hero.jpg",
+      "alt": "Busy market street in central Baghdad with colourful stalls and crowds",
+      "caption": "BAGHDAD MARKET — the ancient Shorja bazaar bustles with shoppers",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/iq-landmark.jpg",
+      "alt": "The ancient stepped Ziggurat of Ur rising from flat desert plain",
+      "caption": "ZIGGURAT OF UR — a 4,000-year-old temple tower in southern Iraq",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/iq-animalA.jpg",
+      "alt": "Smooth-coated otter resting on a riverbank",
+      "caption": "SMOOTH-COATED OTTER — hunts fish in Iraq's Mesopotamian Marshes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/iq-animalB.jpg",
+      "alt": "Water buffalo standing in shallow water with wide curved horns",
+      "caption": "WATER BUFFALO — wades through southern marshes for centuries",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

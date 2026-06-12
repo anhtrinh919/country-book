@@ -1,0 +1,163 @@
+{
+  "name": "CANADA",
+  "nativeName": "CA",
+  "romaji": "CANADA",
+  "tagline": "Wide skies, wild lands",
+  "region": "Northern America",
+  "coords": "60°N, 95°W",
+  "fileNo": "012",
+  "langName": "Canadian English",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#CBBFA8",
+    "ink": "#252018",
+    "faint": "#8A7D62",
+    "line": "#DAD0BC",
+    "accent": "#D52B1E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/ca.svg",
+    "title": "The Maple Leaf",
+    "note": "Red, white, red — maple leaf centre",
+    "keyColor": "#D52B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Canada is the second-largest country on Earth, yet fewer people live there than in California. It spans Atlantic to Pacific and north to the Arctic — three oceans at once. Inside sit one-fifth of the world's fresh water, the longest coastline on Earth, and forests so vast a moose can walk for days without seeing a road.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Ottawa",
+      "sub": "On the Ottawa River, Ontario"
+    },
+    {
+      "label": "People",
+      "value": "~41.3 M",
+      "sub": "Statistics Canada, July 2024"
+    },
+    {
+      "label": "Money",
+      "value": "CAD $",
+      "sub": "Canadian dollar"
+    },
+    {
+      "label": "Language",
+      "value": "Eng & French",
+      "sub": "Two official languages"
+    },
+    {
+      "label": "Land area",
+      "value": "9.98 M km²",
+      "sub": "2nd largest country on Earth"
+    },
+    {
+      "label": "High point",
+      "value": "5,959 m",
+      "sub": "Mt Logan, Yukon"
+    }
+  ],
+  "islands": [
+    "Ontario",
+    "Québec",
+    "B.C.",
+    "Alberta",
+    "Yukon"
+  ],
+  "islandsLabel": "BIG PROVINCES:",
+  "sections": {
+    "geography": "Wide open & wonderfully wild",
+    "animals": "Creatures of forest & ice",
+    "culture": "Hockey, maple syrup & more",
+    "history": "From First Nations to today",
+    "wows": "Canada's jaw-dropping records"
+  },
+  "geo": [
+    "Canada covers nearly 10 million km² — you could fit 26 United Kingdoms inside it. The Rocky Mountains tower in the west, flat prairies roll through the centre, and the ancient Canadian Shield of granite covers almost half the country.",
+    "The Great Lakes hold one-fifth of all surface fresh water on Earth. Canada also has more lakes than any other country — roughly two to three million of them glittering across the map."
+  ],
+  "animals": [
+    "The moose is the world's largest deer and loves Canada's boreal forests. A bull stands taller than a horse at the shoulder and can swim across a lake with its big paddle-like hooves.",
+    "Polar bears gather each autumn near Churchill, Manitoba, waiting for Hudson Bay to freeze. The beaver — Canada's national animal — builds dams that create wetlands sheltering dozens of other species."
+  ],
+  "culture": [
+    "Canada is officially bilingual: English and French are both national languages. In Québec, street signs, menus, and even cereal boxes must appear in French first — it's the law.",
+    "Ice hockey is almost a religion; the first organised game was played in Montreal in 1875. Every February maple syrup fills kitchens nationwide — Canada produces 75% of the world's supply, mostly from Québec's sugar maples."
+  ],
+  "history": [
+    "For at least 15,000 years, First Nations and Inuit peoples lived across this land with rich languages and trade networks. French and British settlers arrived in the 1500s–1600s, bringing dramatic change and devastating disease.",
+    "Canada became a self-governing country on 1 July 1867 when four provinces formed a Confederation. It grew steadily until Nunavut, the vast Arctic territory, was added in 1999 — completing today's map of 10 provinces and 3 territories."
+  ],
+  "wows": [
+    "Canada's coastline stretches 202,080 km — longest on Earth, enough to circle the globe five times.",
+    "Mount Logan in Yukon is North America's second-tallest peak at 5,959 m above sea level.",
+    "Canada has more donut shops per person than any country; Tim Hortons alone has over 6,000 locations worldwide.",
+    "The CN Tower was the world's tallest free-standing structure for 32 years, from 1975 to 2007.",
+    "Nunavut is larger than Western Europe yet has a population of only about 40,000 people.",
+    "Canada and the USA share an 8,891 km undefended border — the longest in the world.",
+    "Basketball was invented in 1891 by Canadian James Naismith using a peach basket in Massachusetts."
+  ],
+  "myths": [
+    {
+      "myth": "Canada is always freezing cold",
+      "fact": "Southern cities like Vancouver have mild rainy winters, and prairie summers regularly hit 35 °C — hot enough for sunstroke."
+    },
+    {
+      "myth": "Canadians say 'eh' constantly",
+      "fact": "'Eh' is real but used mainly to seek agreement ('Good game, eh?') — most Canadians use it occasionally, not as punctuation."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Sorry",
+      "jp": "Pardon",
+      "say": "par-DON"
+    },
+    {
+      "en": "Maple syrup",
+      "jp": "Sirop érable",
+      "say": "see-ROH ay-RAB"
+    },
+    {
+      "en": "Beanie hat",
+      "jp": "Tuque",
+      "say": "TYOOK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ca-hero.jpg",
+      "alt": "Canada Place convention centre and sails in Vancouver harbour",
+      "caption": "CANADA PLACE — Vancouver's sail-roofed landmark meets the Pacific.",
+      "credit": "Wikimedia Commons / Dietmar Rabich"
+    },
+    "landmark": {
+      "src": "/photos/ca-landmark.jpg",
+      "alt": "Parliament Hill in Ottawa with the Peace Tower",
+      "caption": "PARLIAMENT HILL — Gothic Revival heart of Canadian democracy, Ottawa.",
+      "credit": "Wikimedia Commons / D. Gordon E. Robertson"
+    },
+    "animalA": {
+      "src": "/photos/ca-animalA.jpg",
+      "alt": "Bull moose standing in shallow water",
+      "caption": "BULL MOOSE — the largest deer on Earth, at home in Canada's wetlands.",
+      "credit": "Wikimedia Commons / Gary Kramer, USFWS"
+    },
+    "animalB": {
+      "src": "/photos/ca-animalB.jpg",
+      "alt": "Polar bear mother and cub on snow near Churchill",
+      "caption": "POLAR BEAR — mother and cub near Churchill, Manitoba's Arctic gateway.",
+      "credit": "Wikimedia Commons / Alan D. Wilson"
+    }
+  }
+}

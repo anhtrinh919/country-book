@@ -1,0 +1,117 @@
+{
+  "name": "JAPAN",
+  "nativeName": "日本",
+  "romaji": "NIPPON",
+  "tagline": "Land of the Rising Sun",
+  "region": "East Asia · Pacific Ocean",
+  "coords": "36°N · 138°E",
+  "fileNo": "081",
+  "stop": 1,
+  "langName": "Japanese",
+  "layout": "atlas",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F6EFE1", "dot": "#cdbfa6", "ink": "#2a2420", "faint": "#8a7a5e",
+    "line": "#dccfb4", "accent": "#C0202E", "accent2": "#23406b"
+  },
+
+  "flag": {
+    "assetPath": "assets/flags/jp.svg",
+    "title": "The Hinomaru",
+    "note": "a red sun on white · official since 1999",
+    "keyColor": "#BC002D",
+    "mastheadMotif": "geometric-emblem"
+  },
+
+  "lead": "Japan is an island country in East Asia, out in the Pacific Ocean near Korea, China and Russia. People here call it Nihon or Nippon — “sun origin” — which is why it’s nicknamed the Land of the Rising Sun. It’s a place where ancient wooden temples sit beside neon cities, and monkeys take hot baths in the snow.",
+
+  "facts": [
+    { "label": "Capital",    "value": "Tokyo",       "sub": "~14.2 million people" },
+    { "label": "People",     "value": "123 million", "sub": "2025 census · slowly shrinking" },
+    { "label": "Money",      "value": "Yen ¥",       "sub": "the Japanese yen" },
+    { "label": "Language",   "value": "Japanese",    "sub": "kanji · hiragana · katakana" },
+    { "label": "Land area",  "value": "377,975 km²", "sub": "about the size of California" },
+    { "label": "Highest pt", "value": "Mt Fuji",     "sub": "3,776 m · last erupted 1707" }
+  ],
+
+  "islandsLabel": "FOUR BIG ISLANDS:",
+  "islands": ["Honshu", "Hokkaido", "Kyushu", "Shikoku"],
+
+  "sections": {
+    "geography": "A land of islands & fire",
+    "animals": "Bathing monkeys & bowing deer",
+    "culture": "Blossoms, sushi & sumo",
+    "history": "Samurai, ninja & emperors",
+    "wows": "Seven true surprises"
+  },
+
+  "geo": [
+    "Japan isn’t one island but an archipelago — a chain of thousands. Four big ones hold almost everybody: Honshu (the biggest, home to Tokyo), snowy Hokkaido in the north, Kyushu and Shikoku. The country runs so far north-to-south that it has snowy winters at one end and warm beaches at the other.",
+    "Its most famous sight is Mount Fuji, a near-perfect cone and the tallest peak at 3,776 metres. Fuji is a volcano, though it hasn’t erupted since 1707. Japan sits on the “Ring of Fire,” which is why it has so many volcanoes, hot springs and earthquakes."
+  ],
+
+  "animals": [
+    "High in the Nagano mountains, Japanese macaques — snow monkeys — climb into steaming hot springs to keep warm in winter. They’re the only wild monkeys known to bathe like this, and they live farther north than any monkey except humans.",
+    "In Nara Park, more than a thousand tame sika deer roam free, and some bow their heads to ask for crackers. Overhead flies the red-crowned crane, a symbol of luck, while the raccoon-like tanuki turns up in folk tales as a shape-shifting trickster."
+  ],
+
+  "culture": [
+    "In spring, families picnic under clouds of pink cherry blossom (sakura) — a tradition called hanami. Japanese food is loved everywhere: sushi, steaming ramen, chewy mochi and neat bento lunch boxes. The traditional robe is the kimono, and Japan gave the world origami, manga comics and anime.",
+    "The oldest national sport is sumo, where two huge wrestlers try to push each other out of a ring — a match can be over in seconds — while baseball is the most popular game to watch. Everyday life is full of clever touches too: vending machines everywhere, helpful robots, and the famous bullet trains."
+  ],
+
+  "history": [
+    "For hundreds of years — from about the 1100s to the late 1800s — Japan was guarded by the samurai, warriors famous for their swords and a code of honour called bushido. Working quietly in the shadows were the ninja, real spies and secret agents.",
+    "Japan still has an emperor today, though the role is now mostly ceremonial, and its line of emperors is one of the oldest in the world. To see old and new, travellers visit Tokyo, the temple-filled city of Kyoto, and Mount Fuji."
+  ],
+
+  "wows": [
+    "Snow monkeys take hot baths — the only wild monkeys known to do it.",
+    "The Hayabusa bullet train runs at 320 km/h and is famous for arriving on time to the second.",
+    "The world’s oldest company was Japanese: Kongō Gumi built temples for over 1,400 years.",
+    "The world’s oldest hotel is here too — a hot-spring inn open since 705 AD.",
+    "Square watermelons are real — ordinary melons grown inside box-shaped moulds.",
+    "Japan has around 2.6 million vending machines — about one for every 23–30 people.",
+    "Capsule hotels let travellers sleep in cosy stacked pods; the first opened in 1979."
+  ],
+
+  "myths": [
+    { "myth": "Ninjas always wore black and had magic powers.", "fact": "Real ninjas were spies who dressed like ordinary farmers and travellers to blend in. The dramatic “ninja vs. samurai” battles came from films, long after their time." },
+    { "myth": "Square watermelons grow from special seeds.", "fact": "Nope — there’s no special seed. They’re ordinary melons grown inside clear boxes so they fill out into a cube." }
+  ],
+
+  "words": [
+    { "en": "Hello",     "jp": "Konnichiwa", "say": "kohn-nee-chee-wah" },
+    { "en": "Thank you", "jp": "Arigatō",    "say": "ah-ree-gah-toh" },
+    { "en": "Yes",       "jp": "Hai",        "say": "high" },
+    { "en": "Goodbye",   "jp": "Sayōnara",   "say": "sah-yoh-nah-rah" },
+    { "en": "Delicious", "jp": "Oishii",     "say": "oy-shee" }
+  ],
+
+  "photos": {
+    "landmark": {
+      "src": "assets/photos/jp-fuji.jpg",
+      "alt": "Mount Fuji reflected in a lake",
+      "caption": "MT FUJI — 3,776 m, the tallest peak and a sacred volcano.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "animalA": {
+      "src": "assets/photos/jp-snow-monkey.jpg",
+      "alt": "Snow monkey in a hot spring",
+      "caption": "SNOW MONKEYS bathe in Nagano’s hot springs in winter.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "animalB": {
+      "src": "assets/photos/jp-nara-deer.jpg",
+      "alt": "A sika deer in Nara Park",
+      "caption": "SIKA DEER in Nara bow to ask for crackers.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "hero": {
+      "src": "assets/photos/jp-shinkansen.jpg",
+      "alt": "E5 Shinkansen bullet train",
+      "caption": "THE SHINKANSEN — Japan’s Hayabusa “bullet train” runs at 320 km/h and is famous for arriving on time to the second.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    }
+  }
+}

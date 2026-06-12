@@ -1,0 +1,163 @@
+{
+  "name": "LUXEMBOURG",
+  "nativeName": "LU",
+  "romaji": "LUXEMBOURG",
+  "tagline": "Tiny duchy, giant heart",
+  "region": "Western Europe",
+  "coords": "49.8°N, 6.1°E",
+  "fileNo": "047",
+  "langName": "Luxembourgish",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CDBFA0",
+    "ink": "#28201C",
+    "faint": "#857060",
+    "line": "#DDD0B8",
+    "accent": "#EF3340",
+    "accent2": "#009FE3"
+  },
+  "flag": {
+    "assetPath": "/flags/lu.svg",
+    "title": "Grand Duchy Flag",
+    "note": "Red, white & light blue — three stripes",
+    "keyColor": "#EF3340",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Luxembourg is tiny — you could drive end to end in under an hour — yet it packs in fairy-tale castles, deep forests, and one of Earth's highest living standards. Tucked between France, Belgium, and Germany, it is one of the world's last Grand Duchies. Nearly half the workforce commutes in from neighbouring countries every single morning.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Lux. City",
+      "sub": "Also the country's largest city"
+    },
+    {
+      "label": "People",
+      "value": "~680,000",
+      "sub": "Est. 2024 — 47% foreign nationals"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Adopted EU currency in 2002"
+    },
+    {
+      "label": "Language",
+      "value": "3 official",
+      "sub": "Luxembourgish, French, German"
+    },
+    {
+      "label": "Land area",
+      "value": "2,586 km²",
+      "sub": "Smaller than Rhode Island, USA"
+    },
+    {
+      "label": "High point",
+      "value": "Kneiff 560 m",
+      "sub": "A gentle Ardennes hilltop in north"
+    }
+  ],
+  "islands": [
+    "Ardennes",
+    "Moselle",
+    "Lux. City",
+    "Esch-Alzette",
+    "Müllerthal"
+  ],
+  "islandsLabel": "MAIN REGIONS:",
+  "sections": {
+    "geography": "Castles, cliffs & river vales",
+    "animals": "Wild boar & vineyard birds",
+    "culture": "Three tongues, one tiny land",
+    "history": "Fortress of Europe",
+    "wows": "Little country, BIG surprises"
+  },
+  "geo": [
+    "Luxembourg's hilly, forested Ardennes covers the north, with sandstone gorges and clear streams. The south is gentler farmland — softer and sunnier, nicknamed 'the Good Land' by locals.",
+    "The Moselle River forms the eastern border with Germany, lined with steep vineyards. Luxembourg City is built on dramatic rocky cliffs above two rivers, the Alzette and Pétrusse."
+  ],
+  "animals": [
+    "The thick Ardennes forests shelter red deer, wild boar, and the shy European otter. Rare black storks nest beside quiet streams, and beavers returned after being absent for two full centuries.",
+    "Kingfishers flash electric blue over the Moselle, and kestrels hover above vineyards. Greater horseshoe bats roost deep in the old fortress caves beneath Luxembourg City."
+  ],
+  "culture": [
+    "Luxembourgers switch between three official languages — Luxembourgish at home, French for official papers, and German in early schooling. Children learn all three before age ten, and English is widely spoken too.",
+    "The national dish is smoked pork collar with broad beans — hearty winter fuel. The country produces 15 million bottles of Moselle wine a year, and the Schueberfouer funfair has run every autumn since 1340."
+  ],
+  "history": [
+    "Luxembourg's clifftop fortress earned the nickname 'the Gibraltar of the North.' Built over 400 years, it was demolished stone by stone after 1867 when great powers declared Luxembourg permanently neutral.",
+    "Occupied twice in the World Wars, the Battle of the Bulge tore through its Ardennes hills in 1944–45. Afterwards Luxembourg became a founding member of what grew into the European Union."
+  ],
+  "wows": [
+    "Luxembourg City hosts three EU institutions — more than any capital outside Brussels.",
+    "Luxembourg has the EU's highest GDP per person — the richest country in the bloc on paper.",
+    "Nearly 47% of Luxembourg residents were born abroad — one of the world's most mixed nations.",
+    "220,000 cross-border workers commute in from three countries every single working day.",
+    "In 2020 Luxembourg made all buses, trains, and trams free for everyone.",
+    "Müllerthal's mossy sandstone mazes earned it the nickname 'Little Switzerland'.",
+    "Grand Duke Henri is one of only five reigning grand dukes left in the world."
+  ],
+  "myths": [
+    {
+      "myth": "Luxembourg is just a tax haven with nothing to see",
+      "fact": "It has 3 UNESCO World Heritage sites, medieval towns, dramatic gorges, and fine Moselle Riesling — far more than its reputation suggests."
+    },
+    {
+      "myth": "Luxembourgish is just a dialect of German",
+      "fact": "Luxembourgish is a fully recognised language with its own grammar and official status — as distinct from German as Dutch is."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Moien",
+      "say": "MOY-en"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "MAIR-see"
+    },
+    {
+      "en": "Please",
+      "jp": "Ech glift",
+      "say": "esh GLIFT"
+    },
+    {
+      "en": "Yes",
+      "jp": "Jo",
+      "say": "YO"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Äddi",
+      "say": "AH-dee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lu-hero.jpg",
+      "alt": "Luxembourg City panorama with cliff-top old town and modern Kirchberg district",
+      "caption": "LUXEMBOURG CITY — ancient cliff fortress meets gleaming EU quarter",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lu-landmark.jpg",
+      "alt": "Vianden Castle perched above the Our river valley in Luxembourg",
+      "caption": "VIANDEN CASTLE — one of Europe's finest medieval fortresses",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lu-animalA.jpg",
+      "alt": "European wild boar in forest undergrowth",
+      "caption": "WILD BOAR — snuffles through Luxembourg's Ardennes oak forests",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lu-animalB.jpg",
+      "alt": "Common kingfisher perched on a twig above water",
+      "caption": "KINGFISHER — a jewel-bright flash along the Moselle riverbanks",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

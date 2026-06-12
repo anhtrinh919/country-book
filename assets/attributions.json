@@ -1,0 +1,3620 @@
+{
+  "vn": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/H%E1%BB%99i_An%2C_Ancient_Town%2C_2020-01_CN-06.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Indochinese_Tiger.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Paonroue.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Halong_Bay_in_Vietnam.jpg",
+      "credit": "Wikimedia Commons / Aleksander Dragnes"
+    }
+  },
+  "cn": {
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Giant_Panda_2004-03-2.jpg",
+      "credit": "Wikimedia Commons / Manfred Werner"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Uncia_uncia_2-Buffalo_Zoo.JPG",
+      "credit": "Wikimedia Commons / Snow Leopard Trust"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+      "credit": "Wikimedia Commons / Saad Akhtar"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/The_Bund_Finance_Center_in_Shanghai.jpg",
+      "credit": "Wikimedia Commons / Siyuwj"
+    }
+  },
+  "in": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal,_Agra,_India_edit3.jpg",
+      "credit": "Wikimedia Commons / Yann Forget"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Peacock_Plumage.jpg",
+      "credit": "Wikimedia Commons / Aravindreddy Gosala"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/India_Gate_in_New_Delhi_03-2016.jpg",
+      "credit": "Wikimedia Commons / Atudu"
+    }
+  },
+  "ae": {
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Falco_peregrinus_-_01.jpg",
+      "credit": "Quartl / Wikimedia Commons CC BY-SA"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Sheikh_Zayed_Mosque_Silhouette.jpg",
+      "credit": "Sergio Pessolano / Wikimedia Commons CC BY"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Camelus_dromedarius_in_Nuweiba.jpg",
+      "credit": "Berthold Werner / Wikimedia Commons CC BY-SA"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Burj_dubai_3.11.08.jpg",
+      "credit": "Donaldytong / Wikimedia Commons CC BY-SA"
+    }
+  },
+  "mn": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Khustain_Nuruu_National_Park.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/UB_downtown.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Equus_ferus_przewalskii_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Steinadler_Aquila_chrysaetos_closeup2_Richard_Bartz.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "th": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Wat_Arun_from_Chao_Phraya_River.jpg",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ayutthaya_Elephant_Camp_in_Thailand_001.JPG",
+      "credit": "Yosemite / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Betta_fry_in_bubble_nest.jpg",
+      "credit": "ErgoSum88 / Wikimedia Commons Public Domain"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bangkok_skytrain_sunset.jpg",
+      "credit": "V. Argenberg / Wikimedia CC BY 4.0"
+    }
+  },
+  "sg": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Supertrees_%28235335959%29.jpeg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Oriental_pied_hornbill_%28Anthracoceros_albirostris%29_male_%28l%29_female_%28r%29.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Trenggiling_Sunda_Sunda_Pangolin_Manis_javanica.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/2016_Singapur%2C_Downtown_Core%2C_Marina_Bay_Sands_i_ArtScience_Museum_%2810%29.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  },
+  "la": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Impressive_gold_stupa_at_Pha_That_Luang_(14525905445).jpg",
+      "credit": "shankar s. / CC BY 2.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Asian_elephant_walking_in_Tad_Lo_river_at_golden_hour,_Bolaven_Plateau,_Laos.jpg",
+      "credit": "Basile Morin / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/20171112_Kuang_Si_Falls_1953_DxO.jpg",
+      "credit": "Basile Morin / CC BY-SA 4.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cappadocia_March_2006.jpg",
+      "credit": "Christophe95 / CC BY-SA 4.0"
+    }
+  },
+  "kh": {
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Royal_Palace%2C_Phnom_Penh_Cambodia_1.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Angkor_Wat%2C_Camboya%2C_2013-08-15%2C_DD_059.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/ThaumantibisGiganteaGronvold.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Elephas_Maximus_Eye_Closeup_cropped.jpg",
+      "credit": "Wikimedia Commons / CC BY 2.0"
+    }
+  },
+  "mm": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/2016_Rangun%2C_Pagoda_Szwedagon_%28004%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Irrawaddy_Dolphin_%28Orcaella_brevirostris%29_%2815223163534%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Geochelone_platynota_-Toronto_Zoo%2C_Ontario%2C_Canada-8a.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ruins_of_Bagan%2C_1999.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "my": {
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Orang_Utan,_Semenggok_Forest_Reserve,_Sarawak,_Borneo,_Malaysia.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Malacca_stadhuys1.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Rafflesia_Kinabalu_%281of2%29.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/2016_Kuala_Lumpur%2C_Petronas_Towers_%2826%29.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  },
+  "bn": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg",
+      "credit": "Wikimedia Commons / CC BY 2.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Proboscis_Monkey_in_Borneo.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Proboscis_Monkey_in_Borneo.jpg",
+      "credit": "Wikimedia Commons / CC BY 4.0"
+    }
+  },
+  "id": {
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Komodo_dragon_Varanus_komodoensis_Ragunan_Zoo_2.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Borobudur-Nothwest-view.jpg",
+      "credit": "Wikimedia Commons / Gunawan Kartapranata"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Orangutan_%28bornean%29_02.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jakarta_old_football.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ph": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mayon_Volcano_as_of_March_2020.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pithecophaga_jefferyi_-Philippine_Eagle_Center%2C_Davao_City%2C_Philippines-8a.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Philippine_Tarsier_Bohol.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jeepney_in_Legazpi_City.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "tl": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Cristo_Rei_Statue.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coconut_Crab_Birgus_latro.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dugong.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/034_Dili_waterfront%2C_Timor_1971_%2851243843987%29.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "hk": {
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bauhinia_blakeana_%28Key_West%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/13-08-09-peak-by-RalfR-01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Black_faced_spoonbill_at_Niigata.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vista_del_Puerto_de_Victoria_desde_Sky100%2C_Hong_Kong%2C_2013-08-09%2C_DD_10.JPG",
+      "credit": "Wikimedia Commons / Diliff"
+    }
+  },
+  "tw": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Taroko-Gorge_Hualien_Taiwan_Tianxiang-01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Formosan_black_bear_-_Chiang_Mai_Zoo.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/2014-03-30_Syrmaticus_mikado_%28Mikado_Pheasant%29_female.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taipei_101_Tuned_Mass_Damper_2010.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "kr": {
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Grus_japonensis_-Hokkaido%2C_Japan_-several-8_%281%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/August_In_Gyeongju_%28242517229%29.jpeg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "kp": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Arch_Titus%2C_relief_triumph%2C_Forum_Romanum%2C_Rome%2C_Italy.jpg",
+      "credit": "Kok Leng Yeo / CC BY 2.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Moon_Setting_at_Bear_River_Migratory_Bird_Refuge_%2816558276138%29.jpg",
+      "credit": "ThomasMelle / CC BY 3.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Shammy.jpg",
+      "credit": "까칠한 감자씨 / CC BY-SA 2.5"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Paektu-san.jpg",
+      "credit": "Uri Tours / CC BY-SA 2.0"
+    }
+  },
+  "kz": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/View_from_Bayterek_tower.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Steinadler_Aquila_chrysaetos_closeup2_Richard_Bartz.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/KOCIS_Korean_culture_in_Kazakhstan_%286793844258%29.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "uz": {
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Registan_-_Gusjer.jpg",
+      "credit": "Stomac / Wikimedia Commons CC BY-SA 2.0 FR"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Wilhelma_Schraubenziege.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Winter_in_Tashkent_7.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "tm": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Door_to_Hell.jpg",
+      "credit": "flydime / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Dagat-Geli.jpg",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Kulaani_Korkeasaari.jpg",
+      "credit": "Hans-Peter Scholz / CC BY-SA 2.0 DE"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Panorama_From_Ashgabat_TV_Tower.JPG",
+      "credit": "Bayram A / CC BY-SA 4.0"
+    }
+  },
+  "tj": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/ONU_Geneva_mainroom.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Marco_polo_sheep_line_drawing.jpg",
+      "credit": "Fábio Olmos / Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Uncia_uncia_2-Buffalo_Zoo.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%D0%91%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D1%8B_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5.JPG",
+      "credit": "Ninara / Wikimedia Commons / CC BY 2.0"
+    }
+  },
+  "kg": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mayank_Chakraborty%2C_Indian_Chess_Player.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Uncia_uncia_2-Buffalo_Zoo.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Kazakh-Mongolian_Eagle_Hunter.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bishkek_City%27s_business_center.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "af": {
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Arabian_Hound_001_U.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Afghanistan%27s_Grand_Canyon.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Uncia_uncia_2-Buffalo_Zoo.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kabul_TV_Hill_view.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "pk": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Badshahi_Mosque_July_1_2005_pic32_by_Ali_Imran_%281%29.jpg",
+      "credit": "Ali Imran / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Uncia_uncia_2-Buffalo_Zoo.JPG",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Berlin_Tierpark_Friedrichsfelde_12-2015_img02_Markhor.jpg",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    }
+  },
+  "np": {
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+      "credit": "Vyacheslav Argenberg / CC BY 4.0"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_Pashupatinath_Temple_27.jpg",
+      "credit": "Ondřej Žváček / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg",
+      "credit": "Bocardodarapti / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Uncia_uncia_2-Buffalo_Zoo.JPG",
+      "credit": "Tambako The Jaguar / CC BY-SA 2.0"
+    }
+  },
+  "bt": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Punakha_Dzong%2C_Bhutan_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Budorcas_taxicolor_bedfordi_in_Liberec_ZOO_in_Liberec%2C_Liberec_District.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Black_necked_crane_at_Hanle.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Taktsang_Monastery%2C_Bhutan_01.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "bd": {
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Panthera_tigris_tigris.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Jatiyo_Sangsad_Bhaban_Close_view.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mustard_Hilsa_Fish%28Steamed%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Padma_Bridge_Construction_work_is_going_on.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "lk": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sigiriya.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Elephas_maximus_maximus_-_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hawaii_turtle_2.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Colombo_April_2013-2.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "mv": {
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Whale_shark_Georgia_aquarium.jpg",
+      "credit": "Arturo de Frias Marques / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Trithemis_aurora_male_2_by_kadavoor.jpg",
+      "credit": "Shahee Ilyas / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/85/Manta_alfredi_fushivaru_thila.jpg",
+      "credit": "Ahmed Abdul Rahman / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Floatplane_at_Bathala_%28Maldives%29.jpg",
+      "credit": "Gzzz / CC BY-SA 4.0"
+    }
+  },
+  "ir": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Mezquita_de_Nasirolmolk%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_57-59_HDR.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Acinonyx_jubatus_venaticus_350833012.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_Flamingos_MC.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tehran_in_a_clean_day.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "iq": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Smooth-coated_otter_%28Lutrogale_perspicillata%29_Kota_Kinabatangan.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Water_buffalo_calf_suckling%2C_near_Mehsana%2C_Gujarat%2C_India%2C_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/An_Iraqi_man_sells_fruit_at_a_market_in_Al_Rashid%2C_Baghdad%2C_Iraq.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "kw": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kuwait_towers.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dromedary_in_Thar_desert.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kuwait_City_Souq_Sharq_02.jpg",
+      "credit": "Wikimedia Commons / CC BY 4.0"
+    }
+  },
+  "sa": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Abdul-Rahman_Al-Sudais_%28Cropped%2C_2011%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Camelus_dromedarius_in_Nuweiba.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Reem-Lavan001.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bahrain_Fort_banner.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "bh": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bahrain_Fort_March_2015.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dugong.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Tortuga_carey_%28Eretmochelys_imbricata%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_28.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bahrain_World_trade_Center_.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "qa": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Museum_of_Islamic_Art%2C_Cairo.jpg",
+      "credit": "Mohamod Fasil / CC BY 2.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Reem-Lavan001.jpg",
+      "credit": "Charles J. Sharp / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dugong.jpg",
+      "credit": "Gejuni / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Doha_Skyline_01.jpg",
+      "credit": "Francisco Anzola / CC BY 2.0"
+    }
+  },
+  "om": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Nizwa_%285%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Reem-Lavan001.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hawaii_turtle_2.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Muscat_flickr01.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ye": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibam_Wadi_Hadhramaut_Yemen.jpg",
+      "credit": "Jialiang Gao / Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Socotra_dragon_tree.JPG",
+      "credit": "Alex38 / Wikimedia Commons CC BY 4.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/PikiWiki_Israel_14861_judean_desert_leopard.JPG",
+      "credit": "JaffaFalcon / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Yemen_-_Mosque_in_Sanaa.jpg",
+      "credit": "Sameer Alssayyad / Wikimedia CC BY-SA 3.0"
+    }
+  },
+  "jo": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Petra_%2C_Al-Khazneh_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Reem-Lavan001.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sandkat1_%28Felis_margarita%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wadi_Rum_BW_2.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "il": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Dead_Sea_by_David_Shankbone.jpg",
+      "credit": "David Shankbone / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hula_Valley%2C_cranes_and_visitors.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Reem-Lavan001.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/East_Jerusalem%2C_Old_City_%28Jerusalem%29_%283%29%3B_ID_is_11-3000-100.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ps": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Jerusalem_Dome_of_the_rock_BW_14.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Palestine_Sunbird_standing_on_fence.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mountain_gazelle_%28gazella_gazella%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ramallah_Friends_Schools2.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "lb": {
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Zaitunay_Bay%2C_Downtown_Beirut%2C_Lebanon.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pano_Baalbek_1.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/C%C3%A8dre_du_Liban_Barouk_2005.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Loggerhead_Sea_Turtle_%28Caretta_caretta%29_2.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "sy": {
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Umayyad_Mosque%2C_Damascus.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "cy": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Petra_Tou_Romiou_00453.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Cyprus_wild_mouflon_Agrino.jpg",
+      "credit": "WoodsAndrew / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Adams_The_Tetons_and_the_Snake_River.jpg",
+      "credit": "Benny Trapp / Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Walled_Old_City%2C_Nicosia%2C_Cyprus_-_panoramio_%2864%29.jpg",
+      "credit": "A.Savin / Wikimedia Commons"
+    }
+  },
+  "ge": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Georgia_Jvari_monastery_IMG_9320_2055.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Capra_cylindricornis.JPG",
+      "credit": "Wikimedia Commons / iNaturalist"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Persian_Leopard_sitting.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Old_Tbilisi._March_2014._02.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "am": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/2014_Prowincja_Kotajk%2C_Klasztor_Geghard_%2821%29.jpg",
+      "credit": "Lori Butcher / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/12_Armenian_Mouflon.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Frozen_Lake_Sevan%2C_%D5%8E%D4%B1%D5%8D.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/2014_Erywa%C5%84%2C_Park_przy_Kaskadach_%2801%29.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "az": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Philly_Street_Commons.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Pusa_caspica.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flame_towers_from_Baku_boulevard.JPG",
+      "credit": "Wikimedia Commons / Interfase"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Qarabaq_ati.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "zw": {
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephants_at_Amboseli_national_park_against_Mount_Kilimanjaro.jpg",
+      "credit": "Wikimedia Commons / Amoghavarsha"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Great-zim-aerial-looking-West.JPG",
+      "credit": "Wikimedia Commons / Janice Bell"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lycaon_pictus_%28Temminck%2C_1820%29.jpg",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Victoria_falls%2C_zambia.jpg",
+      "credit": "Wikimedia Commons / Diego Delso"
+    }
+  },
+  "de": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein_Castle_panorama.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Wild_Boar_Habbitat_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ICE_train_in_Dresden_Hauptbahnhof.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ad": {
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bartgeier_%28Gypaetus_barbatus%29_Goldau.jpg",
+      "credit": "Imran Shah / CC BY-SA 2.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rupicapra_rupicapra_-_Jah%C5%88aci_%C5%A1t%C3%ADt.jpg",
+      "credit": "Kitty Terwolbeck / CC BY 2.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Andorra_la_vella_felul.jpg",
+      "credit": "DadaRacer / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/2/2c/Caldea_spa_resort%2C_May_2016.jpg",
+      "credit": "FrankAndProust / CC0 1.0"
+    }
+  },
+  "ag": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nelson%27s_Dockyard_-_Harbour_C_IMG_0492.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Fregata_magnificens_-Galapagos%2C_Ecuador_-male-8_%281%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Dama_dama_004.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Oslo_harbour_colors_modified.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "al": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_old_city_of_Berat.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pelecanus_crispus-Nk1046349362-20061210-hd.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Steinadler_Aquila_chrysaetos_closeup2_Richard_Bartz.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Birra_Tirana_Albania.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ao": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kalandula_Falls_Pan.jpg",
+      "credit": "Paulo César Santos / CC0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sable_bull.jpg",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Loxodonta_africana_South_Luangwa_National_Park_%281%29.jpg",
+      "credit": "Charles J. Sharp / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bay_of_Luanda.jpg",
+      "credit": "David Stanley / CC BY 2.0"
+    }
+  },
+  "ar": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Iguaz%C3%BA_Falls_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Luca Galuzzi / Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cattle_tyrant_%28Machetornis_rixosa%29_on_Capybara.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Obelisco_Agonale_in_Rome_01.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "at": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Boathouses_in_Hallstatt%2C_Austria_-_2017jpg.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alpine_Ibex_in_Gornergrat_2.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lipizzan_Stallions%2C_proud_horse_and_rider_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Schloss_Sch%C3%B6nbrunn_Wien_2014_%28Zuschnitt_1%29.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "au": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru%2C_Kuniya_Walk_--_2019_--_3615.jpg",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Geoff Shaw / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "David Iliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Adam.J.W.C. / Wikimedia Commons CC BY-SA 2.5"
+    }
+  },
+  "ba": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mostar%2C_Stari_Most_at_night.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sarajevo_City_Panorama.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "bb": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Harrisons_Cave_%286989193817%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Chlorocebus_sabaeus_0160.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bridgetown_WA_main_street_01.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "be": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Gravensteengent22042008.JPG",
+      "credit": "Wikimedia Commons / Gzzz"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons / José Varela"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Grote_Markt_%289379072012%29.jpg",
+      "credit": "Wikimedia Commons / Jorge Royan"
+    }
+  },
+  "bf": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/77/Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg",
+      "credit": "Semiliki / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hippo_pod_edit.jpg",
+      "credit": "Adam Jones Ph.D. / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Marco Schmidt / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sleeping_man_in_Ouagadougou.jpg",
+      "credit": "Wegmann / CC BY-SA 3.0"
+    }
+  },
+  "bg": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Rila_Monastery_%28%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%29_-_fresco.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Brown_bear_%28Ursus_arctos_arctos%29_running.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pelecanus_crispus-Nk1046349362-20061210-hd.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/AlexanderNevskyCathedral-Sofia-6.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "bi": {
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Eastern_Chimpanzee_%28Pan_troglodytes_schweinfurthii%29_%2817963708262%29.jpg",
+      "credit": "Wikimedia Commons / Rod Waddington"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hippo_pod_edit.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/BUJUMBURA-BURUNDI_BINDOVILLE_03.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Les_tambours_du_burundi.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "bj": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cape_Coast_Castle_Door_of_No_Return_02_Sept_2012.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Loxodonta_africana_South_Luangwa_National_Park_%281%29.jpg",
+      "credit": "Wikimedia Commons / Muhammad Mahdi Karim"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hippo_pod_edit.jpg",
+      "credit": "Wikimedia Commons / Nevit Dilmen"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pirogue_pour_transport_sur_la_cite_lacustre_de_ganvi%C3%A9_au_B%C3%A9nin.jpg",
+      "credit": "Wikimedia Commons / Julien Harneis"
+    }
+  },
+  "bo": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG",
+      "credit": "Håkan Svensson / Wikimedia CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Luca Galuzzi / Wikimedia CC BY-SA 2.5"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Vicu%C3%B1a_Vigogne_Lago_Chungar%C3%A0_4570m_Chile_Luca_Galuzzi_2006.jpg",
+      "credit": "Christian Mehlführer / Wikimedia CC BY 2.5"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Watching_Sunset_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006.jpg",
+      "credit": "Luca Galuzzi / Wikimedia Commons CC BY-SA 2.5"
+    }
+  },
+  "br": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Unique_Moment_with_the_Sun_and_Christ_the_Redeemer_4.jpg",
+      "credit": "Wikimedia Commons / Vincent van Zeijst"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/CHROMEJAGwebb.jpg",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Toco_toucan_%28Ramphastos_toco%29_in_flight_composite.jpg",
+      "credit": "Wikimedia Commons / Ltshears"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Panor%C3%A2mica_do_Parque_da_Cidade.jpg",
+      "credit": "Wikimedia Commons / Martin St-Amant"
+    }
+  },
+  "bs": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pink_Sands_Beach_-_panoramio.jpg",
+      "credit": "Mike's Birds / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Phoenicopterus_ruber_Tiergarten_Sch%C3%B6nbrunn.jpg",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Epinephelus_striatus_2.jpg",
+      "credit": "Bernard Dupont / CC BY-SA 2.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Royal_Tower_Atlantis_Paradise_Island_photo_Don_Ramey_Logan.jpg",
+      "credit": "Drumguy8800 / CC BY-SA 3.0"
+    }
+  },
+  "bw": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Suricatos_%28Suricata_suricatta%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_26.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dust_Cloud_in_Etosha_National_Park.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cebras_de_Burchell_%28Equus_quagga_burchellii%29%2C_vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_30.jpg",
+      "credit": "Diego Delso, CC BY-SA 4.0"
+    }
+  },
+  "by": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9C%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0.JPG",
+      "credit": "Wikimedia Commons / Homoatrox"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bison_bonasus_(Linnaeus_1758).jpg",
+      "credit": "Wikimedia Commons / Radomił Binek"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/White_Stork_%28Ciconia_ciconia%29_%285%29.jpg",
+      "credit": "Wikimedia Commons / Siga"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/National_Library-Thimphu-Bhutan-2008_01_23.jpg",
+      "credit": "Wikimedia Commons / A. Mitrofanov"
+    }
+  },
+  "bz": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Xunantunich-ElCastillo.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Keel-billed_toucan_%28Ramphastos_sulfuratus_sulfuratus%29_on_foxtail_palm_%28Wodyetia_bifurcata%29_Cayo.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Tapirus_bairdii_-Franklin_Park_Zoo%2C_Massachusetts%2C_USA-8a.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Belize_City_harbour%2C_Belize.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ca": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Parliament_Hill%2C_Ottawa.jpg",
+      "credit": "Wikimedia Commons / D. Gordon E. Robertson"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Moose_superior.jpg",
+      "credit": "Wikimedia Commons / Gary Kramer, USFWS"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Polar_bear_with_cub.jpg",
+      "credit": "Wikimedia Commons / Alan D. Wilson"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Place_Royale_at_night%2C_Vieux-Qu%C3%A9bec%2C_Quebec_ville%2C_Canada.jpg",
+      "credit": "Wikimedia Commons / Dietmar Rabich"
+    }
+  },
+  "cd": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lava_Lake_Nyiragongo_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Okapi2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/A_Bonobo_at_the_San_Diego_Zoo_%22fishing%22_for_termites.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kinshasa_Matadi.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "cf": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Une_foule_devant_la_Cath%C3%A9drale_de_Bangui%2C_le_7_mai_2018.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Forest_Elephants,_Dzanga_Bai,_Central_African_Republic_1.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bongo1.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangui_City_Centre.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "cg": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Basilique_Sainte-anne.jpg",
+      "credit": "NGOULOU BATALA Ryddhel / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_Gorilles_du_Parc_National_d'odzala_Kokoua.jpg",
+      "credit": "Ekassa / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Loxodonta_cyclotis,_Odzala-Kokoua_National_Park,_Republic_of_the_Congo_53146541.jpg",
+      "credit": "John P Friel / CC BY 4.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Arrivée_d'un_train_à_Brazzaville,_au_Congo,_le_28_novembre_2018.jpg",
+      "credit": "Arsène Séverin / Voice of America"
+    }
+  },
+  "ch": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Schweiz_Schloss_Chillon_Gesamtansicht.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alpine_Ibex_in_Gornergrat_2.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Marmota_marmota_02_.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/GGB_Bhe_2-4_Gornergrat.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ci": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Basilique_notre_Dame_de_la_Paix_de_Yamoussoukro_16.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Schimpanse,_Pan_troglodytes_3.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Hexaprotodon_liberiensis_in_Edinburgh_Zoo.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Abidjan_des_Lagune.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "cl": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Miscanti_Lagoon_near_San_Pedro_de_Atacama_Chile_Luca_Galuzzi_2006.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Andean_Flamingos_Laguna_Colorada_Bolivia_Luca_Galuzzi_2006.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Magellanic_penguin%2C_Valdes_Peninsula%2C_e.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Santiago_Isabela_4.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "cm": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Cameroon.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gorilla_Male_Global.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Tauraco_bannermani_by_Henrik_Gr%C3%B6nvold_%28cropped%29.jpg",
+      "credit": "Wikimedia Commons / H. Grönvold"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Douala_2005_13.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "co": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sunset-cartagena-tower-dewired.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Andean_cock-of-the-rock_%28Rupicola_peruvianus_sanguinolentus%29_male_Antioquia.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Inia.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Las_Nieves%2C_Bogot%C3%A1%2C_Bogota%2C_Colombia_-_panoramio.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "cr": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Porto_Teatro_Rivoli_4.JPG",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Resplendent_quetzal_%28Pharomachrus_mocinno%29_male_3.jpg",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Strawberry_Poison_Dart_Frog_%28Oophaga_pumilio%29_%286998806754%29.jpg",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Arenal_Volcano,_Costa_Rica.jpg",
+      "credit": "Wikimedia Commons / public domain"
+    }
+  },
+  "cu": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Capitolio_full.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bee_hummingbird_%28Mellisuga_helenae%29_adult_male_non-breeding.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Crocodylus_rhombifer.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/AvMalecon-LaHabanaCuba-04735.jpg",
+      "credit": "Wikimedia Commons / Matthias Bethke"
+    }
+  },
+  "cv": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Cape_Verde_Fogo_landscape_with_Pico_do_Fogo_road.jpg",
+      "credit": "Cayambe / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Razo_lark.jpg",
+      "credit": "Justin Welbergen / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Maria_Sal_Cabo_Verde3.JPG",
+      "credit": "Adrião / CC BY 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Mindelo_(S_Vicente,_Cabo_Verde).JPG",
+      "credit": "Manuel de Sousa / CC BY-SA 3.0"
+    }
+  },
+  "cz": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Prague_Castle_from_Charles_Bridge_panorama.JPG",
+      "credit": "Wikimedia Commons / D. Mottl, CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Lynx_lynx2.jpg",
+      "credit": "Wikimedia Commons, CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_Deer_Poing.JPG",
+      "credit": "Wikimedia Commons, CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Bridge_Prague.jpg",
+      "credit": "Wikimedia Commons / DOWIMA, CC BY-SA 4.0"
+    }
+  },
+  "dj": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Assal_2-Djibouti.jpg",
+      "credit": "Wikimedia Commons / Fishercd"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Lac_Abbe.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Whaleshark3.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Djibouti_Port.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "dk": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Little_Mermaid_%26_Sculpture_Garden.jpg",
+      "credit": "Wikimedia Commons / Wikimol"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Phocoena_phocoena.2.jpg",
+      "credit": "Wikimedia Commons / NOAA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Murmuration_11-2025.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kopenhagen_%28DK%29%2C_Nyhavn_--_2017_--_1447.jpg",
+      "credit": "Wikimedia Commons / Orf3us"
+    }
+  },
+  "dm": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominica_(Caribbean)_-_Trafalgar_Falls_-_double-falls_(32724044870).jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazona_imperialis_-Roseau_-Dominica_-aviary-6a-3c.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazona_arausiaca_-Roseau_-Dominica_-aviary-6a.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_part_of_Roseau,_the_capital_city_of_Dominica.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "do": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Zona_Colonial_-_Santo_Domingo,_Dominican_Republic.jpg",
+      "credit": "Luis Fuentes / CC BY 2.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Dulus_dominicus,_Cigua_palmera.JPG",
+      "credit": "Jorge checo / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RhinoIguanaMay07Pedernales.jpg",
+      "credit": "Tim Ross / Public domain"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Punta_Cana_Dominican_Republic.jpg",
+      "credit": "Channone Arif / CC BY 2.0"
+    }
+  },
+  "dz": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Timgad_ville.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Fennec_Fox_Vulpes_zerda.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Gibraltar_Barbary_Macaque.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Algiers_New_Orleans_June_2016_12.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ec": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cotopaxi_church.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Santa_Cruz_giant_tortoise_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Blue-footed-booby.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/Street_in_quito-ecuador.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ee": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Kaali_main_crater_on_2005-08-10.3.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Lynx_lynx_poing.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/White_Stork_%28Ciconia_ciconia%29_%285%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Tallinn_old_town_model.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "eg": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Great_Sphinx%2C_Pyramids_of_Gizeh-1839%29_by_David_Roberts%2C_RA.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Nile_crocodile_head.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Fennec_Fox_%40_Africa_Alive%2C_Lowestoft.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "er": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Asmara_Eritrea_Fiat_Tagliero_Building_(30476150040).jpg",
+      "credit": "Clay Gilliland / Wikimedia Commons CC BY-SA 2.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Dugong_dugon.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_sea_turtle_near_Marsa_Alam.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ansaldo_442_steam_locomotive_in_Eritrea.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "es": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Alhambra_in_the_evening.jpg",
+      "credit": "Carlos Delgado / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Iberian_Lynx_255798626.jpg",
+      "credit": "Programa de Conservación / Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Gyps_fulvus_-_02.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada_Familia_01.jpg",
+      "credit": "Bernard Gagnon / Wikimedia Commons"
+    }
+  },
+  "et": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bete_Giyorgis_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ethiopian_wolf_%28Canis_simensis%29%2C_Natural_History_Museum%2C_London%2C_Mammals_Gallery.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gelada_Baboon_%2816113407699%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Addis_Ababa_City_View.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "fi": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arctic_circle_mark_Melfjorden.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Brown_bear_%28Ursus_arctos_arctos%29_running.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Whooper_Swan_%28Cygnus_cygnus%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Senate_Square_-_Senaatintori_-_Senatstorget%2C_Helsinki%2C_Finland.jpg",
+      "credit": "Wikimedia Commons / panoramio"
+    }
+  },
+  "fj": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Srisivasubramaniya_temple_nadi_fiji.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brachylophus_fasciatus_%28Fijian_Iguana%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Collared_Lories_taveuni_june2008.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/A177%2C_Sigatoka_Sand_Dunes_National_Park%2C_Viti_Levu%2C_Fiji%2C_2007.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "fm": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Nan_Madol_and_canal.jpg",
+      "credit": "Uhooep / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant_Manta_AdF.jpg",
+      "credit": "A. de Frias Marques / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Yap_Stone_Money.jpg",
+      "credit": "Eric Guinther / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Pohnpei_lagoon_from_plane.jpg",
+      "credit": "Zykasaa / Wikimedia Commons CC BY-SA 4.0"
+    }
+  },
+  "fr": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mont_St_Michel_Attention_aux_moutons_DSC_0155.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/001_Greater_flamingo_in_flight_in_the_Camargue_Photo_by_Giles_Laurent.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Camargue_horse_Riserva_Naturale_Regionale_della_Foce_dell%E2%80%99Isonzo-0545.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Champ_de_Mars_from_the_Eiffel_Tower_-_July_2006_edit.jpg",
+      "credit": "Benh LIEU SONG / Wikimedia CC BY-SA"
+    }
+  },
+  "ga": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_of_Lop%C3%A9_National_Park.JPG",
+      "credit": "Olly Griffin, CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabon_Loango_National_Park_Elephant_with_offspring.jpeg",
+      "credit": "Kurt Dundy, CC BY 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Western_Lowland_Gorilla_Mom_and_Baby_on_Back_in_Loango.jpg",
+      "credit": "TheLeftCoast, CC0 1.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Libreville_immeubles.jpg",
+      "credit": "Delrick Williams, CC BY-SA 4.0"
+    }
+  },
+  "gb": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
+      "credit": "© Adam Kliczek / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Puffin_Latrabjarg_Iceland.jpg",
+      "credit": "© Ómar Runólfsson / Wikimedia CC BY"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg",
+      "credit": "© Diliff / Wikimedia Commons CC BY-SA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Tower_Bridge_from_Shad_Thames.jpg",
+      "credit": "© Diliff / Wikimedia Commons CC BY-SA"
+    }
+  },
+  "gd": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Diablesse,_Grenada_Underwater_Sculptures_(SunCat)_-_Flickr.jpg",
+      "credit": "SunCat / Flickr via Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_monkey_and_baby.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/LeatherbackTurtle.jpg",
+      "credit": "Wikimedia Commons / NPS USVI"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Grenada,_Karibik_-_Harbor_St._George's_-_panoramio.jpg",
+      "credit": "Wikimedia Commons / panoramio"
+    }
+  },
+  "gh": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Cape_Coast_Castle.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Loxodonta_africana_South_Luangwa_National_Park_%281%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Olive_ridley_sea_turtle.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Aerial_View_of_Accra,_the_capital_town_of_Ghana.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "gl": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_iceberg_in_the_Ilulissat_icefjord.jpg",
+      "credit": "Marcus Engdahl / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Musk-Ox2.JPG",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Polar_bear_arctic.JPG",
+      "credit": "Ansgar Walk / CC BY-SA 2.5"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Very_colorful_houses_along_coast_Nuuk_Greenland.jpg",
+      "credit": "amanderson2 / CC BY 2.0"
+    }
+  },
+  "gm": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Arch_22_Banjul.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Malachite_Kingfisher_-_Portrait.jpg",
+      "credit": "Wikimedia Commons / Dick Daniels"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Nile_crocodile_head.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Banjul%2C_The_Gambia.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "gn": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Conakry-palaisdupeuple.JPG",
+      "credit": "Soman / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Schimpanse,_Pan_troglodytes_3.JPG",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Nimba_Strict_Nature_Reserve-123989.jpg",
+      "credit": "Wikimedia Commons CC BY-SA IGO"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Conakry_city,Guinea.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "gq": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Jungle-near-Oyala,-Equatorial-Guinea-banner.jpg",
+      "credit": "Mehlauge / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Mandrillus_leucophaeus_poensis_56247487.jpg",
+      "credit": "Chris Quirin / CC BY 4.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Leatherback_sea_turtle_on_the_beach_Tinglar_(5839996429).jpg",
+      "credit": "USFWS / Public Domain"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Malabo_(16513094965).jpg",
+      "credit": "Ben Sutherland / CC BY 2.0"
+    }
+  },
+  "gr": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Parthenon-Acropolis_of_Athens.jpg",
+      "credit": "Yair Haklai, CC BY-SA 3.0, Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Monachus_monachus_-_Museo_civico_di_storia_naturale_%28Milan%29.jpg",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Loggerhead_Sea_Turtle_%28Caretta_caretta%29_2.jpg",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Greece_Santorini_Oia_Coast_by_day.JPG",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    }
+  },
+  "gt": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Atitlan_Lake.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Resplendent_Quetzal.jpg",
+      "credit": "Wikimedia Commons / Dave Montreuil"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/CHROMEJAGwebb.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tikal_temple_jaguar.jpg",
+      "credit": "Wikimedia Commons / Raymond Ostertag"
+    }
+  },
+  "gw": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/DSC_9258_Ilha_de_Bolama_Bijagos,_Reg._BOLAMA_,_Guin%C3%A9-Bissau.jpg",
+      "credit": "Danilo Vaz / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippopotamus_amphibius.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_monkey_(Chlorocebus_sabaeus)_with_baby.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Pal%C3%A1cio_Presidencial_em_Bissau_(2).jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "gy": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaieteur_Falls.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaguar_(Panthera_onca_palustris)_female_Piquiri_River.JPG",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant_otters_(Pteronura_brasiliensis).jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Georgetown_waterfront_(5137201310).jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "hn": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Copan_Maya_site_Honduras%2C_1976_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Whale_shark_Georgia_aquarium.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tegucigalpa.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "hr": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Plitvice_Lakes%2C_Croatia%2C_Galovac_jezero.JPG",
+      "credit": "Wikimedia Commons / Branko Radovanović"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Brown_bear_%28Ursus_arctos_arctos%29_running.jpg",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Caretta_caretta_2.jpg",
+      "credit": "Wikimedia Commons / Tomas Castelazo"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-13%2C_DD_18.JPG",
+      "credit": "Wikimedia Commons / Bernard Gagnon"
+    }
+  },
+  "ht": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Citadelle_Laferri%C3%A8re,_Haiti_(7761638618).jpg",
+      "credit": "Alex Proimos / CC BY 2.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyclura_cornuta_-_Reptilium_Landau.jpg",
+      "credit": "H. Zell / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazona_ventralis_-Parque_Nacional_Jaragua,_Republica_Dominicana-8.jpg",
+      "credit": "Yolanda M. Leon / CC BY 2.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tap_tap_public_transportation_Haiti.jpg",
+      "credit": "Michelle Walz Eriksson / CC BY 2.0"
+    }
+  },
+  "hu": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Budapest_Parliament_4604.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Specijalni_rezervat_prirode_Pa%C5%A1njaci_velike_droplje.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hungarian_Grey_Cattle.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Budapest_Chain_Bridge_at_night.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ie": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/CliffsofMoher_001.jpg",
+      "credit": "Ermell / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/RedDeerStag.jpg",
+      "credit": "Luc Viatour / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/NZ7_5265_%2852812350718%29.jpg",
+      "credit": "Artie Wolfe / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Conradh_na_Gaeilge_Baile_%C3%81tha_Cliath_2006.jpg",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    }
+  },
+  "is": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Strokkur_geyser_eruption%2C_close-up_view.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Puffin_Latrabjarg_Iceland.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/ArcticFoxSummer.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Reykjav%C3%ADk_Old_Harbor.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "it": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Claude_Monet%2C_Le_Grand_Canal.jpg",
+      "credit": "Didier Descouens / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Studies_of_modern_Italian_dog_populations_reveal_multiple_patterns_for_domestic_breed_evolution_%282021%29_fig._2_%28Lupo_Italiano_%2B_GSD_%2B_Apennine_wolf_highlighted%29.jpg",
+      "credit": "Fabrizio Moglia / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Etna_eruption_seen_from_the_International_Space_Station.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 2.5"
+    }
+  },
+  "jm": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunn%27s_River_Falls%2C_Ocho_Rios%2C_Jamaica.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-billed_streamertail_(Trochilus_polytmus)_female_in_flight_2.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Mountains%2C_Jamaica.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunns_River_Falls_climb.JPG",
+      "credit": "Wikimedia Commons / public domain"
+    }
+  },
+  "jp": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Fuji_Speedway_with_Mount_Fuji.jpg",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Macaca_fuscata_Iwatayama.jpg",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cervus_nippon_002.jpg",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Line_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017%2C_car_15.png",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    }
+  },
+  "ke": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Elephants_Kili_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Okonjima_Lioness.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lake-Nakuru-Baboon-Hill-View.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Nairobi_City_Skyline.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ki": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiribati_Kuria_Islands.jpg",
+      "credit": "Flexmaen / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Christmas_Island_Frigatebird.JPG",
+      "credit": "Shah Jahan / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Coconut_Crab_(Birgus_latro),_Guam_(2).jpg",
+      "credit": "Lance Vanlewen / CC BY-SA 4.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/South_Tarawa_from_the_air.jpg",
+      "credit": "Govt of Kiribati / Australian Dept of Defence"
+    }
+  },
+  "km": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Overviewing_to_Karthala_crater.jpg",
+      "credit": "Rokaso / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bristol.zoo.livfruitbat.arp.jpg",
+      "credit": "Adrian Pingstone / Public domain"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Coelacanth_CAS_2.JPG",
+      "credit": "BrokenSphere / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Moroni_Capital_of_the_Comores_Photo_by_Sascha_Grabow.jpg",
+      "credit": "Sascha Grabow / CC BY-SA 3.0"
+    }
+  },
+  "kn": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Kitts_-_Brimstone_Hill_Fortress_03.JPG",
+      "credit": "Martin Falbisoner / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Vervet_Monkey_(Chlorocebus_pygerythrus).jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Flying_Brown_Pelican.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/St._Kitts_Scenic_Railway_(49931767708).jpg",
+      "credit": "Flickr / CC BY 2.0"
+    }
+  },
+  "lc": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sulphur-springs-indiana-from-above.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Avicultural_magazine_%281900%29_%2819731061533%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/LeatherbackTurtle.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/PetitPiton.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "li": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Liechtenstein_asv2022-10_img22_Vaduz_Schloss.jpg",
+      "credit": "A.Savin / Wikimedia Commons (FAL)"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Altenfelden_Chamois_Rupicapra_rupicapra-2076.jpg",
+      "credit": "Isiwal / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Marmota_marmota_Alpes2.jpg",
+      "credit": "F. Trazzi / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Liechtenstein_asv2022-10_img02_Vaduz_Aussicht_beim_Schloss.jpg",
+      "credit": "A.Savin / Wikimedia Commons (FAL)"
+    }
+  },
+  "lr": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/City_Hall,_Monrovia,_Liberia.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Hexaprotodon_liberiensis_(Head).JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Pan_troglodytes_01.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Sinkor,_Monrovia,_Liberia_-_panoramio_(1).jpg",
+      "credit": "Panoramio / Wikimedia Commons"
+    }
+  },
+  "ls": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Thaba_Bosiu.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bartgeier_%28Gypaetus_barbatus%29_Goldau.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Aloe_polyphylla_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Maletsunyanefalls.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "lt": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Hill_of_Crosses,_Lithuania.JPG",
+      "credit": "Wikimedia Commons / Avi1111"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ciconia_ciconia.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bison_bonasus_%28Linnaeus_1758%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Vilnius_old_city.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "lu": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Burg_Vianden_2009.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Wild_Boar_Habbitat_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Giant_Kingfisher-002.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Luxemb_City_Hotel_de_ville_01.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "lv": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Riga_old_town_hall_square.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ciconia_ciconia.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurasian_lynx_climbing_a_tree.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Riga_skyline.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ly": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Libya_5391_Ubari_Lakes_Luca_Galuzzi_2007.jpg",
+      "credit": "Luca Galuzzi / CC BY-SA 2.5"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Desert_fennec_._Sahara_fox_in_Morocco.jpg",
+      "credit": "Merzougaloisirs / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ammotragus_lervia_550095482.jpg",
+      "credit": "Kevin Floyd / CC BY 4.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Aurelius_Arch_Tripoli_Libya.jpg",
+      "credit": "Daniel & Kate Pett / CC BY 2.0"
+    }
+  },
+  "ma": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bab_Mansour_gate.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Gibraltar_Barbary_Macaque.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Fennec_Fox_%40_Africa_Alive%2C_Lowestoft.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jemaa_el-Fnaa_at_night.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "mc": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Princely_Palace_of_Monaco.JPG",
+      "credit": "Niels Mickers / CC BY 3.0 NL"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bird_in_Monaco.jpg",
+      "credit": "Alexis Lours / CC BY 4.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bottlenose_dolphin_with_young.JPG",
+      "credit": "Peter Asprey / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Monaco_and_harbor.JPG",
+      "credit": "Niels Mickers / CC BY 3.0 NL"
+    }
+  },
+  "md": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Orhei_panorama_01.jpeg",
+      "credit": "Jekader / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/White_Stork_(Ciconia_ciconia).jpg",
+      "credit": "Dominik Ryba / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/European_mink_at_Osnabr%C3%BCck_Zoo.jpg",
+      "credit": "zoofanatic / Wikimedia Commons (CC BY 2.0)"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Looking_out_over_Chisinau_-_Flickr_-_Dave_Proffer.jpg",
+      "credit": "Dave Proffer / Wikimedia Commons (CC BY 2.0)"
+    }
+  },
+  "me": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Djurdjevica_Tare_bridge.jpg",
+      "credit": "Aleks.milo / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurasian_brown_bear.jpg",
+      "credit": "MrPanyGoff / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Dalmatian_pelicans_%28Pelecanus_crispus%29_roost_Kerkini.jpg",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Montenegro_Bucht_von_Kotor01.jpg",
+      "credit": "Elisabeth64 / CC BY-SA 4.0"
+    }
+  },
+  "mg": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Madagascar_-_rice_terraces.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Indri_Indri.jpg",
+      "credit": "Wikimedia Commons / CC BY 2.5"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Cryptoprocta_Ferox.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Allee_des_Baobabs_06.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    }
+  },
+  "mh": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view,_Kwajalein_Atoll,_Marshall_Islands.jpg",
+      "credit": "Matt Kieffer (CC BY-SA 2.0)"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Coconut_Crab_(Birgus_latro),_Guam_(2).jpg",
+      "credit": "Lance Vanlewen (CC BY-SA 4.0)"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_frigatebird_(Fregata_minor).jpg",
+      "credit": "NOAA Photo Library (CC BY 2.0)"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape,_Majuro,_Marshall_Islands,_February_2012._Photo-_Erin_Magee_-_DFAT_(12426188673).jpg",
+      "credit": "Erin Magee / DFAT (CC BY 2.0)"
+    }
+  },
+  "mk": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Iglesia_San_Juan_Kaneo,_Ohrid,_Macedonia,_2014-04-17,_DD_19.JPG",
+      "credit": "Diego Delso / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Balkan_Lynx_(Lynx_lynx_martinoi).jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ohrid_Trouts.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Stone_Bridge_(%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD_%D0%9C%D0%BE%D1%81%D1%82),_Skopje.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  },
+  "ml": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Mosque_of_Djenn%C3%A9_1.jpg",
+      "credit": "Andy Gilham / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hippo_pod_edit.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Giraffa_camelopardalis_angolensis.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bamako_037.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "mr": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Earth_from_Space-_Eye_of_the_Sahara_ESA515004_-_The_Richat_Structure_in_Mauritania.jpg",
+      "credit": "ESA / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Fennec_Fox_%40_Africa_Alive%2C_Lowestoft.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Addax_(Addax_nasomaculatus).JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Iron_Ore_Train_-_Choum,_Mauritania.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    }
+  },
+  "mt": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Malta_-_Qrendi_-_Hagar_Qim_and_Mnajdra_Archaeological_Park_-_Hagar_Qim_14_ies.jpg",
+      "credit": "Frank Vincentz / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Monticola_solitarius,_Spain_1.jpg",
+      "credit": "J. M. Carretero Palacios / CC BY 2.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Malta_-_Marsaxlokk_-_Xatt_is-Sajjieda_-_Harbour_14_ies.jpg",
+      "credit": "Frank Vincentz / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_of_Grand_Harbour_from_the_Upper_Barrakka_Gardens_-_panoramio.jpg",
+      "credit": "Björn S. / CC BY-SA 3.0"
+    }
+  },
+  "mu": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_Morne,_Mauritius2.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pink_Pidgeon._Nesoenas_mayeri_%2816784371566%29.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Aldabra.giant.tortoise.arp.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Mauritius_Port-Louis_CaudanWaterfront.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  },
+  "mw": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Tea_plantation_near_Mulanje.JPG",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Malawi_Cichlid_blue.JPG",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/African_fish_eagle_(Haliaeetus_vocifer)_juvenile_in_flight.jpg",
+      "credit": "Wikimedia Commons CC BY-SA 4.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiweta,_Lake_Malawi,_Rumphi.jpg",
+      "credit": "Michaelphoya / Wikimedia CC BY-SA 4.0"
+    }
+  },
+  "mx": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/The_El_Castillo_Pyramid_at_Chichen_Itza,_Mexico.jpg",
+      "credit": "Ovedc / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ambystoma_mexicanum_1.jpg",
+      "credit": "LoKiLeCh / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Steinadler,_Aquila_chrysaetos_04.JPG",
+      "credit": "Böhringer Friedrich / CC BY-SA 2.5"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg",
+      "credit": "Héctor García / CC BY 2.0"
+    }
+  },
+  "mz": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Caminhos_de_Ferro_de_Mocambique%2C_Railway_Station_in_Maputo%2C_Mozambique.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Dugong.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Whale_shark_and_remora.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Maputo,_Mozambique.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "na": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Fish_River_Canyon_Namibia.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Cheetah_portrait_Whipsnade_Zoo.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cape_Fur_Seals_Cape_Cross.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sossusvlei_Dune_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ne": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Mosque_Agadez.jpg",
+      "credit": "Alamin Mohammed / Wikimedia CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Girafeskoure3.jpg",
+      "credit": "Clémence Delmas / Wikimedia CC BY 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg",
+      "credit": "Haytem Bouchri / Wikimedia CC BY-SA 4.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Niger,_Niamey,_Pont_Kennedy_(1).jpg",
+      "credit": "NigerTZai / Wikimedia CC BY-SA 4.0"
+    }
+  },
+  "ng": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Zuma_rock%2C_Niger._Human_face_like_rock_1.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cross-River-Gorilla-Gorilla-gorilla-diehli%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Loxodontacyclotis.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mantova_Skyline.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ni": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/View-Granada-Cathedral-February-2011.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Turquoise-browed_motmot_in_Costa_Rica_02.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Alouatta_palliata.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/MALECON_SALVADOR_ALLENDE%2C_LAGO_XOLOTLAN._MANAGUA%2C_NICARAGUA_-_panoramio.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "nl": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/KinderdijkMolens02.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Focario_de_focas_grises_%28Halichoerus_grypus%29%2C_Hel%2C_Polonia%2C_2013-05-23%2C_DD_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ciconia_ciconia_-_02.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Amsterdam_Canals_-_July_2006.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "no": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/GeirangerFjord.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Alce_(Alces_alces),_Potter_marsh,_Alaska,_Estados_Unidos,_2017-08-22,_DD_139.jpg",
+      "credit": "Wikimedia Commons / Diego Delso"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Arctic-fox-Iceland.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Oslo_Opera_House_01.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "nr": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinnacles_(15413659312).jpg",
+      "credit": "Stefan Lins / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Frigatebird_at_Genovesa.JPG",
+      "credit": "Charles J Sharp / Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Christmas_Island_Frigatebird.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru-sunset.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "nz": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Auckland_skyline_from_Viaduct_Harbour.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiwi_aka.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 2.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuatara_Sphenodon_punctatus_standing_proud.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Milford_Sound_(New_Zealand).JPG",
+      "credit": "Wikimedia Commons / CC BY-SA 2.5"
+    }
+  },
+  "pa": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-13%2C_DD_18.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Harpia-harpyja-001.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Atelopus_zeteki1.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Panama_Canal_Gatun_Locks.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "pe": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_44.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/D%C3%BClmen%2C_B%C3%B6rnste%2C_Alpakas_--_2020_--_5462.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Andean_cock-of-the-rock_%28Rupicola_peruvianus_sanguinolentus%29_male_Antioquia.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Machu_Picchu,_Peru_(2018).jpg",
+      "credit": "Wikimedia Commons / Allard Schmidt"
+    }
+  },
+  "pf": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Papeete_et_Moorea_depuis_le_belv%C3%A9d%C3%A8re_de_P%C4%ABra%27e.jpg",
+      "credit": "Jérémie Silvestro (Avatea) / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Humpback_whale_(Megaptera_novaeangliae)_calf_Moorea_2.jpg",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Vini_peruviana_109891071.jpg",
+      "credit": "desertnaturalist / CC BY 4.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/BoraBora_SEtienne.jpg",
+      "credit": "Samuel Etienne / CC BY-SA 3.0"
+    }
+  },
+  "pg": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Plaques_on_the_Kokoda_Track_Memorial_Walk%2C_Kings_Park%2C_Western_Australia%2C_January_2021_03.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Paradisaea_raggiana_-Papua_New_Guinea-8.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Goodfellow%27s_tree-kangaroo_%28Dendrolagus_goodfellowi%29_in_Caversham_Wildlife_Park%2C_September_2023_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Officers_and_crew_of_LAURABADA%2C_c_1924_%288117915230%29.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "pl": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Wieliczka%2C_Jana_Matejki%3B_Kopalnia_soli-_kierat_konny_w%C4%99gierski%3B_A-580%3B_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bison_bonasus_%28Linnaeus_1758%29.jpg",
+      "credit": "Wikimedia Commons / Radomił Binek"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/White_Stork_%28Ciconia_ciconia%29_%285%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Warsaw_Old_Town%2C_Warsaw%2C_Poland_-_panoramio_%2841%29.jpg",
+      "credit": "Wikimedia Commons / Adrian Grycuk"
+    }
+  },
+  "pr": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/El_morro_view.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Female_guajon_frog_on_tree.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Puerto_Rican_Parrot_%2831354565161%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/San_Juan_Valley.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "pt": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Torre_de_Bel%C3%A9m,_Lisboa,_Portugal,_2012-05-12,_DD_14.JPG",
+      "credit": "Diego Delso / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Iberian_Lynx_fausto02.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Lobo_ib%C3%A9rico_(Canis_lupus_signatus).jpg",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisboa-lisbon-_panorama.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "pw": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ngerukewid-2016-aerial-view-Luka-Peternel.jpg",
+      "credit": "Luka Peternel / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Snorkeling_with_Jellyfish.jpg",
+      "credit": "Archipelago / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Dugong_Marsa_Alam.jpg",
+      "credit": "Julien Willem / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock-Islands-Palau-1-2016-aerial-view-Luka-Peternel.jpg",
+      "credit": "Luka Peternel / Wikimedia Commons CC BY-SA 4.0"
+    }
+  },
+  "py": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/General_view_-_Trinidad_(Paraguay).JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Capybara_(Hydrochoerus_hydrochaeris).JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Tamandu%C3%A1-bandeira_(Giant_anteater)_-_panoramio.jpg",
+      "credit": "Wikimedia Commons / panoramio"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Barragem_Itaipu.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ro": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Palace_of_Westminster%2C_London_-_Feb_2007.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Brown_bear_(Ursus_arctos_arctos)_running.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Pelecanus_onocrotalus_-_Zoo_Karlsruhe.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bran_Castle_TB1.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "rs": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Monastir_Studenica_I.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Specijalni_rezervat_prirode_Pa%C5%A1njaci_velike_droplje.JPG",
+      "credit": "Wikimedia Commons / Marek Szczepanek"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Belgrade_panorama.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ru": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Catedral_de_San_Basilio%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_05-06_HDR.jpg",
+      "credit": "Wikimedia Commons / Ludvig14"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sibirischer_tiger_de_edit02.jpg",
+      "credit": "Wikimedia Commons / Dave Pape"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bearded_Seal%2C_captive%2C_Hakone_Japan_200507.jpg",
+      "credit": "Wikimedia Commons / Sergey Gabdurakhmanov"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow_International_Business_Center.jpg",
+      "credit": "Wikimedia Commons / Sergei Korolev"
+    }
+  },
+  "rw": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Volcanoes_National_Park_Rwanda.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mountain_gorilla_%28Gorilla_beringei_beringei%29_eating.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Angola_Colobus_Monkey_1.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Leaving_Rwanda_for_Burundi_%28463813545%29.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "sb": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Honiara_(11523656143).jpg",
+      "credit": "Wikimedia Commons / US Embassy"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Eclectus_roratus-20030511.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_spotted_cuscus_(Spilocuscus_maculatus),_Natural_History_Museum,_London,_Mammals_Gallery.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Solomon_islands.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "sc": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoria_Clock_Tower_-_Seychelles.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Aldabra.giant.tortoise.arp.jpg",
+      "credit": "Wikimedia Commons / Adrian Pingstone"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Esmeralda_Aldabra_Giant_Tortoise_Seychelles.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Anse_Royale_Beach_-_Mahe_-_Seychelles.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "sd": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Sudan_Meroe_Pyramids_30sep2005_9.jpg",
+      "credit": "Fabrizio Demartis / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Nile_Crocodile_Side_View_2620px.jpg",
+      "credit": "Derek Ramsey / CC BY-SA 2.5"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Camelus_dromedarius_DT_-SD_Gedaret-_(1)_(21690127279).jpg",
+      "credit": "Diego Tirira / CC BY-SA 2.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Confluence_of_white_and_blue_Nile_(1)_(33202184844).jpg",
+      "credit": "Hans Birger Nilsen / CC BY-SA 2.0"
+    }
+  },
+  "se": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Drottningholm_Palace_Theatre_September_2011.jpg",
+      "credit": "Holger Ellgaard / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Moose_superior.jpg",
+      "credit": "Gunnar Ries / Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Wapiti_from_Wagon_Trails.jpg",
+      "credit": "Susanne Nilsson / Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Stockholm_panorama.jpg",
+      "credit": "Arild Vågen / Wikimedia Commons"
+    }
+  },
+  "si": {
+    "landmark": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons / Arne Hodalič"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Wikimedia Commons / Peter Dobrović"
+    }
+  },
+  "sk": {
+    "landmark": {
+      "source": "",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  },
+  "sl": {
+    "landmark": {
+      "source": "",
+      "credit": "Hussein Kefel / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Ben Costamagna / iNaturalist CC BY 4.0"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Adrian Pingstone / Wikimedia Commons PD"
+    },
+    "hero": {
+      "source": "",
+      "credit": "David Hond / Wikimedia Commons CC BY 2.0"
+    }
+  },
+  "sm": {
+    "landmark": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "sn": {
+    "landmark": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "so": {
+    "landmark": {
+      "source": "",
+      "credit": "John Pavelka / CC BY 2.0"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Jerome Bon / CC BY 2.0"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "frederic.salein / CC BY-SA 2.0"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Atmis Somalia / CC0"
+    }
+  },
+  "sr": {
+    "landmark": {
+      "source": "",
+      "credit": "Mark Ahsmann / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Frank Wouters / CC BY 2.0"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "-JvL- / CC BY 2.0"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Mark Ahsmann / CC BY-SA 3.0"
+    }
+  },
+  "ss": {
+    "landmark": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "st": {
+    "landmark": {
+      "source": "",
+      "credit": "Yakoo1986 / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Ji-Elle / CC BY-SA 4.0"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Ji-Elle / CC BY-SA 4.0"
+    }
+  },
+  "sv": {
+    "landmark": {
+      "source": "",
+      "credit": "Mariordo / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "gailhampshire / CC BY 2.0"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/White-tailed_deer.jpg",
+      "credit": "Santiago Ron (Jambato) / CC BY 4.0"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Jcortezchavarria / CC BY-SA 3.0"
+    }
+  },
+  "sz": {
+    "landmark": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "td": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Guelta_Maya%2C_Ennedi%2C_Tschad.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Elephant_du_parc_national_de_Zakouma.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Gazelles_of_Sunset.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Avenue_Maldom_bada_%28El_nimery%29.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "tg": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Palais_des_congr%C3%A8s_de_Lom%C3%A9_togo.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Loxodonta_africana_South_Luangwa_National_Park_%281%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Erythrocebus_patas_Oliwa.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Plage_de_Lom%C3%A9_au_Togo_(Afrique_de_l'Ouest).jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "tn": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Amphitheater_of_El_Jem.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Fennec_Fox_%40_Africa_Alive%2C_Lowestoft.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_Flamingos_MC.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Souq_in_the_Medina_of_Tunis_01.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "to": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ha%CA%BBamonga.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Humpback_Whale_underwater_shot.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Pteropus_tonganus.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Downtown_Nuku%27alofa.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "tr": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Hagia_Sophia_Mars_2013.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Loggerhead_Sea_Turtle_%28Caretta_caretta%29_2.jpg",
+      "credit": "Wikimedia Commons / Luc Viatour CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Van%2C_casa_del_gatto_di_van%2C_presso_la_facolt%C3%A0_di_veterinaria_dell%27universit%C3%A0_04.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/15_Temmuz_%C5%9Eehitler_K%C3%B6pr%C3%BCs%C3%BC.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  },
+  "tt": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Pitch_Lake.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Eudocimus_Ruber_Wading_KL.JPG",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Crown_Point_Beach_Tobago.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Port-of-Spain,_Trinidad_and_Tobago.JPG",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  },
+  "tv": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu_Funafuti_atoll_beach.jpg",
+      "credit": "Stefan Lins / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Hawaii_turtle_2.JPG",
+      "credit": "Brocken Inaglory / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Blacktip_reef_shark.%EF%BC%88Tsumaguro%EF%BC%89.JPG",
+      "credit": "Kakidai / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu_Funafuti_Atoll.JPG",
+      "credit": "Gabriella Jacobi / CC BY-SA 3.0"
+    }
+  },
+  "tz": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/TZ_ZNZ_Stone_Town_view.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Giraffa_camelopardalis_tippelskirchi_Massaigiraffe.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildebeest_Migration_in_Serengeti_National_Park,_Tanzania.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Kilimanjaro_from_Amboseli.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ua": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kij%C3%B3w_-_Sob%C3%B3r_M%C4%85dro%C5%9Bci_Bo%C5%BCej_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Equus_ferus_przewalskii_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Pelecanus_onocrotalus_-_Zoo_Karlsruhe.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kiev_Kiev_Pechersk_Lavra_Refectory_Church_IMG_6410_1725.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ug": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/An_elevated_wide_view_of_Murchison_falls_with_a_rainbow_reflection.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoebill,_Balaeniceps_rex_2,_JBP,_Nov_06.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountain_gorilla_breast_feeding.KMRA.jpg",
+      "credit": "Wikimedia Commons / KMRA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Kampala,_Uganda.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "us": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/USA_09847_Grand_Canyon_Luca_Galuzzi_2007.jpg",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/American_bison_k5680-1.jpg",
+      "credit": "Ilja Zeilmaker / Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Haliaeetus_leucocephalus_LC0195_edit_1.jpg",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/New_york_times_square-terabass.jpg",
+      "credit": "Terabass / Wikimedia Commons CC BY-SA 3.0"
+    }
+  },
+  "uy": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Faro_de_Colonia_del_Sacramento_Uruguay.JPG",
+      "credit": "Andrea Arriola / Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Capybara_(Hydrochoerus_hydrochaeris).JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Greater_rhea_(Rhea_americana).JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/PALACIO_LEGISLATIVO_01.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "va": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Vatican_Saint_Peter%27s_Square.JPG",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Erithacus_rubecula_001.JPG",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Vatican_City_and_St._Peter_Square_evening_twilight_aerial_view.jpg",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    }
+  },
+  "vc": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Guadeloupe_114_-_Sommet_de_la_Soufri%C3%A8re_1467m_-_Guadeloupe.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Amazonas_san_vicente.JPG",
+      "credit": "Wikimedia Commons / Drew Avery"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/TobagoCaysAerial.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_harbour_in_Kingstown%2C_Co._Dublin%2C_Ireland%2C_in_about_1895_-_Option_1.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "ve": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tepuis_en_Canaima-Venezuela13.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cattle_tyrant_%28Machetornis_rixosa%29_on_Capybara.jpg",
+      "credit": "Wikimedia Commons / Cody Pope"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Scarlet_Ibis%2C_Corocoro_Colorado_%28Eudocimus_ruber%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Salto_del_Angel-Canaima-Venezuela18.JPG",
+      "credit": "Wikimedia Commons / Paulo Brito"
+    }
+  },
+  "vu": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt_Yasur_volcano,_Tanna,_Vanuatu.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Coconut_Crab_(Birgus_latro),_Guam_(2).jpg",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Pteropus_tonganus.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Port_Vila_harbour,_Vanuatu,_2_June_2006_-_Flickr_-_PhillipC.jpg",
+      "credit": "PhillipC / CC BY 2.0"
+    }
+  },
+  "ws": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/To_Sua_Ocean_Trench_-_Lotofaga_village_-_Samoa.jpg",
+      "credit": "Neil (Flickr) / CC BY 2.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Pteropus_samoensis2.jpg",
+      "credit": "Paul Asman & Jill Lenoble / CC BY 2.0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Didunculus.jpg",
+      "credit": "Augustin Kramer, 1901 / Public domain"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Apia_Waterfront_(30099185820).jpg",
+      "credit": "Michael Coghlan / CC BY-SA 2.0"
+    }
+  },
+  "xk": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Prizren,_Stone_Bridge,_Sinan_Pasha_Mosque_and_City_Castle.jpg",
+      "credit": "Bujar I Gashi / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Tirana_Zoo_Balkan_Lynx_(OSCAL19_trip).jpg",
+      "credit": "Albinfo / CC0"
+    },
+    "animalB": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Eagle,_Milpitas_California.JPG",
+      "credit": "Shravans14 / CC BY-SA 3.0"
+    },
+    "hero": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Monumento_Newborn,_Pristina,_Kosovo,_2014-04-16,_DD_18.JPG",
+      "credit": "Diego Delso / CC BY-SA 3.0"
+    }
+  },
+  "za": {
+    "landmark": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Table_Mountain_DanieVDM.jpg",
+      "credit": "Wikimedia Commons / DanieVDM"
+    },
+    "animalA": {
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion_waiting_in_Namibia.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ping%C3%BCino_de_El_Cabo_%28Spheniscus_demersus%29%2C_Playa_de_Boulders%2C_Simon%27s_Town%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_34.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Green_Point_Stadium_under_construction.JPG",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "zm": {
+    "landmark": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Moose_in_Grand_Teton_National_Park_3_%288007698498%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Balaeniceps_rex_-East_Africa-8.jpg",
+      "credit": "Wikimedia Commons / Quartl"
+    },
+    "animalB": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hippo_pod_edit.jpg",
+      "credit": "Wikimedia Commons / Scott Kinmartin"
+    },
+    "hero": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Victoria_falls%2C_zambia.jpg",
+      "credit": "Wikimedia Commons / Ninara"
+    }
+  }
+}

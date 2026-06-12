@@ -1,0 +1,163 @@
+{
+  "name": "BOTSWANA",
+  "nativeName": "BW",
+  "romaji": "BOTSWANA",
+  "tagline": "Sky, sand & diamonds",
+  "region": "Southern Africa",
+  "coords": "-22.3°S, 24.7°E",
+  "fileNo": "BW1",
+  "langName": "Setswana",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C8B89A",
+    "ink": "#1E1A14",
+    "faint": "#7A6E5A",
+    "line": "#DDD0B8",
+    "accent": "#4A90C4",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/bw.svg",
+    "title": "Flag of Botswana",
+    "note": "Blue for rain; black & white for the zebra",
+    "keyColor": "#4A90C4",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Botswana is a sun-baked landlocked country in southern Africa — salt pans, vast elephant herds, a magical inland sea. Once among the world's poorest nations at independence in 1966, it struck diamonds and wisely spent the wealth on schools and hospitals. Today nearly 40% of the land is protected wildlife reserve.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Gaborone",
+      "sub": "Founded 1964, pop. ~270,000"
+    },
+    {
+      "label": "People",
+      "value": "2.36 million",
+      "sub": "Census 2022 — 4 ppl/km²"
+    },
+    {
+      "label": "Money",
+      "value": "Pula (BWP)",
+      "sub": "Pula means 'rain' — precious here"
+    },
+    {
+      "label": "Language",
+      "value": "Setswana",
+      "sub": "Also English (official)"
+    },
+    {
+      "label": "Land area",
+      "value": "581,730 km²",
+      "sub": "Similar in size to France"
+    },
+    {
+      "label": "Top point",
+      "value": "Monalanong",
+      "sub": "1,491 m — a gentle hill"
+    }
+  ],
+  "islands": [
+    "Gaborone",
+    "Francistown",
+    "Maun",
+    "Kasane",
+    "Serowe"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A sky full of salt & water",
+    "animals": "Land of the giants",
+    "culture": "Botho — the Ubuntu way",
+    "history": "From dust to diamonds",
+    "wows": "Things that'll blow your mind"
+  },
+  "geo": [
+    "Botswana is almost entirely flat — a giant sun-scorched plateau about 1,000 m above sea level. Around 70% is Kalahari, a semi-arid sandveld of golden grass and ancient dunes stretching in every direction.",
+    "Yet water works miracles here. The Okavango River fans into the world's largest inland delta — 22,000 km² of channels and islands. The Makgadikgadi salt pans, a drained ancient lake, gleam white as a mirror under the African sun."
+  ],
+  "animals": [
+    "Botswana has more elephants than any other country — 130,000 roam freely. Chobe River herds wade in at sunset alongside lions, leopards, wild dogs, hippos, and crocodiles, all in parks covering nearly 40% of the land.",
+    "The zebra is the national animal and its stripes inspired the flag's colours. Tens of thousands migrate across Makgadikgadi grasslands each year. The Okavango Delta alone hosts over 500 bird species."
+  ],
+  "culture": [
+    "The Tswana follow botho — the belief that a person is only truly a person through kindness and community. Greetings matter: rushing past without a warm 'Dumela' is considered rude. Seswaa, slow-cooked pounded beef, is the beloved national dish.",
+    "Marimba and drums keep time for harvest dances like the Setapa. The kgotla — an open-air meeting under a tree where every adult may speak — settles disputes and shapes policy, a tradition underpinning Botswana's proud democracy."
+  ],
+  "history": [
+    "At independence on 30 Sept 1966, Botswana was among the world's six poorest nations — just 12 km of paved roads, no universities, a population surviving on drought rations. Eight months later, geologists struck diamonds.",
+    "The government reinvested every pula of diamond revenue into schools, hospitals, and roads. Within three decades, Botswana achieved the world's fastest economic growth, becoming an upper-middle-income nation without a single coup."
+  ],
+  "wows": [
+    "Botswana has 130,000 elephants — more than any other nation on Earth.",
+    "The Okavango floods in the dry season: rains fall in Angola and arrive months later.",
+    "The Sewelô diamond (2019) weighed 1,758 carats — the 2nd-largest ever found.",
+    "'Pula!' means both 'rain' and 'cheers' — Botswana's currency and its toast.",
+    "Chobe National Park holds up to 50,000 elephants in a single protected area.",
+    "Makgadikgadi salt pans are so flat the stars reflect off the wet surface at night.",
+    "Botswana built 90%+ HIV treatment coverage in under a decade — a world record."
+  ],
+  "myths": [
+    {
+      "myth": "Botswana is all barren desert",
+      "fact": "The Kalahari gets enough rain for grasses and wildlife. The Okavango Delta in the north is a lush wetland — one of Africa's richest wild places."
+    },
+    {
+      "myth": "Botswana is a typical poor country",
+      "fact": "It is classified upper-middle-income by the World Bank — a remarkable rise from being one of the world's six poorest nations at independence in 1966."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Dumela",
+      "say": "doo-MEH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ke a leboga",
+      "say": "keh-ah-leh-BOH"
+    },
+    {
+      "en": "Please",
+      "jp": "Ka tswee",
+      "say": "kah-TSWEE"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ee",
+      "say": "ay"
+    },
+    {
+      "en": "Stay well",
+      "jp": "Sala sentle",
+      "say": "SAH-lah SEN-tleh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bw-hero.jpg",
+      "alt": "Aerial view of the Okavango Delta, Botswana",
+      "caption": "OKAVANGO DELTA — world's largest inland delta, a UNESCO World Heritage wetland",
+      "credit": "Diego Delso, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/bw-landmark.jpg",
+      "alt": "Makgadikgadi salt pans under a vast sky",
+      "caption": "MAKGADIKGADI PANS — one of Earth's largest salt flats, remnant of an ancient lake",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bw-animalA.jpg",
+      "alt": "African elephant in Botswana bush",
+      "caption": "AFRICAN ELEPHANT — Botswana hosts more elephants than any country on Earth",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bw-animalB.jpg",
+      "alt": "Burchell's zebra in golden Botswana grass",
+      "caption": "BURCHELL'S ZEBRA — the national animal, its stripes inspire Botswana's flag colours",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "GABON",
+  "nativeName": "GA",
+  "romaji": "GABON",
+  "tagline": "Africa's Last Eden",
+  "region": "Central Africa",
+  "coords": "0°N 12°E",
+  "fileNo": "083",
+  "langName": "French",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDDF",
+    "dot": "#C8BB9E",
+    "ink": "#1E2016",
+    "faint": "#7A7A55",
+    "line": "#DDD8C0",
+    "accent": "#009E60",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/ga.svg",
+    "title": "Flag of Gabon",
+    "note": "Green, yellow & blue — forest, sun, ocean",
+    "keyColor": "#009E60",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Gabon sits on Africa's Atlantic coast where the Equator runs through ancient rainforest. Over 80% of its land is jungle — sheltering forest elephants, silverback gorillas, and the mandrill, the world's most colourful monkey. Gabon has kept most of its trees standing, making it one of the planet's greatest carbon-absorbing green lungs.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Libreville",
+      "sub": "founded 1849, pop. ~900 k"
+    },
+    {
+      "label": "People",
+      "value": "2.54 million",
+      "sub": "est. 2024, World Bank"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "shared with 5 neighbours"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "official; 40+ local tongues"
+    },
+    {
+      "label": "Land area",
+      "value": "267,668 km²",
+      "sub": "about the size of New Zealand"
+    },
+    {
+      "label": "Top peak",
+      "value": "Mt Bengoué",
+      "sub": "1,070 m, northeast Gabon"
+    }
+  ],
+  "islands": [
+    "Libreville",
+    "Port-Gentil",
+    "Franceville",
+    "Oyem",
+    "Lambaréné"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A forest on the ocean's edge",
+    "animals": "Giants of the jungle",
+    "culture": "Drums, masks & wild iboga",
+    "history": "From canoes to oil rigs",
+    "wows": "Gabon's wow moments"
+  },
+  "geo": [
+    "Gabon straddles the Equator on Central Africa's Atlantic coast. Thick rainforest blankets over 80% of the land, threaded by the mighty Ogooué River — Gabon's highway for centuries — winding 1,200 km to the sea.",
+    "The coast swaps between white-sand beaches, mangrove swamps, and rocky coves. Inland, hills rise to the Chaillu Massif, where Lopé National Park holds ancient savanna ringed by jungle — a rare mix that UNESCO declared a world wonder."
+  ],
+  "animals": [
+    "Gabon shelters nearly 85,000 forest elephants — more than any other country. In Loango National Park you can watch them strolling along the beach, waves lapping at their feet, while hippos body-surf in the surf nearby.",
+    "The mandrill, the world's largest monkey with a vivid red-and-blue face, is Gabon's national animal. Around 35,000 western lowland gorillas live in the forests, and Lopé hosts the world's biggest recorded mandrill troop — over 1,400 strong."
+  ],
+  "culture": [
+    "Gabon has more than 40 ethnic groups, the largest being the Fang. The Bwiti spiritual tradition weaves ancestor veneration, polyrhythmic drumming, and the sacred iboga plant — a rainforest shrub now studied worldwide as a potential addiction medicine.",
+    "Music fills village life: the mvet harp-lute and wooden obala xylophone set the beat at festivals. Meals mix French influence with forest flavours — smoked fish, cassava, plantain, and fresh lobster along the coast."
+  ],
+  "history": [
+    "Portuguese sailors arrived in 1472 and named the estuary 'Gabão' for its cloak-like shape. France colonised it in the 1800s; Libreville was founded by freed enslaved people — its name literally means 'free town'.",
+    "Gabon won independence on 17 August 1960. Oil wealth in the 1970s made it one of Africa's richer nations. In 2021 it became the first African country paid cash — $17 million — for protecting its forests under the UN REDD+ programme."
+  ],
+  "wows": [
+    "Gabon absorbs more CO₂ than it produces — one of few countries on Earth that is a net carbon sink.",
+    "In Loango you can see elephants on the beach, hippos surfing, and offshore whales — all on the same day.",
+    "The iboga plant, declared a national treasure in 2000, is now studied as a treatment for drug addiction.",
+    "In 2002 Gabon created 13 national parks at once, protecting 11% of its land in a single conservation move.",
+    "Forest elephants are Gabon's 'mega-gardeners', scattering seeds across vast distances inside their dung.",
+    "Lopé holds 1,800 ancient rock carvings alongside gorillas — a rare UNESCO natural and cultural site.",
+    "Gabon's flag has a rare 3:4 ratio — shared by only DR Congo, Papua New Guinea, and San Marino."
+  ],
+  "myths": [
+    {
+      "myth": "Gabon is just jungle with nothing else",
+      "fact": "Gabon has a modern capital with skyscrapers and was one of Africa's wealthiest countries per person, sitting firmly in the upper-middle-income bracket."
+    },
+    {
+      "myth": "All African elephants are the same",
+      "fact": "Gabon's forest elephant is a separate species — smaller, with straighter tusks, living deep in jungle far from the savanna elephants most people picture."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Yes",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Au revoir",
+      "say": "oh-ruh-VWAH"
+    },
+    {
+      "en": "Elephant",
+      "jp": "Éléphant",
+      "say": "ay-lay-FAHN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ga-hero.jpg",
+      "alt": "Modern office buildings in downtown Libreville, Gabon",
+      "caption": "LIBREVILLE — the capital's modern skyline anchored by the Gabon Mining building.",
+      "credit": "Delrick Williams, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ga-landmark.jpg",
+      "alt": "Panoramic view of Lopé National Park savanna and forest",
+      "caption": "LOPÉ NATIONAL PARK — savanna meets rainforest in this UNESCO World Heritage Site.",
+      "credit": "Olly Griffin, CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ga-animalA.jpg",
+      "alt": "Forest elephant mother and calf in Loango National Park, Gabon",
+      "caption": "FOREST ELEPHANT — mother and calf in Loango, home to Earth's biggest elephant refuge.",
+      "credit": "Kurt Dundy, CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ga-animalB.jpg",
+      "alt": "Wild western lowland gorilla mother carrying baby in Loango National Park",
+      "caption": "WESTERN LOWLAND GORILLA — wild mother and baby foraging in Loango's rainforest.",
+      "credit": "TheLeftCoast, CC0 1.0"
+    }
+  }
+}

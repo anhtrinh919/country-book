@@ -1,0 +1,163 @@
+{
+  "name": "QATAR",
+  "nativeName": "قطر",
+  "romaji": "QATAR",
+  "tagline": "Sand, sea & soaring towers",
+  "region": "Middle East",
+  "coords": "25.3N, 51.2E",
+  "fileNo": "042",
+  "langName": "Arabic",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5ECD7",
+    "dot": "#C9B48E",
+    "ink": "#231F1A",
+    "faint": "#8B7355",
+    "line": "#DDD0B2",
+    "accent": "#8D1B3D",
+    "accent2": "#F0F0F0"
+  },
+  "flag": {
+    "assetPath": "/flags/qa.svg",
+    "title": "Flag of Qatar",
+    "note": "Maroon with white serrated border (9 points)",
+    "keyColor": "#8D1B3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Qatar is a small peninsula in the warm Persian Gulf — so flat its highest point is only 103 m tall. Once its people dived for pearls; today giant gas fields make it one of the world's richest countries. Gleaming towers, thundering camel races, and gentle dugongs grazing on sea-grass all share this sun-baked land of just 11,571 km².",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Doha",
+      "sub": "home to 80% of Qatar's population"
+    },
+    {
+      "label": "People",
+      "value": "3.21 million",
+      "sub": "Dec 2025, Planning Council"
+    },
+    {
+      "label": "Money",
+      "value": "Qatari Riyal",
+      "sub": "1 QAR ≈ 0.27 USD"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "English widely spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "11,571 km²",
+      "sub": "smaller than Connecticut, USA"
+    },
+    {
+      "label": "High point",
+      "value": "103 m",
+      "sub": "Qurayn Abu al Bawl hill"
+    }
+  ],
+  "islands": [
+    "Doha",
+    "Al Wakrah",
+    "Al Khor",
+    "Dukhan",
+    "Lusail"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A peninsula of sand & sea",
+    "animals": "Oryx, falcons & sea giants",
+    "culture": "Pearls, coffee & falconry",
+    "history": "From pearls to petrodollars",
+    "wows": "Wow-worthy Qatar facts"
+  },
+  "geo": [
+    "Qatar is a thumb-shaped peninsula, almost entirely flat with most land under 40 m. The coast stretches over 600 km, from sabkha salt flats in the north to Khor Al Adaid in the south, where giant sand dunes tumble straight into the Gulf.",
+    "Beneath Qatar's rocky surface lies the North Field — the world's largest non-associated natural-gas reservoir. The capital Doha has grown so fast that its glittering West Bay skyline barely existed 30 years ago."
+  ],
+  "animals": [
+    "The Arabian oryx — Qatar's national animal — was extinct in the wild by 1972. Careful breeding brought it back. This elegant white antelope with spear-like horns may have inspired the unicorn legend when seen side-on by ancient travellers.",
+    "Qatar hosts the world's second-largest dugong population — gentle sea-cow relatives grazing on Gulf sea-grass. Falcons are national treasures; owners carry them on gloved fists, and a falcon hospital in Souq Waqif treats injured birds for free."
+  ],
+  "culture": [
+    "Arabic coffee — bitter, cardamom-scented, poured into tiny handleless cups — is the first thing a Qatari host offers a guest. Refusing is rude; wiggling the cup means you've had enough. Dates always arrive alongside. This ritual has barely changed in centuries.",
+    "Falconry and camel racing define the sporting year. Races run September to March using robot jockeys — tiny remote-controlled figures on humps. The Museum of Islamic Art, designed by I. M. Pei, holds 1,400 years of Islamic treasures."
+  ],
+  "history": [
+    "For centuries Qatar's livelihood came from pearl diving. Men held stones between their toes, plunged without tanks, and surfaced with oysters. Qatar was a great pearling centre until the 1930s, when Japanese cultured pearls flooded the market and the industry collapsed.",
+    "Oil was discovered in 1939 and exported from 1949, transforming a poor peninsula into a wealthy nation. Qatar declared independence from Britain in 1971. Its first LNG cargo sailed to Japan in 1996, launching the gas era that funds today's stadiums and metro."
+  ],
+  "wows": [
+    "Qatar's North Field is the world's largest non-associated gas field, holding ~900 trillion cubic feet.",
+    "At ~US$76,000 GDP per person (2024), Qatar ranks among the five richest countries globally.",
+    "The 2022 FIFA World Cup was the first in the Middle East; all 8 stadiums within just 55 km.",
+    "Camel races use robot jockeys: remote-controlled devices, owners drive alongside in SUVs.",
+    "Qatar has one of the world's largest dugong populations; herds of 600+ graze its Gulf waters.",
+    "The Museum of Islamic Art sits on its own artificial island, designed by I. M. Pei at 91.",
+    "Qatar built a brand-new air-conditioned metro from scratch in seven years, opening 2019."
+  ],
+  "myths": [
+    {
+      "myth": "Qatar is just empty desert",
+      "fact": "Qatar has 600 km of coastline, mangrove forests, the Inland Sea (Khor Al Adaid) ringed by giant dunes, and one of the world's most futuristic skylines in Doha."
+    },
+    {
+      "myth": "Qatar has no history or culture",
+      "fact": "Qatar's oldest pearl bead dates to 4,600 BCE, its people have practiced falconry for centuries, and Doha hosts world-class museums including the Museum of Islamic Art."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Please",
+      "jp": "من فضلك",
+      "say": "min-FAD-lak"
+    },
+    {
+      "en": "Yes",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "Let's go!",
+      "jp": "يلا",
+      "say": "YAL-la"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/qa-landmark.jpg",
+      "alt": "Museum of Islamic Art with Doha skyline behind it",
+      "caption": "MUSEUM OF ISLAMIC ART — I. M. Pei's icon on its own island, Doha Corniche",
+      "credit": "Mohamod Fasil / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/qa-animalA.jpg",
+      "alt": "White Arabian oryx standing in desert reserve",
+      "caption": "ARABIAN ORYX — Qatar's national animal, saved from extinction by conservation",
+      "credit": "Charles J. Sharp / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/qa-animalB.jpg",
+      "alt": "Dugong swimming underwater",
+      "caption": "DUGONG — Qatar waters hold one of Earth's largest dugong populations",
+      "credit": "Gejuni / CC BY-SA 3.0"
+    },
+    "hero": {
+      "src": "/photos/qa-hero.jpg",
+      "alt": "Doha West Bay skyline at dawn with towers reflecting on water",
+      "caption": "DOHA SKYLINE — West Bay's towers glow at dawn, rising from the desert",
+      "credit": "Francisco Anzola / CC BY 2.0"
+    }
+  }
+}

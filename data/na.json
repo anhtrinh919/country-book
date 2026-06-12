@@ -1,0 +1,163 @@
+{
+  "name": "NAMIBIA",
+  "nativeName": "NA",
+  "romaji": "NAMIBIA",
+  "tagline": "Desert, stars & wild sky",
+  "region": "Southern Africa",
+  "coords": "-22.0°N, 17.0°E",
+  "fileNo": "068",
+  "langName": "Afrikaans",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#231F1A",
+    "faint": "#8A7A5A",
+    "line": "#DCCFAA",
+    "accent": "#003580",
+    "accent2": "#D4A017"
+  },
+  "flag": {
+    "assetPath": "/flags/na.svg",
+    "title": "Flag of Namibia",
+    "note": "Sun, blue, red & green diagonal bands",
+    "keyColor": "#003580",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Namibia is on Africa's south-west coast, where orange dunes meet the cold Atlantic. It has the world's oldest desert, Earth's darkest skies, and more wild cheetahs than almost anywhere. One of Africa's largest nations, yet fewer people live here than in many single cities — leaving vast space for elephants, oryx, and ancient rock art.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Windhoek",
+      "sub": "Highlands city at 1,654 m altitude"
+    },
+    {
+      "label": "People",
+      "value": "3.0 million",
+      "sub": "Est. 2023 — world's lowest density"
+    },
+    {
+      "label": "Money",
+      "value": "N$ Dollar",
+      "sub": "Pegged to South Africa's rand"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Afrikaans & Oshiwambo also spoken"
+    },
+    {
+      "label": "Land (km²)",
+      "value": "824,292",
+      "sub": "Bigger than France + Germany"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "2,573 m",
+      "sub": "Brandberg Mountain, Erongo Region"
+    }
+  ],
+  "islands": [
+    "Windhoek",
+    "Swakopmund",
+    "Lüderitz",
+    "Oshakati",
+    "Walvis Bay"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Dunes, desert & skeleton coast",
+    "animals": "Big cats & painted wolves",
+    "culture": "Ochre, drums & bratwurst",
+    "history": "Colonies, diamonds & freedom",
+    "wows": "7 wild surprises"
+  },
+  "geo": [
+    "Namibia wears three faces: the Namib Desert hugs the entire Atlantic coast — its red-orange dunes at Sossusvlei reach 325 metres tall. Strangely, a cold ocean current chills the air right next to those hot dunes, creating eerie morning fog on the beach.",
+    "Inland, rocky highlands give way to the Kalahari's thorny scrubland. In the north, the Etosha Pan is a giant flat salt lake that fills with flamingos after rain. Namibia has so few clouds that world-class stargazing observatories flourish under its ink-dark skies."
+  ],
+  "animals": [
+    "Namibia protects more free-roaming cheetahs than anywhere else — around 3,000 cats. Etosha National Park draws elephants, black rhinos, and lions to waterholes you can watch from floodlit hides at night. The Skeleton Coast hosts seal colonies 100,000 strong on a single beach.",
+    "Namibia's rivers hold hippos and crocodiles despite the surrounding desert. African wild dogs roam in packs through the bush. Sociable weavers build the world's largest bird nests — gigantic haystack structures shared by hundreds of birds in one tree."
+  ],
+  "culture": [
+    "Namibia has eleven national languages — spoken by Ovambo, Herero, Damara, and the ancient San people. The semi-nomadic Himba of the north coat their hair in red ochre paste, a tradition that doubles as sun protection and beauty.",
+    "Food blends African and German colonial flavours — both kapana (grilled street-meat) and bratwurst appear in Windhoek. Traditional music uses thumb pianos, drums, and throat singing. Namibia holds Africa's largest German-speaking community outside Germany."
+  ],
+  "history": [
+    "The San people have lived here for 20,000+ years, leaving hand-stencil paintings on Namibia's rocks. Germany colonised the land in the 1880s. Between 1904–08 German forces killed around 80,000 Herero and Nama people — widely called the 20th century's first genocide.",
+    "South Africa then ruled for 75 years. SWAPO's liberation struggle ended with independence on 21 March 1990 — Africa's last major decolonisation. Germany apologised for the genocide in 2021. Namibia is now one of Africa's most stable democracies."
+  ],
+  "wows": [
+    "The Namib Desert is around 55 million years old — the oldest desert on Earth.",
+    "Dune Big Daddy near Sossusvlei stands roughly 325 m — taller than the Eiffel Tower.",
+    "Namibia was the first nation to enshrine conservation in its constitution (1990).",
+    "The Skeleton Coast is named for whale bones and shipwrecks caused by thick coastal fog.",
+    "Namibia shelters around 3,000 free-roaming cheetahs — more than any other country.",
+    "Fish River Canyon is Africa's largest canyon: 160 km long and 550 m deep.",
+    "About 10% of the world's diamonds are mined from the seabed off Namibia's coast."
+  ],
+  "myths": [
+    {
+      "myth": "Namibia is just empty, lifeless desert",
+      "fact": "It holds extraordinary biodiversity — cheetahs, rhinos, desert elephants, 700+ bird species, and a coastline packed with seals and penguins."
+    },
+    {
+      "myth": "It never rains in Namibia",
+      "fact": "The north gets reliable summer rains; even the Namib blooms briefly after rare showers, carpeting sand with flowers."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hallo",
+      "say": "HAH-low"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Dankie",
+      "say": "DUNK-ee"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ja",
+      "say": "Yah"
+    },
+    {
+      "en": "Water",
+      "jp": "Water",
+      "say": "VAH-ter"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Pragtig",
+      "say": "PRAKH-tukh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/na-hero.jpg",
+      "alt": "Towering orange-red sand dunes of Sossusvlei under vivid blue sky",
+      "caption": "SOSSUSVLEI DUNES — among the tallest sand dunes on Earth, Namib Desert",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/na-landmark.jpg",
+      "alt": "Vast panorama of Fish River Canyon, Africa's largest canyon",
+      "caption": "FISH RIVER CANYON — Africa's largest canyon, 160 km long",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/na-animalA.jpg",
+      "alt": "Cheetah standing alert in Namibian savanna",
+      "caption": "CHEETAH — Namibia shelters more wild cheetahs than any other nation",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/na-animalB.jpg",
+      "alt": "Thousands of Cape fur seals crowded on a Skeleton Coast beach",
+      "caption": "CAPE FUR SEALS — up to 100,000 seals on a single Skeleton Coast beach",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

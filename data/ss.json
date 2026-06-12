@@ -1,0 +1,163 @@
+{
+  "name": "SOUTH SUDAN",
+  "nativeName": "SS",
+  "romaji": "SOUTH SUDAN",
+  "tagline": "Africa's Newest Nation",
+  "region": "East Africa",
+  "coords": "4.86°N, 31.57°E",
+  "fileNo": "193",
+  "langName": "Dinka",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CDBF96",
+    "ink": "#1E1A12",
+    "faint": "#8A7B55",
+    "line": "#DDD0A8",
+    "accent": "#078930",
+    "accent2": "#DA1C38"
+  },
+  "flag": {
+    "assetPath": "/flags/ss.svg",
+    "title": "South Sudan Flag",
+    "note": "3 stripes, blue triangle with gold star",
+    "keyColor": "#078930",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "South Sudan became the world's newest country on 9 July 2011, when nearly 99% of its people voted to break free from Sudan. The White Nile winds through vast papyrus swamps, cool highland forests rise in the south-east, and over 60 peoples speak their own languages. A remarkable nation still finding its feet.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Juba",
+      "sub": "On the White Nile"
+    },
+    {
+      "label": "People",
+      "value": "~11.9 m",
+      "sub": "UN estimate, 2024"
+    },
+    {
+      "label": "Money",
+      "value": "SS Pound",
+      "sub": "South Sudanese pound"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Plus 60+ local tongues"
+    },
+    {
+      "label": "Land area",
+      "value": "646,883 km²",
+      "sub": "Bigger than France"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "3,187 m",
+      "sub": "Mt Kinyeti, Imatong Mts"
+    }
+  ],
+  "islands": [
+    "Juba",
+    "Malakal",
+    "Wau",
+    "Bor",
+    "Yei"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Rivers, swamps & green hills",
+    "animals": "Giants of the migration",
+    "culture": "Cattle, song & celebration",
+    "history": "A long road to freedom",
+    "wows": "Seven wild wows"
+  },
+  "geo": [
+    "South Sudan sits on a vast flat basin drained by the White Nile. The Sudd — one of Earth's largest wetlands — swells bigger than Belgium in the wet season, becoming a maze of papyrus reeds, floating islands and pelican-filled lagoons.",
+    "In the south-east the land climbs to cool forested highlands where Mount Kinyeti reaches 3,187 m. Six countries share a border with South Sudan: Sudan, Ethiopia, Kenya, Uganda, DR Congo and Central African Republic."
+  ],
+  "animals": [
+    "The Sudd shelters the shoebill — a prehistoric-looking bird with a clog-shaped beak big enough to gulp a whole lungfish. The swampy flats are also home to the Nile lechwe, a chocolate antelope that wades chest-deep in water and lives almost nowhere else on Earth.",
+    "Every year around a million white-eared kob thunder across the Boma-Badingilo plains in one of the planet's biggest mammal migrations. Elephants, giraffes, lions and 400-plus bird species share this extraordinary landscape."
+  ],
+  "culture": [
+    "The Dinka — South Sudan's largest group — are devoted cattle-keepers. A family's herd is its bank account and wedding gift. Young men can name their favourite ox by its exact horn curve and coat pattern.",
+    "Music and wrestling fill celebrations. Women stack beaded necklaces from chin to chest; men mark their foreheads with V-shaped scars showing community ties. Sorghum porridge and fresh Nile fish are everyday staples."
+  ],
+  "history": [
+    "South Sudan's people fought for independence for over 50 years. When Sudan became independent in 1956, southern leaders were sidelined. A civil war raged on and off for decades, costing over a million lives and uprooting four million people.",
+    "Peace came in 2005, and on 9 July 2011 South Sudan raised its new flag — black, red, green and blue with a golden star — becoming Africa's 54th nation. Building stability remains a challenge, but its people's resolve is extraordinary."
+  ],
+  "wows": [
+    "South Sudan is the world's youngest country, born on 9 July 2011.",
+    "The Sudd swamp grows bigger than England during the rainy season.",
+    "About 75% of the old Sudan's oil reserves lie under South Sudan's plains.",
+    "The Boma kob migration may involve a million animals, rivalling the Serengeti.",
+    "Over 60 ethnic groups live here, speaking roughly 60 different languages.",
+    "Mount Kinyeti's forests feel like a different world from the hot Nile plains below.",
+    "The shoebill stands 1.5 m tall and belongs to a bird family entirely its own."
+  ],
+  "myths": [
+    {
+      "myth": "South Sudan is all desert like the north",
+      "fact": "Most of the country is tropical: lush savannas, dense highland forests, and one of Africa's largest swamps cover the land — very little desert exists at all."
+    },
+    {
+      "myth": "Independence was purely about oil",
+      "fact": "Oil helped fund the movement, but decades of cultural, religious and political exclusion drove the push for freedom long before large-scale oil production began."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Maalei",
+      "say": "mah-LAY"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Yin athin",
+      "say": "yin AH-tin"
+    },
+    {
+      "en": "Yes",
+      "jp": "Ee",
+      "say": "EH"
+    },
+    {
+      "en": "Water",
+      "jp": "Piu",
+      "say": "PEE-oo"
+    },
+    {
+      "en": "Good",
+      "jp": "Lek",
+      "say": "LEK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ss-hero.jpg",
+      "alt": "Street scene in Juba, South Sudan",
+      "caption": "JUBA — the capital city on the banks of the White Nile",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ss-landmark.jpg",
+      "alt": "Mount Kinyeti in the Imatong Mountains, South Sudan",
+      "caption": "MOUNT KINYETI — South Sudan's highest peak, Imatong Mountains",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ss-animalA.jpg",
+      "alt": "Shoebill stork with its distinctive massive beak",
+      "caption": "SHOEBILL — the giant clog-beaked bird of the Sudd wetlands",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ss-animalB.jpg",
+      "alt": "Neighbourhood scene in Gudele, Juba, South Sudan",
+      "caption": "JUBA STREETS — everyday life in Africa's newest capital city",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

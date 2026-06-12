@@ -1,0 +1,163 @@
+{
+  "name": "IRELAND",
+  "nativeName": "IE",
+  "romaji": "IRELAND",
+  "tagline": "The Emerald Isle",
+  "region": "Northwestern Europe",
+  "coords": "53°N, 8°W",
+  "fileNo": "037",
+  "langName": "Irish",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EFF5E8",
+    "dot": "#c4d4b0",
+    "ink": "#1e2a18",
+    "faint": "#7a8c6a",
+    "line": "#d4e0c4",
+    "accent": "#169B62",
+    "accent2": "#FF883E"
+  },
+  "flag": {
+    "assetPath": "/flags/ie.svg",
+    "title": "Irish Tricolour",
+    "note": "Green, white & orange — unity",
+    "keyColor": "#169B62",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ireland is a small island wrapped in forty shades of green at the western edge of Europe. Atlantic rain keeps everything lush. It has ancient castles, lively music in cosy pubs, and some of the friendliest people anywhere. More Irish people live abroad than on the island, spreading their stories and warmth to every corner of the world.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Dublin",
+      "sub": "Baile Átha Cliath in Irish"
+    },
+    {
+      "label": "People",
+      "value": "5.1 million",
+      "sub": "Republic est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Euro €",
+      "sub": "Joined eurozone 2002"
+    },
+    {
+      "label": "Language",
+      "value": "Irish/English",
+      "sub": "Both are official languages"
+    },
+    {
+      "label": "Land area",
+      "value": "70,273 km²",
+      "sub": "Republic; smaller than Portugal"
+    },
+    {
+      "label": "High point",
+      "value": "1,041 m",
+      "sub": "Carrauntoohil, County Kerry"
+    }
+  ],
+  "islands": [
+    "Dublin",
+    "Cork",
+    "Galway",
+    "Limerick",
+    "Kilkenny"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Cliffs, loughs & rolling green",
+    "animals": "Creatures of bog & wild coast",
+    "culture": "Music, myth & mighty craic",
+    "history": "Saints, Vikings & independence",
+    "wows": "Jaw-dropping Ireland facts"
+  },
+  "geo": [
+    "Ireland is a patchwork of emerald fields divided by stone walls, dotted with glassy lakes (loughs) and slow brown rivers. Rain falls about 150 days a year, keeping everything impossibly green.",
+    "The west coast is dramatic: the Cliffs of Moher rise 214 m from the Atlantic, and the Burren is a limestone plateau where Arctic, Alpine, and Mediterranean wildflowers all grow side by side."
+  ],
+  "animals": [
+    "Ireland's largest land mammal is the red deer, which roams Killarney National Park. Grey seals bob in cold bays, and harbour porpoises spin through offshore waves.",
+    "Boglands shelter the Irish hare — a chunkier cousin of the brown hare. White-tailed eagles were extinct here for a century but were reintroduced in 2007 and now soar over western lakes again."
+  ],
+  "culture": [
+    "Ireland is the only country whose national emblem is a musical instrument — the harp. Traditional sessions (seisiún) fill pubs with fiddles, flutes, and bodhrán drums, with no stage or schedule.",
+    "Storytelling is a national art. Ireland has four Nobel Prize-winning writers. Halloween began here as the ancient Celtic festival Samhain, when the veil between worlds grew thin."
+  ],
+  "history": [
+    "Irish monks kept learning alive through Europe's Dark Ages, copying manuscripts in island monasteries. Vikings raided in the 800s but settled too, founding Dublin around 841 CE as a trading town.",
+    "Britain ruled Ireland for centuries until the 1916 Easter Rising sparked a war for independence. The Irish Free State came in 1922; the Republic was formally proclaimed in 1949."
+  ],
+  "wows": [
+    "The Book of Kells (c. 800 CE) is so detailed monks may have used a lens centuries before invention.",
+    "No snakes live in Ireland — glaciers wiped them out; the sea stopped them returning, not St Patrick.",
+    "Guinness brewery signed a 9,000-year lease on its Dublin site in 1759 — and is still brewing there.",
+    "Newgrange tomb (3,200 BCE) predates Stonehenge and the Egyptian pyramids by hundreds of years.",
+    "Ireland exports more software than any other European country, home to dozens of global tech giants.",
+    "Irish Ogham script carved on standing stones is one of Europe's oldest alphabets, over 1,500 years old.",
+    "On winter solstice, sunrise shines perfectly down Newgrange's passage — engineered 5,000 years ago."
+  ],
+  "myths": [
+    {
+      "myth": "Ireland is always cold and grey",
+      "fact": "The Gulf Stream keeps Ireland mild — Dublin rarely sees snow, and daffodils often bloom in February, surprising most visitors."
+    },
+    {
+      "myth": "Irish people love leprechauns",
+      "fact": "Leprechauns are minor in real Irish folklore; locals find the tourist obsession more amusing than something they actually celebrate."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Dia dhuit",
+      "say": "dee-ah gwit"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Go raibh má",
+      "say": "guh rev mah"
+    },
+    {
+      "en": "Please",
+      "jp": "Le do thoil",
+      "say": "leh duh hull"
+    },
+    {
+      "en": "Cheers!",
+      "jp": "Sláinte!",
+      "say": "slawn-cha"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Fáilte",
+      "say": "fawl-cha"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ie-hero.jpg",
+      "alt": "Dublin city panorama with River Liffey and Ha'penny Bridge",
+      "caption": "DUBLIN — the River Liffey winds through Georgian spires and modern cranes.",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/ie-landmark.jpg",
+      "alt": "Cliffs of Moher rising dramatically from the Atlantic Ocean in County Clare",
+      "caption": "CLIFFS OF MOHER — 214 m of sheer rock facing the wild Atlantic, County Clare.",
+      "credit": "Ermell / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ie-animalA.jpg",
+      "alt": "Red deer stag with large antlers in green landscape",
+      "caption": "RED DEER — Ireland's largest land mammal, the majestic stag of Killarney.",
+      "credit": "Luc Viatour / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ie-animalB.jpg",
+      "alt": "White-tailed eagle soaring with wings fully spread",
+      "caption": "WHITE-TAILED EAGLE — extinct for 100 years, reintroduced and soaring since 2007.",
+      "credit": "Artie Wolfe / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

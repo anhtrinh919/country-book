@@ -1,0 +1,163 @@
+{
+  "name": "RWANDA",
+  "nativeName": "RW",
+  "romaji": "RWANDA",
+  "tagline": "Land of a Thousand Hills",
+  "region": "East Africa",
+  "coords": "1.94°S, 29.87°E",
+  "fileNo": "082",
+  "langName": "Kinyarwanda",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDDF",
+    "dot": "#C9BFA3",
+    "ink": "#1E1C18",
+    "faint": "#7A7055",
+    "line": "#DDD5BC",
+    "accent": "#20AF4F",
+    "accent2": "#1B4FA8"
+  },
+  "flag": {
+    "assetPath": "/flags/rw.svg",
+    "title": "Flag of Rwanda",
+    "note": "Blue, yellow & green with a gold sun",
+    "keyColor": "#20AF4F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Rwanda is a tiny landlocked country in the heart of Africa, so packed with steep green hills it earned the name \"Land of a Thousand Hills.\" Once torn apart by tragedy in 1994, it rebuilt itself into one of Africa's cleanest, safest nations — and the place where women hold more seats in parliament than anywhere else on Earth.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kigali",
+      "sub": "population ~1.3 million"
+    },
+    {
+      "label": "People",
+      "value": "14.5 million",
+      "sub": "est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Rwandan franc",
+      "sub": "RWF (~1,300/USD)"
+    },
+    {
+      "label": "Language",
+      "value": "Kinyarwanda",
+      "sub": "also English & French"
+    },
+    {
+      "label": "Land area",
+      "value": "26,338 km²",
+      "sub": "smaller than Maryland"
+    },
+    {
+      "label": "Highest peak",
+      "value": "Mt Karisimbi",
+      "sub": "4,507 m — a volcano!"
+    }
+  ],
+  "islands": [
+    "Kigali",
+    "Musanze",
+    "Huye",
+    "Rubavu",
+    "Nyagatare"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of hills & volcanoes",
+    "animals": "Gorillas in the mist",
+    "culture": "Crafts, drums & clean streets",
+    "history": "Rebuilding a nation",
+    "wows": "Wait — Rwanda did what?"
+  },
+  "geo": [
+    "Rwanda sits high above sea level — even its lowest valleys are about 1,000 m up. The whole country is crumpled into ridge after ridge of emerald hills, with river valleys draining into both the Congo and Nile basins.",
+    "In the north, the Virunga Volcanoes rear up like sleeping giants wrapped in cloud-forest. Lake Kivu gleams along the western border, while Nyungwe Forest in the south is one of Africa's oldest rainforests."
+  ],
+  "animals": [
+    "Rwanda's star animal is the mountain gorilla — a gentle giant living only in the Virunga and Bwindi forests. Fewer than 1,000 survive in the wild, and Rwanda protects roughly a third of them inside Volcanoes National Park.",
+    "Nyungwe Forest shelters chimpanzees and black-and-white colobus monkeys that leap between treetops in dramatic flashes. Over 700 bird species have been recorded across the country — a birdwatcher's paradise."
+  ],
+  "culture": [
+    "Rwandans celebrate Umuganura, a harvest festival, every August. Music and dance are central: the intore dance features warriors leaping dramatically in headdresses made of white sisal fibres that stream like waterfalls.",
+    "Basket-weaving is a national art — tightly coiled peace baskets (agaseke) hang in galleries worldwide. Every last Saturday of the month is Umuganda, community work day, when everyone sweeps streets and plants trees together."
+  ],
+  "history": [
+    "For centuries Rwanda was a powerful kingdom ruled by a mwami (king), famed for its organised army and cattle-rich culture. Belgian colonisers drew sharp ethnic divisions that planted seeds of terrible conflict.",
+    "In 1994, around 800,000 people were killed in just 100 days. But Rwandans chose reconciliation — community courts called gacaca heard over a million cases, and the country rebuilt with extraordinary speed and unity."
+  ],
+  "wows": [
+    "Rwanda's parliament is over 60% female — the highest proportion of any parliament in the world.",
+    "Kigali is rated Africa's cleanest city; plastic bags have been banned since 2008.",
+    "A single gorilla trek permit costs 1,500 USD — gorillas are Rwanda's top tourist earner.",
+    "Rwanda has no straight roads longer than about 30 km because the hills never stop.",
+    "Rwandans hold a communal work day every month; even the president picks up a shovel.",
+    "Lake Kivu sits on a vast pocket of dissolved methane Rwanda is piping up for electricity.",
+    "Despite being landlocked, Rwanda has a national sailing team that competes internationally."
+  ],
+  "myths": [
+    {
+      "myth": "Rwanda is still dangerous and war-torn",
+      "fact": "Rwanda is now one of Africa's safest countries — Kigali's streets are cleaner and safer than many European capitals, and tourist numbers hit record highs every year."
+    },
+    {
+      "myth": "Gorillas are aggressive and attack people",
+      "fact": "Mountain gorillas are shy and peaceful; habituated groups in Volcanoes Park largely ignore visitors, and no tourist has ever been seriously harmed on a trek."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Muraho",
+      "say": "moo-RAH-hoh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Murakoze",
+      "say": "moo-rah-KOH-zeh"
+    },
+    {
+      "en": "Please",
+      "jp": "Ndakubuza",
+      "say": "ndah-BOO-zah"
+    },
+    {
+      "en": "Yes",
+      "jp": "Yego",
+      "say": "YEH-goh"
+    },
+    {
+      "en": "Welcome",
+      "jp": "Murakaza",
+      "say": "moo-rah-KAH-zah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/rw-hero.jpg",
+      "alt": "Kigali City Tower and modern skyline on a clear day",
+      "caption": "KIGALI SKYLINE — Rwanda's capital, one of Africa's fastest-growing modern cities.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/rw-landmark.jpg",
+      "alt": "Virunga volcanoes rising above green foothills in Rwanda",
+      "caption": "VIRUNGA VOLCANOES — five dormant giants guard Rwanda's northern border.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/rw-animalA.jpg",
+      "alt": "Mountain gorilla sitting calmly in green vegetation",
+      "caption": "MOUNTAIN GORILLA — Rwanda shelters a third of the world's last wild gorillas.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/rw-animalB.jpg",
+      "alt": "Black-and-white colobus monkey perched in a rainforest tree",
+      "caption": "COLOBUS MONKEY — acrobatic leapers of Nyungwe's ancient rainforest canopy.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

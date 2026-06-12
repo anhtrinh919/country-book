@@ -1,0 +1,163 @@
+{
+  "name": "KOSOVO",
+  "nativeName": "Kosovë",
+  "romaji": "KOSOVË",
+  "tagline": "Europe's freshest nation",
+  "region": "Balkans, Southeast Europe",
+  "coords": "42.60°N, 20.90°E",
+  "fileNo": "XK",
+  "langName": "Albanian",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEE8D8",
+    "dot": "#C8BCA0",
+    "ink": "#1E1C18",
+    "faint": "#7A6E52",
+    "line": "#D8CEB6",
+    "accent": "#244AA5",
+    "accent2": "#F5CD00"
+  },
+  "flag": {
+    "assetPath": "/flags/xk.svg",
+    "title": "Flag of Kosovo",
+    "note": "Blue field, gold map, six white stars",
+    "keyColor": "#244AA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kosovo declared independence in 2008, making it Europe's newest country. Ringed by mountains in the western Balkans, its capital Pristina buzzes with cafés and street art. Tiny but mighty, Kosovo packs in medieval castles, wild mountain parks, and one of the youngest, liveliest populations on the continent.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Pristina",
+      "sub": "Largest city & political hub"
+    },
+    {
+      "label": "People",
+      "value": "1.60 million",
+      "sub": "2024 census result"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "Uses EU currency, not in EU"
+    },
+    {
+      "label": "Language",
+      "value": "Albanian",
+      "sub": "Serbian is also official"
+    },
+    {
+      "label": "Land area",
+      "value": "10,887 km²",
+      "sub": "About the size of Jamaica"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Gjeravica",
+      "sub": "2,656 m — Accursed Mountains"
+    }
+  ],
+  "islands": [
+    "Pristina",
+    "Prizren",
+    "Peja",
+    "Gjilan",
+    "Mitrovica"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Mountains, valleys & big skies",
+    "animals": "Wild creatures of the peaks",
+    "culture": "Coffee, dance & silver craft",
+    "history": "Empires, battles & new dawn",
+    "wows": "Wait — Kosovo does WHAT?"
+  },
+  "geo": [
+    "Kosovo sits like a bowl ringed by mountains. The Sharr range glitters in the south, the Accursed Mountains rise in the west, and fertile plains spread in the centre where farmers grow wheat and peppers. Rivers rush down from the peaks in every direction.",
+    "Because it is completely landlocked, Kosovo has no coast at all — the nearest sea is the Adriatic, about 200 km away. Crystal-clear mountain lakes and fast rivers more than compensate, drawing hikers from across the Balkans."
+  ],
+  "animals": [
+    "The rugged Sharr Mountains hide some of Europe's rarest creatures. The Balkan lynx — a spotted wild cat with tufted ears — prowls these forests in tiny numbers, making every camera-trap photo front-page news for conservationists.",
+    "Brown bears, grey wolves, and sure-footed chamois also roam Kosovo's peaks. Overhead the golden eagle soars; it appears so often in Albanian culture that Kosovo's national pride is bound up with this magnificent bird."
+  ],
+  "culture": [
+    "Kosovars love coffee and company. Whether it is a tiny espresso in a Pristina café or a slow sweet brew shared at home, coffee is how friendships are sealed. Guests are welcomed with food — refusing is considered impolite!",
+    "The traditional Albanian circle dance, the Valle, fills weddings and festivals with linked hands and rhythmic steps. Prizren is also famous for silver filigree jewellery — a delicate craft over 500 years old still made by hand today."
+  ],
+  "history": [
+    "Kosovo was the cultural heart of the medieval Serbian Kingdom in the 13th and 14th centuries, home to great monasteries and royal courts. Then in 1389 the Battle of Kosovo against the Ottoman Empire changed everything — still remembered in songs today.",
+    "The Ottomans ruled for nearly 500 years, leaving mosques, bazaars, and stone bridges in every town. After decades as part of Yugoslavia, Kosovo declared independence on 17 February 2008 — greeted by huge street parties across the country."
+  ],
+  "wows": [
+    "Kosovo declared independence in 2008 — making it younger than many smartphones.",
+    "Pristina's giant NEWBORN sculpture is repainted with a fresh design every year on independence day.",
+    "Kosovo uses the euro every day even though it is not a member of the EU.",
+    "A 6,000-year-old clay Goddess on the Throne found near Pristina is among Europe's oldest artworks.",
+    "The Rahovec region has made wine since Roman times and still exports bottles today.",
+    "Over 70% of Kosovo's people are under 35 — the youngest age profile in all of Europe.",
+    "Kosovo's flag shows a map of the country itself — only Cyprus does the same thing."
+  ],
+  "myths": [
+    {
+      "myth": "Kosovo is still a dangerous war zone",
+      "fact": "The 1998–99 conflict ended over 25 years ago. Kosovo is peaceful and popular with hikers and culture-seekers, rated safe by major travel advisories."
+    },
+    {
+      "myth": "Kosovo is not a real country",
+      "fact": "Over 100 nations — including the USA, UK, France, and Germany — recognise Kosovo, and it is a full member of the IMF and World Bank."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Përshëndetje",
+      "say": "per-shen-DET-yeh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Faleminderit",
+      "say": "fah-leh-min-DEET"
+    },
+    {
+      "en": "Please",
+      "jp": "Ju lutem",
+      "say": "yoo LOO-tem"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Mirupafshim",
+      "say": "meer-oo-PAF-shim"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "E shijshme!",
+      "say": "eh SHEESH-meh"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/xk-landmark.jpg",
+      "alt": "Stone Bridge and Sinan Pasha Mosque in Prizren, Kosovo",
+      "caption": "PRIZREN — the Ottoman stone bridge spans the Bistrica below the hilltop fortress.",
+      "credit": "Bujar I Gashi / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/xk-animalA.jpg",
+      "alt": "Balkan lynx at Tirana Zoo",
+      "caption": "BALKAN LYNX — fewer than 50 survive in the wild in the Balkans.",
+      "credit": "Albinfo / CC0"
+    },
+    "animalB": {
+      "src": "/photos/xk-animalB.jpg",
+      "alt": "Golden eagle perched on a post",
+      "caption": "GOLDEN EAGLE — soars over Kosovo's peaks, a symbol of Albanian pride.",
+      "credit": "Shravans14 / CC BY-SA 3.0"
+    },
+    "hero": {
+      "src": "/photos/xk-hero.jpg",
+      "alt": "NEWBORN monument in central Pristina",
+      "caption": "NEWBORN MONUMENT — unveiled on independence day 2008, repainted every year.",
+      "credit": "Diego Delso / CC BY-SA 3.0"
+    }
+  }
+}

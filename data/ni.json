@@ -1,0 +1,163 @@
+{
+  "name": "NICARAGUA",
+  "nativeName": "NI",
+  "romaji": "NICARAGUA",
+  "tagline": "Land of Lakes & Volcanoes",
+  "region": "Central America",
+  "coords": "12.87°N, 85.21°W",
+  "fileNo": "047",
+  "langName": "Spanish",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBB9A",
+    "ink": "#252018",
+    "faint": "#8A7A52",
+    "line": "#DDD0B2",
+    "accent": "#1A5EA0",
+    "accent2": "#C8B400"
+  },
+  "flag": {
+    "assetPath": "/flags/ni.svg",
+    "title": "Flag of Nicaragua",
+    "note": "Blue-white-blue with coat of arms",
+    "keyColor": "#1A5EA0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nicaragua is Central America's biggest country, flanked by two huge lakes and a chain of volcanoes. Sea turtles nest on Pacific beaches, howler monkeys roar through the jungle, and you can hike to an active volcano's glowing rim. Spanish is spoken everywhere, and people love poetry so much the country is nicknamed the \"land of poets\".",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Managua",
+      "sub": "Pop. ~1.05 million"
+    },
+    {
+      "label": "People",
+      "value": "6.9 million",
+      "sub": "Est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Córdoba",
+      "sub": "NIO — named for explorer"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "+ Miskito on coast"
+    },
+    {
+      "label": "Land area",
+      "value": "130,373 km²",
+      "sub": "Largest in C. America"
+    },
+    {
+      "label": "Highest peak",
+      "value": "Mogotón 2,085m",
+      "sub": "On Honduras border"
+    }
+  ],
+  "islands": [
+    "Managua",
+    "León",
+    "Granada",
+    "Masaya",
+    "Bluefields"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Volcanoes, lakes & two coasts",
+    "animals": "Jungle & shore creatures",
+    "culture": "Poets, hammocks & marimba",
+    "history": "From conquest to revolution",
+    "wows": "7 things to make you go wow!"
+  },
+  "geo": [
+    "Nicaragua sits between two huge lakes — Lake Nicaragua is so big it has freshwater sharks! A line of 19 volcanoes marches down the Pacific side, several still puffing smoke. The country touches both the Pacific Ocean and the Caribbean Sea.",
+    "The east coast, called the Mosquito Coast, is covered in vast rainforests and gets some of the most rainfall in the Americas. The drier Pacific side is where most cities and farms sit."
+  ],
+  "animals": [
+    "Lake Nicaragua has bull sharks — among the only sharks that can swim in freshwater. Hundreds of sea turtles haul up on La Flor beach each year in huge groups called 'arribadas'.",
+    "Howler monkeys are so loud their call carries 5 km through the jungle. Jaguars still roam the Caribbean rainforests, and the national bird, the turquoise-browed motmot, flicks its tail like a tiny pendulum clock."
+  ],
+  "culture": [
+    "Nicaragua is called the 'land of poets' — Rubén Darío changed Spanish literature worldwide in the 1800s. His face appears on the 100-córdoba note. Music and storytelling fill town squares every evening.",
+    "Hammocks woven in Masaya are exported all over the world, and the marimba (a big wooden xylophone) is the national instrument. Most meals centre on gallo pinto — rice and black beans served morning, noon, and night."
+  ],
+  "history": [
+    "Nicaragua was home to Indigenous peoples for thousands of years before Spanish conquistadors arrived in the 1520s. They built colonial cities like Granada and León, which became fierce rivals and even argued over which should be the capital.",
+    "Independence came in 1821, but the 1900s brought revolutions and civil war. The 1979 Sandinista revolution overthrew a dictatorship and became famous worldwide. Today Nicaragua is rebuilding and welcoming travellers to its volcanoes and lakes."
+  ],
+  "wows": [
+    "You can sandboard down Cerro Negro volcano — like snowboarding, but on hot black ash.",
+    "Lake Nicaragua holds the world's only freshwater bull sharks, which swim upriver from the sea.",
+    "Nicaragua has more volcanoes per km² than almost any other country on Earth.",
+    "Granada, founded 1524, is one of the oldest European-built cities still lived in the Americas.",
+    "Mombacho volcano near Granada is wrapped in cool cloud forest, even in the tropics.",
+    "Poet Rubén Darío launched Modernismo, a movement that swept Latin America and Spain.",
+    "The 365 tiny Isletas in Lake Nicaragua formed from a single eruption of Mombacho volcano."
+  ],
+  "myths": [
+    {
+      "myth": "Nicaragua is always dangerous",
+      "fact": "Nicaragua has a lower crime rate than several neighbours and is considered one of Central America's safer destinations, with growing tourism each year."
+    },
+    {
+      "myth": "The lake sharks are trapped",
+      "fact": "Bull sharks in Lake Nicaragua freely swim back and forth via the San Juan River to the Caribbean Sea — they leap rapids like salmon."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Volcano",
+      "jp": "Volcán",
+      "say": "vol-KAHN"
+    },
+    {
+      "en": "Lake",
+      "jp": "Lago",
+      "say": "LAH-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ni-hero.jpg",
+      "alt": "Managua lakefront malecon promenade at dusk",
+      "caption": "MANAGUA MALECÓN — the capital's lakeside promenade at sunset",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ni-landmark.jpg",
+      "alt": "Yellow colonial cathedral of Granada Nicaragua",
+      "caption": "GRANADA CATHEDRAL — colonial landmark in one of the Americas' oldest cities",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ni-animalA.jpg",
+      "alt": "Turquoise-browed motmot perched on a branch",
+      "caption": "MOTMOT — Nicaragua's national bird with its swinging pendulum tail",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ni-animalB.jpg",
+      "alt": "Mantled howler monkey in a tree",
+      "caption": "HOWLER MONKEY — its roar carries 5 km through the rainforest",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

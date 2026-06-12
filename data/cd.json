@@ -1,0 +1,163 @@
+{
+  "name": "DR CONGO",
+  "nativeName": "CD",
+  "romaji": "KONGO",
+  "tagline": "Heart of the jungle",
+  "region": "Central Africa",
+  "coords": "4°S, 21°E",
+  "fileNo": "059",
+  "langName": "Lingala",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9E",
+    "ink": "#231F1C",
+    "faint": "#8A7A5C",
+    "line": "#DDD0B0",
+    "accent": "#007FFF",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/cd.svg",
+    "title": "DRC Flag",
+    "note": "Sky blue, diagonal red stripe edged gold",
+    "keyColor": "#007FFF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "DR Congo is a giant rainforest nation in the heart of Africa. The Congo River snakes through jungles so vast they act like a second lung for our planet. More kinds of birds, fish, and primates live here than almost anywhere else, and beneath the floor lies a treasure chest of minerals that power the world's phones and batteries.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Kinshasa",
+      "sub": "pop. ~17 m; Africa's largest city"
+    },
+    {
+      "label": "People",
+      "value": "105 million",
+      "sub": "est. 2024; growing very fast"
+    },
+    {
+      "label": "Money",
+      "value": "Congolese Fr.",
+      "sub": "CDF; 1 USD ≈ 2,800 CDF"
+    },
+    {
+      "label": "Language",
+      "value": "French",
+      "sub": "Lingala, Swahili, Kikongo too"
+    },
+    {
+      "label": "Land area",
+      "value": "2.34 m km²",
+      "sub": "2nd largest country in Africa"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Margherita",
+      "sub": "5,109 m on the Rwenzori range"
+    }
+  ],
+  "islands": [
+    "Kinshasa",
+    "Lubumbashi",
+    "Goma",
+    "Kisangani",
+    "Mbuji-Mayi"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A river runs through it all",
+    "animals": "Jungle giants & river beasts",
+    "culture": "Music, colour & 200 peoples",
+    "history": "Kingdom, colony & freedom",
+    "wows": "Hard to believe but true!"
+  },
+  "geo": [
+    "The Congo River loops through the country like a giant question mark, draining a rainforest the size of Western Europe. Rains fall almost every day near the equator, keeping rivers brimming year-round.",
+    "To the east, the land rises into volcanoes and the Rwenzori 'Mountains of the Moon' — capped with glaciers right on the equator. Deep lakes like Tanganyika glitter between the peaks along the Great Rift Valley."
+  ],
+  "animals": [
+    "The DRC is the only place where okapis roam wild — shy, zebra-striped relatives of the giraffe. Mountain gorillas cling on in the Virunga volcanoes, and the Congo River holds over 700 fish species, including the fearsome goliath tigerfish.",
+    "Bonobos — our closest ape relatives — live only in forests south of the Congo River. Forest elephants, hippos, and the Congo peacock (found nowhere else on Earth) complete an astonishing wildlife roster."
+  ],
+  "culture": [
+    "Congo gave the world soukous — bouncy electric-guitar music that swept across Africa in the 1970s and still fills dance floors today. Kinshasa's sapeurs dress in spectacular tailored suits as living art and peaceful protest.",
+    "Over 200 ethnic groups produce carved wooden masks for ceremonies connecting the living with ancestors. Colourful wax-print kitenge fabrics are worn daily and inspire fashion designers worldwide."
+  ],
+  "history": [
+    "The Kongo Kingdom ruled much of Central Africa for centuries, trading copper and cloth across the continent. In the 1880s Belgian King Leopold II seized the land, forcing people to harvest rubber in conditions so brutal that millions died.",
+    "Congo gained independence on 30 June 1960. Leader Patrice Lumumba gave a bold speech demanding true freedom. Decades of dictatorship followed, but elections have been held and vast mineral wealth offers hope."
+  ],
+  "wows": [
+    "The Congo River plunges over 220 m deep — the deepest river on Earth.",
+    "DR Congo holds more than half of Africa's tropical rainforest.",
+    "No other river system on Earth has more freshwater fish species.",
+    "Kinshasa and Brazzaville are the world's closest pair of capital cities.",
+    "Almost every smartphone battery contains coltan mined in eastern Congo.",
+    "Bonobos are the only great apes known to be led by females.",
+    "Mount Nyiragongo holds one of Earth's largest active lava lakes, glowing orange at night."
+  ],
+  "myths": [
+    {
+      "myth": "Congo is all jungle",
+      "fact": "The east has glaciated mountains, active volcanoes, and high grasslands — dramatically different from the rainforest basin."
+    },
+    {
+      "myth": "It's too dangerous to visit",
+      "fact": "Most of the country, including Kinshasa, is peaceful and welcoming; conflict is focused in specific eastern border zones."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Mbote",
+      "say": "mm-BOH-teh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Merci",
+      "say": "MEHR-see"
+    },
+    {
+      "en": "Yes",
+      "jp": "Iyo",
+      "say": "EE-yoh"
+    },
+    {
+      "en": "Friend",
+      "jp": "Moninga",
+      "say": "moh-NING-ah"
+    },
+    {
+      "en": "River",
+      "jp": "Ebale",
+      "say": "eh-BAH-leh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cd-hero.jpg",
+      "alt": "Kinshasa city skyline seen from across the Congo River",
+      "caption": "KINSHASA — one of Africa's largest cities across the Congo River",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cd-landmark.jpg",
+      "alt": "Glowing lava lake inside Mount Nyiragongo crater",
+      "caption": "MT NYIRAGONGO — lava lake blazes inside this active Congo volcano",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cd-animalA.jpg",
+      "alt": "Okapi standing in forest showing its striped hindquarters",
+      "caption": "OKAPI — the zebra-striped forest giraffe found only in DR Congo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cd-animalB.jpg",
+      "alt": "Bonobo ape resting in greenery",
+      "caption": "BONOBO — our closest ape cousin lives only in Congo's forests",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

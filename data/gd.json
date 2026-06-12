@@ -1,0 +1,162 @@
+{
+  "name": "GRENADA",
+  "nativeName": "GD",
+  "romaji": "GRENADA",
+  "tagline": "Isle of Spice, Caribbean",
+  "region": "Caribbean",
+  "coords": "12.1°N, 61.7°W",
+  "fileNo": "082",
+  "langName": "Creole English",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F4EEE0",
+    "dot": "#c9b99a",
+    "ink": "#251e18",
+    "faint": "#877358",
+    "line": "#ddd0b8",
+    "accent": "#CE1126",
+    "accent2": "#009E60"
+  },
+  "flag": {
+    "assetPath": "/flags/gd.svg",
+    "title": "Flag of Grenada",
+    "note": "Gold-green triangles, red border, nutmeg",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Grenada is a tiny island nation in the southern Caribbean — so small you could drive around it in hours, yet it grows so much nutmeg that its spice fills kitchens worldwide. Rainforest mountains tumble to coral reefs and harbours lined with candy-coloured houses. Three islands, one big personality: warm, musical, and wonderfully fragrant.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "St. George's",
+      "sub": "Horseshoe harbour, SW coast"
+    },
+    {
+      "label": "People",
+      "value": "~117,000",
+      "sub": "World Bank est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "EC Dollar",
+      "sub": "Pegged to US$ since 1976"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Creole patois also spoken"
+    },
+    {
+      "label": "Land Area",
+      "value": "344 km²",
+      "sub": "About 3× the size of Malta"
+    },
+    {
+      "label": "High Point",
+      "value": "840 m",
+      "sub": "Mt St Catherine, rainforest peak"
+    }
+  ],
+  "islands": [
+    "Grenada",
+    "Carriacou",
+    "Petite Mart.",
+    "Ronde Island"
+  ],
+  "islandsLabel": "MAIN ISLANDS:",
+  "sections": {
+    "geography": "Volcanic spice isle & forest",
+    "animals": "Wild monkeys & ancient turtles",
+    "culture": "Drums, jab jab & oildown",
+    "history": "From Caribs to spice & freedom",
+    "wows": "Things that’ll blow your mind"
+  },
+  "geo": [
+    "Grenada's spine is a sleeping volcano draped in rainforest. Grand Etang Lake sits in an old crater at 530 m, cool and mirror-still, ringed by giant tree ferns and mist.",
+    "The capital St. George's curves around a horseshoe harbour. Colourful Georgian houses cling to the hillsides, and an 1894 tunnel cut through solid rock still carries traffic today."
+  ],
+  "animals": [
+    "Mona monkeys swing through Grand Etang's canopy — they arrived on slave ships from West Africa around 1760 and have lived wild ever since, bold enough to beg bananas from hikers.",
+    "Leatherback sea turtles haul ashore on Levera Beach each spring to bury eggs by moonlight. The Grenada dove, found nowhere else on Earth, is one of the rarest birds alive."
+  ],
+  "culture": [
+    "Grenada's biggest party is Spicemas, the August carnival. J'ouvert kicks off at 4 a.m.: Jab Jab revellers smear themselves in black oil and chains — a joyful act turning an old insult into proud celebration.",
+    "The national dish, oildown, simmers breadfruit, coconut milk, callaloo and salted meat in one big pot. Big Drum music and quadrille dancing, rooted in African and French traditions, fill village festivals year-round."
+  ],
+  "history": [
+    "Carib people called the island Camerhogne when Columbus spotted it in 1498. The French settled in 1649, then Britain took over in 1783 — leaving English laws, French place-names, and nutmeg plantations.",
+    "Grenada won independence on 7 February 1974 and put a nutmeg on its flag. In 1983 US troops landed during political turmoil — the only modern American military invasion of a Caribbean nation."
+  ],
+  "wows": [
+    "Grenada grows roughly 20% of the world’s nutmeg — volcanic soil makes its spice flavour exceptionally intense.",
+    "The world’s first underwater sculpture park is off Molinere Bay: 65 coral-covered statues just 5 m down.",
+    "A nutmeg pod appears on Grenada’s flag — the only country to feature a spice on its national flag.",
+    "Mona monkeys are native to West Africa yet have roamed Grenada’s rainforest wild for over 260 years.",
+    "St. George’s road tunnel was hand-drilled in 1894 through solid volcanic rock and is still in daily use.",
+    "Leatherback turtles predate the Caribbean Sea itself as a species — older than the islands they nest on.",
+    "Grenada levies no personal income tax — a big draw for retirees and remote workers worldwide."
+  ],
+  "myths": [
+    {
+      "myth": "Grenada is part of the Grenadines",
+      "fact": "They’re different places. The Grenadines are shared with St Vincent. Grenada is its own nation to the south, with Carriacou and Petite Martinique as its sister islands."
+    },
+    {
+      "myth": "Nutmeg trees grow fast",
+      "fact": "A nutmeg tree takes 7–9 years to bear first fruit and up to 20 years for full yield, making every jar the result of decade-long patience."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Wha happenin",
+      "say": "wha HAP-en-in"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tanks nuh",
+      "say": "tanks NOO"
+    },
+    {
+      "en": "Very good",
+      "jp": "Real good",
+      "say": "ree-uhl GOOD"
+    },
+    {
+      "en": "Friend",
+      "jp": "Pardner",
+      "say": "PARD-nuh"
+    },
+    {
+      "en": "Let's go",
+      "jp": "Come nuh",
+      "say": "kum NOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gd-hero.jpg",
+      "alt": "St. George's harbour panorama, Grenada",
+      "caption": "ST. GEORGE'S HARBOUR — pastel houses ring one of the Caribbean's finest ports",
+      "credit": "Wikimedia Commons / panoramio"
+    },
+    "landmark": {
+      "src": "/photos/gd-landmark.jpg",
+      "alt": "Underwater sculpture in Grenada's Molinere Bay",
+      "caption": "MOLINERE SCULPTURE PARK — world’s first underwater art gallery, now a coral reef",
+      "credit": "SunCat / Flickr via Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gd-animalA.jpg",
+      "alt": "Mona monkey and baby clinging to a branch",
+      "caption": "MONA MONKEY — descendants of African stowaways, wild in Grenada for 260+ years",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gd-animalB.jpg",
+      "alt": "Leatherback sea turtle on a beach at night",
+      "caption": "LEATHERBACK TURTLE — the ocean’s largest reptile nests on Levera Beach, Grenada",
+      "credit": "Wikimedia Commons / NPS USVI"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "UAE",
+  "nativeName": "الإمار",
+  "romaji": "AL-IMARAT",
+  "tagline": "Desert dreams, sky-high",
+  "region": "Middle East & Gulf",
+  "coords": "24°N · 54°E",
+  "fileNo": "042",
+  "flag": {
+    "assetPath": "/flags/ae.svg",
+    "title": "UAE Flag",
+    "note": "Red, green, white & black pan-Arab",
+    "keyColor": "#EF3340",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "The UAE is a sun-baked land where golden dunes meet the world's tallest skyscrapers. Seven kingdoms joined hands in 1971 to build one country on the Arabian Gulf. Today camels share roads with supercars and falcons soar over cities glowing like jewels in the desert night. Ancient Bedouin traditions and dazzling modern life sit side by side here.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Abu Dhabi",
+      "sub": "Built on an island in the Gulf"
+    },
+    {
+      "label": "People",
+      "value": "10.9 million",
+      "sub": "2024 est.; ~88% are expatriates"
+    },
+    {
+      "label": "Money",
+      "value": "Dirham AED",
+      "sub": "Pegged to the US dollar since 1997"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "English widely spoken everywhere"
+    },
+    {
+      "label": "Land area",
+      "value": "83,600 km²",
+      "sub": "Roughly the size of Portugal"
+    },
+    {
+      "label": "Top peak",
+      "value": "Jebel Jais",
+      "sub": "1,934 m, Ras Al Khaimah"
+    }
+  ],
+  "islands": [
+    "Abu Dhabi",
+    "Dubai",
+    "Sharjah",
+    "Fujairah",
+    "RAK"
+  ],
+  "islandsLabel": "MAIN EMIRATES:",
+  "sections": {
+    "geography": "Desert, dunes & two coasts",
+    "animals": "Falcons, camels & Gulf waters",
+    "culture": "Pearls, poetry & proud customs",
+    "history": "Bedouin trails to outer space",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "The UAE sits at the tip of the Arabian Peninsula, hugging two seas: the calm Arabian Gulf to the west and the wilder Gulf of Oman to the east. Most of the country is flat, scorching desert — huge dunes can grow taller than a ten-storey building, and summer heat can reach 50°C.",
+    "The rocky Hajar Mountains rise sharply in the east, cut through by wadis that flash-flood after rare rains. Abu Dhabi sits on a flat island, while Dubai stretches along the coast. The sky above is almost always a blazing, cloudless blue."
+  ],
+  "animals": [
+    "The peregrine falcon is the UAE's most treasured animal — a living symbol of Bedouin heritage. Falconers spend fortunes training these swift hunters, which dive at over 300 km/h. Emirati falcons even get their own passports to travel to competitions abroad!",
+    "The Arabian camel once carried everything across the desert. Today camels race at special tracks, watched by robot jockeys! Dugongs, whale sharks, and hawksbill turtles also live in the warm, shallow Gulf waters nearby."
+  ],
+  "culture": [
+    "Emirati culture is built on generosity. A guest is always offered qahwa — cardamom coffee — and sweet dates. Refusing is rude! Traditional dress, the white kandura for men and the black abaya for women, is worn with pride even inside glass skyscrapers.",
+    "Poetry is a national obsession: huge televised poetry slams draw millions of viewers. The Friday souq (market) buzzes with spices, gold, and gossip. Traditional wooden dhow boats, once used for pearl diving, are still sailed at heritage festivals every year."
+  ],
+  "history": [
+    "For thousands of years, Bedouin tribes herded camels here while coastal communities dove for Gulf pearls sold as far away as India and Europe. In the early 1900s cheap Japanese cultured pearls flooded markets and nearly destroyed the trade overnight.",
+    "Oil was found in Abu Dhabi in 1958 and everything changed. Seven sheikhdoms united as the UAE on 2 December 1971. In just 50 years the country leapt from mud-brick villages to a nation with a Mars spacecraft and cities built on the sea."
+  ],
+  "wows": [
+    "The Burj Khalifa stands 828 m tall — the tallest building on Earth, with its own weather at the top.",
+    "Palm Jumeirah is a man-made island shaped like a palm tree, built from 94 million m³ of Gulf sand.",
+    "The UAE reached Mars on its very first try in 2021 — only four other nations had ever done it before.",
+    "Abu Dhabi's Louvre is the first universal art museum in the Arab world, inspired by the Paris original.",
+    "The UAE has zero personal income tax — every resident keeps every single dirham they earn.",
+    "Emirati falcons carry official passports so they can fly with their owners to hunting trips abroad.",
+    "Ski Dubai is a real indoor ski slope with actual snow inside a mall in one of Earth's hottest countries."
+  ],
+  "myths": [
+    {
+      "myth": "\"The UAE is just Dubai\"",
+      "fact": "Dubai is the most famous emirate, but Abu Dhabi is the capital and covers 87% of the country's land. The UAE has seven emirates in total."
+    },
+    {
+      "myth": "\"It's all built on oil money\"",
+      "fact": "Oil once funded everything, but today tourism, finance, and trade make up over 70% of Dubai's economy — built to thrive after the oil runs out."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "Mar-HAH-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Welcome",
+      "jp": "أهلا وسهلا",
+      "say": "AH-lan wa-SAH-lan"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "لذيذ",
+      "say": "La-DHEEZ"
+    },
+    {
+      "en": "Peace",
+      "jp": "سلام",
+      "say": "Sa-LAM"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ae-hero.jpg",
+      "alt": "Looking straight up at the Burj Khalifa against blue sky",
+      "caption": "BURJ KHALIFA soars 828 m above Dubai — the tallest building on Earth.",
+      "credit": "Donaldytong / Wikimedia Commons CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/ae-landmark.jpg",
+      "alt": "Sheikh Zayed Grand Mosque white domes reflected in pools",
+      "caption": "SHEIKH ZAYED MOSQUE gleams with 82 white domes in Abu Dhabi.",
+      "credit": "Sergio Pessolano / Wikimedia Commons CC BY"
+    },
+    "animalA": {
+      "src": "/photos/ae-animalA.jpg",
+      "alt": "Peregrine falcon perched and looking alert",
+      "caption": "PEREGRINE FALCON — the UAE's national bird, trained for centuries.",
+      "credit": "Quartl / Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/ae-animalB.jpg",
+      "alt": "Camels walking across sandy desert dunes",
+      "caption": "ARABIAN CAMELS cross the desert — the legendary ship of the sands.",
+      "credit": "Berthold Werner / Wikimedia Commons CC BY-SA"
+    }
+  },
+  "theme": {
+    "paper": "#F3E8CC",
+    "dot": "#CCBA96",
+    "ink": "#2B2118",
+    "faint": "#8C7A52",
+    "line": "#DDD0B0",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "motif": "chevron",
+  "langName": "Arabic"
+}

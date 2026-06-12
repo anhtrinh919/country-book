@@ -1,0 +1,163 @@
+{
+  "name": "SLOVENIA",
+  "nativeName": "SI",
+  "romaji": "SLOVENIJA",
+  "tagline": "Alpine jewel of Europe",
+  "region": "Central Europe / Balkans",
+  "coords": "46.1°N, 14.9°E",
+  "fileNo": "068",
+  "langName": "Slovenian",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E8",
+    "dot": "#c8ccbc",
+    "ink": "#252820",
+    "faint": "#7a8060",
+    "line": "#d4d8c8",
+    "accent": "#003DA5",
+    "accent2": "#E4002B"
+  },
+  "flag": {
+    "assetPath": "/flags/si.svg",
+    "title": "Flag of Slovenia",
+    "note": "Blue, white & red with Triglav crest",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Slovenia is tiny but spectacular: Alpine peaks, turquoise rivers and ancient caves fill a space smaller than Wales. Drive from snowy mountains to an Adriatic beach in under two hours. About 2 million people call it home, speaking Slovenian. The capital Ljubljana nestles beneath a hilltop castle on a winding river.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Ljubljana",
+      "sub": "pop. ~298,000 (2024 est.)"
+    },
+    {
+      "label": "People",
+      "value": "2.12 million",
+      "sub": "official estimate 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Euro (€)",
+      "sub": "joined Eurozone 2007"
+    },
+    {
+      "label": "Language",
+      "value": "Slovenian",
+      "sub": "South Slavic, ~2.5M speakers"
+    },
+    {
+      "label": "Land area",
+      "value": "20,271 km²",
+      "sub": "smaller than Wales"
+    },
+    {
+      "label": "Highest pt.",
+      "value": "Triglav 2,864m",
+      "sub": "symbol on flag & coat of arms"
+    }
+  ],
+  "islands": [
+    "Ljubljana",
+    "Maribor",
+    "Triglav",
+    "Piran",
+    "Postojna"
+  ],
+  "islandsLabel": "KEY PLACES:",
+  "sections": {
+    "geography": "Alps, caves & tiny coast",
+    "animals": "Bears, lynx & fat dormice",
+    "culture": "Castles, beehives & bees",
+    "history": "From Romans to independence",
+    "wows": "7 surprising Slovenia facts"
+  },
+  "geo": [
+    "Slovenia packs four landscapes into one small country. The Julian Alps crown the north-west with jagged peaks, while the Karst plateau hides Postojna Cave — 24 km of underground passages. The Soča River runs an impossible neon-blue through mountain valleys.",
+    "More than 58% of Slovenia is forest — one of Europe's highest ratios. It borders Italy, Austria, Hungary and Croatia. Its Adriatic coastline is just 47 km long, yet includes the medieval gem Piran and a busy harbour at Koper."
+  ],
+  "animals": [
+    "Slovenia's forests shelter predators that have vanished from most of Europe. Around 1,000 brown bears roam the southern Kočevje forests — one of the continent's densest populations. Eurasian lynx, grey wolves and golden eagles also live here freely.",
+    "The Olm is a blind, pale salamander found only in Karst caves; it survives ten years without food and can live over a century. The fat dormouse inspired a folk harvest hunt, and the Carniolan honeybee is prized worldwide for its gentle nature."
+  ],
+  "culture": [
+    "Slovenians are passionate beekeepers — the Carniolan bee is a protected symbol, and painted beehive panels (panjske končnice) form a vivid folk art centuries old. Slovenia's beekeeping tradition is on the UNESCO Intangible Heritage list.",
+    "Food means hearty mountain fare: žlikrofi dumplings, štruklji pastry and potica — a walnut-spiral cake for every celebration. Ljubljana's old town is car-free and café-lined, ranking among Europe's greenest capitals."
+  ],
+  "history": [
+    "Roman roads crossed Slovenia 2,000 years ago — the city of Emona (today's Ljubljana) bustled by 14 AD. After Rome fell, Slavic tribes arrived in the 6th century; the region then spent centuries under Habsburg Austrian rule.",
+    "After WWI, Slovenia joined Yugoslavia. Independence came 25 June 1991; a ten-day war followed before Yugoslav forces withdrew. Slovenia joined NATO and the EU in 2004, then adopted the Euro in 2007 — first ex-Yugoslav republic to do so."
+  ],
+  "wows": [
+    "Slovenia is the only country whose name contains the word 'love' (Slo-LOVE-nia).",
+    "Postojna Cave has its own railway — tiny electric trains have run inside since 1872.",
+    "The blind Olm salamander can live over 100 years, one of the longest-lived amphibians known.",
+    "Slovenia has more than 14,000 caves — one of Earth's highest cave densities per km².",
+    "The Soča River glows vivid turquoise, visible from the hillsides above.",
+    "Ljubljana's entire historic core went car-free in 2007 — locals walk or cycle inside.",
+    "Slovenia gave the UN World Bee Day — 20 May, birthday of Anton Janša, history's first imperial bee teacher."
+  ],
+  "myths": [
+    {
+      "myth": "Slovenia and Slovakia are the same place",
+      "fact": "They are two entirely separate countries with different languages, histories and locations. Slovakia borders Poland; Slovenia borders Italy and Austria."
+    },
+    {
+      "myth": "Slovenia is Balkan and war-torn like neighbours",
+      "fact": "Slovenia's 1991 independence war lasted just ten days. It has been a stable EU and NATO member since 2004, among the most prosperous ex-communist states."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Zdravo",
+      "say": "ZDRA-voh"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "Please",
+      "jp": "Prosim",
+      "say": "PROH-seem"
+    },
+    {
+      "en": "Bear",
+      "jp": "Medved",
+      "say": "MED-ved"
+    },
+    {
+      "en": "Cave",
+      "jp": "Jama",
+      "say": "YAH-mah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/si-hero.jpg",
+      "alt": "Ljubljana old town reflected in the Ljubljanica river at dusk",
+      "caption": "LJUBLJANA — car-free capital mirrors its castle hill in the river",
+      "credit": "Wikimedia Commons / Peter Dobrović"
+    },
+    "landmark": {
+      "src": "/photos/si-landmark.jpg",
+      "alt": "Electric tourist train inside Postojna Cave",
+      "caption": "POSTOJNA CAVE — electric trains ferry visitors since 1872",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/si-animalA.jpg",
+      "alt": "Brown bear running through a forest",
+      "caption": "BROWN BEAR — ~1,000 roam Slovenia's forests, Europe's densest population",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/si-animalB.jpg",
+      "alt": "Pale cave-dwelling Olm salamander underwater",
+      "caption": "OLM — blind 'human fish' of Karst caves, lives 100+ years",
+      "credit": "Wikimedia Commons / Arne Hodalič"
+    }
+  }
+}

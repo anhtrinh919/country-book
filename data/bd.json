@@ -1,0 +1,163 @@
+{
+  "name": "BANGLADESH",
+  "nativeName": "বাংলা",
+  "romaji": "BANGLADESH",
+  "tagline": "The river's green heart",
+  "region": "South Asia",
+  "coords": "23.7°N, 90.4°E",
+  "fileNo": "BD",
+  "langName": "Bengali",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EFE2",
+    "dot": "#C8C2A8",
+    "ink": "#1E2318",
+    "faint": "#7A7A60",
+    "line": "#D8D5BF",
+    "accent": "#006A4E",
+    "accent2": "#F42A41"
+  },
+  "flag": {
+    "assetPath": "/flags/bd.svg",
+    "title": "Flag of Bangladesh",
+    "note": "Green field, red disc offset to centre",
+    "keyColor": "#006A4E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bangladesh is a low-lying land where three great rivers fan into the world's largest delta. More people live here than in Russia, squeezed into a country smaller than England. The Sundarbans — the planet's biggest mangrove forest — hides swimming tigers. Rice paddies turn every flat field brilliant green each monsoon.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Dhaka",
+      "sub": "Population ~24 million (metro)"
+    },
+    {
+      "label": "People",
+      "value": "173.6 million",
+      "sub": "World Bank est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Taka (৳)",
+      "sub": "BDT — 100 paisa = 1 taka"
+    },
+    {
+      "label": "Language",
+      "value": "Bengali",
+      "sub": "Also called Bangla"
+    },
+    {
+      "label": "Land area",
+      "value": "148,460 km²",
+      "sub": "Smaller than England"
+    },
+    {
+      "label": "Top peak",
+      "value": "Saka Haphong",
+      "sub": "1,063 m — Chittagong Hills"
+    }
+  ],
+  "islands": [
+    "Dhaka",
+    "Chittagong",
+    "Sylhet",
+    "Rajshahi",
+    "Khulna"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A land of rivers & delta",
+    "animals": "Tigers, fish & big birds",
+    "culture": "Rice, music & bright cloth",
+    "history": "From Bengal to freedom",
+    "wows": "7 things that'll stun you"
+  },
+  "geo": [
+    "Bangladesh sits almost entirely on a giant river delta — flat, green, crisscrossed by over 700 rivers. Every monsoon, floods cover a third of the land but deposit rich mud making the soil incredibly fertile.",
+    "In the south-west, the Sundarbans mangrove forest straddles the border with India. Its tangle of roots and tidal creeks stretches 10,200 km² — the world's largest mangrove and a UNESCO World Heritage Site."
+  ],
+  "animals": [
+    "The Royal Bengal Tiger is Bangladesh's national animal. About 125 tigers roam the Sundarbans, swimming between islands through salty channels — the only sea-swimming tiger population on the planet.",
+    "The Hilsa (Ilish) is the national fish and a cultural treasure. Bangladesh supplies 86 % of the world's Hilsa catch. Fishers say those from the Padma River taste the finest — rich, fatty, and beloved at every feast."
+  ],
+  "culture": [
+    "Bengali culture revolves around music, poetry, and rice. Rabindranath Tagore — born in this region — wrote thousands of songs; his poem became Bangladesh's national anthem. The spring festival Pahela Baishakh fills streets with bright orange-and-white clothes.",
+    "Dhaka is famous for Jamdani weaving — a UNESCO-listed craft where weavers create shimmering floral muslin entirely from memory. Bangladesh is also the world's second-largest garment exporter, clothing billions of people globally."
+  ],
+  "history": [
+    "For centuries this was the heart of Bengal — a wealthy rice-and-muslin kingdom prized by Mughal emperors and British traders alike. The British East India Company made Dhaka a cloth capital, though exploitation slowly drained its wealth.",
+    "In 1971, Bangladesh fought a nine-month Liberation War for independence from Pakistan. After tremendous loss of life, victory came on 16 December — still celebrated as Victory Day — making it one of the world's youngest nations."
+  ],
+  "wows": [
+    "Bangladesh is home to the world's largest river delta, where the Ganges and Brahmaputra meet the sea.",
+    "The Sundarbans' tigers swim in saltwater and hunt at sea — no other tiger population does this.",
+    "Bangladesh produces 86 % of the entire world's supply of Hilsa fish.",
+    "Dhaka has around 44,000 people per km² — one of the densest cities on Earth, per UN Habitat data.",
+    "Mughal emperors called Dhaka muslin 'woven air'; the craft is now UNESCO-listed heritage.",
+    "The Padma Bridge (2022) is 6.15 km long, built entirely with Bangladesh's own funds.",
+    "Tagore's poems became the national anthems of two nations — Bangladesh AND India."
+  ],
+  "myths": [
+    {
+      "myth": "Bangladesh is always flooding",
+      "fact": "Seasonal floods cover a third of the land but deposit rich silt, making soil so fertile that farmers grow three rice crops a year. Floods are a lifeline, not only a disaster."
+    },
+    {
+      "myth": "It's one of the poorest nations",
+      "fact": "Bangladesh has lifted millions from poverty since 1990, becoming a lower-middle-income country and the world's second-largest garment exporter."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "আস-সালামু",
+      "say": "As-salam alaykum"
+    },
+    {
+      "en": "Thank you",
+      "jp": "ধন্যবাদ",
+      "say": "Dhon-no-bad"
+    },
+    {
+      "en": "Yes",
+      "jp": "হ্যাঁ",
+      "say": "Hya"
+    },
+    {
+      "en": "Rice",
+      "jp": "ভাত",
+      "say": "Bhat"
+    },
+    {
+      "en": "River",
+      "jp": "নদী",
+      "say": "No-dee"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/bd-landmark.jpg",
+      "alt": "Jatiyo Sangsad Bhaban parliament building reflected in surrounding water",
+      "caption": "JATIYO SANGSAD BHABAN — Louis Kahn's parliament, Dhaka",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bd-animalA.jpg",
+      "alt": "Royal Bengal Tiger walking through shallow water",
+      "caption": "ROYAL BENGAL TIGER — national animal, wild in the Sundarbans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bd-animalB.jpg",
+      "alt": "Silvery Hilsa fish laid out at a market",
+      "caption": "HILSA FISH — Bangladesh supplies 86 % of the world's catch",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "src": "/photos/bd-hero.jpg",
+      "alt": "Padma Bridge stretching across the wide Padma River",
+      "caption": "PADMA BRIDGE — 6.15 km, built with Bangladesh's own funds, 2022",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

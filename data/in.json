@@ -1,0 +1,163 @@
+{
+  "name": "INDIA",
+  "nativeName": "भारत",
+  "romaji": "BHARAT",
+  "tagline": "Land of spice & wonder",
+  "region": "South Asia",
+  "coords": "28°N · 77°E",
+  "fileNo": "IN",
+  "flag": {
+    "assetPath": "/flags/in.svg",
+    "title": "Tiranga",
+    "note": "Saffron, white & green + Ashoka Chakra",
+    "keyColor": "#FF9933",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "India is the world's most populous country — over 1.4 billion people, hundreds of languages, scorching deserts, snowy peaks, and ancient cities older than most nations. It gave the world the number zero, chess, and yoga. From the mighty Himalaya in the north to tropical beaches in the south, no two corners of India feel quite the same.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "New Delhi",
+      "sub": "inside the mega-city of Delhi"
+    },
+    {
+      "label": "People",
+      "value": "1.44 billion",
+      "sub": "est. 2024 — world's most populous"
+    },
+    {
+      "label": "Money",
+      "value": "Rupee ₹",
+      "sub": "₹1 = 100 paise"
+    },
+    {
+      "label": "Language",
+      "value": "Hindi & more",
+      "sub": "22 scheduled languages total"
+    },
+    {
+      "label": "Land area",
+      "value": "3,287,263 km²",
+      "sub": "7th largest country on Earth"
+    },
+    {
+      "label": "High point",
+      "value": "Kangchenjunga",
+      "sub": "8,586 m — 3rd highest on Earth"
+    }
+  ],
+  "islands": [
+    "Rajasthan",
+    "Kerala",
+    "Mumbai",
+    "Varanasi",
+    "Assam"
+  ],
+  "islandsLabel": "BIG REGIONS & CITIES:",
+  "sections": {
+    "geography": "Mountains, monsoons & more",
+    "animals": "Tigers, elephants & peacocks",
+    "culture": "Festivals, food & Bollywood",
+    "history": "10,000 years in the making",
+    "wows": "India will blow your mind"
+  },
+  "geo": [
+    "India is shaped like a giant triangle pointing south into the Indian Ocean. The Himalaya forms a snowy wall along the north, while the flat Gangetic Plain stretches across the middle. The Thar Desert bakes in the west, receiving almost no rain all year.",
+    "Down south, two mountain ranges called the Western and Eastern Ghats frame a warm green plateau. India's monsoon season runs June to September — enormous rain clouds drench the land, filling rivers, flooding rice paddies, and keeping a billion people fed."
+  ],
+  "animals": [
+    "India's national animal is the Bengal tiger — a giant striped hunter living in forests and grasslands. The 2022 census counted 3,682 wild tigers in India, more than in any other country. The Asian elephant is equally beloved: huge, intelligent, and decorated with paint at festivals.",
+    "India's national bird is the peacock, whose electric-blue fan shimmers like a disco dancer. The rare Ganges river dolphin navigates murky water by sonar. Cobras, langur monkeys, and one-horned rhinos round out this spectacular wildlife lineup."
+  ],
+  "culture": [
+    "India's calendar overflows with festivals. Diwali fills the night with a million oil lamps to celebrate light beating darkness. Holi is the festival of colour — people chase each other with bright powder clouds until everyone looks like a walking rainbow.",
+    "Bollywood produces more movies per year than Hollywood. India invented yoga 5,000 years ago. Food varies wildly: buttery naan and rich curries in the north; coconut stews and crispy dosas in the south. Sweet spiced chai is sipped at every roadside stall."
+  ],
+  "history": [
+    "One of the world's oldest civilisations — the Indus Valley — flourished here over 4,000 years ago with planned cities and drainage systems. Great empires rose and fell: Maurya, Gupta, Mughal, each leaving breathtaking monuments that still stand.",
+    "The Mughal emperor Shah Jahan built the Taj Mahal in the 1600s as a tomb for his beloved wife. In 1947 Mahatma Gandhi led a peaceful independence movement. In 2023 India landed near the Moon's south pole — a world first."
+  ],
+  "wows": [
+    "India invented the number zero — without it, modern computers could not exist.",
+    "The Taj Mahal's white marble shifts from pink at dawn to golden at dusk.",
+    "India has over 19,500 languages and dialects spoken as mother tongues across the country.",
+    "Indian Railways carries about 23 million passengers every single day.",
+    "Chandrayaan-3 landed near the Moon's south pole in August 2023, a world first.",
+    "Varanasi on the Ganges has been continuously inhabited for at least 3,000 years.",
+    "India produces about 40% of the world's spices, earning it the 'Spice Bowl' title."
+  ],
+  "myths": [
+    {
+      "myth": "Hindus 'worship' cows as gods",
+      "fact": "Hindus revere cows as sacred symbols of abundance, not as deities. Stray cows wander cities because laws protect them and owners release elderly animals."
+    },
+    {
+      "myth": "India is always hot and sunny",
+      "fact": "Delhi drops near freezing in January, Shimla gets thick snow, and the Himalaya stay glaciated year-round. India has six seasons and a huge range of climates."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "नमस्ते",
+      "say": "Nah-mah-STAY"
+    },
+    {
+      "en": "Thank you",
+      "jp": "धन्यवाद",
+      "say": "DHUN-yuh-vahd"
+    },
+    {
+      "en": "Yes",
+      "jp": "हाँ",
+      "say": "Haan"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "स्वादिष्ट!",
+      "say": "Swaa-DISH-t"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "अलविदा",
+      "say": "Al-VEE-dah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/in-hero.jpg",
+      "alt": "India Gate war memorial arch in New Delhi at dusk",
+      "caption": "INDIA GATE, New Delhi — grand sandstone arch honouring fallen soldiers.",
+      "credit": "Wikimedia Commons / Atudu"
+    },
+    "landmark": {
+      "src": "/photos/in-landmark.jpg",
+      "alt": "The Taj Mahal reflected in its long pool at sunrise",
+      "caption": "TAJ MAHAL, Agra — ivory-white marble mausoleum built 1632–1653.",
+      "credit": "Wikimedia Commons / Yann Forget"
+    },
+    "animalA": {
+      "src": "/photos/in-animalA.jpg",
+      "alt": "Bengal tiger female resting in dappled forest light",
+      "caption": "BENGAL TIGER — India shelters more wild tigers than any other nation.",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/in-animalB.jpg",
+      "alt": "Indian peacock displaying its iridescent fanned tail feathers",
+      "caption": "INDIAN PEACOCK — national bird; its shimmering fan has 200 feathers.",
+      "credit": "Wikimedia Commons / Aravindreddy Gosala"
+    }
+  },
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA9A",
+    "ink": "#2B2218",
+    "faint": "#8C7A58",
+    "line": "#DECCB0",
+    "accent": "#FF9933",
+    "accent2": "#138808"
+  },
+  "motif": "sun",
+  "langName": "Hindi"
+}

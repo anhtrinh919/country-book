@@ -1,0 +1,162 @@
+{
+  "name": "ESWATINI",
+  "nativeName": "eSwati",
+  "romaji": "ESWATINI",
+  "tagline": "Africa's royal kingdom",
+  "region": "Southern Africa",
+  "coords": "-26.5°N, 31.5°E",
+  "fileNo": "152",
+  "langName": "siSwati",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CBBC9E",
+    "ink": "#252018",
+    "faint": "#8A7A5A",
+    "line": "#DCCFAD",
+    "accent": "#3E6EB0",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/sz.svg",
+    "title": "Shield & Spears",
+    "note": "Blue, red & yellow — shield unites all",
+    "keyColor": "#3E6EB0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Eswatini is a tiny landlocked kingdom between South Africa and Mozambique. You could drive across it in two hours, yet it packs dramatic mountains, wildlife-filled plains, and living royal culture unlike anywhere on Earth. Africa's last absolute monarchy, ruled by a king whose family has led the Swazi for 200+ years.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Mbabane",
+      "sub": "Lobamba is the legislative capital"
+    },
+    {
+      "label": "People",
+      "value": "1.24 million",
+      "sub": "Est. 2024; mostly ethnic Swazi"
+    },
+    {
+      "label": "Money",
+      "value": "Lilangeni",
+      "sub": "Pegged 1:1 to South African rand"
+    },
+    {
+      "label": "Language",
+      "value": "siSwati",
+      "sub": "Both official; siSwati at home"
+    },
+    {
+      "label": "Land area",
+      "value": "17,204 km²",
+      "sub": "Smaller than Wales or New Jersey"
+    },
+    {
+      "label": "Top peak",
+      "value": "Emlembe 1,862m",
+      "sub": "Drakensberg; S. Africa border"
+    }
+  ],
+  "islands": [
+    "Hhohho",
+    "Manzini",
+    "Lubombo",
+    "Shiselweni"
+  ],
+  "islandsLabel": "MAIN REGIONS:",
+  "sections": {
+    "geography": "Mountains, valleys & savanna",
+    "animals": "Big game in a tiny kingdom",
+    "culture": "Royalty, reeds & celebration",
+    "history": "From Ngwane III to Mswati III",
+    "wows": "Seven royal surprises"
+  },
+  "geo": [
+    "Eswatini drops from cool Highveld mountains in the west — where Malolotja Falls plunge 89 metres — through lush Middleveld to hot, flat Lowveld savanna in the east. Four distinct zones in one tiny country!",
+    "The Ezulwini Valley, meaning 'Place of Heaven', holds the royal palace and parliament. Nearby, Sibebe Rock is a three-billion-year-old granite dome, one of the world's largest exposed rock faces."
+  ],
+  "animals": [
+    "Hlane Royal National Park shelters white rhinos, elephants, lions, giraffes, and hippos. Rangers guard the rhinos closely, making Eswatini one of southern Africa's key rhino conservation success stories.",
+    "Eswatini is one of Africa's only breeding sites for the rare blue swallow. Over 500 bird species have been recorded here — remarkable for a nation smaller than Wales — alongside impala, kudu, and zebra."
+  ],
+  "culture": [
+    "Every August, up to 40,000 unmarried girls travel nationwide for the Umhlanga Reed Dance. Each cuts a tall reed, presents it to the Queen Mother, then dances in brilliant beaded costumes — one of Africa's most spectacular gatherings.",
+    "The sacred Incwala ceremony each December renews the king's power through six days of ancient songs heard nowhere else. Swazi craftspeople are celebrated for woven baskets and vibrant hand-poured candles sold worldwide."
+  ],
+  "history": [
+    "The Swazi kingdom took shape in the mid-1700s under King Ngwane III. King Mswati II later expanded it so powerfully that both country and people were named after him. British protection began in the 1890s; independence came in 1968.",
+    "In 2018, King Mswati III renamed the nation from Swaziland to Eswatini — 'Land of the Swazis' — on the 50th independence anniversary. He rules today as Africa's only remaining absolute monarch."
+  ],
+  "wows": [
+    "Eswatini is Africa's last absolute monarchy — the king holds full power over every branch of government.",
+    "Sibebe Rock near Mbabane is 3 billion years old and one of Earth's largest granite domes.",
+    "Tiny Malolotja reserve is one of the only African breeding sites for the endangered blue swallow.",
+    "Eswatini is Taiwan's only diplomatic ally on the entire African continent.",
+    "The lilangeni is pegged exactly 1:1 to the South African rand — both coins spend equally.",
+    "Eswatini is Africa's 4th-biggest sugar producer despite being smaller than Wales.",
+    "The Umhlanga Reed Dance draws up to 40,000 participants — one of the continent's biggest gatherings."
+  ],
+  "myths": [
+    {
+      "myth": "\"It's still called Swaziland\"",
+      "fact": "The king renamed it Eswatini in 2018 to honour the Swazi language and shed the colonial name — though old maps still say Swaziland."
+    },
+    {
+      "myth": "\"It's just part of South Africa\"",
+      "fact": "Eswatini is a fully independent sovereign kingdom with its own king, currency, and culture — South Africa simply surrounds it on three sides."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Sawubona",
+      "say": "sah-woo-BOH-nah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Ngiyabonga",
+      "say": "ngee-yah-BONG-ah"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Unjani?",
+      "say": "oon-JAH-nee"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Sala kahle",
+      "say": "SAH-lah KAH-shlay"
+    },
+    {
+      "en": "Good morning",
+      "jp": "Kusile",
+      "say": "koo-SEE-lay"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sz-hero.jpg",
+      "alt": "Rolling green hills of Eswatini's Highveld",
+      "caption": "ESWATINI HIGHVELD — lush mountains drop to golden savanna plains",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sz-landmark.jpg",
+      "alt": "Sibebe Rock massive granite dome near Mbabane",
+      "caption": "SIBEBE ROCK — a 3-billion-year-old granite dome near Mbabane",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sz-animalA.jpg",
+      "alt": "Southern white rhinoceros in savanna grassland",
+      "caption": "WHITE RHINO — closely guarded in Hlane Royal National Park",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sz-animalB.jpg",
+      "alt": "Male impala antelope standing alert in golden grass",
+      "caption": "IMPALA — the most numerous antelope in Eswatini's reserves",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

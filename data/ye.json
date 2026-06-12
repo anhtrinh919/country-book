@@ -1,0 +1,163 @@
+{
+  "name": "YEMEN",
+  "nativeName": "اليمن",
+  "romaji": "AL-YAMAN",
+  "tagline": "Land of the Queen of Sheba",
+  "region": "Middle East",
+  "coords": "15.5°N, 48.5°E",
+  "fileNo": "026",
+  "langName": "Arabic",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#CCBA9E",
+    "ink": "#2A2018",
+    "faint": "#8A7555",
+    "line": "#DECCAC",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ye.svg",
+    "title": "Flag of Yemen",
+    "note": "Red, white & black horizontal tricolour",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Yemen sits at the tip of Arabia, where ancient spice routes met the sea. Its highlands were home to great kingdoms when most of Europe's cities didn't exist — the legendary Queen of Sheba ruled here 3,000 years ago. Today Yemen holds mud-brick skyscrapers, otherworldly dragon-blood trees, and the \"Galápagos of the Indian Ocean.\"",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Sana'a",
+      "sub": "One of the world's oldest cities"
+    },
+    {
+      "label": "People",
+      "value": "~41.8 million",
+      "sub": "UN estimate, 2025"
+    },
+    {
+      "label": "Money",
+      "value": "Yemeni rial",
+      "sub": "YER — divided into 100 fils"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "sub": "Gulf & Yemeni dialects spoken"
+    },
+    {
+      "label": "Land area",
+      "value": "527,968 km²",
+      "sub": "Bigger than France"
+    },
+    {
+      "label": "High point",
+      "value": "3,666 m",
+      "sub": "Jabal An-Nabi Shu'ayb, Arabia"
+    }
+  ],
+  "islands": [
+    "Sana'a",
+    "Aden",
+    "Hadhramaut",
+    "Socotra",
+    "Ta'izz"
+  ],
+  "islandsLabel": "MAIN CITIES & REGIONS:",
+  "sections": {
+    "geography": "Desert, mountains & old seas",
+    "animals": "Dragons, leopards & rare birds",
+    "culture": "Coffee, towers & silver art",
+    "history": "Spice kings & sky cities",
+    "wows": "Hard to believe, but true!"
+  },
+  "geo": [
+    "Yemen's highlands are the wettest corner of Arabia — terraced farms cling to slopes at 2,000 m, fed by monsoon rains that never reach the flat desert kingdoms nearby. The Red Sea and Arabian Sea squeeze it into a dramatic horn shape.",
+    "To the east stretches the Empty Quarter, the world's largest sand desert. Off the coast, the remote Socotra archipelago sits closer to Somalia than to Sana'a, marooned like a lost world in the Indian Ocean."
+  ],
+  "animals": [
+    "Yemen's national animal is the Arabian leopard — one of the world's rarest big cats, with fewer than 200 surviving in remote highland cliffs. Nubian ibex and Arabian wolves also pick their way across the rugged mountain terrain.",
+    "On Socotra, evolution ran wild in isolation: nearly 700 species live nowhere else. The dragon blood tree fans out like a giant umbrella and bleeds vivid red sap when cut — it looks like something from another planet."
+  ],
+  "culture": [
+    "Yemenis have built in mud for thousands of years — Shibam's tower blocks rise up to 11 storeys from the desert floor, earning the nickname 'Manhattan of the Desert.' Old Sana'a's ornate houses are dressed in white geometric plasterwork.",
+    "Coffee was first brewed as a drink in Yemen in the 15th century, by Sufi monks who needed to stay awake through night prayers. The port of Mocha gave its name to mocha coffee — every mocha carries a little piece of Yemen."
+  ],
+  "history": [
+    "Three thousand years ago, the Kingdom of Saba — home of the legendary Queen of Sheba — controlled the incense road linking India to the Mediterranean. Yemeni frankincense and myrrh were worth more than gold in the ancient world.",
+    "Yemen was where coffee first became a drink, and the port of Mocha ran the entire world's coffee trade until the 1600s, when Dutch traders smuggled seedlings to their colonies and finally broke the monopoly."
+  ],
+  "wows": [
+    "Shibam's mud towers are the world's oldest high-rise apartment buildings, some rising 11 storeys tall.",
+    "The dragon blood tree bleeds bright-red resin used as paint and medicine for over 2,000 years.",
+    "Jabal An-Nabi Shu'ayb is the highest peak in all of Arabia at 3,666 m.",
+    "The ancient Marib Dam, built around the 8th century BC, irrigated vast farmland — an engineering marvel.",
+    "About 37% of Socotra's plant species grow absolutely nowhere else on Earth.",
+    "The word 'mocha' comes from Al-Mukha, a real Yemeni port city.",
+    "Old Sana'a has been continuously inhabited for over 2,500 years."
+  ],
+  "myths": [
+    {
+      "myth": "Yemen is just flat, hot desert",
+      "fact": "Yemen's highlands get monsoon rains and rise to 3,700 m. The capital Sana'a sits at a cool 2,300 m, and terraced mountain farms have fed people here for millennia."
+    },
+    {
+      "myth": "The Queen of Sheba is confirmed history",
+      "fact": "Yemen's ancient Sabaean kingdom was powerful and real, but thousands of royal inscriptions have never named a ruling queen — she remains a magnificent legend."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Thank you",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "How much?",
+      "jp": "كم الثمن؟",
+      "say": "kam ath-tha-MAN"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/ye-landmark.jpg",
+      "alt": "The mud-brick high-rise towers of Shibam rising from the Hadhramaut valley",
+      "caption": "SHIBAM — ancient mud skyscrapers, the 'Manhattan of the Desert'",
+      "credit": "Jialiang Gao / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/ye-animalA.jpg",
+      "alt": "Arabian leopard resting, showing spotted golden coat",
+      "caption": "ARABIAN LEOPARD — critically endangered, fewer than 200 remain in the wild",
+      "credit": "JaffaFalcon / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/ye-animalB.jpg",
+      "alt": "Dragon blood tree with distinctive mushroom-shaped canopy on Socotra Island",
+      "caption": "DRAGON BLOOD TREE — Socotra's alien umbrella tree bleeds red sap",
+      "credit": "Alex38 / Wikimedia Commons CC BY 4.0"
+    },
+    "hero": {
+      "src": "/photos/ye-hero.jpg",
+      "alt": "Panoramic view over Sana'a city with traditional tower houses",
+      "caption": "SANA'A — one of the world's oldest continuously inhabited cities",
+      "credit": "Sameer Alssayyad / Wikimedia CC BY-SA 3.0"
+    }
+  }
+}

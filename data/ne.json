@@ -1,0 +1,163 @@
+{
+  "name": "NIGER",
+  "nativeName": "NE",
+  "romaji": "NIJAR",
+  "tagline": "Desert giant, river heart",
+  "region": "West Africa",
+  "coords": "17.6°N, 8.1°E",
+  "fileNo": "047",
+  "langName": "Hausa",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBC98",
+    "ink": "#2B2118",
+    "faint": "#8A7550",
+    "line": "#DDD0B0",
+    "accent": "#E05206",
+    "accent2": "#0DB02B"
+  },
+  "flag": {
+    "assetPath": "/flags/ne.svg",
+    "title": "Flag of Niger",
+    "note": "Orange, white & green — sun in the centre",
+    "keyColor": "#E05206",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Niger is a vast, sun-baked land in the heart of West Africa — over four-fifths Sahara Desert, with ancient caravan routes and towering dunes. But the south is green: the Niger River curves past farmland, wild giraffes roam near the capital, and lively markets buzz. The biggest landlocked country in West Africa, full of surprises.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Niamey",
+      "sub": "On the Niger River"
+    },
+    {
+      "label": "People",
+      "value": "~27.3 million",
+      "sub": "UN estimate 2025"
+    },
+    {
+      "label": "Money",
+      "value": "CFA Franc",
+      "sub": "Shared W. Africa currency"
+    },
+    {
+      "label": "Language",
+      "value": "Hausa",
+      "sub": "Official since 2025"
+    },
+    {
+      "label": "Land area",
+      "value": "1,267,000 km²",
+      "sub": "Biggest landlocked, W. Africa"
+    },
+    {
+      "label": "Top of Niger",
+      "value": "2,022 m",
+      "sub": "Mont Idoukal-n-Taghès, Aïr"
+    }
+  ],
+  "islands": [
+    "Agadez",
+    "Niamey",
+    "Zinder",
+    "Maradi",
+    "Tahoua"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Desert, river & sky",
+    "animals": "Giraffes, addax & more",
+    "culture": "Tuareg, Wodaabe & Hausa",
+    "history": "Empires of the Sahel",
+    "wows": "Seven wild wonders"
+  },
+  "geo": [
+    "Niger is enormous — roughly the size of France, Germany, and Spain combined. Over 80% is Sahara Desert, but the south is Sahel savanna where crops grow and people cluster. The Niger River loops through the southwest, giving the country its name and its life.",
+    "The Aïr Mountains rise from the desert in the north, sheltering rare plants found nowhere else. In the east lies the Ténéré — one of Earth's emptiest sand seas. W National Park in the south straddles three countries around a river bend shaped like the letter W."
+  ],
+  "animals": [
+    "Niger's star animal is the West African giraffe — the world's rarest giraffe subspecies. Just 50 survived in the 1990s; careful conservation has grown the herd to over 600. They roam freely near villages outside Niamey, unbothered by people.",
+    "In the Aïr Desert reserves, the addax antelope survives on almost no water, getting moisture from dry grasses. Lions, cheetahs, and elephants patrol W National Park, while hippos and crocodiles lurk along the Niger River banks."
+  ],
+  "culture": [
+    "Niger is a crossroads of peoples. The Hausa are famous traders; Tuareg men wear indigo-blue veils and have crisscrossed the Sahara by camel for centuries — earning the nickname 'the blue men of the desert'. Agadez was a great medieval trading city by the 1400s.",
+    "Every year the Wodaabe nomads hold the Gerewol festival — a beauty contest where MEN dress up, paint their faces bright, and dance to impress the women who choose a partner. Nearly all Nigeriens are Muslim, and the call to prayer shapes daily life."
+  ],
+  "history": [
+    "Agadez thrived as a key stop on trans-Saharan trade routes, linking gold and ivory to North Africa. The mighty Songhai Empire controlled much of Niger in the 15th and 16th centuries, before the region fell to Morocco and later European powers.",
+    "France colonised Niger in the early 1900s; independence came in 1960. Rich in uranium — fuel for nuclear power — Niger supplies several countries' electricity, yet remains one of the world's poorest nations, battling drought and rapid population growth."
+  ],
+  "wows": [
+    "Agadez Mosque's minaret is the world's tallest mud-brick tower at 27 m, built in 1515 and still standing.",
+    "Niger's median age is just 15.7 years — half the country is younger than a typical teenager.",
+    "The loneliest tree on Earth stood alone for 400 km in Ténéré Desert — a truck hit it in 1973.",
+    "W National Park is managed jointly by Niger, Burkina Faso, and Benin — three countries, one park.",
+    "Niger is the 7th largest uranium producer on Earth, fuelling nuclear power stations in Europe.",
+    "West African giraffes in Niger wander freely through village farmland — no fences needed.",
+    "Niger's giraffe herd grew from just 50 animals in the 1990s to over 600 today."
+  ],
+  "myths": [
+    {
+      "myth": "Niger is just empty desert",
+      "fact": "The south is green Sahel savanna with rivers, farms, and wildlife. Over 90% of people live there, alongside giraffes and hippos."
+    },
+    {
+      "myth": "Niger and Nigeria are the same place",
+      "fact": "Two separate countries, both named after the Niger River. Nigeria has 230 million people; Niger 27 million — very different histories."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Sannu",
+      "say": "SAH-noo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Na gode",
+      "say": "nah GOH-day"
+    },
+    {
+      "en": "How are you?",
+      "jp": "Yaya kake?",
+      "say": "YAH-yah KAH-kay"
+    },
+    {
+      "en": "Water",
+      "jp": "Ruwa",
+      "say": "ROO-wah"
+    },
+    {
+      "en": "Beautiful",
+      "jp": "Kyau",
+      "say": "KYOW"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ne-hero.jpg",
+      "alt": "Kennedy Bridge spanning the Niger River in Niamey at golden hour",
+      "caption": "PONT KENNEDY — the iconic bridge over the Niger River in capital Niamey",
+      "credit": "NigerTZai / Wikimedia CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ne-landmark.jpg",
+      "alt": "The mud-brick Grand Mosque of Agadez rising above the old city",
+      "caption": "AGADEZ MOSQUE — the world's tallest mud-brick tower, built in 1515",
+      "credit": "Alamin Mohammed / Wikimedia CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ne-animalA.jpg",
+      "alt": "A West African giraffe standing in the Kouré Reserve near Niamey",
+      "caption": "WEST AFRICAN GIRAFFE — the world's rarest giraffe, roaming free near Kouré",
+      "credit": "Clémence Delmas / Wikimedia CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ne-animalB.jpg",
+      "alt": "A male addax antelope with long spiral horns in desert habitat",
+      "caption": "ADDAX ANTELOPE — a Saharan survivor that barely needs water to live",
+      "credit": "Haytem Bouchri / Wikimedia CC BY-SA 4.0"
+    }
+  }
+}

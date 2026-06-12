@@ -1,0 +1,163 @@
+{
+  "name": "ANTIGUA",
+  "nativeName": "AG",
+  "romaji": "ANTIGUA",
+  "tagline": "365 beaches, one nation",
+  "region": "Caribbean",
+  "coords": "17.12°N, 61.85°W",
+  "fileNo": "047",
+  "langName": "English (Creole)",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#C9B99A",
+    "ink": "#221E18",
+    "faint": "#8A7860",
+    "line": "#DCCFB0",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ag.svg",
+    "title": "Rising Sun Flag",
+    "note": "Black=heritage, red=energy, gold sun=new era",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Antigua and Barbuda is a tiny twin-island nation in the eastern Caribbean. Antigua has about 365 beaches — one for every day of the year — while quieter Barbuda shelters the Caribbean's largest frigatebird colony. The country packs coral reefs, a Georgian naval dockyard, and dazzling turquoise water into just 440 km².",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Saint John's",
+      "sub": "Northwest coast of Antigua"
+    },
+    {
+      "label": "People",
+      "value": "~93,000",
+      "sub": "World Bank est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "EC Dollar",
+      "sub": "Fixed to USD since 1976"
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "sub": "Official; creole spoken daily"
+    },
+    {
+      "label": "Land area",
+      "value": "440 km²",
+      "sub": "170 sq mi — tiny!"
+    },
+    {
+      "label": "High point",
+      "value": "Mt Obama",
+      "sub": "402 m; renamed 2009"
+    }
+  ],
+  "islands": [
+    "Antigua",
+    "Barbuda",
+    "Redonda",
+    "Saint John's",
+    "Eng. Harbour"
+  ],
+  "islandsLabel": "MAIN PLACES:",
+  "sections": {
+    "geography": "Reefs, bays & beaches",
+    "animals": "Wings, hooves & flippers",
+    "culture": "Carnival, cricket & calypso",
+    "history": "Sugar, sails & freedom",
+    "wows": "Did you know?"
+  },
+  "geo": [
+    "Antigua is a low, flat limestone island ringed by coral reefs and studded with sheltered bays. Its volcanic southwest rises to Mount Obama at 402 m — the only real peak — while the coast curves into dozens of pale-sand beaches.",
+    "Barbuda, 50 km north, is even flatter and wilder: mostly scrub, pink-tinged sand, and a vast lagoon that fills with frigatebirds each autumn. The third island, Redonda, is an uninhabited rocky cliff."
+  ],
+  "animals": [
+    "The magnificent frigatebird is the national bird. Males puff a scarlet throat pouch the size of a balloon to woo females. Barbuda's Codrington Lagoon hosts thousands at once — one of the western hemisphere's biggest colonies.",
+    "The fallow deer, brought by European settlers 400 years ago, still roams Barbuda's scrubland. Sea turtles nest on quiet beaches, and coral reefs teem with over 170 fish species."
+  ],
+  "culture": [
+    "Antigua's Carnival erupts every late July and August, marking the 1834 abolition of slavery. Streets fill with feathered costumes, soca music, and calypso contests — the whole nation becomes one huge street party.",
+    "Cricket is practically a religion here, and the tiny nation has produced world-class players. Pepperpot stew and fungee (cornmeal with okra) connect everyday tables to African roots."
+  ],
+  "history": [
+    "Siboney people arrived around 2400 BC; Arawak and Carib followed. Columbus spotted Antigua in 1493, naming it for a Seville church. Britain took over in 1632, planting sugar cane and bringing enslaved Africans — their descendants are about 96% of today's population.",
+    "Slavery ended on 1 August 1834 — the date Carnival now celebrates. Full independence came on 1 November 1981, with Vere Bird as first prime minister, capping decades of campaigning for self-rule."
+  ],
+  "wows": [
+    "Antigua claims 365 beaches — one for every day of the year, so you never need to visit the same one twice.",
+    "Nelson's Dockyard is the only continuously working Georgian naval dockyard anywhere in the world.",
+    "The country's highest peak was renamed Mount Obama in 2009 to honour the newly elected US president.",
+    "Barbuda's sand gets a rosy pink tint from crushed red coral and shells mixed with white sand.",
+    "The East Caribbean dollar has held the exact same peg to the US dollar — 2.70 XCD — since 1976.",
+    "Antigua and Barbuda joined the United Nations in 1981, the very same year it gained independence.",
+    "Male frigatebirds can stay airborne for weeks, taking tiny naps while gliding on warm air currents."
+  ],
+  "myths": [
+    {
+      "myth": "There are exactly 365 beaches",
+      "fact": "The number is a beloved marketing claim, not a surveyed fact — tiny coves appear and vanish with tides, and counts range from 260 to over 400 depending on how you measure."
+    },
+    {
+      "myth": "Antigua and Barbuda are one island",
+      "fact": "They are two completely separate islands 50 km apart with very different landscapes — flat, wild Barbuda is far less populated than its bigger sister."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Wha' happen?",
+      "say": "wha HAP-pen"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Tanks",
+      "say": "tanks"
+    },
+    {
+      "en": "Friend",
+      "jp": "Bredren",
+      "say": "BRED-ren"
+    },
+    {
+      "en": "Cool / great",
+      "jp": "Irie",
+      "say": "EYE-ree"
+    },
+    {
+      "en": "Let's go!",
+      "jp": "Move up!",
+      "say": "moov UP"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ag-hero.jpg",
+      "alt": "Sunset over English Harbour, Antigua",
+      "caption": "ENGLISH HARBOUR — yachts moored under a golden Caribbean sunset",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ag-landmark.jpg",
+      "alt": "Nelson's Dockyard, English Harbour, Antigua",
+      "caption": "NELSON'S DOCKYARD — the world's only working Georgian naval dockyard",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ag-animalA.jpg",
+      "alt": "Magnificent frigatebird male with red throat pouch inflated",
+      "caption": "MAGNIFICENT FRIGATEBIRD — the male inflates his red pouch like a balloon",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ag-animalB.jpg",
+      "alt": "Fallow deer, national animal of Antigua and Barbuda",
+      "caption": "FALLOW DEER — national animal, roaming Barbuda since the 1600s",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

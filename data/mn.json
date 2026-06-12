@@ -1,0 +1,163 @@
+{
+  "name": "MONGOLIA",
+  "nativeName": "ᠮᠣᠩᠭᠣᠯ",
+  "romaji": "MONGOL ULS",
+  "tagline": "Land of sky & endless steppe",
+  "region": "East Asia",
+  "coords": "47°N · 106°E",
+  "fileNo": "076",
+  "flag": {
+    "assetPath": "/flags/mn.svg",
+    "title": "Mongolian Flag",
+    "note": "Red, blue, red with Soyombo symbol",
+    "keyColor": "#C4272F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mongolia is a vast land between Russia and China — a sea of golden grass called the steppe. Families live in round felt tents called gers, children ride horses before they can read, and eagles sit on hunters' arms. Eight hundred years ago, warrior Genghis Khan rode out from these plains and built the biggest land empire the world has ever known.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Ulaanbaatar",
+      "sub": "Home to nearly half the country"
+    },
+    {
+      "label": "People",
+      "value": "3.5 million",
+      "sub": "Est. 2025; world's least dense"
+    },
+    {
+      "label": "Money",
+      "value": "Tögrög ₮",
+      "sub": "Also spelled Tugrik"
+    },
+    {
+      "label": "Language",
+      "value": "Mongolian",
+      "sub": "Written in Cyrillic script"
+    },
+    {
+      "label": "Land area",
+      "value": "1,564,116 km²",
+      "sub": "18th largest country on Earth"
+    },
+    {
+      "label": "High point",
+      "value": "Khüiten 4,356m",
+      "sub": "In the Altai Mountains, west"
+    }
+  ],
+  "islands": [
+    "Ulaanbaatar",
+    "Darkhan",
+    "Erdenet",
+    "Ölgii",
+    "Dalanzadgad"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "A sky bigger than the sea",
+    "animals": "Eagles, horses & wild things",
+    "culture": "Gers, games & golden bows",
+    "history": "Greatest empire on horseback",
+    "wows": "Wow! Did you know?"
+  },
+  "geo": [
+    "Mongolia sits on a high plateau — most of it over 1,500 m above sea level. The north has pine forests and lakes, and the Selenge River flows into Russia's Lake Baikal. Winters are fierce: temperatures can plunge to −40 °C, cold enough to freeze your breath mid-air.",
+    "The south is the Gobi Desert — but not sandy. Most is bare gravel and rock, painted orange at sunset. Hidden beneath are dinosaur eggs preserved for 70 million years. Every summer, scientists dig up new creatures that once thundered across a very different world."
+  ],
+  "animals": [
+    "The takhi — Przewalski's horse — is the only truly wild horse left on Earth. Extinct in the wild by the 1960s, scientists bred them in zoos and released them back onto the steppe. Today small herds gallop free again, their stiff manes blowing in the wind.",
+    "Golden eagles trained by Kazakh hunters have two-metre wingspans and can spot a fox from a kilometre away. Every autumn, eagle hunters race their birds at the Golden Eagle Festival in Ölgii — a tradition over 2,000 years old."
+  ],
+  "culture": [
+    "The ger takes just one hour to pack onto a camel and another hour to rebuild elsewhere — perfect for families who follow their herds across the grasslands. Inside, a small stove burns dried dung for warmth, colourful felt rugs cover the floor, and a circular roof lets in a shaft of daylight.",
+    "Mongolians love Naadam, a three-sport July festival. The \"manly games\" are wrestling, horse racing, and archery. Girls compete in archery, and children as young as five race horses ten kilometres. The winning jockey earns a poem sung in their honour."
+  ],
+  "history": [
+    "In 1206, Temüjin united the warring Mongol tribes and became Genghis Khan — \"universal ruler\". His armies galloped from the Pacific to Europe's doorstep. Fast riders called örtöö relayed messages across thousands of kilometres: the world's first postal network.",
+    "After the empire fell, Mongolia came under Qing Chinese rule for 200 years. In 1921 it became one of the world's first socialist states. Since 1990 it has been a democracy, and a mining boom has made it one of Asia's fastest-growing economies."
+  ],
+  "wows": [
+    "Mongolia has just 2 people per km² — the most sparsely populated country on Earth.",
+    "The Mongol Empire of the 1200s was the largest contiguous land empire in human history.",
+    "Mongolia has more horses than people — over 4 million horses roam the country.",
+    "The first dinosaur eggs ever found were discovered in the Gobi Desert in 1923.",
+    "Ulaanbaatar is the coldest national capital on Earth, averaging −1.3 °C year-round.",
+    "Mongolian throat-singers (khoomii) produce two distinct notes at exactly the same time.",
+    "Traditional Mongolian script runs vertically, top to bottom — one of few still written this way."
+  ],
+  "myths": [
+    {
+      "myth": "\"Genghis Khan was just a brutal destroyer\"",
+      "fact": "His legal code guaranteed religious freedom, banned torture, and created the world's first long-distance postal system — radical ideas for the 1200s."
+    },
+    {
+      "myth": "\"The Gobi Desert is all sand dunes\"",
+      "fact": "Only about 5% of the Gobi is sandy. Most is cold stony gravel; parts get snow in winter, making it one of the world's rare cold deserts."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Сайн байна",
+      "say": "SAIN bai-na oo"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Баярлалаа",
+      "say": "bah-yar-LAH-lah"
+    },
+    {
+      "en": "Horse",
+      "jp": "Морь",
+      "say": "MOR"
+    },
+    {
+      "en": "Delicious!",
+      "jp": "Амттай!",
+      "say": "am-TAI"
+    },
+    {
+      "en": "Goodbye",
+      "jp": "Баяртай",
+      "say": "bah-yar-TAI"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mn-hero.jpg",
+      "alt": "Panoramic view of Ulaanbaatar city from Zaisan Hill",
+      "caption": "ULAANBAATAR spreads across the Tuul River valley, framed by sacred Bogd Khan Mountain.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mn-landmark.jpg",
+      "alt": "Rolling green steppe hills of Khustai National Park, Mongolia",
+      "caption": "KHUSTAI STEPPE glows gold at dusk, heartland of the rewilded Przewalski's horse.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mn-animalA.jpg",
+      "alt": "Przewalski's wild horse standing on grassland",
+      "caption": "PRZEWALSKI'S HORSE, the world's last truly wild horse, reclaimed its steppe homeland.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mn-animalB.jpg",
+      "alt": "Golden eagle in flight with wings spread wide",
+      "caption": "GOLDEN EAGLE, star of the ancient Kazakh hunting tradition in western Mongolia.",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "theme": {
+    "paper": "#F2E8D0",
+    "dot": "#C9B899",
+    "ink": "#2B2218",
+    "faint": "#8A7458",
+    "line": "#DDD0B0",
+    "accent": "#C0272D",
+    "accent2": "#1A4FA0"
+  },
+  "motif": "sun",
+  "langName": "Mongolian"
+}

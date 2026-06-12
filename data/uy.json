@@ -1,0 +1,163 @@
+{
+  "name": "URUGUAY",
+  "nativeName": "UY",
+  "romaji": "URUGUAY",
+  "tagline": "Small country, big heart",
+  "region": "Southern Cone, South America",
+  "coords": "33°S 56°W",
+  "fileNo": "042",
+  "langName": "Spanish",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EDD8",
+    "dot": "#C9BC9A",
+    "ink": "#28231C",
+    "faint": "#8A7B58",
+    "line": "#DDD4B8",
+    "accent": "#75AADB",
+    "accent2": "#F4C542"
+  },
+  "flag": {
+    "assetPath": "/flags/uy.svg",
+    "title": "Sun of May Flag",
+    "note": "9 stripes; golden Sun of May in canton",
+    "keyColor": "#75AADB",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Uruguay sits wedged between Brazil and Argentina on South America's Atlantic coast. It has roughly four cows per person — a world record! Despite being tiny, it is among the most peaceful democracies in the Americas and the first country to fully legalise cannabis. Its capital Montevideo hugs the wide Río de la Plata estuary.",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Montevideo",
+      "sub": "Pop. ~1.4 m in metro area"
+    },
+    {
+      "label": "People",
+      "value": "3.39 million",
+      "sub": "UN est. 2024"
+    },
+    {
+      "label": "Money",
+      "value": "Peso (UYU)",
+      "sub": "100 centésimos = 1 peso"
+    },
+    {
+      "label": "Language",
+      "value": "Spanish",
+      "sub": "Near-universal; Portuñol on border"
+    },
+    {
+      "label": "Land area",
+      "value": "176,215 km²",
+      "sub": "About size of England+Wales"
+    },
+    {
+      "label": "High point",
+      "value": "513 m",
+      "sub": "Cerro Catedral, Maldonado dept."
+    }
+  ],
+  "islands": [
+    "Montevideo",
+    "Maldonado",
+    "Colonia",
+    "Salto",
+    "Rivera"
+  ],
+  "islandsLabel": "MAIN CITIES:",
+  "sections": {
+    "geography": "Grasslands & silver rivers",
+    "animals": "Giants of the pampas",
+    "culture": "Mate, drums & asado",
+    "history": "From colony to free nation",
+    "wows": "Surprising Uruguay"
+  },
+  "geo": [
+    "Uruguay is almost entirely one vast rolling grassland called the Pampas — endless green waves dotted with cattle. Only thin forests line the rivers. Its highest peak, Cerro Catedral, is a mere 514 m — shorter than many city skyscrapers.",
+    "The coast is spectacular: the Río de la Plata estuary meets the Atlantic, giving Uruguay sandy beaches, dune lagoons, and sea-lion colonies on rocky islands. No mountains means the country is wonderfully easy to explore on foot."
+  ],
+  "animals": [
+    "The capybara is king of the wetlands — the world's largest rodent, the size of a small pig, paddling through Uruguay's lagoons in family groups. Elegant pampas deer tiptoe through the grasslands on slender legs.",
+    "The greater rhea strides across the Pampas like a feathery ostrich — the biggest bird in the Americas, though flightless. Uruguay's national bird is the hornero, which builds a clay nest shaped like a clay oven on fence posts."
+  ],
+  "culture": [
+    "Uruguayans carry a hot-water thermos everywhere, pouring it into a gourd of yerba mate — a bitter herbal drink sipped through a metal straw. Sharing mate is like a handshake; refusing it is rude. Asado (barbecue) is equally sacred: families grill beef over wood embers all Sunday.",
+    "Candombe drumming arrived with enslaved Africans and never left — UNESCO lists it as Intangible Cultural Heritage. February carnival fills Montevideo's streets with pounding drums and feathered dancers. Tango also grew up here, making Uruguay co-birthplace of one of the world's most romantic dances."
+  ],
+  "history": [
+    "Indigenous Charrúa people lived here for millennia before Spanish explorers arrived in 1516. Portugal founded Colonia del Sacramento in 1680, sparking a tug-of-war with Spain. Hero José Artigas rallied farmers and freed slaves against Spanish rule from 1811.",
+    "Thirty-three patriots crossed the river in 1825 and declared independence. British diplomats brokered peace in 1828, and tiny Uruguay was born as a buffer state between its giant neighbours Brazil and Argentina, which it has been ever since."
+  ],
+  "wows": [
+    "Uruguay has ~3.6 cows per person — the highest cattle-to-human ratio on Earth.",
+    "In 2013 it became the first country to fully legalise recreational cannabis nationally.",
+    "Montevideo hosted the first-ever FIFA World Cup in 1930 — and Uruguay won it.",
+    "Montevideo's rambla is 22 km long — the world's longest urban coastal promenade.",
+    "Free secular public education for both sexes began here in the 1870s, ahead of most of Europe.",
+    "Colonia del Sacramento (est. 1680) is a UNESCO World Heritage Site with unchanged cobbled streets.",
+    "Uruguay is the only mainland American nation with no mountain chains, jungle, or volcanoes."
+  ],
+  "myths": [
+    {
+      "myth": "Uruguay is a tiny poor country",
+      "fact": "Uruguay has the 2nd-highest GDP per capita in South America and the largest middle class in Latin America — over 60% of its population."
+    },
+    {
+      "myth": "Tango is purely Argentine",
+      "fact": "Tango was born on both sides of the Río de la Plata in the 1880s. UNESCO recognises its shared Uruguayan-Argentine origin as world heritage."
+    }
+  ],
+  "words": [
+    {
+      "en": "Hello",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Thank you",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "OK / fine",
+      "jp": "Ta",
+      "say": "tah"
+    },
+    {
+      "en": "Mate drink",
+      "jp": "Mate",
+      "say": "MAH-teh"
+    },
+    {
+      "en": "Barbecue",
+      "jp": "Asado",
+      "say": "ah-SAH-doh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/uy-hero.jpg",
+      "alt": "Panoramic view of Montevideo skyline from the bay",
+      "caption": "MONTEVIDEO — skyline over the Río de la Plata, the world's widest estuary",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/uy-landmark.jpg",
+      "alt": "Historic lighthouse of Colonia del Sacramento above colonial ruins",
+      "caption": "COLONIA LIGHTHOUSE — built 1857 atop 17th-century convent ruins, UNESCO site",
+      "credit": "Andrea Arriola / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/uy-animalA.jpg",
+      "alt": "A large capybara resting near water",
+      "caption": "CAPYBARA — world's largest rodent, common in Uruguay's river wetlands",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/uy-animalB.jpg",
+      "alt": "A greater rhea standing tall in open grassland",
+      "caption": "GREATER RHEA — the Americas' biggest bird roams Uruguay's open Pampas",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}
