@@ -1,0 +1,163 @@
+{
+  "name": "URUGUAY",
+  "nativeName": "UY",
+  "romaji": "URUGUAY",
+  "tagline": "Đất nhỏ, trái tim lớn",
+  "region": "Vùng nón Nam Mỹ, Nam Mỹ",
+  "coords": "33°S 56°W",
+  "fileNo": "042",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EDD8",
+    "dot": "#C9BC9A",
+    "ink": "#28231C",
+    "faint": "#8A7B58",
+    "line": "#DDD4B8",
+    "accent": "#75AADB",
+    "accent2": "#F4C542"
+  },
+  "flag": {
+    "assetPath": "/flags/uy.svg",
+    "title": "Cờ Mặt Trời Tháng Năm",
+    "note": "9 sọc ngang; Mặt Trời Tháng Năm màu vàng ở góc trên bên trái",
+    "keyColor": "#75AADB",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Uruguay nằm lọt thỏm giữa Brazil và Argentina, bên bờ Đại Tây Dương của Nam Mỹ. Đất nước nhỏ bé này có tới gần bốn con bò cho mỗi người dân — kỷ lục thế giới đấy! Dù diện tích chỉ tương đương Việt Nam, Uruguay lại là một trong những nền dân chủ hòa bình và tiến bộ nhất châu Mỹ. Thủ đô Montevideo ôm ấp bên bờ cửa sông Río de la Plata mênh mông rộng lớn.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Montevideo",
+      "sub": "Khoảng 1,4 triệu người cả vùng đô thị"
+    },
+    {
+      "label": "Dân số",
+      "value": "3,39 triệu người",
+      "sub": "Ước tính LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Peso (UYU)",
+      "sub": "100 centésimos = 1 peso"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Dùng khắp nơi; vùng biên giới nói Portuñol"
+    },
+    {
+      "label": "Diện tích",
+      "value": "176.215 km²",
+      "sub": "Tương đương diện tích Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "513 m",
+      "sub": "Núi Cerro Catedral, tỉnh Maldonado"
+    }
+  ],
+  "islands": [
+    "Montevideo",
+    "Maldonado",
+    "Colonia",
+    "Salto",
+    "Rivera"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đồng cỏ xanh & những dòng sông bạc",
+    "animals": "Những người khổng lồ của thảo nguyên",
+    "culture": "Mate, trống vang & thịt nướng",
+    "history": "Từ thuộc địa đến đất nước tự do",
+    "wows": "Uruguay bất ngờ lắm đó!"
+  },
+  "geo": [
+    "Gần như toàn bộ Uruguay là một vùng đồng cỏ mênh mông trải dài gọi là Pampas — những đợt sóng xanh bất tận với đàn bò thả rông. Chỉ có những dải rừng mỏng manh ven sông phá vỡ sự đơn điệu đó. Đỉnh núi cao nhất của Uruguay, Cerro Catedral, chỉ cao 514 mét — thấp hơn nhiều tòa nhà chọc trời ở các thành phố lớn.",
+    "Bờ biển Uruguay thật tuyệt: cửa sông Río de la Plata gặp Đại Tây Dương tạo nên những bãi cát trắng, đầm phá và cả những hòn đảo đá đầy sư tử biển. Vì không có núi cao, đây là một trong những quốc gia dễ khám phá nhất Nam Mỹ — đi bộ hay lái xe đều thoải mái."
+  ],
+  "animals": [
+    "Capybara là chúa tể của các vùng đất ngập nước — loài gặm nhấm to nhất thế giới, lớn bằng con lợn con, bơi lội tung tăng qua các đầm lầy Uruguay cùng cả đàn. Những chú nai pampas duyên dáng nhẹ nhàng bước trên thảo nguyên bằng đôi chân thon thả.",
+    "Đà điểu rhea lớn oai vệ sải bước qua Pampas — con chim to nhất châu Mỹ, dù không bay được. Còn chim quốc gia của Uruguay là hornero, loài chim tài hoa biết xây tổ bằng đất sét trên cột hàng rào, nhìn y hệt một chiếc lò nướng bánh mì thu nhỏ!"
+  ],
+  "culture": [
+    "Người Uruguay đi đâu cũng mang theo bình nước nóng, rót vào quả bầu đựng yerba mate — một loại trà thảo mộc đắng uống qua ống hút kim loại. Mời mate như một cái bắt tay thân thiện; từ chối là mất lịch sự đấy. Asado — thịt bò nướng than gỗ — cũng thiêng liêng không kém: cả gia đình quây quần bên bếp nướng suốt ngày Chủ nhật.",
+    "Tiếng trống candombe theo chân những người châu Phi bị bắt làm nô lệ đến đây và không bao giờ rời đi — UNESCO công nhận đây là Di sản Văn hóa Phi vật thể. Mỗi tháng Hai, lễ hội carnival biến đường phố Montevideo thành rừng tiếng trống và vũ công đeo lông vũ rực rỡ. Tango cũng lớn lên ở đây, khiến Uruguay trở thành đồng quê hương của vũ điệu lãng mạn nhất thế giới."
+  ],
+  "history": [
+    "Người Charrúa bản địa sống ở đây hàng ngàn năm trước khi các nhà thám hiểm Tây Ban Nha đặt chân đến năm 1516. Bồ Đào Nha lập ra Colonia del Sacramento năm 1680, châm ngòi cho cuộc tranh giành quyền lực giữa hai đế quốc. Người anh hùng José Artigas đã tập hợp nông dân và những người thoát khỏi ách nô lệ để chống lại ách cai trị của Tây Ban Nha từ năm 1811.",
+    "Ba mươi ba chiến sĩ yêu nước vượt sông năm 1825 và tuyên bố độc lập. Các nhà ngoại giao Anh làm trung gian hòa giải năm 1828, và Uruguay bé nhỏ ra đời như một vùng đệm giữa hai người hàng xóm khổng lồ là Brazil và Argentina — vai trò đó kéo dài cho đến tận ngày nay."
+  ],
+  "wows": [
+    "Uruguay có khoảng 3,6 con bò trên mỗi người dân — tỉ lệ bò-người cao nhất trên Trái Đất!",
+    "Năm 2013, Uruguay trở thành quốc gia đầu tiên trên thế giới hợp pháp hóa hoàn toàn cần sa giải trí.",
+    "Montevideo tổ chức World Cup FIFA đầu tiên trong lịch sử năm 1930 — và Uruguay giành chức vô địch!",
+    "Bờ kè rambla của Montevideo dài 22 km — đường dạo bộ ven biển đô thị dài nhất thế giới.",
+    "Giáo dục công lập miễn phí cho cả nam và nữ bắt đầu từ những năm 1870, sớm hơn phần lớn các nước châu Âu.",
+    "Colonia del Sacramento (thành lập năm 1680) là Di sản Thế giới UNESCO với những con phố đá cuội vẫn nguyên vẹn như 300 năm trước.",
+    "Uruguay là quốc gia lục địa duy nhất ở châu Mỹ không có dãy núi, rừng rậm nhiệt đới hay núi lửa nào."
+  ],
+  "myths": [
+    {
+      "myth": "Uruguay là nước nhỏ và nghèo",
+      "fact": "Thực ra Uruguay có GDP bình quân đầu người cao thứ nhì Nam Mỹ và tầng lớp trung lưu lớn nhất khu vực — hơn 60% dân số!"
+    },
+    {
+      "myth": "Tango là điệu nhảy thuần túy của Argentina",
+      "fact": "Tango ra đời ở cả hai bờ sông Río de la Plata vào những năm 1880. UNESCO công nhận nguồn gốc chung của tango từ cả Uruguay lẫn Argentina là di sản thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Ổn / được rồi",
+      "jp": "Ta",
+      "say": "tah"
+    },
+    {
+      "en": "Trà mate",
+      "jp": "Mate",
+      "say": "MAH-teh"
+    },
+    {
+      "en": "Thịt nướng",
+      "jp": "Asado",
+      "say": "ah-SAH-doh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/uy-hero.jpg",
+      "alt": "Toàn cảnh đường chân trời thành phố Montevideo nhìn từ vịnh",
+      "caption": "MONTEVIDEO — đường chân trời soi bóng xuống Río de la Plata, cửa sông rộng nhất thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/uy-landmark.jpg",
+      "alt": "Ngọn hải đăng lịch sử của Colonia del Sacramento trên nền phế tích thuộc địa",
+      "caption": "HẢI ĐĂNG COLONIA — xây năm 1857 trên nền tu viện thế kỷ 17, Di sản UNESCO",
+      "credit": "Andrea Arriola / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/uy-animalA.jpg",
+      "alt": "Một con capybara lớn đang nghỉ ngơi gần mặt nước",
+      "caption": "CAPYBARA — loài gặm nhấm lớn nhất thế giới, thường thấy ở vùng đất ngập nước Uruguay",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/uy-animalB.jpg",
+      "alt": "Một con đà điểu rhea đứng cao lớn trên cánh đồng cỏ trống trải",
+      "caption": "ĐÀ ĐIỂU RHEA — loài chim lớn nhất châu Mỹ lang thang trên thảo nguyên Pampas",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

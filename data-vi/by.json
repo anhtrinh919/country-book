@@ -1,0 +1,163 @@
+{
+  "name": "BELARUS",
+  "nativeName": "BY",
+  "romaji": "BELARUS",
+  "tagline": "Trái tim rừng xanh của châu Âu",
+  "region": "Đông Âu",
+  "coords": "53.9°N, 27.6°E",
+  "fileNo": "051",
+  "langName": "tiếng Belarus",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E6",
+    "dot": "#c8ccb2",
+    "ink": "#1e2118",
+    "faint": "#7a8060",
+    "line": "#d4d8c0",
+    "accent": "#C8282A",
+    "accent2": "#3A7D2C"
+  },
+  "flag": {
+    "assetPath": "/flags/by.svg",
+    "title": "Quốc kỳ Belarus",
+    "note": "Sọc đỏ và xanh lá, dải hoa văn thổ cẩm truyền thống",
+    "keyColor": "#C8282A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Belarus nằm giữa vùng Đông Âu bằng phẳng, bao quanh bởi những khu rừng cổ thụ và hàng nghìn hồ nước lấp lánh. Gần một nửa đất nước là rừng rậm — nơi trú ngụ của bò rừng và linh miêu. Thủ đô Minsk từng bị phá hủy hoàn toàn trong Thế chiến II rồi được xây dựng lại với những đại lộ rộng lớn, uy nghi. Người Belarus yêu khoai tây, nghề thêu thổ cẩm và môn khúc côn cầu trên băng đến tận xương tủy.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Minsk",
+      "sub": "2 triệu người; bên sông Svislach"
+    },
+    {
+      "label": "Dân số",
+      "value": "9,1 triệu người",
+      "sub": "Ước tính 2025 — xấp xỉ Áo"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rúp Belarus (BYN)",
+      "sub": "100 kopek = 1 rúp"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Belarus",
+      "sub": "& tiếng Nga — cả hai đều chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "207.600 km²",
+      "sub": "Nhỏ hơn nước Anh một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Dzyarzhynsk.",
+      "sub": "345 m — chỉ như một ngọn đồi thoai thoải!"
+    }
+  ],
+  "islands": [
+    "Minsk",
+    "Hrodna",
+    "Brest",
+    "Vitebsk",
+    "Homyel"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Rừng xanh, hồ nước & đồng bằng",
+    "animals": "Muông thú trong rừng sâu",
+    "culture": "Khoai tây, thêu thùa & khúc côn cầu",
+    "history": "Từ đại công quốc đến thời Liên Xô",
+    "wows": "Bảy điều bất ngờ về Belarus"
+  },
+  "geo": [
+    "Belarus gần như hoàn toàn bằng phẳng — cả nước chênh lệch độ cao chỉ vỏn vẹn 345 mét! Những con sông lớn như Dnieper chảy qua vùng đầm lầy mênh mông gọi là Palesse — một trong những vùng đất ngập nước lớn nhất châu Âu, nơi sinh sống của vô số loài ếch nhái và chim lội nước quý hiếm.",
+    "Khoảng 40% diện tích Belarus là rừng thông và vân sam dày đặc. Hơn 10.000 hồ nước do sông băng cổ đại tạo ra lấp lánh khắp miền bắc đất nước. Belarus không giáp biển, tiếp giáp với Ba Lan, Ukraine, Nga, Latvia và Lithuania — hoàn toàn bị bao vây bởi đất liền."
+  ],
+  "animals": [
+    "Bò rừng châu Âu — còn gọi là zubr — là quốc thú của Belarus và cũng là câu chuyện bảo tồn kỳ diệu nhất nước này. Bị săn bắt đến tuyệt chủng ngoài tự nhiên vào năm 1927, loài bò rừng khổng lồ này được nhân giống trong các vườn thú rồi thả trở lại rừng. Rừng Białowieża ngày nay có khoảng 1.000 con bò rừng hoang dã — đàn bò rừng hoang dã liền mạch lớn nhất thế giới.",
+    "Rừng Białowieża còn là nhà của sói, linh miêu và rái cá sông. Mỗi mùa hè, cò trắng làm tổ trên ống khói của những ngôi nhà trong làng — người dân coi đây là điềm lành. Đến mùa thu, hàng nghìn con sếu di cư tụ về vùng đầm lầy Pripyat, tiếng kêu vang rền cả bầu trời."
+  ],
+  "culture": [
+    "Người Belarus rất tự hào về vyshyvanka — nghề thêu tay tinh xảo với hoa văn hình học đỏ-trắng trên áo và trang phục lễ hội. Khoai tây (gọi là bulba) là niềm đam mê của cả dân tộc: draniki — bánh khoai tây chiên giòn — xuất hiện trên mọi bàn ăn, mỗi ngày, như cơm của người Việt mình vậy.",
+    "Khúc côn cầu trên băng là môn thể thao của cả quốc gia — trẻ em Belarus buộc giày trượt băng gần như ngay khi biết đi, và Minsk từng đăng cai Giải Vô địch Thế giới IIHF năm 2014. Lễ hội Kupalle vào giữa mùa hè là dịp mọi người nhảy qua đống lửa và thả vòng hoa trôi theo dòng sông."
+  ],
+  "history": [
+    "Belarus từng là trung tâm của Đại Công quốc Lithuania hùng mạnh trong thế kỷ 14-16 — vào thời đỉnh cao, đây là một trong những quốc gia lớn nhất châu Âu, trải dài từ biển Baltic gần đến tận Biển Đen. Sau đó đất nước rơi vào tay Đế quốc Nga và trải qua những trận chiến tàn khốc trong cả hai cuộc Thế chiến.",
+    "Cuộc chiếm đóng của Phát xít Đức từ 1941-1944 là thảm họa kinh hoàng: Belarus mất khoảng một phần tư dân số. Sau giải phóng, đất nước được xây dựng lại thành một cộng hòa kiểu mẫu của Liên Xô. Độc lập đến vào năm 1991 khi Liên Xô tan rã trong hòa bình."
+  ],
+  "wows": [
+    "Rừng Białowieża là khu rừng nguyên sinh đồng bằng cuối cùng còn sót lại ở châu Âu, chung sức bảo vệ bởi cả Belarus lẫn Ba Lan.",
+    "Minsk bị phá hủy hoàn toàn trong Thế chiến II đến mức phải xây dựng lại từ đầu, biến thành thủ đô kiểu mẫu của Liên Xô.",
+    "Belarus trồng nhiều khoai tây hơn hầu hết các nước trên thế giới — bình quân mỗi người khoảng 430 kg mỗi năm!",
+    "Đỉnh núi cao nhất nước — đồi Dzyarzhynsk — chỉ cao 345 m, thấp hơn nhiều tòa nhà chọc trời.",
+    "Belarus đã đưa bò rừng châu Âu trở lại hoang dã sau khi chúng bị tuyên bố tuyệt chủng trong tự nhiên.",
+    "Vitebsk là quê hương của họa sĩ Marc Chagall, người có những bức tranh mơ mộng đang treo trong các bảo tàng khắp thế giới.",
+    "Belarus là thành viên sáng lập Liên Hợp Quốc năm 1945 — dù lúc đó vẫn còn là một phần của Liên Xô!"
+  ],
+  "myths": [
+    {
+      "myth": "Belarus chỉ là một phần của nước Nga",
+      "fact": "Người Belarus có ngôn ngữ riêng, văn hóa dân gian riêng và hàng thế kỷ tồn tại như một quốc gia độc lập với tên gọi Đại Công quốc Lithuania — hoàn toàn không phải người Nga."
+    },
+    {
+      "myth": "Cả đất nước Belarus đều bị nhiễm phóng xạ",
+      "fact": "Vụ nổ Chernobyl năm 1986 khiến phần lớn bụi phóng xạ rơi xuống miền nam Belarus, nơi đó có vùng hạn chế. Còn Minsk và phần lớn đất nước hoàn toàn an toàn để đến thăm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Вітаю",
+      "say": "Vee-TAH-yu"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Дзякуй",
+      "say": "DZYA-kooy"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Калі ласка",
+      "say": "KAH-li LAS-ka"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Смачна",
+      "say": "SMACH-na"
+    },
+    {
+      "en": "Rừng",
+      "jp": "Лес",
+      "say": "Lyes"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/by-hero.jpg",
+      "alt": "Tòa nhà Thư viện Quốc gia Belarus hình kim cương bằng kính sáng rực về đêm",
+      "caption": "THƯ VIỆN QUỐC GIA — công trình kính hình kim cương biểu tượng của Minsk lung linh sau màn đêm",
+      "credit": "Wikimedia Commons / A. Mitrofanov"
+    },
+    "landmark": {
+      "src": "/photos/by-landmark.jpg",
+      "alt": "Lâu đài Mir phản chiếu xuống mặt hồ tĩnh lặng trong một ngày nắng đẹp",
+      "caption": "LÂU ĐÀI MIR — pháo đài Di sản Thế giới UNESCO soi bóng xuống hào nước",
+      "credit": "Wikimedia Commons / Homoatrox"
+    },
+    "animalA": {
+      "src": "/photos/by-animalA.jpg",
+      "alt": "Bò rừng châu Âu đứng giữa khoảng trống trong rừng",
+      "caption": "BÒ RỪNG CHÂU ÂU — chú zubr oai hùng, được cứu khỏi bờ tuyệt chủng",
+      "credit": "Wikimedia Commons / Radomił Binek"
+    },
+    "animalB": {
+      "src": "/photos/by-animalB.jpg",
+      "alt": "Cò trắng đứng giữa đồng cỏ",
+      "caption": "CÒ TRẮNG — biểu tượng may mắn, làm tổ trên ống khói nhà dân mỗi mùa hè",
+      "credit": "Wikimedia Commons / Siga"
+    }
+  }
+}

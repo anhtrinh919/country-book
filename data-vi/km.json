@@ -1,0 +1,162 @@
+{
+  "name": "COMOROS",
+  "nativeName": "جزر",
+  "romaji": "KOMORI",
+  "tagline": "Những hòn đảo của Mặt Trăng",
+  "region": "Đông Phi",
+  "coords": "-11.6° S, 43.3° E",
+  "fileNo": "089",
+  "langName": "tiếng Comorian",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFA8",
+    "ink": "#272018",
+    "faint": "#857560",
+    "line": "#DDD5C0",
+    "accent": "#3A7D44",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/km.svg",
+    "title": "Liên minh Comoros",
+    "note": "Dải xanh lá bên trái, trăng lưỡi liềm & 4 ngôi sao, 4 dải màu ngang",
+    "keyColor": "#3A7D44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Comoros là một chùm đảo núi lửa nhỏ xíu nằm giữa Ấn Độ Dương, lọt thỏm giữa Madagascar và châu Phi. Tên của nó trong tiếng Ả Rập có nghĩa là \"Những hòn đảo của Mặt Trăng\" — nghe thật thơ mộng! Ba hòn đảo chính, mỗi đảo đều có núi lửa riêng, tạo nên một trong những quốc gia nhỏ nhất thế giới. Và điều kỳ diệu nhất: không khí ở đây lúc nào cũng thơm ngát mùi hoa ylang-ylang — loài hoa được thu hoạch để làm ra những loại nước hoa nổi tiếng nhất thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Moroni",
+      "sub": "Xây dựng ngay dưới chân núi lửa đang hoạt động"
+    },
+    {
+      "label": "Dân số",
+      "value": "~883,000",
+      "sub": "Ước tính Liên Hợp Quốc 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc KMF",
+      "sub": "Neo theo đồng euro"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Comorian",
+      "sub": "Cùng với tiếng Ả Rập và tiếng Pháp"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.862 km²",
+      "sub": "Nhỏ hơn cả thành phố London"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.361 m",
+      "sub": "Karthala — núi lửa đang hoạt động"
+    }
+  ],
+  "islands": [
+    "Gde Comore",
+    "Anjouan",
+    "Mohéli",
+    "Moroni"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa mọc lên từ biển",
+    "animals": "Hóa thạch sống và dơi khổng lồ",
+    "culture": "Tiệc tùng, hoa thơm và điệu twarab",
+    "history": "Sultan, gia vị và con đường biển",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Comoros sinh ra từ lửa — cả ba hòn đảo đều là đảo núi lửa. Đảo lớn nhất, Grande Comore, có núi Karthala vẫn đang hoạt động với miệng núi lửa rộng hơn 3 km — đủ chỗ để nhét cả một thị trấn nhỏ vào trong! Các đảo nhô thẳng đứng lên từ mặt biển, gần như không có chút đất bằng phẳng nào.",
+    "Bao quanh bởi rạn san hô và vùng biển Ấn Độ Dương ấm áp, các đảo đón nhiều mưa nhiệt đới nuôi dưỡng những cánh rừng mưa xanh tốt. Đảo Mohéli — nhỏ nhất trong ba đảo — vẫn giữ được vẻ hoang sơ nhất, với rừng chạy dài xuống tận bãi biển và rùa biển đẻ trứng trên những bãi cát chưa có dấu chân người."
+  ],
+  "animals": [
+    "Cá coelacanth — loài cá tưởng đã tuyệt chủng từ 65 triệu năm trước — được tìm thấy còn sống vào năm 1938, và Comoros chính là ngôi nhà của chúng. Loài cá này ẩn mình trong những hang động ngầm sâu dưới đáy biển ngoài khơi Grande Comore, có thể dài tới 2 mét: một hóa thạch sống thực sự.",
+    "Dơi quả Livingstone chỉ sống ở Comoros và là một trong những loài thú hiếm nhất thế giới — cả thế giới còn chưa đến 1.500 con. Sải cánh của nó lên tới 1,4 mét, gần bằng chiều cao người lớn! Mỗi trong ba hòn đảo còn có loài cú nhỏ riêng mà không nơi nào trên Trái Đất khác có được."
+  ],
+  "culture": [
+    "Grand Mariage — Đám Cưới Lớn — là sự kiện quan trọng nhất trong cuộc đời một người dân Comoros: tiệc cưới kéo dài hai tuần với những bữa tiệc linh đình, điệu nhảy say mê và trang phục lộng lẫy kiểu vua chúa. Cả gia đình tích góp nhiều năm, cả làng cùng đến chung vui. Đây quan trọng hơn bất cứ điều gì khác trong cuộc sống.",
+    "Âm nhạc twarab — pha trộn giữa đàn lute Ả Rập, violin và thơ Swahili — vang lên ở khắp mọi góc đảo. Phụ nữ tô lên mặt thứ bột đàn hương vàng óng gọi là msindzano mỗi khi có lễ hội. Và không khí luôn phảng phất mùi thơm của dầu hoa ylang-ylang — một hương thơm không lẫn vào đâu được."
+  ],
+  "history": [
+    "Những thương nhân Ả Rập đã mang đạo Hồi đến Comoros vào khoảng thế kỷ 10, đặt tên cho quần đảo là Juzur al-Qamar — Những Hòn Đảo của Mặt Trăng. Hàng trăm năm sau, các sultan tranh giành quyền cai trị từng đảo và buôn bán gia vị xuyên Ấn Độ Dương với Ba Tư, Ấn Độ và Đông Phi.",
+    "Người Pháp kiểm soát Comoros vào thế kỷ 19, và đất nước này giành độc lập năm 1975. Nhưng trong 50 năm sau đó, Comoros trải qua hơn 20 cuộc đảo chính — nhiều đến mức người ta đặt biệt danh là 'đảo đảo chính'! Ngày nay mọi thứ đã ổn định hơn nhiều, và quần đảo đang từng bước xây dựng tương lai bền vững hơn."
+  ],
+  "wows": [
+    "Comoros cung cấp khoảng 80% sản lượng dầu ylang-ylang của cả thế giới — loài hoa tạo nên hương thơm đặc trưng của nước hoa Chanel No. 5.",
+    "Núi Karthala phun trào trung bình mỗi 11 năm một lần — lần gần nhất là năm 2007 — xếp vào hàng những núi lửa hoạt động mạnh nhất Trái Đất.",
+    "Comoros đã trải qua hơn 20 cuộc đảo chính kể từ năm 1975 — tính theo đầu người, nhiều hơn gần như bất kỳ quốc gia nào khác trên thế giới.",
+    "Cá coelacanth bị cho là đã tuyệt chủng 65 triệu năm trước khi một con sống được câu lên gần Comoros vào năm 1938 — một khám phá chấn động cả thế giới khoa học.",
+    "Thủ đô Moroni là một trong số rất ít thủ đô trên Trái Đất được xây dựng ngay trên nền dung nham của núi lửa đang hoạt động.",
+    "Dơi quả Livingstone chỉ tồn tại ở Comoros; toàn thế giới còn chưa đến 1.500 con.",
+    "Đảo Mohéli trở thành vườn quốc gia biển cộng đồng đầu tiên ở vùng hạ Sahara châu Phi vào năm 2001, bảo vệ rạn san hô và rùa biển."
+  ],
+  "myths": [
+    {
+      "myth": "Comoros là một phần của Madagascar",
+      "fact": "Đây là hai quốc gia hoàn toàn riêng biệt, cách nhau 300 km. Comoros có ngôn ngữ, tổng thống và văn hóa hoàn toàn khác — dù cả hai đều nằm trên Ấn Độ Dương gần bờ Đông Phi."
+    },
+    {
+      "myth": "Comoros luôn trong tình trạng bất ổn",
+      "fact": "Comoros đã ổn định về chính trị kể từ năm 2001 và đón chào du khách. Bãi biển, rạn san hô và rừng nhiệt đới nơi đây thu hút ngày càng nhiều khách du lịch mỗi năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Jeje",
+      "say": "JEH-jeh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Marahaba",
+      "say": "mah-rah-HAH-bah"
+    },
+    {
+      "en": "Tôi khỏe",
+      "jp": "Salama",
+      "say": "sah-LAH-mah"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Karibu",
+      "say": "kah-REE-boo"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Ritsoonana",
+      "say": "rit-so-NAH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/km-hero.jpg",
+      "alt": "Toàn cảnh thành phố Moroni nhìn từ trên cao với nhà thờ Hồi giáo và vịnh cảng",
+      "caption": "MORONI — nhà thờ Hồi giáo lớn và cảng biển của thủ đô nhìn từ trên cao",
+      "credit": "Sascha Grabow / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/km-landmark.jpg",
+      "alt": "Toàn cảnh miệng núi lửa khổng lồ của núi Karthala",
+      "caption": "NÚI KARTHALA — miệng núi lửa rộng tới 3 km của ngọn núi lửa đang hoạt động ở Comoros",
+      "credit": "Rokaso / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/km-animalA.jpg",
+      "alt": "Dơi quả Livingstone đang treo mình với cánh xòe rộng tại vườn thú Bristol",
+      "caption": "DƠI QUẢ LIVINGSTONE — loài dơi hiếm nhất Trái Đất, chỉ tìm thấy ở Comoros",
+      "credit": "Adrian Pingstone / Public domain"
+    },
+    "animalB": {
+      "src": "/photos/km-animalB.jpg",
+      "alt": "Mẫu vật cá coelacanth được bảo quản với những vây thùy đặc trưng",
+      "caption": "CÁ COELACANTH — hóa thạch sống, được phát hiện còn sống ngoài khơi Comoros năm 1938",
+      "credit": "BrokenSphere / CC BY-SA 3.0"
+    }
+  }
+}

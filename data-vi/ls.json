@@ -1,0 +1,163 @@
+{
+  "name": "LESOTHO",
+  "nativeName": "LS",
+  "romaji": "LESOTHO",
+  "tagline": "Vương quốc trên mây",
+  "region": "Nam Phi",
+  "coords": "-29.6°N, 28.2°E",
+  "fileNo": "072",
+  "langName": "tiếng Sesotho",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEE8D8",
+    "dot": "#C8BC9E",
+    "ink": "#252018",
+    "faint": "#857A5C",
+    "line": "#D8CFBA",
+    "accent": "#009A44",
+    "accent2": "#003580"
+  },
+  "flag": {
+    "assetPath": "/flags/ls.svg",
+    "title": "Quốc kỳ Lesotho",
+    "note": "Ba màu xanh dương, trắng, xanh lá; ở giữa là mũ mokorotlo truyền thống",
+    "keyColor": "#009A44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Lesotho là vương quốc núi non hoàn toàn nằm bên trong Nam Phi — dù đi đâu trong nước, bạn cũng ở độ cao hơn 1.000 mét so với mặt biển! Người Basotho nơi đây khoác những tấm chăn sặc sỡ, cưỡi ngựa vượt đèo tuyết, và sống cùng với loài kền kền râu hiếm có. Đất nước bé nhỏ này còn giấu trong lòng những viên kim cương đắt nhất thế giới và bán nước sạch cho các thành phố khổng lồ ở dưới đồng bằng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Maseru",
+      "sub": "khoảng 360.000 người (ước tính 2024)"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,36 triệu người",
+      "sub": "ước tính Worldometer 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Loti (LSL)",
+      "sub": "gắn ngang giá với rand Nam Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Sesotho",
+      "sub": "+ tiếng Anh (đều là ngôn ngữ chính thức)"
+    },
+    {
+      "label": "Diện tích",
+      "value": "30.355 km²",
+      "sub": "nhỏ hơn Bỉ một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.482 m",
+      "sub": "núi Ntlenyana, dãy Drakensberg"
+    }
+  ],
+  "islands": [
+    "Maseru",
+    "Leribe",
+    "Mafeteng",
+    "Mokhotlong",
+    "Quthing"
+  ],
+  "islandsLabel": "CÁC HUYỆN CHÍNH:",
+  "sections": {
+    "geography": "Mái nhà của châu Phi",
+    "animals": "Cánh bay, vó ngựa và xoáy lá",
+    "culture": "Chăn hoa, ngựa rừng và tiếng hát",
+    "history": "Vua núi và nền độc lập",
+    "wows": "Khó mà tin được!"
+  },
+  "geo": [
+    "Lesotho là quốc gia duy nhất trên Trái Đất mà toàn bộ lãnh thổ đều nằm trên độ cao hơn 1.000 mét — ngay cả thung lũng thấp nhất của nước này cũng cao hơn đỉnh núi cao nhất nước Anh! Hai phần ba đất đai là cao nguyên gồ ghề, bị những hẻm núi sâu thẳm cắt chia.",
+    "Thác Maletsunyane đổ thẳng một mạch xuống 192 mét — một trong những thác nước cao nhất châu Phi. Tuyết và mưa trên núi cao tạo ra nguồn nước dồi dào đến mức Lesotho bơm nước qua đường ống khổng lồ xuống cung cấp cho các thành phố ở đồng bằng Nam Phi bên dưới."
+  ],
+  "animals": [
+    "Kền kền râu soải đôi cánh dài tới 2,8 mét lượn trên những đỉnh núi của Lesotho. Nó nhặt xương lên rồi bay cao thật cao, thả xuống đá để xương vỡ ra mà lấy tủy bên trong. Lesotho là nơi duy nhất ở miền nam châu Phi còn có đàn kền kền râu sinh sản khỏe mạnh.",
+    "Cây lô hội xoáy ốc (Aloe polyphylla) chỉ mọc được ở Lesotho và không nơi nào khác trên Trái Đất — những chiếc lá của nó xếp thành vòng xoáy hoàn hảo theo chiều kim đồng hồ trông rất kỳ diệu. Còn loài cá Maloti minnow bé tí thì chỉ trú ngụ trong những con suối trên cao nguyên này."
+  ],
+  "culture": [
+    "Tấm chăn Basotho không chỉ là áo khoác — mỗi hoa văn đậm nét đều mang một ý nghĩa riêng: khi mới sinh, khi lên làm vua, khi trưởng thành. Cả đàn ông lẫn đàn bà đều mặc chúng mỗi ngày. Cưỡi ngựa Basotho vạm vỡ vượt những con đèo sương mù là trải nghiệm đặc trưng nhất khi đến đây.",
+    "Tiếng nhạc lesiba — nhạc cụ làm từ lông vũ và một sợi dây — vang vọng khắp nơi. Bữa cơm gia đình thường có papa (cháo đặc) và moroho (rau dại), mọi người quây quần ấm cúng bên nhau. Chiếc mũ hình chóp mokorotlo đặc trưng đến mức được in ngay lên quốc kỳ của đất nước."
+  ],
+  "history": [
+    "Khoảng năm 1822, tù trưởng Moshoeshoe I tập hợp các bộ lạc đang phân tán về núi Thaba Bosiu — 'Núi ban đêm' — dùng tài ngoại giao và vách đá dựng đứng để đẩy lùi kẻ thù. Ông chào đón người tị nạn và dựng xây cả một đất nước từ gần như không có gì.",
+    "Bị người Boer đe dọa, Moshoeshoe xin Anh che chở năm 1868. Đến ngày 4 tháng 10 năm 1966, Vương quốc Lesotho chính thức độc lập hoàn toàn, với Moshoeshoe II lên ngôi làm vua đầu tiên."
+  ],
+  "wows": [
+    "Điểm thấp nhất của Lesotho vẫn cao hơn đỉnh núi cao nhất của nước Anh.",
+    "Mỏ kim cương Letšeng nằm ở độ cao 3.100 m cho ra những viên đá quý đắt nhất trên mỗi carat so với bất kỳ mỏ nào trên Trái Đất.",
+    "Bốn trong số 20 viên kim cương chất lượng cao nhất từ trước đến nay đều được tìm thấy ở Lesotho.",
+    "Dấu chân khủng long ba ngón 200 triệu năm tuổi còn in rõ trên đá sa thạch gần vùng Quthing.",
+    "Lesotho kiếm hàng triệu đô la mỗi năm bằng cách bán nước qua đường ống cho các thành phố của Nam Phi.",
+    "Quán bar cao nhất châu Phi nằm ở đèo Sani, độ cao 2.874 m — muốn đến đó bạn cần xe địa hình 4 bánh.",
+    "Kền kền râu ăn chủ yếu là xương nhờ dạ dày tiết ra axit cực mạnh có thể hòa tan xương cứng."
+  ],
+  "myths": [
+    {
+      "myth": "Lesotho là một phần của Nam Phi",
+      "fact": "Lesotho là vương quốc độc lập hoàn toàn — một trong chỉ ba nước trên thế giới bị bao bọc hoàn toàn bởi một quốc gia khác, với vua và tiền tệ riêng của mình."
+    },
+    {
+      "myth": "Vùng núi này chẳng có gì quý giá",
+      "fact": "Cao nguyên Lesotho chứa những mỏ kim cương phá kỷ lục thế giới và cung cấp hàng tỉ lít nước sạch cho Nam Phi mỗi năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Dumela",
+      "say": "doo-MEH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ke a leboha",
+      "say": "keh ah leh-BOH-ha"
+    },
+    {
+      "en": "Bình an",
+      "jp": "Khotso",
+      "say": "KHOT-soh"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "Ee",
+      "say": "eh-eh"
+    },
+    {
+      "en": "Cha / Thưa ông",
+      "jp": "Ntate",
+      "say": "nn-TAH-teh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ls-hero.jpg",
+      "alt": "Thác Maletsunyane đổ ầm ầm xuống hẻm núi đá ở Lesotho",
+      "caption": "THÁC MALETSUNYANE — một trong những thác nước đổ thẳng cao nhất châu Phi, 192 mét",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ls-landmark.jpg",
+      "alt": "Núi Thaba Bosiu với đỉnh bằng phẳng, pháo đài của Vua Moshoeshoe I",
+      "caption": "THABA BOSIU — pháo đài núi nơi Moshoeshoe I xây dựng vương quốc của mình",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ls-animalA.jpg",
+      "alt": "Kền kền râu đang bay lượn trên các đỉnh núi",
+      "caption": "KỀN KỀN RÂU — gã khổng lồ chuyên ném xương của cao nguyên Lesotho",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ls-animalB.jpg",
+      "alt": "Cây lô hội xoáy ốc với những chiếc lá xếp thành vòng xoáy hoàn hảo trên sườn núi",
+      "caption": "LÔ HỘI XOÁY ỐC — quốc hoa của Lesotho, không mọc ở đâu khác trên Trái Đất",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

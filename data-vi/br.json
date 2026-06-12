@@ -1,0 +1,163 @@
+{
+  "name": "BRAZIL",
+  "nativeName": "BR",
+  "romaji": "BRASIL",
+  "tagline": "Xứ sở Carnival & Rừng già",
+  "region": "Nam Mỹ",
+  "coords": "-14.2°N, -51.9°W",
+  "fileNo": "BRA",
+  "langName": "tiếng Bồ Đào Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9A",
+    "ink": "#1E2A18",
+    "faint": "#7A8A6E",
+    "line": "#DDD3B8",
+    "accent": "#009C3B",
+    "accent2": "#FEDD00"
+  },
+  "flag": {
+    "assetPath": "/flags/br.svg",
+    "title": "Quốc kỳ Brazil",
+    "note": "Nền xanh lá, hình thoi vàng, quả địa cầu xanh dương và các ngôi sao",
+    "keyColor": "#009C3B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Brazil là người khổng lồ của Nam Mỹ — to đến mức giáp ranh gần hết các nước trên lục địa. Nơi đây giữ trong lòng khu rừng nhiệt đới lớn nhất thế giới — rừng Amazon — nơi sinh sống của nhiều loài sinh vật hơn bất kỳ đâu trên Trái Đất. Từ những bãi biển lấp lánh ở Rio đến thác Iguaçu ầm ầm như sấm, Brazil rực rỡ, náo nhiệt và căng tràn sức sống.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Brasília",
+      "sub": "Xây từ đầu chỉ trong 41 tháng"
+    },
+    {
+      "label": "Dân số",
+      "value": "215 triệu",
+      "sub": "Điều tra 2022 — đông thứ 5 thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Real (BRL)",
+      "sub": "Ký hiệu R$; 100 centavos = 1 real"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Bồ Đào Nha",
+      "sub": "Nước duy nhất ở châu Mỹ nói tiếng Bồ Đào Nha"
+    },
+    {
+      "label": "Diện tích",
+      "value": "8,51 triệu km²",
+      "sub": "Quốc gia rộng thứ 5 trên Trái Đất"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.994 m",
+      "sub": "Pico da Neblina, gần Venezuela"
+    }
+  ],
+  "islands": [
+    "São Paulo",
+    "Rio de Jan.",
+    "Amazonas",
+    "Bahia",
+    "Rio Grande"
+  ],
+  "islandsLabel": "CÁC BANG CHÍNH:",
+  "sections": {
+    "geography": "Xứ sở sông ngòi và rừng già",
+    "animals": "Muôn thú kỳ lạ khắp nơi",
+    "culture": "Nhịp điệu, màu sắc và bóng đá",
+    "history": "Từ thuộc địa đến đất nước vĩ đại",
+    "wows": "Những điều bất ngờ về Brazil"
+  },
+  "geo": [
+    "Brazil ôm trọn 60% diện tích rừng Amazon — khu rừng nhiệt đới lớn nhất hành tinh, còn rộng hơn cả Tây Âu. Sông Amazon đổ lượng nước ngọt ra biển nhiều hơn bất kỳ con sông nào khác trên Trái Đất.",
+    "Ngoài rừng rậm, Brazil còn có những thảo nguyên mênh mông gọi là Cerrado, vùng đất ngập nước Pantanal rộng lớn nhất thế giới, những bãi biển nắng chang chang ở miền Đông Bắc, và thác Iguaçu — rộng hơn cả thác Niagara nổi tiếng."
+  ],
+  "animals": [
+    "Rừng Amazon là nhà của báo đốm, cá heo hồng sông ngòi, thú ăn kiến khổng lồ, và capybara — loài gặm nhấm to nhất thế giới trông như con chuột lang khổng lồ, rất thích bơi lội. Những chú ếch phi tiêu độc màu sắc rực rỡ dùng bộ quần áo sặc sỡ để cảnh báo kẻ thù.",
+    "Bầu trời Brazil rộn ràng với chim toucan và vẹt đuôi dài đỏ rực. Dưới sông có cá piranha và cá arapaima khổng lồ. Vùng Pantanal có mật độ báo đốm đông nhất thế giới."
+  ],
+  "culture": [
+    "Brazil đã tặng cho thế giới điệu samba, nhạc bossa nova và những huyền thoại bóng đá như Pelé. Lễ hội Carnival — bữa tiệc đường phố lớn nhất hành tinh — thu hút hai triệu người mỗi ngày đổ ra đường ở Rio với ánh đèn lấp lánh, trống khua rộn rã và những vũ điệu không ngừng trước mùa Chay.",
+    "Ẩm thực Brazil là cả một ngày hội: churrasco chất đầy thịt nướng thơm lừng, còn feijoada — món hầm đậu đen với thịt heo đậm đà — là món ăn quốc hồn quốc túy được yêu thích nhất. Người Brazil rất thân thiện với người lạ và hiếm khi bỏ lỡ cơ hội nhảy múa."
+  ],
+  "history": [
+    "Bồ Đào Nha đã khai thác Brazil từ năm 1500, thu hoạch mía đường, vàng và cao su. Hàng triệu người châu Phi bị bắt làm nô lệ và đưa đến đây — một vết thương lịch sử còn in đậm trong âm nhạc, văn hóa và ẩm thực Brazil ngày nay.",
+    "Brazil tuyên bố độc lập năm 1822 với một hoàng tử người Bồ Đào Nha làm hoàng đế đầu tiên. Sau khi thành lập nền cộng hòa năm 1889, đất nước phát triển nhanh chóng. Thủ đô Brasília hiện đại được xây dựng từ vùng cao nguyên hoang vu và khánh thành năm 1960."
+  ],
+  "wows": [
+    "Brazil là quốc gia duy nhất ở châu Mỹ dùng tiếng Bồ Đào Nha — không phải tiếng Tây Ban Nha — làm ngôn ngữ chính thức.",
+    "Sông Amazon đổ nước ngọt ra Đại Tây Dương nhiều đến mức bạn có thể uống nước biển từ khoảng cách 160 km tính từ bờ.",
+    "Brazil vô địch FIFA World Cup tới 5 lần — nhiều hơn bất kỳ quốc gia nào khác trên thế giới.",
+    "Thác Iguaçu trải dài gần 3 km với 275 dải thác riêng biệt — thác Niagara so ra còn nhỏ hơn nhiều.",
+    "São Paulo có nhiều người gốc Nhật Bản hơn bất kỳ thành phố nào ngoài nước Nhật.",
+    "Vùng đất ngập nước Pantanal mùa mưa ngập tràn rộng bằng cả nước Pháp.",
+    "Thủ đô Brasília được xây xong trong 41 tháng và được UNESCO công nhận là Di sản Thế giới năm 1987."
+  ],
+  "myths": [
+    {
+      "myth": "Rừng Amazon tạo ra 20% lượng oxy của Trái Đất",
+      "fact": "Rừng Amazon hấp thụ và thải ra lượng oxy gần như bằng nhau. Sức mạnh thực sự của nó là giữ lại hàng tỷ tấn khí CO₂, chứ không phải sản xuất thêm oxy ròng."
+    },
+    {
+      "myth": "Cá piranha tấn công tất cả những gì động đậy trong nước",
+      "fact": "Thực ra cá piranha chủ yếu ăn xác chết. Người dân địa phương bơi cùng chúng mỗi ngày — piranha chỉ cắn khi đói kiệt hoặc bị dồn vào đường cùng, chứ không hung hãn như trong phim."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Bóng đá",
+      "jp": "Futebol",
+      "say": "foo-chee-BOL"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Gostoso",
+      "say": "gos-TOH-zoo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/br-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống thành phố Rio de Janeiro từ đỉnh Sugarloaf",
+      "caption": "RIO DE JANEIRO — thành phố nằm giữa những đỉnh rừng xanh và bãi biển cong như lưỡi liềm",
+      "credit": "Wikimedia Commons / Martin St-Amant"
+    },
+    "landmark": {
+      "src": "/photos/br-landmark.jpg",
+      "alt": "Tượng Chúa Cứu Thế trên đỉnh núi Corcovado nhìn xuống Rio de Janeiro",
+      "caption": "TƯỢNG CHÚA CỨU THẾ — dang tay rộng che chở Rio từ độ cao 710 m trên đỉnh Corcovado",
+      "credit": "Wikimedia Commons / Vincent van Zeijst"
+    },
+    "animalA": {
+      "src": "/photos/br-animalA.jpg",
+      "alt": "Báo đốm đi dọc bờ sông trong vùng đất ngập nước Pantanal",
+      "caption": "BÁO ĐỐM — loài mèo lớn nhất châu Mỹ tuần tra vùng đất ngập nước Pantanal",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/br-animalB.jpg",
+      "alt": "Chim toucan Toco đậu trên cành cây với chiếc mỏ cam khổng lồ",
+      "caption": "CHIM TOUCAN — chiếc mỏ khổng lồ vừa để hái quả vừa tản nhiệt trong xứ nhiệt đới",
+      "credit": "Wikimedia Commons / Ltshears"
+    }
+  }
+}

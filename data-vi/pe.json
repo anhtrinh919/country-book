@@ -1,0 +1,163 @@
+{
+  "name": "PERU",
+  "nativeName": "PE",
+  "romaji": "PERU",
+  "tagline": "Vùng đất của người Inca",
+  "region": "Nam Mỹ",
+  "coords": "9.19°S, 75.01°W",
+  "fileNo": "042",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA5",
+    "ink": "#2B2318",
+    "faint": "#8A7A5A",
+    "line": "#DACFB2",
+    "accent": "#D91023",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/pe.svg",
+    "title": "Quốc kỳ Peru",
+    "note": "Ba sọc đỏ-trắng-đỏ từ năm 1825",
+    "keyColor": "#D91023",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Peru là nơi dãy núi Andes tuyết trắng, rừng Amazon nóng ẩm và bờ biển sa mạc mát lạnh cùng tồn tại trên một đất nước. Đế chế Inca hùng mạnh đã xây những thành phố đá khéo đến mức không cần vữa — và Machu Picchu vẫn ngự trị trên đỉnh núi mây mù cho đến tận ngày nay. Peru còn sở hữu hồ nước cao nhất thế giới và hẻm núi sâu nhất trái đất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Lima",
+      "sub": "Thành phố của các vị vua, lập năm 1535"
+    },
+    {
+      "label": "Dân số",
+      "value": "33,3 triệu",
+      "sub": "Ước tính INEI năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Sol (PEN)",
+      "sub": "1 sol = 100 céntimos"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Quechua & Aymara cùng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.285.216 km²",
+      "sub": "Gấp 4 lần diện tích Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "6.768 m",
+      "sub": "Huascarán, dãy Andes"
+    }
+  ],
+  "islands": [
+    "Lima",
+    "Cusco",
+    "Arequipa",
+    "Iquitos",
+    "Trujillo"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Ba thế giới trong một đất nước",
+    "animals": "Lông mượt, cánh bay và râu ria",
+    "culture": "Hương vị, lễ hội và tiếng sáo",
+    "history": "Những đế chế vàng và đá",
+    "wows": "Những điều khiến bạn sửng sốt"
+  },
+  "geo": [
+    "Peru có ba vùng địa hình hoàn toàn khác nhau nằm sát cạnh nhau. Bờ biển Thái Bình Dương phần lớn là sa mạc — có nơi còn khô hơn cả sa mạc Sahara — thế mà lại là nơi hầu hết người Peru sinh sống. Dãy Andes chạy dọc giữa đất nước, với những đỉnh núi cao hơn 6.000 m phủ tuyết trắng quanh năm.",
+    "Phía đông dãy Andes, mặt đất đổ dốc xuống lưu vực Amazon, trải ra một thảm rừng nhiệt đới che phủ hơn một nửa đất nước. Hồ Titicaca nằm ở độ cao 3.812 m trên biên giới phía nam — cao đến mức không khí trở nên loãng — khiến nó trở thành hồ lớn có thể đi thuyền cao nhất thế giới."
+  ],
+  "animals": [
+    "Con alpaca lông xù gặm cỏ trên những đồng cỏ Andes và bộ lông siêu mềm của nó đã được se thành quần áo hàng nghìn năm nay. Vicuña, người anh em hoang dã của alpaca, từng quý hiếm đến mức các hoàng đế Inca tuyên bố nó là vật thiêng. Đại bàng condor lượn trên các luồng nhiệt với sải cánh rộng tới 3,2 m — to hơn cả một người lớn dang tay.",
+    "Trong rừng Amazon, cá heo hồng bơi lội giữa những cánh rừng ngập nước và báo đốm đi rình mồi trong bụi rậm. Con gà đá mào — quốc điểu của Peru — có bộ lông cam rực rỡ như điện và nhảy múa để tìm bạn đời. Những con ếch phi tiêu độc nhỏ xíu ẩn mình trong lá mục với màu sắc sặc sỡ như một lời cảnh báo."
+  ],
+  "culture": [
+    "Ẩm thực Peru được xem là một trong những nền ẩm thực được yêu thích nhất thế giới. Ceviche — cá ướp nước cốt chanh cùng ớt — là món ăn quốc dân. Peru chính là quê hương của khoai tây — hơn 3.000 giống vẫn còn trồng ở đây — và ngô tím dùng để làm đồ uống chicha morada màu tím đặc trưng.",
+    "Âm nhạc và sắc màu tràn ngập mọi lễ hội. Inti Raymi ở Cusco tôn vinh thần mặt trời của người Inca vào ngày hạ chí tháng Sáu với những bộ trang phục rực rỡ. Sáo panpipe Andes và đàn charango bé nhỏ tạo nên âm thanh đặc trưng vùng cao nguyên, trong khi nghề dệt truyền thống 2.000 năm tuổi vẫn tạo ra những tấm vải đẹp nhất thế giới."
+  ],
+  "history": [
+    "Vào khoảng năm 1400, người Inca đã xây dựng đế chế lớn nhất châu Mỹ từng thấy — trải dài 4.000 km từ Colombia đến Chile — vận chuyển những tảng đá khổng lồ mà không cần bánh xe và nối liền lãnh thổ bằng 40.000 km đường bộ.",
+    "Những người chinh phục Tây Ban Nha đến năm 1532 và đế chế sụp đổ chỉ trong chưa đầy một thập kỷ. Peru trở thành thuộc địa giàu có nhất của Tây Ban Nha. Độc lập đến năm 1821, được tuyên bố bởi người giải phóng José de San Martín."
+  ],
+  "wows": [
+    "Machu Picchu bị thế giới bên ngoài Peru hoàn toàn không biết đến mãi đến năm 1911 — cả một thành phố ẩn mình trong mây mù suốt 400 năm.",
+    "Peru có hơn 1.800 loài chim — chiếm khoảng một phần năm tổng số loài chim trên toàn trái đất.",
+    "Những đường Nazca là những hình vẽ khổng lồ trên sa mạc chỉ nhìn thấy từ trên cao, được tạo ra cách đây 2.000 năm mà không ai giải thích được vì sao.",
+    "Khoai tây có nguồn gốc từ Peru — tất cả hơn 5.000 giống trên toàn thế giới đều bắt nguồn từ những cây khoai dại ở Andes.",
+    "Hẻm núi Colca gần Arequipa sâu gấp đôi hẻm núi Grand Canyon của Mỹ với độ sâu 3.400 m.",
+    "Sông Amazon bắt đầu từ tuyết tan trên dãy Andes của Peru, chảy suốt 5.600 km mới ra đến biển.",
+    "Các khối đá Inca ghép khít đến mức không thể nhét một tờ giấy qua khe — hoàn toàn không dùng vữa hay xi măng."
+  ],
+  "myths": [
+    {
+      "myth": "Machu Picchu là thủ đô bị mất của người Inca",
+      "fact": "Đây thực ra là cung điện nghỉ dưỡng của Hoàng đế Pachacuti, không phải thủ đô. Cusco mới là trung tâm cai trị đế chế; người dân địa phương chưa bao giờ quên Machu Picchu tồn tại."
+    },
+    {
+      "myth": "Sông Amazon bắt nguồn từ Brazil",
+      "fact": "Nguồn gốc chính thức của sông Amazon (xác định năm 2014) là sông Mantaro ở dãy Andes của Peru, cách cửa sông ở Đại Tây Dương tới 5.600 km."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Riquísimo!",
+      "say": "ree-KEE-see-moh"
+    },
+    {
+      "en": "Đi đâu vậy?",
+      "jp": "¿A dónde?",
+      "say": "ah DON-deh"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pe-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống thành cổ Machu Picchu trên sườn núi mờ sương",
+      "caption": "MACHU PICCHU — thành cổ Inca tọa lạc giữa mây mù ở độ cao 2.430 m trên thung lũng Urubamba",
+      "credit": "Wikimedia Commons / Allard Schmidt"
+    },
+    "landmark": {
+      "src": "/photos/pe-landmark.jpg",
+      "alt": "Những ruộng bậc thang và đền đài bằng đá của Machu Picchu",
+      "caption": "RUỘNG BẬC THANG MACHU PICCHU — xây không dùng vữa, những bức tường này vẫn đứng vững qua các trận động đất lớn",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pe-animalA.jpg",
+      "alt": "Con alpaca trắng trên đồng cỏ Andes với dãy núi phía sau",
+      "caption": "ALPACA — cư dân lông xù nhất của dãy Andes, nổi tiếng với bộ lông cực mềm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pe-animalB.jpg",
+      "alt": "Con gà đá mào cam rực rỡ đậu trên một cành cây",
+      "caption": "GÀ ĐÁ MÀO — quốc điểu cam rực của Peru, sống trong rừng mây mù",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

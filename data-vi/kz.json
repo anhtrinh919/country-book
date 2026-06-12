@@ -1,0 +1,163 @@
+{
+  "name": "KAZAKHSTAN",
+  "nativeName": "ҚЗ",
+  "romaji": "QAZAQSTAN",
+  "tagline": "Thảo nguyên, bầu trời & vũ trụ",
+  "region": "Trung Á",
+  "coords": "48°N 68°E",
+  "fileNo": "62",
+  "langName": "tiếng Kazakh",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EAD4",
+    "dot": "#C9B98A",
+    "ink": "#1E1A12",
+    "faint": "#8A7A4E",
+    "line": "#DDD0A8",
+    "accent": "#00AEEF",
+    "accent2": "#F0C020"
+  },
+  "flag": {
+    "assetPath": "/flags/kz.svg",
+    "title": "Bầu trời & Mặt trời",
+    "note": "Nền xanh trời, mặt trời vàng và đại bàng đang bay, 32 tia sáng",
+    "keyColor": "#00AEEF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kazakhstan là quốc gia không giáp biển lớn nhất thế giới — thảo nguyên vàng rực trải dài bất tận, những đỉnh núi Tian Shan sừng sững, và bầu trời rộng đến mức nuốt chửng cả chân trời. Người Kazakh du mục đã cưỡi ngựa trên vùng đất này suốt hàng nghìn năm, sống trong những chiếc lều tròn gọi là yurt. Ngày nay, Kazakhstan phóng tên lửa lên vũ trụ từ bãi phóng Baikonur và xây dựng những thành phố tương lai ngay giữa đồng cỏ bằng phẳng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Astana",
+      "sub": "Bên sông Ishim, từ năm 1997"
+    },
+    {
+      "label": "Dân số",
+      "value": "20,2 triệu người",
+      "sub": "Ước tính chính thức, tháng 1/2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Tenge ₸",
+      "sub": "Ra đời tháng 11/1993"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Kazakh",
+      "sub": "Tiếng Nga cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2.724.900 km²",
+      "sub": "Quốc gia lớn thứ 9 trên Trái Đất"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "6.995 m",
+      "sub": "Khan Tengri, dãy Tian Shan"
+    }
+  ],
+  "islands": [
+    "Astana",
+    "Almaty",
+    "Shymkent",
+    "Karaganda",
+    "Aktau"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đại dương cỏ và trời xanh",
+    "animals": "Đàn thú hoang và đại bàng săn mồi",
+    "culture": "Tiệc du mục và tiếng đàn dombra",
+    "history": "Từ Con Đường Tơ Lụa đến kỷ nguyên tên lửa",
+    "wows": "Thật không thể tin được!"
+  },
+  "geo": [
+    "Kazakhstan rộng đến mức trải dài bằng cả Tây Âu cộng lại. Phần lớn lãnh thổ là thảo nguyên — đồng cỏ bằng phẳng bất tận — nhưng góc đông nam vươn lên những đỉnh núi Tian Shan hiểm trở, còn phía tây lại có một vùng đất trũng thấp hơn mực nước biển tới 132 m.",
+    "Biển Aral từng là hồ lớn thứ tư thế giới, nhưng nay chỉ còn 10% diện tích ban đầu vì các kỹ sư Liên Xô đã chặn dòng sông để tưới bông. Kazakhstan xây đập năm 2005 và phần phía bắc của hồ đang dần dần hồi sinh — một kỳ tích thiên nhiên đáng kinh ngạc."
+  ],
+  "animals": [
+    "Đại bàng vàng là quốc thú của Kazakhstan. Những người thợ săn gọi là berkutchi đã thuần hóa loài chim này để săn mồi trên lưng ngựa suốt hơn 4.000 năm — đại bàng vàng có thể lao xuống với tốc độ 240 km/h và nhìn thấy con mồi từ khoảng cách một kilômét.",
+    "Con linh dương saiga nổi tiếng với cái mũi phình to kỳ lạ, giúp lọc bụi thảo nguyên và làm ấm không khí lạnh giá. Từng đứng bên bờ tuyệt chủng, quần thể saiga đã phục hồi lên hơn 2,8 triệu con — một trong những câu chuyện bảo tồn thành công nhất lịch sử."
+  ],
+  "culture": [
+    "Người Kazakh nổi tiếng hiếu khách bậc nhất — khách luôn được mời ăn trước, và chủ nhà sẽ xẻ thịt cả con cừu, dâng cái đầu cho vị khách được kính trọng nhất. Món ăn quốc gia beshbarmak (nghĩa là 'năm ngón tay') là thịt ngựa hoặc cừu luộc trên mì, ăn bốc tay.",
+    "Âm nhạc chảy trong huyết mạch người Kazakh qua cây đàn dombra hai dây — linh hồn của thảo nguyên. Rượu sữa ngựa lên men gọi là kumiss đã được uống ở đây suốt 5.000 năm và được xem vừa là thức uống vừa là vị thuốc."
+  ],
+  "history": [
+    "Vùng đất Kazakh nằm ngay ngã tư của Con Đường Tơ Lụa; những đoàn lạc đà chở tơ lụa và gia vị đi ngang qua Taraz và Otrar. Thành Cát Tư Hãn tràn qua năm 1219, nhưng Hãn quốc Kazakh lại trỗi dậy vào thế kỷ 15 như những nhà cai trị du mục kiêu hãnh.",
+    "Nga sáp nhập Kazakhstan qua các thế kỷ 18–19, và thời Liên Xô chứng kiến những vụ phóng tên lửa lịch sử từ Baikonur. Kazakhstan tuyên bố độc lập ngày 16 tháng 12 năm 1991 — nước cộng hòa cuối cùng rời khỏi Liên bang Xô Viết."
+  ],
+  "wows": [
+    "Kazakhstan rộng hơn toàn bộ Tây Âu, nhưng không có đường bờ biển nào giáp đại dương.",
+    "Nghiên cứu ADN xác nhận những rừng táo hoang dại gần Almaty chính là quê hương gốc của mọi quả táo trên Trái Đất.",
+    "Baikonur đã phóng vệ tinh Sputnik (1957) và đưa Yuri Gagarin lên vũ trụ (1961) — cả hai kỳ tích đầu tiên của nhân loại đều diễn ra trên đất Kazakh.",
+    "Biểu tượng đồng tiền tenge ₸ được chọn qua cuộc thi toàn quốc năm 2007, tức 14 năm sau khi đồng tiền này ra đời.",
+    "Đỉnh Khan Tengri làm bằng đá cẩm thạch nguyên chất, rực lên màu đỏ máu lúc hoàng hôn — người leo núi gọi nó là Vua bầu trời.",
+    "Linh dương saiga hồi phục từ 50.000 con lên 2,8 triệu con chỉ trong hai thập kỷ — kỷ lục phục hồi động vật hoang dã chưa từng có.",
+    "Mùa đông ở Astana có thể xuống tới −40 °C, biến nó thành một trong những thủ đô lạnh nhất hành tinh."
+  ],
+  "myths": [
+    {
+      "myth": "Kazakhstan y hệt như phim Borat mô tả",
+      "fact": "Phim Borat thực ra được quay ở Romania. Kazakhstan thật sự có những thành phố hiện đại, phụ nữ được bầu cử và lái xe, và chính phủ nước này đã rất tức giận với bộ phim đó."
+    },
+    {
+      "myth": "Kazakhstan toàn sa mạc bằng phẳng, không có gì đặc sắc",
+      "fact": "Thảo nguyên đúng là rộng lớn, nhưng Kazakhstan còn có sông băng Tian Shan, rừng Altai, những hẻm núi sâu thăm thẳm và cả bờ biển Caspian nữa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Сәлем",
+      "say": "SAH-lem"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Рахмет",
+      "say": "RAKH-met"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Иә",
+      "say": "YAH"
+    },
+    {
+      "en": "Không",
+      "jp": "Жоқ",
+      "say": "ZHOK"
+    },
+    {
+      "en": "Ngựa",
+      "jp": "Жылқы",
+      "say": "ZHIL-kuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kz-hero.jpg",
+      "alt": "Trung tâm giải trí Khan Shatyr hình lều khổng lồ ở Astana",
+      "caption": "KHAN SHATYR — chiếc lều trong suốt khổng lồ của Astana vươn cao 150 m trên thảo nguyên",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kz-landmark.jpg",
+      "alt": "Tháp Bayterek ở Astana, Kazakhstan",
+      "caption": "THÁP BAYTEREK — biểu tượng quả cầu vàng của Astana, cao 105 m",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kz-animalA.jpg",
+      "alt": "Linh dương saiga trên thảo nguyên Kazakh với cái mũi phình to đặc trưng",
+      "caption": "LINH DƯƠNG SAIGA — cái mũi phình to lọc bụi trên thảo nguyên bao la",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kz-animalB.jpg",
+      "alt": "Thợ săn berkutchi người Kazakh cưỡi ngựa với đại bàng vàng trên tay",
+      "caption": "ĐẠI BÀNG VÀNG — những thợ săn berkutchi đã thuần hóa loài chim này suốt 4.000 năm",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

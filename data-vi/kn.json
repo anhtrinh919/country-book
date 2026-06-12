@@ -1,0 +1,163 @@
+{
+  "name": "ST KITTS NEVIS",
+  "nativeName": "KN",
+  "romaji": "SAINT KITTS",
+  "tagline": "Hai đảo nhỏ, một trái tim lớn",
+  "region": "Vùng Caribe",
+  "coords": "17.3°N 62.7°W",
+  "fileNo": "087",
+  "langName": "tiếng Anh Creole Caribbean",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA8",
+    "ink": "#252018",
+    "faint": "#857B60",
+    "line": "#DDD5C0",
+    "accent": "#009E49",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/kn.svg",
+    "title": "Tam sắc hai ngôi sao",
+    "note": "Xanh lá, đen và đỏ với hai ngôi sao trắng",
+    "keyColor": "#009E49",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saint Kitts và Nevis là hai hòn đảo lửa bé xíu giữa biển Caribbean — nhỏ đến mức bạn có thể lái xe vòng quanh mỗi đảo chưa đầy một tiếng! Thế mà đất nước tí hon này lại là liên bang nhỏ nhất thế giới, có núi lửa đang ngủ, pháo đài được UNESCO công nhận, và đặc biệt nhất — số khỉ hoang nhiều hơn cả người!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Basseterre",
+      "sub": "Thành phố chính trên đảo St Kitts"
+    },
+    {
+      "label": "Dân số",
+      "value": "~47.000",
+      "sub": "Thống kê 2022: 51.320 người"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la EC",
+      "sub": "Gắn với tỷ giá đô la Mỹ"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Ngôn ngữ chính thức; người dân còn nói tiếng Creole Caribbean"
+    },
+    {
+      "label": "Diện tích",
+      "value": "261 km²",
+      "sub": "Nhỏ hơn cả nhiều thành phố"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.156 m",
+      "sub": "Núi Liamuiga, đảo St Kitts"
+    }
+  ],
+  "islands": [
+    "St Kitts",
+    "Nevis",
+    "Basseterre",
+    "Charlestown",
+    "Sandy Point"
+  ],
+  "islandsLabel": "CÁC ĐỊA ĐIỂM CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa, rạn san hô và rừng nhiệt đới",
+    "animals": "Khỉ, bồ nông và rùa biển",
+    "culture": "Mía đường, batik và lễ hội rực rỡ",
+    "history": "Cái nôi của thuộc địa Caribbean",
+    "wows": "Những điều bất ngờ không thể ngờ"
+  },
+  "geo": [
+    "Đảo St Kitts trông giống hệt cái đùi gà — một dãy núi lửa dài với đỉnh là núi Liamuiga, một núi lửa đang ngủ yên bên trong có cả hồ nước miệng núi. Rừng nhiệt đới xanh rậm phủ kín sườn núi, còn những bãi biển cát trắng trải dài quanh bờ.",
+    "Đảo Nevis chỉ cách đó 3 km, hình dáng gần như là một hình nón hoàn hảo, đỉnh núi lúc nào cũng quấn mây trắng. Rạn san hô và làn nước xanh ngọc ấm áp bao quanh cả hai hòn đảo, khiến biển cũng phong phú sinh vật không kém gì rừng bên trên."
+  ],
+  "animals": [
+    "Cư dân bất ngờ nhất của hai hòn đảo này chính là khỉ xanh châu Phi — được người Pháp mang sang làm thú nuôi từ những năm 1600, chúng trốn thoát vào rừng và bây giờ đã đông hơn cả dân số! Đi dạo ở đây, gần như chắc chắn bạn sẽ bắt gặp cả bầy khỉ đang tranh nhau trộm xoài.",
+    "Chim bồ nông nâu — loài chim đặc trưng của đất nước này — lao thẳng xuống biển như mũi tên để chộp cá, trông rất ngoạn mục. Rùa biển gồm ba loài xanh, đồi mồi và da — đến đây đẻ trứng trên những bãi biển vắng, trong khi cá rạn san hô đủ màu tung tăng quanh 18 điểm lặn biển."
+  ],
+  "culture": [
+    "Lễ hội Sugar Mas diễn ra mỗi tháng 12 đến đầu năm mới là bữa tiệc lớn nhất của cả hai đảo — ban nhạc calypso, đàn steel pan rộn ràng, và các vũ công mặc trang phục lông vũ rực rỡ đổ ra khắp phố Basseterre suốt nhiều tuần liền.",
+    "Tại Romney Manor, các nghệ nhân vẫn giữ nghề vải batik Caribelle — nhuộm tay những tấm vải sặc sỡ theo kỹ thuật dùng sáp có từ ngàn xưa. Cricket gần như là môn thể thao tôn giáo ở đây, và món ăn đặc trưng nhất là súp thịt dê — hầm chậm với bánh mì trái và nhiều loại gia vị thơm lừng."
+  ],
+  "history": [
+    "Năm 1623, thuyền trưởng người Anh Thomas Warner đặt chân lên St Kitts và lập ra thuộc địa đầu tiên của Anh ở vùng Caribbean, đem lại cho hòn đảo danh hiệu 'Thuộc địa Mẹ của Tây Ấn'. Không lâu sau, người Pháp cũng đến định cư ngay trên cùng hòn đảo đó.",
+    "Suốt 365 năm, mía đường là vua — những đồn điền xây dựng bằng sức lao động của người nô lệ châu Phi đã từng biến Nevis thành thuộc địa Anh giàu nhất cả châu Mỹ một thời. Ngành đường đóng cửa năm 2005; còn độc lập thì đã đến từ năm 1983."
+  ],
+  "wows": [
+    "Saint Kitts và Nevis là liên bang có chủ quyền nhỏ nhất thế giới cả về diện tích lẫn dân số.",
+    "Khỉ xanh hoang dã ước tính đông hơn người, với khoảng 40.000 con đang sống tự do trên hai hòn đảo.",
+    "Núi Liamuiga từng bị gọi là 'Núi Khổ Đau' mãi đến ngày độc lập 1983 mới được đổi lại tên gốc của người Kalinago.",
+    "Saint Kitts năm 1984 là nước đầu tiên trên thế giới ra mắt chương trình cấp quốc tịch đổi lấy đầu tư.",
+    "Tuyến tàu hỏa ngắm cảnh xây dựng để vận chuyển mía đường là tuyến duy nhất còn sót lại trên toàn vùng Tây Ấn.",
+    "Pháo đài Brimstone Hill do người nô lệ xây nên, được UNESCO công nhận Di sản Thế giới năm 1999.",
+    "Cây mía liên tục được trồng và thu hoạch trên St Kitts đúng 365 năm không gián đoạn, từ 1640 đến khi nhà máy đóng cửa năm 2005."
+  ],
+  "myths": [
+    {
+      "myth": "Hai hòn đảo bé thế này thì có gì để xem?",
+      "fact": "Chỉ với 261 km², Saint Kitts và Nevis đã có đủ: leo núi lửa, thăm pháo đài UNESCO, lặn rạn san hô và khám phá rừng nhiệt đới — nhiều hơn hẳn nhiều hòn đảo to hơn gấp bội."
+    },
+    {
+      "myth": "Saint Kitts và Nevis chỉ là một hòn đảo",
+      "fact": "Đây là liên bang hai đảo — St Kitts và Nevis hoàn toàn tách biệt, mỗi đảo có nghị viện riêng, địa hình riêng và ngọn núi lửa riêng."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Wha' gwan",
+      "say": "wha GWAAN"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Pardner",
+      "say": "PAHD-nah"
+    },
+    {
+      "en": "Tuyệt!",
+      "jp": "Proper",
+      "say": "PROP-ah"
+    },
+    {
+      "en": "Tiệc tùng",
+      "jp": "Lime",
+      "say": "LYME"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Laters",
+      "say": "LAY-ters"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/kn-landmark.jpg",
+      "alt": "Pháo đài Brimstone Hill nhìn từ phía dưới, tường đá cao sừng sững trên ngọn đồi xanh",
+      "caption": "PHÁO ĐÀI BRIMSTONE HILL — Di sản Thế giới UNESCO nhìn xuống toàn bộ đảo St Kitts",
+      "credit": "Martin Falbisoner / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/kn-animalA.jpg",
+      "alt": "Một con khỉ xanh ngồi trên cành cây nhìn thẳng vào ống kính",
+      "caption": "KHỈ XANH CHÂU PHI — du nhập từ thế kỷ 17, nay đông hơn cả người trên hai đảo",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kn-animalB.jpg",
+      "alt": "Một con bồ nông nâu đang bay lượn trên mặt biển xanh",
+      "caption": "BỒ NÔNG NÂU — chim biểu tượng của đất nước, nổi tiếng với màn lao xuống biển bắt cá ngoạn mục",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "src": "/photos/kn-hero.jpg",
+      "alt": "Tàu hỏa ngắm cảnh St Kitts chạy dọc theo bờ biển với khung cảnh đại dương trải rộng",
+      "caption": "TÀU HỎA NGẮM CẢNH ST KITTS — tuyến đường sắt mía đường cuối cùng còn lại ở vùng Tây Ấn",
+      "credit": "Flickr / CC BY 2.0"
+    }
+  }
+}

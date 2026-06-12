@@ -1,0 +1,163 @@
+{
+  "name": "TUVALU",
+  "nativeName": "TV",
+  "romaji": "TUVALU",
+  "tagline": "Chín hòn đảo, trời xanh vô tận",
+  "region": "Polynesia, Thái Bình Dương",
+  "coords": "8°S 179°E",
+  "fileNo": "093",
+  "langName": "tiếng Tuvalu",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EEE4",
+    "dot": "#C8C2A8",
+    "ink": "#232018",
+    "faint": "#8a7e62",
+    "line": "#DDDACB",
+    "accent": "#009FCA",
+    "accent2": "#F4C430"
+  },
+  "flag": {
+    "assetPath": "/flags/tv.svg",
+    "title": "Quốc kỳ Tuvalu",
+    "note": "Chín ngôi sao vàng trên nền xanh Thái Bình Dương, có hình cờ Anh ở góc",
+    "keyColor": "#009FCA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tuvalu là một trong những quốc gia nhỏ nhất thế giới — chín hòn đảo san hô bẹt như tờ giấy giữa Thái Bình Dương, điểm cao nhất chỉ vỏn vẹn 5 mét. Khoảng 11.000 người sống ở đây, ngày ngày đánh cá, đan lát và chơi ano — một trò bóng truyền thống của người địa phương. Biển cả cho họ thức ăn, giao thương và cả bản sắc — nhưng nước biển dâng ngày một cao đang buộc Tuvalu phải nghĩ lại tương lai của mình.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Funafuti",
+      "sub": "Trên đảo san hô chính"
+    },
+    {
+      "label": "Dân số",
+      "value": "~11.000",
+      "sub": "Ước tính LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "AUD / TVD",
+      "sub": "Đô-la Úc"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tuvalu",
+      "sub": "& tiếng Anh"
+    },
+    {
+      "label": "Diện tích",
+      "value": "26 km²",
+      "sub": "Nhỏ hơn quận Manhattan"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "4,6 m",
+      "sub": "Đảo Niulakita"
+    }
+  ],
+  "islands": [
+    "Funafuti",
+    "Vaitupu",
+    "Nanumea",
+    "Nukufetau",
+    "Niutao"
+  ],
+  "islandsLabel": "CÁC HÒN ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Chín vành đảo, một đại dương",
+    "animals": "Cá mập rạn và rùa biển xanh",
+    "culture": "Trống, dừa và trò ano",
+    "history": "Sao trời, người Anh và tự do",
+    "wows": "Tuvalu bất ngờ lắm đó"
+  },
+  "geo": [
+    "Tuvalu nằm giữa trung tâm Thái Bình Dương, đúng khoảng cách từ Hawaii đến Úc. Chín hòn đảo của nó đều là vành đảo san hô — những vòng đá ngầm hình thành trên đỉnh núi lửa đã chìm — phẳng đến mức nhìn từ tàu thuyền khó lòng thấy được. Toàn bộ diện tích chỉ 26 km², nhỏ hơn hầu hết các công viên đô thị lớn.",
+    "Không có một con sông hay con suối nào trên toàn quốc. Nước uống hoàn toàn phụ thuộc vào mưa hứng từ mái nhà. Những đầm phá bên trong mỗi vành đảo xanh biếc như ngọc bích, bao quanh bởi rừng dừa nghiêng nghiêng trong gió mậu dịch."
+  ],
+  "animals": [
+    "Cá mập đuôi đen tuần tra vùng nước cạn với phần đuôi đen xẫm xé mặt biển, trong khi cá Napoleon to lớn — loài cá có cái trán lồi buồn cười — lượn lờ qua những vườn san hô rực rỡ. Vùng biển nơi đây tràn đầy sức sống đến choáng ngợp.",
+    "Rùa biển xanh bò lên những doi cát để đẻ trứng trong Khu bảo tồn Funafuti. Hải âu lưng muội làm tổ thành từng đàn ồn ào trên các đảo phụ, còn thằn lằn skink Tuvalu — loài bé xíu — chỉ sống duy nhất ở đây, không nơi nào khác trên Trái Đất."
+  ],
+  "culture": [
+    "Fatele là điệu múa tập thể mà người hát lặp đi lặp lại mỗi đoạn nhanh dần, nhanh dần, cho đến khi ai cũng thở không kịp — rồi kết thúc trong tiếng cười rộn ràng. Maneapa — nhà họp cộng đồng mở rộng — là trung tâm của đời sống làng xã, nơi tổ chức lễ hội và bàn những chuyện quan trọng.",
+    "Thức ăn đến từ biển và cây dừa: cá tươi, nước cốt dừa và củ pulaka. Ano — hai quả bóng làm từ lá pandanus cứng được đập qua lại với tốc độ cao — là trò chơi của cả làng cùng nhau tham gia."
+  ],
+  "history": [
+    "Những người Polynesia đã định cư tại Tuvalu hơn 2.000 năm trước, dẫn đường bằng sao trời và sóng biển. Các nhà truyền giáo châu Âu đến vào thế kỷ 19, và đến năm 1916, người Anh đã sáp nhập các đảo vào Thuộc địa Gilbert và Ellice.",
+    "Năm 1974, người Tuvalu bỏ phiếu tự quyết riêng biệt. Ngày 1 tháng 10 năm 1978, Tuvalu chính thức độc lập hoàn toàn. Năm 2023, họ sửa đổi hiến pháp, tuyên bố quốc gia tồn tại mãi mãi — dù cho biển có nuốt chửng từng hòn đảo một."
+  ],
+  "wows": [
+    "Mã internet của Tuvalu là .tv — mỗi năm kiếm được khoảng 10 triệu đô-la từ việc cho các trang phát trực tuyến thuê.",
+    "Tiền triệu đô-la đầu tiên từ .tv đã trả phí gia nhập Liên Hợp Quốc cho Tuvalu vào năm 2000.",
+    "Đường băng sân bay Funafuti kiêm luôn vai trò sân thể thao và chợ của thị trấn khi không có máy bay.",
+    "Năm 2023, Tuvalu sửa hiến pháp để đảm bảo quốc gia tồn tại về mặt pháp lý ngay cả khi đất đai bị biển nhấn chìm.",
+    "Chỉ quan chức chính phủ mới được phép sở hữu ô tô trên Funafuti — hòn đảo quá nhỏ để chứa thêm.",
+    "Cả nước chỉ có 8 km đường nhựa — ít hơn nhiều con phố ngoại ô ở Hà Nội.",
+    "Chín ngôi sao trên quốc kỳ được xếp đúng theo vị trí địa lý thực tế của từng hòn đảo."
+  ],
+  "myths": [
+    {
+      "myth": "Tuvalu đã chìm xuống biển rồi",
+      "fact": "Các hòn đảo vẫn còn đó, nhưng mực nước biển gần Funafuti dâng khoảng 5 mm mỗi năm — gần gấp 3 lần mức trung bình toàn cầu — khiến mối đe dọa thực sự rất cấp bách."
+    },
+    {
+      "myth": "Nhỏ như vậy thì ảnh hưởng gì đến thế giới",
+      "fact": "Tuvalu kiểm soát 900.000 km² đại dương, có ghế ở Liên Hợp Quốc, và là nước tiên phong đề xuất khái niệm quốc gia kỹ thuật số tồn tại không cần lãnh thổ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Talofa",
+      "say": "tah-LOH-fah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Fakafetai",
+      "say": "fah-kah-feh-TY"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Tōfā",
+      "say": "toh-FAH"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "E ā koe?",
+      "say": "eh-ah-KOH-eh"
+    },
+    {
+      "en": "Có, đúng rồi",
+      "jp": "Ioe",
+      "say": "ee-OH-eh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tv-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống vành đảo san hô Funafuti, Tuvalu",
+      "caption": "VÀNH ĐẢO FUNAFUTI — vòng san hô của thủ đô nhìn từ trên không, đầm phá xanh biếc bên trong",
+      "credit": "Gabriella Jacobi / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/tv-landmark.jpg",
+      "alt": "Bãi biển nắng vàng tại vành đảo Funafuti với hàng dừa và làn nước trong veo",
+      "caption": "BÃI BIỂN FUNAFUTI — cát trắng và những hàng dừa nghiêng nghiêng dưới ánh nắng chan hòa",
+      "credit": "Stefan Lins / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/tv-animalA.jpg",
+      "alt": "Rùa biển xanh bơi trên rạn san hô",
+      "caption": "RÙA BIỂN XANH — làm tổ đẻ trứng trên các doi cát của Tuvalu trong Khu bảo tồn Funafuti",
+      "credit": "Brocken Inaglory / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/tv-animalB.jpg",
+      "alt": "Cá mập đuôi đen đang bơi",
+      "caption": "CÁ MẬP ĐUÔI ĐEN — tuần tra vùng đầm phá nông của Tuvalu, phần đuôi đen tuyền như than",
+      "credit": "Kakidai / CC BY-SA 3.0"
+    }
+  }
+}

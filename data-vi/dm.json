@@ -1,0 +1,163 @@
+{
+  "name": "DOMINICA",
+  "nativeName": "DM",
+  "romaji": "DOMINICA",
+  "tagline": "Hòn đảo thiên nhiên",
+  "region": "Vùng Caribe",
+  "coords": "15.42°N, 61.37°W",
+  "fileNo": "027",
+  "langName": "tiếng Creole Kwéyòl",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c7bfa8",
+    "ink": "#262018",
+    "faint": "#7a7055",
+    "line": "#dbd3bd",
+    "accent": "#2A6B3A",
+    "accent2": "#C0202E"
+  },
+  "flag": {
+    "assetPath": "/flags/dm.svg",
+    "title": "Lá cờ Sisserou",
+    "note": "Một trong chỉ 2 lá cờ quốc gia trên thế giới có màu tím",
+    "keyColor": "#2A6B3A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Dominica là một hòn đảo núi lửa nhỏ xíu ở vùng Caribbean, phủ kín rừng nhiệt đới xanh mướt. Hòn đảo bé bằng Singapore này chứa đến 365 con sông, chín núi lửa đang hoạt động và một hồ nước sôi bùng bục giữa rừng. Cá voi nhà thờ sống quanh năm ngay ngoài bờ biển, còn người Kalinago — tộc người bản địa cuối cùng ở vùng Caribbean — đã gọi núi xanh này là nhà từ hàng nghìn năm trước.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Roseau",
+      "sub": "Khoảng 16.500 người; thị trấn cảng bờ tây"
+    },
+    {
+      "label": "Dân số",
+      "value": "72.000",
+      "sub": "Ước tính 2024; gốc Creole và Kalinago"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la EC",
+      "sub": "Đô-la Đông Caribbean (XCD)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Tiếng Creole Kwéyòl cũng dùng rất phổ biến"
+    },
+    {
+      "label": "Diện tích",
+      "value": "750 km²",
+      "sub": "Gần bằng Singapore"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.447 m",
+      "sub": "Núi Morne Diablotins, cao 1.447 m"
+    }
+  ],
+  "islands": [
+    "Roseau",
+    "Portsmouth",
+    "Marigot",
+    "Castle Bruce",
+    "Soufrière"
+  ],
+  "islandsLabel": "CÁC THỊ TRẤN CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa và trăm dòng sông",
+    "animals": "Vẹt, cá voi và muôn thú hoang",
+    "culture": "Hồn Kalinago, nhịp Creole",
+    "history": "Hòn đảo kiêu hùng",
+    "wows": "Bí mật choáng ngợp của đảo"
+  },
+  "geo": [
+    "Dominica được chín núi lửa còn hoạt động nhào nặn nên, phủ rừng nhiệt đới dày đặc đến mức những người đến đây đầu tiên gần như không thể đặt chân lên bờ. Hơn 365 con sông cắt ngang những ngọn núi. Thác đôi Trafalgar đổ ầm ào xuống hồ giữa rừng, chỉ cách thủ đô Roseau 20 phút đi bộ.",
+    "Vườn quốc gia Morne Trois Pitons — di sản thế giới UNESCO — ẩn giấu Hồ Sôi nổi tiếng, một miệng fumarole rộng 60 mét với nước xám xanh sùng sục suốt ngày đêm. Bãi biển cát đen trải dọc bờ Đại Tây Dương hoang sơ; phía bờ Caribbean yên tĩnh là nơi cá voi nhà thờ lui tới quanh năm."
+  ],
+  "animals": [
+    "Vẹt Sisserou của Dominica — loài vẹt Amazon ngực tím — không tồn tại ở bất cứ đâu khác trên Trái Đất. Nó được in lên cờ quốc gia, thế mà chỉ còn khoảng 50 con trưởng thành sống trong rừng. Người anh em nhỏ hơn của nó, vẹt Jaco (Amazon cổ đỏ), cũng là loài chỉ có duy nhất ở đảo này.",
+    "Cá voi nhà thờ sống trong vùng biển ấm quanh Dominica cả năm — đây là quốc gia duy nhất trên thế giới có điều này. Các nhà nghiên cứu thậm chí bơi cùng chúng. Con ếch khổng lồ Crapaud, từng là món ăn Creole quen thuộc gọi là 'gà núi', nay đã được bảo vệ."
+  ],
+  "culture": [
+    "Dominica pha trộn những sợi chỉ văn hóa châu Phi, Pháp và Kalinago thành một bản sắc Creole sống động. Người Kalinago — khoảng 3.000 người ở bờ đông — là tộc người tiền Columbus cuối cùng còn lại ở Đông Caribbean, nổi tiếng với nghề đan giỏ và đục thuyền độc mộc.",
+    "Tiếng Kwéyòl (Creole kiểu Pháp) vang lên khắp nơi bên cạnh tiếng Anh. Mỗi tháng Mười, Ngày Creole tràn ngập đường phố với vải madras đủ màu. Lễ hội hóa trang — dân địa phương gọi là 'The Real Mas' — bùng nổ với calypso và trang phục lộng lẫy. Món ăn địa phương nổi bật có súp callaloo, cá tươi và chuối tiêu."
+  ],
+  "history": [
+    "Columbus nhìn thấy Dominica vào một ngày Chủ nhật năm 1493 — 'Domingo' trong tiếng Tây Ban Nha chính là nguồn gốc tên gọi này. Người Kalinago chống trả những kẻ xâm chiếm mạnh mẽ đến mức Dominica trở thành một trong những hòn đảo Caribbean cuối cùng bị đặt thuộc địa. Anh và Pháp tranh giành nhau trước khi Anh giành quyền kiểm soát năm 1763.",
+    "Năm 1838, Dominica trở thành thuộc địa Caribbean duy nhất của Anh có cơ quan lập pháp do người da đen kiểm soát. Nền độc lập hoàn toàn đến ngày 3 tháng 11 năm 1978. Bão Maria tàn phá hòn đảo năm 2017; Dominica tuyên bố sẽ tái thiết thành quốc gia đầu tiên trên thế giới có khả năng chống chịu biến đổi khí hậu."
+  ],
+  "wows": [
+    "Dominica là quốc gia duy nhất trên thế giới có cá voi nhà thờ sống ngoài biển cả năm — bạn có thể bơi gần chúng.",
+    "Hòn đảo nhỏ bằng Singapore nhưng chứa đến 365 con sông — mật độ sông cao nhất thế giới.",
+    "Lá cờ Dominica có màu tím — một trong chỉ hai lá quốc kỳ trên thế giới có màu này.",
+    "Người Kalinago chống trả quyết liệt đến mức Dominica là hòn đảo Caribbean cuối cùng bị đặt thuộc địa.",
+    "Năm 1838, Dominica là thuộc địa Caribbean duy nhất của Anh từng do cơ quan lập pháp đa số người da đen điều hành.",
+    "Đường mòn Waitukubuli là con đường trekking dài đầu tiên ở Caribbean — 183 km xuyên rừng rậm hoang sơ.",
+    "Chín núi lửa đang hoạt động chen chúc trên đảo; Hồ Sôi là fumarole ngập nước lớn thứ hai trên Trái Đất."
+  ],
+  "myths": [
+    {
+      "myth": "Dominica chính là Cộng hòa Dominican",
+      "fact": "Đây là hai quốc gia hoàn toàn khác nhau, cách nhau gần 1.000 km. Dominica là một hòn đảo nhỏ nói tiếng Anh; Cộng hòa Dominican là một quốc gia rộng lớn nói tiếng Tây Ban Nha trên đảo Hispaniola."
+    },
+    {
+      "myth": "Người Kalinago đã dùng bạo lực tiêu diệt người Arawak hiền hòa",
+      "fact": "Lịch sử truyền miệng của người Kalinago và nhiều bằng chứng cho thấy hai nhóm này thường chung sống và kết hôn với nhau; câu chuyện về cuộc thay thế bạo lực là cách hiểu đơn giản hóa từ thời thuộc địa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bon Jou",
+      "say": "bohn zhoo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Més",
+      "say": "meh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Ovwa",
+      "say": "oh-vwah"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Sa ka fete?",
+      "say": "sah kah fet"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Bel!",
+      "say": "bell"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dm-hero.jpg",
+      "alt": "Toàn cảnh nhìn từ trên cao của thủ đô Roseau, Dominica",
+      "caption": "ROSEAU — thủ đô xanh mát nép mình bên bờ biển Caribbean",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dm-landmark.jpg",
+      "alt": "Thác đôi Trafalgar giữa rừng nhiệt đới Dominica",
+      "caption": "THÁC TRAFALGAR — hai dòng thác đổ ầm ào xuống hồ giữa rừng gần Roseau",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/dm-animalA.jpg",
+      "alt": "Vẹt Sisserou Imperial Amazon ngực tím của Dominica",
+      "caption": "VẸT SISSEROU — quốc điểu ngực tím chỉ có duy nhất ở Dominica",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dm-animalB.jpg",
+      "alt": "Vẹt Jaco Amazon cổ đỏ của Dominica",
+      "caption": "VẸT JACO — loài vẹt Amazon đặc hữu thứ hai chỉ có ở Dominica",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

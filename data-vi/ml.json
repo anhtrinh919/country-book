@@ -1,0 +1,163 @@
+{
+  "name": "MALI",
+  "nativeName": "ML",
+  "romaji": "MALI",
+  "tagline": "Xứ sở vàng ròng và sông Niger",
+  "region": "Tây Phi",
+  "coords": "17°N, 3°W",
+  "fileNo": "082",
+  "langName": "tiếng Pháp",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D9C89E",
+    "ink": "#2B1F0A",
+    "faint": "#8C7A4E",
+    "line": "#E3D3A8",
+    "accent": "#1A7A3C",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/ml.svg",
+    "title": "Quốc kỳ Mali",
+    "note": "Xanh lá, vàng và đỏ — màu sắc tự hào châu Phi",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mali là đất nước rộng lớn không có biển, nơi dòng sông Niger uốn khúc dọc theo rìa sa mạc Sahara. Ngày xưa đây từng là quê hương của những đế chế giàu có nhất thế giới — các vị vua tặng vàng cho người qua đường như thể đó là chuyện bình thường! Ngày nay, những thánh đường xây bằng bùn đất vươn lên như lâu đài cát, người du mục cưỡi lạc đà qua các đụn cát vàng, và những người kể chuyện griot vẫn lưu giữ huyền sử ngàn năm bằng tiếng đàn kora và trống biết nói.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bamako",
+      "sub": "Bên bờ sông Niger"
+    },
+    {
+      "label": "Dân số",
+      "value": "23,3 triệu người",
+      "sub": "Ước tính 2024, tăng nhanh"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung với Tây Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Pháp",
+      "sub": "+ tiếng Bambara phổ biến rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.240.192 km²",
+      "sub": "Rộng hơn cả Nam Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.155 m",
+      "sub": "Đỉnh Hombori Tondo"
+    }
+  ],
+  "islands": [
+    "Bamako",
+    "Timbuktu",
+    "Mopti",
+    "Gao",
+    "Ségou"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sông ngòi, cát vàng và bầu trời sa mạc",
+    "animals": "Thú hoang vùng Sahel",
+    "culture": "Vàng, trống và tháp bùn",
+    "history": "Đế chế vàng và muối",
+    "wows": "7 điều kỳ diệu sẽ làm bạn há hốc"
+  },
+  "geo": [
+    "Hai phần ba diện tích Mali là sa mạc Sahara — một đại dương cát vàng nơi nhiệt độ có thể lên đến hơn 45°C, còn nóng hơn nồi lẩu đang sôi. Dòng sông Niger chính là mạch sống của đất nước này: mỗi năm nước sông tràn bờ tưới tắm ruộng đồng, nuôi sống hàng triệu người nhờ cá và lúa gạo.",
+    "Dải đồng cỏ Sahel chạy ngang phần phía nam, xanh mướt sau mỗi mùa mưa. Vách đá Bandiagara cao đến 500 m so với mặt đất phẳng phía dưới — người Dogon đã đục đẽo từng căn nhà nhỏ vào vách đá này suốt gần một ngàn năm, tạo nên những ngôi làng treo lơ lửng giữa trời trông như thành phố trong truyện cổ tích."
+  ],
+  "animals": [
+    "Sông Niger là ngôi nhà của những con hà mã nặng nề và cá sấu sông Nile phơi nắng trên bãi cát. Lợn biển châu Phi lặng lờ trôi trong những vùng nước yên tĩnh — loài thú chậm chạp, có ria mép, hiếm gặp ở bất kỳ nơi nào khác ở Tây Phi.",
+    "Ở miền bắc đầy cát, nhiều loài vật đã thích nghi tài tình với cuộc sống sa mạc: cáo fennec với đôi tai to bằng cái quạt, linh dương cát mảnh mai, và chó rừng vàng tinh khôn. Hươu cao cổ Tây Phi quý hiếm vẫn lang thang gần đồng bằng nội địa của sông Niger, vươn cái cổ dài ngoẵng lên ngọn cây keo để kiếm lá ăn."
+  ],
+  "culture": [
+    "Mali là quê hương của những người griot — vừa là nhạc sĩ, vừa là sử gia, vừa là người kể chuyện gộp lại làm một. Họ gảy đàn kora — loại đàn 21 dây làm từ quả bầu khô trông như sự kết hợp giữa đàn hạc và đàn guitar — rồi ngân nga những trang lịch sử hoàng tộc trải dài suốt 700 năm.",
+    "Thánh đường Vĩ đại Djenné là công trình xây bằng bùn lớn nhất thế giới, và mỗi năm sau mùa mưa, cả thị trấn lại cùng nhau trát lại lớp bùn mới cho nó — một lễ hội cộng đồng độc đáo không nơi nào có. Vải bogolanfini của Mali được vẽ tay bằng các ký hiệu kể chuyện qua hoa văn và màu sắc, mỗi tấm như một trang sách đặc biệt."
+  ],
+  "history": [
+    "Khoảng năm 1300, Đế chế Mali cai trị vùng lãnh thổ còn rộng hơn cả Tây Âu gộp lại. Hoàng đế Mansa Musa có thể là người giàu nhất trong toàn bộ lịch sử loài người — chuyến hành hương năm 1324 của ông với 12.000 tùy tùng và hàng tấn vàng đã khiến giá vàng ở Bắc Phi sụt giảm mạnh trong nhiều năm vì ông cho vàng quá nhiều!",
+    "Thành phố Timbuktu trở thành trung tâm học thuật lừng lẫy với hơn 25.000 sinh viên đại học — lớn hơn nhiều trường đại học ở châu Âu thời đó. Mali giành độc lập từ Pháp vào ngày 22 tháng 9 năm 1960, và ngày này được kỷ niệm như ngày lễ quốc gia đặc biệt nhất của đất nước."
+  ],
+  "wows": [
+    "Thánh đường Vĩ đại Djenné đã được trát bùn lại mỗi năm suốt hơn 800 năm qua — chưa ngày nào bị bỏ qua!",
+    "Đoàn hành hương của Mansa Musa năm 1324 có tới 60.000 người và mang theo khoảng 18 tấn vàng.",
+    "Mali lưu giữ hơn 700.000 bản thảo cổ, nhiều cuốn cất giữ ngay trong nhà dân ở Timbuktu.",
+    "Đồng bằng nội địa sông Niger ngập nước mỗi năm thành vùng đất ngập nước rộng bằng cả nước Bỉ, thu hút hàng triệu con chim kéo về.",
+    "Timbuktu nổi tiếng đến mức người châu Âu đặt giải thưởng cho ai đến được đó và quay về kể lại câu chuyện.",
+    "Tay guitar người Mali Ali Farka Touré có phong cách chơi đàn đã định hình trực tiếp nên nền nhạc blues của nước Mỹ.",
+    "Người Dogon đã mô tả ngôi sao vô hình Sirius B từ hàng thế kỷ trước khi kính thiên văn hiện đại xác nhận sự tồn tại của nó."
+  ],
+  "myths": [
+    {
+      "myth": "Mali toàn là sa mạc trống không",
+      "fact": "Chỉ hai phần ba là sa mạc thôi — phía nam có sông ngòi, rừng rậm, đồng ruộng và vùng đất ngập nước với những cuộc di cư động vật hoang dã ngoạn mục."
+    },
+    {
+      "myth": "Timbuktu là cái tên có nghĩa là 'nơi hẻo lánh cuối trời'",
+      "fact": "Timbuktu từng là một trong những thành phố vĩ đại nhất thời trung cổ — một trung tâm thương mại giàu có với 180 trường dạy kinh Quran vào thời đỉnh cao."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Je vous prie",
+      "say": "zhuh voo PREE"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Bienvenue",
+      "say": "byan-veh-NOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ml-hero.jpg",
+      "alt": "Toàn cảnh thành phố Bamako bên dòng sông Niger",
+      "caption": "BAMAKO — Thủ đô Mali trải dài dọc theo những khúc cong của sông Niger",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ml-landmark.jpg",
+      "alt": "Thánh đường Vĩ đại Djenné, công trình xây bằng bùn lớn nhất thế giới",
+      "caption": "THÁNH ĐƯỜNG VĨ ĐẠI DJENNÉ — công trình bùn đất lớn nhất thế giới, được trát lại mỗi năm",
+      "credit": "Andy Gilham / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ml-animalA.jpg",
+      "alt": "Hà mã nhô đầu lên khỏi mặt nước",
+      "caption": "HÀ MÃ — sông Niger là một trong những nơi trú ngụ cuối cùng của hà mã ở Tây Phi",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ml-animalB.jpg",
+      "alt": "Hươu cao cổ Tây Phi vươn cổ ăn lá cây keo",
+      "caption": "HƯƠU CAO CỔ TÂY PHI — những gã khổng lồ quý hiếm vẫn lang thang gần đồng bằng nội địa sông Niger",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

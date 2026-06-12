@@ -1,0 +1,163 @@
+{
+  "name": "MALTA",
+  "nativeName": "MT",
+  "romaji": "MALTA",
+  "tagline": "Hòn đảo nhỏ, lịch sử vĩ đại",
+  "region": "Nam Âu",
+  "coords": "35.9°N, 14.5°E",
+  "fileNo": "058",
+  "langName": "tiếng Malta",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#C9B98E",
+    "ink": "#28211A",
+    "faint": "#8A7455",
+    "line": "#DDD0B0",
+    "accent": "#C8102E",
+    "accent2": "#F0F0F0"
+  },
+  "flag": {
+    "assetPath": "/flags/mt.svg",
+    "title": "Quốc kỳ Malta",
+    "note": "Hai màu trắng và đỏ, góc trên bên trái có Huân chương George Cross",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Malta là hòn đảo nhỏ xíu giữa biển Địa Trung Hải — lái xe băng qua đảo chỉ mất 30 phút, nhưng nơi đây ẩn chứa những ngôi đền cổ còn lâu đời hơn cả Kim tự tháp! Những chiến binh-tu sĩ gọi là Hiệp sĩ Malta đã xây nên thủ đô Valletta tuyệt đẹp với tường thành kiên cố. Ngày nay Malta là một trong những quốc gia có nhiều nắng và dân số đông đúc nhất châu Âu, với ngôn ngữ riêng không nơi nào trên thế giới có.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Valletta",
+      "sub": "Thủ đô nhỏ nhất châu Âu tính theo diện tích"
+    },
+    {
+      "label": "Dân số",
+      "value": "574.250",
+      "sub": "Ước tính cuối năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng từ ngày 1 tháng 1 năm 2008"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Malta",
+      "sub": "Ngôn ngữ gốc Semitic, viết bằng chữ La-tinh"
+    },
+    {
+      "label": "Diện tích",
+      "value": "316 km²",
+      "sub": "Quốc gia nhỏ thứ 10 trên thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Ta' Dmejrek",
+      "sub": "253 m, gần vách đá Dingli"
+    }
+  ],
+  "islands": [
+    "Valletta",
+    "Mdina",
+    "Marsaxlokk",
+    "Victoria",
+    "Sliema"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Nắng vàng, vách đá và biển xanh",
+    "animals": "Cánh chim, đàn cá và bờ đá",
+    "culture": "Lễ hội, đá cổ và muối biển",
+    "history": "Đền thiêng, hiệp sĩ và trận vây hãm",
+    "wows": "7 điều Malta khiến bạn ngỡ ngàng"
+  },
+  "geo": [
+    "Malta nằm giữa đảo Sicily và Bắc Phi — một quần đảo nhỏ gồm ba hòn đảo có người ở, hầu hết được làm từ đá vôi màu vàng óng. Bờ biển nơi đây thật ngoạn mục với những hang động biển, vách đá dựng đứng và những cảng nước sâu được sóng biển điêu khắc qua hàng nghìn năm.",
+    "Chỉ rộng 316 km² — còn nhỏ hơn nhiều thành phố lớn — nhưng Malta có gần 575.000 người sinh sống, khiến nó là một trong những quốc gia đông dân nhất thế giới tính theo mật độ. Mặt trời tỏa nắng hơn 300 ngày mỗi năm và biển luôn ở gần trong tầm mắt."
+  ],
+  "animals": [
+    "Quốc điểu của Malta là chim Hồng Mi Đá Xanh — loài chim hót với bộ lông xanh cobalt rực rỡ, làm tổ trên vách đá biển và tường thành cổ. Mỗi mùa thu, hàng nghìn loài chim di cư đổ về đây trên hành trình từ châu Âu sang châu Phi.",
+    "Vùng biển ấm áp xung quanh đảo tràn đầy sinh vật. Cá Lampuki (cá mahi-mahi) xuất hiện mỗi mùa thu trong từng đàn vàng-xanh lấp lánh, bị dụ đến bằng những tấm thảm lá dừa nổi do ngư dân thả xuống. Mỗi ngày, những chiếc thuyền luzzu rực rỡ màu sắc đưa cá bạch tuộc, cá song và cá tráp vào bờ."
+  ],
+  "culture": [
+    "Văn hóa Malta là sự pha trộn giữa ảnh hưởng Ả Rập, Ý và Anh, gắn kết với nhau bởi đức tin Công giáo sâu sắc. Mỗi làng đều có lễ hội mùa hè — những bữa tiệc đường phố náo nhiệt với pháo hoa, ban nhạc kèn đồng và đèn màu rực rỡ, không thua gì bất kỳ lễ hội nào ở châu Âu.",
+    "Ẩm thực cũng phản ánh sự giao thoa đó: thịt thỏ hầm là món ăn quốc gia, bánh pastizzi giòn nhân phô mai ricotta là món ăn vặt yêu thích, còn bánh pie cá Lampuki là hương vị đặc trưng mùa thu. Tiếng Anh được nói ở khắp nơi, nhưng người dân cũng dễ dàng chuyển sang tiếng Malta du dương đặc biệt của họ."
+  ],
+  "history": [
+    "Lịch sử Malta kéo dài 7.000 năm. Các đền thờ Megalithic được xây dựng khoảng năm 3600 trước Công nguyên — thuộc số những công trình đứng độc lập lâu đời nhất trên Trái Đất, có trước cả Stonehenge lẫn Kim tự tháp Ai Cập. Người Phoenicia, La Mã, Ả Rập và Norman lần lượt đặt chân lên đảo sau đó.",
+    "Hiệp sĩ Malta đến năm 1530 và xây dựng thủ đô Valletta tuyệt đẹp sau khi vượt qua Cuộc vây hãm Vĩ đại năm 1565. Trong Thế chiến II, Malta chịu đựng 154 ngày bom đạn gần như liên tục — dũng cảm đến mức Vua George VI trao tặng toàn bộ hòn đảo danh hiệu George Cross."
+  ],
+  "wows": [
+    "Các đền thờ Malta có từ năm 3600 trước Công nguyên — lâu đời hơn cả Stonehenge và Kim tự tháp Ai Cập!",
+    "Valletta chỉ có 5.000 cư dân, là thủ đô nhỏ nhất trong toàn bộ Liên minh châu Âu.",
+    "Tiếng Malta là ngôn ngữ Semitic duy nhất trên thế giới được viết bằng chữ cái La-tinh.",
+    "Malta có khoảng 365 nhà thờ — gần như một nhà thờ cho mỗi ngày trong năm.",
+    "Năm 1942, Vua George VI trao tặng Huân chương George Cross cho cả hòn đảo Malta.",
+    "Ħal Saflieni Hypogeum là địa điểm chôn cất ngầm thời tiền sử duy nhất được biết đến trên thế giới.",
+    "Hoàng đế Frederick II đã gửi 18 thợ săn chim ưng đến Malta năm 1239 để bắt những con chim ưng quý hiếm nổi tiếng ở đây."
+  ],
+  "myths": [
+    {
+      "myth": "Malta chỉ là đảo ăn chơi giải trí",
+      "fact": "Malta có ba Di sản Thế giới UNESCO và những ngôi đền cổ lâu đời hơn Kim tự tháp. Riêng Valletta đã chứa đến 320 công trình kiến trúc nằm chen chúc trong 0,8 km² phố phường baroque."
+    },
+    {
+      "myth": "Tiếng Malta là một phương ngữ của tiếng Ả Rập",
+      "fact": "Tiếng Malta là ngôn ngữ riêng — bắt nguồn từ tiếng Ả Rập nhưng pha trộn tiếng Ý, Pháp và Anh, đặc biệt là được viết bằng chữ La-tinh chứ không phải chữ Ả Rập."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bongu",
+      "say": "BON-joo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Grazzi",
+      "say": "GRAT-see"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Jekk jogħbok",
+      "say": "yek YOH-jbok"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Saħħa",
+      "say": "SAH-ha"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Tajjeb ħafna",
+      "say": "TIE-yeb HAF-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mt-hero.jpg",
+      "alt": "Toàn cảnh Cảng Grand Harbour nhìn từ Vườn Thượng Barrakka, Valletta, Malta",
+      "caption": "GRAND HARBOUR — Cảng cổ Valletta nhìn từ Vườn Thượng Barrakka",
+      "credit": "Björn S. / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/mt-landmark.jpg",
+      "alt": "Những phiến đá đền Megalithic Hagar Qim dưới bầu trời xanh, Malta",
+      "caption": "ĦAĠAR QIM — Những phiến đá cổ còn lâu đời hơn cả Kim tự tháp, Malta",
+      "credit": "Frank Vincentz / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mt-animalA.jpg",
+      "alt": "Chim Hồng Mi Đá Xanh đực đậu trên đá, bộ lông xanh cobalt",
+      "caption": "CHIM HỒNG MI ĐÁ XANH — Quốc điểu của Malta, sống trên vách đá đá vôi",
+      "credit": "J. M. Carretero Palacios / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/mt-animalB.jpg",
+      "alt": "Những chiếc thuyền đánh cá luzzu rực rỡ màu sắc neo đậu ở cảng Marsaxlokk, Malta",
+      "caption": "THUYỀN LUZZU — Những chiếc thuyền đánh cá sơn màu biểu tượng của Malta tại cảng Marsaxlokk",
+      "credit": "Frank Vincentz / CC BY-SA 3.0"
+    }
+  }
+}

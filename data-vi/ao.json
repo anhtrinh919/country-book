@@ -1,0 +1,163 @@
+{
+  "name": "ANGOLA",
+  "nativeName": "AO",
+  "romaji": "ANGOLA",
+  "tagline": "Gã khổng lồ châu Phi đang thức giấc",
+  "region": "Nam Phi",
+  "coords": "-11.2°S, 17.9°E",
+  "fileNo": "050",
+  "langName": "tiếng Bồ Đào Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CFBA98",
+    "ink": "#2B2118",
+    "faint": "#8A7352",
+    "line": "#DED0B0",
+    "accent": "#CC0000",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ao.svg",
+    "title": "Quốc kỳ Angola",
+    "note": "Đỏ, đen và biểu tượng ngôi sao-dao quắm màu vàng",
+    "keyColor": "#CC0000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Angola nằm trên bờ Đại Tây Dương của châu Phi, rộng gần gấp đôi nước Việt Nam và Thái Lan cộng lại. Đất nước này giấu trong mình một trong những thác nước hùng vĩ nhất châu Phi, loài linh dương hiếm đến mức cả thế giới chỉ còn 310 con, và một điệu nhảy tên semba đã vượt đại dương để trở thành điệu samba nổi tiếng của Brazil. Sau 27 năm nội chiến, những tòa nhà chọc trời nay mọc lên trên vịnh Luanda — Angola đang thay đổi rất nhanh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Luanda",
+      "sub": "~9 triệu người, nằm sát biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "~39 triệu người",
+      "sub": "Ước tính LHQ 2025; tuổi trung bình chỉ 16"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Kwanza (Kz)",
+      "sub": "Mã AOA; ~920 Kz = 1 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Bồ Đào Nha",
+      "sub": "Cùng với Umbundu và Kimbundu"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.246.700 km²",
+      "sub": "Nước lớn thứ 7 châu Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Moco 2.620m",
+      "sub": "Ở Huambo; được chọn là kỳ quan Angola"
+    }
+  ],
+  "islands": [
+    "Luanda",
+    "Huambo",
+    "Benguela",
+    "Malanje",
+    "Lubango"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Thác nước & đá đen huyền bí",
+    "animals": "Hoang dã & đang hồi sinh",
+    "culture": "Nhịp điệu, bữa ăn & sắc màu",
+    "history": "Vương quốc, thuộc địa & bước trở lại",
+    "wows": "7 điều khiến bạn há hốc miệng"
+  },
+  "geo": [
+    "Angola trải dài từ lưu vực sông Congo ở phía bắc xuống sa mạc Namib ở phía nam — rừng nhiệt đới, thảo nguyên và cồn cát cùng tồn tại trong một đất nước. Sông Kwanza uốn lượn qua những vườn quốc gia có voi và những làng chài nhỏ trước khi đổ ra Đại Tây Dương.",
+    "Ở tỉnh Malanje, những khối đá đen khổng lồ gọi là Pedras Negras nhô lên cao 200 mét giữa thảo nguyên bằng phẳng trông rất kỳ lạ. Gần đó, thác Kalandula cao 105 mét và rộng tới 400 mét như một bức màn nước sấm sét — một trong những thác nước đẹp nhất thế giới mà hầu như không ai ngoài châu Phi biết đến."
+  ],
+  "animals": [
+    "Linh dương đen khổng lồ — palanca negra gigante — là biểu tượng quốc gia của Angola, với bộ sừng cong vút dài hơn 1,6 mét, chỉ tồn tại duy nhất ở đất nước này. Nội chiến suýt xóa sổ loài vật này khỏi Trái Đất; hiện nay cả thế giới chỉ còn khoảng 310 con sống trong hai khu bảo tồn.",
+    "Vườn quốc gia Kissama là nơi trú ngụ của voi, hà mã và cá sấu dọc theo sông Kwanza. Năm 2001, các nhà bảo tồn đã dùng trực thăng chở voi từ Botswana đến đây thả — một trong những chiến dịch giải cứu động vật kịch tính nhất lịch sử châu Phi."
+  ],
+  "culture": [
+    "Angola đã tặng cho cả thế giới một điệu nhảy. Semba — điệu nhảy đôi vui tươi và gần gũi — được đưa sang Brazil và biến thành samba. Ở quê nhà, một biến thể mượt mà hơn gọi là kizomba nay được nhảy từ Lisbon đến Tokyo. Âm nhạc vang lên khắp chợ, trên xe buýt và trong mọi lễ hội.",
+    "Bữa ăn của người Angola xoay quanh funge — cháo sắn đặc ăn bốc bằng tay — và moamba de galinha, gà hầm trong dầu cọ đỏ cho đến khi vàng ươm thơm lừng. Khách đến nhà bao giờ cũng được mời ăn trước khi bàn bất cứ chuyện gì."
+  ],
+  "history": [
+    "Vương quốc Kongo cai trị miền bắc Angola từ những năm 1300, buôn bán ngà voi và vải vóc khắp Trung Phi. Khi tàu Bồ Đào Nha đến năm 1483, nhà vua đón tiếp họ niềm nở; con trai ông là Afonso I về sau trở thành một trong những vị vua Ki-tô giáo đầu tiên ở châu Phi.",
+    "Bồ Đào Nha đô hộ Angola gần 500 năm. Ngày độc lập là 11 tháng 11 năm 1975 — nhưng nội chiến bùng nổ ngay ngày hôm đó và kéo dài đến năm 2002. Hai mươi bốn năm hòa bình sau, Angola trở thành một trong những nền kinh tế tăng trưởng nhanh nhất châu Phi."
+  ],
+  "wows": [
+    "Thác Kalandula là thác lớn thứ 2 châu Phi tính theo lưu lượng nước — nhưng gần như không ai ngoài châu lục biết đến.",
+    "Điệu samba của Brazil bắt nguồn trực tiếp từ semba Angola, được mang qua Đại Tây Dương cách đây 400 năm.",
+    "Một nửa dân số Angola dưới 16 tuổi — Angola là một trong những nước trẻ nhất thế giới.",
+    "Các nhà khoa học từng tưởng linh dương đen khổng lồ đã tuyệt chủng; năm 2009 một con đực được tìm thấy và chở bằng trực thăng đến nơi an toàn.",
+    "Angola khai thác hơn 1 triệu thùng dầu mỗi ngày — nhiều nhất ở vùng châu Phi cận Sahara.",
+    "Mìn còn sót lại từ nội chiến vẫn đang được thu dọn; Công nương Diana đã đến thăm năm 1997 để kêu gọi chú ý.",
+    "Những khối đá Pedras Negras được truyền thuyết kể rằng mang dấu chân của Nữ hoàng chiến binh Nzinga thế kỷ 17."
+  ],
+  "myths": [
+    {
+      "myth": "Angola là một trong những nước nghèo nhất châu Phi",
+      "fact": "Angola là nền kinh tế lớn thứ 6 châu Phi tính theo GDP và là nhà sản xuất dầu lớn nhất phía nam Sahara — dù của cải chưa được chia đều cho tất cả mọi người."
+    },
+    {
+      "myth": "Samba là điệu nhảy thuần túy của Brazil",
+      "fact": "Samba mọc ra từ semba Angola; bản thân từ 'semba' trong tiếng Kimbundu có nghĩa là cú chạm bụng — động tác mà người Angola bị bắt làm nô lệ đã mang sang Brazil."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Bom dia",
+      "say": "bom JEE-ah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Muito bom!",
+      "say": "MWEEN-too bom"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ao-hero.jpg",
+      "alt": "Đường chân trời vịnh Luanda với pháo đài Fortaleza de São Miguel",
+      "caption": "VỊNH LUANDA — phố thị hiện đại nhìn xuống từ pháo đài Bồ Đào Nha xây năm 1576",
+      "credit": "David Stanley / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/ao-landmark.jpg",
+      "alt": "Thác Kalandula trên sông Lucala ở tỉnh Malanje, Angola",
+      "caption": "THÁC KALANDULA — thác lớn thứ 2 châu Phi, cao 105 m và rộng 400 m",
+      "credit": "Paulo César Santos / CC0"
+    },
+    "animalA": {
+      "src": "/photos/ao-animalA.jpg",
+      "alt": "Linh dương đực trưởng thành với đôi sừng cong dài trên thảo nguyên châu Phi",
+      "caption": "LINH DƯƠNG ĐEN — họ hàng gần của palanca negra cực kỳ nguy cấp của Angola",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/ao-animalB.jpg",
+      "alt": "Voi châu Phi đang đi qua môi trường sống tự nhiên",
+      "caption": "VOI CHÂU PHI — được đưa về vườn quốc gia Kissama bằng trực thăng năm 2001",
+      "credit": "Charles J. Sharp / CC BY-SA 3.0"
+    }
+  }
+}

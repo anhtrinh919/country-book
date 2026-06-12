@@ -1,0 +1,163 @@
+{
+  "name": "GUINEA",
+  "nativeName": "GN",
+  "romaji": "GUINÉE",
+  "tagline": "Tháp nước của châu Phi",
+  "region": "Tây Phi",
+  "coords": "11.0°N, 10.9°W",
+  "fileNo": "042",
+  "langName": "tiếng Pular",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBF9E",
+    "ink": "#27211A",
+    "faint": "#8B7A54",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#3A7A3A"
+  },
+  "flag": {
+    "assetPath": "/flags/gn.svg",
+    "title": "Đỏ, Vàng & Xanh lá",
+    "note": "Đỏ, vàng, xanh — lao động, công lý, đoàn kết",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guinea nằm bên bờ Tây Phi, nơi những cánh rừng mưa nhiệt đới gặp cao nguyên xanh ngát. Những ngọn đồi ở đây chính là nguồn sinh ra các con sông lớn như Niger, Gambia và Senegal — người ta gọi đây là 'Tháp nước của Tây Phi'. Dưới lớp đất đỏ ẩn giấu kho quặng bauxit lớn nhất thế giới, loại đá dùng để làm nhôm. Và từ những ngôi làng Guinea, chiếc trống djembe đã vang ra khắp năm châu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Conakry",
+      "sub": "Thành phố ven biển trên bán đảo"
+    },
+    {
+      "label": "Dân số",
+      "value": "17,5 triệu",
+      "sub": "Điều tra dân số 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc Guinea",
+      "sub": "GNF — hàng nghìn đơn vị đổi một đô la"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Pháp",
+      "sub": "Pháp là ngôn ngữ chính thức; Pular được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "245.857 km²",
+      "sub": "Gần bằng diện tích nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Nimba 1.752 m",
+      "sub": "Đỉnh núi được UNESCO công nhận Di sản thế giới"
+    }
+  ],
+  "islands": [
+    "Conakry",
+    "Kankan",
+    "Labé",
+    "Kindia",
+    "Nzérékoré"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Tháp nước của châu Phi",
+    "animals": "Tinh tinh, hà mã & cóc kỳ lạ",
+    "culture": "Trống, nghệ nhân & canh đậu phộng",
+    "history": "Vùng đất dám nói không",
+    "wows": "7 điều kỳ diệu về Guinea"
+  },
+  "geo": [
+    "Guinea chia thành bốn vùng khác nhau. Bờ biển Đại Tây Dương là những đầm lầy đước và vùng thấp ẩm ướt. Sâu vào trong, cao nguyên Fouta Djallon vươn lên mát lạnh với những đồng cỏ rộng, hẻm núi kỳ vĩ và thác nước hùng tráng — nơi khởi nguồn của các con sông chảy khắp Tây Phi.",
+    "Vùng Rừng ở phía đông nam là khu rừng nhiệt đới rậm rạp, nơi tinh tinh và nhiều loài động vật hiếm sinh sống. Dọc biên giới với Bờ Biển Ngà, núi Nimba là khu bảo tồn thiên nhiên UNESCO, bảo vệ hàng trăm loài sinh vật không tìm thấy ở bất kỳ nơi nào khác trên Trái Đất."
+  ],
+  "animals": [
+    "Rừng Guinea là nơi trú ngụ của một trong những quần thể tinh tinh tây lớn nhất thế giới. Ở làng Bossou, tinh tinh hoang dã sống gần con người, dùng đá đập vỡ hạt cọ — một kỹ năng được truyền từ mẹ sang con như một công thức bí truyền trong gia đình.",
+    "Hà mã lùn nhỏ bé nhút nhát ẩn mình trong các vùng đầm lầy của Guinea. Trên núi Nimba có loài cóc đẻ con sống — một trong những loài lưỡng cư kỳ lạ nhất hành tinh, không đẻ trứng mà sinh ra nòng nọc sống như người."
+  ],
+  "culture": [
+    "Guinea là quê hương của trống djembe — nhạc cụ hình chiếc cốc từ những ngôi làng Mandinka đã lan tỏa ra các sân khấu âm nhạc khắp thế giới. Những nghệ nhân griot là người kể chuyện kiêm nhạc sĩ, thuộc lòng lịch sử hoàng gia và cất tiếng hát trong đám cưới, lễ hội, giữ ký ức của cả một dân tộc qua tiếng đàn kora.",
+    "Cơm với nước sốt đậu phộng là bữa ăn hằng ngày, ăn chung từ một cái tô lớn. Ba nhóm dân tộc lớn — Pular, Malinke và Susu — mỗi nhóm có ngôn ngữ và âm nhạc riêng, khiến Guinea như ba đất nước thu nhỏ trong một lá cờ."
+  ],
+  "history": [
+    "Ngày 2 tháng 10 năm 1958, Guinea trở thành thuộc địa Pháp đầu tiên bỏ phiếu đòi độc lập. Lãnh tụ Sékou Touré nói thẳng với Pháp: 'Chúng tôi thà nghèo trong tự do còn hơn giàu trong nô lệ.' Pháp rút đi trong vài tuần, thậm chí tháo luôn điện thoại khỏi tường. Guinea đứng một mình — và vẫn sống.",
+    "Touré cầm quyền hà khắc suốt 26 năm, bỏ tù hàng nghìn người. Sau khi ông mất năm 1984, Guinea dần mở cửa. Trữ lượng quặng bauxit khổng lồ — loại đá làm ra mọi thứ nhôm — khiến Guinea đến nay vẫn là một trong những quốc gia chiến lược quan trọng nhất châu Phi."
+  ],
+  "wows": [
+    "Guinea sở hữu trữ lượng quặng bauxit lớn nhất thế giới — đây là loại quặng dùng để làm nhôm cho lon nước ngọt, máy bay và giấy bạc.",
+    "Cao nguyên Fouta Djallon là nguồn nước nuôi 22 con sông Tây Phi, trong đó có Niger, Gambia và Senegal.",
+    "Tinh tinh ở làng Bossou dùng búa đá đập vỡ hạt cọ và dạy lại kỹ năng này cho con cái của chúng.",
+    "Guinea là nơi khai sinh ra trống djembe, nay được đánh trong các trường âm nhạc từ Tokyo đến Toronto.",
+    "Loài cóc trên núi Nimba sinh con sống thay vì đẻ trứng — gần như không có loài lưỡng cư nào khác làm được điều này.",
+    "Đợt dịch Ebola năm 2014 khiến cả thế giới lo sợ đã bắt đầu từ một ngôi làng nhỏ ở Guinea vào tháng 12 năm 2013.",
+    "Đại thánh đường Conakry là nhà thờ Hồi giáo lớn nhất châu Phi hạ Sahara khi khánh thành năm 1982."
+  ],
+  "myths": [
+    {
+      "myth": "Guinea chỉ là rừng rậm và nghèo đói",
+      "fact": "Guinea nắm giữ một phần tư trữ lượng bauxit toàn cầu, có những cao nguyên tuyệt đẹp, thác nước hùng vĩ và di sản âm nhạc phong phú đã định hình cả vùng Tây Phi."
+    },
+    {
+      "myth": "Ai ở Guinea cũng nói tiếng Pháp",
+      "fact": "Chỉ khoảng 28% người Guinea dùng tiếng Pháp hằng ngày. Phần lớn nói tiếng Pular, Malinke hoặc Susu ở nhà, ngoài chợ và với bạn bè."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "No ngoolu",
+      "say": "noh ngoo-loo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "A jaaraamah",
+      "say": "ah jah-RAH-mah"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Eey",
+      "say": "ay"
+    },
+    {
+      "en": "Nước",
+      "jp": "Ndiyam",
+      "say": "ndee-YAHM"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Ñalleen jamm",
+      "say": "nyah-LAYN jahm"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gn-hero.jpg",
+      "alt": "Toàn cảnh thành phố Conakry và cảng biển nhìn từ trên cao, Guinea",
+      "caption": "CONAKRY — Thủ đô Guinea trải dài trên một bán đảo vươn ra Đại Tây Dương.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gn-landmark.jpg",
+      "alt": "Trung tâm hội nghị Palais du Peuple ở Conakry, Guinea",
+      "caption": "PALAIS DU PEUPLE — Cung điện Nhân dân tại Conakry, biểu tượng dân sự của Guinea.",
+      "credit": "Soman / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/gn-animalA.jpg",
+      "alt": "Tinh tinh tây trong rừng",
+      "caption": "TINH TINH TÂY — Guinea là nơi trú ngụ của một trong những quần thể tinh tinh hoang dã lớn nhất châu Phi.",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/gn-animalB.jpg",
+      "alt": "Phong cảnh khu bảo tồn thiên nhiên núi Nimba, Guinea",
+      "caption": "NÚI NIMBA — Đỉnh núi UNESCO nơi cư trú của những loài sinh vật không có ở đâu khác trên Trái Đất.",
+      "credit": "Wikimedia Commons CC BY-SA IGO"
+    }
+  }
+}

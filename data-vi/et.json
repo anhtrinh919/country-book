@@ -1,0 +1,163 @@
+{
+  "name": "ETHIOPIA",
+  "nativeName": "ኢትዮጵ",
+  "romaji": "ITYOPIA",
+  "tagline": "Nóc nhà châu Phi",
+  "region": "Đông Phi",
+  "coords": "9°N 40°E",
+  "fileNo": "ET",
+  "langName": "tiếng Amharic",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CEBF9E",
+    "ink": "#26201A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#1A7A3C",
+    "accent2": "#FCDD09"
+  },
+  "flag": {
+    "assetPath": "/flags/et.svg",
+    "title": "Quốc kỳ Ethiopia",
+    "note": "Xanh lá, vàng & đỏ với hình tròn xanh dương ở giữa",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ethiopia là một trong những đất nước lâu đời nhất hành tinh — tổ tiên loài người đã đặt chân lên mảnh đất này từ 3 triệu năm trước! Dù nằm gần đường xích đạo, cao nguyên Ethiopia lại mát mẻ quanh năm. Đây là quốc gia châu Phi hiếm hoi chưa từng bị nước nào đô hộ — một niềm tự hào sâu sắc của người dân. Và bạn có biết không? Cốc cà phê bạn uống mỗi sáng bắt nguồn từ chính nơi đây!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Addis Ababa",
+      "sub": "Khoảng 5,7 triệu người; thủ đô cao thứ 3 thế giới"
+    },
+    {
+      "label": "Dân số",
+      "value": "~128 triệu",
+      "sub": "Ước tính 2024; đông dân thứ 2 châu Phi"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Birr (ETB)",
+      "sub": "1 birr = 100 santim"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Amharic",
+      "sub": "Hơn 80 ngôn ngữ được dùng khắp cả nước"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.104.300 km²",
+      "sub": "Gấp khoảng 3,3 lần Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Ras Dashen",
+      "sub": "4.550 m — đỉnh núi cao nhất Ethiopia"
+    }
+  ],
+  "islands": [
+    "Tigray",
+    "Amhara",
+    "Oromia",
+    "SNNPR",
+    "Afar"
+  ],
+  "islandsLabel": "CÁC VÙNG LỚN:",
+  "sections": {
+    "geography": "Cao nguyên, thung lũng & hồ dung nham",
+    "animals": "Sói đỏ & bầy khỉ trên vách đá",
+    "culture": "Cà phê, âm nhạc & đức tin ngàn năm",
+    "history": "3 triệu năm lịch sử",
+    "wows": "Thật sao? Có thật không vậy?"
+  },
+  "geo": [
+    "Ethiopia nằm trên một cao nguyên đá rộng lớn, bị cắt ngang bởi Thung lũng Rift khổng lồ. Những ngọn núi lửa cao, hẻm núi sâu thẳm và đồng cỏ lạnh giá mờ sương tạo nên cảnh quan hoàn toàn khác hẳn với hình ảnh sa mạc bằng phẳng mà nhiều người vẫn nghĩ.",
+    "Ở phía bắc, dãy núi Simien nhô lên như những chiếc răng gãy xuyên qua mây. Ở phía đông, mặt đất tụt xuống tận vùng trũng Danakil — một trong những nơi nóng nhất và thấp nhất trên Trái Đất, với những hồ dung nham rực sáng màu cam huyền ảo."
+  ],
+  "animals": [
+    "Sói Ethiopia là loài thú ăn thịt hiếm nhất châu Phi, chuyên săn chuột chũi khổng lồ trên cao nguyên Bale. Khỉ gelada — loài chỉ sống ở Ethiopia — gặm cỏ trên các vách đá theo từng đàn hàng trăm con, khoe những mảng lông ngực đỏ rực như ngọn lửa.",
+    "Dê núi Walia thoăn thoắt leo những vách đá dựng đứng ở Simien mà không hề run tay. Hà mã vùng vẫy trong sông Omo, còn ngựa vằn Grevy đang bị đe dọa tuyệt chủng thì lang thang vùng đất thấp với những sọc mỏng nhất trong tất cả các loài ngựa vằn trên Trái Đất."
+  ],
+  "culture": [
+    "Cà phê ở Ethiopia không chỉ là thức uống — đó là cả một nghi lễ: rang hạt xanh trên than hồng, pha trong ấm đất sét jebena, rót ra ba lần. Mỗi tách có tên riêng và nếu bạn bỏ qua tách thứ ba thì bị coi là thô lỗ đấy!",
+    "Ethiopia dùng lịch Ge'ez 13 tháng, chậm hơn lịch thông thường khoảng 7 năm. Nhà thờ Chính Thống giáo hơn 1.600 năm tuổi tràn ngập tiếng kinh và khói nhang, với hơn 80 ngày lễ quốc gia mỗi năm — nhiều hơn cả số tuần trong một năm!"
+  ],
+  "history": [
+    "Những hóa thạch ở vùng Afar có cả bộ xương 'Lucy' — người tổ tiên sống cách đây 3,2 triệu năm, được tìm thấy năm 1974. Đế chế Aksum cổ đại từng buôn bán với Rome và Arabia, và tự sáng tạo ra bảng chữ cái riêng.",
+    "Ethiopia là quốc gia châu Phi duy nhất chưa bao giờ bị đô hộ. Năm 1896, Ý cố xâm chiếm nhưng đã thua thảm hại trong Trận Adwa — một cú sốc lịch sử truyền cảm hứng cho phong trào độc lập trên khắp lục địa châu Phi."
+  ],
+  "wows": [
+    "Ethiopia có 13 tháng trong một năm — tháng 13 tên là Pagume, chỉ có 5 hoặc 6 ngày.",
+    "Người Ethiopia tính giờ từ lúc mặt trời mọc, nên 'giữa trưa' của họ là 6 giờ theo đồng hồ thông thường.",
+    "Một người chăn dê tên Kaldi tình cờ phát hiện cà phê khoảng năm 850 sau CN vì thấy đàn dê nhảy múa sau khi ăn quả cà phê.",
+    "Sông Nile Xanh mang theo khoảng 85% lượng nước của toàn sông Nile đổ vào Ai Cập, và nó bắt nguồn từ hồ Tana ở Ethiopia.",
+    "Vận động viên Abebe Bikila giành huy chương vàng Olympic marathon năm 1960 khi chạy chân trần, rồi vô địch lần nữa năm 1964 khi đi giày.",
+    "Vùng Dallol ở Danakil giữ kỷ lục nơi có nhiệt độ trung bình cao nhất trong số các nơi có người sinh sống trên Trái Đất.",
+    "11 nhà thờ ở Lalibela được đục khoét từ đá nguyên khối dưới lòng đất vẫn đang được sử dụng cho đến ngày nay."
+  ],
+  "myths": [
+    {
+      "myth": "Ethiopia toàn sa mạc và nạn đói",
+      "fact": "Phần lớn Ethiopia là cao nguyên mát mẻ, trồng được cà phê, ngũ cốc và rau củ — đủ nuôi 128 triệu người và xuất khẩu cà phê nhiều hơn hầu hết các nước châu Phi."
+    },
+    {
+      "myth": "Cả châu Phi dùng chung một loại lịch",
+      "fact": "Ethiopia dùng lịch Ge'ez cổ đại, chậm hơn lịch thông thường khoảng 7 năm. Người Ethiopia đón năm 2000 của họ vào tháng 9 năm 2007!"
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "ሰላም",
+      "say": "Sel-am"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "አመሰግናለሁ",
+      "say": "Ah-meh-seg-na-loh"
+    },
+    {
+      "en": "Cà phê",
+      "jp": "ቡና",
+      "say": "Boo-na"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "ጣፋጭ",
+      "say": "Tah-fach"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "እንደምን",
+      "say": "In-de-min-neh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/et-hero.jpg",
+      "alt": "Toàn cảnh thủ đô Addis Ababa nhìn từ trên cao với những tòa nhà hiện đại",
+      "caption": "ADDIS ABABA — thủ đô trên cao 2.355 m so với mực nước biển",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/et-landmark.jpg",
+      "alt": "Nhà thờ đá Lalibela được đục khoét thẳng xuống lòng đất",
+      "caption": "LALIBELA — nhà thờ Bete Giyorgis được đục từ đá nguyên khối vào thế kỷ 12",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/et-animalA.jpg",
+      "alt": "Sói Ethiopia đứng trên đồng cỏ cao nguyên",
+      "caption": "SÓI ETHIOPIA — loài chó hoang hiếm nhất châu Phi, chỉ sống ở cao nguyên Ethiopia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/et-animalB.jpg",
+      "alt": "Khỉ gelada đang khoe mảng lông ngực đỏ trên vách đá núi",
+      "caption": "KHỈ GELADA — sống thành đàn hàng trăm con trên những đồng cỏ vách núi",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "SOMALIA",
+  "nativeName": "SO",
+  "romaji": "SOOMAALIYA",
+  "tagline": "Ngôi sao góc sừng châu Phi",
+  "region": "Đông Phi",
+  "coords": "2°N, 46°E",
+  "fileNo": "074",
+  "langName": "tiếng Somali",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA0",
+    "ink": "#231F1B",
+    "faint": "#847560",
+    "line": "#DACFB2",
+    "accent": "#4189DD",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/so.svg",
+    "title": "Ngôi Sao & Bầu Trời",
+    "note": "Nền xanh với ngôi sao trắng năm cánh",
+    "keyColor": "#4189DD",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Somalia nhô ra như số 7 ở góc sừng châu Phi, vươn thẳng vào Ấn Độ Dương — bờ biển dài nhất lục địa châu Phi với 3.300 km. Lạc đà nhiều hơn xe hơi, tranh vẽ hang động cổ đại lung linh gần Hargeisa, và các nhà thơ Somali đã ngâm những sử thi bên lửa trại suốt ngàn năm nay. Một vùng đất đang hồi sinh, tràn đầy màu sắc, âm nhạc, và niềm tự hào của sa mạc.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Mogadishu",
+      "sub": "Thành phố lớn nhất, bên bờ Ấn Độ Dương"
+    },
+    {
+      "label": "Dân số",
+      "value": "~18 triệu",
+      "sub": "Ước tính LHQ 2026; điều tra dân số gần nhất năm 1975"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Shilling (SOS)",
+      "sub": "Đồng xu có hình lạc đà"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Somali",
+      "sub": "Tiếng Ả Rập cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "637.657 km²",
+      "sub": "Lớn hơn nước Pháp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Shimbiris",
+      "sub": "2.416 m ở miền bắc"
+    }
+  ],
+  "islands": [
+    "Mogadishu",
+    "Hargeisa",
+    "Kismayo",
+    "Bosaso",
+    "Berbera"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Mũi đất, biển cả & bầu trời sa mạc",
+    "animals": "Lạc đà, mèo rừng & linh dương",
+    "culture": "Thi sĩ, trà thơm & đời du mục",
+    "history": "Thương đạo cổ xưa & những vị vua sa mạc",
+    "wows": "Bảy điều khiến bạn trố mắt"
+  },
+  "geo": [
+    "Somalia là chóp nhọn của Sừng châu Phi — mảnh đất nhô ra xa nhất về phía đông, đâm thẳng vào Ấn Độ Dương. Dãy núi phía bắc có đỉnh Shimbiris cao 2.416 m, còn phần lớn đất nước là thảo nguyên gai mênh mông, bằng phẳng, chói chang dưới nắng.",
+    "Hai con sông Jubba và Shabelle chảy xuống từ Ethiopia, tạo ra những dải đất xanh duy nhất giữa vùng khô cằn. Gió mùa khô thổi những đồng bằng cát và hẻm núi đá trải dài trên mảnh đất rộng lớn nhuộm nắng vàng này."
+  ],
+  "animals": [
+    "Somalia có nhiều lạc đà hơn bất kỳ quốc gia nào trên Trái Đất — hơn 7 triệu con lạc đà một bướu lang thang khắp đồng bằng, cho gia đình sữa uống, sức kéo và của cải. Linh dương gerenuk cổ dài đứng thẳng hai chân sau để nhấm nháp những chiếc lá trên cao.",
+    "Lừa hoang Somali — tổ tiên của loài lừa nhà — đang trên bờ tuyệt chủng nhưng vẫn còn sống ở vùng núi đá phía bắc. Ngoài khơi, cá mập voi và rùa biển lướt nhẹ qua những rạn san hô Ấn Độ Dương hầu như chưa ai khám phá."
+  ],
+  "culture": [
+    "Người Somali nổi tiếng về thơ đến mức các học giả gọi đây là 'Quốc gia của Thi sĩ'. Những vần thơ được học thuộc lòng rồi ngâm vang tại đám cưới, chợ, thậm chí cả bàn đàm phán hòa bình — lời nói có sức mạnh thực sự ở đây. Âm nhạc dùng thang năm nốt và âm thanh ấm áp của đàn oud.",
+    "Lòng hiếu khách là thiêng liêng: mọi vị khách đều được mời shaah — trà ngọt pha gia vị — và canjeero, bánh mì dẹt men chua xốp ăn kèm mật ong hoặc canh hầm. Phụ nữ mặc tấm vải guntiino sắc màu rực rỡ; đàn ông quấn macawis kiểu xà rông — những sọc tươi sáng cho mọi dịp."
+  ],
+  "history": [
+    "Các thành thị thương mại Somali như Zeila và Mogadishu đã là cảng biển sầm uất của thương nhân Ả Rập hơn ngàn năm trước, trao đổi vàng, ngà voi và nhũ hương. Tranh hang động tại Laas Geel gần Hargeisa vẽ những con bò được trang trí từ 5.000 đến 9.000 năm về trước.",
+    "Somalia bị chia đôi giữa thực dân Anh và Ý hồi thế kỷ 19, rồi thống nhất thành quốc gia độc lập vào ngày 1 tháng 7 năm 1960. Nội chiến từ năm 1991 phá tan nhà nước, nhưng chính phủ liên bang đã được khôi phục và đất nước đang dần dần hồi sinh từ những năm 2010."
+  ],
+  "wows": [
+    "Bờ biển đất liền Somalia dài hơn 3.300 km — dài nhất trong số các quốc gia ở lục địa châu Phi.",
+    "Tranh hang động Laas Geel có tuổi lên đến 9.000 năm — thuộc hàng tranh đá được bảo tồn tốt nhất trên Trái Đất.",
+    "Somalia có hơn 7 triệu con lạc đà — nhiều hơn bất kỳ quốc gia nào khác trên hành tinh.",
+    "Tiếng Somali mới có chữ viết chính thức từ năm 1972, vậy mà lại sở hữu một trong những truyền thống thơ miệng phong phú nhất châu Phi.",
+    "Ngôi sao năm cánh trên quốc kỳ tượng trưng cho năm vùng đất nơi người Somali sinh sống trải rộng trên bốn quốc gia.",
+    "Âm nhạc Somali chỉ dùng năm nốt mỗi quãng tám, tạo nên âm thanh huyền bí, cổ kính đặc trưng.",
+    "Mogadishu đã là thành phố thương mại phồn thịnh hơn 1.000 năm trước, từng được nhà thám hiểm Ibn Battuta ghé thăm năm 1331."
+  ],
+  "myths": [
+    {
+      "myth": "Somalia toàn là cướp biển",
+      "fact": "Nạn cướp biển đạt đỉnh khoảng năm 2011 và đã giảm mạnh từ đó — Vùng Nguy Hiểm Cao được dỡ bỏ năm 2023, và phần lớn bờ biển dài của Somalia được ngư dân địa phương đánh bắt bình yên."
+    },
+    {
+      "myth": "Somalia là sa mạc hoàn toàn",
+      "fact": "Miền bắc có những dãy núi xanh mướt, miền nam có hai con sông với đồng ruộng màu mỡ; ngay cả những đồng bằng khô cũng bừng lên màu xanh rực rỡ sau những cơn mưa mùa xuân."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Salaam",
+      "say": "sa-LAAM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mahadsanid",
+      "say": "ma-HAD-sa-nid"
+    },
+    {
+      "en": "Có",
+      "jp": "Haa",
+      "say": "HAH"
+    },
+    {
+      "en": "Không",
+      "jp": "Maya",
+      "say": "MY-ah"
+    },
+    {
+      "en": "Nước",
+      "jp": "Biyo",
+      "say": "BEE-yo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/so-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống cảng biển Mogadishu",
+      "caption": "CẢNG MOGADISHU — bến cảng được xây dựng lại tấp nập với thương mại Ấn Độ Dương.",
+      "credit": "Atmis Somalia / CC0"
+    },
+    "landmark": {
+      "src": "/photos/so-landmark.jpg",
+      "alt": "Lối vào hang động Laas Geel ở Somaliland với những tảng đá granit",
+      "caption": "LAAS GEEL — những vòm đá granit che chở tranh vẽ lên đến 9.000 năm tuổi.",
+      "credit": "John Pavelka / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/so-animalA.jpg",
+      "alt": "Đàn lạc đà một bướu đi qua cảnh quan sa mạc",
+      "caption": "LẠC ĐÀ MỘT BƯỚU — Somalia có hơn 7 triệu con, nhiều nhất Trái Đất.",
+      "credit": "Jerome Bon / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/so-animalB.jpg",
+      "alt": "Hai con linh dương gerenuk đứng trên thảo nguyên",
+      "caption": "LINH DƯƠNG GERENUK — loài cổ dài này đứng thẳng hai chân sau để với lá trên cao.",
+      "credit": "frederic.salein / CC BY-SA 2.0"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "BELIZE",
+  "nativeName": "BZ",
+  "romaji": "BELIZE",
+  "tagline": "Rừng già, rạn san hô & tháp đá cổ",
+  "region": "Trung Mỹ",
+  "coords": "17.2°N, 88.5°W",
+  "fileNo": "082",
+  "langName": "Kriol",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F0EBD8",
+    "dot": "#C9BB9E",
+    "ink": "#232018",
+    "faint": "#8A7B5A",
+    "line": "#DDD0B3",
+    "accent": "#1A3A6B",
+    "accent2": "#C8202E"
+  },
+  "flag": {
+    "assetPath": "/flags/bz.svg",
+    "title": "Quốc kỳ Belize",
+    "note": "Nền xanh với hai sọc đỏ và huy hiệu trắng ở giữa",
+    "keyColor": "#1A3A6B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Belize là một đất nước nhỏ xíu nằm bên bờ biển Caribbean, nhưng chứa đựng cả ba kỳ quan: kim tự tháp Maya huyền bí, rừng rậm nơi báo hoa mai lang thang tự do, và rạn san hô dài nhất Tây bán cầu. Đặc biệt hơn, đây là quốc gia duy nhất ở Trung Mỹ dùng tiếng Anh làm ngôn ngữ chính thức. Chưa đến 400.000 người sinh sống ở đây — ít hơn dân số tỉnh Bắc Ninh — nhưng họ nói tới bốn thứ tiếng khác nhau mỗi ngày.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Belmopan",
+      "sub": "Thủ đô trong đất liền từ năm 1970"
+    },
+    {
+      "label": "Dân số",
+      "value": "397.483",
+      "sub": "Điều tra dân số chính thức năm 2022"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "BZD",
+      "sub": "2 BZD = 1 USD, cố định mãi mãi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Duy nhất ở Trung Mỹ"
+    },
+    {
+      "label": "Diện tích",
+      "value": "22.966 km²",
+      "sub": "Nhỏ hơn tỉnh Nghệ An một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.124 m",
+      "sub": "Doyle's Delight, dãy núi Maya"
+    }
+  ],
+  "islands": [
+    "Belize City",
+    "Cayo",
+    "Ambergris",
+    "Placencia",
+    "Belmopan"
+  ],
+  "islandsLabel": "CÁC ĐỊA DANH CHÍNH:",
+  "sections": {
+    "geography": "Rạn san hô, rừng già & núi non",
+    "animals": "Báo hoa mai, heo vòi & toucan",
+    "culture": "Bức tranh ghép từ nhiều dân tộc",
+    "history": "Maya, gỗ quý & độc lập",
+    "wows": "7 điều bất ngờ thú vị"
+  },
+  "geo": [
+    "Belize nằm trên bờ biển Caribbean của Trung Mỹ, kẹp giữa Mexico ở phía bắc và Guatemala ở phía tây. Miền bắc đất thấp và đầm lầy, còn miền nam nhô lên thành dãy núi Maya hùng vĩ, với đỉnh Doyle's Delight cao 1.124 m — tương đương đỉnh Bạch Mã ở Thừa Thiên Huế.",
+    "Ngoài khơi, một rạn san hô chạy dài 300 km — dài nhất Tây bán cầu. Ẩn trong lòng rạn là Hố Xanh Lớn, một hố sụt hình tròn hoàn hảo rộng 318 m và sâu 124 m, nước xanh thẳm đến mức trông như viên ngọc bích nhìn từ vũ trụ."
+  ],
+  "animals": [
+    "Belize là một trong số ít nơi trên thế giới còn báo hoa mai sống hoang dã. Khu bảo tồn Cockscomb Basin — khu bảo tồn báo hoa mai đầu tiên trên thế giới — bảo vệ một đàn báo đông đúc trong hơn 500 km² rừng nhiệt đới.",
+    "Thú quốc gia của Belize là heo vòi Baird — con vật to như con ngựa nhỏ, mõm dài lủng lẳng trông thật buồn cười. Dưới biển, bò biển hiền lành gặm cỏ biển, còn chim toucan mỏ cầu vồng — quốc điểu của Belize — đậu trên cành như một bông hoa nhiệt đới biết bay."
+  ],
+  "culture": [
+    "Belize là bức tranh khảm văn hóa: người Mestizo, người Creole, người Maya, người Garifuna, người Mennonite và người Đông Ấn cùng sống chung một mái nhà. Người Garifuna được UNESCO công nhận là di sản văn hóa phi vật thể năm 2001 nhờ ngôn ngữ, điệu trống punta và những điệu nhảy độc đáo của họ.",
+    "Ẩm thực phản ánh từng cộng đồng — cơm đậu Creole, súp cá dừa hudut của người Garifuna, bánh tamale Maya và phô mai Mennonite cùng bày bán trên chợ. Âm nhạc punta rộn ràng từ các quán bar bãi biển, trong khi tiếng đàn marimba bay lơ lửng từ những lễ hội làng quê."
+  ],
+  "history": [
+    "Người Maya đã xây dựng những thành phố vĩ đại ở đây hơn 2.000 năm trước — Caracol, Xunantunich và Lamanai từng là nơi ở của hàng chục nghìn người, với những kim tự tháp đá sừng sững và lịch pháp ghi chép bằng chữ viết. Nhưng đến khoảng năm 1000 sau Công nguyên, các thành phố này bí ẩn vắng bóng người.",
+    "Những thợ chặt gỗ người Anh đặt chân đến vào thế kỷ 17, và vùng đất này trở thành thuộc địa Honduras thuộc Anh năm 1862. Ngày 21 tháng 9 năm 1981, Belize chính thức độc lập — ngày đó mỗi năm đều rực rỡ pháo hoa và diễu hành."
+  ],
+  "wows": [
+    "Hố Xanh Lớn có hình tròn hoàn hảo đến mức các phi hành gia nhìn thấy nó từ vũ trụ như một chấm xanh lam đậm giữa đại dương.",
+    "Belize là quốc gia duy nhất ở Trung Mỹ dùng tiếng Anh làm ngôn ngữ chính thức.",
+    "Đồng đô-la Belize đã được cố định ở mức 2 BZD = 1 USD từ năm 1978 — không bao giờ thay đổi.",
+    "Rạn san hô Belize dài nhất Tây bán cầu, trải dài 300 km dọc bờ biển.",
+    "Cockscomb Basin là khu bảo tồn báo hoa mai chính thức đầu tiên trên thế giới, thành lập năm 1986.",
+    "Thành phố cổ Caracol từng to hơn cả Belize City ngày nay, với hơn 150.000 người Maya sinh sống.",
+    "Những nông dân Mennonite ở miền bắc Belize vẫn đi xe ngựa kéo và cung cấp phần lớn sữa và phô mai cho cả nước."
+  ],
+  "myths": [
+    {
+      "myth": "Belize là một quốc đảo ở vùng Caribbean",
+      "fact": "Belize nằm trên đất liền Trung Mỹ — rừng rậm, núi non và di tích Maya chiếm phần lớn diện tích, còn những hòn đảo nhỏ và rạn san hô nổi tiếng chỉ là phần nhô ra ngoài biển."
+    },
+    {
+      "myth": "Người Belize đều nói tiếng Tây Ban Nha",
+      "fact": "Tiếng Anh mới là ngôn ngữ chính thức dạy trong tất cả các trường học — Belize là quốc gia duy nhất ở Trung Mỹ làm được điều đó, dù tiếng Tây Ban Nha cũng được dùng rộng rãi."
+    }
+  ],
+  "words": [
+    {
+      "en": "Có gì không?",
+      "jp": "Weh di go?",
+      "say": "Way dee GO"
+    },
+    {
+      "en": "Chào buổi sáng!",
+      "jp": "Mawnin!",
+      "say": "MAW-nin"
+    },
+    {
+      "en": "Cảm ơn!",
+      "jp": "Tanks!",
+      "say": "TANKS"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "Fi how much?",
+      "say": "Fee how MUCH"
+    },
+    {
+      "en": "Tạm biệt!",
+      "jp": "Lata!",
+      "say": "LAH-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bz-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống thành phố Belize City và bờ biển Caribbean",
+      "caption": "BELIZE CITY — thành phố lớn nhất ôm sát bờ biển Caribbean",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bz-landmark.jpg",
+      "alt": "Kim tự tháp El Castillo tại di tích Maya Xunantunich, Belize",
+      "caption": "EL CASTILLO, XUNANTUNICH — kim tự tháp Maya cao 40 m gần biên giới Guatemala",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bz-animalA.jpg",
+      "alt": "Chim toucan mỏ cầu vồng đậu trên cành cây",
+      "caption": "TOUCAN MỎ CẦU VỒNG — quốc điểu của Belize với chiếc mỏ rực rỡ đủ màu sắc",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bz-animalB.jpg",
+      "alt": "Heo vòi Baird — thú quốc gia của Belize",
+      "caption": "HEO VÒI BAIRD — động vật có vú trên cạn lớn nhất Trung Mỹ",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

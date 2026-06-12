@@ -1,0 +1,163 @@
+{
+  "name": "ISRAEL",
+  "nativeName": "ישראל",
+  "romaji": "YISRA'EL",
+  "tagline": "Nơi lịch sử còn đang bước đi",
+  "region": "Trung Đông",
+  "coords": "31.0°N 35.0°E",
+  "fileNo": "042",
+  "langName": "tiếng Hebrew",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#CEC8B5",
+    "ink": "#1E1C18",
+    "faint": "#8A8070",
+    "line": "#DCD8C8",
+    "accent": "#1D4FA0",
+    "accent2": "#D0D0D0"
+  },
+  "flag": {
+    "assetPath": "/flags/il.svg",
+    "title": "Quốc kỳ Israel",
+    "note": "Hai sọc xanh ôm lấy ngôi sao David ở giữa",
+    "keyColor": "#1D4FA0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Israel là một đất nước nhỏ bé nằm bên bờ Địa Trung Hải — diện tích chỉ bằng một tỉnh của Việt Nam — nhưng lại chứa đựng những thành phố cổ xưa nhất trên Trái Đất. Thủ đô Jerusalem linh thiêng với ba tôn giáo lớn cùng một lúc. Đất nước này có sa mạc hầu như chưa bao giờ thấy mưa, một vùng biển mặn đến mức bạn nằm thẳng trên mặt nước mà không cần bơi, và những cánh đồng nở hoa giữa cát bụi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Jerusalem",
+      "sub": "Thánh địa của 3 tôn giáo"
+    },
+    {
+      "label": "Dân số",
+      "value": "10 triệu người",
+      "sub": "Cục Thống kê Israel, cuối 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Shekel (₪)",
+      "sub": "New Shekel Israel"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Hebrew",
+      "sub": "tiếng Ả Rập cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "20.770 km²",
+      "sub": "Nhỏ hơn tỉnh Nghệ An"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Hermon 2.236m",
+      "sub": "Có tuyết phủ vào mùa đông"
+    }
+  ],
+  "islands": [
+    "Jerusalem",
+    "Tel Aviv",
+    "Haifa",
+    "Eilat",
+    "Be'er Sheva"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sa mạc, biển mặn và đỉnh tuyết",
+    "animals": "Muông thú kỳ lạ trên đất thánh",
+    "culture": "Lễ hội, đức tin và bàn tiệc",
+    "history": "Ba nghìn năm trên một mảnh đất",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Trong một mảnh đất nhỏ bé, Israel gom đủ bốn loại cảnh quan: bờ biển Địa Trung Hải xanh mướt, đỉnh núi Hermon tuyết phủ trắng xóa ở phía bắc, thung lũng Galilee màu mỡ, và sa mạc Negev khô cằn chiếm hơn nửa diện tích cả nước. Sông Jordan chảy dài về phía nam đổ vào Biển Chết.",
+    "Biển Chết nằm thấp hơn mực nước biển tới 430 mét — đây là điểm thấp nhất trên bề mặt Trái Đất. Nước ở đây mặn đến mức cá không thể sống nổi, nhưng bù lại bạn có thể nằm thả trôi trên mặt nước, thậm chí vừa nổi vừa đọc sách mà chẳng cần vẫy tay một cái."
+  ],
+  "animals": [
+    "Israel nằm ngay trên một trong những đường di cư chim nhộn nhịp nhất Trái Đất. Mỗi mùa xuân và mùa thu, khoảng 500 triệu con chim bay qua, biến thung lũng Hula thành một dòng sông chim cuộn chảy trên bầu trời. Ban đêm, chó rừng vàng tru vang khắp vùng Galilee, còn linh cẩu vằn lặng lẽ đi săn trong bóng tối sa mạc.",
+    "Linh dương oryx Ả Rập — loài linh dương trắng nhìn nghiêng trông hệt như con kỳ lân — đã được cứu thoát khỏi nguy cơ tuyệt chủng và nay đã trở lại sống tự do ở Negev. Còn con hyrax đá mập mạp, trông giống chuột lang, lại là họ hàng gần nhất của loài voi — điều mà ít ai ngờ tới."
+  ],
+  "culture": [
+    "Ẩm thực Israel là sự pha trộn vui tươi của nhiều truyền thống. Hummus, falafel và rau tươi chất đầy trên mọi bàn ăn. Tối thứ Sáu là Shabbat — gia đình quây quần bên nến thơm, bánh mì challah bện tết, và bữa tối ấm áp kéo dài đến tận đêm khuya.",
+    "Israel có nhiều bảo tàng tính theo đầu người hơn bất kỳ quốc gia nào — thậm chí có cả một bảo tàng dành riêng cho bánh mì. Tranh nghệ thuật đường phố rực rỡ bao phủ tường nhà Tel Aviv, và những khu chợ trời gọi là shuk tràn ngập gia vị, bánh ngọt và tiếng huyên náo vui vẻ mỗi buổi sáng."
+  ],
+  "history": [
+    "Con người đã sinh sống trên mảnh đất này hơn một triệu năm. Vua David đóng đô ở Jerusalem vào khoảng năm 1000 trước Công nguyên, rồi vua Solomon xây dựng Đền Thờ vĩ đại tại đây. Người Ai Cập, Babylon, Hy Lạp, La Mã, rồi đế chế Ottoman — mỗi thế lực lần lượt cai trị, để lại dấu tích khắc sâu vào từng viên đá.",
+    "Nhà nước Israel hiện đại được thành lập năm 1948 như một quê hương sau Thế chiến thứ Hai. Những người tiên phong trồng rừng và xây thành phố giữa sa mạc. Tiếng Hebrew — vốn không còn ai dùng làm ngôn ngữ hàng ngày suốt gần 2.000 năm — được hồi sinh hoàn toàn, trở thành tiếng nói đời thường. Đây là lần duy nhất trong lịch sử nhân loại một ngôn ngữ được làm sống lại như vậy."
+  ],
+  "wows": [
+    "Biển Chết mặn gấp 9,6 lần nước biển — dù bạn cố nhấn chìm mình xuống cũng không thể chìm nổi.",
+    "Israel hồi sinh tiếng Hebrew sau 2.000 năm im lặng — ngôn ngữ duy nhất trong lịch sử được cứu sống từ cõi chết.",
+    "Nửa tỷ con chim di cư bay qua Israel mỗi năm hai lần, tạo nên một trong những kỳ quan thiên nhiên hùng tráng nhất Trái Đất.",
+    "Các nhà khoa học Israel đã giúp tạo ra giống cà chua bi thương mại hiện đại vào thập niên 1970.",
+    "Israel có hơn 230 bảo tàng chỉ trong một đất nước nhỏ bé — nhiều nhất thế giới tính theo đầu người.",
+    "Sa mạc Negev ẩn giấu những thành phố cổ Nabataean trên con đường gia vị, nay được UNESCO công nhận là Di sản Thế giới.",
+    "Quốc điểu của Israel là chim đầu rìu — loài chim có mào sọc, được chọn qua bình chọn toàn quốc vào năm 2008."
+  ],
+  "myths": [
+    {
+      "myth": "Biển Chết là một vùng biển",
+      "fact": "Thực ra đây là một hồ muối không thông ra biển, được sông Jordan bổ nước vào. Nước chỉ thoát đi bằng cách bốc hơi, vì thế muối cứ tích tụ mãi đến mức cá không thể tồn tại được."
+    },
+    {
+      "myth": "Israel toàn là sa mạc",
+      "fact": "Negev đúng là sa mạc, nhưng phía bắc có thung lũng xanh tươi, núi Hermon có thể trượt tuyết vào mùa đông, và bờ biển Địa Trung Hải mướt mát với vườn cây ăn trái và khu bảo tồn đất ngập nước."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "שָׁלוֹם",
+      "say": "sha-LOM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "תּוֹדָה",
+      "say": "to-DAH"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "כֵּן",
+      "say": "ken"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "טָעִים",
+      "say": "ta-EEM"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "חָבֵר",
+      "say": "cha-VER"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/il-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống Thành cổ Jerusalem với mái vòm vàng óng của Đền Đá",
+      "caption": "THÀNH CỔ JERUSALEM — mái vòm vàng Đền Đá tỏa sáng trên 3.000 năm lịch sử",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/il-landmark.jpg",
+      "alt": "Một người nằm nổi bồng bềnh trên mặt nước siêu mặn của Biển Chết",
+      "caption": "BIỂN CHẾT — mặn đến mức tự nổi, nằm thấp hơn mực nước biển 430 mét",
+      "credit": "David Shankbone / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/il-animalA.jpg",
+      "alt": "Hàng nghìn con sếu bay lượn trên vùng đất ngập nước thung lũng Hula ở Israel",
+      "caption": "SẾU THUNG LŨNG HULA — 500 triệu con chim đổ qua Israel mỗi mùa di cư",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/il-animalB.jpg",
+      "alt": "Một con linh dương oryx Ả Rập màu trắng đứng giữa sa mạc Negev",
+      "caption": "LINH DƯƠNG ORYX Ả RẬP — được cứu khỏi tuyệt chủng, nay tự do ở Negev",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

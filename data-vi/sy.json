@@ -1,0 +1,163 @@
+{
+  "name": "SYRIA",
+  "nativeName": "سوريا",
+  "romaji": "SURIYA",
+  "tagline": "Nơi lịch sử nhân loại bắt đầu",
+  "region": "Trung Đông",
+  "coords": "34.8°N 38.9°E",
+  "fileNo": "SY",
+  "langName": "tiếng Ả Rập",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EAD8",
+    "dot": "#C9B99A",
+    "ink": "#241E18",
+    "faint": "#8B7355",
+    "line": "#DDD0B8",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/sy.svg",
+    "title": "Quốc kỳ Syria",
+    "note": "Ba sọc xanh lá, trắng, đen với 2 ngôi sao đỏ",
+    "keyColor": "#007A3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Syria nằm ở ngã tư của ba châu lục — nơi những người nông dân đầu tiên trên Trái Đất gieo hạt từ 12.000 năm trước. Thủ đô Damascus có thể là thành phố cổ nhất thế giới chưa bao giờ bị bỏ trống, có người sinh sống liên tục từ trước khi các kim tự tháp Ai Cập được xây dựng. Đền thờ giữa sa mạc, lâu đài Thập Tự Chinh, chợ cổ sầm uất — Syria là kho báu lịch sử lớn nhất nhân loại còn lại trên mặt đất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Damascus",
+      "sub": "Một trong những thành phố cổ nhất Trái Đất"
+    },
+    {
+      "label": "Dân số",
+      "value": "~25,6 triệu",
+      "sub": "Ước tính LHQ, giữa năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Bảng Syria",
+      "sub": "Đổi mệnh giá tháng 1/2026"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Tiếng Aramaic vẫn còn dùng ở một số làng"
+    },
+    {
+      "label": "Diện tích",
+      "value": "185.180 km²",
+      "sub": "Lớn hơn Campuchia"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.814 m",
+      "sub": "Núi Hermon, biên giới phía tây nam"
+    }
+  ],
+  "islands": [
+    "Damascus",
+    "Aleppo",
+    "Homs",
+    "Hama",
+    "Latakia"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sa mạc, sông ngòi và núi non",
+    "animals": "Muông thú sa mạc và chim di cư",
+    "culture": "Hương vị Con đường Tơ lụa",
+    "history": "Cái nôi của nền văn minh",
+    "wows": "Khó tin nhưng là thật!"
+  },
+  "geo": [
+    "Syria có ba vùng thiên nhiên rất khác nhau. Dải đất ven biển hẹp nhận mưa từ Địa Trung Hải và trồng được cam, quýt xanh tươi. Phía sau là những dãy núi dựng đứng, rồi đất đai thoải dần xuống thành thảo nguyên và sa mạc mênh mông — chiếm hơn nửa diện tích cả nước.",
+    "Sông Euphrates chảy qua phía đông bắc, tưới tắm những cánh đồng lúa mì và bông vải. Ở gần thành phố Hama, những bánh xe nước bằng gỗ khổng lồ — có chiếc cao hơn tòa nhà sáu tầng — đã múc nước sông lên tưới ruộng suốt hơn 600 năm nay."
+  ],
+  "animals": [
+    "Syria nằm trên một trong những tuyến đường di cư bận rộn nhất thế giới. Mỗi mùa xuân và mùa thu, hàng triệu con cò, đại bàng và chim sẻ đổ dồn qua hành lang hẹp Levant — như một đường cao tốc lông vũ khổng lồ trên bầu trời sa mạc.",
+    "Linh dương reem — loài linh dương hiện in trên tờ tiền mới của Syria — chạy vun vút trên thảo nguyên. Ban đêm, linh cẩu sọc đi kiếm ăn, sói lang thang trên núi, còn các con sông che giấu rùa mai mềm và rái cá trong những khúc lau sậy mát mẻ."
+  ],
+  "culture": [
+    "Ẩm thực Syria là cuộc thử nghiệm 10.000 năm không ngừng nghỉ. Bánh mì dẹt nướng từ lò đất, hummus, thịt cừu hầm nhừ với gia vị thơm lừng — rất nhiều món ăn mà cả thế giới yêu thích ngày nay đã được hoàn thiện đầu tiên ngay trên mảnh đất này, rồi truyền từ thế hệ này sang thế hệ khác.",
+    "Hoa hồng Damask, mang tên thủ đô Damascus, nở rộ mỗi tháng Năm quanh kinh đô. Người nông dân phải hái cánh hoa ngay từ bình minh trước khi hương thơm tan đi, rồi cất thành nước hoa hồng mà các nhà nước hoa từ Paris đến Tokyo vẫn xem là nguyên liệu quý báu."
+  ],
+  "history": [
+    "Con người đã sống quanh Damascus từ khoảng năm 10.000 trước Công nguyên. Đến năm 3000 TCN, thành phố Ebla đã có một thư viện hoàng gia chứa 17.000 tấm bảng đất sét ghi chép mọi thứ — trong khi phần lớn châu Âu lúc đó vẫn còn ở trong những túp lều gỗ đơn sơ.",
+    "Syria sau đó trở thành trái tim của Con đường Tơ lụa, cầu nối giữa Trung Quốc và vùng Địa Trung Hải. Thương nhân từ khắp nơi trên thế giới chen chúc trong khu chợ có mái che của Aleppo, trao đổi lụa, gia vị, thủy tinh và những câu chuyện thú vị suốt hàng trăm năm ròng."
+  ],
+  "wows": [
+    "Mọi con chuột hamster nuôi trong nhà trên thế giới ngày nay đều có chung tổ tiên từ một ổ chuột tìm thấy gần Aleppo, Syria, vào năm 1930.",
+    "Damascus có người sinh sống liên tục ít nhất 10.000 năm — một trong những thành phố cổ nhất Trái Đất chưa bao giờ bị bỏ hoang.",
+    "Syria có sáu Di sản Thế giới UNESCO — mật độ cao nhất ở khu vực Trung Đông.",
+    "Tiếng Aramaic — thứ tiếng mà Chúa Giêsu rất có thể đã dùng — vẫn còn được nói hàng ngày ở một vài ngôi làng trên núi của Syria.",
+    "Chợ Al-Madina ở Aleppo dài 13 km, là một trong những khu chợ có mái che dài nhất thế giới.",
+    "Bánh xe nước bằng gỗ ở Hama, cao tới 21 m, từng là những công trình cao nhất thế giới trong gần 500 năm.",
+    "Tờ tiền mới năm 2026 của Syria bỏ hình chân dung chính trị, thay bằng hình hoa hồng Damask, chim nhạn và linh dương — đẹp hơn hẳn!"
+  ],
+  "myths": [
+    {
+      "myth": "Syria chỉ là sa mạc",
+      "fact": "Hơn một nửa đất nước là sa mạc, nhưng Syria còn có núi tuyết phủ, bờ biển Địa Trung Hải xanh mướt và những thung lũng sông trù phú. Núi Hermon thậm chí còn có khu trượt tuyết!"
+    },
+    {
+      "myth": "Tiếng Ả Rập là ngôn ngữ duy nhất ở Syria",
+      "fact": "Tiếng Ả Rập là ngôn ngữ chính thức, nhưng tiếng Kurdish, tiếng Armenia và tiếng Aramaic cổ đại cũng được sử dụng. Một vài ngôi làng gần Damascus vẫn nói tiếng Aramaic mỗi ngày — thứ tiếng đã có từ hàng nghìn năm trước."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHOOK-ran"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sy-hero.jpg",
+      "alt": "Sân trong rộng lớn của Nhà thờ Hồi giáo Umayyad ở Damascus với vòm mái vàng",
+      "caption": "NHÀ THỜ UMAYYAD — đại thánh đường thế kỷ 8 của Damascus, một trong những thánh đường cổ nhất Hồi giáo",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sy-landmark.jpg",
+      "alt": "Lâu đài Thập Tự Chinh Krak des Chevaliers trên đỉnh đồi Syria",
+      "caption": "KRAK DES CHEVALIERS — lâu đài Thập Tự Chinh đẹp nhất thời Trung Cổ, tọa lạc trên đồi cao ở Syria",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sy-animalA.jpg",
+      "alt": "Hoa hồng Damask màu hồng nở rộ",
+      "caption": "HOA HỒNG DAMASK — loài hoa nổi tiếng của Syria, được hái từ bình minh để chiết xuất tinh dầu nước hoa quý hiếm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sy-animalB.jpg",
+      "alt": "Những cột đá La Mã cổ đại và vòm cổng kỳ vĩ ở Palmyra giữa sa mạc Syria",
+      "caption": "PHẾ TÍCH PALMYRA — thành phố sa mạc cổ đại, từng là trung tâm thương mại Con đường Tơ lụa vĩ đại nhất",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

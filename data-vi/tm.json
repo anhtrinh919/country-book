@@ -1,0 +1,163 @@
+{
+  "name": "TURKMENISTAN",
+  "nativeName": "TM",
+  "romaji": "TÜRKMENISTAN",
+  "tagline": "Cát, khí đốt & ngựa vàng",
+  "region": "Trung Á",
+  "coords": "40°N 60°E",
+  "fileNo": "078",
+  "langName": "tiếng Turkmen",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EAD8",
+    "dot": "#C8B89A",
+    "ink": "#26201A",
+    "faint": "#867560",
+    "line": "#DDD0B8",
+    "accent": "#1A7A3C",
+    "accent2": "#C0302A"
+  },
+  "flag": {
+    "assetPath": "/flags/tm.svg",
+    "title": "Cờ Turkmenistan.",
+    "note": "Nền xanh lá, dải đỏ hoa văn gul, trăng lưỡi liềm và ngôi sao",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Turkmenistan là một vùng đất sa mạc bao la ở Trung Á — tới 70% lãnh thổ là cát của sa mạc Karakum. Dưới lòng đất ẩn chứa kho khí đốt tự nhiên lớn thứ 4 thế giới. Thủ đô Ashgabat trắng muốt bằng đá cẩm thạch giữ nhiều kỷ lục Guinness, còn hố lửa khổng lồ giữa sa mạc được gọi là 'Cửa địa ngục' khiến bao nhà thám hiểm mê mẩn — chưa kể giống ngựa Akhal-Teke óng ánh vàng được coi là một trong những loài đẹp nhất trên đời.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Ashgabat",
+      "sub": "Dân số ~1.030.000 (điều tra 2022)"
+    },
+    {
+      "label": "Dân số",
+      "value": "~7,1 triệu người",
+      "sub": "Điều tra 2022 (công bố 2023)"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Manat (TMT)",
+      "sub": "Tỉ giá cố định: 3,5 TMT = 1 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Turkmen",
+      "sub": "Tiếng Nga cũng được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "491.210 km²",
+      "sub": "Xấp xỉ diện tích Tây Ban Nha"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Aýrybaba",
+      "sub": "3.139 m — dãy Köýtendag phía đông nam"
+    }
+  ],
+  "islands": [
+    "Ahal",
+    "Balkan",
+    "Dashoguz",
+    "Lebap",
+    "Mary"
+  ],
+  "islandsLabel": "NĂM VÙNG:",
+  "sections": {
+    "geography": "Biển cát và những bí ẩn",
+    "animals": "Thú sa mạc & ngựa vàng huyền thoại",
+    "culture": "Thảm, ngựa & nghề thủ công",
+    "history": "Con đường Tơ lụa & cát Xô Viết",
+    "wows": "Thật không thể tin được!"
+  },
+  "geo": [
+    "Sa mạc Karakum — nghĩa là 'cát đen' trong tiếng Turkmen — trải rộng tới 70% đất nước, khiến đây là một trong những sa mạc cát lớn nhất Trái Đất. Ban ngày nhiệt độ có thể lên tới 50°C, thế mà cây saxaul cứng cỏi và nhiều loài động vật vẫn sống sót dù gần như không có mưa — như những chiến binh của cát vậy.",
+    "Phía tây là bờ biển Caspian, còn phía đông nam là dãy núi Köýtendag sừng sững. Turkmenistan không có đường ra biển, nằm giữa vòng vây của Iran, Afghanistan, Uzbekistan và Kazakhstan — giống như một ốc đảo khổng lồ giữa lục địa châu Á."
+  ],
+  "animals": [
+    "Ngựa Akhal-Teke là báu vật sống của Turkmenistan — giống ngựa 3.000 năm tuổi có bộ lông óng ánh như vàng thật dưới ánh mặt trời. UNESCO công nhận việc nuôi dưỡng giống ngựa này là di sản văn hóa phi vật thể. Người Turkmen thường nói: sở hữu một con Akhal-Teke là như nắm trong tay một mảnh bầu trời.",
+    "Trong sa mạc Karakum còn có loài kulan Turkmenistan quý hiếm — những con lừa hoang dã chạy vun vút trên cát, mèo cát bí ẩn săn chuột nhảy ban đêm, và báo hoa mai Ba Tư ẩn mình trong rừng núi. Hơn 80 loài bò sát sinh sống ở đây, trong đó có con kỳ nhông sa mạc khổng lồ dài tới cả mét."
+  ],
+  "culture": [
+    "Tấm thảm Turkmen không chỉ là đồ trải sàn — đó là những câu chuyện gia đình được thắt nên bằng sợi len. Các bà mẹ truyền cho con gái từng hoa văn bộ lạc gọi là 'gul', mang dấu ấn riêng của từng dòng họ. Năm hoa văn gul trên lá cờ quốc gia chính là lời ca ngợi nghệ thuật sống này.",
+    "Ngày Hội Ngựa Turkmen vào tháng Tư mỗi năm là ngày lễ quốc gia với diễu hành và đua ngựa tôn vinh giống Akhal-Teke. Món ăn quốc dân là plov — cơm, thịt và cà rốt nấu chung trong một nồi lớn, đủ nuôi cả làng. Trà xanh phải được rót ra trước khi bất kỳ cuộc trò chuyện nào bắt đầu."
+  ],
+  "history": [
+    "Turkmenistan xưa nằm ngay trên Con đường Tơ lụa nổi tiếng nối liền Trung Quốc với La Mã. Thành phố Merv — gần thành phố Mary ngày nay — từng là một trong những đô thị lớn nhất thế giới, có thể lên tới một triệu dân vào thế kỷ 12, đông hơn cả nhiều thành phố lớn của châu Á lúc bấy giờ.",
+    "Nga sáp nhập vùng này vào thập niên 1880, và Turkmenistan trở thành một nước cộng hòa Xô Viết. Sau khi độc lập năm 1991, vị tổng thống đầu tiên đổi tên các tháng trong năm theo họ tên gia đình mình và dựng tượng vàng của bản thân luôn xoay mặt về hướng mặt trời."
+  ],
+  "wows": [
+    "Ashgabat giữ kỷ lục Guinness: thành phố có nhiều tòa nhà ốp đá cẩm thạch trắng nhất thế giới — tới 543 công trình!",
+    "Hố Darvaza: vô tình khoan trúng túi khí năm 1971, người ta đốt lửa để đốt hết khí — nhưng ngọn lửa cháy suốt hơn 50 năm liên tiếp.",
+    "Turkmenistan sở hữu trữ lượng khí đốt tự nhiên lớn thứ 4 thế giới, chỉ sau Nga, Iran và Qatar.",
+    "Từ năm 2018, xe màu khác trắng bị cấm lưu thông ở Ashgabat — tổng thống tin rằng màu trắng mang lại may mắn.",
+    "Lông ngựa Akhal-Teke có cấu trúc rỗng bên trong, tán xạ ánh sáng như kim loại — bộ lông vàng óng đó hoàn toàn tự nhiên, không cần nhuộm gì cả.",
+    "Thành phố cổ Merv có thể từng là đô thị đông dân nhất thế giới vào thế kỷ 12.",
+    "Năm 1995, Liên Hợp Quốc thông qua nghị quyết công nhận sự trung lập vĩnh viễn của Turkmenistan — một điều hiếm có trên thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Turkmenistan toàn là sa mạc hoang vu",
+      "fact": "Dù 70% là sa mạc Karakum, đất nước này còn có bờ biển Caspian, rừng núi nơi báo hoa mai ẩn náu, và những thung lũng màu mỡ từng nuôi sống đại đô thị cổ Merv hàng triệu dân."
+    },
+    {
+      "myth": "Lửa ở Cửa địa ngục bùng cháy tự nhiên",
+      "fact": "Năm 1971, các kỹ sư Xô Viết vô tình khoan trúng túi khí, rồi cố tình đốt với hy vọng lửa sẽ tắt nhanh. Kết quả là ngọn lửa cháy hơn 50 năm mới dần tàn vào khoảng năm 2025."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Salam",
+      "say": "sah-LAM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Sag boluň",
+      "say": "sahg-bol-UNG"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "Hawa",
+      "say": "HA-wa"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "Gowy",
+      "say": "GO-wee"
+    },
+    {
+      "en": "Xin lỗi",
+      "jp": "Bagyşlaň",
+      "say": "bah-GISH-lang"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tm-hero.jpg",
+      "alt": "Đường phố trung tâm Ashgabat với những tòa nhà ốp đá cẩm thạch trắng",
+      "caption": "ASHGABAT — hơn 543 công trình ốp đá cẩm thạch trắng tạo nên kỷ lục Guinness của thủ đô.",
+      "credit": "Bayram A / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/tm-landmark.jpg",
+      "alt": "Hố khí Darvaza bùng cháy trong đêm giữa sa mạc Karakum",
+      "caption": "HỐ KHÍ DARVAZA — 'Cửa địa ngục' bùng cháy giữa sa mạc Karakum từ năm 1971.",
+      "credit": "flydime / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/tm-animalA.jpg",
+      "alt": "Ngựa Akhal-Teke đang đua tại sân vận động quốc gia Ashgabat, Turkmenistan",
+      "caption": "NGỰA AKHAL-TEKE — giống ngựa vàng huyền thoại của Turkmenistan đang đua tại sân vận động quốc gia Ashgabat.",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/tm-animalB.jpg",
+      "alt": "Kulan Turkmenistan — con lừa hoang đứng nhìn nghiêng",
+      "caption": "KULAN TURKMENISTAN — loài lừa hoang dã đang có nguy cơ tuyệt chủng, lang thang khắp sa mạc Karakum.",
+      "credit": "Hans-Peter Scholz / CC BY-SA 2.0 DE"
+    }
+  }
+}

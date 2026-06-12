@@ -1,0 +1,163 @@
+{
+  "name": "BÉNIN",
+  "nativeName": "BJ",
+  "romaji": "BÉNIN",
+  "tagline": "Cái nôi của Vodun",
+  "region": "Tây Phi",
+  "coords": "9.31°N, 2.32°E",
+  "fileNo": "047",
+  "langName": "tiếng Fon",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CDBF9A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#008751",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/bj.svg",
+    "title": "Quốc kỳ Bénin",
+    "note": "Dải xanh lá ở cột cờ, hai dải vàng và đỏ nằm ngang",
+    "keyColor": "#008751",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bénin là một dải đất hẹp ở Tây Phi, nơi những vương quốc cổ đại từng đúc tượng đồng tuyệt đẹp — giờ đang được trưng bày ở các bảo tàng lớn khắp thế giới. Đây cũng là quê hương của Vodun — một tín ngưỡng thờ thần linh và tổ tiên đang sống động đến tận hôm nay, chứ không phải chuyện phù thủy như trong phim. Miền nam có những ngôi làng nổi trên mặt hồ, còn miền bắc trải rộng những thảo nguyên khô nơi voi và sư tử tự do rong ruổi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Porto-Novo",
+      "sub": "Cotonou mới là thành phố lớn nhất"
+    },
+    {
+      "label": "Dân số",
+      "value": "13,7 triệu người",
+      "sub": "Ước tính 2024, đang tăng nhanh"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Đồng tiền chung của Tây Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Pháp",
+      "sub": "Cùng tiếng Fon, Yoruba và hơn 50 ngôn ngữ khác"
+    },
+    {
+      "label": "Diện tích",
+      "value": "112.622 km²",
+      "sub": "Khoảng gần bằng 1/3 Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Mont Sokbaro",
+      "sub": "658 m — ngọn đồi có rừng cây ở phía bắc"
+    }
+  ],
+  "islands": [
+    "Cotonou",
+    "Porto-Novo",
+    "Abomey",
+    "Parakou",
+    "Natitingou"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đầm lầy, thảo nguyên và hơn thế",
+    "animals": "Thú hoang của Bénin",
+    "culture": "Vương triều, trống và thần linh",
+    "history": "Từ đế chế đến độc lập",
+    "wows": "7 điều bất ngờ về Bénin"
+  },
+  "geo": [
+    "Bénin dài mà hẹp — chỉ rộng 125 km ở phần bờ biển nhưng kéo dài đến 700 km lên phía bắc. Miền nam có bãi biển cát trắng, rừng đước và Hồ Nokoué, nơi ngôi làng Ganvié đứng hoàn toàn trên những cột nhà cắm xuống mặt nước — trông như một thành phố nổi giữa hồ.",
+    "Càng đi về phía bắc, địa hình chuyển dần từ đồi rừng sang thảo nguyên khô, dẫn đến Vườn Quốc gia Pendjari — một trong những khu bảo tồn thiên nhiên tuyệt vời nhất Tây Phi, nơi sư tử, voi và hà mã cùng sinh sống."
+  ],
+  "animals": [
+    "Loài thú biểu tượng của Bénin là voi châu Phi — Vườn Quốc gia Pendjari bảo vệ hơn 2.000 con, đàn voi lớn nhất Tây Phi. Bầy sư tử rình rập trong cỏ cao, còn chó hoang châu Phi hiếm gặp đi săn theo đàn.",
+    "Sông ngòi đầy cá sấu sông Nile và hà mã. Bò biển hiếm có lặng lẽ bơi qua các đầm phá ven biển. Chim ăn ong sắc màu rực rỡ và chim mỏ sừng khổng lồ gọi nhau trong tán rừng lúc bình minh."
+  ],
+  "culture": [
+    "Bénin là nơi khởi nguồn của Vodun trên toàn thế giới — một tín ngưỡng tôn thờ thần linh thiên nhiên và tổ tiên. Mỗi tháng Giêng, Ngày lễ Vodun biến những con phố Ouidah thành biển âm thanh của trống, vũ công hóa trang lộng lẫy và các nghi lễ hoành tráng.",
+    "Những nữ chiến binh Agojie của vương quốc Dahomey đã truyền cảm hứng cho bộ phim 'Nữ Vương'. Những tấm thảm thêu đầy màu sắc vẫn được tạo ra ở Abomey ngày nay, kể lại từng trận chiến oai hùng qua từng ô thêu."
+  ],
+  "history": [
+    "Vương quốc Dahomey nổi lên khoảng năm 1600, trở nên giàu có nhờ thương mại — đau lòng thay, có cả buôn bán nô lệ qua 'Cánh Cửa Không Trở Lại' ở Ouidah. Các vua của Dahomey chỉ huy đội quân hùng mạnh và cho đúc những tác phẩm đồng tuyệt đẹp.",
+    "Pháp đô hộ vùng đất này vào thập niên 1890. Ngày 1 tháng 8 năm 1960, Bénin tuyên bố độc lập. Sau nhiều biến động chính trị, đất nước đổi tên thành Bénin năm 1975 và dần xây dựng nên một nền dân chủ ổn định bậc nhất Tây Phi."
+  ],
+  "wows": [
+    "Bãi biển 'Cánh Cửa Không Trở Lại' ở Ouidah là nơi khoảng 1 triệu người bị bắt làm nô lệ rồi chở sang châu Mỹ.",
+    "Làng Ganvié trên Hồ Nokoué có 30.000 dân sống hoàn toàn trên nước — kể cả chợ cũng nổi trên thuyền.",
+    "Những nữ chiến binh Agojie của Dahomey dũng mãnh đến mức lính châu Âu viết thư về nhà kể chuyện kinh ngạc.",
+    "Ngày 10 tháng 1 là ngày lễ quốc gia tôn vinh Vodun — Bénin là quốc gia duy nhất trên thế giới làm vậy.",
+    "Các cung điện hoàng gia Abomey được UNESCO công nhận, với những bức tường phù điêu kể chuyện lịch sử như truyện tranh khổng lồ.",
+    "Nhiều cây bao báp ở Bénin đã sống hơn 1.000 năm — người địa phương gọi chúng là 'cây uống bầu trời'.",
+    "Pendjari là thành trì cuối cùng của sư tử Tây Phi; toàn vùng còn chưa đến 400 con."
+  ],
+  "myths": [
+    {
+      "myth": "Voodoo toàn là bùa chú và xác sống",
+      "fact": "Vodun là một tín ngưỡng thờ tổ tiên tinh tế với thầy tế, đền thờ và luật lệ đạo đức rõ ràng — câu chuyện xác sống là do Hollywood bịa ra cho phim kinh dị."
+    },
+    {
+      "myth": "Bénin là một phần của Nigeria",
+      "fact": "Bénin là một quốc gia riêng biệt ở phía tây Nigeria; cái tên xuất phát từ vịnh Bight of Benin trên bờ biển, không liên quan đến thành phố Benin City của Nigeria."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Kudo",
+      "say": "koo-DOH"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Àgàn",
+      "say": "ah-GAHN"
+    },
+    {
+      "en": "Có / Đúng rồi",
+      "jp": "Ɛɛ",
+      "say": "EH-eh"
+    },
+    {
+      "en": "Nước",
+      "jp": "Tɔ",
+      "say": "TAW"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Àwù",
+      "say": "ah-WOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bj-hero.jpg",
+      "alt": "Làng nổi Ganvié trên Hồ Nokoué lúc bình minh",
+      "caption": "GANVIÉ — 'Venice của châu Phi', 30.000 cư dân sống hoàn toàn trên mặt nước",
+      "credit": "Wikimedia Commons / Julien Harneis"
+    },
+    "landmark": {
+      "src": "/photos/bj-landmark.jpg",
+      "alt": "Đài tưởng niệm Cánh Cửa Không Trở Lại trên bãi biển Ouidah",
+      "caption": "CÁNH CỬA KHÔNG TRỞ LẠI — đài tưởng niệm nạn buôn bán nô lệ xuyên Đại Tây Dương tại Ouidah",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bj-animalA.jpg",
+      "alt": "Voi châu Phi giơ vòi trên thảo nguyên",
+      "caption": "VOI CHÂU PHI — Pendjari bảo vệ đàn voi lớn nhất Tây Phi",
+      "credit": "Wikimedia Commons / Muhammad Mahdi Karim"
+    },
+    "animalB": {
+      "src": "/photos/bj-animalB.jpg",
+      "alt": "Hà mã đang nghỉ ngơi trong lòng sông",
+      "caption": "HÀ MÃ — sinh sống khắp các con sông phía bắc và bờ hồ của Bénin",
+      "credit": "Wikimedia Commons / Nevit Dilmen"
+    }
+  }
+}

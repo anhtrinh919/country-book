@@ -1,0 +1,163 @@
+{
+  "name": "ESTONIA",
+  "nativeName": "Eesti",
+  "romaji": "EESTI",
+  "tagline": "Viên Ngọc Số Hóa Vùng Baltic",
+  "region": "Bắc Âu",
+  "coords": "58.6°N, 25.0°E",
+  "fileNo": "042",
+  "langName": "tiếng Estonia",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E8",
+    "dot": "#c8ccb8",
+    "ink": "#1e2218",
+    "faint": "#7a8070",
+    "line": "#d4d8c8",
+    "accent": "#0072CE",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ee.svg",
+    "title": "Cờ Ba Màu",
+    "note": "Xanh, đen & trắng — bầu trời, đất đai, tuyết trắng",
+    "keyColor": "#0072CE",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Estonia nhỏ bé nằm bên bờ biển Baltic nhưng chứa đầy điều kỳ diệu. Hơn 2.000 hòn đảo, những khu rừng lầy huyền bí và thành phố cổ như bước ra từ truyện cổ tích — đất nước này chẳng thiếu thứ gì để khám phá. Điều đặc biệt hơn nữa: Estonia là nơi đầu tiên trên thế giới tổ chức bầu cử qua mạng internet, và ngày nay hầu như mọi việc ở đây đều làm được bằng máy tính. Cứ năm năm một lần, một phần tư dân số cả nước cùng tụ họp để cất tiếng hát — một truyền thống khiến cả thế giới phải nghiêng mình thán phục.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tallinn",
+      "sub": "Dân số ~460.000 người (ước tính 2024)"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,37 triệu người",
+      "sub": "Thống kê Estonia, 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng từ năm 2011"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Estonia",
+      "sub": "Họ ngôn ngữ Finno-Ugric"
+    },
+    {
+      "label": "Diện tích",
+      "value": "45.339 km²",
+      "sub": "Nhỏ hơn Đan Mạch một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "318 m",
+      "sub": "Suur Munamägi, đông nam Estonia"
+    }
+  ],
+  "islands": [
+    "Tallinn",
+    "Tartu",
+    "Narva",
+    "Pärnu",
+    "Saaremaa"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ & ĐỊA DANH CHÍNH:",
+  "sections": {
+    "geography": "Đầm lầy, rừng già & 2.000 hòn đảo",
+    "animals": "Sói, linh miêu & cò trắng",
+    "culture": "Tiếng hát, nhà tắm hơi & số hóa toàn diện",
+    "history": "Viking, lâu đài & kỷ nguyên kỹ thuật số",
+    "wows": "Bảy điều bất ngờ về Estonia"
+  },
+  "geo": [
+    "Gần một nửa diện tích Estonia là rừng — thông, bạch dương và vân sam trải dài như tấm chăn xanh khổng lồ. Những vùng đầm lầy than bùn cổ xưa mênh mông với mặt nước tối đen phẳng lặng như gương, tạo nên khung cảnh huyền bí khó quên. Bờ biển bằng phẳng được điểm tô bởi hơn 2.200 hòn đảo và hàng nghìn hồ nước lấp lánh.",
+    "Đảo lớn nhất là Saaremaa, nơi có hồ miệng núi lửa Kaali — thực ra là hố thiên thạch do một tảng đá vũ trụ đâm xuống lớp đá vôi cách đây 3.500 năm. Mùa đông ở đây tuyết rơi trắng xóa và ngày rất ngắn, nhưng mùa hè lại bùng nổ với gần 19 tiếng ánh sáng mỗi ngày, và bãi biển Pärnu tràn ngập người đến tắm nắng."
+  ],
+  "animals": [
+    "Những khu rừng Estonia là nhà của sói, gấu nâu, linh miêu và nai sừng tấm — những loài thú hoang lớn vẫn đang sống tự do trong tự nhiên. Đại bàng đuôi trắng lượn vòng trên các vùng đất ngập nước ven biển, còn mỗi mùa xuân hàng nghìn con sếu tụ tập ở các đầm lầy trong hành trình di cư, tiếng kèn của chúng vang lên khắp trời.",
+    "Cò trắng làm tổ trên những cây sào cắm trên mái nhà ở khắp các làng quê — người Estonia coi đây là điềm lành. Biển Baltic mang đến những con hải cẩu cảng và hải cẩu xám nhấp nhô gần các hòn đảo. Hải cẩu vòng, từng bị đe dọa tuyệt chủng ở đây, đang dần hồi phục nhờ các luật bảo vệ nghiêm ngặt."
+  ],
+  "culture": [
+    "Người Estonia yêu ca hát đến mức khó tin. Cứ năm năm một lần, Lễ hội Ca hát thu hút tới 100.000 người biểu diễn; khi 30.000 giọng ca cùng cất lên một lúc, âm thanh vang xa hàng kilômét. Truyền thống này đã giúp người Estonia giữ gìn bản sắc dân tộc qua hàng thập kỷ bị nước ngoài cai trị.",
+    "Tắm hơi là nghi lễ quốc gia, được chia sẻ cùng gia đình và bạn bè. Ẩm thực thiên về bánh mì đen, cá hun khói và quả rừng. Estonia còn là tiên phong công nghệ — Skype được xây dựng tại đây và trẻ em học lập trình từ năm bảy tuổi ngay trong trường học."
+  ],
+  "history": [
+    "Qua các thế kỷ, Estonia đã bị người Đan Mạch, Đức, Thụy Điển và Nga cai trị, thế nhưng người Estonia luôn giữ vững ngôn ngữ và tiếng hát của mình. Những tháp nón nhọn của Tallinn do các thương nhân người Đức xây từ thế kỷ 13 — Khu phố cổ ngày nay là Di sản Thế giới được UNESCO công nhận.",
+    "Năm 1991, Estonia thoát khỏi Liên Xô và lập tức xây dựng một nhà nước kỹ thuật số. Đến năm 2005, nước này tổ chức cuộc bầu cử qua internet có giá trị pháp lý đầu tiên trên thế giới. Ngày nay, chương trình 'e-Residency' cho phép bất kỳ ai trên Trái Đất đều có thể thành lập công ty Estonia hoàn toàn trực tuyến."
+  ],
+  "wows": [
+    "Estonia có mật độ hố thiên thạch trên mỗi km² cao hơn hầu hết mọi quốc gia khác trên Trái Đất.",
+    "Skype được các kỹ sư Estonia xây dựng tại Tallinn và ra mắt năm 2003, thay đổi cách con người liên lạc toàn cầu.",
+    "Estonia tổ chức cuộc bầu cử quốc gia qua internet có giá trị pháp lý đầu tiên trên thế giới vào năm 2005.",
+    "Công dân có thể đăng ký thành lập công ty trực tuyến chỉ trong vài phút — chính phủ hoạt động gần như hoàn toàn số hóa.",
+    "Lễ hội Ca hát Estonia được UNESCO công nhận là Di sản Văn hóa Phi vật thể của Nhân loại.",
+    "Hơn một nửa diện tích Estonia được phủ bởi rừng — một trong những tỷ lệ cao nhất ở châu Âu.",
+    "Năm 1989, người Estonia tham gia chuỗi người dài 675 km nối liền ba nước Baltic để đòi quyền tự do."
+  ],
+  "myths": [
+    {
+      "myth": "Estonia là một nước Bắc Âu (Scandinavia)",
+      "fact": "Estonia thuộc vùng Baltic, không phải Scandinavia. Ngôn ngữ của họ gần với tiếng Phần Lan và tiếng Hungary — một hệ ngôn ngữ hoàn toàn khác với tiếng Thụy Điển hay Na Uy."
+    },
+    {
+      "myth": "Estonia lạnh và ảm đạm quanh năm",
+      "fact": "Mùa hè ở đây ấm áp và nắng đẹp với gần 20 tiếng sáng mỗi ngày. Tháng Bảy thường đạt 25°C và thị trấn biển Pärnu tấp nập khách suốt cả mùa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Tere",
+      "say": "TEH-reh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Aitäh",
+      "say": "EYE-tah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Palun",
+      "say": "PAH-loon"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Jah",
+      "say": "yah"
+    },
+    {
+      "en": "Rừng",
+      "jp": "Mets",
+      "say": "mets"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ee-hero.jpg",
+      "alt": "Toàn cảnh Khu phố cổ Tallinn với những tháp trung cổ và mái ngói đỏ",
+      "caption": "KHU PHỐ CỔ TALLINN — tháp trung cổ và chóp nhọn trên thành phố Baltic",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ee-landmark.jpg",
+      "alt": "Hồ miệng hố thiên thạch Kaali trên đảo Saaremaa, Estonia",
+      "caption": "HỐ THIÊN THẠCH KAALI — một tảng đá vũ trụ đâm xuống tạo ra hồ này trên đảo Saaremaa cách đây 3.500 năm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ee-animalA.jpg",
+      "alt": "Con linh miêu châu Âu đứng trong rừng tuyết",
+      "caption": "LINH MIÊU CHÂU ÂU — thợ săn bí ẩn của rừng Estonia, hiếm khi được nhìn thấy",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ee-animalB.jpg",
+      "alt": "Cò trắng đứng giữa cánh đồng",
+      "caption": "CÒ TRẮNG — biểu tượng may mắn, làm tổ trên cây sào mái nhà khắp Estonia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

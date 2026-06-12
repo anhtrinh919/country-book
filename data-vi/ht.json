@@ -1,0 +1,163 @@
+{
+  "name": "HAITI",
+  "nativeName": "HT",
+  "romaji": "AYITI",
+  "tagline": "Sinh ra tự do, mãi mãi kiêu hãnh",
+  "region": "Vùng Caribe",
+  "coords": "18.97°N, 72.29°W",
+  "fileNo": "049",
+  "langName": "tiếng Creole Haiti",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF9E",
+    "ink": "#1E1810",
+    "faint": "#8A7555",
+    "line": "#DDD0B2",
+    "accent": "#00209F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/ht.svg",
+    "title": "Quốc kỳ Haiti",
+    "note": "Xanh trên đỏ dưới, huy hiệu quốc gia ở giữa",
+    "keyColor": "#00209F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Haiti là quốc gia đầu tiên trên thế giới được xây dựng bởi những người nô lệ tự giải phóng mình. Năm 1804, người Haiti đã đánh bại quân đội của Napoleon và tuyên bố độc lập — một kỳ tích không ai tin là có thể xảy ra. Khoảng 12 triệu người sinh sống giữa những dãy núi gồ ghề và vùng biển xanh ngắt. Haiti cũng là cái nôi của Vodou, nhạc carnival sôi động, và những bức tượng sắt độc đáo được gõ ra từ thùng dầu tái chế.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Port-au-Prince",
+      "sub": "Thành phố lớn nhất, nằm bên vịnh biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "11,9 triệu người",
+      "sub": "Ước tính của LHQ năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Gourde (HTG)",
+      "sub": "100 centime = 1 gourde"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Creole Haiti",
+      "sub": "tiếng Pháp cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "27.750 km²",
+      "sub": "Lớn hơn tỉnh Nghệ An một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Pic la Selle",
+      "sub": "2.674 m — đỉnh thứ 3 ở vùng Caribbean"
+    }
+  ],
+  "islands": [
+    "Cap-Haïtien",
+    "Jacmel",
+    "Gonaïves",
+    "Les Cayes",
+    "Jérémie"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, biển xanh và bất ngờ",
+    "animals": "Sừng, cánh và nọc độc",
+    "culture": "Trống, màu sắc và linh hồn",
+    "history": "Cách mạng và ý chí bất khuất",
+    "wows": "Những điều kỳ lạ về Haiti"
+  },
+  "geo": [
+    "Haiti là một trong những quốc gia có nhiều núi nhất vùng Caribbean — người Taíno xưa đặt tên Ayiti có nghĩa là 'vùng đất núi cao'. Những đỉnh núi dựng đứng ngay sát bờ biển, còn các thung lũng bên dưới là nơi nông dân trồng cà phê và xoài trên những thửa ruộng bậc thang xanh mướt.",
+    "Haiti chia sẻ đảo Hispaniola với nước láng giềng Cộng hòa Dominican, tương tự như Việt Nam và Lào cùng nằm trên bán đảo Đông Dương. Hai bán đảo của Haiti vươn dài ra biển Caribbean, tạo nên đường bờ biển dài với vô số vịnh nước biếc và những bãi biển ẩn mình hoang sơ."
+  ],
+  "animals": [
+    "Loài thú kỳ lạ nhất Haiti là chuột chù voi Hispaniola — con vật có mõm dài ngoằng và có thể tiêm nọc độc qua rãnh trên răng, một khả năng gần như không loài thú nào khác có được và đã tồn tại từ thời khủng long!",
+    "Kỳ nhông tê giác được đặt tên vì có những cục xương nhô ra ở mõm trông giống sừng tê giác, thân hình to như thằn lằn khổng lồ, sống trên vách đá vôi. Trên những tán rừng núi phía trên, vẹt Amazon Hispaniola xanh rực ríu rít suốt ngày không nghỉ."
+  ],
+  "culture": [
+    "Haiti có nền nghệ thuật sôi động và độc đáo không nơi nào bì kịp. Những nghệ nhân ở Jacmel làm mặt nạ carnival khổng lồ bằng giấy bồi — hình rồng, lợn, chính khách — rồi diễu hành trong lễ hội Kanaval náo nhiệt. Các nghệ nhân khác dùng búa gõ thùng dầu tái chế thành những bức tượng sắt đẹp đến rùng rợn, một truyền thống do thợ rèn Georges Liautaud khởi xướng.",
+    "Vodou là tâm hồn tâm linh của Haiti, bắt nguồn từ truyền thống Tây Phi và được dùng để chữa bệnh và gắn kết cộng đồng. Mùa Chay, tiếng nhạc Rara tràn ngập các con phố: kèn tre vaksen, chuông kim loại và tiếng trống rầm rầm vang lên ở mọi ngõ ngách như ngày hội."
+  ],
+  "history": [
+    "Năm 1791, những người nô lệ trên thuộc địa Saint-Domingue của Pháp đã nổi dậy trong cuộc khởi nghĩa nô lệ vĩ đại nhất lịch sử nhân loại. Dưới sự lãnh đạo của Toussaint Louverture và nhiều người khác, họ chiến đấu suốt 13 năm gian khổ chống lại quân đội Pháp, Tây Ban Nha và Anh.",
+    "Ngày 1 tháng 1 năm 1804, Dessalines tuyên bố thành lập Cộng hòa Haiti — quốc gia tự do đầu tiên của người da đen và là quốc gia đầu tiên ở Mỹ Latinh giành được độc lập, truyền cảm hứng cho các phong trào tự do trên khắp thế giới."
+  ],
+  "wows": [
+    "Vào thập niên 1750, Haiti sản xuất một nửa lượng đường và cà phê cho toàn châu Âu, được gọi là 'Viên ngọc của vùng Antilles'.",
+    "Sau khi giành độc lập, Pháp cho tàu chiến đến đòi 150 triệu franc vàng bồi thường — Haiti mãi đến năm 1947 mới trả xong khoản nợ oan nghiệt đó.",
+    "Pháo đài Citadelle Laferrière là pháo đài lớn nhất Tây bán cầu — được xây bằng vữa trộn với mật mía và máu.",
+    "Lá cờ Haiti ra đời khi Dessalines xé bỏ dải trắng trên lá cờ tam tài của Pháp rồi khâu lại phần còn lại.",
+    "Con chuột chù voi Hispaniola tiêm nọc độc qua rãnh trên răng — một chiêu thức của loài thú có từ 76 triệu năm trước.",
+    "Mỗi chiếc xe buýt tap-tap đều được vẽ kín từ đầu đến đuôi với hình các vị thánh, cầu thủ bóng đá và những câu khẩu hiệu tôn giáo rực rỡ.",
+    "Tiếng Creole Haiti được tạo ra chỉ trong một hoặc hai thế hệ bởi những người nô lệ châu Phi đến từ hàng chục nhóm ngôn ngữ khác nhau."
+  ],
+  "myths": [
+    {
+      "myth": "Haiti chỉ là nơi nguy hiểm và nghèo nàn",
+      "fact": "Haiti có những bãi biển tuyệt đẹp, núi non xanh tươi, thành phố sôi động và nền nghệ thuật phi thường đã khiến thế giới phải ngưỡng mộ hàng thế kỷ. Dù có những khó khăn thực sự, đất nước này luôn tràn đầy sức sống và sáng tạo."
+    },
+    {
+      "myth": "Vodou là ma thuật đen tối",
+      "fact": "Vodou là một tôn giáo có nguồn gốc Tây Phi, được dùng để chữa bệnh và hướng dẫn cộng đồng. Hình ảnh kinh dị trong phim Hollywood không liên quan gì đến thực hành Vodou thật sự."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjou",
+      "say": "BOH-joo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mèsi",
+      "say": "meh-SEE"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Wi",
+      "say": "wee"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Zanmi",
+      "say": "ZAN-mee"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Bèl",
+      "say": "bell"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ht-hero.jpg",
+      "alt": "Chiếc xe buýt tap-tap của Haiti được sơn đủ màu sắc rực rỡ, chở đầy hành khách",
+      "caption": "XE BUÝT TAP-TAP — những chiếc taxi chung đầy màu sắc của Haiti là tác phẩm nghệ thuật di động",
+      "credit": "Michelle Walz Eriksson / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/ht-landmark.jpg",
+      "alt": "Pháo đài Citadelle Laferrière đồ sộ trên đỉnh núi ở miền bắc Haiti",
+      "caption": "CITADELLE LAFERRIÈRE — pháo đài lớn nhất Tây bán cầu, được xây bởi những người nô lệ vừa giành tự do",
+      "credit": "Alex Proimos / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/ht-animalA.jpg",
+      "alt": "Kỳ nhông tê giác với mõm có cục sừng đặc trưng và thân phủ vảy",
+      "caption": "KỲ NHÔNG TÊ GIÁC — được đặt tên vì những cục xương nhô ra ở mõm trông như sừng",
+      "credit": "H. Zell / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ht-animalB.jpg",
+      "alt": "Con vẹt Amazon Hispaniola màu xanh lá tươi sáng đậu trên cành cây",
+      "caption": "VẸT AMAZON HISPANIOLA — loài vẹt xanh ríu rít chỉ có ở đảo Hispaniola",
+      "credit": "Yolanda M. Leon / CC BY 2.0"
+    }
+  }
+}

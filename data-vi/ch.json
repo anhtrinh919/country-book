@@ -1,0 +1,163 @@
+{
+  "name": "THỤY SĨ",
+  "nativeName": "CH",
+  "romaji": "SCHWEIZ",
+  "tagline": "Núi Alps, đồng hồ & sô-cô-la",
+  "region": "Trung Âu",
+  "coords": "46.8°N, 8.2°E",
+  "fileNo": "041",
+  "langName": "tiếng Đức",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#CBBFA8",
+    "ink": "#242018",
+    "faint": "#857060",
+    "line": "#D8CEBC",
+    "accent": "#D0021B",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/ch.svg",
+    "title": "Thánh giá Thụy Sĩ",
+    "note": "Thánh giá trắng nổi bật trên nền đỏ hình vuông",
+    "keyColor": "#D0021B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nằm lọt thỏm giữa lòng châu Âu, Thụy Sĩ là nơi những đỉnh Alps chọc mây, tiếng chuông bò vang khắp thung lũng xanh, và bốn thứ tiếng cùng chạy trên một bảng giờ tàu. Nhỏ bé nhưng phi thường — đất nước này đã giữ hòa bình suốt hơn 200 năm, là nơi khai sinh Chữ thập đỏ, ngân hàng hiện đại, và thứ sô-cô-la ngon nhất thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bern",
+      "sub": "từ năm 1848; dân số ~146.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "9,1 triệu người",
+      "sub": "ước tính 2024; vừa vượt mốc 9 triệu"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc Thụy Sĩ",
+      "sub": "CHF; đồng tiền trú ẩn an toàn"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "4 ngôn ngữ chính thức",
+      "sub": "Đức, Pháp, Ý, Romansh"
+    },
+    {
+      "label": "Diện tích",
+      "value": "41.285 km²",
+      "sub": "tương đương nước Đan Mạch"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "4.634 m",
+      "sub": "Dufourspitze, dãy Monte Rosa"
+    }
+  ],
+  "islands": [
+    "Zurich",
+    "Geneva",
+    "Basel",
+    "Bern",
+    "Lucerne"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi, hồ & đồng cỏ",
+    "animals": "Thú hoang trên đỉnh Alps",
+    "culture": "Pho-mát, đồng hồ & bốn thứ tiếng",
+    "history": "Từ dân chăn cừu đến hòa bình thế giới",
+    "wows": "Khoan đã — Thụy Sĩ đã làm điều ĐÓ?"
+  },
+  "geo": [
+    "Thụy Sĩ nằm ngay nơi dãy Alps vươn lên như bức tường khổng lồ giữa trung tâm châu Âu. Băng hà khoét sâu những thung lũng hiểm trở, và hơn 1.500 hồ lấp lánh giữa các đỉnh núi — riêng hồ Geneva đã đủ rộng để dong thuyền lớn. Các con sông Rhine, Rhône và Inn đều bắt nguồn từ mảnh đất này.",
+    "Vùng cao nguyên trải dài ở giữa là nơi phần lớn người Thụy Sĩ sinh sống. Dãy Jura tạo thành một gờ núi êm ả phía tây bắc. Dù bị năm quốc gia bao quanh, Thụy Sĩ hoàn toàn không có bờ biển."
+  ],
+  "animals": [
+    "Dãy Alps là nhà của ibex — loài dê núi hoang dã với đôi sừng cong dài hơn cả cánh tay bạn — và chú marmot tròn nung núc, biết huýt sáo, ngủ đông dưới lòng đất suốt cả mùa lạnh. Đại bàng vàng lượn vòng trên đường chân trời săn mồi.",
+    "Dưới những cánh rừng bên dưới, hươu đỏ và linh dương chamois gặm cỏ, còn kền kền râu — được tái thả về thiên nhiên năm 1991 — bay liệng trên luồng khí nóng. Chó Saint Bernard được các tu sĩ lai tạo tại Đèo Saint Bernard Lớn để cứu người lạc đường trong tuyết."
+  ],
+  "culture": [
+    "Thụy Sĩ dùng bốn thứ tiếng và mọi thứ vẫn hoạt động trơn tru — biển báo đổi ngôn ngữ ngay khi sang bang khác. Tiếng Đức Thụy Sĩ nghe hoàn toàn khác tiếng Đức học trên lớp; ngay cả người Đức cũng thấy khó hiểu. Fondue và raclette — pho-mát nóng chảy rưới lên khoai tây — là món ăn dân dã được chia sẻ quanh nồi lẩu chung.",
+    "Nghề làm đồng hồ đã là nghệ thuật của người Thụy Sĩ từ thế kỷ 17; cả Rolex lẫn Swatch đều ra đời ở đây. Hát yodelling và thổi alphorn — loại kèn gỗ dài thổi vang khắp thung lũng — vẫn là niềm tự hào dân gian. Dân chủ trực tiếp nghĩa là người dân bỏ phiếu cho gần như mọi thứ, từ thuế đến hầm đường sắt mới."
+  ],
+  "history": [
+    "Người Helvetia xưa định cư ở đây trước khi Julius Caesar tiến quân qua vào năm 58 trước Công nguyên. Liên bang Thụy Sĩ ra đời năm 1291 khi ba cộng đồng miền núi ký hiệp ước phòng thủ chung — ngày đó vẫn là Ngày Quốc khánh, được tổ chức vào 1 tháng 8 hàng năm.",
+    "Thụy Sĩ tuyên bố trung lập vĩnh viễn năm 1815. Geneva trở thành trụ sở Chữ thập đỏ năm 1863 và sau đó đón Hội Quốc Liên về đặt trụ sở. Ngày nay nơi đây quy tụ nhiều tổ chức quốc tế hơn bất kỳ thành phố nào trên thế giới, biến đất nước bé nhỏ Thụy Sĩ thành một ông lớn trong ngoại giao toàn cầu."
+  ],
+  "wows": [
+    "Thụy Sĩ có nhiều ngân hàng trên mỗi đầu người hơn gần như bất kỳ nước nào trên Trái Đất.",
+    "Đường hầm đáy núi St Gotthard — khai trương năm 2016 — là hầm đường sắt dài nhất thế giới với 57 km.",
+    "Người Thụy Sĩ ăn khoảng 10 kg sô-cô-la mỗi người mỗi năm — thuộc hàng cao nhất hành tinh.",
+    "Quốc gia này có đủ hầm trú ẩn ngầm để chứa toàn bộ dân số trong trường hợp khẩn cấp.",
+    "Thụy Sĩ phát minh ra Velcro — kỹ sư George de Mestral quan sát những hạt cỏ gai bám vào lông chó của ông.",
+    "Dao quân đội Thụy Sĩ được làm lần đầu năm 1891 và vẫn đang được sản xuất tại bang Schwyz.",
+    "Vòi phun nước Jet d'Eau ở Geneva bắn nước cao 140 mét — cao hơn cả Nhà thờ Đức Bà Paris."
+  ],
+  "myths": [
+    {
+      "myth": "Thụy Sĩ lúc nào cũng lạnh và tuyết phủ",
+      "fact": "Mùa hè trên cao nguyên Thụy Sĩ thường chạm 30 °C, và bang phía nam Ticino mang khí hậu gần như Địa Trung Hải — có cả cây cọ và hồ nước ấm áp."
+    },
+    {
+      "myth": "Mọi người ở Thụy Sĩ đều nói tiếng Đức",
+      "fact": "Khoảng 63% dùng tiếng Đức Thụy Sĩ, nhưng 23% nói tiếng Pháp, 8% nói tiếng Ý, và một cộng đồng nhỏ vẫn dùng tiếng Romansh cổ xưa — cả bốn đều là ngôn ngữ chính thức."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Pho-mát",
+      "jp": "Käse",
+      "say": "KAY-zeh"
+    },
+    {
+      "en": "Núi",
+      "jp": "Berg",
+      "say": "BAIRK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ch-hero.jpg",
+      "alt": "Đỉnh Matterhorn sừng sững trên ngôi làng Zermatt trong mùa đông",
+      "caption": "MATTERHORN — kim tự tháp đá huyền thoại cao 4.478 m nhìn xuống Zermatt",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ch-landmark.jpg",
+      "alt": "Lâu đài Chillon bên bờ hồ Geneva",
+      "caption": "LÂU ĐÀI CHILLON — pháo đài thời Trung Cổ nằm ngay mép hồ Geneva",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ch-animalA.jpg",
+      "alt": "Ibex Alpine với đôi sừng cong dài đứng trên vách núi đá",
+      "caption": "IBEX ALPINE — dê núi hoang dã leo trèo điệu nghệ trên đỉnh Alps",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ch-animalB.jpg",
+      "alt": "Marmot Alpine ngồi thẳng đứng trên bãi cỏ xanh",
+      "caption": "MARMOT ALPINE — nhà vô địch ngủ đông, ngủ suốt cả mùa lạnh dưới lòng đất",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

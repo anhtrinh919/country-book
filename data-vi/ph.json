@@ -1,0 +1,163 @@
+{
+  "name": "PHILIPPINES",
+  "nativeName": "PH",
+  "romaji": "PILIPINAS",
+  "tagline": "7.641 hòn đảo kỳ diệu",
+  "region": "Đông Nam Á",
+  "coords": "12.88°N, 121.77°E",
+  "fileNo": "042",
+  "langName": "tiếng Filipino",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#252018",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#0038A8",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/ph.svg",
+    "title": "Quốc kỳ Philippines",
+    "note": "Xanh dương, đỏ, trắng — mặt trời và ba ngôi sao",
+    "keyColor": "#0038A8",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Philippines là một mảnh ghép khổng lồ gồm 7.641 hòn đảo nằm giữa Thái Bình Dương. Núi lửa ngủ say, ruộng bậc thang leo lên những ngọn núi mờ sương, và các rạn san hô chứa nhiều loài cá hơn gần như bất kỳ nơi nào khác trên Trái Đất. Người Philippines nổi tiếng với nụ cười nồng hậu, và lịch sử pha trộn giữa văn hóa Mã Lai, Tây Ban Nha, và Mỹ khiến đất nước này trở thành một nơi hoàn toàn không giống bất kỳ quốc gia nào khác ở châu Á.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Manila",
+      "sub": "Bên vịnh Manila, đảo Luzon"
+    },
+    {
+      "label": "Dân số",
+      "value": "112,7 triệu",
+      "sub": "Điều tra 2024 — đứng thứ 8 châu Á"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Peso (₱)",
+      "sub": "Mã PHP"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Filipino/Anh",
+      "sub": "Cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "300.000 km²",
+      "sub": "Xấp xỉ bằng nước Ý"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Apo 2.954 m",
+      "sub": "Núi lửa ngủ, đảo Mindanao"
+    }
+  ],
+  "islands": [
+    "Luzon",
+    "Visayas",
+    "Mindanao",
+    "Palawan",
+    "Cebu"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo nhiệt đới và lửa núi lửa",
+    "animals": "Sinh vật chỉ có nơi đây",
+    "culture": "Lễ hội, ẩm thực và gia đình",
+    "history": "Thám hiểm, anh hùng và độc lập",
+    "wows": "Thật không thể tin được!"
+  },
+  "geo": [
+    "Philippines nằm trên Vành đai Lửa Thái Bình Dương với hơn 20 ngọn núi lửa đang hoạt động. Núi lửa Mayon có hình nón gần như hoàn hảo, còn núi lửa Taal bé nhỏ lại ngồi trong một hồ nước, mà cái hồ đó lại nằm trong một ngọn núi lửa khác lớn hơn.",
+    "Sông ngầm Puerto Princesa ở Palawan là một hang động khổng lồ như nhà thờ, nơi du khách chèo thuyền qua nhiều kilômét trong bóng tối lung linh. Ở Bohol, hơn 1.260 gò đất tròn nhẵn màu nâu — gọi là Đồi Sôcôla — trông như ai đó đã đặt một hộp sôcôla khổng lồ giữa đồng bằng xanh mướt."
+  ],
+  "animals": [
+    "Đại bàng Philippines có sải cánh rộng bằng cả một cánh cửa lớp học. Còn loài mắt to — tarsier — chỉ bằng lòng bàn tay, là loài linh trưởng tí hon với đôi mắt to hơn cả bộ não của chúng, bám chặt trên cành cây ở đảo Bohol.",
+    "Cá mập voi ghé thăm rạn san hô Tubbataha mỗi mùa xuân. Trâu rừng tamaraw nhỏ bé và lợn rừng có mụn cóc Visayan chỉ sống duy nhất ở Philippines, không nơi nào khác trên Trái Đất có được."
+  ],
+  "culture": [
+    "Người Philippines tổ chức hàng trăm lễ hội mỗi năm — tại Ati-Atihan, vũ công tô màu mặt mình và đánh trống diễu phố suốt nhiều ngày liền. Không đâu ở châu Á có nhiều nhà thờ Công giáo tính theo đầu người như ở đây.",
+    "Adobo — thịt hầm chậm trong dấm, nước tương và tỏi — là món ăn quốc dân được yêu thích nhất. Karaoke là chuyện nghiêm túc; cùng nhau hát là cách các gia đình Philippines bày tỏ tình yêu thương."
+  ],
+  "history": [
+    "Đất nước được đặt tên theo vua Philip II của Tây Ban Nha — người chưa một lần đặt chân đến đây — và bị Tây Ban Nha cai trị suốt 333 năm từ năm 1565. Mỹ tiếp quản năm 1898, xây trường học dạy tiếng Anh trên khắp mọi hòn đảo.",
+    "Các cuốn tiểu thuyết của José Rizal đã thổi bùng cuộc cách mạng; ông bị xử bắn năm 1896. Độc lập đến năm 1946. Năm 1986, Cuộc Cách mạng Sức mạnh Nhân dân ôn hòa — hàng triệu người xuống đường với những bông hoa trên tay — đã lật đổ một nhà độc tài mà không cần nổ một phát súng."
+  ],
+  "wows": [
+    "Philippines có 7.641 đảo nhưng chưa đến 2.000 hòn đảo được đặt tên.",
+    "Tiếng Filipino vay mượn từ ngữ từ cả tiếng Tây Ban Nha, tiếng Anh, tiếng Mã Lai và tiếng Trung cùng một lúc.",
+    "Những Đồi Sôcôla chuyển sang màu nâu mỗi mùa khô — hơn 1.260 gò đất trông như sôcôla thật sự.",
+    "Giết một con đại bàng Philippines có thể bị phạt tù đến 12 năm — ngang bằng nhiều tội hình sự nghiêm trọng.",
+    "Xe jeepney ra đời từ việc trang trí lại những chiếc xe jeep của quân đội Mỹ bỏ lại sau Thế chiến II.",
+    "Giáng sinh chính thức bắt đầu từ tháng 9 — tận bốn tháng nhạc Giáng sinh và đèn lấp lánh.",
+    "Taal là núi lửa nằm trên đảo trong hồ, mà hồ đó lại nằm trên một hòn đảo khác — bốn lớp lồng vào nhau."
+  ],
+  "myths": [
+    {
+      "myth": "\"Philippines lúc nào cũng nóng\"",
+      "fact": "Thành phố Baguio nằm ở độ cao 1.500 m và có thể xuống 9°C vào tháng Một — dân địa phương mặc áo ấm và trồng dâu tây ở đây."
+    },
+    {
+      "myth": "\"Người Philippines đều nói cùng một thứ tiếng\"",
+      "fact": "Có hơn 170 ngôn ngữ khác nhau được nói trên khắp các hòn đảo — tiếng Filipino và tiếng Anh là sợi dây gắn kết chung, nhưng mỗi vùng lại có ngôn ngữ riêng của mình."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Kamusta",
+      "say": "ka-MOOS-ta"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Salamat",
+      "say": "sa-LA-mat"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Masarap!",
+      "say": "ma-SA-rap"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Kaibigan",
+      "say": "kai-BEE-gan"
+    },
+    {
+      "en": "Ăn thôi!",
+      "jp": "Kain na!",
+      "say": "KAH-in na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ph-hero.jpg",
+      "alt": "Chiếc xe jeepney được trang trí đầy màu sắc trên đường phố Manila",
+      "caption": "JEEPNEY — biểu tượng xe buýt công cộng sặc sỡ của Philippines",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ph-landmark.jpg",
+      "alt": "Núi lửa Mayon với hình nón gần hoàn hảo sừng sững trên cánh đồng xanh",
+      "caption": "NÚI LỬA MAYON — ngọn núi lửa có hình nón đẹp nhất thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ph-animalA.jpg",
+      "alt": "Cận cảnh đại bàng Philippines với bộ lông nâu và trắng",
+      "caption": "ĐẠI BÀNG PHILIPPINES — một trong những loài đại bàng lớn nhất và hiếm nhất Trái Đất",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ph-animalB.jpg",
+      "alt": "Một con tarsier bám trên cành cây với đôi mắt tròn to khổng lồ",
+      "caption": "TARSIER PHILIPPINES — đôi mắt to hơn bộ não, chỉ sống nơi đây",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

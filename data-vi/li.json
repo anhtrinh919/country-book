@@ -1,0 +1,163 @@
+{
+  "name": "LIECHTENSTEIN",
+  "nativeName": "LI",
+  "romaji": "LIECHTENSTEIN",
+  "tagline": "Vương quốc nhỏ, núi Alps vĩ đại",
+  "region": "Trung Âu",
+  "coords": "47.1°N, 9.5°E",
+  "fileNo": "LI",
+  "langName": "tiếng Đức",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#c9bfab",
+    "ink": "#26231e",
+    "faint": "#837666",
+    "line": "#dbd0bc",
+    "accent": "#1b3a7a",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/li.svg",
+    "title": "Xanh & Đỏ Có Vương Miện",
+    "note": "Thêm vương miện vào năm 1937 vì bị nhầm cờ với Haiti",
+    "keyColor": "#1b3a7a",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Liechtenstein là một trong những quốc gia nhỏ nhất thế giới — nhưng đừng để kích thước đánh lừa bạn! Nơi đây có những đỉnh Alps hùng vĩ, một ông hoàng thật sự sống trong lâu đài trên đồi, và thu nhập bình quân đầu người thuộc hàng cao nhất hành tinh. Nằm lọt giữa Thụy Sĩ và Áo, vương quốc nhỏ bé này không có quân đội, không có sân bay — nhưng có tuyết trượt tuyệt vời, rượu vang ngon, và những con tem bưu chính nổi tiếng khắp thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Vaduz",
+      "sub": "Khoảng 5.700 người sống ở thủ đô"
+    },
+    {
+      "label": "Dân số",
+      "value": "~40.000",
+      "sub": "Ngân hàng Thế giới ước tính 40.197 người (2024)"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc Thụy Sĩ",
+      "sub": "Dùng chung đồng CHF với Thụy Sĩ"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Đức",
+      "sub": "Tiếng địa phương là tiếng Alemannic"
+    },
+    {
+      "label": "Diện tích",
+      "value": "160 km²",
+      "sub": "Nhỏ hơn cả quận Hoàn Kiếm nhiều lần"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.599 m",
+      "sub": "Đỉnh Grauspitz thuộc dãy Alps Rätikon"
+    }
+  ],
+  "islands": [
+    "Vaduz",
+    "Schaan",
+    "Balzers",
+    "Triesenberg",
+    "Triesen"
+  ],
+  "islandsLabel": "CÁC THỊ TRẤN CHÍNH:",
+  "sections": {
+    "geography": "Vương quốc bỏ túi giữa Alps",
+    "animals": "Hàng xóm hoang dã trên sườn núi",
+    "culture": "Hoàng tử, rượu vang & ca kịch",
+    "history": "Từ đế chế đến độc lập",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Liechtenstein nằm kẹp giữa Áo và Thụy Sĩ, với dòng sông Rhine rộng lớn chạy dọc phía tây và dãy Alps Rätikon dựng đứng sừng sững về phía đông. Cả nước chỉ dài 26 km từ đầu đến cuối — đạp xe một buổi sáng là đi hết đất nước!",
+    "Từ thung lũng Rhine bằng phẳng, địa hình dần dốc lên thành những sườn đồi rừng rậm, đồng cỏ núi cao và những đỉnh tuyết phủ quanh năm. Điểm thấp nhất là sông Rhine ở độ cao 430 m, còn đỉnh cao nhất Grauspitz vươn lên tận 2.599 m. Gần một nửa diện tích đất nước là rừng."
+  ],
+  "animals": [
+    "Trên những sườn Alps, bạn sẽ gặp sơn dương chamois — loài vật lanh lẹ như dê, có thể nhảy giữa các vách đá dựng đứng — cùng với linh dương ibex, chuột chũi núi Alps huýt sáo ầm ĩ khi vỗ béo chuẩn bị ngủ đông, và hươu đỏ thong thả gặm cỏ ở bìa rừng.",
+    "Phía trên đường cây, đại bàng vàng sải cánh rộng lượn vòng trên bầu trời. Đã ghi nhận hơn 150 loài chim sinh sống ở đây. Mỗi mùa thu, những đàn bò đội vòng hoa rực rỡ diễu hành từ đồng cỏ mùa hè xuống núi trong lễ hội gọi là Alpabzug — cả làng ra đón như hội."
+  ],
+  "culture": [
+    "Người Liechtenstein nói tiếng Đức theo giọng địa phương Alemannic nghe rất đặc trưng. Vào Ngày Quốc khánh 15 tháng 8, Hoàng tử mở cổng lâu đài và mời toàn bộ người dân đến dự tiệc vườn — cả nước ăn mừng cùng nhau, thật gần gũi như ở một làng quê.",
+    "Mùa thu là mùa hái nho 'Wimmlete' trên những sườn đồi đón nắng dọc thung lũng Rhine, tạo ra rượu vang Pinot Noir nổi tiếng. Các đoàn nhạc kịch operetta ở Balzers và Vaduz đã dàn dựng những vở nhạc kịch sôi động suốt hơn 80 năm qua."
+  ],
+  "history": [
+    "Vương quốc này ra đời ngày 23 tháng 1 năm 1719 khi Hoàng đế Karl VI của Đế quốc La Mã Thần thánh gộp hai vùng đất nhỏ Vaduz và Schellenberg lại, đặt tên theo dòng họ Liechtenstein. Điều thú vị là trong suốt thế kỷ đầu tiên, các vị hoàng tử chưa từng đặt chân đến vùng đất mình cai trị!",
+    "Sau khi Napoleon giải thể Đế quốc La Mã Thần thánh năm 1806, Liechtenstein gia nhập Liên bang sông Rhine của ông. Nền độc lập hoàn toàn đến năm 1866. Năm 1868, đất nước giải tán quân đội nhỏ bé của mình và từ đó đến nay luôn giữ thái độ trung lập hòa bình."
+  ],
+  "wows": [
+    "Một trong 2 quốc gia 'bị bao vây hoàn toàn' — mọi nước láng giềng đều không có biển. Quốc gia kia là Uzbekistan tận Trung Á.",
+    "Tất cả 10 huy chương Olympic đều là môn trượt tuyết núi — tính theo đầu người, đây là tỉ lệ huy chương Olympic cao nhất mọi quốc gia trên Trái Đất.",
+    "Hoàng gia Liechtenstein được xem là gia đình hoàng gia giàu nhất châu Âu, tài sản ước tính khoảng 5 tỷ đô la.",
+    "Liechtenstein không có sân bay — mọi du khách đến đây đều phải đi bằng đường bộ hoặc tàu hỏa.",
+    "Tem bưu chính của Liechtenstein nổi tiếng đến mức trở thành mặt hàng xuất khẩu thực sự — người sưu tầm trên toàn thế giới săn lùng ráo riết.",
+    "Năm 1936, quan chức phát hiện quốc kỳ Liechtenstein giống hệt cờ Haiti, thế là họ vội thêm vương miện vàng để phân biệt.",
+    "Bảy trong số 10 huy chương Olympic đến từ một gia đình duy nhất: chị em Hanni và Andreas Wenzel, cộng thêm con gái của Hanni."
+  ],
+  "myths": [
+    {
+      "myth": "\"Liechtenstein thực chất là một phần của Thụy Sĩ\"",
+      "fact": "Liechtenstein hoàn toàn độc lập với nghị viện và luật pháp riêng. Dù dùng chung đồng tiền với Thụy Sĩ, người dân nơi đây có bản sắc dân tộc rất riêng và rất tự hào về điều đó."
+    },
+    {
+      "myth": "\"Ai sống ở đó cũng là tỉ phú cả\"",
+      "fact": "Thu nhập bình quân đầu người rất cao, nhưng đa số người dân là những người lao động bình thường — giáo viên, kỹ sư, công nhân nhà máy — nhiều người còn đi làm từ Áo và Thụy Sĩ sang."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hoi",
+      "say": "hoy"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Tschüss",
+      "say": "chüss"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Grüezi",
+      "say": "GRÜE-tsi"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/li-hero.jpg",
+      "alt": "Toàn cảnh thành phố Vaduz nhìn từ chân đồi lâu đài",
+      "caption": "VADUZ — thủ đô trải dài khắp thung lũng sông Rhine, dãy Alps phía sau",
+      "credit": "A.Savin / Wikimedia Commons (FAL)"
+    },
+    "landmark": {
+      "src": "/photos/li-landmark.jpg",
+      "alt": "Lâu đài Vaduz tọa lạc trên đỉnh đồi đá nhìn xuống thủ đô",
+      "caption": "LÂU ĐÀI VADUZ — nơi ở của Hoàng tử, canh gác cả đất nước từ trên cao",
+      "credit": "A.Savin / Wikimedia Commons (FAL)"
+    },
+    "animalA": {
+      "src": "/photos/li-animalA.jpg",
+      "alt": "Con sơn dương chamois đứng trong môi trường tự nhiên",
+      "caption": "SƠN DƯƠNG CHAMOIS — bậc thầy leo vách đá của dãy Alps Liechtenstein",
+      "credit": "Isiwal / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "animalB": {
+      "src": "/photos/li-animalB.jpg",
+      "alt": "Con chuột chũi núi Alps ngồi cảnh giác trên đồng cỏ đầy đá",
+      "caption": "CHUỘT CHŨI NÚI ALPS — chuyên gia huýt sáo, ngủ đông suốt cả mùa đông",
+      "credit": "F. Trazzi / Wikimedia Commons (CC BY-SA 3.0)"
+    }
+  }
+}

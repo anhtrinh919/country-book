@@ -1,0 +1,163 @@
+{
+  "name": "SLOVAKIA",
+  "nativeName": "SK",
+  "romaji": "SLOVENSKO",
+  "tagline": "Đất nước lâu đài và đỉnh núi",
+  "region": "Trung Âu",
+  "coords": "48.7N, 19.5E",
+  "fileNo": "047",
+  "langName": "tiếng Slovak",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBE1",
+    "dot": "#C8BAA4",
+    "ink": "#272018",
+    "faint": "#8a7a62",
+    "line": "#D8CCBA",
+    "accent": "#C0202E",
+    "accent2": "#1A3A7A"
+  },
+  "flag": {
+    "assetPath": "/flags/sk.svg",
+    "title": "Cờ ba màu Slovakia",
+    "note": "Trắng, xanh, đỏ với huy hiệu thánh giá đôi",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Slovakia nhỏ bé nhưng chứa đựng cả rừng núi hùng vĩ, hang động bí ẩn và nhiều lâu đài tính theo đầu người hơn gần như bất cứ nơi nào trên Trái Đất. Dãy High Tatras ở phía bắc sừng sững như hàm cá mập; những pháo đài cổ ngủ yên trên các thung lũng xanh. Gấu nâu lang thang trong rừng Carpathia, còn món ăn quốc dân — bánh bao khoai tây với phô mai cừu — đã sưởi ấm bụng dạ người Slovakia từ thuở chăn cừu trên núi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bratislava",
+      "sub": "Nằm trên sông Danube, sát nước Áo"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,4 triệu người",
+      "sub": "Ước tính 2024, quốc gia EU cỡ vừa"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Gia nhập khu vực đồng Euro năm 2009"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Slovak",
+      "sub": "Ngôn ngữ Slav, viết bằng chữ Latin"
+    },
+    {
+      "label": "Diện tích",
+      "value": "49.035 km²",
+      "sub": "Xấp xỉ diện tích Costa Rica"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.654 m",
+      "sub": "Gerlachovský štít, dãy High Tatras"
+    }
+  ],
+  "islands": [
+    "Bratislava",
+    "Košice",
+    "Prešov",
+    "B. Bystrica",
+    "Žilina"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi, hang động và dòng sông",
+    "animals": "Gấu, linh miêu và linh dương Tatra",
+    "culture": "Bánh bao, nghệ thuật dân gian và khúc côn cầu",
+    "history": "Đế chế và cuộc chia tay nhung lụa",
+    "wows": "Slovakia sẽ khiến bạn ngạc nhiên"
+  },
+  "geo": [
+    "Slovakia nằm trong cung Carpathia — một vòng cung núi lớn vắt qua Trung Âu. Dãy High Tatras ở phía bắc vươn lên như những chiếc răng cá mập, với đỉnh Gerlachovský štít cao 2.654 m — cao hơn cả đỉnh Fansipan của Việt Nam hơn 300 m! Phía nam là những ngọn đồi phủ rừng xanh mướt, còn sông Danube dài vĩ đại tạo thành đường biên giới với Hungary.",
+    "Dưới lòng đất, Slovakia ẩn giấu một thế giới hang động kỳ diệu bậc nhất châu Âu. Hơn 7.000 hang đã được tìm thấy — sáu trong số đó được UNESCO công nhận. Hệ thống hang Demänovský bên dưới dãy Low Tatras trải dài 43 km, là hang động dài nhất trong toàn bộ dãy Carpathia."
+  ],
+  "animals": [
+    "Slovakia là một trong những nơi cuối cùng ở Trung Âu còn giữ được thế giới hoang dã phong phú. Khoảng 1.000 con gấu nâu lang thang trong rừng Carpathia — mật độ cao nhất trong toàn khối EU. Sói săn mồi theo đàn, còn linh miêu Á-Âu với bộ lông đốm lặng lẽ rình rập qua những khu rừng vân sam cổ thụ.",
+    "Trên những vách đá cao chót vót có linh dương Tatra — loài dê núi nhanh nhẹn chỉ tồn tại ở dãy Tatras chứ không nơi nào khác trên Trái Đất. Vào năm 2000, chúng gần như tuyệt chủng khi số lượng giảm xuống dưới 200 con, nhưng nhờ các chương trình bảo tồn, đàn linh dương đã hồi phục lên hơn 1.400 con — một trong những câu chuyện tái sinh kỳ diệu nhất của động vật hoang dã châu Âu."
+  ],
+  "culture": [
+    "Slovakia có truyền thống dân gian rất phong phú — xưa kia mỗi làng có bài hát riêng, trang phục riêng và những ngôi nhà thờ gỗ mang hồn riêng. Các nghệ nhân vẫn chạm khắc gỗ và dệt vải thổ cẩm sặc sỡ đến ngày nay. Món ăn quốc dân được yêu thích nhất là bryndzové halušky — bánh bao khoai tây ăn với phô mai cừu và thịt xông khói giòn rụm.",
+    "Khúc côn cầu trên băng là môn thể thao được cả nước mê say; đội tuyển Slovakia đã vô địch thế giới năm 2002. Ngoài ra, Slovakia còn có mật độ lâu đài dày đặc nhất thế giới — hơn 180 pháo đài đổ nát hoặc được phục dựng trải khắp các ngọn đồi trên cả nước."
+  ],
+  "history": [
+    "Các bộ tộc Slav định cư ở đây từ thế kỷ thứ 5. Năm 863, hai tu sĩ Cyril và Methodius mang bảng chữ cái Slav đầu tiên đến vùng Đại Moravia — đây là nền tảng của hầu hết các ngôn ngữ Slav ngày nay. Sau khi Đại Moravia sụp đổ, Slovakia trải qua khoảng 1.000 năm thuộc Vương quốc Hungary, và Bratislava từng là thành phố đăng quang của các vị vua Hungary.",
+    "Năm 1918, Slovakia hợp nhất với người Séc để lập ra Tiệp Khắc. Chế độ cộng sản kết thúc trong cuộc Cách mạng Nhung êm đẹp năm 1989. Ngày 1 tháng 1 năm 1993 — trong sự kiện được gọi là Cuộc Ly hôn Nhung lụa — Slovakia và Cộng hòa Séc tách ra thành hai quốc gia độc lập nhưng vẫn là bạn bè thân thiết."
+  ],
+  "wows": [
+    "Slovakia có hơn 180 lâu đài trên diện tích còn nhỏ hơn Costa Rica — nhiều nhất tính theo đầu người so với gần như bất cứ nơi nào trên thế giới.",
+    "Bratislava là thủ đô duy nhất trên thế giới tiếp giáp cùng lúc với hai quốc gia khác nhau: Áo và Hungary.",
+    "Hệ thống hang Demänovský dài 43 km — hang động dài nhất trong toàn bộ dãy núi Carpathia.",
+    "Phô mai cừu bryndza của Slovakia được EU bảo hộ chỉ dẫn địa lý, giống như rượu Champagne hay Parmesan của Ý.",
+    "Cầu UFO ở Bratislava có nhà hàng hình đĩa bay lơ lửng cao 85 m trên mặt sông Danube.",
+    "Linh dương Tatra chỉ sống ở dãy Tatras và đã hồi sinh từ chưa đến 200 con lên hơn 1.400 con nhờ bảo tồn.",
+    "Nhà phát minh người Slovakia Štefan Banič đã đăng ký bằng sáng chế chiếc dù nhảy thực dụng đầu tiên vào năm 1914."
+  ],
+  "myths": [
+    {
+      "myth": "Slovakia và Slovenia là một",
+      "fact": "Đây là hai quốc gia hoàn toàn khác nhau! Slovakia có núi Tatra hùng vĩ nhưng không có biển; Slovenia có dãy Alps và bờ biển Adriatic. Hai thủ đô thậm chí còn chuyển tiếp thư gửi nhầm cho nhau vì bị lẫn lộn quá nhiều."
+    },
+    {
+      "myth": "Slovakia là đất nước lạnh lẽo và u ám",
+      "fact": "Bratislava thường xuyên chạm 30°C vào tháng 7 — nóng như Hà Nội mùa hè! Mùa thu vàng rực và dịu mát, còn mùa đông tuyết trắng phủ như tranh vẽ hơn là cắt da cắt thịt như nhiều người nghĩ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Ahoj",
+      "say": "AH-hoy"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ďakujem",
+      "say": "DYAH-koo-yem"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Prosím",
+      "say": "PRO-seem"
+    },
+    {
+      "en": "Lâu đài",
+      "jp": "Hrad",
+      "say": "hrad"
+    },
+    {
+      "en": "Núi",
+      "jp": "Hora",
+      "say": "HO-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sk-hero.jpg",
+      "alt": "Toàn cảnh thành phố Bratislava dọc theo sông Danube",
+      "caption": "BRATISLAVA — thủ đô trải dài bên sông Danube với tòa lâu đài bốn tháp nhìn xuống từ trên cao",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/sk-landmark.jpg",
+      "alt": "Phế tích lâu đài Spiš trên đỉnh đồi ở đông Slovakia",
+      "caption": "LÂU ĐÀI SPIŠ — tàn tích lâu đài lớn nhất Trung Âu, được UNESCO công nhận Di sản Thế giới",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalA": {
+      "src": "/photos/sk-animalA.jpg",
+      "alt": "Gấu nâu châu Âu trong rừng",
+      "caption": "GẤU NÂU — khoảng 1.000 con sống trong rừng Carpathia của Slovakia, mật độ cao nhất EU",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/sk-animalB.jpg",
+      "alt": "Linh dương Tatra trên vách đá dãy High Tatras",
+      "caption": "LINH DƯƠNG TATRA — loài đặc hữu của dãy Tatras, được cứu khỏi bờ vực tuyệt chủng nhờ bảo tồn",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

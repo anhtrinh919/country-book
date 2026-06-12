@@ -1,0 +1,163 @@
+{
+  "name": "DJIBOUTI",
+  "nativeName": "جيبوتي",
+  "romaji": "JABUUTI",
+  "tagline": "Ngã tư của châu Phi",
+  "region": "Đông Phi / Sừng châu Phi",
+  "coords": "11.83°N, 42.59°E",
+  "fileNo": "DJ",
+  "langName": "tiếng Somali",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#C9B89A",
+    "ink": "#24201A",
+    "faint": "#8A7A5E",
+    "line": "#DACFB2",
+    "accent": "#5AABE0",
+    "accent2": "#4BA04A"
+  },
+  "flag": {
+    "assetPath": "/flags/dj.svg",
+    "title": "Quốc kỳ Djibouti",
+    "note": "Hai dải xanh và xanh lá, tam giác trắng, ngôi sao đỏ",
+    "keyColor": "#5AABE0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Djibouti là một đất nước nhỏ xíu nằm ngay cửa Biển Đỏ — nơi châu Phi và bán đảo Ả Rập gần như chạm nhau. Sức mạnh của Djibouti không phải kích thước mà là vị trí: mọi con tàu đi từ châu Á sang châu Âu đều phải lướt qua bờ biển này. Hồ muối bỏng rát nằm dưới mực nước biển, cá mập voi khổng lồ bơi ngoài vịnh, và thành phố nhỏ này lại có căn cứ quân sự của sáu quốc gia cùng một lúc!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Djibouti City",
+      "sub": "Xây trên rạn san hô giữa vịnh"
+    },
+    {
+      "label": "Dân số",
+      "value": "1.066.809",
+      "sub": "Điều tra dân số ngày 20/5/2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc (DJF)",
+      "sub": "Neo với đô-la Mỹ từ năm 1949"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập / Tiếng Pháp",
+      "sub": "Tiếng Somali & Afar dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "23.200 km²",
+      "sub": "Gần bằng xứ Wales của Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Mousa Ali",
+      "sub": "Núi lửa chung với Ethiopia, cao 2.021 m"
+    }
+  ],
+  "islands": [
+    "Djibouti",
+    "Tadjoura",
+    "Obock",
+    "Ali Sabieh",
+    "Dikhil"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Nơi hai lục địa gần chạm nhau",
+    "animals": "Cá mập voi, hồng hạc và chim quý hiếm",
+    "culture": "Gia vị, lá khat và những chuyến vượt biển",
+    "history": "Từ thuộc địa Pháp đến trung tâm vùng Vịnh",
+    "wows": "Djibouti bất ngờ"
+  },
+  "geo": [
+    "Djibouti nằm trong vùng Tam giác Afar — nơi ba mảng kiến tạo địa tầng đang chầm chậm tách xa nhau, khiến đây là một trong những nơi địa chất sôi động nhất Trái Đất. Hồ Assal trắng lóa muối nằm sâu 155 m dưới mực nước biển, là điểm thấp nhất trên toàn lục địa châu Phi.",
+    "Bờ biển mở ra Vịnh Tadjoura ấm áp, san hô nhiều vô kể. Sâu trong đất liền là những cánh đồng dung nham đen và vách đá sắc lẹm như dao. Cả đất nước chỉ nhỉnh hơn xứ Wales một chút — vậy mà gói trọn sa mạc, núi lửa và bờ biển trong một tầm tay."
+  ],
+  "animals": [
+    "Vịnh Tadjoura là một trong những nơi tốt nhất thế giới để bơi cùng cá mập voi. Từ tháng 11 đến tháng 2, tảo phù du nở rộ kéo hàng chục con khổng lồ hiền lành tới — có con chỉ mới hai mét, làm cho đây trở thành nơi tụ họp cá mập voi nhỏ tuổi nhất được ghi nhận trên toàn cầu.",
+    "Trên đất liền, loài gà lôi cựa Djibouti cực kỳ hiếm chỉ sống trong một khu rừng juniper nhỏ trên dãy Goda — còn chưa đến 500 con. Ở hồ Abbé, hàng đàn hồng hạc lội giữa những tháp đá vôi cao vút trông như phong cảnh trên một hành tinh khác."
+  ],
+  "culture": [
+    "Ẩm thực Djibouti là nơi gặp gỡ của hương vị Somali, Afar, Yemen và Pháp. Món quốc dân skoudehkaris là thịt cừu và cơm hầm cùng bạch đậu khấu, đinh hương và quế thơm ngào ngạt. Kẹo xalwo dẻo ngọt làm từ đường và bơ ghee có mặt ở mọi đám cưới, không vắng mặt bao giờ.",
+    "Mỗi chiều, cả thành phố chậm lại theo nhịp khat. Bạn bè trải chiếu ngồi tụ tập, nhai lá kích thích này và tranh luận chuyện thời sự hàng giờ. Hai dân tộc chính — người Somali Issa và người Afar — mỗi bên mang đến âm nhạc sôi động, thơ ca truyền miệng và truyền thống du mục đặc sắc riêng."
+  ],
+  "history": [
+    "Người Ả Rập và các thương nhân đã dùng cảng Djibouti hơn một nghìn năm. Pháp đặt chân đến năm 1862 và đến thập niên 1890 đã kiểm soát toàn bộ vùng đất với tên gọi Somaliland thuộc Pháp. Tuyến đường sắt nối tới Addis Ababa hoàn thành năm 1917, biến cảng này thành mạch sống của Ethiopia không có cửa ra biển.",
+    "Ngày 27 tháng 6 năm 1977, 99,8% người dân bỏ phiếu chọn độc lập. Đất nước mới đặt tên mình theo tên thủ đô. Trong khi các nước láng giềng chìm trong chiến tranh, Djibouti giữ được ổn định và trở thành trung tâm an toàn của Đông Phi — thu tiền bằng cách cho các quân đội nước ngoài thuê đất."
+  ],
+  "wows": [
+    "Mỗi ngày, khoảng 12% toàn bộ hàng hóa giao thương trên biển của thế giới đi qua bờ biển Djibouti.",
+    "Djibouti đồng thời có căn cứ quân sự của Mỹ, Pháp, Trung Quốc, Ý và Nhật Bản — một nơi mà cả thế giới cùng đặt chân!",
+    "Hồ Assal mặn gấp mười lần nước biển — bạn nổi lềnh bềnh y như ở Biển Chết.",
+    "Tam giác Afar đang tách ra từng ngày: khoảng 10 triệu năm nữa, một đại dương mới sẽ hình thành ngay tại đây.",
+    "Ethiopia — 130 triệu dân — chuyển hơn 95% hàng xuất nhập khẩu qua cảng của Djibouti.",
+    "Cá mập voi ở Vịnh Tadjoura là những con nhỏ tuổi nhất so với bất kỳ điểm tụ họp nào được biết đến trên Trái Đất.",
+    "Djibouti có tuyến đường sắt điện khí hóa xuyên biên giới đầu tiên của châu Phi."
+  ],
+  "myths": [
+    {
+      "myth": "\"Chỉ là sa mạc trơ trụi, chẳng có gì\"",
+      "fact": "Djibouti có rạn san hô, cá mập voi, hồ hồng hạc, rừng juniper cổ thụ và những tháp đá núi lửa kỳ ảo — thiên nhiên phong phú đến ngạc nhiên, gói gọn trong mảnh đất chỉ bằng xứ Wales."
+    },
+    {
+      "myth": "\"Hồ Abbé là cảnh quay trong phim Hành tinh khỉ\"",
+      "fact": "Người hướng dẫn du lịch rất thích kể câu chuyện này, nhưng bộ phim năm 1968 với Charlton Heston thực ra quay hoàn toàn ở Arizona và California — không một cảnh nào ở Djibouti cả."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Nabad",
+      "say": "NAH-bad"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mahadsanid",
+      "say": "ma-HAD-sa-nid"
+    },
+    {
+      "en": "Nước",
+      "jp": "Biyo",
+      "say": "BEE-yo"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "Wanaagsan",
+      "say": "wa-NAAG-san"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Soo dhawoow",
+      "say": "so dha-WOW"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dj-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống cảng Djibouti với cần cẩu container và các tàu hàng",
+      "caption": "CẢNG DJIBOUTI — một trong những cửa ngõ sầm uất nhất Đông Phi",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dj-landmark.jpg",
+      "alt": "Lớp muối trắng xóa của hồ Assal với mặt nước xanh ngọc và dãy núi phía xa",
+      "caption": "HỒ ASSAL — điểm thấp nhất châu Phi, nằm sâu 155 m dưới mực nước biển",
+      "credit": "Wikimedia Commons / Fishercd"
+    },
+    "animalA": {
+      "src": "/photos/dj-animalA.jpg",
+      "alt": "Những tháp đá vôi cao vút ở hồ Abbé với đàn hồng hạc bên dưới",
+      "caption": "THÁP ĐÁ HỒ ABBÉ — những tháp núi lửa vươn lên giữa hồ hồng hạc",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dj-animalB.jpg",
+      "alt": "Cá mập voi bơi trong làn nước xanh trong vắt với một thợ lặn bên cạnh",
+      "caption": "CÁ MẬP VOI — những con khổng lồ non tuổi tụ về Vịnh Tadjoura",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

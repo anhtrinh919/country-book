@@ -1,0 +1,163 @@
+{
+  "name": "JAMAICA",
+  "nativeName": "JM",
+  "romaji": "JAMAICA",
+  "tagline": "Đất của rừng cây và dòng nước",
+  "region": "Vùng Caribe",
+  "coords": "18°N 77°W",
+  "fileNo": "042",
+  "langName": "tiếng Patois",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#CEBB99",
+    "ink": "#1E1A10",
+    "faint": "#8A7A52",
+    "line": "#DDD0B0",
+    "accent": "#000000",
+    "accent2": "#007B3E"
+  },
+  "flag": {
+    "assetPath": "/flags/jm.svg",
+    "title": "Quốc kỳ Jamaica",
+    "note": "Chữ thập vàng chéo X; hai tam giác đen và hai tam giác xanh lá",
+    "keyColor": "#F9D23C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Jamaica là một hòn đảo nhỏ giữa biển Caribbean, nơi người Taíno xưa gọi là Xaymaca — \"đất của rừng cây và dòng nước\". Hòn đảo này nhỏ hơn tỉnh Nghệ An nhưng nổi tiếng khắp thế giới: đây là quê hương của reggae, của những vận động viên chạy nhanh nhất lịch sử, và của loại cà phê đặc biệt đến mức người Nhật sẵn sàng trả giá rất cao để mua.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kingston",
+      "sub": "Thành phố lớn nhất và thủ đô cảng biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,83 triệu",
+      "sub": "Ước tính 2024, STATIN"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "JMD $",
+      "sub": "Đô-la Jamaica"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Tiếng Patois dùng hằng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "10.830 km²",
+      "sub": "World Bank 2023"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.256 m",
+      "sub": "Đỉnh Blue Mountain"
+    }
+  ],
+  "islands": [
+    "Kingston",
+    "Montego Bay",
+    "Ocho Rios",
+    "Negril",
+    "Port Antonio"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, sông chảy và bãi biển",
+    "animals": "Muông thú của hòn đảo",
+    "culture": "Nhịp reggae, cà phê và gia vị jerk",
+    "history": "Từ Xaymaca đến ngày độc lập",
+    "wows": "Jamaica bất ngờ chưa!"
+  },
+  "geo": [
+    "Chạy dọc giữa hòn đảo là một dải núi cao vút từ đông sang tây. Dãy Blue Mountains vươn tới 2.256 m — cao đến mức mây thường xuyên quấn quanh đỉnh, tạo điều kiện để trồng loại cà phê nổi tiếng nhất thế giới. Hàng chục con sông từ trên núi đổ xuống biển, tạo nên những thác nước và ghềnh đá tuyệt đẹp.",
+    "Bờ biển Jamaica thay đổi liên tục: khi thì vách đá dựng đứng, khi thì đầm lầy ngập mặn, khi thì những bãi cát trắng mịn trải dài. Phía nam khô ráo hơn, phía bắc thì xanh mướt vì mưa nhiều. Suối nước nóng tự nhiên sủi bọt ở nhiều nơi, nhưng Jamaica không có núi lửa đang hoạt động."
+  ],
+  "animals": [
+    "Quốc điểu của Jamaica là chim Doctor Bird — một loài chim ruồi mỏ đỏ với cái đuôi dài thướt tha, không tìm thấy ở bất kỳ nơi nào khác trên Trái Đất. Con đực có hai chiếc lông đuôi dài như dải lụa bay phía sau khi bay. Đôi cánh nhỏ đập tới 50 lần mỗi giây để giúp nó lơ lửng hút mật hoa.",
+    "Kỳ nhông Jamaica từng bị xem là đã tuyệt chủng suốt 40 năm, cho đến khi được tái phát hiện ở vùng đồi Hellshire năm 1990. Con trưởng thành dài gần một mét và là một trong những loài thằn lằn hiếm nhất thế giới. Bên cạnh đó còn có loài trăn vàng hiền lành, không độc, chỉ sống duy nhất ở đảo Jamaica này."
+  ],
+  "culture": [
+    "Nhạc reggae ra đời ở Jamaica vào những năm 1960 — nhịp điệu chậm rãi, sâu lắng, mang thông điệp hòa bình và tình yêu. Bob Marley đã mang âm nhạc đó vang xa khắp thế giới, và năm 2018 UNESCO chính thức công nhận reggae là di sản văn hóa nhân loại. Đi đến đâu trên đảo cũng nghe tiếng nhạc vọng ra từ các cửa sổ mở.",
+    "Gà nướng jerk — ướp tiêu scotch bonnet cay xé lưỡi cùng gia vị allspice, rồi hun khói bằng gỗ cây pimento — là món ăn đặc trưng của hòn đảo. Bữa sáng quốc dân là ackee nấu cùng cá muối. Còn cà phê Blue Mountain, trồng trong làn không khí mát mẻ của vùng núi sương mù, thuộc hàng đắt nhất thế giới."
+  ],
+  "history": [
+    "Người Taíno đến định cư khoảng năm 600 sau Công nguyên và đặt tên hòn đảo là Xaymaca. Columbus đổ bộ năm 1494; chỉ một thế kỷ sau, người Taíno gần như đã biến mất vì dịch bệnh từ châu Âu. Người Tây Ban Nha rồi người Anh sau năm 1655 lần lượt cai trị và lập những đồn điền mía khổng lồ, dùng sức lao động của người châu Phi bị bắt làm nô lệ.",
+    "Chế độ nô lệ chấm dứt năm 1834, nhưng quyền lực thực sự vẫn nằm trong tay giới chủ đồn điền suốt nhiều thập kỷ sau đó. Người Jamaica kiên trì đấu tranh và bỏ phiếu đòi quyền tự quyết, cho đến ngày 6 tháng 8 năm 1962, hòn đảo chính thức giành độc lập hoàn toàn. Mỗi năm, pháo hoa lại bừng sáng trên cảng Kingston vào đúng ngày kỷ niệm đó."
+  ],
+  "wows": [
+    "Kỷ lục thế giới 100 m của Usain Bolt — 9,58 giây, lập năm 2009 — vẫn chưa ai phá được đến tận hôm nay.",
+    "Quốc kỳ Jamaica là lá cờ quốc gia duy nhất trên thế giới không có màu đỏ, trắng hay xanh dương.",
+    "Khoảng 70% cà phê Blue Mountain của Jamaica được bán sang Nhật Bản với giá hơn 1 triệu đồng mỗi 450 gam.",
+    "Năm 1988, đội đua xe trượt tuyết Jamaica tham dự Thế vận hội Mùa đông Calgary — một hòn đảo nhiệt đới đi tranh tài môn trượt tuyết!",
+    "Chim Doctor Bird đập cánh khoảng 50 lần mỗi giây, lơ lửng trong không trung trông như đứng yên hoàn toàn.",
+    "Với diện tích chỉ 10.830 km², Jamaica là một trong những quốc gia nhỏ nhất từng giành huy chương vàng Olympic chạy nước rút.",
+    "Thác Dunn's River Falls chảy xuống những bậc đá tự nhiên rồi đổ thẳng ra bãi biển và hòa vào biển Caribbean."
+  ],
+  "myths": [
+    {
+      "myth": "Người Jamaica chỉ nói tiếng Patois",
+      "fact": "Tiếng Anh mới là ngôn ngữ chính thức, dùng trong trường học, tòa án và truyền thông. Tiếng Patois rất sôi động và được yêu thích, nhưng hầu hết người Jamaica chuyển qua lại giữa hai ngôn ngữ một cách tự nhiên mỗi ngày."
+    },
+    {
+      "myth": "Jamaica nguy hiểm ở khắp nơi",
+      "fact": "Tội phạm chỉ tập trung ở một số khu vực thành thị nhất định. Các bãi biển, làng núi và khu nghỉ dưỡng đều bình yên, và hàng triệu du khách đến đây an toàn mỗi năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Wah gwaan",
+      "say": "wah GWAAN"
+    },
+    {
+      "en": "Tôi khỏe",
+      "jp": "Mi irie",
+      "say": "mee EE-ree"
+    },
+    {
+      "en": "Không sao",
+      "jp": "No problem",
+      "say": "no PROB-lem mon"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "One love",
+      "say": "wun LUV"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Bless up",
+      "say": "BLESS up"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/jm-hero.jpg",
+      "alt": "Du khách leo lên những bậc đá vôi tự nhiên của thác Dunn's River Falls, nước chảy xung quanh chân",
+      "caption": "THÁC DUNN'S RIVER — cầu thang sống động của Jamaica đổ thẳng ra biển Caribbean",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "landmark": {
+      "src": "/photos/jm-landmark.jpg",
+      "alt": "Thác Dunn's River Falls chảy qua những bậc đá vôi tự nhiên xuống hồ nước xanh ngọc",
+      "caption": "THÁC DUNN'S RIVER — 55 m bậc đá tự nhiên gần Ocho Rios",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/jm-animalA.jpg",
+      "alt": "Chim ruồi mỏ đỏ Doctor Bird đang lơ lửng, bộ lông xanh lấp lánh ánh kim",
+      "caption": "CHIM DOCTOR BIRD — quốc điểu Jamaica, không tìm thấy ở đâu khác trên Trái Đất",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/jm-animalB.jpg",
+      "alt": "Những dải núi xanh mờ sương kéo dài tới chân trời dưới những đám mây bồng bềnh",
+      "caption": "DÃY BLUE MOUNTAINS — vùng sương mù là nơi ở của động vật quý hiếm và cà phê danh tiếng Jamaica",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

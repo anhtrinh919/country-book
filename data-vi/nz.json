@@ -1,0 +1,163 @@
+{
+  "name": "NEW ZEALAND",
+  "nativeName": "NZ",
+  "romaji": "AOTEAROA",
+  "tagline": "Vùng đất của áng mây trắng dài",
+  "region": "Australasia & Thái Bình Dương",
+  "coords": "41°S, 174°E",
+  "fileNo": "042",
+  "langName": "tiếng Māori",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF0E5",
+    "dot": "#c8ccb5",
+    "ink": "#1e2318",
+    "faint": "#7a8466",
+    "line": "#d8dcc8",
+    "accent": "#00247D",
+    "accent2": "#CC142B"
+  },
+  "flag": {
+    "assetPath": "/flags/nz.svg",
+    "title": "Lá cờ xanh với ngôi sao phương Nam",
+    "note": "Cờ Liên hiệp Anh + 4 ngôi sao đỏ của chòm sao Nam Thập Tự",
+    "keyColor": "#00247D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "New Zealand là hai hòn đảo xinh đẹp nằm ở tận cùng phía nam của thế giới. Người Māori gọi nơi này là Aotearoa — \"Vùng đất của áng mây trắng dài\" — và họ đã chèo thuyền đến đây từ hơn 700 năm trước. Đây là xứ sở của núi lửa phun lửa, loài bò sát sống sót qua thời khủng long, và là quốc gia đầu tiên trên thế giới cho phép phụ nữ đi bỏ phiếu. Đây cũng chính là Trung Địa trong bộ phim Lord of the Rings!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Wellington",
+      "sub": "Thành phố có gió mạnh nhất thế giới"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,34 triệu người",
+      "sub": "Thống kê tháng 12/2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la New Zealand",
+      "sub": "Đô-la Kiwi, ký hiệu $"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh + tiếng Māori",
+      "sub": "3 ngôn ngữ chính thức, kể cả ngôn ngữ ký hiệu"
+    },
+    {
+      "label": "Diện tích",
+      "value": "268.021 km²",
+      "sub": "Hơi lớn hơn nước Anh một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Aoraki 3.724m",
+      "sub": "Tên Māori của núi Cook"
+    }
+  ],
+  "islands": [
+    "North Island",
+    "South Island",
+    "Stewart Is.",
+    "Chatham Is.",
+    "Barrier Is."
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo lửa và vịnh hẹp",
+    "animals": "Sinh vật không đâu có",
+    "culture": "Haka, hongi và người Hobbit",
+    "history": "Từ thuyền độc mộc đến hiệp ước",
+    "wows": "Bảy điều bất ngờ của xứ Kiwi"
+  },
+  "geo": [
+    "New Zealand nằm trên Vành đai lửa Thái Bình Dương — nơi có núi lửa đang hoạt động, hồ bùn sôi sùng sục và động đất xảy ra thường xuyên. Dãy Alps phía Nam ở đảo Nam là một rặng núi cao sắc nhọn phủ tuyết trắng, trong khi những vịnh hẹp sâu thẳm như Milford Sound khoét vào bờ biển tạo nên cảnh quan hùng vĩ đến ngỡ ngàng.",
+    "Đảo Bắc có những mạch nước phun hơi nóng và một cao nguyên núi lửa. Phần lớn người New Zealand sống ở đây, trong đó có Auckland — thành phố lớn nhất — nằm kẹp giữa hai bến cảng. Wellington, thủ đô của cả nước, bám vào một bến cảng đồi núi ở mũi cực nam của đảo."
+  ],
+  "animals": [
+    "New Zealand tách khỏi siêu lục địa Gondwana từ 80 triệu năm trước khi chưa có loài thú, vì vậy các loài chim đã tiến hóa để đảm nhận mọi vai trò sinh thái. Chim kiwi dùng lỗ mũi ngay đầu mỏ để đánh hơi tìm giun dưới đất, và đẻ trứng nặng bằng một phần tư trọng lượng cơ thể mình — to không kém gì quả bóng tennis!",
+    "Con tuatara trông giống thằn lằn nhưng thực ra là sinh vật sống sót cuối cùng của một họ bò sát đã tồn tại bên cạnh khủng long từ 220 triệu năm trước. Chúng có thể sống qua 100 tuổi. New Zealand còn là ngôi nhà của kākāpō — con vẹt nặng nhất thế giới — không biết bay và chỉ còn chưa đầy 300 cá thể."
+  ],
+  "culture": [
+    "Người Māori mang đến ngôn ngữ và điệu haka — vũ điệu hùng mạnh với những tiếng giậm chân, thè lưỡi và hát vang. Đội tuyển rugby All Blacks nổi tiếng thế giới biểu diễn haka trước mỗi trận đấu. Còn lời chào hongi thì thật đặc biệt: hai người chạm trán và mũi vào nhau để chia sẻ hơi thở — đó là cách chia sẻ linh hồn.",
+    "Ẩm thực New Zealand pha trộn hương vị Māori và Thái Bình Dương. Bữa tiệc hāngi là cách nấu ăn truyền thống: thức ăn được vùi dưới đất trên những viên đá nóng và nướng chậm trong nhiều giờ. Món pavlova — bánh meringue phủ kem và kiwifruit — được cả New Zealand lẫn Australia tranh nhau nhận là của mình!"
+  ],
+  "history": [
+    "Người Māori đã vượt Thái Bình Dương bằng thuyền từ Polynesia vào khoảng năm 1300, dẫn đường bằng sao trời và sóng biển — một kỳ tích hàng hải đáng kinh ngạc. Nhà thám hiểm người Hà Lan Abel Tasman nhìn thấy các hòn đảo năm 1642 nhưng nhanh chóng rời đi sau khi chạm trán thù địch gần bờ.",
+    "Năm 1840, Hoàng gia Anh và hơn 500 tù trưởng Māori ký Hiệp ước Waitangi. New Zealand trở thành quốc gia tự trị năm 1907. Và năm 1893, đây là quốc gia đầu tiên trên thế giới trao quyền bỏ phiếu cho phụ nữ — trước cả Việt Nam và hầu hết các nước khác."
+  ],
+  "wows": [
+    "Năm 1893, New Zealand trở thành quốc gia đầu tiên trên Trái Đất cho phép phụ nữ đi bầu cử.",
+    "New Zealand nằm trên đỉnh Zealandia — một lục địa gần như chìm hẳn dưới biển, được các nhà khoa học xác nhận năm 2017.",
+    "Bảy loài chim cánh cụt bơi lội ở vùng biển New Zealand — nhiều hơn bất kỳ quốc gia nào khác.",
+    "Chú tuatara tên Henry làm bố lúc 111 tuổi — và vẫn còn đang lớn ở tuổi 35!",
+    "Có khoảng 4,6 con cừu cho mỗi người dân; năm 1982 con số này lên đến 22 con mỗi người.",
+    "Cú nhảy bungee thương mại đầu tiên trên thế giới khai trương ở Queenstown năm 1988.",
+    "Cả ba bộ phim Lord of the Rings đều được quay tại hơn 150 địa điểm trên khắp New Zealand."
+  ],
+  "myths": [
+    {
+      "myth": "New Zealand là một phần của Úc",
+      "fact": "New Zealand là một quốc gia hoàn toàn riêng biệt, cách Úc 2.000 km qua biển Tasman, với chính phủ, tiền tệ và văn hóa đặc trưng của riêng mình."
+    },
+    {
+      "myth": "Tất cả người New Zealand đều nói tiếng Māori",
+      "fact": "Tiếng Anh mới là ngôn ngữ hằng ngày. Chỉ khoảng 4% người New Zealand có thể giao tiếp bằng tiếng Māori, dù con số này đang tăng nhanh."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Kia ora",
+      "say": "kee-ah OR-ah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ngā mihi",
+      "say": "Nah MEE-hee"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Haere mai",
+      "say": "Ha-eh-reh MY"
+    },
+    {
+      "en": "Gia đình",
+      "jp": "Whānau",
+      "say": "FAH-no"
+    },
+    {
+      "en": "Hãy mạnh mẽ lên",
+      "jp": "Kia kaha",
+      "say": "kee-ah KAH-hah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nz-hero.jpg",
+      "alt": "Vịnh hẹp Milford Sound với đỉnh Mitre Peak phản chiếu trên mặt nước tĩnh lặng, New Zealand",
+      "caption": "MILFORD SOUND — Đỉnh Mitre Peak sừng sững trên vịnh hẹp đẹp nhất New Zealand",
+      "credit": "Wikimedia Commons / CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/nz-landmark.jpg",
+      "alt": "Đường chân trời thành phố Auckland và tháp Sky Tower nhìn từ cảng Viaduct",
+      "caption": "THÁP SKY TOWER AUCKLAND — Thành phố lớn nhất New Zealand nhìn từ bờ nước",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/nz-animalA.jpg",
+      "alt": "Chim kiwi nâu trên nền rừng với chiếc mỏ dài đặc trưng",
+      "caption": "CHIM KIWI — Linh vật quốc gia hoạt động ban đêm, dùng mũi ở đầu mỏ để tìm giun",
+      "credit": "Wikimedia Commons / CC BY-SA 2.0"
+    },
+    "animalB": {
+      "src": "/photos/nz-animalB.jpg",
+      "alt": "Thằn lằn tuatara trên tảng đá với mào gai trên lưng",
+      "caption": "TUATARA — Hóa thạch sống không thay đổi suốt 200 triệu năm",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

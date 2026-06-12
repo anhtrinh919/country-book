@@ -1,0 +1,163 @@
+{
+  "name": "NHẬT BẢN",
+  "nativeName": "日本",
+  "romaji": "NIPPON",
+  "tagline": "Xứ sở Mặt Trời Mọc",
+  "region": "Đông Á · Thái Bình Dương",
+  "coords": "36°N · 138°E",
+  "fileNo": "081",
+  "stop": 1,
+  "flag": {
+    "assetPath": "/flags/jp.svg",
+    "title": "Lá cờ Hinomaru",
+    "note": "mặt trời đỏ trên nền trắng · chính thức từ năm 1999",
+    "keyColor": "#BC002D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nhật Bản là một quốc đảo ở Đông Á, nằm ngoài Thái Bình Dương cạnh Hàn Quốc, Trung Quốc và Nga. Người Nhật gọi đất nước mình là Nihon hay Nippon — có nghĩa là “nơi mặt trời mọc” — đó chính là lý do nước này được gọi là Xứ sở Mặt Trời Mọc. Đây là nơi những ngôi đền gỗ cổ kính đứng cạnh những thành phố rực sáng đèn neon, và những chú khỉ tắm suối nóng giữa tuyết trắng bao la.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tokyo",
+      "sub": "khoảng 14,2 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "123 triệu người",
+      "sub": "điều tra 2025 · đang giảm dần"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Yên ¥",
+      "sub": "đồng yên Nhật"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Nhật",
+      "sub": "kanji · hiragana · katakana"
+    },
+    {
+      "label": "Diện tích",
+      "value": "377.975 km²",
+      "sub": "khoảng bằng bang California của Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Phú Sĩ",
+      "sub": "3.776 m · phun trào lần cuối năm 1707"
+    }
+  ],
+  "islandsLabel": "BỐN ĐẢO LỚN:",
+  "islands": [
+    "Honshu",
+    "Hokkaido",
+    "Kyushu",
+    "Shikoku"
+  ],
+  "sections": {
+    "geography": "Đảo núi lửa và suối nóng",
+    "animals": "Khỉ tắm tiên và nai cúi đầu",
+    "culture": "Hoa anh đào, sushi và sumo",
+    "history": "Samurai, ninja và thiên hoàng",
+    "wows": "Bảy điều bất ngờ có thật"
+  },
+  "geo": [
+    "Nhật Bản không phải một hòn đảo mà là cả một quần đảo — một chuỗi hàng nghìn đảo lớn nhỏ. Bốn đảo lớn nhất là nơi sinh sống của hầu hết người dân: Honshu (lớn nhất, có thủ đô Tokyo), Hokkaido đầy tuyết ở phía bắc, Kyushu và Shikoku. Đất nước trải dài từ bắc xuống nam đến mức một đầu có mùa đông tuyết rơi dày đặc, còn đầu kia thì biển ấm quanh năm.",
+    "Ngọn núi nổi tiếng nhất Nhật Bản là Phú Sĩ — hình nón gần như hoàn hảo, cao 3.776 mét, chính là đỉnh cao nhất cả nước. Phú Sĩ là núi lửa, nhưng đã ngủ yên từ năm 1707 đến nay. Nhật Bản nằm trên “Vành đai Lửa” của Thái Bình Dương, vì vậy có rất nhiều núi lửa, suối nước nóng và động đất."
+  ],
+  "animals": [
+    "Trên những ngọn núi cao ở Nagano, những chú khỉ tuyết Nhật Bản — khỉ macaque — leo vào các hồ suối nóng để sưởi ấm trong mùa đông lạnh giá. Đây là loài khỉ hoang dã duy nhất trên thế giới biết tắm như con người, và chúng sống ở vĩ độ bắc hơn bất kỳ loài khỉ nào ngoài con người.",
+    "Trong Công viên Nara, hơn một nghìn con hươu sika thuần hiền đi lại tự do, thậm chí có con còn cúi đầu chào để xin bánh quy từ khách. Trên bầu trời bay lượn là hạc đầu đỏ — biểu tượng của may mắn — còn trong những câu chuyện dân gian, con tanuki trông giống con gấu trúc mắt đen nổi tiếng là yêu tinh biến hình đánh lừa người."
+  ],
+  "culture": [
+    "Vào mùa xuân, cả gia đình cùng trải chiếu ngồi dưới những tán hoa anh đào hồng — truyền thống đẹp này gọi là hanami. Ẩm thực Nhật Bản được yêu thích khắp thế giới: sushi, ramen nóng hổi, mochi dẻo dai và hộp cơm bento gọn gàng. Trang phục truyền thống là kimono, và Nhật Bản còn đem lại cho thế giới nghệ thuật xếp giấy origami, truyện tranh manga và phim hoạt hình anime.",
+    "Môn thể thao dân tộc lâu đời nhất là sumo, nơi hai đô vật khổng lồ cố đẩy nhau ra khỏi vòng thi đấu — một trận có thể kết thúc chỉ trong vài giây. Còn bóng chày mới là môn được xem nhiều nhất. Cuộc sống thường ngày ở Nhật cũng đầy ắp những điều thú vị: máy bán hàng tự động có mặt khắp nơi, những chú robot hữu ích, và tàu cao tốc Shinkansen nổi tiếng thế giới."
+  ],
+  "history": [
+    "Hàng trăm năm — từ khoảng thế kỷ 12 đến cuối thế kỷ 19 — Nhật Bản được bảo vệ bởi những chiến binh samurai, nổi tiếng với thanh kiếm sắc bén và bộ quy tắc danh dự gọi là bushido. Hoạt động bí mật trong bóng tối là những người ninja — những gián điệp và điệp viên thực sự, không phải nhân vật huyền thoại.",
+    "Ngày nay Nhật Bản vẫn còn thiên hoàng, dù vai trò chủ yếu mang tính nghi lễ, và đây là một trong những dòng dõi hoàng gia lâu đời nhất thế giới. Muốn thấy cả xưa lẫn nay, khách du lịch đến Tokyo nhộn nhịp, thành phố cổ kính Kyoto đầy đền chùa, và ngọn Phú Sĩ hùng vĩ."
+  ],
+  "wows": [
+    "Khỉ tuyết tắm suối nóng — loài khỉ hoang dã duy nhất trên thế giới làm được điều này.",
+    "Tàu cao tốc Hayabusa chạy 320 km/h và nổi tiếng đến mức đúng giờ từng giây.",
+    "Công ty lâu đời nhất thế giới là của Nhật: Kongō Gumi xây đền chùa suốt hơn 1.400 năm.",
+    "Khách sạn suối nóng lâu đời nhất thế giới cũng ở đây — mở cửa từ năm 705 sau Công nguyên.",
+    "Dưa hấu vuông là có thật — chỉ là dưa thường được trồng trong khuôn hình hộp.",
+    "Nhật Bản có khoảng 2,6 triệu máy bán hàng tự động — trung bình cứ 23–30 người có một máy.",
+    "Khách sạn viên nang cho khách ngủ trong những ô nhỏ xếp chồng ấm cúng — cái đầu tiên mở năm 1979."
+  ],
+  "myths": [
+    {
+      "myth": "Ninja luôn mặc đồ đen và có phép thuật.",
+      "fact": "Ninja thật sự là những gián điệp ăn mặc như nông dân hoặc người đi đường bình thường để không ai nhận ra. Những trận chiến “ninja đối samurai” gay cấn chỉ xuất hiện trong phim ảnh, ra đời rất lâu sau thời kỳ đó."
+    },
+    {
+      "myth": "Dưa hấu vuông mọc từ hạt đặc biệt.",
+      "fact": "Không hề — chẳng có hạt đặc biệt nào cả. Đó chỉ là dưa thường được trồng bên trong những hộp trong suốt hình lập phương, dưa lớn dần là tự thành hình vuông thôi."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Konnichiwa",
+      "say": "kohn-nee-chee-wah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Arigatō",
+      "say": "ah-ree-gah-toh"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "Hai",
+      "say": "high"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Sayōnara",
+      "say": "sah-yoh-nah-rah"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Oishii",
+      "say": "oy-shee"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/jp-landmark.jpg",
+      "alt": "Núi Phú Sĩ phản chiếu xuống mặt hồ",
+      "caption": "NÚI PHÚ SĨ — 3.776 m, đỉnh cao nhất và là ngọn núi lửa linh thiêng.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/jp-animalA.jpg",
+      "alt": "Khỉ tuyết đang tắm trong suối nóng",
+      "caption": "KHỈ TUYẾT tắm suối nóng ở Nagano vào mùa đông.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/jp-animalB.jpg",
+      "alt": "Một con hươu sika trong Công viên Nara",
+      "caption": "HƯƠU SIKA ở Nara cúi đầu xin bánh quy từ du khách.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    },
+    "hero": {
+      "src": "/photos/jp-hero.jpg",
+      "alt": "Tàu cao tốc Shinkansen E5",
+      "caption": "TÀU SHINKANSEN — Hayabusa “tàu đạn” của Nhật chạy 320 km/h và nổi tiếng đúng giờ từng giây.",
+      "credit": "Photo · Wikimedia Commons · CC BY-SA"
+    }
+  },
+  "theme": {
+    "paper": "#F6EFE1",
+    "dot": "#cdbfa6",
+    "ink": "#2a2420",
+    "faint": "#8a7a5e",
+    "line": "#dccfb4",
+    "accent": "#C0202E",
+    "accent2": "#23406b"
+  },
+  "motif": "sun",
+  "langName": "tiếng Nhật"
+}

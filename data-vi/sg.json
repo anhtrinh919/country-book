@@ -1,0 +1,163 @@
+{
+  "name": "SINGAPORE",
+  "nativeName": "新加坡",
+  "romaji": "SINGAPURA",
+  "tagline": "Thành phố Sư Tử rực sáng",
+  "region": "Đông Nam Á",
+  "coords": "1.35°N, 103.82°E",
+  "fileNo": "065",
+  "flag": {
+    "assetPath": "/flags/sg.svg",
+    "title": "Quốc kỳ Singapore",
+    "note": "Đỏ và trắng, trăng lưỡi liềm, năm ngôi sao",
+    "keyColor": "#EF3340",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Singapore là một đảo quốc tí hon nằm ở đầu mút bán đảo Mã Lai — nhỏ đến mức bạn có thể lái xe băng qua trong vòng một tiếng đồng hồ, thế mà lại là một trong những quốc gia giàu nhất thế giới. Từ một làng chài nghèo, chỉ qua hai thế hệ, Singapore đã vươn lên thành đô thị toàn cầu với những tòa nhà chọc trời lộng lẫy, những khu ẩm thực tỏa hương thơm ngào ngạt, và cả khu rừng mưa nhiệt đới nơi tê tê vẫn lặng lẽ đi kiếm ăn ban đêm.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Singapore",
+      "sub": "cũng chính là toàn bộ đất nước"
+    },
+    {
+      "label": "Dân số",
+      "value": "6,04 triệu",
+      "sub": "ước tính tháng 6/2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "SGD $",
+      "sub": "Đô-la Singapore"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "4 ngôn ngữ chính thức",
+      "sub": "Tiếng Anh, Mã Lai, Quan Thoại, Tamil"
+    },
+    {
+      "label": "Diện tích",
+      "value": "735 km²",
+      "sub": "nhỏ hơn cả Hồng Kông"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "164 m",
+      "sub": "đồi Bukit Timah"
+    }
+  ],
+  "islands": [
+    "Central",
+    "Sentosa",
+    "Jurong Is.",
+    "Pulau Ubin",
+    "Changi"
+  ],
+  "islandsLabel": "CÁC KHU VỰC & ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Thành phố mọc lên từ biển",
+    "animals": "Thiên nhiên giữa lòng đô thị",
+    "culture": "Bốn sắc dân, một mâm cơm",
+    "history": "Từ làng chài đến đầu tàu thế giới",
+    "wows": "Có thật không vậy?"
+  },
+  "geo": [
+    "Singapore nằm trên một hòn đảo chính và 63 đảo nhỏ hơn ở chóp bán đảo Mã Lai, ngay cạnh tuyến hàng hải nhộn nhịp nhất địa cầu. Đất nước này không có núi — điểm cao nhất là đồi Bukit Timah cũng chỉ cao 164 mét, tức thấp hơn nhiều ngọn đồi ở vùng ngoại ô Hà Nội.",
+    "Gần như không có tài nguyên thiên nhiên, Singapore phải nhập khẩu gần toàn bộ lương thực và nước sạch. Thế nhưng các kỹ sư nước này đã bơm hàng triệu tấn cát để lấn biển, mở rộng diện tích lãnh thổ thêm 25% so với hai thế kỷ trước — một kỳ tích không tưởng với một đảo quốc nhỏ bé."
+  ],
+  "animals": [
+    "Singapore hoang dã hơn nhiều so với những gì tòa nhà hiện đại gợi lên. Rái cá lông mịn nô đùa ngay trong các kênh đào giữa thành phố và đã trở thành ngôi sao mạng xã hội thực thụ. Tê tê Sunda — loài động vật bị buôn bán trái phép nhiều nhất thế giới — vẫn còn ẩn náu trong các khu bảo tồn Bukit Timah và Central Catchment ngay giữa lòng đô thị.",
+    "Chim hồng hoàng đốm đen trắng từng biến mất hoàn toàn khỏi Singapore vào thập niên 1960, nhưng đã hồi sinh nhờ những người bảo tồn thiên nhiên đặt hộp làm tổ nhân tạo. Hiện nay khoảng 60–100 con bay lượn trên các công viên và hàng cây ven đường, với bộ lông đen trắng và chiếc mỏ vàng khổng lồ trông như đội mũ hề."
+  ],
+  "culture": [
+    "Ẩm thực là niềm tự hào lớn nhất của Singapore. Tại các trung tâm ẩm thực bình dân — những khu ăn uống ngoài trời khổng lồ đã được UNESCO công nhận là Di sản Văn hóa Phi vật thể — hàng quán Hoa, Mã Lai, Ấn Độ và Peranakan san sát cạnh nhau. Một đĩa cơm gà hay tô laksa chỉ tốn vài đô-la, rẻ hơn bữa cơm bình dân ở nhiều thành phố Đông Nam Á.",
+    "Bốn ngôn ngữ chính thức cùng tồn tại đã sinh ra một ngôn ngữ đường phố gọi là Singlish, nơi mỗi câu đều kết bằng \"lah\", \"leh\" hay \"lor\" đặc trưng. Bài quốc ca Majulah Singapura được hát hoàn toàn bằng tiếng Mã Lai — dù tiếng Anh mới là ngôn ngữ chính trong trường học và công sở."
+  ],
+  "history": [
+    "Năm 1819, sĩ quan người Anh Stamford Raffles chọn hòn đảo đầm lầy này làm cảng tự do thương mại. Chỉ hai năm sau, thương nhân từ khắp nơi đổ về và dân số tăng vọt từ 150 lên 5.000 người. Đến năm 1821, hàng hóa trị giá 8 triệu đô-la đã thông qua cảng này mỗi năm — một con số khổng lồ ở thời đó.",
+    "Singapore gia nhập Malaysia năm 1963 nhưng chỉ hai năm sau đã bị trục xuất. Ngày 9 tháng 8 năm 1965, Thủ tướng Lý Quang Diệu rơi nước mắt khi tuyên bố độc lập — rồi từ đó xây dựng một trong những nền kinh tế giàu nhất thế giới chỉ trong vòng một thế hệ, điều mà cả thế giới gọi là phép màu Singapore."
+  ],
+  "wows": [
+    "Sân bay Changi đã 14 lần được vinh danh là Sân bay tốt nhất thế giới tại giải Skytrax, bao gồm cả năm 2026.",
+    "Singapore có GDP bình quân đầu người (theo sức mua tương đương) cao nhất thế giới — giàu hơn cả người Mỹ tính trên từng cá nhân.",
+    "Night Safari, khai trương năm 1994, là vườn thú đầu tiên trên thế giới được thiết kế hoàn toàn để tham quan ban đêm.",
+    "Flower Dome tại Gardens by the Bay là nhà kính kính lớn nhất thế giới, được Kỷ lục Guinness chứng nhận chính thức.",
+    "Tàu điện ngầm MRT của Singapore chạy đúng giờ đến mức trễ tàu chỉ bị tính từ mốc 5 phút trở lên.",
+    "Dù nhỏ hơn cả thành phố London, Singapore là cảng container nhộn nhịp thứ hai thế giới về sản lượng hàng hóa.",
+    "Kể từ ngày độc lập, Singapore đã tự lấn biển để mở rộng diện tích thêm hơn 24% — tức gần một phần tư lãnh thổ hiện nay là đất được bơm từ lòng biển lên."
+  ],
+  "myths": [
+    {
+      "myth": "Ở Singapore, nhai kẹo cao su là bị đánh roi",
+      "fact": "Thực ra việc bán hay nhập khẩu kẹo cao su mới bị cấm (phạt tiền, không phải đánh roi), còn nhai kẹo thì không phạm luật — kẹo cao su trị liệu từ nhà thuốc vẫn được phép dùng."
+    },
+    {
+      "myth": "Singapore chỉ là một cái trung tâm mua sắm khổng lồ",
+      "fact": "Hơn 300 km đường mòn xanh nối liền các khu bảo tồn thiên nhiên, nơi rái cá, chim hồng hoàng và thậm chí cả tê tê vẫn sống hoang dã ngay giữa trái tim thành phố."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Apa khabar",
+      "say": "AH-pah KAH-bar"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Terima kasih",
+      "say": "TREE-mah KAH-see"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Selamat pagi",
+      "say": "slah-MAHT PAH-ghee"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Sedap!",
+      "say": "suh-DAHP"
+    },
+    {
+      "en": "Xin lỗi",
+      "jp": "Maaf",
+      "say": "MAH-af"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sg-hero.jpg",
+      "alt": "Khách sạn Marina Bay Sands và vịnh Marina lúc hoàng hôn in bóng xuống mặt nước",
+      "caption": "MARINA BAY SANDS — Tòa khách sạn ba tháp biểu tượng của Singapore rực sáng lúc chiều tà.",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/sg-landmark.jpg",
+      "alt": "Rừng Siêu Cây tại Gardens by the Bay lung linh ánh đèn lúc hoàng hôn với những cây xanh khổng lồ thẳng đứng",
+      "caption": "SIÊU CÂY — Những cây năng lượng mặt trời cao 50 mét tại Gardens by the Bay tỏa sáng lúc chạng vạng.",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/sg-animalA.jpg",
+      "alt": "Chim hồng hoàng đốm đen trắng đậu trên cành cây với bộ lông nổi bật và chiếc mỏ vàng lớn",
+      "caption": "CHIM HỒNG HOÀNG ĐỐM — câu chuyện hồi sinh kỳ diệu trong các công viên Singapore.",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/sg-animalB.jpg",
+      "alt": "Tê tê Sunda với bộ vảy giáp đặc trưng trên nền rừng ban đêm",
+      "caption": "TÊ TÊ SUNDA — loài thú vảy nhút nhát vẫn âm thầm sống trong các khu bảo tồn của Singapore ban đêm.",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  },
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#CFC0A8",
+    "ink": "#28231E",
+    "faint": "#897865",
+    "line": "#DACED8",
+    "accent": "#EF3340",
+    "accent2": "#FFFFFF"
+  },
+  "motif": "dots",
+  "langName": "tiếng Singlish"
+}

@@ -1,0 +1,163 @@
+{
+  "name": "NA-UY",
+  "nativeName": "NO",
+  "romaji": "NORGE",
+  "tagline": "Vịnh hẹp, đêm trắng & Viking",
+  "region": "Bắc Âu",
+  "coords": "60.5°N, 8.5°E",
+  "fileNo": "047",
+  "langName": "tiếng Na Uy",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF0E8",
+    "dot": "#c8cbb8",
+    "ink": "#1e2118",
+    "faint": "#7a8070",
+    "line": "#d8dbc8",
+    "accent": "#EF2B2D",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/no.svg",
+    "title": "Quốc kỳ Na Uy",
+    "note": "Nền đỏ với cây thập tự màu lam viền trắng",
+    "keyColor": "#EF2B2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Na Uy nằm chót vót ở đỉnh châu Âu, nơi những dãy núi đổ thẳng xuống những vịnh biển hẹp gọi là fjord. Mùa hè, mặt trời không bao giờ lặn suốt nhiều tuần liền. Mùa đông, những dải sáng xanh lấp lánh trên bầu trời đêm — đó là Cực quang. Cách đây hơn ngàn năm, người Viking hùng mạnh dong thuyền ra khơi từ chính những vịnh này. Ngày nay, Na Uy nổi tiếng với trượt tuyết, yêu quái Troll và quỹ tiết kiệm quốc gia lớn nhất thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Oslo",
+      "sub": "Tọa lạc ở đầu vịnh Oslofjord"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,62 triệu người",
+      "sub": "Ước tính 2025, Thống kê Na Uy"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Krone (NOK)",
+      "sub": "\"Krone\" nghĩa là vương miện"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Na Uy",
+      "sub": "Hai dạng viết: Bokmål & Nynorsk"
+    },
+    {
+      "label": "Diện tích",
+      "value": "304.282 km²",
+      "sub": "Gần bằng diện tích bang New Mexico, Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.469 m",
+      "sub": "Galdhøpiggen, dãy Jotunheimen"
+    }
+  ],
+  "islands": [
+    "Oslo",
+    "Bergen",
+    "Tromsø",
+    "Stavanger",
+    "Trondheim"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Fjord, núi tuyết & mặt trời đêm",
+    "animals": "Chúa tể rừng Bắc Âu",
+    "culture": "Trang phục, Troll & xúc xích",
+    "history": "Từ Viking đến tỷ đô dầu mỏ",
+    "wows": "7 điều khiến bạn há hốc mồm"
+  },
+  "geo": [
+    "Na Uy trải dài 1.752 km từ nam lên bắc — dài và hẹp đến kinh ngạc. Những dòng sông băng thời cổ đại đã cắt khoét vào bờ biển hàng nghìn vịnh hẹp sâu thẳm, tạo nên những lối đi ngoạn mục nơi tàu thuyền lướt giữa những vách núi đá cao tới 1.400 m mọc thẳng từ mặt nước xanh biếc.",
+    "Hơn 50.000 hòn đảo viền quanh bờ biển và 150.000 cái hồ nằm rải rác khắp đất liền. Ở miền cực bắc, mặt trời thức suốt 76 ngày liên tục vào mùa hè. Đường hầm đường bộ dài nhất thế giới — hầm Lærdalstunnelen — đục xuyên 24,5 km qua lòng núi."
+  ],
+  "animals": [
+    "Nai sừng tấm là con vật biểu tượng không chính thức của Na Uy — loài khổng lồ của rừng xanh, nặng bằng cả một chiếc ô tô nhỏ. Tuần lộc lang thang tự do trên cao nguyên, trong khi sói, gấu và linh miêu vẫn lặng lẽ tuần tra những cánh rừng tối tăm.",
+    "Vùng biển ven bờ là nhà của chim cánh cụt vẹt, hải cẩu và cá voi lưng gù. Ở vùng Bắc Cực còn có cáo Bắc Cực với bộ lông dày, chịu được nhiệt độ âm 70 độ C. Còn Troll? Đó chỉ là sinh vật trong truyền thuyết thôi — nhưng người Na Uy yêu chúng hết lòng!"
+  ],
+  "culture": [
+    "Ngày 17 tháng 5 là Ngày Hiến pháp — cả nước biến thành một cuộc diễu hành khổng lồ của trẻ em. Kèn trống rộn ràng, cờ phất phới, và mọi người thi nhau ăn xúc xích với kem. Nhiều người Na Uy mặc bunad — bộ trang phục thêu tay tinh xảo, màu sắc cho biết chính xác gia đình họ đến từ thung lũng nào.",
+    "Trượt tuyết được phát minh ở đây cách đây khoảng 4.000 năm — có những bức tranh khắc đá để chứng minh. Ngày nay trượt tuyết băng đồng gần như là tín ngưỡng quốc gia. Người Na Uy còn có thói quen cho em bé ngủ ngoài trời trong xe đẩy vào mùa đông, tin rằng không khí lạnh trong lành giúp con cứng cáp và khỏe mạnh."
+  ],
+  "history": [
+    "Người Viking xuất phát từ những fjord của Na Uy hơn 1.000 năm trước, đặt chân đến Iceland, Greenland và Bắc Mỹ trước Columbus rất lâu. Họ là những thủy thủ và thương nhân tài ba, vượt đại dương trên những chiếc thuyền dài có đầu rồng — hình ảnh vẫn còn nổi tiếng cho đến tận ngày nay.",
+    "Dầu mỏ được phát hiện vào đêm Giáng sinh năm 1969, biến một quốc gia đánh cá nhỏ bé thành cường quốc giàu có. Na Uy khéo léo dành dụm phần lớn số tiền đó. Đến năm 2026, quỹ dầu mỏ vượt 2 nghìn tỷ đô la — hơn 350.000 đô cho mỗi công dân — trở thành quỹ tài sản quốc gia lớn nhất thế giới."
+  ],
+  "wows": [
+    "Na Uy có hơn 50.000 hòn đảo — nhiều đến mức chưa ai đếm được con số chính xác.",
+    "Chiếc kẹp giấy do người Na Uy sáng chế năm 1900, và trong Thế chiến II nó trở thành biểu tượng của tinh thần kháng chiến dân tộc.",
+    "Quỹ dầu mỏ Na Uy sở hữu khoảng 1,5% toàn bộ các công ty niêm yết trên Trái Đất.",
+    "Hầm Lærdal dài 24,5 km là đường hầm đường bộ dành cho ô tô dài nhất thế giới.",
+    "Ở Svalbard có luật... cấm chết — vì lớp đất đóng băng vĩnh cửu không thể chứa mộ phần.",
+    "Mỗi năm Na Uy tặng Phần Lan một cây thông Noel để cảm ơn sự đoàn kết trong Thế chiến II.",
+    "Galdhøpiggen là đỉnh núi cao nhất Bắc Âu và mỗi năm có khoảng 30.000 người leo lên đỉnh."
+  ],
+  "myths": [
+    {
+      "myth": "Na Uy lúc nào cũng lạnh cóng",
+      "fact": "Dòng hải lưu Gulf Stream giữ cho mùa đông ở Bergen ôn hòa, và Tromsø — dù nằm trong Vòng Bắc Cực — thường xuyên có nhiệt độ trên mức đóng băng. Vùng ven biển Na Uy ấm hơn nhiều so với vĩ độ địa lý của nó."
+    },
+    {
+      "myth": "Đêm nào quang mây là thấy Cực quang",
+      "fact": "Cực quang cần hoạt động mặt trời mạnh và bầu trời tối hoàn toàn. Ngay tại Oslo, có những người sống cả đời mà chưa lần nào được chiêm ngưỡng hiện tượng kỳ diệu này."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hei",
+      "say": "hay"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Takk",
+      "say": "tahk"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Vær så snill",
+      "say": "vair saw sneel"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Ha det bra",
+      "say": "hah deh bra"
+    },
+    {
+      "en": "Chúc mừng!",
+      "jp": "Skål",
+      "say": "skawl"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/no-hero.jpg",
+      "alt": "Nhà hát Opera Oslo vươn lên từ mặt nước như một tảng băng trôi",
+      "caption": "NHÀ HÁT OPERA OSLO — mái đá cẩm thạch nghiêng thoải vừa là mái nhà vừa là quảng trường công cộng.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/no-landmark.jpg",
+      "alt": "Vịnh Geirangerfjord với làn nước xanh ngọc và vách núi xanh dốc đứng",
+      "caption": "VỊNH GEIRANGERFJORD — di sản UNESCO với thác nước tung bọt trắng và vách đá cao 1.400 m.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/no-animalA.jpg",
+      "alt": "Con nai sừng tấm đực to lớn đứng giữa đầm lầy",
+      "caption": "NAI SỪNG TẤM — gã khổng lồ của rừng Na Uy, nặng bằng cả một chiếc ô tô nhỏ.",
+      "credit": "Wikimedia Commons / Diego Delso"
+    },
+    "animalB": {
+      "src": "/photos/no-animalB.jpg",
+      "alt": "Cáo Bắc Cực lông trắng trong khung cảnh tuyết phủ",
+      "caption": "CÁO BẮC CỰC — bộ lông mùa đông chịu được âm 70 độ C.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

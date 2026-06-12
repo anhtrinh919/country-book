@@ -1,0 +1,163 @@
+{
+  "name": "CỘNG HÒA DOMINICAN",
+  "nativeName": "DO",
+  "romaji": "DOMINICANA",
+  "tagline": "Viên ngọc Caribe",
+  "region": "Vùng Caribe",
+  "coords": "18.7°N, 70.2°W",
+  "fileNo": "085",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA3",
+    "ink": "#27201C",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#002D62",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/do.svg",
+    "title": "Cờ Cộng hòa Dominican",
+    "note": "Bốn ô xanh và đỏ chia bởi cây thánh giá trắng",
+    "keyColor": "#002D62",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Cộng hòa Dominican chia sẻ đảo Hispaniola với Haiti — nhưng chỉ một hòn đảo mà có đủ thứ: núi cao chọc trời, hồ muối sâu dưới mực nước biển, rừng nhiệt đới và hơn 1.600 km bãi biển. Thủ đô Santo Domingo là thành phố do người châu Âu lập lên lâu đời nhất ở châu Mỹ. Và đây cũng là quê hương của hai điệu nhạc nổi tiếng thế giới: merengue và bachata.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Santo Domingo",
+      "sub": "Thành phố châu Âu lâu đời nhất châu Mỹ"
+    },
+    {
+      "label": "Dân số",
+      "value": "11,4 triệu người",
+      "sub": "Ước tính 2024; tuổi trung bình 28,7"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Peso (DOP)",
+      "sub": "Đồng peso Dominican từ năm 1844"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Pha trộn gốc Taíno và châu Phi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "48.670 km²",
+      "sub": "Phần phía đông đảo Hispaniola"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.098 m",
+      "sub": "Pico Duarte — đỉnh cao nhất Caribe"
+    }
+  ],
+  "islands": [
+    "Sto. Domingo",
+    "Santiago",
+    "Punta Cana",
+    "Samaná",
+    "Barahona"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, hồ muối và bờ biển hoang dã",
+    "animals": "Cánh chim, vảy rồng và cá voi khổng lồ",
+    "culture": "Nhịp điệu, sắc màu và cội nguồn sâu thẳm",
+    "history": "Những cái đầu tiên, tự do và Tân Thế Giới",
+    "wows": "Bảy điều khiến bạn há hốc mồm"
+  },
+  "geo": [
+    "Cộng hòa Dominican chiếm khoảng hai phần ba phía đông đảo Hispaniola. Đỉnh Pico Duarte cao 3.098 m — đỉnh núi cao nhất toàn Caribe. Lên tới đó, du khách sẽ ngỡ ngàng vì được đi giữa rừng thông mát mẻ, trông chẳng khác gì núi Alpes châu Âu. Còn phía nam, cảnh quan đổi hẳn: đất khô cằn, xương rồng mọc tua tủa dài tới tận bờ biển.",
+    "Hồ Enriquillo nằm sâu 46 m dưới mực nước biển — điểm thấp nhất toàn vùng Caribe. Nước hồ mặn hơn cả nước biển, thế mà hàng trăm con cá sấu Mỹ và đàn hồng hạc vẫn sống thoải mái, xung quanh là những vách đá sa mạc dựng đứng trông rất ngoạn mục."
+  ],
+  "animals": [
+    "Chim palmchat là chim quốc gia — và điều đặc biệt là nó là loài duy nhất trong cả một họ chim, không tồn tại ở bất kỳ nơi nào khác trên Trái Đất. Những đàn 20–30 con ồn ào này cùng nhau xây tổ khổng lồ bằng cành cây trên những cây cọ hoàng gia.",
+    "Kỳ nhông mũi sừng — loài bò sát mang cái tên nghe rất dữ tợn nhờ những cục u trên mõm — sống ở vùng đất khô phía tây nam. Mỗi tháng Giêng, hơn 1.500 con cá voi lưng gù kéo về vịnh Samaná để giao phối, tạo nên một trong những cuộc tụ họp cá voi lớn nhất hành tinh."
+  ],
+  "culture": [
+    "Merengue (UNESCO công nhận năm 2016) và bachata (UNESCO công nhận năm 2019) đều sinh ra ở đây. Bachata ban đầu là nhạc của người nghèo, bị cấm phát sóng trên đài phát thanh — vậy mà giờ đây điệu nhảy này làm rung động sàn nhảy trên khắp năm châu.",
+    "Cộng hòa Dominican dẫn đầu thế giới về sản xuất cacao hữu cơ, và là nơi duy nhất khai thác được đá quý larimar — loại đá màu xanh trời chỉ tìm thấy tại một sườn đồi ở tỉnh Barahona. Hổ phách ở đây còn lưu giữ nguyên vẹn những con côn trùng 20 triệu tuổi bên trong."
+  ],
+  "history": [
+    "Santo Domingo được thành lập năm 1498. Nhà thờ đầu tiên, trường đại học đầu tiên, lâu đài đầu tiên và tu viện đầu tiên ở châu Mỹ đều được xây dựng tại đây — Tây Ban Nha dùng thành phố này làm bàn đạp để chinh phục cả một bán cầu.",
+    "Cộng hòa Dominican tuyên bố độc lập khỏi Haiti năm 1844 — là quốc gia duy nhất trên thế giới giành độc lập từ một nước Caribe khác. Lá cờ xanh-đỏ được thiết kế bởi người anh hùng dân tộc Juan Pablo Duarte."
+  ],
+  "wows": [
+    "Một đứa trẻ sinh ra ở Cộng hòa Dominican có cơ hội chơi ở giải bóng chày MLB cao gấp 5 lần so với trẻ sinh ra ở Mỹ.",
+    "Đá quý larimar chỉ tồn tại tại MỘT địa điểm duy nhất trên Trái Đất: một sườn đồi ở tỉnh Barahona.",
+    "Mạng lưới phố xá từ năm 1498 của Santo Domingo trở thành khuôn mẫu cho hầu hết các thành phố Tây Ban Nha ở châu Mỹ.",
+    "Hồ Enriquillo vừa mặn hơn đại dương, vừa nằm sâu 46 m dưới mực nước biển — cá sấu và hồng hạc cùng sống ở đó.",
+    "Hơn 1.500 con cá voi lưng gù tụ về vịnh Samaná mỗi mùa đông — một trong những cuộc hội tụ cá voi lớn nhất Trái Đất.",
+    "Hổ phách Dominican (lên đến 20 triệu năm tuổi) chứa những giọt máu lâu đời nhất từng được tìm thấy còn nguyên vẹn trong nhựa cây.",
+    "Bachata từng bị cấm phát sóng ở Dominican vì bị gọi là 'nhạc rãnh thoát nước' — rồi UNESCO tuyên bố đó là di sản văn hóa nhân loại."
+  ],
+  "myths": [
+    {
+      "myth": "Đây chỉ là điểm du lịch bãi biển",
+      "fact": "Cộng hòa Dominican có dãy núi cao nhất Caribe, rừng mây mù, hồ muối có cá sấu nằm dưới mực nước biển, và khu phố cổ được UNESCO công nhận — bãi biển chỉ là một trong nhiều lớp kỳ diệu của đất nước này."
+    },
+    {
+      "myth": "Dominican và Haiti là một nước",
+      "fact": "Hai nước cùng chia sẻ một hòn đảo nhưng là hai quốc gia hoàn toàn riêng biệt, với ngôn ngữ, lịch sử và chính phủ khác nhau từ năm 1844."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "¡Hola!",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-syass"
+    },
+    {
+      "en": "Có gì vậy?",
+      "jp": "¿Qué lo que?",
+      "say": "KEH-loh-KEH"
+    },
+    {
+      "en": "Không sao đâu",
+      "jp": "No hay lio",
+      "say": "no eye LEE-oh"
+    },
+    {
+      "en": "Tuyệt vời!",
+      "jp": "Bacano",
+      "say": "bah-KAH-no"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/do-landmark.jpg",
+      "alt": "Phố Calle El Conde về đêm trong khu Zona Colonial, Santo Domingo",
+      "caption": "ZONA COLONIAL — mạng lưới phố cổ châu Âu lâu đời nhất châu Mỹ, Santo Domingo",
+      "credit": "Luis Fuentes / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/do-animalA.jpg",
+      "alt": "Chim palmchat đậu trên cành cây ở Cộng hòa Dominican",
+      "caption": "PALMCHAT — chim quốc gia, chỉ sống trên đảo Hispaniola",
+      "credit": "Jorge checo / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/do-animalB.jpg",
+      "alt": "Kỳ nhông mũi sừng đực ở tỉnh Pedernales, Cộng hòa Dominican",
+      "caption": "KỲ NHÔNG MŨI SỪNG — loài đặc hữu của Hispaniola, tỉnh Pedernales",
+      "credit": "Tim Ross / Public domain"
+    },
+    "hero": {
+      "src": "/photos/do-hero.jpg",
+      "alt": "Bãi biển xanh ngọc và hàng dừa tại Punta Cana, Cộng hòa Dominican",
+      "caption": "PUNTA CANA — bờ biển Caribe huyền thoại với làn nước xanh trong vắt",
+      "credit": "Channone Arif / CC BY 2.0"
+    }
+  }
+}

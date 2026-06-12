@@ -9,8 +9,10 @@ import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import worldTopo from "world-atlas/countries-110m.json";
 import { AT, SPREAD_W, SPREAD_H } from "../tokens";
 import { JOURNEY, BY_CONTINENT, CONTINENT_ORDER, STOP_OF, SPINE, type Continent } from "../../book.config";
-import { COUNTRIES } from "../data";
+import { COUNTRIES, getCountryLang } from "../data";
 import { asset } from "../asset";
+import { useLang } from "../LangContext";
+import { tContinent } from "../i18n";
 
 const FONTS = { disp: AT.disp, serif: AT.serif, mono: AT.mono };
 
@@ -44,10 +46,11 @@ const TINY = JOURNEY.filter((c) => !ON_MAP.has(c.iso));
 
 export function WorldMapTOC({ print }: { print?: boolean }) {
   const nav = useNavigate();
+  const { lang, ui } = useLang();
   const [sel, setSel] = React.useState<string | null>(null);
   const goto = (iso: string) => { const n = PAGE_OF_ISO[iso]; if (n && !print) nav(`/book/${n}`); };
 
-  const C = sel ? COUNTRIES[sel] : null;
+  const C = sel ? getCountryLang(sel, lang) : null;
   const cont = sel ? JOURNEY.find((c) => c.iso === sel)?.continent : null;
 
   return (
@@ -55,11 +58,11 @@ export function WorldMapTOC({ print }: { print?: boolean }) {
       {/* header */}
       <div style={{ position: "absolute", top: 30, left: 54, right: 54, display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: `2px solid ${AT.red}`, paddingBottom: 8, zIndex: 3 }}>
         <div>
-          <div style={{ fontFamily: FONTS.mono, fontSize: 12, letterSpacing: ".28em", color: AT.red }}>{print ? "MAP OF THE WORLD" : "THE WORLD MAP"}</div>
-          <div style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 40, lineHeight: .95 }}>The Whole World, One Map</div>
+          <div style={{ fontFamily: FONTS.mono, fontSize: 12, letterSpacing: ".28em", color: AT.red }}>{print ? ui.worldmap.kickerPrint : ui.worldmap.kicker}</div>
+          <div style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 40, lineHeight: .95 }}>{ui.worldmap.title}</div>
         </div>
         <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 15, color: AT.faint, textAlign: "right" }}>
-          {print ? "Every country, coloured by continent." : "Tap any country to jump to its page →"}
+          {print ? ui.worldmap.subPrint : ui.worldmap.sub}
         </div>
       </div>
 
@@ -67,7 +70,7 @@ export function WorldMapTOC({ print }: { print?: boolean }) {
       <div style={{ position: "absolute", top: 96, left: 54, display: "flex", gap: 14, flexWrap: "wrap", zIndex: 3 }}>
         {CONTINENT_ORDER.map((k) => (
           <span key={k} style={{ display: "flex", alignItems: "center", gap: 6, fontFamily: FONTS.mono, fontSize: 10, color: AT.ink }}>
-            <span style={{ width: 12, height: 12, borderRadius: 3, background: CONTINENT_COLOR[k] }} /> {k} · {BY_CONTINENT[k].length}
+            <span style={{ width: 12, height: 12, borderRadius: 3, background: CONTINENT_COLOR[k] }} /> {tContinent(k, lang)} · {BY_CONTINENT[k].length}
           </span>
         ))}
       </div>
@@ -121,25 +124,25 @@ export function WorldMapTOC({ print }: { print?: boolean }) {
             </div>
             <div>
               <div style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 24, lineHeight: 1 }}>{C.name}</div>
-              <div style={{ fontFamily: FONTS.mono, fontSize: 10, letterSpacing: ".1em", color: CONTINENT_COLOR[cont], marginTop: 3 }}>{cont.toUpperCase()} · STOP {STOP_OF[sel!]}</div>
+              <div style={{ fontFamily: FONTS.mono, fontSize: 10, letterSpacing: ".1em", color: CONTINENT_COLOR[cont], marginTop: 3 }}>{tContinent(cont, lang).toUpperCase()} · {ui.worldmap.stop} {STOP_OF[sel!]}</div>
             </div>
           </div>
           <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 13, color: AT.faint, margin: "10px 0 12px" }}>{C.tagline}</div>
           <button onClick={() => goto(sel!)} style={{ width: "100%", background: CONTINENT_COLOR[cont], color: "#fff", border: "none", borderRadius: 8, padding: "10px 0", fontFamily: FONTS.disp, fontWeight: 700, fontSize: 15, cursor: "pointer" }}>
-            Go to page {PAGE_OF_ISO[sel!]} →
+            {ui.worldmap.goToPage(PAGE_OF_ISO[sel!])}
           </button>
         </div>
       )}
 
       {/* tiny nations strip */}
       <div style={{ position: "absolute", left: 54, right: 54, bottom: 22, zIndex: 3 }}>
-        <div style={{ fontFamily: FONTS.mono, fontSize: 9.5, letterSpacing: ".14em", color: AT.faint, marginBottom: 6 }}>SMALL ISLANDS &amp; MICRO-NATIONS — {print ? "find them in the index" : "tap a flag"}</div>
+        <div style={{ fontFamily: FONTS.mono, fontSize: 9.5, letterSpacing: ".14em", color: AT.faint, marginBottom: 6 }}>{ui.worldmap.tinyTitle(!!print)}</div>
         <div style={{ display: "flex", flexWrap: "wrap", gap: "6px 10px" }}>
           {TINY.map((c) => {
             const inner = (
               <>
                 <img src={asset(`/flags/${c.iso}.svg`)} alt="" style={{ width: 18, height: 12, objectFit: "cover", borderRadius: 2 }} />
-                <span style={{ fontFamily: FONTS.disp, fontWeight: 600, fontSize: 10.5, color: AT.ink }}>{c.name}</span>
+                <span style={{ fontFamily: FONTS.disp, fontWeight: 600, fontSize: 10.5, color: AT.ink }}>{getCountryLang(c.iso, lang)?.name ?? c.name}</span>
                 {print && <span style={{ fontFamily: FONTS.mono, fontSize: 9, color: AT.red }}>{PAGE_OF_ISO[c.iso]}</span>}
               </>
             );

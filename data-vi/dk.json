@@ -1,0 +1,163 @@
+{
+  "name": "ĐAN MẠCH",
+  "nativeName": "DK",
+  "romaji": "DANMARK",
+  "tagline": "Vikings, LEGO & bầu trời bất tận",
+  "region": "Bắc Âu",
+  "coords": "56°N, 10°E",
+  "fileNo": "043",
+  "langName": "tiếng Đan Mạch",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EAD8",
+    "dot": "#C9BAA0",
+    "ink": "#1E1B18",
+    "faint": "#7A6E58",
+    "line": "#DDD3BC",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/dk.svg",
+    "title": "Dannebrog",
+    "note": "Lá cờ quốc gia lâu đời nhất thế giới còn được dùng đến nay, từ năm 1370",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Đan Mạch là đất nước nhỏ bé ở Bắc Âu, nơi hàng trăm hòn đảo được nối với nhau bằng những cây cầu khổng lồ. Chính mảnh đất này đã sinh ra những chiến binh Viking huyền thoại, những mảnh ghép LEGO và những câu chuyện cổ tích của Hans Christian Andersen. Người Đan Mạch yêu thích đạp xe, thưởng thức những buổi tối ấm cúng bên nến lung linh gọi là hygge, và ăn bánh mì mở phủ đầy cá trích hay thịt bò thái mỏng. Cả nước chỉ bằng khoảng một phần ba Việt Nam — lái xe từ đầu đến cuối chưa hết vài tiếng đồng hồ!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Copenhagen",
+      "sub": "Nằm trên đảo Zealand"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,97 triệu người",
+      "sub": "Ước tính 2024, Thống kê Đan Mạch"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Krone (DKK)",
+      "sub": "~7,46 DKK đổi 1 Euro"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Đan Mạch",
+      "sub": "Hầu hết người dân cũng nói tiếng Anh"
+    },
+    {
+      "label": "Diện tích",
+      "value": "43.094 km²",
+      "sub": "Xấp xỉ diện tích Thụy Sĩ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Møllehøj 171 m",
+      "sub": "Đan Mạch là đất nước cực kỳ bằng phẳng"
+    }
+  ],
+  "islands": [
+    "Copenhagen",
+    "Aarhus",
+    "Odense",
+    "Aalborg",
+    "Bornholm"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đồng bằng & bờ biển gió lộng",
+    "animals": "Muông thú biển khơi & đồng cỏ",
+    "culture": "Hygge, LEGO & cổ tích",
+    "history": "Từ Viking đến vương quốc hạnh phúc",
+    "wows": "7 điều bất ngờ về Đan Mạch"
+  },
+  "geo": [
+    "Đan Mạch nằm trên bán đảo Jutland và hơn 400 hòn đảo lớn nhỏ. Địa hình ở đây bằng phẳng đến mức đỉnh núi cao nhất chỉ 171 m — thấp hơn nhiều tòa nhà chọc trời ở các thành phố lớn. Dọc bờ biển là những bãi cát trắng, vách đá phấn trắng muốt và những khu rừng dẻ cổ thụ xanh thẳm.",
+    "Cầu Great Belt dài gần 18 km bắc qua biển, nối các đảo lại với nhau. Còn cầu Øresund thì kỳ diệu hơn nữa — bạn lái xe trên cầu này là đang vượt biển từ Đan Mạch sang Thụy Điển, chỉ mất vài phút để đặt chân sang đất nước khác!"
+  ],
+  "animals": [
+    "Cá heo cảng nhỏ nhắn và hải cẩu xám bơi lội ngoài khơi, thỉnh thoảng leo lên đá tắm nắng. Mỗi mùa xuân, cò trắng từ châu Phi bay về đậu trên mái nhà ở miền nam, còn hươu đỏ thong thả đi trong những khu rừng dẻ phía trong đất liền.",
+    "Thỏ rừng châu Âu phóng như tên trên những cánh đồng trống với tốc độ 70 km/h — nhanh hơn cả xe máy trong thành phố! Mỗi mùa thu, hàng triệu con sáo đá bay thành đàn khổng lồ, uốn lượn như những đám mây sống trên bầu trời đầm lầy miền nam — người Đan Mạch gọi hiện tượng kỳ diệu này là 'Sort Sol', nghĩa là 'Mặt Trời Đen'."
+  ],
+  "culture": [
+    "Người Đan Mạch sống theo triết lý hygge — tận hưởng sự ấm cúng, quây quần bên nhau, thắp nến và uống đồ nóng. Món ăn đặc trưng là smørrebrød, bánh mì đen mở phủ đầy cá trích, trứng hoặc thịt bò thái mỏng, ăn bằng dao nĩa như bữa ăn sang trọng.",
+    "Đan Mạch tặng cho thế giới hai món quà tuyệt vời: đồ chơi LEGO (tên lấy từ 'leg godt' nghĩa là 'chơi thật tốt') và nhà văn Hans Christian Andersen — người viết nên Nàng Tiên Cá, Nàng Công Chúa Đậu Hà Lan và Cô Bé Bán Diêm. Đồ thiết kế Đan Mạch nổi tiếng khắp thế giới vì đường nét gọn gàng, tinh tế."
+  ],
+  "history": [
+    "Hơn 1.000 năm trước, những chiến binh Viking xuất phát từ Đan Mạch trên những con thuyền dài, vượt đại dương đến tận Anh, Iceland, Greenland và cả Bắc Mỹ. Các vua Đan Mạch từng cai quản một đế chế rộng lớn trải dài khắp Bắc Đại Tây Dương.",
+    "Năm 1849, Đan Mạch trở thành quốc gia quân chủ lập hiến hòa bình. Ngày nay, đất nước này luôn nằm trong top ít tham nhũng nhất và hạnh phúc nhất thế giới, với giáo dục và y tế miễn phí cho tất cả mọi người — một sự thay đổi kỳ diệu so với thời Viking chinh phục khắp nơi."
+  ],
+  "wows": [
+    "Lá cờ Dannebrog là quốc kỳ lâu đời nhất thế giới vẫn đang được sử dụng — theo truyền thuyết, nó rơi từ trên trời xuống vào năm 1219.",
+    "Đan Mạch tạo ra khoảng 60% lượng điện từ những cánh quạt gió quay trong gió lạnh Biển Bắc.",
+    "LEGO ra đời trong một xưởng mộc nhỏ xíu ở Đan Mạch năm 1932 và giờ là thương hiệu đồ chơi số một thế giới.",
+    "Đường dành cho xe đạp ở Copenhagen có nhiều xe đạp hơn ô tô mỗi ngày — ngay tại trung tâm thành phố!",
+    "Đảo Greenland — hòn đảo lớn nhất thế giới — thuộc vương quốc Đan Mạch, khiến Đan Mạch trở thành một quốc gia Bắc Cực.",
+    "Đan Mạch nhiều năm liên tiếp được bình chọn là một trong những quốc gia hạnh phúc nhất thế giới trong báo cáo của Liên Hợp Quốc.",
+    "Dù không có một ngọn núi nào, không nơi nào trên đất Đan Mạch cách biển quá 52 km."
+  ],
+  "myths": [
+    {
+      "myth": "Nàng Tiên Cá có cái kết hạnh phúc",
+      "fact": "Trong truyện gốc của Andersen, nàng tiên cá tan thành bọt biển — không lấy được hoàng tử. Nàng chỉ được cứu rỗi khi trở thành một tinh linh của không khí, sau hàng trăm năm làm điều tốt."
+    },
+    {
+      "myth": "Viking đội mũ sắt có sừng",
+      "fact": "Mũ giáp của người Viking thật ra chỉ là những cái nón sắt đơn giản có miếng che mũi. Mũ có sừng là do các họa sĩ thế kỷ 19 sáng tác ra cho trang phục sân khấu và opera — chứ không phải ngoài chiến trường."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hej",
+      "say": "HEY"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tak",
+      "say": "TAHG"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Vær venlig",
+      "say": "VEH VEN-lee"
+    },
+    {
+      "en": "Chúc mừng!",
+      "jp": "Skål!",
+      "say": "SKOHL"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Farvel",
+      "say": "FAH-vel"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dk-hero.jpg",
+      "alt": "Những ngôi nhà nhiều màu sắc dọc kênh đào Nyhavn ở Copenhagen",
+      "caption": "KÊNH ĐÀO NYHAVN — Những mặt tiền nhiều màu sắc của Copenhagen phản chiếu trên mặt nước lặng yên",
+      "credit": "Wikimedia Commons / Orf3us"
+    },
+    "landmark": {
+      "src": "/photos/dk-landmark.jpg",
+      "alt": "Tượng đồng Nàng Tiên Cá ngồi trên tảng đá ngoài cảng Copenhagen",
+      "caption": "NÀNG TIÊN CÁ — Nhân vật của Andersen ngồi ngoài cảng Copenhagen từ năm 1913",
+      "credit": "Wikimedia Commons / Wikimol"
+    },
+    "animalA": {
+      "src": "/photos/dk-animalA.jpg",
+      "alt": "Cá heo cảng đang bơi trên mặt nước",
+      "caption": "CÁ HEO CẢNG — Loài cá voi nhỏ nhất của Đan Mạch trong vùng nước ven bờ lạnh giá",
+      "credit": "Wikimedia Commons / NOAA"
+    },
+    "animalB": {
+      "src": "/photos/dk-animalB.jpg",
+      "alt": "Đàn sáo đá khổng lồ bay uốn lượn trên bầu trời đầm lầy",
+      "caption": "MẶT TRỜI ĐEN — Hàng triệu con sáo đá bay lượn trên đầm lầy Đan Mạch mỗi mùa thu",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    }
+  }
+}

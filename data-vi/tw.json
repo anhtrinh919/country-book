@@ -1,0 +1,163 @@
+{
+  "name": "ĐÀI LOAN",
+  "nativeName": "臺灣",
+  "romaji": "TAIWAN",
+  "tagline": "Hòn Đảo Xinh Đẹp",
+  "region": "Đông Á",
+  "coords": "23.7°N, 121.0°E",
+  "fileNo": "058",
+  "langName": "tiếng Quan Thoại",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#ccbfa2",
+    "ink": "#28211c",
+    "faint": "#8a7860",
+    "line": "#dccdb0",
+    "accent": "#BE0020",
+    "accent2": "#003F87"
+  },
+  "flag": {
+    "assetPath": "/flags/tw.svg",
+    "title": "Trung Hoa Dân Quốc",
+    "note": "Nền đỏ, góc trên cờ xanh đậm với mặt trời trắng 12 tia",
+    "keyColor": "#BE0020",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Năm 1542, các thủy thủ Bồ Đào Nha nhìn thấy hòn đảo xanh mướt này và thốt lên 'Formosa!' — có nghĩa là 'Đẹp quá!'. Đài Loan vẫn xứng danh ấy đến hôm nay: nửa đảo là núi cao rừng rậm, nửa còn lại là đồng bằng trù phú và những thành phố nhộn nhịp. Bạn đang uống trà sữa trân châu? Thức uống đó được phát minh ngay tại đây! Và những con chip nhỏ bé bên trong điện thoại thông minh — cũng có đến 90% do Đài Loan sản xuất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Đài Bắc",
+      "sub": "Khoảng 2,5 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "23,4 triệu người",
+      "sub": "Ước tính năm 2024, toàn đảo"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la Đài Loan",
+      "sub": "NT$ Đô la Đài Loan Mới"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Quan Thoại",
+      "sub": "Cùng với tiếng Mân Nam Đài Loan"
+    },
+    {
+      "label": "Diện tích",
+      "value": "36.193 km²",
+      "sub": "Nhỏ hơn Hà Lan một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.952 m",
+      "sub": "Ngọc Sơn (Yushan)"
+    }
+  ],
+  "islands": [
+    "Taipei",
+    "Kaohsiung",
+    "Tainan",
+    "Taichung",
+    "Hualien"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, biển xanh & hẻm vực",
+    "animals": "Muông thú hoang dã trên đảo",
+    "culture": "Ẩm thực, lễ hội & sáng chế",
+    "history": "Từ Formosa đến cường quốc chip",
+    "wows": "Đài Loan sẽ khiến bạn ngạc nhiên!"
+  },
+  "geo": [
+    "Đài Loan nằm trên Vành đai Lửa Thái Bình Dương — mỗi năm hòn đảo này rung chuyển với khoảng 1.000 trận động đất nhỏ. Dãy Trung Ương chạy như cột sống dọc giữa đảo, với gần 200 đỉnh núi vươn cao trên 3.000 mét.",
+    "Bờ biển phía đông đổ thẳng xuống Thái Bình Dương rất kịch tính. Hẻm núi Taroko khoét sâu vào khối đá cẩm thạch khổng lồ, tạo nên một hẻm vực tuyệt đẹp với những vách đá cao tới 1.000 mét — dưới đáy là dòng sông màu ngọc lam trong vắt."
+  ],
+  "animals": [
+    "Những cánh rừng Đài Loan là nơi trú ẩn của gấu đen Formosa — một loài gấu nhút nhát với mảng lông vàng hình chữ V trên ngực mà người dân địa phương gọi là 'gấu trăng'. Trên những đỉnh núi mù sương, chim trĩ Mikado tỏa sáng với bộ lông lam tím óng ánh như kim loại quý.",
+    "Mỗi mùa đông, hàng triệu con bướm tía di cư về thung lũng Maolin để trú ẩn khỏi giá lạnh — tạo nên một trận bão tím sống động trải dài tít tắp, đẹp đến nín thở."
+  ],
+  "culture": [
+    "Chợ đêm là phòng khách của người Đài Loan — những khu chợ ngoài trời nhộn nhịp nơi bạn có thể thưởng thức đậu hũ thối, bánh trứng hàu và đá bào phủ đầy xoài tươi. Trà sữa trân châu — những viên tapioca dai dai trong ly trà sữa ngọt ngào — được phát minh tại Đài Trung vào thập niên 1980.",
+    "Tết Nguyên Tiêu tháng Hai hằng năm, hàng nghìn chiếc đèn trời được thả lên bầu trời Pingxi mang theo những điều ước viết bằng mực — bay lên cao trong đêm tối lung linh. Khắp đảo có hơn 15.000 ngôi đền — mật độ đền thờ dày đặc nhất thế giới tính theo diện tích."
+  ],
+  "history": [
+    "Người Austronesia bản địa đã định cư trên đảo Đài Loan từ ít nhất 6.000 năm trước. Thương nhân Hà Lan đặt chân đến năm 1624, rồi làn sóng người Hoa lục địa ồ ạt di cư sang. Nhật Bản kiểm soát hòn đảo từ 1895 đến 1945, để lại hệ thống đường sắt và trường học khắp nơi.",
+    "Sau Thế chiến thứ hai, chính phủ Quốc Dân Đảng rút lui từ Trung Quốc sang Đài Loan năm 1949. Từ một nền kinh tế nông nghiệp, Đài Loan lột xác thành cường quốc công nghệ — ngày nay sản xuất khoảng 90% những con chip tiên tiến nhất thế giới, thứ chạy bên trong mọi chiếc điện thoại thông minh."
+  ],
+  "wows": [
+    "Công ty TSMC của Đài Loan sản xuất khoảng 90% chip tiên tiến nhất thế giới — bộ não bên trong mọi chiếc điện thoại thông minh.",
+    "Trà sữa trân châu được phát minh tại Đài Trung vào thập niên 1980 và hiện là ngành công nghiệp tỷ đô toàn cầu.",
+    "Tàu điện ngầm Đài Bắc có tỷ lệ đúng giờ trên 99,7% — thuộc hàng đúng giờ nhất thế giới.",
+    "Đài Loan có một cửa hàng tiện lợi cho mỗi 1.700 người — mật độ cao nhất thế giới.",
+    "Ngọc Sơn (Yushan) cao hơn núi Phú Sĩ nổi tiếng của Nhật Bản gần 180 mét.",
+    "Hẻm núi Taroko được khoét gần hoàn toàn từ đá cẩm thạch — một trong những hẻm đá cẩm thạch lớn nhất Trái Đất.",
+    "Lễ hội đèn trời Đài Loan thả lên trời nhiều đèn đến nỗi cả bầu trời trên đồi hóa thành màu cam rực rỡ."
+  ],
+  "myths": [
+    {
+      "myth": "Đài Loan chỉ là một phần của Trung Quốc",
+      "fact": "Đài Loan có chính phủ dân cử riêng, quân đội riêng, tiền tệ riêng và hộ chiếu riêng từ năm 1949 — một nền dân chủ tự quản, dù địa vị quốc tế vẫn còn tranh cãi."
+    },
+    {
+      "myth": "Đậu hũ thối thì chắc chắn phải dở lắm",
+      "fact": "Mùi của nó nổi tiếng là nặng, nhưng người mê món này nói vị thực ra rất nhẹ nhàng — giòn bên ngoài, mềm bên trong, và cực kỳ gây nghiện một khi bạn dũng cảm thử miếng đầu tiên."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "你好",
+      "say": "nee-how"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "謝謝",
+      "say": "syeh-syeh"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "好吃",
+      "say": "how-chr"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "多少錢",
+      "say": "dwoh-shao chyen"
+    },
+    {
+      "en": "Chợ đêm",
+      "jp": "夜市",
+      "say": "yeh-shr"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tw-hero.jpg",
+      "alt": "Tòa nhà chọc trời Đài Bắc 101 vươn cao trên đường chân trời thành phố lúc hoàng hôn",
+      "caption": "ĐÀI BẮC 101 — từng là tòa nhà cao nhất thế giới, biểu tượng của Đài Loan",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tw-landmark.jpg",
+      "alt": "Vách đá cẩm thạch hẻm núi Taroko với dòng sông màu ngọc lam phía dưới",
+      "caption": "HẺM NÚI TAROKO — hẻm đá cẩm thạch được sông Liwu khoét sâu ở miền đông Đài Loan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tw-animalA.jpg",
+      "alt": "Gấu đen Formosa với mảng lông vàng hình chữ V đặc trưng trên ngực",
+      "caption": "GẤU ĐEN FORMOSA — động vật biểu tượng của Đài Loan với vết lông hình trăng lưỡi liềm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tw-animalB.jpg",
+      "alt": "Chim trĩ Mikado đực với bộ lông lam tím óng ánh trong rừng núi cao",
+      "caption": "CHIM TRĨ MIKADO — quốc điểu của Đài Loan, chỉ sống trong rừng núi cao",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

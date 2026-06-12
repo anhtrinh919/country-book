@@ -1,0 +1,163 @@
+{
+  "name": "GHANA",
+  "nativeName": "GH",
+  "romaji": "GHANA",
+  "tagline": "Vàng, ca cao & nụ cười rạng rỡ",
+  "region": "Tây Phi",
+  "coords": "8°N 2°W",
+  "fileNo": "042",
+  "langName": "tiếng Twi",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#C8B48A",
+    "ink": "#1E1A10",
+    "faint": "#8A7545",
+    "line": "#DDD0AA",
+    "accent": "#CC0000",
+    "accent2": "#006B3F"
+  },
+  "flag": {
+    "assetPath": "/flags/gh.svg",
+    "title": "Cờ Ghana",
+    "note": "Ba sọc đỏ, vàng, xanh lá với ngôi sao đen ở giữa",
+    "keyColor": "#CC0000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ghana nằm bên bờ Vịnh Guinea, nơi rừng nhiệt đới gặp đồng cỏ vàng óng. Đây là quốc gia đầu tiên ở châu Phi hạ Sahara giành độc lập vào năm 1957 — tiếng歡呼 của họ vang vọng khắp cả lục địa. Ghana trồng ca cao nhiều đến mức cứ 5 thanh sô-cô-la thì có 1 thanh bắt nguồn từ đây, còn những tấm vải kente rực rỡ và điệu nhạc highlife sôi động khiến bạn không thể đứng yên được.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Accra",
+      "sub": "Khoảng 3,6 triệu người, nằm bên bờ Đại Tây Dương"
+    },
+    {
+      "label": "Dân số",
+      "value": "34 triệu người",
+      "sub": "Ước tính năm 2024; hơn 80 dân tộc"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Cedi (GHS)",
+      "sub": "Tên đặt theo vỏ sò cowrie"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Cùng với tiếng Twi, Ewe, Ga và hơn 70 ngôn ngữ khác"
+    },
+    {
+      "label": "Diện tích",
+      "value": "238.533 km²",
+      "sub": "Nhỏ hơn nước Anh một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Afadjato",
+      "sub": "885 m — vùng Volta"
+    }
+  ],
+  "islands": [
+    "ACCRA",
+    "KUMASI",
+    "VOLTA",
+    "ASHANTI",
+    "NORTHERN"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Bờ biển vàng và những dòng sông lớn",
+    "animals": "Muôn thú giữa rừng và biển",
+    "culture": "Vải kente, trống và hương ca cao",
+    "history": "Từ Bờ Biển Vàng đến tự do",
+    "wows": "Ghana sẽ khiến bạn ngạc nhiên!"
+  },
+  "geo": [
+    "Miền nam Ghana là dải đất ẩm ướt với những bãi cát trắng và đầm lầy ngập mặn ven Đại Tây Dương. Sâu vào đất liền, rừng mưa nhiệt đới trải rộng lên những ngọn đồi lượn sóng ở vùng Ashanti. Con sông Volta được đắp đập vào năm 1965 tạo nên Hồ Volta — hồ nhân tạo lớn nhất thế giới tính theo diện tích mặt nước.",
+    "Càng lên phía bắc, đồng cỏ Guinea khô ráo mở ra với những cây baobab khổng lồ và các ụ mối cao vút. Vùng cực bắc nóng như chảo dưới nắng Sahel, nơi những người chăn gia súc theo chân những cơn mưa mùa. Chỉ một đất nước nhỏ mà Ghana chứa đựng ba vùng khí hậu hoàn toàn khác nhau — như thu gọn cả một châu lục vào trong."
+  ],
+  "animals": [
+    "Những khu rừng phía tây Ghana là nơi trú ẩn của voi rừng, tinh tinh và linh dương bongo quý hiếm với đôi sừng xoắn ốc đặc biệt. Vườn quốc gia Mole là nơi tuyệt vời nhất để ngắm đàn voi lội xuống hố nước lúc hoàng hôn — đôi khi chỉ cách bạn vài mét từ bục quan sát.",
+    "Sông ngòi và đầm phá là nhà của cá sấu sông Nile và cá phổi châu Phi — loài cá kỳ lạ thở được bằng phổi và sống sót qua hạn hán bằng cách vùi mình trong bùn. Dọc bờ biển, rùa biển olive ridley bò lên bãi cát ban đêm để đẻ trứng — người dân địa phương thức đêm canh gác tổ trứng dưới ánh đèn pin."
+  ],
+  "culture": [
+    "Vải kente — được dệt thành từng dải vàng, xanh và đỏ rực rỡ — ngày xưa chỉ dành cho các vua Ashanti; ngày nay mọi người Ghana đều mặc trong đám cưới và lễ hội. Đám tang ở đây lại là những bữa tiệc vui vẻ: các gia đình đặt làm những chiếc quan tài độc đáo được chạm khắc hình cá, máy bay, hay quả ca cao.",
+    "Ẩm thực Ghana xoay quanh những món hầm đậm đà: súp đậu phộng cay thơm ăn cùng fufu, hay cơm jollof thơm lừng — mùi cơm jollof còn là ngòi nổ cho cuộc tranh luận bất tận Ghana-vs-Nigeria xem ai nấu ngon hơn. Nhạc highlife, ra đời ở những thị trấn cảng thập niên 1920, pha trộn kèn jazz với nhịp trống truyền thống."
+  ],
+  "history": [
+    "Từ lâu trước khi người châu Âu đặt chân đến, Đế chế Ashanti đã kiểm soát toàn bộ thương mại vàng ở Tây Phi. Các thủy thủ Bồ Đào Nha đến bờ biển này năm 1471 và đặt tên là Bờ Biển Vàng. Không lâu sau đó, một thương mại tàn khốc về nô lệ đã để lại vết thương sâu trên mảnh đất này — Pháo đài Cape Coast vẫn còn đứng đó như một chứng nhân lặng lẽ.",
+    "Ngày 6 tháng 3 năm 1957, Kwame Nkrumah tuyên bố độc lập — Ghana trở thành quốc gia châu Phi da đen đầu tiên ở phía nam sa mạc Sahara tự do. Câu nói của ông 'Tiến về phía trước mãi mãi, không bao giờ lùi bước' vẫn được nhắc đến đến tận hôm nay, và Ngày Độc lập của Ghana là lễ kỷ niệm được ăn mừng lớn nhất châu Phi."
+  ],
+  "wows": [
+    "Hồ Volta chiếm 3,6% diện tích Ghana — đây là hồ nhân tạo lớn nhất thế giới tính theo diện tích mặt nước.",
+    "Ghana là nhà sản xuất ca cao lớn thứ 2 thế giới — khoảng 1 trong 5 thanh sô-cô-la bắt nguồn từ một quả ca cao ở đây.",
+    "Pháo đài Cape Coast (xây năm 1653) từng là điểm trung chuyển của hơn 1 triệu người châu Phi bị bắt làm nô lệ trước khi chế độ nô lệ bị bãi bỏ.",
+    "Người Ghana đã phát minh ra 'quan tài nghệ thuật' — những chiếc quan tài đặt làm theo yêu cầu, được tạo hình như xe hơi, tôm hùm, hay giày thể thao.",
+    "Chiếc 'Ngai vàng bằng vàng' của người Ashanti được tin là chứa đựng linh hồn của cả dân tộc; chưa có ai được phép ngồi lên nó.",
+    "Các đập thủy điện trên sông Volta cung cấp khoảng 60% lượng điện cho toàn Ghana.",
+    "Accra có một trong những chợ rác điện tử lớn nhất thế giới, nhận về đồ điện tử cũ từ khắp các châu lục."
+  ],
+  "myths": [
+    {
+      "myth": "Ghana nghèo nàn, không có cơ sở hạ tầng hay nền kinh tế đáng kể",
+      "fact": "Ghana thực ra là một trong những nền dân chủ ổn định nhất và kinh tế tăng trưởng nhanh nhất Tây Phi, với hệ thống đường cao tốc hiện đại và một làng công nghệ được mệnh danh là 'Silicon Accra'."
+    },
+    {
+      "myth": "Châu Phi là một nền văn hóa đồng nhất",
+      "fact": "Riêng Ghana đã có hơn 80 dân tộc — Ashanti, Ewe, Ga, Dagomba — mỗi dân tộc có ngôn ngữ và phong tục riêng biệt hoàn toàn."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Akwaaba",
+      "say": "ah-KWAH-bah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Medaase",
+      "say": "meh-DAH-seh"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Wo ho te?",
+      "say": "woh-HO-teh"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Ɛyɛ dɛ",
+      "say": "eh-YEH-deh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Nante yie",
+      "say": "NAN-teh-yee-EH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gh-hero.jpg",
+      "alt": "Toàn cảnh thủ đô Accra nhìn từ trên cao",
+      "caption": "ACCRA — Thủ đô sôi động của Ghana trải dài từ bờ Đại Tây Dương vào đất liền",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gh-landmark.jpg",
+      "alt": "Pháo đài Cape Coast nhìn ra bờ biển Ghana",
+      "caption": "PHÁO ĐÀI CAPE COAST — Công trình thế kỷ 17 từng chứng kiến thương mại nô lệ Đại Tây Dương",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gh-animalA.jpg",
+      "alt": "Voi châu Phi đi qua đồng cỏ savanna",
+      "caption": "VOI CHÂU PHI — Gặp ở Vườn quốc gia Mole miền bắc Ghana",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gh-animalB.jpg",
+      "alt": "Rùa biển olive ridley trên bãi cát",
+      "caption": "RÙA BIỂN OLIVE RIDLEY — Đẻ trứng trên bãi biển Đại Tây Dương của Ghana dưới ánh trăng",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

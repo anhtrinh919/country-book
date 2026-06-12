@@ -1,0 +1,163 @@
+{
+  "name": "MỸ",
+  "nativeName": "US",
+  "romaji": "UNITED STATES",
+  "tagline": "Xứ sở của những vì sao và sọc cờ",
+  "region": "Bắc Mỹ",
+  "coords": "38°N 97°W",
+  "fileNo": "042",
+  "langName": "tiếng Anh (Mỹ)",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C8BBAA",
+    "ink": "#1E1C18",
+    "faint": "#8A7D62",
+    "line": "#DDD2BE",
+    "accent": "#B22234",
+    "accent2": "#3C3B6E"
+  },
+  "flag": {
+    "assetPath": "/flags/us.svg",
+    "title": "Cờ Sao và Sọc",
+    "note": "50 ngôi sao, 13 sọc đỏ trắng xen kẽ",
+    "keyColor": "#B22234",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nước Mỹ trải dài từ bờ Đại Tây Dương sang tận bờ Thái Bình Dương — 50 tiểu bang ghép lại thành một đất nước khổng lồ. Nơi đây có núi cao chót vót, sa mạc bỏng rẫy, đồng cỏ bát ngát và cả những hòn đảo nhiệt đới. Chính người Mỹ đã phát minh ra bóng đèn, máy bay và internet. Khoảng 340 triệu người từ khắp nơi trên thế giới đang gọi đây là quê hương.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Washington DC",
+      "sub": "Dân số ~700.000 — không phải tiểu bang"
+    },
+    {
+      "label": "Dân số",
+      "value": "~340 triệu người",
+      "sub": "Thống kê 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Mỹ",
+      "sub": "USD — được dùng khắp thế giới"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Ngôn ngữ thực tế; không có ngôn ngữ chính thức liên bang"
+    },
+    {
+      "label": "Diện tích",
+      "value": "9.833.517 km²",
+      "sub": "Lớn thứ 3 hoặc 4 thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Denali 6.190 m",
+      "sub": "Alaska — đỉnh cao nhất Bắc Mỹ"
+    }
+  ],
+  "islands": [
+    "California",
+    "Texas",
+    "New York",
+    "Alaska",
+    "Hawaii"
+  ],
+  "islandsLabel": "CÁC TIỂU BANG NỔI TIẾNG:",
+  "sections": {
+    "geography": "Từ biển này sang biển kia",
+    "animals": "Thiên nhiên hoang dã đất Mỹ",
+    "culture": "Nồi lẩu muôn sắc văn hóa",
+    "history": "Từ cách mạng đến siêu cường",
+    "wows": "50 điều kỳ lạ về nước Mỹ"
+  },
+  "geo": [
+    "Nước Mỹ trải qua sáu múi giờ và hầu như mọi kiểu khí hậu trên trái đất. Dãy Rocky hùng vĩ chia đôi miền Tây; những cánh đồng cỏ bao la trải dài ở giữa; dãy Appalachian chạy dọc bờ Đông. Sông Mississippi cuồn cuộn chảy qua vùng trung tâm rồi đổ ra Vịnh Mexico — dài gần bằng khoảng cách từ Hà Nội vào Thành phố Hồ Chí Minh mười mấy lần.",
+    "Alaska đem đến băng tuyết, sông băng và đỉnh núi cao nhất lục địa. Hawaii nằm giữa Thái Bình Dương cách đất liền 3.800 km, là chuỗi đảo núi lửa với dung nham vẫn đang chảy ngày nay. Hẻm núi Grand Canyon do sông Colorado khoét sâu qua hàng triệu năm — rộng và sâu đến mức bên trong có những hệ thống thời tiết riêng của nó."
+  ],
+  "animals": [
+    "Đại bàng đầu trắng — biểu tượng quốc gia từ năm 1782 — sải cánh lướt trên sông ngòi săn cá. Bò bison châu Mỹ từng có tới 60 triệu con trên những đồng cỏ lớn; sau khi gần như bị săn bắt tuyệt chủng, chúng đã hồi sinh và đang gặm cỏ trong các công viên được bảo vệ. Gấu xám grizzly lang thang ở Yellowstone còn cá sấu ẩn nấp trong những đầm lầy Florida.",
+    "Mỗi mùa thu, bướm vua Monarch di cư 4.000 km đến tận những cánh rừng núi ở Mexico — một hành trình dài hơn từ Hà Nội đến Tokyo. Kỳ diệu hơn nữa: bầy sói được thả về Yellowstone năm 1995 đã khiến đàn nai phải di chuyển nhiều hơn, nhờ đó bờ sông không bị gặm mòn và... dòng chảy của sông thực sự thay đổi. Một loài vật có thể làm biến đổi cả cảnh quan!"
+  ],
+  "culture": [
+    "Văn hóa Mỹ là một bản phối kỳ diệu — nhạc jazz sinh ra ở New Orleans, hip-hop bắt nguồn từ New York, rock and roll nảy mầm ở miền Nam. Phim Hollywood được hàng tỷ người xem. Bóng chày, bóng rổ và bóng bầu dục Mỹ thu hút hàng chục nghìn khán giả chen chúc sân vận động mỗi cuối tuần.",
+    "Ẩm thực Mỹ kể cả câu chuyện nhập cư: pizza New York, thịt nướng Texas, súp gumbo Louisiana. Gần 45 triệu người dùng tiếng Tây Ban Nha hằng ngày. Và đây là điều ngạc nhiên: nước Mỹ có nhiều thư viện công cộng hơn cả số cửa hàng McDonald's — khoảng 17.000 thư viện — cho mượn sách nhiều hơn gần như bất kỳ quốc gia nào trên thế giới."
+  ],
+  "history": [
+    "Người bản địa châu Mỹ đã sống trên mảnh đất này suốt 15.000 năm trước khi người châu Âu đặt chân đến. Mười ba thuộc địa của Anh tuyên bố độc lập năm 1776, giành chiến thắng trong cuộc Chiến tranh Cách mạng và khai sinh nền dân chủ hiện đại đầu tiên trên thế giới.",
+    "Đất nước mở rộng về phía Tây, trải qua cuộc Nội chiến khốc liệt (1861–65) để xóa bỏ chế độ nô lệ, rồi vươn lên thành cường quốc công nghiệp. Sau khi góp phần vào chiến thắng của hai cuộc Thế chiến, Mỹ kết thúc Chiến tranh Lạnh năm 1991 và trở thành siêu cường duy nhất trên thế giới."
+  ],
+  "wows": [
+    "Mỹ có hơn 1.200 cơn lốc xoáy mỗi năm — nhiều hơn bất kỳ quốc gia nào trên Trái Đất.",
+    "Alaska nằm xa về phía Tây đến mức gần Nga hơn cả phần còn lại của nước Mỹ — chỉ cách nhau 88 km biển.",
+    "Thư viện Quốc hội Mỹ lưu giữ hơn 175 triệu tài liệu — thư viện lớn nhất thế giới.",
+    "Yellowstone tọa lạc trên một siêu núi lửa có buồng magma rộng gần bằng cả thành phố Los Angeles.",
+    "Người Mỹ ăn khoảng 3 tỷ chiếc pizza mỗi năm — tương đương 40 héc-ta pizza mỗi ngày.",
+    "Nếu nối tất cả đường cao tốc liên bang Mỹ lại, độ dài sẽ đủ vòng quanh Trái Đất gần hai lần.",
+    "Mỹ có nhiều người đoạt giải Nobel hơn bất kỳ nước nào — hơn 400 người tính đến nay."
+  ],
+  "myths": [
+    {
+      "myth": "\"Người Mỹ chỉ nói tiếng Anh\"",
+      "fact": "Gần 45 triệu người dùng tiếng Tây Ban Nha hằng ngày, và hơn 350 ngôn ngữ được sử dụng khắp nước Mỹ — đa dạng đến kinh ngạc!"
+    },
+    {
+      "myth": "\"Nước Mỹ lúc nào cũng nóng và nắng\"",
+      "fact": "Alaska từng xuống tới −62°C, Minnesota vùi trong tuyết dày hàng mét, còn dãy Rocky vẫn có sông băng — nước Mỹ trải qua gần như mọi vùng khí hậu trên Trái Đất."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hey!",
+      "say": "hay"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Thanks!",
+      "say": "thanks"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "See ya!",
+      "say": "see-YAH"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Please",
+      "say": "pleez"
+    },
+    {
+      "en": "Tuyệt vời!",
+      "jp": "Awesome!",
+      "say": "AW-sum"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/us-hero.jpg",
+      "alt": "Quảng trường Times Square về đêm, thành phố New York",
+      "caption": "TIMES SQUARE — trái tim rực sáng của New York City với ngàn tấm biển quảng cáo",
+      "credit": "Terabass / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/us-landmark.jpg",
+      "alt": "Toàn cảnh vách Nam của Grand Canyon",
+      "caption": "GRAND CANYON — sâu hơn 1,6 km, được sông Colorado khoét qua hàng triệu năm",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/us-animalA.jpg",
+      "alt": "Bò bison châu Mỹ đứng trên đồng cỏ lớn",
+      "caption": "BÒ BISON — từng 60 triệu con, nay hồi sinh mạnh mẽ trong các công viên quốc gia",
+      "credit": "Ilja Zeilmaker / Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/us-animalB.jpg",
+      "alt": "Đại bàng đầu trắng đang bay",
+      "caption": "ĐẠI BÀNG ĐẦU TRẮNG — chim quốc gia Mỹ, sải cánh trên sông ngòi từ trước khi lập quốc",
+      "credit": "Wikimedia Commons / Public Domain"
+    }
+  }
+}

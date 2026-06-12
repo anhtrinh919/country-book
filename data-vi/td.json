@@ -1,0 +1,163 @@
+{
+  "name": "CHAD",
+  "nativeName": "تشاد",
+  "romaji": "TCHAD",
+  "tagline": "Sa mạc, hồ nước & thảo nguyên cổ đại",
+  "region": "Trung Phi",
+  "coords": "15.45°N, 18.73°E",
+  "fileNo": "089",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F4EDD8",
+    "dot": "#D4BF96",
+    "ink": "#2B2218",
+    "faint": "#8B7A55",
+    "line": "#DDD0B0",
+    "accent": "#002664",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/td.svg",
+    "title": "Quốc kỳ Chad",
+    "note": "Ba sọc dọc xanh, vàng và đỏ",
+    "keyColor": "#002664",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Chad nằm giữa lòng châu Phi, nơi cồn cát Sahara dần nhường chỗ cho thảo nguyên xanh và đầm lầy mướt mát. Đất nước này có hơn 200 dân tộc khác nhau — lạc đà thong dong ở phía bắc trong khi hà mã tung tăng dưới nước ở phía nam. Hồ Chad từng là một trong những hồ lớn nhất thế giới, nhưng nay đã thu hẹp đến 90% — câu chuyện về sự thay đổi khí hậu đáng kinh ngạc nhất hành tinh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "N'Djamena",
+      "sub": "~1,6 triệu người, bên bờ sông Chari"
+    },
+    {
+      "label": "Dân số",
+      "value": "~18,5 triệu",
+      "sub": "Ước tính 2024; hơn 200 dân tộc"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung với 5 quốc gia khác"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập / tiếng Pháp",
+      "sub": "Cộng thêm hơn 120 ngôn ngữ địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.284.000 km²",
+      "sub": "Quốc gia lớn thứ 5 châu Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Emi Koussi",
+      "sub": "3.445 m — ngọn núi lửa giữa sa mạc Sahara"
+    }
+  ],
+  "islands": [
+    "N'Djamena",
+    "Moundou",
+    "Abéché",
+    "Sarh",
+    "Bol"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Cát, hồ & thảo nguyên hoang dã",
+    "animals": "Voi, lạc đà & chó hoang",
+    "culture": "200 dân tộc, một nhịp tim",
+    "history": "Đế chế của cát và muối",
+    "wows": "Những điều kỳ lạ ở Chad"
+  },
+  "geo": [
+    "Chad chia thành ba vùng khác nhau như ba thế giới. Miền bắc là sa mạc Sahara thuần túy — biển cát mênh mông, những tháp đá kỳ dị và dãy núi lửa Tibesti, nơi Emi Koussi vươn cao 3.445 m. Những bức tranh đá cổ đại chứng minh rằng 7.000 năm trước, nơi này xanh tươi và đông đúc dân cư.",
+    "Vùng Sahel ở giữa là đồng cỏ khô nơi người du mục cùng đàn gia súc đi qua. Phía nam, mưa mùa hè biến những cánh đồng thành màu xanh rực rỡ. Hồ Chad ở phía tây từng lớn gần bằng biển Caspi — ngày nay hồ chỉ còn chưa đến 10% diện tích năm 1963, minh chứng rõ nhất cho biến đổi khí hậu toàn cầu."
+  ],
+  "animals": [
+    "Miền nam Chad còn giữ những kỳ quan hoang dã cuối cùng của châu Phi. Vườn quốc gia Zakouma là nơi sinh sống của 700 con voi — đàn voi đã tăng gấp đôi nhờ chương trình chống săn trộm của cộng đồng địa phương. Hà mã đầm mình dưới sông Chari, và hơn 370 loài chim tô điểm bầu trời bằng muôn màu sắc.",
+    "Khắp vùng Sahel, sư tử, linh cẩu đốm và chó hoang châu Phi quý hiếm vẫn còn tự do rong ruổi. Ở miền bắc, linh dương Dorcas thoăn thoắt vượt qua cồn cát còn cừu Barbary bám vào vách đá dựng đứng của dãy Tibesti. Hồ Chad còn là trạm dừng chân mùa đông của hàng triệu con chim di cư từ châu Âu bay về."
+  ],
+  "culture": [
+    "Với hơn 200 dân tộc, Chad tràn ngập sự đa dạng thú vị. Ở phía bắc, người Tubu và người Ả Rập du mục tổ chức đua lạc đà và nghi lễ uống trà ba chén — mỗi chén mang ý nghĩa về cuộc sống, tình yêu hay cái chết. Đấu vật là môn thể thao quốc dân, những trận đấu làng thu hút đám đông cổ vũ ầm ĩ.",
+    "Âm nhạc trải dài từ tiếng đàn n'goni nhẹ nhàng của miền nam đến tiếng trống Sara rộn ràng. Những chiếc áo gandoura dệt nhiều màu sắc bay phấp phới ở các chợ. Nhà tròn mái tranh ở miền nam và nhà đất mái bằng ở miền bắc — chỉ cần nhìn kiểu nhà là biết ngay mình đang ở đâu trên đất Chad."
+  ],
+  "history": [
+    "Trước khi người Pháp đặt chân đến, Chad đã là trung tâm của Đế chế Kanem-Bornu — một trong những nhà nước tồn tại lâu nhất châu Phi, kéo dài gần 1.000 năm. Đế chế này buôn bán muối, ngà voi và vải vóc xuyên sa mạc Sahara sang tận Ai Cập, đồng thời truyền bá đạo Hồi sâu vào Trung Phi.",
+    "Pháp chiếm đóng vùng này từ đầu thế kỷ 20; Chad giành độc lập năm 1960. Những thập kỷ tiếp theo chìm trong nội chiến. Dầu mỏ được phát hiện năm 2003, mang lại đường sá mới — và cả những căng thẳng mới. Ngày nay Chad là đối tác quan trọng trong cuộc chiến chống các nhóm vũ trang trên khắp vùng Sahel."
+  ],
+  "wows": [
+    "Hồ Chad đã co lại 90% kể từ năm 1963 — từ 25.000 km² xuống còn chưa đến 1.500 km² ngày nay.",
+    "Emi Koussi ở dãy Tibesti là ngọn núi lửa lớn nhất sa mạc Sahara, rộng hơn cả thành phố London.",
+    "Chad là một trong những quốc gia bị đất liền bao bọc nhiều nhất thế giới — xa biển theo mọi hướng.",
+    "Tranh đá ở Ennedi vẽ hình cá sấu giữa vùng nay là sa mạc cằn khô — chứng minh Sahara từng xanh tươi.",
+    "Đàn voi ở Zakouma tăng gấp đôi trong một thập kỷ nhờ chương trình chống săn trộm của cộng đồng địa phương.",
+    "Vào mùa khô, sông Chari — đường biên giới với Cameroon — cạn đến mức có thể lội qua.",
+    "Hộp sọ người cổ nhất từng được tìm thấy — 7 triệu năm tuổi — được phát hiện ở sa mạc Chad năm 2001."
+  ],
+  "myths": [
+    {
+      "myth": "Chad chỉ toàn là sa mạc trống không",
+      "fact": "Chỉ có miền bắc là sa mạc Sahara; miền nam có đầm lầy xanh tươi, vườn quốc gia tràn đầy voi và sư tử, và dòng sông Chari hùng vĩ nuôi sống cả vùng đất."
+    },
+    {
+      "myth": "Hồ Chad vẫn còn là một hồ lớn",
+      "fact": "Hồ đã thu hẹp khoảng 90% kể từ những năm 1960 do hạn hán và tưới tiêu quá mức — phần còn lại chủ yếu là đầm lầy và những hòn đảo nhỏ, không còn mặt nước rộng lớn nữa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Nước",
+      "jp": "ماء",
+      "say": "MAH"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "صديق",
+      "say": "sa-DEEK"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "جميل",
+      "say": "ja-MEEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/td-hero.jpg",
+      "alt": "Thành phố N'Djamena nhìn từ bờ sông Chari",
+      "caption": "N'DJAMENA — Thủ đô Chad bên sông Chari lúc hoàng hôn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/td-landmark.jpg",
+      "alt": "Những vòm đá cát kỳ vĩ trên cao nguyên Ennedi ở Chad",
+      "caption": "CAO NGUYÊN ENNEDI — Vòm đá cát UNESCO được gió cổ đại tạc nên",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/td-animalA.jpg",
+      "alt": "Đàn voi ở Vườn quốc gia Zakouma, Chad",
+      "caption": "VOI ZAKOUMA — Đàn 700 con, đàn voi hùng mạnh nhất Trung Phi",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/td-animalB.jpg",
+      "alt": "Linh dương Dorcas cảnh giác giữa bụi cây vùng Sahel",
+      "caption": "LINH DƯƠNG DORCAS — Loài sinh vật nhanh nhẹn sống sót ở rìa sa mạc Chad",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

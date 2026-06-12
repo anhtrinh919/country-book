@@ -1,0 +1,163 @@
+{
+  "name": "OMAN",
+  "nativeName": "عُمان",
+  "romaji": "OMAN",
+  "tagline": "Hương trầm và gió biển",
+  "region": "Trung Đông / Vùng Vịnh Ả Rập",
+  "coords": "21.5°N 55.9°E",
+  "fileNo": "OM",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2118",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B5",
+    "accent": "#C8102E",
+    "accent2": "#007A3D"
+  },
+  "flag": {
+    "assetPath": "/flags/om.svg",
+    "title": "Cờ Oman",
+    "note": "Ba màu đỏ, trắng, xanh lá với hình dao găm khanjar",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Oman nằm ở đầu mút của bán đảo Ả Rập, nơi những ngọn núi sa mạc đổ dốc xuống biển xanh lấp lánh. Nơi đây nổi tiếng với nhũ hương — loại nhựa cây thơm đã được buôn bán suốt 5.000 năm — và những thủy thủ hiếu khách từng kết nối châu Phi, Ấn Độ với Ba Tư. Những pháo đài trắng toát, hồ nước ngọc bích giữa núi, và 3.000 km bờ biển khiến Oman trở thành một trong những xứ sở kỳ diệu nhất vùng Ả Rập.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Muscat",
+      "sub": "Dân số ~1,5 triệu (ước tính 2024)"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,27 triệu người",
+      "sub": "Thống kê chính thức, cuối 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rial Oman",
+      "sub": "1 OMR ≈ 2,60 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "Ngôn ngữ chính thức; tiếng Anh cũng phổ biến"
+    },
+    {
+      "label": "Diện tích",
+      "value": "309.500 km²",
+      "sub": "Rộng hơn nước Ý"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Jebel Shams",
+      "sub": "3.009 m — 'Ngọn núi Mặt Trời'"
+    }
+  ],
+  "islands": [
+    "Muscat",
+    "Salalah",
+    "Sohar",
+    "Nizwa",
+    "Sur"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi sa mạc và hồ xanh ẩn mình",
+    "animals": "Linh dương, rùa biển và cá mập voi",
+    "culture": "Nhũ hương, pháo đài và lòng hiếu khách",
+    "history": "Đế chế thương hồ cổ đại",
+    "wows": "7 điều kỳ lạ về Oman"
+  },
+  "geo": [
+    "Oman chủ yếu là sa mạc vàng và những ngọn núi đá vôi hiểm trở. Dãy Al Hajar có những hẻm núi sâu gọi là wadi — lòng sông khô cạn bỗng hóa thành hồ xanh ngọc sau mỗi trận mưa. Đỉnh Jebel Shams cao đến mức đôi khi có sương giá — điều hiếm có giữa xứ Ả Rập nóng bỏng.",
+    "Ở miền nam, những vách đá Dhofar bỗng chuyển xanh tươi mỗi mùa hè khi sương mưa monsoon tràn vào từ biển. Bờ biển Oman trải dài hơn 3.000 km — dài hơn cả toàn bộ bờ biển của nước Pháp."
+  ],
+  "animals": [
+    "Oman có một trong những bãi đẻ trứng quan trọng nhất của rùa xanh tại Ras al Jinz — mỗi năm có đến 20.000 con rùa mẹ bò lên bờ đẻ trứng. Linh dương Ả Rập, từng bị tuyên bố tuyệt chủng ngoài thiên nhiên, đã được nhân giống tại Oman và nay lại tung hoành trên sa mạc.",
+    "Ngoài khơi, cá mập voi khổng lồ lướt nhẹ qua làn nước ấm và cá heo nhào lộn đùa giỡn mỗi buổi sáng. Trên núi cao, báo Ả Rập — một trong những loài mèo lớn hiếm nhất Trái Đất — vẫn lặng lẽ bước qua những tảng đá cổ đại."
+  ],
+  "culture": [
+    "Lòng hiếu khách của người Oman nổi tiếng khắp thế giới: khách đến thăm luôn được mời qahwa (cà phê thảo đậu) và chà là ngọt ngay khi bước vào nhà. Đàn ông mặc áo choàng trắng gọi là dishdasha và đeo dao găm khanjar cong — chính biểu tượng này có mặt trên cờ quốc gia — trong những dịp lễ trọng.",
+    "Salalah là thủ phủ nhũ hương của thế giới; nhựa trắng đục được cạo từ cây Boswellia rồi đốt làm hương trầm. Âm nhạc Oman pha trộn nhịp điệu châu Phi từ hàng thế kỷ giao thương, tạo nên âm thanh độc đáo không giống bất kỳ nơi nào khác ở Ả Rập."
+  ],
+  "history": [
+    "Các thủy thủ Oman xưa đã xây dựng một đế chế thương mại trải dài từ Đông Phi đến Trung Quốc, chở nhũ hương, ngựa và gia vị. Thành phố cổ Qalhat từng giàu có đến mức Marco Polo ca ngợi đây là một trong những cảng biển đẹp nhất thế giới.",
+    "Bồ Đào Nha chiếm các cảng Oman vào thế kỷ 16 nhưng rồi bị đánh đuổi ra. Đến thế kỷ 18, Oman kiểm soát cả đảo Zanzibar. Năm 1970, Sultan Qaboos đã biến đổi đất nước — từ một quốc gia chỉ có ba trường học thành một nhà nước hiện đại với đại học và sân bay."
+  ],
+  "wows": [
+    "Oman sản xuất một số loại nhũ hương quý nhất thế giới và đã đốt hương này trong hơn 5.000 năm.",
+    "Hệ thống kênh dẫn nước falaj 3.000 năm tuổi vẫn đang hoạt động, dẫn nước ngọt qua hơn 1.000 km đường hầm đá đến các nông trại.",
+    "Cồn cát Wahiba Sands có những đụn cát cao bằng tòa nhà 25 tầng.",
+    "Linh dương Ả Rập bị tuyên bố tuyệt chủng năm 1972; Oman đã nhân giống và thả chúng trở lại — loài này đã hồi sinh.",
+    "Chợ Muttrah souq đã buôn bán liên tục suốt 200 năm, tỏa mùi nước hoa hồng và gỗ oud.",
+    "Oman có hơn 1.000 pháo đài và lâu đài — nhiều nhất trên mỗi km² so với hầu hết mọi nơi trên Trái Đất.",
+    "Rùa xanh mẹ có thể tìm đường về đúng bãi biển nơi mình sinh ra, dù đã rời đi hàng chục năm."
+  ],
+  "myths": [
+    {
+      "myth": "Oman chỉ là sa mạc hoang vắng",
+      "fact": "Oman có núi non hùng vĩ, vách đá xanh mùa mưa, rạn san hô và những wadi xanh tươi — cảnh quan đa dạng bậc nhất vùng Ả Rập."
+    },
+    {
+      "myth": "Nhũ hương chỉ là nước hoa thông thường",
+      "fact": "Suốt 5.000 năm, nhũ hương còn quý hơn vàng — được dùng làm thuốc chữa bệnh, tiền tệ và lễ vật thiêng liêng ở Ai Cập, La Mã và Trung Quốc."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Cà phê",
+      "jp": "قهوة",
+      "say": "GAH-wa"
+    },
+    {
+      "en": "Biển",
+      "jp": "بحر",
+      "say": "BAH-har"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/om-hero.jpg",
+      "alt": "Bờ biển Muscat về đêm với những tòa nhà sáng đèn và bến cảng",
+      "caption": "BỜ BIỂN MUSCAT — mặt tiền biển của thủ đô rực sáng khi hoàng hôn buông",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/om-landmark.jpg",
+      "alt": "Tháp tròn khổng lồ của pháo đài Nizwa vươn lên trên những rừng cọ chà là",
+      "caption": "PHÁO ĐÀI NIZWA — tháp tròn thế kỷ 17 canh giữ thành phố ốc đảo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/om-animalA.jpg",
+      "alt": "Hai con linh dương Ả Rập màu trắng đứng giữa sa mạc vàng",
+      "caption": "LINH DƯƠNG Ả RẬP — được hồi sinh từ bờ vực tuyệt chủng trên sa mạc Oman",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/om-animalB.jpg",
+      "alt": "Rùa xanh biển bò qua bãi cát hướng ra đại dương",
+      "caption": "RÙA XANH — hàng nghìn con về đẻ trứng tại bãi biển Ras al Jinz mỗi năm",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

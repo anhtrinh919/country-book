@@ -1,0 +1,163 @@
+{
+  "name": "KOSOVO",
+  "nativeName": "Kosovë",
+  "romaji": "KOSOVË",
+  "tagline": "Quốc gia trẻ nhất châu Âu",
+  "region": "Balkan, Đông Nam Âu",
+  "coords": "42.60°N, 20.90°E",
+  "fileNo": "XK",
+  "langName": "tiếng Albania",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEE8D8",
+    "dot": "#C8BCA0",
+    "ink": "#1E1C18",
+    "faint": "#7A6E52",
+    "line": "#D8CEB6",
+    "accent": "#244AA5",
+    "accent2": "#F5CD00"
+  },
+  "flag": {
+    "assetPath": "/flags/xk.svg",
+    "title": "Quốc kỳ Kosovo",
+    "note": "Nền xanh dương, bản đồ vàng, sáu ngôi sao trắng",
+    "keyColor": "#244AA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kosovo tuyên bố độc lập năm 2008 — trở thành quốc gia trẻ nhất châu Âu, thậm chí còn trẻ hơn nhiều chiếc điện thoại thông minh! Nằm giữa vòng vây núi non ở vùng Balkans, thủ đô Pristina náo nhiệt với những quán cà phê và tranh vẽ đường phố đầy màu sắc. Nhỏ bé nhưng đầy sức sống, Kosovo có lâu đài trung cổ, công viên núi hoang dã, và dân số trẻ trung nhất toàn châu Âu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Pristina",
+      "sub": "Thành phố lớn nhất và trung tâm chính trị"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,60 triệu",
+      "sub": "Theo điều tra dân số năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng tiền euro nhưng không phải thành viên EU"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Albania",
+      "sub": "Tiếng Serbia cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "10.887 km²",
+      "sub": "Tương đương đảo Jamaica"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Gjeravica",
+      "sub": "2.656 m — thuộc dãy núi Accursed"
+    }
+  ],
+  "islands": [
+    "Pristina",
+    "Prizren",
+    "Peja",
+    "Gjilan",
+    "Mitrovica"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, thung lũng và bầu trời rộng",
+    "animals": "Sinh vật hoang dã trên đỉnh núi",
+    "culture": "Cà phê, điệu múa và nghề bạc",
+    "history": "Đế chế, trận chiến và bình minh mới",
+    "wows": "Khoan đã — Kosovo làm điều đó thật sao?"
+  },
+  "geo": [
+    "Kosovo nằm như một cái bát, xung quanh bao bọc bởi núi non. Dãy Sharr lấp lánh ở phía nam, dãy Accursed sừng sững phía tây, còn những cánh đồng màu mỡ trải rộng ở trung tâm nơi nông dân trồng lúa mì và ớt. Các con sông từ đỉnh núi đổ xuống theo mọi hướng, tạo nên phong cảnh vừa hùng vĩ vừa tươi mát.",
+    "Kosovo hoàn toàn bị bao quanh bởi đất liền, không có bờ biển — biển Adriatic gần nhất cũng cách khoảng 200 km, xa hơn cả quãng đường từ Hà Nội vào Thanh Hóa. Bù lại, những hồ núi trong vắt và dòng sông chảy xiết thu hút rất nhiều người đi bộ leo núi từ khắp vùng Balkans tới đây."
+  ],
+  "animals": [
+    "Dãy núi Sharr hiểm trở che giấu một số sinh vật hiếm nhất châu Âu. Linh miêu Balkans — loài mèo hoang có đốm và đôi tai có chùm lông — lặng lẽ rình mồi trong rừng với số lượng rất ít ỏi, đến mức mỗi tấm ảnh bẫy camera chụp được đều trở thành tin tức lớn cho các nhà bảo tồn.",
+    "Gấu nâu, sói xám và linh dương chamois lanh lợi cũng lang thang trên những đỉnh núi Kosovo. Trên cao, đại bàng vàng sải cánh lướt gió; loài chim hùng dũng này xuất hiện nhiều đến mức trở thành biểu tượng tự hào của người Albania và cả Kosovo."
+  ],
+  "culture": [
+    "Người Kosovo yêu thích cà phê và bạn bè. Dù là tách espresso nhỏ ở quán Pristina hay ấm cà phê ngọt ngào nhâm nhi tại nhà, cà phê chính là cách người ta gắn kết tình bạn. Khách đến nhà sẽ được mời ăn uống thịnh soạn — từ chối là điều bất lịch sự!",
+    "Điệu múa vòng tròn Valle của người Albania là linh hồn của các đám cưới và lễ hội — mọi người nắm tay nhau bước theo nhịp điệu uyển chuyển. Thành phố Prizren còn nổi tiếng với đồ trang sức chạm bạc filigree tinh xảo, một nghề thủ công hơn 500 năm tuổi vẫn được làm bằng tay cho đến ngày nay."
+  ],
+  "history": [
+    "Kosovo từng là trái tim văn hóa của Vương quốc Serbia thời trung cổ vào thế kỷ 13-14, nơi có những tu viện vĩ đại và cung điện hoàng gia. Rồi năm 1389, trận chiến Kosovo chống lại Đế chế Ottoman thay đổi tất cả — câu chuyện bi hùng đó vẫn còn sống trong những bài hát cho đến hôm nay.",
+    "Người Ottoman cai trị gần 500 năm, để lại dấu ấn qua những thánh đường Hồi giáo, chợ cổ và cầu đá ở khắp nơi. Sau nhiều thập kỷ thuộc Nam Tư, Kosovo tuyên bố độc lập vào ngày 17 tháng 2 năm 2008 — và những bữa tiệc đường phố vang dội kháp cả nước như chào đón một buổi sáng hoàn toàn mới."
+  ],
+  "wows": [
+    "Kosovo tuyên bố độc lập năm 2008 — còn trẻ hơn nhiều chiếc điện thoại thông minh đang dùng hiện nay!",
+    "Bức điêu khắc khổng lồ NEWBORN ở Pristina được sơn lại với thiết kế mới mỗi năm vào ngày độc lập.",
+    "Kosovo dùng đồng euro hằng ngày dù không phải thành viên của Liên minh châu Âu.",
+    "Một tượng Nữ thần Ngồi Trên Ngai bằng đất sét 6.000 năm tuổi tìm thấy gần Pristina là một trong những tác phẩm nghệ thuật cổ nhất châu Âu.",
+    "Vùng Rahovec đã làm rượu vang từ thời La Mã và vẫn xuất khẩu đến tận ngày nay.",
+    "Hơn 70% dân số Kosovo dưới 35 tuổi — trẻ nhất trong toàn bộ châu Âu.",
+    "Quốc kỳ Kosovo in hình bản đồ của chính đất nước mình — trên thế giới chỉ có đảo Síp làm điều tương tự."
+  ],
+  "myths": [
+    {
+      "myth": "Kosovo vẫn còn là vùng chiến sự nguy hiểm",
+      "fact": "Cuộc xung đột 1998-99 đã kết thúc hơn 25 năm trước. Kosovo hòa bình và được khách du lịch ưa chuộng để leo núi và khám phá văn hóa, được nhiều tổ chức du lịch lớn đánh giá là điểm đến an toàn."
+    },
+    {
+      "myth": "Kosovo không phải quốc gia thực sự",
+      "fact": "Hơn 100 quốc gia đã công nhận Kosovo, trong đó có Mỹ, Anh, Pháp và Đức — và Kosovo là thành viên chính thức của Quỹ Tiền tệ Quốc tế IMF lẫn Ngân hàng Thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Përshëndetje",
+      "say": "per-shen-DET-yeh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Faleminderit",
+      "say": "fah-leh-min-DEET"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ju lutem",
+      "say": "yoo LOO-tem"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Mirupafshim",
+      "say": "meer-oo-PAF-shim"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "E shijshme!",
+      "say": "eh SHEESH-meh"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/xk-landmark.jpg",
+      "alt": "Cầu đá cổ và thánh đường Sinan Pasha ở Prizren, Kosovo",
+      "caption": "PRIZREN — cây cầu đá Ottoman bắc qua sông Bistrica bên dưới pháo đài trên đồi.",
+      "credit": "Bujar I Gashi / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/xk-animalA.jpg",
+      "alt": "Linh miêu Balkans ở vườn thú Tirana",
+      "caption": "LINH MIÊU BALKANS — chưa đến 50 con còn sống trong tự nhiên ở vùng Balkans.",
+      "credit": "Albinfo / CC0"
+    },
+    "animalB": {
+      "src": "/photos/xk-animalB.jpg",
+      "alt": "Đại bàng vàng đậu trên cọc",
+      "caption": "ĐẠI BÀNG VÀNG — sải cánh trên những đỉnh núi Kosovo, biểu tượng niềm tự hào của người Albania.",
+      "credit": "Shravans14 / CC BY-SA 3.0"
+    },
+    "hero": {
+      "src": "/photos/xk-hero.jpg",
+      "alt": "Tượng đài NEWBORN ở trung tâm Pristina",
+      "caption": "TƯỢNG ĐÀI NEWBORN — ra mắt vào ngày độc lập năm 2008, được sơn lại mỗi năm một lần.",
+      "credit": "Diego Delso / CC BY-SA 3.0"
+    }
+  }
+}

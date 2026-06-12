@@ -1,0 +1,163 @@
+{
+  "name": "TÂY BAN NHA",
+  "nativeName": "ES",
+  "romaji": "ESPAÑA",
+  "tagline": "Nắng vàng, lễ hội và điệu flamenco",
+  "region": "Nam Âu",
+  "coords": "40.4°N, 3.7°W",
+  "fileNo": "034",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F7F0DF",
+    "dot": "#D4BC8A",
+    "ink": "#2B2018",
+    "faint": "#9A7D4A",
+    "line": "#E2CFA0",
+    "accent": "#C60B1E",
+    "accent2": "#F1BF00"
+  },
+  "flag": {
+    "assetPath": "/flags/es.svg",
+    "title": "Quốc kỳ Tây Ban Nha",
+    "note": "Các sọc đỏ và vàng, huy hiệu quốc gia",
+    "keyColor": "#C60B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tây Ban Nha nằm ở cực tây châu Âu, nơi Đại Tây Dương gặp Địa Trung Hải. Đây là vùng đất của nắng vàng rực rỡ, những lâu đài cổ kính và những lễ hội ồn ào náo nhiệt bậc nhất thế giới — nơi đấu sĩ bò tót, món tapas và giấc ngủ trưa siesta đều là chuyện bình thường, nhưng tàu cao tốc chạy hơn 300 km/h và những thành phố nghệ thuật hiện đại cũng hoàn toàn có thật!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Madrid",
+      "sub": "Thủ đô nằm cao nhất trong toàn EU"
+    },
+    {
+      "label": "Dân số",
+      "value": "47,4 triệu người",
+      "sub": "Ước tính năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng tiền chung EU từ năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Còn có tiếng Catalan, Basque và Galician"
+    },
+    {
+      "label": "Diện tích",
+      "value": "505.990 km²",
+      "sub": "Quốc gia lớn thứ 2 trong EU"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.718 m",
+      "sub": "Núi lửa Teide, quần đảo Canary"
+    }
+  ],
+  "islands": [
+    "Andalusia",
+    "Catalonia",
+    "Madrid",
+    "Valencia",
+    "Galicia"
+  ],
+  "islandsLabel": "CÁC VÙNG LỚN:",
+  "sections": {
+    "geography": "Núi cao, biển rộng, đồng bằng khô",
+    "animals": "Thú hoang kỳ lạ của Tây Ban Nha",
+    "culture": "Lễ hội, ẩm thực và flamenco",
+    "history": "Đế chế, nghệ thuật và biến động",
+    "wows": "Tây Ban Nha sẽ khiến bạn bất ngờ!"
+  },
+  "geo": [
+    "Phần lớn Tây Ban Nha là một cao nguyên rộng lớn và tương đối bằng phẳng gọi là Meseta, được bao quanh bởi những dãy núi hùng vĩ. Dãy Pyrenees ở phía bắc như một bức tường khổng lồ ngăn cách Tây Ban Nha với Pháp, còn dãy Sierra Nevada sừng sững gần thành phố Granada ở phía nam.",
+    "Tây Ban Nha được ba vùng biển bao bọc: Đại Tây Dương, Địa Trung Hải và Vịnh Biscay. Ngoài ra, nước này còn sở hữu quần đảo Canary nắng ấm ngoài khơi bờ biển châu Phi và quần đảo Balearic xinh đẹp — gồm Mallorca, Ibiza — nằm giữa lòng Địa Trung Hải."
+  ],
+  "animals": [
+    "Vùng đất ngập nước Doñana ở miền nam Tây Ban Nha là nơi trú ẩn của mèo rừng Iberia — loài mèo hoang hiếm nhất thế giới từng suýt tuyệt chủng và được bảo tồn thành công. Ngoài ra, sói Iberia vẫn còn lang thang theo từng đàn nhỏ trên những ngọn đồi phía bắc.",
+    "Gấu nâu lặng lẽ đi qua những dãy núi Cantabria, trong khi kền kền griffon khổng lồ lượn vòng cao trên các hẻm núi ở Extremadura. Vào mùa thu, những con hươu đực sừng tấm hét vang trong rừng sương mù để tranh giành bạn tình — người ta gọi cuộc thi thú vị này là berrea."
+  ],
+  "culture": [
+    "Tây Ban Nha sống theo một nhịp điệu khác hẳn phần còn lại của thế giới. Bữa trưa mới là bữa chính — thường ăn lúc 2 đến 3 giờ chiều — còn bữa tối thì hiếm khi bắt đầu trước 9 giờ đêm. Tapas là những món nhỏ ăn chung ở quán bar; tên gọi này xuất phát từ miếng bánh mì người ta đặt lên miệng ly để ngăn ruồi bay vào!",
+    "Flamenco — điệu múa kết hợp vỗ tay, đàn guitar và giậm chân — ra đời ở vùng Andalusia và hiện đã được UNESCO công nhận là di sản văn hóa nhân loại. Mỗi thị trấn đều có lễ hội riêng: Pamplona tổ chức chạy đua với bò tót trên đường phố; còn Valencia thì đốt những tượng gỗ khổng lồ vào mỗi tháng Ba."
+  ],
+  "history": [
+    "Tây Ban Nha từng là quê hương của người La Mã, người Visigoth, rồi đến những người Hồi giáo gọi là người Moor cai trị suốt gần 800 năm. Những cung điện Moorish tuyệt đẹp như Alhambra vẫn còn đứng vững đến ngày nay. Năm 1492 — cũng là năm Columbus dong buồm về phía tây — vương quốc Moorish cuối cùng sụp đổ.",
+    "Tây Ban Nha sau đó xây dựng một đế chế rộng lớn trải dài khắp châu Mỹ và châu Á. Sau thời đế chế là những biến động dữ dội — cuộc nội chiến tàn khốc vào thập niên 1930 — nhưng rồi Tây Ban Nha vươn lên thành một nền dân chủ sôi động và gia nhập EU vào năm 1986."
+  ],
+  "wows": [
+    "Lễ hội La Tomatina của Tây Ban Nha có 20.000 người ném 150 tấn cà chua vào nhau mỗi tháng Tám!",
+    "Nhà thờ Sagrada Família ở Barcelona đã xây dựng từ năm 1882 nhưng đến nay vẫn chưa hoàn thành.",
+    "Tây Ban Nha có nhiều Di sản Thế giới UNESCO hơn hầu hết các quốc gia khác trên Trái Đất.",
+    "Bảo tàng Prado ở Madrid lưu giữ hơn 8.000 bức tranh của các danh họa Velázquez, Goya và El Greco.",
+    "Một người Tây Ban Nha đã phát minh ra cây lau nhà hiện đại — Manuel Jalón Corominas đăng ký bằng sáng chế năm 1956.",
+    "Tiếng Tây Ban Nha là ngôn ngữ mẹ đẻ được nói nhiều thứ hai trên thế giới với 490 triệu người.",
+    "Mạng lưới tàu cao tốc AVE của Tây Ban Nha là dài nhất châu Âu với hơn 3.900 km đường ray."
+  ],
+  "myths": [
+    {
+      "myth": "Tây Ban Nha lúc nào cũng nóng và nắng",
+      "fact": "Miền bắc Tây Ban Nha (Galicia, xứ Basque) nổi tiếng là mưa nhiều và xanh tươi — người dân địa phương hay đùa rằng nơi đây còn mưa nhiều hơn cả London!"
+    },
+    {
+      "myth": "Bò tót lao vào vì tức màu đỏ",
+      "fact": "Bò thực ra bị mù màu với màu đỏ; chính sự chuyển động của tấm vải mới kích thích chúng, chứ không phải màu sắc."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ass"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "kay REE-koh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Adiós",
+      "say": "ah-dee-OSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/es-hero.jpg",
+      "alt": "Những tháp nhà thờ Sagrada Família ở Barcelona lúc hoàng hôn",
+      "caption": "SAGRADA FAMÍLIA — Kiệt tác còn dang dở của Gaudí vươn lên trên Barcelona",
+      "credit": "Bernard Gagnon / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/es-landmark.jpg",
+      "alt": "Cung điện Alhambra lung linh ánh đèn về đêm tại Granada",
+      "caption": "ALHAMBRA — Cung điện và pháo đài Moorish nhìn xuống thành phố Granada",
+      "credit": "Carlos Delgado / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/es-animalA.jpg",
+      "alt": "Mèo rừng Iberia đang nghỉ ngơi trong bụi rậm",
+      "caption": "MÈO RỪNG IBERIA — Loài mèo hoang hiếm nhất thế giới, được bảo tồn thành công",
+      "credit": "Programa de Conservación / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/es-animalB.jpg",
+      "alt": "Kền kền griffon xòe rộng đôi cánh bay lượn trên cao",
+      "caption": "KỀN KỀN GRIFFON — Loài chim khổng lồ bay lượn trên các hẻm núi và vách đá của Tây Ban Nha",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

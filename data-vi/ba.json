@@ -1,0 +1,163 @@
+{
+  "name": "BOSNIA",
+  "nativeName": "BA",
+  "romaji": "BOSNA",
+  "tagline": "Nơi Đông gặp Tây",
+  "region": "Balkan, Đông Nam Âu",
+  "coords": "44.0°N, 17.9°E",
+  "fileNo": "048",
+  "langName": "tiếng Bosnia",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B89A",
+    "ink": "#272018",
+    "faint": "#8B7355",
+    "line": "#DDD0B5",
+    "accent": "#003DA5",
+    "accent2": "#FDCC00"
+  },
+  "flag": {
+    "assetPath": "/flags/ba.svg",
+    "title": "Bosnia & Herzeg.",
+    "note": "Nền xanh, tam giác vàng, ngôi sao trắng",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bosnia và Herzegovina là đất nước của những ngọn núi và rừng già, nằm ở vùng Balkans nơi tháp nhà thờ Hồi giáo và tháp chuông Thiên Chúa giáo cùng vươn lên một bầu trời. Những khu chợ Ottoman cổ kính, ấm pha cà phê đồng, và cây cầu đá sừng sững cạnh tòa thị chính kiểu Áo-Hung. Dòng sông xanh ngọc bích chảy qua rừng thẳm — nơi gấu nâu và sói vẫn còn tự do rong ruổi — và thủ đô Sarajevo từng là nơi châm ngòi cho Chiến tranh Thế giới thứ Nhất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Sarajevo",
+      "sub": "dân số khoảng 275.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "khoảng 3,2 triệu",
+      "sub": "ước tính 2024, đang giảm dần"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Mark (KM)",
+      "sub": "Mác chuyển đổi (BAM)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Bosnia",
+      "sub": "cùng với tiếng Serbia và Croatia"
+    },
+    {
+      "label": "Diện tích",
+      "value": "51.197 km²",
+      "sub": "nhỏ hơn Croatia một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Maglić 2.386m",
+      "sub": "đỉnh đá sát biên giới Montenegro"
+    }
+  ],
+  "islands": [
+    "Sarajevo",
+    "Mostar",
+    "Banja Luka",
+    "Tuzla",
+    "Neum"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, sông biếc và rừng hoang",
+    "animals": "Gấu, linh miêu và sinh vật hang động",
+    "culture": "Cà phê, ćevapi và hai đế chế",
+    "history": "Đế chế, cây cầu và một viên đạn",
+    "wows": "7 điều bất ngờ về Bosnia"
+  },
+  "geo": [
+    "Bosnia gần như là núi và rừng hoàn toàn — dãy Alps Dinaric hiểm trở phủ kín phần lớn đất nước, bị chia cắt bởi những con sông xanh ngọc như sông Neretva và sông Una. Tuyết phủ trắng các đỉnh núi suốt mùa đông rồi tan thành thác nước cuồn cuộn, tuyệt vời cho môn chèo thuyền vượt ghềnh.",
+    "Phía nam là vùng Herzegovina khô ráo hơn, trồng nho và cây sung. Điều thú vị là Bosnia chỉ có vỏn vẹn 20 km bờ biển Adriatic — đường bờ biển ngắn nhất của bất kỳ quốc gia châu Âu nào — và cảng Neum nằm gọn trong khoảng hẹp đó."
+  ],
+  "animals": [
+    "Những cánh rừng Bosnia là một trong số ít nơi còn lại ở châu Âu mà gấu nâu, sói và linh miêu cùng sống hoang dã. Khoảng 1.000 con gấu nâu lang thang trên các sườn núi, còn linh miêu Á-Âu — loài mèo hoang lớn nhất châu Âu — lặng lẽ rình mò giữa rừng thông.",
+    "Thế giới ngầm dưới lòng đất cũng không kém phần hấp dẫn: hang Vjetrenica chứa hơn 200 loài sinh vật, trong đó có tôm và bọ cánh cứng mù chỉ tồn tại ở đây và không nơi nào khác trên Trái Đất. Các nhà sinh vật học gọi đây là một trong những hang động đa dạng sinh học nhất thế giới."
+  ],
+  "culture": [
+    "Uống cà phê ở Bosnia là một nghi lễ. Cà phê xay mịn được nấu trong chiếc ấm đồng džezva nhỏ, rót ra chiếc tách fildžan tí hon, rồi nhâm nhi từng ngụm qua viên đường nhúng cùng ly nước lạnh. Đừng bao giờ gọi nó là 'cà phê Thổ Nhĩ Kỳ' nhé — người Bosnia sẽ nhẹ nhàng đính chính bạn ngay!",
+    "Món ăn đường phố được yêu thích nhất là ćevapi: những cuộn thịt nướng nhỏ trong bánh mì dẹt mềm mịn ăn kèm hành sống. Ở khu phố cổ Sarajevo, một thánh đường Hồi giáo, một nhà thờ Công giáo, một nhà thờ Chính thống giáo và một giáo đường Do Thái đứng cạnh nhau chỉ vài phút đi bộ — một cảnh tượng hiếm có trên thế giới."
+  ],
+  "history": [
+    "Bosnia nằm dưới quyền cai trị Ottoman từ năm 1463 suốt hơn 400 năm, rồi thuộc về đế quốc Áo từ năm 1878. Ngày 28 tháng 6 năm 1914, Gavrilo Princip bắn Thái tử Franz Ferdinand ngay giữa một con phố Sarajevo — một viên đạn đã châm ngòi cho Chiến tranh Thế giới thứ Nhất.",
+    "Một cuộc chiến tàn khốc đã xé toạc đất nước trong những năm 1992–1995. Sarajevo chịu đựng cuộc vây hãm kéo dài 1.425 ngày — dài nhất trong lịch sử chiến tranh hiện đại. Hòa bình trở lại, cây cầu Stari Most được xây dựng lại từng viên đá, và du khách đã dần dần quay trở lại vùng đất mến khách này."
+  ],
+  "wows": [
+    "Sarajevo đã đăng cai Thế vận hội Mùa đông 1984 — kỳ Thế vận hội Mùa đông duy nhất được tổ chức tại một nước cộng sản trước năm 2022.",
+    "Cầu Stari Most đứng vững suốt 427 năm, bị phá hủy năm 1993, rồi được xây lại và khánh thành vào năm 2004.",
+    "Toàn bộ đường bờ biển Adriatic của Bosnia chỉ dài 20 km — ngắn nhất trong số tất cả các quốc gia châu Âu.",
+    "Rừng nguyên sinh Perućica trong Vườn quốc gia Sutjeska là một trong chỉ hai khu rừng nguyên thủy còn sót lại trên toàn bộ châu Âu.",
+    "Trong cuộc vây hãm, người Sarajevo đã đào một đường hầm bí mật bên dưới sân bay LHQ để chuyển lậu thực phẩm và nhiên liệu vào thành phố.",
+    "Hang Vjetrenica chứa hơn 200 loài sinh vật, nhiều loài trong số đó không tồn tại ở bất kỳ nơi nào khác trên Trái Đất.",
+    "Bosnia nằm trong top 10 thế giới về mức tiêu thụ cà phê và là nơi sáng tạo ra phong cách pha cà phê độc đáo riêng của mình."
+  ],
+  "myths": [
+    {
+      "myth": "Bosnia vẫn còn đang có chiến tranh",
+      "fact": "Chiến tranh đã kết thúc năm 1995 — cách đây 30 năm rồi. Sarajevo và Mostar ngày nay là những thành phố du lịch sôi động với nhiều di sản UNESCO. Gần 2 triệu du khách đã đến thăm vào năm 2024."
+    },
+    {
+      "myth": "Cà phê Bosnia chính là cà phê Thổ Nhĩ Kỳ",
+      "fact": "Người Bosnia khẳng định chúng hoàn toàn khác nhau: không cho đường vào lúc pha, bã cà phê lắng xuống đáy tách, và được nhâm nhi chậm rãi qua viên đường nhúng — một nghi thức hoàn toàn riêng biệt."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Dobar dan",
+      "say": "DOH-bar dahn"
+    },
+    {
+      "en": "Cây cầu cổ",
+      "jp": "Stari most",
+      "say": "STAH-ree most"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ba-hero.jpg",
+      "alt": "Toàn cảnh thành phố Sarajevo nằm trong thung lũng bao quanh bởi những ngọn đồi xanh",
+      "caption": "SARAJEVO — thủ đô trải rộng trong thung lũng bao quanh bởi rừng xanh",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ba-landmark.jpg",
+      "alt": "Cây cầu vòm đá Stari Most nổi tiếng bắc qua dòng sông Neretva xanh biếc ở Mostar",
+      "caption": "STARI MOST — cây cầu thế kỷ 16 được xây dựng lại, vòm cầu nhịp qua sông Neretva",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ba-animalA.jpg",
+      "alt": "Một con gấu nâu lớn đứng giữa khung cảnh rừng tự nhiên",
+      "caption": "GẤU NÂU — khoảng 1.000 con đang sống trong rừng núi Bosnia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ba-animalB.jpg",
+      "alt": "Một con linh miêu Á-Âu với đôi tai có chùm lông đang nghỉ ngơi trong rừng",
+      "caption": "LINH MIÊU Á-ÂU — loài mèo hoang lớn nhất châu Âu rình mò trong rừng thông Bosnia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

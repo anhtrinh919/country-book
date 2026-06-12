@@ -1,0 +1,163 @@
+{
+  "name": "CỘNG HÒA TRUNG PHI",
+  "nativeName": "CF",
+  "romaji": "CENTRAFRIQUE",
+  "tagline": "Trái tim của lục địa",
+  "region": "Trung Phi",
+  "coords": "7°N, 21°E",
+  "fileNo": "082",
+  "langName": "tiếng Sango",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDC",
+    "dot": "#CBBA9E",
+    "ink": "#271E14",
+    "faint": "#8A7558",
+    "line": "#DDD0B5",
+    "accent": "#003082",
+    "accent2": "#BC0026"
+  },
+  "flag": {
+    "assetPath": "/flags/cf.svg",
+    "title": "Năm sọc và ngôi sao",
+    "note": "Xanh dương, trắng, xanh lá, vàng + dải đỏ",
+    "keyColor": "#003082",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nằm ngay giữa lòng châu Phi, Cộng hòa Trung Phi không có biển — bốn bề đều là đất liền. Phía nam là rừng mưa nhiệt đới rậm rạp như rừng Amazon, phía bắc là thảo nguyên mênh mông nơi sư tử tự do rong ruổi. Voi rừng lặng lẽ bước ra những khoảng trống xanh mướt, người Aka cất tiếng hát bốn bè tuyệt vời mà cả thế giới phải trầm trồ, còn sông Ubangi vẽ một đường biên giới dài suốt phía nam. Và đêm nào ở đây, bầu trời cũng rực rỡ triệu triệu ngôi sao — vì không có thành phố lớn nào làm sáng lên cái bóng tối của màn đêm.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bangui",
+      "sub": "Bên bờ sông Ubangi"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,5 triệu người",
+      "sub": "Ước tính LHQ 2025, hơn 80 dân tộc"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung với 5 nước láng giềng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Sango & tiếng Pháp",
+      "sub": "Hầu hết người dân đều nói tiếng Sango"
+    },
+    {
+      "label": "Diện tích",
+      "value": "623.000 km²",
+      "sub": "Rộng hơn cả nước Pháp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Mont Ngaoui",
+      "sub": "1.410 m, gần biên giới Cameroon"
+    }
+  ],
+  "islands": [
+    "Bangui",
+    "Berbérati",
+    "Bambari",
+    "Bossangoa",
+    "Carnot"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Trái tim đập giữa châu Phi",
+    "animals": "Những gã khổng lồ rừng già và thảo nguyên",
+    "culture": "Âm nhạc, mặt nạ và 80 dân tộc",
+    "history": "Hoàng đế và ngày độc lập",
+    "wows": "Bảy điều bất ngờ kỳ thú"
+  },
+  "geo": [
+    "Cộng hòa Trung Phi nằm trên một cao nguyên rộng lớn, trung bình cao khoảng 600 m so với mặt biển — tương đương một dãy đồi lớn trải dài khắp đất nước. Phía nam là rừng mưa Congo xanh thẳm tràn đầy sức sống, phía bắc chuyển dần thành thảo nguyên trải rộng về hướng sa mạc Sahel. Điều kỳ lạ nhất: những con sông chảy từ cùng một ngọn đồi lại rẽ hai hướng khác nhau — một bên đổ vào sông Congo, một bên chảy về phía sông Nile xa xôi.",
+    "Sông Ubangi hùng vĩ chạy dọc suốt biên giới phía nam, ngăn cách Trung Phi với nước Cộng hòa Dân chủ Congo bằng dòng nước nâu đỏ rộng mênh mông. Phía tây, dãy núi Karre vươn lên với đỉnh Mont Ngaoui cao 1.410 m — nóc nhà đá granit của cả đất nước."
+  ],
+  "animals": [
+    "Những khu rừng phía nam là nơi trú ẩn của voi rừng đang cực kỳ nguy cấp, khỉ đột đồng bằng phía tây, và tinh tinh. Linh dương Bongo — với bộ lông đỏ nâu đẹp như gỗ quý điểm những sọc trắng — là loài linh dương rừng lớn nhất thế giới, lặng lẽ di chuyển qua những cánh rừng Dzanga-Sangha như những bóng ma.",
+    "Ở phía bắc, sư tử, báo hoa và những đàn trâu khổng lồ lang thang trên những cánh rừng thưa. Cả nước có tới 772 loài chim và 209 loài thú có vú. Dzanga Bai là một khoảng trống giữa rừng kỳ diệu, nơi hàng chục con voi rừng tụ về mỗi ngày để liếm khoáng chất từ đất bùn."
+  ],
+  "culture": [
+    "Hơn 80 dân tộc cùng sinh sống trên mảnh đất này, mỗi dân tộc có ngôn ngữ và phong tục riêng. Người Aka ở các khu rừng phía tây nam nổi tiếng toàn thế giới với lối hát đa thanh bốn bè cực kỳ phức tạp — những giai điệu đan xen nhau mà mỗi đứa trẻ học ngay từ khi lọt lòng, và đã được UNESCO công nhận là di sản văn hóa thế giới.",
+    "Người Gbaya, Banda và Mandjia tổ chức những lễ hội mặt nạ rực rỡ với tiếng trống vang vọng hàng cây số. Ngôn ngữ quốc gia Sango — một ngôn ngữ lai sinh ra từ hoạt động buôn bán trên sông ngòi — là sợi chỉ kết nối tất cả các dân tộc lại với nhau trong cuộc sống hàng ngày."
+  ],
+  "history": [
+    "Con người đã sống trên mảnh đất này ít nhất 8.000 năm — những công cụ đá mài nhẵn vẫn còn là bằng chứng. Pháp đặt tên thuộc địa là Ubangi-Shari theo tên hai con sông lớn. Ngày độc lập là 13 tháng 8 năm 1960, do nhà lãnh đạo tầm nhìn Barthélémy Boganda dẫn dắt — nhưng ông đã mất trong một vụ tai nạn máy bay bí ẩn ngay năm trước đó.",
+    "Năm 1977, tướng quân Jean-Bédel Bokassa tự phong mình là Hoàng đế Bokassa I trong một buổi lễ trị giá 200 triệu đô la, bắt chước lễ đăng quang của Napoleon. Pháp lặng lẽ phế truất ông ta hai năm sau. Từ đó đến nay, đất nước từng bước hướng đến nền dân chủ ổn định hơn."
+  ],
+  "wows": [
+    "Trung Phi gần như không có ô nhiễm ánh sáng — Dải Ngân Hà rực sáng như đường đường rắc đường trên bầu trời mỗi đêm quang.",
+    "Khoảng trống Dzanga Bai có thể thu hút tới 100 con voi rừng tụ về trong một buổi chiều.",
+    "Lối hát đa thanh của người Aka phức tạp đến mức các nhà âm nhạc học mất nhiều năm mới giải mã được, vậy mà trẻ em địa phương hát tự nhiên từ nhỏ.",
+    "Nước mưa rơi xuống cùng một ngọn đồi nhưng có thể chảy về hai hướng — một phía đến sông Congo, một phía về sông Nile.",
+    "Trung Phi có kim cương chất lượng cao nhưng lại không có biển — mỗi viên kim cương phải đi hàng trăm km đường bộ mới đến được cảng.",
+    "Trung Phi là quốc gia gần nhất với điểm trung tâm địa lý của toàn bộ lục địa châu Phi.",
+    "772 loài chim được ghi nhận ở Trung Phi nhiều hơn tổng số tất cả các loài chim trên toàn châu Âu."
+  ],
+  "myths": [
+    {
+      "myth": "Trung Phi toàn rừng rậm và nghèo khó",
+      "fact": "Phía bắc là thảo nguyên rộng lớn có sư tử tự do dạo bước, còn lòng đất chứa kim cương, vàng và uranium khổng lồ — nguồn tài nguyên thiên nhiên không kém bất kỳ quốc gia nổi tiếng nào."
+    },
+    {
+      "myth": "Đây là đất nước nhỏ bé bị lãng quên",
+      "fact": "Với 623.000 km², Trung Phi rộng hơn cả nước Pháp và có chung biên giới với sáu quốc gia, nằm ngay trung tâm địa lý của châu Phi."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bara mo",
+      "say": "BAH-rah moh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Singîla",
+      "say": "sin-GEE-lah"
+    },
+    {
+      "en": "Có",
+      "jp": "Ën",
+      "say": "uhn"
+    },
+    {
+      "en": "Không",
+      "jp": "Ën ën",
+      "say": "uhn-UHN"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Na peko",
+      "say": "nah PAY-koh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cf-hero.jpg",
+      "alt": "Cảnh đường phố trung tâm thành phố Bangui",
+      "caption": "BANGUI — thủ đô bên bờ sông, cửa ngõ của cả đất nước",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cf-landmark.jpg",
+      "alt": "Đám đông trước Nhà thờ Đức Bà ở Bangui",
+      "caption": "NHÀ THỜ ĐỨC BÀ, BANGUI — biểu tượng nổi bật của thủ đô",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cf-animalA.jpg",
+      "alt": "Voi rừng tại khoảng trống Dzanga Bai",
+      "caption": "VOI RỪNG tại Dzanga Bai — nơi tụ họp kỳ diệu giữa đại ngàn",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cf-animalB.jpg",
+      "alt": "Linh dương Bongo với bộ lông đỏ nâu và các sọc trắng",
+      "caption": "LINH DƯƠNG BONGO — gã khổng lồ có sọc của rừng già, nhút nhát và hiếm khi được nhìn thấy",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

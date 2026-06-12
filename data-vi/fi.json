@@ -1,0 +1,163 @@
+{
+  "name": "PHẦN LAN",
+  "nativeName": "FI",
+  "romaji": "SUOMI",
+  "tagline": "Xứ sở hồ nước và ánh sáng",
+  "region": "Bắc Âu",
+  "coords": "64°N, 26°E",
+  "fileNo": "042",
+  "langName": "tiếng Phần Lan",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EFF4F0",
+    "dot": "#c5d4c8",
+    "ink": "#1e2820",
+    "faint": "#7a9080",
+    "line": "#d4e0d6",
+    "accent": "#003580",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/fi.svg",
+    "title": "Quốc kỳ Phần Lan",
+    "note": "Nền trắng với hình thập tự Bắc Âu màu xanh dương",
+    "keyColor": "#003580",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Phần Lan nằm ở phía bắc châu Âu — nơi những đêm đông lạnh giá bừng sáng với dải cực quang xanh rực rỡ, còn mùa hè thì mặt trời gần như không chịu lặn. Đất nước này có tới khoảng 188.000 cái hồ và rừng thông xanh ngắt chạy dài bất tận. Người Phần Lan cũng chính là những người phát minh ra phòng xông hơi sauna — mỗi tuần cả gia đình xông hơi nóng rồi nhảy xuống hồ băng lạnh buốt, vui như Tết!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Helsinki",
+      "sub": "Dân số ~684.000 người, nằm bên bờ biển Baltic"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,6 triệu người",
+      "sub": "Ước tính 2025; một trong những nước thưa dân nhất EU"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng đồng tiền chung châu Âu từ năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Phần Lan",
+      "sub": "Cùng với tiếng Thụy Điển; nổi tiếng khó học"
+    },
+    {
+      "label": "Diện tích",
+      "value": "338.145 km²",
+      "sub": "Lớn hơn nước Đức; phần lớn là rừng"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Halti 1.324 m",
+      "sub": "Vùng Bắc Cực Lapland, giáp biên giới Na Uy"
+    }
+  ],
+  "islands": [
+    "Lapland",
+    "Tampere",
+    "Turku",
+    "Helsinki",
+    "Oulu"
+  ],
+  "islandsLabel": "CÁC VÙNG VÀ THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Rừng thông, hồ nước mênh mông",
+    "animals": "Thú hoang vùng Bắc Cực",
+    "culture": "Sauna, im lặng và ông già Noel",
+    "history": "Từ vùng đất phụ thuộc đến tiên phong thế giới",
+    "wows": "Ủa, thật không vậy?!"
+  },
+  "geo": [
+    "Phần Lan bằng phẳng và phủ đầy rừng đến mức leo lên một ngọn đồi đã là điều thú vị. Khoảng 75% diện tích là rừng thông và vân sam — nhiều hơn bất kỳ nước nào ở châu Âu. Bờ biển phía nam lốm đốm hàng nghìn hòn đảo đá nhỏ, còn mùa đông thì cả nước phủ trắng tuyết, nhiệt độ miền bắc có thể xuống dưới âm 30 độ C.",
+    "Vùng Lapland ở cực bắc, trên vòng Bắc Cực, có những tuần giữa đông mặt trời không mọc suốt ngày. Nhưng đúng vùng đó mùa hè lại có hiện tượng mặt trời lúc nửa đêm — mặt trời lượn sát đường chân trời mà không chịu lặn xuống."
+  ],
+  "animals": [
+    "Rừng Phần Lan là nhà của khoảng 2.000 con gấu nâu gần biên giới Nga, cùng với chồn wolverine, mèo rừng lynx và sói. Gấu nâu là quốc thú của Phần Lan, được tôn kính trong thần thoại cổ đại như một linh hồn rừng vĩ đại.",
+    "Thiên nga whooper là quốc điểu của Phần Lan, làm tổ trên những hồ nước yên tĩnh. Nai sừng tấm nhiều đến mức biển báo đường phải nhắc lái xe đề phòng! Ở Lapland, khoảng 200.000 con tuần lộc đi lang thang tự do, được chăn dắt bởi người Sámi bản địa."
+  ],
+  "culture": [
+    "Văn hóa Phần Lan coi trọng sự yên lặng, thành thật và tinh thần 'sisu' — cái kiên gan bền chí giúp người ta vượt qua mọi gian khó. Sauna là điều thiêng liêng: Phần Lan có khoảng ba triệu phòng sauna cho 5,6 triệu người dân. Bàn chuyện làm ăn hay kết bạn thân thiết đều có thể diễn ra trong làn hơi nóng đó.",
+    "Phần Lan cho thế giới game Angry Birds và hệ điều hành Linux. Ngôi làng chính thức của ông già Noel nằm ngay trên đường vòng Bắc Cực ở Rovaniemi. Âm nhạc dân gian chơi trên đàn kantele kể lại những câu chuyện từ sử thi Kalevala nổi tiếng."
+  ],
+  "history": [
+    "Thụy Điển cai trị Phần Lan suốt khoảng 600 năm, để lại ngôn ngữ và những nhà thờ Luther. Năm 1809, Nga chiếm lấy, biến Phần Lan thành Đại Công quốc tự trị. Bản sắc văn hóa Phần Lan âm thầm lớn mạnh, được thổi bùng bởi sử thi Kalevala xuất bản năm 1835.",
+    "Phần Lan tuyên bố độc lập ngày 6 tháng 12 năm 1917. Năm 1940, Liên Xô tấn công; Phần Lan chiến đấu kiên cường trong Chiến tranh Mùa Đông, cầm cự trước lực lượng đông gấp bội. Ngày nay Phần Lan là một trong những quốc gia hạnh phúc nhất thế giới và gia nhập NATO vào tháng 4 năm 2023."
+  ],
+  "wows": [
+    "Phần Lan được Liên Hợp Quốc xếp hạng quốc gia hạnh phúc nhất thế giới tám năm liền.",
+    "Với 188.000 cái hồ, bạn đứng ở hầu hết mọi nơi tại Phần Lan đều thấy nước gần đó.",
+    "Tiếng Phần Lan là một trong số ít ngôn ngữ châu Âu không có liên hệ gì với tiếng Latin, Hy Lạp hay tiếng Đức.",
+    "Năm 1906, Phần Lan là nước đầu tiên trên thế giới cho phụ nữ đi bầu cử.",
+    "Truyền thống sauna ở Phần Lan được cho là đã có hàng nghìn năm tuổi, trước cả khi tiếng Phần Lan có chữ viết.",
+    "Ngôi nhà chính thức của ông già Noel là ở Rovaniemi, Phần Lan, ngay trên đường vòng Bắc Cực.",
+    "Người Sámi di chuyển khoảng 200.000 con tuần lộc qua vùng Lapland theo những tuyến đường được vạch ra từ hàng thế kỷ trước."
+  ],
+  "myths": [
+    {
+      "myth": "Phần Lan lúc nào cũng tối tăm và lạnh cóng",
+      "fact": "Mùa hè miền nam Phần Lan lên tới 25 độ C với ngày dài gần như vô tận; Helsinki có số giờ nắng tháng 7 ngang bằng London đấy!"
+    },
+    {
+      "myth": "Người Phần Lan lạnh lùng và khó gần",
+      "fact": "Người Phần Lan trân trọng sự yên lặng và không gian riêng tư, nhưng một khi đã tin tưởng thì họ là những người bạn trung thành và chủ nhà hào phóng nhất — sisu cũng có nghĩa là tấm lòng ấm áp."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hei",
+      "say": "hay"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Kiitos",
+      "say": "kee-toss"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ole hyvä",
+      "say": "oh-leh hoo-va"
+    },
+    {
+      "en": "Phòng xông hơi",
+      "jp": "Sauna",
+      "say": "sow-nah"
+    },
+    {
+      "en": "Hồ nước",
+      "jp": "Järvi",
+      "say": "yar-vee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fi-hero.jpg",
+      "alt": "Quảng trường Thượng viện Helsinki với nhà thờ trắng giữa tuyết mùa đông",
+      "caption": "QUẢNG TRƯỜNG THƯỢNG VIỆN HELSINKI — trung tâm tân cổ điển của thủ đô Phần Lan vào mùa đông",
+      "credit": "Wikimedia Commons / panoramio"
+    },
+    "landmark": {
+      "src": "/photos/fi-landmark.jpg",
+      "alt": "Cột mốc đường vòng Bắc Cực tại Rovaniemi, Lapland, Phần Lan",
+      "caption": "CỘT MỐC ĐƯỜNG VÒNG BẮC CỰC — Rovaniemi, quê hương chính thức của ông già Noel tại Lapland",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/fi-animalA.jpg",
+      "alt": "Gấu nâu trong rừng Phần Lan",
+      "caption": "GẤU NÂU — quốc thú Phần Lan đang dạo bước trong rừng taiga phía đông",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/fi-animalB.jpg",
+      "alt": "Thiên nga whooper trên hồ nước Phần Lan",
+      "caption": "THIÊN NGA WHOOPER — quốc điểu Phần Lan làm tổ trên một trong 188.000 hồ nước",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

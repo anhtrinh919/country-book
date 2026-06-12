@@ -1,0 +1,163 @@
+{
+  "name": "KYRGYZSTAN",
+  "nativeName": "КР",
+  "romaji": "KYRGYZSTAN",
+  "tagline": "Đất của đại bàng và bầu trời",
+  "region": "Trung Á",
+  "coords": "41.2°N, 74.7°E",
+  "fileNo": "KG",
+  "langName": "tiếng Kyrgyz",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C9BA9B",
+    "ink": "#1E1A15",
+    "faint": "#7D7055",
+    "line": "#DDD0B0",
+    "accent": "#E8102A",
+    "accent2": "#FFD700"
+  },
+  "flag": {
+    "assetPath": "/flags/kg.svg",
+    "title": "Quốc kỳ Kyrgyzstan",
+    "note": "Nền đỏ, mặt trời vàng với hình vương miện lều yurt ở giữa",
+    "keyColor": "#E8102A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kyrgyzstan là một đất nước nhỏ bé nằm sâu trong lòng châu Á, gần như hoàn toàn bao phủ bởi núi non hùng vĩ. Những đỉnh tuyết trắng kéo dài đến tận chân trời, trong khi những người du mục vẫn phi ngựa qua những thung lũng cỏ xanh bát ngát — y chang như tổ tiên họ đã làm từ ngàn năm trước. Đây là một trong những phong cảnh kỳ vĩ nhất trái đất mà ít ai biết đến.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bishkek",
+      "sub": "Thành phố lớn nhất; khoảng 1,2 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "7,2 triệu người",
+      "sub": "Ước tính 2024 — phần lớn là người Kyrgyz"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Som (KGS)",
+      "sub": "1 USD ≈ 87 som (2024)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Kyrgyz / Nga",
+      "sub": "Cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "199.951 km²",
+      "sub": "Nhỉnh hơn diện tích Việt Nam một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "7.439 m",
+      "sub": "Đỉnh Jengish Chokusu, giáp biên giới Trung Quốc"
+    }
+  ],
+  "islands": [
+    "Bishkek",
+    "Osh",
+    "Jalal-Abad",
+    "Karakol",
+    "Naryn"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, hồ xanh & bầu trời",
+    "animals": "Đại bàng, ngựa & báo tuyết",
+    "culture": "Lều yurt, thảm nỉ & sử thi bất hủ",
+    "history": "Du mục, Con đường Tơ lụa & tự do",
+    "wows": "Bảy điều bất ngờ"
+  },
+  "geo": [
+    "Hơn 90% lãnh thổ Kyrgyzstan là núi — chủ yếu là dãy Thiên Sơn hùng vĩ, có nghĩa là \"Núi Trời\". Những thung lũng giữa các đỉnh núi đầy cỏ xanh vào mùa hè, nơi các gia đình dựng lều yurt tròn bằng nỉ — đúng như cách tổ tiên họ đã sống suốt nghìn năm qua.",
+    "Viên ngọc quý của đất nước là hồ Issyk-Kul — hồ núi lớn thứ hai thế giới. Dù nằm trên độ cao hàng nghìn mét, hồ này không bao giờ đóng băng vào mùa đông vì muối khoáng tự nhiên trong nước giữ ấm như thuốc chống đóng băng. Những ngày nắng đẹp, bạn có thể nhìn thấy các đỉnh tuyết phản chiếu lung linh trên mặt hồ xanh biếc."
+  ],
+  "animals": [
+    "Báo tuyết lặng lẽ ẩn mình trên những đỉnh núi cao của Kyrgyzstan — khoảng 550 con đang sống tại đây, biến nơi này trở thành một trong những nơi bảo vệ loài báo tuyết tốt nhất thế giới. Đại bàng vàng được những người thợ săn tài ba thuần hóa từ khi còn là chim non — truyền thống hơn 2.000 năm tuổi này vẫn được duy trì đến tận ngày nay.",
+    "Ngựa Przewalski hoang dã từng tung vó trên những thảo nguyên này; và ngựa nhà vẫn là trung tâm của cuộc sống người Kyrgyz. Đồ uống dân tộc là kumiss — sữa ngựa lên men có vị chua nhẹ. Ngoài ra còn có cừu Marco Polo — loài cừu hoang lớn nhất thế giới — gặm cỏ trên cao nguyên Pamir."
+  ],
+  "culture": [
+    "Văn hóa Kyrgyz xoay quanh chiếc lều yurt — ngôi nhà di động bằng nỉ có thể dựng lên trong chưa đầy một tiếng. Lá cờ quốc gia in hình nhìn từ trên xuống của nóc lều yurt (tunduk) bên trong vầng mặt trời vàng. Nghề làm nỉ thủ công truyền thống đã được UNESCO công nhận là di sản văn hóa phi vật thể.",
+    "Sử thi Manas của người Kyrgyz dài gấp 20 lần Iliad và Odyssey của Hy Lạp cộng lại — một kỳ tích văn học đáng kinh ngạc. Những người kể chuyện gọi là manaschi có thể ngâm sử thi hàng giờ đồng hồ hoàn toàn từ trí nhớ. Đại hội Thể thao Du mục Thế giới — tổ chức tại Kyrgyzstan — có nhiều môn thi đấu cổ xưa như kok-boru, trò chơi cưỡi ngựa dùng xác dê làm bóng."
+  ],
+  "history": [
+    "Các bộ tộc Kyrgyz đã rong ruổi khắp Trung Á hơn 2.000 năm. Con đường Tơ lụa huyền thoại từng chạy qua những ngọn núi này, mang theo lụa Trung Hoa và gia vị Ba Tư đến khắp thế giới. Vào thế kỷ 13, đế chế Mông Cổ của Thành Cát Tư Hãn tràn qua khu vực, sáp nhập các bộ lạc Kyrgyz vào lãnh thổ rộng lớn của mình.",
+    "Nga併 nhập Kyrgyzstan vào những năm 1860. Khi Liên Xô sụp đổ năm 1991, Kyrgyzstan tuyên bố độc lập vào ngày 31 tháng 8. Kể từ đó, đất nước này tổ chức bầu cử tương đối tự do và được xem là nền dân chủ cởi mở nhất ở Trung Á."
+  ],
+  "wows": [
+    "Hồ Issyk-Kul không bao giờ đóng băng dù giữa mùa đông — muối khoáng tự nhiên trong nước hoạt động như chất chống đóng băng.",
+    "Sử thi Manas dài hơn 500.000 dòng thơ — bản sử thi dài nhất trên thế giới, dài gấp đôi sử thi dài thứ hai.",
+    "Kyrgyzstan có độ cao trung bình đứng thứ hai thế giới — chỉ sau cao nguyên Tây Tạng của Trung Quốc.",
+    "Những người thợ săn đại bàng thuần hóa chim từ khi còn là chim non — truyền thống 2.000 năm tuổi vẫn sống mãi đến hôm nay.",
+    "Mặt trời trên quốc kỳ có đúng 40 tia — một tia cho mỗi bộ tộc cổ xưa mà anh hùng Manas đã thống nhất lại để lập nên dân tộc Kyrgyz.",
+    "Đại hội Thể thao Du mục Thế giới — phát minh tại đây năm 2014 — là \"Thế vận hội\" của văn hóa cưỡi ngựa du mục.",
+    "Kyrgyzstan đang bảo vệ hơn 550 con báo tuyết — chiếm khoảng 10% toàn bộ quần thể báo tuyết còn lại trên trái đất."
+  ],
+  "myths": [
+    {
+      "myth": "Kyrgyzstan nằm ở Trung Đông",
+      "fact": "Không phải! Đất nước này nằm hoàn toàn ở Trung Á, giáp Trung Quốc ở phía đông và Kazakhstan ở phía bắc — gần Bắc Kinh hơn là gần Tehran."
+    },
+    {
+      "myth": "Người du mục sống trong lều yurt quanh năm",
+      "fact": "Hầu hết người Kyrgyz hiện đại sống trong nhà kiên cố; lều yurt chỉ được dựng theo mùa trên các đồng cỏ núi cao mùa hè và tại các lễ hội."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Саламатсызбы",
+      "say": "sa-la-MAT-seez-bee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Рахмат",
+      "say": "rah-MAHT"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Ооба",
+      "say": "OH-ba"
+    },
+    {
+      "en": "Con ngựa",
+      "jp": "Жылкы",
+      "say": "ZHIL-kuh"
+    },
+    {
+      "en": "Núi",
+      "jp": "Тоо",
+      "say": "TOH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kg-hero.jpg",
+      "alt": "Quảng trường Ala-Too ở trung tâm Bishkek với dãy núi hùng vĩ phía sau",
+      "caption": "QUẢNG TRƯỜNG ALA-TOO — Quảng trường lớn của Bishkek viền bởi những đỉnh tuyết Thiên Sơn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kg-landmark.jpg",
+      "alt": "Toàn cảnh hồ núi Issyk-Kul với dãy núi phủ tuyết bao quanh",
+      "caption": "HỒ ISSYK-KUL — Hồ núi ấm áp của Trung Á được bao bọc bởi những đỉnh tuyết trắng",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kg-animalA.jpg",
+      "alt": "Báo tuyết đang nghỉ ngơi trên tảng đá",
+      "caption": "BÁO TUYẾT — Kyrgyzstan bảo vệ khoảng 550 con mèo núi hiếm quý này",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kg-animalB.jpg",
+      "alt": "Người thợ săn đại bàng Kyrgyz cưỡi ngựa với đại bàng vàng đậu trên cánh tay",
+      "caption": "NGƯỜI THỢ SĂN ĐẠI BÀNG — Một berkutchi cùng con đại bàng vàng thuần dưỡng, truyền thống 2.000 năm tuổi",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

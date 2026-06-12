@@ -1,0 +1,163 @@
+{
+  "name": "HÀ LAN",
+  "nativeName": "NL",
+  "romaji": "NEDERLAND",
+  "tagline": "Vùng đất dưới mặt biển",
+  "region": "Tây Âu",
+  "coords": "52.1N, 5.3E",
+  "fileNo": "047",
+  "langName": "tiếng Hà Lan",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#cfc0a2",
+    "ink": "#272018",
+    "faint": "#7a6e52",
+    "line": "#ddd0b8",
+    "accent": "#AE1C28",
+    "accent2": "#21468B"
+  },
+  "flag": {
+    "assetPath": "/flags/nl.svg",
+    "title": "Driekleur",
+    "note": "Đỏ, trắng và xanh lam — lá cờ ba sọc ngang lâu đời nhất thế giới",
+    "keyColor": "#AE1C28",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hà Lan là đất nước nhỏ bé và bằng phẳng đến kỳ lạ — một phần tư đất nước nằm thấp hơn mặt biển! Trong hàng trăm năm, người Hà Lan đã xây đê khổng lồ để ngăn nước biển, rồi dùng cối xay gió bơm nước ra ngoài. Mỗi mùa xuân, những cánh đồng hoa tulip rực rỡ sắc cam, vàng, đỏ trải dài như tấm thảm khổng lồ. Và ở đây, xe đạp nhiều hơn cả người dân — đó chính là điều làm Hà Lan trở nên đặc biệt nhất!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Amsterdam",
+      "sub": "chính phủ đặt tại: The Hague"
+    },
+    {
+      "label": "Dân số",
+      "value": "18,1 triệu người",
+      "sub": "ước tính 2024, CBS Hà Lan"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "gia nhập khu vực đồng Euro năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Hà Lan",
+      "sub": "tiếng Frisian là ngôn ngữ đồng chính thức ở Friesland"
+    },
+    {
+      "label": "Diện tích",
+      "value": "41.543 km²",
+      "sub": "tổng diện tích bao gồm cả đường thủy"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Vaalserberg",
+      "sub": "322 m, ở cực đông nam"
+    }
+  ],
+  "islands": [
+    "Amsterdam",
+    "Rotterdam",
+    "The Hague",
+    "Utrecht",
+    "Eindhoven"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Vùng đất giành từ biển cả",
+    "animals": "Sinh vật vùng châu thổ",
+    "culture": "Xe đạp, hoa và nghệ thuật",
+    "history": "Những thương nhân của thế giới",
+    "wows": "Bạn có tin không nào?"
+  },
+  "geo": [
+    "Hà Lan bằng phẳng đến mức bạn có thể đạp xe cả ngày mà không leo một con dốc nào. Khoảng một phần tư đất nước là polder — những vùng đất đáy biển cũ đã được người ta đắp đê và bơm cạn nước qua nhiều thế kỷ. Hai con sông lớn Rhine và Maas tỏa rộng thành vùng châu thổ mênh mông trước khi đổ ra Biển Bắc.",
+    "Ở miền nam, những ngọn đồi nhẹ nhàng xuất hiện gần núi Vaalserberg. Bờ biển Wadden Sea là kỳ quan thiên nhiên được UNESCO công nhận — nước biển rút đi rồi lại tràn vào hai lần mỗi ngày, để lại những bãi cát đông đúc chim muông và hải cẩu đang phơi nắng."
+  ],
+  "animals": [
+    "Hàng nghìn con hải cẩu xám tụ tập trên các bãi cát ở Wadden Sea, nằm phơi nắng khi thủy triều rút. Mỗi mùa xuân, cò trắng từ phương xa bay về làm tổ trên mái nhà và trên các cột điện khắp vùng polder, được người dân coi là điềm lành mang theo may mắn.",
+    "Con lửng châu Âu đào hang sống trong những khu rừng ở miền đông, còn những chú ngựa Konik màu xám tro thì thong dong gặm cỏ trong các khu bảo tồn thiên nhiên như Oostvaardersplassen — giống hệt như các loài thú hoang ngày xưa vẫn từng làm."
+  ],
+  "culture": [
+    "Người Hà Lan nổi tiếng vì nói thẳng — họ nói đúng những gì họ nghĩ, điều này khiến khách du lịch ngạc nhiên nhưng thực ra rất tiện. Đạp xe ở đây không phải là thú vui mà là cách sống: 23 triệu chiếc xe đạp cho 18 triệu người, nghĩa là cảnh kẹt xe giờ cao điểm toàn là... xe đạp!",
+    "Ẩm thực Hà Lan ngon và no bụng: bánh stroopwafel kẹp caramel giòn tan, cá trích sống ăn ở hàng vỉa hè, phô mai Gouda bày bán ở chợ trời. Đất nước này còn là quê hương của những danh họa lừng lẫy như Rembrandt, Vermeer và Van Gogh."
+  ],
+  "history": [
+    "Vào thế kỷ 17, người Hà Lan trở thành những thương nhân giàu nhất thế giới. Tàu thuyền của họ vượt biển đến châu Á, châu Phi và châu Mỹ; Amsterdam từng là cảng biển nhộn nhịp nhất hành tinh. Công ty Đông Ấn Hà Lan là công ty đầu tiên trong lịch sử cho phép bất kỳ ai mua cổ phần.",
+    "Trong Thế chiến II, quân Đức chiếm đóng Hà Lan gây ra 'Mùa đông đói kém' năm 1944–45, hàng chục nghìn người chết đói. Sau ngày giải phóng, người Hà Lan xây dựng lại đất nước nhanh chóng, tạo dựng nhà nước phúc lợi hiện đại và trở thành một trong những thành viên sáng lập NATO lẫn Liên minh châu Âu."
+  ],
+  "wows": [
+    "Một phần tư Hà Lan nằm thấp hơn mặt biển — nếu không có đê, Amsterdam sẽ chìm dưới nước!",
+    "Người Hà Lan sở hữu 23 triệu xe đạp cho 18 triệu dân — số xe nhiều hơn số người.",
+    "Hà Lan xuất khẩu hơn một tỷ củ hoa tulip mỗi năm ra các thị trường hoa trên toàn thế giới.",
+    "Sân bay Schiphol được xây trên nền hồ đã bơm cạn, nằm khoảng 3 mét dưới mực nước biển.",
+    "Rotterdam là cảng biển lớn nhất châu Âu, xử lý hơn 400 triệu tấn hàng hóa mỗi năm.",
+    "Hà Lan dẫn đầu toàn châu Âu về mật độ trạm sạc xe điện công cộng tính theo đầu người.",
+    "Có một hòn đảo nhỏ ở vùng biển Caribbean tên Sint Maarten bị chia đôi: một nửa thuộc Hà Lan, một nửa thuộc Pháp — hai quốc gia, một hòn đảo!"
+  ],
+  "myths": [
+    {
+      "myth": "Hà Lan và Holland là một",
+      "fact": "Holland chỉ là tên của hai tỉnh miền tây. Tên đầy đủ của đất nước là Hà Lan (Netherlands) — những vùng như Friesland và Limburg rất khác xa so với 'Holland'."
+    },
+    {
+      "myth": "Cối xay gió vẫn đang bơm nước cho các polder",
+      "fact": "Ngày nay công việc đó do các máy bơm điện hiện đại đảm nhận. Những cối xay gió cổ được bảo tồn như di tích lịch sử; một số vẫn còn xay thóc, nhưng không còn chiếc nào làm nhiệm vụ chống lũ nữa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Dankjewel",
+      "say": "DANK-yuh-vel"
+    },
+    {
+      "en": "Xe đạp",
+      "jp": "Fiets",
+      "say": "feets"
+    },
+    {
+      "en": "Phô mai",
+      "jp": "Kaas",
+      "say": "kahs"
+    },
+    {
+      "en": "Cối xay gió",
+      "jp": "Molen",
+      "say": "MOH-len"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nl-hero.jpg",
+      "alt": "Kênh đào Amsterdam với những ngôi nhà có đầu hồi cổ kính soi bóng xuống mặt nước",
+      "caption": "KÊNH ĐÀO AMSTERDAM — những ngôi nhà đầu hồi thế kỷ 17 phản chiếu trên mặt nước tĩnh lặng",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/nl-landmark.jpg",
+      "alt": "Hàng cối xay gió cổ ở Kinderdijk lúc hoàng hôn",
+      "caption": "CỐI XAY GIÓ KINDERDIJK — 19 cối xay gió xếp thành hàng, Di sản UNESCO",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/nl-animalA.jpg",
+      "alt": "Hải cẩu xám nằm nghỉ trên bãi cát ở Wadden Sea",
+      "caption": "HẢI CẨU XÁM — phơi nắng trên bãi cát Wadden Sea lúc thủy triều rút",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/nl-animalB.jpg",
+      "alt": "Cò trắng đứng trên cánh đồng polder của Hà Lan",
+      "caption": "CÒ TRẮNG — vị khách mùa xuân được chào đón trên những cánh đồng polder",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

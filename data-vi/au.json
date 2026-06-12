@@ -1,0 +1,163 @@
+{
+  "name": "ÚC",
+  "nativeName": "AU",
+  "romaji": "AUSTRALIA",
+  "tagline": "Đất rộng, hồn hoang dã",
+  "region": "Australasia & Châu Đại Dương",
+  "coords": "-25.3, 133.8",
+  "fileNo": "012",
+  "langName": "tiếng Anh kiểu Úc",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#252018",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B5",
+    "accent": "#00387A",
+    "accent2": "#CC2229"
+  },
+  "flag": {
+    "assetPath": "/flags/au.svg",
+    "title": "Quốc kỳ Úc",
+    "note": "Cờ Liên hiệp Anh, Chữ thập phương Nam, Ngôi sao Liên bang",
+    "keyColor": "#00387A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Úc là quốc gia duy nhất trên thế giới chiếm trọn một châu lục — mảnh đất nắng cháy rộng hơn cả châu Âu, nơi kangaroo đông hơn người và nền văn hóa lâu đời nhất hành tinh đã tồn tại suốt 65.000 năm. Từ sa mạc đỏ bỏng đến rạn san hô nhiệt đới, từ bờ biển sóng lớn đến dãy núi tuyết trắng — tất cả đều gói gọn trong một hòn đảo khổng lồ.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Canberra",
+      "sub": "Xây dựng giữa Sydney và Melbourne"
+    },
+    {
+      "label": "Dân số",
+      "value": "26,8 triệu",
+      "sub": "Ước tính ABS, 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "AUD $",
+      "sub": "Đô-la Úc"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Cùng hơn 250 ngôn ngữ thổ dân"
+    },
+    {
+      "label": "Diện tích",
+      "value": "7,69 triệu km²",
+      "sub": "Quốc gia lớn thứ 6 thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Kosciuszko",
+      "sub": "2.228 m, dãy Snowy Mountains"
+    }
+  ],
+  "islands": [
+    "NSW",
+    "Queensland",
+    "W. Australia",
+    "Victoria",
+    "S. Australia"
+  ],
+  "islandsLabel": "CÁC BANG LỚN:",
+  "sections": {
+    "geography": "Đá đỏ và rạn san hô lấp lánh",
+    "animals": "Những loài không nơi nào có",
+    "culture": "Nướng thịt, sóng biển và bụi đỏ",
+    "history": "Từ Giấc mơ Cội nguồn đến Liên bang",
+    "wows": "Thật không thể tin được!"
+  },
+  "geo": [
+    "Úc nằm trên một mảng kiến tạo riêng, là lục địa có người ở bằng phẳng và khô hạn nhất thế giới. Vùng Outback đỏ rực bao la bỏng cháy dưới ánh mặt trời, điểm xuyết bởi Uluru — khối đá sa thạch khổng lồ bùng cháy màu cam khi hoàng hôn buông, cao tới 348 mét.",
+    "Ven rìa lục địa, cảnh vật thay đổi hoàn toàn: rừng mưa nhiệt đới ở Queensland, bãi lướt sóng ở New South Wales, thung lũng rượu vang ở Nam Úc, và dãy Alps tuyết phủ ở phía đông nam. Rạn san hô Great Barrier dài 2.300 km — cấu trúc sống lớn nhất thế giới."
+  ],
+  "animals": [
+    "Úc bị cô lập với phần còn lại của thế giới hàng triệu năm, nên tiến hóa đi theo con đường riêng. Kangaroo ẵm con trong túi bụng; wombat thải phân hình khối vuông; còn thú mỏ vịt — một loài thú có mỏ như vịt, đẻ trứng và dò tìm con mồi bằng điện — khiến các nhà khoa học không tin vào mắt mình.",
+    "Gấu túi koala ngủ 22 tiếng mỗi ngày trên cành cây bạch đàn. Đà điểu emu cao 1,9 mét không biết bay — loài này từng đối đầu với quân đội Úc năm 1932 và chiến thắng. Úc còn nổi tiếng với những sinh vật nguy hiểm bậc nhất: sứa hộp và rắn taipan nội địa — con rắn độc nhất hành tinh."
+  ],
+  "culture": [
+    "Người Úc sống chủ yếu ven biển và coi bãi biển như cái sân sau nhà. Lướt sóng, cricket và bóng bầu dục kiểu Úc gần như là tôn giáo. Cuối tuần nướng thịt ngoài trời — gọi là 'barbie' với xúc xích bò hoặc heo — là nghi lễ quốc dân gần như bất biến.",
+    "Nền văn hóa thổ dân Úc là truyền thống sống lâu đời nhất thế giới, phong phú với những câu chuyện Dreamtime (Giấc mơ Cội nguồn), tranh chấm tay và đàn didgeridoo — nhạc cụ hơi được mối đục rỗng từ bên trong. Còn Vegemite — thứ mứt men bia mặn chát màu đen — chia thế giới làm hai: người yêu thích cuồng nhiệt và người nếm lần đầu kinh hoàng bỏ chạy."
+  ],
+  "history": [
+    "Người thổ dân Úc đặt chân đến đây ít nhất 65.000 năm trước. Họ xây dựng nền văn hóa truyền khẩu phong phú, kỹ thuật đốt rừng theo mùa để canh tác và mạng lưới thương mại trải khắp lục địa — từ rất lâu trước khi người châu Âu biết nơi này tồn tại.",
+    "Đoàn tàu Anh lập thuộc địa lưu đày tại vịnh Sydney năm 1788. Các cơn sốt vàng thúc đẩy dân số tăng nhanh, và ngày 1 tháng 1 năm 1901, sáu thuộc địa hợp nhất thành Khối Thịnh vượng chung Úc — một nền dân chủ đa văn hóa thịnh vượng và là một trong những nơi đáng sống nhất thế giới ngày nay."
+  ],
+  "wows": [
+    "Úc là quốc gia duy nhất trên thế giới chiếm trọn một lục địa — không có bất kỳ đường biên giới đất liền nào.",
+    "Rạn san hô Great Barrier lớn đến mức có thể nhìn thấy bằng mắt thường từ ngoài không gian.",
+    "Trang trại gia súc Anna Creek ở Nam Úc còn rộng hơn cả đất nước Israel.",
+    "Úc có nhiều loài rắn độc hơn bất kỳ quốc gia nào khác trên Trái Đất.",
+    "Văn hóa thổ dân Úc là nền văn hóa sống liên tục lâu đời nhất hành tinh, trên 65.000 năm.",
+    "Năm 1932, quân đội Úc dùng súng máy để tiêu diệt đàn đà điểu emu — và thua cuộc, phải rút lui.",
+    "Canberra được xây dựng riêng để làm thủ đô vì Sydney và Melbourne cứ tranh nhau không ai chịu nhường."
+  ],
+  "myths": [
+    {
+      "myth": "Úc lúc nào cũng nóng và nắng",
+      "fact": "Dãy Snowy Mountains có tuyết rơi dày vào mùa đông; Canberra thường xuyên xuống tới âm 10°C. Vì diện tích quá lớn, Úc có hầu hết mọi vùng khí hậu trên Trái Đất."
+    },
+    {
+      "myth": "Bồn cầu ở Úc xả nước xoáy ngược chiều",
+      "fact": "Lực Coriolis quá yếu để ảnh hưởng đến bồn cầu. Chiều xoáy của nước phụ thuộc vào hình dạng bồn, không phải bạn đang đứng ở bán cầu nào."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "G'day",
+      "say": "guh-DAY"
+    },
+    {
+      "en": "Buổi chiều",
+      "jp": "Arvo",
+      "say": "AH-voh"
+    },
+    {
+      "en": "Bánh quy",
+      "jp": "Biccy",
+      "say": "BIK-ee"
+    },
+    {
+      "en": "Kính mát",
+      "jp": "Sunnies",
+      "say": "SUN-eez"
+    },
+    {
+      "en": "Nướng thịt",
+      "jp": "Barbie",
+      "say": "BAH-bee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/au-hero.jpg",
+      "alt": "Nhà hát Opera Sydney lúc hoàng hôn với cầu cảng phía sau",
+      "caption": "NHÀ HÁT OPERA SYDNEY — mái hình vỏ sò mất 14 năm mới xây xong",
+      "credit": "Adam.J.W.C. / Wikimedia Commons CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/au-landmark.jpg",
+      "alt": "Tảng đá sa thạch Uluru đỏ rực giữa vùng Outback nước Úc",
+      "caption": "ULURU — khối đá sa thạch thiêng bừng đỏ tươi lúc bình minh",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/au-animalA.jpg",
+      "alt": "Kangaroo đỏ với chú kangaroo con nhìn ra từ túi bụng mẹ",
+      "caption": "KANGAROO — chú kangaroo con thò đầu ra từ túi bụng mẹ trên đồng cỏ",
+      "credit": "Geoff Shaw / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/au-animalB.jpg",
+      "alt": "Gấu túi koala bám chặt vào cành cây bạch đàn",
+      "caption": "KOALA — ngủ tới 22 tiếng mỗi ngày trên cành cây bạch đàn",
+      "credit": "David Iliff / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

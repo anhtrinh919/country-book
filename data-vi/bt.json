@@ -1,0 +1,163 @@
+{
+  "name": "BHUTAN",
+  "nativeName": "འབྲུག",
+  "romaji": "DRUK YUL",
+  "tagline": "Vương quốc Rồng Sấm",
+  "region": "Nam Á",
+  "coords": "27.5°N, 90.4°E",
+  "fileNo": "049",
+  "langName": "tiếng Dzongkha",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#1E1A14",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#FF7F00",
+    "accent2": "#E63329"
+  },
+  "flag": {
+    "assetPath": "/flags/bt.svg",
+    "title": "Bhutan",
+    "note": "Rồng Sấm trên nền vàng nghệ và đỏ thẫm",
+    "keyColor": "#FF7F00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bhutan là một vương quốc nhỏ bé ẩn mình trong dãy Himalaya, kẹp giữa Ấn Độ và Trung Quốc. Người dân nơi đây gọi đất nước mình là Druk Yul — Xứ sở Rồng Sấm. Điều kỳ lạ là Bhutan đo sự thành công không bằng tiền bạc mà bằng hạnh phúc. Đất nước này nổi tiếng với những ngôi chùa cheo leo trên vách núi, những dòng sông trong vắt và những đỉnh tuyết cao vút chạm tới mây.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Thimphu",
+      "sub": "Thủ đô cao nhất châu Á"
+    },
+    {
+      "label": "Dân số",
+      "value": "797.000",
+      "sub": "Ước tính 2025, dự báo của LHQ"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Ngultrum",
+      "sub": "Đổi ngang 1:1 với đồng Rupee Ấn Độ"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Dzongkha",
+      "sub": "Cùng khoảng 19 ngôn ngữ địa phương khác"
+    },
+    {
+      "label": "Diện tích",
+      "value": "38.394 km²",
+      "sub": "Xấp xỉ diện tích Thụy Sĩ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "7.570 m",
+      "sub": "Gangkhar Puesum — chưa ai leo lên được"
+    }
+  ],
+  "islands": [
+    "Thimphu",
+    "Paro",
+    "Punakha",
+    "Bumthang",
+    "Trongsa"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, rồng thiêng và không khí trong lành",
+    "animals": "Takin, hổ và gấu trúc đỏ",
+    "culture": "Hạnh phúc, bắn cung và gạo đỏ",
+    "history": "Các vị vua Sấm và những pháo đài cổ",
+    "wows": "7 điều bất ngờ về Bhutan"
+  },
+  "geo": [
+    "Bhutan gần như toàn là núi. Dãy Himalaya xếp chồng lên nhau ở phía bắc với những đỉnh băng cao hơn 7.000 m, trong khi rừng nhiệt đới tươi tốt lại trải dài ở các thung lũng ấm áp phía nam. Ba con sông lớn xé toác những hẻm núi sâu thẳm, được nuôi bằng nước tan từ các sông băng quanh năm.",
+    "Hơn 72% diện tích Bhutan được che phủ bởi rừng cây — đây là một trong những quốc gia có độ che phủ rừng lớn nhất thế giới. Đất nước này hấp thụ nhiều khí CO₂ hơn lượng mình thải ra, nghĩa là Bhutan đang giúp làm mát cả Trái Đất."
+  ],
+  "animals": [
+    "Quốc thú của Bhutan là con takin — một sinh vật lông xù trông như ai đó ghép thân bò với đầu dê lại với nhau. Theo truyền thuyết, một vị thánh Phật giáo đã tạo ra nó từ xương của cả hai con vật trong một bữa tiệc.",
+    "Báo tuyết lặng lẽ săn mồi trên những đỉnh núi cao, còn hổ Bengal đã được camera bẫy ghi hình ở độ cao 4.000 m. Gấu trúc đỏ cuộn tròn trong rừng tre, và hạc cổ đen thiêng liêng bay về thung lũng Phobjikha mỗi mùa đông."
+  ],
+  "culture": [
+    "Bhutan đo sự thịnh vượng bằng Tổng Hạnh Phúc Quốc gia, cân bằng giữa kinh tế, môi trường, văn hóa và cai trị. Bắn cung là môn thể thao dân tộc — các giải đấu là những lễ hội ồn ào với nhạc, múa, và những câu trêu chọc vui nhộn khi đối thủ bắn trượt.",
+    "Đàn ông mặc chiếc áo choàng đến đầu gối gọi là gho; phụ nữ mặc váy dệt thủ công kira. Gạo đỏ và món ema datshi — ớt nấu phô mai — là thức ăn hằng ngày. Những tòa dzong sơn trắng khổng lồ vừa là trụ sở chính quyền vừa là tu viện."
+  ],
+  "history": [
+    "Bhutan được thống nhất vào thế kỷ 17 bởi nhà sư-chiến binh Zhabdrung Ngawang Namgyal, người đã xây dựng những pháo đài dzong để bảo vệ từng thung lũng. Ông còn ban hành luật pháp và quy định trang phục vẫn được tuân theo đến tận ngày nay. Bhutan chưa bao giờ bị thực dân đô hộ.",
+    "Năm 2008, Bhutan chuyển sang chế độ dân chủ lập hiến, dù nhà vua vẫn được yêu kính sâu sắc. Truyền hình và internet chỉ xuất hiện năm 1999. Du lịch mở cửa từ năm 1974 nhưng được giới hạn chặt chẽ để bảo vệ văn hóa và rừng cây."
+  ],
+  "wows": [
+    "Bhutan là quốc gia carbon âm — rừng cây hấp thụ nhiều CO₂ hơn gấp nhiều lần so với lượng cả nước thải ra.",
+    "Gangkhar Puesum là đỉnh núi cao nhất Trái Đất chưa ai leo được; Bhutan cấm leo lên để tôn trọng các vị thần núi.",
+    "Truyền hình và internet chỉ được bật năm 1999 — cả hai ra mắt cùng một ngày, nhân kỷ niệm ngày đăng quang của nhà vua.",
+    "Tổng Hạnh Phúc Quốc gia được ghi thẳng vào Hiến pháp Bhutan như thước đo chính thức của sự tiến bộ.",
+    "Thimphu là thủ đô duy nhất trên thế giới không có đèn giao thông — cảnh sát điều tiết bằng tay ở mọi ngã tư.",
+    "Hổ đã được chụp ảnh ở độ cao 4.000 m — cao hơn hầu hết mọi nơi khác trên Trái Đất.",
+    "Mọi công trình xây dựng ở Bhutan đều phải tuân theo kiến trúc truyền thống theo luật — không có tòa nhà kính cao tầng nào được phép."
+  ],
+  "myths": [
+    {
+      "myth": "Bhutan là đất nước hạnh phúc nhất Trái Đất",
+      "fact": "Tổng Hạnh Phúc Quốc gia (GNH) là công cụ chính sách đo lường sự cân bằng trên bốn trụ cột. Trên bảng xếp hạng Hạnh phúc Thế giới của LHQ — vốn dùng thước đo khác — Bhutan không lọt vào top 90."
+    },
+    {
+      "myth": "Bhutan là một phần của Nepal hay Tây Tạng",
+      "fact": "Bhutan là một vương quốc độc lập với ngôn ngữ, hoàng gia và lịch sử riêng — chưa bao giờ bị Nepal, Tây Tạng hay Trung Quốc cai trị."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Kuzu Zangpo",
+      "say": "KOO-zoo ZANG-po"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Kadrin Chhe",
+      "say": "KAH-drin CHAY"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "Legso",
+      "say": "LEG-so"
+    },
+    {
+      "en": "Cơm",
+      "jp": "Dro",
+      "say": "DRO"
+    },
+    {
+      "en": "Rồng",
+      "jp": "Druk",
+      "say": "DROOK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bt-hero.jpg",
+      "alt": "Tu viện Taktsang bám vào vách đá dựng đứng trên thung lũng Paro",
+      "caption": "TU VIỆN TAKTSANG — 'Tổ Hổ' nằm cheo leo 900 m trên thung lũng Paro",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bt-landmark.jpg",
+      "alt": "Pháo đài-tu viện Punakha Dzong tại ngã ba hai con sông",
+      "caption": "PUNAKHA DZONG — pháo đài-tu viện nơi hai con sông thiêng gặp nhau",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bt-animalA.jpg",
+      "alt": "Con takin lông vàng xù xì tại khu bảo tồn Thimphu",
+      "caption": "TAKIN — quốc thú lông xù của Bhutan, chỉ sống trong dãy Himalaya",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bt-animalB.jpg",
+      "alt": "Những con hạc cổ đen trên vùng đất ngập nước thung lũng Phobjikha",
+      "caption": "HẠC CỔ ĐEN — vị khách thiêng liêng mùa đông của thung lũng Phobjikha",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "PALAU",
+  "nativeName": "Belau",
+  "romaji": "BELAU",
+  "tagline": "Viên ngọc xanh giữa Thái Bình Dương",
+  "region": "Micronesia, Thái Bình Dương",
+  "coords": "7.5°N, 134.6°E",
+  "fileNo": "PW",
+  "langName": "tiếng Palau",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF6F5",
+    "dot": "#C2DCD9",
+    "ink": "#1A2E2C",
+    "faint": "#6E8C8A",
+    "line": "#D4ECEB",
+    "accent": "#0085CA",
+    "accent2": "#FFD100"
+  },
+  "flag": {
+    "assetPath": "/flags/pw.svg",
+    "title": "Quốc kỳ Palau",
+    "note": "Biển xanh, trăng vàng — hòa bình và mùa màng bội thu",
+    "keyColor": "#0085CA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Palau là một quốc đảo bé nhỏ giữa Thái Bình Dương — 340 hòn đảo san hô xanh rờn nằm rải rác trên mặt biển xanh ngọc như những viên đá quý. Rạn san hô ở đây phong phú đến mức người ta gọi là \"Serengeti dưới lòng biển\". Palau chính thức trở thành quốc gia độc lập năm 1994, và kể từ đó, quốc gia nhỏ bé này đã sáng tạo ra nhiều quy tắc bảo vệ đại dương mà cả thế giới học theo.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Ngerulmud",
+      "sub": "Thủ đô ít dân nhất thế giới"
+    },
+    {
+      "label": "Dân số",
+      "value": "~18.000",
+      "sub": "Ước tính 2024, 73% là người Palau bản địa"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Mỹ",
+      "sub": "USD — không có đồng tiền riêng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Palau",
+      "sub": "Và tiếng Anh, cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "459 km²",
+      "sub": "Nhỏ hơn cả đảo Hồng Kông"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "242 m",
+      "sub": "Núi Ngerchelchuus, đảo Babeldaob"
+    }
+  ],
+  "islands": [
+    "Babeldaob",
+    "Koror",
+    "Peleliu",
+    "Angaur",
+    "Kayangel"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo ngọc giữa biển xanh",
+    "animals": "Sứa không ngòi và bò biển hiền lành",
+    "culture": "Nhà kể chuyện và lễ hội trăng tròn",
+    "history": "Từ Tây Ban Nha đến bầu trời tự do",
+    "wows": "Bảy điều kỳ diệu"
+  },
+  "geo": [
+    "Palau tọa lạc ở tây Thái Bình Dương, nằm gần giữa Philippines và Papua New Guinea. 340 hòn đảo của Palau được dựng trên một dãy núi ngầm dưới biển, bao quanh là một trong những rạn san hô giàu có nhất thế giới với hơn 500 loài san hô và 1.300 loài cá — phong phú hơn rất nhiều so với bất kỳ vùng biển nào ở Việt Nam.",
+    "Quần đảo Đá — hàng trăm mỏm đá vôi hình nấm nhô lên từ mặt đầm trong xanh — đã được UNESCO công nhận là Di sản Thế giới vào năm 2012. Ẩn giữa những đảo đó là hơn 50 hồ biển bị cô lập hoàn toàn khỏi đại dương suốt hàng nghìn năm."
+  ],
+  "animals": [
+    "Hồ Sứa trên đảo Eil Malk chứa gần một triệu con sứa vàng đã mất hết ngòi độc sau 12.000 năm tiến hóa tách biệt. Mỗi ngày, chúng di chuyển khắp hồ để đón ánh nắng mặt trời — và bạn hoàn toàn có thể bơi lội giữa hàng triệu con sứa đó mà không sợ bị đốt.",
+    "Những vịnh biển ấm áp của Palau là nơi trú ngụ của một đàn dugong — hay còn gọi là bò biển — hiền lành gặm cỏ biển, một trong những quần thể dugong cô lập nhất Thái Bình Dương. Cá sấu nước mặn (người Palau gọi là ius) ẩn mình trong rừng ngập mặn, con lớn nhất có thể dài tới 4,5 mét."
+  ],
+  "culture": [
+    "Bai là ngôi nhà họp cộng đồng bằng gỗ lớn, mỗi thanh xà đều được chạm khắc và vẽ những câu chuyện thần thoại hay bài học đạo đức. Ngôi bai nguyên bản cuối cùng ở làng Airai đã ít nhất 180 tuổi và vẫn còn đứng vững đến ngày nay.",
+    "Xã hội Palau theo chế độ mẫu hệ — đất đai và danh hiệu tộc họ đều truyền qua dòng mẹ. Trăng tròn được coi là thời điểm tốt lành nhất để đánh cá và tổ chức tiệc lớn, nên mọi sự kiện quan trọng đều được tính toán kỹ lưỡng theo lịch âm."
+  ],
+  "history": [
+    "Con người đã định cư ở Palau ít nhất 3.000 năm trước. Tây Ban Nha chiếm đóng các đảo năm 1885, rồi bán lại cho Đức năm 1899, và Nhật Bản chiếm lấy năm 1914. Trận chiến Peleliu năm 1944 kéo dài 74 ngày khốc liệt — lâu hơn rất nhiều so với dự đoán ban đầu của cả hai phía.",
+    "Sau Thế chiến II, Mỹ quản lý Palau như vùng lãnh thổ ủy trị cuối cùng của Liên Hợp Quốc trên toàn cầu. Palau chính thức trở thành nước cộng hòa độc lập vào ngày 1 tháng 10 năm 1994, ký kết Hiệp ước Liên kết Tự do với Hoa Kỳ."
+  ],
+  "wows": [
+    "Ngerulmud là thủ đô quốc gia ít dân nhất thế giới — nơi đây không có dân thường cư trú cố định.",
+    "Năm 2009, Palau lập ra khu bảo tồn cá mập quốc gia đầu tiên trên Trái Đất, bảo vệ hơn 135 loài trên diện tích 600.000 km².",
+    "Từ năm 2020, Palau là quốc gia đầu tiên cấm các hóa chất trong kem chống nắng đã được chứng minh là gây hại cho san hô.",
+    "Mỗi du khách đến Palau đều phải ký cam kết bảo vệ thiên nhiên — và lời hứa đó được đóng dấu thẳng vào hộ chiếu của họ.",
+    "Con sứa vàng ở Hồ Sứa là một phân loài chỉ tồn tại duy nhất ở đây, không có ở bất kỳ nơi nào khác trên hành tinh.",
+    "Palau đã đóng cửa 80% vùng đặc quyền kinh tế của mình với hoạt động đánh bắt cá — một trong những khu bảo tồn biển lớn nhất thế giới.",
+    "Quần đảo Đá là Di sản Thế giới hỗn hợp UNESCO duy nhất trong toàn bộ khu vực các đảo Thái Bình Dương."
+  ],
+  "myths": [
+    {
+      "myth": "Palau quá nhỏ bé, không thể có tầm ảnh hưởng gì với thế giới",
+      "fact": "Palau đã phát minh ra khu bảo tồn cá mập đầu tiên thế giới, lệnh cấm kem chống nắng gây hại san hô đầu tiên, và một khu bảo tồn biển rộng bằng nước Pháp — những ý tưởng vĩ đại từ một quốc gia chỉ 18.000 người."
+    },
+    {
+      "myth": "Sứa trong Hồ Sứa sẽ đốt bạn nếu bơi vào đó",
+      "fact": "Những con sứa vàng này đã tiến hóa suốt 12.000 năm không có kẻ thù tự nhiên và mất hoàn toàn khả năng đốt. Bơi lội giữa hàng triệu con sứa hoàn toàn vô hại — đây là một trong những trải nghiệm kỳ diệu nhất thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Alii",
+      "say": "ah-LEE"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Sulang",
+      "say": "soo-LANG"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Ungil tutau",
+      "say": "OON-gil too-TAW"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Mechikung",
+      "say": "meh-CHEE-kung"
+    },
+    {
+      "en": "Vâng / Đúng rồi",
+      "jp": "Choi",
+      "say": "choy"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pw-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống quần đảo Đá của Palau — hàng trăm mỏm đá vôi phủ rừng xanh nhô lên giữa đầm phá xanh ngọc",
+      "caption": "QUẦN ĐẢO ĐÁ — những mỏm đá vôi xanh ngắt rải rác khắp đầm phá phía Nam của Palau",
+      "credit": "Luka Peternel / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/pw-landmark.jpg",
+      "alt": "Nhìn từ trên cao xuống khu bảo tồn biển Ngerukewid — Bảy Mươi Đảo ở Palau",
+      "caption": "NGERUKEWID — khu bảo tồn Bảy Mươi Đảo, báu vật biển Di sản Thế giới UNESCO",
+      "credit": "Luka Peternel / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/pw-animalA.jpg",
+      "alt": "Người lặn bơi giữa hàng triệu con sứa vàng trong Hồ Sứa ở Palau",
+      "caption": "HỒ SỨA — người bơi lội giữa những đám mây sứa vàng không ngòi độc",
+      "credit": "Archipelago / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/pw-animalB.jpg",
+      "alt": "Một con dugong bơi nhẹ nhàng dưới nước gần thảm cỏ biển",
+      "caption": "DUGONG — con bò biển hiền lành gặm cỏ biển trong các vịnh yên tĩnh của Palau",
+      "credit": "Julien Willem / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

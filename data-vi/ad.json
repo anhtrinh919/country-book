@@ -1,0 +1,163 @@
+{
+  "name": "ANDORRA",
+  "nativeName": "AD",
+  "romaji": "ANDORRA",
+  "tagline": "Vương quốc nhỏ, núi non hùng vĩ",
+  "region": "Nam Âu",
+  "coords": "42°30′N 1°31′E",
+  "fileNo": "036",
+  "langName": "tiếng Catalan",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BEA8",
+    "ink": "#252018",
+    "faint": "#857560",
+    "line": "#DDD4C0",
+    "accent": "#003DA5",
+    "accent2": "#FEDF00"
+  },
+  "flag": {
+    "assetPath": "/flags/ad.svg",
+    "title": "Quốc kỳ Andorra",
+    "note": "Ba sọc xanh, vàng, đỏ với huy hiệu hoàng gia",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Andorra là một đất nước nhỏ xíu nằm lọt thỏm giữa dãy núi Pyrenees, kẹp giữa Pháp và Tây Ban Nha — lái xe qua hết cả nước chỉ mất 30 phút thôi! Điều đặc biệt nhất là đất nước này có tới hai vị vua cùng trị vì một lúc: Tổng thống Pháp và một Giám mục Tây Ban Nha. Dù bé tí, Andorra thu hút hàng triệu khách mỗi năm đến trượt tuyết và mua sắm, trở thành một trong những nước đón nhiều du khách nhất thế giới so với dân số.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "And. la Vella",
+      "sub": "Thủ đô cao nhất châu Âu, 1.023 m"
+    },
+    {
+      "label": "Dân số",
+      "value": "~89.000",
+      "sub": "Ước tính 2025 — một trong những nước nhỏ nhất châu Âu"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Không thuộc EU nhưng vẫn dùng đồng euro"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Catalan",
+      "sub": "Quốc gia duy nhất dùng tiếng Catalan làm ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "468 km²",
+      "sub": "Nhỏ hơn cả thành phố Đà Lạt"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Coma Pedrosa",
+      "sub": "2.942 m — đỉnh núi Pyrenees có thể leo được"
+    }
+  ],
+  "islands": [
+    "Andorra lV",
+    "Escaldes",
+    "Encamp",
+    "La Massana",
+    "Canillo"
+  ],
+  "islandsLabel": "CÁC GIÁO XỨ CHÍNH:",
+  "sections": {
+    "geography": "Thung lũng chon von giữa trời",
+    "animals": "Thú hoang trên đỉnh núi tuyết",
+    "culture": "Mua sắm, tắm suối và nhà thờ cổ",
+    "history": "Hai vị vua, một đất nước nhỏ",
+    "wows": "Bảy điều khó tin"
+  },
+  "geo": [
+    "Andorra nằm hoàn toàn trong lòng dãy núi Pyrenees, với độ cao trung bình gần 2.000 m — tương đương núi Fansipan của Việt Nam mình! Mỗi thị trấn đều nằm trong một thung lũng do sông suối bào mòn qua hàng nghìn năm, và những sườn núi phủ đầy rừng thông xanh ngắt.",
+    "Hai con sông chính của Andorra chảy xiết qua các hẻm núi hiểm trở rồi đổ sang Tây Ban Nha. Vì núi bao quanh tứ phía, Andorra không có biển, không có cảng, cũng không có sân bay — muốn vào nước này chỉ có thể lái xe qua các đèo núi từ Pháp hoặc Tây Ban Nha."
+  ],
+  "animals": [
+    "Kền kền râu — hay còn gọi là lammergeier — là quốc điểu của Andorra. Sải cánh của nó rộng bằng cả bộ sofa của nhà bạn, và nó có một tài năng độc nhất vô nhị: ăn xương! Nó ngậm xương bay lên cao rồi thả xuống đá để xương vỡ ra, ăn lấy tủy bên trong.",
+    "Con isard — một loài dê núi họ hàng với linh dương chamois — tung tăng trên những sườn núi tuyết ở độ cao tới 3.000 m. Nhanh nhẹn và khéo léo, nó có vệt đen quanh mắt trông như đeo mặt nạ cướp trong truyện tranh vậy. Đại bàng vàng và lợn rừng cũng lang thang trong những cánh rừng bên dưới."
+  ],
+  "culture": [
+    "Người Andorra nói tiếng Catalan — chính là ngôn ngữ của thành phố Barcelona nổi tiếng bên Tây Ban Nha. Khu phố cổ của thủ đô Andorra la Vella có những nhà thờ đá kiểu Romanesque được xây từ gần 900 năm trước, trong đó có nhà thờ Sant Esteve vẫn còn đổ chuông mỗi sáng cho đến ngày nay.",
+    "Mỗi tháng Chín, các giáo xứ tổ chức lễ hội với những điệu dân vũ truyền thống và những hình nộm khổng lồ làm bằng giấy bồi gọi là gegants. Khu tắm suối nước nóng Caldea — hình dáng như một tên lửa thủy tinh lấp lánh — cho phép du khách ngâm mình trong làn nước khoáng thiên nhiên của núi Pyrenees tại khu spa lớn nhất châu Âu."
+  ],
+  "history": [
+    "Năm 1278, một thỏa thuận hòa bình đã chấm dứt cuộc tranh chấp giữa Giám mục thành Urgell và Bá tước xứ Foix: thay vì một người thắng, họ đồng ý cùng nhau chia sẻ quyền cai quản Andorra. Hiệp ước đặc biệt này, gọi là paréage, đã tạo ra một đất nước đồng cai trị tồn tại suốt hơn 700 năm không hề bị xóa bỏ.",
+    "Khi Henri IV lên làm Vua nước Pháp năm 1607, danh hiệu đồng vương tử được truyền cho tất cả các Tổng thống Pháp về sau. Mãi đến năm 1993, Andorra mới có bản Hiến pháp thành văn đầu tiên, được ký bởi Tổng thống Mitterrand và Giám mục thành Urgell."
+  ],
+  "wows": [
+    "Andorra có TỚI HAI nguyên thủ quốc gia — Tổng thống Pháp VÀ một Giám mục Tây Ban Nha cùng làm đồng vương tử.",
+    "Đây là quốc gia duy nhất trên thế giới dùng tiếng Catalan làm ngôn ngữ chính thức duy nhất.",
+    "Thủ đô Andorra la Vella là thủ đô cao nhất toàn châu Âu, tọa lạc ở độ cao 1.023 m so với mực nước biển.",
+    "Andorra không có quân đội và đã sống trong hòa bình hơn 700 năm, nhờ Pháp và Tây Ban Nha bảo vệ.",
+    "Khu trượt tuyết Grandvalira là khu vực trượt tuyết rộng nhất trong toàn bộ dãy núi Pyrenees.",
+    "Andorra chỉ đánh thuế bán hàng 4,5% — rẻ hơn Pháp và Tây Ban Nha từ 20 đến 40%.",
+    "Mỗi năm đất nước bé tí này đón hơn 8 triệu du khách — gần 100 người khách cho mỗi một cư dân!"
+  ],
+  "myths": [
+    {
+      "myth": "Andorra là một phần của Tây Ban Nha hoặc nước Pháp",
+      "fact": "Andorra hoàn toàn độc lập với chính phủ, nghị viện, luật pháp và hộ chiếu riêng, tách biệt với cả hai nước láng giềng từ năm 1278 đến nay."
+    },
+    {
+      "myth": "Muốn đến Andorra phải biết tiếng Pháp",
+      "fact": "Ngôn ngữ chính thức là tiếng Catalan; tiếng Tây Ban Nha cũng được dùng rộng rãi, và hầu hết người bán hàng đều nói được tiếng Anh — tiếng Pháp chỉ đứng hàng thứ ba trong cuộc sống hàng ngày."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gràcies",
+      "say": "GRAH-see-es"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Si us plau",
+      "say": "see oos PLOW"
+    },
+    {
+      "en": "Núi",
+      "jp": "Muntanya",
+      "say": "moon-TAN-ya"
+    },
+    {
+      "en": "Tuyết",
+      "jp": "Neu",
+      "say": "NAY-oo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ad-hero.jpg",
+      "alt": "Toàn cảnh thành phố Andorra la Vella nhìn từ trên cao vào mùa hè",
+      "caption": "ANDORRA LA VELLA — Thủ đô cao nhất châu Âu nằm giữa thung lũng Pyrenees",
+      "credit": "DadaRacer / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ad-landmark.jpg",
+      "alt": "Tháp kính khu spa Caldea tại Escaldes-Engordany, Andorra",
+      "caption": "CALDEA SPA — Tòa tháp kính hình tên lửa, khu tắm suối nóng lớn nhất dãy Pyrenees",
+      "credit": "FrankAndProust / CC0 1.0"
+    },
+    "animalA": {
+      "src": "/photos/ad-animalA.jpg",
+      "alt": "Kền kền râu lammergeier đang bay trên bầu trời núi cao",
+      "caption": "KỀN KỀN RÂU — quốc điểu có tài ném xương xuống đá để ăn tủy",
+      "credit": "Imran Shah / CC BY-SA 2.0"
+    },
+    "animalB": {
+      "src": "/photos/ad-animalB.jpg",
+      "alt": "Dê núi isard trên sườn núi Pyrenees",
+      "caption": "ISARD — dê núi Pyrenees khéo léo, đeo mặt nạ như kẻ cướp trên núi",
+      "credit": "Kitty Terwolbeck / CC BY 2.0"
+    }
+  }
+}

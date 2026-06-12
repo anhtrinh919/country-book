@@ -1,0 +1,163 @@
+{
+  "name": "NIGERIA",
+  "nativeName": "NG",
+  "romaji": "NIGERIA",
+  "tagline": "Người khổng lồ châu Phi",
+  "region": "Tây Phi",
+  "coords": "9.08°N, 8.67°E",
+  "fileNo": "087",
+  "langName": "tiếng Hausa",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBB9A",
+    "ink": "#1E1C18",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#008751",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/ng.svg",
+    "title": "Xanh lá & Trắng",
+    "note": "Hai sọc xanh lá kẹp một sọc trắng ở giữa",
+    "keyColor": "#008751",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nigeria là nước đông dân nhất châu Phi — cứ sáu người châu Phi thì có một người là người Nigeria! Phía nam là rừng nhiệt đới dày đặc, phía bắc là thảo nguyên khô cằn và thành phố cổ Kano hàng nghìn năm tuổi. Nigeria là cái nôi của nhạc Afrobeats, điện ảnh Nollywood nổi tiếng thế giới, và món cơm jollof mà cả châu Phi tranh nhau tự hào là ngon nhất!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Abuja",
+      "sub": "Thành phố được quy hoạch từ đầu, khánh thành năm 1991"
+    },
+    {
+      "label": "Dân số",
+      "value": "~224 triệu người",
+      "sub": "LHQ 2024 — đông dân nhất châu Phi"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Naira ₦",
+      "sub": "100 kobo = 1 naira"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Cùng với tiếng Hausa, Yoruba, Igbo"
+    },
+    {
+      "label": "Diện tích",
+      "value": "923.768 km²",
+      "sub": "Lớn hơn Việt Nam gần 3 lần"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Chappal Waddi",
+      "sub": "2.419 m, bang Taraba"
+    }
+  ],
+  "islands": [
+    "Lagos",
+    "Kano",
+    "Abuja",
+    "P. Harcourt",
+    "Ibadan"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sông ngòi, thảo nguyên & rừng già",
+    "animals": "Muôn thú hoang dã Nigeria",
+    "culture": "Âm nhạc, ẩm thực & 500 ngôn ngữ",
+    "history": "Đế chế, dầu mỏ & độc lập",
+    "wows": "Những điều kỳ lạ về Nigeria"
+  },
+  "geo": [
+    "Nigeria có hai con sông lớn là sông Niger và sông Benue, chúng gặp nhau ở giữa đất nước tạo thành hình chữ Y khổng lồ. Phía nam là rừng mưa nhiệt đới rậm rạp, còn phía bắc là đồng cỏ Sahel khô nóng bỏng rát dưới nắng.",
+    "Ở cực đông bắc, hồ Chad đang dần thu hẹp theo từng năm. Ở phía nam, đồng bằng châu thổ sông Niger trải rộng thành mê cung vô số con lạch và rừng đước — một trong những đồng bằng châu thổ lớn nhất địa cầu."
+  ],
+  "animals": [
+    "Rừng Nigeria là nhà của voi rừng, tinh tinh và loài khỉ đột Cross River cực kỳ hiếm — chưa đến 300 con còn sống sót trong những ngọn đồi sương mù gần biên giới Cameroon. Những chú chim hút mật rực rỡ sắc màu bay chớp loáng qua tán cây.",
+    "Vườn quốc gia Yankari ở bang Bauchi có suối nước nóng thiên nhiên và đàn voi lớn nhất Tây Phi — hơn 350 con tự do dạo bước. Cá sấu sông Nile và bò biển manatee cũng bơi lượn dọc các dòng sông phía dưới."
+  ],
+  "culture": [
+    "Nigeria có hơn 500 ngôn ngữ và 250 dân tộc khác nhau — đông hơn nhiều so với các nước châu Á. Ba nhóm lớn nhất là Hausa-Fulani, Yoruba và Igbo, mỗi nhóm có lễ hội và trang phục riêng. Lễ hội Durbar ở Kano với đoàn kỵ sĩ diễu hành ngựa trắng là cảnh tượng ngoạn mục đến sững sờ.",
+    "Nollywood sản xuất khoảng 2.500 bộ phim mỗi năm — chỉ đứng sau Bollywood của Ấn Độ. Các ngôi sao Afrobeats như Burna Boy lấp đầy sân vận động khắp thế giới. Và người Nigeria sẽ bảo vệ đến cùng rằng cơm jollof của họ ngon nhất châu lục!"
+  ],
+  "history": [
+    "Nền văn minh Nok đã làm ra những tác phẩm điêu khắc đất nung tuyệt đẹp từ 2.000 năm trước. Sau đó, Đế chế Kanem-Bornu và Vương quốc Yoruba của Oyo đều là những nhà nước hùng mạnh từ lâu trước khi người châu Âu đặt chân đến.",
+    "Anh chiếm Nigeria năm 1914, gộp hàng trăm dân tộc vào một lãnh thổ. Nigeria giành độc lập vào ngày 1 tháng 10 năm 1960. Sau cuộc nội chiến (1967–70), nguồn dầu mỏ dồi dào đã biến Lagos thành siêu đô thị 15 triệu dân như ngày nay."
+  ],
+  "wows": [
+    "Nollywood sản xuất nhiều phim hơn cả Hollywood mỗi năm — đây là ngành điện ảnh lớn nhất châu Phi.",
+    "Lagos có hơn 15 triệu dân, lọt vào top 10 thành phố đông dân nhất thế giới — bằng cả Hà Nội và TP.HCM cộng lại!",
+    "Nigeria vừa là nước sản xuất dầu mỏ lớn nhất, vừa có nền kinh tế lớn nhất toàn châu Phi.",
+    "Khỉ đột Cross River hiếm đến mức các nhà khoa học nhận dạng từng con riêng lẻ bằng... dấu vân mũi!",
+    "Tiền kiều hối của người Nigeria ở nước ngoài gửi về đôi khi còn nhiều hơn toàn bộ doanh thu dầu mỏ của cả nước.",
+    "Đồ đồng Benin được đúc cách đây 500 năm ngay tại đây được xếp vào hàng những tác phẩm điêu khắc đỉnh cao nhất lịch sử nhân loại.",
+    "Số người nói tiếng Anh ở Nigeria còn nhiều hơn số người nói tiếng Anh ở... chính nước Anh!"
+  ],
+  "myths": [
+    {
+      "myth": "Nigeria chỉ toàn rừng rậm và nghèo đói",
+      "fact": "Nigeria có ngành công nghệ phát triển sôi động (gọi là Silicon Lagos), tầng lớp trung lưu ngày càng lớn, và những thành phố với tòa nhà chọc trời cùng nhà hàng đẳng cấp quốc tế."
+    },
+    {
+      "myth": "Tất cả người Nigeria đều nói cùng một thứ tiếng",
+      "fact": "Nigeria có hơn 500 ngôn ngữ khác nhau — một đứa trẻ ở Kano và một đứa ở Lagos có khi phải dùng tiếng Anh mới hiểu được nhau!"
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Sannu",
+      "say": "SAH-noo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Na gode",
+      "say": "nah GOH-day"
+    },
+    {
+      "en": "Đồ ăn",
+      "jp": "Abinci",
+      "say": "ah-BIN-chee"
+    },
+    {
+      "en": "Nước uống",
+      "jp": "Ruwa",
+      "say": "ROO-wah"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Maraba",
+      "say": "mah-RAH-bah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ng-hero.jpg",
+      "alt": "Đường chân trời đảo Lagos nhìn từ cầu Carter",
+      "caption": "ĐƯỜNG CHÂN TRỜI LAGOS — siêu đô thị 15 triệu dân của châu Phi rực sáng lúc hoàng hôn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ng-landmark.jpg",
+      "alt": "Khối đá đơn Zuma Rock gần Abuja, Nigeria",
+      "caption": "ZUMA ROCK — tảng đá khổng lồ cao 725 m canh giữ con đường dẫn vào Abuja",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ng-animalA.jpg",
+      "alt": "Khỉ đột Cross River trong rừng",
+      "caption": "KHỈ ĐỘT CROSS RIVER — chưa đến 300 con còn sống ngoài tự nhiên",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ng-animalB.jpg",
+      "alt": "Voi rừng châu Phi trong vùng cây bụi",
+      "caption": "VOI RỪNG — nhỏ hơn và nhút nhát hơn so với họ hàng sống ở thảo nguyên",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

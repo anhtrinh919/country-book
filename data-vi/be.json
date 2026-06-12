@@ -1,0 +1,163 @@
+{
+  "name": "BỈ",
+  "nativeName": "BE",
+  "romaji": "BELGIQUE",
+  "tagline": "Bánh Waffle, Truyện Tranh & Kim Cương",
+  "region": "Tây Âu",
+  "coords": "50.8°N, 4.4°E",
+  "fileNo": "032",
+  "langName": "tiếng Pháp",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F3EFE3",
+    "dot": "#CFC4A8",
+    "ink": "#231F1A",
+    "faint": "#8A7D62",
+    "line": "#DDD3BA",
+    "accent": "#1C1C1C",
+    "accent2": "#C8212C"
+  },
+  "flag": {
+    "assetPath": "/flags/be.svg",
+    "title": "Lá cờ ba sọc nước Bỉ",
+    "note": "Ba sọc dọc màu đen, vàng và đỏ",
+    "keyColor": "#C8212C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nước Bỉ nhỏ bé nhưng đầy bất ngờ — nằm gọn giữa Pháp, Đức và Hà Lan, đất nước này đã phát minh ra chiếc bánh waffle nổi tiếng toàn cầu và khai sinh nền nghệ thuật truyện tranh với nhân vật Tintin. Ở đây có đến ba ngôn ngữ chính thức, và dù diện tích chỉ nhỉnh hơn tỉnh Nghệ An của Việt Nam một chút, Bỉ lại có mật độ lâu đài trên mỗi kilômét vuông cao vào bậc nhất thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Brussels",
+      "sub": "Cũng là trụ sở của Liên minh châu Âu"
+    },
+    {
+      "label": "Dân số",
+      "value": "11,7 triệu người",
+      "sub": "Ước tính 2024 — ít hơn dân số Hà Nội"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng đồng euro từ năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "3 ngôn ngữ chính thức",
+      "sub": "tiếng Pháp, tiếng Hà Lan và tiếng Đức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "30.528 km²",
+      "sub": "Xấp xỉ diện tích tỉnh Nghệ An"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "694 m",
+      "sub": "Signal de Botrange, vùng rừng Ardennes"
+    }
+  ],
+  "islands": [
+    "Brussels",
+    "Antwerp",
+    "Ghent",
+    "Bruges",
+    "Liège"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đồng bằng xanh và rừng già bí ẩn",
+    "animals": "Thú hoang rừng sâu và bờ biển",
+    "culture": "Waffle, truyện tranh và tiếng chuông",
+    "history": "Ngã tư của những đế chế lớn",
+    "wows": "Nước Bỉ sẽ khiến bạn ngạc nhiên!"
+  },
+  "geo": [
+    "Phần lớn nước Bỉ là đồng bằng màu mỡ và những cồn cát trải dọc 67 kilômét bờ biển Bắc Hải. Những dòng sông Meuse và Scheldt chảy ngang dọc khắp đất nước, còn những kênh đào cổ xưa vẫn ngày ngày chở thuyền len lỏi qua lòng các thành phố mang vẻ đẹp thời trung cổ.",
+    "Ở phía nam, rừng Ardennes trải dài với những ngọn đồi nhấp nhô, rừng thông rậm rạp và những hang động sâu hun hút. Đây là nơi cất giữ đỉnh núi cao nhất và khung cảnh hoang sơ nhất của Bỉ — một thế giới hoàn toàn khác biệt so với những thành phố tấp nập ở miền bắc."
+  ],
+  "animals": [
+    "Con cáo đỏ lặng lẽ men theo những cánh rừng Ardennes lúc nhập nhoạng tối, trong khi nhím châu Âu lục lọ tìm mồi trong các khu vườn Bỉ. Cò trắng về làm tổ trên mái nhà thờ vào mùa xuân, còn đàn sáo đen hàng nghìn con xoáy cuộn trên bầu trời Brussels mỗi độ thu sang.",
+    "Ngoài bờ biển, hải cẩu xám nằm dài trên các bãi cát, còn cá heo cảng bơi lội ngay ngoài khơi. Cửa sông Scheldt như một đường cao tốc cho các loài chim di cư — chim mỏ dài, cò mỏ cong và thìa trắng ghé lại đây tiếp sức trên những hành trình vạn dặm."
+  ],
+  "culture": [
+    "Nước Bỉ có ba cộng đồng sống cạnh nhau: người Flemish nói tiếng Hà Lan ở phía bắc, người Walloon nói tiếng Pháp ở phía nam, và một nhóm nhỏ nói tiếng Đức ở phía đông. Nhưng tất cả đều đồng lòng yêu bia, sô-cô-la và bóng đá.",
+    "Truyện tranh Bỉ là niềm tự hào quốc gia: Tintin, Xì Trum và Lucky Luke đều ra đời trên mảnh đất này. Mỗi thị trấn đều có một tháp chuông carillon — một bộ chuông khổng lồ được chơi như đàn phím — ngân vang trên mái nhà mỗi một quý giờ."
+  ],
+  "history": [
+    "Vị trí địa lý đã biến nước Bỉ thành miếng mồi ngon cho mọi đế chế hùng mạnh. Người La Mã, vua Tây Ban Nha, hoàng đế Áo, Napoleon và người Hà Lan lần lượt cai trị vùng đất này trước khi người Bỉ tuyên bố độc lập năm 1830 và tự chọn vua cho mình.",
+    "Hai cuộc Thế chiến đã cày nát đất đai Bỉ. Sau năm 1945, Bỉ góp sức xây dựng một châu Âu mới: Brussels trở thành trụ sở của NATO và Liên minh châu Âu, biến ngã tư lịch sử năm xưa thành thủ phủ của cả một lục địa."
+  ],
+  "wows": [
+    "Nước Bỉ có hơn 1.500 loại bia được đặt tên riêng — nhiều hơn bất kỳ quốc gia nào trên thế giới.",
+    "Thành phố Antwerp xử lý khoảng một nửa số kim cương thô của toàn thế giới mỗi năm.",
+    "Người Bỉ chính là người phát minh ra khoai tây chiên, và họ ăn khoai tây chiên với sốt mayonnaise chứ không phải tương cà.",
+    "Tòa nhà Atomium ở Brussels mô phỏng tinh thể sắt được phóng to 165 tỷ lần, xây dựng năm 1958.",
+    "Nước Bỉ từng sở hữu Congo — một thuộc địa rộng gấp 77 lần diện tích nước Bỉ.",
+    "Cải Brussels đã được trồng gần thủ đô Bỉ từ thế kỷ 13.",
+    "Brussels có 50 bức tranh tường khổng lồ vẽ nhân vật truyện tranh, tạo thành một con đường di sản độc đáo khắp thành phố."
+  ],
+  "myths": [
+    {
+      "myth": "Nước Bỉ không có bản sắc văn hóa riêng",
+      "fact": "Người Bỉ đã tặng cho thế giới Tintin, Xì Trum, kiến trúc Art Nouveau, bia Trappist và cả cây kèn saxophone — do Adolphe Sax người Brussels phát minh năm 1846."
+    },
+    {
+      "myth": "Bánh waffle Bỉ chẳng khác gì bánh waffle thông thường",
+      "fact": "Thực ra có hai loại bánh waffle Bỉ hoàn toàn khác nhau: bánh waffle Brussels giòn rụm hình chữ nhật và bánh waffle Liège ngọt ngào hạt đường ngọc trai — người Bỉ rất nghiêm túc về sự khác biệt này."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Sô-cô-la",
+      "jp": "Chocolat",
+      "say": "sho-ko-LAH"
+    },
+    {
+      "en": "Bánh waffle",
+      "jp": "Gaufre",
+      "say": "GOH-fruh"
+    },
+    {
+      "en": "Chúc mừng!",
+      "jp": "Santé!",
+      "say": "san-TAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/be-hero.jpg",
+      "alt": "Quảng trường Grand Place ở Brussels về đêm với những tòa nhà phường hội mạ vàng rực rỡ",
+      "caption": "GRAND PLACE — quảng trường dát vàng thế kỷ 17, trái tim của thành phố Brussels",
+      "credit": "Wikimedia Commons / Jorge Royan"
+    },
+    "landmark": {
+      "src": "/photos/be-landmark.jpg",
+      "alt": "Lâu đài Gravensteen sừng sững trên kênh đào thành phố Ghent",
+      "caption": "LÂU ĐÀI GRAVENSTEEN — pháo đài thế kỷ 12 đứng trên kênh đào thành phố Ghent",
+      "credit": "Wikimedia Commons / Gzzz"
+    },
+    "animalA": {
+      "src": "/photos/be-animalA.jpg",
+      "alt": "Cáo đỏ nằm nghỉ trong khu rừng Bỉ phủ đầy tuyết trắng",
+      "caption": "CÁO ĐỎ — hình ảnh quen thuộc trong rừng Ardennes ở miền nam nước Bỉ",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    },
+    "animalB": {
+      "src": "/photos/be-animalB.jpg",
+      "alt": "Cò trắng đứng thẳng trên cánh đồng xanh mướt",
+      "caption": "CÒ TRẮNG — về làm tổ trên mái nhà thờ Bỉ mỗi mùa xuân",
+      "credit": "Wikimedia Commons / José Varela"
+    }
+  }
+}

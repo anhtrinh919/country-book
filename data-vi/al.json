@@ -1,0 +1,163 @@
+{
+  "name": "ALBANIA",
+  "nativeName": "AL",
+  "romaji": "SHQIPËRI",
+  "tagline": "Đất nước của loài đại bàng",
+  "region": "Balkan, Đông Nam Âu",
+  "coords": "41°N 20°E",
+  "fileNo": "AL",
+  "langName": "tiếng Albania",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CCBBA4",
+    "ink": "#221E1A",
+    "faint": "#8A7460",
+    "line": "#DACCB8",
+    "accent": "#D21034",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/al.svg",
+    "title": "Quốc kỳ Albania",
+    "note": "Nền đỏ với đại bàng hai đầu màu đen",
+    "keyColor": "#D21034",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Albania là một đất nước nhỏ bên bờ biển Adriatic, nép mình giữa núi non trùng điệp và làn nước xanh ngọc. Tên địa phương của nước này — Shqipëria — có nghĩa là \"Đất nước của loài đại bàng\", và một con đại bàng đen hai đầu oai hùng đang tung cánh trên nền cờ đỏ thắm. Thành quách cổ nghìn năm, khu chợ Ottoman rực rỡ, và những bãi biển ẩn mình trong đất nước chỉ nhỉnh hơn tỉnh Nghệ An một chút.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tirana",
+      "sub": "Dân số khoảng 600.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,4 triệu người",
+      "sub": "Thống kê năm 2023"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Lek (ALL)",
+      "sub": "~95 lek ≈ 1 euro"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Albania",
+      "sub": "Ngữ hệ riêng biệt, độc nhất vô nhị"
+    },
+    {
+      "label": "Diện tích",
+      "value": "28.748 km²",
+      "sub": "Nhỏ hơn Bỉ một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Korab 2.764 m",
+      "sub": "Nằm trên biên giới với Bắc Macedonia"
+    }
+  ],
+  "islands": [
+    "Tirana",
+    "Durrës",
+    "Gjirokastër",
+    "Shkodër",
+    "Vlorë"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, biển xanh & sông hoang dã",
+    "animals": "Đại bàng, gấu nâu & bồ nông khổng lồ",
+    "culture": "Chữ tín, âm nhạc & những ngọn tháp sắc màu",
+    "history": "Từ người Illyria đến ngày độc lập",
+    "wows": "Bạn có biết không?"
+  },
+  "geo": [
+    "Gần như toàn bộ Albania là núi và đồi. Dãy Alps của Albania ở phía bắc hiểm trở đến mức nhiều ngôi làng bị cô lập hoàn toàn trong nhiều thế kỷ. Ba hồ nước tuyệt đẹp — Shkodër, Ohrid và Prespa — lấp lánh dọc theo các vùng biên giới như ba viên ngọc xanh.",
+    "Bờ biển dài 476 km nhìn ra Adriatic và Ionian với những bãi tắm nước xanh ngọc bích mê hồn. Sông Vjosë — một trong những con sông hoang dã cuối cùng ở châu Âu — chảy tự do hoàn toàn, không có lấy một con đập nào. Năm 2023, dòng sông này trở thành Vườn Quốc gia Sông Hoang Dã đầu tiên của cả châu Âu."
+  ],
+  "animals": [
+    "Đại bàng vàng là linh vật quốc gia của Albania và cũng là ngôi sao trên lá cờ. Gấu nâu lang thang khắp vùng cao nguyên phía bắc; sói và linh miêu ẩn náu trong những khu rừng sồi xanh thẫm. Hồ Prespa là nơi sinh sống của đàn bồ nông Dalmatia lớn nhất châu Âu — những con chim có sải cánh rộng hơn chiều cao của một người lớn.",
+    "Bờ biển Ionian là nơi rùa đầu to loggerhead về đẻ trứng mỗi năm. Cá hồi Ohrid chỉ sống duy nhất ở hồ Ohrid và được bảo vệ đặc biệt. Thậm chí mỗi mùa đông, những chú hồng hạc duyên dáng cũng ghé thăm đầm phá Narta."
+  ],
+  "culture": [
+    "Albania sống theo một bộ quy tắc danh dự cổ xưa gọi là Besa — lời nói quan trọng hơn vàng. Âm nhạc truyền thống nổi tiếng với iso-polyphony — nhiều giọng người cùng hòa quyện tạo nên những giai điệu đa âm huyền bí đến nổi da gà; UNESCO công nhận đây là di sản phi vật thể của nhân loại.",
+    "Tirana là một trong những thủ đô rực rỡ nhất châu Âu — một vị thị trưởng đã ra lệnh vẽ bích họa lên toàn bộ những khối nhà cộng sản xám xịt. Bánh byrek (bánh pho mát giòn tan), tavë kosi (thịt cừu nướng với sữa chua) và cà phê espresso đậm đà là những thứ không thể thiếu trong cuộc sống hằng ngày."
+  ],
+  "history": [
+    "Người Illyria đã xây những pháo đài trên đỉnh đồi tại đây từ 2.500 năm trước. Sau thời kỳ của người La Mã và Byzantine, người Ottoman cai trị gần 500 năm kể từ năm 1479. Anh hùng Skanderbeg đã chống lại quân đội Ottoman suốt 25 năm, trở thành nguồn cảm hứng cho cả châu Âu.",
+    "Albania giành độc lập năm 1912. Sau đó, nhà độc tài Enver Hoxha đóng cửa đất nước với thế giới, cấm đạo và cho xây dựng 173.000 lô cốt bê tông khắp nơi. Nhiều lô cốt nay đã thành quán cà phê và bảo tàng. Albania gia nhập NATO năm 2009."
+  ],
+  "wows": [
+    "Albania có mật độ lô cốt dày đặc nhất thế giới — trung bình cứ 14 người lại có một cái.",
+    "Ở Albania, gật đầu nghĩa là KHÔNG và lắc đầu nghĩa là ĐỒNG Ý — ngược hoàn toàn với phần còn lại của thế giới!",
+    "Shqipëria có nghĩa là Đất Nước Đại Bàng — cái tên này chỉ tồn tại trong tiếng Albania, không ngôn ngữ nào khác trên Trái Đất dùng tên này.",
+    "Gjirokastër là thành phố UNESCO nơi mọi mái nhà đều được lợp bằng phiến đá phẳng, không hề có ngói đỏ.",
+    "Hồ Ohrid là một trong những hồ cổ nhất thế giới — hơn 1,3 triệu năm tuổi.",
+    "Albania kết thúc Thế chiến II với số lượng người Do Thái nhiều hơn lúc chiến tranh bắt đầu — vùng đất bị Đức Quốc xã chiếm đóng duy nhất trên thế giới làm được điều này.",
+    "Vùng Alps Albania có những ngôi làng vẫn sống theo bộ luật Kanun 600 năm tuổi cho đến tận ngày nay."
+  ],
+  "myths": [
+    {
+      "myth": "Albania là nơi nguy hiểm để đến du lịch",
+      "fact": "Albania thực ra là một trong những điểm đến an toàn nhất châu Âu. Tội phạm bạo lực rất hiếm và người dân địa phương đón tiếp khách như người thân theo đúng tinh thần Besa."
+    },
+    {
+      "myth": "Tiếng Albania có họ hàng với tiếng Hy Lạp",
+      "fact": "Tiếng Albania là một ngữ hệ hoàn toàn độc lập, bắt nguồn từ tiếng Illyria cổ đại — không liên quan gì đến tiếng Hy Lạp, tiếng Latin hay bất kỳ ngôn ngữ Slav nào."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Mirëdita",
+      "say": "meer-DEE-tah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Faleminderit",
+      "say": "fah-lem-DEER-eet"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ju lutem",
+      "say": "yoo LOO-tem"
+    },
+    {
+      "en": "Đúng vậy",
+      "jp": "Po",
+      "say": "poh"
+    },
+    {
+      "en": "Đại bàng",
+      "jp": "Shqiponjë",
+      "say": "shchee-PON-yuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/al-hero.jpg",
+      "alt": "Toàn cảnh thành phố Tirana với những tòa nhà rực rỡ sắc màu",
+      "caption": "TIRANA — Thủ đô rực rỡ đầy bích họa của Albania nhìn từ trên cao",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/al-landmark.jpg",
+      "alt": "Thành phố Ottoman cổ Berat với những ngôi nhà đá trắng",
+      "caption": "BERAT — Thành phố UNESCO 'Ngàn Cửa Sổ' bên dòng sông Osum",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/al-animalA.jpg",
+      "alt": "Những con bồ nông Dalmatia trên hồ Prespa",
+      "caption": "BỒ NÔNG DALMATIA — loài chim khổng lồ hiếm gặp làm tổ tại hồ Prespa của Albania",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/al-animalB.jpg",
+      "alt": "Đại bàng vàng đang sải cánh bay",
+      "caption": "ĐẠI BÀNG VÀNG — biểu tượng quốc gia Albania, bá chủ bầu trời núi non",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

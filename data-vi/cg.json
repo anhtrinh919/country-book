@@ -1,0 +1,163 @@
+{
+  "name": "CONGO",
+  "nativeName": "CG",
+  "romaji": "KONGO",
+  "tagline": "Trái tim của rừng mưa",
+  "region": "Trung Phi",
+  "coords": "4°S 15°E",
+  "fileNo": "042",
+  "langName": "tiếng Pháp",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F4EFE2",
+    "dot": "#C9B98E",
+    "ink": "#241E16",
+    "faint": "#7E6C44",
+    "line": "#DDD1B0",
+    "accent": "#009543",
+    "accent2": "#DC241F"
+  },
+  "flag": {
+    "assetPath": "/flags/cg.svg",
+    "title": "Xanh lá, Vàng, Đỏ",
+    "note": "Tam sắc kỳ chéo: xanh lá, vàng, đỏ",
+    "keyColor": "#009543",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Congo là vùng đất rừng rậm bốc hơi nghi ngút ở trung tâm châu Phi — cây cối ken dày đến nỗi ánh mặt trời gần như không chui xuống được tới mặt đất. Khỉ đột, voi rừng, và hàng nghìn loài chim sinh sống trong đó. Thủ đô Brazzaville nằm ngay bên bờ sông Congo hùng vĩ, nhìn thẳng sang Kinshasa chỉ cách 4 km: đây là hai thủ đô gần nhau nhất trên toàn thế giới!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Brazzaville",
+      "sub": "Nằm bên bờ sông Congo"
+    },
+    {
+      "label": "Dân số",
+      "value": "6,1 triệu người",
+      "sub": "Ước tính 2024; 67% sống ở đô thị"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung với 5 nước láng giềng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Pháp",
+      "sub": "Lingala & Kituba được nói rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "342.000 km²",
+      "sub": "Lớn hơn nước Đức"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Mont Nabeba",
+      "sub": "1.020 m trong dãy đồi Mayumbe"
+    }
+  ],
+  "islands": [
+    "Brazzaville",
+    "Pointe-Noire",
+    "Dolisie",
+    "Ouesso",
+    "Impfondo"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Vùng đất xanh bốc hơi nóng",
+    "animals": "Những người khổng lồ của rừng",
+    "culture": "Nhịp điệu, sắc màu & rumba",
+    "history": "Vương quốc, sông ngòi & tự do",
+    "wows": "Thật sao — có thật không?!"
+  },
+  "geo": [
+    "Rừng Congo bao phủ khoảng 65% diện tích đất nước — là một phần của khu rừng nhiệt đới lớn thứ hai thế giới. Lưu vực sông Congo thoát nước nhiều hơn bất kỳ con sông nào ngoài sông Amazon.",
+    "Sông Congo tạo thành biên giới phía đông và sâu đến mức cá ở đó đã tiến hóa thành hoàn toàn mù. Về phía tây, dãy Núi Pha Lê vươn lên rồi đổ dốc xuống bờ Đại Tây Dương."
+  ],
+  "animals": [
+    "Khỉ đột đồng bằng phía tây sống sâu trong Vườn quốc gia Odzala-Kokoua — một trong những khu bảo tồn lâu đời nhất châu Phi. Từng nhóm gia đình đi bằng khớp tay qua lùm cây rậm rạp, và du khách có thể ngồi cách một con đực đầu bạc chỉ vài mét.",
+    "Voi rừng nhỏ hơn và tai tròn hơn so với anh em họ hàng ở đồng cỏ. Chúng tạo ra những khoảng trống gọi là bai, nơi hàng chục con tụ lại ở các vũng bùn giàu khoáng chất. Hơn 400 loài chim cùng chia sẻ những không gian hoang dã này."
+  ],
+  "culture": [
+    "Điệu rumba Congo — ra đời từ nhịp trống Bantu, âm nhạc Cuba và khiêu vũ phòng khách Pháp — đã lan rộng khắp thế giới vào những năm 1950 và nay được UNESCO công nhận. Các ban nhạc ở Brazzaville vẫn chơi đến tận khuya.",
+    "Vải pagne (vải in sáp đầy màu sắc) được mặc trong đám cưới, đi lễ nhà thờ và sinh hoạt hàng ngày. Phong trào Sape — những quý ông chưng diện vest nhà thiết kế hào phóng rực rỡ — biến những con phố Brazzaville thành sàn diễn thời trang."
+  ],
+  "history": [
+    "Các dân tộc nói tiếng Bantu đã định cư ở lưu vực Congo hơn 2.000 năm trước. Nhà thám hiểm người Pháp Pierre de Brazza ký hiệp ước với vua Tio năm 1880, và thủ đô được đặt tên theo ông.",
+    "Congo giành độc lập vào ngày 15 tháng 8 năm 1960. Brazzaville đã đi vào lịch sử năm 1944 khi de Gaulle tổ chức hội nghị trọng đại tại đây, mở đầu cho quá trình định hình lại quan hệ giữa Pháp và tất cả các vùng lãnh thổ châu Phi của mình."
+  ],
+  "wows": [
+    "Brazzaville và Kinshasa là hai thủ đô duy nhất trên thế giới đối diện nhau qua một con sông — chỉ cách nhau 4 km.",
+    "Sông Congo sâu đến hơn 220 m — đủ để giấu kín một tòa nhà 20 tầng hoàn toàn dưới nước.",
+    "Các đầm lầy than bùn của Congo lưu trữ khoảng 30 tỷ tấn carbon — tương đương khoảng 3 năm lượng khí thải nhiên liệu hóa thạch của toàn cầu.",
+    "Dầu mỏ chiếm khoảng 89% kim ngạch xuất khẩu của Congo, dù phần lớn đất nước vẫn là rừng mưa nguyên sinh.",
+    "Odzala-Kokoua được bảo vệ từ năm 1935, là một trong những vườn quốc gia lâu đời nhất châu Phi.",
+    "Tuyến đường sắt Congo-Đại Dương mất 13 năm ròng xây dựng bằng tay qua rừng rậm, hoàn thành năm 1934.",
+    "Gần 70% người Congo sống ở thành phố — một trong những tỷ lệ đô thị hóa cao nhất châu Phi dù đất nước rộng lớn hoang vu."
+  ],
+  "myths": [
+    {
+      "myth": "Congo chính là CHND Congo (Kinshasa)",
+      "fact": "Có HAI nước Congo khác nhau. Cộng hòa Congo (Brazzaville) nhỏ hơn và nằm ở phía tây sông; CHND Congo (Kinshasa) lớn hơn nhiều và ở phía đông."
+    },
+    {
+      "myth": "Nơi đây toàn rừng nguy hiểm",
+      "fact": "Congo là một trong những quốc gia đô thị hóa nhất châu Phi — khoảng 70% dân số sống ở thành phố với nhà hàng, sàn nhạc sống động và đại lộ ven sông nhộn nhịp."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Rừng",
+      "jp": "Forêt",
+      "say": "foh-RAY"
+    },
+    {
+      "en": "Sông",
+      "jp": "Fleuve",
+      "say": "FLUHV"
+    },
+    {
+      "en": "Khỉ đột",
+      "jp": "Gorille",
+      "say": "goh-REE-yuh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cg-hero.jpg",
+      "alt": "Tàu hỏa đến ga Brazzaville năm 2018",
+      "caption": "GA BRAZZAVILLE — Tàu Congo-Đại Dương đến nơi sau hai năm gián đoạn, tháng 11/2018",
+      "credit": "Arsène Séverin / Voice of America"
+    },
+    "landmark": {
+      "src": "/photos/cg-landmark.jpg",
+      "alt": "Mặt ngoài Vương cung thánh đường Sainte-Anne-du-Congo ở Brazzaville",
+      "caption": "VƯƠNG CUNG THÁNH ĐƯỜNG SAINTE-ANNE-DU-CONGO — Nhà thờ hai tháp tháp biểu tượng của Brazzaville",
+      "credit": "NGOULOU BATALA Ryddhel / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/cg-animalA.jpg",
+      "alt": "Khỉ đột đồng bằng phía tây tại điểm liếm muối trong Vườn quốc gia Odzala-Kokoua",
+      "caption": "KHỈ ĐỘT ĐỒNG BẰNG PHÍA TÂY — tại khoảng trống bai trong rừng Odzala-Kokoua",
+      "credit": "Ekassa / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/cg-animalB.jpg",
+      "alt": "Voi rừng trong Vườn quốc gia Odzala-Kokoua",
+      "caption": "VOI RỪNG — họ hàng nhỏ hơn, tai tròn hơn của voi đồng cỏ, tại Odzala",
+      "credit": "John P Friel / CC BY 4.0"
+    }
+  }
+}

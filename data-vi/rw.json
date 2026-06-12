@@ -1,0 +1,163 @@
+{
+  "name": "RWANDA",
+  "nativeName": "RW",
+  "romaji": "RWANDA",
+  "tagline": "Đất nước nghìn ngọn đồi",
+  "region": "Đông Phi",
+  "coords": "1.94°S, 29.87°E",
+  "fileNo": "082",
+  "langName": "tiếng Kinyarwanda",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDDF",
+    "dot": "#C9BFA3",
+    "ink": "#1E1C18",
+    "faint": "#7A7055",
+    "line": "#DDD5BC",
+    "accent": "#20AF4F",
+    "accent2": "#1B4FA8"
+  },
+  "flag": {
+    "assetPath": "/flags/rw.svg",
+    "title": "Quốc kỳ Rwanda",
+    "note": "Xanh lam, vàng và xanh lá với mặt trời vàng",
+    "keyColor": "#20AF4F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Rwanda là đất nước nhỏ bé không có biển nằm giữa lòng châu Phi, nhưng dày đặc những ngọn đồi xanh mướt đến mức người ta gọi nơi đây là \"Đất nước nghìn ngọn đồi\". Từ đống tro tàn của thảm kịch năm 1994, Rwanda đã vươn lên trở thành một trong những quốc gia sạch đẹp và an toàn nhất châu Phi — và còn là nơi phụ nữ nắm giữ nhiều ghế trong quốc hội hơn bất kỳ nơi nào trên Trái Đất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kigali",
+      "sub": "dân số khoảng 1,3 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "14,5 triệu",
+      "sub": "ước tính 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc Rwanda",
+      "sub": "RWF (khoảng 1.300 RWF/USD)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Kinyarwanda",
+      "sub": "cùng với tiếng Anh và tiếng Pháp"
+    },
+    {
+      "label": "Diện tích",
+      "value": "26.338 km²",
+      "sub": "nhỏ hơn tỉnh Nghệ An của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Karisimbi",
+      "sub": "4.507 m — một ngọn núi lửa!"
+    }
+  ],
+  "islands": [
+    "Kigali",
+    "Musanze",
+    "Huye",
+    "Rubavu",
+    "Nyagatare"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đồi xanh và núi lửa hùng vĩ",
+    "animals": "Khỉ đột trong sương mù",
+    "culture": "Thủ công, trống và đường phố sạch bóng",
+    "history": "Hồi sinh từ đau thương",
+    "wows": "Khoan đã — Rwanda thật sự làm vậy sao?"
+  },
+  "geo": [
+    "Rwanda nằm ở độ cao rất lớn so với mực nước biển — ngay cả những thung lũng thấp nhất cũng đã ở độ cao khoảng 1.000 m. Cả đất nước như bị nhàu nát thành hàng nghìn dãy đồi ngọc bích, với những con sông nhỏ chảy xuôi về cả lưu vực Congo lẫn lưu vực sông Nile.",
+    "Ở phía bắc, dãy núi lửa Virunga sừng sững như những người khổng lồ đang ngủ, ẩn mình trong rừng mây. Hồ Kivu lấp lánh dọc biên giới phía tây, còn Rừng Nyungwe ở phía nam là một trong những khu rừng nhiệt đới lâu đời nhất châu Phi."
+  ],
+  "animals": [
+    "Ngôi sao của Rwanda chính là khỉ đột núi — loài khổng lồ hiền lành chỉ sống trong rừng Virunga và Bwindi. Toàn thế giới còn chưa đến 1.000 con sống trong tự nhiên, và Rwanda đang bảo vệ khoảng một phần ba số đó trong Vườn quốc gia Volcanoes.",
+    "Rừng Nyungwe là nơi sinh sống của tinh tinh và khỉ colobus đen trắng — những tay leo trèo nhào lộn giữa các ngọn cây trông cực kỳ ngoạn mục. Hơn 700 loài chim đã được ghi nhận trên khắp đất nước, biến Rwanda thành thiên đường của những người yêu chim."
+  ],
+  "culture": [
+    "Người Rwanda tổ chức lễ hội thu hoạch Umuganura vào tháng Tám hằng năm. Âm nhạc và vũ điệu là linh hồn của văn hóa: điệu múa intore với những chiến binh nhảy vút lên cao, đầu đội vương miện làm từ sợi sisal trắng bay phất phới như thác nước.",
+    "Đan rổ là một nghệ thuật quốc gia — những chiếc giỏ hòa bình được đan chặt (agaseke) hiện diện trong các phòng trưng bày khắp thế giới. Vào thứ Bảy cuối cùng của mỗi tháng là ngày Umuganda, ngày lao động cộng đồng, khi tất cả mọi người cùng nhau quét đường và trồng cây."
+  ],
+  "history": [
+    "Hàng thế kỷ qua, Rwanda là một vương quốc hùng mạnh do vua (mwami) cai trị, nổi tiếng với đội quân quy củ và nền văn hóa giàu có với gia súc. Nhưng những kẻ thực dân Bỉ đã vạch ra ranh giới sắc bén giữa các sắc tộc — gieo mầm cho những xung đột khủng khiếp về sau.",
+    "Năm 1994, khoảng 800.000 người đã bị giết chỉ trong 100 ngày. Nhưng người Rwanda đã chọn con đường hòa giải — các tòa án cộng đồng gacaca đã xét xử hơn một triệu vụ án, và đất nước tái thiết với tốc độ và tinh thần đoàn kết đáng kinh ngạc."
+  ],
+  "wows": [
+    "Quốc hội Rwanda có hơn 60% đại biểu là phụ nữ — tỷ lệ cao nhất của bất kỳ nghị viện nào trên thế giới.",
+    "Kigali được bầu chọn là thành phố sạch nhất châu Phi; túi nhựa đã bị cấm từ năm 2008.",
+    "Một vé đi xem khỉ đột trong rừng có giá tới 1.500 USD — khỉ đột là nguồn thu du lịch lớn nhất của Rwanda.",
+    "Rwanda hầu như không có con đường thẳng nào dài hơn 30 km vì đồi núi liên tiếp không ngừng.",
+    "Người Rwanda có một ngày lao động cộng đồng mỗi tháng; ngay cả tổng thống cũng cầm xẻng đi làm.",
+    "Hồ Kivu bên dưới chứa một túi khí methane khổng lồ mà Rwanda đang khai thác để tạo ra điện.",
+    "Dù không có biển, Rwanda vẫn có đội thuyền buồm quốc gia thi đấu ở các giải quốc tế."
+  ],
+  "myths": [
+    {
+      "myth": "Rwanda vẫn còn nguy hiểm và chìm trong chiến tranh",
+      "fact": "Rwanda ngày nay là một trong những quốc gia an toàn nhất châu Phi — đường phố Kigali sạch sẽ và an toàn hơn nhiều thủ đô châu Âu, và lượng khách du lịch liên tục lập kỷ lục mới mỗi năm."
+    },
+    {
+      "myth": "Khỉ đột hung dữ và thường tấn công người",
+      "fact": "Khỉ đột núi thực ra rất nhút nhát và hiền lành; những đàn khỉ đã quen với người trong Vườn quốc gia Volcanoes hầu như bỏ qua du khách, và chưa có khách tham quan nào bị chúng làm bị thương nghiêm trọng."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Muraho",
+      "say": "moo-RAH-hoh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Murakoze",
+      "say": "moo-rah-KOH-zeh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ndakubuza",
+      "say": "ndah-BOO-zah"
+    },
+    {
+      "en": "Vâng",
+      "jp": "Yego",
+      "say": "YEH-goh"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Murakaza",
+      "say": "moo-rah-KAH-zah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/rw-hero.jpg",
+      "alt": "Tháp Kigali City và đường chân trời hiện đại trong ngày quang đãng",
+      "caption": "ĐƯỜNG CHÂN TRỜI KIGALI — thủ đô Rwanda, một trong những thành phố phát triển nhanh nhất châu Phi.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/rw-landmark.jpg",
+      "alt": "Dãy núi lửa Virunga sừng sững trên nền đồi xanh ở Rwanda",
+      "caption": "NÚI LỬA VIRUNGA — năm người khổng lồ đang ngủ canh giữ biên giới phía bắc Rwanda.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/rw-animalA.jpg",
+      "alt": "Khỉ đột núi ngồi bình thản giữa thảm thực vật xanh tươi",
+      "caption": "KHỈ ĐỘT NÚI — Rwanda bảo vệ một phần ba số khỉ đột hoang dã cuối cùng còn lại trên thế giới.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/rw-animalB.jpg",
+      "alt": "Khỉ colobus đen trắng đậu trên cành cây trong rừng nhiệt đới",
+      "caption": "KHỈ COLOBUS — những tay nhào lộn tuyệt vời trên tán rừng nhiệt đới cổ đại của Nyungwe.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "LUXEMBOURG",
+  "nativeName": "LU",
+  "romaji": "LUXEMBOURG",
+  "tagline": "Công quốc bé nhỏ, trái tim vĩ đại",
+  "region": "Tây Âu",
+  "coords": "49.8°N, 6.1°E",
+  "fileNo": "047",
+  "langName": "tiếng Luxembourg",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CDBFA0",
+    "ink": "#28201C",
+    "faint": "#857060",
+    "line": "#DDD0B8",
+    "accent": "#EF3340",
+    "accent2": "#009FE3"
+  },
+  "flag": {
+    "assetPath": "/flags/lu.svg",
+    "title": "Cờ Đại Công Quốc",
+    "note": "Ba sọc ngang: đỏ, trắng và xanh nhạt",
+    "keyColor": "#EF3340",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Luxembourg bé đến mức lái xe từ đầu đến cuối chưa tới một tiếng đồng hồ — vậy mà nước này có tòa lâu đài cổ tích, rừng già sâu thẳm và mức sống thuộc hàng cao nhất thế giới. Nằm gọn giữa Pháp, Bỉ và Đức, đây là một trong số ít Đại Công Quốc còn tồn tại trên Trái Đất. Mỗi sáng, gần một nửa lực lượng lao động ở đây là những người vượt biên giới từ ba nước láng giềng đi làm rồi chiều lại về nhà.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "TP. Luxembourg",
+      "sub": "Cũng là thành phố lớn nhất nước"
+    },
+    {
+      "label": "Dân số",
+      "value": "~680.000",
+      "sub": "Ước tính 2024 — 47% là người nước ngoài"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng đồng tiền chung châu Âu từ năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "3 ngôn ngữ chính thức",
+      "sub": "Tiếng Luxembourg, tiếng Pháp, tiếng Đức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2.586 km²",
+      "sub": "Nhỏ hơn tỉnh Bắc Ninh của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Kneiff 560 m",
+      "sub": "Một ngọn đồi thoai thoải ở vùng Ardennes phía bắc"
+    }
+  ],
+  "islands": [
+    "Ardennes",
+    "Moselle",
+    "Lux. City",
+    "Esch-Alzette",
+    "Müllerthal"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Lâu đài, vách đá & thung lũng sông",
+    "animals": "Lợn rừng & chim vườn nho",
+    "culture": "Ba ngôn ngữ, một đất nước bé nhỏ",
+    "history": "Pháo đài của châu Âu",
+    "wows": "Nước nhỏ, bất ngờ cực lớn"
+  },
+  "geo": [
+    "Vùng Ardennes ở phía bắc Luxembourg đồi núi nhấp nhô, rừng già bạt ngàn, xen kẽ những hẻm đá cát và suối trong vắt. Phía nam dịu dàng hơn hẳn — đồng bằng trù phú và nhiều nắng hơn, người địa phương gọi trìu mến là 'Vùng Đất Tốt Lành'.",
+    "Sông Moselle chảy dọc biên giới phía đông giáp với Đức, hai bên bờ là những vườn nho trải dài trên sườn dốc. Thành phố Luxembourg được xây dựng ngay trên vách đá dựng đứng nhìn xuống hai con sông Alzette và Pétrusse — trông hùng vĩ như trong truyện cổ tích."
+  ],
+  "animals": [
+    "Rừng Ardennes rậm rạp là nhà của hươu đỏ, lợn rừng và rái cá châu Âu nhút nhát. Cò đen quý hiếm làm tổ bên những dòng suối vắng, và hải ly đã trở lại sau hai thế kỷ vắng bóng hoàn toàn.",
+    "Chim bói cá lóe sáng màu xanh điện trên mặt sông Moselle, còn chim cắt nhỏ lượn lờ trên những vườn nho. Dơi móng ngựa lớn trú ngụ sâu trong những hang pháo đài cổ bên dưới thành phố Luxembourg."
+  ],
+  "culture": [
+    "Người Luxembourg chuyển đổi linh hoạt giữa ba ngôn ngữ chính thức: nói tiếng Luxembourg ở nhà, dùng tiếng Pháp cho giấy tờ hành chính, và học tiếng Đức những năm đầu đời. Trẻ em ở đây thành thạo cả ba thứ tiếng trước khi tròn mười tuổi, và tiếng Anh cũng được dùng rộng rãi.",
+    "Món ăn quốc dân là thịt cổ lợn hun khói kèm đậu ván — món ăn ấm bụng mùa đông rất được ưa chuộng. Mỗi năm nước này sản xuất 15 triệu chai rượu vang Moselle, và hội chợ vui Schueberfouer đã mở cửa mỗi mùa thu không gián đoạn từ năm 1340 đến nay."
+  ],
+  "history": [
+    "Pháo đài trên vách đá của Luxembourg từng được mệnh danh là 'Gibraltar phương Bắc'. Xây dựng ròng rã hơn 400 năm, pháo đài này bị tháo dỡ từng viên gạch sau năm 1867 khi các cường quốc tuyên bố Luxembourg là nước trung lập vĩnh viễn.",
+    "Bị chiếm đóng hai lần trong hai cuộc Thế chiến, trận Ardennes khốc liệt năm 1944–45 đã tàn phá những ngọn đồi phía bắc nước này. Sau chiến tranh, Luxembourg trở thành một trong những thành viên sáng lập của tổ chức tiền thân Liên minh châu Âu ngày nay."
+  ],
+  "wows": [
+    "Thành phố Luxembourg là nơi đặt trụ sở ba cơ quan của EU — nhiều hơn bất kỳ thủ đô nào khác ngoài Brussels.",
+    "Luxembourg có GDP bình quân đầu người cao nhất EU — giàu nhất khối trên giấy tờ.",
+    "Gần 47% dân số Luxembourg sinh ra ở nước ngoài — một trong những quốc gia đa quốc tịch nhất thế giới.",
+    "220.000 người đi làm xuyên biên giới từ ba quốc gia láng giềng mỗi ngày làm việc.",
+    "Từ năm 2020, Luxembourg miễn phí toàn bộ xe buýt, tàu hỏa và tàu điện cho tất cả mọi người.",
+    "Mê cung đá cát rêu phong ở Müllerthal được đặt biệt danh là 'Thụy Sĩ thu nhỏ'.",
+    "Đại Công tước Henri là một trong chỉ năm vị đại công tước đang trị vì còn sót lại trên thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Luxembourg chỉ là thiên đường trốn thuế, chẳng có gì để xem",
+      "fact": "Nước này có 3 di sản thế giới UNESCO, những thị trấn trung cổ, hẻm núi ngoạn mục và rượu vang Riesling Moselle tuyệt hảo — phong phú hơn tiếng tăm vẫn có rất nhiều."
+    },
+    {
+      "myth": "Tiếng Luxembourg chỉ là một thứ thổ ngữ của tiếng Đức",
+      "fact": "Tiếng Luxembourg là ngôn ngữ được công nhận đầy đủ, có ngữ pháp riêng và địa vị chính thức — khác biệt với tiếng Đức không kém gì tiếng Hà Lan vậy."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Moien",
+      "say": "MOY-en"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "MAIR-see"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ech glift",
+      "say": "esh GLIFT"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "Jo",
+      "say": "YO"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Äddi",
+      "say": "AH-dee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lu-hero.jpg",
+      "alt": "Toàn cảnh thành phố Luxembourg với phố cổ trên vách đá và khu hiện đại Kirchberg",
+      "caption": "THÀNH PHỐ LUXEMBOURG — pháo đài cổ đại gặp gỡ khu phố EU lấp lánh",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lu-landmark.jpg",
+      "alt": "Lâu đài Vianden sừng sững trên thung lũng sông Our ở Luxembourg",
+      "caption": "LÂU ĐÀI VIANDEN — một trong những pháo đài trung cổ đẹp nhất châu Âu",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lu-animalA.jpg",
+      "alt": "Lợn rừng châu Âu trong lùm cây rừng rậm",
+      "caption": "LỢN RỪNG — khịt khịt lục lọ trong rừng sồi Ardennes của Luxembourg",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lu-animalB.jpg",
+      "alt": "Chim bói cá đậu trên cành cây bên mặt nước",
+      "caption": "CHIM BÓI CÁ — tia sáng rực rỡ như châu báu dọc bờ sông Moselle",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

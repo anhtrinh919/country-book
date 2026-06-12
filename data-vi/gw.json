@@ -1,0 +1,163 @@
+{
+  "name": "GUINEA-BISSAU",
+  "nativeName": "GW",
+  "romaji": "GUINÉ-BISSAU",
+  "tagline": "Đảo, hạt điều và biển hoang dã",
+  "region": "Tây Phi",
+  "coords": "11.8°N, 15.2°W",
+  "fileNo": "074",
+  "langName": "Kiriol",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F3EDD9",
+    "dot": "#C9B98E",
+    "ink": "#252018",
+    "faint": "#7D6E48",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#009E60"
+  },
+  "flag": {
+    "assetPath": "/flags/gw.svg",
+    "title": "Cờ Guinea-Bissau",
+    "note": "Đỏ, vàng và xanh lá với ngôi sao đen",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guinea-Bissau là một đất nước nhỏ bé ở Tây Phi, nơi bờ biển tan ra thành 88 hòn đảo rừng đước xanh mướt. Một nửa đất nước phủ đầy vườn điều, còn hà mã thì dầm mình tắm nước mặn — điều chỉ có ở đây! Hơn 20 dân tộc cùng chung sống, tiếng trống rộn ràng khắp nơi. Đây là một trong những quốc gia ít du khách nhất thế giới, nhưng cũng là nơi hoang dã kỳ diệu nhất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bissau",
+      "sub": "Nằm bên cửa sông Geba"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,2 triệu người",
+      "sub": "Ước tính LHQ 2024; điều tra dân số cuối 2009"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung với 7 nước Tây Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Bồ Đào Nha",
+      "sub": "Tiếng Kiriol được dùng nhiều hơn trong cuộc sống hàng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "36.125 km²",
+      "sub": "Lớn hơn Đài Loan một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "277 m",
+      "sub": "Dongol Ronde, gần biên giới Guinea"
+    }
+  ],
+  "islands": [
+    "Bissau",
+    "Bafatá",
+    "Gabú",
+    "Bubaque",
+    "Bolama"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ VÀ ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Bờ biển tan vào muôn đảo",
+    "animals": "Hà mã mê biển mặn",
+    "culture": "Tiếng trống và đảo thiêng",
+    "history": "Cuộc chiến giành tự do",
+    "wows": "Guinea-Bissau kỳ diệu"
+  },
+  "geo": [
+    "Guinea-Bissau bằng phẳng đến nỗi đỉnh núi cao nhất chỉ 277 m — thấp hơn nhiều tòa nhà cao tầng. Bờ biển tan ra thành 88 hòn đảo rừng đước, nước thủy triều Đại Tây Dương mỗi ngày lên xuống hai lần, tạo ra một bức tranh lấp lánh giữa trời và biển.",
+    "Sâu vào đất liền là những vườn điều bạt ngàn và ruộng lúa nước trải dài đến cao nguyên xavan gần biên giới Guinea. Mùa mưa từ tháng Sáu đến tháng Mười đổ xuống gần 2.000 mm nước mưa chỉ trong vài tháng ngắn ngủi, biến những con đường bụi đất thành dòng sông chỉ sau một đêm."
+  ],
+  "animals": [
+    "Quần đảo Bijagós — được UNESCO công nhận là Khu Dự trữ Sinh quyển — là nơi trú ngụ của những sinh vật kỳ lạ hiếm có trên đời. Hà mã biển lội ra Đại Tây Dương vào ban đêm để gặm cỏ biển, đây là loài hà mã duy nhất trên Trái Đất thường xuyên ăn trong nước mặn. Cá sấu và bò biển Tây Phi cũng bơi chung trên cùng một luồng nước.",
+    "Hơn 100.000 con nhạn biển Caspian làm tổ trên một hòn đảo duy nhất — đây là đàn chim nước lớn nhất Tây Phi. Những chú khỉ xanh tung tăng trong vườn điều ven bờ, trong khi cá heo bướu Đại Tây Dương lướt sóng bên cạnh những chiếc thuyền đánh cá ngay ngoài khơi."
+  ],
+  "culture": [
+    "Hơn 20 dân tộc cùng sống trên mảnh đất Guinea-Bissau, mỗi dân tộc có ngôn ngữ và lễ hội riêng. Âm thanh đặc trưng của đất nước này là Gumbé — sự pha trộn giữa nhịp trống châu Phi và giai điệu Bồ Đào Nha. Tiếng đàn kora và tiếng đàn balafon xylophone vang lên trong mọi buổi lễ hội.",
+    "Trên quần đảo Bijagós, người Bijagó có thể tổ chức tới 100 ngày lễ hội mỗi năm. Lễ fanado là nghi lễ trưởng thành đặc biệt, đưa thanh thiếu niên vào rừng sống cùng các trưởng làng trong nhiều tháng. Xã hội Bijagó theo chế độ mẫu hệ: phụ nữ làm chủ đất đai và có quyền chọn chồng."
+  ],
+  "history": [
+    "Thương nhân Bồ Đào Nha đến đây từ thế kỷ 15, và bờ biển này nhanh chóng trở thành trung tâm buôn bán nô lệ Đại Tây Dương. Ách thống trị thuộc địa kéo dài qua nhiều thế kỷ, buộc đất nước phải chịu đựng gần 500 năm dưới sự kiểm soát của ngoại bang trước khi một thế hệ đứng lên phản kháng.",
+    "Năm 1956, Amílcar Cabral thành lập phong trào giải phóng PAIGC. Sau mười một năm chiến tranh du kích, độc lập được tuyên bố ngày 24 tháng 9 năm 1973 — trước cả khi Bồ Đào Nha chịu nhận thua. Kể từ đó đất nước đã trải qua nhiều cuộc đảo chính, nhưng người dân vẫn không ngừng gây dựng lại."
+  ],
+  "wows": [
+    "Guinea-Bissau tuyên bố độc lập năm 1973 — một năm trước khi Bồ Đào Nha chính thức công nhận.",
+    "Đàn hà mã Bijagós là loài hà mã duy nhất trên Trái Đất thường xuyên bơi và ăn trong Đại Tây Dương.",
+    "Cứ khoảng mỗi 12 gói hạt điều bán trên thế giới, có thể có một gói trồng từ Guinea-Bissau.",
+    "Hơn 100.000 con nhạn biển Caspian làm tổ trên một hòn đảo Bijagós — đàn chim nước lớn nhất Tây Phi.",
+    "Kể từ năm 1974, đất nước đã trải qua hơn chín cuộc đảo chính hoặc mưu đồ đảo chính — thuộc hàng nhiều nhất thế giới.",
+    "Đỉnh núi cao nhất chỉ 277 m, tương đương tầng 64 của một tòa nhà cao — đất nước này gần như bằng phẳng hoàn toàn.",
+    "Phụ nữ Bijagó theo truyền thống được quyền tự chọn chồng — đàn ông phải kiên nhẫn chờ được chọn."
+  ],
+  "myths": [
+    {
+      "myth": "\"Hà mã chỉ sống trong sông\"",
+      "fact": "Hà mã trên đảo Orango lội ra Đại Tây Dương mỗi đêm để gặm cỏ biển — điều duy nhất có trên Trái Đất. Người Bijagó coi chúng là tổ tiên linh thiêng."
+    },
+    {
+      "myth": "\"Chỉ là một nước nhỏ bình thường\"",
+      "fact": "Quần đảo Bijagós của Guinea-Bissau là Khu Dự trữ Sinh quyển UNESCO với hà mã nước mặn, bò biển và đàn nhạn biển lớn nhất Tây Phi."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Oi",
+      "say": "oy"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Obrigadu",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Bạn khỏe không?",
+      "jp": "Kuma?",
+      "say": "KOO-mah"
+    },
+    {
+      "en": "Tôi khỏe",
+      "jp": "N sta bon",
+      "say": "n stah BOHN"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Adeus",
+      "say": "ah-DAY-oosh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gw-hero.jpg",
+      "alt": "Dinh Tổng thống ở Bissau, Guinea-Bissau",
+      "caption": "DINH TỔNG THỐNG — công trình thực dân màu hồng nổi tiếng tại trung tâm thành phố Bissau",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gw-landmark.jpg",
+      "alt": "Đảo Bolama thuộc Quần đảo Bijagós, Guinea-Bissau",
+      "caption": "ĐẢO BOLAMA — viên ngọc xanh bóng dừa trong Quần đảo Bijagós được UNESCO bảo vệ",
+      "credit": "Danilo Vaz / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gw-animalA.jpg",
+      "alt": "Hà mã đang ngâm mình dưới nước",
+      "caption": "HÀ MÃ — đàn hà mã Bijagós là loài duy nhất trên đời ăn trong Đại Tây Dương",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gw-animalB.jpg",
+      "alt": "Khỉ xanh và con nhỏ ở Tây Phi",
+      "caption": "KHỈ XANH — từng đàn tung tăng qua các vườn điều khắp Guinea-Bissau",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

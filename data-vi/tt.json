@@ -1,0 +1,163 @@
+{
+  "name": "TRINIDAD",
+  "nativeName": "TT",
+  "romaji": "TRINIDAD",
+  "tagline": "Nhịp soca, thép & vôi ngọt",
+  "region": "Vùng Caribe",
+  "coords": "10.69°N, 61.22°W",
+  "fileNo": "062",
+  "langName": "tiếng Anh Creole",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#C9B89A",
+    "ink": "#231F1B",
+    "faint": "#8B7355",
+    "line": "#DDD0B8",
+    "accent": "#CC1C2E",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/tt.svg",
+    "title": "Đỏ, Đen & Trắng",
+    "note": "Sọc chéo tượng trưng cho lòng dũng cảm và sự cống hiến",
+    "keyColor": "#CC1C2E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Trinidad & Tobago là hai hòn đảo nhỏ nằm cách Venezuela chỉ 11 km — ngày xưa Trinidad còn gắn liền với đất liền Nam Mỹ đấy! Đây là nơi khai sinh ra đàn steelpan, nhạc calypso và một trong những lễ hội đường phố náo nhiệt nhất thế giới. Dưới lòng đất có cả hồ nhựa đường sôi sùng sục, còn mỗi chiều tà, hàng nghìn con cò đỏ rực phủ đầy các đầm lầy ngập mặn như một đám lửa bay.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Port of Spain",
+      "sub": "Bờ tây bắc đảo Trinidad"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,37 triệu người",
+      "sub": "Ước tính Ngân hàng Thế giới 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Trinidad",
+      "sub": "1 USD ≈ 6,75 TTD (2024)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Creole và Hindi cũng được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "5.131 km²",
+      "sub": "Nhỏ hơn tỉnh Nghệ An của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "940 m",
+      "sub": "El Cerro del Aripo, dãy núi phía Bắc"
+    }
+  ],
+  "islands": [
+    "Port Spain",
+    "S. Fernando",
+    "Chaguanas",
+    "Scarborough",
+    "Arima"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Nơi Nam Mỹ vươn tay ra biển",
+    "animals": "Cánh đỏ rực & tiếng chim ồn ào",
+    "culture": "Steelpan, soca & vôi ngọt",
+    "history": "Dầu mỏ, mía đường & độc lập",
+    "wows": "Những điều khiến bạn trố mắt"
+  },
+  "geo": [
+    "Ngày xưa Trinidad là một phần của Nam Mỹ — vịnh Paria ngăn cách hai bên nông đến mức gần như có thể lội qua được. Dãy núi phía Bắc hứng mây mưa và nuôi dưỡng cả một rừng nhiệt đới xanh tươi; phần phía Nam thì bằng phẳng và giàu dầu mỏ.",
+    "Tobago nằm cách 30 km về phía đông bắc, mang cảm giác như một thế giới khác hoàn toàn: rạn san hô lung linh, làng chài yên bình và rừng rậm xanh mướt. Gộp lại hai đảo chỉ có 5.131 km² nhưng chứa đựng sự đa dạng sinh thái kỳ lạ hiếm có."
+  ],
+  "animals": [
+    "Quốc điểu của Trinidad là cò đỏ — loài chim lội nước có màu đỏ rực như lửa, mỗi chiều tà lại tụ về đầm Caroni thành từng đàn hàng nghìn con sáng rực dưới ánh hoàng hôn. Điều thú vị là màu đỏ ấy hoàn toàn đến từ những con tôm chúng ăn hằng ngày.",
+    "Tobago có quốc điểu riêng là chim cocrico — loài chim rừng ồn ào trông giống gà tây, chuyên \"đánh thức\" cả xóm từ tảng sáng. Cả hai loài đều xuất hiện trên quốc huy. Hai đảo nhỏ này chứa hơn 470 loài chim — nhiều hơn cả toàn châu Âu rộng lớn!"
+  ],
+  "culture": [
+    "Lễ hội Carnival ở đây là khuôn mẫu mà tất cả các lễ hội Carnival khác trên thế giới đều học theo. Trước mùa Chay, Port of Spain bùng nổ với trang phục sặc sỡ, nhạc soca và J'ouvert — khi người dân phủ đầy sơn và bùn lên người rồi nhảy múa từ trước bình minh.",
+    "Đàn steelpan ra đời vào thập niên 1930 khi chính quyền thực dân cấm đánh trống. Những nhạc sĩ trẻ đã dùng búa đập thùng dầu thành các nhạc cụ có âm thanh — và đây là nhạc cụ âm học duy nhất được con người phát minh trong thế kỷ 20."
+  ],
+  "history": [
+    "Columbus đặt chân lên đây năm 1498 và đặt tên đảo theo ba ngọn núi ông nhìn thấy. Tiếp đó người Tây Ban Nha, Pháp rồi Anh lần lượt đến thống trị. Người châu Phi bị đưa đến làm nô lệ trên các đồn điền mía; sau khi chế độ nô lệ bị bãi bỏ năm 1838, hàng nghìn người Ấn Độ được đưa sang làm lao động theo hợp đồng.",
+    "Dầu mỏ được phát hiện năm 1857, mở ra kỷ nguyên giàu có. Ngày 31 tháng 8 năm 1962, đất nước giành độc lập với Thủ tướng đầu tiên là Tiến sĩ Eric Williams. Năm 1976, Trinidad & Tobago trở thành cộng hòa và hiện là một trong những nền kinh tế giàu nhất vùng Caribbean."
+  ],
+  "wows": [
+    "Hồ nhựa đường Pitch Lake ở La Brea chứa 10 triệu tấn nhựa đường tự nhiên — nhà thám hiểm Raleigh đã dùng nhựa ở đây để trám tàu của mình từ năm 1595.",
+    "Đàn steelpan là nhạc cụ âm học duy nhất được phát minh trong thế kỷ 20 — LHQ đặt ngày 11/8 là Ngày Steelpan Thế giới.",
+    "Cầu thủ cricket Brian Lara của Trinidad ghi 400 không mất wicket năm 2004 — kỷ lục cá nhân cao nhất lịch sử cricket quốc tế.",
+    "Trinidad nằm trên thềm lục địa Nam Mỹ — về mặt địa chất, nó CHÍNH LÀ Nam Mỹ, không phải đảo núi lửa.",
+    "Hồ Pitch Lake có khả năng tự vá các vết nứt; những vật bị nuốt chửng hàng chục năm trước đều trồi lên sau này, còn nguyên vẹn như mới.",
+    "Hơn 470 loài chim sống ở đây — nhiều hơn cả châu Âu rộng lớn, trong khi đất nước này nhỏ hơn nhiều tỉnh của Việt Nam.",
+    "Món \"doubles\" — đậu chickpea cà ri kẹp bánh bara chiên — ra đời từ thập niên 1930 và hiện hàng triệu người ăn mỗi sáng."
+  ],
+  "myths": [
+    {
+      "myth": "Trinidad chỉ là một hòn đảo",
+      "fact": "Thực ra có hai đảo chính cộng thêm hơn 20 đảo nhỏ, cách nhau 30 km và mang cảm giác hoàn toàn khác nhau — một đảo công nghiệp nhộn nhịp, một đảo toàn rạn san hô và rừng nhiệt đới."
+    },
+    {
+      "myth": "Carnival chủ yếu là cho khách du lịch",
+      "fact": "Carnival thuộc về người Trinidad. Lễ hội này lớn lên từ tinh thần đấu tranh của người châu Phi bị áp bức và đã ăn sâu vào bản sắc dân tộc — phần lớn người tham gia đều là dân địa phương."
+    }
+  ],
+  "words": [
+    {
+      "en": "Thư giãn tán gẫu",
+      "jp": "Liming",
+      "say": "LYM-ing"
+    },
+    {
+      "en": "Ngớ ngẩn / khờ khạo",
+      "jp": "Dotish",
+      "say": "DOH-tish"
+    },
+    {
+      "en": "Có gì mới không?",
+      "jp": "Whappen?",
+      "say": "WAP-un"
+    },
+    {
+      "en": "Điệu nhảy hông",
+      "jp": "Wining",
+      "say": "WY-ning"
+    },
+    {
+      "en": "Năng lượng tuyệt!",
+      "jp": "Vibes real!",
+      "say": "vybz REE-ul"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tt-hero.jpg",
+      "alt": "Toàn cảnh thành phố Port of Spain nhìn từ những ngọn đồi phía trên",
+      "caption": "PORT OF SPAIN — thủ đô nhộn nhịp nhìn từ dãy núi phía Bắc",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/tt-landmark.jpg",
+      "alt": "Bề mặt đen sẫm sôi sục của hồ nhựa đường Pitch Lake ở Trinidad",
+      "caption": "HỒ PITCH LAKE — mỏ nhựa đường tự nhiên lớn nhất thế giới, La Brea, Trinidad",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tt-animalA.jpg",
+      "alt": "Cò đỏ lội trong vùng nước nông",
+      "caption": "CÒ ĐỎ — quốc điểu của Trinidad, màu đỏ đến từ những con tôm nó ăn",
+      "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/tt-animalB.jpg",
+      "alt": "Nước biển xanh ngọc và bãi cát trắng tại bãi biển Crown Point, Tobago",
+      "caption": "BÃI BIỂN CROWN POINT — cát trắng và làn nước Caribbean nổi tiếng của Tobago",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

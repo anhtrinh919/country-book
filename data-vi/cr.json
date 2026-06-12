@@ -1,0 +1,163 @@
+{
+  "name": "COSTA RICA",
+  "nativeName": "CR",
+  "romaji": "COSTA RICA",
+  "tagline": "Pura Vida — sống trọn từng khoảnh khắc!",
+  "region": "Trung Mỹ",
+  "coords": "9.75°N, 83.75°W",
+  "fileNo": "052",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EEE0",
+    "dot": "#CBBFA0",
+    "ink": "#2B2318",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#1A3E8C",
+    "accent2": "#C8202E"
+  },
+  "flag": {
+    "assetPath": "/flags/cr.svg",
+    "title": "Costa Rica",
+    "note": "Xanh–trắng–đỏ–trắng–xanh với quốc huy ở giữa",
+    "keyColor": "#1A3E8C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Costa Rica bé tí — nhỏ hơn cả tỉnh Nghệ An của Việt Nam — nhưng lại chứa đựng nhiều loài động vật và cây cối hơn gần như bất kỳ nơi nào trên Trái Đất. Đất nước này có núi lửa còn đang hoạt động, rừng mây bí ẩn, và hai bờ biển chỉ cách nhau ba tiếng lái xe. Người Costa Rica chào nhau bằng câu \"Pura Vida\" — nghĩa là cuộc sống tươi đẹp — dùng để chào hỏi, tạm biệt, hay đơn giản là nói rằng mọi thứ thật tuyệt vời.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "San José",
+      "sub": "Khoảng 345.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,2 triệu người",
+      "sub": "Ước tính năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Colón (CRC)",
+      "sub": "~530 colones = 1 đô la Mỹ"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "\"Pura Vida\" là câu cửa miệng"
+    },
+    {
+      "label": "Diện tích",
+      "value": "51.100 km²",
+      "sub": "Bằng khoảng 1/6 Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.821 m",
+      "sub": "Cerro Chirripó"
+    }
+  ],
+  "islands": [
+    "San José",
+    "Guanacaste",
+    "Limón",
+    "Puntarenas",
+    "Heredia"
+  ],
+  "islandsLabel": "CÁC TỈNH CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa, biển và rừng mây",
+    "animals": "Muôn thú trên từng ngọn cây",
+    "culture": "Pura Vida mỗi ngày",
+    "history": "Từ thuộc địa đến đất nước hòa bình",
+    "wows": "Những điều bất ngờ về Costa Rica"
+  },
+  "geo": [
+    "Costa Rica nằm trên Vành đai Lửa, với năm ngọn núi lửa còn đang hoạt động. Núi Arenal trông như một chiếc nón hoàn hảo — lần cuối phun trào dữ dội là năm 1968. Dãy núi chạy dọc giữa đất nước tạo ra những cánh rừng mây mát lạnh, nơi các con sông chảy tuôn xuống phía Thái Bình Dương ở phía tây và biển Caribbean ở phía đông.",
+    "Hai bờ biển hoàn toàn khác nhau chỉ cách nhau 120 km. Bờ Thái Bình Dương có những bãi cát vàng khô ráo và nắng chang chang; bờ Caribbean lại xanh mướt với rạn san hô và rùa biển. Đảo Cocos nằm xa ngoài khơi 550 km là Di sản Thế giới UNESCO và là thiên đường lặn biển nổi tiếng nhất vùng."
+  ],
+  "animals": [
+    "Costa Rica chỉ chiếm 0,03% diện tích đất liền thế giới nhưng lại là nhà của tới 5% tổng số loài sinh vật trên Trái Đất — một con số khiến các nhà khoa học ngạc nhiên đến tận bây giờ. Chim Quetzal lấp lánh đuôi xanh ngọc trong rừng mây; vẹt đỏ macaw bay thành đàn trên bán đảo Osa; còn ếch phi tiêu độc phát sáng xanh điện dưới nền rừng.",
+    "Rùa da — con nặng tới 900 kg, lớn hơn cả xe máy — lên bãi biển Tortuguero đẻ trứng mỗi năm. Những con lười ngủ gà gật trên cành cây, còn khỉ hú làm rung chuyển cả tán rừng từ lúc tờ mờ sáng. Costa Rica ghi nhận hơn 900 loài chim — nhiều hơn tổng số loài ở toàn bộ Bắc Mỹ gộp lại."
+  ],
+  "culture": [
+    "Người Ticos — tên trìu mến của người Costa Rica — nổi tiếng thân thiện và điềm tĩnh. \"Pura Vida\" được nói hàng chục lần mỗi ngày. Bóng đá là niềm đam mê cháy bỏng — chiến tích vào tứ kết World Cup 2014 vẫn còn được nhắc đến ở mọi ngôi nhà. Bữa sáng thường là gallo pinto — cơm trộn đậu đen chiên — ăn kèm cà phê thơm nức từ vùng Trung Nguyên Costa Rica.",
+    "Nghệ thuật vẽ xe bò (carretas) với hoa văn tinh xảo đến mức UNESCO công nhận là Di sản văn hóa phi vật thể. Năm 1948, Costa Rica giải tán quân đội — hiến pháp nước này cấm hẳn quân đội thường trực — và dùng tiền đó xây trường học, bệnh viện. Nhờ vậy, tỉ lệ biết chữ ở đây lên tới hơn 98%."
+  ],
+  "history": [
+    "Người bản địa Bribri và nhiều tộc người khác đã sinh sống ở đây hàng nghìn năm trước khi Columbus đặt chân đến năm 1502 và đặt tên \"Bờ Biển Giàu Có\". Nhưng Tây Ban Nha định cư chậm vì không có nhiều vàng — những người khai phá phải tự mình canh tác đất đai, tạo ra một xã hội bình đẳng hơn hẳn các thuộc địa lân cận.",
+    "Costa Rica tách khỏi Tây Ban Nha êm thấm năm 1821. Sau cuộc nội chiến ngắn năm 1948, Tổng thống Figueres quyết định giải tán quân đội và chuyển ngân sách đó sang xây trường và bệnh viện. Quyết định dũng cảm ấy đã tạo nên đất nước hòa bình và có học thức như Costa Rica ngày nay."
+  ],
+  "wows": [
+    "Hơn 99% điện năng ở Costa Rica đến từ năng lượng tái tạo — thủy điện, địa nhiệt và gió.",
+    "Hiến pháp Costa Rica cấm quân đội — một trong số ít nước duy nhất trên thế giới có quy định này.",
+    "Núi Arenal bị coi là núi lửa đã tắt suốt 400 năm, rồi bất ngờ phun trào không báo trước vào năm 1968.",
+    "Costa Rica chỉ chiếm 0,03% diện tích đất liền nhưng là nơi sinh sống của khoảng 5% tổng số loài đã biết trên Trái Đất.",
+    "Lông đuôi của chim Quetzal có thể dài tới 65 cm — dài hơn cả thân mình nó!",
+    "Bãi biển Tortuguero là nơi có nhiều tổ rùa da nhất thế giới — nhiều hơn hầu hết bất kỳ bãi biển nào khác.",
+    "Costa Rica có hơn 1.500 loài hoa lan — nhiều hơn toàn bộ châu Mỹ gộp lại."
+  ],
+  "myths": [
+    {
+      "myth": "\"Đây chỉ là đất nước bãi biển nhiệt đới\"",
+      "fact": "Một nửa đất nước là núi non hiểm trở cao trên 1.000 m. Thủ đô San José nằm ở độ cao 1.170 m, buổi tối trời lạnh đến mức người dân lúc nào cũng mang theo áo khoác."
+    },
+    {
+      "myth": "\"Costa Rica cũng giống các nước Trung Mỹ khác thôi\"",
+      "fact": "Không có quân đội, tỉ lệ biết chữ trên 98%, và gần 100% điện năng từ tái tạo — những điều đó khiến Costa Rica là trường hợp đặc biệt hiếm thấy trên thế giới, chứ không phải điển hình của bất kỳ khu vực nào."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Cuộc sống tươi đẹp!",
+      "jp": "Pura Vida",
+      "say": "POO-rah VEE-dah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "kay REE-koh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cr-hero.jpg",
+      "alt": "Núi lửa Arenal sừng sững giữa rừng nhiệt đới lúc hoàng hôn",
+      "caption": "NÚI LỬA ARENAL — chiếc nón hoàn hảo, một trong những ngọn núi lửa hoạt động mạnh nhất Trung Mỹ",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "landmark": {
+      "src": "/photos/cr-landmark.jpg",
+      "alt": "Mặt tiền tân cổ điển lộng lẫy của Nhà hát Quốc gia ở San José",
+      "caption": "NHÀ HÁT QUỐC GIA — nhà hát opera dát vàng của San José, xây năm 1897",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "animalA": {
+      "src": "/photos/cr-animalA.jpg",
+      "alt": "Chim Quetzal đực đậu trên cành rêu phong giữa rừng mây",
+      "caption": "CHIM QUETZAL — viên ngọc của rừng mây, đuôi dài hơn cả thân mình",
+      "credit": "Wikimedia Commons / public domain"
+    },
+    "animalB": {
+      "src": "/photos/cr-animalB.jpg",
+      "alt": "Ếch phi tiêu độc đỏ rực đậu trên chiếc lá xanh",
+      "caption": "ẾCH PHI TIÊU ĐỘC — bé tí, đỏ rực rỡ, cực kỳ độc hại",
+      "credit": "Wikimedia Commons / public domain"
+    }
+  }
+}

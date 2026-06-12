@@ -1,0 +1,162 @@
+{
+  "name": "AFGHANISTAN",
+  "nativeName": "افغان",
+  "romaji": "AFGHANISTAN",
+  "tagline": "Nóc nhà của châu Á",
+  "region": "Nam Á",
+  "coords": "33.94°N, 67.71°E",
+  "fileNo": "004",
+  "langName": "tiếng Dari",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A5A",
+    "line": "#DCCFB0",
+    "accent": "#009A44",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/af.svg",
+    "title": "Quốc kỳ Afghanistan",
+    "note": "Ba màu đen, đỏ, xanh lá với huy hiệu trắng ở giữa",
+    "keyColor": "#009A44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Afghanistan nằm ngay giữa trái tim châu Á, nơi những dãy núi khổng lồ gặp gỡ sa mạc mênh mông. Dãy Hindu Kush xẻ ngang đất nước như một cột sống bằng băng và đá. Hàng nghìn năm trước, các thương nhân trên Con đường Tơ lụa đều đi qua đây, biến Kabul thành một trong những nơi hội tụ văn hóa sôi động nhất thế giới cổ đại.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kabul",
+      "sub": "Khoảng 4,9 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "~43 triệu người",
+      "sub": "Ước tính 2023, chưa có điều tra"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Afghani (AFN)",
+      "sub": "1 USD ≈ 64 AFN"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Dari & Pashto",
+      "sub": "Cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "652.230 km²",
+      "sub": "Rộng hơn nước Pháp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Noshaq 7.492 m",
+      "sub": "Đỉnh cao thứ 2 trong dãy Hindu Kush"
+    }
+  ],
+  "islands": [
+    "Kabul",
+    "Kandahar",
+    "Herat",
+    "Mazar-Sharif"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, sa mạc & Con đường Tơ lụa",
+    "animals": "Báo tuyết & ngựa hoang",
+    "culture": "Thảm dệt, thơ ca & trà xanh",
+    "history": "Đế chế & ngã tư của châu Á",
+    "wows": "7 điều bất ngờ về Afghanistan"
+  },
+  "geo": [
+    "Afghanistan không có bờ biển — đây là đất nước hoàn toàn bị bao bọc bởi đất liền. Dãy Hindu Kush chạy qua giữa với những đỉnh núi cao hơn 7.000 m, còn phía nam là sa mạc nóng bỏng và cát trắng mênh mông tên là Registan.",
+    "Sông Amu Darya tạo thành biên giới phía bắc, còn hành lang Wakhan — một dải đất hẹp như ngón tay — vươn về phía đông để chạm tới Trung Quốc. Mỗi mùa xuân, hoa dại nở rộ khắp các thung lũng, biến những vùng đất khô cằn thành tấm thảm màu sắc rực rỡ."
+  ],
+  "animals": [
+    "Báo tuyết lặng lẽ rình mồi trên những con đèo đá của dãy Hindu Kush, bước đi êm ru trên đôi bàn chân to như chiếc vợt trượt tuyết. Cừu Marco Polo với đôi sừng cong vĩ đại sống ở độ cao trên 4.000 m — cao hơn cả đỉnh Fansipan của Việt Nam.",
+    "Chó Afghan — một trong những giống chó lâu đời nhất thế giới — có bộ lông dài mượt mà giúp nó giữ ấm trong những chuyến săn trên núi. Dê núi ibex cũng nhảy nhót trên các vách đá hiểm trở, còn phía trên đầu, đại bàng vàng lượn vòng uy nghi trên bầu trời."
+  ],
+  "culture": [
+    "Người Afghanistan nổi tiếng với những tấm thảm dệt tay mất nhiều tháng trời để hoàn thành, kể chuyện qua các hoa văn hình học đầy màu sắc. Thơ ca được yêu mến sâu sắc — nhà thơ Rumi sinh ra gần thành phố Balkh từ thế kỷ 13 vẫn được đọc khắp nơi trên thế giới cho đến tận hôm nay.",
+    "Trà xanh pha thêm bạch đậu khấu được mời cho mọi vị khách như một lời chào thân thiện. Môn thể thao dân tộc buzkashi rất kỳ lạ: những kỵ sĩ trên lưng ngựa tranh nhau mang một con dê qua vạch đích — vừa mạnh mẽ vừa mãn nhãn không kém gì môn polo."
+  ],
+  "history": [
+    "Afghanistan là nơi những đế chế vĩ đại nhất lịch sử đã đi qua — Alexander Đại đế, đế chế Maurya, quân Mông Cổ dưới tay Thành Cát Tư Hãn, rồi Timur — tất cả đều để lại dấu ấn trong nghệ thuật, ngôn ngữ và văn hóa của mảnh đất này.",
+    "Vào thế kỷ 19, Anh và Nga cạnh tranh nhau quyết liệt trong cuộc chơi gọi là 'Ván cờ lớn' để kiểm soát khu vực — nhưng Afghanistan vẫn giữ được độc lập. Thế kỷ 20 chứng kiến Liên Xô xâm lược năm 1979, tiếp đó là nhiều thập kỷ chiến tranh và tái thiết đầy gian nan."
+  ],
+  "wows": [
+    "Lựu Kandahar là loại lựu ngọt nhất thế giới — được trân trọng khắp châu Á suốt hơn 1.000 năm qua.",
+    "Thành phố cổ Balkh được gọi là 'Mẹ của các thành phố' — đã có tuổi đời hơn 3.000 năm.",
+    "Tượng Phật Bamiyan được điêu khắc từ 1.500 năm trước, từng là những tượng Phật đứng cao nhất thế giới.",
+    "Hồ Band-e Amir xanh ngắt đến mức trông như ảnh chỉnh sửa máy tính — thực ra được tạo ra bởi những đập travertine tự nhiên.",
+    "Buzkashi — kỵ sĩ tranh nhau mang dê trên lưng ngựa — đã được chơi ở đây suốt hơn 1.000 năm.",
+    "Tháp Minaret of Jam cao 65 m ẩn sâu trong một thung lũng hẻo lánh, được UNESCO công nhận là di sản thế giới.",
+    "Afghanistan giáp ranh 6 nước: Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan và Trung Quốc."
+  ],
+  "myths": [
+    {
+      "myth": "Afghanistan chỉ toàn là sa mạc",
+      "fact": "Phía bắc và đông đất nước được bao phủ bởi dãy núi Hindu Kush và những thung lũng xanh tươi. Chỉ có miền nam và tây nam mới là sa mạc thực sự."
+    },
+    {
+      "myth": "Afghanistan chỉ có một ngôn ngữ",
+      "fact": "Cả Dari lẫn Pashto đều là ngôn ngữ chính thức, và còn ít nhất 30 ngôn ngữ khác — Uzbek, Hazaragi, Turkmen — được nói khắp cả nước."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "سلام",
+      "say": "Sa-LAAM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "تشکر",
+      "say": "tash-A-KOR"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "بله",
+      "say": "ba-LAY"
+    },
+    {
+      "en": "Không",
+      "jp": "نه",
+      "say": "na"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "خوش آمدید",
+      "say": "khosh-aa-ma-DEED"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/af-hero.jpg",
+      "alt": "Toàn cảnh thành phố Kabul với dãy núi hùng vĩ phía sau",
+      "caption": "KABUL — thủ đô nằm trong thung lũng núi ở độ cao 1.800 m so với mực nước biển",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/af-landmark.jpg",
+      "alt": "Những hồ nước xanh thẳm của Band-e Amir bao quanh bởi vách đá đỏ",
+      "caption": "BAND-E AMIR — những hồ nước xanh ngắt tự nhiên, vườn quốc gia đầu tiên của Afghanistan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/af-animalA.jpg",
+      "alt": "Báo tuyết nằm nghỉ trên tảng đá",
+      "caption": "BÁO TUYẾT — bóng ma của Hindu Kush, cực kỳ hiếm khi được nhìn thấy ngoài tự nhiên",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/af-animalB.jpg",
+      "alt": "Chó Afghan với bộ lông dài mượt mà rũ xuống",
+      "caption": "CHÓ AFGHAN — một trong những giống chó cổ xưa nhất thế giới từ vùng núi này",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

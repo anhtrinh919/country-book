@@ -1,0 +1,163 @@
+{
+  "name": "PANAMA",
+  "nativeName": "PA",
+  "romaji": "PANAMÁ",
+  "tagline": "Chiếc Cầu Nối Hai Châu Lục",
+  "region": "Trung Mỹ",
+  "coords": "8.99°N, 79.52°W",
+  "fileNo": "068",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#252018",
+    "faint": "#8A7A58",
+    "line": "#DACCB0",
+    "accent": "#C8102E",
+    "accent2": "#003087"
+  },
+  "flag": {
+    "assetPath": "/flags/pa.svg",
+    "title": "Quốc kỳ Panama",
+    "note": "Bốn ô vuông: đỏ, trắng, xanh dương, trắng",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Panama là dải đất hình chữ S mảnh khảnh nối liền Nam Mỹ và Bắc Mỹ như một chiếc cầu sống khổng lồ. Kênh đào Panama nổi tiếng giúp tàu thuyền tiết kiệm đến 13.000 km hành trình — những âu thuyền khổng lồ nâng tàu lên xuống như cái bồn tắm, mỗi ngày đón tới 40 con tàu đi qua. Rừng nhiệt đới, rạn san hô và gần 1.000 loài chim khiến Panama trở thành một trong những vùng hoang dã phong phú bậc nhất hành tinh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Panama City",
+      "sub": "Dân số 1,1 triệu người (2023)"
+    },
+    {
+      "label": "Dân số",
+      "value": "4,4 triệu người",
+      "sub": "Ước tính 2024 — đa số là người Mestizo"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Balboa/USD",
+      "sub": "Đồng đô-la Mỹ là tiền tệ hợp pháp"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Cùng 7 ngôn ngữ bản địa"
+    },
+    {
+      "label": "Diện tích",
+      "value": "75.417 km²",
+      "sub": "Nhỉnh hơn tỉnh Nghệ An một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Volcán Barú",
+      "sub": "3.475 m — ngọn núi lửa duy nhất của Panama"
+    }
+  ],
+  "islands": [
+    "Panama City",
+    "Colón",
+    "David",
+    "Penonomé",
+    "Bocas"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Hai đại dương, một dải đất mỏng",
+    "animals": "Rừng nhiệt đới đầy kỳ thú",
+    "culture": "Nhịp điệu, sắc màu và niềm tự hào kênh đào",
+    "history": "Ngã tư của thế giới",
+    "wows": "Bạn có biết không?"
+  },
+  "geo": [
+    "Panama hẹp đến mức bạn có thể đứng trên đỉnh Volcán Barú nhìn thấy cả Thái Bình Dương lẫn biển Caribbean cùng một lúc vào ngày trời quang — hai đại dương hiện ra trước mắt chỉ trong một cái nhìn! Rừng nhiệt đới dày đặc phủ kín nửa đất nước, được nuôi dưỡng bởi hơn 3 mét mưa mỗi năm.",
+    "Kênh đào cắt ngang 80 km qua dải đất hẹp, nối hai đại dương và giúp tàu thuyền không phải vòng qua mũi phía nam của Nam Mỹ. Một hệ thống hồ chứa nước ngọt luôn giữ đầy các âu tàu quanh năm, không bao giờ cạn."
+  ],
+  "animals": [
+    "Panama nằm ngay trên tuyến đường di cư vĩ đại của các loài chim. Mỗi mùa thu, hàng tỷ con chim săn mồi — diều hâu, kền kền, chim cắt — bay theo đàn dày đặc qua bầu trời Panama City, che kín cả một vùng trời. Đại bàng harpy, loài chim săn mồi mạnh nhất châu Mỹ, vẫn còn làm tổ trong những cánh rừng già xa xôi.",
+    "Lười ba ngón ngủ gà ngủ gật trên cây dọc kênh đào; báo đốm jaguar rình rập trong rừng Darién; còn ếch vàng — biểu tượng quốc gia của Panama — nay hầu hết được nuôi trong vườn thú để bảo vệ khỏi một loại nấm da chết chóc đang tàn phá môi trường tự nhiên."
+  ],
+  "culture": [
+    "Người Panama tự hào về sự pha trộn văn hóa phong phú của mình: người Tây Ban Nha định cư, người Tây Phi đến làm kênh đào, người Guna bản địa thêu vải mola rực rỡ sắc màu, cùng thương nhân Trung Quốc và Ấn Độ. Sự hòa quyện đó hiện rõ trong bữa ăn — chuối chiên patacones ăn cùng ceviche và súp gà sancocho đậm đà.",
+    "Âm nhạc vang vọng khắp nơi: salsa, reggaeton và tiếng trống tamborito cùng chung một sàn nhảy. Vào dịp Carnival, những bộ váy pollera thêu tay tỉ mỉ suốt nhiều tháng — xoay tròn trên đường phố Panama City mỗi tháng Hai trong một trong những lễ hội lớn nhất châu Mỹ."
+  ],
+  "history": [
+    "Các dân tộc bản địa đã sinh sống ở đây hàng nghìn năm trước khi người Tây Ban Nha đến năm 1501. Panama City, thành lập năm 1519, là thành phố châu Âu đầu tiên bên bờ Thái Bình Dương và là điểm trung chuyển vàng bạc cướp được từ Đế chế Inca theo con đường la Camino Real.",
+    "Panama tách khỏi Colombia năm 1903 — với sự hậu thuẫn của Mỹ — để kênh đào có thể được xây dựng. Mỹ quản lý vùng Kênh đào gần một thế kỷ; Panama giành lại quyền kiểm soát hoàn toàn vào ngày 31 tháng 12 năm 1999, một ngày vẫn được tổ chức ăn mừng như chiến thắng quốc gia vĩ đại."
+  ],
+  "wows": [
+    "Từ đỉnh Volcán Barú, bạn có thể nhìn thấy cả Thái Bình Dương lẫn biển Caribbean cùng một lúc.",
+    "Tiền phí tàu qua kênh đào mang lại khoảng một phần ba tổng thu ngân sách của Panama.",
+    "Số loài chim ở Panama nhiều hơn tổng số loài chim của cả nước Mỹ và Canada cộng lại.",
+    "Người Guna tự quản lý các hòn đảo của mình và quyết định ai được đến thăm hay xây dựng ở đó.",
+    "Panama dùng đô-la Mỹ nhưng tự đúc đồng xu balboa của riêng mình với tỉ giá 1 đổi 1.",
+    "Mũ Panama thực ra được làm ở Ecuador — Panama chỉ là nơi xuất khẩu chúng ra thế giới.",
+    "Mở rộng kênh đào năm 2016 cho phép tàu chở 14.000 container — gấp mười lần so với năm 1914."
+  ],
+  "myths": [
+    {
+      "myth": "Mũ Panama xuất xứ từ Panama",
+      "fact": "Chúng được đan từ cỏ toquilla ở Ecuador — Panama chỉ tình cờ là trung tâm thương mại xuất khẩu chúng ra toàn thế giới, nên cái tên đó mới bám chặt đến tận bây giờ."
+    },
+    {
+      "myth": "Kênh đào chạy theo hướng đông–tây",
+      "fact": "Do hình dạng chữ S của Panama, tàu thuyền thực ra di chuyển theo hướng bắc–nam — khi ra Thái Bình Dương, bạn đang ở phía đông hơn so với điểm vào từ biển Caribbean."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Kênh đào",
+      "jp": "Canal",
+      "say": "kah-NAL"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Amigo",
+      "say": "ah-MEE-go"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pa-hero.jpg",
+      "alt": "Tàu thuyền đang đi qua âu tàu Gatun của Kênh đào Panama",
+      "caption": "KÊNH ĐÀO PANAMA — những âu tàu khổng lồ nâng tàu giữa hai đại dương mỗi ngày",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pa-landmark.jpg",
+      "alt": "Những tòa nhà thuộc địa đầy màu sắc ở Casco Viejo, Panama City",
+      "caption": "CASCO VIEJO — khu phố thuộc địa 400 năm tuổi của Panama City trên một bán đảo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pa-animalA.jpg",
+      "alt": "Đại bàng harpy đậu trên cành cây trong rừng nhiệt đới",
+      "caption": "ĐẠI BÀNG HARPY — loài chim săn mồi hùng mạnh nhất châu Mỹ làm tổ trong rừng Panama",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pa-animalB.jpg",
+      "alt": "Chú ếch vàng Panama rực rỡ đang đứng trên chiếc lá",
+      "caption": "ẾCH VÀNG — biểu tượng quốc gia của Panama, nay đang đứng trước nguy cơ tuyệt chủng",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

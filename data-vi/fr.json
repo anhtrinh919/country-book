@@ -1,0 +1,163 @@
+{
+  "name": "PHÁP",
+  "nativeName": "FR",
+  "romaji": "FRANCE",
+  "tagline": "Xứ sở nghệ thuật và bánh mì baguette",
+  "region": "Tây Âu",
+  "coords": "46°N 2°E",
+  "fileNo": "008",
+  "langName": "tiếng Pháp",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#ccbfa3",
+    "ink": "#252018",
+    "faint": "#8a7a5e",
+    "line": "#dccfb0",
+    "accent": "#002395",
+    "accent2": "#ED2939"
+  },
+  "flag": {
+    "assetPath": "/flags/fr.svg",
+    "title": "Le Tricolore",
+    "note": "Ba màu xanh, trắng, đỏ từ năm 1794",
+    "keyColor": "#002395",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "PHÁP là quốc gia lớn nhất Tây Âu — nơi dãy Alps tuyết phủ tiếp giáp với những cánh đồng hoa hướng dương vàng rực, và những lâu đài cổ nhìn xuống các quán cà phê bên đường. Mỗi năm có khoảng 90 triệu du khách đổ về đây — nhiều hơn cả số dân của nước Pháp! Họ đến để ngắm tháp Eiffel, thưởng thức croissant nóng giòn, và dạo bước giữa những vườn nho trăm tuổi. Từ Normandy ở phía bắc đến Provence nắng ấm phương nam, mỗi vùng đất Pháp kể một câu chuyện riêng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Paris",
+      "sub": "Kinh đô Ánh sáng, 2,1 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "68,4 triệu người",
+      "sub": "Ước tính 2024, gồm cả hải ngoại"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Gia nhập khu vực euro năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Pháp",
+      "sub": "Ngôn ngữ chính thức; dùng khắp thế giới"
+    },
+    {
+      "label": "Diện tích",
+      "value": "643.801 km²",
+      "sub": "Quốc gia lớn nhất Liên minh châu Âu"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Mont Blanc",
+      "sub": "4.808 m — nóc nhà của dãy Alps"
+    }
+  ],
+  "islands": [
+    "Paris",
+    "Lyon",
+    "Marseille",
+    "Bordeaux",
+    "Strasbourg"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, sông dài và đồng bằng",
+    "animals": "Rừng sâu, đỉnh tuyết và đầm lầy",
+    "culture": "Nghệ thuật, ẩm thực và cuộc sống đẹp",
+    "history": "Cách mạng và đế chế",
+    "wows": "Những điều bất ngờ về nước Pháp!"
+  },
+  "geo": [
+    "Nhìn trên bản đồ, nước Pháp có hình gần giống một lục giác đều — người Pháp gọi đất nước họ là l'Hexagone (cái lục giác)! Phía bắc là đồng bằng phì nhiêu và những vách đá phấn trắng nhìn ra eo biển Manche, còn phía nam tắm mình trong nắng Địa Trung Hải. Hai dòng sông Loire và Seine uốn lượn qua những lâu đài tráng lệ, đẹp như tranh vẽ.",
+    "Dãy Alps vươn cao ở phía đông, với đỉnh Mont Blanc là điểm cao nhất Tây Âu — cao hơn bất kỳ ngọn núi nào ở Đông Nam Á. Dãy Pyrenees tạo thành bức tường tự nhiên ngăn cách Pháp với Tây Ban Nha, còn cao nguyên núi lửa cổ đại Massif Central nằm ngay giữa trung tâm đất nước."
+  ],
+  "animals": [
+    "Những khu rừng nước Pháp là nơi trú ngụ của hươu đỏ, lợn rừng hoang và nai hoẵng nhút nhát. Đại bàng vàng bay lượn trên bầu trời dãy Pyrenees, còn ở vùng đầm lầy Camargue phía nam, hàng nghìn con hồng hạc lội nước — tạo nên những mảng hồng rực rỡ giữa đám sậy xanh mướt, trông như cảnh trong cổ tích.",
+    "Camargue còn là quê hương của những đàn ngựa trắng hoang dã, sải vó tự do giữa đồng bằng. Rái cá đã trở lại các con suối núi sau nhiều năm vắng bóng, và linh miêu âm thầm săn mồi trong rừng Vosges — những nỗ lực bảo tồn thiên nhiên đang dần đưa các loài quý hiếm trở về với đất Pháp."
+  ],
+  "culture": [
+    "Nước Pháp đã tặng cho thế giới trường phái hội họa Ấn tượng, nghệ thuật điện ảnh (được phát minh tại Lyon năm 1895), và thời trang cao cấp — mỗi năm Paris tổ chức bốn tuần lễ thời trang lớn. Người Pháp rất coi trọng bữa trưa: một bữa ăn đúng nghĩa giữa ngày với nhiều món ăn theo thứ tự vẫn là chuyện bình thường ở nhiều nơi.",
+    "Bánh mì gần như là thứ thiêng liêng ở đây — luật pháp quy định một ổ baguette thật sự phải được nướng tại chỗ bán, không được làm sẵn từ nơi khác chở đến. Pháp có hơn 1.200 loại phô mai khác nhau, và mỗi người Pháp ăn trung bình khoảng 26 kg phô mai mỗi năm. Với người Pháp, ăn ngon là một bổn phận yêu nước!"
+  ],
+  "history": [
+    "Từ trước khi Julius Caesar chinh phục vùng đất này năm 52 trước Công nguyên, nơi đây là quê hương của người Gaul thuộc tộc Celtic. Năm 1431, cô gái trẻ Jeanne d'Arc — khi đó chưa đến 20 tuổi — đã dẫn dắt quân đội Pháp, góp phần kết thúc Chiến tranh Trăm Năm. Đến nay bà vẫn là anh hùng dân tộc vĩ đại nhất trong lòng người Pháp.",
+    "Cuộc Cách mạng năm 1789 lật đổ nhà vua và lan truyền tư tưởng rằng chính người dân mới là chủ nhân của đất nước. Napoleon sau đó chinh phục gần như cả châu Âu trước khi thất bại năm 1815. Đến năm 1944, lực lượng Đồng minh giải phóng Paris khỏi sự chiếm đóng của phát xít Đức, trả lại tự do cho Kinh đô Ánh sáng."
+  ],
+  "wows": [
+    "Mỗi năm nước Pháp đón khoảng 90 triệu khách du lịch — nhiều hơn cả tổng số dân của chính nước Pháp!",
+    "Tháp Eiffel từng bị lên kế hoạch phá dỡ sau năm 1889 — giờ đây nó là công trình có vé tham quan được mua nhiều nhất thế giới.",
+    "Lãnh thổ Pháp chạm tới cả Đại Tây Dương, Thái Bình Dương, Ấn Độ Dương — và thậm chí có đường biên giới với Brazil!",
+    "Một đạo luật của Pháp bắt buộc các tiệm bánh phải luân phiên nghỉ phép, đảm bảo mọi khu phố đều luôn có bánh mì tươi mỗi ngày.",
+    "Các tay đua Tour de France đạp xe khoảng 3.400 km trong 3 tuần, có ngày leo núi tiêu tốn đến 8.000 calo.",
+    "Hồng hạc Camargue khi mới nở có màu xám — chúng chỉ chuyển sang màu hồng sau nhiều năm ăn tảo và tôm.",
+    "Pháp đoạt nhiều giải Nobel Văn học hơn bất kỳ quốc gia nào khác trên thế giới — 15 nhà văn được vinh danh."
+  ],
+  "myths": [
+    {
+      "myth": "\"Người Pháp hay thô lỗ với khách du lịch\"",
+      "fact": "Các nghiên cứu cho thấy người dân địa phương Pháp nằm trong số những người sẵn lòng giúp đỡ nhất châu Âu — chỉ cần một câu \"Bonjour!\" lịch sự trước khi hỏi là hầu hết mọi cuộc trò chuyện đều thay đổi hoàn toàn."
+    },
+    {
+      "myth": "\"Napoleon rất lùn\"",
+      "fact": "Napoleon cao khoảng 1,69 m, hoàn toàn bình thường so với đàn ông thời đó. Sự hiểu lầm này xuất phát từ việc nhầm lẫn giữa đơn vị đo lường của Pháp và Anh khi dịch tài liệu."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Xin lỗi!",
+      "jp": "Pardon!",
+      "say": "par-DOHN"
+    },
+    {
+      "en": "Bánh mì",
+      "jp": "Pain",
+      "say": "PAN"
+    },
+    {
+      "en": "Phô mai",
+      "jp": "Fromage",
+      "say": "froh-MAHZH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fr-hero.jpg",
+      "alt": "Tháp Eiffel vươn cao trên nền bầu trời xanh, bên dưới là thảm cỏ xanh mướt",
+      "caption": "THÁP EIFFEL — Người đàn bà sắt của Paris, xây năm 1889, mãi mãi được yêu mến",
+      "credit": "Benh LIEU SONG / Wikimedia CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/fr-landmark.jpg",
+      "alt": "Tu viện Mont Saint-Michel như một tòa lâu đài mọc lên từ vùng bãi triều lúc hoàng hôn",
+      "caption": "MONT SAINT-MICHEL — Tu viện thời Trung cổ trên vịnh thủy triều ở Normandy",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/fr-animalA.jpg",
+      "alt": "Đàn hồng hạc màu hồng đang lội trong đầm lầy nông vùng Camargue",
+      "caption": "HỒNG HẠC CAMARGUE — Hàng nghìn con chim hồng rực trong vùng đất ngập nước phía nam",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/fr-animalB.jpg",
+      "alt": "Ngựa trắng Camargue tung vó chạy qua vùng đầm lầy nông",
+      "caption": "NGỰA CAMARGUE — Đàn ngựa trắng hoang dã tự do sải vó giữa đồng bằng phía nam",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

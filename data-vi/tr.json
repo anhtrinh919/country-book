@@ -1,0 +1,163 @@
+{
+  "name": "THỔ NHĨ KỲ",
+  "nativeName": "TR",
+  "romaji": "TÜRKİYE",
+  "tagline": "Nơi Đông gặp Tây",
+  "region": "Đông Nam Âu / Tây Á",
+  "coords": "39°N 35°E",
+  "fileNo": "042",
+  "langName": "tiếng Thổ Nhĩ Kỳ",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CCBBA0",
+    "ink": "#27201A",
+    "faint": "#8A7255",
+    "line": "#DDD0BA",
+    "accent": "#E30A17",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/tr.svg",
+    "title": "Ngọn cờ đỏ",
+    "note": "Nền đỏ với lưỡi liềm và ngôi sao trắng",
+    "keyColor": "#E30A17",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Thổ Nhĩ Kỳ là chiếc cầu nối khổng lồ giữa hai châu lục — thành phố Istanbul đặt một chân ở châu Âu, một chân ở châu Á! Đất nước này được bao quanh bởi bốn vùng biển, có cả sa mạc nắng cháy, núi cao ngút trời, và một thành phố hang động nơi người ta từng sống dưới lòng đất. Thổ Nhĩ Kỳ cũng là quê hương của hoa tulip, quán cà phê, và những tấm thảm đẹp nhất thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Ankara",
+      "sub": "Cao nguyên trung tâm Anatolia"
+    },
+    {
+      "label": "Dân số",
+      "value": "85,3 triệu người",
+      "sub": "Ước tính 2023, TurkStat"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Lira (TRY)",
+      "sub": "₺ — đồng lira Thổ Nhĩ Kỳ"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Thổ Nhĩ Kỳ",
+      "sub": "Khoảng 85% dân số sử dụng"
+    },
+    {
+      "label": "Diện tích",
+      "value": "783.562 km²",
+      "sub": "Lớn hơn cả Texas và nước Pháp gộp lại"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Ararat 5.137m",
+      "sub": "Nơi truyền thuyết kể rằng thuyền Noah đã dừng"
+    }
+  ],
+  "islands": [
+    "Istanbul",
+    "Ankara",
+    "Cappadocia",
+    "Antalya",
+    "Trabzon"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ VÀ VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Bốn biển và ống khói thần tiên",
+    "animals": "Gấu, mèo và rùa biển",
+    "culture": "Trà, gạch men và vũ điệu xoay tròn",
+    "history": "Đế chế nối tiếp đế chế",
+    "wows": "Thật không thể tin được!"
+  },
+  "geo": [
+    "Thổ Nhĩ Kỳ trải dài trên hai châu lục — 97% lãnh thổ là bán đảo Anatolia thuộc châu Á, còn 3% nằm ở châu Âu. Đất nước này được bao bọc bởi Biển Đen, Biển Aegean, Địa Trung Hải và eo biển Marmara hẹp như hành lang nước nối liền tất cả lại với nhau.",
+    "Vào sâu trong đất liền, cảnh quan thay đổi từ những bãi biển mượt mà sang cao nguyên rộng lớn, rồi lên tới dãy núi Taurus hùng vĩ. Ở Cappadocia, những vụ phun trào núi lửa cổ đại đã tạo ra các cột đá hình nấm gọi là 'ống khói thần tiên', và người xưa đã khoét hang tạo thành cả một ngôi nhà trong đó."
+  ],
+  "animals": [
+    "Những cánh rừng Thổ Nhĩ Kỳ là nơi sinh sống của gấu nâu, sói xám và loài báo Anatolia cực kỳ hiếm — một trong những loài mèo lớn nguy cấp nhất thế giới. Eo biển Bosphorus là tuyến đường di cư nổi tiếng thế giới, mỗi mùa thu có hàng triệu con diều hâu và đại bàng bay ngang qua đây.",
+    "Mỗi mùa hè, rùa biển đầu to lại lặc lè bò lên bờ biển Địa Trung Hải để chôn trứng xuống cát ấm. Mèo Van — lông trắng muốt, một mắt xanh một mắt hổ phách — là báu vật quốc gia của Thổ Nhĩ Kỳ, được đặt theo tên Hồ Van ở miền đông đất nước."
+  ],
+  "culture": [
+    "Trà Thổ Nhĩ Kỳ (çay) được rót vào những chiếc ly nhỏ xinh hình bông tulip vào bữa sáng, sau bữa trưa, và mỗi khi có khách đến thăm — người Thổ Nhĩ Kỳ uống nhiều trà hơn hầu hết bất kỳ nơi nào trên Trái Đất. Khắp các thành phố, những người bán hàng rong đẩy xe đỏ bán bánh simit — loại bánh vòng phủ đầy mè giòn tan.",
+    "Thảm kilim thêu tay, gạch men Iznik xanh óng ánh và vũ điệu quay tròn của các tu sĩ Sufi là những hình ảnh đặc trưng của nghệ thuật Thổ Nhĩ Kỳ. Nhà tắm hơi hammam bằng đá cẩm thạch chạm trổ tinh xảo đã là nơi thư giãn và trò chuyện từ thời Ottoman, và nhiều nơi vẫn mở cửa đón khách đến ngày nay."
+  ],
+  "history": [
+    "Anatolia là một trong những vùng đất có người ở liên tục lâu đời nhất trên Trái Đất. Göbekli Tepe — ngôi đền được xây dựng khoảng năm 9.600 trước Công nguyên — ra đời sớm hơn Stonehenge tới 6.000 năm. Người Hittite, người Hy Lạp, La Mã và Byzantine đều đã gọi mảnh đất này là quê hương.",
+    "Năm 1453, Sultan Mehmed II chinh phục Constantinople, chấm dứt đế chế Byzantine. Đế chế Ottoman sau đó mở rộng lãnh thổ từ Vienna tới Baghdad. Năm 1923, Atatürk thành lập nước Cộng hòa Thổ Nhĩ Kỳ hiện đại và dời thủ đô từ Istanbul về Ankara."
+  ],
+  "wows": [
+    "Göbekli Tepe có tuổi đời 12.000 năm — ngôi đền do con người xây dựng sớm nhất được biết đến, thậm chí ra đời trước cả khi con người biết làm nông nghiệp.",
+    "Istanbul là thành phố duy nhất trên Trái Đất trải dài trên hai châu lục, được nối bằng Cầu Bosphorus hùng vĩ.",
+    "Thổ Nhĩ Kỳ trồng khoảng 70% lượng hạt dẻ của cả thế giới, dọc theo bờ biển Đen xanh tươi tốt.",
+    "Thành phố Ephesus từng có Đền Artemis — một trong bảy kỳ quan thế giới cổ đại — và một thư viện lưu giữ 12.000 cuộn sách.",
+    "Tiếng Thổ Nhĩ Kỳ thuộc một họ ngôn ngữ trải dài từ Thổ Nhĩ Kỳ sang tận Trung Á.",
+    "Môn đấu vật dầu ô liu (yağlı güreş) — vận động viên bôi dầu lên người rồi thi đấu — đã được tổ chức liên tục từ năm 1362 đến nay.",
+    "Thành phố ngầm Derinkuyu từng che chở cho 20.000 người — cả người lẫn gia súc — dưới lòng đất sâu tới 85 mét."
+  ],
+  "myths": [
+    {
+      "myth": "Thổ Nhĩ Kỳ nằm hoàn toàn ở châu Âu",
+      "fact": "Chỉ có 3% lãnh thổ Thổ Nhĩ Kỳ thuộc châu Âu. Phần lớn còn lại là bán đảo Anatolia rộng lớn nằm ở châu Á, khiến đây trở thành quốc gia xuyên lục địa hiếm có."
+    },
+    {
+      "myth": "Khăn turban là mũ truyền thống của người Thổ Nhĩ Kỳ",
+      "fact": "Atatürk đã cấm đội mũ fez từ năm 1925 và khuyến khích đội mũ kiểu phương Tây. Trang phục đội đầu của Thổ Nhĩ Kỳ đã thay đổi nhiều lần suốt chiều dài lịch sử."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Merhaba",
+      "say": "mer-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Teşekkürler",
+      "say": "tesh-ek-UR-ler"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Lezzetli",
+      "say": "lez-ZET-lee"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Hoşgeldiniz",
+      "say": "hosh-gel-DEE-neez"
+    },
+    {
+      "en": "Chúc ngủ ngon",
+      "jp": "İyi geceler",
+      "say": "ee-YEE geh-jeh-LER"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tr-hero.jpg",
+      "alt": "Cầu Bosphorus rực sáng về đêm, bắc qua eo biển nối châu Âu và châu Á tại Istanbul",
+      "caption": "CẦU BOSPHORUS — Cây cầu lung linh của Istanbul nối liền hai châu lục",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/tr-landmark.jpg",
+      "alt": "Nhà thờ Hagia Sophia với những vòm mái và tháp giáo đường nổi tiếng ở Istanbul, Thổ Nhĩ Kỳ",
+      "caption": "HAGIA SOPHIA — Vòm mái 1.500 năm tuổi của Istanbul, từng là nhà thờ, rồi thành thánh đường",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tr-animalA.jpg",
+      "alt": "Rùa biển đầu to đang bơi dưới nước gần mặt biển",
+      "caption": "RÙA ĐẦU TO — đẻ trứng trên những bãi biển ấm áp ở Địa Trung Hải của Thổ Nhĩ Kỳ mỗi mùa hè",
+      "credit": "Wikimedia Commons / Luc Viatour CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/tr-animalB.jpg",
+      "alt": "Mèo Van lông trắng với một mắt xanh và một mắt hổ phách",
+      "caption": "MÈO VAN — báu vật hiếm của Thổ Nhĩ Kỳ với đôi mắt hai màu độc đáo",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

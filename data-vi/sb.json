@@ -1,0 +1,163 @@
+{
+  "name": "QUẦN ĐẢO SOLOMON",
+  "nativeName": "SB",
+  "romaji": "SOLOMON ISLANDS",
+  "tagline": "Ngàn đảo, một biển",
+  "region": "Melanesia, Thái Bình Dương",
+  "coords": "9.65°S, 160.16°E",
+  "fileNo": "168",
+  "langName": "tiếng Pijin",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c8bfa8",
+    "ink": "#252018",
+    "faint": "#857a60",
+    "line": "#dbd0bb",
+    "accent": "#0A2D9C",
+    "accent2": "#2E7D32"
+  },
+  "flag": {
+    "assetPath": "/flags/sb.svg",
+    "title": "Quần đảo Solomon",
+    "note": "Nửa xanh dương và nửa xanh lá chia bởi dải vàng; 5 ngôi sao",
+    "keyColor": "#0A2D9C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Quần đảo Solomon là một chuỗi hơn 900 hòn đảo nhiệt đới nằm giữa Thái Bình Dương rộng lớn. Gần một triệu người sinh sống ở đây, nói hơn 70 ngôn ngữ khác nhau và cả tiếng Pijin — thứ tiếng pha trộn dễ thương giữa tiếng Anh và tiếng đảo. Nhìn lên lá cờ là hiểu ngay: xanh dương là biển, xanh lá là rừng, dải vàng ở giữa cùng năm ngôi sao trắng lấp lánh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Honiara",
+      "sub": "trên đảo Guadalcanal"
+    },
+    {
+      "label": "Dân số",
+      "value": "~820.000",
+      "sub": "ước tính 2024; dựa trên điều tra 2019"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la SBD",
+      "sub": "Đô la Solomon Islands"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh / Pijin",
+      "sub": "hơn 70 ngôn ngữ địa phương khác"
+    },
+    {
+      "label": "Diện tích",
+      "value": "28.896 km²",
+      "sub": "tương đương đất nước Haiti"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Popomanaseu",
+      "sub": "2.335 m, trên đảo Guadalcanal"
+    }
+  ],
+  "islands": [
+    "Guadalcanal",
+    "Malaita",
+    "New Georgia",
+    "Makira",
+    "Santa Isabel"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo, rạn san hô và rừng mưa",
+    "animals": "Chim rực rỡ và thú hiếm",
+    "culture": "Kastom, wantok và điệu hát",
+    "history": "Trận chiến Guadalcanal và người canh biển",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Quần đảo Solomon trải dài 1.500 km giữa Thái Bình Dương — hơn 900 hòn đảo phủ đầy rừng mưa nhiệt đới và những ngọn núi lửa hùng vĩ. Đảo lớn nhất, Guadalcanal, là nơi có thủ đô Honiara và đỉnh Popomanaseu cao 2.335 m, đầu ngập trong mây.",
+    "Biển ở đây cũng không kém phần kỳ diệu. Đầm phá Marovo — đầm phá nước mặn có rào cản kép lớn nhất thế giới — lung linh màu ngọc lam và xanh ngọc bích. Những rạn san hô ôm sát bờ đảo, nước trong đến mức bạn có thể nhìn thấy tận đáy cát sâu 30 m bên dưới."
+  ],
+  "animals": [
+    "Vẹt eclectus là loài khiến ai cũng phải trố mắt: con đực xanh lá tươi, con cái đỏ và xanh dương — trông khác nhau đến mức các nhà khoa học từng tưởng đây là hai loài hoàn toàn khác nhau! Quần đảo Solomon có tới 69 loài chim đặc hữu, nhiều hơn hầu hết các vùng có diện tích tương đương trên Trái Đất.",
+    "Vào lúc hoàng hôn, những con dơi quạ khổng lồ bay rợp rừng, thụ phấn cho cây cối khi chúng bay qua. Cuscus đốm — loài thú có túi mắt to tròn và bộ lông mềm mượt — ngủ vùi trên tán cây suốt ban ngày. Rùa biển đẻ trứng trên những bãi biển hẻo lánh, còn dưới rạn san hô thì tràn ngập cá mập, cá đuối và cả cá hề đáng yêu."
+  ],
+  "culture": [
+    "Cuộc sống ở đây xoay quanh kastom — cả một mạng lưới những luật tục, nghi lễ và câu chuyện được truyền lại qua nhiều thế hệ trong từng gia đình. Tiền vỏ sò, khiên khắc chạm và nhạc sáo dàn — đây không phải đồ trưng bày trong bảo tàng, người dân vẫn dùng chúng trong những lễ hội thực sự ngay hôm nay.",
+    "Hệ thống wantok gắn kết cộng đồng lại với nhau: wantok có nghĩa là 'cùng một tiếng nói', và bất kỳ ai nói cùng ngôn ngữ với bạn đều là anh em thân thiết. Mọi người chia sẻ thức ăn, giúp đỡ lẫn nhau và giữ chữ tín. Hầu hết các làng đều có một nhà thờ và một ngôi nhà họp truyền thống đứng cạnh nhau."
+  ],
+  "history": [
+    "Con người đã sinh sống ở đây ít nhất 30.000 năm. Nhà thám hiểm người Tây Ban Nha Mendaña đặt chân đến vào năm 1568, đặt tên quần đảo theo vàng huyền thoại của vua Solomon, và từ đó châm ngòi cho hàng thế kỷ người ngoài đổ đến tìm kiếm. Anh Quốc đặt vùng này làm xứ bảo hộ năm 1893.",
+    "Năm 1942–43, Guadalcanal trở thành một trong những chiến trường khốc liệt nhất của Thế chiến II. Người dân Solomon bản địa tham chiến với vai trò canh biển và trinh sát; một đô đốc Mỹ từng nói họ 'đã cứu Guadalcanal'. Ngày 7 tháng 7 năm 1978, quần đảo chính thức giành độc lập."
+  ],
+  "wows": [
+    "Năm 2024, rạn san hô đơn lớn nhất thế giới được phát hiện ở đây — rộng hơn hai sân bóng rổ ghép lại.",
+    "Quần đảo Solomon có 69 loài chim đặc hữu — mật độ loài chim riêng biệt cao nhất hành tinh tính theo diện tích.",
+    "Đầm phá Marovo là đầm phá nước mặn có rào cản kép lớn nhất thế giới.",
+    "Hơn 70 ngôn ngữ khác nhau được sử dụng — gần như mỗi thung lũng có một thứ tiếng riêng.",
+    "Vẹt eclectus đực và cái trông khác nhau đến mức các nhà khoa học từng xếp chúng thành 2 loài riêng biệt.",
+    "Những xác tàu chiến Thế chiến II gần Guadalcanal nay là những vườn san hô — thuộc hàng địa điểm lặn biển đẹp nhất thế giới.",
+    "Tòa nhà Quốc hội Honiara là món quà của Mỹ, xây dựng để tưởng nhớ những người lính đã hy sinh ở Guadalcanal."
+  ],
+  "myths": [
+    {
+      "myth": "Quần đảo ẩn giấu kho vàng của vua Solomon",
+      "fact": "Người Tây Ban Nha Mendaña đặt tên như vậy vì hy vọng tìm thấy kho báu kinh thánh vào năm 1568 — nhưng chưa ai tìm thấy vàng. Huyền thoại sống dai hơn chính nhà thám hiểm."
+    },
+    {
+      "myth": "Quân Đồng minh một mình giành chiến thắng ở Thái Bình Dương",
+      "fact": "Người dân Solomon bản địa đã chiến đấu với vai trò canh biển và trinh sát. Một đô đốc Mỹ trực tiếp ghi nhận công lao của họ trong việc cứu Guadalcanal — và cả chiến dịch Thái Bình Dương."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Halo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tanggio",
+      "say": "TANG-ee-oh"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Ia",
+      "say": "EE-ah"
+    },
+    {
+      "en": "Không",
+      "jp": "Nomoa",
+      "say": "NOH-moh-ah"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Yu oraet?",
+      "say": "yoo oh-RYE-et"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sb-hero.jpg",
+      "alt": "Nhìn từ trên cao: bờ biển nhiệt đới Quần đảo Solomon với rừng xanh và biển màu ngọc lam",
+      "caption": "QUẦN ĐẢO SOLOMON — rừng nhiệt đới xanh tươi gặp Thái Bình Dương dọc bờ đảo Guadalcanal",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sb-landmark.jpg",
+      "alt": "Bờ biển Honiara với hàng cọ và Thái Bình Dương",
+      "caption": "HONIARA — thủ đô nhìn ra vùng biển lặng mang tên Iron Bottom Sound",
+      "credit": "Wikimedia Commons / US Embassy"
+    },
+    "animalA": {
+      "src": "/photos/sb-animalA.jpg",
+      "alt": "Vẹt eclectus đực màu xanh lá tươi đậu trên cành",
+      "caption": "VẸT ECLECTUS — con đực xanh lá và con cái đỏ-xanh dương từng bị xếp thành 2 loài khác nhau",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sb-animalB.jpg",
+      "alt": "Cuscus đốm với đôi mắt cam to tròn và bộ lông có đốm",
+      "caption": "CUSCUS ĐỐM — loài thú có túi chậm chạp, mắt to, thích trốn trong tán rừng",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

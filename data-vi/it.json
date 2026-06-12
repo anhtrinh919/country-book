@@ -1,0 +1,163 @@
+{
+  "name": "Ý",
+  "nativeName": "IT",
+  "romaji": "ITALIA",
+  "tagline": "Chiếc ủng đẹp nhất châu Âu",
+  "region": "Nam Âu",
+  "coords": "41.9°N, 12.5°E",
+  "fileNo": "039",
+  "langName": "tiếng Ý",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CEBFA3",
+    "ink": "#2B231E",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#CE2B37",
+    "accent2": "#009246"
+  },
+  "flag": {
+    "assetPath": "/flags/it.svg",
+    "title": "Il Tricolore",
+    "note": "Ba màu xanh lá, trắng và đỏ từ năm 1797",
+    "keyColor": "#CE2B37",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nước Ý có hình dạng giống hệt một chiếc ủng cao đang đá trái bóng — và trái bóng đó chính là đảo Sicily! Nằm giữa dãy Alps và biển Địa Trung Hải, đây là đất nước đã mang lại cho thế giới pizza, mì ống, đế chế La Mã vĩ đại và thời kỳ Phục Hưng rực rỡ. Sáu mươi triệu người Ý sống giữa những di tích cổ đại ngàn năm tuổi và những quán cà phê tấp nập, nơi bữa trưa luôn được coi trọng hơn bất cứ điều gì.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Rome",
+      "sub": "Theo truyền thuyết thành lập năm 753 TCN"
+    },
+    {
+      "label": "Dân số",
+      "value": "58,9 triệu người",
+      "sub": "Ước tính ISTAT năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "1 euro = 100 cent"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ý",
+      "sub": "Ngôn ngữ chính thức toàn quốc"
+    },
+    {
+      "label": "Diện tích",
+      "value": "301.340 km²",
+      "sub": "Hơn gần 1 lần diện tích Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Mont Blanc",
+      "sub": "4.808 m, chung biên giới với Pháp"
+    }
+  ],
+  "islands": [
+    "Sicily",
+    "Sardinia",
+    "Tuscany",
+    "Lombardy",
+    "Campania"
+  ],
+  "islandsLabel": "CÁC VÙNG LỚN:",
+  "sections": {
+    "geography": "Chiếc ủng giữa biển và núi Alps",
+    "animals": "Sói, gấu và những chú ngựa tí hon",
+    "culture": "Nghệ thuật, ẩm thực và bóng đá cuồng nhiệt",
+    "history": "Từ đế chế đến thời Phục Hưng",
+    "wows": "Bạn có tin không?"
+  },
+  "geo": [
+    "Nước Ý là một bán đảo dài vươn ra giữa Địa Trung Hải, với dãy Alps phủ tuyết trắng chắn ngang phía bắc như một bức tường khổng lồ. Hai hòn đảo lớn — Sicily và Sardinia — đều thuộc Ý, và có hai quốc gia tí hon là Vatican và San Marino nằm hoàn toàn bên trong lãnh thổ Ý.",
+    "Dãy núi Apennine chạy dọc như xương sống suốt chiều dài bán đảo, và nước Ý có tới hai ngọn núi lửa đang hoạt động: Etna phun lửa dữ dội trên đảo Sicily và Vesuvius âm ỉ gần Naples. Thung lũng Po bằng phẳng màu mỡ ở phía bắc là vựa lúa mì của cả nước."
+  ],
+  "animals": [
+    "Con sói xám, từng gần như biến mất hoàn toàn, đã hồi sinh mạnh mẽ với hơn 3.000 cá thể đang lang thang khắp dãy Apennine. Gấu nâu Marsican — một phân loài hiếm — chỉ còn khoảng 60 con đang được bảo vệ trong Vườn quốc gia Abruzzo.",
+    "Vùng biển Ý là ngôi nhà của cá ngừ vây xanh, cá kiếm và rùa biển đầu to đến đẻ trứng trên các bãi biển phía nam. Ngựa hoang Giara của đảo Sardinia cao chưa đến một mét và chỉ tồn tại duy nhất ở hòn đảo này, không nơi nào khác trên Trái Đất."
+  ],
+  "culture": [
+    "Người Ý coi ẩm thực là nghệ thuật: mỗi vùng có công thức nấu ăn riêng, và dùng sai loại mì ống là một lỗi lầm không thể tha thứ. Cà phê espresso được uống đứng tại quầy bar trong chưa đầy một phút, nhưng bữa tối Chủ nhật có thể kéo dài hàng giờ đồng hồ.",
+    "Opera ra đời ở Ý vào khoảng năm 1600, còn bóng đá (calcio) thì chẳng khác nào một tôn giáo. Các thương hiệu thời trang, xe thể thao và gạch men của Ý được sao chép khắp thế giới. Giấc ngủ trưa riposo vẫn là điều thiêng liêng tại các thị trấn nhỏ."
+  ],
+  "history": [
+    "Rome từ một ngôi làng nhỏ (năm 753 TCN theo truyền thuyết) đã lớn mạnh thành đế chế cai trị từ Scotland cho tới Lưỡng Hà. Khi đế chế sụp đổ năm 476 SCN, nước Ý phân chia thành các thành bang tranh giành nhau — Florence, Venice, Milan — mỗi nơi đua nhau tài trợ cho những nghệ sĩ vĩ đại như Leonardo da Vinci và Michelangelo.",
+    "Thời kỳ Phục Hưng (1400–1600) biến nước Ý thành kinh đô nghệ thuật của thế giới. Đất nước này chỉ thống nhất vào năm 1861, nghĩa là nước Ý hiện đại còn trẻ hơn cả Hoa Kỳ! Sau Thế chiến II, Ý đã tái thiết và vươn lên thành một trong những nền kinh tế lớn nhất thế giới."
+  ],
+  "wows": [
+    "Ý có nhiều Di sản Thế giới UNESCO hơn bất kỳ nước nào — 59 địa điểm tính đến năm 2024.",
+    "Vatican, nằm gọn trong lòng Rome, là quốc gia nhỏ nhất thế giới chỉ rộng 0,44 km².",
+    "Những cảng bê tông La Mã xây dựng cách đây 2.000 năm vẫn còn nguyên vẹn dưới đáy biển.",
+    "Ý sản xuất nhiều rượu vang hơn bất kỳ nước nào — hơn 4,9 tỷ lít mỗi năm.",
+    "Đấu trường Colosseum chứa được tới 80.000 khán giả và có mái che kéo ra che nắng.",
+    "Tiếng Ý là ngôn ngữ còn sống gần giống tiếng Latin nhất — hiểu nhau được khoảng 60%.",
+    "Núi lửa Etna đã phun trào liên tục trong ít nhất 500.000 năm qua."
+  ],
+  "myths": [
+    {
+      "myth": "\"Marco Polo mang mì ống từ Trung Quốc về Ý\"",
+      "fact": "Mì ống đã có ở Ý trước khi Marco Polo lên đường — người Ả Rập nhiều khả năng đã mang mì khô đến Sicily từ thế kỷ 9, tức hàng thập kỷ trước khi ông trở về năm 1295."
+    },
+    {
+      "myth": "\"Julius Caesar là hoàng đế La Mã\"",
+      "fact": "Caesar chưa bao giờ là hoàng đế — ông chỉ là nhà độc tài của nền Cộng hòa, bị ám sát năm 44 TCN. Chính con nuôi Augustus mới là vị hoàng đế đích thực đầu tiên."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Ciao",
+      "say": "chow"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Grazie",
+      "say": "GRAT-see-eh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Per favore",
+      "say": "pair fa-VOR-eh"
+    },
+    {
+      "en": "Pizza",
+      "jp": "Pizza",
+      "say": "PEET-tsa"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Bellissimo",
+      "say": "bel-EES-see-mo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/it-hero.jpg",
+      "alt": "Đấu trường Colosseum ở Rome dưới ánh nắng chiều vàng",
+      "caption": "COLOSSEUM — Đấu trường 2.000 năm tuổi từng chứa 80.000 khán giả",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/it-landmark.jpg",
+      "alt": "Kênh Grand Canal ở Venice với thuyền gondola và các cung điện",
+      "caption": "GRAND CANAL — Con phố nước chính của Venice, hai bên là cung điện nguy nga",
+      "credit": "Didier Descouens / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/it-animalA.jpg",
+      "alt": "Con sói xám Apennine trong rừng",
+      "caption": "SÓI APENNINE — Loài sói hoang của Ý, hồi sinh từ bờ vực tuyệt chủng",
+      "credit": "Fabrizio Moglia / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/it-animalB.jpg",
+      "alt": "Núi lửa Etna phun trào rực sáng trong đêm",
+      "caption": "NÚI ETNA — Núi lửa đang hoạt động cao nhất châu Âu thắp sáng đảo Sicily",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

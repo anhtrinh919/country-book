@@ -1,0 +1,163 @@
+{
+  "name": "HY LẠP",
+  "nativeName": "Ελλάς",
+  "romaji": "ELLAS",
+  "tagline": "Nơi thần thoại gặp biển cả",
+  "region": "Nam Âu / Balkan",
+  "coords": "39°N 22°E",
+  "fileNo": "036",
+  "langName": "tiếng Hy Lạp",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F2EDD8",
+    "dot": "#C9BFA0",
+    "ink": "#1E1B16",
+    "faint": "#8A7A5E",
+    "line": "#DACCAE",
+    "accent": "#0D5EAF",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/gr.svg",
+    "title": "Quốc kỳ Hy Lạp",
+    "note": "Chín sọc xanh trắng xen kẽ và cây thánh giá trắng",
+    "keyColor": "#0D5EAF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hy Lạp nằm chìa ra giữa Địa Trung Hải, nơi những ngôi đền cổ đại đứng sừng sững trên đỉnh đồi đá và cá heo tung tăng bên mạn tàu. Đây là đất nước đã tặng cho thế giới Thế vận hội Olympic, nền dân chủ và bảng chữ cái. Hàng nghìn hòn đảo trải dài trên ba vùng biển, và không nơi nào trên đất nước này cách biển quá 137 km.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Athens",
+      "sub": "Nơi có Acropolis nổi tiếng"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,4 triệu người",
+      "sub": "Điều tra dân số 2021"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Sử dụng từ năm 2001"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Hy Lạp",
+      "sub": "Một trong những ngôn ngữ cổ nhất thế giới"
+    },
+    {
+      "label": "Diện tích",
+      "value": "131.957 km²",
+      "sub": "Bằng khoảng nửa nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.917 m",
+      "sub": "Núi Olympus — đỉnh Mytikas"
+    }
+  ],
+  "islands": [
+    "Athens",
+    "Thessaloniki",
+    "Crete",
+    "Rhodes",
+    "Corfu"
+  ],
+  "islandsLabel": "CÁC ĐẢO VÀ THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đất đảo và núi lửa",
+    "animals": "Biển khơi, muông thú hoang dã",
+    "culture": "Tiệc tùng, thần thánh và mái vòm xanh",
+    "history": "Cái nôi của văn minh",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Hy Lạp nằm chìa ra như ngón tay cái vào giữa Địa Trung Hải, được bao bọc bởi ba vùng biển: Aegean, Ionian và Cretan. Tám mươi phần trăm diện tích là núi — dãy Pindus chạy dọc như cột sống đất nước — nhưng không điểm nào cách bờ biển hơn 137 km.",
+    "Hy Lạp có tới khoảng 6.000 hòn đảo, dù chỉ khoảng 227 đảo có người sinh sống. Đường bờ biển dài 13.676 km — dài thứ 11 thế giới — uốn lượn qua những trụ đá vươn lên từ biển, vịnh nhỏ và miệng núi lửa cổ đại Santorini."
+  ],
+  "animals": [
+    "Hải cẩu tu sĩ Địa Trung Hải là một trong những loài động vật có vú hiếm nhất Trái Đất — chỉ còn khoảng 900 con, và phần lớn sống trong các hang động và bờ đá của Hy Lạp. Quần đảo Sporades là pháo đài cuối cùng của chúng.",
+    "Mỗi mùa hè, rùa biển Caretta caretta lại bơi vào bờ biển Zakynthos để đẻ trứng — đúng bãi biển mà tổ tiên nhiều đời của chúng đã dùng. Hy Lạp đón hơn 3.000 tổ trứng mỗi năm, nhiều nhất toàn vùng Địa Trung Hải."
+  ],
+  "culture": [
+    "Ở Hy Lạp, Lễ Phục sinh còn quan trọng hơn cả Giáng sinh. Đúng nửa đêm Thứ Bảy Tuần Thánh, chuông nhà thờ đổ vang, pháo hoa bùng nổ, và vị linh mục hô lớn 'Christos Anesti!' — Chúa đã sống lại! Mọi người ôm nhau, nến lung linh tỏa sáng, và bữa ăn tươm tất bắt đầu bằng món súp magiritsa.",
+    "Bữa ăn tại quán taverna có thể kéo dài hàng giờ đồng hồ: nhiều đĩa nhỏ mezedes, bánh mì chấm dầu ôliu sánh đặc, và những cuộc trò chuyện dài bất tận. Người Hy Lạp tiêu thụ dầu ôliu bình quân đầu người nhiều hơn bất kỳ dân tộc nào khác trên thế giới."
+  ],
+  "history": [
+    "Athens cổ đại đã phát minh ra nền dân chủ vào khoảng năm 508 trước Công nguyên, cho phép các công dân nam bỏ phiếu trong các cuộc họp công cộng. Chính thành phố này đã sản sinh ra Socrates, Plato và Aristotle — những triết nhân mà tư tưởng của họ vẫn còn được học trong các lớp triết học trên toàn thế giới.",
+    "Sau nhiều thế kỷ dưới ách cai trị Byzantine rồi Ottoman, Hy Lạp giành độc lập qua cuộc chiến kéo dài tám năm. Mỗi năm vào ngày 25 tháng 3 — Ngày Độc lập — các cuộc diễu hành và cờ xanh trắng phủ kín mọi quảng trường trên khắp đất nước."
+  ],
+  "wows": [
+    "Tiếng Hy Lạp đã được nói và viết liên tục suốt hơn 3.000 năm.",
+    "Hy Lạp có nhiều bảo tàng khảo cổ hơn bất kỳ quốc gia nào khác trên Trái Đất.",
+    "Thế vận hội Olympic đầu tiên được tổ chức tại Olympia năm 776 trước Công nguyên để tôn vinh thần Zeus.",
+    "Không nơi nào trên đất Hy Lạp cách biển hơn 137 km.",
+    "Từ 'alphabet' (bảng chữ cái) xuất phát từ hai chữ cái Hy Lạp là alpha và beta.",
+    "Người Hy Lạp làm việc nhiều giờ nhất trong toàn Liên minh châu Âu — khoảng 1.900 giờ mỗi người mỗi năm.",
+    "Santorini nằm trên miệng núi lửa khổng lồ đã sụp đổ — vụ phun trào năm ~1600 trước Công nguyên có thể đã truyền cảm hứng cho huyền thoại Atlantis."
+  ],
+  "myths": [
+    {
+      "myth": "Pandora mở một chiếc hộp chứa đầy điều xấu xa",
+      "fact": "Thực ra cô ấy mở một chiếc bình đất nung lớn (pithos). Từ 'hộp' là do học giả Erasmus dịch sai vào thế kỷ 16 và cái sai đó cứ thế lưu truyền suốt 500 năm."
+    },
+    {
+      "myth": "Người Hy Lạp đều nhàn nhã và chậm chạp",
+      "fact": "Người Hy Lạp làm việc nhiều giờ nhất trong toàn EU — khoảng 1.900 giờ mỗi năm — đứng đầu danh sách những người lao động chăm chỉ nhất châu Âu."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Γεια σας",
+      "say": "YAH-sahs"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ευχαριστώ",
+      "say": "ef-kha-ree-STO"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Παρακαλώ",
+      "say": "pa-ra-ka-LO"
+    },
+    {
+      "en": "Xin lỗi",
+      "jp": "Συγγνώμη",
+      "say": "seeg-NO-mee"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Καλημέρα",
+      "say": "ka-lee-MEH-ra"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gr-hero.jpg",
+      "alt": "Làng Oia trắng muốt trên vách đá miệng núi lửa Santorini nhìn ra biển",
+      "caption": "SANTORINI, OIA — những ngôi làng trên vách đá đổ xuống miệng núi lửa ra phía biển Aegean",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/gr-landmark.jpg",
+      "alt": "Đền Parthenon trên đồi Acropolis nhìn xuống thành phố Athens",
+      "caption": "PARTHENON, ATHENS — ngôi đền 2.500 năm tuổi đứng sừng sững trên đỉnh Acropolis",
+      "credit": "Yair Haklai, CC BY-SA 3.0, Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gr-animalA.jpg",
+      "alt": "Hải cẩu tu sĩ Địa Trung Hải nằm nghỉ trên đá gần mặt nước",
+      "caption": "HẢI CẨU TU SĨ ĐỊA TRUNG HẢI — một trong những loài động vật có vú hiếm nhất Trái Đất, sống chủ yếu ở vùng biển Hy Lạp",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/gr-animalB.jpg",
+      "alt": "Rùa biển Caretta caretta bơi phía trên đáy cát",
+      "caption": "RÙA BIỂN CARETTA — hàng nghìn con đẻ trứng trên bãi biển Zakynthos mỗi mùa hè",
+      "credit": "Wikimedia Commons, CC BY-SA"
+    }
+  }
+}

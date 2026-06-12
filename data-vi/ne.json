@@ -1,0 +1,163 @@
+{
+  "name": "NIGER",
+  "nativeName": "NE",
+  "romaji": "NIJAR",
+  "tagline": "Sa mạc mênh mông, tim sông xanh",
+  "region": "Tây Phi",
+  "coords": "17.6°N, 8.1°E",
+  "fileNo": "047",
+  "langName": "tiếng Hausa",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBC98",
+    "ink": "#2B2118",
+    "faint": "#8A7550",
+    "line": "#DDD0B0",
+    "accent": "#E05206",
+    "accent2": "#0DB02B"
+  },
+  "flag": {
+    "assetPath": "/flags/ne.svg",
+    "title": "Quốc kỳ Niger",
+    "note": "Cam, trắng và xanh lá — mặt trời ở chính giữa",
+    "keyColor": "#E05206",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Niger là vùng đất khổng lồ nằm giữa lòng Tây Phi, chìm trong ánh nắng rực rỡ — hơn bốn phần năm diện tích là sa mạc Sahara với những đụn cát khổng lồ và những con đường buôn bán cổ xưa. Nhưng miền nam lại xanh tươi bất ngờ: sông Niger uốn khúc qua ruộng đồng, hươu cao cổ hoang dã thảnh thơi gần thủ đô, và những phiên chợ rộn ràng tiếng cười. Đây là quốc gia không giáp biển lớn nhất Tây Phi — ẩn chứa vô vàn điều kỳ thú.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Niamey",
+      "sub": "Bên dòng sông Niger"
+    },
+    {
+      "label": "Dân số",
+      "value": "~27,3 triệu",
+      "sub": "Ước tính LHQ năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung nhiều nước Tây Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Hausa",
+      "sub": "Ngôn ngữ chính thức từ 2025"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.267.000 km²",
+      "sub": "Quốc gia nội địa lớn nhất Tây Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.022 m",
+      "sub": "Núi Idoukal-n-Taghès, vùng Aïr"
+    }
+  ],
+  "islands": [
+    "Agadez",
+    "Niamey",
+    "Zinder",
+    "Maradi",
+    "Tahoua"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sa mạc, sông ngòi và bầu trời",
+    "animals": "Hươu cao cổ, linh dương và muôn loài",
+    "culture": "Tuareg, Wodaabe và Hausa",
+    "history": "Những đế chế vùng Sahel",
+    "wows": "Bảy điều kỳ diệu"
+  },
+  "geo": [
+    "Niger rộng lớn đến kinh ngạc — gần bằng diện tích nước Pháp, Đức và Tây Ban Nha gộp lại, to gấp hơn ba lần Việt Nam. Hơn 80% đất đai là sa mạc Sahara khô cằn, nhưng miền nam thuộc vùng thảo nguyên Sahel, nơi người dân canh tác và sinh sống tập trung. Sông Niger uốn lượn qua phía tây nam, vừa đặt tên cho đất nước vừa mang lại nguồn sống cho cả triệu người.",
+    "Dãy núi Aïr vươn lên giữa sa mạc ở phía bắc, che chở cho những loài thực vật hiếm không tìm thấy ở đâu khác trên Trái Đất. Về phía đông là Ténéré — một trong những biển cát trống trải nhất hành tinh. Còn ở miền nam, Vườn quốc gia W trải dài qua ba quốc gia xung quanh một khúc sông uốn hình chữ W."
+  ],
+  "animals": [
+    "Ngôi sao của Niger chính là hươu cao cổ Tây Phi — phân loài hươu cao cổ hiếm nhất thế giới. Những năm 1990, chỉ còn vỏn vẹn 50 con; nhờ nỗ lực bảo tồn kiên trì, đàn hươu đã phục hồi lên hơn 600 con. Chúng thong dong dạo quanh làng mạc ngoại ô Niamey, gần gũi với con người mà không cần rào chắn.",
+    "Trong các khu bảo tồn vùng Aïr, linh dương addax sống sót giữa sa mạc với lượng nước cực ít, lấy độ ẩm từ những ngọn cỏ khô. Sư tử, báo săn và voi tuần tra ở Vườn quốc gia W, trong khi hà mã và cá sấu ẩn mình dọc bờ sông Niger."
+  ],
+  "culture": [
+    "Niger là ngã tư của nhiều dân tộc. Người Hausa nổi tiếng buôn bán khắp nơi; đàn ông Tuareg đội khăn màu chàm xanh đậm, cưỡi lạc đà vượt sa mạc Sahara hàng thế kỷ — họ được mệnh danh là 'những người xanh của sa mạc'. Thành phố Agadez từ thế kỷ 15 đã là một trung tâm thương mại lớn và nhộn nhịp.",
+    "Hàng năm, người Wodaabe du mục tổ chức lễ hội Gerewol — một cuộc thi sắc đẹp độc đáo, nơi ĐÀN ÔNG trang điểm, vẽ mặt rực rỡ rồi nhảy múa để thu hút ánh mắt của phụ nữ, người sẽ chọn bạn đời. Hầu hết người Niger theo đạo Hồi, và tiếng gọi cầu nguyện định nhịp cuộc sống mỗi ngày."
+  ],
+  "history": [
+    "Agadez từng là điểm dừng chân quan trọng trên tuyến đường thương mại xuyên Sahara, nối liền vàng và ngà voi với Bắc Phi. Đế chế Songhai hùng mạnh kiểm soát phần lớn Niger vào thế kỷ 15–16, trước khi vùng đất này rơi vào tay Maroc rồi các cường quốc châu Âu.",
+    "Pháp thực dân hóa Niger vào đầu thế kỷ 20; đến năm 1960, Niger giành được độc lập. Đất nước giàu uranium — nhiên liệu cho các nhà máy điện hạt nhân — Niger cung cấp điện cho nhiều quốc gia, nhưng vẫn là một trong những nước nghèo nhất thế giới, vật lộn với hạn hán và tốc độ tăng dân số nhanh."
+  ],
+  "wows": [
+    "Tháp thánh đường Agadez là tháp gạch bùn cao nhất thế giới với 27 m, xây năm 1515 và vẫn đứng vững đến hôm nay.",
+    "Độ tuổi trung bình ở Niger chỉ là 15,7 tuổi — một nửa đất nước còn trẻ hơn cả một học sinh trung học.",
+    "Cây đơn độc nhất Trái Đất từng đứng trơ trọi giữa sa mạc Ténéré, cách cây khác gần nhất tới 400 km — cho đến khi bị xe tải đâm vào năm 1973.",
+    "Vườn quốc gia W được ba nước Niger, Burkina Faso và Benin cùng nhau quản lý — ba quốc gia, một công viên.",
+    "Niger là nhà sản xuất uranium lớn thứ 7 thế giới, cung cấp nhiên liệu cho các nhà máy điện hạt nhân ở châu Âu.",
+    "Hươu cao cổ Tây Phi ở Niger tự do đi lại qua ruộng đồng trong làng — không cần hàng rào ngăn cách.",
+    "Đàn hươu cao cổ Niger đã tăng từ vỏn vẹn 50 con vào những năm 1990 lên hơn 600 con ngày nay."
+  ],
+  "myths": [
+    {
+      "myth": "Niger chỉ là sa mạc trống rỗng",
+      "fact": "Miền nam xanh tốt với thảo nguyên, sông ngòi, đồng ruộng và động vật hoang dã. Hơn 90% dân số sống ở đó, bên cạnh hươu cao cổ và hà mã."
+    },
+    {
+      "myth": "Niger và Nigeria là một",
+      "fact": "Đây là hai quốc gia hoàn toàn khác nhau, cùng mang tên theo sông Niger. Nigeria có 230 triệu dân; Niger chỉ 27 triệu — lịch sử và văn hóa rất khác biệt."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Sannu",
+      "say": "SAH-noo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Na gode",
+      "say": "nah GOH-day"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Yaya kake?",
+      "say": "YAH-yah KAH-kay"
+    },
+    {
+      "en": "Nước",
+      "jp": "Ruwa",
+      "say": "ROO-wah"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Kyau",
+      "say": "KYOW"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ne-hero.jpg",
+      "alt": "Cầu Kennedy bắc qua sông Niger ở Niamey trong ánh hoàng hôn vàng rực",
+      "caption": "CẦU PONT KENNEDY — cây cầu biểu tượng bắc qua sông Niger tại thủ đô Niamey",
+      "credit": "NigerTZai / Wikimedia CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ne-landmark.jpg",
+      "alt": "Thánh đường lớn Agadez xây bằng gạch bùn vươn cao trên khu phố cổ",
+      "caption": "THÁNH ĐƯỜNG AGADEZ — tháp gạch bùn cao nhất thế giới, xây dựng năm 1515",
+      "credit": "Alamin Mohammed / Wikimedia CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ne-animalA.jpg",
+      "alt": "Hươu cao cổ Tây Phi đứng ở Khu bảo tồn Kouré gần Niamey",
+      "caption": "HƯƠU CAO CỔ TÂY PHI — loài hươu hiếm nhất thế giới, tự do dạo bước gần Kouré",
+      "credit": "Clémence Delmas / Wikimedia CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ne-animalB.jpg",
+      "alt": "Linh dương addax đực với đôi sừng xoắn dài trong môi trường sa mạc",
+      "caption": "LINH DƯƠNG ADDAX — kẻ sinh tồn giữa Sahara, sống được hầu như không cần nước",
+      "credit": "Haytem Bouchri / Wikimedia CC BY-SA 4.0"
+    }
+  }
+}

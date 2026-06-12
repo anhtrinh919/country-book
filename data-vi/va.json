@@ -1,0 +1,163 @@
+{
+  "name": "THÀNH VATICAN",
+  "nativeName": "VA",
+  "romaji": "VATICANO",
+  "tagline": "Quốc gia nhỏ nhất thế giới",
+  "region": "Nam Âu",
+  "coords": "41.9°N, 12.45°E",
+  "fileNo": "057",
+  "langName": "tiếng La-tinh",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5F0E4",
+    "dot": "#C9BA9B",
+    "ink": "#2A2318",
+    "faint": "#8B7A55",
+    "line": "#DDD0B2",
+    "accent": "#C8A84B",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/va.svg",
+    "title": "Vàng & Trắng",
+    "note": "Vương miện Giáo hoàng và hai chiếc chìa khóa chéo của Thánh Phêrô",
+    "keyColor": "#C8A84B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nằm gọn trong lòng thành phố Rome của nước Ý, Thành Vatican là quốc gia nhỏ nhất thế giới — còn bé hơn nhiều trung tâm thương mại! Đây là nơi ở của Đức Giáo hoàng và là kho báu của những tác phẩm nghệ thuật vĩ đại nhất mà con người từng tạo ra. Dù chỉ rộng vỏn vẹn 0,44 km² — nhỏ hơn cả quận Hoàn Kiếm — nơi này lại là một trong những địa điểm được ghé thăm nhiều nhất trên Trái Đất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Vatican City",
+      "sub": "Thành phố duy nhất của quốc gia"
+    },
+    {
+      "label": "Dân số",
+      "value": "~800",
+      "sub": "Ước tính 2024, ít nhất thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Đúc đồng xu hiếm riêng để sưu tập"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ý / La-tinh",
+      "sub": "Máy ATM có giao diện tiếng La-tinh"
+    },
+    {
+      "label": "Diện tích",
+      "value": "0,44 km²",
+      "sub": "Nhỏ hơn 60 sân bóng đá cộng lại"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "76 m",
+      "sub": "Đồi Vatican, bên trong tường thành"
+    }
+  ],
+  "islands": [
+    "Vatican Hill",
+    "St Peter Sq.",
+    "The Gardens",
+    "Papal Palace",
+    "C.Gandolfo"
+  ],
+  "islandsLabel": "CÁC ĐỊA ĐIỂM CHÍNH:",
+  "sections": {
+    "geography": "Ngọn đồi giữa lòng thành phố",
+    "animals": "Cánh chim trên khu vườn bí mật",
+    "culture": "Nghệ thuật, vàng & lính cận vệ cổ",
+    "history": "Từ đế chế đến quốc gia tí hon",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Thành Vatican nằm hoàn toàn bên trong thành phố Rome — một khu đất có tường bao quanh trên ngọn đồi, rộng chỉ 0,44 km². Đồi Vatican cao 76 mét so với mặt đất. Khoảng một nửa diện tích là khu vườn Vatican: đài phun nước, hàng rào được cắt tỉa gọn gàng và những cây ô-liu cổ thụ hàng trăm năm tuổi.",
+    "Một tuyến đường sắt tí hon dài chỉ 300 mét nối Vatican với nước Ý, nhưng hầu như chẳng mấy khi chở hành khách. Đức Giáo hoàng còn sở hữu lâu đài Castel Gandolfo — cung điện mùa hè nằm cách đó 25 km trên vùng đồi Alban, cao hơn cả Vatican."
+  ],
+  "animals": [
+    "Vì Thành Vatican chủ yếu là các công trình kiến trúc, các loài động vật tìm nơi trú ẩn trong khu vườn rộng 23 héc-ta — một ốc đảo xanh giữa lòng thành phố đá. Chim cổ đỏ châu Âu nhảy nhót dưới bóng cây bách xù, én bay vút qua trong những ngày hè, và từng đàn sáo đen xoáy tròn trên mái nhà lúc hoàng hôn xuống.",
+    "Con vẹt nhẫn hồng lông xanh — tổ tiên của chúng vốn là thú cưng bỏ trốn từ những năm 1970 — nay líu lo khắp các tán cây Vatican. Thú vị là xưa kia khu vườn này từng nuôi cả sư tử và đà điểu, cho đến khi một vị Giáo hoàng thả chúng ra hết vì không nỡ nhìn thú vật bị nhốt trong lồng."
+  ],
+  "culture": [
+    "Vatican là trái tim của đạo Công giáo La Mã. Mỗi năm hàng triệu người đổ về Quảng trường Thánh Phêrô, chỉ mong được thoáng thấy bóng Đức Giáo hoàng. Nhà nguyện Sistine — nơi Michelangelo mất bốn năm từ 1508 đến 1512 để vẽ trần nhà — thu hút khách từ khắp nơi trên thế giới đến ngửa cổ chiêm ngưỡng.",
+    "Đội Cận vệ Thụy Sĩ gồm 135 binh lính — tất cả đều là người Thụy Sĩ theo đạo Công giáo — đã bảo vệ Đức Giáo hoàng từ năm 1506 đến nay. Bộ quân phục kẻ sọc vàng, đỏ, xanh của họ gồm tới 154 mảnh ghép lại. Vatican còn tự đúc đồng xu euro hiếm của riêng mình — các nhà sưu tập trên toàn thế giới tranh nhau tìm mua."
+  ],
+  "history": [
+    "Đồi Thánh Phêrô đã là vùng đất linh thiêng từ thuở đầu của Kitô giáo. Vương cung thánh đường vĩ đại được xây dựng ngay trên nơi được cho là mộ của Thánh Phêrô, và các vị Giáo hoàng đã sống ở đây suốt nhiều thế kỷ. Năm 1870, nước Ý thống nhất và sáp nhập lãnh thổ của Giáo hoàng, khiến Đức Giáo hoàng bị giam cầm trong Vatican suốt 59 năm.",
+    "Ngày 11 tháng 2 năm 1929, Ý và Tòa Thánh ký Hiệp ước Lateran, chính thức khai sinh Thành Vatican như một quốc gia độc lập. Đây là quốc gia có chủ quyền trẻ nhất thế giới xét theo ngày thành lập, nhưng lại lưu giữ một số truyền thống liên tục lâu đời nhất trong lịch sử nhân loại."
+  ],
+  "wows": [
+    "Thành Vatican là quốc gia duy nhất trên thế giới nằm hoàn toàn bên trong một thành phố khác — thành phố Rome của Ý.",
+    "Bạn có thể đi bộ xuyên qua toàn bộ lãnh thổ quốc gia này chỉ trong khoảng 20 phút.",
+    "Máy ATM ở Vatican có tùy chọn ngôn ngữ tiếng La-tinh — điều không nơi nào khác trên thế giới có.",
+    "Tuyến đường sắt của Vatican chỉ dài 300 mét và hầu như không chở hành khách.",
+    "Để trở thành Cận vệ Thụy Sĩ, bạn phải là người Thụy Sĩ, theo đạo Công giáo, là nam giới và cao ít nhất 1,74 mét.",
+    "Tân binh Cận vệ Thụy Sĩ tuyên thệ vào ngày 6 tháng 5 mỗi năm — ngày tưởng niệm 147 người lính đã hy sinh bảo vệ Đức Giáo hoàng năm 1527.",
+    "Thư viện Vatican lưu giữ hơn 1 triệu cuốn sách và 80.000 bản thảo viết tay cổ."
+  ],
+  "myths": [
+    {
+      "myth": "Michelangelo thiết kế đồng phục cho Cận vệ Thụy Sĩ",
+      "fact": "Bộ quân phục kẻ sọc nổi tiếng này thực ra được tạo ra năm 1914 bởi Chỉ huy Jules Repond — Michelangelo chưa bao giờ thiết kế nó, dù truyền thuyết này vẫn được nhắc ở khắp nơi."
+    },
+    {
+      "myth": "Đức Giáo hoàng sở hữu toàn bộ Thành Vatican",
+      "fact": "Thành Vatican là một quốc gia có chủ quyền, được cai trị bởi Tòa Thánh với tư cách là một tổ chức — không ai sở hữu nó, kể cả chính Đức Giáo hoàng."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Salve",
+      "say": "SAL-weh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Vale",
+      "say": "WAH-leh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gratias",
+      "say": "GRAH-tee-as"
+    },
+    {
+      "en": "Vâng",
+      "jp": "Ita",
+      "say": "EE-tah"
+    },
+    {
+      "en": "Bình an",
+      "jp": "Pax",
+      "say": "PAX"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/va-hero.jpg",
+      "alt": "Cảnh nhìn từ trên cao lúc hoàng hôn xuống Thành Vatican và Quảng trường Thánh Phêrô",
+      "caption": "THÀNH VATICAN — lung linh trong ánh hoàng hôn, quốc gia nhỏ nhất Trái Đất nhìn từ trên cao",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/va-landmark.jpg",
+      "alt": "Quảng trường Thánh Phêrô với Vương cung thánh đường và cột obelisk",
+      "caption": "QUẢNG TRƯỜNG THÁNH PHÊRÔ — hàng cột của Bernini dang rộng vòng tay đón tín đồ từ khắp thế giới",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/va-animalA.jpg",
+      "alt": "Chim cổ đỏ châu Âu đậu trên cành cây",
+      "caption": "CHIM CỔ ĐỎ CHÂU ÂU — cư dân vui vẻ trong khu vườn xanh mướt 23 héc-ta của Vatican",
+      "credit": "Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/va-animalB.jpg",
+      "alt": "Vẹt nhẫn hồng đậu trên cây",
+      "caption": "VẸT NHẪN HỒNG — từng là thú cưng bỏ trốn, nay sống hoang dã khắp Rome và Vatican",
+      "credit": "Wikimedia Commons CC BY-SA"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "TIMOR-LESTE",
+  "nativeName": "TL",
+  "romaji": "TIMOR-LESTE",
+  "tagline": "Trẻ trung, dũng cảm & xinh đẹp",
+  "region": "Đông Nam Á",
+  "coords": "8.87°S, 125.73°E",
+  "fileNo": "076",
+  "langName": "tiếng Tetum",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CBBA96",
+    "ink": "#241E14",
+    "faint": "#8A7355",
+    "line": "#DDD0B0",
+    "accent": "#DC241F",
+    "accent2": "#F8C300"
+  },
+  "flag": {
+    "assetPath": "/flags/tl.svg",
+    "title": "Quốc kỳ Timor-Leste",
+    "note": "Tam giác đỏ, vàng & đen, ngôi sao trắng",
+    "keyColor": "#DC241F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Timor-Leste mới trở thành đất nước độc lập vào năm 2002 — tức là quốc gia này còn trẻ hơn cả bố mẹ của em! Nằm trên một hòn đảo nhiệt đới giữa Indonesia và Úc, đây là xứ sở của những ngọn núi xanh ngắt, bãi san hô lấp lánh và biển cả tràn đầy cá. Vì ít khách du lịch ghé thăm nên rừng rậm và rạn san hô ở đây vẫn còn hoang sơ và tuyệt đẹp như chưa ai chạm vào.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Dili",
+      "sub": "Thành phố ven biển phía bắc đảo"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,42 triệu",
+      "sub": "Ước tính 2025 — một trong những nước nhỏ nhất châu Á"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la Mỹ",
+      "sub": "Dùng USD từ khi độc lập"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tetum & Bồ Đào Nha",
+      "sub": "Cùng hơn 30 ngôn ngữ địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "14.874 km²",
+      "sub": "Khoảng bằng tỉnh Nghệ An"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.963 m",
+      "sub": "Núi Tatamailau — ngọn núi linh thiêng"
+    }
+  ],
+  "islands": [
+    "Dili",
+    "Baucau",
+    "Maliana",
+    "Suai",
+    "Oecusse"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi rừng, biển cả & đỉnh thiêng",
+    "animals": "Sinh vật vương quốc san hô",
+    "culture": "Vải tais, lễ hội & điệu múa tebe",
+    "history": "Con đường dài đến tự do",
+    "wows": "Những điều bất ngờ về Timor-Leste"
+  },
+  "geo": [
+    "Timor-Leste chiếm phần phía đông của đảo Timor, được bao bọc bởi Biển Timor và Biển Banda. Dãy núi hùng vĩ kéo dài suốt chiều dài đất nước — khí hậu mát mẻ trên cao là điều kiện lý tưởng để trồng cà phê. Đặc biệt có một vùng đất tên Oecusse nằm tách rời, được bao quanh hoàn toàn bởi lãnh thổ Indonesia.",
+    "Vùng biển Tam giác San hô vỗ sóng vào bờ Timor-Leste, khiến đây trở thành một trong những vùng biển đa dạng sinh học nhất trên Trái Đất. Đảo Ataúro, cách thủ đô Dili khoảng 30 km về phía bắc, được các nhà khoa học biển xếp hạng là hòn đảo có nhiều loài cá nhất thế giới."
+  ],
+  "animals": [
+    "Con hươu Timor — gọi là rusa — sống lang thang trong những khu rừng núi và là biểu tượng quốc gia. Cua dừa, loài cua đất lớn nhất thế giới, leo thoăn thoắt lên thân cọ trên đảo Ataúro. Ngoài xa biển, bò biển dugong nhẩn nha gặm cỏ biển dưới làn nước trong vắt của Biển Timor.",
+    "Cá voi nhà máy và cá heo lướt qua các luồng nước sâu ngay ngoài bờ biển — thuyền ngắm cá voi xuất phát thường xuyên từ Dili. Trong rừng còn có chim bồ câu hoàng đế Timor, loài chim xám mập mạp chỉ sống được ở đảo Timor và đảo Wetar gần đó."
+  ],
+  "culture": [
+    "Cuộc sống người Timor xoay quanh ngôi nhà thiêng gọi là uma lulik — ngôi nhà tổ tiên lợp tranh mà mỗi gia đình đều chăm chút bằng lễ vật và nghi lễ truyền thống. Vải dệt tais mang theo câu chuyện của từng dòng tộc qua hoa văn; không có hai tấm vải nào giống nhau.",
+    "Điệu múa tebe-tebe là điệu múa vòng tròn mà cả làng cùng khoác vai nhau và hát ròng rã hàng giờ liền. Cà phê là cây trồng linh hồn của đất nước — những hạt cà phê núi không dùng hóa chất được các quán cà phê đặc sản khắp thế giới săn đón."
+  ],
+  "history": [
+    "Bồ Đào Nha đô hộ Timor từ thế kỷ 16, buôn bán gỗ đàn hương và cà phê. Nhật Bản chiếm đóng trong Thế chiến II; sau chiến tranh Bồ Đào Nha quay lại, nhưng năm 1975 Indonesia xâm lược và cai trị hà khắc suốt 24 năm, gây ra thiệt hại nhân mạng khổng lồ.",
+    "Cuộc trưng cầu dân ý do Liên Hợp Quốc tổ chức năm 1999 có tới 78% người dân bỏ phiếu đòi độc lập dù bạo lực bùng phát khắp nơi. Năm 2002, Timor-Leste trở thành quốc gia trẻ nhất châu Á. Hai nhà lãnh đạo đoạt giải Nobel Hòa bình là Giám mục Belo và José Ramos-Horta đã dẫn dắt cuộc đấu tranh vì tự do trên trường quốc tế."
+  ],
+  "wows": [
+    "Timor-Leste là quốc gia duy nhất ở châu Á dùng đô la Mỹ làm tiền tệ hằng ngày.",
+    "Đảo Ataúro giữ kỷ lục thế giới — trung bình hơn 250 loài cá rạn san hô được đếm tại mỗi điểm khảo sát.",
+    "Cả nước có hơn 30 ngôn ngữ bản địa riêng biệt — gần như mỗi thung lũng có một ngôn ngữ của riêng mình.",
+    "Cà phê núi Timor-Leste đạt chuẩn hữu cơ và thương mại công bằng, được bày bán tại các cửa hàng cà phê đặc sản khắp nước Mỹ.",
+    "Tatamailau nghĩa là \"Ông của tất cả\" — người dân tin rằng linh hồn tổ tiên sẽ về ngự trên đỉnh núi này.",
+    "Cá voi nhà máy bơi gần bờ biển Dili đến mức những người quan sát địa phương có thể nghe tiếng chúng thở phun trong đêm yên tĩnh.",
+    "Timor-Leste là quốc gia mới đầu tiên của thế kỷ 21, chính thức độc lập vào ngày 20 tháng 5 năm 2002."
+  ],
+  "myths": [
+    {
+      "myth": "\"Timor-Leste là một phần của Indonesia\"",
+      "fact": "Timor-Leste hoàn toàn độc lập từ năm 2002. Indonesia quản lý phần Tây Timor trên cùng hòn đảo, nhưng Timor-Leste có chính phủ, quốc kỳ, tiền tệ và ghế tại Liên Hợp Quốc riêng."
+    },
+    {
+      "myth": "\"Đến đó chẳng có gì để xem hay làm\"",
+      "fact": "Thợ lặn xếp rạn san hô nơi đây vào top 5 thế giới về sự đa dạng cá, và các tour ngắm cá voi, leo núi, dệt vải đều hoạt động quanh năm từ Dili."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Obrigadu",
+      "say": "oh-bri-GAH-doo"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Sin",
+      "say": "SEEN"
+    },
+    {
+      "en": "Nước",
+      "jp": "Bee",
+      "say": "BEE"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Bonitu",
+      "say": "bo-NEE-too"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tl-hero.jpg",
+      "alt": "Bến biển Dili với hàng dừa và những ngọn đồi xanh phía sau",
+      "caption": "BỜ BIỂN DILI — vịnh thủ đô rợp bóng dừa, núi xanh bao quanh",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tl-landmark.jpg",
+      "alt": "Tượng Cristo Rei trên đỉnh đồi nhìn ra Biển Timor",
+      "caption": "CRISTO REI DILI — tượng cao 27 mét trên đỉnh đồi nhìn ra Biển Timor",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tl-animalA.jpg",
+      "alt": "Con cua dừa khổng lồ bám trên thân cọ",
+      "caption": "CUA DỪA — loài cua đất lớn nhất thế giới, sống trên đảo Ataúro",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tl-animalB.jpg",
+      "alt": "Con dugong bơi trong vùng nước nông đầy cỏ biển",
+      "caption": "DUGONG — bò biển hiền lành gặm cỏ biển tại Biển Timor",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

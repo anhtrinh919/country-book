@@ -1,0 +1,163 @@
+{
+  "name": "MA-RỐC",
+  "nativeName": "المغرب",
+  "romaji": "AL-MAGHRIB",
+  "tagline": "Vương quốc ngàn sắc màu",
+  "region": "Bắc Phi",
+  "coords": "31.79°N, 7.09°W",
+  "fileNo": "042",
+  "langName": "tiếng Ả Rập",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#C9B48E",
+    "ink": "#2B1F14",
+    "faint": "#8B6F47",
+    "line": "#DDD0B0",
+    "accent": "#C1272D",
+    "accent2": "#006233"
+  },
+  "flag": {
+    "assetPath": "/flags/ma.svg",
+    "title": "Quốc kỳ Ma-rốc",
+    "note": "Nền đỏ, ngôi sao năm cánh màu xanh lá",
+    "keyColor": "#C1272D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ma-rốc nằm ở góc trên cùng bên trái của châu Phi, nơi sa mạc Sahara gần như chạm đến biển Địa Trung Hải. Đây là vương quốc của những khu chợ rực rỡ lụa tơ, những thành phố tường hồng, và ngôi trường đại học lâu đời nhất thế giới. Núi tuyết trắng sừng sững sau những bãi biển sóng dữ, còn tiếng gọi cầu nguyện vang vọng qua những mái nhà san sát mỗi buổi hoàng hôn.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Rabat",
+      "sub": "nằm bên bờ Đại Tây Dương"
+    },
+    {
+      "label": "Dân số",
+      "value": "38 triệu người",
+      "sub": "ước tính năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dirham (MAD)",
+      "sub": "100 centime = 1 dirham"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "+ tiếng Tamazight & tiếng Pháp"
+    },
+    {
+      "label": "Diện tích",
+      "value": "446.550 km²",
+      "sub": "lớn hơn Việt Nam khoảng 1,3 lần"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Toubkal 4.167m",
+      "sub": "dãy Atlas"
+    }
+  ],
+  "islands": [
+    "Casablanca",
+    "Marrakech",
+    "Fes",
+    "Tangier",
+    "Agadir"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi, sa mạc và biển cả",
+    "animals": "Muông thú vùng Atlas",
+    "culture": "Gia vị, chợ trời & người kể chuyện",
+    "history": "Các sultan và vương triều cổ đại",
+    "wows": "Những điều ngạc nhiên về Ma-rốc"
+  },
+  "geo": [
+    "Ma-rốc có ba dãy núi lớn — Rif, Atlas Trung và Atlas Cao — nơi những ngôi làng người Berber bám chặt vào vách đá phía trên những rừng tuyết tùng xanh thẫm. Các con sông từ trên núi đổ xuống phía tây ra Đại Tây Dương, tưới mát những đồng bằng phì nhiêu nơi cây argan mọc hoang.",
+    "Phía nam, địa hình hạ xuống thành sa mạc Sahara hùng vĩ. Những cồn cát khổng lồ ở Erg Chebbi cao đến 150m, bừng sáng màu vàng óng khi bình minh ló dạng. Bờ biển Đại Tây Dương trải dài 1.800km, mang đến cả những bãi lướt sóng náo nhiệt lẫn những cảng cá yên bình."
+  ],
+  "animals": [
+    "Khỉ đuôi cụt Barbary — loài khỉ hoang dã duy nhất ở Ma-rốc — leo trèo thoăn thoắt trong rừng tuyết tùng gần thị trấn Azrou. Rùa biển đầu to đến làm tổ trên những bãi biển phía nam mỗi mùa hè, còn đàn hồng hạc đứng lội trong các đầm phá ven biển gần Moulay Bousselham.",
+    "Dãy Atlas Cao là nơi trú ngụ của loài báo Barbary cực kỳ hiếm gặp, nhút nhát và ít khi lộ diện. Lạc đà một bướu đi qua những đụn cát Sahara, còn cáo fennek — với đôi tai to như ăng-ten vệ tinh — lùng bắt bọ cánh cứng trong cát suốt đêm."
+  ],
+  "culture": [
+    "Khu chợ (souk) của Ma-rốc là mê cung của những nghệ nhân tài hoa: thợ đồng gõ đèn lồng leng keng, thợ dệt thắt thảm Berber, thợ thuộc da nhuộm da đủ màu sắc rực rỡ. Trà bạc hà được rót từ trên cao để tạo bọt — từ chối uống một chén trà bị coi là mất lịch sự.",
+    "Các nhạc sĩ Gnawa chơi sênh sắt và đàn guembri ba dây thâu đêm suốt sáng. Món tagine — thịt hầm chậm cùng mơ khô, ô-liu và thì là trong nồi đất hình nón — được dọn lên bàn khi vẫn còn bốc hơi nghi ngút."
+  ],
+  "history": [
+    "Trường Đại học Al-Qarawiyyin ở Fes, thành lập năm 859 sau Công nguyên, là trường đại học hoạt động liên tục lâu đời nhất thế giới. Người Berber (Amazigh) đã sinh sống ở đây từ 5.000 năm trước, lâu hơn rất nhiều so với khi các thương nhân Ả Rập đặt chân đến vào thế kỷ 7.",
+    "Ma-rốc là quốc gia đầu tiên trên thế giới công nhận nước Mỹ vào năm 1777. Pháp và Tây Ban Nha chiếm đóng đất nước này năm 1912, nhưng vua Mohammed V đã dẫn dắt nhân dân giành lại độc lập năm 1956. Ngày nay, vua Mohammed VI vẫn trị vì từ cung điện ở Rabat."
+  ],
+  "wows": [
+    "Trường Đại học Al-Qarawiyyin ở Fes, thành lập năm 859, là trường đại học hoạt động liên tục lâu đời nhất thế giới.",
+    "Ma-rốc nắm giữ khoảng 70% trữ lượng đá phốt phát đã biết của cả hành tinh — nhiều nhất thế giới.",
+    "Những cồn cát ở Erg Chebbi trong sa mạc Sahara cao đến 150m — cao hơn tòa nhà 40 tầng!",
+    "Ma-rốc có chín Di sản Thế giới được UNESCO công nhận, trong đó có phố cổ Fes, Marrakech và Meknes.",
+    "Dầu argan dùng để nấu ăn và làm đẹp được ép từ loài cây gần như chỉ mọc ở Ma-rốc.",
+    "Eo biển Gibraltar chỉ rộng 14km — điểm gần nhất giữa Ma-rốc và châu Âu.",
+    "Quảng trường Djemaa el-Fna ở Marrakech đêm nào cũng có người kể chuyện và nghệ sĩ xiếc, được UNESCO vinh danh là di sản văn hóa phi vật thể."
+  ],
+  "myths": [
+    {
+      "myth": "Ma-rốc toàn là sa mạc nóng bỏng",
+      "fact": "Sa mạc Sahara chỉ chiếm một góc nhỏ ở cực đông nam. Phần lớn Ma-rốc có núi non, thung lũng xanh tươi và bãi biển Đại Tây Dương. Thành phố Ifrane trên dãy Atlas còn có tuyết rơi dày đặc mỗi mùa đông."
+    },
+    {
+      "myth": "Đồ ăn Ma-rốc luôn cay xè",
+      "fact": "Ẩm thực Ma-rốc thơm nức nhờ thì là, nghệ tây và quế, nhưng hiếm khi cay. Vị cay đến từ tương harissa được dọn riêng — bạn tự quyết định cho vào bao nhiêu."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "بنين",
+      "say": "buh-NEEN"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ma-hero.jpg",
+      "alt": "Quảng trường Djemaa el-Fna về đêm tại Marrakech",
+      "caption": "DJEMAA EL-FNA — quảng trường nổi tiếng ở Marrakech nhộn nhịp người kể chuyện mỗi đêm",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ma-landmark.jpg",
+      "alt": "Cổng thành Bab Mansour ở Meknes",
+      "caption": "BAB MANSOUR — cổng thành hùng vĩ nhất Ma-rốc, xây năm 1732 tại Meknes",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ma-animalA.jpg",
+      "alt": "Khỉ đuôi cụt Barbary ngồi trên cây tuyết tùng",
+      "caption": "KHỈ ĐUI CỤT BARBARY — loài khỉ hoang dã duy nhất của Ma-rốc sống trong rừng tuyết tùng Atlas",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ma-animalB.jpg",
+      "alt": "Cáo fennek với đôi tai to trong sa mạc Sahara",
+      "caption": "CÁO FENNEK — đôi tai khổng lồ giúp chú cáo sa mạc nhỏ bé này săn mồi ban đêm",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

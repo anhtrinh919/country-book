@@ -1,0 +1,163 @@
+{
+  "name": "KENYA",
+  "nativeName": "KE",
+  "romaji": "KENYA",
+  "tagline": "Trái tim hoang dã của châu Phi",
+  "region": "Đông Phi",
+  "coords": "0.02°N, 37.91°E",
+  "fileNo": "047",
+  "langName": "tiếng Swahili",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBC9E",
+    "ink": "#1E1C18",
+    "faint": "#7A6E52",
+    "line": "#DDD0B4",
+    "accent": "#006600",
+    "accent2": "#BB0000"
+  },
+  "flag": {
+    "assetPath": "/flags/ke.svg",
+    "title": "Quốc kỳ Kenya",
+    "note": "Ba sọc đen, đỏ, xanh lá cùng khiên chiến của người Maasai",
+    "keyColor": "#006600",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kenya nằm ngay trên đường xích đạo, nơi những thảo nguyên rộng lớn trải dài đến tận chân trời và hàng triệu con linh dương đầu bò phi nước đại mỗi năm qua vùng Maasai Mara. Đỉnh núi Kenya — ngọn núi cao thứ hai châu Phi — vươn lên giữa vùng nóng bức, trên đỉnh vẫn phủ tuyết trắng. Thung lũng Great Rift cắt ngang đất nước như một vết nứt khổng lồ của Trái Đất. Còn thủ đô Nairobi là nơi duy nhất trên thế giới có công viên quốc gia ngay trong lòng thành phố — sư tử có thể nhìn thấy những tòa nhà chọc trời chỉ cách vài kilomet!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Nairobi",
+      "sub": "4,4 triệu người (2019)"
+    },
+    {
+      "label": "Dân số",
+      "value": "55 triệu",
+      "sub": "Ước tính 2023, có 47 dân tộc"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Shilling KES",
+      "sub": "100 cent = 1 shilling"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Swahili & Anh",
+      "sub": "Cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "580.367 km²",
+      "sub": "Gấp đôi diện tích nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Kenya 5.199m",
+      "sub": "Đỉnh cao thứ hai châu Phi"
+    }
+  ],
+  "islands": [
+    "NAIROBI",
+    "MOMBASA",
+    "KISUMU",
+    "NAKURU",
+    "ELDORET"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Vết nứt của Trái Đất",
+    "animals": "Cuộc diễu hành vĩ đại nhất",
+    "culture": "Nhịp trống, hạt cườm và bánh chapati",
+    "history": "Từ cội nguồn đến độc lập",
+    "wows": "Kenya kỳ diệu!"
+  },
+  "geo": [
+    "Kenya nằm vắt ngang đường xích đạo nên quanh năm không có mùa đông. Thung lũng Great Rift cắt xuyên đất nước từ bắc xuống nam, rải rác những hồ nước mặn nơi hàng triệu con hồng hạc đậu đến đổi màu hồng rực. Núi Kenya nhô lên giữa vùng xích đạo nóng bức — đỉnh tuyết trắng trên nền trời xanh chính là biểu tượng đặt tên cho cả đất nước này.",
+    "Bờ biển Ấn Độ Dương phía đông trải dài với bãi cát trắng và rạn san hô lung linh. Phía bắc khô cằn như sa mạc, còn phía nam là những thảo nguyên bát ngát và bờ hồ Victoria — hồ nước ngọt lớn nhất châu Phi. Kenya là nơi giao thoa của nhiều cảnh quan thiên nhiên khác nhau, từ tuyết đến sa mạc chỉ trong một đất nước."
+  ],
+  "animals": [
+    "Mỗi năm từ tháng Bảy đến tháng Mười, hơn 1,5 triệu con linh dương đầu bò và ngựa vằn vượt sông Mara đầy cá sấu trong cuộc thiên di vĩ đại nhất thế giới — khung cảnh hùng tráng như không nơi nào có được. Kenya là một trong những ít nơi trên Trái Đất bạn có thể gặp đủ Ngũ đại anh hùng — sư tử, voi, báo đốm, tê giác và trâu rừng — chỉ trong một ngày.",
+    "Hơn 1.100 loài chim sinh sống ở đây, nhiều hơn cả toàn châu Âu cộng lại. Hồ Nakuru biến thành màu hồng rực vì hàng triệu con hồng hạc đậu kín mặt nước. Còn ở Amboseli, những đàn voi khổng lồ dạo bước trước nền trời có đỉnh Kilimanjaro phủ tuyết — cảnh tượng đẹp đến mức trở thành biểu tượng của cả châu Phi."
+  ],
+  "culture": [
+    "Kenya có 47 dân tộc với truyền thống riêng biệt và phong phú. Người Maasai nổi tiếng với trang phục đỏ rực gọi là shuka, và điệu nhảy adumu — các chàng trai thi nhau nhảy thật cao, người nào nhảy được cao nhất sẽ được tôn trọng nhất. Dọc bờ biển, văn hóa Swahili là sự pha trộn kỳ diệu của người châu Phi, Ả Rập và Ấn Độ qua hàng trăm năm buôn bán đường biển.",
+    "Ugali — một loại cháo bắp đặc sệt giống xôi của mình — là món ăn chủ yếu của cả nước, thường ăn kèm rau cải xào sukuma wiki hoặc thịt hầm. Người Kenya từ vùng Rift Valley tập chạy ở độ cao lớn từ nhỏ và đã thống trị các đường đua marathon thế giới suốt nhiều thập kỷ — họ là những vận động viên chạy bộ giỏi nhất hành tinh!"
+  ],
+  "history": [
+    "Gần hồ Turkana, các nhà khoa học đã tìm thấy hóa thạch người cổ đại hơn 3 triệu năm tuổi, khiến vùng đất này được gọi là 'Cái nôi của loài người'. Hàng nghìn năm trước, các thương nhân Ả Rập đã xây dựng những thành phố Swahili phồn thịnh dọc bờ biển, mà tàn tích san hô của chúng ở Gede và Lamu vẫn còn đứng vững đến ngày nay.",
+    "Người Anh xâm chiếm Kenya vào những năm 1890 và biến nơi đây thành thuộc địa. Phong trào Mau Mau đã chiến đấu kiên cường trong những năm 1950 để giành lại tự do. Ngày 12 tháng 12 năm 1963, Kenya tuyên bố độc lập, với Jomo Kenyatta trở thành vị tổng thống đầu tiên, lãnh đạo đất nước xây dựng nền kinh tế lớn nhất Đông Phi."
+  ],
+  "wows": [
+    "Hồ Turkana là hồ sa mạc lớn nhất thế giới — một dải nước màu xanh núi lửa dài 290 km giữa vùng khô cằn ở miền bắc Kenya.",
+    "Những vận động viên đến từ thị trấn nhỏ Iten đã giành được nhiều huy chương Olympic chạy đường dài hơn cả hầu hết các quốc gia.",
+    "Vườn quốc gia Nairobi là khu bảo tồn động vật hoang dã duy nhất nằm trong lòng thủ đô, chỉ cách trung tâm thành phố 7 km.",
+    "Năm 2001, người ta phát hiện cá coelacanth — loài cá tưởng đã tuyệt chủng 65 triệu năm — vẫn đang sống khỏe ngoài khơi bờ biển Kenya.",
+    "Kenya phát minh ra M-Pesa (2007) — hệ thống thanh toán bằng điện thoại di động đầu tiên trên thế giới, hiện có 30 triệu người sử dụng.",
+    "Hồ Bogoria đông hồng hạc đến mức nhìn từ trên máy bay trông như ai vừa đổ hết lon sơn hồng khổng lồ xuống đó.",
+    "Phố cổ Lamu không có bất kỳ chiếc xe nào — lừa là phương tiện giao thông chính trên những con đường đá san hô cổ kính hàng trăm năm tuổi."
+  ],
+  "myths": [
+    {
+      "myth": "Kenya toàn là rừng rậm và khu safari",
+      "fact": "Thực ra phần lớn Kenya là thảo nguyên trống trải, bán sa mạc hoặc nông trại. Rừng mưa nhiệt đới dày đặc chỉ chiếm một dải hẹp trên sườn núi Kenya và ở Kakamega — rất nhỏ so với tổng diện tích."
+    },
+    {
+      "myth": "Sư tử đi lại khắp nơi ở Kenya",
+      "fact": "Sư tử chỉ sống trong các khu bảo tồn được bảo vệ, chiếm khoảng 8% diện tích Kenya. Phần còn lại là đồng ruộng và thành phố — hầu như không bao giờ nhìn thấy sư tử ở đó."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Jambo",
+      "say": "JAM-boh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Asante",
+      "say": "ah-SAN-teh"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Ndiyo",
+      "say": "nDEE-yoh"
+    },
+    {
+      "en": "Không sao",
+      "jp": "Hakuna",
+      "say": "ha-KOO-na"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Tamu sana",
+      "say": "TA-moo SA-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ke-hero.jpg",
+      "alt": "Đường chân trời thành phố Nairobi lúc hoàng hôn với các tòa nhà chọc trời hiện đại",
+      "caption": "NAIROBI — thủ đô sôi động nhất Đông Phi rực sáng lúc hoàng hôn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ke-landmark.jpg",
+      "alt": "Đàn voi đi bộ trên đồng bằng Amboseli với núi Kilimanjaro tuyết phủ ở phía sau",
+      "caption": "AMBOSELI — voi dạo bước dưới chân đỉnh Kilimanjaro phủ tuyết",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ke-animalA.jpg",
+      "alt": "Sư tử cái nghỉ ngơi giữa thảo nguyên Maasai Mara",
+      "caption": "SƯ TỬ CÁI — nữ hoàng của thảo nguyên Maasai Mara",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ke-animalB.jpg",
+      "alt": "Hàng ngàn con hồng hạc phủ kín mặt hồ Nakuru thành màu hồng rực",
+      "caption": "HỒ NAKURU — triệu con hồng hạc biến hồ muối thành một tấm thảm hồng khổng lồ",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

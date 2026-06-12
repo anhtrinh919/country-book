@@ -1,0 +1,163 @@
+{
+  "name": "TRIỀU TIÊN",
+  "nativeName": "조선",
+  "romaji": "JOSEON",
+  "tagline": "Xứ sở bình minh tĩnh lặng",
+  "region": "Đông Á",
+  "coords": "40°N 127°E",
+  "fileNo": "KP",
+  "langName": "tiếng Triều Tiên",
+  "motif": "sun",
+  "theme": {
+    "paper": "#EEE9DD",
+    "dot": "#C9BFAE",
+    "ink": "#241E1A",
+    "faint": "#7A6E60",
+    "line": "#D8CFBC",
+    "accent": "#ED1C27",
+    "accent2": "#024FA2"
+  },
+  "flag": {
+    "assetPath": "/flags/kp.svg",
+    "title": "Quốc kỳ Triều Tiên",
+    "note": "Ngôi sao đỏ trên đĩa trắng, dải đỏ rộng ở giữa",
+    "keyColor": "#ED1C27",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Triều Tiên nằm ở nửa phía bắc của bán đảo Triều Tiên, kẹp giữa Trung Quốc và Nhật Bản. Đây là một trong những quốc gia bí ẩn nhất hành tinh — gia đình họ Kim cai trị từ năm 1948 và ít ai được ra vào tự do. Hầu như mọi ngọn đồi đều phủ kín rừng xanh, thủ đô Bình Nhưỡng nguy nga với những đài tưởng niệm khổng lồ, còn ngọn núi lửa thiêng Paektu đứng canh gác ở tận biên giới phía bắc.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bình Nhưỡng",
+      "sub": "Dân số ~3,2 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "~26,6 triệu",
+      "sub": "Ước tính 2025; điều tra gần nhất năm 2008"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Won Triều Tiên (₩)",
+      "sub": "Không trao đổi tự do được"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Triều Tiên",
+      "sub": "Ngôn ngữ chính thức duy nhất"
+    },
+    {
+      "label": "Diện tích",
+      "value": "120.538 km²",
+      "sub": "Xấp xỉ bằng Hy Lạp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Paektu",
+      "sub": "2.744 m — núi lửa thiêng"
+    }
+  ],
+  "islands": [
+    "Pyongyang",
+    "Hamhung",
+    "Chongjin",
+    "Wonsan",
+    "Kaesong"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, sông lớn và lửa ngầm",
+    "animals": "Thú rừng phương Bắc",
+    "culture": "Đài tưởng niệm và hội diễn triệu người",
+    "history": "Từ vương quốc đến đất nước bí ẩn",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Khoảng 80% lãnh thổ Triều Tiên là núi. Dãy Nangnim và dãy Hamgyong chạy dọc như xương sống của đất nước, chỉ để lại những dải đồng bằng ven biển hẹp cho việc trồng trọt. Ba con sông lớn — Áp Lục, Đồ Môn và Đại Đồng — uốn khúc qua các thung lũng, tạo thành biên giới tự nhiên với Trung Quốc và Nga.",
+    "Ở tận phía bắc là núi Paektu — một ngọn núi lửa đang ngủ với hồ miệng núi lửa tuyệt đẹp tên là Thiên Trì. Hồ sâu tới 384 m và mùa đông trên đỉnh nhiệt độ có thể xuống tới âm 48 độ C — lạnh hơn cả Bắc Cực nhiều ngày trong năm!"
+  ],
+  "animals": [
+    "Những cánh rừng phía bắc giá lạnh là nhà của gấu ngựa châu Á — loài gấu vạm vỡ với vệt lông trắng hình trăng lưỡi liềm trên ngực, vì vậy còn được gọi là gấu mặt trăng. Loài này sống đơn độc và nhút nhát, thường mò vào vườn cây ăn quả vào mùa thu để tích mỡ trước khi ngủ đông.",
+    "Hươu nước Triều Tiên sống ở các vùng đầm lầy ven sông khắp bán đảo. Điều lạ là con đực không mọc sừng — thay vào đó, chúng có đôi nanh cong dài thò ra khỏi miệng, trông như... ma cà rồng! Thế nên dân gian gọi chúng là 'hươu ma cà rồng'."
+  ],
+  "culture": [
+    "Hằng năm, Đại hội thể dục Triều Tiên lấp đầy sân vận động Ngày Quốc tế Lao động ở Bình Nhưỡng — sân lớn nhất thế giới. Hơn 100.000 người biểu diễn cùng lúc: vận động viên thể dục, vũ công, và đặc biệt là 30.000 học sinh lật bảng màu tạo thành những bức tranh khổng lồ sống động. Guinness công nhận đây là màn thể dục tập thể lớn nhất Trái Đất.",
+    "Âm nhạc và nghệ thuật gắn bó sâu sắc với đời sống hằng ngày, nhưng luôn theo chủ đề do nhà nước quy định. Học sinh dành hàng trăm giờ học về gia đình lãnh tụ họ Kim. Có thời kỳ, người dân chỉ được chọn kiểu tóc trong danh sách 28 kiểu được nhà nước cho phép."
+  ],
+  "history": [
+    "Triều Tiên từng là một vương quốc thống nhất suốt hơn ngàn năm trước khi Nhật Bản chiếm đóng vào năm 1910. Sau khi Nhật thua trận năm 1945, bán đảo bị chia đôi: Liên Xô hậu thuẫn miền Bắc, Mỹ hậu thuẫn miền Nam. Kim Nhật Thành lên nắm quyền ở miền Bắc năm 1948.",
+    "Chiến tranh Triều Tiên (1950–53) kết thúc bằng lệnh ngừng bắn, không phải hiệp ước hòa bình — nên về mặt kỹ thuật hai miền vẫn đang trong tình trạng chiến tranh. Gia tộc họ Kim cai trị liên tiếp: ông nội, rồi con trai, rồi cháu trai Kim Jong Un từ năm 2011."
+  ],
+  "wows": [
+    "Triều Tiên từng dùng lịch Juche riêng nhưng đã chuyển lại về lịch dương vào năm 2024.",
+    "Khách sạn Ryugyong 105 tầng ở Bình Nhưỡng xây dựng từ năm 1987 nhưng chưa bao giờ mở cửa đón khách.",
+    "Vụ phun trào núi Paektu năm 946 sau Công nguyên bắn tro tàn bay sang tận Nhật Bản — một trong những vụ núi lửa lớn nhất trong lịch sử loài người.",
+    "Năm 2015, Triều Tiên tự đặt đồng hồ chậm lại 30 phút để khẳng định độc lập, rồi năm 2018 lại đổi về giờ chung với Hàn Quốc để thể hiện hòa giải.",
+    "Màn lật bảng tại Đại hội thể dục dùng 30.000 học sinh cầm bảng màu — bức tranh sống lớn nhất thế giới.",
+    "Triều Tiên có mạng internet riêng tên Kwangmyong, hoàn toàn tách biệt với internet toàn cầu.",
+    "Khu phi quân sự DMZ giữa hai miền Triều Tiên không bị xáo trộn hơn 70 năm và nay trở thành khu bảo tồn động vật hoang dã hiếm có."
+  ],
+  "myths": [
+    {
+      "myth": "Người Triều Tiên đều thấp bé như nhau",
+      "fact": "Chiều cao trung bình giảm sau nạn đói những năm 1990 — nhiều người thấp hơn người Hàn Quốc miền Nam — nhưng mỗi người vẫn cao thấp khác nhau, như ở bất kỳ đâu trên thế giới."
+    },
+    {
+      "myth": "Triều Tiên tối đen hoàn toàn nhìn từ vũ trụ",
+      "fact": "Ảnh vệ tinh cho thấy ít ánh đèn hơn vì thiếu điện — Bình Nhưỡng vẫn có điện, nhưng vùng nông thôn rất ít ánh sáng."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "안녕하세요",
+      "say": "an-nyong-ha-se-yo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "감사합니다",
+      "say": "gam-sa-ham-ni-da"
+    },
+    {
+      "en": "Vâng",
+      "jp": "네",
+      "say": "ne"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "맛있어요",
+      "say": "ma-si-so-yo"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "안녕히 가세요",
+      "say": "an-nyong-hi gaseyo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kp-hero.jpg",
+      "alt": "Hồ Thiên Trì trong miệng núi lửa trên đỉnh núi Paektu",
+      "caption": "NÚI PAEKTU — Hồ Thiên Trì nằm trong lòng miệng núi lửa cổ đại ở độ cao 2.744 m",
+      "credit": "Uri Tours / CC BY-SA 2.0"
+    },
+    "landmark": {
+      "src": "/photos/kp-landmark.jpg",
+      "alt": "Khải Hoàn Môn Bình Nhưỡng với tòa nhà Ryugyong phía sau",
+      "caption": "KHẢI HOÀN MÔN — Cổng đá granit ở Bình Nhưỡng, cao hơn cả bản gốc ở Paris",
+      "credit": "Kok Leng Yeo / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/kp-animalA.jpg",
+      "alt": "Gấu ngựa châu Á với vệt lông trắng hình trăng lưỡi liềm đặc trưng trên ngực",
+      "caption": "GẤU MẶT TRĂNG — Vệt lông trắng trên ngực là dấu hiệu nhận biết loài gấu rừng này",
+      "credit": "ThomasMelle / CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/kp-animalB.jpg",
+      "alt": "Hươu nước Triều Tiên với đôi nanh nhỏ lộ ra",
+      "caption": "HƯƠU NANH — Có nanh nhưng hiền lành; sống ở các đầm lầy ven sông khắp bán đảo Triều Tiên",
+      "credit": "까칠한 감자씨 / CC BY-SA 2.5"
+    }
+  }
+}

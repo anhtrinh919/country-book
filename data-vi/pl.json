@@ -1,0 +1,162 @@
+{
+  "name": "BA LAN",
+  "nativeName": "PL",
+  "romaji": "POLSKA",
+  "tagline": "Nơi dũng khí gặp sắc màu",
+  "region": "Trung-Đông Âu",
+  "coords": "52°N 20°E",
+  "fileNo": "048",
+  "langName": "tiếng Ba Lan",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE2",
+    "dot": "#CCBFA3",
+    "ink": "#28221E",
+    "faint": "#8B7A60",
+    "line": "#DACCB2",
+    "accent": "#C7102E",
+    "accent2": "#F5F0EA"
+  },
+  "flag": {
+    "assetPath": "/flags/pl.svg",
+    "title": "Biało-Czerwona",
+    "note": "Trắng trên đỏ — giản dị, mạnh mẽ, không thể nhầm lẫn",
+    "keyColor": "#C7102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ba Lan nằm ngay giữa châu Âu, trải dài trên một đồng bằng rộng lớn. Đất nước này từng bị xóa khỏi bản đồ thế giới suốt 123 năm, rồi tự tay xây lại thủ đô từ đống gạch vụn — và vẫn sinh ra những nhà khoa học, nhạc sĩ lừng danh. Hơn 37 triệu người đang sống ở đây, với món bánh bao nhân khoai tây thơm ngon, hổ phách quý giá từ biển Baltic, và hình ảnh đại bàng trắng đã là biểu tượng của Ba Lan suốt hơn một ngàn năm.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Warsaw",
+      "sub": "Warszawa — khoảng 1,86 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "37,5 triệu người",
+      "sub": "Số liệu đăng ký GUS năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Złoty (PLN)",
+      "sub": "100 groszy = 1 zł"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ba Lan",
+      "sub": "Một ngôn ngữ chính thức duy nhất"
+    },
+    {
+      "label": "Diện tích",
+      "value": "312.679 km²",
+      "sub": "Lớn thứ 71 trên thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Rysy 2.499 m",
+      "sub": "Dãy Tatra, miền nam"
+    }
+  ],
+  "islands": [
+    "Mazovia",
+    "Silesia",
+    "Pomerania",
+    "Podlaskie"
+  ],
+  "islandsLabel": "CÁC VÙNG LỚN:",
+  "sections": {
+    "geography": "Đồng bằng mênh mông và dãy núi hùng vĩ",
+    "animals": "Bò rừng, linh miêu và đại bàng",
+    "culture": "Bánh bao, điệu nhảy và hổ phách",
+    "history": "Mất đi rồi tìm lại — 1.000 năm lịch sử",
+    "wows": "Những điều khó tin về Ba Lan"
+  },
+  "geo": [
+    "Phần lớn Ba Lan là một đồng bằng bằng phẳng rộng lớn, giống như một con đường thẳng tắp giữa lòng châu Âu — chính vì thế mà nhiều đạo quân qua các thời đại đã chọn nơi này làm lối đi. Những dòng sông lớn như Vistula và Oder chảy về phía bắc đổ ra biển Baltic, băng qua những thành phố cổ kính và những khu rừng thông tối tăm bí ẩn.",
+    "Nhưng miền nam lại hoàn toàn khác: dãy Tatra dựng đứng sát biên giới Slovakia với những đỉnh núi đá chênh vênh, nơi sơn dương thoăn thoắt nhảy giữa các vách đá. Giữa đồng bằng và núi non là những ngọn đồi nhấp nhô, những hồ nước hình thành từ băng hà, và khu rừng nguyên sinh Białowieża huyền bí — một trong những khu rừng lâu đời nhất châu Âu còn sót lại đến ngày nay."
+  ],
+  "animals": [
+    "Con vật nổi tiếng nhất của Ba Lan là bò rừng châu Âu — loài động vật có vú nặng nhất lục địa này. Năm 1927, chúng đã tuyệt chủng hoàn toàn ngoài tự nhiên vì bị săn bắt quá nhiều. Thế nhưng các nhà khoa học đã kiên nhẫn nhân giống chúng từ những cá thể còn sót lại trong sở thú rồi thả về rừng. Hơn 2.000 con bò rừng giờ đây tự do rong ruổi khắp Ba Lan, đông nhất là trong khu rừng cổ Białowieża.",
+    "Dãy núi Tatra là nơi trú ẩn của gấu nâu, sói và linh miêu — một loài mèo rừng có đôi chân to bè đặc biệt thích hợp với tuyết. Đại bàng đuôi trắng lượn vòng trên những hồ nước Ba Lan, còn cò trắng thì gần như là biểu tượng của đất nước này — Ba Lan là nơi cư trú của khoảng 25% tổng số cò trắng toàn thế giới, và người dân ở làng quê rất vui mừng khi cò làm tổ trên mái nhà mình."
+  ],
+  "culture": [
+    "Ẩm thực Ba Lan đậm đà và no bụng: pierogi là những chiếc bánh bao nhân khoai tây, phô mai hoặc quả mọng rừng; żurek là súp chua nấu từ bột lúa mạch đen; còn bigos là món hầm thịt thợ săn nổi tiếng. Hổ phách từ bờ biển Baltic đã được buôn bán suốt 3.000 năm — ngày nay Ba Lan sản xuất khoảng 70% đồ trang sức hổ phách của cả thế giới.",
+    "Âm nhạc rất được coi trọng ở đây: nhà soạn nhạc thiên tài Frédéric Chopin là người Ba Lan, và cứ năm năm một lần Warsaw lại tổ chức cuộc thi piano Chopin danh tiếng thu hút thí sinh từ khắp nơi. Lễ Giáng Sinh là dịp lễ lớn nhất trong năm — phong tục đẹp của người Ba Lan là để thêm một chiếc đĩa trống trên bàn ăn, dành cho bất kỳ người lạ nào lỡ đường cần một bữa cơm."
+  ],
+  "history": [
+    "Ba Lan trở thành một vương quốc từ hơn 1.000 năm trước. Vào thế kỷ 16, Liên bang Ba Lan–Litva là một trong những quốc gia lớn nhất châu Âu. Thế rồi ba nước láng giềng hùng mạnh là Nga, Áo và Phổ đã cùng nhau chia cắt Ba Lan và xóa hoàn toàn cái tên này khỏi bản đồ thế giới suốt 123 năm liền.",
+    "Ba Lan tái xuất hiện trên bản đồ vào năm 1918, nhưng rồi lại chịu đựng những đau thương khủng khiếp trong Thế Chiến II — Warsaw gần như bị san phẳng và sáu triệu người dân thiệt mạng. Đến năm 1989, phong trào công đoàn Đoàn Kết đã làm nên một cuộc cách mạng hòa bình, giành được cuộc bầu cử tự do đầu tiên của Ba Lan và mở ra kỷ nguyên mới."
+  ],
+  "wows": [
+    "Ba Lan bị xóa khỏi bản đồ thế giới 123 năm, nhưng ngôn ngữ và văn hóa vẫn sống sót qua tất cả.",
+    "Khu phố cổ Warsaw được xây dựng lại từng viên gạch một, dựa trên những bức tranh vẽ từ thế kỷ 18 làm bản thiết kế.",
+    "Marie Curie — nhà khoa học duy nhất nhận hai giải Nobel ở hai lĩnh vực khoa học khác nhau — sinh ra tại Warsaw năm 1867.",
+    "Ba Lan sản xuất khoảng 70% đồ trang sức hổ phách của thế giới — được làm từ nhựa cây hóa thạch có tuổi đời 40 triệu năm.",
+    "Bò rừng châu Âu đã tuyệt chủng ngoài tự nhiên từ năm 1927, nhưng được nhân giống thành công và nay có hơn 2.000 con sống tự do ở Ba Lan.",
+    "Khoảng 25% tổng số cò trắng trên toàn Trái Đất về Ba Lan làm tổ mỗi mùa hè.",
+    "Mỏ muối Wieliczka có những nhà nguyện và đèn chùm dưới lòng đất — tất cả đều được đục đẽo từ muối nguyên khối."
+  ],
+  "myths": [
+    {
+      "myth": "Ba Lan lúc nào cũng lạnh và u ám",
+      "fact": "Mùa hè ở đây thường lên đến 30°C; Kraków và Gdańsk là những thành phố đầy nắng và màu sắc, với văn hóa cà phê sôi động và những quảng trường thời trung cổ tuyệt đẹp."
+    },
+    {
+      "myth": "Chữ Ba Lan không thể học được vì quá khó",
+      "fact": "Chính tả tiếng Ba Lan thực ra rất nhất quán — mỗi chữ cái chỉ có một cách đọc. Khi đã biết sz đọc là 'sh' và cz đọc là 'ch', những từ như Szczecin sẽ đọc được ngay."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Cześć",
+      "say": "Cheshch"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Dziękuję",
+      "say": "Jen-KOO-yeh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Proszę",
+      "say": "PRO-sheh"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Pyszne!",
+      "say": "PISH-neh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Do widzenia",
+      "say": "Do vid-ZEN-ya"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pl-hero.jpg",
+      "alt": "Quảng trường Thị trường Phố Cổ Warsaw với những ngôi nhà đầy màu sắc",
+      "caption": "PHỐ CỔ WARSAW — được xây lại từ đống đổ nát, nay là Di sản Thế giới UNESCO",
+      "credit": "Wikimedia Commons / Adrian Grycuk"
+    },
+    "landmark": {
+      "src": "/photos/pl-landmark.jpg",
+      "alt": "Nhà nguyện muối được chạm khắc bên trong mỏ Wieliczka",
+      "caption": "MỎ WIELICZKA — những nhà nguyện dưới lòng đất được đục từ muối nguyên khối, khai thác 700 năm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pl-animalA.jpg",
+      "alt": "Bò rừng châu Âu đứng trong rừng Białowieża",
+      "caption": "BÒ RỪNG CHÂU ÂU — loài động vật nặng nhất châu Âu, được cứu khỏi tuyệt chủng tại đây",
+      "credit": "Wikimedia Commons / Radomił Binek"
+    },
+    "animalB": {
+      "src": "/photos/pl-animalB.jpg",
+      "alt": "Cò trắng đứng giữa cánh đồng Ba Lan",
+      "caption": "CÒ TRẮNG — Ba Lan là nơi cư trú của 25% tổng số cò trắng sinh sản trên toàn thế giới mỗi mùa hè",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

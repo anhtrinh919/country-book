@@ -1,0 +1,163 @@
+{
+  "name": "SUDAN",
+  "nativeName": "SD",
+  "romaji": "AS-SUDAN",
+  "tagline": "Vùng đất ngàn kim tự tháp",
+  "region": "Bắc Phi",
+  "coords": "15°N 30°E",
+  "fileNo": "093",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#C8B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7055",
+    "line": "#DDD0B0",
+    "accent": "#D21034",
+    "accent2": "#007229"
+  },
+  "flag": {
+    "assetPath": "/flags/sd.svg",
+    "title": "Quốc kỳ Sudan",
+    "note": "Ba sọc đỏ-trắng-đen với tam giác xanh lá",
+    "keyColor": "#D21034",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Sudan là nơi châu Phi gặp gỡ thế giới Ả Rập — hai nhánh sông Nile xanh và trắng hòa quyện tại thủ đô Khartoum tạo thành dải xoáy màu sắc kỳ diệu. Sa mạc phía bắc ẩn giấu nhiều kim tự tháp hơn cả Ai Cập, còn sư tử và cá sấu rừng rú vẫn lang thang ở miền nam xanh mướt. Đây từng là quê hương của một vương quốc cổ đại đã chinh phục chính Ai Cập — một đất nước vừa lớn vừa đầy bất ngờ bậc nhất châu Phi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Khartoum",
+      "sub": "nơi hai nhánh sông Nile gặp nhau"
+    },
+    {
+      "label": "Dân số",
+      "value": "~47 triệu",
+      "sub": "ước tính LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Bảng Sudan",
+      "sub": "Sudanese pound"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "ngôn ngữ chính thức; còn hơn 70 tiếng khác"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1,86 triệu km²",
+      "sub": "lớn thứ 3 châu Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.042 m",
+      "sub": "Miệng núi lửa Deriba, núi Jebel Marra"
+    }
+  ],
+  "islands": [
+    "Khartoum",
+    "Omdurman",
+    "Port Sudan",
+    "Kassala",
+    "El-Obeid"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sa mạc, sông Nile và núi lửa",
+    "animals": "Cá sấu, lạc đà và linh dương",
+    "culture": "Kim tự tháp, henna và nhạc sông Nile",
+    "history": "Vua đen và vương quốc Kush",
+    "wows": "Những điều khó tin về Sudan"
+  },
+  "geo": [
+    "Phần lớn Sudan là sa mạc Sahara bạt ngàn ở phía bắc, nơi sa mạc Nubia nung nóng dưới nắng gắt quanh năm. Sông Nile uốn khúc xuyên suốt đất nước, và ngay tại Khartoum, hai nhánh sông — một xanh biếc, một nâu đục — chảy song song cạnh nhau rõ ràng đến từng vệt màu trước khi hòa làm một.",
+    "Ở phía tây, ngọn núi lửa tắt Jebel Marra vươn lên gần 3.000 m, bên trong có cả hồ miệng núi lửa lấp lánh. Miền nam đổi sang màu xanh với đồng cỏ và đầm lầy hoang dã, còn phía đông tiếp giáp Biển Đỏ — tức là Sudan có cả bãi biển, sa mạc lẫn rừng nhiệt đới trong một đất nước."
+  ],
+  "animals": [
+    "Cá sấu sông Nile rình rập trong các dòng sông Sudan, dài tới 5 mét, nằm bất động hàng giờ như khúc gỗ trước khi bất ngờ táp. Linh dương Dorcas tung tăng trên sa mạc phía bắc bằng những chiếc chân mỏng manh, sống sót mà không cần uống nước nhờ ăn các loài cây chứa nhiều ẩm.",
+    "Lạc đà dromedary gánh hàng vượt sa mạc Nubia suốt hàng nghìn năm qua. Sư tử và báo săn mồi trên đồng cỏ miền nam, còn trăn đá châu Phi — loài trăn dài nhất lục địa — cuộn mình bên bờ sông. Hơn 630 loài chim tô điểm bầu trời Sudan."
+  ],
+  "culture": [
+    "Người Sudan nổi tiếng hiếu khách — khách đến nhà lúc nào cũng được mời cà phê gia vị thơm nồng hoặc trà ngọt nóng hổi. Người Nubian nổi danh với những bức tranh tường hình học rực rỡ màu sắc, vải dệt tay hoa văn đậm đà, và âm nhạc réo rắt từ trống và đàn oud.",
+    "Vẽ henna trên tay và chân là nghi thức không thể thiếu trong những đám cưới kéo dài nhiều đêm liền. Chợ Omdurman khổng lồ ồn ào với mùi gia vị và óng ánh vàng bạc. Ful medames — món đậu hầm gia vị cả đêm — là bữa sáng quen thuộc và được yêu thích nhất của người Sudan."
+  ],
+  "history": [
+    "Khoảng 2.600 năm trước, Vương quốc Kush hùng mạnh đến mức các vị vua của họ — được gọi là Pharaoh Đen — chinh phục toàn bộ Ai Cập. Họ xây hàng trăm kim tự tháp dốc đứng dọc theo sông Nile làm lăng mộ hoàng gia, nhiều hơn số kim tự tháp tồn tại ở Ai Cập ngày nay.",
+    "Sudan từng là một phần của Đế chế Ottoman, rồi chịu sự cai trị chung của Anh và Ai Cập, trước khi giành độc lập năm 1956. Năm 2011, Nam Sudan bỏ phiếu tách ra thành một quốc gia riêng — trở thành đất nước mới nhất châu Phi trong một trong những cuộc chia tách hòa bình hiếm có nhất thế giới hiện đại."
+  ],
+  "wows": [
+    "Sudan có nhiều kim tự tháp cổ hơn Ai Cập — riêng tại Meroë đã có hơn 200 chiếc, do các vua Kush xây dựng.",
+    "Pharaoh Đen của vương quốc Kush chinh phục Ai Cập năm 747 trước Công nguyên và cai trị đế chế suốt gần một thế kỷ.",
+    "Tại Khartoum, hai nhánh sông — một xanh lam, một nâu bùn — chảy sát nhau nhìn thấy rõ màu sắc khác biệt trước khi hòa quyện.",
+    "Núi lửa Jebel Marra phun trào lần cuối chỉ 3.500 năm trước; suối nước nóng vẫn đang sục bọt bên trong hồ miệng núi lửa.",
+    "Kim tự tháp Sudan dốc hơn của Ai Cập nhiều — góc nghiêng 72 độ sắc ngọn so với 54 độ của Ai Cập.",
+    "Chợ lạc đà lớn nhất châu Phi nằm tại Omdurman, Sudan, giao dịch hàng nghìn con lạc đà mỗi tuần.",
+    "Người Ai Cập gọi vùng đất này là 'Nubia' từ chữ của họ có nghĩa là vàng — Sudan chính là nguồn cung vàng chính cho Ai Cập cổ đại."
+  ],
+  "myths": [
+    {
+      "myth": "Sudan chỉ toàn sa mạc",
+      "fact": "Chỉ miền bắc mới là sa mạc — miền nam có đồng cỏ nhiệt đới, đầm lầy, và bờ biển Biển Đỏ với rạn san hô tuyệt đẹp."
+    },
+    {
+      "myth": "Ai Cập có nhiều kim tự tháp nhất thế giới",
+      "fact": "Sudan có khoảng 255 kim tự tháp — nhiều hơn gấp đôi Ai Cập. Chúng được xây dựng chủ yếu sau năm 700 trước Công nguyên và ít người biết đến hơn."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "سلام",
+      "say": "sa-LAAM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Nước uống",
+      "jp": "ماء",
+      "say": "MAA"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/sd-landmark.jpg",
+      "alt": "Những kim tự tháp cổ dốc đứng của Meroë vươn lên giữa cát sa mạc Sudan",
+      "caption": "KIM TỰ THÁP MEROË — lăng mộ hoàng gia của vương quốc Kush trên sa mạc sông Nile",
+      "credit": "Fabrizio Demartis / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/sd-animalA.jpg",
+      "alt": "Cá sấu sông Nile nhìn nghiêng toàn thân",
+      "caption": "CÁ SẤU SÔNG NILE — kẻ săn mồi hàng đầu của các dòng sông châu Phi, dài tới 5 mét",
+      "credit": "Derek Ramsey / CC BY-SA 2.5"
+    },
+    "animalB": {
+      "src": "/photos/sd-animalB.jpg",
+      "alt": "Đàn lạc đà dromedary trên vùng đất khô cằn ở Gedaret, Sudan",
+      "caption": "LẠC ĐÀ DROMEDARY — chúa tể sa mạc, vượt cát Nubia suốt hàng nghìn năm",
+      "credit": "Diego Tirira / CC BY-SA 2.0"
+    },
+    "hero": {
+      "src": "/photos/sd-hero.jpg",
+      "alt": "Nhìn từ trên cao, hai nhánh sông Nile xanh và trắng giao nhau tại Khartoum với màu sắc rõ ràng khác biệt",
+      "caption": "NGÃ BA HAI NHÁNH SÔNG NILE — hai dòng sông màu sắc khác nhau hội tụ tại Khartoum",
+      "credit": "Hans Birger Nilsen / CC BY-SA 2.0"
+    }
+  }
+}

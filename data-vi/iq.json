@@ -1,0 +1,163 @@
+{
+  "name": "IRAQ",
+  "nativeName": "العراق",
+  "romaji": "AL-IRAQ",
+  "tagline": "Nơi khai sinh nền văn minh",
+  "region": "Trung Đông",
+  "coords": "33°N 44°E",
+  "fileNo": "IQ",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4BA8A",
+    "ink": "#1E1A14",
+    "faint": "#8A7455",
+    "line": "#E0CFA0",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/iq.svg",
+    "title": "Quốc kỳ Iraq",
+    "note": "Xanh lá, trắng và đỏ với chữ Ả Rập kiểu Kufic",
+    "keyColor": "#007A3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Iraq chính là nơi con người lần đầu tiên phát minh ra chữ viết và xây dựng những thành phố đầu tiên cách đây 5.000 năm, giữa hai dòng sông Tigris và Euphrates huyền thoại. Thủ đô Baghdad nhộn nhịp với gần tám triệu dân, những giàn khoan dầu trải khắp đồng bằng, và các đầm lầy phương Nam là nơi trâu nước sinh sống trong những ngôi nhà lau sậy. Từ núi tuyết đến sa mạc bỏng rát, Iraq chứa đựng cả một thế giới thu nhỏ.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Baghdad",
+      "sub": "Dân số ~7,9 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "46,1 triệu người",
+      "sub": "Điều tra dân số 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dinar Iraq",
+      "sub": "IQD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Tiếng Kurd cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "438.317 km²",
+      "sub": "Lớn hơn bang California của Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Cheekha Dar",
+      "sub": "3.611 m, vùng Kurdistan phía bắc"
+    }
+  ],
+  "islands": [
+    "Baghdad",
+    "Basra",
+    "Erbil",
+    "Mosul",
+    "Najaf"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Hai dòng sông, sa mạc và núi cao",
+    "animals": "Miền đất xưa của sư tử hoang",
+    "culture": "Chà là, thơ ca và đất sét cổ đại",
+    "history": "Nơi lịch sử nhân loại bắt đầu",
+    "wows": "Iraq bất ngờ hơn bạn nghĩ"
+  },
+  "geo": [
+    "Iraq được định hình bởi hai con sông Tigris và Euphrates chảy về phía nam đổ vào Vịnh Ba Tư. Khoảng đất nằm giữa hai dòng sông ấy chính là Mesopotamia — vùng đồng bằng màu mỡ, nơi những thành phố vĩ đại đầu tiên của loài người ra đời. Phía bắc Iraq nhô cao thành dãy núi Kurdistan, tuyết phủ trắng vào mùa đông trông rất đẹp.",
+    "Phía tây là sa mạc mênh mông, nắng nóng có thể vượt 50°C — nóng hơn cả những ngày hè oi bức nhất ở Việt Nam. Tận cùng phía nam là Đầm lầy Mesopotamia — một vùng đất ngập nước rộng lớn đầy lau sậy và kênh rạch, được UNESCO công nhận là Di sản Thế giới."
+  ],
+  "animals": [
+    "Đầm lầy Mesopotamia là thiên đường của rái cá lông mịn, trâu nước, và hàng triệu con chim di cư mỗi năm. Chim chích đầm lầy Basra chỉ làm tổ đúng một nơi trên Trái Đất — chính là đây. Ban đêm, linh cẩu sọc và chó rừng vàng lẻn ra khám phá vùng ven sa mạc.",
+    "Những con sông ở Iraq có loài cá da trơn khổng lồ — cá nheo sông Tigris — dài hơn cả chiều cao của một đứa trẻ. Hươu đực Ba Tư vẫn sống sót được ở vùng bắc được bảo vệ. Đáng tiếc là sư tử châu Á — loài từng được vẽ trên tường thành Babylon — đã tuyệt chủng vào thế kỷ 20."
+  ],
+  "culture": [
+    "Iraq là nơi phát minh ra chữ viết — người Sumer đã dùng que ấn hình nêm vào đất sét ở đây khoảng năm 3200 trước Công nguyên. Ngày nay người Iraq rất yêu thơ ca, thường đọc thơ cho nhau nghe trong gia đình, trong khi trà thảo quả đặc sánh trong những chiếc cốc thủy tinh bé nhỏ là nghi lễ uống trà quốc dân.",
+    "Chà là gần như là thứ lương thực quốc hồn — Iraq trồng hơn 1.000 giống chà là khác nhau. Bữa trưa thứ Sáu thường có thịt cừu hầm chậm với cơm nghệ vàng thơm phức. Tiếng đàn oud réo rắt vang lên trong các quán trà khắp mọi thành phố."
+  ],
+  "history": [
+    "Khoảng 5.000 năm trước, người Sumer xây dựng những thành phố đầu tiên trên thế giới, phát minh ra bánh xe và trường học. Sau đó Babylon vươn lên trở thành thành phố vĩ đại nhất Trái Đất, với kỳ quan Vườn treo nổi tiếng đến tận bây giờ.",
+    "Thành Baghdad được thành lập năm 762 sau Công nguyên và trở thành trung tâm khoa học của thế giới trong thời kỳ Hoàng kim Hồi giáo — các học giả ở đây đã phát minh ra đại số học. Nguồn tài nguyên dầu mỏ và những cuộc chiến tranh thế kỷ 20 đã định hình Iraq hiện đại ngày nay."
+  ],
+  "wows": [
+    "Sử thi Gilgamesh — câu chuyện cổ nhất thế giới — được khắc trên những tấm bảng đất sét ở đây hơn 4.000 năm trước.",
+    "Các nhà toán học Babylon đã phát minh ra giờ 60 phút và vòng tròn 360 độ — chúng ta vẫn dùng cả hai cho đến tận hôm nay.",
+    "Iraq nắm giữ trữ lượng dầu mỏ đã được chứng minh lớn thứ tư thế giới theo OPEC.",
+    "Thành Ur cổ đại ở miền nam Iraq được cho là quê hương của nhân vật Abraham trong Kinh Thánh.",
+    "Từ 'algebra' (đại số) xuất phát từ tiếng Ả Rập — học giả Baghdad tên al-Khwarizmi đã phát minh ra môn này vào khoảng năm 820 sau Công nguyên.",
+    "Các đầm lầy phía nam Iraq đã được bơm nước trở lại hơn một nửa sau năm 2003 và được UNESCO công nhận Di sản Thế giới vào năm 2016.",
+    "Đội tuyển bóng đá Iraq đã vô địch AFC Asian Cup 2007, gây chấn động toàn cõi châu Á với chiến thắng bất ngờ đó."
+  ],
+  "myths": [
+    {
+      "myth": "Iraq toàn là sa mạc nóng bỏng",
+      "fact": "Iraq có núi tuyết ở phía bắc, đầm lầy lau sậy mênh mông ở phía nam, và đồng bằng xanh tươi ven sông ở giữa — sa mạc chỉ là một phần của một đất nước rất đa dạng."
+    },
+    {
+      "myth": "Vườn treo Babylon là có thật và đã được tìm thấy",
+      "fact": "Dù được liệt kê là kỳ quan thế giới cổ đại, chưa có bằng chứng khảo cổ nào được tìm thấy ở Babylon — một số nhà sử học hiện cho rằng khu vườn thực ra nằm ở Nineveh, thủ đô của người Assyria."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ban"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/iq-hero.jpg",
+      "alt": "Phố chợ nhộn nhịp ở trung tâm Baghdad với những gian hàng đầy màu sắc và dòng người qua lại",
+      "caption": "CHỢ BAGHDAD — phiên chợ Shorja cổ kính tấp nập người mua kẻ bán",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/iq-landmark.jpg",
+      "alt": "Ziggurat cổ đại hình bậc thang của thành Ur sừng sững giữa đồng bằng sa mạc",
+      "caption": "ZIGGURAT UR — tháp đền 4.000 năm tuổi ở miền nam Iraq",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/iq-animalA.jpg",
+      "alt": "Rái cá lông mịn đang nghỉ ngơi trên bờ sông",
+      "caption": "RÁI CÁ LÔNG MỊN — săn cá trong đầm lầy Mesopotamia của Iraq",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/iq-animalB.jpg",
+      "alt": "Trâu nước đứng trong vùng nước nông với đôi sừng cong rộng",
+      "caption": "TRÂU NƯỚC — lội trong đầm lầy phương Nam suốt hàng thế kỷ",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

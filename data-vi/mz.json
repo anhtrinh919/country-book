@@ -1,0 +1,163 @@
+{
+  "name": "MOZAMBIQUE",
+  "nativeName": "MZ",
+  "romaji": "MOZAMBIQUE",
+  "tagline": "Nơi rừng rậm gặp biển xanh",
+  "region": "Nam Phi",
+  "coords": "18°S 35°E",
+  "fileNo": "074",
+  "langName": "tiếng Bồ Đào Nha",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBA9A",
+    "ink": "#252018",
+    "faint": "#8B7A55",
+    "line": "#DDD0B2",
+    "accent": "#009A44",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/mz.svg",
+    "title": "Quốc kỳ Mozambique",
+    "note": "Lá cờ duy nhất trên thế giới có hình khẩu AK-47",
+    "keyColor": "#009A44",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mozambique trải dài dọc bờ đông nam châu Phi, nơi đồng cỏ, vùng đất ngập nước và những bãi biển vàng óng gặp nhau bên Ấn Độ Dương ấm áp. Người Bồ Đào Nha đặt chân đến đây 500 năm trước, và từ đó đất nước này trở thành nơi hòa trộn kỳ diệu của văn hóa châu Phi, Ả Rập và châu Âu — từ tôm nướng piri-piri cay xé miệng, những bức điêu khắc Makonde tinh xảo, cho đến tiếng nhạc marrabenta rộn ràng bay ra từ quán cà phê ven biển.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Maputo",
+      "sub": "Thành phố keo dậu bên vịnh biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "34,8 triệu người",
+      "sub": "Ước tính của LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Metical",
+      "sub": "MZN — khoảng 64 đổi 1 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Bồ Đào Nha",
+      "sub": "Cùng hơn 40 ngôn ngữ địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "799.380 km²",
+      "sub": "Lớn hơn Pháp và Đức cộng lại"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Monte Binga",
+      "sub": "2.436 m, giáp ranh với Zimbabwe"
+    }
+  ],
+  "islands": [
+    "Maputo",
+    "Beira",
+    "Nampula",
+    "Tete",
+    "Inhambane"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "2.470 km bờ biển vàng",
+    "animals": "Safari và biển cả trong một đất nước",
+    "culture": "Nhịp điệu, điêu khắc và piri-piri",
+    "history": "Từ thương nhân đến độc lập tự do",
+    "wows": "Mozambique bất ngờ"
+  },
+  "geo": [
+    "Bờ biển Ấn Độ Dương của Mozambique dài tới 2.470 km — một trong những bờ biển dài nhất châu Phi — với san hô, rừng ngập mặn và những hòn đảo xinh đẹp như quần đảo Bazaruto rợp bóng dừa. Những con sông lớn như Zambezi chảy qua đất nước rồi tỏa thành đồng bằng rộng lớn trước khi đổ ra biển.",
+    "Đi sâu vào nội địa, đồng bằng ven biển bằng phẳng dần dần nhô cao thành cao nguyên và dãy núi Chimanimani, nơi đỉnh Monte Binga chạm tới 2.436 m ngay trên đường biên giới với Zimbabwe. Vùng trung tâm rộng lớn là bức tranh ghép của rừng miombo và những vùng đất ngập nước lộng lẫy mỗi mùa mưa về."
+  ],
+  "animals": [
+    "Quần đảo Bazaruto là nơi cư trú của đàn dugong — hay còn gọi là bò biển — cuối cùng còn khỏe mạnh trên bờ đông châu Phi, bình thản gặm cỏ biển dưới làn nước trong xanh. Cá mập voi và cá đuối manta khổng lồ cũng bơi lội tại vùng biển này từ tháng 10 đến tháng 4, và năm loài rùa biển lên bãi đẻ trứng.",
+    "Trong đất liền, vườn quốc gia Gorongosa đã hồi sinh ngoạn mục sau thời kỳ gần như bị xóa sổ hoàn toàn — cuộc khảo sát năm 2024 đếm được 110.000 con thú lớn gồm sư tử, voi và hà mã. Hơn 750 loài chim sinh sống tại đây, nhiều hơn tổng số loài chim của toàn bộ lục địa châu Âu."
+  ],
+  "culture": [
+    "Ẩm thực Mozambique là sự pha trộn vui nhộn: ớt piri-piri làm bừng lên tôm nướng và gà nướng; món hầm sắn với nước cốt dừa mang hồn cốt Bantu; bánh mì dẹt kiểu Ả Rập xuất hiện ở miền bắc. Sốt piri-piri — có thể là xuất khẩu ẩm thực vĩ đại nhất của đất nước — nay đã có mặt trên khắp thế giới.",
+    "Âm nhạc hiện diện ở khắp nơi. Marrabenta — ra đời từ những cây đàn guitar tự chế bằng can dầu và dây câu cá hồi thập niên 1950 — có nhịp điệu bật bừng rất thích hợp để nhảy múa. Người Chopi nổi tiếng với dàn nhạc xylophone timbila, được UNESCO công nhận là kiệt tác di sản văn hóa phi vật thể của nhân loại."
+  ],
+  "history": [
+    "Các thương nhân Ả Rập đến bờ biển Mozambique khoảng năm 800 sau Công nguyên, xây dựng những thành bang Swahili giàu có. Vasco da Gama thả neo tại đây năm 1498, và đất nước trở thành điểm dừng then chốt trên con đường buôn hương liệu của Bồ Đào Nha sang Ấn Độ, được cai trị từ Đảo Mozambique nhỏ bé — nay là Di sản Thế giới UNESCO.",
+    "Cuộc chiến tranh giành độc lập kéo dài mười năm kết thúc năm 1975 khi FRELIMO giành được tự do. Tiếp theo là cuộc nội chiến tàn khốc mười sáu năm, cướp đi sinh mạng hơn một triệu người. Hòa bình trở lại năm 1992, và Mozambique bắt đầu tái thiết — vườn quốc gia Gorongosa hôm nay trở thành câu chuyện hồi sinh động vật hoang dã kỳ diệu nhất châu Phi."
+  ],
+  "wows": [
+    "Mozambique là quốc gia duy nhất có tên chứa đủ cả năm nguyên âm: A, E, I, O, U.",
+    "Quốc kỳ Mozambique là lá cờ quốc gia duy nhất trên Trái Đất có hình khẩu súng trường AK-47.",
+    "Một nhà nguyện Bồ Đào Nha xây năm 1522 tại đây là tòa nhà châu Âu cổ nhất còn tồn tại ở Nam Bán Cầu.",
+    "Mozambique có hơn 750 loài chim — nhiều hơn khoảng 50 loài so với toàn bộ lục địa châu Âu.",
+    "Bazaruto là nơi duy nhất còn đàn dugong lành mạnh trên bờ đông châu Phi, với khoảng 250–350 con.",
+    "Trong trò chơi Scrabble, từ 'Mozambique' ghi được 34 điểm — cao nhất trong tên các quốc gia một từ.",
+    "Cuộc khảo sát Gorongosa năm 2024 đếm được 110.000 con thú lớn, từ gần như bằng không sau nội chiến."
+  ],
+  "myths": [
+    {
+      "myth": "Mozambique phần lớn là sa mạc",
+      "fact": "Hầu hết Mozambique là đồng cỏ nhiệt đới tươi tốt với những con sông lớn, vùng đất ngập nước và rạn san hô tuyệt đẹp. Sa mạc Sahara nằm cách hàng nghìn kilômét về phía bắc."
+    },
+    {
+      "myth": "Đây là nơi quá nguy hiểm để đến thăm",
+      "fact": "Những khu vực phổ biến như Maputo, Inhambane và Bazaruto đều là điểm đến đã được khai thác tốt, có cơ sở hạ tầng đầy đủ, đón hàng nghìn du khách an toàn mỗi năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Bom dia",
+      "say": "bom JEE-ah"
+    },
+    {
+      "en": "Không sao đâu",
+      "jp": "Não faz mal",
+      "say": "now fahz MAHL"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "Quanto custa",
+      "say": "KWAN-too KOOS-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mz-hero.jpg",
+      "alt": "Toàn cảnh thành phố Maputo và vịnh biển nhìn từ trên cao",
+      "caption": "MAPUTO — thủ đô trải rộng bên vịnh biển xanh trên Ấn Độ Dương",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mz-landmark.jpg",
+      "alt": "Ga xe lửa trung tâm Maputo với kiến trúc Beaux-Arts thanh lịch",
+      "caption": "GA MAPUTO — xây từ 1908–1916, một trong những nhà ga đẹp nhất thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mz-animalA.jpg",
+      "alt": "Con dugong đang bơi dưới nước gần thảm cỏ biển",
+      "caption": "DUGONG — Bazaruto là nơi đàn bò biển cuối cùng còn sinh sôi ở bờ đông châu Phi",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mz-animalB.jpg",
+      "alt": "Cá mập voi đang bơi trong làn nước biển xanh trong",
+      "caption": "CÁ MẬP VOI — những người khổng lồ hiền lành ghé thăm vùng biển Mozambique từ tháng 10 đến tháng 4",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

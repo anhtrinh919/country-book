@@ -1,0 +1,163 @@
+{
+  "name": "AZERBAIJAN",
+  "nativeName": "AZ",
+  "romaji": "AZƏRBAYCAN",
+  "tagline": "Vùng đất của lửa thiêng",
+  "region": "Nam Kavkaz, Châu Á",
+  "coords": "40.4°N, 49.9°E",
+  "fileNo": "AZ",
+  "langName": "tiếng Azerbaijan",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BCA4",
+    "ink": "#1E1A15",
+    "faint": "#8A7B60",
+    "line": "#DDD0B8",
+    "accent": "#0092BC",
+    "accent2": "#E8352A"
+  },
+  "flag": {
+    "assetPath": "/flags/az.svg",
+    "title": "Quốc kỳ Azerbaijan",
+    "note": "Ba màu xanh dương, đỏ, xanh lá với trăng lưỡi liềm và ngôi sao",
+    "keyColor": "#0092BC",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Azerbaijan nằm ngay chỗ châu Âu và châu Á gặp nhau, kẹp giữa biển Caspian mênh mông và những đỉnh núi Caucasus phủ tuyết trắng. Người ta gọi đây là \"Vùng đất của lửa\" vì khí tự nhiên thấm lên từ lòng đất và cháy bất tận suốt hàng thế kỷ. Thủ đô Baku thật kỳ lạ — một bên là tường thành đá cổ ngàn năm, một bên là những tòa nhà chọc trời hình ngọn lửa lung linh soi bóng xuống mặt biển Caspian mỗi đêm.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Baku",
+      "sub": "Dân số ~2,3 triệu người (2024)"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,2 triệu người",
+      "sub": "Ước tính 2024, số liệu chính thức"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Manat (AZN)",
+      "sub": "1 manat = 100 qəpik"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Azerbaijan",
+      "sub": "Ngữ hệ Turkic; cũng dùng tiếng Nga"
+    },
+    {
+      "label": "Diện tích",
+      "value": "86.600 km²",
+      "sub": "Tương đương nước Bồ Đào Nha"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "4.466 m",
+      "sub": "Bazardüzü, trên biên giới với Nga"
+    }
+  ],
+  "islands": [
+    "Baku",
+    "Ganja",
+    "Sheki",
+    "Lankaran",
+    "Mingachevir"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Lửa phun từ lòng đất",
+    "animals": "Thú hoang vùng Caucasus",
+    "culture": "Trà, thảm và thi ca",
+    "history": "Ngã tư của các đế chế",
+    "wows": "Khó tin mà có thật!"
+  },
+  "geo": [
+    "Azerbaijan trải dài từ những đỉnh núi Caucasus tuyết phủ ở phía bắc xuống bán đảo Absheron bằng phẳng thò ra biển Caspian. Biển Caspian thực ra là hồ nước lớn nhất thế giới — rộng hơn cả nước Đức — và bờ hồ nằm thấp hơn mực nước biển khoảng 28 mét, giống như một cái bát khổng lồ bị lún sâu xuống đất.",
+    "Miền nam có những khu rừng nhiệt đới ẩm ướt của vùng Talysh, nơi loài cây tơ tằm quý hiếm vẫn còn mọc. Điều đáng kinh ngạc là một đất nước nhỏ bé như Azerbaijan lại sở hữu tới chín trong số mười một đới khí hậu của Trái Đất."
+  ],
+  "animals": [
+    "Báo hoa mai Caucasus vẫn còn lặng lẽ rình mồi trong những cánh rừng núi heo hút, còn gấu nâu thì lang thang trên các sườn núi cao. Ngựa Karabakh — được nuôi dưỡng ở đây hơn 2.000 năm — là động vật biểu tượng quốc gia, nổi tiếng khắp nơi với bộ lông vàng óng và tốc độ phi như gió.",
+    "Mỗi mùa thu, đàn hồng hạc hàng nghìn con đậu thành thảm hồng rực trên những bãi bùn ven biển Caspian. Hải cẩu Caspian — loài vật chỉ sống ở đây và không nơi nào khác trên Trái Đất — nằm phơi nắng trên bãi cát, còn cá tầm khổng lồ to bằng chiếc xe con ngày xưa từng đầy ắp trong lòng biển."
+  ],
+  "culture": [
+    "Người Azerbaijan uống trà đen cả ngày trong những chiếc ly thủy tinh hình quả lê gọi là armudu, luôn kèm theo những viên đường ngậm trong miệng rồi nhấp từng ngụm trà qua đó. Thảm dệt tay kể chuyện bằng sợi len — mỗi vùng có hoa văn bí truyền riêng, và nghề dệt thảm Azerbaijan đã được UNESCO công nhận là di sản nhân loại.",
+    "Mugham là dòng nhạc cổ điển đặc trưng của đất nước: người hát ứng tấu theo tiếng đàn tar suốt cả tiếng đồng hồ mà không lặp lại một câu nào. Lễ Novruz đón năm mới mùa xuân làm đường phố rực sáng với lửa trại, trứng sặc sỡ đủ màu, và những khay lúa mì xanh tươi mới nảy mầm."
+  ],
+  "history": [
+    "Những đền thờ lửa cổ đại từng thu hút tín đồ Zoroastrian hành hương suốt nhiều nghìn năm; ngôi đền Ateshgah đã cháy liên tục không ngừng trong nhiều thế kỷ. Các vị vua Ả Rập, hãn Mông Cổ, vua Ba Tư rồi Sa hoàng Nga lần lượt kéo quân qua đây, để lại sau lưng những thánh đường và pháo đài sừng sững.",
+    "Dầu mỏ đã thay đổi hoàn toàn bộ mặt Azerbaijan từ những năm 1870 — có thời Baku cung cấp một nửa lượng dầu của cả thế giới. Đất nước giành độc lập lần đầu năm 1918 (một trong những nước cộng hòa dân chủ đầu tiên trong thế giới Hồi giáo) và lần thứ hai vào năm 1991 khi Liên Xô tan rã."
+  ],
+  "wows": [
+    "Sườn đồi Yanar Dağ đã cháy liên tục không tắt từ thập niên 1950, được nuôi bởi khí tự nhiên thấm lên từ lòng đất.",
+    "Giải đua xe Công thức 1 tại Baku gầm rú qua ngay sát thành cổ 800 năm tuổi mỗi năm.",
+    "Biển Caspian chứa khoảng 90% số cá tầm hoang dã còn lại trên thế giới — nguồn gốc của loại trứng cá muối caviar đắt giá nhất.",
+    "Tòa nhà Flame Towers gắn 10.000 bảng đèn LED chiếu hình ngọn lửa bập bùng, nhìn thấy từ khắp thành phố trong đêm tối.",
+    "Khu di tích Gobustan có hơn 6.000 bức khắc đá trải dài suốt 40.000 năm lịch sử loài người — được UNESCO công nhận.",
+    "Azerbaijan khoan giếng dầu công nghiệp từ năm 1846 — sớm hơn 13 năm so với giếng dầu nổi tiếng ở Pennsylvania, Mỹ.",
+    "Biển Caspian nằm thấp hơn mực nước biển khoảng 28 mét — bề mặt hồ lớn thấp nhất thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Azerbaijan thuộc vùng Trung Đông",
+      "fact": "Thực ra nó nằm ở Nam Caucasus, giáp biên giới với Nga và Georgia — về văn hóa lẫn địa lý đều hoàn toàn khác với Trung Đông."
+    },
+    {
+      "myth": "Biển Caspian là một biển thật sự",
+      "fact": "Dù rộng tới 371.000 km², đây thực chất là một hồ nước mặn không thông với đại dương nào cả."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Salam",
+      "say": "sah-LAHM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Təşəkkür",
+      "say": "teh-shek-KUER"
+    },
+    {
+      "en": "Đồng ý",
+      "jp": "Bəli",
+      "say": "beh-LEE"
+    },
+    {
+      "en": "Lửa",
+      "jp": "Od",
+      "say": "ODD"
+    },
+    {
+      "en": "Trà",
+      "jp": "Çay",
+      "say": "CHAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/az-hero.jpg",
+      "alt": "Tòa nhà Flame Towers sáng rực về đêm trên nền trời thành phố Baku",
+      "caption": "FLAME TOWERS — những tòa nhà chọc trời hình ngọn lửa lung linh của Baku soi bóng xuống biển Caspian lúc hoàng hôn",
+      "credit": "Wikimedia Commons / Interfase"
+    },
+    "landmark": {
+      "src": "/photos/az-landmark.jpg",
+      "alt": "Khu phố cổ có tường thành bao quanh của Baku với Tháp Trinh Nữ",
+      "caption": "PHỐ CỔ — tường thành trung cổ và Tháp Trinh Nữ, di sản thế giới UNESCO tại Baku",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/az-animalA.jpg",
+      "alt": "Một con ngựa Karabakh lông vàng óng đang phi nước đại trên cánh đồng rộng",
+      "caption": "NGỰA KARABAKH — giống ngựa vàng cổ đại và là động vật biểu tượng quốc gia của Azerbaijan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/az-animalB.jpg",
+      "alt": "Một con hải cẩu Caspian đang nằm nghỉ trên bờ đá",
+      "caption": "HẢI CẨU CASPIAN — loài vật không nơi nào khác trên Trái Đất có, chỉ sống trong biển Caspian",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

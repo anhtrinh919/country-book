@@ -1,0 +1,163 @@
+{
+  "name": "MÊ-XI-CÔ",
+  "nativeName": "México",
+  "romaji": "MÉXICO",
+  "tagline": "Nắng vàng, ớt cay và huyền thoại",
+  "region": "Bắc Mỹ",
+  "coords": "23°N 102°W",
+  "fileNo": "042",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#251E14",
+    "faint": "#8A7350",
+    "line": "#DDD0AA",
+    "accent": "#006847",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/mx.svg",
+    "title": "Cờ Mê-xi-cô",
+    "note": "Ba màu xanh lá, trắng, đỏ với huy hiệu đại bàng",
+    "keyColor": "#006847",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mê-xi-cô nằm ở đáy Bắc Mỹ, nơi những ngọn núi lửa tuyết phủ sừng sững nhìn xuống kim tự tháp cổ xưa và rừng nhiệt đới còn giấu cả báo đốm. Đây là quê hương của đế chế Aztec hùng mạnh — nơi người ta biến ngày tưởng nhớ người đã khuất thành lễ hội rực rỡ sắc hoa. Mê-xi-cô cũng chính là nơi cho thế giới mượn chocolate, bắp ngô, và cả truyền hình màu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Mexico City",
+      "sub": "Thành phố lớn nhất Bắc Mỹ"
+    },
+    {
+      "label": "Dân số",
+      "value": "~129 triệu người",
+      "sub": "Ước tính của Liên Hợp Quốc năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Peso Mê-xi-cô",
+      "sub": "MXN, ký hiệu $"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Tây Ban Nha",
+      "sub": "Cùng 68 ngôn ngữ bản địa khác"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.972.550 km²",
+      "sub": "Quốc gia rộng thứ 13 thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "5.610 m",
+      "sub": "Citlaltépetl — một núi lửa đang ngủ"
+    }
+  ],
+  "islands": [
+    "Baja Calif.",
+    "Yucatán",
+    "Oaxaca",
+    "Chiapas",
+    "Sonora"
+  ],
+  "islandsLabel": "CÁC BANG LỚN:",
+  "sections": {
+    "geography": "Núi, sa mạc và rừng già",
+    "animals": "Muông thú kỳ diệu",
+    "culture": "Lễ hội, ẩm thực và truyền thuyết",
+    "history": "Đế chế, chinh phục và tự do",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Mê-xi-cô mang ba khuôn mặt: phía bắc là sa mạc gai góc khô cằn, xuyên qua giữa đất nước là dãy Sierra Madre như cột sống khổng lồ, và phía nam là rừng nhiệt đới rậm rạp. Hai đại dương ôm trọn hai bên — Thái Bình Dương ở tây, vịnh Mê-xi-cô ở đông.",
+    "Thủ đô Mexico City nằm ở độ cao 2.240 m so với mực nước biển — cao đến mức các cầu thủ bóng đá khi đến thi đấu thường thở không nổi. Cả nước có tới 200 ngọn núi lửa, trong đó 48 ngọn vẫn đang hoạt động đến ngày nay."
+  ],
+  "animals": [
+    "Con đại bàng vàng trên quốc kỳ Mê-xi-cô là có thật — loài chim săn mồi có thể nhìn thấy một con thỏ từ xa tới hai cây số. Cá mập voi hiền lành thì bơi lờ đờ quanh rạn san hô Yucatán, to đến mức người có thể bơi cùng mà không lo bị nuốt.",
+    "Kỳ nhông axolotl trông như đang mỉm cười, với túm mang hồng bông bồng bềnh hai bên đầu — con vật kỳ lạ này không bao giờ lớn hẳn và có thể tự mọc lại chân tay nếu bị đứt. Axolotl chỉ sống duy nhất ở các kênh rạch Xochimilco ngay trong lòng thành phố Mexico City."
+  ],
+  "culture": [
+    "Mỗi năm vào đầu tháng 11, các gia đình dựng bàn thờ phủ đầy hoa cúc vạn thọ và ra nghĩa trang thắp nến rực rỡ để đón linh hồn tổ tiên trong lễ Día de los Muertos. Không u ám chút nào — đó là buổi sum họp ấm áp với âm nhạc rộn ràng và những món ăn yêu thích của người đã khuất.",
+    "Các ban nhạc mariachi mặc trang phục đính hạt bạc lấp lánh, thổi kèn trumpet và kéo đàn violin giữa phố; hai bên đường, hàng rong bán taco, tamale và bắp nướng bơ thơm lừng. Ẩm thực Mê-xi-cô đã được UNESCO công nhận là di sản văn hóa thế giới."
+  ],
+  "history": [
+    "Trước khi người châu Âu đặt chân đến, đế chế Aztec đã thống trị từ kinh đô Tenochtitlan — một thành phố đảo lộng lẫy, chính là nơi Mexico City tọa lạc ngày nay. Vào thời hoàng kim, thành phố này có tới 300.000 dân buôn bán vàng và hạt cacao tấp nập.",
+    "Chiến binh Tây Ban Nha Hernán Cortés đã đánh sập đế chế Aztec năm 1521. Gần ba thế kỷ sau, linh mục Miguel Hidalgo rung chuông nhà thờ năm 1810 để thổi bùng ngọn lửa khởi nghĩa, và Mê-xi-cô giành được độc lập vào năm 1821."
+  ],
+  "wows": [
+    "Kim tự tháp Cholula là kim tự tháp lớn nhất thế giới tính theo thể tích — rộng đến mức cả một ngôi nhà thờ ngồi chễm chệ trên đỉnh.",
+    "Bằng sáng chế truyền hình màu của Mê-xi-cô năm 1940 về sau giúp NASA truyền về những hình ảnh màu đầu tiên của sao Mộc.",
+    "Thành phố Mexico City đang từ từ lún xuống lớp hồ cổ bên dưới — có nơi đã lún hơn 12 m chỉ trong một thế kỷ.",
+    "Chó Chihuahua là giống chó nhỏ nhất thế giới, được đặt tên theo một bang Mê-xi-cô còn rộng hơn cả nước Anh.",
+    "Mỗi mùa đông, hàng trăm triệu con bướm vua bay suốt 4.500 km từ Canada về trú đông trong rừng Mê-xi-cô.",
+    "Nhà in đầu tiên của châu Mỹ được đặt tại Mexico City năm 1539 — trước hàng thế kỷ so với hầu hết các nước láng giềng.",
+    "Người Maya và Aztec uống chocolate dưới dạng thức uống đắng pha gia vị từ ngàn năm trước — mãi sau người ta mới nghĩ ra việc thêm đường."
+  ],
+  "myths": [
+    {
+      "myth": "Mê-xi-cô toàn là sa mạc",
+      "fact": "Rừng mưa nhiệt đới, rừng mây, rạn san hô và thung lũng màu mỡ chiếm diện tích lớn hơn rất nhiều so với sa mạc phía bắc vốn nổi tiếng."
+    },
+    {
+      "myth": "Ngày của Người Chết giống Halloween",
+      "fact": "Día de los Muertos (1–2/11) là cuộc đoàn tụ ấm áp với tổ tiên — hoa cúc vạn thọ và những món ăn yêu thích, không phải ma quỷ hay hù dọa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    },
+    {
+      "en": "Đi thôi!",
+      "jp": "¡Vámonos!",
+      "say": "VAH-moh-nos"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mx-hero.jpg",
+      "alt": "Đường chân trời thành phố Mexico City dọc theo đại lộ Paseo de la Reforma",
+      "caption": "MEXICO CITY — Đại lộ Paseo de la Reforma, một trong những đại lộ hùng tráng nhất châu Mỹ",
+      "credit": "Héctor García / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/mx-landmark.jpg",
+      "alt": "Kim tự tháp El Castillo ở Chichen Itza dưới bầu trời xanh",
+      "caption": "CHICHEN ITZA — El Castillo, kim tự tháp Maya và một trong Bảy kỳ quan thế giới mới",
+      "credit": "Ovedc / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mx-animalA.jpg",
+      "alt": "Kỳ nhông axolotl màu trắng với túm mang hồng bồng bềnh trong nước",
+      "caption": "AXOLOTL — Kỳ nhông biết cười của Mê-xi-cô, có thể tự mọc lại chân bị đứt",
+      "credit": "LoKiLeCh / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/mx-animalB.jpg",
+      "alt": "Cận cảnh đại bàng vàng với bộ lông cổ óng ánh vàng",
+      "caption": "ĐẠI BÀNG VÀNG — Quốc điểu Mê-xi-cô, xuất hiện trên quốc kỳ từ thời Aztec",
+      "credit": "Böhringer Friedrich / CC BY-SA 2.5"
+    }
+  }
+}

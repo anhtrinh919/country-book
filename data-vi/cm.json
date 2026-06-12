@@ -1,0 +1,163 @@
+{
+  "name": "CAMEROON",
+  "nativeName": "CM",
+  "romaji": "CAMEROON",
+  "tagline": "Châu Phi thu nhỏ",
+  "region": "Trung Phi",
+  "coords": "3.85°N, 11.50°E",
+  "fileNo": "047",
+  "langName": "tiếng Pháp",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#cdbfa0",
+    "ink": "#231f1a",
+    "faint": "#8a7a5a",
+    "line": "#dccfb0",
+    "accent": "#007A5E",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/cm.svg",
+    "title": "Ba màu và ngôi sao",
+    "note": "Xanh lá, đỏ, vàng với ngôi sao vàng",
+    "keyColor": "#007A5E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Cameroon nằm ngay ngã tư của châu Phi — rừng nhiệt đới rậm rạp tiếp giáp thảo nguyên bát ngát, một ngọn núi lửa vươn thẳng lên từ mặt biển, và 280 ngôn ngữ khác nhau vang lên khắp nơi. Các nhà địa lý gọi nơi đây là \"châu Phi thu nhỏ\" bởi vì chỉ trong một đất nước, bạn có thể thấy đủ mọi địa hình của cả lục địa: sa mạc, rừng già, cao nguyên và bờ biển.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Yaoundé",
+      "sub": "dân số khoảng 4,3 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "~28,6 triệu",
+      "sub": "ước tính 2024, đang tăng nhanh"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "dùng chung với 5 nước láng giềng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Pháp & Anh",
+      "sub": "còn hơn 280 ngôn ngữ địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "475.442 km²",
+      "sub": "rộng hơn Thụy Điển"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "4.095 m",
+      "sub": "Núi Cameroon — núi lửa đang hoạt động"
+    }
+  ],
+  "islands": [
+    "Yaoundé",
+    "Douala",
+    "Bafoussam",
+    "Garoua",
+    "Buea"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Mảnh đất trăm địa hình",
+    "animals": "Thú rừng khổng lồ và chim quý hiếm",
+    "culture": "Hai tiếng nói, một nhịp trống",
+    "history": "Từ con tôm đến nền cộng hòa",
+    "wows": "Thật sao?!"
+  },
+  "geo": [
+    "Cameroon có hình tam giác lộn ngược. Phía nam là rừng nhiệt đới xanh thẳm; vùng trung tâm dần dâng lên thành cao nguyên mát mẻ; phía bắc trải ra thành đồng cỏ Sahel gần hồ Chad. Cao nguyên Adamawa chạy như một xương sống xanh qua giữa đất nước.",
+    "Bờ biển Cameroon nhìn ra Vịnh Guinea, nơi núi lửa Cameroon — đang còn hoạt động — vươn thẳng lên từ mặt biển. Khu rừng Dja hoang vu xa xôi là một trong những khu rừng nhiệt đới được bảo tồn tốt nhất châu Phi, được UNESCO công nhận là Di sản Thế giới."
+  ],
+  "animals": [
+    "Những khu rừng nhiệt đới của Cameroon là nơi trú ngụ của khỉ đột đồng bằng tây, voi rừng và tinh tinh. Riêng Khu bảo tồn Dja đã có hơn 100 loài động vật có vú. Khỉ drill — loài khỉ lớn với bộ mặt sặc sỡ — chỉ sống ở đây và đảo Bioko gần đó mà thôi.",
+    "Những người yêu chim đổ về vùng cao nguyên Cameroon để tìm kiếm hơn 20 loài chim chỉ tồn tại ở đây, trong đó có chim turaco Bannerman với đôi cánh đỏ rực rỡ. Hằng năm, rùa da khổng lồ lặng lẽ lên các bãi biển Đại Tây Dương để đẻ trứng."
+  ],
+  "culture": [
+    "Cameroon có hơn 280 nhóm dân tộc — Bamileke, Fulani, Beti, Bassa và hàng chục nhóm khác. Người Bamileke nổi tiếng với điệu múa mặt nạ voi, trong đó những chiếc mũ đội đầu chạm khắc khổng lồ đung đưa theo nhịp trống rầm rập trong các lễ hội hoàng gia.",
+    "Ẩm thực xoay quanh món ndólé — canh lá đắng nấu với đậu phộng, món eru và chuối giã thành fufu. Bóng đá là niềm đam mê quốc gia — đội tuyển Sư tử Bất khuất đã giành chức vô địch Cúp châu Phi năm lần."
+  ],
+  "history": [
+    "Người nói tiếng Bantu đã định cư trong những khu rừng Cameroon từ hàng ngàn năm trước. Năm 1472, thủy thủ Bồ Đào Nha đặt chân đến và đặt tên cho sông Wouri là 'Rio dos Camarões' (Sông Tôm) — cái tên đó về sau trở thành tên của cả đất nước. Đức chiếm đóng vùng này năm 1884.",
+    "Sau Thế chiến I, Anh và Pháp chia nhau lãnh thổ. Cameroun thuộc Pháp giành độc lập ngày 1 tháng 1 năm 1960. Vùng do Anh kiểm soát bỏ phiếu sáp nhập năm 1961, tạo nên nước cộng hòa song ngữ ngày nay với thủ đô Yaoundé."
+  ],
+  "wows": [
+    "Núi Cameroon là đỉnh núi cao nhất Trung-Tây Phi và là một trong những núi lửa hoạt động mạnh nhất châu lục.",
+    "Cameroon có hơn 280 ngôn ngữ riêng biệt — thuộc hàng mật độ ngôn ngữ cao nhất thế giới tính theo diện tích.",
+    "Debundscha trên bờ biển Cameroon hứng trung bình 10.000 mm mưa mỗi năm — một trong những nơi ẩm ướt nhất hành tinh.",
+    "Đội Sư tử Bất khuất là đội châu Phi đầu tiên lọt vào tứ kết World Cup, tại Italia năm 1990.",
+    "Tại các sự kiện chính thức, Cameroon cử hành hai bài quốc ca — một bằng tiếng Pháp, một bằng tiếng Anh.",
+    "Năm 1986, hồ Nyos giải phóng một đám mây CO₂ chết người trong một trong những thảm họa hiếm gặp nhất lịch sử: núi lửa hồ nước.",
+    "Lễ hội Ngondo tổ chức hàng năm với nghi lễ thả người lặn xuống sông Wouri để truyền thông điệp tới thần linh dưới nước — truyền thống đã có hàng thế kỷ."
+  ],
+  "myths": [
+    {
+      "myth": "Cameroon chỉ toàn rừng rậm",
+      "fact": "Cameroon có đủ mọi địa hình của châu Phi: rừng nhiệt đới, thảo nguyên, cao nguyên, bán sa mạc, bờ biển núi lửa và điểm ẩm ướt nhất toàn lục địa."
+    },
+    {
+      "myth": "Hai ngôn ngữ chính thức gây mâu thuẫn liên tục",
+      "fact": "Cameroon tự hào là đất nước song ngữ — cả hai ngôn ngữ đều xuất hiện trên tiền giấy và biển hiệu, và tiếng Pidgin Cameroon kết nối mọi cộng đồng mỗi ngày."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Xin lỗi",
+      "jp": "Pardon",
+      "say": "par-DOHN"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Délicieux!",
+      "say": "day-lee-SYUH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cm-hero.jpg",
+      "alt": "Cầu Wouri bắc ngang cửa sông tại Douala",
+      "caption": "CẦU WOURI — cây cầu lớn qua sông nối liền hai nửa thành phố cảng Douala",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cm-landmark.jpg",
+      "alt": "Đỉnh núi lửa Cameroon vươn lên trên những triền đồi xanh",
+      "caption": "NÚI CAMEROON — núi lửa đang hoạt động cao 4.095 m mọc thẳng từ bờ Đại Tây Dương",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cm-animalA.jpg",
+      "alt": "Khỉ đột đồng bằng tây ngồi giữa thảm thực vật rừng",
+      "caption": "KHỈ ĐỘT ĐỒNG BẰNG TÂY — sống trong khu rừng nhiệt đới Dja cổ đại của Cameroon",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cm-animalB.jpg",
+      "alt": "Chim turaco Bannerman đậu trên cành, khoe bộ lông đỏ và xanh rực rỡ",
+      "caption": "CHIM TURACO BANNERMAN — chỉ tồn tại trong những khu rừng cao nguyên của Cameroon",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

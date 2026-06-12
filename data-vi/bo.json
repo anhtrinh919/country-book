@@ -1,0 +1,163 @@
+{
+  "name": "BOLIVIA",
+  "nativeName": "BO",
+  "romaji": "BOLIVIA",
+  "tagline": "Nóc nhà của thế giới",
+  "region": "Nam Mỹ",
+  "coords": "-16.5°S, 68.1°W",
+  "fileNo": "038",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA96",
+    "ink": "#2B2118",
+    "faint": "#8B7355",
+    "line": "#DDD0B0",
+    "accent": "#D52B1E",
+    "accent2": "#F4E400"
+  },
+  "flag": {
+    "assetPath": "/flags/bo.svg",
+    "title": "Quốc kỳ Bolivia",
+    "note": "Ba màu đỏ, vàng và xanh lá — huy hiệu quốc gia ở giữa",
+    "keyColor": "#D52B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bolivia nằm giữa lòng Nam Mỹ, cao đến mức chỉ bước ra đường mua đồ cũng đã thở không ra hơi! Những ngọn núi lửa phủ tuyết, cánh đồng muối lớn nhất thế giới, và một hồ nước xanh biếc lấp lánh như gương giữa bầu trời — Bolivia là một trong những nơi kỳ diệu nhất trên Trái Đất. Hơn 30 dân tộc bản địa khác nhau cùng gọi đây là quê hương.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Sucre",
+      "sub": "thủ đô hiến pháp; La Paz là nơi đặt chính phủ"
+    },
+    {
+      "label": "Dân số",
+      "value": "12,3 triệu người",
+      "sub": "ước tính 2024 — hơn 40% là người bản địa"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Boliviano",
+      "sub": "BOB — khoảng 7 đồng đổi 1 đô-la Mỹ"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "37 ngôn ngữ chính thức",
+      "sub": "tiếng Tây Ban Nha, Quechua và Aymara"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.098.581 km²",
+      "sub": "lớn hơn Ai Cập, không giáp biển"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "6.542 m",
+      "sub": "Nevado Sajama — núi lửa đã tắt"
+    }
+  ],
+  "islands": [
+    "La Paz",
+    "Santa Cruz",
+    "Cochabamba",
+    "Sucre",
+    "Potosí"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Cao nguyên và rừng nhiệt đới",
+    "animals": "Hồng hạc, lạc đà và mèo lớn",
+    "culture": "Lễ hội, mũ cứng và mỏ bạc",
+    "history": "Đế chế, bạc trắng và độc lập",
+    "wows": "7 điều khiến Bolivia choáng ngợp"
+  },
+  "geo": [
+    "Bolivia như có ba thế giới xếp chồng lên nhau. Cao nguyên Altiplano là một bình nguyên rộng lớn và lạnh giá ở độ cao trên 3.600 m — cao hơn hầu hết các đỉnh núi ở châu Âu. Hồ Titicaca xanh biếc nằm ở độ cao 3.810 m, là hồ nước có thể đi thuyền cao nhất thế giới.",
+    "Bên dưới cao nguyên, các thung lũng Yungas đổ dốc xuống những cánh rừng nhiệt đới. Vùng đất thấp phía đông chảy ra sông Amazon. Bolivia không có biển — nước này đã mất lối ra biển vào tay Chile năm 1884, nhưng vẫn duy trì một lực lượng hải quân huấn luyện trên hồ Titicaca."
+  ],
+  "animals": [
+    "Cao nguyên Altiplano là vương quốc của hồng hạc. Ba loài hồng hạc khác nhau đứng thành đàn màu hồng rực rỡ trên các hồ muối. Lạc đà llama và anh em họ của chúng là vicuña đi thành bầy, còn chim kền kền Andean lượn trên các luồng khí nóng với đôi cánh sải rộng tới 3 m.",
+    "Xuống vùng đất thấp, báo đốm jaguar rình rập trong vùng đất ngập Pantanal, rái cá khổng lồ câu cá ở các hồ vòng, và thú ăn kiến khổng lồ thong dong qua thảo nguyên. Rừng mưa Bolivia có số lượng loài chim nhiều hơn toàn bộ lục địa Bắc Mỹ cộng lại."
+  ],
+  "culture": [
+    "Di sản bản địa của Bolivia in đậm lên mọi thứ. Phụ nữ Aymara và Quechua mặc váy xòe nhiều lớp gọi là pollera và đội những chiếc mũ cứng nhỏ — kiểu mũ của công nhân đường sắt người Anh mà các bà đã tài tình biến thành biểu tượng của riêng mình. Những tấm vải dệt tay gọi là aguayo mang hoa văn mã hóa lịch sử gia đình.",
+    "Lễ hội Oruro Carnival kéo 50.000 vũ công ra đường phố với những chiếc mặt nạ quỷ khổng lồ, biểu diễn điệu Diablada — điệu múa trận được UNESCO công nhận, kể về cuộc chiến giữa thiện và ác. Ẩm thực xoay quanh hạt quinoa, khoai tây (chính vùng Andes đã cho thế giới biết đến khoai tây!), và bánh nướng salteñas nhân thịt thơm phức."
+  ],
+  "history": [
+    "Con người đã sinh sống trên cao nguyên Altiplano suốt 10.000 năm. Người Tiwanaku xây dựng những ngôi đền đá khổng lồ gần hồ Titicaca vào khoảng năm 400 sau Công nguyên. Đến thế kỷ 15, Đế chế Inca đến khai thác bạc tại ngọn núi thiêng Cerro Rico ở Potosí.",
+    "Quân Tây Ban Nha đặt chân đến năm 1532, và các mỏ bạc Potosí đã nuôi sống toàn bộ Đế chế Tây Ban Nha suốt 300 năm. Bolivia tuyên bố độc lập năm 1825, đặt tên theo người giải phóng Simón Bolívar. Năm 2006, Evo Morales trở thành tổng thống người bản địa đầu tiên trong lịch sử đất nước."
+  ],
+  "wows": [
+    "Bolivia có 37 ngôn ngữ chính thức — nhiều hơn bất kỳ quốc gia nào trên thế giới.",
+    "Cánh đồng muối Salar de Uyuni rộng 10.582 km² và sau mưa biến thành tấm gương khổng lồ hoàn hảo.",
+    "Hệ thống cáp treo đô thị ở La Paz là dài nhất thế giới — như đi metro nhưng trên không trung!",
+    "Thành phố Potosí từng đông dân hơn cả London, tất cả nhờ bạc khai thác từ một ngọn núi duy nhất.",
+    "Bolivia là nước không có biển nhưng vẫn có hải quân với 173 tàu, tập trận trên hồ Titicaca.",
+    "Một khách sạn ngay trên cánh đồng muối Uyuni được xây hoàn toàn bằng gạch muối — kể cả bàn ghế cũng làm từ muối.",
+    "Rừng nhiệt đới Bolivia có số loài chim nhiều hơn cả lục địa Bắc Mỹ rộng lớn."
+  ],
+  "myths": [
+    {
+      "myth": "La Paz là thủ đô duy nhất của Bolivia",
+      "fact": "Bolivia có tới hai thủ đô: Sucre là thủ đô hiến pháp, nơi đặt Tòa án Tối cao; La Paz là trung tâm chính phủ — một điều kỳ lạ xuất phát từ cuộc nội chiến thế kỷ 19."
+    },
+    {
+      "myth": "Bolivia quá nghèo, không có gì đáng để đến thăm",
+      "fact": "Bolivia từng có nền kinh tế tăng trưởng nhanh nhất Nam Mỹ trong hơn một thập kỷ, đồng thời sở hữu thiên nhiên tuyệt đẹp, thành phố sôi động và hệ thống cáp treo giao thông đẳng cấp thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-la"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Hermoso",
+      "say": "er-MOH-so"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bo-hero.jpg",
+      "alt": "Mặt gương phản chiếu tuyệt đẹp trên cánh đồng muối Salar de Uyuni lúc hoàng hôn",
+      "caption": "SALAR DE UYUNI — tấm gương lớn nhất thế giới sau cơn mưa, Bolivia",
+      "credit": "Luca Galuzzi / Wikimedia Commons CC BY-SA 2.5"
+    },
+    "landmark": {
+      "src": "/photos/bo-landmark.jpg",
+      "alt": "Hồ Titicaca xanh thẳm dưới bầu trời Andes rực nắng",
+      "caption": "HỒ TITICACA — hồ có thể đi thuyền cao nhất thế giới ở độ cao 3.810 m",
+      "credit": "Håkan Svensson / Wikimedia CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/bo-animalA.jpg",
+      "alt": "Đàn hồng hạc màu hồng đứng trong hồ Laguna Colorada đỏ rực",
+      "caption": "HỒNG HẠC — hàng nghìn con đứng trong các hồ muối cao nguyên rực rỡ của Bolivia",
+      "credit": "Luca Galuzzi / Wikimedia CC BY-SA 2.5"
+    },
+    "animalB": {
+      "src": "/photos/bo-animalB.jpg",
+      "alt": "Con vicuña đứng giữa cao nguyên Altiplano rộng lớn với núi non phía sau",
+      "caption": "VICUÑA — anh em họ hoang dã của lạc đà llama trên cao nguyên Bolivia",
+      "credit": "Christian Mehlführer / Wikimedia CC BY 2.5"
+    }
+  }
+}

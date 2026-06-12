@@ -1,0 +1,163 @@
+{
+  "name": "SÉC",
+  "nativeName": "Česko",
+  "romaji": "CZECHIA",
+  "tagline": "Trái tim của châu Âu",
+  "region": "Trung Âu",
+  "coords": "49.8°N, 15.5°E",
+  "fileNo": "042",
+  "langName": "tiếng Séc",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BBA8",
+    "ink": "#27231F",
+    "faint": "#8A7A62",
+    "line": "#DDD3C0",
+    "accent": "#D7141A",
+    "accent2": "#11457E"
+  },
+  "flag": {
+    "assetPath": "/flags/cz.svg",
+    "title": "Quốc kỳ Séc",
+    "note": "Trắng, đỏ và xanh — có hình tam giác xanh ở phía cột cờ",
+    "keyColor": "#D7141A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Séc nằm ngay giữa trái tim châu Âu — bốn bề là Đức, Áo, Slovakia và Ba Lan, không có một tấc biển nào. Đây là vùng đất của những tòa lâu đài như trong truyện cổ tích, những tháp nhà thờ Gothic vút cao, những quảng trường lát đá cuội lung linh ánh đèn. Thủ đô Praha là một trong những thành phố thời trung cổ còn nguyên vẹn nhất trên trái đất — và mật độ lâu đài nơi đây thuộc hàng dày nhất thế giới!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Praha",
+      "sub": "1,4 triệu người — thành phố bên sông Vltava"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,9 triệu người",
+      "sub": "Ước tính 2024, Cục Thống kê Séc"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Koruna Séc",
+      "sub": "CZK — \"koruna\" có nghĩa là vương miện"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Séc",
+      "sub": "Nhóm Slav Tây, họ hàng gần với tiếng Slovak"
+    },
+    {
+      "label": "Diện tích",
+      "value": "78.867 km²",
+      "sub": "Hơi nhỏ hơn nước Áo một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Sněžka 1.603 m",
+      "sub": "Dãy Krkonoše (Núi Khổng Lồ)"
+    }
+  ],
+  "islands": [
+    "Prague",
+    "Brno",
+    "Ostrava",
+    "Plzeň",
+    "Olomouc"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đồi núi, sông ngòi và rừng xanh",
+    "animals": "Linh miêu, nai và dân rừng",
+    "culture": "Bia vàng, múa rối và cổ tích",
+    "history": "Đế chế, mùa xuân và cuộc cách mạng nhung",
+    "wows": "Những điều bất ngờ về nước Séc"
+  },
+  "geo": [
+    "Séc không có bờ biển — hoàn toàn bị bao quanh bởi đất liền và những dãy núi nhấp nhô. Phía tây là vùng đồi Bohemia êm ái; phía đông là đồng bằng Moravia thoáng rộng hơn, nổi tiếng với vườn nho xanh mướt và những lễ hội dân gian tưng bừng.",
+    "Sông Vltava uốn khúc hơn 430 km xuyên qua đất nước, chảy qua những cây cầu nổi tiếng của Praha rồi nhập vào sông Elbe. Những khu rừng thông bạt ngàn phủ xanh dãy Šumava ở phía nam — nơi sói, linh miêu và rái cá trú ngụ trong một trong những góc hoang dã nhất châu Âu."
+  ],
+  "animals": [
+    "Linh miêu Á-Âu lặng lẽ rình rập trong rừng Šumava — con mèo rừng đốm, tai có chùm lông, to chừng bằng một chú chó labrador. Từng bị săn bắn đến tuyệt chủng, chúng được thả về rừng vào thập niên 1980; hiện có khoảng 60 con đang sống yên bình trên những ngọn đồi Bohemia.",
+    "Nai đỏ cất tiếng rống vang trong những thung lũng sương mù mùa thu, còn đại bàng đuôi trắng sải cánh lướt trên vùng đất trăm ao hồ ở Nam Bohemia. Đại bàng đất lớn — loài chim bay nặng nhất châu Âu — vẫn còn sải bước hiên ngang trên những cánh đồng Moravia, từng đàn nhỏ quý hiếm."
+  ],
+  "culture": [
+    "Người Séc uống bia nhiều hơn bất kỳ dân tộc nào trên thế giới — trung bình khoảng 150 lít mỗi người mỗi năm, gấp đôi người Việt mình uống nước! Thành phố Plzeň đã phát minh ra loại bia vàng lager vào năm 1842, và nhà máy bia Pilsner Urquell vẫn đang sản xuất đúng công thức đó cho đến tận ngày nay.",
+    "Nghệ thuật múa rối bằng gỗ là truyền thống hàng trăm năm của người Séc — những con rối tinh xảo có thể biểu diễn cả vở opera hoàn chỉnh! Người Séc còn rất mê truyện cổ tích; mỗi dịp Giáng sinh, cả nhà quây quần cùng nhau xem phim cổ tích trên ti vi — giống như mình coi phim Tết vậy."
+  ],
+  "history": [
+    "Bohemia từng là trái tim của Đế chế La Mã Thần thánh dưới triều vua Charles IV — người đã cho xây Cầu Charles năm 1357, lập ra trường đại học đầu tiên ở Trung Âu năm 1348, và biến Praha thành một kinh đô lộng lẫy nguy nga.",
+    "Năm 1968, xe tăng Liên Xô nghiền nát những cải cách của Mùa xuân Praha. Nhưng rồi năm 1989, sinh viên xuống đường ở Quảng trường Wenceslas — và chỉ sau 43 ngày biểu tình ôn hòa, chế độ cộng sản sụp đổ mà không một viên đạn nào được bắn ra: đó là Cuộc Cách mạng Nhung."
+  ],
+  "wows": [
+    "Séc có hơn 2.000 lâu đài và dinh thự — nhiều hơn gần như bất kỳ quốc gia nào khác ở châu Âu.",
+    "Lâu đài Praha là quần thể lâu đài cổ lớn nhất thế giới, rộng gần 70.000 mét vuông — bằng 10 sân bóng đá!",
+    "Từ \"robot\" là do nhà viết kịch người Séc Karel Čapek đặt ra trong vở kịch R.U.R. năm 1920.",
+    "Nhà khoa học người Séc Otto Wichterle phát minh ra kính áp tròng mềm đầu tiên trên thế giới — ngay tại nhà, vào đúng ngày Giáng sinh năm 1961.",
+    "Người Séc giữ kỷ lục thế giới về mức tiêu thụ bia bình quân đầu người — năm nào cũng vậy, liên tục từ năm 1993 đến nay!",
+    "Hệ thống phân loại nhóm máu ABO được phân loại đầy đủ lần đầu tiên bởi bác sĩ tâm thần người Séc Jan Jánský vào năm 1907.",
+    "Dù nhỏ hơn nước Áo, Séc vẫn có đến 16 Di sản Thế giới UNESCO — nhiều không kém gì những nước lớn hơn nhiều."
+  ],
+  "myths": [
+    {
+      "myth": "Séc và Tiệp Khắc là một",
+      "fact": "Tiệp Khắc chia tách hòa bình vào ngày 1 tháng 1 năm 1993 — gọi là \"Cuộc Ly hôn Nhung\". Séc (phía tây) và Slovakia (phía đông) trở thành hai quốc gia riêng biệt với quốc kỳ, ngôn ngữ và đồng tiền riêng."
+    },
+    {
+      "myth": "Praha nằm ở Đông Âu",
+      "fact": "Praha thực ra nằm về phía tây hơn cả thủ đô Vienna của Áo, và gần ngang vĩ độ với Stockholm! Séc thuộc Trung Âu; cái mác \"Đông Âu\" chỉ là nhãn chính trị từ thời Chiến tranh Lạnh, không phải địa lý thực."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Ahoj",
+      "say": "ah-HOY"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Děkuji",
+      "say": "DYEH-koo-yi"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Prosím",
+      "say": "PRO-seem"
+    },
+    {
+      "en": "Chúc mừng!",
+      "jp": "Na zdraví",
+      "say": "nah ZDRA-vee"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Na shledanou",
+      "say": "nah SKLE-dah-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cz-hero.jpg",
+      "alt": "Cầu Charles bắc qua sông Vltava ở Praha trong ánh hoàng hôn vàng rực",
+      "caption": "CẦU CHARLES — cây cầu đá thế kỷ 14 của Praha, hai bên trang trí tượng Baroque",
+      "credit": "Wikimedia Commons / DOWIMA, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/cz-landmark.jpg",
+      "alt": "Toàn cảnh Lâu đài Praha và Nhà thờ Thánh Vitus nhìn từ Cầu Charles",
+      "caption": "LÂU ĐÀI PRAHA — quần thể lâu đài cổ lớn nhất thế giới soi bóng xuống sông Vltava",
+      "credit": "Wikimedia Commons / D. Mottl, CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/cz-animalA.jpg",
+      "alt": "Linh miêu Á-Âu đang nằm phục trong rừng, lộ rõ bộ lông đốm và đôi tai có chùm lông",
+      "caption": "LINH MIÊU Á-ÂU — được thả về rừng Šumava từ thập niên 1980",
+      "credit": "Wikimedia Commons, CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/cz-animalB.jpg",
+      "alt": "Nai đỏ đực với bộ gạc lớn đứng trên thảo nguyên mùa thu",
+      "caption": "NAI ĐỎ ĐỰC — lang thang khắp các khu rừng và thung lũng ở Bohemia và Moravia",
+      "credit": "Wikimedia Commons, CC BY-SA 3.0"
+    }
+  }
+}

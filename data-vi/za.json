@@ -1,0 +1,163 @@
+{
+  "name": "NAM PHI",
+  "nativeName": "ZA",
+  "romaji": "SUID-AFRIKA",
+  "tagline": "Quốc gia cầu vồng",
+  "region": "Nam Phi",
+  "coords": "-29.0°N, 25.0°E",
+  "fileNo": "047",
+  "langName": "tiếng Zulu",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA0",
+    "ink": "#241F1A",
+    "faint": "#7A6E55",
+    "line": "#DDD0B4",
+    "accent": "#007A4D",
+    "accent2": "#FFB612"
+  },
+  "flag": {
+    "assetPath": "/flags/za.svg",
+    "title": "Nam Phi",
+    "note": "Sáu màu sắc, hình chữ Y, độc nhất vô nhị trên thế giới",
+    "keyColor": "#007A4D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nam Phi tọa lạc ở tận cùng phía nam châu Phi, nơi Đại Tây Dương và Ấn Độ Dương gần như gặp nhau. Một đất nước mà bạn vừa có thể leo núi tuyết, vừa đi qua sa mạc khô cằn, vừa xem cá voi nhảy lên khỏi mặt biển. Điều kỳ diệu nhất? Nam Phi có tới 11 ngôn ngữ chính thức — nhiều hơn bất kỳ quốc gia nào trên Trái Đất — và lá cờ cầu vồng của họ kể trọn câu chuyện đó.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Pretoria",
+      "sub": "một trong ba thủ đô (hành pháp)"
+    },
+    {
+      "label": "Dân số",
+      "value": "61 triệu người",
+      "sub": "ước tính 2023, Stats SA"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rand (ZAR)",
+      "sub": "ký hiệu R; 100 cent = 1 rand"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "11 ngôn ngữ chính thức",
+      "sub": "Zulu, Xhosa, Afrikaans và nhiều hơn nữa"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1,22 triệu km²",
+      "sub": "gần bằng gấp đôi nước Pháp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.408 m",
+      "sub": "Njesuthi, dãy núi Drakensberg"
+    }
+  ],
+  "islands": [
+    "Gauteng",
+    "Cape Town",
+    "Durban",
+    "Johannesburg",
+    "Kruger Park"
+  ],
+  "islandsLabel": "CÁC VÙNG & THÀNH PHỐ LỚN:",
+  "sections": {
+    "geography": "Đất nước của hai đại dương và núi cao",
+    "animals": "Ngũ Đại và nhiều hơn thế",
+    "culture": "Mười một tiếng nói, một dân tộc",
+    "history": "Từ phân biệt chủng tộc đến cầu vồng",
+    "wows": "Những điều bất ngờ về Nam Phi"
+  },
+  "geo": [
+    "Nam Phi ôm trọn mũi phía nam của châu Phi. Trung tâm đất nước là vùng hoang mạc Karoo mênh mông khô hạn, còn phía đông là dãy núi Drakensberg hùng vĩ như một bức tường khổng lồ vươn lên trời xanh.",
+    "Hai đại dương bao bọc bờ biển Nam Phi — Đại Tây Dương lạnh giá ở phía tây và Ấn Độ Dương ấm áp ở phía đông. Hai đại dương này gặp nhau ở mũi Agulhas, điểm cực nam thực sự của lục địa châu Phi."
+  ],
+  "animals": [
+    "Nam Phi là quê hương của Ngũ Đại — sư tử, báo đốm, voi, tê giác và trâu rừng — tất cả đều có thể gặp dễ dàng ở Vườn quốc gia Kruger, một trong những khu bảo tồn lớn nhất châu Phi.",
+    "Vùng biển gần Hermanus là nơi tốt nhất thế giới để ngắm cá voi lưng phẳng phương Nam từ bờ biển. Xa hơn một chút, ở Boulders Beach cách Cape Town chỉ 40 km, hàng nghìn con chim cánh cụt châu Phi đang ung dung lội nước."
+  ],
+  "culture": [
+    "Nam Phi có 11 ngôn ngữ chính thức — nhiều nhất thế giới. Chỉ cần đi vài chục cây số, câu chào đã đổi khác: 'Sawubona' theo tiếng Zulu, 'Molo' theo tiếng Xhosa, 'Hallo' theo tiếng Afrikaans.",
+    "Braai — tiệc nướng ngoài trời quanh bếp than — là thú vui quốc dân mà gia đình nào cũng tụ tập mỗi cuối tuần. Bóng bầu dục gần như là tôn giáo ở đây, và đội Springboks từng vô địch World Cup."
+  ],
+  "history": [
+    "Hàng nghìn năm trước, những người thợ săn San và các cộng đồng nông dân nói tiếng Bantu đã sinh sống ở vùng đất này. Người Hà Lan đặt chân đến năm 1652, rồi người Anh tiếp nối — tất cả làm thay đổi mảnh đất này qua những cuộc xung đột đẫm máu.",
+    "Apartheid — chế độ phân biệt chủng tộc tàn nhẫn — thống trị từ năm 1948 đến 1994. Nelson Mandela bị giam cầm suốt 27 năm trước khi trở thành Tổng thống dân cử đầu tiên của đất nước, mở ra kỷ nguyên hòa giải và tự do."
+  ],
+  "wows": [
+    "Nam Phi là quốc gia duy nhất trên thế giới tự nguyện tháo dỡ toàn bộ vũ khí hạt nhân của mình.",
+    "Johannesburg tọa lạc trên mỏ vàng lớn nhất hành tinh — nơi đã khai thác ra nhiều vàng hơn bất cứ nơi nào khác trên Trái Đất.",
+    "Nam Phi có tới ba thủ đô: Pretoria, Cape Town và Bloemfontein.",
+    "Boulders Beach có hơn 3.000 con chim cánh cụt châu Phi hoang dã, chỉ cách Cape Town 40 km.",
+    "Nam Phi sản xuất khoảng 80% lượng bạch kim của toàn thế giới.",
+    "Những cây baobab ở vùng Limpopo có thể sống tới 2.000 năm, tích trữ hàng chục nghìn lít nước bên trong thân.",
+    "Núi Table Mountain có tuổi đời khoảng 600 triệu năm — già hơn cả dãy Himalaya rất nhiều."
+  ],
+  "myths": [
+    {
+      "myth": "Nam Phi toàn rừng rậm nhiệt đới",
+      "fact": "Phần lớn Nam Phi là đồng cỏ khô (veld) và bán sa mạc Karoo — rừng mưa nhiệt đới thực sự chỉ chiếm một dải nhỏ hẹp ven bờ biển phía nam."
+    },
+    {
+      "myth": "Sư tử đi lại ngoài đường phố",
+      "fact": "Sư tử hoang dã chỉ sống trong các khu bảo tồn như Kruger — người dân thành phố thường gặp chim ibis hadeda trong vườn nhà hơn là sư tử."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Sawubona",
+      "say": "sah-woo-BOH-nah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ngiyabonga",
+      "say": "ngi-yah-BON-gah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ngicela",
+      "say": "ngi-CHEH-lah"
+    },
+    {
+      "en": "Có / Đúng rồi",
+      "jp": "Yebo",
+      "say": "YEH-boh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Sala kahle",
+      "say": "sah-lah KAH-hleh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/za-hero.jpg",
+      "alt": "Sân vận động Cape Town với núi Table Mountain ở phía sau",
+      "caption": "SÂN VẬN ĐỘNG CAPE TOWN — công trình biểu tượng với núi Table Mountain phẳng đỉnh đứng sau",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/za-landmark.jpg",
+      "alt": "Núi Table Mountain nhìn từ Cape Town",
+      "caption": "NÚI TABLE MOUNTAIN — đỉnh núi cổ xưa phẳng như mặt bàn, sừng sững trên thành phố Cape Town",
+      "credit": "Wikimedia Commons / DanieVDM"
+    },
+    "animalA": {
+      "src": "/photos/za-animalA.jpg",
+      "alt": "Sư tử nằm nghỉ trên đồng cỏ savannah",
+      "caption": "SƯ TỬ CHÂU PHI — chúa tể đồng cỏ savannah và Vườn quốc gia Kruger",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/za-animalB.jpg",
+      "alt": "Chim cánh cụt châu Phi tại Boulders Beach",
+      "caption": "CHIM CÁNH CỤT CHÂU PHI — đàn chim hoang dã tại Boulders Beach gần Cape Town",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

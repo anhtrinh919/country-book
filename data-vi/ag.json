@@ -1,0 +1,163 @@
+{
+  "name": "ANTIGUA",
+  "nativeName": "AG",
+  "romaji": "ANTIGUA",
+  "tagline": "365 bãi biển, một quốc gia",
+  "region": "Vùng Caribe",
+  "coords": "17.12°N, 61.85°W",
+  "fileNo": "047",
+  "langName": "tiếng Anh (Creole)",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#C9B99A",
+    "ink": "#221E18",
+    "faint": "#8A7860",
+    "line": "#DCCFB0",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ag.svg",
+    "title": "Lá cờ Mặt Trời Mọc",
+    "note": "Đen=di sản, đỏ=nhiệt huyết, mặt trời vàng=thời đại mới",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Antigua và Barbuda là một quốc gia hai đảo nhỏ xinh nằm giữa vùng biển Caribbean xanh ngắt. Antigua nổi tiếng với 365 bãi biển — mỗi ngày trong năm bạn có thể ghé một bãi khác nhau! Còn Barbuda yên tĩnh hơn lại là nơi trú ngụ của hàng nghìn con chim quân hạm — đàn lớn nhất toàn vùng Caribbean. Tất cả vẻ đẹp ấy — rạn san hô, cảng cổ thời hải quân, nước biển xanh ngọc — gói gọn trong diện tích chỉ hơn 440 km².",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Saint John's",
+      "sub": "Bờ tây bắc đảo Antigua"
+    },
+    {
+      "label": "Dân số",
+      "value": "~93.000",
+      "sub": "Ước tính World Bank năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la EC",
+      "sub": "Gắn cố định với USD từ năm 1976"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Ngôn ngữ chính thức; tiếng Creole dùng hàng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "440 km²",
+      "sub": "Rất nhỏ — chỉ bằng một huyện!"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Obama",
+      "sub": "402 m; đổi tên năm 2009"
+    }
+  ],
+  "islands": [
+    "Antigua",
+    "Barbuda",
+    "Redonda",
+    "Saint John's",
+    "Eng. Harbour"
+  ],
+  "islandsLabel": "CÁC ĐỊA DANH CHÍNH:",
+  "sections": {
+    "geography": "Rạn san hô, vịnh & bãi biển",
+    "animals": "Cánh, móng guốc & vây cá",
+    "culture": "Carnival, cricket & calypso",
+    "history": "Mía đường, buồm gió & tự do",
+    "wows": "Bạn có biết không?"
+  },
+  "geo": [
+    "Antigua là hòn đảo đá vôi bằng phẳng, thấp, được bao quanh bởi những rạn san hô và vô số vũng vịnh kín gió. Góc tây nam của đảo có địa hình núi lửa nhô lên với đỉnh Núi Obama cao 402 m — ngọn đỉnh duy nhất trên đảo — trong khi bờ biển uốn khúc tạo nên hàng chục bãi cát trắng mịn.",
+    "Barbuda nằm cách 50 km về phía bắc, còn bằng phẳng hơn và hoang sơ hơn: phần lớn là bụi rậm, bãi cát hồng nhạt và một đầm phá rộng lớn mà mỗi mùa thu lại đón hàng nghìn con chim quân hạm kéo về. Hòn đảo thứ ba, Redonda, chỉ là một vách đá dốc đứng không có người ở."
+  ],
+  "animals": [
+    "Chim quân hạm tráng lệ là quốc điểu của Antigua và Barbuda. Con đực phồng túi cổ họng đỏ tươi to bằng quả bóng để thu hút bạn đời — trông thật ấn tượng! Đầm phá Codrington ở Barbuda là ngôi nhà của hàng nghìn con một lúc, một trong những đàn lớn nhất toàn cầu.",
+    "Hươu đốm được người châu Âu đưa đến từ 400 năm trước và vẫn thảnh thơi dạo quanh những bụi cây hoang của Barbuda. Rùa biển đẻ trứng trên những bãi biển vắng lặng, còn các rạn san hô là nhà của hơn 170 loài cá đủ màu sắc rực rỡ."
+  ],
+  "culture": [
+    "Lễ hội Carnival của Antigua bùng nổ vào cuối tháng Bảy và tháng Tám mỗi năm, kỷ niệm ngày xóa bỏ chế độ nô lệ năm 1834. Khắp đường phố ngập tràn những bộ trang phục lông vũ rực rỡ, âm nhạc soca sôi động, và các cuộc thi hát calypso — cả nước biến thành một lễ hội đường phố khổng lồ.",
+    "Cricket ở đây gần như là tôn giáo, và quốc gia nhỏ bé này đã sản sinh ra nhiều cầu thủ đẳng cấp thế giới. Nồi súp pepperpot và bánh fungee — làm từ bột ngô với đậu bắp — là những món ăn gắn liền với cội nguồn châu Phi của người dân nơi đây."
+  ],
+  "history": [
+    "Người Siboney đến định cư khoảng năm 2400 trước Công Nguyên, sau đó người Arawak và Carib cũng kéo đến. Columbus nhìn thấy Antigua năm 1493 và đặt tên theo một nhà thờ ở Seville. Người Anh chiếm đóng từ năm 1632, trồng mía đường và đưa người châu Phi vào làm nô lệ — con cháu họ chiếm khoảng 96% dân số ngày nay.",
+    "Chế độ nô lệ kết thúc vào ngày 1 tháng 8 năm 1834 — đúng ngày mà lễ hội Carnival ngày nay tưng bừng kỷ niệm. Độc lập hoàn toàn đến vào ngày 1 tháng 11 năm 1981, với ông Vere Bird là thủ tướng đầu tiên, đánh dấu hàng thập kỷ đấu tranh giành quyền tự quyết."
+  ],
+  "wows": [
+    "Antigua có đến 365 bãi biển — một bãi cho mỗi ngày trong năm, nên bạn chẳng bao giờ phải tắm hai lần ở cùng một chỗ!",
+    "Cảng Nelson's Dockyard là xưởng đóng tàu hải quân thời đại Georgia duy nhất trên thế giới vẫn còn hoạt động đến ngày nay.",
+    "Đỉnh núi cao nhất nước được đổi tên thành Núi Obama năm 2009 để vinh danh tân tổng thống Mỹ vừa đắc cử.",
+    "Bãi cát Barbuda có màu hồng nhẹ vì san hô đỏ và vỏ sò nghiền vụn trộn lẫn vào cát trắng.",
+    "Đồng đô-la Caribbean Đông đã giữ nguyên tỷ giá cố định với đô-la Mỹ — 2,70 XCD đổi 1 USD — suốt từ năm 1976 đến nay.",
+    "Antigua và Barbuda gia nhập Liên Hợp Quốc ngay năm 1981 — cùng năm tuyên bố độc lập!",
+    "Chim quân hạm đực có thể bay liên tục nhiều tuần trên trời, ngủ ngắn trong khi lướt theo luồng khí ấm."
+  ],
+  "myths": [
+    {
+      "myth": "Antigua có đúng 365 bãi biển",
+      "fact": "Con số này là một câu slogan du lịch thú vị chứ chưa từng được đo đếm chính xác — những vũng nhỏ xuất hiện rồi biến mất theo thủy triều, và tùy cách đo mà có thể đếm từ 260 đến hơn 400 bãi."
+    },
+    {
+      "myth": "Antigua và Barbuda là một hòn đảo",
+      "fact": "Đây là hai hòn đảo hoàn toàn tách biệt, cách nhau 50 km với địa hình rất khác nhau — Barbuda bằng phẳng và hoang sơ hơn, dân cư thưa thớt hơn nhiều so với đảo chị Antigua."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Wha' happen?",
+      "say": "wha HAP-pen"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tanks",
+      "say": "tanks"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Bredren",
+      "say": "BRED-ren"
+    },
+    {
+      "en": "Tuyệt vời!",
+      "jp": "Irie",
+      "say": "EYE-ree"
+    },
+    {
+      "en": "Đi thôi!",
+      "jp": "Move up!",
+      "say": "moov UP"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ag-hero.jpg",
+      "alt": "Hoàng hôn trên Cảng English Harbour, Antigua",
+      "caption": "ENGLISH HARBOUR — du thuyền neo đậu dưới ánh hoàng hôn vàng rực vùng Caribbean",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ag-landmark.jpg",
+      "alt": "Xưởng đóng tàu Nelson's Dockyard, Cảng English Harbour, Antigua",
+      "caption": "NELSON'S DOCKYARD — xưởng hải quân thời Georgia duy nhất còn hoạt động trên thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ag-animalA.jpg",
+      "alt": "Chim quân hạm tráng lệ con đực phồng túi cổ họng đỏ",
+      "caption": "CHIM QUÂN HẠM TRÁNG LỆ — con đực phồng túi cổ đỏ to như quả bóng để tán tỉnh bạn đời",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ag-animalB.jpg",
+      "alt": "Hươu đốm, động vật biểu tượng của Antigua và Barbuda",
+      "caption": "HƯƠU ĐỐM — quốc thú, sống tự do ở Barbuda từ thế kỷ 17",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

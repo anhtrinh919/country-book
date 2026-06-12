@@ -1,0 +1,163 @@
+{
+  "name": "BAHRAIN",
+  "nativeName": "البحرن",
+  "romaji": "AL-BAHRAYN",
+  "tagline": "Vương quốc đảo giữa Vịnh Ba Tư",
+  "region": "Trung Đông",
+  "coords": "26.07°N 50.55°E",
+  "fileNo": "BH",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBA96",
+    "ink": "#29201A",
+    "faint": "#897055",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/bh.svg",
+    "title": "Quốc kỳ Bahrain",
+    "note": "Nền trắng và đỏ răng cưa, 5 mũi nhọn trắng",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bahrain là một vương quốc đảo nhỏ xíu giữa Vịnh Ba Tư — diện tích còn nhỏ hơn cả thành phố Hà Nội nhưng lịch sử thì dày đến mấy nghìn năm. Hàng bao thế kỷ, những thợ lặn dũng cảm đã lặn sâu xuống vùng nước ấm để mò trai lấy ngọc trai quý. Ngày nay, những tòa tháp sáng bóng mọc lên bên cạnh những pháo đài cổ xưa, và tiếng động cơ xe đua Formula 1 vang vọng khắp sa mạc mỗi năm một lần.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Manama",
+      "sub": "Khoảng 200.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,6 triệu người",
+      "sub": "Ước tính 2024; ~53% là người nước ngoài"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dinar Bahrain",
+      "sub": "1 BHD ≈ 2,65 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Giọng vùng Vịnh; tiếng Anh cũng phổ biến"
+    },
+    {
+      "label": "Diện tích",
+      "value": "778 km²",
+      "sub": "Khoảng bằng 3 lần đảo Phú Quốc"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Jabal Dukhan",
+      "sub": "134 m — một ngọn đồi cát thoai thoải"
+    }
+  ],
+  "islands": [
+    "Manama",
+    "Muharraq",
+    "Riffa",
+    "Hamad Town",
+    "Isa Town"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Hòn ngọc giữa Vịnh",
+    "animals": "Sa mạc, biển khơi và bầu trời",
+    "culture": "Ngọc trai, chà là và F1",
+    "history": "5.000 năm buôn bán",
+    "wows": "Bạn có biết không?"
+  },
+  "geo": [
+    "Bahrain là một quần đảo gồm 33 hòn đảo nằm trong một vịnh nông giữa Qatar và Ả Rập Xê Út. Một cây cầu dài gần 25 km nối Bahrain với đất liền Ả Rập Xê Út — nghĩa là bạn có thể lái xe thẳng từ giữa sa mạc đến đây mà không cần lên thuyền.",
+    "Phần lớn đất đai ở đây bằng phẳng và cát trắng, nhưng có điều kỳ lạ: những mạch nước ngọt tự nhiên trào lên ngay từ đáy biển. Các thủy thủ cổ xưa rất quý trọng điều này. Bờ biển phía bắc nhờ đó mà xanh tươi hơn, với những vườn chà là và ruộng vườn nhỏ được tưới mát bởi các mạch nước ngầm."
+  ],
+  "animals": [
+    "Linh dương sừng thẳng Ả Rập — loài vật từng gần như tuyệt chủng — ngày nay được bảo vệ trong khu dự trữ thiên nhiên của Bahrain. Cá heo mũi chai nhảy múa ngay ngoài khơi, còn rùa biển đầu khoằm lặng lẽ bò lên những bãi biển vắng vẻ vào ban đêm để đẻ trứng trong cát ấm.",
+    "Mỗi mùa đông, hàng đàn chim cốc Socotra khổng lồ kéo đến — quần đảo Hawar là một trong những khu sinh sản lớn nhất thế giới của loài này. Dưới lòng biển, loài bò biển dugong hiền lành gặm cỏ biển trong một trong những quần thể khỏe mạnh cuối cùng còn lại ở vùng Vịnh."
+  ],
+  "culture": [
+    "Người Bahrain yêu thích \"majlis\" — tập tục ngồi quây quần, uống cà phê thảo đậu khấu và trò chuyện hàng giờ đồng hồ. Tiếng nhạc sawt từ đàn oud vang ra qua những ô cửa mở, và khói trầm hương lan tỏa khắp những khu chợ vàng sôi động.",
+    "Giải đua xe Formula 1 Bahrain Grand Prix gầm rú qua Sakhir mỗi năm, biến F1 thành niềm đam mê của cả đất nước. Món ăn yêu thích là machboos — cơm gạo thơm với cá hoặc thịt cừu nấu đủ loại gia vị — và tháng Ramadan biến những buổi tối thành lễ hội đường phố náo nhiệt."
+  ],
+  "history": [
+    "Bahrain từng là trái tim của nền văn minh Dilmun cổ đại, được nhắc đến trong các văn bản của người Sumer cách đây 5.000 năm. Người Bồ Đào Nha chiếm đóng các pháo đài nơi đây năm 1521; dòng họ Al Khalifa — những người cai trị đến tận ngày nay — đến đây vào năm 1783.",
+    "Anh Quốc biến Bahrain thành vùng bảo hộ năm 1820. Dầu mỏ được phát hiện năm 1932 — lần đầu tiên trong toàn bộ vùng Vịnh Ả Rập. Độc lập năm 1971. Khi dầu dần cạn kiệt, Bahrain tái sinh mình thành trung tâm tài chính ngân hàng — mô hình mà các nước vùng Vịnh sau này đều học theo."
+  ],
+  "wows": [
+    "Bahrain có số lượng xe hơi trên mỗi km đường thuộc hàng nhiều nhất thế giới.",
+    "Một cây cổ thụ 400 tuổi gọi là \"Cây của Sự Sống\" mọc đơn độc giữa sa mạc trống trải, không có bất kỳ nguồn nước nào nhìn thấy được.",
+    "Hơn 100.000 gò chôn cất cổ đại từng nằm rải rác khắp đảo — mật độ mộ phần cao nhất trên mỗi km² so với bất kỳ nơi nào trên hành tinh.",
+    "Năm 2002, Bahrain là quốc gia đầu tiên ở vùng Vịnh cho phép phụ nữ vừa bỏ phiếu vừa ứng cử vào quốc hội.",
+    "Tên \"Bahrain\" trong tiếng Ả Rập có nghĩa là \"hai biển\" — chỉ nước ngọt và nước mặn giao thoa quanh các hòn đảo.",
+    "Ngọc trai nuôi cấy của Nhật Bản vào những năm 1930 đã xóa sổ toàn bộ ngành ngọc trai của Bahrain chỉ trong một đêm.",
+    "Giải Grand Prix Bahrain là cuộc đua Formula 1 đầu tiên trên thế giới được tổ chức vào ban đêm, thắp sáng bởi 495 cột đèn pha rực rỡ."
+  ],
+  "myths": [
+    {
+      "myth": "Bahrain chỉ là một bãi cát có dầu mỏ",
+      "fact": "Dầu mỏ gần như đã cạn kiệt — ngày nay Bahrain kiếm phần lớn thu nhập từ ngân hàng, du lịch và sản xuất công nghiệp, và họ đã làm vậy từ nhiều thập kỷ trước rồi."
+    },
+    {
+      "myth": "Nơi đây quá nóng để đến thăm",
+      "fact": "Mùa đông từ tháng 11 đến tháng 3 rất dễ chịu, nhiệt độ dao động 15–25°C, và giải Grand Prix tháng 3 thu hút hàng trăm nghìn du khách mỗi năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-THEETH"
+    },
+    {
+      "en": "Chào mừng!",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bh-hero.jpg",
+      "alt": "Hai tòa tháp Trung tâm Thương mại Thế giới Bahrain lúc hoàng hôn",
+      "caption": "TRUNG TÂM THƯƠNG MẠI THẾ GIỚI BAHRAIN — hai tòa tháp nối nhau bằng tua-bin gió, thủ đô Manama.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bh-landmark.jpg",
+      "alt": "Di tích pháo đài cổ Qal'at al-Bahrain",
+      "caption": "QAL'AT AL-BAHRAIN — di tích pháo đài được UNESCO công nhận, có niên đại từ năm 2300 trước Công nguyên.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bh-animalA.jpg",
+      "alt": "Bò biển dugong bơi dưới nước",
+      "caption": "BÒ BIỂN DUGONG — loài thú hiền lành gặm cỏ biển ở Vịnh Ba Tư, đang bị đe dọa.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bh-animalB.jpg",
+      "alt": "Rùa biển đầu khoằm đang bơi",
+      "caption": "RÙA BIỂN ĐẦU KHOẰM — đẻ trứng trên những bãi biển yên tĩnh của Bahrain dưới màn đêm.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

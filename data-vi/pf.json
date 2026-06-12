@@ -1,0 +1,163 @@
+{
+  "name": "POLYNESIA THUỘC PHÁP",
+  "nativeName": "PF",
+  "romaji": "POLYNÉSIE",
+  "tagline": "Những hòn đảo được mặt trời hôn",
+  "region": "Polynesia, Nam Thái Bình Dương",
+  "coords": "17°32′S 149°34′W",
+  "fileNo": "118",
+  "langName": "tiếng Tahiti",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BCA4",
+    "ink": "#252018",
+    "faint": "#8a7a5e",
+    "line": "#DAD0BC",
+    "accent": "#C8192E",
+    "accent2": "#2B5FA5"
+  },
+  "flag": {
+    "assetPath": "/flags/pf.svg",
+    "title": "Đỏ, Trắng & Con Thuyền",
+    "note": "Sọc đỏ-trắng-đỏ; 5 tay chèo tượng trưng cho 5 nhóm đảo",
+    "keyColor": "#C8192E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "121 hòn đảo rải rác khắp Nam Thái Bình Dương — vùng biển rộng hơn cả châu Âu, nhưng tổng diện tích đất liền chỉ bằng một tỉnh nhỏ. Đây là nơi từ 'tattoo' (xăm hình) ra đời, nơi những viên ngọc trai đen quý giá lớn lên trong lòng trai, và nơi vũ điệu Heiva rộn ràng mỗi tháng Bảy. Những đỉnh núi lửa sừng sững nhìn xuống đầm phá trong xanh như ngọc — đẹp đến mức lính Thế chiến II gọi đây là hòn đảo đẹp nhất địa cầu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Papeete",
+      "sub": "Trên đảo Tahiti"
+    },
+    {
+      "label": "Dân số",
+      "value": "278.786",
+      "sub": "Điều tra dân số 2022 (ISPF)"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFP",
+      "sub": "Mã: XPF"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Pháp & Tahiti",
+      "sub": "Cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "3.521 km²",
+      "sub": "Trải dài trên hơn 2.000 km đại dương"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Orohena",
+      "sub": "2.241 m, đảo Tahiti"
+    }
+  ],
+  "islands": [
+    "Society Is.",
+    "Marquesas",
+    "Tuamotu",
+    "Australs",
+    "Gambier Is."
+  ],
+  "islandsLabel": "CÁC NHÓM ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đầm phá, núi lửa & san hô",
+    "animals": "Cá voi, cá đuối & chim hiếm",
+    "culture": "Vũ điệu, xăm hình & ngọc trai đen",
+    "history": "Thám hiểm, nghệ thuật & thử nghiệm hạt nhân",
+    "wows": "Bí mật bất ngờ của các hòn đảo"
+  },
+  "geo": [
+    "Polynesia thuộc Pháp có 121 hòn đảo trải rộng trên một vùng đại dương lớn hơn cả châu Âu, nhưng tổng diện tích đất liền chỉ ngang một tỉnh nhỏ của Việt Nam. Nhóm đảo Society có những đỉnh núi cao nhất — núi Orohena trên đảo Tahiti vươn lên 2.241 m — trong khi quần đảo Marquesas có những vách đá biển hùng vĩ bậc nhất thế giới.",
+    "Nhóm đảo Tuamotu là chuỗi vòng san hô (atoll) dài nhất hành tinh: những vòng rạn san hô phẳng lặng, gần như ngang mặt nước, ôm trọn những đầm phá màu ngọc lam lấp lánh. Đảo Bora Bora với ngọn núi lửa xanh ngắt nằm giữa đầm phá đẹp đến nỗi các chiến sĩ Thế chiến II gọi đó là hòn đảo đẹp nhất trái đất."
+  ],
+  "animals": [
+    "Mỗi năm từ tháng Bảy đến tháng Mười Một, cá voi lưng gù kéo đến đây để sinh con, và gần đảo Moorea bạn có thể lặn ngắm cá voi mẹ cùng chú voi con giữa biển khơi. Cá đuối manta khổng lồ lượn như những con diều khổng lồ dưới nước tại trạm làm sạch Anau ở Bora Bora gần như quanh năm.",
+    "Chim Tahiti Monarch — loài chim bắt ruồi màu đen cực kỳ nguy cấp, không nơi nào trên Trái Đất có ngoài đây — đang dần được cứu thoát nhờ các nhà bảo tồn. Còn chú vẹt lắc xanh điện Vini peruviana nhảy nhót giữa những tàu dừa trên các atoll xa xôi, màu xanh rực rỡ nổi bật trên nền cát trắng."
+  ],
+  "culture": [
+    "Từ 'tattoo' trong tiếng Anh bắt nguồn từ chữ 'tatu' của người Polynesia — từ hàng nghìn năm nay, người Polynesia đã xăm những họa tiết phức tạp trên người như một cuốn sử gia đình sống. Mỗi tháng Bảy, lễ hội Heiva i Tahiti kéo dài cả tháng bùng nổ: các vũ công tranh tài với điệu múa 'ori Tahiti, đôi hông lắc nhanh đến mức mắt người xem không theo kịp.",
+    "Polynesia thuộc Pháp là nơi sản xuất ngọc trai đen quý nhất thế giới, được nuôi cấy trong trai môi đen trên khắp các đầm phá Tuamotu — đây cũng là mặt hàng xuất khẩu lớn nhất của các hòn đảo. Cuộc sống hằng ngày nơi đây thấm đẫm triết lý aita pea pea — 'không có gì phải lo' — định hình cách người dân chào hỏi khách lạ và sẻ chia bữa ăn."
+  ],
+  "history": [
+    "Những người đi biển Polynesia đã định cư trên các hòn đảo này khoảng năm 300 sau Công nguyên, định hướng bằng sao trời trên những chiếc thuyền độc mộc có cánh. Thuyền trưởng người Anh Samuel Wallis đặt chân lên Tahiti năm 1767; Bougainville đến sau một năm và gọi đây là thiên đường, khơi nguồn cho hàng thế kỷ huyền thoại lãng mạn.",
+    "Pháp sáp nhập các hòn đảo này vào năm 1880, rồi cho nổ 193 vũ khí hạt nhân tại các atoll Tuamotu từ năm 1966 đến 1996. Hàng thập kỷ che giấu sự thật cuối cùng bị thừa nhận vào những năm 2010. Ngày nay, Polynesia thuộc Pháp là vùng lãnh thổ tự trị của Pháp với tiếng nói đòi độc lập ngày càng lớn."
+  ],
+  "wows": [
+    "121 hòn đảo trải rộng đến mức bay hết tất cả tốn quãng đường tương đương London đến Moscow.",
+    "Từ 'tattoo' trong tiếng Anh bắt nguồn từ chữ 'tatu' của người Polynesia, được thủy thủ của thuyền trưởng Cook mang về vào năm 1769.",
+    "Một viên ngọc trai đen Tahiti cần tới hai năm để lớn thành — và đây là mặt hàng xuất khẩu quan trọng nhất của các hòn đảo.",
+    "Gần đảo Moorea, bạn có thể lặn ngắm cá voi lưng gù mẹ và con ngay giữa biển khơi.",
+    "Pháp đã kích nổ 193 vũ khí hạt nhân tại đây — 46 vụ trên mặt đất — khiến mức phóng xạ tại Tahiti từng cao gấp 500 lần ngưỡng an toàn.",
+    "Đầm phá Bora Bora đẹp đến mức lính Thế chiến II cứ ngỡ hòn đảo này không có thật.",
+    "Vùng biển 5 triệu km² của Polynesia thuộc Pháp là một trong những vùng đặc quyền kinh tế lớn nhất thế giới so với diện tích đất liền."
+  ],
+  "myths": [
+    {
+      "myth": "Tahiti là một hòn đảo duy nhất",
+      "fact": "Tahiti chỉ là một trong 121 hòn đảo thuộc năm nhóm đảo khác nhau. Khi khách du lịch nói 'đi Tahiti', họ thường nghỉ ở Bora Bora hay Moorea — những hòn đảo hoàn toàn riêng biệt, cách nhau khá xa."
+    },
+    {
+      "myth": "Đầm phá ở đây lúc nào cũng yên bình",
+      "fact": "Polynesia thuộc Pháp nằm trong vành đai bão nhiệt đới; bão đổ bộ từ tháng Mười Một đến tháng Tư, và các atoll thấp có thể bị ngập nguy hiểm bởi sóng biển lớn."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Ia ora na",
+      "say": "ee-ah OH-rah nah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Māururuu",
+      "say": "mah-oo-ROO-roo"
+    },
+    {
+      "en": "Không lo gì cả",
+      "jp": "Aita pea pea",
+      "say": "EYE-tah pay pay"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Nehenehe",
+      "say": "neh-heh-NEH-heh"
+    },
+    {
+      "en": "Biển cả",
+      "jp": "Te moana",
+      "say": "teh moh-AH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pf-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống đảo Bora Bora được bao quanh bởi đầm phá màu ngọc lam và rạn san hô",
+      "caption": "BORA BORA — hòn đảo núi lửa huyền thoại nằm giữa đầm phá ngọc lam lấp lánh",
+      "credit": "Samuel Etienne / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/pf-landmark.jpg",
+      "alt": "Toàn cảnh cảng Papeete với đảo Moorea hiện ra ở chân trời",
+      "caption": "PAPEETE — cảng thủ đô Tahiti với những đỉnh núi Moorea sừng sững phía chân trời",
+      "credit": "Jérémie Silvestro (Avatea) / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/pf-animalA.jpg",
+      "alt": "Chú cá voi lưng gù con đang bơi dưới nước gần đảo Moorea, Polynesia thuộc Pháp",
+      "caption": "CÁ VOI LƯNG GÙ CON — bơi trong vùng biển ấm gần Moorea vào mùa đông mỗi năm",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/pf-animalB.jpg",
+      "alt": "Chú vẹt lắc xanh rực rỡ đậu trên tán lá nhiệt đới ở các hòn đảo Thái Bình Dương",
+      "caption": "VẸT LẮC XANH (Vini peruviana) — loài vẹt sáng như ngọc quý của các atoll Thái Bình Dương",
+      "credit": "desertnaturalist / CC BY 4.0"
+    }
+  }
+}

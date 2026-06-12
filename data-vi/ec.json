@@ -1,0 +1,163 @@
+{
+  "name": "ECUADOR",
+  "nativeName": "EC",
+  "romaji": "ECUADOR",
+  "tagline": "Bốn thế giới trong một đất nước",
+  "region": "Nam Mỹ",
+  "coords": "1.83°S, 78.18°W",
+  "fileNo": "47",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CEBF9A",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#DCCFA8",
+    "accent": "#E8B800",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/ec.svg",
+    "title": "Quốc kỳ Ecuador",
+    "note": "Vàng, xanh dương & đỏ, có quốc huy ở giữa",
+    "keyColor": "#E8B800",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tên \"Ecuador\" chính là từ \"đường xích đạo\" — đất nước này nằm ngay trên đường tưởng tượng chia đôi Trái Đất! Chỉ trong một nước nhỏ, bạn sẽ thấy đủ cả: núi lửa phủ tuyết trắng, rừng Amazon rậm rạp, bãi biển Thái Bình Dương, và quần đảo Galápagos nơi rùa khổng lồ thong thả dạo bộ. Ecuador là một trong những nơi có nhiều loài sinh vật nhất thế giới — số loài chim trên mỗi km² thuộc hàng cao nhất toàn cầu!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Quito",
+      "sub": "Nằm ở độ cao 2.850 m so với mực nước biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "18,6 triệu người",
+      "sub": "Ước tính 2024, theo INEC"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Mỹ (USD)",
+      "sub": "Dùng USD từ năm 2000"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Tiếng Kichwa cũng được nói rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "283.561 km²",
+      "sub": "Bao gồm cả quần đảo Galápagos"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "6.263 m",
+      "sub": "Núi lửa Chimborazo"
+    }
+  ],
+  "islands": [
+    "QUITO",
+    "GUAYAQUIL",
+    "CUENCA",
+    "GALÁPAGOS",
+    "MANTA"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ & VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Bốn thế giới, một đất nước bé nhỏ",
+    "animals": "Rùa khổng lồ, kỳ nhông & chim ruồi",
+    "culture": "Mũ, nhạc & chợ trên đỉnh đồi",
+    "history": "Từ vàng Inca đến độc lập",
+    "wows": "Ecuador bất ngờ lắm đó!"
+  },
+  "geo": [
+    "Ecuador gói gọn bốn thế giới trong một: dãy Andes chạy dọc giữa như cái xương sống, với núi Chimborazo cao đến mức đỉnh của nó là điểm xa nhất tính từ tâm Trái Đất — còn xa hơn cả đỉnh Everest!",
+    "Phía đông là một dải rừng Amazon xanh thẳm; phía tây là bãi biển Thái Bình Dương. Rồi cách bờ 1.000 km là quần đảo Galápagos nổi lên giữa đại dương — nơi các loài vật tiến hóa theo cách không giống bất kỳ đâu trên Trái Đất."
+  ],
+  "animals": [
+    "Rùa khổng lồ Galápagos nặng tới 400 kg và sống hơn 100 năm! Kỳ nhông biển là loài thằn lằn duy nhất trên thế giới lặn xuống biển để ăn tảo — thật độc đáo không thể tin được.",
+    "Trên đất liền, báo đốm rình mồi trong rừng Amazon, gấu kính lang thang trong rừng mây, và hơn 130 loài chim ruồi bay lơ lửng như những viên ngọc nhỏ xíu. Đại bàng Andean sải cánh rộng tới 3 mét lượn trên bầu trời."
+  ],
+  "culture": [
+    "Chiếc mũ nổi tiếng tên \"mũ Panama\" thực ra là của Ecuador — được đan tay từ cây toquilla ở các làng ven biển, một nghề thủ công tinh xảo đến mức được UNESCO công nhận là di sản nhân loại. Một chiếc mũ chất lượng cao có thể mất cả tháng mới hoàn thành!",
+    "Âm nhạc Ecuador rất phong phú: từ sáo và trống của người Andes đến đàn marimba vùng ven biển. Chợ Otavalo do cộng đồng Kichwa điều hành đã bày bán vải dệt tay rực rỡ sắc màu suốt nhiều thế kỷ qua."
+  ],
+  "history": [
+    "Trước khi người Tây Ban Nha đến, Đế chế Inca đã mở rộng vào đây vào thế kỷ 15, biến Quito thành kinh đô phía bắc. Những người chinh phạt đến năm 1534, xây nhà thờ ngay trên nền móng của người Inca cũ.",
+    "Ecuador tuyên bố độc lập năm 1822 với sự giúp đỡ của Simón Bolívar. Đến năm 2008, Ecuador trở thành quốc gia đầu tiên trên thế giới đưa \"quyền của thiên nhiên\" vào hiến pháp — các con sông được pháp luật bảo vệ như con người!"
+  ],
+  "wows": [
+    "Đỉnh Chimborazo xa tâm Trái Đất hơn cả đỉnh Everest, vì hành tinh của chúng ta phình ra ở vùng xích đạo.",
+    "Mỗi năm Ecuador xuất khẩu hơn 5 triệu tấn chuối, thuộc hàng những nước xuất khẩu chuối lớn nhất thế giới.",
+    "Kỳ nhông biển Galápagos hắt hơi để tống muối biển ra ngoài, để lại lớp trắng bám trên mặt trông rất buồn cười.",
+    "Quito là thành phố đầu tiên trên thế giới được UNESCO công nhận là Di sản Thế giới, vào năm 1978.",
+    "Ecuador có hơn 4.000 loài phong lan — nhiều hơn bất kỳ quốc gia nào khác trên Trái Đất.",
+    "Tại Mitad del Mundo, bạn có thể đứng với một chân ở Bắc bán cầu và một chân ở Nam bán cầu cùng lúc!",
+    "Chuyến thăm Galápagos của Darwin năm 1835 đã truyền cảm hứng cho thuyết tiến hóa — một trong những khám phá quan trọng nhất lịch sử khoa học."
+  ],
+  "myths": [
+    {
+      "myth": "\"Mũ Panama đến từ Panama\"",
+      "fact": "Thực ra chúng được làm ở Ecuador từ đầu đến cuối — chỉ vì được xuất khẩu qua Panama vào thế kỷ 19 nên bị gắn nhầm tên. Những chiếc đẹp nhất đến từ Montecristi, Ecuador."
+    },
+    {
+      "myth": "\"Chimborazo thấp hơn Everest\"",
+      "fact": "Tính từ mực nước biển thì đúng — nhưng tính từ tâm Trái Đất, Chimborazo mới là vô địch! Vì xích đạo phình ra, đỉnh Chimborazo cao hơn đỉnh Everest khoảng 2.168 km tính từ tâm địa cầu."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ass"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Delicioso!",
+      "say": "deh-lee-SYOH-so"
+    },
+    {
+      "en": "... ở đâu?",
+      "jp": "¿Dónde está?",
+      "say": "DON-deh es-TAH"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Adiós",
+      "say": "ah-DYOSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ec-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống trung tâm lịch sử Quito với những tháp nhà thờ kiểu thuộc địa",
+      "caption": "PHỐ CỔ QUITO — một trong những khu phố thuộc địa được bảo tồn đẹp nhất châu Mỹ",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ec-landmark.jpg",
+      "alt": "Ngọn núi lửa Cotopaxi phủ tuyết trắng vươn cao trên cao nguyên Andes",
+      "caption": "COTOPAXI — một trong những núi lửa đang hoạt động cao nhất thế giới, 5.897 m",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ec-animalA.jpg",
+      "alt": "Rùa khổng lồ Galápagos với mai vòm tròn đang đứng trên bãi cỏ",
+      "caption": "RÙA KHỔNG LỒ GALÁPAGOS — sống lâu hơn bất kỳ con người nào, vượt qua 100 tuổi",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ec-animalB.jpg",
+      "alt": "Chim chân xanh đứng trên đá khoe đôi chân xanh rực rỡ",
+      "caption": "CHIM CHÂN XANH — nhảy múa để khoe đôi chân xanh tuyệt đẹp của mình",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

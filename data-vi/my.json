@@ -1,0 +1,163 @@
+{
+  "name": "MALAYSIA",
+  "nativeName": "MY",
+  "romaji": "MALAYSIA",
+  "tagline": "Châu Á hội tụ trong một đất nước",
+  "region": "Đông Nam Á",
+  "coords": "4.21°N, 101.97°E",
+  "fileNo": "043",
+  "langName": "tiếng Mã Lai",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A58",
+    "line": "#DACFB0",
+    "accent": "#CC0001",
+    "accent2": "#010066"
+  },
+  "flag": {
+    "assetPath": "/flags/my.svg",
+    "title": "Jalur Gemilang",
+    "note": "14 sọc đỏ và trắng, ô vuông xanh",
+    "keyColor": "#CC0001",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Malaysia nằm ngay giữa lòng Đông Nam Á — một nửa là bán đảo treo dưới Thái Lan, một nửa là hai bang lớn trên đảo Borneo. Những khu rừng mưa còn già hơn cả rừng Amazon mọc san sát với những tòa tháp thủy tinh lấp lánh, nơi người Mã Lai, người Hoa, người Ấn Độ và hàng chục dân tộc bản địa cùng sống chung trên một con phố — và cùng nhau thưởng thức những món ăn tuyệt vời nhất châu Á.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kuala Lumpur",
+      "sub": "KL — đường chân trời đẹp nhất Đông Nam Á"
+    },
+    {
+      "label": "Dân số",
+      "value": "34,1 triệu người",
+      "sub": "ước tính 2024 (DOSM), rất đa dạng"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Ringgit (MYR)",
+      "sub": "RM — nghĩa là 'răng cưa'"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Bahasa Melayu",
+      "sub": "+ tiếng Anh dùng rất phổ biến"
+    },
+    {
+      "label": "Diện tích",
+      "value": "329.847 km²",
+      "sub": "lớn hơn Việt Nam một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Kinabalu",
+      "sub": "4.095 m — bang Sabah, đảo Borneo"
+    }
+  ],
+  "islands": [
+    "Peninsula",
+    "Sabah",
+    "Sarawak",
+    "Labuan",
+    "Putrajaya"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Rừng mưa và đỉnh núi chạm mây",
+    "animals": "Thú rừng nhiệt đới",
+    "culture": "Gia vị, lụa và ánh đèn lễ hội",
+    "history": "Từ cảng hương liệu đến tháp đôi",
+    "wows": "Có thật không vậy?"
+  },
+  "geo": [
+    "Bán đảo Malaysia phần lớn là vùng cao nguyên xanh mướt phủ đầy rừng mưa nhiệt đới, hai bên bờ biển là những rừng đước mênh mông. Dãy Titiwangsa chạy dọc giữa bán đảo như cột sống xanh, giúp bờ đông hoang sơ hơn bờ tây rất nhiều.",
+    "Bên kia Biển Đông, hai bang Sabah và Sarawak chiếm một vùng đất rộng lớn trên đảo Borneo. Sông ngòi chính là những con đường giao thông, hang động lớn ngang sân vận động, còn núi Kinabalu sừng sững trên mây như một gã khổng lồ bằng đá granit nhìn ra tận ngoài biển khơi."
+  ],
+  "animals": [
+    "Rừng mưa Malaysia đã tồn tại hơn 130 triệu năm — già hơn cả rừng Amazon. Đười ươi đu cành trong tán rừng Borneo, voi lùn lội sông ở Sabah, còn hổ Mã Lai rình rập trong rừng sâu — hiện chỉ còn chưa đến 150 con trong thiên nhiên hoang dã.",
+    "Khỉ mũi to với cái mũi khổng lồ buồn cười ngồi kêu eng éc trên cây ven sông. Hoa Rafflesia — rộng đến một mét — là bông hoa lớn nhất thế giới. Đêm đến, đom đóm thắp sáng hàng cây đước dọc sông Selangor ở Selangor như cây thông Noel sống khổng lồ."
+  ],
+  "culture": [
+    "Malaysia là một bức tranh ghép màu sắc: người Mã Lai, người Hoa, người Ấn Độ và hơn 60 dân tộc bản địa. Hari Raya, Tết Nguyên Đán, Deepavali và Giáng Sinh đều là ngày lễ quốc gia — và mọi người thường cùng nhau ăn mừng lễ hội của nhau.",
+    "Ăn uống là niềm đam mê quốc dân. Nasi lemak, roti canai, char kway teow và laksa đều có thể tìm thấy trong vòng vài bước đi ở bất kỳ thị trấn nào. Tháp đôi Petronas — từng cao nhất thế giới từ năm 1998 đến 2004 — sừng sững trên một thành phố không bao giờ ngừng ăn."
+  ],
+  "history": [
+    "Malacca từng là cảng thương mại lớn nhất Đông Nam Á vào thế kỷ 15 — thương nhân Ả Rập, Ấn Độ, Trung Quốc và Java đều cập bến đây. Năm 1511 người Bồ Đào Nha chiếm thành, rồi đến người Hà Lan, rồi người Anh — để lại một khu phố cổ pha trộn nhiều tầng văn hóa vẫn còn đứng vững đến ngày nay.",
+    "Người Anh đã gắn kết các tiểu vương quốc thành Liên bang Mã Lai thuộc Anh và sáp nhập thêm Bắc Borneo. Ngày 31 tháng 8 năm 1957, Malaysia độc lập — Merdeka! Năm 1963, Malaysia thành lập liên bang, rồi trong vài thập kỷ chuyển mình từ nền kinh tế thiếc và cao su thành trung tâm công nghệ cao."
+  ],
+  "wows": [
+    "Hang Sarawak trong khu vực Mulu là phòng hang lớn nhất thế giới — đủ chỗ chứa 40 chiếc máy bay Boeing 747.",
+    "Malaysia sản xuất khoảng một phần tư lượng dầu cọ toàn cầu — một trong hai nước sản xuất nhiều nhất thế giới.",
+    "Cầu trời Petronas nối hai tháp đôi ở tầng 41–42 — cao 170 mét so với mặt đất.",
+    "Sabah và Sarawak trên đảo Borneo cách Bán đảo Malaysia bởi cả một vùng Biển Đông.",
+    "Con tê ngưu (tapir) hầu như không thay đổi trong 20 triệu năm — một hóa thạch sống vẫn còn lảng vảng trong rừng Malaysia.",
+    "Kuala Lumpur nghĩa là 'ngã ba bùn lầy' — thành phố bắt đầu như một trại khai thác thiếc từ những năm 1850.",
+    "Hang Deer trong khu Mulu là nơi trú ngụ của khoảng ba triệu con dơi — chúng bay ra lúc hoàng hôn xoáy như cơn lốc đen khổng lồ."
+  ],
+  "myths": [
+    {
+      "myth": "Malaysia chỉ toàn rừng rậm, không có thành phố",
+      "fact": "Kuala Lumpur có đường chân trời ấn tượng bậc nhất châu Á, và hơn 70% người Malaysia sống ở thành thị — với internet tốc độ cao và đường cao tốc hiện đại."
+    },
+    {
+      "myth": "Malaysia nóng ngột ngạt quanh năm",
+      "fact": "Cao nguyên Cameron nằm ở độ cao 1.500 m, khí hậu mát mẻ đủ để trồng dâu tây và chè quanh năm — giống như Đà Lạt của Việt Nam vậy!"
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Helo",
+      "say": "heh-loh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Terima kasih",
+      "say": "teh-REE-mah KAH-si"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Sedap",
+      "say": "seh-DAP"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Cantik",
+      "say": "CHAN-tik"
+    },
+    {
+      "en": "Ăn thôi!",
+      "jp": "Jom makan!",
+      "say": "jom MAH-kan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/my-hero.jpg",
+      "alt": "Tháp đôi Petronas sáng rực trong đêm trên bầu trời Kuala Lumpur",
+      "caption": "THÁP PETRONAS — cao nhất thế giới từ 1998 đến 2004, Kuala Lumpur",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/my-landmark.jpg",
+      "alt": "Tòa nhà Stadthuys màu đỏ kiểu Hà Lan bên bờ sông Melaka",
+      "caption": "STADTHUYS, MELAKA — trái tim thuộc địa Hà Lan của phố cổ UNESCO",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/my-animalA.jpg",
+      "alt": "Đười ươi nghỉ ngơi trên tán rừng mưa ở Sarawak, đảo Borneo",
+      "caption": "ĐƯỜI ƯƠI — vượn đỏ vĩ đại của Borneo, Khu bảo tồn Semenggoh Sarawak",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/my-animalB.jpg",
+      "alt": "Hoa Rafflesia khổng lồ nở rộ trên nền rừng ở Sabah",
+      "caption": "HOA RAFFLESIA — bông hoa lớn nhất thế giới, nở trong rừng Sabah",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

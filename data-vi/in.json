@@ -1,0 +1,163 @@
+{
+  "name": "ẤN ĐỘ",
+  "nativeName": "भारत",
+  "romaji": "BHARAT",
+  "tagline": "Xứ sở gia vị và kỳ diệu",
+  "region": "Nam Á",
+  "coords": "28°N · 77°E",
+  "fileNo": "IN",
+  "flag": {
+    "assetPath": "/flags/in.svg",
+    "title": "Tiranga",
+    "note": "Ba màu nghệ, trắng, xanh lá cùng bánh xe Ashoka Chakra",
+    "keyColor": "#FF9933",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ấn Độ là đất nước đông dân nhất thế giới — hơn 1,4 tỉ người, hàng trăm ngôn ngữ, sa mạc nóng bỏng, đỉnh núi tuyết phủ, và những thành phố cổ xưa hơn hầu hết các quốc gia trên Trái Đất. Chính người Ấn Độ đã nghĩ ra số 0, trò chơi cờ vua, và môn yoga mà bạn có thể đã từng nghe. Từ dãy Himalaya hùng vĩ ở phía bắc đến những bãi biển nhiệt đới ở phía nam, không góc nào của Ấn Độ giống góc nào cả.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "New Delhi",
+      "sub": "nằm trong siêu đô thị Delhi"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,44 tỉ người",
+      "sub": "ước tính 2024 — đông dân nhất thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rupee ₹",
+      "sub": "1 Rupee = 100 paise"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Hindi và nhiều hơn nữa",
+      "sub": "tổng cộng 22 ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "3.287.263 km²",
+      "sub": "đất nước lớn thứ 7 trên Trái Đất"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Kangchenjunga",
+      "sub": "8.586 m — cao thứ 3 trên thế giới"
+    }
+  ],
+  "islands": [
+    "Rajasthan",
+    "Kerala",
+    "Mumbai",
+    "Varanasi",
+    "Assam"
+  ],
+  "islandsLabel": "CÁC VÙNG & THÀNH PHỐ LỚN:",
+  "sections": {
+    "geography": "Núi tuyết, gió mùa và muôn sắc",
+    "animals": "Hổ, voi và công xanh",
+    "culture": "Lễ hội, ẩm thực và Bollywood",
+    "history": "10.000 năm lịch sử hào hùng",
+    "wows": "Những điều Ấn Độ khiến bạn sửng sốt"
+  },
+  "geo": [
+    "Ấn Độ có hình dạng như một chiếc tam giác khổng lồ chỉ xuống Ấn Độ Dương. Dãy Himalaya như bức tường tuyết trắng che chắn phía bắc, trong khi đồng bằng sông Hằng trải dài bằng phẳng qua giữa đất nước. Ở phía tây, sa mạc Thar nóng bỏng gần như quanh năm không có mưa — khắc nghiệt chẳng kém gì sa mạc Sahara.",
+    "Xuống phía nam, hai dãy núi Tây Ghats và Đông Ghats ôm lấy một cao nguyên xanh mướt ấm áp. Mùa mưa của Ấn Độ kéo dài từ tháng 6 đến tháng 9 — những đám mây khổng lồ đổ mưa xối xả xuống ruộng lúa, sông ngòi đầy nước, nuôi sống hàng tỉ con người. Nếu bạn đã từng trải qua mùa mưa ở Việt Nam, mùa mưa ở Ấn Độ còn dữ dội hơn nhiều!"
+  ],
+  "animals": [
+    "Quốc thú của Ấn Độ là hổ Bengal — loài săn mồi khổng lồ với những sọc vằn oai vệ, sống trong rừng rậm và đồng cỏ. Cuộc điều tra năm 2022 đếm được 3.682 con hổ hoang dã tại Ấn Độ — nhiều hơn bất kỳ nước nào trên thế giới. Voi châu Á cũng được người dân yêu quý không kém: to lớn, thông minh, và được trang trí đầy màu sắc trong các lễ hội.",
+    "Quốc điểu của Ấn Độ là con công với chiếc đuôi xanh lam rực rỡ tỏa ra như cái quạt khổng lồ — nhìn như một vũ công đang biểu diễn. Cá heo sông Hằng hiếm có tài điều hướng bằng âm thanh dưới làn nước đục ngầu. Thêm vào đó là rắn hổ mang, khỉ langur, và tê giác một sừng — Ấn Độ thật sự là thiên đường động vật hoang dã."
+  ],
+  "culture": [
+    "Lịch của Ấn Độ chật kín lễ hội. Diwali thắp sáng màn đêm bằng hàng triệu ngọn đèn dầu để mừng ánh sáng chiến thắng bóng tối. Holi là lễ hội màu sắc — mọi người ném bột màu vào nhau tưng bừng cho đến khi cả người ai cũng sặc sỡ như một chiếc cầu vồng biết đi.",
+    "Bollywood sản xuất nhiều phim hơn cả Hollywood mỗi năm. Yoga ra đời ở Ấn Độ từ 5.000 năm trước. Ẩm thực thay đổi hoàn toàn từ vùng này sang vùng khác: miền bắc có bánh mì naan bơ thơm và cà ri đậm đà; miền nam có món hầm dừa béo ngậy và bánh dosa giòn tan. Ở bất kỳ đâu trên đường phố Ấn Độ, bạn cũng sẽ thấy người ta nhâm nhi ly trà chai ngọt thơm gia vị."
+  ],
+  "history": [
+    "Một trong những nền văn minh lâu đời nhất thế giới — văn minh Thung lũng Indus — đã phát triển rực rỡ ở đây hơn 4.000 năm trước với những đô thị quy hoạch bài bản và hệ thống cống rãnh hiện đại đến mức kinh ngạc. Nhiều đế chế lớn lần lượt nổi lên rồi tàn: Maurya, Gupta, Mughal — mỗi triều đại để lại những công trình tuyệt vời vẫn còn đứng vững đến ngày nay.",
+    "Hoàng đế Mughal Shah Jahan đã cho xây lăng Taj Mahal vào thế kỷ 17 để tưởng nhớ người vợ yêu dấu của mình — một trong những công trình đẹp nhất mà con người từng tạo ra. Năm 1947, Mahatma Gandhi lãnh đạo phong trào giành độc lập bằng con đường bất bạo động. Và năm 2023, Ấn Độ đã hạ cánh tàu vũ trụ xuống gần cực nam Mặt Trăng — một kỳ tích chưa ai làm được trước đó."
+  ],
+  "wows": [
+    "Người Ấn Độ phát minh ra số 0 — không có con số này, máy tính hiện đại sẽ không thể tồn tại.",
+    "Đá cẩm thạch của Taj Mahal đổi màu theo giờ: hồng lúc bình minh, vàng óng khi hoàng hôn.",
+    "Ấn Độ có hơn 19.500 ngôn ngữ và phương ngữ được dùng làm tiếng mẹ đẻ trên khắp đất nước.",
+    "Đường sắt Ấn Độ chở khoảng 23 triệu hành khách mỗi ngày — tương đương hơn 1/4 dân số Việt Nam.",
+    "Tàu vũ trụ Chandrayaan-3 đáp xuống gần cực nam Mặt Trăng vào tháng 8/2023, lần đầu tiên trong lịch sử.",
+    "Thành phố Varanasi bên sông Hằng đã có người sinh sống liên tục suốt ít nhất 3.000 năm.",
+    "Ấn Độ sản xuất khoảng 40% lượng gia vị của cả thế giới, xứng đáng với biệt danh 'Vương quốc gia vị'."
+  ],
+  "myths": [
+    {
+      "myth": "Người Hindu 'thờ' bò như thần thánh",
+      "fact": "Người Hindu coi bò là biểu tượng thiêng liêng của sự dồi dào, chứ không phải thần linh. Bò đi lang thang khắp thành phố vì luật pháp bảo vệ chúng và chủ nhân thả chúng tự do khi già yếu."
+    },
+    {
+      "myth": "Ấn Độ lúc nào cũng nóng và nắng",
+      "fact": "Thủ đô Delhi gần chạm 0°C vào tháng 1, thành phố Shimla tuyết rơi dày, và dãy Himalaya có băng hà quanh năm. Ấn Độ có sáu mùa và vô số kiểu khí hậu khác nhau."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "नमस्ते",
+      "say": "Nah-mah-STAY"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "धन्यवाद",
+      "say": "DHUN-yuh-vahd"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "हाँ",
+      "say": "Haan"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "स्वादिष्ट!",
+      "say": "Swaa-DISH-t"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "अलविदा",
+      "say": "Al-VEE-dah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/in-hero.jpg",
+      "alt": "Cổng tưởng niệm India Gate ở New Delhi lúc hoàng hôn",
+      "caption": "INDIA GATE, New Delhi — vòm sa thạch hùng vĩ tưởng niệm các chiến sĩ đã hi sinh.",
+      "credit": "Wikimedia Commons / Atudu"
+    },
+    "landmark": {
+      "src": "/photos/in-landmark.jpg",
+      "alt": "Lăng Taj Mahal soi bóng trên hồ nước dài vào lúc bình minh",
+      "caption": "TAJ MAHAL, Agra — lăng mộ đá cẩm thạch trắng ngà được xây từ năm 1632 đến 1653.",
+      "credit": "Wikimedia Commons / Yann Forget"
+    },
+    "animalA": {
+      "src": "/photos/in-animalA.jpg",
+      "alt": "Hổ cái Bengal đang nghỉ ngơi trong ánh sáng lốm đốm của rừng cây",
+      "caption": "HỔ BENGAL — Ấn Độ là nơi bảo tồn nhiều hổ hoang dã nhất thế giới.",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/in-animalB.jpg",
+      "alt": "Công Ấn Độ đang xòe chiếc đuôi óng ánh thành hình quạt rực rỡ",
+      "caption": "CÔNG ẤN ĐỘ — quốc điểu của Ấn Độ; chiếc đuôi lộng lẫy có tới 200 chiếc lông.",
+      "credit": "Wikimedia Commons / Aravindreddy Gosala"
+    }
+  },
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA9A",
+    "ink": "#2B2218",
+    "faint": "#8C7A58",
+    "line": "#DECCB0",
+    "accent": "#FF9933",
+    "accent2": "#138808"
+  },
+  "motif": "sun",
+  "langName": "tiếng Hindi"
+}

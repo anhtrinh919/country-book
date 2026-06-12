@@ -1,0 +1,163 @@
+{
+  "name": "BARBADOS",
+  "nativeName": "BB",
+  "romaji": "BARBADOS",
+  "tagline": "Viên ngọc Caribê",
+  "region": "Vùng Caribe",
+  "coords": "13.1°N, 59.6°W",
+  "fileNo": "042",
+  "langName": "tiếng Anh Bajan",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48E",
+    "ink": "#22190F",
+    "faint": "#8A7355",
+    "line": "#DDD0B0",
+    "accent": "#1B3D8F",
+    "accent2": "#F5C518"
+  },
+  "flag": {
+    "assetPath": "/flags/bb.svg",
+    "title": "Quốc kỳ Barbados",
+    "note": "Xanh–vàng–xanh với hình đinh ba gãy",
+    "keyColor": "#1B3D8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Barbados là một hòn đảo san hô nhỏ xíu — chỉ dài 34 km — nằm ở rìa phía đông của vùng biển Caribê. Đây chính là nơi khai sinh ra rượu rum, từng trồng nhiều mía đến mức thu về nhiều tiền hơn tất cả các thuộc địa khác của Anh gộp lại. Năm 2021, Barbados bình tĩnh tuyên bố thành nước cộng hòa — nhưng vẫn giữ nguyên môn cricket, điệu nhạc calypso và món cá bay đặc trưng trên bàn ăn.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bridgetown",
+      "sub": "Thành phố Di sản Thế giới UNESCO"
+    },
+    {
+      "label": "Dân số",
+      "value": "~282.000",
+      "sub": "Ước tính 2024 (World Bank)"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la Bajan",
+      "sub": "Cố định tỷ giá 2:1 với USD từ năm 1975"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Tiếng Bajan Creole được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "431 km²",
+      "sub": "Bằng khoảng quận Hoàn Kiếm Hà Nội nhân 40 lần"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "336 m",
+      "sub": "Núi Hillaby, vùng St. Andrew"
+    }
+  ],
+  "islands": [
+    "Bridgetown",
+    "Speightstown",
+    "Oistins",
+    "Holetown",
+    "Bathsheba"
+  ],
+  "islandsLabel": "CÁC THỊ TRẤN CHÍNH:",
+  "sections": {
+    "geography": "Viên ngọc san hô giữa đại dương",
+    "animals": "Bay lượn, nhảy nhót, leo trèo!",
+    "culture": "Mía đường, rum và điệu calypso",
+    "history": "Từ ruộng mía đến nước cộng hòa",
+    "wows": "Bạn có biết chưa?"
+  },
+  "geo": [
+    "Barbados nằm đơn độc giữa Đại Tây Dương, ở phía đông của các đảo Caribê khác. Khác với những người hàng xóm sinh ra từ núi lửa, Barbados là một nền đá vôi san hô phẳng, bậc thang nhẹ từ những vách đá phía đông đón gió lên đến đỉnh núi Hillaby cao 336 m.",
+    "Vùng Scotland District ở phía bắc có những ngọn đồi uốn lượn và khe suối do mưa bào mòn qua nhiều thế kỷ. Bờ nam và tây có những bãi biển yên tĩnh được rạn san hô che chắn, trong khi bờ đông hứng trọn sóng Đại Tây Dương — thiên đường của những người lướt sóng."
+  ],
+  "animals": [
+    "Cá bay là biểu tượng quốc gia của Barbados. Loài cá này phóng khỏi mặt nước và lướt xa tới 45 m nhờ đôi vây ngực to như cánh để thoát khỏi kẻ săn mồi — bạn có thể nhìn thấy chúng từ phà lúc bình minh, lấp lánh bạc giữa làn sóng tung tóe.",
+    "Khoảng 10.000 con khỉ xanh (Chlorocebus sabaeus) sinh sống tự do trên đảo, được đưa từ Tây Phi sang cách đây nhiều thế kỷ. Vì không có thiên địch, chúng ngang nhiên đột nhập vườn xoài của người dân. Chim sẻ Barbados bullfinch là loài chim đặc hữu duy nhất của hòn đảo này."
+  ],
+  "culture": [
+    "Món ăn quốc gia là cá bay kèm cou-cou — một loại cháo bột ngô với đậu bắp mượt mà, ăn cùng cá hấp sốt cà chua. Khắp đảo có hơn 1.500 quán rượu rum phục vụ chưng cất địa phương — nghĩa là cứ 185 người dân lại có một quán.",
+    "Lễ hội Crop Over kéo dài từ tháng Sáu đến tháng Tám, rộn ràng với các cuộc thi calypso, hàng quán ẩm thực đường phố và Grand Kadooment — cuộc diễu hành hóa trang lộng lẫy xuyên thành phố Bridgetown. Các ban nhạc tuk tấu trống và còi penny whistle theo nhịp điệu châu Phi ngay bên đường."
+  ],
+  "history": [
+    "Người Anh đến định cư năm 1627 và bắt đầu trồng mía. Cuối thế kỷ 17, hòn đảo nhỏ bé Barbados tạo ra nhiều của cải hơn tất cả các thuộc địa Bắc Mỹ của Anh cộng lại — được xây dựng trên sức lao động khổ sai của những người châu Phi bị bắt làm nô lệ.",
+    "Nghị viện họp tại đây từ năm 1639, trở thành cơ quan lập pháp lâu đời thứ ba trên thế giới. Barbados giành độc lập năm 1966 và ngày 30 tháng 11 năm 2021, hòa bình trở thành nước cộng hòa — chính thức tách khỏi ngai vàng Anh quốc."
+  ],
+  "wows": [
+    "Xưởng chưng cất Mount Gay đã sản xuất rum ở Barbados từ năm 1703 — thương hiệu rum thương mại lâu đời nhất còn hoạt động trên thế giới.",
+    "Quả bưởi chùm (grapefruit) được lai tạo tự nhiên tại Barbados — từ sự kết hợp của quả shaddock và cam ngọt vào những năm 1700.",
+    "Barbados hiếm khi bị bão tấn công vì nằm ở phía đông của vành đai bão Caribê chính.",
+    "Nghị viện Barbados được thành lập năm 1639 — cơ quan lập pháp lâu đời thứ ba trên thế giới.",
+    "Barbados có hơn 1.500 quán rượu rum cho chưa đến 300.000 dân — trung bình một quán cho 185 người.",
+    "Cá bay lướt xa tới 45 m trên mặt biển nhờ đôi vây ngực khổng lồ hoạt động như đôi cánh.",
+    "Ca sĩ Rihanna sinh ra ở đây năm 1988 và được phong danh hiệu Anh hùng Dân tộc đúng ngày Barbados trở thành nước cộng hòa năm 2021."
+  ],
+  "myths": [
+    {
+      "myth": "Barbados cũng giống như mọi hòn đảo Caribê khác",
+      "fact": "Barbados là đảo san hô, không phải núi lửa; nằm ở phía đông của chuỗi đảo Caribê; và chưa bao giờ bị thực dân nào khác chiếm sau khi người Anh định cư năm 1627."
+    },
+    {
+      "myth": "Rượu rum được phát minh ở Jamaica hoặc Cuba",
+      "fact": "Tài liệu viết đầu tiên về rượu rum xuất hiện ở Barbados vào những năm 1650. Mount Gay, thành lập trước năm 1703, là thương hiệu rum lâu đời nhất thế giới còn tồn tại."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Wuh gine on?",
+      "say": "Wuh GUY-un on"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Bro / Pal",
+      "say": "Bruh"
+    },
+    {
+      "en": "Tuyệt lắm!",
+      "jp": "Real nice!",
+      "say": "Reel NICE"
+    },
+    {
+      "en": "Đi thôi!",
+      "jp": "Leh we go",
+      "say": "Leh WE go"
+    },
+    {
+      "en": "Không sao",
+      "jp": "Nuh worry",
+      "say": "Nuh WUH-ree"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bb-hero.jpg",
+      "alt": "Nhìn từ trên cao cảng Bridgetown và trung tâm thành phố",
+      "caption": "BRIDGETOWN — thủ đô màu san hô hồng nhìn từ cảng biển",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bb-landmark.jpg",
+      "alt": "Nhũ đá và măng đá lấp lánh bên trong hang Harrison",
+      "caption": "HANG HARRISON — những khối đá vôi long lanh dưới lòng đất",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bb-animalA.jpg",
+      "alt": "Khỉ xanh mẹ và con tại Barbados",
+      "caption": "KHỈ XANH — 10.000 con sống tự do khắp hòn đảo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bb-animalB.jpg",
+      "alt": "Một con cá bay đang lướt trên mặt biển",
+      "caption": "CÁ BAY — biểu tượng quốc gia, lướt 45 m nhờ vây như cánh",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

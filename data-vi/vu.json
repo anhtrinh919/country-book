@@ -1,0 +1,163 @@
+{
+  "name": "VANUATU",
+  "nativeName": "VU",
+  "romaji": "VANUATU",
+  "tagline": "Đảo lửa và hồn truyền thống",
+  "region": "Melanesia, Nam Thái Bình Dương",
+  "coords": "15.38°S 166.96°E",
+  "fileNo": "183",
+  "langName": "tiếng Bislama",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA4",
+    "ink": "#252018",
+    "faint": "#847560",
+    "line": "#DDD5BE",
+    "accent": "#2B6B3C",
+    "accent2": "#C0202E"
+  },
+  "flag": {
+    "assetPath": "/flags/vu.svg",
+    "title": "Quốc kỳ Vanuatu",
+    "note": "Xanh lá, đỏ, đen với ngà lợn rừng màu vàng",
+    "keyColor": "#2B6B3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Vanuatu là 83 hòn đảo núi lửa giữa Nam Thái Bình Dương — nơi mỗi làng nói một thứ tiếng riêng, tổng cộng 138 ngôn ngữ cho chưa đến 340.000 người. Ở đây có ngọn núi lửa bạn có thể leo đến miệng mà ngắm dung nham, có nghi lễ nhảy dây bằng dây leo cổ xưa đã truyền cảm hứng cho môn nhảy bungee, và từng có một bộ tộc thờ phụng Hoàng tử Anh như thần thánh. Những câu chuyện kỳ lạ nhất thế giới đều có thể tìm thấy trên những hòn đảo bé nhỏ này.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Port Vila",
+      "sub": "Trên đảo Efate"
+    },
+    {
+      "label": "Dân số",
+      "value": "~335.000",
+      "sub": "Ước tính LHQ 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Vatu (VUV)",
+      "sub": "Ký hiệu: Vt"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Bislama",
+      "sub": "Cùng với tiếng Anh và tiếng Pháp"
+    },
+    {
+      "label": "Diện tích",
+      "value": "12.189 km²",
+      "sub": "65 đảo có người ở"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.877 m",
+      "sub": "Núi Tabwemasana"
+    }
+  ],
+  "islands": [
+    "Efate",
+    "Santo",
+    "Tanna",
+    "Pentecost",
+    "Malekula"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Quần đảo lửa giữa Thái Bình Dương",
+    "animals": "Cua dừa, dơi và rạn san hô",
+    "culture": "Kastom, kava và cộng đồng",
+    "history": "Hai nước thuộc địa, một đất nước tự do",
+    "wows": "Vanuatu kỳ diệu"
+  },
+  "geo": [
+    "Vanuatu nằm trên Vành đai lửa Thái Bình Dương, nơi các mảng kiến tạo đẩy những ngọn núi lửa vươn lên khỏi mặt biển. Quần đảo kéo dài 1.300 km từ bắc xuống nam — dài gần bằng chiều dài đất nước Việt Nam mình! Đảo lớn nhất là Espiritu Santo, nơi có đỉnh Tabwemasana cao 1.877 m.",
+    "Bãi biển hẹp nhường chỗ cho rừng nhiệt đới rậm rạp và những cao nguyên hiểm trở. Dưới lòng biển, những vườn san hô tuyệt đẹp còn ôm ấp xác tàu SS President Coolidge — chiến hạm Mỹ chìm năm 1942, nay là một trong những điểm lặn nổi tiếng nhất thế giới."
+  ],
+  "animals": [
+    "Cua dừa — loài cua đất lớn nhất Trái Đất — đi kiếm ăn ban đêm và bẻ vỡ dừa bằng cái càng mạnh đến mức có thể bẻ cong thép. Con vật này nặng tới 4 kg, to gần bằng con mèo! Dơi ngựa Vanuatu bay ra lúc hoàng hôn để thụ phấn cho rừng.",
+    "Có bảy loài chim chỉ sống riêng ở Vanuatu, không tìm thấy ở đâu khác trên Trái Đất. Lợn cá dugong nhẩn nha gặm cỏ biển trong các vịnh yên tĩnh, còn cá vẹt sặc sỡ không ngừng gặm nhấm san hô trên khắp mọi rạn đá ngầm."
+  ],
+  "culture": [
+    "Kastom — từ trong tiếng Bislama có nghĩa là văn hóa truyền thống — chi phối cuộc sống hằng ngày của người Vanuatu. Mỗi làng có phong tục riêng, nhưng tất cả đều chung một điều: kính trọng người già và yêu quý đất đai. Mỗi buổi tối, người dân tụ họp tại nakamal (quán kava) để cùng uống kava — thứ nước làm từ rễ cây tiêu, đắng nhưng thư giãn — đó là nghi lễ giao lưu quan trọng nhất trong ngày.",
+    "Ba ngôn ngữ chính thức — Bislama, tiếng Anh và tiếng Pháp — là di sản từ thời thuộc địa. Các lễ hội truyền thống kết hợp nghi thức thủ lĩnh, trang phục rực rỡ và tiếng trống rộn rã. Nghề dệt, chạm khắc gỗ và vẽ hình trên cát là những nghệ thuật sống vẫn được ông bà truyền tay cho cháu con."
+  ],
+  "history": [
+    "Người Melanesia định cư trên những hòn đảo này từ khoảng 3.000 năm trước. Đến năm 1906, Anh và Pháp cùng lập ra Liên bang New Hebrides — hai chính phủ, hai lực lượng cảnh sát, hai hệ thống nhà tù cùng hoạt động song song trên một mảnh đất. Một tình huống rắc rối hiếm thấy trong lịch sử thế giới!",
+    "Vanuatu tuyên bố độc lập ngày 30 tháng 7 năm 1980. Tên nước có nghĩa là 'vùng đất của chúng ta đứng vững mãi mãi.' Ngày nay, Vanuatu được xếp vào nhóm những quốc gia hạnh phúc nhất thế giới — họ đứng đầu Chỉ số Hành tinh Hạnh phúc cả năm 2006 lẫn 2024, cách nhau đúng hai mươi năm."
+  ],
+  "wows": [
+    "Vanuatu có nhiều ngôn ngữ trên đầu người hơn bất kỳ quốc gia nào: 138 thứ tiếng cho chưa đến 340.000 người — mỗi ngôi làng gần như có tiếng nói riêng!",
+    "Núi Yasur trên đảo Tanna phun trào gần như liên tục trong nhiều thế kỷ — đây là ngọn núi lửa đang hoạt động mà người ta có thể leo đến sát miệng để ngắm dung nham.",
+    "Nghi lễ nhảy nagol trên đảo Pentecost — người đàn ông nhảy từ tháp cao với dây leo buộc ở mắt cá chân — chính là nguồn cảm hứng trực tiếp để người ta phát minh ra môn nhảy bungee.",
+    "Vanuatu xếp hạng 1 trên Chỉ số Hành tinh Hạnh phúc cả năm 2006 lẫn năm 2024, cách nhau đúng hai mươi năm.",
+    "Một bộ tộc ở đảo Tanna từng thờ phụng Hoàng tử Philip của Anh như một vị thần — và họ thực sự đã trao đổi ảnh có chữ ký với Cung điện Buckingham.",
+    "Vanuatu không thu thuế thu nhập cá nhân, không thu thuế doanh nghiệp, cũng không có thuế lợi tức đầu tư — không thu thuế gì cả!",
+    "Con cua dừa tìm thấy ở đây là loài chân khớp trên cạn lớn nhất thế giới, nặng tới 4 kg."
+  ],
+  "myths": [
+    {
+      "myth": "Vanuatu chỉ là một hòn đảo",
+      "fact": "Vanuatu là quần đảo gồm 83 hòn đảo trải dài 1.300 km — 65 đảo có người sinh sống, mỗi đảo có ngôn ngữ và phong tục kastom riêng."
+    },
+    {
+      "myth": "Môn nhảy bungee được phát minh ở New Zealand",
+      "fact": "A.J. Hackett lấy cảm hứng từ nghi lễ nagol cổ xưa trên đảo Pentecost của Vanuatu, nơi đàn ông đã nhảy từ tháp cao với dây leo buộc chân qua nhiều thế kỷ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Halo",
+      "say": "hah-loh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tangkyu",
+      "say": "tank-yoo"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Yu oraet?",
+      "say": "yoo oh-rye"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "I gud",
+      "say": "ee good"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Tata",
+      "say": "tah-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vu-hero.jpg",
+      "alt": "Cảng Port Vila với những chiếc thuyền và đồi xanh",
+      "caption": "PORT VILA — cảng thủ đô rực rỡ sắc màu trên đảo Efate",
+      "credit": "PhillipC / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/vu-landmark.jpg",
+      "alt": "Núi lửa Yasur đang phun trào với dung nham đỏ rực",
+      "caption": "NÚI YASUR — ngọn núi lửa phun trào không ngừng ở Tanna, có thể leo bộ đến miệng núi",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vu-animalA.jpg",
+      "alt": "Con cua dừa khổng lồ đang bám trên cây",
+      "caption": "CUA DỪA — loài cua đất lớn nhất thế giới, sống khắp các đảo Vanuatu",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/vu-animalB.jpg",
+      "alt": "Con dơi ngựa treo mình trên cây lúc hoàng hôn",
+      "caption": "DƠI NGỰA THÁI BÌNH DƯƠNG — loài thụ phấn đêm không thể thiếu của rừng đảo",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "TOGO",
+  "nativeName": "TG",
+  "romaji": "TOGO",
+  "tagline": "Nhỏ mà kiêu, sống động vô cùng",
+  "region": "Tây Phi",
+  "coords": "8.62°N, 0.82°E",
+  "fileNo": "096",
+  "langName": "tiếng Ewe",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBF9E",
+    "ink": "#241E14",
+    "faint": "#8A7A52",
+    "line": "#DDD0B0",
+    "accent": "#006B3F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/tg.svg",
+    "title": "Quốc kỳ Togo",
+    "note": "5 sọc = 5 vùng đất; ngôi sao = hòa bình",
+    "keyColor": "#006B3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Togo là một dải đất mảnh mai ở Tây Phi — hẹp đến mức chỉ cần một tiếng lái xe là băng qua được. Thủ đô Lomé nằm ngay sát bãi biển, sóng Đại Tây Dương vỗ vào gần ngay khu chợ tấp nập. Đất nước này có những tháp nhà bùn kỳ lạ, khu chợ voodoo lớn nhất thế giới, và những cánh rừng nơi voi còn tự do rong ruổi. Nhỏ bé về diện tích, nhưng to lớn về cá tính.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Lomé",
+      "sub": "Khoảng 1 triệu người, nằm ngay bờ biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "9,5 triệu người",
+      "sub": "Ước tính của Liên Hợp Quốc, 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "CFA Franc",
+      "sub": "Dùng chung với 7 nước Tây Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Pháp",
+      "sub": "Ewe và Kabye được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "56.785 km²",
+      "sub": "Nhỏ hơn Croatia một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Mont Agou",
+      "sub": "986 m so với mực nước biển"
+    }
+  ],
+  "islands": [
+    "Lomé",
+    "Kara",
+    "Sokodé",
+    "Atakpamé",
+    "Kpalimé"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Dải đất mỏng manh kỳ lạ",
+    "animals": "Thú hoang từ Nam chí Bắc",
+    "culture": "Trống, vải dệt và voodoo",
+    "history": "Từ Togoland đến độc lập",
+    "wows": "Thật không thể tin nổi!"
+  },
+  "geo": [
+    "Togo là một trong những quốc gia hẹp nhất thế giới — chỗ hẹp nhất chưa đầy 56 km, tức là hẹp hơn cả khoảng cách từ Hà Nội ra bờ biển. Đất nước trải dài 560 km từ bờ Vịnh Guinea ở phía nam lên tận vùng thảo nguyên khô cằn giáp Burkina Faso ở phía bắc.",
+    "Cảnh vật thay đổi dần khi đi từ nam lên bắc: bờ cát nhường chỗ cho cao nguyên nhấp nhô, rồi dãy núi Togo nhô lên. Đỉnh Mont Agou cao 986 m là nóc nhà của cả nước, còn phía bắc trải rộng những cánh đồng cỏ bao la."
+  ],
+  "animals": [
+    "Vườn quốc gia Fazao-Malfakassa là mái nhà của khoảng 60 con voi thảo nguyên — đây là đàn voi phía tây nhất còn sống khỏe trong vùng thảo nguyên Guinea — cùng khỉ patas, khỉ đầu chó baboon và linh dương roan.",
+    "Vườn quốc gia này còn có hơn 244 loài chim. Những con sông ở phía nam là nơi trú ngụ của hà mã và cá sấu, trong khi khỉ vervet và linh dương bushbuck thoắt ẩn thoắt hiện giữa rừng ven sông và đồng cỏ rộng."
+  ],
+  "culture": [
+    "Người Ewe dệt nên những tấm vải kente rực rỡ — những dải hoa văn hình học sặc sỡ được ghép thành áo choàng đầy màu sắc mặc trong các lễ hội. Tiếng trống đa nhịp phức tạp của họ được giảng dạy ở các trường đại học âm nhạc khắp thế giới.",
+    "Vodun (voodoo) là một tôn giáo được nhà nước chính thức công nhận ở Togo. Chợ Akodessewa ở Lomé là khu chợ fetish lớn nhất thế giới. Lễ hội Khoai mỡ hằng năm là dịp vui tươi tôn vinh mùa màng với ăn uống, nhảy múa và cộng đồng."
+  ],
+  "history": [
+    "Đức chiếm Togoland năm 1884, xây đường sắt và cảng Lomé. Năm 1914, liên quân Anh-Pháp chiếm lại chỉ trong 26 ngày — đây là chiến thắng đầu tiên của phe Đồng Minh trong Thế chiến thứ nhất.",
+    "Pháp cai trị nửa phía đông cho đến ngày 27 tháng 4 năm 1960, khi Togo giành được độc lập. Koutammakou ở miền bắc với những tháp nhà bùn độc đáo được UNESCO công nhận là Di sản Thế giới năm 2004."
+  ],
+  "wows": [
+    "Lomé giáp Ghana sát đến mức bạn có thể tản bộ từ nước này sang nước kia ngay trong lòng thành phố.",
+    "Togo có trữ lượng phốt-phát lớn thứ 4 thế giới — loại khoáng sản quan trọng dùng làm phân bón nuôi sống hàng triệu người.",
+    "Chợ Akodessewa ở Lomé là khu chợ voodoo lớn nhất Trái Đất, cung cấp nguyên liệu cho các thầy thuốc khắp Tây Phi.",
+    "Đức xây một trong những tuyến đường sắt sớm nhất châu Phi ở đây vào những năm 1900 để chuyển hàng hóa về cảng Lomé.",
+    "Người Batammariba xây những tháp nhà bùn hai tầng gọi là takienta theo đúng một kiểu thiết kế suốt hơn 300 năm qua.",
+    "Lá cờ Togo do họa sĩ Paul Ahyi thiết kế năm 1960; mỗi trong năm sọc tượng trưng cho một vùng của đất nước.",
+    "Tiếng trống Ewe từ miền nam Togo phức tạp đến mức các trường đại học ở Mỹ và châu Âu phải đưa vào chương trình giảng dạy chính thức."
+  ],
+  "myths": [
+    {
+      "myth": "Voodoo chỉ toàn bùa ngải và phù phép đen tối",
+      "fact": "Vodun thực ra là một tôn giáo Tây Phi tập trung vào thờ cúng tổ tiên, chữa bệnh và gắn kết cộng đồng. Hình ảnh đáng sợ trong phim Hollywood là bịa đặt — cân bằng và tôn trọng mới là giá trị cốt lõi thật sự."
+    },
+    {
+      "myth": "Togo chỉ là mảnh đất nhỏ bé không ai biết đến",
+      "fact": "Togo có một trong những cảng biển bận rộn nhất Tây Phi, một Di sản Thế giới UNESCO, âm nhạc được nghiên cứu toàn cầu, và trữ lượng phốt-phát góp phần nuôi sống cả thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Ŋdi",
+      "say": "nn-DEE"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Akpe",
+      "say": "AHK-peh"
+    },
+    {
+      "en": "Chào buổi tối",
+      "jp": "Fienyi",
+      "say": "fee-EHN-yee"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Woé zɔ",
+      "say": "woh-EH zoh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Hede nyuie",
+      "say": "heh-DEH nyoo-EE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tg-hero.jpg",
+      "alt": "Bãi biển Lomé bên Vịnh Guinea với hàng dừa và sóng biển",
+      "caption": "BÃI BIỂN LOMÉ — sóng Đại Tây Dương vỗ vào ngay sát trung tâm thành phố",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tg-landmark.jpg",
+      "alt": "Cung hội nghị Palais des Congrès ở Lomé, Togo",
+      "caption": "PALAIS DES CONGRÈS — cung hội nghị hoành tráng của Lomé bên bờ biển",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tg-animalA.jpg",
+      "alt": "Voi thảo nguyên châu Phi đang đi trong đồng cỏ",
+      "caption": "VOI CHÂU PHI — khoảng 60 con đang sinh sống trong Vườn quốc gia Fazao-Malfakassa",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tg-animalB.jpg",
+      "alt": "Khỉ patas với bộ lông hung đỏ trong tự nhiên",
+      "caption": "KHỈ PATAS — loài linh trưởng chạy nhanh trong các vườn quốc gia thảo nguyên Togo",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

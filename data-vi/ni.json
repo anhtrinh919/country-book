@@ -1,0 +1,163 @@
+{
+  "name": "NICARAGUA",
+  "nativeName": "NI",
+  "romaji": "NICARAGUA",
+  "tagline": "Xứ sở hồ nước & núi lửa",
+  "region": "Trung Mỹ",
+  "coords": "12.87°N, 85.21°W",
+  "fileNo": "047",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBB9A",
+    "ink": "#252018",
+    "faint": "#8A7A52",
+    "line": "#DDD0B2",
+    "accent": "#1A5EA0",
+    "accent2": "#C8B400"
+  },
+  "flag": {
+    "assetPath": "/flags/ni.svg",
+    "title": "Quốc kỳ Nicaragua",
+    "note": "Ba sọc ngang xanh–trắng–xanh với quốc huy ở giữa",
+    "keyColor": "#1A5EA0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nicaragua là đất nước lớn nhất Trung Mỹ, nằm giữa hai hồ nước khổng lồ và một dãy núi lửa hùng vĩ. Rùa biển đẻ trứng trên bãi cát Thái Bình Dương, khỉ hú gào vang rừng già, và bạn có thể leo lên miệng núi lửa đang đỏ rực để ngắm dung nham. Người Nicaragua yêu thơ đến mức đất nước họ được gọi là 'xứ sở của những thi nhân'.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Managua",
+      "sub": "Dân số ~1,05 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "6,9 triệu người",
+      "sub": "Ước tính năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Córdoba",
+      "sub": "NIO — đặt theo tên nhà thám hiểm"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "+ tiếng Miskito ở vùng duyên hải"
+    },
+    {
+      "label": "Diện tích",
+      "value": "130.373 km²",
+      "sub": "Lớn nhất Trung Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Mogotón 2.085m",
+      "sub": "Trên biên giới Honduras"
+    }
+  ],
+  "islands": [
+    "Managua",
+    "León",
+    "Granada",
+    "Masaya",
+    "Bluefields"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa, hồ nước & hai bờ biển",
+    "animals": "Thú rừng & sinh vật biển",
+    "culture": "Thi nhân, võng nằm & tiếng đàn marimba",
+    "history": "Từ thời chinh phục đến cách mạng",
+    "wows": "7 điều khiến bạn 'ồ' lên ngay!"
+  },
+  "geo": [
+    "Nicaragua nằm kẹp giữa hai hồ nước khổng lồ — Hồ Nicaragua to đến mức có cả cá mập sống trong đó dù là nước ngọt! Dọc bờ Thái Bình Dương là chuỗi 19 ngọn núi lửa nối đuôi nhau, nhiều ngọn vẫn đang phun khói. Đất nước này may mắn có bờ biển hai phía: vừa giáp Thái Bình Dương, vừa giáp biển Caribbean.",
+    "Bờ đông có tên là Bờ biển Mosquito, phủ kín bởi rừng mưa nhiệt đới bạt ngàn và là nơi mưa nhiều bậc nhất châu Mỹ. Còn bờ tây khô ráo hơn, tập trung phần lớn thành phố và đồng ruộng của đất nước."
+  ],
+  "animals": [
+    "Hồ Nicaragua là nơi sinh sống của cá mập bò — một trong số ít loài cá mập có thể sống được trong nước ngọt. Mỗi năm, hàng trăm con rùa biển cùng kéo lên bãi La Flor trong một sự kiện được gọi là 'arribada' — trông như cả một đội quân rùa đổ bộ!",
+    "Khỉ hú có tiếng gào mạnh đến mức vang xa 5 km trong rừng — to hơn tiếng loa phường nhiều lần. Báo đốm vẫn lặng lẽ ẩn mình trong rừng Caribbean, và chim quốc điểu turquoise-browed motmot — loài chim đặc trưng của Nicaragua — ngồi trên cành và đong đưa cái đuôi như con lắc đồng hồ."
+  ],
+  "culture": [
+    "Nicaragua được gọi là 'xứ sở của những thi nhân' vì nhà thơ Rubén Darío — người sinh ra ở đây — đã làm thay đổi cả nền văn học Tây Ban Nha vào thế kỷ 19. Khuôn mặt ông được in trên tờ 100 córdoba. Buổi tối, quảng trường các thị trấn rộn rã âm nhạc và tiếng kể chuyện.",
+    "Chiếc võng dệt tay ở Masaya nổi tiếng khắp thế giới và được xuất khẩu sang nhiều nước. Đàn marimba — loại mộc cầm lớn làm bằng gỗ, giống như đàn xylophone khổng lồ — là nhạc cụ quốc gia. Bữa ăn nào cũng có gallo pinto — cơm trộn đậu đen — ăn sáng, trưa, tối đều thấy!"
+  ],
+  "history": [
+    "Người bản địa đã sinh sống ở Nicaragua hàng nghìn năm trước khi những nhà chinh phục Tây Ban Nha đặt chân đến vào thập niên 1520. Họ xây dựng các thành phố thuộc địa như Granada và León — hai thành phố này sau đó trở thành đối thủ kình địch nhau, thậm chí tranh nhau quyền làm thủ đô.",
+    "Nicaragua giành độc lập năm 1821, nhưng suốt thế kỷ 20 đất nước trải qua nhiều cuộc cách mạng và nội chiến. Cuộc Cách mạng Sandinista năm 1979 lật đổ chế độ độc tài và nổi tiếng khắp thế giới. Ngày nay Nicaragua đang hồi sinh và mở cửa đón khách du lịch đến khám phá núi lửa và hồ nước tuyệt đẹp."
+  ],
+  "wows": [
+    "Bạn có thể trượt ván xuống sườn núi lửa Cerro Negro — như trượt tuyết, nhưng trên tro núi lửa đen và nóng bỏng!",
+    "Hồ Nicaragua là nơi duy nhất trên thế giới có cá mập bò sống trong nước ngọt — chúng bơi ngược sông từ biển vào hồ.",
+    "Nicaragua có nhiều núi lửa trên mỗi km² hơn gần như bất kỳ quốc gia nào trên Trái Đất.",
+    "Thành phố Granada thành lập năm 1524, là một trong những thành phố do người châu Âu xây dựng và có người ở lâu đời nhất châu Mỹ.",
+    "Núi lửa Mombacho gần Granada dù ở vùng nhiệt đới nhưng đỉnh lại phủ kín rừng mây mát lạnh quanh năm.",
+    "Nhà thơ Rubén Darío khởi xướng trào lưu Chủ nghĩa Hiện đại, lan rộng khắp Mỹ Latinh và cả Tây Ban Nha.",
+    "365 hòn đảo nhỏ trên Hồ Nicaragua — đúng bằng số ngày trong năm — đều được tạo ra từ một lần phun trào duy nhất của núi lửa Mombacho."
+  ],
+  "myths": [
+    {
+      "myth": "Nicaragua là nơi nguy hiểm",
+      "fact": "Nicaragua thực ra có tỷ lệ tội phạm thấp hơn nhiều nước láng giềng và được xem là một trong những điểm đến an toàn nhất Trung Mỹ, với lượng khách du lịch tăng đều mỗi năm."
+    },
+    {
+      "myth": "Cá mập trong hồ bị mắc kẹt không ra được",
+      "fact": "Cá mập bò ở Hồ Nicaragua tự do bơi qua lại giữa hồ và biển Caribbean theo sông San Juan — chúng còn nhảy qua ghềnh thác như cá hồi!"
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Núi lửa",
+      "jp": "Volcán",
+      "say": "vol-KAHN"
+    },
+    {
+      "en": "Hồ nước",
+      "jp": "Lago",
+      "say": "LAH-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ni-hero.jpg",
+      "alt": "Đường dạo bộ ven hồ Malecón ở Managua lúc hoàng hôn",
+      "caption": "MANAGUA MALECÓN — đường dạo ven hồ của thủ đô lúc mặt trời lặn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ni-landmark.jpg",
+      "alt": "Nhà thờ thuộc địa màu vàng ở Granada, Nicaragua",
+      "caption": "NHÀ THỜ GRANADA — công trình thuộc địa ở một trong những thành phố lâu đời nhất châu Mỹ",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ni-animalA.jpg",
+      "alt": "Chim motmot lông xanh ngọc đậu trên cành cây",
+      "caption": "CHIM MOTMOT — quốc điểu Nicaragua với chiếc đuôi đong đưa như con lắc",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ni-animalB.jpg",
+      "alt": "Khỉ hú đang ngồi trên cây trong rừng",
+      "caption": "KHỈ HÚ — tiếng gào vang xa 5 km trong rừng mưa nhiệt đới",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

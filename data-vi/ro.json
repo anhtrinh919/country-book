@@ -1,0 +1,163 @@
+{
+  "name": "ROMANIA",
+  "nativeName": "RO",
+  "romaji": "ROMÂNIA",
+  "tagline": "Xứ sở lâu đài và rừng già",
+  "region": "Đông Âu",
+  "coords": "45.9°N, 24.9°E",
+  "fileNo": "042",
+  "langName": "tiếng Romania",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA3",
+    "ink": "#271E18",
+    "faint": "#8A7A5E",
+    "line": "#DCCFB0",
+    "accent": "#002B7F",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/ro.svg",
+    "title": "Lá cờ ba sọc",
+    "note": "Ba sọc dọc: xanh lam, vàng và đỏ",
+    "keyColor": "#002B7F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Romania nằm ở Đông Âu, nơi những cánh rừng Carpathian hùng vĩ gặp nhau với đồng bằng châu thổ rộng lớn đổ ra biển Đen. Đây là nơi có đàn gấu nâu đông đảo nhất châu Âu, những tu viện cổ kính được vẽ đầy tranh màu sắc, và lâu đài Bran — pháo đài bí ẩn gắn với truyền thuyết ma cà rồng Dracula. Điều thú vị là người Romania ngày nay vẫn nói tiếng Latin — thứ ngôn ngữ mà các chiến binh La Mã mang đến đây từ 2.000 năm trước!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bucharest",
+      "sub": "Khoảng 1,7 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "~19 triệu người",
+      "sub": "Ước tính năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Leu (RON)",
+      "sub": "1 leu = 100 bani"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Romania",
+      "sub": "Ngôn ngữ gốc La Mã"
+    },
+    {
+      "label": "Diện tích",
+      "value": "238.397 km²",
+      "sub": "Nhỏ hơn nước Anh một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Moldoveanu",
+      "sub": "Cao 2.544 m"
+    }
+  ],
+  "islands": [
+    "Transylvania",
+    "Wallachia",
+    "Moldavia",
+    "Dobrogea",
+    "Bucharest"
+  ],
+  "islandsLabel": "CÁC VÙNG LỚN:",
+  "sections": {
+    "geography": "Núi, sông và vùng châu thổ",
+    "animals": "Gấu, sói và bồ nông",
+    "culture": "Lâu đài, thủ công và âm nhạc",
+    "history": "Từ La Mã đến cách mạng",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Dãy núi Carpathian uốn quanh Romania như hình móng ngựa, ôm trọn những cánh rừng sồi và thông bao la trong lòng đất nước. Bên dưới các đỉnh núi, những đồng bằng rộng lớn trải dài về phía nam và đông, được tưới mát bởi sông Danube — con sông dài thứ hai ở châu Âu.",
+    "Nơi sông Danube gặp biển Đen, dòng chảy tách ra thành ba nhánh, tạo nên Đồng bằng châu thổ Danube — khu vực đất ngập nước được UNESCO công nhận, rộng bằng cả một đất nước nhỏ. Hơn 300 loài chim ghé đến đây làm tổ hoặc dừng chân, biến nơi này thành một trong những thiên đường hoang dã lớn nhất châu Âu."
+  ],
+  "animals": [
+    "Romania là quê hương của hơn 10.000 con gấu nâu — đây là quần thể gấu lớn nhất châu Âu! Sói, linh miêu và linh dương chamois cũng cùng nhau sống trên những sườn núi Carpathian, ít khi xuất hiện nhưng luôn ẩn mình đâu đó rất gần.",
+    "Đồng bằng châu thổ Danube là thiên đường của loài bồ nông. Hàng nghìn con bồ nông trắng lớn và bồ nông Dalmatian lướt nhẹ trên những bãi sậy xanh rì. Mỗi mùa xuân, hàng nghìn con cò trắng lại bay về làm tổ khắp các ngôi làng Romania."
+  ],
+  "culture": [
+    "Những người thợ thủ công Romania chạm khắc cổng gỗ cầu kỳ đến mức phải mất hàng tháng mới xong — những chiếc cổng gỗ ở vùng Maramureș được coi là kiệt tác nghệ thuật dân gian. Áo blouse thêu hoa văn gọi là \"ie\" từng truyền cảm hứng cho danh họa Henri Matisse, và mỗi vùng đất lại có riêng một kiểu thêu khác nhau.",
+    "Âm nhạc dân gian Romania sử dụng đàn violin, đàn cobza và kèn alphorn dài gọi là bucium. Lễ hội làng gọi là \"hora\" tập hợp mọi người nhảy múa thành vòng tròn. Ẩm thực Romania yêu thích cháo bắp (mămăligă), các món hầm chậm lửa và súp chua gọi là ciorbă."
+  ],
+  "history": [
+    "Hai nghìn năm trước, quân đoàn La Mã chinh phục người Dacian tại đây, xây dựng đường sá và thành phố khắp nơi. Tiếng Latin hòa trộn với ngôn ngữ bản địa — và thứ tiếng La Mã đó vẫn còn sống đến hôm nay dưới tên gọi tiếng Romania.",
+    "Sau các thời kỳ bị Ottoman, Habsburg và Nga cai trị, Romania thống nhất đất nước vào năm 1918. Chế độ độc tài cộng sản kéo dài mãi đến năm 1989, khi cuộc cách mạng ngoạn mục lật đổ Nicolae Ceaușescu chỉ trong vỏn vẹn mười ngày. Romania gia nhập Liên minh châu Âu vào năm 2007."
+  ],
+  "wows": [
+    "Cảnh quan khai thác vàng cổ đại ở Roșia Montană được UNESCO công nhận là Di sản Thế giới vào năm 2021.",
+    "Cung điện Quốc hội ở Bucharest là tòa nhà nặng nhất thế giới, với trọng lượng khoảng 4 tỷ kilôgam!",
+    "Bram Stoker — tác giả truyện Dracula — chưa bao giờ đặt chân đến Romania, nhưng ông đã lấy cảm hứng từ lâu đài Bran có thật ở Transylvania.",
+    "Nadia Comaneci là người đầu tiên trong lịch sử Olympic đạt điểm 10 tuyệt đối môn thể dục dụng cụ, tại Thế vận hội Montreal 1976.",
+    "Nghĩa địa Vui vẻ ở Săpânța có những cây thánh giá gỗ sơn màu sắc rực rỡ, kèm theo những bài thơ hài hước kể về cuộc đời từng người.",
+    "Romania có tám tu viện được UNESCO công nhận với những bức tranh bích họa trung cổ sặc sỡ phủ kín cả tường ngoài.",
+    "Gấu thường xuyên đi lạc vào các thị trấn miền núi như Brașov để lục thùng rác, trở thành những \"người nổi tiếng\" địa phương."
+  ],
+  "myths": [
+    {
+      "myth": "Transylvania là vùng đất u ám và đáng sợ",
+      "fact": "Thực ra Transylvania là một cao nguyên nhiều nắng, bao quanh bởi núi non, nổi tiếng với những thành phố cổ có tường thành như Sibiu và Sighișoara — vui tươi hơn nhiều so với tiếng xấu ma quái của nó!"
+    },
+    {
+      "myth": "Tiếng Romania là một ngôn ngữ Slavic",
+      "fact": "Tiếng Romania thực ra là ngôn ngữ gốc Latin, gần họ hàng với tiếng Ý và tiếng Tây Ban Nha hơn là tiếng Nga hay tiếng Ba Lan."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bună ziua",
+      "say": "BOO-nuh ZEE-wah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mulțumesc",
+      "say": "mool-tsoo-MESK"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Vă rog",
+      "say": "vuh ROHG"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Da",
+      "say": "dah"
+    },
+    {
+      "en": "Con gấu",
+      "jp": "Urs",
+      "say": "oors"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ro-hero.jpg",
+      "alt": "Lâu đài Bran sừng sững trên đỉnh đồi đá ở Transylvania",
+      "caption": "LÂU ĐÀI BRAN — pháo đài Transylvania là nguồn cảm hứng cho truyện Dracula",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ro-landmark.jpg",
+      "alt": "Cung điện Quốc hội đồ sộ ở Bucharest",
+      "caption": "CUNG ĐIỆN QUỐC HỘI — tòa nhà nặng nhất thế giới, tại Bucharest",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ro-animalA.jpg",
+      "alt": "Một con gấu nâu chạy qua khoảng trống trong rừng",
+      "caption": "GẤU NÂU — hơn 10.000 con đang sống trong rừng Carpathian của Romania",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ro-animalB.jpg",
+      "alt": "Những con bồ nông trắng lớn lướt trên vùng đất ngập nước châu thổ Danube",
+      "caption": "BỒ NÔNG TRẮNG LỚN — hàng nghìn con làm tổ ở châu thổ Danube",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

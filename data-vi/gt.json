@@ -1,0 +1,163 @@
+{
+  "name": "GUATEMALA",
+  "nativeName": "GT",
+  "romaji": "GUATEMALA",
+  "tagline": "Vùng đất mùa xuân bất tận",
+  "region": "Trung Mỹ",
+  "coords": "15.78°N, 90.23°W",
+  "fileNo": "047",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDD6",
+    "dot": "#CCBD97",
+    "ink": "#26221A",
+    "faint": "#8A7A56",
+    "line": "#DDD3B0",
+    "accent": "#1B5E2B",
+    "accent2": "#4169A6"
+  },
+  "flag": {
+    "assetPath": "/flags/gt.svg",
+    "title": "Quốc kỳ Guatemala",
+    "note": "Ba dải xanh-trắng-xanh với huy hiệu quốc gia ở giữa",
+    "keyColor": "#1B5E2B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guatemala là đất nước nơi những ngọn núi lửa còn đang phun khói sừng sững cạnh những đền đài Maya nghìn tuổi, còn rừng mây phủ mù suốt ngày. Người ta gọi đây là \"Vùng đất mùa xuân bất tận\" vì khí hậu vùng cao luôn mát mẻ dễ chịu quanh năm. Điều đặc biệt nhất là có tới 22 ngôn ngữ Maya khác nhau được người dân dùng hằng ngày — điều đó khiến Guatemala trở thành một trong những quốc gia đa văn hóa nhất châu Mỹ.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Guatemala City",
+      "sub": "Khoảng 3,2 triệu người cả vùng đô thị"
+    },
+    {
+      "label": "Dân số",
+      "value": "18,4 triệu người",
+      "sub": "Ước tính 2024, World Bank"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Quetzal (GTQ)",
+      "sub": "Đặt theo tên loài chim quốc gia"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Cùng với 22 ngôn ngữ Maya"
+    },
+    {
+      "label": "Diện tích",
+      "value": "108.889 km²",
+      "sub": "Rộng hơn Iceland"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "4.220 m",
+      "sub": "Núi lửa Tajumulco"
+    }
+  ],
+  "islands": [
+    "ANTIGUA",
+    "FLORES",
+    "XELA",
+    "COBÁN",
+    "PTO. BARRIOS"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa, hồ và rừng già",
+    "animals": "Quetzal và muông thú rừng nhiệt đới",
+    "culture": "Di sản Maya và sắc màu rực rỡ",
+    "history": "Đền cổ, chinh phục và tự do",
+    "wows": "Có biết không?"
+  },
+  "geo": [
+    "Guatemala có tới 37 ngọn núi lửa — ba ngọn vẫn đang hoạt động và thỉnh thoảng rung chuyển. Vùng cao nguyên mát mẻ dễ chịu quanh năm, trong khi phía bắc là vùng đất thấp Petén phủ đầy rừng mưa nhiệt đới với khỉ hú và báo đốm.",
+    "Hồ Atitlán nằm gọn trong lòng một miệng núi lửa cổ đại, xung quanh được ba ngọn núi lửa khác vây quanh như bức tường khổng lồ. Về phía đông, một đoạn bờ biển Caribbean ngắn có những bãi biển ấm áp và rạn san hô tuyệt đẹp."
+  ],
+  "animals": [
+    "Chim quetzal rực rỡ — quốc điểu của Guatemala — có đôi lông đuôi dài tới 65 cm, óng ánh xanh lục và đỏ thẫm. Người Maya cổ đại coi đây là loài chim thiêng và từng dùng lông của nó như đồng tiền trao đổi.",
+    "Báo đốm vẫn còn lang thang trong rừng Petén. Rừng mưa nơi đây còn che chở cho lợn rừng tapir, vẹt đỏ, và đại bàng harpy hùng dũng. Mùa từ tháng 7 đến tháng 11 mỗi năm, rùa biển kéo lên bờ Thái Bình Dương để đẻ trứng."
+  ],
+  "culture": [
+    "Người Maya bản địa chiếm khoảng 40% dân số Guatemala. Phụ nữ Maya dệt những tấm vải hoa văn tinh xảo gọi là huipiles trên khung dệt truyền thống — mỗi làng có họa tiết riêng, chỉ nhìn vào vải là biết ngay người thợ dệt đến từ đâu.",
+    "Chợ Chichicastenango là một trong những phiên chợ sắc màu nhất châu Mỹ, họp hai lần mỗi tuần giữa quảng trường với hoa, vải vóc và khói hương nghi ngút. Tiếng marimba — một loại đàn xylophone khổng lồ bằng gỗ — là âm thanh đặc trưng của cả đất nước."
+  ],
+  "history": [
+    "Nền văn minh Maya phát triển rực rỡ tại đây suốt hơn 2.000 năm. Tikal từng là thành phố với khoảng 60.000 dân vào thời hoàng kim khoảng năm 750 sau Công nguyên. Ngôi đền cao nhất vươn lên 65 mét khỏi tán rừng và từng xuất hiện trong bộ phim Star Wars đầu tiên.",
+    "Quân Tây Ban Nha đặt chân đến năm 1524 và cai trị suốt gần 300 năm. Guatemala tuyên bố độc lập ngày 15 tháng 9 năm 1821 — ngày này vẫn được kỷ niệm bằng những cuộc chạy relay mang đuốc lửa xuyên suốt khắp đất nước."
+  ],
+  "wows": [
+    "Guatemala có 37 ngọn núi lửa — số lượng nhiều nhất trên mỗi km² so với gần như bất kỳ nơi nào trên Trái Đất.",
+    "Người Maya cổ đại ở đây là những người đầu tiên chế tạo đồ uống sôcôla, trộn cacao với ớt cay.",
+    "Đỉnh đền số IV ở Tikal nhô lên khỏi tán rừng — nhìn chung quanh chỉ thấy toàn ngọn cây trải dài vô tận.",
+    "Người Maya tin rằng chim quetzal sẽ chết nếu bị nhốt trong lồng — vì thế nó trở thành biểu tượng của tự do.",
+    "Guatemala City là thành phố đông dân nhất toàn khu vực Trung Mỹ.",
+    "Hồ Atitlán sâu tới 340 mét — đáy hồ chưa bao giờ được đo hết bằng sonar.",
+    "Cà phê trồng trên đất núi lửa của Guatemala được cả thế giới ưa chuộng vì vị đậm đà và thơm thoảng mùi sôcôla."
+  ],
+  "myths": [
+    {
+      "myth": "\"Nền văn minh Maya đã sụp đổ và biến mất\"",
+      "fact": "Hơn 7 triệu người Maya vẫn đang sống ở Guatemala ngày nay, nói 22 ngôn ngữ và gìn giữ các nghi lễ, nghề dệt cùng những truyền thống cổ xưa rất sống động."
+    },
+    {
+      "myth": "\"Guatemala chỉ có rừng già và phế tích\"",
+      "fact": "Đất nước này còn có núi lửa phủ tuyết, đồng cỏ cao nguyên, bãi biển Caribbean, và một thủ đô hiện đại sầm uất — một trong những quốc gia đa dạng cảnh quan nhất châu Mỹ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Hermoso",
+      "say": "er-MOH-soh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gt-hero.jpg",
+      "alt": "Đền số I Tikal vươn cao khỏi tán rừng lúc bình minh",
+      "caption": "ĐỀN TIKAL SỐ I — kim tự tháp vĩ đại cao 47 m trên quảng trường, xây dựng khoảng năm 732 sau Công nguyên.",
+      "credit": "Wikimedia Commons / Raymond Ostertag"
+    },
+    "landmark": {
+      "src": "/photos/gt-landmark.jpg",
+      "alt": "Hồ Atitlán với ba ngọn núi lửa phản chiếu trên mặt nước xanh phẳng lặng",
+      "caption": "HỒ ATITLÁN — hồ miệng núi lửa vùng cao nguyên, được ba ngọn núi lửa bao quanh.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gt-animalA.jpg",
+      "alt": "Chim quetzal rực rỡ đậu trên cành khoe đôi lông đuôi xanh ngọc dài",
+      "caption": "CHIM QUETZAL RỰC RỠ — loài chim thiêng của người Maya, lông đuôi dài tới 65 cm.",
+      "credit": "Wikimedia Commons / Dave Montreuil"
+    },
+    "animalB": {
+      "src": "/photos/gt-animalB.jpg",
+      "alt": "Báo đốm nằm nghỉ trên thân cây khoe bộ lông vàng óng với những đốm đen",
+      "caption": "BÁO ĐỐM — chúa tể của rừng mưa Petén, được người Maya cổ đại tôn kính.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

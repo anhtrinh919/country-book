@@ -1,0 +1,163 @@
+{
+  "name": "ERITREA",
+  "nativeName": "ኤርትራ",
+  "romaji": "ERITREA",
+  "tagline": "Viên ngọc ẩn của Biển Đỏ",
+  "region": "Đông Phi",
+  "coords": "15.2°N, 39.8°E",
+  "fileNo": "081",
+  "langName": "tiếng Tigrinya",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48E",
+    "ink": "#26201A",
+    "faint": "#8A7355",
+    "line": "#DDD0B0",
+    "accent": "#4DA04B",
+    "accent2": "#CC2B2B"
+  },
+  "flag": {
+    "assetPath": "/flags/er.svg",
+    "title": "Quốc kỳ Eritrea",
+    "note": "Xanh lá, đỏ & xanh dương với vòng nguyệt quế ô liu",
+    "keyColor": "#4DA04B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Eritrea nằm vắt dọc theo bờ biển Biển Đỏ phía đông bắc châu Phi. Thủ đô Asmara tọa lạc trên cao nguyên mát mẻ hơn 2.300 m, trông giống hệt một thị trấn Ý lạc bước sang châu Phi. Sau 30 năm chiến tranh giành độc lập, đến năm 1993 Eritrea mới chính thức tự do — và đất nước nhỏ bé này ôm trọn trong lòng cả di tích cổ đại, rạn san hô, dugong lẫn chín dân tộc anh em.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Asmara",
+      "sub": "Cao 2.325 m so với mực nước biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "3,6 triệu người",
+      "sub": "Ước tính của Liên Hợp Quốc năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Nakfa (ERN)",
+      "sub": "Đặt tên theo thị trấn giải phóng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tigrinya",
+      "sub": "Cùng với tiếng Ả Rập & tiếng Anh là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "117.600 km²",
+      "sub": "Xấp xỉ diện tích nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Emba Soira",
+      "sub": "3.018 m ở vùng cao nguyên trung tâm"
+    }
+  ],
+  "islands": [
+    "Asmara",
+    "Massawa",
+    "Keren",
+    "Assab",
+    "Mendefera"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Cao nguyên treo trên biển cả",
+    "animals": "Dugong, rùa biển & sơn dương núi",
+    "culture": "Chín dân tộc, một chiếc bánh injera",
+    "history": "Ba mươi năm để được tự do",
+    "wows": "Những điều bất ngờ chờ bạn khám phá"
+  },
+  "geo": [
+    "Eritrea chia làm ba vùng rõ rệt: cao nguyên mát mẻ và màu mỡ — nơi phần lớn người dân sinh sống; dải đồng bằng ven biển oi bức dọc theo Biển Đỏ; và vùng đồng bằng khô hạn phía tây giáp Sudan. Chỉ trong vỏn vẹn 60 km đường đèo uốn khúc, địa hình đã đổ dốc thẳng từ cao nguyên xuống tận bờ biển.",
+    "Bờ biển Biển Đỏ của Eritrea trải dài gần 2.000 km, bao gồm cả quần đảo Dahlak — hơn 120 hòn đảo, phần lớn không có người ở, bao quanh bởi các rạn san hô lung linh. Trong nội địa, những con sông theo mùa cuồn cuộn chảy sau mưa rồi lại biến mất vào lòng cát hàng tháng trời."
+  ],
+  "animals": [
+    "Vùng biển Đỏ của Eritrea là ngôi nhà của một trong những đàn dugong khỏe mạnh nhất thế giới — những con bò biển hiền lành đang gặm cỏ biển dưới làn nước trong xanh. Rùa xanh và rùa đồi mồi lên bãi Dahlak đẻ trứng từng mùa. Cá heo nhiều đến mức ngư dân xem chúng như hàng xóm thân quen.",
+    "Trên vùng cao nguyên đá, sơn dương Nubian leo trèo vách núi với đôi sừng cong như lưỡi kiếm. Khỉ vervet hay lén vào vườn nhà gần Asmara kiếm đồ ăn, còn rừng cây ẩn chứa linh dương bụi và báo hoa. Eritrea đã ghi nhận hơn 500 loài chim — đủ để bất kỳ ai yêu chim đều phải mê mẩn."
+  ],
+  "culture": [
+    "Eritrea có chín dân tộc được công nhận chính thức, mỗi dân tộc có ngôn ngữ và trang phục riêng. Người Tigrinya vùng cao nguyên có nghi lễ cà phê rất đặc biệt: rang hạt cà phê ngay trước mặt khách, xay bằng tay, rồi rót ba lần — từ chối một tách là điều khiếm nhã.",
+    "Injera — tấm bánh mì xốp to làm từ hạt teff — vừa là đĩa, vừa là thìa, vừa là thức ăn, được chia chung từ một mâm lớn. Âm nhạc pha trộn nhịp điệu châu Phi với tiếng đàn krar, và những chiếc khăn choàng dệt thổ cẩm rực rỡ xuất hiện ở mọi lễ hội."
+  ],
+  "history": [
+    "Eritrea xưa kia là một phần của Đế chế Aksum hùng mạnh, và các cảng Biển Đỏ từng tấp nập thương nhân từ Ả Rập, Ấn Độ, đến tận La Mã. Thành phố cảng Adulis một thời là trung tâm thương mại quan trọng bậc nhất thế giới cổ đại.",
+    "Ý đô hộ Eritrea từ năm 1890, để lại cho Asmara hàng loạt công trình kiến trúc Art Deco tuyệt đẹp. Sau Thế chiến II, Eritrea bị sáp nhập vào Ethiopia. Cuộc đấu tranh vũ trang kéo dài 30 năm; đến năm 1993, hơn 99% người Eritrea bỏ phiếu chọn độc lập."
+  ],
+  "wows": [
+    "Asmara là thành phố hiện đại chủ nghĩa đầu tiên ở châu Phi được UNESCO công nhận — đường phố trông như bối cảnh phim Ý thập niên 1930.",
+    "Năm 1937, Eritrea có tuyến cáp treo hàng hóa dài nhất thế giới: 72 km gondola kéo hàng từ biển lên tận thủ đô.",
+    "San hô Biển Đỏ của Eritrea sống sót được ở nhiệt độ nước đủ để làm trắng hóa rạn san hô ở hầu hết mọi nơi khác trên Trái Đất.",
+    "Eritrea cấm túi nhựa dùng một lần từ năm 2005 — một trong những quốc gia đầu tiên ở châu Phi làm điều này.",
+    "Đất nước này công nhận chín ngôn ngữ chính thức — nhiều hơn hầu hết các quốc gia có diện tích gấp ba lần.",
+    "Ít nhất một nửa số dugong trên toàn Biển Đỏ phụ thuộc vào đồng cỏ biển của Eritrea và Sudan để tồn tại.",
+    "Năm 1993, người Eritrea bỏ phiếu chọn độc lập với tỉ lệ 99,83% — một trong những kết quả trưng cầu dân ý cao nhất từng được ghi nhận trong lịch sử."
+  ],
+  "myths": [
+    {
+      "myth": "Eritrea là một phần của Ethiopia",
+      "fact": "Eritrea đã hoàn toàn độc lập từ năm 1993, có chính phủ, tiền tệ và quốc kỳ riêng, sau 30 năm chiến tranh và một cuộc bỏ phiếu có Liên Hợp Quốc giám sát."
+    },
+    {
+      "myth": "Nơi đây toàn sa mạc và nạn đói",
+      "fact": "Vùng cao nguyên mát mẻ trên 2.000 m có đất nông nghiệp màu mỡ và khí hậu dễ chịu; Asmara nổi tiếng với bóng mát và thời tiết ôn hòa, được mệnh danh là 'Rome của châu Phi'."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "ሰላም",
+      "say": "Sel-AM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "የቐንየለይ",
+      "say": "Ye-ken-ye-LEY"
+    },
+    {
+      "en": "Có",
+      "jp": "እወ",
+      "say": "Eh-weh"
+    },
+    {
+      "en": "Không",
+      "jp": "ኣይኮነን",
+      "say": "Ay-KOH-nen"
+    },
+    {
+      "en": "Đồ ăn",
+      "jp": "መግቢ",
+      "say": "Meh-GBI"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/er-hero.jpg",
+      "alt": "Đầu máy hơi nước cổ điển trên tuyến đường sắt Eritrea giữa khung cảnh cao nguyên",
+      "caption": "ĐƯỜNG SẮT ERITREA — tuyến đường trăm năm tuổi do Ý xây, leo từ mặt biển lên độ cao 2.325 m",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/er-landmark.jpg",
+      "alt": "Tòa nhà Fiat Tagliero theo phong cách vị lai ở Asmara hình chiếc máy bay với đôi cánh bê tông",
+      "caption": "TÒA NHÀ FIAT TAGLIERO — công trình kiến trúc vị lai năm 1938 của Asmara, nay được UNESCO công nhận",
+      "credit": "Clay Gilliland / Wikimedia Commons CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/er-animalA.jpg",
+      "alt": "Một con dugong lướt nhẹ qua đồng cỏ biển trong nước nông trong vắt",
+      "caption": "DUGONG — vùng biển Đỏ của Eritrea là nơi trú ngụ của nửa số dugong trên toàn Biển Đỏ",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/er-animalB.jpg",
+      "alt": "Rùa biển xanh bơi phía trên rạn san hô ở Biển Đỏ",
+      "caption": "RÙA BIỂN XANH — bãi biển quần đảo Dahlak là bãi đẻ trứng lớn mỗi năm",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

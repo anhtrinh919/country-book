@@ -1,0 +1,163 @@
+{
+  "name": "IRAN",
+  "nativeName": "ایران",
+  "romaji": "IRAN",
+  "tagline": "Xứ hoa hồng và đế chế huyền thoại",
+  "region": "Trung Đông",
+  "coords": "32°N 53°E",
+  "fileNo": "042",
+  "langName": "tiếng Ba Tư",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#D4BFA0",
+    "ink": "#2B2018",
+    "faint": "#8A7055",
+    "line": "#DFD0B8",
+    "accent": "#239F40",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/ir.svg",
+    "title": "Quốc kỳ Iran",
+    "note": "Ba sọc xanh lá, trắng, đỏ với biểu tượng Allah ở giữa",
+    "keyColor": "#239F40",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Iran là nơi giao nhau của những nền văn minh cổ đại, nơi Đế chế Ba Tư từng thống trị một vùng đất rộng từ Ai Cập đến Ấn Độ. Đây là một xứ sở rộng lớn với sa mạc cát vàng, núi tuyết phủ trắng, cánh đồng nghệ tây tím ngắt và những khu chợ chất đầy thảm dệt và gia vị thơm lừng. Con người đã sinh sống ở đây hơn 7.000 năm, khiến Iran trở thành một trong những nền văn minh lâu đời nhất trên Trái Đất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tehran",
+      "sub": "Dân số ~9,5 triệu; nằm ở độ cao 1.200 m"
+    },
+    {
+      "label": "Dân số",
+      "value": "90 triệu người",
+      "sub": "Ước tính 2024 — khoảng 78% sống ở đô thị"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rial (IRR)",
+      "sub": "10.000 Rial = 1 Toman trong cuộc sống hằng ngày"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ba Tư",
+      "sub": "Còn gọi là Farsi; viết từ phải sang trái"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.648.195 km²",
+      "sub": "Quốc gia lớn thứ 17 trên thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "5.610 m",
+      "sub": "Núi Damavand — núi lửa đang ngủ"
+    }
+  ],
+  "islands": [
+    "Tehran",
+    "Isfahan",
+    "Shiraz",
+    "Tabriz",
+    "Mashhad"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi tuyết, sa mạc và hồ muối",
+    "animals": "Mèo quý hiếm và hồng hạc hồng",
+    "culture": "Thảm dệt, thơ ca và nghệ tây",
+    "history": "Đế chế lâu đời hơn cả Rome",
+    "wows": "Bảy điều bất ngờ"
+  },
+  "geo": [
+    "Iran là một cao nguyên rộng lớn được bao bọc bởi núi non. Dãy Alborz ôm ấp núi Damavand — một ngọn núi lửa đầu tuyết trắng còn cao hơn bất kỳ đỉnh núi nào ở Alps châu Âu. Dãy Zagros trải dài 1.500 km qua miền tây như một cái xương sống khổng lồ.",
+    "Hai sa mạc lớn choán giữa đất nước — sa mạc muối Dasht-e Kavir và sa mạc cát Dasht-e Lut, một trong những nơi nóng nhất Trái Đất. Thế nhưng phía bắc lại ôm bờ biển Caspi xanh mướt và mưa nhiều như rừng nhiệt đới."
+  ],
+  "animals": [
+    "Báo cheetah châu Á của Iran là loài mèo hiếm nhất trên Trái Đất — chưa đến 30 con còn sống ngoài tự nhiên, và tất cả đều ở Iran. Báo hoa Ba Tư rình rập trong rừng Alborz, còn gấu nâu lội suối bắt cá mỗi độ thu về.",
+    "Hươu đầm lầy Ba Tư từng bị cho là đã tuyệt chủng nhưng được phát hiện lại ở vùng Khuzestan. Hồng hạc nhuộm hồng hồ Urmia mỗi mùa xuân, và sếu Siberia hiếm gặp cũng ghé đây nghỉ chân trên hành trình thiên di dài về phương nam."
+  ],
+  "culture": [
+    "Thơ ca Ba Tư được người Iran yêu mến đến mức họ thuộc thơ Hafez và Rumi như thuộc bài hát. Lễ Nowruz — Tết mùa xuân — diễn ra đúng ngày xuân phân: các gia đình bày bàn với bảy vật phẩm mang ý nghĩa đặc biệt và cùng nhau nhảy qua lửa trại.",
+    "Nghề dệt thảm Iran đã có 2.500 năm lịch sử; một tấm thảm đẹp có thể mất ba người thợ làm suốt hai năm mới xong. Iran cũng trồng tới 90% lượng nghệ tây của cả thế giới — những sợi đỏ được hái từ hoa nghệ tây tím vào lúc bình minh mỗi tháng Mười."
+  ],
+  "history": [
+    "Đế chế Ba Tư Achaemenid do Cyrus Đại Đế lập nên khoảng năm 550 trước Công nguyên là đế chế lớn nhất thế giới cổ đại từng biết đến. Cyrus còn ban hành một trong những tuyên ngôn nhân quyền đầu tiên của lịch sử — bản gốc hiện được lưu giữ tại Bảo tàng Anh.",
+    "Sau thời Alexander, rồi người Parthia và Sassanid, Iran trở thành trái tim của Thời kỳ Hoàng kim Hồi giáo — các học giả nơi đây gìn giữ tri thức Hy Lạp và khai sáng đại số học cùng y học cho cả thế giới."
+  ],
+  "wows": [
+    "Núi Damavand là núi lửa cao nhất châu Á với 5.610 m.",
+    "Cyrus Đại Đế xây dựng mạng lưới bưu chính đầu tiên trong lịch sử — các sứ giả chạy bộ suốt 2.700 km khắp đế chế.",
+    "Tháp gió badgir ở Yazd làm mát các tòa nhà từ 2.500 năm trước — lâu hơn cả máy điều hòa hiện đại rất nhiều.",
+    "Iran trồng khoảng 90% lượng nghệ tây thế giới — nhiều hơn tổng sản lượng của tất cả các nước còn lại.",
+    "Báo cheetah châu Á chỉ còn tồn tại ở Iran — đây là quần thể hoang dã duy nhất ngoài châu Phi.",
+    "Cờ backgammon được phát minh ở Ba Tư cách đây ~5.000 năm; một bàn cờ cổ đã được tìm thấy tại Thành phố Bị Đốt.",
+    "Hệ thống kênh ngầm qanat của Iran đã tưới tiêu cao nguyên này suốt hơn 3.000 năm."
+  ],
+  "myths": [
+    {
+      "myth": "Iran và Iraq là một",
+      "fact": "Đây là hai quốc gia láng giềng hoàn toàn khác nhau về ngôn ngữ lẫn lịch sử. Iran nói tiếng Ba Tư; ngôn ngữ chính của Iraq là tiếng Ả Rập. Hai nước chỉ chung đường biên giới, còn mọi thứ khác đều khác nhau."
+    },
+    {
+      "myth": "Iran toàn là sa mạc cát",
+      "fact": "Chỉ khoảng một phần tư đất nước là sa mạc. Phần còn lại là núi tuyết, rừng xanh ven Caspi, thung lũng trù phú và đồng ruộng trồng hồ trăn và lựu đỏ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "سلام",
+      "say": "Sa-laam"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "ممنون",
+      "say": "Mam-noon"
+    },
+    {
+      "en": "Có",
+      "jp": "بله",
+      "say": "Ba-le"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "خوشمزه",
+      "say": "Khosh-ma-ze"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "زیبا",
+      "say": "Zee-baa"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ir-hero.jpg",
+      "alt": "Đường chân trời Tehran với tháp Milad lúc hoàng hôn",
+      "caption": "TEHRAN — Thủ đô Iran trải dài dưới chân dãy núi Alborz tuyết phủ",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ir-landmark.jpg",
+      "alt": "Nội thất nhà thờ Hồng Hạc lung linh ánh sáng cầu vồng từ cửa kính màu",
+      "caption": "NHÀ THỜ HỒNG HẠC — Thánh đường Nasir ol-Molk ở Shiraz rực rỡ ánh cầu vồng lúc bình minh",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ir-animalA.jpg",
+      "alt": "Báo cheetah châu Á nằm nghỉ trên tảng đá ở Iran",
+      "caption": "BÁO CHEETAH CHÂU Á — chưa đến 30 con còn sống, tất cả ở sa mạc trung tâm Iran",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ir-animalB.jpg",
+      "alt": "Đàn hồng hạc lội trên làn nước hồng của hồ Urmia, Iran",
+      "caption": "HỒNG HẠC — hàng nghìn con kéo đến hồ Urmia mỗi mùa xuân, nhuộm hồng cả mặt hồ",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "QUẦN ĐẢO MARSHALL",
+  "nativeName": "MH",
+  "romaji": "MAJOL",
+  "tagline": "Những vòng san hô giữa trời nước mênh mông",
+  "region": "Micronesia, Thái Bình Dương",
+  "coords": "7°N, 171°E",
+  "fileNo": "096",
+  "langName": "tiếng Marshall",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EFF5F0",
+    "dot": "#c2d4c5",
+    "ink": "#1e2b20",
+    "faint": "#7a9080",
+    "line": "#d4e4d7",
+    "accent": "#1A3A7A",
+    "accent2": "#E87722"
+  },
+  "flag": {
+    "assetPath": "/flags/mh.svg",
+    "title": "Quốc kỳ Cộng hòa Quần đảo Marshall",
+    "note": "Nền xanh dương, hai dải cam và trắng, ngôi sao 24 cánh",
+    "keyColor": "#1A3A7A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hãy tưởng tượng rải hàng nghìn hạt cườm nhỏ xuống Thái Bình Dương — đó chính là Quần đảo Marshall! Đây là hai chuỗi đảo san hô phẳng lì đến mức bạn có thể nhìn xuyên từ đầu này sang đầu kia. Bốn phía đều là nước — một bên là đầm xanh ngọc yên tĩnh, một bên là biển khơi bao la. Quốc gia này nằm thấp nhất thế giới, chỉ cao hơn mặt biển khoảng hai mét — thấp hơn cả mái nhà thông thường!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Majuro",
+      "sub": "dân số khoảng 28.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "~42.000",
+      "sub": "ước tính 2024, Ngân hàng Thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la Mỹ (USD)",
+      "sub": "không có tiền riêng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Marshall",
+      "sub": "và tiếng Anh cùng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "181 km²",
+      "sub": "trải rộng trên vùng biển 2 triệu km²"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "14 m",
+      "sub": "đảo Airik, vành đảo Maloelap"
+    }
+  ],
+  "islands": [
+    "Majuro",
+    "Kwajalein",
+    "Jaluit",
+    "Bikini",
+    "Ebeye"
+  ],
+  "islandsLabel": "CÁC VÀNH ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Vòng san hô giữa đại dương",
+    "animals": "Cua, chim và rạn san hô",
+    "culture": "Thuyền, sao trời và lễ hội",
+    "history": "Chiến tranh, bom hạt nhân và độc lập",
+    "wows": "Nghe mà không thể tin được!"
+  },
+  "geo": [
+    "Quần đảo Marshall gồm hai chuỗi đảo song song — Ratak (phía Mặt Trời mọc) và Ralik (phía Mặt Trời lặn) — với tổng cộng 29 vành đảo san hô và 5 đảo đơn lẻ. Cả 1.152 mảnh đất gộp lại chỉ vỏn vẹn 181 km², nhỏ hơn cả thành phố Đà Lạt của Việt Nam, trong khi vùng biển xung quanh rộng đến gần 2 triệu km².",
+    "Vành đảo san hô hình thành khi rạn san hô mọc thành vòng quanh một ngọn núi lửa đã chìm xuống đáy biển, tạo nên một đầm nước trong vắt ở giữa. Kwajalein là đầm san hô lớn nhất thế giới — đủ rộng để chứa cả một thành phố bên trong. Độ cao trung bình chỉ 2 mét nên mỗi đợt triều cường cao là một tình huống nguy hiểm thật sự."
+  ],
+  "animals": [
+    "Thế giới động vật sống động nhất ở đây là dưới nước: hơn 250 loài cá rạn san hô tung tăng bơi lội giữa 300 loài san hô đủ màu sắc. Rùa biển xanh và rùa đầu thoi đến đẻ trứng trên những bãi biển vắng, còn cá voi lưng gù ghé qua trong hành trình di cư dài hàng nghìn cây số.",
+    "Trên cạn, chim khinh hạm khổng lồ thống trị bầu trời — đây là loài chim chuyên... cướp! Nó đuổi theo các chim khác và giật lấy cá ngay trên không trung. Cua dừa — động vật không xương sống trên cạn lớn nhất thế giới — leo dừa thoăn thoắt và bẻ gáy trái dừa bằng đôi càng cứng như kìm sắt."
+  ],
+  "culture": [
+    "Xã hội Marshall truyền theo dòng mẹ — đất đai và địa vị xã hội đều do người mẹ truyền lại, không phải cha. Các thủy thủ xưa dùng bản đồ que gọi là rebbelib để đọc hướng sóng đại dương giữa các đảo — một kỹ năng định vị độc đáo chỉ có ở quần đảo này, không nơi nào trên thế giới có.",
+    "Lễ Giáng Sinh — gọi là Kūrijmōj — là một lễ hội kéo dài cả bốn tháng với hát hò và tiệc tùng cộng đồng. Nghề đóng thuyền outrigger vẫn được gìn giữ như một nghề thủ công sống động, và những tấm thảm dệt từ lá pandanus do phụ nữ làm ra được trân trọng như món quà quý giá."
+  ],
+  "history": [
+    "Tổ tiên người Marshall đặt chân đến đây khoảng 2.000 năm trước, giỏi vượt đại dương mà không có la bàn. Tây Ban Nha, Đức rồi Nhật Bản lần lượt chiếm đóng quần đảo này trước khi Mỹ giành quyền kiểm soát sau những trận chiến ác liệt trong Thế chiến II.",
+    "Từ năm 1946 đến 1958, Mỹ cho nổ 67 quả bom hạt nhân trên vành đảo Bikini và Enewetak — tổng sức nổ gấp 7.000 lần quả bom ném xuống Hiroshima. Quần đảo Marshall giành được độc lập vào năm 1986."
+  ],
+  "wows": [
+    "Vành đảo Bikini được UNESCO công nhận là Di sản Thế giới; những chiến hạm bị đánh chìm trong các vụ thử bom hạt nhân vẫn nằm yên dưới đáy đầm.",
+    "Quần đảo Marshall nằm ở phía tây đường đổi ngày, nên chia cùng ngày lịch với châu Á thay vì Hawaii ở gần hơn.",
+    "Người Marshall đọc hướng sóng đại dương bằng cảm giác dưới thân thuyền để định vị các đảo nằm dưới đường chân trời — kỹ thuật định vị bằng sóng biển.",
+    "Quốc gia này dùng đồng đô la Mỹ và không có ngân hàng trung ương — một trong số rất ít nước trên thế giới không có đồng tiền riêng.",
+    "Đất trên vành đảo Bikini có mức phóng xạ cao gấp 10 lần so với vùng cấm xung quanh nhà máy Chernobyl và Fukushima.",
+    "Đảo chính ở Majuro hầu như không rộng hơn 300 mét — bạn đi bộ từ đầm vào đến bờ biển chỉ mất hai phút.",
+    "Công dân Marshall không cần visa để sống và làm việc tại Mỹ theo Hiệp ước Liên kết Tự do."
+  ],
+  "myths": [
+    {
+      "myth": "Các đảo ở đây là sa mạc phẳng lặng, không có cây cối",
+      "fact": "Thực ra các vành đảo xanh tươi rậm rạp với dừa, cây sa kê và pandanus — những vòng xanh mướt bao quanh đầm xanh biếc, chẳng có gì giống sa mạc cả."
+    },
+    {
+      "myth": "Chỉ người dân đảo Bikini bị ảnh hưởng bởi các vụ thử hạt nhân",
+      "fact": "Quả bom Castle Bravo năm 1954 rải bụi phóng xạ xuống các đảo có người ở cách đó 150 km, gây hại cho hàng nghìn người với các hệ lụy sức khỏe kéo dài nhiều thế hệ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Iakwe",
+      "say": "YAH-kway"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Kommol",
+      "say": "KOM-mol"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Aet",
+      "say": "ah-ET"
+    },
+    {
+      "en": "Không",
+      "jp": "Jab",
+      "say": "jahb"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Kommol tata",
+      "say": "KOM-mol TAH-tah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mh-hero.jpg",
+      "alt": "Bờ biển vành đảo Majuro, Quần đảo Marshall",
+      "caption": "MAJURO — thủ đô nằm trên dải san hô hẹp chỉ rộng bằng một dãy phố",
+      "credit": "Erin Magee / DFAT (CC BY 2.0)"
+    },
+    "landmark": {
+      "src": "/photos/mh-landmark.jpg",
+      "alt": "Nhìn từ trên cao xuống vành đảo Kwajalein với vòng san hô và đầm xanh ngọc",
+      "caption": "VÀNH ĐẢO KWAJALEIN — đầm san hô lớn nhất thế giới, đủ rộng để chứa cả một thành phố",
+      "credit": "Matt Kieffer (CC BY-SA 2.0)"
+    },
+    "animalA": {
+      "src": "/photos/mh-animalA.jpg",
+      "alt": "Cua dừa khổng lồ trên mặt đất với đôi càng to lớn",
+      "caption": "CUA DỪA — động vật không xương sống trên cạn lớn nhất thế giới, càng đủ mạnh để bẻ gáy quả dừa",
+      "credit": "Lance Vanlewen (CC BY-SA 4.0)"
+    },
+    "animalB": {
+      "src": "/photos/mh-animalB.jpg",
+      "alt": "Chim khinh hạm khổng lồ dang cánh bay trên Thái Bình Dương",
+      "caption": "CHIM KHINH HẠM — tên cướp bầu trời Thái Bình Dương, cướp cá ngay giữa không trung",
+      "credit": "NOAA Photo Library (CC BY 2.0)"
+    }
+  }
+}

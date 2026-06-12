@@ -1,0 +1,163 @@
+{
+  "name": "MONTENEGRO",
+  "nativeName": "МЕ",
+  "romaji": "CRNA GORA",
+  "tagline": "Núi Đen hùng vĩ",
+  "region": "Nam Âu",
+  "coords": "42.7°N 19.4°E",
+  "fileNo": "087",
+  "langName": "tiếng Montenegro",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#CBBFA0",
+    "ink": "#252018",
+    "faint": "#7A6B4E",
+    "line": "#D8CEAD",
+    "accent": "#D4A017",
+    "accent2": "#B22222"
+  },
+  "flag": {
+    "assetPath": "/flags/me.svg",
+    "title": "Montenegro",
+    "note": "Nền đỏ, viền vàng, huy hiệu đại bàng ở giữa",
+    "keyColor": "#D4A017",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nằm giữa những dãy núi lởm chởm đổ thẳng xuống biển Adriatic, Montenegro là một trong những quốc gia mới nhất và nhỏ nhất châu Âu. Tên nước nghĩa là \"Núi Đen\". Buổi sáng tắm biển ấm áp, buổi chiều leo núi ngắm hồ băng, buổi tối ngắm bầy bồ nông khổng lồ trên hồ nước ngọt — tất cả đều có thể làm trong một ngày, vì đất nước còn nhỏ hơn tỉnh Nghệ An!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Podgorica",
+      "sub": "thủ đô văn hóa là Cetinje"
+    },
+    {
+      "label": "Dân số",
+      "value": "~624.000",
+      "sub": "điều tra 2023: 623.633 người"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "dùng từ 2002, nhưng không phải thành viên EU"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Montenegro",
+      "sub": "tiếng Serbia, Croatia cũng được nói"
+    },
+    {
+      "label": "Diện tích",
+      "value": "13.812 km²",
+      "sub": "nhỏ hơn cả tỉnh Nghệ An"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Bobotov Kuk",
+      "sub": "2.523 m, dãy Durmitor"
+    }
+  ],
+  "islands": [
+    "Podgorica",
+    "Kotor",
+    "Budva",
+    "Nikšić",
+    "Cetinje"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non chạm biển xanh",
+    "animals": "Gấu, bồ nông và đại bàng",
+    "culture": "Thịt hun khói, thơ ca và đá cổ",
+    "history": "Những chiến binh Núi Đen",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Montenegro gần như toàn núi — hơn 70% diện tích là những đỉnh đá vôi lởm chởm và hẻm núi sâu thăm thẳm. Dãy Durmitor ở phía bắc có tới 18 hồ băng được gọi là 'con mắt núi', lấp lánh giữa những thung lũng được dòng sông băng khổng lồ khắc tạo từ hàng triệu năm trước.",
+    "Bờ biển chỉ dài 293 km, nhưng Vịnh Kotor ăn sâu vào đất liền đến mức trông như một cái hồ khép kín. Ở phía nam, Hồ Skadar — hồ nước ngọt lớn nhất vùng Balkan — nằm vắt qua biên giới với Albania, bao quanh bởi những thảm hoa súng và lau sậy xanh mướt."
+  ],
+  "animals": [
+    "Những cánh rừng núi dày đặc của Montenegro là nơi ẩn náu của một trong những quần thể gấu nâu hoang dã cuối cùng còn lại ở châu Âu. Khoảng 300 con gấu sống trên những sườn núi bạch dương và linh sam hẻo lánh của Durmitor và Prokletije, cùng với sói và linh miêu lớn.",
+    "Hồ Skadar là nơi sinh sống của một trong những đàn bồ nông Dalmatian đông đúc nhất thế giới — khoảng 300 con chim trắng khổng lồ làm tổ trên những đảo lau sậy nổi trên mặt nước. Trên cao, kền kền lớn lướt trên những luồng khí nóng dọc theo vách đá Hẻm Núi Tara, quan sát xuống tận đáy hẻm sâu hun hút phía dưới."
+  ],
+  "culture": [
+    "Ẩm thực ở đây đậm đà và thơm khói. Nguyên liệu được yêu thích nhất là pršut kiểu Njeguški — thịt heo muối khô treo lên hàng tháng trời trong gió lạnh của làng Njeguši, nơi mùa đông rét buốt và mùa hè nóng ấm làm hết mọi việc. Ăn cùng phô mai cứng từ sữa cừu mới đúng điệu.",
+    "Người Montenegro nổi tiếng tự hào về dân tộc mình. Có câu nói: 'Chúng tôi ít người, nhưng chúng tôi mạnh.' Những bài thơ hùng ca ca ngợi các chiến binh anh hùng đã được hát suốt nhiều thế kỷ và góp phần tạo nên truyền thống văn học cho cả vùng Balkan rộng lớn."
+  ],
+  "history": [
+    "Montenegro nhỏ bé nhưng đã kháng cự Đế chế Ottoman suốt nhiều thế kỷ khi phần lớn vùng Balkan đã thất thủ. Các chiến binh miền núi dựa vào địa hình hiểm trở để chống lại những đội quân đông gấp bội, và vương quốc nhỏ bé này chưa bao giờ bị chinh phục hoàn toàn — điều thật sự phi thường với một lãnh thổ nhỏ như vậy.",
+    "Năm 2006, Montenegro bỏ phiếu tách khỏi liên minh với Serbia. Kết quả là 55,5% — vừa vượt qua ngưỡng 55% cần thiết, trở thành một trong những cuộc bỏ phiếu độc lập sít sao nhất trong lịch sử."
+  ],
+  "wows": [
+    "Quốc gia duy nhất trên thế giới có chữ 'núi' trong tên — cả 'Monte Negro' lẫn 'Crna Gora' đều có nghĩa là 'Núi Đen'.",
+    "Hẻm Núi Tara sâu 1.300 m — hẻm núi sâu nhất châu Âu, chỉ thua Hẻm Grand Canyon của Mỹ trên toàn thế giới.",
+    "Montenegro dùng đồng euro mà không phải thành viên EU — họ tự ý áp dụng đồng tiền này từ năm 2002.",
+    "Cetinje có xưởng in sách đầu tiên của người Slav miền Nam vào năm 1493 — rất sớm ngay cả với tiêu chuẩn châu Âu.",
+    "Đây là quốc gia có tỷ lệ diện tích được UNESCO bảo vệ cao hàng đầu châu Âu so với tổng diện tích.",
+    "Gấu nâu, sói và linh miêu vẫn sống hoang dã tự do — ba loài thú ăn thịt lớn nay đã rất hiếm ở Tây Âu.",
+    "Cầu Đurđevića Tara (1940) đứng cao 172 m so với mặt sông — những người ưa mạo hiểm đến đây nhảy bungee từ trên cầu xuống!"
+  ],
+  "myths": [
+    {
+      "myth": "Vịnh Kotor là một vịnh hẹp băng hà",
+      "fact": "Đây thực ra là ria — thung lũng sông bị nước biển nhấn chìm, không phải vịnh hẹp do băng hà tạo ra. Băng hà chưa từng chạm tới bờ biển ấm áp này; những vách đá dựng đứng trông y hệt nhau thôi."
+    },
+    {
+      "myth": "Montenegro là một phần của Serbia",
+      "fact": "Hai nước từng trong liên minh với nhau đến năm 2006, khi Montenegro bỏ phiếu độc lập và trở thành một quốc gia hoàn toàn riêng biệt với chính phủ và hộ chiếu của riêng mình."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Có / Không",
+      "jp": "Da / Ne",
+      "say": "dah / neh"
+    },
+    {
+      "en": "Cạn ly!",
+      "jp": "Živjeli!",
+      "say": "ZHIV-yeh-lee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/me-hero.jpg",
+      "alt": "Cảnh nhìn từ trên cao xuống Vịnh Kotor với những vách núi dựng đứng bao quanh vịnh nước xanh sâu thẳm",
+      "caption": "VỊNH KOTOR — núi đổ thẳng xuống một trong những vịnh biển ngoạn mục nhất châu Âu",
+      "credit": "Elisabeth64 / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/me-landmark.jpg",
+      "alt": "Cầu vòm bê tông Đurđevića Tara bắc ngang cao phía trên hẻm núi sông Tara màu ngọc bích",
+      "caption": "CẦU ĐURĐEVIĆA TARA — cao 172 m trên con sông chạy qua hẻm sâu nhất châu Âu",
+      "credit": "Aleks.milo / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/me-animalA.jpg",
+      "alt": "Một con gấu nâu Á-Âu to lớn với bộ lông dày nhìn thẳng vào ống kính",
+      "caption": "GẤU NÂU — khoảng 300 con vẫn lang thang tự do trong những cánh rừng núi hẻo lánh của Montenegro",
+      "credit": "MrPanyGoff / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/me-animalB.jpg",
+      "alt": "Một nhóm bồ nông Dalmatian trắng to lớn đang nghỉ ngơi trên bờ hồ",
+      "caption": "BỒ NÔNG DALMATIAN — khoảng 300 con làm tổ trên Hồ Skadar, một trong những đàn lớn nhất thế giới",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    }
+  }
+}

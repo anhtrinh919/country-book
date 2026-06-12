@@ -1,0 +1,163 @@
+{
+  "name": "UGANDA",
+  "nativeName": "UG",
+  "romaji": "UGANDA",
+  "tagline": "Viên ngọc châu Phi",
+  "region": "Đông Phi",
+  "coords": "1.37°N, 32.29°E",
+  "fileNo": "080",
+  "langName": "tiếng Luganda",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CDBF93",
+    "ink": "#211E12",
+    "faint": "#8A7A4A",
+    "line": "#DDD0A8",
+    "accent": "#D90000",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ug.svg",
+    "title": "Quốc kỳ Uganda",
+    "note": "Ba màu đen, vàng, đỏ; hình tròn có hạc mào ở giữa",
+    "keyColor": "#D90000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Uganda nằm ngay trên đường xích đạo, phủ kín bởi rừng già, thảo nguyên và những hồ nước mênh mông. Thủ tướng Anh Churchill từng gọi đây là \"Viên ngọc châu Phi\" — và khi bạn thấy một con khỉ đột trong rừng thẳm hay chứng kiến sông Nile chỉ rộng bảy mét mà cuộn trào dữ dội, bạn sẽ hiểu tại sao. Một nửa số khỉ đột núi trên toàn thế giới sống ở đây, cùng với con chim mỏ giày — trông kỳ lạ như thể ai đó lai giữa bồ nông và khủng long.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kampala",
+      "sub": "Thành phố của bảy ngọn đồi"
+    },
+    {
+      "label": "Dân số",
+      "value": "45,9 triệu người",
+      "sub": "Điều tra dân số NPHC 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Shilling Uganda (UGX)",
+      "sub": "Đồng Shilling Uganda"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Cùng hơn 56 ngôn ngữ địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "241.038 km²",
+      "sub": "Hơi lớn hơn nước Anh một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "5.109 m",
+      "sub": "Đỉnh Margherita, dãy Rwenzori"
+    }
+  ],
+  "islands": [
+    "Kampala",
+    "Jinja",
+    "Entebbe",
+    "Gulu",
+    "Mbarara"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Hồ, núi và sông Nile",
+    "animals": "Khỉ đột, thú khổng lồ và chim kỳ lạ",
+    "culture": "Trống, bánh chapati và hạc mào",
+    "history": "Vương quốc, thuộc địa và độc lập",
+    "wows": "Bảy điều khiến bạn há hốc miệng"
+  },
+  "geo": [
+    "Uganda là quốc gia không có biển — hoàn toàn bị bao bọc bởi đất liền — nhưng nước thì có ở khắp nơi. Hồ Victoria, hồ nước ngọt lớn thứ hai thế giới, trải dài dọc biên giới phía nam của đất nước. Sông Nile cũng được sinh ra ngay tại đây, chảy ra từ hồ Victoria tại thị trấn Jinja để bắt đầu hành trình dài 6.650 km đến biển.",
+    "Phía tây Uganda có dãy núi Rwenzori — còn gọi là \"Những ngọn núi của Mặt Trăng\" trong truyền thuyết — với những đỉnh núi phủ tuyết quanh năm dù nằm ngay trên xích đạo. Địa hình Uganda thay đổi từ thảo nguyên nóng bức ở phía bắc đến rừng núi mát mẻ sương mù ở phía tây, cảm giác như đang đi qua nhiều đất nước khác nhau."
+  ],
+  "animals": [
+    "Uganda có hơn 1.090 loài chim — gần một nửa số loài chim của cả châu Phi. Đáng săn lùng nhất là chim mỏ giày: một con chim xám xanh khổng lồ với chiếc mỏ hình guốc gỗ, đứng im bất động tới 30 phút rồi bất ngờ lao xuống vồ một con cá phổi trong đầm lầy cỏ papyrus chỉ trong tích tắc.",
+    "Vườn quốc gia Bwindi Impenetrable là nơi trú ngụ của khoảng 459 con khỉ đột núi — một nửa tổng số toàn cầu. Còn ở Vườn quốc gia Queen Elizabeth, những con sư tử làm điều mà hầu như không con sư tử nào khác trên thế giới làm được: chúng trèo lên cây và nằm dài trên cành, nhìn xuống đồng cỏ bên dưới một cách thư thái."
+  ],
+  "culture": [
+    "Món ăn chủ lực của Uganda là matoke — chuối xanh hầm trong lá chuối cho đến khi mềm và vàng óng. Còn \"vua\" của ẩm thực đường phố là Rolex: một chiếc bánh chapati cuộn quanh trứng chiên và rau củ. Cái tên này thực ra là \"trứng cuộn\" viết tắt, nhưng người dân địa phương rất thích cái sự trùng tên với đồng hồ xa xỉ.",
+    "Âm nhạc Uganda chạy bằng nhịp trống. Những tay trống hoàng gia Buganda có thể gửi thông điệp qua nhiều ngọn đồi chỉ bằng tiếng trống. Mỗi năm lễ hội Nyege Nyege thu hút hàng nghìn người đến bờ sông Nile ở Jinja để ăn mừng bốn đêm liên tiếp với âm nhạc từ khắp châu Phi — một trong những lễ hội ngoài trời lớn nhất lục địa."
+  ],
+  "history": [
+    "Vương quốc Buganda được thành lập vào thế kỷ 14 gần hồ Victoria và dần trở thành một trong những quốc gia hùng mạnh nhất Đông Phi. Vị vua (kabaka) chỉ huy một đội quân lớn và một hạm đội thuyền độc mộc; cung điện hoàng gia tại Kampala vẫn đứng vững cho đến ngày nay.",
+    "Anh biến Uganda thành thuộc địa bảo hộ năm 1894. Ngày 9 tháng 10 năm 1962 — vẫn được kỷ niệm là Ngày Độc Lập — Uganda thoát khỏi ách thực dân. Sau thời kỳ đen tối dưới tay nhà độc tài Idi Amin vào thập niên 1970, đất nước dần hồi sinh và ngày nay là một trong những điểm đến safari thân thiện nhất châu Phi."
+  ],
+  "wows": [
+    "Sông Nile — con sông dài nhất thế giới — được sinh ra tại Uganda. Bạn có thể đứng ở Jinja mà nhìn nước chảy ra từ hồ Victoria.",
+    "Tại thác Murchison, toàn bộ dòng sông Nile bị ép qua khe đá chỉ rộng 7 mét rồi lao xuống 43 m trong màn nước gầm rú.",
+    "Uganda có nhiều nhóm khỉ đột đã được thuần hóa để du khách trekking nhất thế giới: 19 gia đình.",
+    "Chim mỏ giày đứng im như tượng suốt 30 phút, rồi vồ mồi nhanh đến mức mắt thường không theo kịp.",
+    "Sư tử ở khu Ishasha leo cây từ khi còn nhỏ — thói quen gần như không nơi nào khác ở châu Phi có.",
+    "Uganda là nơi sinh sống của khoảng một nửa toàn bộ khỉ đột núi trên thế giới — và tất cả nằm trong một công viên duy nhất.",
+    "Món ăn đường phố Rolex của Uganda được chính phủ công nhận là điểm thu hút du lịch chính thức vào năm 2016."
+  ],
+  "myths": [
+    {
+      "myth": "Uganda quá nguy hiểm để đến thăm",
+      "fact": "Các khu safari hàng đầu như Bwindi và Queen Elizabeth có tỷ lệ tội phạm rất thấp; Uganda liên tục được xếp hạng là một trong những điểm đến thân thiện nhất Đông Phi."
+    },
+    {
+      "myth": "Tất cả người Uganda đều nói cùng một thứ tiếng",
+      "fact": "Uganda có hơn 56 ngôn ngữ khác nhau. Một người từ phía bắc và một người từ phía nam có thể hoàn toàn không có tiếng mẹ đẻ chung nào."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Oli otya",
+      "say": "oh-lee oh-CHA"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Webale",
+      "say": "way-BAH-lay"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Tukusanyuse",
+      "say": "too-koo-san-YOO"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Nnungi!",
+      "say": "nn-OON-gee"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Weeraba",
+      "say": "way-RAH-bah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ug-hero.jpg",
+      "alt": "Đường phố thủ đô Kampala của Uganda",
+      "caption": "KAMPALA — thủ đô nhộn nhịp trải rộng trên bảy ngọn đồi xanh gần hồ Victoria.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ug-landmark.jpg",
+      "alt": "Thác Murchison Uganda nhìn toàn cảnh có cầu vồng",
+      "caption": "THÁC MURCHISON — sông Nile bị ép qua khe hẹp 7 mét rồi đổ xuống 43 m bên dưới.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ug-animalA.jpg",
+      "alt": "Chim mỏ giày cận cảnh chiếc mỏ lớn",
+      "caption": "CHIM MỎ GIÀY — chiếc mỏ khổng lồ hình guốc gỗ chộp cá phổi trong tích tắc.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ug-animalB.jpg",
+      "alt": "Khỉ đột núi và con non trong rừng Bwindi Uganda",
+      "caption": "KHỈ ĐỘT NÚI — một nửa số lượng toàn thế giới sống trong rừng Bwindi của Uganda.",
+      "credit": "Wikimedia Commons / KMRA"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "BANGLADESH",
+  "nativeName": "বাংলা",
+  "romaji": "BANGLADESH",
+  "tagline": "Trái tim xanh của những dòng sông",
+  "region": "Nam Á",
+  "coords": "23.7°N, 90.4°E",
+  "fileNo": "BD",
+  "langName": "tiếng Bengali",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EFE2",
+    "dot": "#C8C2A8",
+    "ink": "#1E2318",
+    "faint": "#7A7A60",
+    "line": "#D8D5BF",
+    "accent": "#006A4E",
+    "accent2": "#F42A41"
+  },
+  "flag": {
+    "assetPath": "/flags/bd.svg",
+    "title": "Quốc kỳ Bangladesh",
+    "note": "Nền xanh lá, hình tròn đỏ lệch về phía trung tâm",
+    "keyColor": "#006A4E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bangladesh là vùng đất thấp nơi ba con sông lớn đổ ra biển, tạo thành đồng bằng châu thổ rộng nhất thế giới. Dù nhỏ hơn cả nước Anh, Bangladesh có nhiều người hơn cả nước Nga! Rừng ngập mặn Sundarbans — khu rừng ngập mặn lớn nhất hành tinh — là nơi những con hổ biết bơi ẩn mình giữa mạng lưới kênh rạch dày đặc. Mỗi mùa mưa, đồng ruộng lúa xanh mướt trải dài khắp nơi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Dhaka",
+      "sub": "Dân số khoảng 24 triệu người (vùng đô thị)"
+    },
+    {
+      "label": "Dân số",
+      "value": "173,6 triệu người",
+      "sub": "Ước tính của World Bank năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Taka (৳)",
+      "sub": "BDT — 100 paisa = 1 taka"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Bengali",
+      "sub": "Còn gọi là tiếng Bangla"
+    },
+    {
+      "label": "Diện tích",
+      "value": "148.460 km²",
+      "sub": "Nhỏ hơn nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Saka Haphong",
+      "sub": "1.063 m — vùng đồi Chittagong"
+    }
+  ],
+  "islands": [
+    "Dhaka",
+    "Chittagong",
+    "Sylhet",
+    "Rajshahi",
+    "Khulna"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Vùng đất của sông ngòi và châu thổ",
+    "animals": "Hổ, cá và những loài chim lớn",
+    "culture": "Lúa gạo, âm nhạc và vải vóc sặc sỡ",
+    "history": "Từ xứ Bengal đến tự do độc lập",
+    "wows": "7 điều bất ngờ về đất nước này"
+  },
+  "geo": [
+    "Hầu như toàn bộ Bangladesh nằm trên một đồng bằng châu thổ khổng lồ — bằng phẳng, xanh tươi và chằng chịt hơn 700 con sông. Mỗi mùa mưa, nước lũ phủ lên một phần ba đất nước nhưng cũng mang theo lớp bùn màu mỡ giúp đất canh tác trở nên cực kỳ phì nhiêu.",
+    "Ở góc tây nam, rừng ngập mặn Sundarbans trải dài qua biên giới với Ấn Độ. Rễ cây chằng chịt và những con lạch thủy triều dày đặc tạo thành diện tích 10.200 km² — khu rừng ngập mặn lớn nhất thế giới, được UNESCO công nhận là Di sản Thế giới."
+  ],
+  "animals": [
+    "Hổ Bengal hoàng gia là quốc thú của Bangladesh. Khoảng 125 con hổ sinh sống trong rừng Sundarbans, bơi lội giữa các đảo qua những kênh nước mặn — đây là quần thể hổ duy nhất trên Trái Đất biết bơi ra biển.",
+    "Cá Hilsa (Ilish) là quốc ngư và là báu vật văn hóa của đất nước. Bangladesh cung cấp tới 86% sản lượng cá Hilsa toàn thế giới. Người dân cho rằng cá từ sông Padma là ngon nhất — thịt béo ngậy, đậm đà, là món không thể thiếu trong mọi bữa tiệc."
+  ],
+  "culture": [
+    "Văn hóa Bengal xoay quanh âm nhạc, thơ ca và lúa gạo. Rabindranath Tagore — sinh ra ở vùng đất này — đã viết hàng ngàn bài hát; một bài thơ của ông trở thành quốc ca Bangladesh. Lễ hội mùa xuân Pahela Baishakh làm rực rỡ khắp phố phường với trang phục màu cam và trắng tươi.",
+    "Dhaka nổi tiếng với nghề dệt Jamdani — một nghề thủ công được UNESCO công nhận, nơi người thợ dệt tạo nên vải muslin hoa văn lấp lánh hoàn toàn từ trí nhớ, không cần bản vẽ. Bangladesh cũng là nhà xuất khẩu hàng may mặc lớn thứ hai thế giới, may quần áo cho hàng tỷ người trên toàn cầu."
+  ],
+  "history": [
+    "Trong nhiều thế kỷ, vùng đất này là trung tâm của xứ Bengal — một vương quốc giàu có với lúa gạo và vải muslin, được các hoàng đế Mughal lẫn thương nhân Anh đều thèm muốn. Công ty Đông Ấn Anh biến Dhaka thành thủ phủ vải vóc, dù sự bóc lột dần dần rút cạn sự giàu có của vùng đất.",
+    "Năm 1971, Bangladesh đã chiến đấu suốt chín tháng trong Chiến tranh Giải phóng để giành độc lập khỏi Pakistan. Sau bao hy sinh mất mát, chiến thắng đến vào ngày 16 tháng 12 — ngày vẫn được tổ chức như Ngày Chiến thắng — đưa Bangladesh trở thành một trong những quốc gia trẻ nhất thế giới."
+  ],
+  "wows": [
+    "Bangladesh là nơi có đồng bằng châu thổ lớn nhất thế giới, nơi sông Hằng và sông Brahmaputra cùng đổ ra biển.",
+    "Những con hổ ở Sundarbans bơi trong nước mặn và săn mồi ngoài biển — không có quần thể hổ nào khác trên Trái Đất làm được điều này.",
+    "Bangladesh sản xuất 86% tổng sản lượng cá Hilsa của toàn thế giới.",
+    "Dhaka có khoảng 44.000 người trên mỗi km² — một trong những thành phố đông dân nhất Trái Đất theo số liệu của UN Habitat.",
+    "Các hoàng đế Mughal gọi vải muslin Dhaka là 'không khí dệt thành vải'; nghề này nay đã được UNESCO công nhận là di sản.",
+    "Cầu Padma (2022) dài 6,15 km, được xây hoàn toàn bằng ngân sách của chính Bangladesh.",
+    "Thơ của Tagore trở thành quốc ca của hai quốc gia — Bangladesh VÀ Ấn Độ."
+  ],
+  "myths": [
+    {
+      "myth": "Bangladesh lúc nào cũng bị lũ lụt",
+      "fact": "Lũ theo mùa có thể ngập một phần ba đất nước, nhưng lại bồi đắp lớp phù sa màu mỡ giúp nông dân thu hoạch ba vụ lúa mỗi năm. Lũ lụt vừa là thử thách vừa là nguồn sống, không chỉ là thảm họa."
+    },
+    {
+      "myth": "Bangladesh là một trong những nước nghèo nhất",
+      "fact": "Kể từ năm 1990, Bangladesh đã đưa hàng triệu người thoát nghèo, vươn lên thành nước có thu nhập trung bình thấp và là nhà xuất khẩu hàng may mặc lớn thứ hai thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "আস-সালামু",
+      "say": "As-salam alaykum"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "ধন্যবাদ",
+      "say": "Dhon-no-bad"
+    },
+    {
+      "en": "Có / Đúng rồi",
+      "jp": "হ্যাঁ",
+      "say": "Hya"
+    },
+    {
+      "en": "Cơm",
+      "jp": "ভাত",
+      "say": "Bhat"
+    },
+    {
+      "en": "Dòng sông",
+      "jp": "নদী",
+      "say": "No-dee"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/bd-landmark.jpg",
+      "alt": "Tòa nhà Quốc hội Jatiyo Sangsad Bhaban phản chiếu xuống mặt hồ bao quanh",
+      "caption": "JATIYO SANGSAD BHABAN — Tòa nhà Quốc hội do Louis Kahn thiết kế, Dhaka",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bd-animalA.jpg",
+      "alt": "Hổ Bengal hoàng gia đang đi trong vùng nước cạn",
+      "caption": "HỔ BENGAL HOÀNG GIA — quốc thú, sống hoang dã trong rừng Sundarbans",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bd-animalB.jpg",
+      "alt": "Những con cá Hilsa bạc ánh được bày tại chợ",
+      "caption": "CÁ HILSA — Bangladesh cung cấp 86% sản lượng cá Hilsa toàn thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "hero": {
+      "src": "/photos/bd-hero.jpg",
+      "alt": "Cầu Padma vươn dài qua con sông Padma rộng lớn",
+      "caption": "CẦU PADMA — dài 6,15 km, xây bằng ngân sách Bangladesh, hoàn thành năm 2022",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

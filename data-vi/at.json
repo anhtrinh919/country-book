@@ -1,0 +1,163 @@
+{
+  "name": "ÁO",
+  "nativeName": "AT",
+  "romaji": "ÖSTERREICH",
+  "tagline": "Núi Alps, Mozart và bánh strudel",
+  "region": "Trung Âu",
+  "coords": "47.5°N, 14.5°E",
+  "fileNo": "032",
+  "langName": "tiếng Đức",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F3EDE0",
+    "dot": "#C9B99A",
+    "ink": "#221E1A",
+    "faint": "#8A7A62",
+    "line": "#D9C9B0",
+    "accent": "#C8102E",
+    "accent2": "#F4F4F4"
+  },
+  "flag": {
+    "assetPath": "/flags/at.svg",
+    "title": "Quốc kỳ Áo",
+    "note": "Một trong những lá cờ lâu đời nhất châu Âu",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Áo là đất nước nhỏ bé nằm lọt thỏm giữa lòng châu Âu, được bao quanh bởi những dãy Alps hùng vĩ tuyết phủ trắng xóa. Từng là trung tâm của một đế chế vĩ đại cai trị phần lớn châu Âu, ngày nay nước Áo nổi tiếng với những đỉnh núi sừng sững, những khán phòng hòa nhạc lộng lẫy và những món bánh ngọt ngon đến mức cả thế giới đua nhau học theo — từ bánh sừng bò croissant cho đến bánh táo strudel thơm lừng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Vienna",
+      "sub": "Khoảng 2 triệu dân"
+    },
+    {
+      "label": "Dân số",
+      "value": "9,1 triệu",
+      "sub": "Ước tính 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng từ năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Đức",
+      "sub": "Ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "83.871 km²",
+      "sub": "Xấp xỉ diện tích tỉnh Nghệ An và Hà Tĩnh cộng lại"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Großglockner",
+      "sub": "3.798 m so với mặt biển"
+    }
+  ],
+  "islands": [
+    "Vienna",
+    "Salzburg",
+    "Innsbruck",
+    "Graz",
+    "Linz"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đỉnh núi, thung lũng và sông xanh",
+    "animals": "Thú rừng Alpine và bạch mã quý",
+    "culture": "Âm nhạc, cà phê và cung điện nguy nga",
+    "history": "Hoàng đế, đế chế và tự do",
+    "wows": "7 điều khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Gần như toàn bộ nước Áo được phủ kín bởi dãy Alps với những đỉnh tuyết trắng, thung lũng xanh mướt và những hồ nước trong vắt do băng hà tạo ra. Dòng sông Danube huyền thoại — được nhắc đến trong bản nhạc waltz nổi tiếng nhất thế giới — chảy qua vùng đồng bằng phía bắc và lướt qua thủ đô Vienna.",
+    "Về phía đông, địa hình trải rộng thành đồng bằng Vienna, nơi phần lớn người Áo sinh sống và canh tác. Nước Áo tiếp giáp với tám quốc gia láng giềng — con số hiếm có đối với một nước nhỏ như vậy, tương tự như Việt Nam cũng có nhiều láng giềng trong khu vực."
+  ],
+  "animals": [
+    "Trên những sườn núi Alps cao chót vót sống loài sơn dương chamois bốn chân vững chắc như đinh đóng cột, nhảy thoăn thoắt qua từng mỏm đá hiểm trở, cùng loài ibex núi với đôi sừng cong vĩ đại như những thanh đao. Đại bàng vàng sải cánh rộng lớn lượn vòng trên những luồng nhiệt từ triền núi.",
+    "Trong rừng sâu bên dưới, hươu đỏ, gấu nâu và linh miêu âm thầm rong ruổi. Nhưng có lẽ đặc biệt nhất là những con ngựa Lipizzan trắng muốt — nổi tiếng với những bài biểu diễn vũ điệu ngoạn mục — được thuần hóa và huấn luyện tại Áo từ hàng trăm năm nay, trở thành niềm tự hào dân tộc."
+  ],
+  "culture": [
+    "Nước Áo đã tặng cho thế giới những nhạc sĩ vĩ đại nhất lịch sử — Mozart chào đời tại Salzburg, còn gia đình Strauss sáng tạo ra điệu nhảy waltz bay bổng. Những khán phòng hòa nhạc tráng lệ ở Vienna đêm nào cũng chật kín khán giả yêu âm nhạc từ khắp nơi đổ về.",
+    "Người Áo uống cà phê rất nghiêm túc — không chỉ đơn thuần là một ly cà phê! Quán cà phê kiểu Vienna là nơi người ta thư thái ngồi hàng giờ với ly Melange kem nổi và một miếng bánh Sachertorte sô-cô-la đậm đà. Truyền thống cà phê nhà đậm chất văn hóa này được UNESCO công nhận là di sản văn hóa phi vật thể của nhân loại."
+  ],
+  "history": [
+    "Nước Áo từng là trái tim của vương triều Habsburg hùng mạnh — cai trị một đế chế rộng lớn khắp Trung Âu suốt hơn 600 năm. Vào thời hoàng kim, lãnh thổ trải dài từ Tây Ban Nha tới Hungary, biến Vienna thành một trong những đô thành quyền lực bậc nhất thế giới.",
+    "Sau Chiến tranh Thế giới thứ nhất, đế chế sụp đổ và Áo trở thành nước cộng hòa. Bị Đức Quốc xã sáp nhập năm 1938 rồi được giải phóng năm 1945, nước Áo tuyên bố trung lập vĩnh viễn năm 1955 — cam kết không tham gia bất kỳ liên minh quân sự nào mà họ vẫn giữ tới tận ngày nay."
+  ],
+  "wows": [
+    "Mozart sáng tác bản giao hưởng đầu tiên lúc mới 8 tuổi — và ông viết nó ở London, không phải Salzburg, trong chuyến lưu diễn châu Âu cùng gia đình.",
+    "Bánh sừng bò croissant được người Áo sáng chế ra — các thợ bánh Vienna tạo ra nó, còn người Pháp mới là người đưa nó vươn ra toàn thế giới.",
+    "Buổi hòa nhạc Năm mới ở Vienna được phát sóng đến hơn 150 quốc gia mỗi ngày 1 tháng 1 — sự kiện âm nhạc xem nhiều nhất địa cầu.",
+    "Cung đường núi Großglockner dốc đến mức lái xe từ chân lên đỉnh sẽ đi qua bốn vùng khí hậu hoàn toàn khác nhau.",
+    "Tính theo đầu người, Áo là một trong những quốc gia giành nhiều huy chương Olympic Mùa Đông nhất thế giới.",
+    "Trường Cưỡi ngựa Tây Ban Nha tại Vienna đã huấn luyện ngựa Lipizzan theo đúng một phương pháp suốt hơn 450 năm không thay đổi.",
+    "Nước tăng lực Red Bull được một người Áo phát minh năm 1987 sau khi ông thử một thức uống tương tự trong chuyến đi Thái Lan."
+  ],
+  "myths": [
+    {
+      "myth": "\"Áo và Úc là một nước\"",
+      "fact": "Áo (Austria) là đất nước nhỏ không giáp biển ở Trung Âu; còn Úc (Australia) là một đại lục-đảo ở phía bên kia Trái Đất, lớn hơn Áo khoảng 140 lần và được bao quanh bởi đại dương."
+    },
+    {
+      "myth": "\"Mozart là người Đức\"",
+      "fact": "Mozart sinh năm 1756 tại Salzburg — hoàn toàn thuộc lãnh thổ nước Áo — và người Áo tự hào về ông vô cùng, không thể nhầm lẫn được!"
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Grüß Gott",
+      "say": "grüss GOT"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Köstlich!",
+      "say": "KERST-likh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/at-hero.jpg",
+      "alt": "Cung điện Schönbrunn ở Vienna với khu vườn cắt tỉa ngay ngắn",
+      "caption": "CUNG ĐIỆN SCHÖNBRUNN — dinh thự mùa hè 1.441 phòng của các hoàng đế Habsburg ở Vienna",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/at-landmark.jpg",
+      "alt": "Làng Alpine Hallstatt in bóng lung linh trên mặt hồ núi",
+      "caption": "HALLSTATT — ngôi làng Alpine như bước ra từ truyện cổ tích, bám cheo leo vào vách đá bên hồ",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/at-animalA.jpg",
+      "alt": "Ibex núi Alpine với đôi sừng cong lớn đứng trên đỉnh đá",
+      "caption": "IBEX NÚI ALPINE — bậc thầy leo núi của dãy Alps nước Áo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/at-animalB.jpg",
+      "alt": "Ngựa Lipizzan trắng đang biểu diễn vũ điệu cổ điển",
+      "caption": "NGỰA LIPIZZAN — bạch mã vũ điệu của nước Áo, được huấn luyện theo cùng một cách suốt 450 năm",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

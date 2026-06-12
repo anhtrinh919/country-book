@@ -1,0 +1,163 @@
+{
+  "name": "MALDIVES",
+  "nativeName": "ދިވެހި",
+  "romaji": "DHIVEHI RAAJJE",
+  "tagline": "Những hòn đảo trôi trên biển xanh",
+  "region": "Nam Á",
+  "coords": "3.20°N, 73.22°E",
+  "fileNo": "119",
+  "langName": "tiếng Dhivehi",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EDF6F5",
+    "dot": "#b8d8d5",
+    "ink": "#1a2c2b",
+    "faint": "#6a8e8c",
+    "line": "#c8e2e0",
+    "accent": "#006B3F",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/mv.svg",
+    "title": "Quốc kỳ Maldives",
+    "note": "Ô xanh lá giữa với trăng lưỡi liềm trắng trên nền đỏ",
+    "keyColor": "#006B3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Maldives giống như một xâu chuỗi san hô khổng lồ nằm giữa Ấn Độ Dương, phía tây nam Sri Lanka. Hơn 1.190 hòn đảo nhỏ xíu tạo thành 26 vòng đảo vòng — gom tất cả lại cũng chỉ bằng một thành phố cỡ vừa. Những đầm phá xanh ngọc, cá rạn san hô sặc sỡ và nhà nghỉ nổi trên mặt nước thu hút du khách khắp thế giới. Đặc biệt hơn, đây là đất nước bằng phẳng nhất Trái Đất — điểm cao nhất cũng chỉ ngang tầm tay nắm cửa!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Malé",
+      "sub": "Một trong những thành phố đông đúc nhất thế giới"
+    },
+    {
+      "label": "Dân số",
+      "value": "~530.000",
+      "sub": "LHQ 2025; khoảng 200 đảo có người ở"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rufiyaa",
+      "sub": "MVR; xưa dùng vỏ ốc cowrie làm tiền"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Dhivehi",
+      "sub": "Chữ Thaana, đọc từ phải sang trái"
+    },
+    {
+      "label": "Diện tích",
+      "value": "298 km²",
+      "sub": "Nước nhỏ đất nhất châu Á"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "5,1 m",
+      "sub": "Núi Villingili, Addu — thấp nhất thế giới"
+    }
+  ],
+  "islands": [
+    "N. Malé",
+    "S. Malé",
+    "Ari Atoll",
+    "Baa Atoll",
+    "Addu Atoll"
+  ],
+  "islandsLabel": "CÁC VÒNG ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Vòng san hô giữa đại dương",
+    "animals": "Cá rạn san hô và quái vật biển",
+    "culture": "Trống, thuyền gỗ và cá ngừ",
+    "history": "Vương triều, hải lộ và tự do",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Maldives nằm trên một dãy núi ngầm dài chạy từ bắc xuống nam giữa Ấn Độ Dương. Toàn bộ 1.190 hòn đảo đều làm từ san hô và cát — không đảo nào cao hơn vài mét so với mặt biển.",
+    "Đất nước này trải dài trên 90.000 km² đại dương nhưng tổng diện tích đất chỉ vỏn vẹn 298 km². Hầu hết các đảo chỉ rộng 1–2 km và trung bình chỉ cao chưa đến 1,5 m so với mặt sóng."
+  ],
+  "animals": [
+    "Động vật quốc gia là cá ngừ vây vàng — nhanh, mạnh, và đã được người dân câu bằng cần tay hàng thế kỷ nay. Hơn 1.000 loài cá sống trong các rạn san hô bao quanh những vòng đảo này.",
+    "Cá mập voi — loài cá to nhất Trái Đất — lững thững bơi trong vùng nước ấm để lọc sinh vật phù du. Năm loài rùa biển đẻ trứng ở đây, còn cá voi xanh và cá heo thường xuyên đi qua các luồng nước sâu giữa các vòng đảo."
+  ],
+  "culture": [
+    "Bodu Beru (nghĩa là 'trống lớn') là nhịp tim của mọi lễ hội — người đánh trống bắt đầu chậm rãi rồi dần dần tăng tốc đến mức say sưa như mê hoặc trong khi các vũ công quay tròn không ngừng. Nhịp điệu này đến từ những thủy thủ châu Phi khoảng thế kỷ 11.",
+    "Cá có mặt trong hầu hết mọi bữa ăn, thường dưới dạng garudhiya — một bát canh cá ngừ trong vắt ăn kèm cơm, chanh và ớt. Chiếc thuyền gỗ dhoni thanh lịch đã kết nối các hòn đảo với nhau suốt hơn một ngàn năm."
+  ],
+  "history": [
+    "Người dân đã sinh sống ở Maldives từ 2.500 năm trước, nhiều khả năng là đến từ Sri Lanka và Ấn Độ. Năm 1153, các đảo cải sang Hồi giáo, mở ra hơn 800 năm dưới sự cai trị của các vị sultan.",
+    "Bồ Đào Nha chiếm đóng Malé năm 1558 nhưng bị đuổi ra chỉ 15 năm sau. Anh Quốc biến các đảo thành lãnh thổ bảo hộ năm 1887. Độc lập hoàn toàn đến ngày 26 tháng 7 năm 1965; nền cộng hòa được tuyên bố ngày 11 tháng 11 năm 1968."
+  ],
+  "wows": [
+    "Điểm cao nhất chỉ 5,1 m — cao bằng một cánh cửa rưỡi — khiến đây trở thành đất nước bằng phẳng nhất hành tinh.",
+    "Ở đảo Vaadhoo, sóng biển phát sáng xanh điện vào ban đêm khi sinh vật phù du bị khuấy động tạo ra những tia sáng lấp lánh.",
+    "Năm 2009, nội các chính phủ tổ chức cuộc họp dưới nước đầu tiên trên thế giới, ký tuyên bố về khí hậu ngay dưới đáy biển.",
+    "Vỏ ốc cowrie của Maldives từng được dùng làm tiền tệ và giao thương khắp châu Phi và châu Á trong hàng trăm năm.",
+    "Đất nước có 26 vòng đảo nhưng không có một con sông hay ngọn đồi nào; nước ngọt hoàn toàn đến từ mưa và máy lọc nước biển.",
+    "1.190 hòn đảo trải dài trên một vùng đại dương rộng hơn cả nước Đức, nhưng tổng diện tích đất còn nhỏ hơn thành phố Seoul.",
+    "Năm 2008, Maldives trở thành quốc gia đầu tiên trên thế giới lên kế hoạch mua đất ở nước ngoài để làm quê hương dự phòng khi nước biển dâng."
+  ],
+  "myths": [
+    {
+      "myth": "\"Maldives sắp chìm xuống biển rồi\"",
+      "fact": "Nước biển dâng là có thật, nhưng nhiều đảo vẫn ổn định hoặc thậm chí rộng hơn. Chính phủ đang nâng cao đảo Hulhumalé và xây đê biển để bảo vệ người dân."
+    },
+    {
+      "myth": "\"Nơi này chỉ dành cho nhà giàu\"",
+      "fact": "Các khu nghỉ dưỡng đảo tư nhân cao cấp thì đắt thật, nhưng Malé và các nhà nghỉ trên đảo dân sinh có thể tận hưởng những rạn san hô tuyệt đẹp với giá chỉ bằng một phần nhỏ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Assalaamu",
+      "say": "as-SAH-laa-mu"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Shukriyaa",
+      "say": "shoo-KREE-yaa"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Aan",
+      "say": "aan"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Baajjaveri",
+      "say": "BAA-ja-ve-ree"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Haalu kihine",
+      "say": "HAA-lu ki-HI-neh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mv-hero.jpg",
+      "alt": "Máy bay thủy phi cơ màu trắng đang lăn bánh trên mặt nước xanh ngọc cạnh một hòn đảo có hàng dừa xanh mướt của Maldives",
+      "caption": "THỦY PHI CƠ TẠI BATHALA — cách di chuyển giữa các đảo theo kiểu Maldives",
+      "credit": "Gzzz / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mv-landmark.jpg",
+      "alt": "Toàn cảnh nhìn từ trên cao xuống thủ đô Malé — hòn đảo nhỏ xíu chật cứng nhà cửa của Maldives",
+      "caption": "MALÉ NHÌN TỪ TRÊN CAO — một trong những hòn đảo đông dân nhất thế giới",
+      "credit": "Shahee Ilyas / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mv-animalA.jpg",
+      "alt": "Cận cảnh mắt và miệng rộng của cá mập voi khi đang lọc thức ăn gần mặt nước",
+      "caption": "CÁ MẬP VOI — loài cá to nhất đại dương, hiền lành chỉ ăn sinh vật phù du",
+      "credit": "Arturo de Frias Marques / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/mv-animalB.jpg",
+      "alt": "Cá đuối manta rạn san hô lướt nhẹ nhàng trên rạn san hô trong làn nước trong vắt của vòng đảo Baa, Maldives",
+      "caption": "CÁ ĐUỐI MANTA — gã khổng lồ duyên dáng tại trạm làm sạch vòng đảo Baa",
+      "credit": "Ahmed Abdul Rahman / CC BY-SA 3.0"
+    }
+  }
+}

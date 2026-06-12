@@ -1,0 +1,163 @@
+{
+  "name": "SAN MARINO",
+  "nativeName": "SM",
+  "romaji": "SAN MARINO",
+  "tagline": "Đất nhỏ, trái tim ngàn năm",
+  "region": "Nam Âu",
+  "coords": "43.9°N 12.4°E",
+  "fileNo": "083",
+  "langName": "tiếng Ý",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEF2F6",
+    "dot": "#c2ccd8",
+    "ink": "#1e2530",
+    "faint": "#7a8a9e",
+    "line": "#d4dce8",
+    "accent": "#5EB6E4",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/sm.svg",
+    "title": "San Marino",
+    "note": "Nửa trên trắng, nửa dưới xanh trời, huy hiệu quốc gia ở giữa",
+    "keyColor": "#5EB6E4",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Chót vót trên đỉnh núi đá giữa lòng nước Ý, San Marino là nước cộng hòa lâu đời nhất thế giới — đã tồn tại hơn 1.700 năm! Ba tòa tháp cổ đứng sừng sững trên ba ngọn núi như chiếc vương miện bằng đá. Vùng đất nhỏ xíu này được người thợ đá tên Marinus lập nên từ năm 301, và từ đó đến nay chưa từng bị ai chinh phục — người dân ăn mừng điều đó mỗi năm bằng những giải thi bắn nỏ và pháo hoa rực rỡ quanh những bức tường thành cổ kính.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "San Marino",
+      "sub": "Tên giống tên đất nước"
+    },
+    {
+      "label": "Dân số",
+      "value": "~34.200",
+      "sub": "Ước tính năm 2026"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng chung tiền của Ý"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ý",
+      "sub": "Còn có thổ ngữ Sammarinese"
+    },
+    {
+      "label": "Diện tích",
+      "value": "61 km²",
+      "sub": "Nhỏ hơn nhiều thành phố"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "749 m",
+      "sub": "Đỉnh Monte Titano"
+    }
+  ],
+  "islands": [
+    "San Marino",
+    "Serravalle",
+    "B. Maggiore",
+    "Domagnano",
+    "Fiorentino"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Vương quốc trên đỉnh mây",
+    "animals": "Chim ưng, cáo và bạn rừng",
+    "culture": "Tháp cổ, bánh ngon và hội thi",
+    "history": "Nước cộng hòa lâu đời nhất",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "San Marino tọa lạc trên đỉnh Monte Titano — một ngọn núi đá vôi cao 749 m nhô lên giữa đồng bằng nước Ý. Toàn bộ đất nước chỉ rộng 61 km², đi bộ buổi sáng là có thể băng qua hết. Ba tòa tháp cổ đứng trên ba ngọn núi, những ngày trời quang có thể nhìn thấy tận biển Adriatic xanh thẳm phía xa.",
+    "Từ những sườn núi đá dựng đứng, địa hình dốc dần xuống qua những cánh rừng sồi và dẻ ngọt, rồi trải ra những thung lũng xanh mướt. Vì núi thường hứng mây, San Marino mát hơn và mưa nhiều hơn vùng đồng bằng bên dưới, nhờ đó rừng cây luôn xanh tốt và không khí trong lành quanh năm."
+  ],
+  "animals": [
+    "Vách đá vôi của Monte Titano là ngôi nhà của chim cắt lớn — loài chim quốc gia của San Marino và cũng là động vật nhanh nhất trên Trái Đất, có thể lao xuống với tốc độ hơn 300 km/h để bắt chim giữa không trung. Nhìn một con cắt phóng vút từ trên vọng lâu thành xuống, chẳng khác nào tia sét mang lông vũ.",
+    "Những cánh rừng sồi che chở cho cáo đỏ, lửng mật, nhím và chồn sương. Hươu roe nhẩn nha gặm cỏ ở những thung lũng yên tĩnh trong khi diều hâu lượn tròn trên bầu trời. Vì đất nước nhỏ và người dân bảo vệ thiên nhiên rất cẩn thận, muông thú vẫn sinh sống sung túc ngay sát những bức tường thành cổ."
+  ],
+  "culture": [
+    "Món ngọt nổi tiếng nhất của San Marino là bánh Torta Tre Monti — những lớp wafer mỏng kẹp kem hạt phỉ và ca-cao, được tạo hình như ba tòa tháp. Bánh mì dẹt piadina địa phương được nhét đầy prosciutto hoặc pho mát stracchino, gấp đôi lại ăn ấm áp như một cái ôm.",
+    "Cứ đến ngày 3 tháng 9 — ngày quốc khánh — một Giải Bắn Nỏ Lớn lại diễn ra ở bãi đá cổ dưới chân thành. Các đội từ chín làng thành tranh tài trong trang phục trung cổ, pháo hoa bùng nổ quanh những tòa tháp được thắp sáng rực rỡ. Vào tháng Ba, những đống lửa lớn gọi là focheracce được đốt lên ở khắp các khu làng để mừng các ông bố và chào đón mùa xuân."
+  ],
+  "history": [
+    "Một người thợ đá tên Marinus từ đảo Rab vượt biển đến để tránh sự bức hại của người La Mã. Khoảng năm 301, ông leo lên Monte Titano, xây một nhà nguyện nhỏ và tuyên bố mảnh đất này tự do. Lời cuối ông để lại: 'Ta để các con tự do khỏi cả hai' — khỏi Hoàng đế lẫn Giáo hoàng.",
+    "Suốt 17 thế kỷ, San Marino sống sót qua chiến tranh và cả Napoleon — ông ta từng đề nghị mở rộng lãnh thổ cho họ, nhưng họ từ chối. Năm 1865, San Marino bãi bỏ án tử hình, là một trong những nước đầu tiên trên thế giới làm điều này. Dù bị nước Ý bao quanh bốn phía, San Marino vẫn giữ vững nền độc lập trọn vẹn cho đến ngày nay."
+  ],
+  "wows": [
+    "San Marino là nước cộng hòa lâu đời nhất thế giới, được thành lập năm 301 — tức là đã hơn 1.700 năm tuổi!",
+    "Cả đất nước còn nhỏ hơn thành phố Florence, thế mà vẫn có quân đội và tem bưu chính riêng.",
+    "San Marino có tới HAI nguyên thủ quốc gia cùng lúc, gọi là Đội trưởng Nhiếp chính, và cứ sáu tháng lại thay người một lần.",
+    "Đây là một trong những quốc gia đầu tiên trên thế giới bãi bỏ án tử hình, từ năm 1865.",
+    "Đội bóng đá San Marino từng ghi bàn chỉ sau 8,3 giây trong trận gặp Anh — bàn thắng quốc tế nhanh nhất lịch sử.",
+    "Dù nhỏ xíu, San Marino là một trong những nước giàu nhất châu Âu tính theo thu nhập bình quân đầu người.",
+    "Người sưu tập tem khắp thế giới mua tem San Marino chỉ để sở hữu — tiền bán tem đóng góp vào ngân sách quốc gia."
+  ],
+  "myths": [
+    {
+      "myth": "San Marino là một phần của nước Ý",
+      "fact": "San Marino bị nước Ý bao quanh nhưng là một nước cộng hòa độc lập hoàn toàn, với chính phủ, hộ chiếu và luật pháp riêng từ năm 301."
+    },
+    {
+      "myth": "Đất nước nhỏ thì chẳng có ý nghĩa gì",
+      "fact": "San Marino có ghế tại Liên Hợp Quốc, tham dự Thế vận hội, và thuộc top 15 quốc gia giàu nhất thế giới tính theo thu nhập bình quân đầu người."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Ciao",
+      "say": "CHOW"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Grazie",
+      "say": "GRAT-zee-eh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Per favore",
+      "say": "pair fah-VOR-eh"
+    },
+    {
+      "en": "Vâng",
+      "jp": "Sì",
+      "say": "SEE"
+    },
+    {
+      "en": "Những tòa tháp",
+      "jp": "Le torri",
+      "say": "leh TOR-ree"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sm-hero.jpg",
+      "alt": "Toàn cảnh Monte Titano với ba tòa tháp trung cổ vươn cao trên thành phố",
+      "caption": "MONTE TITANO — Ba tòa tháp San Marino sừng sững trên màn sương sớm",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sm-landmark.jpg",
+      "alt": "Pháo đài tháp Guaita trên Monte Titano, San Marino",
+      "caption": "THÁP GUAITA — Tòa tháp cổ nhất trong Ba Tháp, đứng vững trên Monte Titano",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sm-animalA.jpg",
+      "alt": "Chim cắt lớn đậu trên cành, lộ rõ mỏ sắc và bộ ngực có vằn",
+      "caption": "CHIM CẮT LỚN — Quốc điểu của San Marino, loài động vật nhanh nhất Trái Đất",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sm-animalB.jpg",
+      "alt": "Cáo đỏ với bộ lông cam đang tỉnh táo nhìn quanh trong rừng",
+      "caption": "CÁO ĐỎ — Cư dân thông minh của những cánh rừng sồi trên đồi San Marino",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

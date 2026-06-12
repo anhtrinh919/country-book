@@ -1,0 +1,163 @@
+{
+  "name": "ARMENIA",
+  "nativeName": "Հայաստ",
+  "romaji": "HAYASTAN",
+  "tagline": "Đá cổ ngàn năm & ánh vàng bất tận",
+  "region": "Nam Kavkaz, Tây Á",
+  "coords": "40.1°N, 45.0°E",
+  "fileNo": "031",
+  "langName": "tiếng Armenia",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE2",
+    "dot": "#CDBFA0",
+    "ink": "#2A2118",
+    "faint": "#8A7860",
+    "line": "#DCCFB0",
+    "accent": "#D90012",
+    "accent2": "#F2A800"
+  },
+  "flag": {
+    "assetPath": "/flags/am.svg",
+    "title": "Quốc kỳ Armenia",
+    "note": "Ba màu: đỏ, lam & cam mơ chín",
+    "keyColor": "#D90012",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Armenia là một trong những quốc gia cổ xưa nhất thế giới — nằm kẹp giữa núi non ở vùng Kavkaz, nơi châu Âu gặp châu Á. Năm 301 sau Công nguyên, đây là đất nước đầu tiên trên thế giới chính thức theo đạo Thiên Chúa. Những tu viện cổ bám cheo leo trên vách đá, vườn mơ tỏa hương thơm ngát mùa hè, và người Armenia đã giữ gìn một bộ chữ cái độc đáo suốt 1.600 năm qua.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Yerevan",
+      "sub": "Một trong những thành phố lâu đời nhất thế giới"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,97 triệu người",
+      "sub": "Cục Thống kê Armenia, 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dram (AMD)",
+      "sub": "Tên lấy từ đồng drachma của Hy Lạp cổ"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Armenia",
+      "sub": "Bộ chữ riêng, phát minh năm 405 sau CN"
+    },
+    {
+      "label": "Diện tích",
+      "value": "29.743 km²",
+      "sub": "Nhỏ hơn tỉnh Nghệ An của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Aragats 4.090m",
+      "sub": "Núi lửa đã tắt với bốn đỉnh"
+    }
+  ],
+  "islands": [
+    "Yerevan",
+    "Gyumri",
+    "Vanadzor",
+    "Dilijan",
+    "Goris"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, hồ xanh & dung nham cổ",
+    "animals": "Đại bàng, gấu & cá hồi quý hiếm",
+    "culture": "Bữa tiệc, đá khắc & chữ ngàn năm",
+    "history": "Quốc gia Thiên Chúa giáo đầu tiên",
+    "wows": "Những điều kỳ diệu chờ bạn khám phá!"
+  },
+  "geo": [
+    "Armenia gần như toàn bộ là núi — độ cao trung bình khoảng 1.800 mét, còn cao hơn cả Thụy Sĩ nổi tiếng với núi non. Đất nước này bị bao bọc hoàn toàn bởi đất liền, tiếp giáp Georgia, Azerbaijan, Iran và Thổ Nhĩ Kỳ, không có một tấc biển nào.",
+    "Hồ Sevan nằm ở độ cao 1.900 mét so với mặt biển, là một trong những hồ nước ngọt trên cao lớn nhất thế giới. Mặt hồ xanh biếc lộng lẫy giữa những ngọn đồi vàng óng — dù nước lạnh nhưng khách du lịch vẫn thích nhảy xuống bơi."
+  ],
+  "animals": [
+    "Con cừu rừng Armenia — loài cừu hoang với cặp sừng cong vĩ đại — sống ở vùng đá núi phía nam và được khắc trên các công trình cổ đại. Gấu nâu và mèo rừng lynx ẩn mình trong những thung lũng rừng rậm phía bắc quanh thành phố Dilijan.",
+    "Hồ Sevan là quê hương của cá ishkhan, một loài cá hồi chỉ tồn tại duy nhất ở hồ này, không nơi nào khác trên Trái Đất có. Kền kền griffon và đại bàng vàng chao lượn trên những luồng nhiệt bốc lên từ vách đá, nhìn bao quát cả thung lũng bên dưới các tu viện cổ."
+  ],
+  "culture": [
+    "Armenia tự tạo ra bộ chữ cái 38 chữ cái riêng của mình từ năm 405 sau Công nguyên — không giống bất kỳ chữ viết nào khác trên thế giới. Công viên Chữ cái ở Yerevan có những bức điêu khắc đá khổng lồ của từng chữ một, và trẻ em rất thích trèo lên chúng.",
+    "Bánh lavash dẹt — nướng trong lò đất sét tonir đặt chìm xuống lòng đất — được UNESCO công nhận là di sản ẩm thực nhân loại. Quả mơ là quốc quả của Armenia; từ Latin 'armeniaca' có nghĩa đen là 'đến từ Armenia'."
+  ],
+  "history": [
+    "Năm 301 sau Công nguyên, vua Tiridates III tuyên bố Thiên Chúa giáo là quốc giáo — biến Armenia thành quốc gia đầu tiên trong lịch sử nhân loại làm điều này. Những tu viện như Geghard, đục khoét thẳng vào khối đá nguyên khối, đã đứng vững suốt 1.700 năm.",
+    "Armenia trải qua nhiều thế kỷ lần lượt dưới sự cai trị của người Ba Tư, Byzantine, Ả Rập và Ottoman. Năm 1991, sau 70 năm là một phần của Liên Xô, người Armenia bỏ phiếu giành độc lập và tung bay lại lá cờ đỏ-lam-cam của mình."
+  ],
+  "wows": [
+    "Yerevan được gọi là 'Thành phố Hồng' — hầu hết các tòa nhà đều xây từ đá núi lửa màu hồng địa phương gọi là tuff.",
+    "Chiếc giày da cổ nhất thế giới (5.500 tuổi!) được tìm thấy còn nguyên vẹn trong một hang động ở Armenia năm 2008.",
+    "Một xưởng làm rượu có từ 6.100 năm trước đã được khai quật gần làng Areni — một trong những xưởng rượu lâu đời nhất từng được phát hiện.",
+    "Bộ chữ cái Armenia gần như không thay đổi sau 1.600 năm — một trong những hệ thống chữ viết ổn định nhất trong lịch sử nhân loại.",
+    "Cầu thang Cascade ở Yerevan có 572 bậc và bên trong ẩn chứa một thang cuốn bí mật.",
+    "Cờ vua là môn học bắt buộc ở Armenia — quốc gia duy nhất trên thế giới yêu cầu trẻ em học cờ từ năm 7 tuổi.",
+    "Cáp treo Tatev dài 5,7 km vắt qua một hẻm núi hùng vĩ — cáp treo không dừng dài nhất thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Armenia thuộc vùng Trung Đông",
+      "fact": "Armenia nằm ở Nam Kavkaz — ngã tư giữa châu Âu và châu Á. Về văn hóa, nước này gần gũi với Georgia và Đông Âu hơn là các quốc gia Ả Rập."
+    },
+    {
+      "myth": "Núi Ararat là núi của Armenia",
+      "fact": "Đỉnh núi tuyết phủ trắng trên quốc huy Armenia thực ra nằm trong lãnh thổ Thổ Nhĩ Kỳ — từ năm 1921 — dù người Armenia vẫn trân trọng coi đó là biểu tượng dân tộc của mình."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Բարև",
+      "say": "ba-REV"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Շնորհակալ",
+      "say": "sh-nor-ha-KAL"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "Այո",
+      "say": "AY-o"
+    },
+    {
+      "en": "Bánh mì",
+      "jp": "Հաց",
+      "say": "hats"
+    },
+    {
+      "en": "Quả mơ",
+      "jp": "Ծիրան",
+      "say": "tsi-RAN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/am-hero.jpg",
+      "alt": "Cầu thang Cascade ở Yerevan lúc hoàng hôn với ánh đèn thành phố lung linh bên dưới",
+      "caption": "CẦU THANG CASCADE YEREVAN — bậc thang kỳ vĩ nhìn xuống thủ đô đá hồng của Armenia",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/am-landmark.jpg",
+      "alt": "Tu viện Geghard đục khoét vào vách đá trong một hẻm núi",
+      "caption": "TU VIỆN GEGHARD — đục tạc từ đá nguyên khối, xây dựng từ thế kỷ thứ 4",
+      "credit": "Lori Butcher / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/am-animalA.jpg",
+      "alt": "Cừu rừng Armenia với cặp sừng cong lớn đứng trên sườn núi đá",
+      "caption": "CỪU RỪNG ARMENIA — loài cừu hoang biểu tượng của những triền núi Armenia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/am-animalB.jpg",
+      "alt": "Hồ Sevan xanh biếc sâu thẳm bao quanh bởi những ngọn đồi vàng dưới bầu trời trong xanh",
+      "caption": "HỒ SEVAN — quê hương của cá hồi ishkhan không nơi nào khác trên Trái Đất có",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

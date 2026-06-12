@@ -1,0 +1,163 @@
+{
+  "name": "KIRIBATI",
+  "nativeName": "KI",
+  "romaji": "KIRIBAS",
+  "tagline": "Nơi đầu tiên đón bình minh",
+  "region": "Micronesia, Thái Bình Dương",
+  "coords": "1.87°N, 173.0°E",
+  "fileNo": "096",
+  "langName": "tiếng Gilbertese",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2ECD9",
+    "dot": "#C9B99A",
+    "ink": "#252018",
+    "faint": "#8C7B5F",
+    "line": "#DDD0B5",
+    "accent": "#C8281A",
+    "accent2": "#1A4B8C"
+  },
+  "flag": {
+    "assetPath": "/flags/ki.svg",
+    "title": "Quốc kỳ Kiribati",
+    "note": "Chim fregatơ bay trên mặt trời mọc 17 tia",
+    "keyColor": "#C8281A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kiribati (đọc là \"Kiribas\") là 33 đảo san hô rải rác khắp Thái Bình Dương đến mức chúng nằm ở cả bốn bán cầu cùng một lúc. Hầu hết đất liền chỉ cao hơn mực nước biển chưa đầy 2 mét — sóng biển dữ là mối lo thường trực. Nam Tarawa từng là chiến trường khốc liệt nhất Thái Bình Dương năm 1943. Ngày nay, người I-Kiribati vẫn bơi thuyền đánh cá, nhảy múa, và họp bàn trong những ngôi nhà maneaba mở toang — luôn là những người đầu tiên trên Trái Đất chào đón ngày mới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "South Tarawa",
+      "sub": "~64.000 người trên dải đảo san hô hẹp"
+    },
+    {
+      "label": "Dân số",
+      "value": "~119.000",
+      "sub": "Điều tra 2020; ước tính ~135.000 năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "AUD (A$)",
+      "sub": "Đô-la Úc là tiền tệ hợp pháp"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Gilbertese",
+      "sub": "Tiếng Anh là ngôn ngữ chính thức thứ hai"
+    },
+    {
+      "label": "Diện tích",
+      "value": "811 km²",
+      "sub": "Trải rộng trên hơn 3,5 triệu km² đại dương"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "87 m",
+      "sub": "Đảo Banaba, rạn san hô nổi cao"
+    }
+  ],
+  "islands": [
+    "Gilberts",
+    "Phoenix Is.",
+    "Line Is.",
+    "Banaba",
+    "Kiritimati"
+  ],
+  "islandsLabel": "CÁC NHÓM ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "33 đảo, 4 bán cầu",
+    "animals": "Cánh chim, càng cua & rạn san hô",
+    "culture": "Múa, maneaba & biển cả",
+    "history": "Phốt-phát, chiến tranh & tự do",
+    "wows": "Khoan đã — thật không?!"
+  },
+  "geo": [
+    "33 đảo san hô của Kiribati rải ra khắp Thái Bình Dương như những mảnh giấy vụn — nhưng tổng diện tích đất liền chỉ có 811 km², nhỏ hơn cả Hồng Kông. Tuyệt đại đa số đất liền không cao hơn 2 mét so với mực nước biển, khiến những đợt sóng dữ mùa bão trở thành nỗi đe dọa không ngừng.",
+    "Kiritimati (Đảo Giáng Sinh) thuộc nhóm Line Islands chiếm gần một nửa diện tích đất của cả nước và là một trong những đảo san hô vòng lớn nhất địa cầu. Chỉ có Banaba — một đảo san hô nổi cao — mới vươn lên tới 87 mét, và với người Kiribati, đó đã là một ngọn núi thực sự."
+  ],
+  "animals": [
+    "Chim fregatơ hùng vĩ thống trị bầu trời Kiribati — và cả lá quốc kỳ nữa. Với sải cánh lên tới 2,3 mét, con đực phồng to chiếc túi cổ họng đỏ chói để quyến rũ bạn tình, đồng thời chuyên cướp cá ngay trên không từ miệng những loài chim khác.",
+    "Dưới tán dừa rình rập con cua dừa — loài động vật không xương sống trên cạn lớn nhất thế giới, nặng tới 4 kg, dùng càng không bẻ gãy được để cạy dừa ra ăn, và có thể sống tới 60 tuổi. Còn chú chim bokikokiko nhỏ bé chỉ hót trên đảo Kiritimati — không nơi nào khác trên Trái Đất có loài chim này."
+  ],
+  "culture": [
+    "Mỗi làng đều có một ngôi nhà maneaba — mái lá dứa dâng cao chót vót đặt trên những cột gỗ dừa, bốn phía mở toang. Dân làng tụ họp ở đây để bàn chuyện, ăn tiệc, và xem điệu múa te mwaie — mỗi cái búng tay, mỗi làn sóng ngón tay đều kể một câu chuyện riêng.",
+    "Các điệu múa phỏng theo dáng lướt của chim fregatơ: cánh tay quét thấp, mắt liếc nhanh sang hai bên. Tám phong cách múa khác nhau — từ điệu buki ngồi chậm rãi đến điệu katei đứng sôi nổi — giúp người Kiribati lưu giữ toàn bộ lịch sử và câu chuyện của mình mà không cần một chữ viết nào."
+  ],
+  "history": [
+    "Tổ tiên người Micronesia đã định cư trên quần đảo Gilbert hơn 2.000 năm trước. Năm 1892, Anh Quốc biến nơi đây thành xứ bảo hộ, rồi khai thác quặng phốt-phát ở Banaba suốt nhiều thập kỷ — họ buộc toàn bộ dân Banaba rời đảo sang Fiji chỉ để đào hết từng tấn khoáng sản cuối cùng.",
+    "Năm 1943, lính thủy đánh bộ Mỹ đổ bộ lên Betio ở đảo san hô Tarawa; 1.700 người Mỹ tử trận trong vòng 76 giờ — một trong những trận đánh đẫm máu nhất của chiến tranh Thái Bình Dương. Kiribati giành độc lập từ Anh vào ngày 12 tháng 7 năm 1979."
+  ],
+  "wows": [
+    "Kiribati là quốc gia duy nhất trên Trái Đất cùng lúc nằm ở cả bốn bán cầu — bắc, nam, đông và tây.",
+    "Nhóm Line Islands nằm xa về phía đông đến mức Kiritimati là nơi đầu tiên trên thế giới đón Năm Mới mỗi năm.",
+    "Hai đảo của Kiribati đã biến mất hoàn toàn dưới biển vào năm 1999 — bị nước biển dâng nhấn chìm.",
+    "Khu bảo tồn biển Phoenix Islands (Di sản Thế giới UNESCO) rộng hơn cả bang California của Mỹ.",
+    "Hơn một nửa người lớn ở Kiribati hút thuốc lá — tỷ lệ thuộc hàng cao nhất hành tinh.",
+    "Kiribati không có quân đội, không hải quân, không không quân — Úc và New Zealand đảm nhiệm việc phòng thủ.",
+    "Kiritimati chiếm gần một nửa diện tích đất của Kiribati nhưng toàn đảo chỉ có chưa đến 10.000 người sinh sống."
+  ],
+  "myths": [
+    {
+      "myth": "\"Kiribati\" đọc im chữ 'ti' — chỉ đọc là KIR-ih-bass",
+      "fact": "Trong tiếng Gilbertese, 'ti' luôn đọc là 's', vì vậy Kiribati = 'Kiribas' và Kiritimati = 'Kirisimas' (tức là Christmas — Giáng Sinh)."
+    },
+    {
+      "myth": "Vì đảo đang chìm, Kiribati sắp biến mất hoàn toàn",
+      "fact": "Chính phủ đã mua đất ở Fiji như phương án dự phòng dài hạn, đồng thời đầu tư xây đê biển và nền đất nâng cao — đây là hướng ứng phó thực tế và nghiêm túc, không phải bỏ cuộc."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Mauri",
+      "say": "mah-OO-ree"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ko rabwa",
+      "say": "koh RAB-wah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Taiaoka",
+      "say": "tye-YOH-kah"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Eng",
+      "say": "eng"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Ti a bo",
+      "say": "tee ah BOH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ki-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống đảo san hô South Tarawa, Kiribati",
+      "caption": "SOUTH TARAWA — thủ đô nằm trên dải san hô mảnh mai giữa đầm phá và đại dương",
+      "credit": "Govt of Kiribati / Australian Dept of Defence"
+    },
+    "landmark": {
+      "src": "/photos/ki-landmark.jpg",
+      "alt": "Nhìn từ trên cao xuống đảo san hô Kuria, quần đảo Gilbert, Kiribati",
+      "caption": "ĐẢO SAN HÔ KURIA — vòng san hô điển hình của quần đảo Gilbert, chỉ cao hơn mặt biển 2 mét",
+      "credit": "Flexmaen / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ki-animalA.jpg",
+      "alt": "Chim fregatơ Giáng Sinh đang bay",
+      "caption": "CHIM FREGATƠ GIÁNG SINH — biểu tượng của Kiribati, cướp cá ngay trên không, không bao giờ đậu xuống mặt nước",
+      "credit": "Shah Jahan / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ki-animalB.jpg",
+      "alt": "Cua dừa Birgus latro trên đá",
+      "caption": "CUA DỪA — động vật không xương sống trên cạn lớn nhất thế giới, dùng càng trần để cạy dừa",
+      "credit": "Lance Vanlewen / CC BY-SA 4.0"
+    }
+  }
+}

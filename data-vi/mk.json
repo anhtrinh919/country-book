@@ -1,0 +1,163 @@
+{
+  "name": "BẮC MACEDONIA",
+  "nativeName": "МК",
+  "romaji": "MAKEDONIJA",
+  "tagline": "Nắng vàng, hồ cổ & con đường huyền thoại",
+  "region": "Balkan, Đông Nam Âu",
+  "coords": "41.6°N, 21.7°E",
+  "fileNo": "082",
+  "langName": "tiếng Macedonia",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBFA3",
+    "ink": "#241F1A",
+    "faint": "#8A7455",
+    "line": "#DDD0B5",
+    "accent": "#CE2028",
+    "accent2": "#F0A500"
+  },
+  "flag": {
+    "assetPath": "/flags/mk.svg",
+    "title": "Mặt Trời Vàng",
+    "note": "Nền đỏ rực, mặt trời vàng tỏa 8 tia sáng",
+    "keyColor": "#CE2028",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bắc Macedonia là một đất nước nhỏ bé ở vùng Balkan nhưng chứa đựng câu chuyện vĩ đại: nơi đây có một trong những hồ nước cổ nhất châu Âu, bảng chữ cái Cyrillic được hoàn thiện ngay tại đây, và đỉnh núi cao nhất lại là điểm chung của hai quốc gia. Những con đường cổ đại, tranh ghép đá Byzantine, và khu chợ Ottoman hàng trăm năm tuổi — tất cả hội tụ dưới lá cờ đỏ rực với mặt trời vàng rạng rỡ.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Skopje",
+      "sub": "Bên bờ sông Vardar"
+    },
+    {
+      "label": "Dân số",
+      "value": "~1,82 triệu người",
+      "sub": "Cuối 2024, Cục Thống kê Nhà nước"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Denar (MKD)",
+      "sub": "100 deni = 1 denar"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Macedonia",
+      "sub": "Chữ viết Cyrillic"
+    },
+    {
+      "label": "Diện tích",
+      "value": "25.436 km²",
+      "sub": "Nhỏ hơn cả Albania"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Golem Korab",
+      "sub": "2.764 m — chung với Albania"
+    }
+  ],
+  "islands": [
+    "Skopje",
+    "Ohrid",
+    "Bitola",
+    "Tetovo",
+    "Štip"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, hồ cổ & đường thiên lý",
+    "animals": "Thú hoang vùng Balkan",
+    "culture": "Lễ hội, tranh đá & rượu vang",
+    "history": "Vương triều, đế chế & tên mới",
+    "wows": "7 điều bất ngờ về Macedonia"
+  },
+  "geo": [
+    "Bắc Macedonia là đất nước không có biển, trải rộng trên những dãy núi và thung lũng sông đan xen nhau. Sông Vardar chảy xuyên qua giữa đất nước rồi đổ xuống biển Aegean ở phía nam. Ba vườn quốc gia bảo vệ những sườn núi hiểm trở, và phía tây là đỉnh Golem Korab cao 2.764 m — điểm cao nhất chung của hai nước Macedonia và Albania.",
+    "Ở góc tây nam, Hồ Ohrid trong vắt đến mức tầm nhìn dưới nước đạt tới 22 m — nhờ nguồn nước ngầm tuôn trào từ lòng đất. Hồ Prespa gần đó thậm chí còn cao hơn, tọa lạc ở độ cao 850 m so với mực nước biển. Dù không có bờ biển, vùng cực nam của đất nước vẫn ấm áp và dễ chịu nhờ làn gió từ biển Aegean thổi vào — chỉ cách đó 60 km."
+  ],
+  "animals": [
+    "Linh miêu Balkan là một phân loài cực kỳ hiếm — trong tự nhiên còn chưa đến 50 con — ẩn mình trong rừng núi và là biểu tượng động vật hoang dã của đất nước, thậm chí được khắc lên đồng xu 5 denar. Gấu nâu, sói xám, và đại bàng vàng cũng sống trên cùng những triền núi hoang vu ấy.",
+    "Hồ Ohrid là kỳ tích của thiên nhiên: có tuổi đời từ 2 đến 3 triệu năm, với nhiều loài cá chỉ tồn tại ở đây mà không nơi nào trên Trái Đất có. Nổi tiếng nhất là cá hồi Ohrid với thịt hồng mịn đặc biệt — loài cá quý hiếm và ngon đến nỗi hiện nay được pháp luật bảo vệ nghiêm ngặt."
+  ],
+  "culture": [
+    "Ẩm thực Macedonia là sự giao thoa vui tươi giữa hương vị Balkan, Ottoman và Địa Trung Hải. Món quốc dân là tavche gravche — đậu trắng hầm với ớt đỏ trong nồi đất sét, ăn vào mỗi thứ Sáu. Ajvar, một loại tương ớt đỏ khói ngào ngạt được làm thành từng mẻ lớn vào mùa thu, phết lên mọi thứ từ bánh mì đến thịt nướng.",
+    "Những vũ công dân gian trong trang phục thêu tay biểu diễn điệu nhảy vòng tròn oro tại mọi lễ hội làng quê. Vùng rượu vang Tikveš đã sản xuất rượu hơn 2.500 năm, được sưởi ấm bởi làn gió từ biển Aegean. Hãng rượu Tikveš thành lập năm 1885 nay xuất khẩu hơn 15 triệu chai mỗi năm ra khắp thế giới."
+  ],
+  "history": [
+    "Mảnh đất nhỏ bé này nằm trên ngã tư của những con đường cổ đại. Vua Philip II và Đại đế Alexander đã xây dựng đế chế của mình từ đây vào thế kỷ 4 trước Công nguyên; sau đó con đường La Mã Via Egnatia chạy thẳng qua đây trên hành trình tới Constantinople. Đồng xu và pháo đài La Mã vẫn thỉnh thoảng lộ ra trên những cánh đồng của nông dân.",
+    "Người Slav định cư tại đây từ thế kỷ 6–7. Thánh Clement sáng lập Trường Văn học Ohrid vào những năm 880, nơi chữ Cyrillic được phát triển và hoàn thiện. Sau nhiều thế kỷ dưới ách Ottoman, đất nước tuyên bố độc lập khỏi Nam Tư năm 1991. Năm 2019, một thỏa thuận với Hy Lạp chính thức đặt tên nước là 'Bắc Macedonia'."
+  ],
+  "wows": [
+    "Hồ Ohrid có tuổi đời lên đến 3 triệu năm — một trong những hồ cổ nhất thế giới còn tồn tại đến ngày nay.",
+    "Đỉnh Golem Korab vừa là điểm cao nhất của Bắc Macedonia VỪA là điểm cao nhất của Albania — một điều cực hiếm gặp ở châu Âu.",
+    "Bảng chữ cái Cyrillic — được 300 triệu người sử dụng — được định hình tại Trường Văn học Ohrid từ thế kỷ 9.",
+    "Các nhà thiên văn học đã đặt tên một hồ trên mặt trăng Titan của Sao Thổ là 'Ohrid Lacus' để vinh danh hồ cổ này.",
+    "Thác Korab đổ xuống hơn 130 m vào mùa xuân khi tuyết tan — thác nước cao nhất đất nước.",
+    "Hãng rượu Tikveš thành lập năm 1885 xuất khẩu 15 triệu chai mỗi năm từ những vườn nho đã trồng trên 2.500 năm.",
+    "Cầu Đá Ottoman ở Skopje, xây từ thế kỷ 15, đến nay vẫn là cây cầu đi bộ đang hoạt động mỗi ngày."
+  ],
+  "myths": [
+    {
+      "myth": "Alexander Đại đế là người Macedonia như người Macedonia ngày nay",
+      "fact": "Người Macedonia hiện đại là người Slav; người Slav đến vùng này khoảng 1.000 năm sau khi Alexander mất. Macedonia cổ đại và nước cộng hòa hiện tại chỉ chung địa lý, không chung dòng máu."
+    },
+    {
+      "myth": "Đây chỉ là một đất nước nhỏ bé không có gì đặc biệt",
+      "fact": "Hồ Ohrid là nhà của hàng trăm loài sinh vật không nơi nào khác có, và vùng Ohrid đã là Di sản Thế giới UNESCO từ năm 1979."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Здраво",
+      "say": "ZDRA-vo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Благодарам",
+      "say": "bla-GO-da-ram"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ве молам",
+      "say": "VEH mo-lam"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Довиѓање",
+      "say": "do-VEE-jahn-ye"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Вкусно!",
+      "say": "VKOOS-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mk-hero.jpg",
+      "alt": "Cầu Đá lịch sử bắc qua sông Vardar ở Skopje",
+      "caption": "CẦU ĐÁ, SKOPJE — Cây cầu Ottoman thế kỷ 15 vẫn còn hoạt động",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/mk-landmark.jpg",
+      "alt": "Nhà thờ Thánh John tại Kaneo dựng trên vách đá nhìn xuống Hồ Ohrid",
+      "caption": "THÁNH JOHN TẠI KANEO — Nhà thờ Byzantine trên vách đá Hồ Ohrid",
+      "credit": "Diego Delso / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/mk-animalA.jpg",
+      "alt": "Linh miêu Balkan đang nghỉ ngơi trong rừng núi",
+      "caption": "LINH MIÊU BALKAN — Chưa đến 50 con còn sống trong tự nhiên; in trên đồng xu 5 denar",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/mk-animalB.jpg",
+      "alt": "Cá hồi Ohrid với vảy óng ánh trong làn nước trong vắt",
+      "caption": "CÁ HỒI OHRID — Đặc hữu của Hồ Ohrid, không nơi nào khác trên Trái Đất có",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

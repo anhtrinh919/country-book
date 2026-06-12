@@ -1,0 +1,163 @@
+{
+  "name": "MAURITIUS",
+  "nativeName": "MU",
+  "romaji": "MORIS",
+  "tagline": "Hòn đảo ngàn sắc màu",
+  "region": "Đông Phi / Ấn Độ Dương",
+  "coords": "20°S 57°E",
+  "fileNo": "042",
+  "langName": "tiếng Creole Mauritius",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9E",
+    "ink": "#2A2318",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#C0202E",
+    "accent2": "#1C5FA8"
+  },
+  "flag": {
+    "assetPath": "/flags/mu.svg",
+    "title": "Les Quatre Bandes",
+    "note": "Bốn sọc ngang bằng nhau: đỏ, xanh dương, vàng, xanh lá",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mauritius là một hòn đảo nhỏ xíu giữa Ấn Độ Dương, cách bờ biển châu Phi đến 2.000 km. Điều kỳ lạ là trước năm 1600, nơi đây hoàn toàn không có người ở — tất cả cư dân hôm nay đều là con cháu của những người đến từ Hà Lan, Pháp, Anh, châu Phi và Ấn Độ. Sự pha trộn đó tạo nên một nền văn hóa rực rỡ bậc nhất thế giới, và đây cũng là nơi duy nhất trên Trái Đất từng là quê hương của chim dodo huyền thoại.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Port Louis",
+      "sub": "Cảng biển nhộn nhịp, khoảng 149.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,3 triệu người",
+      "sub": "Ước tính 2024; mật độ dân số cao nhất châu Phi"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rupee (MUR)",
+      "sub": "Nền kinh tế thu nhập trung bình-cao ổn định"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Creole / tiếng Anh",
+      "sub": "Tiếng Pháp cũng được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2.040 km²",
+      "sub": "Còn nhỏ hơn cả Luxembourg"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "828 m",
+      "sub": "Piton de la Petite Rivière Noire"
+    }
+  ],
+  "islands": [
+    "Port Louis",
+    "Grand Baie",
+    "Curepipe",
+    "Mahébourg",
+    "Rodrigues"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đầm phá, núi lửa và cồn cát",
+    "animals": "Chim hiếm và sinh vật biển",
+    "culture": "Nhịp Creole và hương vị",
+    "history": "Từ dodo đến nền dân chủ",
+    "wows": "Bảy điều khiến bạn ngỡ ngàng"
+  },
+  "geo": [
+    "Mauritius là một hòn đảo núi lửa được bao quanh bởi rạn san hô và những đầm phá trong veo. Trung tâm đảo nhô lên thành những ngọn núi gồ ghề phủ đầy rừng nhiệt đới, còn bờ biển lúc thì có bãi cát đen, lúc lại là vách đá basalt dựng đứng trông rất ấn tượng.",
+    "Góc tây nam của đảo ẩn chứa kỳ quan Bảy Màu Đất Chamarel — những cồn cát pha bảy sắc đỏ, tím, xanh và vàng do lượng sắt trong đất núi lửa khác nhau tạo nên. Điều kỳ diệu là dù có trộn lẫn bao nhiêu lần, các màu vẫn tự tách trở lại như cũ."
+  ],
+  "animals": [
+    "Chim bồ câu hồng là loài chim quý hiếm nhất của Mauritius — năm 1991 chỉ còn 10 cá thể sống ngoài tự nhiên, nhưng nhờ công tác bảo tồn kiên trì, số lượng đã tăng lên hàng trăm con. Ban đêm, loài dơi quạ Mauritius bay đi thụ phấn cho những cánh rừng nhiệt đới.",
+    "Dưới những đầm phá xanh ngọc là thế giới riêng của cá heo điên, rùa biển xanh và muôn loài cá rạn san hô. Rùa khổng lồ Aldabra — nặng đến 250 kg, bằng cả một cái xe máy! — được đưa về đảo để phục hồi hệ sinh thái, đảm nhận vai trò mà những loài rùa bản địa đã tuyệt chủng từ lâu."
+  ],
+  "culture": [
+    "Mauritius là quốc gia duy nhất ở châu Phi có đa số dân theo đạo Hindu, thế nhưng họ ăn mừng Eid, Giáng sinh, Diwali và Tết Nguyên Đán với niềm vui như nhau. Từ đó sinh ra một bữa tiệc lễ hội quanh năm và đủ loại đồ ăn đường phố — từ bánh mì dẹt dholl puri kiểu Ấn Độ đến món hầm rougaille kiểu Creole.",
+    "Âm nhạc Sega được sinh ra khi những người nô lệ châu Phi nhảy múa quanh đống lửa trại để vực tinh thần — và được UNESCO công nhận năm 2014. Gõ trên trống da dê gọi là ravanne, điệu Sega cuốn chân tất cả mọi người. Hơn một nửa dân đảo nói tiếng Creole gốc Pháp ở nhà."
+  ],
+  "history": [
+    "Mauritius hoàn toàn không có người ở cho đến khi những thủy thủ Hà Lan đặt chân lên đây năm 1638 — điều này hiếm có trên thế giới. Người Hà Lan vô tình mang theo chuột và lợn rừng ăn trứng dodo, và đến năm 1681, loài chim nổi tiếng này đã tuyệt chủng hoàn toàn.",
+    "Người Pháp lập đồn điền mía bằng lao động nô lệ từ châu Phi; người Anh chiếm đảo năm 1810 rồi giải phóng nô lệ, thay vào đó bằng lao động khế ước từ Ấn Độ. Mauritius giành độc lập hòa bình ngày 12 tháng 3 năm 1968, và trở thành nước cộng hòa vào năm 1992."
+  ],
+  "wows": [
+    "Chim dodo chỉ sống ở Mauritius, và từ lúc được con người phát hiện đến khi tuyệt chủng hoàn toàn chỉ chưa đầy 80 năm.",
+    "Ngoài khơi tây nam Mauritius có một ảo giác quang học nhìn như thác nước dưới đáy biển — chỉ thấy được khi nhìn từ trên không.",
+    "Mauritius không có người bản địa; tất cả cư dân đều là con cháu những người đến định cư sau năm 1638.",
+    "Bảy Màu Đất Chamarel luôn tự tách thành các dải màu riêng biệt dù có trộn lẫn bao nhiêu lần đi nữa.",
+    "Nhạc Sega được tạo ra bởi người nô lệ như một cách giải tỏa tâm hồn — nay đã trở thành di sản UNESCO.",
+    "Năm 2020, Mauritius từng bước vào nhóm thu nhập cao, một trong hai quốc gia duy nhất ở vùng châu Phi cận Sahara làm được điều đó.",
+    "Đồng xu rupee Mauritius in hình chim dodo — một loài chim đã tuyệt chủng hơn 340 năm trước."
+  ],
+  "myths": [
+    {
+      "myth": "Mauritius chỉ là điểm du lịch biển cho cặp đôi",
+      "fact": "Ngoài bãi biển, đảo còn có đền thờ Hindu, miếu thờ người Hoa, chợ Creole, đỉnh núi lửa và những loài động vật không nơi nào trên Trái Đất có được."
+    },
+    {
+      "myth": "Chim dodo chậm chạp và ngu ngốc",
+      "fact": "Dodo tiến hóa trong môi trường không có thiên địch nên chúng không biết sợ, chứ không phải ngu. Chính chuột xâm lấn ăn trứng của chúng — không chỉ riêng việc săn bắt — mới là nguyên nhân dẫn đến tuyệt chủng."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonzour",
+      "say": "bon-ZOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mersi",
+      "say": "MAIR-see"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Siouplé",
+      "say": "syoo-PLAY"
+    },
+    {
+      "en": "Không sao",
+      "jp": "Pena problem",
+      "say": "PAY-na PRO-blem"
+    },
+    {
+      "en": "Bạn khỏe không?",
+      "jp": "Ki manier?",
+      "say": "kee man-YAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mu-hero.jpg",
+      "alt": "Khu vực Caudan Waterfront ở thủ đô Port Louis, Mauritius",
+      "caption": "PORT LOUIS — bến cảng Caudan Waterfront nhộn nhịp, trung tâm của thủ đô",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/mu-landmark.jpg",
+      "alt": "Bán đảo Le Morne Brabant và đầm phá xanh ngọc, Mauritius",
+      "caption": "LE MORNE BRABANT — ngọn núi đá basalt Di sản Thế giới UNESCO sừng sững trên đầm phá",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mu-animalA.jpg",
+      "alt": "Chim bồ câu hồng đậu trên cành cây",
+      "caption": "BỒ CÂU HỒNG — loài chim quý hiếm nhất Mauritius, từng chỉ còn 10 cá thể năm 1991",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/mu-animalB.jpg",
+      "alt": "Rùa khổng lồ Aldabra trên bãi cỏ",
+      "caption": "RÙA ALDABRA — được đưa về Mauritius để phục hồi hệ sinh thái hòn đảo",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    }
+  }
+}

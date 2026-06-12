@@ -1,0 +1,163 @@
+{
+  "name": "SAMOA",
+  "nativeName": "WS",
+  "romaji": "SAMOA",
+  "tagline": "Đảo xanh & hình xăm ngàn năm",
+  "region": "Polynesia, Nam Thái Bình Dương",
+  "coords": "13°35′S 172°20′W",
+  "fileNo": "063",
+  "langName": "tiếng Samoa",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F3EDE0",
+    "dot": "#C9BAA2",
+    "ink": "#252018",
+    "faint": "#7E6E52",
+    "line": "#DACFB8",
+    "accent": "#C0202E",
+    "accent2": "#1A3A6B"
+  },
+  "flag": {
+    "assetPath": "/flags/ws.svg",
+    "title": "Quốc kỳ Samoa",
+    "note": "Nền đỏ xanh với chòm sao Thập Tự Nam",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Samoa là một quốc gia đảo nhỏ bé giữa lòng Nam Thái Bình Dương — hai hòn đảo núi lửa được bao quanh bởi rạn san hô và rừng mưa nhiệt đới xanh ngắt. Người Polynesia định cư ở đây từ 3.000 năm trước, và lối sống cổ truyền Fa'a Samoa vẫn còn nguyên vẹn đến ngày nay: đại gia đình quây quần, ngôi nhà không có vách, và một truyền thống hình xăm đã cho cả thế giới mượn chính từ \"tattoo\".",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Apia",
+      "sub": "Nằm bên bờ bắc đảo Upolu"
+    },
+    {
+      "label": "Dân số",
+      "value": "≈ 218.000",
+      "sub": "Ước tính 2024; 3/4 sống trên đảo Upolu"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Tālā Samoa",
+      "sub": "WS$; 100 sene = 1 tālā"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Samoa",
+      "sub": "Cùng với tiếng Anh — cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2.842 km²",
+      "sub": "Gần bằng Luxembourg"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Silisili",
+      "sub": "1.858 m — trên đảo Savai'i"
+    }
+  ],
+  "islands": [
+    "Upolu",
+    "Savai'i",
+    "Manono",
+    "Apolima",
+    "Aleipata"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa, rạn san hô & hố xanh huyền bí",
+    "animals": "Dơi, chim quý & rùa biển",
+    "culture": "Fa'a Samoa — lối sống của người Samoa",
+    "history": "3.000 năm ký ức trên đảo",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Samoa được tạo nên từ hai hòn đảo núi lửa trồi lên từ đáy đại dương. Đảo Savai'i — đảo lớn hơn — vẫn còn những cánh đồng dung nham rộng lớn từ trận phun trào năm 1905. Cả hai đảo đều có những dãy núi dốc đứng phủ đầy rừng mưa nhiệt đới, còn ven biển là những bãi cát trắng và rạn san hô lung linh sắc màu.",
+    "Kỳ quan ngoạn mục nhất của Samoa là hố bơi To Sua — một cái hố tròn sâu tới 30 mét, hình thành khi một ống dung nham sụp xuống và thông ra đại dương qua một hang ngầm bí ẩn dưới lòng nước."
+  ],
+  "animals": [
+    "Loài thú đất duy nhất bản địa của Samoa là dơi — chủ yếu là dơi quạ Samoa, bay lượn ban ngày để tìm trái cây chín và vô tình gieo hạt khắp cánh rừng. Rùa biển lên bãi cát vắng để đẻ trứng, còn rạn san hô dưới nước là ngôi nhà của vô số loài cá nhiệt đới rực rỡ.",
+    "Cư dân quý giá nhất là chim manumea — bồ câu có răng, biệt danh 'chim dodo nhỏ' và là quốc điểu của Samoa. Toàn thế giới chỉ còn chưa tới 250 con sống trong rừng sâu, với chiếc mỏ cong móc kỳ lạ không giống bất kỳ loài bồ câu nào còn tồn tại. Hơn 84% các loài chim ở Samoa không tìm được ở bất cứ nơi nào khác trên Trái Đất."
+  ],
+  "culture": [
+    "Cuộc sống của người Samoa được định hình bởi Fa'a Samoa — Lối Sống Samoa. Các đại gia đình cùng sinh hoạt trong những ngôi nhà không vách gọi là fale và cùng nhau đưa ra mọi quyết định. Trước mỗi lễ nghi quan trọng, các bậc trưởng lão cùng nhau uống một thức uống gọi là 'ava từ vỏ dừa đánh bóng, tuân theo những quy tắc cổ xưa chính xác về thứ tự phát biểu và uống.",
+    "Samoa chính là nơi trao cho thế giới từ 'tattoo' — bắt nguồn từ chữ tatau trong tiếng Samoa. Những chàng trai trẻ nhận hình xăm pe'a — họa tiết tinh xảo phủ từ thắt lưng đến đầu gối — như dấu ấn về căn tính và sức mạnh. Âm nhạc, múa hát và dệt chiếu mịn là những nghệ thuật trung tâm của người Samoa, và Chủ Nhật được coi là ngày nghỉ ngơi gần như thiêng liêng."
+  ],
+  "history": [
+    "Người Polynesia vượt biển bằng thuyền độc mộc từ Tonga đến đây khoảng năm 1000 trước Công Nguyên. Đến thế kỷ 2 sau Công Nguyên, Samoa đã trở thành bệ phóng cho những chuyến hải hành vĩ đại khai phá phần phía đông của Polynesia, bao gồm cả Hawaii và New Zealand. Các nhà truyền giáo người Anh đến năm 1830 và chỉ trong vòng một thập kỷ đã cải đạo hầu hết người dân trên đảo.",
+    "Đức và Mỹ chia đôi quần đảo vào năm 1899. New Zealand tiếp quản từ năm 1914. Ngày 1 tháng 1 năm 1962, Samoa trở thành quốc gia đảo độc lập đầu tiên ở Thái Bình Dương — một cột mốc lịch sử cho cả vùng đại dương bao la này."
+  ],
+  "wows": [
+    "Samoa đã xóa ngày 30 tháng 12 năm 2011 khỏi lịch khi nhảy qua Đường Đổi Ngày Quốc Tế.",
+    "Từ 'tattoo' được dùng trong mọi ngôn ngữ trên thế giới bắt nguồn từ chữ tatau của tiếng Samoa.",
+    "Năm 2009, Samoa chuyển từ lái xe bên phải sang bên trái — chuyển đổi một đêm, làm luôn và làm ngay.",
+    "Samoa cách 'hôm qua' chỉ 30 phút bay — vì American Samoa nằm bên kia Đường Đổi Ngày.",
+    "Các nhà khoa học đã mất năm năm liên tiếp mà không chụp được ảnh một con manumea còn sống — chim quý hiếm và rụt rè đến vậy.",
+    "Samoa hoàn toàn không có quân đội — một trong chỉ 21 quốc gia trên thế giới không có lực lượng vũ trang.",
+    "Dơi quạ Samoa đi săn trái cây vào ban ngày, điều rất hiếm gặp ở bất kỳ loài dơi nào."
+  ],
+  "myths": [
+    {
+      "myth": "Samoa và American Samoa là một",
+      "fact": "Đây là hai nơi khác nhau hoàn toàn. Samoa (thủ đô Apia) là một quốc gia độc lập; còn American Samoa là lãnh thổ của Mỹ cách đó 164 km, có chính phủ riêng, đồng tiền riêng, và thậm chí sống ở một ngày khác nhau vì hai bên Đường Đổi Ngày."
+    },
+    {
+      "myth": "Hình xăm Samoa chỉ là một phong cách ai cũng có thể bắt chước",
+      "fact": "Hình xăm pe'a và malu là những nghi lễ thiêng liêng gắn với gia đình và căn tính người Samoa. Mỗi họa tiết đều mang ý nghĩa riêng và phải trải qua nghi lễ trang trọng để nhận — không phải chọn từ catalogue cho vui."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Talofa",
+      "say": "ta-LOH-fa"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Fa'afetai",
+      "say": "fah-ah-feh-TIE"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Fa'amolemole",
+      "say": "fah-MOH-leh-MOH"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Tofa",
+      "say": "TOH-fah"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "O ā mai oe?",
+      "say": "oh AH my OH-ay"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ws-hero.jpg",
+      "alt": "Bờ biển thủ đô Apia giữa trưa với hàng dừa và những tòa nhà đầy màu sắc sát mặt nước",
+      "caption": "CẢNG APIA — Thủ đô náo nhiệt của Samoa ôm sát bến cảng trên bờ bắc đảo Upolu",
+      "credit": "Michael Coghlan / CC BY-SA 2.0"
+    },
+    "landmark": {
+      "src": "/photos/ws-landmark.jpg",
+      "alt": "Hố bơi tròn sâu thẳm giữa vùng cây xanh nhiệt đới um tùm với chiếc thang gỗ thả xuống",
+      "caption": "HỐ BƠI TO SUA — Hồ dung nham sâu 30 m thông ra đại dương Thái Bình Dương",
+      "credit": "Neil (Flickr) / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/ws-animalA.jpg",
+      "alt": "Dơi quạ Samoa treo mình trên cành cây, cánh xếp lại, lộ rõ bộ lông nâu",
+      "caption": "DƠI QUẠ SAMOA — Loài thú đất bản địa duy nhất, săn trái cây giữa ban ngày",
+      "credit": "Paul Asman & Jill Lenoble / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/ws-animalB.jpg",
+      "alt": "Chim manumea đậu trên cành cây, chiếc mỏ cong màu cam đặc trưng hiện rõ",
+      "caption": "MANUMEA — 'Chim dodo nhỏ' của Samoa đang đứng trước nguy cơ tuyệt chủng, chưa tới 250 con",
+      "credit": "Augustin Kramer, 1901 / Public domain"
+    }
+  }
+}

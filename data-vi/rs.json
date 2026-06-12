@@ -1,0 +1,163 @@
+{
+  "name": "SERBIA",
+  "nativeName": "СРБ",
+  "romaji": "SRBIJA",
+  "tagline": "Nơi châu Âu gặp phương Đông",
+  "region": "Đông Nam Âu",
+  "coords": "44°N 21°E",
+  "fileNo": "RS",
+  "langName": "tiếng Serbia",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBE0",
+    "dot": "#cbb89a",
+    "ink": "#2b2118",
+    "faint": "#8a7060",
+    "line": "#dbc9b0",
+    "accent": "#C0282E",
+    "accent2": "#23406b"
+  },
+  "flag": {
+    "assetPath": "/flags/rs.svg",
+    "title": "Cờ Serbia",
+    "note": "Ba màu đỏ, xanh lam và trắng với huy hiệu vàng",
+    "keyColor": "#C0282E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Serbia nằm giữa lòng vùng Balkan — nơi những con đường La Mã cổ đại, chợ gia vị thời Ottoman và cuộc sống đêm sôi động của Belgrade hòa quyện vào nhau. Hai con sông lớn là Danube và Sava gặp nhau ngay tại đây, bao quanh bởi tu viện cổ thời Trung Cổ, những đồi mâm xôi bạt ngàn và những thành phố đã nhiều lần được dựng xây lại từ đầu. Đất nước nhỏ nhưng mạnh mẽ — ồn ào nhưng thật ấm áp.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Belgrade",
+      "sub": "Nơi sông Danube gặp sông Sava"
+    },
+    {
+      "label": "Dân số",
+      "value": "6,6 triệu người",
+      "sub": "Theo điều tra dân số năm 2022"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dinar (RSD)",
+      "sub": "Khoảng 102 RSD = 1 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Serbia",
+      "sub": "Dùng cả chữ Cyrillic lẫn chữ Latin"
+    },
+    {
+      "label": "Diện tích",
+      "value": "77.474 km²",
+      "sub": "Hơi lớn hơn Ireland một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Midžur 2.169m",
+      "sub": "Đỉnh núi phía đông"
+    }
+  ],
+  "islands": [
+    "Belgrade",
+    "Novi Sad",
+    "Niš",
+    "Kragujevac",
+    "Subotica"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sông ngòi, đồng bằng và núi non",
+    "animals": "Linh miêu, gấu và thú hoang",
+    "culture": "Rượu, âm nhạc và tấm lòng rộng mở",
+    "history": "Các đế chế đến rồi lại đi",
+    "wows": "7 điều bất ngờ về Serbia"
+  },
+  "geo": [
+    "Serbia là quốc gia không có biển — không có đường bờ biển nào cả. Phía bắc là đồng bằng Pannonia mênh mông với những cánh đồng hướng dương trải dài tới tận chân trời, còn phía nam vươn lên những dãy núi Carpathian và Dinaric hùng vĩ. Sông Danube chảy qua Serbia đến 588 km, biến nơi đây thành một trong những tuyến đường thủy quan trọng nhất châu Âu.",
+    "Vườn quốc gia Tara ở phía tây bảo vệ những hẻm núi sâu thẳm và loài vân sam Pančić — một loại cây chỉ mọc ở đây, không tìm thấy ở nơi nào khác trên Trái Đất. Tại Đerdap, sông Danube bị ép chặt giữa hai vách đá cao 300 mét, tạo thành hẻm núi ven sông dài nhất châu Âu."
+  ],
+  "animals": [
+    "Rừng núi Serbia là nhà của gấu nâu, chó sói xám và linh miêu Á-Âu hiếm gặp — một trong những loài mèo lớn ẩn dật bậc nhất lục địa. Vùng đất ngập nước dọc sông Danube là nơi trú ngụ của hơn 300 loài chim, trong đó có đại bàng đuôi trắng với sải cánh rộng hơn cả sải tay của người lớn.",
+    "Rùa ao vùng Balkan thường phơi nắng trên những tảng đá ven sông, còn trên đồng bằng phía bắc ẩn náu loài chim kori vĩ đại — loài chim bay nặng nhất thế giới, có thể phồng to như một quả bóng lông vũ khổng lồ trong màn trình diễn ve vãn ấn tượng mỗi mùa xuân."
+  ],
+  "culture": [
+    "Người Serbia xem việc đón tiếp khách là điều thiêng liêng — không ai rời khỏi nhà họ với cái bụng rỗng. Bàn ăn luôn có bánh burek (bánh ngàn lớp giòn rụm), thịt cừu nướng và ajvar: một loại tương ớt đỏ ngọt ngọt khói khói mà các gia đình dành cả cuối tuần mùa thu để cùng nhau đóng vào lọ.",
+    "Âm nhạc hiện diện khắp nơi: những ban nhạc kèn đồng làm rung chuyển cả làng tại lễ hội Guča vào tháng Tám mỗi năm. Lễ Slava — ngày giỗ tổ thánh bảo trợ của mỗi gia đình — quan trọng đến mức UNESCO đã đưa vào danh sách di sản văn hóa phi vật thể năm 2014."
+  ],
+  "history": [
+    "Người La Mã, Byzantine và Ottoman đều từng thống trị Serbia. Đế chế Serbia thời Trung Cổ dưới thời Hoàng đế Dušan vào thế kỷ 14 trải rộng từ sông Danube đến tận biển Aegean. Người Ottoman cai trị Serbia gần 400 năm cho đến khi các cuộc khởi nghĩa năm 1804 giành lại quyền tự trị.",
+    "Thế kỷ 20 đầy sóng gió: Serbia đứng ở trung tâm cả hai cuộc Chiến tranh Thế giới, rồi gia nhập Nam Tư. Đến năm 2006, Serbia trở thành một nước cộng hòa độc lập. Belgrade liên tục được xây dựng lại — ngày nay đây là một trong những thủ đô phát triển nhanh nhất châu Âu."
+  ],
+  "wows": [
+    "Serbia là nước trồng mâm xôi lớn nhất châu Âu và nhà xuất khẩu mâm xôi đông lạnh hàng đầu thế giới.",
+    "Tesla — người phát minh ra điện xoay chiều — sinh năm 1856 trong một gia đình người Serbia và tự hào nhận mình là người Serbia.",
+    "Belgrade đã bị phá hủy và xây dựng lại đến 44 lần trong lịch sử được ghi chép.",
+    "Hẻm núi Đerdap là hẻm núi ven sông dài nhất châu Âu, kéo dài hơn 100 km.",
+    "Serbia dùng hai bộ chữ — Cyrillic và Latin — song song ngay trên cùng một bảng hiệu đường phố.",
+    "Lễ hội âm nhạc Exit ở Novi Sad bắt đầu như một cuộc biểu tình của sinh viên năm 2000, rồi lớn dần thành sự kiện âm nhạc hàng đầu châu Âu.",
+    "Nghề nấu rượu slivovitz từ mận tại nhà là truyền thống được UNESCO công nhận là di sản văn hóa phi vật thể."
+  ],
+  "myths": [
+    {
+      "myth": "Serbia chỉ toàn núi non và chuyện chiến tranh",
+      "fact": "Phía bắc là đồng ruộng phì nhiêu bằng phẳng, còn Belgrade là thủ đô sôi động được xếp vào top các thành phố hàng đầu châu Âu — với bãi tắm trên sông, ẩm thực tuyệt vời và một thế hệ trẻ sáng tạo đầy năng lượng."
+    },
+    {
+      "myth": "Chữ Cyrillic khiến bạn không đọc được gì cả",
+      "fact": "Serbia dùng cả chữ Cyrillic lẫn chữ Latin — hầu hết biển hiệu và thực đơn đều viết bằng cả hai, nên du khách hoàn toàn có thể tự tìm đường."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Zdravo",
+      "say": "ZDRAH-voh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Ukusno",
+      "say": "OO-koos-noh"
+    },
+    {
+      "en": "Chúc mừng!",
+      "jp": "Živeli!",
+      "say": "ZHEE-veh-lee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/rs-hero.jpg",
+      "alt": "Toàn cảnh thành phố Belgrade nhìn từ sông Sava",
+      "caption": "BELGRADE — nơi sông Danube và sông Sava gặp nhau giữa lòng vùng Balkan",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/rs-landmark.jpg",
+      "alt": "Tu viện Studenica với nhà thờ đá cẩm thạch trắng giữa đồi xanh",
+      "caption": "TU VIỆN STUDENICA — nhà thờ đá cẩm thạch trắng thế kỷ 12, được UNESCO công nhận",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/rs-animalA.jpg",
+      "alt": "Linh miêu Á-Âu trong rừng",
+      "caption": "LINH MIÊU Á-ÂU — một trong những loài mèo lớn hiếm nhất châu Âu, sống trong rừng núi Serbia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/rs-animalB.jpg",
+      "alt": "Chim kori vĩ đại trên đồng cỏ rộng",
+      "caption": "CHIM KORI VĨ ĐẠI — loài chim bay nặng nhất thế giới, sống trên đồng bằng phía bắc Serbia",
+      "credit": "Wikimedia Commons / Marek Szczepanek"
+    }
+  }
+}

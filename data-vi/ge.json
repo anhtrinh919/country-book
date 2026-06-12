@@ -1,0 +1,163 @@
+{
+  "name": "GEORGIA",
+  "nativeName": "საქართ",
+  "romaji": "SAKARTVELO",
+  "tagline": "Cái nôi của rượu vang và tiếng hát",
+  "region": "Nam Kavkaz",
+  "coords": "41.69°N 44.80°E",
+  "fileNo": "083",
+  "langName": "tiếng Gruzia",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C8B89A",
+    "ink": "#27201B",
+    "faint": "#8B7A5A",
+    "line": "#DCCEBB",
+    "accent": "#C8102E",
+    "accent2": "#1A3A5C"
+  },
+  "flag": {
+    "assetPath": "/flags/ge.svg",
+    "title": "Quốc kỳ Gruzia",
+    "note": "Nền trắng với thánh giá đỏ lớn và bốn thánh giá đỏ nhỏ ở bốn góc",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nép mình giữa dãy Kavkaz và Biển Đen, Gruzia là đất nước nhỏ bé nhưng đầy điều kỳ diệu. Người dân nơi đây đã ép nho làm rượu từ 8.000 năm trước — sớm nhất thế giới! Họ còn hát theo lối ba giọng độc lập hoàn toàn với nhau, và một bài dân ca Gruzia đã được gửi lên vũ trụ. Những tháp cổ trên núi, món ăn đậm vị, và bảng chữ cái không đâu giống nơi nào khác khiến Gruzia trở thành một đất nước thực sự độc nhất vô nhị.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tbilisi",
+      "sub": "Thành lập khoảng năm 458 sau Công nguyên, nơi có suối nước nóng tự nhiên"
+    },
+    {
+      "label": "Dân số",
+      "value": "3,9 triệu người",
+      "sub": "Thống kê dân số Gruzia, tháng 11/2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Lari (GEL)",
+      "sub": "100 tetri = 1 lari"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Gruzia",
+      "sub": "Bảng chữ cái riêng biệt với 33 chữ cái"
+    },
+    {
+      "label": "Diện tích",
+      "value": "69.700 km²",
+      "sub": "Tương đương diện tích đảo Ireland"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Shkhara",
+      "sub": "5.201 m — thuộc dãy Kavkaz Lớn"
+    }
+  ],
+  "islands": [
+    "Tbilisi",
+    "Kutaisi",
+    "Batumi",
+    "Mtskheta",
+    "Telavi"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, biển xanh và suối nóng",
+    "animals": "Thú hoang giữa đỉnh núi cheo leo",
+    "culture": "Rượu vang, tiếng hát và chữ viết cổ",
+    "history": "Vương quốc, chinh phạt và hồi sinh",
+    "wows": "Gruzia bất ngờ lắm đó!"
+  },
+  "geo": [
+    "Gruzia nằm ở ngã tư giữa châu Âu và châu Á, với dãy núi Kavkaz Lớn phủ tuyết trắng tạo thành bức tường thiên nhiên khổng lồ ở phía bắc. Đỉnh Shkhara cao tới 5.201 m — cao hơn bất kỳ ngọn núi nào ở dãy Alps của châu Âu.",
+    "Miền tây Gruzia có khí hậu nhiệt đới ẩm nhờ gió từ Biển Đen thổi vào, trong khi miền đông khô ráo và nhiều nắng hơn. Thủ đô Tbilisi nằm trong một thung lũng ấm áp nổi tiếng với những suối nước nóng lưu huỳnh sủi bọt ngay giữa lòng thành phố."
+  ],
+  "animals": [
+    "Những vách núi Gruzia là nhà của loài sơn dương Kavkaz phía đông — loài dê núi hoang với đôi sừng cong tuyệt đẹp, leo trèo thoăn thoắt trên vách đá ở độ cao tới 4.000 m. Loài báo hoa Kavkaz rất hiếm khi thấy — phân loài báo lớn nhất thế giới — vẫn lặng lẽ ẩn mình trong những khu rừng xa xôi.",
+    "Mỗi mùa thu, hơn một triệu con chim ăn thịt bay qua eo biển Batumi trên bờ Biển Đen — một trong những cuộc di cư chim ngoạn mục nhất Trái Đất. Những khu rừng mưa cổ đại ở miền tây còn là nơi sinh sống của loài kỳ nhông Kavkaz, loài đặc hữu không nơi nào có."
+  ],
+  "culture": [
+    "Người Gruzia làm rượu vang từ 8.000 năm nay bằng cách dùng qvevri — những bình đất nung chôn ngầm xuống đất. Rượu lên men chậm rãi trong lòng đất mát lạnh, tạo ra vị vàng óng và đậm đà đặc trưng. UNESCO đã ghi danh phương pháp làm rượu cổ xưa này vào di sản nhân loại năm 2013.",
+    "Hát đa âm của người Gruzia — ba giọng cùng lúc nhưng mỗi giọng đi theo giai điệu riêng biệt — là một trong những truyền thống âm nhạc lâu đời nhất thế giới, cũng được UNESCO công nhận. Bảng chữ cái Gruzia mkhedruli có từ thế kỷ thứ 5 và không được dùng ở bất kỳ quốc gia nào khác trên thế giới."
+  ],
+  "history": [
+    "Miền tây Gruzia xưa là vùng đất Colchis — chính nơi đây mà chàng dũng sĩ Hy Lạp Jason đã dong thuyền đến để đánh cắp Bộ lông cừu vàng trong truyền thuyết. Đến thế kỷ 11, Vương quốc Gruzia thống nhất trải dài từ Biển Đen đến Biển Caspi, bước vào thời đại hoàng kim của nghệ thuật và tri thức.",
+    "Gruzia bị đế quốc Nga thôn tính vào thế kỷ 19, rồi trở thành một phần của Liên Xô năm 1921. Khi Liên Xô tan rã, Gruzia tuyên bố độc lập ngày 9 tháng 4 năm 1991 và từ đó không ngừng khôi phục bản sắc cổ xưa của mình — rượu vang, chữ viết và tiếng hát."
+  ],
+  "wows": [
+    "Gruzia là cái nôi của rượu vang: cặn nho 8.000 năm tuổi được tìm thấy trong các làng Đồ Đá Mới gần Tbilisi.",
+    "Bài dân ca Gruzia tên Chakrulo được đưa vào đĩa vàng Voyager phóng vào vũ trụ năm 1977 — đại diện tiếng hát loài người gửi ra ngoài Trái Đất!",
+    "Bảng chữ cái Gruzia có 33 chữ cái và là một trong số rất ít hệ chữ viết hoàn toàn độc lập trên thế giới.",
+    "Tbilisi được đặt tên theo suối nước nóng: một vị vua xưa đã xây thành ở nơi con chim ưng của ông rơi xuống suối nước sủi bọt.",
+    "Hơn một triệu con chim ăn thịt bay qua Batumi trên Biển Đen chỉ trong một mùa thu duy nhất.",
+    "Gruzia có hơn 500 giống nho bản địa — nhiều hơn hầu hết các quốc gia khác trên thế giới.",
+    "Ba hệ chữ viết cổ của Gruzia được UNESCO công nhận di sản: Asomtavruli, Nuskhuri và Mkhedruli."
+  ],
+  "myths": [
+    {
+      "myth": "Gruzia là một phần của Nga hoặc Đông Âu",
+      "fact": "Gruzia thuộc vùng Nam Kavkaz, không phải Đông Âu. Ngôn ngữ, chữ viết và văn hóa của họ hoàn toàn độc lập — đa số người Gruzia tự hào coi mình là người châu Âu."
+    },
+    {
+      "myth": "Người Gruzia chủ yếu uống vodka",
+      "fact": "Gruzia là đất nước của rượu vang! Rượu vang gắn liền với cuộc sống người Gruzia suốt 8.000 năm qua. Đồ uống truyền thống ở đây là chacha — rượu chưng cất từ nho — còn vodka thì không thuộc văn hóa truyền thống của họ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "გამარჯობა",
+      "say": "gah-mar-JO-bah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "გმადლობთ",
+      "say": "gmad-LOBT"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "კი",
+      "say": "kee"
+    },
+    {
+      "en": "Không",
+      "jp": "არა",
+      "say": "AH-rah"
+    },
+    {
+      "en": "Chúc mừng!",
+      "jp": "გაუმარჯოს",
+      "say": "gau-MAR-jos"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ge-hero.jpg",
+      "alt": "Toàn cảnh khu phố cổ Tbilisi với pháo đài Narikala trên đồi cao",
+      "caption": "KHU PHỐ CỔ TBILISI — pháo đài Narikala cổ xưa sừng sững trên đồi nhìn xuống sông Mtkvari",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ge-landmark.jpg",
+      "alt": "Tu viện Jvari trên đỉnh đồi đá cao nhìn xuống ngã ba hai dòng sông",
+      "caption": "TU VIỆN JVARI — nhà thờ từ thế kỷ thứ 6 trên cao nhìn xuống Mtskheta, cố đô của Gruzia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ge-animalA.jpg",
+      "alt": "Sơn dương Kavkaz phía đông với đôi sừng cong lớn đứng trên vách đá",
+      "caption": "SƠN DƯƠNG KAVKAZ PHÍA ĐÔNG — loài dê núi hoang chỉ sống ở dãy Kavkaz Lớn",
+      "credit": "Wikimedia Commons / iNaturalist"
+    },
+    "animalB": {
+      "src": "/photos/ge-animalB.jpg",
+      "alt": "Mẫu vật báo hoa Kavkaz trưng bày tại Bảo tàng Quốc gia Gruzia",
+      "caption": "BÁO HOA KAVKAZ — phân loài báo lớn nhất thế giới, sinh sống tại Gruzia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

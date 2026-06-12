@@ -1,0 +1,163 @@
+{
+  "name": "PALESTINE",
+  "nativeName": "فلسطين",
+  "romaji": "FILASTIN",
+  "tagline": "Vùng đất của những cây ô liu",
+  "region": "Trung Đông",
+  "coords": "31.9°N 35.2°E",
+  "fileNo": "PS",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CEBFA2",
+    "ink": "#2B2318",
+    "faint": "#8C7A5A",
+    "line": "#DDD0B0",
+    "accent": "#000000",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/ps.svg",
+    "title": "Cờ Palestine",
+    "note": "Bốn màu đen, trắng, xanh lá và tam giác đỏ",
+    "keyColor": "#000000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Palestine nằm ở ngã tư của ba châu lục, nơi những cây ô liu cổ thụ tỏa bóng trên những thung lũng từng chứng kiến bao đế chế đi qua hàng nghìn năm lịch sử. Từ những ngọn đồi ở Bờ Tây đến bờ biển Gaza, người Palestine nổi tiếng với lòng hiếu khách nồng hậu và những vần thơ da diết về quê hương. Thành phố Ramallah nhộn nhịp với những quán cà phê; Jerusalem là nơi tín đồ của ba tôn giáo lớn trên thế giới cùng hành hương về.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Ramallah",
+      "sub": "thủ đô hành chính"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,5 triệu người",
+      "sub": "ước tính giữa năm 2023, Bờ Tây và Gaza"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Shekel/Dinar",
+      "sub": "cả ILS và JOD đều được dùng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "6.020 km²",
+      "sub": "Bờ Tây + Dải Gaza"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.030 m",
+      "sub": "núi Nabi Yunis, Bờ Tây"
+    }
+  ],
+  "islands": [
+    "West Bank",
+    "Gaza Strip",
+    "Ramallah",
+    "Hebron",
+    "Nablus"
+  ],
+  "islandsLabel": "CÁC VÙNG VÀ THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đồi núi, thung lũng và biển cả",
+    "animals": "Những sinh vật hoang dã của Palestine",
+    "culture": "Ẩm thực, âm nhạc và thủ công truyền thống",
+    "history": "Vùng đất được đúc nặn bởi thời gian",
+    "wows": "7 điều bất ngờ về Palestine"
+  },
+  "geo": [
+    "Bờ Tây trải dài với những ngọn đồi đá vôi phủ đầy vườn ô liu và hạnh nhân, bị cắt ngang bởi những con suối cạn chỉ ầm ào khi mưa đông đổ xuống. Thung lũng Jordan tụt dần xuống bờ Biển Chết — nằm ở độ sâu khoảng 430 m dưới mực nước biển, đây là điểm thấp nhất trên mặt đất.",
+    "Dải Gaza là một dải đất hẹp ven Địa Trung Hải, chỉ dài 41 km và rộng 10 km, nhưng là nơi sinh sống của hơn hai triệu người — một trong những vùng có mật độ dân số cao nhất thế giới. Những bãi biển cát trắng tiếp giáp với đồng bằng ven biển bằng phẳng và màu mỡ."
+  ],
+  "animals": [
+    "Palestine nằm trên một trong những tuyến đường di cư lớn của các loài chim. Mỗi mùa xuân và thu, cò trắng, bồ nông, đại bàng và chim ăn ong đổ về theo đàn. Chim hút mật Palestine — loài chim nhỏ nhắn với cổ họng xanh ánh kim lóng lánh — là quốc điểu của đất nước này.",
+    "Linh dương vẫn tung tăng trên những sườn đồi, và linh dương núi Palestine còn được đặt tên theo chính vùng đất này. Linh cẩu sọc, cáo đỏ và con hyrax đá — họ hàng xa đáng ngờ nhất của voi — ẩn mình trong địa hình đá lởm chởm."
+  ],
+  "culture": [
+    "Ẩm thực Palestine rất hào phóng: maqluba (cơm lật ngược với rau củ), musakhan (thịt gà trên bánh mỳ dẹt với hành phi và sumac), và knafeh (bánh phô mai nóng tẩm xi-rô) đều được yêu thích khắp thế giới Ả Rập. Dầu ô liu từ những cây cổ thụ được rưới lên hầu hết mọi món ăn.",
+    "Nghề thêu tatreez tạo nên những hoa văn hình học màu đỏ rực trên váy áo, kể chuyện về làng quê và gia đình. Điệu múa dabke — điệu nhảy thành hàng rầm rầm thình thịch trong đám cưới — cuốn mọi người cùng nhảy, còn tiếng đàn oud (đàn lute hình quả lê) lấp đầy những buổi tối bằng những giai điệu thiết tha."
+  ],
+  "history": [
+    "Con người đã canh tác trên những ngọn đồi này từ năm 9000 trước Công Nguyên. Người Canaan, Ai Cập, Hy Lạp, La Mã và Thập Tự Quân mỗi thời đều để lại dấu ấn. Tên 'Palestine' vang vọng từ người Philistine cổ đại từng sống dọc bờ biển. Jericho được coi là thành phố lâu đời nhất thế giới.",
+    "Sau thời kỳ Ottoman, Anh kiểm soát vùng này từ năm 1917. Năm 1948, Israel tuyên bố thành lập và khoảng 700.000 người Palestine phải rời bỏ quê hương — sự kiện này được gọi là Nakba, nghĩa là 'thảm họa'. Kể từ đó, người Palestine vẫn không ngừng đấu tranh cho một nhà nước độc lập của riêng mình."
+  ],
+  "wows": [
+    "Jericho được xem là thành phố lâu đời nhất Trái Đất — con người đã sống ở đây suốt 11.000 năm.",
+    "Biển Chết mặn đến mức bạn nổi lềnh như cái nút chai — độ mặn gấp gần 10 lần nước biển thông thường.",
+    "Một cây ô liu gần Bethlehem ước tính đã 5.000 tuổi và vẫn đang ra quả.",
+    "Chim hút mật Palestine nhỏ xíu nhưng lơ lửng như trực thăng để hút mật hoa.",
+    "Hoa văn thêu tatreez đặc trưng cho từng làng — chuyên gia đọc được xuất xứ như đọc mã bưu chính.",
+    "Nablus tổ chức lễ hội knafeh thu hút hàng nghìn người đến thưởng thức bánh phô mai nóng tẩm xi-rô.",
+    "Tên 'Gaza' xuất hiện trong sử sách Ai Cập từ 3.500 năm trước — một trong những tên thành phố cổ nhất lịch sử nhân loại."
+  ],
+  "myths": [
+    {
+      "myth": "Palestine không có lịch sử cổ đại",
+      "fact": "Jericho ở Bờ Tây có những bức tường và tháp được xây dựng từ 10.000 năm trước — lâu hơn hầu hết nền văn minh nào còn tồn tại trên Trái Đất."
+    },
+    {
+      "myth": "Biển Chết thực sự là một vùng biển",
+      "fact": "Đây thực ra là một hồ muối khép kín, không có đường thoát nước — nước chỉ bốc hơi đi, khiến hồ ngày càng mặn hơn theo từng năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "Mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ps-hero.jpg",
+      "alt": "Trung tâm thành phố Ramallah với những tòa nhà hiện đại và đường phố tấp nập",
+      "caption": "RAMALLAH — thủ đô hành chính sôi động của Palestine",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ps-landmark.jpg",
+      "alt": "Mái vòm vàng óng của đền thờ Dome of the Rock ở Jerusalem",
+      "caption": "DOME OF THE ROCK — biểu tượng mái vòm vàng của Jerusalem, linh thiêng với người Hồi giáo khắp thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ps-animalA.jpg",
+      "alt": "Một con chim hút mật Palestine nhỏ nhắn với cổ họng xanh ánh kim đậu trên cành cây",
+      "caption": "CHIM HÚT MẬT PALESTINE — quốc điểu lấp lánh như châu báu của Palestine",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ps-animalB.jpg",
+      "alt": "Một con linh dương núi Palestine đứng cảnh giác trên địa hình đá",
+      "caption": "LINH DƯƠNG NÚI — loài vật uyển chuyển đặc trưng trên những sườn đồi Palestine",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

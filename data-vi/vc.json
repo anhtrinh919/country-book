@@ -1,0 +1,163 @@
+{
+  "name": "ST VINCENT",
+  "nativeName": "VC",
+  "romaji": "SAINT VINCENT",
+  "tagline": "Ngọc xanh vùng Caribbean",
+  "region": "Đông Caribe",
+  "coords": "13.2°N 61.2°W",
+  "fileNo": "vc",
+  "langName": "tiếng Anh Creole",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EDE3",
+    "dot": "#c9bfa8",
+    "ink": "#252018",
+    "faint": "#8a7d60",
+    "line": "#dbd4c0",
+    "accent": "#2B7A3B",
+    "accent2": "#F5C518"
+  },
+  "flag": {
+    "assetPath": "/flags/vc.svg",
+    "title": "Lá cờ Ngọc lục bảo",
+    "note": "Ba viên kim cương xanh lá xếp hình chữ V trên nền vàng",
+    "keyColor": "#2B7A3B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saint Vincent và Grenadines là một chuỗi 32 hòn đảo núi lửa, nơi rừng mưa nhiệt đới gặp gỡ những đầm phá xanh biếc. Trên đảo chính Saint Vincent có một ngọn núi lửa đang âm ỉ hoạt động. Những hòn đảo Grenadines thì nổi tiếng với Mustique sang trọng và vùng Tobago Cays — nơi rùa biển lượn lờ bên những rạn san hô. Đây là những \"viên ngọc\" bé nhỏ nhưng tràn đầy sự sống của vùng Caribbean.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kingstown",
+      "sub": "Bờ nam đảo St Vincent"
+    },
+    {
+      "label": "Dân số",
+      "value": "~101.000",
+      "sub": "Ước tính 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la EC",
+      "sub": "Tỷ giá cố định với USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Ngôn ngữ chính thức và hàng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "389 km²",
+      "sub": "Nhỏ hơn đảo Barbados"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.235 m",
+      "sub": "Núi lửa La Soufrière"
+    }
+  ],
+  "islands": [
+    "St Vincent",
+    "Bequia",
+    "Mustique",
+    "Canouan",
+    "Union Island"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa và đầm phá san hô",
+    "animals": "Vẹt, rùa và thằn lằn hiếm",
+    "culture": "Trống carnival và quả mít lạ",
+    "history": "Chiến binh, lưu đày và tự do",
+    "wows": "Bảy điều bất ngờ cỡ viên ngọc"
+  },
+  "geo": [
+    "Saint Vincent là đảo núi lửa, phủ kín bởi rừng nhiệt đới rậm rạp. Tháng 4 năm 2021, núi lửa La Soufrière phun trào dữ dội, phủ tro bụi khắp đảo khiến 16.000 người phải sơ tán khẩn cấp. Những thung lũng xanh tươi chạy ra bờ biển cát đen phía gió thổi, còn phía khuất gió là những vịnh cát vàng bình yên.",
+    "Quần đảo Grenadines trải dài 90 km về phía nam. Tobago Cays — năm hòn đảo nhỏ không có người ở — nằm bên trong vòng cung rạn san hô khổng lồ, tạo thành một đầm phá trong vắt đến kinh ngạc. Cả thủy thủ lẫn rùa biển đều ghé thăm nơi này mỗi năm."
+  ],
+  "animals": [
+    "Vẹt Saint Vincent là quốc điểu — loài chim rực rỡ pha trộn màu đồng, tím và xanh dương, không nơi nào trên Trái Đất có ngoài hòn đảo này. Chưa đến 1.000 con còn sống trong tự nhiên, làm tổ trong rừng cao nguyên xa khu dân cư. Rùa biển đồi mồi đẻ trứng trên các bãi biển khắp quần đảo từ tháng 6 đến tháng 10.",
+    "Thằn lằn gecko Union Island — được phát hiện lần đầu năm 2005 — bé chỉ bằng ngón tay cái và không sống ở đâu khác ngoài hòn đảo này. Các rạn san hô ở đây còn là nhà của vô số cá rạn san hô, đuối đầu ó và cá mập voi khổng lồ thỉnh thoảng lướt qua vùng biển Grenadines."
+  ],
+  "culture": [
+    "Vincy Mas — lễ hội carnival quốc gia vào cuối tháng 6 và tháng 7 — biến Kingstown thành biển người trong suốt 12 ngày với tiếng trống steel pan, nhạc soca và những bộ trang phục lộng lẫy. Trước bình minh, người dự lễ J'ouvert quét sơn và mật mía lên người nhau — truyền thống đã có từ nhiều thế hệ trước.",
+    "Món ăn quốc hồn là cá jackfish chiên kèm quả breadfruit nướng than. Vườn thực vật Kingstown được lập năm 1765, là một trong những vườn thực vật lâu đời nhất Tây bán cầu — và vẫn đang trồng một cây breadfruit do thuyền trưởng Bligh mang về sau cuộc nổi loạn nổi tiếng trên tàu Bounty."
+  ],
+  "history": [
+    "Người Garifuna — con cháu của người Carib và những người châu Phi sống sót sau vụ đắm tàu — đã kháng cự người Anh không khoan nhượng. Thủ lĩnh Joseph Chatoyer ép được một hiệp ước hòa bình năm 1773 — hiệp ước đầu tiên người Anh ký với người bản địa không phải da trắng ở Caribbean. Ông hy sinh năm 1795 và đến nay vẫn là Anh hùng Dân tộc duy nhất của đất nước.",
+    "Sau khi Chatoyer bại trận, gần 5.000 người Garifuna bị lưu đày sang Honduras năm 1797. Con cháu họ ngày nay vẫn nói tiếng Garifuna ở Trung Mỹ. Saint Vincent và Grenadines chính thức độc lập vào ngày 27 tháng 10 năm 1979."
+  ],
+  "wows": [
+    "SVG sản xuất khoảng 95% lượng củ dong của cả thế giới — loài cây từng được người Carib dùng để trị vết thương do tên bắn.",
+    "Bến cảng Port Royal trong phim Pirates of the Caribbean được dựng ở vịnh Wallilabou — các đạo cụ vẫn còn đó đến tận hôm nay.",
+    "Đảo Mustique được mua năm 1958 với giá 67.000 đô la; Công chúa Margaret nhận một mảnh đất trên đảo làm quà cưới.",
+    "Núi lửa La Soufrière đã phun trào 8 lần kể từ năm 1718; đợt phun năm 2021 khiến 16.000 người phải sơ tán chỉ trong một ngày.",
+    "Thằn lằn gecko Union Island hoàn toàn chưa được khoa học biết đến cho đến năm 2005 và chỉ sống trên một hòn đảo nhỏ duy nhất.",
+    "Đảo Bequia có một trong số ít nơi trên thế giới còn được phép săn cá voi bằng lao tay — theo hạn ngạch văn hóa của IWC.",
+    "Vườn thực vật Kingstown (thành lập năm 1765) là một trong những vườn thực vật lâu đời nhất toàn bộ Tây bán cầu."
+  ],
+  "myths": [
+    {
+      "myth": "\"Nhỏ quá, chắc chẳng có gì hay\"",
+      "fact": "SVG nhồi vào 389 km² một ngọn núi lửa đang hoạt động, hơn 170 loài chim, vùng trồng củ dong hàng đầu thế giới, phim trường Pirates of the Caribbean và những rạn san hô tuyệt đẹp."
+    },
+    {
+      "myth": "\"Grenadines chỉ là một hòn đảo\"",
+      "fact": "Đây thực ra là 31 hòn đảo, đảo nhỏ và đảo san hô trải dài 90 km trên biển — mỗi nơi một vẻ, từ Mustique sang trọng đến Union Island hoang dã đầy rùa biển."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Wha happenin",
+      "say": "wha-HAP-en-in"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "It nice!",
+      "say": "it NICE"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Pardner",
+      "say": "PAHD-nah"
+    },
+    {
+      "en": "Đang tụ tập chơi",
+      "jp": "Liming",
+      "say": "LYE-ming"
+    },
+    {
+      "en": "Thật không?",
+      "jp": "For real?",
+      "say": "fuh REEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vc-hero.jpg",
+      "alt": "Cảng Kingstown với những chiếc thuyền đầy màu sắc và sườn đồi xanh",
+      "caption": "CẢNG KINGSTOWN — thủ đô tấp nập nằm dưới chân những ngọn đồi núi lửa",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/vc-landmark.jpg",
+      "alt": "Miệng núi lửa La Soufrière trên đỉnh với khói bốc lên",
+      "caption": "LA SOUFRIÈRE — ngọn núi lửa đang hoạt động của Saint Vincent, cao 1.235 m",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vc-animalA.jpg",
+      "alt": "Vẹt Saint Vincent với bộ lông rực rỡ xanh lá, đồng, xanh dương và vàng",
+      "caption": "VẸT SAINT VINCENT — quốc điểu, không nơi nào trên Trái Đất có ngoài đây",
+      "credit": "Wikimedia Commons / Drew Avery"
+    },
+    "animalB": {
+      "src": "/photos/vc-animalB.jpg",
+      "alt": "Nhìn từ trên cao xuống đầm phá turquoise Tobago Cays với rạn san hô và rùa biển",
+      "caption": "TOBAGO CAYS — năm đảo nhỏ trong vòng rạn san hô, nơi ở của rùa biển xanh",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

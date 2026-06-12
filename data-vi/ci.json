@@ -1,0 +1,163 @@
+{
+  "name": "CÔTE D'IVOIRE",
+  "nativeName": "CI",
+  "romaji": "CÔTE D'IVOIRE",
+  "tagline": "Bờ Biển Ca Cao",
+  "region": "Tây Phi",
+  "coords": "7.54°N, 5.55°W",
+  "fileNo": "032",
+  "langName": "tiếng Pháp",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBE9E",
+    "ink": "#251E12",
+    "faint": "#8A7A5E",
+    "line": "#DCCFAA",
+    "accent": "#F77F00",
+    "accent2": "#009A44"
+  },
+  "flag": {
+    "assetPath": "/flags/ci.svg",
+    "title": "Cờ Ba Màu",
+    "note": "Ba sọc dọc màu cam, trắng và xanh lá",
+    "keyColor": "#F77F00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Côte d'Ivoire — tên tiếng Pháp nghĩa là \"Bờ Biển Ngà\" — nằm ven bờ Đại Tây Dương ở Tây Phi. Đất nước này trồng gần một nửa lượng ca cao toàn thế giới, nên hầu hết thanh sô-cô-la bạn ăn đều bắt đầu từ đây! Đặc biệt hơn, đất nước này có hai thủ đô: Yamoussoukro là thủ đô chính thức, còn Abidjan mới là trung tâm kinh tế sôi động. Hơn 60 dân tộc và 75 ngôn ngữ cùng tồn tại trong một đất nước yêu âm nhạc và rực rỡ màu sắc này.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Yamoussoukro",
+      "sub": "Chính thức; Abidjan là trung tâm kinh tế"
+    },
+    {
+      "label": "Dân số",
+      "value": "≈ 32,8 triệu",
+      "sub": "Ước tính 2025, đang tăng nhanh"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Đồng tiền chung của Tây Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Pháp",
+      "sub": "Hơn 75 ngôn ngữ địa phương khác"
+    },
+    {
+      "label": "Diện tích",
+      "value": "322.460 km²",
+      "sub": "Lớn hơn Việt Nam một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Nimba 1.752m",
+      "sub": "Di sản UNESCO giáp biên giới Guinea"
+    }
+  ],
+  "islands": [
+    "Abidjan",
+    "Yamoussoukro",
+    "Bouaké",
+    "San-Pédro",
+    "Man"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đầm phá, rừng rậm & cao nguyên",
+    "animals": "Tinh tinh, hà mã & voi rừng",
+    "culture": "Âm nhạc, mặt nạ & quán maquis",
+    "history": "Ca cao, vương quốc & độc lập",
+    "wows": "Những điều kỳ lạ bất ngờ"
+  },
+  "geo": [
+    "Côte d'Ivoire trải dài từ vùng thảo nguyên khô phía bắc xuống rừng mưa nhiệt đới dày đặc ở phía nam. Bờ biển phía nam lấp lánh với những đầm phá và làng chài nhỏ. Thành phố Abidjan nằm trên những hòn đảo nối nhau bằng cầu, soi bóng xuống mặt đầm phá lấp lánh — trông như thành phố nổi trên mặt nước.",
+    "Ở góc tây xa xôi, dãy núi Nimba vươn lên tới 1.752 m — một khu rừng mưa nhiệt đới được UNESCO công nhận, chạy dài sang cả Guinea. Năm mươi con suối chảy xuống từ sườn núi. Bốn con sông lớn cắt ngang đất nước rộng 322.460 km², cung cấp nước quanh năm cho người nông dân."
+  ],
+  "animals": [
+    "Voi rừng châu Phi — nhỏ hơn và tai tròn hơn voi đồng cỏ — là linh vật quốc gia. Vườn quốc gia Taï là nơi trú ngụ của báo hoa, linh dương bongo, và tinh tinh tây — loài mà các nhà khoa học đã nghiên cứu suốt 50 năm qua.",
+    "Hà mã lùn — một loài hà mã sống trong rừng, chỉ to bằng con lợn lớn — ẩn náu bên những con suối trong Taï. Đây là một trong số ít động vật có vú lớn hiếm nhất Trái Đất. Khỉ colobus ô-liu, hàng trăm loài chim, và tắc kè hoa sặc sỡ cùng chung sống trong khu rừng xanh mướt này."
+  ],
+  "culture": [
+    "Côte d'Ivoire có hơn 60 dân tộc. Người Baoulé nổi tiếng với đồ trang sức vàng tinh xảo và những chiếc mặt nạ gỗ được đeo trong các lễ hội. Mặt nạ Dan từ vùng tây được tin là mang linh hồn riêng bên trong. Chợ ở đây tràn ngập màu sắc, tiếng ồn và mùi cá nướng thơm lừng.",
+    "Âm nhạc có mặt khắp nơi — Coupé-Décalé, sinh ra tại Abidjan, pha trộn nhịp điện tử với vũ điệu sôi nổi và đã bay khắp thế giới từ những năm 2000. Nhà hàng maquis phục vụ gà hầm khói với attiéké — một món ăn làm từ sắn. Còn aloko — chuối chiên với ớt — là món ăn vặt đường phố được yêu thích nhất."
+  ],
+  "history": [
+    "Thương nhân Bồ Đào Nha đặt chân đến đây từ thế kỷ 15 và đặt tên vùng bờ biển này theo những chiếc ngà voi họ mua được. Pháp biến nơi đây thành thuộc địa năm 1893. Đến năm 1960, Félix Houphouët-Boigny dẫn dắt đất nước giành độc lập trong hòa bình và xây dựng một trong những nền kinh tế thịnh vượng nhất châu Phi, dựa trên ca cao và cà phê.",
+    "Công trình vĩ đại nhất ông để lại là Vương Cung Thánh Đường Đức Bà Hòa Bình ở Yamoussoukro — hoàn thành năm 1989, to hơn cả Thánh đường Saint Peter ở Rome! Sau những xung đột nội chiến vào thập niên 2000, đất nước phục hồi nhanh chóng và vươn lên mạnh mẽ. Năm 2024, họ vô địch Cúp Châu Phi Các Quốc Gia ngay trên sân nhà."
+  ],
+  "wows": [
+    "Côte d'Ivoire trồng khoảng 45% lượng ca cao toàn thế giới — gần như mọi thanh sô-cô-la đều bắt đầu từ đây.",
+    "Abidjan là thành phố nói tiếng Pháp lớn thứ 3 thế giới, chỉ sau Kinshasa và Paris.",
+    "Vương cung thánh đường Yamoussoukro là nhà thờ lớn nhất Trái Đất, mái vòm còn cao hơn đền Panthéon ở Paris.",
+    "Yamoussoukro chỉ trở thành thủ đô chính thức năm 1983; Abidjan vẫn là nơi điều hành thực tế của đất nước.",
+    "Tinh tinh trong vườn Taï biết dùng đá để đập vỡ hạt cứng — kỹ năng này được truyền từ thế hệ này sang thế hệ khác.",
+    "Kể từ năm 1960, khoảng 90% rừng mưa nguyên sinh của Côte d'Ivoire đã bị chặt phá để làm nông nghiệp.",
+    "Đất nước này đã vô địch Cúp Châu Phi Các Quốc Gia bốn lần, gần nhất là năm 2024."
+  ],
+  "myths": [
+    {
+      "myth": "\"Bờ Biển Ngà\" vẫn còn xuất khẩu ngà voi",
+      "fact": "Cái tên này nhắc đến việc buôn bán ngà voi từ nhiều thế kỷ trước. Ngày nay đất nước này xuất khẩu ca cao, hạt điều và cao su — buôn bán ngà voi quốc tế đã bị cấm từ năm 1989."
+    },
+    {
+      "myth": "Cả nước là một rừng rậm khổng lồ",
+      "fact": "Vùng phía bắc là thảo nguyên khô với cây xoài, gần như không có mưa suốt nửa năm; rừng mưa nhiệt đới chỉ bao phủ phía nam và tây của đất nước."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Ça va?",
+      "say": "sa VA"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "Bien",
+      "say": "BYAHN"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Au revoir",
+      "say": "oh ruh-VWAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ci-hero.jpg",
+      "alt": "Đường chân trời thành phố Abidjan nhìn qua đầm phá",
+      "caption": "ABIDJAN — Thành phố năng động nhất Tây Phi lung linh trên mặt đầm phá nổi tiếng",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ci-landmark.jpg",
+      "alt": "Vương Cung Thánh Đường Đức Bà Hòa Bình ở Yamoussoukro, nhìn từ bên ngoài",
+      "caption": "VƯƠNG CUNG THÁNH ĐƯỜNG ĐỨC BÀ HÒA BÌNH — nhà thờ lớn nhất thế giới, tại Yamoussoukro",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ci-animalA.jpg",
+      "alt": "Tinh tinh tây đang nghỉ ngơi, nhìn thẳng vào ống kính",
+      "caption": "TINH TINH TÂY — đàn tinh tinh Taï truyền kỹ năng dùng đá từ thế hệ này sang thế hệ khác",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ci-animalB.jpg",
+      "alt": "Hà mã lùn đứng, thân hình nhỏ nhắn chắc nịch",
+      "caption": "HÀ MÃ LÙN — hà mã rừng chỉ to bằng con lợn, một trong những động vật lớn hiếm nhất Trái Đất",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

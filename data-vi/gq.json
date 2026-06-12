@@ -1,0 +1,163 @@
+{
+  "name": "GUINEA XÍ-CH-ĐẠO",
+  "nativeName": "GQ",
+  "romaji": "GUINEA ECUATL.",
+  "tagline": "Bí mật nói tiếng Tây Ban Nha của châu Phi",
+  "region": "Trung Phi",
+  "coords": "3.7°N, 8.8°E",
+  "fileNo": "085",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B89A",
+    "ink": "#261E14",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B5",
+    "accent": "#3E9A00",
+    "accent2": "#E32118"
+  },
+  "flag": {
+    "assetPath": "/flags/gq.svg",
+    "title": "Cờ Xanh Lá & Xanh Dương",
+    "note": "Xanh lá, trắng, đỏ — tam giác xanh dương bên trái",
+    "keyColor": "#3E9A00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guinea Xích Đạo là quốc gia nhỏ bé duy nhất ở châu Phi dùng tiếng Tây Ban Nha — điều chẳng ai ngờ tới! Đất nước này bị chia làm hai: một phần là đảo núi lửa phủ rừng mây mù, một phần là rừng mưa nhiệt đới trên đất liền. Những con khỉ cực hiếm chỉ sống ở đây, và mỗi năm rùa biển khổng lồ lại bò lên bãi cát dưới ánh trăng để đẻ trứng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Malabo",
+      "sub": "Trên đảo Bioko, Vịnh Guinea"
+    },
+    {
+      "label": "Dân số",
+      "value": "~1,9 triệu",
+      "sub": "Ước tính 2024; người Fang 78%, người Bubi 9%"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung với 5 quốc gia khác"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Quốc gia duy nhất nói tiếng Tây Ban Nha ở châu Phi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "28.051 km²",
+      "sub": "Nhỉnh hơn tỉnh Nghệ An một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Pico Basilé",
+      "sub": "3.011 m — núi lửa trên đảo Bioko"
+    }
+  ],
+  "islands": [
+    "Bioko",
+    "Río Muni",
+    "Annobón",
+    "Corisco",
+    "Bata"
+  ],
+  "islandsLabel": "VÙNG & ĐẢO:",
+  "sections": {
+    "geography": "Núi lửa, rừng thẳm & biển xanh",
+    "animals": "Thú đảo & bãi rùa đẻ",
+    "culture": "Trống Tây Ban Nha giữa rừng già",
+    "history": "Ca cao, thực dân & dầu mỏ",
+    "wows": "Thật không thể tin được!"
+  },
+  "geo": [
+    "Guinea Xích Đạo bị chia thành hai mảnh rời nhau. Đảo Bioko nằm cách bờ biển Cameroon 40 km, là một ngọn núi lửa khổng lồ bọc trong rừng mây mù, vươn lên đỉnh Pico Basilé cao 3.011 m. Thủ đô Malabo ngồi cheo leo trên mép phía bắc của hòn đảo này.",
+    "Phần đất liền tên là Río Muni nằm kẹp giữa Cameroon và Gabon — rừng mưa nhiệt đới dày đặc xen lẫn những con sông uốn khúc. Xa hơn về phía nam 700 km là đảo nhỏ Annobón. Dù có tên là Guinea Xích Đạo, đường xích đạo lại không hề cắt qua phần đất liền!"
+  ],
+  "animals": [
+    "Đảo Bioko là ngôi nhà cuối cùng của những loài linh trưởng cực hiếm. Khỉ drill Bioko — có khuôn mặt sặc sỡ không lẫn vào đâu được — chỉ sống trên hòn đảo này, không nơi nào khác trên Trái Đất có. Tinh tinh và bảy loài khỉ khác cùng leo trèo dưới tán rừng sương mù.",
+    "Từ tháng 11 đến tháng 2, rùa da, rùa xanh, rùa đồi mồi và rùa olive ridley lần lượt bò lên những bãi biển phía nam đảo Bioko để đẻ trứng — đây là một trong những bãi đẻ trứng quan trọng nhất của Tây Phi. Ngoài khơi, cá voi lưng gù thong thả bơi qua."
+  ],
+  "culture": [
+    "Đặt chân vào Guinea Xích Đạo, bạn sẽ ngạc nhiên khi nghe tiếng Tây Ban Nha vang lên giữa lòng châu Phi — nhà thờ Công giáo, món tapas bày cạnh chuối chiên, biển hiệu viết bằng tiếng Tây Ban Nha. Đất nước nhỏ bé này có tới ba ngôn ngữ chính thức: Tây Ban Nha, Pháp và Bồ Đào Nha.",
+    "Linh hồn của người Fang là cây đàn mvet — một loại đàn harp-đàn tranh có tới mười lăm dây, thiêng liêng đến mức chỉ những người đã được truyền thụ bí kíp mới được phép học ký âm của nó. Người Bubi biểu diễn vũ điệu balélé vào dịp Giáng sinh, còn nhịp điệu Makossa từ Cameroon rộn ràng khắp các quán bar ở Malabo."
+  ],
+  "history": [
+    "Người Bồ Đào Nha đặt chân lên đảo Bioko vào ngày đầu năm mới 1472 — họ đặt tên hòn đảo xa nhất là Annobón, có nghĩa là \"Năm Tốt Lành\". Đến năm 1778, Tây Ban Nha tiếp quản và lập những đồn điền ca cao rộng lớn trên sức lao động cưỡng bức của người dân.",
+    "Ngày 12 tháng 10 năm 1968, Guinea Xích Đạo giành độc lập, nhưng một chế độ độc tài tàn bạo sau đó đã khiến một phần ba dân số phải bỏ nước ra đi hoặc thiệt mạng. Đến những năm 1990, dầu mỏ được tìm thấy ngoài khơi, biến quốc gia tí hon này thành một trong những nước xuất khẩu dầu lớn nhất châu Phi."
+  ],
+  "wows": [
+    "Guinea Xích Đạo là quốc gia duy nhất ở châu Phi dùng tiếng Tây Ban Nha làm ngôn ngữ chính thức.",
+    "Thủ đô Malabo nằm trên một hòn đảo núi lửa, cách đất liền tới 40 km đường biển.",
+    "Đảo Annobón được người Bồ Đào Nha phát hiện đúng vào ngày đầu năm mới 1472 — đó là cách đảo có cái tên như vậy!",
+    "Đảo Bioko là nơi duy nhất trên thế giới có quần thể khỉ drill sống trên đảo.",
+    "Dù tên là Guinea Xích Đạo, nhưng đường xích đạo không hề cắt qua phần đất liền của nước này.",
+    "Dầu mỏ giúp nước này có GDP bình quân đầu người thuộc hàng cao nhất châu Phi, nhưng phần lớn người dân vẫn không có nước sạch để dùng.",
+    "Đàn mvet của người Fang có hệ thống ký âm bí mật — chỉ những bậc thầy đã qua nghi lễ truyền thụ mới được học."
+  ],
+  "myths": [
+    {
+      "myth": "Đường xích đạo chạy qua đất nước này",
+      "fact": "Phần đất liền nằm phía bắc đường xích đạo. Chỉ có vùng biển gần đảo Annobón là chạm tới đường xích đạo. Cái tên mang tính lịch sử, không phải địa lý."
+    },
+    {
+      "myth": "Dầu mỏ làm giàu cho tất cả mọi người",
+      "fact": "GDP trên giấy tờ trông rất cao, nhưng của cải tập trung vào tay một nhóm nhỏ. Đại đa số người dân vẫn sống thiếu nước sạch và điện ổn định."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Buenos días",
+      "say": "BWEH-nos DEE-ahs"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Adiós",
+      "say": "ah-DYOSS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gq-hero.jpg",
+      "alt": "Nhà thờ Malabo với hai tháp chuông sừng sững trên nền trời xanh",
+      "caption": "NHÀ THỜ MALABO — hai tháp cao 40 m của Santa Isabel, xây dưới thời Tây Ban Nha năm 1916",
+      "credit": "Ben Sutherland / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/gq-landmark.jpg",
+      "alt": "Rừng mưa nhiệt đới xanh thẳm gần Oyala, Guinea Xích Đạo",
+      "caption": "RỪNG XÍ-CH-ĐẠO — rừng già cổ thụ bao phủ vùng nội địa Río Muni",
+      "credit": "Mehlauge / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/gq-animalA.jpg",
+      "alt": "Khỉ drill Bioko đang nghỉ ngơi trên nền rừng ở Guinea Xích Đạo",
+      "caption": "KHỈ DRILL BIOKO — loài linh trưởng chỉ có trên đảo, chụp tại Guinea Xích Đạo năm 2019",
+      "credit": "Chris Quirin / CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/gq-animalB.jpg",
+      "alt": "Rùa da khổng lồ nằm nghỉ trên bãi cát",
+      "caption": "RÙA DA — đẻ trứng trên bãi biển phía nam đảo Bioko từ tháng 11 đến tháng 2 hằng năm",
+      "credit": "USFWS / Public Domain"
+    }
+  }
+}

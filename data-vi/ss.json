@@ -1,0 +1,163 @@
+{
+  "name": "NAM SUDAN",
+  "nativeName": "SS",
+  "romaji": "SOUTH SUDAN",
+  "tagline": "Quốc gia trẻ nhất thế giới",
+  "region": "Đông Phi",
+  "coords": "4.86°N, 31.57°E",
+  "fileNo": "193",
+  "langName": "tiếng Dinka",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CDBF96",
+    "ink": "#1E1A12",
+    "faint": "#8A7B55",
+    "line": "#DDD0A8",
+    "accent": "#078930",
+    "accent2": "#DA1C38"
+  },
+  "flag": {
+    "assetPath": "/flags/ss.svg",
+    "title": "Cờ Nam Sudan",
+    "note": "3 sọc ngang, tam giác xanh với ngôi sao vàng",
+    "keyColor": "#078930",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ngày 9 tháng 7 năm 2011, gần 99% người dân bỏ phiếu tách khỏi Sudan — và Nam Sudan chính thức trở thành quốc gia trẻ nhất thế giới! Sông Nile Trắng uốn lượn qua những đầm lầy papyrus mênh mông, rừng núi mát mẻ phủ xanh phía đông nam, và hơn 60 dân tộc sống cùng nhau với 60 ngôn ngữ khác nhau. Một đất nước còn rất mới, đang bước đi trên con đường của riêng mình.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Juba",
+      "sub": "Bên bờ sông Nile Trắng"
+    },
+    {
+      "label": "Dân số",
+      "value": "~11,9 triệu",
+      "sub": "Ước tính LHQ, 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Bảng Nam Sudan",
+      "sub": "South Sudanese Pound"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Cùng 60+ ngôn ngữ địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "646.883 km²",
+      "sub": "Rộng hơn nước Pháp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.187 m",
+      "sub": "Núi Kinyeti, dãy Imatong"
+    }
+  ],
+  "islands": [
+    "Juba",
+    "Malakal",
+    "Wau",
+    "Bor",
+    "Yei"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sông ngòi, đầm lầy & đồi xanh",
+    "animals": "Những gã khổng lồ của cuộc di cư",
+    "culture": "Gia súc, âm nhạc & lễ hội",
+    "history": "Con đường dài đến tự do",
+    "wows": "Bảy điều kỳ diệu"
+  },
+  "geo": [
+    "Nam Sudan nằm trên một đồng bằng rộng lớn được sông Nile Trắng tưới tắm. Đầm lầy Sudd — một trong những vùng đất ngập nước lớn nhất Trái Đất — mùa mưa phình to hơn cả nước Bỉ, biến thành mê cung của cây sậy papyrus, những hòn đảo nổi và những đàn bồ nông tung cánh.",
+    "Về phía đông nam, địa hình vươn lên những cao nguyên rừng mát mẻ, nơi núi Kinyeti đứng cao 3.187 m. Nam Sudan giáp ranh với sáu quốc gia: Sudan, Ethiopia, Kenya, Uganda, Congo và Cộng hòa Trung Phi — nhiều hơn cả Việt Nam!"
+  ],
+  "animals": [
+    "Đầm lầy Sudd là nhà của chim shoebill — một loài chim trông như bước ra từ thời khủng long, với cái mỏ to như chiếc guốc đủ sức nuốt trọn một con cá phổi. Trên những bãi lầy ven sông còn có linh dương Nile lechwe màu nâu sô cô la, lội nước tới ngực và gần như không sống ở đâu khác trên Trái Đất.",
+    "Mỗi năm, khoảng một triệu con linh dương tai trắng kob đổ ào qua đồng bằng Boma-Badingilo — một trong những cuộc di cư thú có vú lớn nhất hành tinh. Voi, hươu cao cổ, sư tử và hơn 400 loài chim cùng chia sẻ vùng đất phi thường này."
+  ],
+  "culture": [
+    "Người Dinka — nhóm dân tộc đông nhất Nam Sudan — gắn bó sâu sắc với đàn gia súc của mình. Một gia đình đo tài sản và lễ cưới bằng số bò. Những chàng trai trẻ có thể nhận ra con bò yêu thích của mình chỉ qua hình dáng sừng và màu lông.",
+    "Âm nhạc và đấu vật là linh hồn của mọi lễ hội. Phụ nữ đeo những chuỗi hạt xếp dày từ cằm xuống ngực; đàn ông khắc những vết sẹo chữ V trên trán như dấu hiệu nhận biết của cộng đồng. Cháo lúa miến và cá sông Nile tươi là món ăn hằng ngày."
+  ],
+  "history": [
+    "Người dân Nam Sudan đã đấu tranh giành độc lập suốt hơn 50 năm. Khi Sudan độc lập năm 1956, các lãnh đạo miền nam bị gạt ra ngoài lề. Cuộc nội chiến kéo dài nhiều thập kỷ, cướp đi hơn một triệu sinh mạng và buộc bốn triệu người phải rời bỏ nhà cửa.",
+    "Hòa bình đến năm 2005, và ngày 9 tháng 7 năm 2011, Nam Sudan kéo lên lá cờ mới — đen, đỏ, xanh lá và xanh lam với ngôi sao vàng rực rỡ — trở thành quốc gia thứ 54 của châu Phi. Xây dựng sự ổn định vẫn còn là thử thách lớn, nhưng ý chí của người dân nơi đây thật đáng ngưỡng mộ."
+  ],
+  "wows": [
+    "Nam Sudan là quốc gia trẻ nhất thế giới, chính thức ra đời ngày 9 tháng 7 năm 2011.",
+    "Đầm lầy Sudd vào mùa mưa phình to hơn cả nước Anh!",
+    "Khoảng 75% trữ lượng dầu mỏ của Sudan cũ nằm ngay dưới lòng đất Nam Sudan.",
+    "Cuộc di cư kob ở Boma có thể quy tụ đến một triệu con, sánh ngang với Serengeti nổi tiếng.",
+    "Hơn 60 dân tộc sinh sống ở đây, nói khoảng 60 ngôn ngữ khác nhau.",
+    "Rừng núi trên đỉnh Kinyeti như một thế giới khác hẳn so với đồng bằng sông Nile nóng bức bên dưới.",
+    "Chim shoebill cao tới 1,5 m và thuộc về một họ chim hoàn toàn riêng biệt trên thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Nam Sudan toàn sa mạc như phần đất phía bắc",
+      "fact": "Phần lớn đất nước là vùng nhiệt đới xanh tươi: đồng cỏ savanna rậm rạp, rừng núi cao nguyên và một trong những đầm lầy lớn nhất châu Phi — sa mạc gần như không có mặt ở đây."
+    },
+    {
+      "myth": "Nam Sudan đòi độc lập chỉ vì dầu mỏ",
+      "fact": "Dầu mỏ giúp tài trợ cho cuộc đấu tranh, nhưng hàng thập kỷ bị phân biệt về văn hóa, tôn giáo và chính trị mới là nguyên nhân thực sự — từ trước khi khai thác dầu quy mô lớn bắt đầu."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Maalei",
+      "say": "mah-LAY"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Yin athin",
+      "say": "yin AH-tin"
+    },
+    {
+      "en": "Có / Đúng rồi",
+      "jp": "Ee",
+      "say": "EH"
+    },
+    {
+      "en": "Nước",
+      "jp": "Piu",
+      "say": "PEE-oo"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "Lek",
+      "say": "LEK"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ss-hero.jpg",
+      "alt": "Cảnh phố phường tại Juba, Nam Sudan",
+      "caption": "JUBA — thủ đô bên bờ sông Nile Trắng",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ss-landmark.jpg",
+      "alt": "Núi Kinyeti trong dãy Imatong, Nam Sudan",
+      "caption": "NÚI KINYETI — đỉnh núi cao nhất Nam Sudan, dãy Imatong",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ss-animalA.jpg",
+      "alt": "Chim shoebill với chiếc mỏ khổng lồ đặc trưng",
+      "caption": "CHIM SHOEBILL — loài chim mỏ guốc khổng lồ của đầm lầy Sudd",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ss-animalB.jpg",
+      "alt": "Cảnh khu dân cư Gudele, Juba, Nam Sudan",
+      "caption": "PHỐ JUBA — cuộc sống thường ngày ở thủ đô trẻ nhất châu Phi",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

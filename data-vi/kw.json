@@ -1,0 +1,163 @@
+{
+  "name": "KUWAIT",
+  "nativeName": "الكويت",
+  "romaji": "AL-KUWAIT",
+  "tagline": "Vàng đen sa mạc, xanh biếc vịnh Gulf",
+  "region": "Trung Đông",
+  "coords": "29.3°N, 47.7°E",
+  "fileNo": "042",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7455",
+    "line": "#DDD0AE",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/kw.svg",
+    "title": "Nhà nước Kuwait",
+    "note": "Ba sọc xanh lá, trắng và đỏ; hình thang đen ở bên trái",
+    "keyColor": "#007A3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Kuwait là một đất nước nhỏ bé ven vịnh Gulf, nơi dầu mỏ đã biến sa mạc thành một trong những quốc gia giàu có nhất thế giới. Người Kuwait không phải đóng thuế thu nhập — nhờ vào dầu đen ẩn sâu dưới lòng đất. Trước khi có dầu mỏ, những người đàn ông dũng cảm lặn tìm ngọc trai và những chiếc thuyền dhow đã kết nối Kuwait với Ấn Độ và châu Phi. Ngày nay, những tòa tháp xanh vươn cao chọc trời và hàng nghìn con hồng hạc hồng thắm lội bờ vịnh mỗi mùa đông.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kuwait City",
+      "sub": "khoảng 3,4 triệu người vùng đô thị"
+    },
+    {
+      "label": "Dân số",
+      "value": "4,9 triệu",
+      "sub": "ước tính 2024, ~31% là người Kuwait"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dinar Kuwait (KWD)",
+      "sub": "Đồng tiền có giá trị cao nhất thế giới"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "Phương ngữ vùng Vịnh trong cuộc sống hàng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "17.818 km²",
+      "sub": "Nhỏ hơn tỉnh Nghệ An của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "306 m",
+      "sub": "Một ngọn đồi không tên ở sa mạc phía tây"
+    }
+  ],
+  "islands": [
+    "Kuwait City",
+    "Hawalli",
+    "Al Ahmadi",
+    "Jahra",
+    "Salmiya"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Cát nóng, biển xanh và mùa hè rực lửa",
+    "animals": "Sinh vật sa mạc và chim vùng vịnh",
+    "culture": "Cà phê, ngọc trai và lòng hiếu khách",
+    "history": "Từ ngọc trai đến dầu mỏ",
+    "wows": "Kuwait bất ngờ lắm đó!"
+  },
+  "geo": [
+    "Kuwait gần như hoàn toàn là sa mạc bằng phẳng — đỉnh cao nhất chỉ 306 mét, một ngọn đồi không tên gần biên giới phía tây. Mùa hè, cát nóng đến hơn 50°C, khiến đây trở thành một trong những nơi nóng nhất trên Trái Đất — nóng hơn cả những ngày hè oi ả nhất ở Hà Nội rất nhiều lần. Vịnh Kuwait khoét vào bờ biển một cung tròn dài 40 km, tạo thành cảng tự nhiên mà các thủy thủ đã dựa vào suốt nhiều thế kỷ.",
+    "Đất nước này không có sông, không có hồ, và gần như không có mưa. Mọi giọt nước uống đều đến từ những máy khử muối khổng lồ, biến nước biển thành nước ngọt. Năm 1951, Kuwait trở thành quốc gia đầu tiên trên thế giới xây dựng nhà máy khử muối lớn để lấy nước uống — từ rất lâu trước khi phần còn lại của thế giới biết đến công nghệ này."
+  ],
+  "animals": [
+    "Con lạc đà một bướu là linh vật quốc gia của Kuwait — chỉ một bướu, có thể nhịn nước cả tuần và không sợ bão cát mù trời. Đua lạc đà là sự kiện lớn ở đây, và từ năm 2005, các tay đua đã là những chú robot nhỏ xíu điều khiển từ xa, sau khi trẻ em bị cấm tham gia môn thể thao này.",
+    "Mỗi mùa đông, hàng nghìn con hồng hạc hồng lớn bay đến lội bờ bùn của vịnh Sulaibikhat, nhuộm hồng cả một vùng bờ biển. Bò biển dugong — giống như con bò nhưng sống dưới nước — gặm cỏ biển ngoài khơi, tuy nhiên chúng nay đã rất hiếm và được bảo vệ hoàn toàn."
+  ],
+  "culture": [
+    "Người Kuwait nổi tiếng về lòng hiếu khách. Mỗi ngôi nhà đều có một phòng diwaniya — phòng khách đặc biệt nơi hàng xóm và người lạ tụ họp, uống cà phê thêm bạch đậu khấu, ăn chà là và trò chuyện đến khuya. Từ chối nhận tách cà phê nhỏ không có tay cầm được mời đầu tiên sẽ bị xem là thất lễ.",
+    "Món ăn quốc dân là machboos: cơm gia vị chất cao ngất với thịt cừu hoặc cá hầm mềm, thoảng hương chanh đen khô. Trước khi có dầu mỏ, nhịp đập của đất nước này là nghề lặn tìm ngọc trai — những người đàn ông lặn sâu 12 mét chỉ với một hơi thở — vẫn được tôn vinh trong Lễ hội Lặn Ngọc Trai hằng năm."
+  ],
+  "history": [
+    "Những người định cư Bani Khalid xây một pháo đài nhỏ ở bờ vịnh Kuwait vào những năm 1670 — 'Kuwait' có nghĩa là 'pháo đài nhỏ gần nước' trong tiếng Ả Rập. Gia tộc Al-Sabah lên nắm quyền lãnh đạo khoảng năm 1752. Đến thế kỷ 19, nghề buôn ngọc trai và đội thuyền dhow biến Kuwait thành cảng nhộn nhịp nhất vùng Vịnh phía bắc.",
+    "Dầu mỏ được phát hiện năm 1938 và bắt đầu xuất khẩu năm 1946, thay đổi hoàn toàn đất nước chỉ trong một thế hệ. Năm 1990, Iraq xâm chiếm Kuwait và đốt hơn 600 giếng dầu khi rút lui; đám cháy mất chín tháng mới dập tắt. Một liên minh do Mỹ dẫn đầu đã giải phóng Kuwait năm 1991, và đất nước tái thiết với tốc độ đáng kinh ngạc."
+  ],
+  "wows": [
+    "Một đồng dinar Kuwait đổi được hơn ba đô la Mỹ — đơn vị tiền tệ có giá trị cao nhất thế giới.",
+    "Quân Iraq rút lui đã đốt hơn 600 giếng dầu năm 1991; khói đen bao phủ bầu trời suốt nhiều tháng.",
+    "Kuwait không có nước ngọt tự nhiên nào cả — mọi giọt nước đều được lọc từ nước biển.",
+    "Nhiệt độ mùa hè có thể vượt 50°C, đặt Kuwait vào hàng những nơi nóng nhất Trái Đất.",
+    "Đua lạc đà dùng jockey robot — Kuwait áp dụng từ năm 2005 để bảo vệ trẻ em khỏi môn thể thao này.",
+    "Tháp Kuwait chứa hàng nghìn mét khối nước ngọt bên trong các quả cầu khổng lồ.",
+    "Con thuyền Al-Hashemi-II ở Kuwait City là chiếc thuyền dhow bằng gỗ lớn nhất thế giới theo sách Guinness."
+  ],
+  "myths": [
+    {
+      "myth": "Kuwait chỉ là sa mạc trống rỗng",
+      "fact": "Vịnh Kuwait đón hàng nghìn con hồng hạc mỗi mùa đông, còn các thảm cỏ biển ngoài khơi là nơi trú ngụ của dugong và rùa biển, khiến đất nước này có đời sống hoang dã phong phú đến bất ngờ."
+    },
+    {
+      "myth": "Tất cả người Kuwait đều là tỷ phú dầu mỏ",
+      "fact": "Khoảng 69% dân số Kuwait là lao động nước ngoài — chủ yếu từ Nam Á — họ không được hưởng lợi từ dầu mỏ và thường chỉ có thu nhập khiêm tốn."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Mời vào",
+      "jp": "تفضل",
+      "say": "tf-AD-dal"
+    },
+    {
+      "en": "Bạn ơi",
+      "jp": "حبيبي",
+      "say": "ha-BEE-bee"
+    },
+    {
+      "en": "Bạn khỏe không?",
+      "jp": "شلونك؟",
+      "say": "sh-LOH-nik?"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kw-hero.jpg",
+      "alt": "Tháp Kuwait và tòa nhà chọc trời Al-Hamra trên nền bầu trời xanh",
+      "caption": "KUWAIT CITY — những tòa tháp biểu tượng vươn cao bên đường chân trời hiện đại ven vịnh Gulf",
+      "credit": "Wikimedia Commons / CC BY 4.0"
+    },
+    "landmark": {
+      "src": "/photos/kw-landmark.jpg",
+      "alt": "Ba tháp Kuwait nhìn ra vịnh Ba Tư",
+      "caption": "THÁP KUWAIT — tháp nước hình cầu xanh, khánh thành năm 1979, biểu tượng của Kuwait",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/kw-animalA.jpg",
+      "alt": "Một con lạc đà một bướu đứng giữa sa mạc",
+      "caption": "LẠC ĐÀ MỘT BƯỚU — linh vật quốc gia Kuwait, sinh ra để sống giữa sa mạc thiêu đốt",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kw-animalB.jpg",
+      "alt": "Đàn hồng hạc lội trên mặt nước nông",
+      "caption": "HỒNG HẠC LỚN — hàng nghìn con lội bờ bùn vịnh Kuwait mỗi mùa đông",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

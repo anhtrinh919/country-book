@@ -1,0 +1,163 @@
+{
+  "name": "INDONESIA",
+  "nativeName": "ID",
+  "romaji": "INDONESIA",
+  "tagline": "Đảo lửa và hương gia vị",
+  "region": "Đông Nam Á",
+  "coords": "-2.5°S, 118°E",
+  "fileNo": "017",
+  "langName": "tiếng Indonesia",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2B2218",
+    "faint": "#8A7A5A",
+    "line": "#DCCFB0",
+    "accent": "#CE1126",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/id.svg",
+    "title": "Merah-Putih",
+    "note": "Đỏ trên trắng — dũng cảm và tinh khiết",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Indonesia là quần đảo lớn nhất thế giới — hơn 17.000 hòn đảo trải dài còn rộng hơn cả nước Mỹ! Núi lửa rầm rì sôi sục dưới những cánh rừng nhiệt đới nơi đười ươi đu chuyền giữa tán lá. Những ngôi đền cổ nghìn năm tuổi vươn lên giữa ruộng bậc thang xanh mướt, còn biển cả thì ngập tràn san hô và cá — thợ lặn không cần tìm kiếm, cá tự bơi đến xung quanh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Jakarta*",
+      "sub": "*thủ đô mới Nusantara đang xây dựng"
+    },
+    {
+      "label": "Dân số",
+      "value": "281 triệu người",
+      "sub": "đông dân thứ 4 thế giới (ước tính 2024)"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rupiah (IDR)",
+      "sub": "1 USD ≈ 16.500 IDR (2025)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Indonesia",
+      "sub": "Bahasa + hơn 700 ngôn ngữ địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1,9 triệu km²",
+      "sub": "lớn thứ 14 trên thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Puncak Jaya",
+      "sub": "4.884 m — cao nhất vùng Châu Đại Dương"
+    }
+  ],
+  "islands": [
+    "Java",
+    "Sumatra",
+    "Borneo",
+    "Sulawesi",
+    "Bali"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo ngàn đảo và lửa ngầm",
+    "animals": "Thú khổng lồ và kỳ quan biển",
+    "culture": "Batik, gia vị và nhạc gamelan",
+    "history": "Đế chế, gia vị và độc lập",
+    "wows": "Khó tin mà có thật!"
+  },
+  "geo": [
+    "Indonesia nằm trên Vành đai Lửa Thái Bình Dương với 130 núi lửa đang hoạt động — nhiều hơn bất kỳ quốc gia nào khác trên Trái Đất. Vụ phun trào của núi Krakatoa năm 1883 dữ dội đến mức người ta nghe thấy tiếng nổ tận Australia, cách đó 3.100 km!",
+    "Quần đảo này kéo dài 5.100 km từ đông sang tây — bằng khoảng cách từ London đến Tehran. Các hòn đảo trải đủ dạng: từ núi rừng hùng vĩ đến những vòng đảo san hô phẳng lì, chỉ nhô lên khỏi mặt biển vài mét."
+  ],
+  "animals": [
+    "Sumatra là nơi duy nhất trên thế giới mà hổ, voi, tê giác và đười ươi cùng sống chung trong một khu rừng. Còn rồng Komodo — dài đến 3 m — chỉ tồn tại trên vài hòn đảo nhỏ của Indonesia, không nơi nào khác trên Trái Đất có loài thằn lằn khổng lồ này.",
+    "Tam giác San hô ở phía đông Indonesia chứa đựng nguồn sinh vật biển phong phú nhất hành tinh: hơn 600 loài san hô và 3.000 loài cá, từ cá mập voi khổng lồ đến cá ngựa lùn bé xíu bằng đầu ngón tay."
+  ],
+  "culture": [
+    "Indonesia có hơn 300 dân tộc và 700 ngôn ngữ khác nhau, nhưng tiếng Bahasa Indonesia gắn kết tất cả mọi người trong trường học và cuộc sống. Wayang kulit — múa rối bóng — kể chuyện thâu đêm dưới ánh đèn, và nghệ thuật này đã được UNESCO công nhận là di sản văn hóa phi vật thể.",
+    "Vải Batik nhuộm sáp với hoa văn tinh xảo là trang phục không thể thiếu — từ đám cưới đến văn phòng, người Indonesia đều diện Batik tự hào. Dàn nhạc Gamelan với những chiếc cồng đồng tạo ra âm thanh lung linh như tiếng nước chảy qua kẽ đá, nghe mê mẩn không dứt ra được."
+  ],
+  "history": [
+    "Các vương quốc Hindu và Phật giáo đã thịnh vượng ở đây hàng nghìn năm; đền Borobudur (khoảng năm 800 sau Công nguyên) là tượng đài Phật giáo lớn nhất thế giới. Sau đó, các vương quốc Hồi giáo nắm quyền kiểm soát con đường buôn bán gia vị toàn cầu.",
+    "Người Hà Lan đô hộ Indonesia suốt ba thế kỷ rưỡi, bị thu hút bởi hạt nhục đậu khấu, tiêu và đinh hương quý giá. Sukarno tuyên bố độc lập ngày 17 tháng 8 năm 1945 — một ngày mà mọi người Indonesia đều thuộc lòng như thuộc ngày sinh của chính mình."
+  ],
+  "wows": [
+    "Indonesia có nhiều núi lửa đang hoạt động nhất thế giới — khoảng 130 núi lửa!",
+    "Đảo Java có 155 triệu dân, trở thành hòn đảo lớn đông dân nhất trên Trái Đất.",
+    "Rồng Komodo có thể ngửi thấy mùi con mồi bằng lưỡi từ xa tới 9 km.",
+    "2.672 tấm phù điêu của Borobudur, nếu xếp liền nhau, sẽ dài hơn 6 km.",
+    "Indonesia trồng khoảng 75% lượng hạt nhục đậu khấu của cả thế giới.",
+    "Khẩu hiệu 'Bhinneka Tunggal Ika' — Đoàn kết trong đa dạng — đã được viết cách đây 700 năm.",
+    "Indonesia đang xây dựng thủ đô mới hoàn toàn từ đầu giữa rừng Borneo, đặt tên là Nusantara."
+  ],
+  "myths": [
+    {
+      "myth": "Bali chính là Indonesia",
+      "fact": "Bali chỉ là một trong hơn 17.000 hòn đảo. Phần lớn người Indonesia theo đạo Hồi — văn hóa Hindu đặc sắc của Bali là một ngoại lệ đẹp đẽ và hiếm có, không phải đại diện cho cả đất nước."
+    },
+    {
+      "myth": "Tất cả các đảo đều phẳng và nóng ẩm",
+      "fact": "Đỉnh Puncak Jaya ở Papua cao 4.884 m và có... sông băng! Đây là một trong những sông băng nhiệt đới cuối cùng còn sót lại ngoài dãy Andes, nhưng các nhà khoa học cảnh báo nó có thể tan biến trước năm 2030."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Halo",
+      "say": "hah-LO"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Terima kasih",
+      "say": "tree-MAH kah-SEE"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Enak!",
+      "say": "EH-nahk"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "Berapa?",
+      "say": "beh-RAH-pah"
+    },
+    {
+      "en": "Hòn đảo",
+      "jp": "Pulau",
+      "say": "POO-lau"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/id-hero.jpg",
+      "alt": "Đường chân trời thành phố Jakarta lúc hoàng hôn",
+      "caption": "JAKARTA — thủ đô rộng lớn của Indonesia lấp lánh trên bờ biển đảo Java",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/id-landmark.jpg",
+      "alt": "Đền Borobudur lúc bình minh ở miền Trung Java",
+      "caption": "BOROBUDUR — tượng đài Phật giáo lớn nhất thế giới, xây dựng khoảng năm 800 sau Công nguyên",
+      "credit": "Wikimedia Commons / Gunawan Kartapranata"
+    },
+    "animalA": {
+      "src": "/photos/id-animalA.jpg",
+      "alt": "Rồng Komodo đi trên đất khô ở đảo Rinca",
+      "caption": "RỒNG KOMODO — loài thằn lằn lớn nhất Trái Đất, chỉ sống trên các đảo của Indonesia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/id-animalB.jpg",
+      "alt": "Đười ươi Borneo trên tán rừng",
+      "caption": "ĐƯỜI ƯƠI BORNEO — 'người của rừng', đang có nguy cơ tuyệt chủng ở Borneo và Sumatra",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "BỒ ĐÀO NHA",
+  "nativeName": "PT",
+  "romaji": "PORTUGAL",
+  "tagline": "Nơi tận cùng thế giới cũ",
+  "region": "Nam Âu",
+  "coords": "39.5°N, 8.0°W",
+  "fileNo": "042",
+  "langName": "tiếng Bồ Đào Nha",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#c9b99a",
+    "ink": "#231f1b",
+    "faint": "#897055",
+    "line": "#ddd0b8",
+    "accent": "#006600",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/pt.svg",
+    "title": "Bồ Đào Nha",
+    "note": "Xanh lá và đỏ với hình thiên cầu nghi",
+    "keyColor": "#006600",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bồ Đào Nha nằm ở rìa phía tây của châu Âu, nơi đại dương Đại Tây Dương bắt đầu. Những người thủy thủ Bồ Đào Nha xưa kia đã đi tàu khám phá gần nửa thế giới — và ngày nay tiếng Bồ Đào Nha được tới 260 triệu người nói. Đất nước nhỏ bé này nổi tiếng với bãi biển vàng óng, điệu nhạc fado buồn da diết, và những cây sần sù dùng để làm nút bần đóng chai cho cả thế giới. Điều thú vị nhất: biên giới của Bồ Đào Nha gần như không thay đổi suốt gần 900 năm nay!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Lisbon",
+      "sub": "Thủ đô lâu đời nhất ở Tây Âu"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,3 triệu",
+      "sub": "Điều tra 2021; ước tính ~10,8 triệu năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng đồng euro từ năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Bồ Đào Nha",
+      "sub": "260 triệu người nói trên toàn thế giới"
+    },
+    {
+      "label": "Diện tích",
+      "value": "91.470 km²",
+      "sub": "Bao gồm quần đảo Azores và Madeira"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Pico 2.351 m",
+      "sub": "Núi lửa trên đảo Pico thuộc quần đảo Azores"
+    }
+  ],
+  "islands": [
+    "Lisbon",
+    "Porto",
+    "Algarve",
+    "Azores",
+    "Madeira"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Nơi đất liền gặp đại dương",
+    "animals": "Thú hoang vùng Iberia",
+    "culture": "Fado, gạch hoa và bóng đá",
+    "history": "Những thủy thủ lập bản đồ thế giới",
+    "wows": "Những điều bất ngờ về Bồ Đào Nha"
+  },
+  "geo": [
+    "Bồ Đào Nha trải dài theo bờ tây của bán đảo Iberia với 832 km bờ biển tiếp giáp Đại Tây Dương. Miền bắc xanh mướt và nhiều đồi núi, ướt đẫm mưa từ đại dương; miền nam thì nắng gay gắt theo kiểu Địa Trung Hải, với những vách đá vàng rực đổ xuống làn nước xanh ngọc.",
+    "Xa ngoài khơi, Bồ Đào Nha còn sở hữu quần đảo Azores — những hòn đảo núi lửa cách đất liền 1.500 km về phía tây — và hòn đảo Madeira xanh tươi, gần Morocco còn hơn gần Lisbon. Đỉnh cao nhất là núi Pico, một ngọn núi lửa ngủ yên mọc thẳng lên từ mặt biển."
+  ],
+  "animals": [
+    "Linh miêu Iberia lẻn qua những khu rừng sần bần với đôi chân to bản, đôi tai vểnh lên nghe ngóng tiếng thỏ. Từng suýt tuyệt chủng với chưa đầy 100 con năm 2002, các chương trình bảo tồn đã giúp loài này phục hồi lên hơn 1.600 con trên khắp Bồ Đào Nha và Tây Ban Nha.",
+    "Sói Iberia — gầy và tối màu hơn họ hàng phương bắc, với chân có sọc đặc biệt — săn mồi theo đàn nhỏ trong những vùng cao nguyên mù sương phía bắc sông Douro. Khoảng 300 con còn sống ở Bồ Đào Nha và được pháp luật bảo vệ từ năm 1988."
+  ],
+  "culture": [
+    "Những tấm gạch men azulejo xanh trắng phủ kín tường nhà thờ, nhà ga và nhà ở — một truyền thống từ thời người Moor cai trị cách đây 500 năm. Fado là thứ âm nhạc thổn thức đến da diết: một giọng ca, một cây đàn ghi-ta, và cảm xúc saudade — nỗi nhớ nhung về một điều gì đó khó gọi tên.",
+    "Bóng đá là tôn giáo ở đây, với ba đội Benfica, Porto và Sporting kình địch nhau mãi mãi. Còn chiếc bánh tart trứng nhỏ nhắn pastéis de nata — lớp vỏ giòn, nhân kem trứng cháy xém, được các tu sĩ Lisbon phát minh vào thế kỷ 19 — được hàng triệu người ăn mỗi ngày."
+  ],
+  "history": [
+    "Bồ Đào Nha trở thành vương quốc từ năm 1139 — một trong những quốc gia lâu đời nhất châu Âu. Sang thế kỷ 15, các thủy thủ Bồ Đào Nha mở ra Thời đại Khám phá: Vasco da Gama đến được Ấn Độ bằng đường biển; Pedro Álvares Cabral đặt chân lên Brazil. Đế chế Bồ Đào Nha trải khắp bốn châu lục.",
+    "Trận động đất năm 1755 san bằng thủ đô Lisbon và gây ra sóng thần lan khắp châu Âu. Thành phố được xây dựng lại theo quy hoạch vuông vức hiện đại chỉ trong vài năm. Đến năm 1974, Cách mạng Hoa Cẩm Chướng hòa bình chấm dứt chế độ độc tài — tên gọi bắt nguồn từ việc người biểu tình cắm hoa vào nòng súng của lính."
+  ],
+  "wows": [
+    "Bồ Đào Nha sản xuất khoảng một nửa lượng bần (cork) của toàn thế giới — loại vỏ cây được lột tay từ cây sống mỗi chín năm một lần.",
+    "Lisbon được lập ra khoảng năm 1200 trước Công nguyên — tức là sớm hơn khoảng bốn thế kỷ so với khi thành Rome được xây dựng.",
+    "Đầu năm 2025, trong một quý duy nhất, Bồ Đào Nha tạo ra hơn 80% điện năng từ các nguồn tái tạo như gió và mặt trời.",
+    "Hiệu sách lâu đời nhất thế giới vẫn đang hoạt động là Livraria Bertrand ở Lisbon, mở cửa từ năm 1732 đến nay.",
+    "Biên giới của Bồ Đào Nha gần như không thay đổi kể từ năm 1139 — lâu đời nhất ở lục địa châu Âu.",
+    "Tiếng Bồ Đào Nha là ngôn ngữ chính thức của chín quốc gia trải khắp bốn châu lục trên thế giới.",
+    "Cuộc Cách mạng năm 1974 diễn ra hoàn toàn hòa bình đến mức người biểu tình cắm hoa cẩm chướng vào nòng súng của những người lính."
+  ],
+  "myths": [
+    {
+      "myth": "Bồ Đào Nha lúc nào cũng nắng ấm",
+      "fact": "Thực ra Porto còn mưa nhiều hơn cả London vào mùa đông. Mưa Đại Tây Dương xối xả ở miền bắc; ngay cả vùng Algarve cũng có những đợt mưa dầm. Chỉ vùng cực nam mới có thời tiết đẹp như trên bưu thiếp."
+    },
+    {
+      "myth": "Tiếng Bồ Đào Nha chỉ là tiếng Tây Ban Nha nói theo giọng khác",
+      "fact": "Hai ngôn ngữ này có cùng gốc Latin nhưng nghe rất khác nhau. Người nói tiếng Tây Ban Nha không tự nhiên hiểu được tiếng Bồ Đào Nha — đây là hai ngôn ngữ hoàn toàn riêng biệt."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Olá",
+      "say": "oh-LAH"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Delicioso",
+      "say": "deh-lee-SYOH-zoo"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Adeus",
+      "say": "ah-DAY-oosh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pt-hero.jpg",
+      "alt": "Toàn cảnh thành phố Lisbon nhìn từ bên kia sông Tagus",
+      "caption": "LISBON — Thủ đô lâu đời nhất Tây Âu trải dài trên bảy ngọn đồi bên dòng sông Tagus",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pt-landmark.jpg",
+      "alt": "Tháp Belém sừng sững bên dòng sông Tagus ở Lisbon",
+      "caption": "THÁP BELÉM — Pháo đài kiến trúc Manueline xây năm 1516, cửa ngõ tiễn các đoàn thuyền thám hiểm",
+      "credit": "Diego Delso / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/pt-animalA.jpg",
+      "alt": "Linh miêu Iberia trong bụi rậm vùng Địa Trung Hải",
+      "caption": "LINH MIÊu IBERIA — được cứu khỏi bờ vực tuyệt chủng; hơn 1.600 con đang sống trong rừng Iberia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pt-animalB.jpg",
+      "alt": "Sói Iberia trong môi trường tự nhiên",
+      "caption": "SÓI IBERIA — khoảng 300 con còn sống ở vùng cao nguyên phía bắc Bồ Đào Nha, được bảo vệ từ năm 1988",
+      "credit": "Wikimedia Commons CC BY-SA"
+    }
+  }
+}

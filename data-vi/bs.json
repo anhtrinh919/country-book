@@ -1,0 +1,163 @@
+{
+  "name": "BAHAMAS",
+  "nativeName": "BS",
+  "romaji": "BAHAMAS",
+  "tagline": "700 hòn đảo xanh biếc",
+  "region": "Vùng Caribe",
+  "coords": "25.0° N, 77.4° W",
+  "fileNo": "044",
+  "langName": "tiếng Anh Bahamas",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F0EFDF",
+    "dot": "#C8C6A0",
+    "ink": "#1E2320",
+    "faint": "#7A8870",
+    "line": "#DCDBB8",
+    "accent": "#00B2CA",
+    "accent2": "#F0C030"
+  },
+  "flag": {
+    "assetPath": "/flags/bs.svg",
+    "title": "Tam giác đen",
+    "note": "Màu xanh ngọc, vàng và đen từ năm 1973",
+    "keyColor": "#00B2CA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hãy tưởng tượng 700 hòn đảo rải rác trên mặt biển ấm áp xanh ngọc — đó là Bahamas! Đây chính là nơi Columbus đặt chân lên châu Mỹ lần đầu tiên vào năm 1492. Ở đây có lũ lợn hoang biết bơi ra tận thuyền du lịch để xin ăn, và phần lớn các đảo hoàn toàn không có người ở, với những bãi biển trống trải đợi bạn khám phá.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Nassau",
+      "sub": "Đảo New Providence"
+    },
+    {
+      "label": "Dân số",
+      "value": "~393.000",
+      "sub": "ước tính năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "BSD $1",
+      "sub": "= 1 đô la Mỹ, luôn luôn vậy"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Ngôn ngữ chính thức; còn có tiếng Creole"
+    },
+    {
+      "label": "Diện tích",
+      "value": "13.878 km²",
+      "sub": "Tương đương xứ Wales"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "63 m",
+      "sub": "Núi Alvernia, đảo Cat"
+    }
+  ],
+  "islands": [
+    "Nassau",
+    "Andros",
+    "Exuma",
+    "Eleuthera",
+    "Grand Bahama"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Biển cả trải 700 hòn đảo",
+    "animals": "Hồng hạc và chúa tể rạn san hô",
+    "culture": "Ốc, sắc màu và lễ hội",
+    "history": "Từ cướp biển đến thiên đường",
+    "wows": "Khó tin lắm đấy!"
+  },
+  "geo": [
+    "Bahamas trải dài với 700 hòn đảo và 2.400 bãi cát nhỏ — nhưng chỉ khoảng 30 đảo có người sinh sống. Mặt đất ở đây toàn đá san hô bằng phẳng, được hình thành từ những rạn san hô cổ xưa bị mưa và thời gian bào mòn dần, hầu như chỉ nhô cao vài mét so với mực nước biển.",
+    "Andros là đảo lớn nhất và ôm ấp rạn san hô dài thứ ba thế giới với 190 km. Bên dưới mặt đất, Công viên Quốc gia Lucayan ẩn chứa một trong những hệ thống hang ngầm dưới nước lớn nhất Trái Đất — nhìn từ bên trên chẳng thấy gì cả."
+  ],
+  "animals": [
+    "Hồng hạc châu Mỹ là quốc điểu của Bahamas. Đảo Great Inagua là nơi trú ngụ của một trong những đàn hồng hạc sinh sản lớn nhất thế giới — hơn 50.000 con nhuộm hồng cả bờ biển khi chúng lội bộ trên cánh đồng muối lúc hoàng hôn.",
+    "Cá mú Nassau tuần tra khắp rạn san hô với bộ lông ngụy trang kỳ diệu, có thể đổi màu đốm trong vài giây. Loài cá từng rất phổ biến này nay đang bị đe dọa tuyệt chủng nghiêm trọng vì chúng hay tụ tập thành đàn lớn khi sinh sản và rất dễ bị đánh bắt."
+  ],
+  "culture": [
+    "Junkanoo là lễ hội lớn nhất Bahamas: một cuộc diễu hành trước bình minh vào ngày 26 tháng 12 và sáng mồng một năm mới, nơi các nhóm mặc trang phục khổng lồ làm từ giấy crepe nhảy múa theo tiếng chuông bò, trống da dê và kèn đồng. Lễ hội bắt nguồn từ thời người châu Phi bị bắt làm nô lệ, họ được tạm thời tự do trong những ngày nghỉ hiếm hoi; nay đã trở thành di sản UNESCO.",
+    "Ốc conch (đọc là 'konk') vừa là món ăn quốc dân vừa là niềm đam mê — ăn sống trong salad, chiên giòn thành bánh hoặc nấu cà ri. Vỏ ốc xuất hiện trên quốc huy. Người Lucayan đã ăn ốc conch ở đây từ 1.300 năm trước và để lại những đống vỏ ốc khổng lồ mà các nhà khảo cổ vẫn đang nghiên cứu."
+  ],
+  "history": [
+    "Columbus đặt chân lên đảo San Salvador ngày 12 tháng 10 năm 1492 — lần tiếp xúc đầu tiên của ông với châu Mỹ. Ông đặt tên vùng đất này là 'baja mar' (biển nông). Chỉ trong vòng 25 năm, những kẻ buôn nô lệ người Tây Ban Nha đã bắt đi toàn bộ 40.000 người Lucayan; quần đảo bỏ hoang hơn một thế kỷ.",
+    "Những người định cư Anh đến vào thập niên 1640, rồi cướp biển như Blackbeard nhanh chóng chiếm lĩnh cảng Nassau. Anh Quốc cai trị 325 năm cho đến ngày 10 tháng 7 năm 1973, khi Bahamas kéo lá cờ xanh ngọc và vàng mới toanh, chính thức độc lập hoàn toàn."
+  ],
+  "wows": [
+    "Bahamas có nhiều 'hố xanh' — hố sụt dưới nước — trên mỗi dặm vuông nhiều hơn bất kỳ nơi nào trên Trái Đất.",
+    "Hố xanh Dean trên đảo Long sâu tới 202 m; các vận động viên lặn tự do nín thở xuống quá 100 m để lập kỷ lục thế giới.",
+    "Đàn lợn hoang trên đảo Big Major Cay bơi ra tận thuyền du lịch để xin ăn; không ai biết chúng đến từ đâu.",
+    "Đồng đô la Bahamas đã được neo tỷ giá đúng 1 ăn 1 với đô la Mỹ mỗi ngày kể từ năm 1966.",
+    "Bãi biển của đảo Harbour Island có màu hồng tự nhiên, được tô điểm bởi hàng triệu mảnh vỏ san hô đỏ vụn nát.",
+    "Bahamas không có thuế thu nhập, thuế lãi vốn hay thuế thừa kế.",
+    "Columbus viết trong nhật ký rằng người Lucayan là những người đẹp nhất và hiền lành nhất ông từng gặp."
+  ],
+  "myths": [
+    {
+      "myth": "Mọi bãi biển ở Bahamas đều có cát trắng",
+      "fact": "Bãi biển nổi tiếng của đảo Harbour Island lại có màu hồng, do mảnh vỏ từ một loài san hô địa phương — một trong số ít bãi biển cát hồng tự nhiên hiếm có trên thế giới."
+    },
+    {
+      "myth": "Bahamas chỉ là một hòn đảo lớn",
+      "fact": "Thực ra có tới 700 hòn đảo và 2.400 bãi cát nhỏ; phần lớn không có đường sá hay người ở — bạn có thể ghé một bãi biển trống khác nhau mỗi ngày suốt nhiều năm mà không hết."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hey there!",
+      "say": "HEY theh"
+    },
+    {
+      "en": "Bãi biển",
+      "jp": "De beach",
+      "say": "deh BEECH"
+    },
+    {
+      "en": "Ốc conch",
+      "jp": "Conch",
+      "say": "KONK"
+    },
+    {
+      "en": "Lễ hội",
+      "jp": "Junkanoo",
+      "say": "JUNK-uh-noo"
+    },
+    {
+      "en": "Không sao",
+      "jp": "No problem",
+      "say": "no PROB-lem"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bs-hero.jpg",
+      "alt": "Khu nghỉ dưỡng Atlantis Paradise Island nhìn từ phía biển, Nassau Bahamas",
+      "caption": "KHU NGHỈ DƯỠNG ATLANTIS — những tòa tháp hồng của Paradise Island vươn cao trên cảng Nassau",
+      "credit": "Drumguy8800 / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/bs-landmark.jpg",
+      "alt": "Bãi biển cát hồng uốn cong dọc bờ đảo Harbour Island ở Bahamas",
+      "caption": "BÃI BIỂN CÁT HỒNG — bờ biển đảo Harbour Island đỏ hồng từ những mảnh vỏ san hô vụn",
+      "credit": "Mike's Birds / CC BY-SA 2.0"
+    },
+    "animalA": {
+      "src": "/photos/bs-animalA.jpg",
+      "alt": "Hồng hạc châu Mỹ đứng trong nước nông, bộ lông hồng rực rỡ",
+      "caption": "HỒNG HẠC CHÂU MỸ — quốc điểu; hơn 50.000 con sinh sản trên đảo Great Inagua",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/bs-animalB.jpg",
+      "alt": "Cá mú Nassau lơ lửng trên rạn san hô vùng Caribe",
+      "caption": "CÁ MÚ NASSAU — mang tên thủ đô; loài cá rạn san hô đang bị đe dọa tuyệt chủng",
+      "credit": "Bernard Dupont / CC BY-SA 2.0"
+    }
+  }
+}

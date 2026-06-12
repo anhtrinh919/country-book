@@ -1,0 +1,163 @@
+{
+  "name": "NAMIBIA",
+  "nativeName": "NA",
+  "romaji": "NAMIBIA",
+  "tagline": "Sa mạc, sao trời & bầu trời hoang dã",
+  "region": "Nam Phi",
+  "coords": "-22.0°N, 17.0°E",
+  "fileNo": "068",
+  "langName": "tiếng Afrikaans",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#231F1A",
+    "faint": "#8A7A5A",
+    "line": "#DCCFAA",
+    "accent": "#003580",
+    "accent2": "#D4A017"
+  },
+  "flag": {
+    "assetPath": "/flags/na.svg",
+    "title": "Quốc kỳ Namibia",
+    "note": "Mặt trời, các dải chéo màu xanh, đỏ và xanh lá",
+    "keyColor": "#003580",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Namibia nằm ở bờ tây nam châu Phi, nơi những cồn cát màu cam đỏ tiếp giáp với đại dương lạnh giá. Đây là sa mạc lâu đời nhất Trái Đất, nơi có bầu trời đêm tối nhất và nhiều báo gê-pa hoang dã nhất thế giới. Namibia rộng lớn đến mức dân số còn ít hơn cả một thành phố lớn — nhường chỗ cho voi, linh dương oryx và những bức tranh đá hàng nghìn năm tuổi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Windhoek",
+      "sub": "Thành phố cao nguyên, độ cao 1.654 m"
+    },
+    {
+      "label": "Dân số",
+      "value": "3,0 triệu",
+      "sub": "Ước tính 2023 — mật độ thưa nhất thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la Namibia (N$)",
+      "sub": "Gắn cố định với đồng rand Nam Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "tiếng Afrikaans và Oshiwambo cũng phổ biến"
+    },
+    {
+      "label": "Diện tích",
+      "value": "824.292 km²",
+      "sub": "Rộng hơn Pháp và Đức cộng lại"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.573 m",
+      "sub": "Núi Brandberg, vùng Erongo"
+    }
+  ],
+  "islands": [
+    "Windhoek",
+    "Swakopmund",
+    "Lüderitz",
+    "Oshakati",
+    "Walvis Bay"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Cồn cát, sa mạc & bờ xương",
+    "animals": "Báo săn & chó hoang châu Phi",
+    "culture": "Đất son, trống và xúc xích",
+    "history": "Thuộc địa, kim cương & độc lập",
+    "wows": "7 điều bất ngờ hoang dã"
+  },
+  "geo": [
+    "Namibia có ba khuôn mặt khác nhau: sa mạc Namib ôm trọn bờ Đại Tây Dương — những cồn cát đỏ cam tại Sossusvlei cao tới 325 mét, cao hơn cả tháp Eiffel! Điều kỳ lạ là ngay sát những cồn cát nóng bỏng đó, một dòng hải lưu lạnh làm mát không khí, tạo ra màn sương mù huyền ảo bao phủ bãi biển mỗi buổi sáng.",
+    "Vào sâu trong đất liền, vùng cao nguyên đá nhường chỗ cho thảo nguyên gai góc Kalahari. Ở phía bắc, hồ muối Etosha Pan rộng mênh mông — sau mỗi cơn mưa, hàng nghìn con hồng hạc kéo về biến nơi đây thành một biển hồng. Namibia ít mây đến mức các đài thiên văn hạng nhất thế giới đặt trụ sở tại đây để ngắm bầu trời đêm đen như mực."
+  ],
+  "animals": [
+    "Namibia bảo vệ khoảng 3.000 con báo gê-pa sống tự do — nhiều hơn bất kỳ nơi nào trên thế giới. Vườn quốc gia Etosha thu hút voi, tê giác đen và sư tử tụ về các hố nước, nơi du khách có thể ngồi xem từ chòi quan sát sáng đèn suốt đêm. Bờ Skeleton Coast có những bãi hải cẩu khổng lồ — một bãi biển duy nhất có thể chứa tới 100.000 con!",
+    "Dù bao quanh là sa mạc, các con sông ở Namibia vẫn có hà mã và cá sấu sinh sống. Chó hoang châu Phi đi săn theo đàn xuyên qua bụi rậm. Loài chim thợ dệt xã hội xây những tổ chim lớn nhất thế giới — trông như cả đống rơm khổng lồ trên cây, với hàng trăm con cùng chung sống trong một tổ."
+  ],
+  "culture": [
+    "Namibia có tới mười một ngôn ngữ quốc gia — của người Ovambo, Herero, Damara và người San cổ xưa. Người Himba ở miền bắc phết bơ đỏ son lên tóc, một tập tục vừa bảo vệ da khỏi nắng vừa được coi là chuẩn mực của vẻ đẹp truyền thống.",
+    "Ẩm thực Namibia pha trộn hương vị châu Phi và Đức — bạn có thể tìm thấy cả kapana (thịt nướng đường phố) lẫn bratwurst (xúc xích Đức) ngay tại Windhoek. Âm nhạc truyền thống dùng đàn ngón tay, trống và hát cổ họng. Namibia có cộng đồng nói tiếng Đức lớn nhất châu Phi, ngoài nước Đức."
+  ],
+  "history": [
+    "Người San đã sống ở mảnh đất này hơn 20.000 năm, để lại những hình bàn tay in trên vách đá khắp Namibia. Người Đức đến xâm chiếm vào thập niên 1880. Từ năm 1904 đến 1908, quân Đức đã tàn sát khoảng 80.000 người Herero và Nama — được coi là vụ diệt chủng đầu tiên của thế kỷ 20.",
+    "Sau đó Nam Phi cai trị Namibia suốt 75 năm. Cuộc đấu tranh giải phóng của phong trào SWAPO kết thúc bằng nền độc lập ngày 21 tháng 3 năm 1990 — đây là cuộc phi thực dân hóa lớn cuối cùng ở châu Phi. Đức chính thức xin lỗi về vụ diệt chủng năm 2021. Ngày nay Namibia là một trong những nền dân chủ ổn định nhất châu Phi."
+  ],
+  "wows": [
+    "Sa mạc Namib khoảng 55 triệu năm tuổi — sa mạc già nhất trên Trái Đất.",
+    "Cồn cát Big Daddy gần Sossusvlei cao khoảng 325 m — cao hơn cả tháp Eiffel của Pháp.",
+    "Namibia là quốc gia đầu tiên trên thế giới đưa bảo tồn thiên nhiên vào Hiến pháp (năm 1990).",
+    "Bờ biển Skeleton Coast có tên từ xương cá voi và xác tàu đắm vì sương mù dày đặc bờ biển.",
+    "Namibia có khoảng 3.000 con báo gê-pa sống hoang dã — nhiều nhất thế giới.",
+    "Hẻm núi Fish River là hẻm núi lớn nhất châu Phi: dài 160 km và sâu 550 m.",
+    "Khoảng 10% kim cương thế giới được khai thác từ đáy biển ngoài khơi bờ biển Namibia."
+  ],
+  "myths": [
+    {
+      "myth": "Namibia chỉ là sa mạc trống rỗng, không có gì",
+      "fact": "Nơi đây có đa dạng sinh học phi thường — báo gê-pa, tê giác, voi sa mạc, hơn 700 loài chim, và bờ biển tràn ngập hải cẩu lẫn chim cánh cụt."
+    },
+    {
+      "myth": "Namibia không bao giờ có mưa",
+      "fact": "Miền bắc có mưa hè đều đặn; ngay cả sa mạc Namib cũng nở hoa rực rỡ sau những cơn mưa hiếm hoi, phủ kín cát bằng thảm hoa nhiều màu sắc."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hallo",
+      "say": "HAH-low"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Dankie",
+      "say": "DUNK-ee"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Ja",
+      "say": "Yah"
+    },
+    {
+      "en": "Nước",
+      "jp": "Water",
+      "say": "VAH-ter"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Pragtig",
+      "say": "PRAKH-tukh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/na-hero.jpg",
+      "alt": "Những cồn cát đỏ cam khổng lồ ở Sossusvlei dưới bầu trời xanh ngắt",
+      "caption": "CỒNG CÁT SOSSUSVLEI — một trong những cồn cát cao nhất Trái Đất, sa mạc Namib",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/na-landmark.jpg",
+      "alt": "Toàn cảnh hẻm núi Fish River rộng lớn, hẻm núi lớn nhất châu Phi",
+      "caption": "HẺM NÚI FISH RIVER — hẻm núi lớn nhất châu Phi, dài 160 km",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/na-animalA.jpg",
+      "alt": "Báo gê-pa đứng cảnh giác trên thảo nguyên Namibia",
+      "caption": "BÁO GÊ-PA — Namibia bảo vệ nhiều báo gê-pa hoang dã hơn bất kỳ quốc gia nào",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/na-animalB.jpg",
+      "alt": "Hàng nghìn con hải cẩu lông mao Cape chen chúc trên bãi biển Skeleton Coast",
+      "caption": "HẢI CẨU CAPE — tới 100.000 con hải cẩu trên một bãi biển Skeleton Coast duy nhất",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

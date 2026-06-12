@@ -1,0 +1,162 @@
+{
+  "name": "BRUNEI",
+  "nativeName": "بروني",
+  "romaji": "BRUNEI",
+  "tagline": "Vương quốc nhỏ, biển dầu khổng lồ",
+  "region": "Đông Nam Á",
+  "coords": "4.9°N, 114.9°E",
+  "fileNo": "058",
+  "langName": "tiếng Mã Lai",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF99",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#DDD0AD",
+    "accent": "#F0C235",
+    "accent2": "#C8292B"
+  },
+  "flag": {
+    "assetPath": "/flags/bn.svg",
+    "title": "Quốc kỳ Brunei",
+    "note": "Nền vàng với hai dải chéo trắng và đen",
+    "keyColor": "#F0C235",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Brunei là một vương quốc nhỏ xíu nằm trên đảo Borneo, nhỏ hơn cả tỉnh Bình Dương, nhưng giàu có vô cùng nhờ dầu mỏ. Một gia đình hoàng gia đã cai trị đất nước này liên tục hơn 600 năm! Người dân Brunei không phải đóng thuế, được học miễn phí và khám bệnh miễn phí. Rừng nhiệt đới dày đặc che giấu những chú khỉ mũi to và chim mỏ sừng khổng lồ — chỉ cách ngôi đền hồi giáo mái vàng lộng lẫy soi bóng xuống hồ nước vài phút đi xe.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bandar S. Beg.",
+      "sub": "Dân số ~100.000 người (2024)"
+    },
+    {
+      "label": "Dân số",
+      "value": "455.500",
+      "sub": "Ước tính chính thức, 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Brunei",
+      "sub": "BND; ngang giá 1:1 với đô-la Singapore"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Mã Lai",
+      "sub": "Cũng dùng: tiếng Anh và tiếng Trung"
+    },
+    {
+      "label": "Diện tích",
+      "value": "5.765 km²",
+      "sub": "Nhỏ hơn tỉnh Bình Dương của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Bukit Pagon",
+      "sub": "1.841 m — vùng đồi rừng phía đông nam"
+    }
+  ],
+  "islands": [
+    "Brunei-Muara",
+    "Belait",
+    "Tutong",
+    "Temburong"
+  ],
+  "islandsLabel": "CÁC QUẬN CHÍNH:",
+  "sections": {
+    "geography": "Viên ngọc rừng trên đảo Borneo",
+    "animals": "Những sinh vật tán rừng kỳ lạ",
+    "culture": "Vàng, nhà sàn và cuộc sống hoàng gia",
+    "history": "Từ đế chế xưa đến vương quốc dầu mỏ",
+    "wows": "Những điều khiến bạn ngỡ ngàng"
+  },
+  "geo": [
+    "Brunei ôm lấy bờ biển phía bắc đảo Borneo, nhưng bị tách thành hai mảnh bởi bang Sarawak của Malaysia. Dải đất ven biển thấp nhìn ra Biển Đông, rồi địa hình dần nhô lên thành rừng rậm phủ sương mù. Vùng đất Temburong ở phía đông từng chỉ đến được bằng thuyền cao tốc — mãi đến năm 2020 mới có cây cầu dài 30 km nối liền hai phần đất nước.",
+    "Hai phần ba diện tích Brunei là rừng nhiệt đới nguyên sinh, thuộc hàng ít bị tác động nhất ở Đông Nam Á. Những con sông như sông Brunei chính là những con đường xuyên rừng xanh. Thị trấn Seria ven biển nằm ngay trên mỏ dầu — phát hiện năm 1929 đã biến vương quốc nhỏ yên tĩnh này thành một trong những nơi giàu nhất thế giới."
+  ],
+  "animals": [
+    "Khỉ mũi dài chỉ sống trên đảo Borneo — loài linh trưởng bụng phệ, mũi to tướng, bơi qua sông và lao vào rừng đước lúc hoàng hôn. Cả đàn tập hợp dọc sông Brunei mỗi buổi tối, được nhìn thấy chúng ngoài tự nhiên là một trải nghiệm thật đặc biệt.",
+    "Công viên Ulu Temburong là nơi trú ẩn của voi lùn, báo gấm và gấu chó. Chim mỏ sừng tê giác — quốc điểu của Brunei — đội trên đầu một chiếc sừng đỏ vàng to bằng quả chuối. Còn colugo bay lượn giữa các cây nhờ tấm màng da căng như áo choàng — trông như một con sóc bay siêu to."
+  ],
+  "culture": [
+    "Đạo Hồi định hình mọi ngày sống: tiếng gọi cầu nguyện vang lên năm lần mỗi ngày, cửa hàng đóng cửa chiều thứ Sáu, và tháng Ramadan mang lại những ngày yên tĩnh xen kẽ những đêm lễ hội sôi động. Vào ngày Hari Raya, nhà vua mở cửa cung điện 1.788 phòng đón hàng nghìn dân — đây là buổi tiếp dân hoàng gia thường niên lớn nhất thế giới.",
+    "Kampong Ayer — \"Làng trên nước\" — là nơi sinh sống của khoảng 13.000 người trên những ngôi nhà sàn dựng trên sông Brunei, nối với nhau bằng 36 km lối đi. Những người thợ dệt vẫn làm vải jong sarat thêu chỉ vàng dành cho đám cưới hoàng gia. Chợ đêm Gadong mỗi tối nức mùi thịt xiên nướng và ambuyat — món ăn quốc gia dẻo như keo làm từ bột sắn."
+  ],
+  "history": [
+    "Vương quốc Brunei nổi lên vào thế kỷ 14 và từng cai trị phần lớn đảo Borneo và cả Philippines. Khi đoàn thuyền của Magellan ghé thăm năm 1521, họ thấy một triều đình lộng lẫy đầy vàng bạc và súng thần công. Sau đó vương quốc dần suy yếu, đến năm 1888 trở thành lãnh thổ bảo hộ của Anh để ngăn bị thu hẹp thêm.",
+    "Dầu mỏ phát hiện ở Seria năm 1929 đã thay đổi tất cả. Sau khi bị Nhật Bản chiếm đóng (1941–1945) và một cuộc nổi dậy thất bại năm 1962, nhà vua quyết định không gia nhập Malaysia. Brunei chính thức độc lập ngày 1 tháng 1 năm 1984, với quốc vương tuyên bố xây dựng một chế độ quân chủ Hồi giáo Mã Lai tự hào."
+  ],
+  "wows": [
+    "Người dân Brunei không đóng thuế thu nhập — dầu mỏ nuôi cả chính phủ thay cho họ.",
+    "Cung điện của nhà vua có 1.788 phòng và 5 hồ bơi — dinh thự hoàng gia lớn nhất thế giới.",
+    "Cùng một gia đình hoàng gia trị vì liên tục hơn 600 năm — một trong những vương triều lâu đời nhất Trái Đất.",
+    "Brunei là quốc gia độc lập duy nhất nằm hoàn toàn trên đảo Borneo.",
+    "Người dân được khám chữa bệnh miễn phí và học đại học miễn phí — tất cả từ tiền dầu mỏ.",
+    "Vùng Temburong từng chỉ đến được bằng thuyền — mãi đến năm 2020 mới có cây cầu 30 km.",
+    "Ambuyat — món bột sắn dẻo nhớp như keo — là món ăn quốc dân được người Brunei yêu thích nhất."
+  ],
+  "myths": [
+    {
+      "myth": "Brunei cấm rượu bia tuyệt đối với tất cả mọi người",
+      "fact": "Chỉ cấm bán công khai thôi — du khách không theo đạo Hồi trên 17 tuổi được phép mang theo 2 lít rượu mạnh hoặc 12 lon bia vào dùng riêng tư. Khách du lịch không bị \"khô ráo\" hoàn toàn đâu nhé!"
+    },
+    {
+      "myth": "Brunei nhỏ bé nên không đáng kể gì",
+      "fact": "Tính theo GDP đầu người (khoảng 35.000 đô-la Mỹ), Brunei thuộc nhóm những quốc gia giàu nhất thế giới và là một trong những nước xuất khẩu năng lượng lớn của châu Á."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Selamat",
+      "say": "suh-LAH-mat"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Terima kasih",
+      "say": "truh-MAH kah-SEE"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Selamat pagi",
+      "say": "sla-MAT PAH-gee"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Sedap!",
+      "say": "suh-DAHP"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "Berapa harga",
+      "say": "buh-RAH-pa HAR-ga"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bn-hero.jpg",
+      "alt": "Đền Hồi giáo Omar Ali Saifuddien soi bóng xuống hồ nhân tạo tại Bandar Seri Begawan",
+      "caption": "ĐỀN OMAR ALI SAIFUDDIEN — mái vàng lộng lẫy soi bóng xuống hồ nhân tạo",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/bn-landmark.jpg",
+      "alt": "Bờ sông và đường chân trời thủ đô Bandar Seri Begawan",
+      "caption": "BANDAR SERI BEGAWAN — thủ đô nhỏ gọn ôm lấy bờ sông Brunei",
+      "credit": "Wikimedia Commons / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/bn-animalA.jpg",
+      "alt": "Khỉ mũi dài cái đậu trên cành cây ở Borneo",
+      "caption": "KHỈ MŨI DÀI — loài linh trưởng mũi to chỉ sống ở đảo Borneo",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/bn-animalB.jpg",
+      "alt": "Khỉ mũi dài mẹ và con đang vượt qua cầu dây trong rừng Borneo",
+      "caption": "KHỈ MŨI DÀI MẸ VÀ CON — băng qua cây cầu dây giữa rừng Borneo",
+      "credit": "Wikimedia Commons / CC BY 4.0"
+    }
+  }
+}

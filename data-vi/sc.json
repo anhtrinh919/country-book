@@ -1,0 +1,163 @@
+{
+  "name": "SEYCHELLES",
+  "nativeName": "SC",
+  "romaji": "SEYCHELLES",
+  "tagline": "115 hòn đảo, một thiên đường",
+  "region": "Đông Phi / Ấn Độ Dương",
+  "coords": "4°S, 55°E",
+  "fileNo": "115",
+  "langName": "tiếng Creole (Seselwa)",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EEE3",
+    "dot": "#C9BFA8",
+    "ink": "#1E2118",
+    "faint": "#7A7A5C",
+    "line": "#DDD8C6",
+    "accent": "#003F87",
+    "accent2": "#D62828"
+  },
+  "flag": {
+    "assetPath": "/flags/sc.svg",
+    "title": "Cờ Seychelles",
+    "note": "Năm tia sáng xanh dương, vàng, đỏ, trắng, xanh lá",
+    "keyColor": "#003F87",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Seychelles là một quốc đảo bé nhỏ — 115 hòn đảo đá granit và san hô giữa Ấn Độ Dương, nơi những tảng đá khổng lồ màu da voi ngâm mình trong làn nước xanh ngọc. Dân số nơi đây còn ít hơn nhiều thị xã nhỏ ở Việt Nam, thế mà hơn nửa diện tích đất đai đã được bảo tồn, rùa khổng lồ nhiều hơn cả người, và có một loài cọ mang hạt nặng nhất thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Victoria",
+      "sub": "Thủ đô nhỏ nhất thế giới"
+    },
+    {
+      "label": "Dân số",
+      "value": "~99.000",
+      "sub": "Ước tính 2024 — quốc gia rất nhỏ"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rupee (SCR)",
+      "sub": "Gọi là roupi trong tiếng Creole"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "3 ngôn ngữ chính thức",
+      "sub": "Creole, tiếng Anh và tiếng Pháp"
+    },
+    {
+      "label": "Diện tích",
+      "value": "452 km²",
+      "sub": "Nhỏ hơn đảo Phú Quốc của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "905 m",
+      "sub": "Morne Seychellois, đảo Mahé"
+    }
+  ],
+  "islands": [
+    "Mahé",
+    "Praslin",
+    "La Digue",
+    "Aldabra",
+    "Silhouette"
+  ],
+  "islandsLabel": "CÁC HÒN ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đá granit, rạn san hô và đại dương",
+    "animals": "Rùa khổng lồ, vẹt và những sinh vật kỳ lạ",
+    "culture": "Nhịp điệu Creole và hương vị gia vị",
+    "history": "Cướp biển, người trồng trọt và tự do",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Seychelles nằm cô độc giữa Ấn Độ Dương, cách bờ biển châu Phi khoảng 1.500 km về phía đông. Những hòn đảo phía trong được tạo thành từ đá granit cổ đại — đây là những hòn đảo granit giữa đại dương duy nhất trên Trái Đất — tạo nên những tảng đá tròn kỳ vĩ và những đỉnh núi phủ rừng xanh mướt. Đảo Mahé lớn nhất là nơi đặt thủ đô Victoria và nơi sinh sống của 90% toàn bộ dân số.",
+    "Những hòn đảo phía ngoài là các đảo san hô phẳng lặng. Aldabra, di sản thiên nhiên thế giới UNESCO, xa xôi đến mức động vật ở đây tiến hóa gần như hoàn toàn cách biệt với thế giới bên ngoài. Vùng lãnh hải của Seychelles rộng hơn 1,3 triệu km² — lớn gần 3.000 lần so với diện tích đất liền!"
+  ],
+  "animals": [
+    "Rùa khổng lồ Aldabra là biểu tượng sống động của Seychelles — hơn 100.000 con đang thung thăng gặm cỏ trên đảo Aldabra như những chiếc máy cắt cỏ bọc giáp chậm chạp. Chúng nặng đến 250 kg và sống vượt quá 150 tuổi. Riêng con Esmeralda trên đảo Bird Island có thể là sinh vật sống lâu nhất trên Trái Đất.",
+    "Vẹt đen Seychelles — gọi là kato nwar — chỉ sống trên đảo Praslin với khoảng 1.000 con. Rùa biển xanh đẻ trứng trên những bãi biển vắng lặng, còn cá mập voi khổng lồ lặng lẽ lướt qua những rạn san hô ấm áp ngoài khơi."
+  ],
+  "culture": [
+    "Văn hóa Seychelles pha trộn gốc rễ châu Phi, Pháp, Ấn Độ và Trung Quốc thành một nền Creole độc đáo không nơi nào có. Bữa ăn là cá nướng sốt ớt gừng, cà ri bạch tuộc nước cốt dừa và ớt xanh papaya. Lễ hội Festival Kreol vào tháng 10 biến đường phố thành sân khấu tưng bừng trang phục, âm nhạc và hương thơm gia vị.",
+    "Âm nhạc thấm sâu vào tâm hồn người Seychelles: điệu moutya — được UNESCO công nhận — ra đời từ tiếng hát của những người nô lệ bên đống lửa bãi biển. Điệu sega với nhịp lắc hông và trống bongo sẽ kéo bất kỳ ai cũng phải đứng dậy nhảy cùng."
+  ],
+  "history": [
+    "Thương nhân Ả Rập đã biết đến những hòn đảo này từ nhiều thế kỷ trước, nhưng chúng vẫn hoang vắng không người cho đến năm 1770, khi những người Pháp đến cùng những nô lệ châu Phi để trồng gia vị và dừa. Anh quốc chiếm các đảo năm 1810 và cai trị suốt 166 năm. Độc lập đến trong hòa bình vào ngày 29 tháng 6 năm 1976.",
+    "Tên cướp biển Olivier le Vasseur — \"La Buse\", Diều Hâu — tương truyền đã chôn giấu một kho báu khổng lồ ở đây trước khi bị hành quyết năm 1730. Khi bị dẫn ra pháp trường, ông tung vào đám đông một tờ giấy ghi mật mã mà đến nay vẫn chưa ai giải được. Những người đào kho báu vẫn tiếp tục cuộc tìm kiếm."
+  ],
+  "wows": [
+    "Những hòn đảo granit của Seychelles là các đảo granit giữa đại dương duy nhất trên Trái Đất — không phải núi lửa, không phải san hô.",
+    "Cọ coco de mer mang hạt lớn nhất thế giới — một quả có thể nặng tới 25 kg, nặng hơn một đứa trẻ nhỏ.",
+    "Hơn 50% diện tích đất của Seychelles là khu bảo tồn thiên nhiên — tỉ lệ cao nhất trong tất cả các quốc gia trên thế giới.",
+    "Victoria nhỏ đến mức bạn có thể đi bộ băng qua toàn bộ trung tâm thành phố trong chưa đầy mười phút.",
+    "Chim ác là Seychelles từng chỉ còn 16 con vào những năm 1960; nhờ nỗ lực bảo tồn, số lượng đã tăng lên hơn 300 con.",
+    "Không có con rắn độc nào tồn tại trên bất kỳ hòn đảo nào của Seychelles — hoàn toàn an toàn với rắn.",
+    "Seychelles kiểm soát vùng biển rộng gần 3.000 lần so với diện tích đất liền của mình."
+  ],
+  "myths": [
+    {
+      "myth": "\"Seychelles chỉ có một hòn đảo\"",
+      "fact": "Seychelles có tới 115 hòn đảo — một số là đá granit, một số là san hô — trải dài 1.300 km trên đại dương. Phần lớn là những đảo nhỏ không có người ở, mỗi hòn đảo có động thực vật và cảnh quan riêng."
+    },
+    {
+      "myth": "\"Di chuyển giữa các đảo rất tốn kém\"",
+      "fact": "Ba đảo chính — Mahé, Praslin, La Digue — được kết nối bằng phà công cộng. Bãi biển nổi tiếng thế giới trên đảo La Digue thậm chí còn dễ dàng khám phá nhất bằng xe đạp."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonzour",
+      "say": "bon-ZOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mersi",
+      "say": "MAIR-see"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Orevwar",
+      "say": "oh-rev-WAHR"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Silvouple",
+      "say": "sil-VOO-pl"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Koman sava?",
+      "say": "ko-MON sa-VAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sc-hero.jpg",
+      "alt": "Bãi biển Anse Royale trên đảo Mahé với làn nước xanh ngọc và bờ đá granit viền dừa",
+      "caption": "BỜ BIỂN MAHÉ — Ấn Độ Dương ấm áp vỗ vào những tảng đá granit của hòn đảo lớn nhất",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sc-landmark.jpg",
+      "alt": "Tháp đồng hồ Victoria hay còn gọi là Little Ben ở thủ đô Seychelles",
+      "caption": "THÁP ĐỒNG HỒ VICTORIA — Little Ben năm 1903, trái tim của thủ đô nhỏ nhất thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sc-animalA.jpg",
+      "alt": "Rùa khổng lồ Aldabra đang chậm rãi bước đi trên mặt đất ở Seychelles",
+      "caption": "RÙA KHỔNG LỒ ALDABRA — nặng tới 250 kg và sống lâu hơn cả cụ cố của bạn",
+      "credit": "Wikimedia Commons / Adrian Pingstone"
+    },
+    "animalB": {
+      "src": "/photos/sc-animalB.jpg",
+      "alt": "Esmeralda, con rùa khổng lồ nổi tiếng trên đảo Bird Island, Seychelles",
+      "caption": "ESMERALDA — ngôi sao của đảo Bird Island, có thể là sinh vật sống lâu nhất trên Trái Đất",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

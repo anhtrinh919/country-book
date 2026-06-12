@@ -1,0 +1,163 @@
+{
+  "name": "VIỆT NAM",
+  "nativeName": "VN",
+  "romaji": "VIỆT NAM",
+  "tagline": "Cờ đỏ, sao vàng",
+  "region": "Đông Nam Á",
+  "coords": "21°N · 106°E",
+  "fileNo": "084",
+  "flag": {
+    "assetPath": "/flags/vn.svg",
+    "title": "Cờ đỏ sao vàng",
+    "note": "Nền đỏ, một ngôi sao vàng từ năm 1945",
+    "keyColor": "#DA251D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Việt Nam mình là một dải đất hình chữ S uốn lượn dọc theo bờ biển châu Á — chỗ hẹp nhất chỉ khoảng 50 km, lái xe một tiếng là từ biển lên đến núi rồi! Hơn 100 triệu người sống trên mảnh đất này, nói thứ tiếng có sáu thanh điệu nghe như âm nhạc. Từ những thửa ruộng bậc thang mờ sương ở miền Bắc đến những hòn đảo đá vôi lung linh ở miền Nam, mỗi vùng đất lại mang một vẻ đẹp riêng — tất cả gộp lại thành một đất nước thật phi thường.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Hà Nội",
+      "sub": "Bên bờ sông Hồng từ năm 1010"
+    },
+    {
+      "label": "Dân số",
+      "value": "101,1 triệu người",
+      "sub": "Điều tra 2024; 54 dân tộc anh em"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đồng ₫",
+      "sub": "1 đô Mỹ ≈ 25.000 đồng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Việt",
+      "sub": "6 thanh điệu — đổi thanh là đổi nghĩa hoàn toàn"
+    },
+    {
+      "label": "Diện tích",
+      "value": "331.212 km²",
+      "sub": "Dài hơn rộng — chiều dài gần gấp 3 chiều rộng"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Fansipan",
+      "sub": "3.143 m — Nóc nhà Đông Dương"
+    }
+  ],
+  "islands": [
+    "Hanoi",
+    "Ho Chi Minh",
+    "Da Nang",
+    "Hue",
+    "Can Tho"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Dải chữ S giữa biển và núi",
+    "animals": "Thú hoang rừng già và vịnh biển",
+    "culture": "Phở, đèn lồng và múa rồng",
+    "history": "Nghìn năm kiên cường bất khuất",
+    "wows": "Những điều bất ngờ về Việt Nam!"
+  },
+  "geo": [
+    "Việt Nam trải dài 1.650 km từ Bắc xuống Nam nhưng chỗ hẹp nhất chỉ khoảng 50 km — hẹp hơn cả tỉnh Quảng Bình! Miền Bắc có đồng bằng sông Hồng phì nhiêu và những dãy núi cao chót vót, nơi sương mù cuộn quanh những thửa ruộng bậc thang đã được con người đắp lên qua hàng trăm năm. Dãy Trường Sơn chạy dọc như xương sống suốt từ Bắc vào Nam.",
+    "Miền Nam mở ra thành đồng bằng sông Cửu Long — mê cung sông nước với những chợ nổi tấp nập và vườn trái cây bạt ngàn. Việt Nam còn có gần 3.000 km bờ biển và hơn 3.000 hòn đảo lớn nhỏ, trong đó Vịnh Hạ Long với những tháp đá vôi kỳ ảo đã được UNESCO công nhận là Di sản Thế giới."
+  ],
+  "animals": [
+    "Việt Nam là ngôi nhà của những sinh vật hiếm có bậc nhất thế giới. Con sao la — được mệnh danh là kỳ lân châu Á — chỉ mới được phát hiện năm 1992 và hiếm đến mức gần như không ai chụp được ảnh chúng còn sống ngoài tự nhiên. Hổ Đông Dương và báo gấm vẫn lặng lẽ săn mồi trong những cánh rừng già dọc biên giới.",
+    "Dưới làn nước gần Vịnh Hạ Long, dugong — loài thú biển họ hàng với cá cúi — gặm cỏ biển, còn rùa biển lướt nhẹ qua những rạn san hô. Việt Nam có gần 1.000 loài chim — nhiều hơn cả toàn bộ châu Âu — trong đó có gà lôi Việt Nam chỉ sống duy nhất ở nước ta."
+  ],
+  "culture": [
+    "Văn hóa Việt Nam là sự hòa quyện của 54 dân tộc anh em với những phong tục tập quán phong phú. Tết Nguyên Đán là dịp lễ lớn nhất — cả gia đình sum họp, pháo hoa nổ rộn ràng, múa lân múa rồng khắp các con phố. Trẻ em nhận bao lì xì đỏ với tiền mừng tuổi, còn nhà nhà tràn ngập hương trầm và hoa đào, hoa mai.",
+    "Ẩm thực Việt Nam là cả một nghệ thuật: nước dùng phở phải ninh từ 6 đến 12 tiếng với hồi, gừng nướng và quế. Bánh mì — ổ bánh mì giòn rụm nhồi đầy nhân Việt — là ví dụ tuyệt vời về sự giao thoa văn hóa tạo nên hương vị độc đáo. Còn Hội An thì lung linh ánh đèn lồng lụa mỗi đêm suốt cả năm."
+  ],
+  "history": [
+    "Văn minh Đông Sơn của người Việt đã đúc những chiếc trống đồng vang vọng từ 2.500 năm trước. Sau 1.000 năm Bắc thuộc, tướng Ngô Quyền đã đánh bại hạm đội Nam Hán năm 938 bằng mưu kế cắm cọc gỗ bịt sắt dưới lòng sông — chờ thủy triều lên rồi nhổ ra để đánh chìm thuyền giặc — một chiến thắng vẫn được người Việt tự hào nhắc đến đến tận ngày nay.",
+    "Pháp đô hộ nước ta từ cuối thế kỷ 19. Cuộc đấu tranh giành độc lập do Hồ Chí Minh dẫn dắt kết thúc với ngày thống nhất đất nước năm 1975. Ngày nay, Việt Nam là một trong những nền kinh tế tăng trưởng nhanh nhất châu Á, với những đô thị sầm uất ngập tiếng còi xe máy và nhịp sống năng động."
+  ],
+  "wows": [
+    "Việt Nam xuất khẩu hạt điều nhiều nhất thế giới — hơn 80% hạt điều chế biến toàn cầu đến từ Việt Nam!",
+    "Vịnh Hạ Long có khoảng 1.969 hòn đảo đá vôi, nhiều đảo rỗng bên trong với những hang động khổng lồ.",
+    "Chữ Việt dùng bảng chữ cái Latin nhưng thêm những dấu thanh nhỏ xíu làm thay đổi hoàn toàn nghĩa của từ.",
+    "Hang Sơn Đoòng là hang động lớn nhất thế giới — to đến mức có cả rừng cây và mây mù bên trong!",
+    "Tà áo dài đã được mặc gần 300 năm nay và vẫn xuất hiện hằng ngày trên khắp các phố phường Việt Nam.",
+    "Việt Nam là nước xuất khẩu cà phê lớn thứ hai thế giới, trồng cà phê robusta thơm đậm trên vùng cao nguyên.",
+    "Múa rối nước — rối nước — đã có tuổi đời hơn 1.000 năm; nghệ nhân đứng ngập ngang người dưới hồ để điều khiển con rối."
+  ],
+  "myths": [
+    {
+      "myth": "Phở là món nhanh, dễ nấu",
+      "fact": "Nước dùng phở chuẩn phải ninh từ 6 đến 12 tiếng với hành và gừng nướng thơm, hồi, quế. Các hàng phở vỉa hè thường bắt đầu nấu từ nửa đêm để kịp bán buổi sáng sớm."
+    },
+    {
+      "myth": "Việt Nam chủ yếu là rừng rậm và nông nghiệp",
+      "fact": "Việt Nam đang đô thị hóa rất nhanh và là một trong những nước xuất khẩu điện tử, dệt may hàng đầu châu Á — công nghiệp hiện đã vượt lúa gạo và cao su về giá trị xuất khẩu."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Xin chào",
+      "say": "sin chow"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Cảm ơn",
+      "say": "gahm uhn"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Ngon quá!",
+      "say": "ngon kwah"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "Bao nhiêu?",
+      "say": "bow nyew"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Đẹp quá!",
+      "say": "dep kwah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/vn-hero.jpg",
+      "alt": "Những tháp đá vôi sừng sững vươn lên từ làn nước xanh biếc của Vịnh Hạ Long lúc bình minh",
+      "caption": "VỊ HẠ LONG — 1.969 hòn đảo đá vôi điểm xuyết trên biển ngọc bích miền Bắc Việt Nam.",
+      "credit": "Wikimedia Commons / Aleksander Dragnes"
+    },
+    "landmark": {
+      "src": "/photos/vn-landmark.jpg",
+      "alt": "Những chiếc đèn lồng lụa đủ màu sắc phản chiếu lung linh xuống dòng sông Thu Bồn trong đêm Hội An",
+      "caption": "HỘI AN — Đèn lồng lụa tỏa sáng trên sông Thu Bồn trong phố cổ di sản UNESCO.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/vn-animalA.jpg",
+      "alt": "Hổ Đông Dương nằm nghỉ dưới ánh sáng lốm đốm trong rừng già",
+      "caption": "HỔ ĐÔNG DƯƠNG — còn chưa đến 200 cá thể tồn tại trên các vùng rừng núi Việt Nam.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/vn-animalB.jpg",
+      "alt": "Công xanh trống xòe chiếc đuôi rực rỡ giữa khoảng trống trong rừng",
+      "caption": "CÔNG XANH — loài chim đẹp và hiếm nhất Việt Nam, sống tự nhiên trong các cánh rừng.",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "theme": {
+    "paper": "#F2ECD5",
+    "dot": "#CDB99A",
+    "ink": "#2B2118",
+    "faint": "#8A7560",
+    "line": "#DCCFAF",
+    "accent": "#DA251D",
+    "accent2": "#FFCD00"
+  },
+  "motif": "sun",
+  "langName": "tiếng Việt"
+}

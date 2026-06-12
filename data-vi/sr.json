@@ -1,0 +1,163 @@
+{
+  "name": "SURINAME",
+  "nativeName": "SR",
+  "romaji": "SURINAME",
+  "tagline": "Trái tim ẩn của rừng mưa nhiệt đới",
+  "region": "Bắc Nam Mỹ",
+  "coords": "5.8°N, 56.0°W",
+  "fileNo": "074",
+  "langName": "tiếng Sranan Tongo",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B899",
+    "ink": "#252018",
+    "faint": "#8C7A56",
+    "line": "#DDD0B2",
+    "accent": "#377E3F",
+    "accent2": "#C8192A"
+  },
+  "flag": {
+    "assetPath": "/flags/sr.svg",
+    "title": "Quốc kỳ Suriname",
+    "note": "Xanh lá-trắng-đỏ-trắng-xanh lá, ngôi sao vàng ở giữa",
+    "keyColor": "#377E3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Suriname là quốc gia nhỏ nhất Nam Mỹ, nhưng chín phần mười lãnh thổ vẫn là rừng mưa nguyên sơ chưa ai chạm tới! Nằm kẹp giữa Guyana, Brazil và French Guiana, đất nước này trải dài ra tận bờ Đại Tây Dương ở phía bắc. Thủ đô Paramaribo được UNESCO công nhận là di sản thế giới nhờ những tòa nhà gỗ kiểu Hà Lan, nơi người Creole, Hindustani, Java, Maroon và thổ dân bản địa cùng chung sống trong một thế giới ẩm nhiệt đới đầy vàng và màu sắc.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Paramaribo",
+      "sub": "Thành phố gỗ được UNESCO công nhận; bên sông Suriname"
+    },
+    {
+      "label": "Dân số",
+      "value": "~654.000",
+      "sub": "Ước tính 2025 — ít dân nhất Nam Mỹ"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "SRD",
+      "sub": "Đô-la Suriname (100 cent)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Hà Lan",
+      "sub": "Tiếng Sranan Tongo dùng trong cuộc sống hàng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "163.820 km²",
+      "sub": "Gần bằng tiểu bang Georgia của Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Julianatop",
+      "sub": "1.280 m trong dãy Wilhelmina"
+    }
+  ],
+  "islands": [
+    "Paramaribo",
+    "N. Nickerie",
+    "Lelydorp",
+    "Moengo",
+    "Albina"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đất nước của sông ngòi và rừng xanh",
+    "animals": "Những kẻ khổng lồ của dòng sông rừng rậm",
+    "culture": "Cả thế giới trên một con phố",
+    "history": "Đổi lấy Manhattan",
+    "wows": "Bảy điều bí mật bất ngờ"
+  },
+  "geo": [
+    "Suriname tọa lạc trên tấm khiên đá Guiana cổ đại — một trong những khối đá lâu đời nhất trên Trái Đất. Vùng phía bắc là dải đất thấp ven biển, nơi các con sông tỏa ra rồi đổ vào Đại Tây Dương. Phần nội địa mênh mông được bao phủ bởi rừng nhiệt đới dày đặc, điểm xuyết bởi những ngọn núi granit và những dòng sông nước đen huyền bí.",
+    "Các con sông Suriname, Marowijne và Coppename thoát nước từ vùng cao xuống. Khu bảo tồn thiên nhiên Trung Suriname — rộng 1,6 triệu héc-ta rừng nguyên sinh — bảo vệ những lưu vực đầu nguồn và ôm trong lòng hơn 5.000 loài thực vật. Hơn 90% lãnh thổ của đất nước vẫn còn nguyên vẹn rừng xanh — một con số đáng kinh ngạc trong thế giới ngày nay."
+  ],
+  "animals": [
+    "Rái cá khổng lồ — dài gần 2 mét — là chúa tể của những dòng sông ở Suriname. Các nhóm gia đình cùng nhau săn cá trên những bãi cát hẻo lánh, tiếng kêu ríu rít vang vọng cả khúc sông. Vùng sông nước nguyên sơ của Suriname là một trong những nơi trú ngụ cuối cùng của loài đang bị đe dọa tuyệt chủng này.",
+    "Báo đốm đi lại tự do trong sâu thẳm rừng già, để lại dấu chân to trên bờ những con sông yên tĩnh. Rừng còn che chở cho đại bàng harpy, tapir, armadillo khổng lồ và tám loài khỉ. Đã ghi nhận hơn 700 loài chim, trong đó có loài vẹt đuôi dài đỏ rực rỡ như viên ngọc bay giữa tán lá."
+  ],
+  "culture": [
+    "Điều kỳ diệu nhất ở Paramaribo là một nhà thờ Hồi giáo và một giáo đường Do Thái đứng sát cạnh nhau trên cùng một con phố — biểu tượng của 300 năm khoan dung tôn giáo hiếm có trên thế giới. Đền thờ Hindu, nhà thờ Công giáo và miếu thờ Winti cùng tồn tại hòa bình trong một khu phố.",
+    "Ẩm thực phản chiếu sự đa dạng đó: bánh roti cà-ri của người Hindustani, nasi goreng kiểu Java, gà pom của người Creole, và bánh bara chiên làm từ bột đậu lăng. Chợ Trung tâm mỗi sáng rộn ràng màu sắc, hương gia vị, và hàng chục thứ tiếng pha trộn vào nhau."
+  ],
+  "history": [
+    "Người Lokono và Kalina bản địa đã sinh sống dọc các con sông qua nhiều thế kỷ trước khi người châu Âu đặt chân tới. Anh Quốc định cư ở vùng ven biển từ những năm 1650, nhưng năm 1667 người Hà Lan đã đổi quyền kiểm soát một hòn đảo nhỏ tên là Manhattan để lấy Suriname — thuộc địa trồng mía giàu nhất thế giới lúc bấy giờ.",
+    "Những người châu Phi bị bắt làm nô lệ đã bỏ trốn khỏi các đồn điền tàn bạo vào rừng sâu, thành lập những quốc gia Maroon tự do. Họ đánh nhau với người Hà Lan đến mức cả hai bên phải ký hiệp ước hòa bình vào những năm 1760. Suriname chính thức độc lập hoàn toàn vào ngày 25 tháng 11 năm 1975."
+  ],
+  "wows": [
+    "Suriname từng được đổi lấy đảo Manhattan năm 1667 — người Hà Lan đã nhượng New York để có được thuộc địa mía đường này.",
+    "Đây là quốc gia duy nhất ngoài châu Âu mà tiếng Hà Lan là ngôn ngữ chính thức đa số.",
+    "Hơn 90% diện tích Suriname là rừng nhiệt đới nguyên sơ — tỷ lệ che phủ rừng cao thứ hai trên toàn thế giới.",
+    "Nhà thờ Thánh Peter và Paul ở Paramaribo là công trình bằng gỗ lớn nhất Tây Bán Cầu.",
+    "Một nhà thờ Hồi giáo và một giáo đường Do Thái đứng sát nhau theo đúng nghĩa đen trên phố Keizerstraat ở khu phố cổ Paramaribo.",
+    "Đỉnh Julianatop mãi đến năm 1963 mới được chinh phục lần đầu — tên gọi của người Amerindian có nghĩa là 'Kẻ đứng một mình'.",
+    "Vàng hiện chiếm 79% toàn bộ kim ngạch xuất khẩu; khoảng 20.000 thợ đào vàng thủ công đang đãi cát tìm vàng dọc các con sông nội địa."
+  ],
+  "myths": [
+    {
+      "myth": "Suriname là một hòn đảo vùng Ca-ri-bê",
+      "fact": "Suriname hoàn toàn nằm trên đất liền Nam Mỹ, giáp Brazil ở phía nam — dù văn hóa có đậm màu Ca-ri-bê do nhiều thế kỷ giao thương qua Đại Tây Dương."
+    },
+    {
+      "myth": "Người Suriname đều nói tiếng Tây Ban Nha",
+      "fact": "Suriname bốn bề là những nước nói tiếng Tây Ban Nha, nhưng ngôn ngữ chính thức lại là tiếng Hà Lan, còn ngôn ngữ giao tiếp hàng ngày trên đường phố là Sranan Tongo — một thứ tiếng Creole gốc Anh."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Odi",
+      "say": "OH-dee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Grantangi",
+      "say": "gran-TAN-ghee"
+    },
+    {
+      "en": "Có / Đúng rồi",
+      "jp": "Iya",
+      "say": "EE-ya"
+    },
+    {
+      "en": "Không",
+      "jp": "No",
+      "say": "no"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Mooie",
+      "say": "MOO-ee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sr-hero.jpg",
+      "alt": "Bờ kè Paramaribo với những tòa nhà gỗ kiểu thuộc địa Hà Lan nhìn từ sông Suriname",
+      "caption": "BỜ KÈ PARAMARIBO — những tòa nhà gỗ thuộc địa Hà Lan soi bóng xuống dòng sông",
+      "credit": "Mark Ahsmann / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/sr-landmark.jpg",
+      "alt": "Pháo đài Zeelandia lịch sử của người Hà Lan ở Paramaribo, Suriname",
+      "caption": "PHÁO ĐÀI ZEELANDIA — được người Hà Lan xây năm 1667, nay là bảo tàng bên sông",
+      "credit": "Mark Ahsmann / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sr-animalA.jpg",
+      "alt": "Rái cá khổng lồ Pteronura brasiliensis đang cảnh giác quan sát",
+      "caption": "RÁI CÁ KHỔNG LỒ — dài tới 2 mét, sông ngòi Suriname là pháo đài cuối cùng của chúng",
+      "credit": "Frank Wouters / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/sr-animalB.jpg",
+      "alt": "Toàn cảnh sông Suriname uốn lượn giữa rừng mưa nhiệt đới dày đặc",
+      "caption": "SÔNG SURINAME — uốn khúc qua rừng sâu tỉnh Sipaliwini",
+      "credit": "-JvL- / CC BY 2.0"
+    }
+  }
+}

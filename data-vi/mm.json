@@ -1,0 +1,163 @@
+{
+  "name": "MYANMAR",
+  "nativeName": "မြန်မာ",
+  "romaji": "MYANMAR",
+  "tagline": "Xứ sở của những ngôi chùa vàng",
+  "region": "Đông Nam Á",
+  "coords": "19.76°N, 96.08°E",
+  "fileNo": "054",
+  "langName": "tiếng Miến Điện",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CDBF9E",
+    "ink": "#252018",
+    "faint": "#8A7A56",
+    "line": "#DDD0B0",
+    "accent": "#FECB00",
+    "accent2": "#34B233"
+  },
+  "flag": {
+    "assetPath": "/flags/mm.svg",
+    "title": "Cờ Myanmar",
+    "note": "Ba màu dọc với ngôi sao trắng lớn ở giữa",
+    "keyColor": "#FECB00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Myanmar nằm giữa lòng Đông Nam Á, nơi dòng sông Irrawaddy uốn lượn qua hàng nghìn ngôi chùa vàng rồi đổ ra biển. Từ những đỉnh núi tuyết phủ ở phía bắc đến những đảo san hô nhiệt đới ở phương nam, đất nước này ôm trọn đền đài cổ kính, thú hoang kỳ lạ và hàng chục tộc người — mỗi tộc một ngôn ngữ, trang phục và lễ hội riêng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Naypyidaw",
+      "sub": "Trở thành thủ đô tháng 11 năm 2005"
+    },
+    {
+      "label": "Dân số",
+      "value": "51,3 triệu người",
+      "sub": "Điều tra dân số Myanmar 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Kyat (MMK)",
+      "sub": "~2.100 kyat = 1 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Miến Điện",
+      "sub": "135 dân tộc được công nhận"
+    },
+    {
+      "label": "Diện tích",
+      "value": "676.578 km²",
+      "sub": "Lớn hơn Việt Nam gần hai lần"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Hkakabo Razi",
+      "sub": "5.881 m — cao nhất Đông Nam Á"
+    }
+  ],
+  "islands": [
+    "Yangon",
+    "Mandalay",
+    "Bagan",
+    "Shan State",
+    "Rakhine"
+  ],
+  "islandsLabel": "CÁC ĐỊA DANH CHÍNH:",
+  "sections": {
+    "geography": "Sông, núi và đồng bằng lúa gạo",
+    "animals": "Hổ, cá heo và rùa sao",
+    "culture": "Chùa chiền, trà muối và váy longyi",
+    "history": "Vương quốc, đế chế và nền độc lập",
+    "wows": "7 điều kỳ diệu về Myanmar"
+  },
+  "geo": [
+    "Myanmar có hình dáng như một chiếc diều với cái đuôi dài thõng xuống. Dòng sông Irrawaddy hùng vĩ chảy dọc gần suốt chiều dài đất nước, mang phù sa bồi đắp cho vùng đồng bằng trung tâm — nơi trồng hầu hết lúa gạo của Myanmar. Núi rừng hiểm trở bao quanh phía bắc và phía đông như một tấm áo choàng xanh thẫm.",
+    "Phía nam vươn dài thành một bán đảo hẹp dọc biển Andaman, kết thúc bằng những hòn đảo nhiệt đới ngập nắng. Tít mù ở cực bắc, đỉnh Hkakabo Razi phủ tuyết quanh năm — đây là ngọn núi cao nhất toàn bộ Đông Nam Á, cao hơn cả đỉnh Fansipan của Việt Nam tới hơn 2.000 mét."
+  ],
+  "animals": [
+    "Những cánh rừng Myanmar là nơi trú ngụ của hổ, voi châu Á và báo mây. Đặc biệt nhất là loài cá heo Irrawaddy sống ngay trên dòng sông lớn — người địa phương kể rằng chúng dồn cá vào lưới giúp ngư dân, một sự cộng tác thú vị giữa người và thú hoang hiếm thấy trên thế giới.",
+    "Myanmar là thiên đường của những người mê chim: loài chích bụi Gurney, một trong những loài chim hiếm nhất thế giới, đang ẩn mình trong những cánh rừng nơi đây. Sóc bay khổng lồ lướt giữa các tán cây, còn rùa sao Miến Điện — từng gần như tuyệt chủng — đang dần hồi sinh nhờ các chương trình nhân giống."
+  ],
+  "culture": [
+    "Phần lớn người Myanmar theo đạo Phật và mỗi sáng sớm đều dâng thức ăn cho các nhà sư đi khất thực. Lễ hội Thingyan vào tháng Tư là dịp tưng bừng nhất trong năm — đây là lễ té nước kéo dài bốn ngày liên tục ngoài trời, tương tự Tết Songkran của Thái Lan, để rửa trôi mọi điều xui xẻo của năm cũ.",
+    "Đàn ông lẫn đàn bà Myanmar đều mặc longyi — một ống vải sặc sỡ quấn quanh eo rất khéo léo. Bữa sáng quốc dân là mohinga, một tô súp bún cá đậm đà hương vị. Đặc biệt hơn nữa là laphet — lá trà muối ăn như món rau trộn — một món ăn không nơi nào trên Trái Đất có được."
+  ],
+  "history": [
+    "Vương quốc Pagan từ thế kỷ 11 đã xây dựng hơn 10.000 ngôi đền trên một vùng đồng bằng khô cằn — đến nay hơn 2.000 ngôi vẫn đứng vững. Nhiều đế chế hùng mạnh lần lượt nổi lên rồi tàn lụi, trước khi thực dân Anh chiếm toàn bộ đất nước vào năm 1885.",
+    "Myanmar giành độc lập năm 1948. Tướng Aung San — người cha của dân tộc — bị ám sát chỉ sáu tháng trước khi được nhìn thấy ngày đó. Đất nước trải qua những giai đoạn dài dưới chính quyền quân sự, nhưng người dân Myanmar vẫn giữ gìn văn hóa và tinh thần của mình mãnh liệt suốt bao thế hệ."
+  ],
+  "wows": [
+    "Bagan có mật độ đền chùa Phật giáo cổ đại dày đặc vào hàng cao nhất thế giới — hơn 2.000 ngôi trên một vùng đất.",
+    "Đường cao tốc 20 làn xe ở thủ đô Naypyidaw gần như không có một chiếc xe nào chạy suốt nhiều năm sau khi khánh thành.",
+    "Đỉnh Hkakabo Razi cao 5.881 m là ngọn núi cao nhất toàn bộ Đông Nam Á.",
+    "Cá heo Irrawaddy dồn cá vào lưới giúp ngư dân — một hình thức hợp tác thật sự giữa thú hoang và con người.",
+    "Myanmar là nước sản xuất đá quý hồng ngọc (ruby) lớn nhất thế giới; những viên đẹp nhất đến từ thung lũng Mogok.",
+    "Rùa sao Miến Điện từng bị tuyên bố tuyệt chủng về mặt chức năng nhưng đã được hồi sinh qua các chương trình nhân giống.",
+    "Ở Bagan, những khinh khí cầu lơ lửng trên hơn 2.000 ngôi chùa lúc bình minh — một trong những cảnh tượng hùng vĩ nhất châu Á."
+  ],
+  "myths": [
+    {
+      "myth": "\"Myanmar và Burma là hai đất nước khác nhau\"",
+      "fact": "Đây là cùng một đất nước — chính quyền quân sự đổi tên thành Myanmar năm 1989. Burma là tên tiếng Anh cũ hơn. Cả hai cái tên vẫn được dùng song song trên khắp thế giới ngày nay."
+    },
+    {
+      "myth": "\"Đền chùa Đông Nam Á ở đâu cũng trông giống nhau\"",
+      "fact": "Các bảo tháp của Myanmar cao vút, hình chuông và dát vàng lá — khác hẳn tháp nhọn của Thái Lan hay tháp đá của Campuchia. Mỗi tộc người có phong cách kiến trúc riêng biệt và độc đáo."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "မင်္ဂလာပါ",
+      "say": "min-ga-la-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "ကျေးဇူးပါ",
+      "say": "kyay-zu-ba"
+    },
+    {
+      "en": "Vâng / Đúng rồi",
+      "jp": "ဟုတ်ကဲ့",
+      "say": "hote-keh"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "အရမ်းကောင်း",
+      "say": "a-yan-kaung"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "သွားတော့မယ်",
+      "say": "thwa-daw-meh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mm-hero.jpg",
+      "alt": "Những khinh khí cầu bay lơ lửng trên hàng nghìn ngôi đền cổ ở Bagan lúc bình minh",
+      "caption": "BAGAN LÚC BÌNH MINH — khinh khí cầu lướt qua hơn 2.000 ngôi chùa cổ khi mặt trời mọc",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mm-landmark.jpg",
+      "alt": "Tháp vàng chùa Shwedagon sừng sững trên nền trời Yangon lúc hoàng hôn",
+      "caption": "CHÙA SHWEDAGON — tháp vàng biểu tượng của Yangon, được dát bằng 60 tấn vàng",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mm-animalA.jpg",
+      "alt": "Cá heo Irrawaddy nhô đầu lên mặt nước sông yên tĩnh",
+      "caption": "CÁ HEO IRRAWADDY — loài cá heo đầu tròn sống trên sông, giúp ngư dân đánh cá",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mm-animalB.jpg",
+      "alt": "Rùa sao Miến Điện với mai có hoa văn ngôi sao màu vàng đặc trưng trên nền cát",
+      "caption": "RÙA SAO MIẾN ĐIỆN — loài rùa được hồi sinh từ bờ vực tuyệt chủng",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "CONGO",
+  "nativeName": "CD",
+  "romaji": "KONGO",
+  "tagline": "Trái tim của rừng xanh",
+  "region": "Trung Phi",
+  "coords": "4°S, 21°E",
+  "fileNo": "059",
+  "langName": "tiếng Lingala",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9E",
+    "ink": "#231F1C",
+    "faint": "#8A7A5C",
+    "line": "#DDD0B0",
+    "accent": "#007FFF",
+    "accent2": "#CE1126"
+  },
+  "flag": {
+    "assetPath": "/flags/cd.svg",
+    "title": "Quốc kỳ Congo",
+    "note": "Nền xanh da trời, sọc đỏ chéo viền vàng",
+    "keyColor": "#007FFF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Cộng hòa Dân chủ Congo là một quốc gia khổng lồ ở trái tim châu Phi, nơi dòng sông Congo uốn lượn qua những cánh rừng rộng lớn như lá phổi thứ hai của Trái Đất. Nơi đây có nhiều loài chim, cá và linh trưởng đến mức gần như không nơi nào trên thế giới sánh được. Và bên dưới lòng đất, một kho báu khoáng sản khổng lồ đang cung cấp nguyên liệu cho những chiếc điện thoại và pin mà cả thế giới đang dùng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kinshasa",
+      "sub": "khoảng 17 triệu người; thành phố lớn nhất châu Phi"
+    },
+    {
+      "label": "Dân số",
+      "value": "105 triệu người",
+      "sub": "ước tính 2024; đang tăng rất nhanh"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc Congo",
+      "sub": "CDF; 1 USD ≈ 2.800 CDF"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Pháp",
+      "sub": "cùng với Lingala, Swahili, Kikongo"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2,34 triệu km²",
+      "sub": "nước lớn thứ hai ở châu Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Margherita",
+      "sub": "5.109 m trên dãy núi Rwenzori"
+    }
+  ],
+  "islands": [
+    "Kinshasa",
+    "Lubumbashi",
+    "Goma",
+    "Kisangani",
+    "Mbuji-Mayi"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Dòng sông xuyên qua tất cả",
+    "animals": "Khổng lồ rừng già & quái vật sông sâu",
+    "culture": "Nhạc điệu, sắc màu & 200 tộc người",
+    "history": "Vương quốc, thuộc địa & tự do",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Sông Congo uốn khúc qua đất nước như một dấu chấm hỏi khổng lồ, dẫn nước từ cánh rừng nhiệt đới rộng bằng cả Tây Âu. Gần đường xích đạo, mưa rơi gần như mỗi ngày, giữ cho các con sông luôn đầy ắp nước quanh năm.",
+    "Về phía đông, địa hình vươn cao thành những ngọn núi lửa và dãy Rwenzori — được gọi là 'Những ngọn núi Mặt Trăng' — với băng tuyết phủ trắng dù nằm ngay trên đường xích đạo. Những hồ sâu thẳm như hồ Tanganyika lấp lánh giữa các đỉnh núi dọc theo Thung lũng Rift vĩ đại."
+  ],
+  "animals": [
+    "Congo là nơi duy nhất trên thế giới có okapi sống hoang dã — loài động vật nhút nhát, họ hàng của hươu cao cổ nhưng có chân sau kẻ sọc như ngựa vằn. Khỉ đột núi bám trụ trên những ngọn núi lửa Virunga, còn sông Congo chứa hơn 700 loài cá, trong đó có cá hổ Goliath hung dữ đến kinh người.",
+    "Tinh tinh bonobo — họ hàng gần nhất của con người trong thế giới động vật — chỉ sống trong những khu rừng phía nam sông Congo. Voi rừng, hà mã, và chim công Congo (không nơi nào trên Trái Đất có ngoại trừ đây) tạo nên một danh sách động vật hoang dã khiến cả thế giới phải trầm trồ."
+  ],
+  "culture": [
+    "Congo đã tặng cho thế giới thể loại nhạc soukous — âm nhạc guitar điện rộn ràng từng chinh phục khắp châu Phi vào thập niên 1970 và đến nay vẫn vang lên trên các sàn nhảy. Ở Kinshasa, những người đàn ông thuộc nhóm sapeurs mặc những bộ vest may đo lộng lẫy như những tác phẩm nghệ thuật sống động.",
+    "Hơn 200 tộc người ở đây tạo ra những chiếc mặt nạ gỗ chạm khắc tinh xảo dùng trong các nghi lễ kết nối người sống với tổ tiên. Những tấm vải in hoa văn sặc sỡ gọi là kitenge được mặc hằng ngày và đang truyền cảm hứng cho các nhà thiết kế thời trang khắp thế giới."
+  ],
+  "history": [
+    "Vương quốc Kongo từng cai trị phần lớn Trung Phi suốt nhiều thế kỷ, buôn bán đồng và vải vóc khắp châu lục. Đến thập niên 1880, vua Leopold II của Bỉ chiếm đoạt vùng đất này, bắt dân tàn nhẫn khai thác cao su trong điều kiện khắc nghiệt đến mức hàng triệu người thiệt mạng.",
+    "Congo giành độc lập vào ngày 30 tháng 6 năm 1960. Lãnh tụ Patrice Lumumba đọc bài diễn văn đanh thép đòi tự do thực sự cho dân tộc. Nhiều thập kỷ độc tài tiếp theo, nhưng đất nước đã tổ chức được các cuộc bầu cử và nguồn tài nguyên khoáng sản khổng lồ đang thắp lên hy vọng cho tương lai."
+  ],
+  "wows": [
+    "Sông Congo sâu hơn 220 m — con sông sâu nhất trên Trái Đất.",
+    "Congo chiếm hơn một nửa diện tích rừng nhiệt đới của cả châu Phi.",
+    "Không có hệ thống sông nào trên Trái Đất có nhiều loài cá nước ngọt hơn ở đây.",
+    "Kinshasa và Brazzaville là cặp thủ đô nằm gần nhau nhất thế giới — chỉ cách nhau một con sông.",
+    "Gần như mọi viên pin điện thoại thông minh đều chứa coltan khai thác từ miền đông Congo.",
+    "Tinh tinh bonobo là loài vượn người duy nhất được biết là do con cái làm lãnh đạo bầy đàn.",
+    "Núi Nyiragongo có một hồ dung nham khổng lồ — một trong những hồ dung nham lớn nhất thế giới, đỏ rực rỡ trong đêm tối."
+  ],
+  "myths": [
+    {
+      "myth": "Congo toàn là rừng rậm",
+      "fact": "Phía đông có núi phủ băng, núi lửa đang hoạt động và đồng cỏ cao nguyên — hoàn toàn khác xa so với lưu vực rừng mưa nhiệt đới."
+    },
+    {
+      "myth": "Congo quá nguy hiểm, không thể đến thăm",
+      "fact": "Phần lớn đất nước, kể cả Kinshasa, bình yên và mến khách; xung đột chỉ tập trung ở một số vùng biên giới phía đông cụ thể."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Mbote",
+      "say": "mm-BOH-teh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "MEHR-see"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "Iyo",
+      "say": "EE-yoh"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Moninga",
+      "say": "moh-NING-ah"
+    },
+    {
+      "en": "Dòng sông",
+      "jp": "Ebale",
+      "say": "eh-BAH-leh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cd-hero.jpg",
+      "alt": "Đường chân trời thành phố Kinshasa nhìn từ bờ bên kia sông Congo",
+      "caption": "KINSHASA — một trong những thành phố lớn nhất châu Phi bên bờ sông Congo",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cd-landmark.jpg",
+      "alt": "Hồ dung nham đỏ rực bên trong miệng núi lửa Nyiragongo",
+      "caption": "NÚI NYIRAGONGO — hồ dung nham bùng cháy trong lòng núi lửa đang hoạt động ở Congo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cd-animalA.jpg",
+      "alt": "Con okapi đứng trong rừng, lộ rõ phần chân sau kẻ sọc đặc trưng",
+      "caption": "OKAPI — loài hươu cao cổ rừng sọc ngựa vằn chỉ có ở Congo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cd-animalB.jpg",
+      "alt": "Con tinh tinh bonobo đang nghỉ ngơi trong bóng cây xanh",
+      "caption": "BONOBO — họ hàng gần nhất của con người chỉ sống trong rừng Congo",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

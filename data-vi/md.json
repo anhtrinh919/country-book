@@ -1,0 +1,163 @@
+{
+  "name": "MOLDOVA",
+  "nativeName": "MD",
+  "romaji": "MOLDOVA",
+  "tagline": "Đất nho & hang động bí ẩn",
+  "region": "Đông Âu",
+  "coords": "47°N 29°E",
+  "fileNo": "148",
+  "langName": "tiếng Romania",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#cfc0a0",
+    "ink": "#2b2318",
+    "faint": "#8a7a5a",
+    "line": "#ddd0b2",
+    "accent": "#003DA5",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/md.svg",
+    "title": "Xanh, Vàng & Đỏ",
+    "note": "Đại bàng trên nền vàng cầm thánh giá và lá chắn",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Moldova là đất nước nhỏ bé nằm kẹp giữa Romania và Ukraine, không có biển cũng không có núi cao. Nhưng ẩn sâu trong lòng đất là những đường hầm đá vôi dài hàng chục kilômét chứa hàng triệu chai rượu vang! Người dân ở đây đã trồng nho và làm rượu suốt 5.000 năm qua. Hôm nay, Moldova đang vươn mình ra thế giới, mang theo những cánh đồng hướng dương, tu viện khắc vào vách đá và nụ cười hiếu khách.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Chișinău",
+      "sub": "Khoảng 720.000 người (điều tra 2024)"
+    },
+    {
+      "label": "Dân số",
+      "value": "~2,41 triệu",
+      "sub": "Điều tra dân số 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Leu (MDL)",
+      "sub": "≈ 20 MDL đổi 1 euro"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Romania",
+      "sub": "Còn dùng tiếng Nga & tiếng Gagauz"
+    },
+    {
+      "label": "Diện tích",
+      "value": "33.843 km²",
+      "sub": "Nhỏ hơn cả Ireland"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Bălănești",
+      "sub": "430 m — chỉ là một ngọn đồi thoai thoải"
+    }
+  ],
+  "islands": [
+    "Chișinău",
+    "Bălți",
+    "Cahul",
+    "Orhei",
+    "Tiraspol"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đồi xanh & thung lũng sông",
+    "animals": "Cò trắng, chồn & thú rừng",
+    "culture": "Rượu vang, điệu múa & hội làng",
+    "history": "Vương hầu, Sa hoàng & độc lập",
+    "wows": "Bảy điều bất ngờ"
+  },
+  "geo": [
+    "Moldova là một trong những nước bằng phẳng nhất châu Âu — không có núi, chỉ có những ngọn đồi hiền hòa và thung lũng rộng rãi do hai con sông Prut và Dniester bào mòn qua hàng nghìn năm. Đất đen màu mỡ gọi là chernozem phủ khắp nơi, biến Moldova thành một trong những vùng canh tác nông nghiệp tốt nhất thế giới.",
+    "Những cánh rừng sồi và dẻ gai che phủ vùng đồi Codru ở trung tâm, là nơi trú ngụ của hươu rừng và lợn rừng. Đặc biệt, Moldova hoàn toàn không có biển — bị bao bọc tứ phía bởi đất liền, khiến đây trở thành một góc nhỏ yên tĩnh và đầy bất ngờ của châu Âu."
+  ],
+  "animals": [
+    "Chim cò trắng là quốc điểu của Moldova. Mỗi mùa xuân, hàng nghìn con cò về làm tổ trên những ống khói nhà dân — người địa phương tin rằng có cò đậu trên mái nhà là điều may mắn lớn! Trong những khu rừng sồi, nai rừng, lợn rừng, lửng và mèo rừng châu Âu rụt rè sinh sống.",
+    "Loài hiếm nhất ở đây là chồn châu Âu — con vật nhỏ bé có bộ lông nâu bóng, lướt nhanh trong những đám sậy ven sông. Bị đe dọa tuyệt chủng trên toàn thế giới, chúng vẫn còn bám trụ được ở vùng ngập lũ sông Prut của Moldova — một trong những nơi cuối cùng chúng tồn tại trong tự nhiên ở châu Âu."
+  ],
+  "culture": [
+    "Người Moldova rất mê nhảy múa — điệu hora là vũ điệu quay tròn thành vòng tròn, xuất hiện ở mọi đám cưới và lễ hội mùa gặt, mọi người nắm tay nhau cùng nhảy. Các nghề thủ công dân gian như dệt thảm và thêu áo blouse với họa tiết hình học sặc sỡ vẫn được làm tay ở các làng quê.",
+    "Rượu vang là linh hồn của cuộc sống Moldova. Mỗi gia đình đều có vườn nho riêng, và mỗi tháng Mười cả nước tưng bừng đón Ngày Rượu Vang Quốc Gia với những hầm rượu mở cửa tự do và tiếng nhạc dân gian vang vọng. Người ta thậm chí đã biến một mỏ đá vôi thời Liên Xô thành cả một thành phố rượu ngầm khổng lồ dưới lòng đất."
+  ],
+  "history": [
+    "Vị anh hùng vĩ đại nhất của Moldova là Ștefan cel Mare — Stephen Đại Đế — trị vì từ năm 1457 đến 1504, ông đã thắng 34 trận trong tổng số 36 trận đánh chống lại đế chế Ottoman. Sau mỗi chiến thắng, ông cho xây một tu viện — hàng chục ngôi tu viện đó đến nay vẫn đứng vững như những kho tàng sống bằng đá và tranh bích họa.",
+    "Sau nhiều thế kỷ bị Ottoman rồi Nga cai trị, Moldova trở thành một phần của Liên Xô năm 1940. Ngày 27 tháng 8 năm 1991, khi Liên Xô sụp đổ, Moldova tuyên bố độc lập. Và ngày 25 tháng 6 năm 2024, nước này chính thức mở đàm phán gia nhập Liên minh châu Âu — một bước ngoặt lịch sử với người dân nơi đây."
+  ],
+  "wows": [
+    "Hầm rượu Mileștii Mici chứa hơn 1,5 triệu chai — kỷ lục Guinness về bộ sưu tập rượu vang lớn nhất thế giới.",
+    "55 km đường hầm rượu rộng đến mức khách tham quan phải đi bằng ô tô, trên những con phố mang tên các giống nho!",
+    "Vườn nho chiếm khoảng 4% diện tích Moldova — mật độ trồng nho cao nhất so với diện tích đất nước thuộc hàng đầu thế giới.",
+    "Tu viện hang đá Orheiul Vechi được các tu sĩ đục thẳng vào vách đá vôi trắng từ hơn 600 năm trước.",
+    "Tiền người Moldova gửi về từ nước ngoài chiếm khoảng 12% toàn bộ nền kinh tế của đất nước.",
+    "Ngày 25 tháng 6 năm 2024, Moldova chính thức mở đàm phán gia nhập EU — một bước chuyển mình lịch sử của quốc gia Đông Âu nhỏ bé này.",
+    "Cò trắng bay từ tận châu Phi xa xôi mỗi mùa xuân để về làm tổ đúng cái ống khói cũ quen thuộc ở Moldova, năm này qua năm khác."
+  ],
+  "myths": [
+    {
+      "myth": "Moldova là một phần của Romania",
+      "fact": "Moldova và Romania cùng chung tiếng nói, nhưng Moldova là đất nước độc lập hoàn toàn từ năm 1991 — có chính phủ riêng, tiền tệ riêng và hộ chiếu riêng. Hai nước, một ngôn ngữ."
+    },
+    {
+      "myth": "Ở Moldova chẳng có gì để xem",
+      "fact": "Moldova có tu viện khắc vào vách đá, hầm rượu lớn nhất thế giới, tranh ghép mosaic thời Liên Xô, lễ hội dân gian rộn ràng và vùng lãnh thổ kỳ lạ Transnistria — tất cả gói gọn trong diện tích còn nhỏ hơn Ireland!"
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bună ziua",
+      "say": "BOO-nuh ZEE-wah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mulțumesc",
+      "say": "mool-tsoo-MESK"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Vă rog",
+      "say": "vuh ROKE"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "La revedere",
+      "say": "lah reh-veh-DEH"
+    },
+    {
+      "en": "Rượu vang!",
+      "jp": "Vin!",
+      "say": "VEEN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/md-hero.jpg",
+      "alt": "Toàn cảnh mái nhà thành phố Chișinău và những ngọn đồi xanh",
+      "caption": "CHIȘINĂU — thủ đô Moldova trải rộng trên những ngọn đồi xanh mướt",
+      "credit": "Dave Proffer / Wikimedia Commons (CC BY 2.0)"
+    },
+    "landmark": {
+      "src": "/photos/md-landmark.jpg",
+      "alt": "Toàn cảnh tu viện hang đá Orheiul Vechi trên vách đá nhìn xuống thung lũng sông Raut",
+      "caption": "ORHEIUL VECHI — các tu sĩ đục tu viện này vào vách đá vôi từ 600 năm trước",
+      "credit": "Jekader / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "animalA": {
+      "src": "/photos/md-animalA.jpg",
+      "alt": "Cò trắng đứng trong tổ tại một khu bảo tồn chim",
+      "caption": "CÒ TRẮNG — quốc điểu của Moldova, được chào đón trên mái nhà mỗi mùa xuân",
+      "credit": "Dominik Ryba / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    "animalB": {
+      "src": "/photos/md-animalB.jpg",
+      "alt": "Chồn châu Âu với bộ lông nâu bóng đặc trưng",
+      "caption": "CHỒN CHÂU ÂU — loài đang nguy cấp; những con sông của Moldova là nơi trú ẩn cuối cùng quý giá",
+      "credit": "zoofanatic / Wikimedia Commons (CC BY 2.0)"
+    }
+  }
+}

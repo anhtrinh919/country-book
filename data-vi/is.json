@@ -1,0 +1,163 @@
+{
+  "name": "ICELAND",
+  "nativeName": "IS",
+  "romaji": "ISLAND",
+  "tagline": "Lửa, Băng & Cực Quang",
+  "region": "Bắc Đại Tây Dương, Châu Âu",
+  "coords": "64.96°N, 19.02°W",
+  "fileNo": "047",
+  "langName": "tiếng Iceland",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEF3F6",
+    "dot": "#c2cdd6",
+    "ink": "#1e2730",
+    "faint": "#6e8090",
+    "line": "#d4dde4",
+    "accent": "#003897",
+    "accent2": "#D72828"
+  },
+  "flag": {
+    "assetPath": "/flags/is.svg",
+    "title": "Quốc kỳ Iceland",
+    "note": "Nền xanh dương với hình chữ thập đỏ viền trắng",
+    "keyColor": "#003897",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Iceland nằm chót vót ở rìa Bắc Cực, nơi núi lửa âm ỉ ngay dưới lớp băng và bầu trời bùng cháy ánh xanh lá những đêm đông. Đất nước này vẫn đang lớn lên từng ngày — dòng dung nham vẫn còn chảy — thế mà chưa đến 400.000 người sinh sống ở đây, và họ được sưởi ấm hoàn toàn miễn phí từ nhiệt năng của núi lửa ngay dưới chân. Lửa bên dưới, băng bên trên, và bầu trời ngoạn mục phía trên tất cả.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Reykjavik",
+      "sub": "Thủ đô nằm xa về phía Bắc nhất trên Trái Đất"
+    },
+    {
+      "label": "Dân số",
+      "value": "~376.000",
+      "sub": "Ước tính 2024 — rất ít so với một quốc gia"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Króna (ISK)",
+      "sub": "Một crown = 100 aurar"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Iceland",
+      "sub": "Gần như không thay đổi suốt 1.000 năm qua"
+    },
+    {
+      "label": "Diện tích",
+      "value": "103.000 km²",
+      "sub": "Gần bằng diện tích tỉnh Quảng Ngãi nhân với ba lần"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.110 m",
+      "sub": "Hvannadalshnjúkur — đỉnh của một ngọn núi lửa"
+    }
+  ],
+  "islands": [
+    "Reykjavik",
+    "Akureyri",
+    "Keflavik",
+    "Ísafjörður",
+    "Höfn"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đất của lửa và băng",
+    "animals": "Muông thú vùng cực Bắc",
+    "culture": "Vikings, truyền thuyết và bể tắm nóng",
+    "history": "Từ người định cư đến huyền thoại",
+    "wows": "Những điều kỳ diệu của Iceland"
+  },
+  "geo": [
+    "Iceland nằm ngay trên hai mảng kiến tạo đang tách xa nhau 2 cm mỗi năm. Kết quả là cả đất nước sôi sục với mạch nước phun, suối nước nóng nghi ngút khói, cánh đồng dung nham đen thui, và hơn 130 ngọn núi lửa — khoảng 30 ngọn vẫn còn hoạt động cho đến nay.",
+    "Hơn 10% diện tích Iceland là sông băng, nhưng lòng đất bên dưới lại ấm nóng bất ngờ. Mạch nước phun Strokkur phun nước sôi cao 20 mét lên không trung vài phút một lần, như thể Trái Đất đang hắng giọng đúng giờ đúng buổi."
+  ],
+  "animals": [
+    "Iceland không có thú săn mồi trên cạn nào cả — không gấu, không sói, không rắn. Cáo Bắc Cực là động vật có vú duy nhất tự mình đến đây, lặc lè chạy qua lớp băng biển từ hàng nghìn năm trước.",
+    "Biển Iceland tràn ngập cá voi lưng gù và cá voi sát thủ orca. Hàng triệu con chim vẹt biển puffin đến làm tổ mỗi mùa hè, vỗ đôi cánh bé tí tới 400 nhịp mỗi phút — trông như những chiếc máy bay trực thăng có lông vũ."
+  ],
+  "culture": [
+    "Người Iceland yêu thích \"hot pot\" — bể tắm địa nhiệt ngoài trời nơi hàng xóm buôn chuyện và trẻ con nô đùa. Thị trấn nào cũng có một bể, và việc ngâm mình ở 40°C trong khi tuyết rơi lên đầu là chuyện bình thường như ăn cơm ngày thứ Ba.",
+    "Iceland đọc sách bình quân đầu người nhiều hơn hầu hết nơi nào trên Trái Đất. Đêm Giáng sinh, mọi người tặng nhau tiểu thuyết để đọc trên giường ngay tối hôm đó — gọi là \"Jólabókaflóð\", tức Cơn Lũ Sách Giáng Sinh, bắt nguồn từ truyền thống kể chuyện thời Viking."
+  ],
+  "history": [
+    "Những người Viking từ Na Uy đặt chân đến Iceland khoảng năm 874 sau Công nguyên. Đến năm 930, người Iceland lập ra Althing — một trong những nghị viện lâu đời nhất thế giới — họ họp ngoài trời để tranh luận và ban hành luật lệ cùng nhau.",
+    "Iceland trải qua nhiều thế kỷ dưới sự cai trị của Đan Mạch, sống sót qua các vụ phun trào núi lửa cướp đi một phần tư dân số năm 1783, giành độc lập vào năm 1944, rồi vươn từ một trong những nước nghèo nhất châu Âu lên thành một trong những nước giàu nhất chỉ trong một thế hệ."
+  ],
+  "wows": [
+    "Iceland tạo ra gần 100% điện từ địa nhiệt và thủy điện — gần như không thải carbon.",
+    "Cực quang nhảy múa màu xanh lá và tím trên bầu trời Reykjavik vào những đêm đông quang mây.",
+    "Người Iceland không có họ — mỗi đứa trẻ dùng tên cha hoặc mẹ ghép với đuôi -son (con trai) hoặc -dóttir (con gái).",
+    "Iceland không có quân đội, hải quân, hay không quân — một trong số ít quốc gia hoàn toàn không có lực lượng vũ trang.",
+    "Tại khe nứt Silfra, bạn có thể bơi lội giữa hai mảng kiến tạo trong làn nước trong vắt đến mức nhìn thấy xa 100 mét.",
+    "Nhiều con đường đã bị dời sang hướng khác để tránh làm phiền những tảng đá nơi \"người ẩn\" Huldufólk được cho là đang sinh sống.",
+    "Núi lửa Eyjafjallajökull phun trào năm 2010 khiến hàng triệu hành khách mắc kẹt vì các chuyến bay khắp châu Âu bị đình hoãn trong nhiều tuần."
+  ],
+  "myths": [
+    {
+      "myth": "Iceland phủ đầy băng tuyết",
+      "fact": "Iceland thực ra khá xanh tươi — khoảng 23% diện tích là đồng cỏ. Một người Viking đặt tên Iceland (Đất Băng) để giữ bí mật vùng đất tốt; còn Greenland (Đất Xanh) mới là nơi hầu hết bị băng phủ."
+    },
+    {
+      "myth": "Ở đó lúc nào cũng lạnh cắt da",
+      "fact": "Mùa đông Reykjavik thực ra ấm hơn New York nhờ dòng hải lưu Gulf Stream. Nhiệt độ hiếm khi xuống dưới -10°C và hệ thống sưởi địa nhiệt giữ ấm các ngôi nhà quanh năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Halló",
+      "say": "HAL-oh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Takk",
+      "say": "tahk"
+    },
+    {
+      "en": "Núi lửa",
+      "jp": "Eldfjall",
+      "say": "ELD-fyatl"
+    },
+    {
+      "en": "Có / Đúng rồi",
+      "jp": "Já",
+      "say": "yow"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Bless",
+      "say": "bless"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/is-hero.jpg",
+      "alt": "Đường chân trời thành phố Reykjavik về đêm với nhà thờ Hallgrimskirkja sáng rực",
+      "caption": "REYKJAVÍK — thủ đô lung linh dưới bầu trời cực quang",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/is-landmark.jpg",
+      "alt": "Mạch nước phun Strokkur tung cột nước sôi cao vút lên bầu trời",
+      "caption": "MẠCH NƯỚC PHUN STROKKUR — bắn nước sôi cao 20 m mỗi vài phút một lần",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/is-animalA.jpg",
+      "alt": "Chim puffin Đại Tây Dương với mỏ nhiều màu đứng trên vách đá",
+      "caption": "CHIM PUFFIN ĐẠI TÂY DƯƠNG — Iceland đón hàng triệu con chim mặt hề này mỗi mùa hè",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/is-animalB.jpg",
+      "alt": "Cáo Bắc Cực lông trắng đứng giữa khung cảnh tuyết phủ",
+      "caption": "CÁO BẮC CỰC — động vật có vú bản địa duy nhất của Iceland trong bộ lông trắng mùa đông",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

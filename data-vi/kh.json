@@ -1,0 +1,163 @@
+{
+  "name": "CAMPUCHIA",
+  "nativeName": "កម្ពុជ",
+  "romaji": "KAMPUCHEA",
+  "tagline": "Xứ sở đền tháp và dòng sông",
+  "region": "Đông Nam Á",
+  "coords": "12.57°N, 104.99°E",
+  "fileNo": "042",
+  "langName": "tiếng Khmer",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CABA98",
+    "ink": "#27201A",
+    "faint": "#8A7558",
+    "line": "#DED0B0",
+    "accent": "#C0202E",
+    "accent2": "#1A3A7A"
+  },
+  "flag": {
+    "assetPath": "/flags/kh.svg",
+    "title": "Quốc kỳ Campuchia",
+    "note": "Viền xanh, giữa đỏ; hình đền Angkor Wat màu trắng ở trung tâm",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Campuchia nằm giữa lòng Đông Nam Á, nơi dòng Mekong chảy qua những cánh rừng đang giữ bí mật của một trong những kỳ quan vĩ đại nhất thế giới — đền Angkor Wat. Người Khmer đã xây dựng cả một đế chế hùng mạnh ở đây hơn nghìn năm trước, và những ngôi đền đá vẫn đứng vững giữa rừng già cho đến tận ngày nay. Cuộc sống của người Campuchia xoay quanh cây lúa, cá từ hồ Tonle Sap khổng lồ, và những trận mưa mùa mà năm nào cũng làm ngập trắng đồng bằng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Phnom Penh",
+      "sub": "Bên bờ sông Mekong"
+    },
+    {
+      "label": "Dân số",
+      "value": "17,3 triệu người",
+      "sub": "Điều tra dân số 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Riel (KHR)",
+      "sub": "Đô-la Mỹ cũng dùng thường ngày"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Khmer",
+      "sub": "Hơn 16 triệu người nói"
+    },
+    {
+      "label": "Diện tích",
+      "value": "181.035 km²",
+      "sub": "Gần bằng diện tích miền Nam Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Phnom Aural",
+      "sub": "1.813 m, dãy Cardamom"
+    }
+  ],
+  "islands": [
+    "Phnom Penh",
+    "Siem Reap",
+    "Battambang",
+    "Kampot",
+    "Kratie"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sông, Hồ & Rừng Xanh",
+    "animals": "Muông Thú Bên Dòng Mekong",
+    "culture": "Đền Tháp, Điệu Múa & Hương Vị",
+    "history": "Đế Chế, Đền Đài & Hồi Sinh",
+    "wows": "Ồ! Có Biết Không?"
+  },
+  "geo": [
+    "Campuchia phần lớn là đồng bằng thấp được tưới tắm bởi dòng sông Mekong. Ở trung tâm đất nước là hồ Tonle Sap — hồ nước ngọt lớn nhất Đông Nam Á. Cứ đến mùa mưa, nước từ sông Mekong dâng cao làm dòng chảy ngược vào hồ, khiến Tonle Sap phình to gấp sáu lần so với mùa khô — giống như một cái bong bóng khổng lồ đang được thổi phồng.",
+    "Dãy núi Cardamom vươn lên ở phía tây nam, che chở những cánh rừng nhiệt đới dày đặc. Khoảng 20% diện tích đất nước được canh tác — chủ yếu là ruộng lúa xanh mướt mỗi mùa mưa về, trải dài tít tắp đến tận chân trời."
+  ],
+  "animals": [
+    "Cá heo Irrawaddy — loài cá heo nước ngọt tròn trịa với nụ cười hiền lành — chỉ sống trong một đoạn ngắn trên sông Mekong gần thị trấn Kratie. Người Campuchia coi những sinh vật hiếm này là linh thiêng. Hiện nay chỉ còn khoảng 100 cá thể sót lại, và nhờ sự bảo vệ cẩn thận, đàn cá heo đang dần hồi phục.",
+    "Cò quắm khổng lồ là chim quốc gia của Campuchia — một loài chim lội nước to lớn, cao gần bằng một đứa trẻ. Đang đứng trước nguy cơ tuyệt chủng, loài này làm tổ trong những khu rừng phía bắc. Voi châu Á vẫn còn lang thang theo đàn nhỏ được bảo vệ trong dãy núi Cardamom."
+  ],
+  "culture": [
+    "Người Campuchia chào nhau bằng cử chỉ sampeah — hai tay chắp lại trước ngực và cúi đầu nhẹ. Tay giơ càng cao, lòng kính trọng thể hiện càng lớn. Điệu múa Apsara cổ điển được UNESCO công nhận, dùng những động tác tay tinh tế và uyển chuyển để kể lại những câu chuyện thần thoại từ ngàn xưa.",
+    "Ẩm thực Khmer xây dựng xung quanh prahok — một loại mắm cá lên men được mệnh danh là 'phô-mai của người Campuchia'. Nó tạo ra hương vị đậm đà, sâu sắc cho các món ăn. Cá amok hấp trong lá chuối với nước cốt dừa là món ăn mà hầu hết du khách đều nhớ mãi sau khi rời Campuchia."
+  ],
+  "history": [
+    "Năm 802 sau Công nguyên, vua Jayavarman II tự xưng là thiên tử và khai sinh Đế chế Khmer. Hơn 600 năm sau đó, đế chế này mở rộng ra khắp phần lớn đất liền Đông Nam Á. Thủ đô Angkor trở thành thành phố lớn nhất trái đất thời tiền công nghiệp — còn to hơn cả Paris hay London thời đó.",
+    "Đế chế sụp đổ năm 1431 trước quân Thái, rồi Campuchia trở thành thuộc địa Pháp. Thập niên 1970 chứng kiến nỗi thảm khốc của chế độ Khmer Đỏ với hàng triệu người thiệt mạng. Từ thập niên 1990, đất nước hồi sinh với nghị lực phi thường, từng bước xây dựng lại mọi thứ từ đầu."
+  ],
+  "wows": [
+    "Angkor Wat là công trình tôn giáo lớn nhất thế giới — rộng 162 héc-ta, với hào nước bao quanh dài hơn 5 km.",
+    "Trên quốc kỳ Campuchia có hình vẽ một tòa nhà có thật — chính là những tháp đền Angkor Wat ở chính giữa lá cờ.",
+    "Sông Tonle Sap chảy ngược hai lần mỗi năm: mùa mưa, nước sông Mekong dâng cao đẩy nước chảy ngược lên hồ.",
+    "Angkor là thành phố lớn nhất thế giới thời tiền công nghiệp vào thế kỷ 13 — rộng ngang Los Angeles hiện đại.",
+    "Campuchia không có cửa hàng McDonald's nào — một trong những nước cuối cùng ở Đông Nam Á chưa có một chi nhánh nào.",
+    "Tiếng Khmer không có thanh điệu, khác hẳn tiếng Thái và tiếng Việt của các nước láng giềng — điều hiếm thấy trong khu vực.",
+    "Đám cưới của người Campuchia kéo dài đúng ba ngày, để mọi người thân từ khắp các làng đều có thể đến chung vui."
+  ],
+  "myths": [
+    {
+      "myth": "Angkor Wat là một 'thành phố bị lãng quên' trong nhiều thế kỷ",
+      "fact": "Angkor chưa bao giờ thực sự bị bỏ hoang — người dân vẫn sinh sống, canh tác và thờ phụng ở đây liên tục. Chỉ là các nhà thám hiểm châu Âu đã làm nơi này nổi tiếng khắp thế giới vào thế kỷ 19 thôi."
+    },
+    {
+      "myth": "Campuchia là nước duy nhất có hình một tòa nhà trên quốc kỳ",
+      "fact": "Nhiều quốc kỳ khác cũng có hình công trình kiến trúc: Bồ Đào Nha, San Marino và Tây Ban Nha đều có trong huy hiệu quốc gia. Đền Angkor Wat của Campuchia chỉ là nổi bật và dễ nhận ra nhất mà thôi."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "សួស្តី",
+      "say": "Soo-s'day"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "អរគុណ",
+      "say": "Aw-koon"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "សុខសប្បាយ?",
+      "say": "Sohk sah-bye?"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "ឆ្ងាញ់!",
+      "say": "Chh-ngayn!"
+    },
+    {
+      "en": "Đền thờ",
+      "jp": "វត្ត",
+      "say": "Wut"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/kh-landmark.jpg",
+      "alt": "Đền Angkor Wat soi bóng xuống hồ nước phía bắc lúc bình minh",
+      "caption": "ANGKOR WAT — công trình tôn giáo lớn nhất thế giới, phản chiếu trên mặt hồ phía bắc",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/kh-animalA.jpg",
+      "alt": "Cò quắm khổng lồ đang lội trong vùng nước cạn ở Campuchia",
+      "caption": "CÒ QUẮM KHỔNG LỒ — chim quốc gia Campuchia đang bên bờ tuyệt chủng, loài cò cao nhất thế giới",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/kh-animalB.jpg",
+      "alt": "Voi châu Á giữa cảnh rừng nhiệt đới",
+      "caption": "VOI CHÂU Á — những đàn nhỏ vẫn còn tự do rong ruổi trong dãy núi Cardamom ở tây nam Campuchia",
+      "credit": "Wikimedia Commons / CC BY 2.0"
+    },
+    "hero": {
+      "src": "/photos/kh-hero.jpg",
+      "alt": "Đường chân trời thủ đô Phnom Penh nhìn từ bờ sông Mekong",
+      "caption": "PHNOM PENH — thủ đô Campuchia bên dòng Mekong, nơi đền cổ và tòa nhà hiện đại đứng cạnh nhau",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

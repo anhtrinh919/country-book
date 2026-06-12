@@ -216,13 +216,14 @@ function PhotoSlot({ photo, h, rot = 0 }: { photo: Photo; h: number; rot?: numbe
 }
 
 function Stamp({ C }: { C: Country }) {
+  const { locale: loc } = useLang();
   return (
     <div style={{ width: 116, height: 116, borderRadius: "50%", border: "2.5px solid var(--accent)", color: "var(--accent)", transform: "rotate(-8deg)", display: "grid", placeItems: "center", textAlign: "center", flex: "0 0 auto", opacity: .92, boxShadow: "inset 0 0 0 4px var(--paper), inset 0 0 0 5.5px var(--accent)" }}>
       <div>
         <div style={{ fontFamily: FONTS.mono, fontSize: 13, letterSpacing: ".3em", fontWeight: 600 }}>VISA</div>
         <div style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 26, lineHeight: 1, margin: "3px 0 2px" }}>{C.nativeName || C.romaji}</div>
         <div style={{ fontFamily: FONTS.mono, fontSize: 7.5, letterSpacing: ".14em" }}>No. {C.fileNo}</div>
-        <div style={{ fontFamily: FONTS.mono, fontSize: 7.5, letterSpacing: ".12em", marginTop: 3 }}>★ FACT-CHECKED ★</div>
+        <div style={{ fontFamily: FONTS.mono, fontSize: 7.5, letterSpacing: ".12em", marginTop: 3 }}>★ {loc.factChecked} ★</div>
       </div>
     </div>
   );
@@ -238,7 +239,7 @@ function DataPanel({ C }: { C: Country }) {
           <img src={asset(C.flag.assetPath)} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
         </div>
         <div>
-          <div style={{ fontFamily: FONTS.mono, fontSize: 9, letterSpacing: ".1em", textTransform: "uppercase", color: "var(--faint)" }}>Flag</div>
+          <div style={{ fontFamily: FONTS.mono, fontSize: 9, letterSpacing: ".1em", textTransform: "uppercase", color: "var(--faint)" }}>{loc.flagLabel}</div>
           <div style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 16, lineHeight: 1.05 }}>{C.flag.title}</div>
           <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 11, color: "var(--faint)" }}>{C.flag.note}</div>
         </div>
@@ -366,6 +367,7 @@ function HeroBanner({ C }: { C: Country }) {
 }
 
 function FactsRibbon({ C }: { C: Country }) {
+  const { locale: loc } = useLang();
   return (
     <div style={{ border: "1.5px solid var(--ink)", marginTop: 12, background: "rgba(255,255,255,.4)" }}>
       <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "9px 13px", borderBottom: "1px dotted var(--line)" }}>
@@ -373,7 +375,7 @@ function FactsRibbon({ C }: { C: Country }) {
           <img src={asset(C.flag.assetPath)} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
         </div>
         <div style={{ flex: 1, minWidth: 0 }}>
-          <div style={{ fontFamily: FONTS.mono, fontSize: 9, letterSpacing: ".1em", textTransform: "uppercase", color: "var(--faint)" }}>Flag</div>
+          <div style={{ fontFamily: FONTS.mono, fontSize: 9, letterSpacing: ".1em", textTransform: "uppercase", color: "var(--faint)" }}>{loc.flagLabel}</div>
           <div style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 15, lineHeight: 1.05 }}>{C.flag.title}</div>
           <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 11, color: "var(--faint)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{C.flag.note}</div>
         </div>

@@ -1,0 +1,162 @@
+{
+  "name": "MICRONESIA",
+  "nativeName": "FM",
+  "romaji": "MICRONESIA",
+  "tagline": "Những viên ngọc giữa Thái Bình Dương",
+  "region": "Châu Đại Dương / Thái Bình Dương",
+  "coords": "6.9°N, 158.2°E",
+  "fileNo": "072",
+  "langName": "tiếng Pohnpei",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EDF4F9",
+    "dot": "#b8cfe0",
+    "ink": "#1a2830",
+    "faint": "#6a8a9e",
+    "line": "#cce0ef",
+    "accent": "#75B2DD",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/fm.svg",
+    "title": "Bốn ngôi sao & đại dương",
+    "note": "Màu xanh đại diện cho Thái Bình Dương; 4 ngôi sao tượng trưng cho 4 bang",
+    "keyColor": "#75B2DD",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Rải rác như những hạt ngọc trên đại dương lớn nhất thế giới, Micronesia gồm 607 hòn đảo trải dài trên vùng biển rộng hơn cả châu Âu — nhưng nếu gom lại, đất liền chỉ bằng một thành phố nhỏ. Ở đây có một thành phố cổ xây trên rạn san hô, những bánh đá khổng lồ dùng làm tiền, và một đầm phá đang giấu dưới đáy nước cả đội tàu chiến chìm từ thời Thế chiến.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Palikir",
+      "sub": "Trên đảo Pohnpei"
+    },
+    {
+      "label": "Dân số",
+      "value": "~114.000",
+      "sub": "Ước tính năm 2023"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Mỹ",
+      "sub": "Dùng USD từ năm 1944"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Cùng 8 ngôn ngữ địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "702 km²",
+      "sub": "Trải trên 3 triệu km² biển"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Nanlaud 782 m",
+      "sub": "Quanh năm mây phủ, đảo Pohnpei"
+    }
+  ],
+  "islands": [
+    "Pohnpei",
+    "Chuuk",
+    "Yap",
+    "Kosrae"
+  ],
+  "islandsLabel": "CÁC BANG CHÍNH:",
+  "sections": {
+    "geography": "607 hòn đảo, một đại dương bao la",
+    "animals": "Chim, cá & tiền đá",
+    "culture": "Đá cổ & rượu lễ hội",
+    "history": "Từ vua rạn san hô đến quốc gia độc lập",
+    "wows": "Những điều bất ngờ đang chờ bạn"
+  },
+  "geo": [
+    "607 hòn đảo của Micronesia trải dài gần 3.000 km trên vùng tây Thái Bình Dương — nhưng nếu gom hết lại, chúng chỉ lấp đầy được thành phố London. Hầu hết là những vòng san hô thấp bao quanh đầm phá xanh ngọc, nhưng đảo Pohnpei lại vươn lên thành những ngọn núi phủ kín rừng nhiệt đới và mây mù huyền bí.",
+    "Pohnpei nhận hơn 7.600 mm mưa mỗi năm — một trong những nơi ẩm ướt nhất Trái Đất. Kosrae được rừng ngập mặn che phủ kín đến tận bờ biển, đảo Yap phẳng lì gần như ngang mặt nước, còn đáy biển giữa các đảo sâu tới 8 km — sâu hơn nhiều so với đáy biển Đông của nước ta."
+  ],
+  "animals": [
+    "Những luồng nước ấm quanh đảo Yap là nơi sinh sống của hơn 100 con cá đuối khổng lồ manta, chúng lượn vòng thong thả để các cá nhỏ làm sạch cơ thể. Rùa xanh và rùa đồi mồi đẻ trứng trên những bãi biển yên tĩnh, còn cá rạn san hô đủ màu sắc lượn lờ trong khu vườn san hô với gần 1.000 loài khác nhau.",
+    "Khi hoàng hôn xuống, đàn dơi quả khổng lồ bay đầy trời, và bồ câu hoàng gia Micronesia làm tổ trong rừng ven biển. Trên đảo san hô Pingelap còn có những con cua dừa to lớn, có thể bẻ vỡ quả dừa bằng càng và sống đến 60 năm — lâu hơn cả ông bà nội ngoại của bạn!"
+  ],
+  "culture": [
+    "Mỗi bang có ngôn ngữ và phong tục riêng. Trên đảo Pohnpei, thức uống lễ nghi sakau — làm từ rễ cây giã nhuyễn, uống chung từ một chiếc vỏ dừa theo đúng thứ bậc — là trung tâm của mọi bữa tiệc và là cách bày tỏ sự kính trọng sâu sắc nhất.",
+    "Người dân khắp các đảo đan lát giỏ và quần áo từ lá dứa dại và sợi dâm bụt. Vũ điệu được xem rất nghiêm túc — những điệu múa gậy và múa đứng đánh dấu mọi lễ hội, được truyền qua nhiều thế hệ mà không cần ghi chép thành bản nhạc."
+  ],
+  "history": [
+    "Người Micronesia cổ đại là những nhà hàng hải tài giỏi bậc nhất, biết đọc sao trời, sóng biển và hướng bay của chim để vượt qua hàng nghìn km. Khoảng năm 1200, vương triều Saudeleur đã xây dựng Nan Madol — một thành phố gồm 100 hòn đảo nhân tạo bằng đá trong đầm phá, nối nhau bằng kênh đào, vẫn còn đứng vững đến ngày nay.",
+    "Tây Ban Nha, Đức rồi Nhật Bản lần lượt cai trị nơi này. Năm 1944, một cuộc tấn công của Mỹ đã đánh chìm hơn 60 tàu chiến Nhật xuống đầm phá Chuuk. Micronesia trở thành vùng tự trị năm 1979 và chính thức độc lập hoàn toàn năm 1986 theo Hiệp ước Liên kết Tự do với Mỹ."
+  ],
+  "wows": [
+    "Nan Madol là thành phố cổ duy nhất trên thế giới được xây dựng trên rạn san hô — dựng bằng những khúc đá bazan khổng lồ mà không dùng bất kỳ công cụ kim loại nào.",
+    "Những tảng đá rai trên đảo Yap có thể nặng tới 4 tấn; quyền sở hữu được chuyển nhượng bằng sự đồng thuận của cộng đồng chứ không cần di chuyển đá đi đâu cả.",
+    "Đầm phá Chuuk là nghĩa địa của hơn 60 tàu chiến và 200 máy bay thời Thế chiến II — bảo tàng dưới nước lớn nhất thế giới.",
+    "Trên đảo san hô Pingelap, cứ 10 người thì có 1 người bị mù màu hoàn toàn — hậu quả từ một trận bão lớn năm 1775 chỉ còn lại vài người sống sót.",
+    "Vùng biển của Micronesia rộng gấp 5 lần nước Pháp, nhưng đất liền lại nhỏ hơn cả thành phố Houston của Mỹ.",
+    "Chiến dịch \"Thả quà Giáng sinh\" mỗi tháng 12 dùng máy bay thả quà xuống những hòn đảo xa xôi — đã thực hiện liên tục từ năm 1952 đến nay.",
+    "Đỉnh Nanlaud quanh năm mây che phủ dày đặc đến mức mãi đến thế kỷ 20 các nhà khoa học mới đo đạc được đầy đủ."
+  ],
+  "myths": [
+    {
+      "myth": "Micronesia là một phần của Polynesia",
+      "fact": "Đây là hai vùng Thái Bình Dương hoàn toàn khác nhau, với văn hóa và ngôn ngữ riêng biệt. Micronesia nằm ở tây bắc Thái Bình Dương; còn Polynesia bao gồm Samoa, Tonga và Hawaii — cách nhau hàng nghìn km."
+    },
+    {
+      "myth": "Những tảng đá tiền rai của người Yap chỉ là đồ trang trí",
+      "fact": "Đá rai là đồng tiền thật, vẫn được dùng để mua đất và làm lễ cưới hỏi đến ngày nay. Không ai cần mang chúng đi đâu — cả cộng đồng chỉ cần nhớ và đồng ý với nhau về việc tảng đá nào thuộc về ai."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Kaselehlie",
+      "say": "kah-say-LEH-lee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Kalahngan",
+      "say": "kah-LAHN-gahn"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Ehng",
+      "say": "eng"
+    },
+    {
+      "en": "Không",
+      "jp": "Soh",
+      "say": "soh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Kaselehlie",
+      "say": "kah-say-LEH-lee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fm-hero.jpg",
+      "alt": "Nhìn từ trên máy bay xuống đầm phá và các đảo nhỏ của Pohnpei",
+      "caption": "ĐẦM PHÁ POHNPEI — hòn đảo xanh biếc được bao quanh bởi rạn san hô, nhìn từ trên cao",
+      "credit": "Zykasaa / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/fm-landmark.jpg",
+      "alt": "Những bức tường đá Nan Madol bên cạnh kênh đào trên đảo Pohnpei",
+      "caption": "NAN MADOL — thành phố đá bazan trên rạn san hô, Venice của Thái Bình Dương",
+      "credit": "Uhooep / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/fm-animalA.jpg",
+      "alt": "Cá đuối manta khổng lồ đang lướt nhẹ dưới nước",
+      "caption": "CÁ ĐUỐI MANTA — hơn 100 cá thể thường xuyên tuần tra các kênh làm sạch nổi tiếng của đảo Yap",
+      "credit": "A. de Frias Marques / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/fm-animalB.jpg",
+      "alt": "Tảng đá tiền rai tròn lớn ở một ngôi làng trên đảo Yap",
+      "caption": "ĐÁ RAI — đồng tiền sống của đảo Yap; quyền sở hữu chỉ cần cộng đồng ghi nhớ là đủ",
+      "credit": "Eric Guinther / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

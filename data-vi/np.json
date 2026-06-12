@@ -1,0 +1,163 @@
+{
+  "name": "NEPAL",
+  "nativeName": "नेपाल",
+  "romaji": "NEPAL",
+  "tagline": "Nóc nhà của thế giới",
+  "region": "Nam Á",
+  "coords": "28°N 84°E",
+  "fileNo": "042",
+  "langName": "tiếng Nepal",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBA9E",
+    "ink": "#251E18",
+    "faint": "#8A7260",
+    "line": "#DCCFB0",
+    "accent": "#BA1B1E",
+    "accent2": "#14305A"
+  },
+  "flag": {
+    "assetPath": "/flags/np.svg",
+    "title": "Quốc kỳ Nepal",
+    "note": "Lá cờ quốc gia duy nhất trên thế giới không có hình chữ nhật",
+    "keyColor": "#BA1B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nằm kẹp giữa Ấn Độ và Trung Quốc, Nepal ôm trong lòng tám trong mười đỉnh núi cao nhất hành tinh. Từ những cánh rừng nhiệt đới nóng ẩm có tê giác dạo bước, đến những đỉnh băng tuyết nơi báo tuyết lặng lẽ săn mồi — đất nước nhỏ bé này chứa đựng cả một thế giới thiên nhiên kỳ diệu. Đây còn là nơi Đức Phật ra đời, với những ngôi đền cổ kính, lễ hội rực rỡ và nụ cười Namaste chào đón mọi vị khách từ muôn nơi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kathmandu",
+      "sub": "Độ cao 1.324 m"
+    },
+    {
+      "label": "Dân số",
+      "value": "~30 triệu người",
+      "sub": "Ước tính World Bank 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rupee (NPR)",
+      "sub": "100 paisa = 1 rupee"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Nepal",
+      "sub": "Cùng 123 ngôn ngữ khác"
+    },
+    {
+      "label": "Diện tích",
+      "value": "147.181 km²",
+      "sub": "Lớn hơn nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "8.849 m",
+      "sub": "Núi Everest — kỷ lục thế giới"
+    }
+  ],
+  "islands": [
+    "Kathmandu",
+    "Terai Plains",
+    "Pokhara",
+    "Chitwan",
+    "Mustang"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Núi tuyết, rừng già và sông băng",
+    "animals": "Từ tê giác đến báo tuyết",
+    "culture": "Đền thiêng, lễ hội và Namaste",
+    "history": "Vương quốc, Gurkha và nền cộng hòa",
+    "wows": "Có thật không vậy?"
+  },
+  "geo": [
+    "Nepal trải dài 800 km từ đông sang tây nhưng đi qua bốn vùng khí hậu hoàn toàn khác nhau. Phía nam là vùng đồng bằng Terai nóng ẩm, giáp với đồng bằng sông Hằng; tiếp đến là vùng đồi núi trung du; rồi dãy Himalaya hùng vĩ ở phía bắc với tám đỉnh cao hơn 8.000 m — cao hơn bất kỳ ngọn núi nào ở Việt Nam hàng chục lần.",
+    "Bị kẹp giữa Ấn Độ và Trung Quốc, Nepal không có biển nhưng có hàng nghìn con sông băng chảy từ tuyết tan. Hẻm núi Kali Gandaki nằm giữa hai đỉnh Himalaya, sâu hơn 5.500 m — khiến nó trở thành một trong những hẻm núi sâu nhất Trái Đất, còn sâu hơn cả Grand Canyon nổi tiếng của Mỹ."
+  ],
+  "animals": [
+    "Vùng đồng bằng Terai ấm áp là nơi sinh sống của tê giác một sừng khổng lồ và hổ Bengal trong Vườn quốc gia Chitwan. Cá heo sông Ganges hiếm có bơi lội trong những con sông giữa rừng, còn voi rừng thong thả dẫm qua thảm cỏ voi cao ngập đầu người.",
+    "Trên những triền núi cao, báo tuyết huyền bí lặng lẽ săn mồi giữa băng giá trong khi gấu trúc đỏ ngủ ngon trong rừng đỗ quyên. Chim quốc gia của Nepal — Danphe (trĩ Himalaya) — khoe bộ lông bảy sắc cầu vồng rực rỡ trên các thảo nguyên núi cao, đẹp như một bức tranh."
+  ],
+  "culture": [
+    "Nepal là nơi đạo Hindu và đạo Phật cùng chung sống hòa thuận — những ngôi đền thờ thần Shiva đứng cạnh các tháp vàng treo đầy cờ kinh phật. Các lễ hội như Dashain và Tihar (lễ hội ánh sáng) biến đường phố thành biển màu sắc, âm nhạc và hoa cúc vạn thọ suốt nhiều tuần liền.",
+    "Người Newari ở thung lũng Kathmandu đã xây dựng những ngôi đền mái chùa kiệt tác từ hơn 1.000 năm trước. Người Sherpa trên dãy Himalaya cao được cả thế giới biết tiếng là những người dẫn đường leo núi siêu đẳng. Đi đâu ở Nepal cũng được chào đón bằng cái chắp tay Namaste thân thiện và ấm lòng."
+  ],
+  "history": [
+    "Lumbini, nằm ở vùng Terai, là nơi Đức Phật Thích Ca Mâu Ni đản sinh vào khoảng năm 563 trước Công nguyên — một trong những thánh địa tâm linh vĩ đại nhất châu Á. Trong nhiều thế kỷ, các vương quốc tranh giành nhau cho đến khi Prithvi Narayan Shah thống nhất tất cả thành một nước Nepal duy nhất vào năm 1768.",
+    "Nepal là vương quốc Hindu cuối cùng trên Trái Đất cho đến năm 2008, khi người dân bỏ phiếu chuyển sang chế độ cộng hòa. Những chiến binh Gurkha của Nepal lừng danh khắp thế giới khi chiến đấu bên cạnh quân đội Anh — con dao cong kukri trở thành biểu tượng của lòng dũng cảm phi thường."
+  ],
+  "wows": [
+    "Lá cờ Nepal là cờ quốc gia duy nhất trên thế giới không có hình chữ nhật — được ghép từ hai tam giác chồng lên nhau.",
+    "Tám trong mười đỉnh núi cao nhất thế giới đều nằm trên đất Nepal, bao gồm Everest cao 8.849 m.",
+    "Đức Phật Thích Ca Mâu Ni đản sinh tại Lumbini, Nepal — một trong những thánh địa hành hương linh thiêng nhất châu Á.",
+    "Nepal có tới 124 ngôn ngữ được nói — nhiều hơn hầu hết các nước lớn gấp mười lần diện tích.",
+    "Hẻm núi Kali Gandaki nằm giữa hai đỉnh Himalaya còn sâu hơn cả Grand Canyon nổi tiếng của Mỹ.",
+    "Tương truyền thung lũng Kathmandu xưa kia là một hồ nước mênh mông, cho đến khi một vị thần chém một nhát kiếm thoát nước ra.",
+    "Kami Rita Sherpa đã lên đỉnh Everest tới 32 lần — kỷ lục thế giới chưa ai phá được."
+  ],
+  "myths": [
+    {
+      "myth": "Everest là ngọn núi cao nhất thế giới",
+      "fact": "Everest là ngọn núi cao nhất so với mực nước biển (8.849 m), nhưng Mauna Kea ở Hawaii còn cao hơn nếu tính từ chân núi đến đỉnh — vì phần lớn nó đang chìm sâu dưới lòng Thái Bình Dương."
+    },
+    {
+      "myth": "Nepal chỉ toàn núi tuyết",
+      "fact": "Vùng Terai ở phía nam là rừng nhiệt đới bằng phẳng, xanh tươi và nóng ẩm, đầy hổ, tê giác và voi — y chang như ở Ấn Độ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "नमस्ते",
+      "say": "Na-mas-tay"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "धन्यवाद",
+      "say": "Dhan-ya-baad"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "मिठो छ",
+      "say": "Mi-tho cha"
+    },
+    {
+      "en": "Ngọn núi",
+      "jp": "हिमाल",
+      "say": "Hi-maal"
+    },
+    {
+      "en": "Tên tôi là…",
+      "jp": "मेरो नाम…",
+      "say": "Me-ro naam…"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/np-hero.jpg",
+      "alt": "Đỉnh núi Everest phủ tuyết trắng trên dãy Himalaya dưới bầu trời xanh",
+      "caption": "ĐỈNH EVEREST — điểm cao nhất Trái Đất ở độ cao 8.849 m, Nepal",
+      "credit": "Vyacheslav Argenberg / CC BY 4.0"
+    },
+    "landmark": {
+      "src": "/photos/np-landmark.jpg",
+      "alt": "Mái vàng đền Pashupatinath soi bóng bên dòng sông Bagmati ở Kathmandu",
+      "caption": "ĐỀN PASHUPATINATH — thánh địa Hindu linh thiêng bên sông Bagmati, Kathmandu",
+      "credit": "Ondřej Žváček / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/np-animalA.jpg",
+      "alt": "Tê giác một sừng mẹ và con trong Vườn quốc gia Chitwan, Nepal",
+      "caption": "TÊ GIÁC MỘT SỪNG — mẹ và con trong Vườn quốc gia Chitwan, Nepal",
+      "credit": "Bocardodarapti / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/np-animalB.jpg",
+      "alt": "Ảnh cận cảnh báo tuyết với bộ lông đốm và đôi mắt nhạt màu",
+      "caption": "BÁO TUYẾT — bóng ma huyền bí của dãy Himalaya",
+      "credit": "Tambako The Jaguar / CC BY-SA 2.0"
+    }
+  }
+}

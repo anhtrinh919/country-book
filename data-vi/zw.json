@@ -1,0 +1,163 @@
+{
+  "name": "ZIMBABWE",
+  "nativeName": "ZW",
+  "romaji": "ZIMBABWE",
+  "tagline": "Vùng đất những thành đá cổ",
+  "region": "Nam Phi",
+  "coords": "20.0°S, 30.0°E",
+  "fileNo": "162",
+  "langName": "tiếng Shona",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C8B99A",
+    "ink": "#252018",
+    "faint": "#7A6E4A",
+    "line": "#DCCFB0",
+    "accent": "#2D6A2D",
+    "accent2": "#C8A000"
+  },
+  "flag": {
+    "assetPath": "/flags/zw.svg",
+    "title": "Quốc kỳ Zimbabwe",
+    "note": "Bảy sọc ngang; Chim Zimbabwe trên hình tam giác",
+    "keyColor": "#2D6A2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Zimbabwe nằm sâu trong lục địa châu Phi, nơi những thành trì đá cổ 900 năm tuổi đã đặt tên cho cả một quốc gia. Thác Victoria — tiếng rầm của nước nghe xa tới 40 km — và hồ Kariba, hồ nhân tạo lớn nhất thế giới, đều ở đây. Đàn voi bạt ngàn trên thảo nguyên, pháo đài đá granit hàng nghìn năm tuổi, và nhiều ngôn ngữ chính thức hơn bất kỳ quốc gia nào trên Trái Đất — Zimbabwe là trái tim kỳ diệu của châu Phi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Harare",
+      "sub": "Dân số khoảng 1,5 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "~16,95 triệu",
+      "sub": "Ước tính của LHQ, 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "ZiG (ZWG)",
+      "sub": "Zimbabwe Gold, dùng từ năm 2024"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "16 ngôn ngữ chính thức",
+      "sub": "Nhiều nhất thế giới (Guinness)"
+    },
+    {
+      "label": "Diện tích",
+      "value": "390.757 km²",
+      "sub": "Lớn hơn nước Đức"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Nyangani",
+      "sub": "Cao 2.592 m so với mực nước biển"
+    }
+  ],
+  "islands": [
+    "Harare",
+    "Bulawayo",
+    "Mutare",
+    "Masvingo",
+    "Vic Falls"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Thác nước, hồ lớn & cao nguyên",
+    "animals": "Ngũ hổ & chó hoang đốm",
+    "culture": "Đá cổ, âm nhạc & cơm sadza",
+    "history": "Vương quốc, phế tích & tự do",
+    "wows": "Bạn có tin nổi không?"
+  },
+  "geo": [
+    "Zimbabwe tọa lạc trên một cao nguyên trung tâm gọi là Highveld — cao khoảng 1.200 m so với mặt biển — nên khí hậu mát mẻ hơn nhiều so với những vùng cùng vĩ độ gần xích đạo. Sông Zambezi chạy dọc biên giới phía bắc rồi đổ xuống thác Victoria: rộng 1,7 km, cao 108 m, bụi nước tung lên tạo thành cầu vồng quanh năm suốt tháng.",
+    "Dãy núi phía đông vươn lên đỉnh Nyangani cao 2.592 m — mùa đông lạnh đến mức có thể có sương muối. Hồ Kariba được hình thành khi một con đập hoàn thành năm 1959, trải dài 280 km dọc biên giới Zambia và cung cấp điện cho hàng triệu ngôi nhà."
+  ],
+  "animals": [
+    "Zimbabwe là xứ sở của Ngũ Hổ châu Phi — sư tử, báo hoa mai, tê giác, voi và trâu rừng đều sinh sống ở đây. Vườn quốc gia Hwange là nơi trú ngụ của khoảng 40.000 con voi, một trong những quần thể voi đông đúc nhất Trái Đất, cùng với hươu cao cổ, ngựa vằn và chó hoang.",
+    "Chó hoang châu Phi đốm nhiều màu là một trong những loài nguy cấp nhất Zimbabwe — chỉ còn khoảng 660 con trong 86 bầy, mỗi con mang bộ lông riêng biệt như một tấm vân tay. Sông Zambezi còn là nhà của những con cá sấu Nile khổng lồ và từng đàn hà mã đông như đám đông."
+  ],
+  "culture": [
+    "Người Shona — chiếm khoảng 70% dân số Zimbabwe — đã chơi đàn mbira, loại đàn ngón tay với các phím kim loại, suốt hơn 1.000 năm qua. Tiếng đàn được cất lên trong những buổi lễ chữa bệnh gọi là bira để triệu gọi linh hồn tổ tiên, và âm thanh nhiều lớp của nó đã truyền cảm hứng cho nhiều nhạc sĩ khắp thế giới.",
+    "Món ăn hằng ngày của người Zimbabwe là sadza — cháo bắp đặc được vốc bằng tay chấm cùng thịt hoặc canh lá bí. Người Ndebele nổi tiếng với những bức bích họa hình học đậm nét được vẽ trực tiếp lên tường nhà bằng ba màu đen, trắng và đỏ."
+  ],
+  "history": [
+    "Khoảng 900 năm trước, vương quốc Shona đã xây dựng một thành phố trên đỉnh đồi hoàn toàn bằng đá granit xếp chồng — không dùng vữa, chỉ là kỹ thuật điêu luyện. Thành phố từng là nơi ở của 18.000 người và buôn bán vàng với các đối tác xa tận Trung Quốc. Từ \"Zimbabwe\" trong tiếng Shona có nghĩa là \"những ngôi nhà đá lớn\".",
+    "Thực dân Anh đặt chân đến năm 1890 và đổi tên vùng đất thành Rhodesia. Ngày 18 tháng 4 năm 1980, Zimbabwe giương cao lá cờ độc lập — quốc gia châu Phi cuối cùng giành được độc lập từ tay người Anh. Một trang mới lại mở ra năm 2017 khi Emmerson Mnangagwa nắm quyền lãnh đạo đất nước."
+  ],
+  "wows": [
+    "Zimbabwe có 16 ngôn ngữ chính thức — kỷ lục Guinness cho quốc gia có nhiều ngôn ngữ chính thức nhất thế giới.",
+    "Năm 2009, Zimbabwe in tờ tiền mệnh giá 100 nghìn tỉ đô-la — mệnh giá lớn nhất từng được in — nhưng chỉ đổi được khoảng 40 xu Mỹ.",
+    "Thác Victoria to đến mức tiếng gầm của nó vang xa 40 km, chính vì vậy người Shona đặt tên là 'Khói Sấm Sét'.",
+    "Hồ Kariba là hồ chứa nhân tạo lớn nhất thế giới tính theo thể tích — chứa khoảng 180 km³ nước.",
+    "Zimbabwe có nhiều địa điểm tranh đá cổ hơn bất kỳ nơi nào khác ở miền nam châu Phi, được vẽ từ hơn 13.000 năm trước.",
+    "Mỗi con chó hoang châu Phi mang một bộ lông hoàn toàn riêng biệt — không có hai con nào trên thế giới trông giống hệt nhau.",
+    "Phế tích Thành Zimbabwe rộng 80 héc-ta — quần thể đá lớn nhất thời tiền hiện đại ở châu Phi hạ Sahara."
+  ],
+  "myths": [
+    {
+      "myth": "Zimbabwe toàn là sa mạc nóng bức",
+      "fact": "Cao nguyên Highveld ở trung tâm nằm ở độ cao 1.200 m nên khí hậu ôn hòa dễ chịu. Vùng núi phía đông có mưa nhiều và đỉnh núi còn có sương muối vào mùa đông."
+    },
+    {
+      "myth": "Thác Victoria chủ yếu nằm ở phía Zambia",
+      "fact": "Zimbabwe chiếm tới 75% diện tích của thác. Những đoạn rộng và hùng vĩ nhất — Thác Chính và Thác Cầu Vồng — đều nhìn rõ nhất từ bờ phía Zimbabwe."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Mhoro",
+      "say": "mm-HO-ro"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ndatenda",
+      "say": "nda-TEN-da"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ndapota",
+      "say": "nda-PO-ta"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Hongu",
+      "say": "HON-goo"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Chisarai",
+      "say": "chee-SAH-rye"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/zw-hero.jpg",
+      "alt": "Thác Victoria với đám mây hơi nước khổng lồ bốc lên trên vực sâu",
+      "caption": "THÁC VICTORIA — 'Khói Sấm Sét' tung bụi nước lên cao trên vực sâu",
+      "credit": "Wikimedia Commons / Diego Delso"
+    },
+    "landmark": {
+      "src": "/photos/zw-landmark.jpg",
+      "alt": "Nhìn từ trên cao xuống phế tích Thành Zimbabwe với những bức tường đá vòng tròn",
+      "caption": "THÀNH ZIMBABWE — Thành phố đá 900 năm tuổi đặt tên cho cả một quốc gia",
+      "credit": "Wikimedia Commons / Janice Bell"
+    },
+    "animalA": {
+      "src": "/photos/zw-animalA.jpg",
+      "alt": "Đàn voi châu Phi trên thảo nguyên",
+      "caption": "VOI CHÂU PHI — Hwange chứa khoảng 40.000 con, một trong những đàn voi lớn nhất Trái Đất",
+      "credit": "Wikimedia Commons / Amoghavarsha"
+    },
+    "animalB": {
+      "src": "/photos/zw-animalB.jpg",
+      "alt": "Chó hoang châu Phi với bộ lông đốm nâu và đen sặc sỡ",
+      "caption": "CHÓ HOANG ĐỐM — mỗi con một bộ lông riêng; chỉ còn khoảng 660 con tại Zimbabwe",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    }
+  }
+}

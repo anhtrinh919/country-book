@@ -1,0 +1,163 @@
+{
+  "name": "SÍP",
+  "nativeName": "Κύπρος",
+  "romaji": "KYPROS",
+  "tagline": "Hòn đảo tình yêu & đồng thau",
+  "region": "Trung Đông",
+  "coords": "35°N, 33°E",
+  "fileNo": "CY",
+  "langName": "tiếng Hy Lạp",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#CEBF9A",
+    "ink": "#2B2218",
+    "faint": "#8C7A54",
+    "line": "#DDD0AF",
+    "accent": "#C87137",
+    "accent2": "#3A6B3A"
+  },
+  "flag": {
+    "assetPath": "/flags/cy.svg",
+    "title": "Quốc kỳ Síp",
+    "note": "Nền trắng, hình đảo màu đồng, cành ô liu",
+    "keyColor": "#C87137",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Síp là hòn đảo nắng vàng rực rỡ ở phía đông Địa Trung Hải — nơi người xưa kể rằng nữ thần tình yêu Aphrodite đã bước lên từ sóng biển. Chính từ hòn đảo này, loài người có được từ \"đồng\" — kim loại đã được khai thác ở đây hàng nghìn năm trước. Ngày nay, Síp nổi tiếng với bãi biển xanh mát, rừng núi thơm ngát, loại rượu vang có tên gọi lâu đời nhất thế giới, và đặc biệt — số mèo ở đây còn nhiều hơn cả người!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Nicosia",
+      "sub": "Thủ đô bị chia đôi duy nhất trên thế giới"
+    },
+    {
+      "label": "Dân số",
+      "value": "~1,36 triệu",
+      "sub": "Ước tính Ngân hàng Thế giới, 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Gia nhập khu vực đồng euro năm 2008"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Hy Lạp",
+      "sub": "Tiếng Thổ Nhĩ Kỳ cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "9.251 km²",
+      "sub": "Đảo lớn thứ 3 ở Địa Trung Hải"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.952 m",
+      "sub": "Núi Olympus, dãy Troodos"
+    }
+  ],
+  "islands": [
+    "Nicosia",
+    "Limassol",
+    "Larnaca",
+    "Paphos",
+    "Kyrenia"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Nắng vàng, biển xanh & núi đồng",
+    "animals": "Cừu hoang & rắn mắt mèo",
+    "culture": "Halloumi, lễ hội & ô liu",
+    "history": "Đồng thau, thần linh & thập tự quân",
+    "wows": "Có biết không?"
+  },
+  "geo": [
+    "Síp nằm ở nơi giao nhau của ba châu lục Âu, Á và Phi, giữa vùng biển Địa Trung Hải ấm áp phía đông. Dãy núi Troodos vươn lên ở giữa đảo, với đỉnh Olympus cao 1.952 m — đủ cao để có cả khu trượt tuyết.",
+    "Giữa dãy Troodos và đồi Kyrenia ở phía bắc là đồng bằng Mesaoria rộng lớn, nắng chói chang quanh năm. Síp có hơn 300 ngày nắng mỗi năm, khiến nơi đây trở thành một trong những vùng có nhiều nắng nhất toàn châu Âu."
+  ],
+  "animals": [
+    "Cừu mouflon Síp là loài cừu hoang rắn chắc với đôi sừng cong vút đặc trưng, chỉ sống trong rừng Paphos trên sườn dãy Troodos. Từng gần tuyệt chủng, đàn cừu này đã hồi phục lên khoảng 3.000 con và được chọn làm động vật biểu tượng quốc gia.",
+    "Rắn mắt mèo là loài thợ săn về đêm với đôi con ngươi dọc đứng giống hệt mắt mèo — trông thật kỳ bí. Nhưng điều đặc biệt hơn là Síp nổi tiếng với đàn mèo đường phố khổng lồ — khoảng 1 triệu con mèo sống trên đảo, nhiều hơn hẳn dân số!"
+  ],
+  "culture": [
+    "Halloumi là loại phô mai đặc sản của Síp — dai, mặn, và có tiếng kêu \"chút chít\" khi cắn. Được làm trong các nhà bếp làng từ hàng trăm năm trước, halloumi có thể nướng trực tiếp trên lửa mà không bị chảy, và nay đã được EU công nhận là sản phẩm độc quyền của Síp, xuất khẩu khắp thế giới.",
+    "Mỗi mùa xuân, lễ hội Kataklysmos biến các thị trấn ven biển thành cuộc chiến nước khổng lồ, pha trộn giữa tục thờ thần biển cổ xưa và lễ mừng Thiên Chúa giáo. Đua thuyền, âm nhạc và halloumi nướng thơm ngào ngạt tràn ngập các bến cảng."
+  ],
+  "history": [
+    "Đồng được khai thác ở Síp từ khoảng năm 2500 trước Công nguyên — hòn đảo từng là nhà cung cấp đồng lớn nhất thế giới cổ đại. Từ cuprum trong tiếng La-tinh — gốc của từ \"copper\" trong tiếng Anh — lấy ngay từ tên gọi Kypros của hòn đảo này.",
+    "Tảng đá Petra tou Romiou được truyền thuyết gọi là nơi nữ thần Aphrodite chào đời, thu hút hàng dòng khách hành hương suốt nhiều thế kỷ. Người La Mã, Byzantine, Thập Tự Quân, rồi Đế chế Ottoman lần lượt cai trị Síp trước khi đảo trở thành nước cộng hòa độc lập vào năm 1960."
+  ],
+  "wows": [
+    "Síp là một trong hai nước duy nhất có quốc kỳ in hình bản đồ của chính mình — nước còn lại là Kosovo.",
+    "Commandaria là loại rượu vang có tên gọi lâu đời nhất thế giới — được làm ở vùng đồi Troodos từ ít nhất năm 800 trước Công nguyên.",
+    "Ngôi mộ thú cưng lâu đời nhất thế giới được tìm thấy ở đây: một con mèo được chôn bên cạnh chủ nhân cách đây 9.500 năm.",
+    "Voi lùn và hà mã tí hon từng sinh sống trên đảo Síp — hóa thạch của chúng được tìm thấy khắp nơi trên đảo.",
+    "Mỗi mùa đông, tới 20.000 con hồng hạc kéo về hồ muối Larnaca, nhuộm hồng cả bờ hồ từ tháng 11 đến tháng 3.",
+    "Những loại nước hoa lâu đời nhất thế giới — 4.000 năm tuổi, pha hương oải hương và hương thảo — được khai quật ngay tại Síp.",
+    "Nicosia là thủ đô duy nhất còn bị chia đôi trên Trái Đất, ngăn cách bởi vùng đệm của Liên Hợp Quốc xuyên qua trung tâm thành phố có tường thành cổ."
+  ],
+  "myths": [
+    {
+      "myth": "Síp quá nóng, không thể đến thăm vào mùa hè",
+      "fact": "Vùng ven biển đúng là rất nóng (trên 38°C), nhưng dãy núi Troodos mát mẻ hơn hẳn, còn gió biển buổi tối thì tuyệt vời để ngồi ăn hải sản ngoài trời."
+    },
+    {
+      "myth": "Halloumi cũng giống như phô mai feta thôi",
+      "fact": "Halloumi chắc hơn, có thể nướng thẳng trên lửa mà không chảy — không giống feta chút nào. Bên ngoài vàng giòn, bên trong dai và bùi."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Γεια σου",
+      "say": "YAH-soo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ευχαριστώ",
+      "say": "ef-kha-ree-STO"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Παρακαλώ",
+      "say": "pa-ra-ka-LO"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Αντίο",
+      "say": "an-DEE-oh"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Καλημέρα",
+      "say": "kah-lee-MEH-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cy-hero.jpg",
+      "alt": "Toàn cảnh thành phố Nicosia nhìn từ tháp Shacolas",
+      "caption": "NICOSIA — thủ đô bị chia đôi cuối cùng trên thế giới, nhìn từ tháp Shacolas",
+      "credit": "A.Savin / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cy-landmark.jpg",
+      "alt": "Cảnh quan ven biển Petra tou Romiou, tảng đá của nữ thần Aphrodite",
+      "caption": "PETRA TOU ROMIOU — nơi truyền thuyết kể rằng nữ thần Aphrodite chào đời, trên bờ biển Paphos",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cy-animalA.jpg",
+      "alt": "Cừu mouflon Síp với đôi sừng cong đặc trưng",
+      "caption": "CỪU MOUFLON SÍP — động vật biểu tượng quốc gia với đôi sừng cong nổi tiếng",
+      "credit": "WoodsAndrew / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/cy-animalB.jpg",
+      "alt": "Rắn mắt mèo châu Âu Telescopus fallax chụp cận cảnh",
+      "caption": "RẮN MẮT MÈO — loài săn mồi ban đêm được đặt tên theo đôi con ngươi dọc đứng, sống ở Síp",
+      "credit": "Benny Trapp / Wikimedia Commons"
+    }
+  }
+}

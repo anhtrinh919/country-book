@@ -1,0 +1,163 @@
+{
+  "name": "COLOMBIA",
+  "nativeName": "CO",
+  "romaji": "COLOMBIA",
+  "tagline": "Nơi dãy Andes gặp rừng Amazon",
+  "region": "Bắc Nam Mỹ",
+  "coords": "4.57°N, 74.30°W",
+  "fileNo": "042",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFD6",
+    "dot": "#CBBF96",
+    "ink": "#2B2218",
+    "faint": "#8B7A4E",
+    "line": "#DDD0A8",
+    "accent": "#FCD116",
+    "accent2": "#003893"
+  },
+  "flag": {
+    "assetPath": "/flags/co.svg",
+    "title": "Tam Sắc Tổ Quốc",
+    "note": "Vàng, xanh dương & đỏ — ba dải ngang đậm nét bằng nhau",
+    "keyColor": "#FCD116",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Colombia nằm ở phía bắc Nam Mỹ, nơi dãy Andes tách thành ba nhánh rồi đổ xuống rừng nhiệt đới Amazon và những bãi biển Caribbean xanh ngắt. Đây là quốc gia Nam Mỹ duy nhất có bờ biển cả ở Thái Bình Dương lẫn Caribbean, đồng thời giữ kỷ lục thế giới về số loài chim, xuất khẩu hàng triệu bông hoa mỗi ngày và trồng cà phê ngon nức tiếng toàn cầu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bogotá",
+      "sub": "Cao 2.600 m so với mực nước biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "52,2 triệu người",
+      "sub": "Ước tính 2024, DANE"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Peso (COP)",
+      "sub": "~4.100 COP = 1 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Còn hơn 65 ngôn ngữ bản địa"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.141.748 km²",
+      "sub": "Nước lớn thứ 26 thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "5.775 m",
+      "sub": "Pico Cristóbal Colón"
+    }
+  ],
+  "islands": [
+    "BOGOTÁ",
+    "MEDELLÍN",
+    "CALI",
+    "CARTAGENA",
+    "BARRANQUILLA"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi, rừng và hai đại dương",
+    "animals": "Thiên đường chim của thế giới",
+    "culture": "Cà phê, sắc màu và điệu cumbia",
+    "history": "Từ thực dân đến hòa bình",
+    "wows": "Những kỷ lục kỳ diệu của Colombia"
+  },
+  "geo": [
+    "Colombia nằm kẹp giữa biển Caribbean và Thái Bình Dương, với ba nhánh dãy Andes chạy dọc từ bắc xuống nam. Thủ đô Bogotá tọa lạc ở độ cao cao đến mức nhiều du khách vừa bước chân xuống máy bay đã thấy chóng mặt. Từ phía đông, các con sông đổ ra những đồng bằng rộng lớn gọi là Los Llanos — nơi những người chăn bò phi ngựa dưới bầu trời mênh mông.",
+    "Ở phía nam, rừng mưa Amazon bắt đầu trải rộng — một trong những vùng xanh tươi và ẩm ướt nhất hành tinh. Phía bắc có những bãi biển vàng óng và rạn san hô tuyệt đẹp. Colombia còn sở hữu hòn đảo nhỏ San Andrés ngoài khơi xa, nằm gần Nicaragua còn hơn gần chính Bogotá."
+  ],
+  "animals": [
+    "Colombia giữ kỷ lục thế giới về số loài chim với hơn 1.900 loài — nhiều hơn cả châu Âu và Bắc Mỹ cộng lại! Chim đầu đá Andes, quốc điểu của Colombia, có bộ lông cam rực rỡ và cái mào tròn trông y như đang đội mũ bảo hiểm. Gấu kính — loài gấu duy nhất ở Nam Mỹ — lặng lẽ đi lại trong những khu rừng mây mù.",
+    "Cá heo hồng bơi lội trong các nhánh sông Amazon, trông như sinh vật trong truyện cổ tích. Ếch phi tiêu độc nhỏ chưa bằng móng tay nhưng lại có màu xanh và đỏ rực rỡ để cảnh báo kẻ thù. Mỗi mùa đẻ trứng, rùa biển xanh lại bò lên những bãi biển Thái Bình Dương để chôn trứng xuống cát."
+  ],
+  "culture": [
+    "Người Colombia yêu âm nhạc đến mức nhạc vang lên khắp nơi — nhịp điệu cumbia sôi động ở các thị trấn ven biển, trong khi sáo bambuco vùng Andes nghe như tiếng gió núi nhẹ nhàng. Lễ hội Carnaval Barranquilla kéo dài bốn ngày liên tục với diễu hành rực rỡ, được UNESCO công nhận và chỉ thua Rio de Janeiro về độ hoành tráng.",
+    "Cà phê ở Colombia gần như là thứ thiêng liêng: nông dân trồng cà phê trên những sườn núi dốc phủ sương mù, còn người dân địa phương nhâm nhi tách tinto nhỏ sánh đặc cả ngày. Tháng Tám hàng năm, lễ hội Feria de las Flores ở Medellín biến cả thành phố thành biển hoa hồng, lan và cẩm chướng."
+  ],
+  "history": [
+    "Từ lâu trước khi người châu Âu đặt chân đến, người Muisca đã buôn bán ngọc lục bảo trên cao nguyên Bogotá. Vào thế kỷ 16, những nhà thực dân Tây Ban Nha đổ đến, bị cuốn hút bởi truyền thuyết El Dorado — vùng đất vàng bí ẩn — biến Colombia thành trung tâm của thuộc địa New Granada.",
+    "Anh hùng Simón Bolívar lãnh đạo phong trào giành độc lập và Colombia tuyên bố tự do năm 1819. Năm 2016, một hiệp định hòa bình lịch sử chấm dứt cuộc chiến du kích kéo dài nhất thế giới, và đất nước đã và đang hồi sinh mạnh mẽ từng ngày."
+  ],
+  "wows": [
+    "Colombia xuất khẩu hoa cắt cành nhiều thứ hai thế giới sau Hà Lan — 200.000 tấn mỗi năm.",
+    "Hệ thống xe buýt TransMilenio ở Bogotá chở 2,4 triệu hành khách mỗi ngày — tương đương toàn bộ dân số Hà Nội đi xe buýt một lần!",
+    "Thành phố Cổ Mất Tích (Ciudad Perdida) ở Colombia cổ hơn Machu Picchu của Peru đến 650 năm.",
+    "Colombia sản xuất khoảng 15% lượng ngọc lục bảo đẹp nhất thế giới.",
+    "Đất nước này có 59 vườn quốc gia, chiếm 12% diện tích lãnh thổ.",
+    "Medellín từng được bình chọn là thành phố sáng tạo nhất thế giới năm 2013.",
+    "Bờ biển Thái Bình Dương của Colombia nhận tới 13.000 mm mưa mỗi năm — thuộc hàng ẩm ướt nhất Trái Đất."
+  ],
+  "myths": [
+    {
+      "myth": "Colombia quá nguy hiểm, không thể đến thăm",
+      "fact": "Medellín và Cartagena đã thay đổi rất nhiều. Hàng triệu khách du lịch đến Colombia an toàn mỗi năm, và đây là một trong những điểm đến hàng đầu Nam Mỹ."
+    },
+    {
+      "myth": "Colombia thuộc về Trung Mỹ",
+      "fact": "Colombia hoàn toàn thuộc Nam Mỹ, giáp ranh với Venezuela, Brazil, Peru, Ecuador và Panama ở cực bắc lục địa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Cà phê đen",
+      "jp": "Tinto",
+      "say": "TEEN-toh"
+    },
+    {
+      "en": "Tuyệt quá!",
+      "jp": "¡Chévere!",
+      "say": "CHEH-veh-reh"
+    },
+    {
+      "en": "Bạn thân",
+      "jp": "Parcero",
+      "say": "par-SEH-roh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/co-hero.jpg",
+      "alt": "Toàn cảnh đường chân trời thủ đô Bogotá với dãy Andes hùng vĩ phía sau",
+      "caption": "BOGOTÁ — thủ đô rộng lớn nằm lơ lửng giữa mây ở độ cao 2.600 m",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/co-landmark.jpg",
+      "alt": "Tường thành cổ bằng đá của Cartagena de Indias bên bờ biển Caribbean",
+      "caption": "TƯỜNG THÀNH CARTAGENA — công trình phòng thủ Tây Ban Nha 400 tuổi bao quanh phố cổ",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/co-animalA.jpg",
+      "alt": "Con chim đầu đá Andes trống màu cam rực rỡ đậu trên cành cây",
+      "caption": "CHIM ĐẦU ĐÁ ANDES — quốc điểu màu cam neon của Colombia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/co-animalB.jpg",
+      "alt": "Cá heo hồng bơi lội trong dòng sông Amazon tối màu",
+      "caption": "CÁ HEO HỒNG — bơi lội trong các nhánh sông Amazon dưới tán rừng Colombia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

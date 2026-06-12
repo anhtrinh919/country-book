@@ -1,0 +1,163 @@
+{
+  "name": "UKRAINA",
+  "nativeName": "UA",
+  "romaji": "UKRAINA",
+  "tagline": "Cánh đồng vàng dưới bầu trời xanh",
+  "region": "Đông Âu",
+  "coords": "49°N 32°E",
+  "fileNo": "42",
+  "langName": "tiếng Ukraina",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBD8",
+    "dot": "#D4C9A8",
+    "ink": "#1E1B14",
+    "faint": "#7A7055",
+    "line": "#DDD4B8",
+    "accent": "#005BBB",
+    "accent2": "#FFD500"
+  },
+  "flag": {
+    "assetPath": "/flags/ua.svg",
+    "title": "Xanh & Vàng",
+    "note": "Bầu trời xanh trên những cánh đồng lúa mì vàng óng",
+    "keyColor": "#005BBB",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ukraina rộng lớn với những cánh đồng lúa mì vàng rực trải dài dưới bầu trời xanh thẳm — khung cảnh đẹp đến mức người ta lấy đó làm hình ảnh cho lá cờ. Tại thủ đô Kyiv, những mái vòm dát vàng của các nhà thờ cổ lấp lánh dưới ánh mặt trời. Người Ukraina còn gìn giữ một kho tàng văn hóa dân gian phong phú bậc nhất châu Âu: những quả trứng vẽ hoa văn tinh tế, áo thêu rực rỡ sắc màu, và những bài ca cổ xưa đến nỗi chẳng ai còn nhớ ai đã hát chúng lần đầu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Kyiv",
+      "sub": "Bên bờ sông Dnipro"
+    },
+    {
+      "label": "Dân số",
+      "value": "37,9 triệu người",
+      "sub": "Ước tính LHQ 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Hryvnia ₴",
+      "sub": "UAH"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ukraina",
+      "sub": "Chữ viết Cyrillic"
+    },
+    {
+      "label": "Diện tích",
+      "value": "603.628 km²",
+      "sub": "Lớn nhất châu Âu"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Hoverla 2.061m",
+      "sub": "Trong dãy Carpathians"
+    }
+  ],
+  "islands": [
+    "Kyiv",
+    "Lviv",
+    "Odesa",
+    "Kharkiv",
+    "Carpathians"
+  ],
+  "islandsLabel": "CÁC ĐỊA DANH CHÍNH:",
+  "sections": {
+    "geography": "Biển thảo nguyên vàng bát ngát",
+    "animals": "Ngựa hoang & đại bàng quý hiếm",
+    "culture": "Ca dao, trứng vẽ & áo thêu",
+    "history": "Kỵ binh Cossack & vương quốc cổ đại",
+    "wows": "7 điều khiến bạn phải trầm trồ"
+  },
+  "geo": [
+    "Ukraina là quốc gia lớn nhất nằm hoàn toàn trong châu Âu — thậm chí còn rộng hơn cả nước Pháp! Phần lớn lãnh thổ là những vùng đồng bằng màu mỡ phẳng lì, được gọi là 'vựa bánh mì của thế giới' vì nơi đây trồng hướng dương, lúa mì và ngô để cung cấp cho cả thế giới.",
+    "Ở phía nam, biển Đen mở ra những bãi biển cát vàng tươi mát. Ở phía tây, dãy núi Carpathians xanh rì vươn cao với đỉnh Hoverla phủ sương mù, nơi bạn có thể đi bộ qua những rừng vân sam và nghe tiếng chuông bò lảnh lót trong làn mây trắng."
+  ],
+  "animals": [
+    "Ngựa Przewalski — giống ngựa hoang dã thực sự cuối cùng còn sót lại trên Trái Đất — đang sống tự do trong vùng cấm Chornobyl, nơi thiên nhiên đã lặng lẽ chiếm lại những thị trấn bỏ hoang. Chim bồ nông hồng rực tụ tập thành từng đàn khổng lồ ầm ĩ, làm tổ ở vùng đồng bằng sông Danube.",
+    "Đại bàng thảo nguyên bay lượn trên những đồng cỏ miền nam, săn chuột đất. Rừng Ukraina còn là nhà của sói, mèo rừng và bò rừng châu Âu, trong khi sông Dnipro ẩn chứa những con cá da trơn khổng lồ dài bằng một chiếc ô tô."
+  ],
+  "culture": [
+    "Người Ukraina nổi tiếng toàn thế giới với nghệ thuật vẽ trứng pysanky — những quả trứng được trang trí bằng hàng trăm hoa văn nhỏ xíu dùng kỹ thuật sáp và thuốc nhuộm. Mỗi hình vẽ đều mang ý nghĩa riêng: hình xoắn ốc tượng trưng cho sự vĩnh cửu, bông lúa mì cầu mong mùa màng bội thu. Không có hai quả trứng nào giống nhau.",
+    "Chiếc áo thêu vyshyvanka được người Ukraina diện tự hào trong các lễ hội và đến trường. Còn món súp củ cải đỏ borshch — đỏ thẫm và thơm ngon — được UNESCO công nhận là di sản văn hóa phi vật thể của nhân loại, một niềm tự hào lớn của cả dân tộc."
+  ],
+  "history": [
+    "Hơn 1.000 năm trước, Kyiv đã là trung tâm của một vương quốc hùng mạnh mang tên Kyivan Rus — một trong những nhà nước vĩ đại nhất châu Âu thời Trung Cổ. Nhà thờ Saint Sophia uy nghi được xây dựng từ năm 1037 và vẫn đứng vững đến tận ngày nay.",
+    "Trải qua nhiều thế kỷ, Ukraina bị giằng xé giữa các đế chế Ba Lan, Nga và Ottoman. Những chiến binh Cossack trên lưng ngựa đã chiến đấu kiên cường vì tự do. Mãi đến năm 1991, khi Liên Xô tan rã, Ukraina mới chính thức trở thành một quốc gia độc lập hoàn toàn."
+  ],
+  "wows": [
+    "Ukraina cung cấp khoảng một phần ba lượng dầu hướng dương toàn cầu — nhiều hơn bất kỳ quốc gia nào khác.",
+    "Thủ lĩnh Cossack Pylyp Orlyk đã viết một trong những bản hiến pháp dân chủ đầu tiên của thế giới vào năm 1710.",
+    "Ga tàu điện ngầm Arsenalna ở Kyiv nằm sâu 105 m dưới lòng đất — sâu hơn cả chiều cao của tháp Big Ben ở Anh.",
+    "Vùng cấm Chornobyl hiện là một trong những khu bảo tồn thiên nhiên lớn nhất châu Âu — sói và ngựa hoang đang sinh sống rất sung túc ở đó.",
+    "Dãy Carpathians của Ukraina chứa hơn 70% diện tích rừng sồi nguyên sinh của toàn châu Âu — được UNESCO công nhận là Di sản Thiên nhiên Thế giới.",
+    "Các quân cờ thời Trung Cổ làm từ xương và ngà hải mã đã được tìm thấy trong các di chỉ từ thời Viking ở Kyiv.",
+    "Ukraina sở hữu trữ lượng titan lớn nhất châu Âu — đủ để cung cấp cho Mỹ và EU trong 25 năm."
+  ],
+  "myths": [
+    {
+      "myth": "Ukraina chỉ là một phần của Nga",
+      "fact": "Ukraina là một quốc gia hoàn toàn độc lập, có ngôn ngữ riêng và lịch sử hơn 1.000 năm — thậm chí còn ra đời trước cả nước Nga hiện đại. Ukraina đã là quốc gia có chủ quyền từ năm 1991."
+    },
+    {
+      "myth": "Chornobyl là vùng đất chết độc hại không có gì sống được",
+      "fact": "Trên thực tế, động vật hoang dã đang sinh sôi nảy nở rất mạnh trong vùng cấm — sói, mèo rừng và ngựa hoang đều đang phát triển tốt vì không có con người sinh sống gần đó, dù vẫn còn một ít phóng xạ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Привіт",
+      "say": "pry-VEET"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Дякую",
+      "say": "DYA-ku-yu"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Будь ласка",
+      "say": "bood' LAS-ka"
+    },
+    {
+      "en": "Vâng / Đúng",
+      "jp": "Так",
+      "say": "tak"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Смачно!",
+      "say": "SMACH-no"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ua-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống tu viện Kyiv Pechersk Lavra với những mái vòm dát vàng",
+      "caption": "KYIV PECHERSK LAVRA — những mái vòm vàng lấp lánh trên dòng sông Dnipro",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/ua-landmark.jpg",
+      "alt": "Nhà thờ Saint Sophia ở Kyiv với những mái vòm xanh lá và vàng",
+      "caption": "NHÀ THỜ SAINT SOPHIA — xây năm 1037, vẫn rực rỡ sau 1.000 năm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ua-animalA.jpg",
+      "alt": "Ngựa Przewalski đứng trên thảo nguyên mở",
+      "caption": "NGỰA PRZEWALSKI — giống ngựa hoang dã cuối cùng, đang sống tự do tại Ukraina",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/ua-animalB.jpg",
+      "alt": "Chim bồ nông trắng lớn đang xoè cánh",
+      "caption": "BỒ NÔNG TRẮNG LỚN — làm tổ ở vùng đất ngập nước đồng bằng sông Danube của Ukraina",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

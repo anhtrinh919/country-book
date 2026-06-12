@@ -1,0 +1,163 @@
+{
+  "name": "JORDAN",
+  "nativeName": "الأردن",
+  "romaji": "AL-URDUN",
+  "tagline": "Cát, gia vị & đá hồng ngàn tuổi",
+  "region": "Trung Đông",
+  "coords": "31.0°N 36.0°E",
+  "fileNo": "JO",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBB97",
+    "ink": "#2B2318",
+    "faint": "#8A7355",
+    "line": "#DFD0AA",
+    "accent": "#C8102E",
+    "accent2": "#007A3D"
+  },
+  "flag": {
+    "assetPath": "/flags/jo.svg",
+    "title": "Quốc kỳ Jordan",
+    "note": "Đen, trắng & xanh lá với hình chữ V đỏ",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Jordan là vương quốc sa mạc ở Trung Đông, nơi người ta đục đẽo cả một thành phố ngay trong vách đá đỏ hồng từ 2.000 năm trước. Biển Chết ở đây mặn đến mức ai nhảy xuống cũng tự nổi lềnh bềnh mà chẳng cần bơi. Những bộ tộc Bedouin đã lang thang trên những vùng cát mênh mông này qua bao thế kỷ, và đất nước nhỏ bé này từng là ngã tư của các con đường tơ lụa nối liền ba châu lục.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Amman",
+      "sub": "Dân số ~4,7 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "~11,5 triệu",
+      "sub": "Ước tính của LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dinar (JOD)",
+      "sub": "1 JOD ≈ 1,41 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Nói theo giọng vùng Levant"
+    },
+    {
+      "label": "Diện tích",
+      "value": "89.342 km²",
+      "sub": "Nhỉnh hơn Việt Nam một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.854 m",
+      "sub": "Núi Jabal Umm ad Dami"
+    }
+  ],
+  "islands": [
+    "Amman",
+    "Aqaba",
+    "Petra",
+    "Zarqa",
+    "Irbid"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sa mạc, vách đá & hai vùng biển",
+    "animals": "Thợ săn đêm giữa hoang mạc",
+    "culture": "Bữa tiệc, pháo đài & cửa rộng mở",
+    "history": "Những đế chế khắc vào đá",
+    "wows": "Bảy điều bất ngờ về Jordan"
+  },
+  "geo": [
+    "Jordan trải dài với những cao nguyên đá và sa mạc vàng óng, bị cắt ngang bởi Thung lũng Rift khổng lồ. Biển Chết — điểm thấp nhất trên Trái Đất, cách mặt nước biển tới 430 m — lấp lánh với nước mặn đến mức không một sinh vật nào sống được. Sông Jordan uốn khúc dọc biên giới phía tây.",
+    "Ở phía nam, thung lũng Wadi Rum rực đỏ khi hoàng hôn buông xuống. Những trụ đá sa thạch cao chót vót trông kỳ lạ đến mức các nhà làm phim dùng nơi đây để đóng giả sao Hỏa. Phía bắc lại xanh mướt với những đồi cây ôliu, còn Aqaba là mảnh bờ biển duy nhất của Jordan."
+  ],
+  "animals": [
+    "Linh dương sừng thẳng Arabian oryx — lông trắng, sừng dài như kiếm — từng tuyệt chủng hoàn toàn ngoài thiên nhiên. Nhờ chương trình bảo tồn toàn cầu, người ta nhân giống rồi thả chúng trở lại Wadi Rum năm 2009. Mèo cát, loài mèo hoang nhỏ xíu có đôi tai to bất thường, chuyên săn thằn lằn vào ban đêm và suốt đời không cần uống nước.",
+    "Những con kền kền lưng xám lượn vòng trên các luồng khí nóng bốc lên từ Khu Bảo tồn Sinh quyển Dana. Ốc đảo đầm lầy Azraq — vùng nước ngọt duy nhất trong hàng trăm kilômét xung quanh — là trạm nghỉ sống còn cho hàng triệu con chim di trú mỗi mùa xuân và mùa thu."
+  ],
+  "culture": [
+    "Người Jordan nổi tiếng hiếu khách. Từ chối uống cà phê cardamom là điều bất lịch sự; chén nhỏ cứ được rót liên tục cho đến khi bạn nghiêng chén sang một bên để báo hiệu 'đủ rồi'. Món ăn quốc gia là mansaf — thịt cừu hầm nhừ trong nước sốt sữa chua khô thơm lừng, ăn bốc tay quanh một khay lớn cùng mọi người.",
+    "Thứ Sáu là ngày nghỉ và các gia đình quây quần bên bữa trưa dài sau giờ cầu nguyện. Nhà hát La Mã ngay giữa Amman vẫn tổ chức hòa nhạc cho đến tận ngày nay. Nghề thêu truyền thống — những hoa văn chữ thập đỏ rực trên nền vải đen — được mặc trong các lễ hội và bày bán ở khắp mọi chợ."
+  ],
+  "history": [
+    "Người Nabataean đục đẽo cả một thành phố — Petra — vào vách đá hồng ngàn tuổi khoảng 2.000 năm trước, giàu lên nhờ kiểm soát các tuyến đường buôn gia vị và tơ lụa. Đế chế La Mã sau đó nuốt chửng vương quốc của họ; thành phố La Mã Jerash với những cột đá dọc đường vẫn đứng vững gần Amman — một trong những di tích La Mã được bảo tồn tốt nhất bên ngoài nước Ý.",
+    "Quân Thập Tự Chinh xây lâu đài, Saladin giành lại đất, rồi đế chế Ottoman cai trị suốt 400 năm. Sau Thế chiến thứ nhất, Jordan trở thành vương quốc. Quốc vương Abdullah II, lên ngôi từ năm 1999, là dòng dõi trực tiếp của nhà tiên tri Muhammad — cách 41 thế hệ."
+  ],
+  "wows": [
+    "Biển Chết mặn gấp khoảng 10 lần đại dương — ai nhảy xuống cũng tự nổi mà không cần bơi.",
+    "Petra ẩn giấu với thế giới bên ngoài nhiều thế kỷ; một nhà thám hiểm người Thụy Sĩ phải cải trang để lẻn vào xem năm 1812.",
+    "Wadi Rum đóng giả sao Hỏa trong bộ phim 'The Martian' — cát đỏ của nó trông như hành tinh khác.",
+    "Amman được xây trên bảy ngọn đồi, giống hệt thành Rome — người dân địa phương gọi chúng là 'Bảy Jebels'.",
+    "Sông Jordan thu hẹp còn chưa đầy 30 mét chiều rộng vì quá nhiều nước bị lấy đi ở thượng nguồn.",
+    "Jordan là một trong những quốc gia khan hiếm nước bậc nhất thế giới — nhiều thống kê xếp đây là nơi khô thứ hai Trái Đất.",
+    "Đầm lầy Azraq khô cạn hoàn toàn vào năm 1992, nhưng các nhà bảo tồn đã bơm nước trở lại và những đàn chim di trú nhanh chóng quay về."
+  ],
+  "myths": [
+    {
+      "myth": "Jordan chỉ toàn là sa mạc",
+      "fact": "Phía bắc có những vùng cao xanh tươi với rừng sồi và vườn táo — Ajloun nhận tới 500 mm mưa mỗi năm và chẳng khác gì một vùng núi mát mẻ."
+    },
+    {
+      "myth": "Biển Chết sắp biến mất rồi",
+      "fact": "Mực nước đang giảm khoảng 1 mét mỗi năm — đây là vấn đề nghiêm trọng — nhưng vẫn còn rất nhiều thời gian và công tác bảo tồn đang được tiến hành tích cực."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "MAR-ha-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/jo-hero.jpg",
+      "alt": "Cảnh quan sa mạc Wadi Rum với những trụ đá sa thạch đỏ hùng vĩ lúc hoàng hôn",
+      "caption": "WADI RUM — Những trụ đá sa thạch rực đỏ như sao Hỏa khi hoàng hôn buông xuống miền nam Jordan.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/jo-landmark.jpg",
+      "alt": "Mặt tiền Kho Báu được chạm khắc vào vách đá hồng đỏ ở Petra, Jordan",
+      "caption": "KHO BÁU PETRA — Người Nabataean đục cả mặt tiền cao 40 m này thẳng vào vách đá sống từ 2.000 năm trước.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/jo-animalA.jpg",
+      "alt": "Linh dương sừng thẳng Arabian oryx đứng giữa bụi cây sa mạc với đôi sừng dài",
+      "caption": "LINH DƯƠNG ARABIAN ORYX — từng tuyệt chủng ngoài tự nhiên, được Jordan nhân giống và thả về hoang dã.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/jo-animalB.jpg",
+      "alt": "Mèo cát với đôi tai to bất thường nằm nghỉ trên nền cát vàng nhạt",
+      "caption": "MÈO CÁT — thợ săn sa mạc nhỏ bé này sống cả đời mà không cần uống nước.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

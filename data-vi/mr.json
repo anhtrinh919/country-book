@@ -1,0 +1,163 @@
+{
+  "name": "MAURITANIA",
+  "nativeName": "موريتا",
+  "romaji": "MURITANIYYA",
+  "tagline": "Sa Mạc, Sao Trời & Mực Cổ Xưa",
+  "region": "Bắc Phi",
+  "coords": "20°N 12°W",
+  "fileNo": "083",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CCBA97",
+    "ink": "#25201A",
+    "faint": "#8A7A55",
+    "line": "#DDD0B0",
+    "accent": "#1A7A3C",
+    "accent2": "#C8A020"
+  },
+  "flag": {
+    "assetPath": "/flags/mr.svg",
+    "title": "Xanh Lá & Vàng",
+    "note": "Ngôi sao và trăng lưỡi liềm trên nền xanh lá, viền đỏ hai bên",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mauritania là đất nước sa mạc khổng lồ — chín phần mười diện tích là Sahara bạt ngàn. Những đoàn tàu chở quặng sắt dài gần 3 km lăn bánh giữa cát bụi, và có một địa hình đặc biệt trông như con mắt khổng lồ nhìn từ ngoài vũ trụ. Chim hồng hạc bu đầy những đầm phá ven biển, còn các thư viện cổ lưu giữ hàng ngàn bản thảo chữ Ả Rập quý hiếm từ hàng thế kỷ trước.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Nouakchott",
+      "sub": "Dân số ~1,6 triệu người (ước tính 2023)"
+    },
+    {
+      "label": "Dân số",
+      "value": "4,99 triệu người",
+      "sub": "Ước tính của LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Ouguiya",
+      "sub": "MRU — 1 ouguiya = 5 khoums"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "Tiếng địa phương: giọng Hassaniya"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.030.700 km²",
+      "sub": "Lớn thứ 11 ở châu Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Kediet Ijill",
+      "sub": "915 m — ngọn núi quặng sắt"
+    }
+  ],
+  "islands": [
+    "Nouakchott",
+    "Nouadhibou",
+    "Atar",
+    "Rosso",
+    "Zouerate"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Cát, Biển & Đá Cổ Xưa",
+    "animals": "Tai Sa Mạc & Cánh Biển Khơi",
+    "culture": "Lều Bạt, Trà Bạc Hà & Mực Thư Viện",
+    "history": "Đoàn Lạc Đà, Học Giả & Tự Do",
+    "wows": "7 Điều Khiến Bạn Ngạc Nhiên"
+  },
+  "geo": [
+    "Chín phần mười đất Mauritania là sa mạc Sahara thuần túy — những cồn cát bất tận, vùng đồng bằng sỏi đá bằng phẳng và cao nguyên đá lởm chởm. Cao nguyên Adrar nằm giữa trung tâm đất nước, bị xẻ bởi những hẻm núi ngoạn mục và những ốc đảo rợp bóng cây chà là.",
+    "Dọc bờ biển Đại Tây Dương, dòng hải lưu mát lạnh gặp gỡ vùng rìa sa mạc, tạo nên những đầm phá trù phú với cá và chim biển. Sông Senegal chạy dọc biên giới phía nam là dải đất xanh duy nhất thực sự của đất nước."
+  ],
+  "animals": [
+    "Cáo fennec là loài sống sót đáng yêu nhất của Sahara — đôi tai khổng lồ, to hơn cả đầu nó, có thể nghe tiếng bọ cánh cứng bò dưới cát trong đêm tối, và còn hoạt động như cái quạt tản nhiệt giúp thoát hơi nóng sa mạc.",
+    "Vườn quốc gia Banc d'Arguin đón hơn hai triệu con chim di trú mỗi mùa đông — hồng hạc, bồ nông và cò thìa chen chúc trên những bãi bùn nông cạn, tạo nên một trong những cuộc tụ hội chim chóc lớn nhất hành tinh."
+  ],
+  "culture": [
+    "Văn hóa Mauritania là sự pha trộn của truyền thống Ả Rập, Berber và Tây Phi. Trong các dịp đặc biệt, những gia đình Moor quây quần bên nồi thịt cừu hầm gạo to đùng, cùng nhau ăn bằng tay quanh một chiếc bàn thấp.",
+    "Trà bạc hà được pha đúng ba lần và rót từ trên cao xuống để tạo lớp bọt — uống cả ba ly là cách thể hiện sự tôn trọng. Lối sống du mục vẫn còn lưu giữ; nhiều gia đình vẫn có lều truyền thống và chăn dắt lạc đà vượt sa mạc."
+  ],
+  "history": [
+    "Mauritania từng là ngã tư của các tuyến thương mại xuyên Sahara. Chinguetti trở thành một trong bảy thánh địa của Hồi giáo, với những thư viện tư nhân lưu giữ hàng ngàn bản thảo thời trung đại về thiên văn học, luật pháp và thơ ca.",
+    "Pháp chiếm đóng vùng lãnh thổ này vào đầu thế kỷ 20; ngày độc lập là 28 tháng 11 năm 1960. Ngày nay Mauritania là nước cộng hòa Hồi giáo, đang xây dựng kinh tế từ quặng sắt, khí đốt tự nhiên ngoài khơi và nguồn thủy sản phong phú trên Đại Tây Dương."
+  ],
+  "wows": [
+    "Con Mắt Sahara là một vòm đá rộng tới 40 km — to đến mức các phi hành gia dùng nó làm mốc định hướng khi bay trên bầu trời châu Phi.",
+    "Đoàn tàu quặng sắt có thể dài gần 3 km và chở tới 17.000 tấn hàng — đây là một trong những chuyến tàu dài nhất trái đất.",
+    "Chinguetti có 13 thư viện tư nhân với khoảng 6.000 bản thảo viết tay, có những tài liệu từ thế kỷ thứ 8.",
+    "Banc d'Arguin đón hơn hai triệu con chim lội nước di trú mỗi mùa đông — một trong những cuộc tụ họp lớn nhất của loài chim trên Trái Đất.",
+    "Vùng biển Đại Tây Dương của Mauritania thuộc hàng giàu cá nhất thế giới, chiếm khoảng 20% kim ngạch xuất khẩu của đất nước.",
+    "Đỉnh Kediet Ijill — đỉnh cao nhất đất nước — gần như hoàn toàn là quặng sắt đặc, cả một ngọn núi làm bằng kim loại.",
+    "Thành phố Nouakchott từ một làng nhỏ vài trăm người năm 1957 đã lớn lên thành thủ đô với 1,6 triệu dân ngày nay."
+  ],
+  "myths": [
+    {
+      "myth": "Mauritania chỉ là sa mạc trống rỗng",
+      "fact": "Dù 90% là Sahara, nhưng bờ biển Đại Tây Dương tràn ngập cá và chim muông, phía nam có đồng ruộng ven sông, và các thành phố cổ vẫn lưu giữ những thư viện vô giá."
+    },
+    {
+      "myth": "Không có gì sống được trong sa mạc Sahara ở đây",
+      "fact": "Ốc đảo, cây chà là và cây keo tạo môi trường sống cho lạc đà, cáo fennec, linh dương gazelle và hàng triệu con chim biển di trú mỗi năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HAH-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Nước",
+      "jp": "ماء",
+      "say": "MA-ah"
+    },
+    {
+      "en": "Lạc đà",
+      "jp": "جمل",
+      "say": "JA-mal"
+    },
+    {
+      "en": "Sa mạc",
+      "jp": "صحراء",
+      "say": "SAH-ra"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mr-hero.jpg",
+      "alt": "Đoàn tàu quặng sắt Mauritania kéo dài giữa sa mạc Sahara gần Choum",
+      "caption": "TÀU QUẶNG SẮT — đoàn tàu dài gần 3 km chở quặng băng qua Sahara",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mr-landmark.jpg",
+      "alt": "Cấu trúc Richat hay còn gọi là Con Mắt Sahara nhìn từ vũ trụ trên bầu trời Mauritania",
+      "caption": "CON MẮT SAHARA — Cấu trúc Richat rộng 40 km, chụp từ quỹ đạo",
+      "credit": "ESA / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mr-animalA.jpg",
+      "alt": "Cáo fennec với đôi tai rất to đang ngồi tỉnh táo trên cát sa mạc",
+      "caption": "CÁO FENNEC — đôi tai khổng lồ giúp phát hiện con mồi dưới cát ban đêm",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/mr-animalB.jpg",
+      "alt": "Linh dương addax với đôi sừng xoắn dài đứng giữa cảnh quan sa mạc cát",
+      "caption": "LINH DƯƠNG ADDAX — bộ lông nhạt màu và móng guốc rộng thích nghi với Sahara",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    }
+  }
+}

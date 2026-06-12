@@ -1,0 +1,163 @@
+{
+  "name": "ĐỨC",
+  "nativeName": "DE",
+  "romaji": "DEUTSCHLAND",
+  "tagline": "Xứ sở rừng xanh và ý tưởng vĩ đại",
+  "region": "Trung Âu",
+  "coords": "51°N 10°E",
+  "fileNo": "042",
+  "langName": "tiếng Đức",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#262018",
+    "faint": "#857567",
+    "line": "#DDD0BC",
+    "accent": "#DD0000",
+    "accent2": "#FFCE00"
+  },
+  "flag": {
+    "assetPath": "/flags/de.svg",
+    "title": "Quốc kỳ Đức",
+    "note": "Ba dải ngang bằng nhau: đen, đỏ, vàng",
+    "keyColor": "#DD0000",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nước Đức nằm ngay giữa lòng châu Âu — rừng cổ tích tối tăm, đỉnh Alps phủ tuyết, và những thành phố nhộn nhịp không ngừng nghỉ. Chính người Đức đã phát minh ra máy in, xe hơi và cây thông Noel trang trí. Với gần 84 triệu người, đây là đất nước đông dân nhất và có nền kinh tế lớn nhất châu Âu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Berlin",
+      "sub": "Dân số ~3,8 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "~84 triệu",
+      "sub": "Ước tính 2025, Eurostat"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng từ năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Đức",
+      "sub": "Khoảng 95% dân số dùng"
+    },
+    {
+      "label": "Diện tích",
+      "value": "357.600 km²",
+      "sub": "Gấp khoảng 1,1 lần Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Zugspitze",
+      "sub": "2.962 m so với mực nước biển"
+    }
+  ],
+  "islands": [
+    "Bavaria",
+    "Berlin",
+    "Hamburg",
+    "Rhine Valley",
+    "Black Forest"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Rừng già, sông lớn và đỉnh núi tuyết",
+    "animals": "Muông thú trong rừng sâu",
+    "culture": "Bánh mì, bia và những ý tưởng lớn",
+    "history": "Từ vương quốc đến ngày thống nhất",
+    "wows": "Những điều bất ngờ về nước Đức!"
+  },
+  "geo": [
+    "Nước Đức như một bộ sưu tập địa hình thu nhỏ: bờ biển gió lộng ở phía bắc, đồng bằng trồng trọt và dòng sông Rhine hùng vĩ ở giữa, rồi dãy Alps Bavaria sừng sững ở phía nam. Đỉnh Zugspitze cao 2.962 mét, lúc nào cũng có mây vờn quanh.",
+    "Rừng phủ gần một phần ba diện tích cả nước. Rừng Đen ở tây nam tối tăm và rậm rạp đến mức chính nơi đây đã truyền cảm hứng cho anh em nhà Grimm viết những câu chuyện cổ tích nổi tiếng nhất thế giới. Sông Rhine và sông Elbe đã chở thuyền buôn qua những ngọn đồi có lâu đài cổ suốt hàng nghìn năm."
+  ],
+  "animals": [
+    "Rừng Đức đầy lợn rừng — những con lợn có nanh và lông cứng, chuyên dùng mõm ủi lá tìm quả sồi. Số lượng lợn rừng tăng nhiều đến mức chúng còn mò vào ngoại ô Berlin vào ban đêm, ngay giữa thành phố gần 4 triệu dân.",
+    "Mỗi mùa xuân, những con cò trắng lại vỗ cánh bay về từ châu Phi và đậu xuống đúng tổ trên mái nhà như năm trước. Người Đức coi chúng là điềm may mắn. Sóc đỏ — lông hung với đôi tai có chùm lông — thoăn thoắt leo trên cây thông, một hình ảnh hiếm thấy ở nhiều nước khác vì sóc xám đã chiếm mất chỗ của chúng."
+  ],
+  "culture": [
+    "Nước Đức có hơn 1.300 loại bánh mì — nhiều hơn bất kỳ quốc gia nào trên thế giới. Nghề làm bánh mì ở Đức được UNESCO công nhận là di sản văn hóa phi vật thể. Ngồi vào bàn ăn trưa là đã thấy một ổ bánh mì đen dày đặc được bưng ra trước.",
+    "Âm nhạc chảy trong máu người Đức. Bach, Beethoven và Brahms đều là người Đức. Nước Đức có hơn 80 nhà hát opera — nhiều hơn bất kỳ quốc gia nào. Mỗi tháng Mười Hai, các quảng trường thị trấn lại rực rỡ với chợ Giáng sinh lung linh — truyền thống này bắt nguồn từ đây cách đây khoảng 500 năm."
+  ],
+  "history": [
+    "Nước Đức không phải lúc nào cũng là một quốc gia thống nhất. Hàng thế kỷ, vùng đất này là mảnh ghép của các vương quốc, công quốc và thành phố tự do. Mãi đến năm 1871 mới hợp nhất thành một nước. Sau Thế chiến II, nước Đức bị chia đôi thành Tây Đức dân chủ và Đông Đức cộng sản, ngăn cách nhau bởi Bức tường Berlin.",
+    "Năm 1989, bức tường đó sụp đổ trong tiếng hô vang của đám đông ở cả hai phía. Đông và Tây thống nhất vào năm 1990, Berlin một lần nữa trở thành thủ đô. Ngày nay, nước Đức là một nền dân chủ hòa bình và là đầu tàu kinh tế của Liên minh châu Âu."
+  ],
+  "wows": [
+    "Hamburg có nhiều cầu hơn Venice, Amsterdam và London cộng lại — hơn 2.300 cây cầu!",
+    "Nước Đức phát minh ra kẹo gấu dẻo: Hans Riegel làm ra những viên kẹo trái cây dẻo đầu tiên ở Bonn năm 1922.",
+    "Một số đoạn đường Autobahn không có giới hạn tốc độ — mạng cao tốc duy nhất trên thế giới như vậy.",
+    "Gutenberg in cuốn sách đầu tiên của châu Âu bằng chữ rời tại Mainz khoảng năm 1450, thay đổi cả lịch sử loài người.",
+    "Người Séc uống bia nhiều hơn người Đức tính theo đầu người — Đức chỉ đứng thứ bảy thế giới.",
+    "Hơn 800 triệu xúc xích currywurst được ăn ở Đức mỗi năm, riêng Berlin chiếm 70 triệu.",
+    "Nước Đức có 16 bang, mỗi bang có nghị viện, cảnh sát và lịch nghỉ học riêng."
+  ],
+  "myths": [
+    {
+      "myth": "Người Đức nào cũng mặc lederhosen",
+      "fact": "Lederhosen và váy dirndl là trang phục dân gian của vùng Bavaria, chủ yếu mặc trong các lễ hội. Ở Berlin hay Hamburg, người dân bình thường ăn mặc như mọi nơi khác — quần jeans và giày thể thao."
+    },
+    {
+      "myth": "Toàn bộ đường Autobahn đều không có giới hạn tốc độ",
+      "fact": "Khoảng 40% đường Autobahn vẫn có biển báo giới hạn tốc độ ở các khu vực thi công và gần thị trấn. Chỉ khoảng 60% là không hạn chế, và tốc độ khuyến cáo vẫn là 130 km/h."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hallo",
+      "say": "HAH-loh"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Danke",
+      "say": "DAHN-keh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Bitte",
+      "say": "BIT-teh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Tschüss",
+      "say": "CHÜSS"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Lecker!",
+      "say": "LEK-ker"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/de-hero.jpg",
+      "alt": "Tàu cao tốc ICE màu trắng tại ga trung tâm Frankfurt",
+      "caption": "TÀU ICE — đoàn tàu cao tốc hiện đại của Đức tại ga Frankfurt Hauptbahnhof",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/de-landmark.jpg",
+      "alt": "Lâu đài Neuschwanstein tọa lạc trên sườn đồi rừng Bavaria",
+      "caption": "LÂU ĐÀI NEUSCHWANSTEIN — cung điện cổ tích đã truyền cảm hứng cho lâu đài Cinderella của Disney",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/de-animalA.jpg",
+      "alt": "Cò trắng mỏ đỏ đứng thẳng",
+      "caption": "CÒ TRẮNG — mỗi mùa xuân lại bay về từ châu Phi đúng tổ cũ trên mái nhà người Đức",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/de-animalB.jpg",
+      "alt": "Lợn rừng đang kiếm ăn trong rừng châu Âu",
+      "caption": "LỢN RỪNG — loài có nanh kiếm ăn trong rừng, còn mò vào tận ngoại ô Berlin ban đêm",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

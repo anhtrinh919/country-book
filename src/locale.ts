@@ -6,6 +6,8 @@ export interface LocaleBundle {
   fieldNotes: string
   journeyThrough: string
   countryData: string
+  flagLabel: string
+  factChecked: string
   kicker: {
     geography: string
     animals: string
@@ -35,6 +37,8 @@ export const LOCALES: Record<string, LocaleBundle> = {
     fieldNotes: "Field Notes",
     journeyThrough: "A journey through the country",
     countryData: "Country Data · checked",
+    flagLabel: "Flag",
+    factChecked: "FACT-CHECKED",
     kicker: {
       geography: "Geography",
       animals: "Animals & Nature",
@@ -63,6 +67,8 @@ export const LOCALES: Record<string, LocaleBundle> = {
     fieldNotes: "Notes de voyage",
     journeyThrough: "Un voyage à travers ce pays",
     countryData: "Données du pays · vérifiées",
+    flagLabel: "Drapeau",
+    factChecked: "VÉRIFIÉ",
     kicker: {
       geography: "Géographie",
       animals: "Animaux & Nature",
@@ -91,6 +97,8 @@ export const LOCALES: Record<string, LocaleBundle> = {
     fieldNotes: "Ghi chép thực địa",
     journeyThrough: "Hành trình qua đất nước",
     countryData: "Dữ liệu quốc gia · đã kiểm tra",
+    flagLabel: "Lá cờ",
+    factChecked: "ĐÃ KIỂM CHỨNG",
     kicker: {
       geography: "Địa lý",
       animals: "Động vật & Thiên nhiên",

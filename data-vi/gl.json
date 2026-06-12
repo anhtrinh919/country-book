@@ -1,0 +1,163 @@
+{
+  "name": "GREENLAND",
+  "nativeName": "GL",
+  "romaji": "KALAALLIT NUNAAT",
+  "tagline": "Băng, Đại Dương & Mặt Trời Đêm",
+  "region": "Bắc Đại Tây Dương / Bắc Cực",
+  "coords": "72°N, 40°W",
+  "fileNo": "082",
+  "langName": "tiếng Greenland",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#EEF3F5",
+    "dot": "#C8D8DF",
+    "ink": "#1A2830",
+    "faint": "#6E8A96",
+    "line": "#D8E5EA",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/gl.svg",
+    "title": "Erfalasorput",
+    "note": "Hai nửa trắng và đỏ; vòng tròn đảo ngược ở mỗi nửa",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Greenland là hòn đảo lớn nhất thế giới — gần như toàn bộ bị chôn vùi dưới lớp băng dày tới 3 km, thế mà con người đã sống trên những bờ biển đá của nó suốt 4.500 năm rồi! Những thợ săn Inuit vẫn đọc được ngôn ngữ của băng biển, xe chó kéo vẫn lao băng qua những vịnh hẹp đóng băng, còn cực quang mùa đông tô vẽ bầu trời thành những tấm rèm xanh lá và tím tuyệt đẹp.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Nuuk",
+      "sub": "Thành phố lớn nhất Greenland"
+    },
+    {
+      "label": "Dân số",
+      "value": "56.542",
+      "sub": "Ngày 1/1/2025, Cục Thống kê Greenland"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Krone Đan Mạch",
+      "sub": "DKK; dùng chung với Đan Mạch"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Kalaallisut",
+      "sub": "Tiếng Greenland; tiếng Đan Mạch cũng phổ biến"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2.166.086 km²",
+      "sub": "Hòn đảo lớn nhất thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.694 m",
+      "sub": "Gunnbjørn Fjeld, đông Greenland"
+    }
+  ],
+  "islands": [
+    "Nuuk",
+    "Ilulissat",
+    "Sisimiut",
+    "Qaqortoq",
+    "Tasiilaq"
+  ],
+  "islandsLabel": "CÁC THỊ TRẤN CHÍNH:",
+  "sections": {
+    "geography": "Vùng đất vùi dưới băng",
+    "animals": "Kỳ lân biển và những người bạn",
+    "culture": "Sống bên rìa băng giá",
+    "history": "Viking, Inuit và băng tuyết",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Tảng băng khổng lồ của Greenland phủ kín 80% diện tích hòn đảo, chứa đủ nước ngọt để làm mực nước biển toàn cầu dâng lên 7 mét nếu tan hết. Bên dưới lớp băng ấy còn ẩn giấu một hẻm núi dài hơn cả Grand Canyon của Mỹ — nhìn từ trên mặt không thấy gì cả!",
+    "Dải bờ biển không bị băng che là một mê cung của những vịnh hẹp sâu thẳm, những đỉnh núi sắc nhọn, và những thị trấn nhỏ xíu đầy màu sắc nằm cheo leo trên vách đá. Mùa hè, mặt trời không bao giờ lặn; mùa đông, mặt trời không bao giờ mọc. Những tảng băng trôi cao như tòa nhà chọc trời lặng lẽ lướt qua những chiếc thuyền câu như những ngọn núi đang di chuyển."
+  ],
+  "animals": [
+    "Cá voi narwhal — kỳ lân có thật của vùng Bắc Cực — sinh sống trong vùng nước lạnh giá của Greenland. Chiếc ngà xoắn ốc của nó có thể dài tới 3 mét! Gấu Bắc Cực đi tuần trên băng biển để săn hải cẩu, tuy nhiên chúng hiếm khi mò đến gần các thị trấn.",
+    "Bò xạ hương chậm chạp lê bước qua đồng tundra với bộ lông qiviut — loại lông ấm nhất trên Trái Đất. Cáo Bắc Cực chuyển sang màu trắng vào mùa đông để ngụy trang. Ngoài khơi, cá voi lưng gù dùng bong bóng để vây cá, còn những đàn chim hải âu vây kín các vách đá mùa hè đông tới mức làm chúng trở thành màu đen."
+  ],
+  "culture": [
+    "Văn hóa Greenland xoay quanh biển cả. Chiếc thuyền qajaq — tức là kayak nguyên bản — do người Inuit sáng chế ra để tiếp cận hải cẩu mà không gây ra tiếng động. Múa trống và hát throat singing là những nghệ thuật cổ xưa vẫn được biểu diễn trong các lễ hội ngày nay.",
+    "Món ăn quốc gia là suaasat, một loại súp hải cẩu hoặc thịt cá voi ấm nóng. Các thị trấn nổi tiếng với những ngôi nhà đỏ, vàng và xanh rực rỡ — xưa được phân biệt bằng màu sắc để ngư dân có thể nhận ra nhau qua cơn bão tuyết. Nghị viện của Greenland họp trong một tòa nhà kính đẹp đẽ ở Nuuk."
+  ],
+  "history": [
+    "Con người đã sinh sống ở Greenland suốt 4.500 năm. Khoảng năm 982 sau Công nguyên, người Viking bị lưu đày tên Erik Thắm đặt cho hòn đảo băng giá này cái tên \"Greenland\" (Đất Xanh) để dụ dỗ người đến định cư. Hai thuộc địa Viking đã phát triển gần 500 năm rồi bỗng nhiên biến mất — đó là một trong những bí ẩn lớn nhất của lịch sử.",
+    "Người Thule, tổ tiên của người Greenland ngày nay, đến đây khoảng năm 1200 sau Công nguyên và lan rộng ra khắp hòn đảo. Đan Mạch đô hộ Greenland từ năm 1721. Đến năm 2009, Greenland giành được quyền tự trị, và câu hỏi về độc lập hoàn toàn vẫn đang được bàn luận sôi nổi."
+  ],
+  "wows": [
+    "Sức nặng của băng đè Greenland xuống 300 mét dưới mực nước biển — nếu lấy hết băng đi, phần trung tâm sẽ trở thành một vùng biển nông.",
+    "Sông băng Ilulissat di chuyển tới 46 mét mỗi ngày, tạo ra 10% tổng số tảng băng trôi của toàn Greenland.",
+    "Một hẻm núi dài 750 km — dài hơn Grand Canyon của Mỹ — nằm hoàn toàn bên dưới tảng băng.",
+    "Số người Greenland sống ở Copenhagen (Đan Mạch) còn nhiều hơn dân số của bất kỳ thị trấn nào ở chính Greenland.",
+    "Ở phía bắc Vòng Bắc Cực, người ta cấm mang các giống chó không phải của Greenland vào — để bảo tồn giống chó kéo thuần chủng.",
+    "Bắc Greenland có ánh sáng ban ngày liên tục trong nhiều tháng — trẻ em ra sân chơi bóng đá lúc nửa đêm dưới bầu trời sáng trưng.",
+    "Cờ Greenland không có hình chữ thập — khác với tất cả các nước Bắc Âu khác — thể hiện bản sắc riêng của người Inuit."
+  ],
+  "myths": [
+    {
+      "myth": "\"Greenland là đất xanh, Iceland mới là băng tuyết\"",
+      "fact": "80% diện tích Greenland là băng. Erik Thắm đặt tên \"Đất Xanh\" vào khoảng năm 982 để thu hút người đến ở — không phải vì nơi đây tươi tốt. Iceland thực ra có nhiều đất nông nghiệp xanh hơn nhiều."
+    },
+    {
+      "myth": "\"Gấu Bắc Cực thường xuyên đi lạc vào các thị trấn ở Greenland\"",
+      "fact": "Gấu Bắc Cực sống chủ yếu trên băng biển xa xôi và hiếm khi mò vào gần khu dân cư. Phần lớn người Greenland chưa bao giờ gặp gấu trong tự nhiên."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Aluu",
+      "say": "ah-LOO"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Qujanaq",
+      "say": "KOO-yah-nakh"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Aap",
+      "say": "ahp"
+    },
+    {
+      "en": "Không",
+      "jp": "Naamik",
+      "say": "NAH-mik"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Takuss",
+      "say": "tah-KOOS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gl-hero.jpg",
+      "alt": "Những ngôi nhà gỗ đầy màu sắc xếp dọc bờ biển đá của Nuuk với dãy núi phía sau",
+      "caption": "NUUK — những ngôi nhà sơn rực rỡ chen chúc trên bờ đá của thủ đô Greenland",
+      "credit": "amanderson2 / CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/gl-landmark.jpg",
+      "alt": "Một tảng băng trôi màu xanh khổng lồ nổi trên vịnh hẹp Ilulissat dưới bầu trời trong",
+      "caption": "VỊNH ILULISSAT — một thánh đường băng xanh trong khu di sản UNESCO của Greenland",
+      "credit": "Marcus Engdahl / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/gl-animalA.jpg",
+      "alt": "Một con bò xạ hương lông xù đứng trên đồng tundra Bắc Cực",
+      "caption": "BÒ XẠ HƯƠNG — lông qiviut dày của nó ấm hơn len cừu và nhẹ hơn cashmere",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalB": {
+      "src": "/photos/gl-animalB.jpg",
+      "alt": "Một con gấu Bắc Cực đi trên băng biển ở Bắc Cực",
+      "caption": "GẤU BẮC CỰC — loài thú ăn thịt trên cạn lớn nhất thế giới săn hải cẩu trên băng biển Greenland",
+      "credit": "Ansgar Walk / CC BY-SA 2.5"
+    }
+  }
+}

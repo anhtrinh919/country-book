@@ -1,0 +1,163 @@
+{
+  "name": "SENEGAL",
+  "nativeName": "SN",
+  "romaji": "SÉNÉGAL",
+  "tagline": "Cửa ngõ châu Phi",
+  "region": "Tây Phi",
+  "coords": "14.4°N, 14.4°W",
+  "fileNo": "077",
+  "langName": "tiếng Wolof",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#C9B48A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A52",
+    "line": "#DDD0AC",
+    "accent": "#3A9A3C",
+    "accent2": "#FCCA00"
+  },
+  "flag": {
+    "assetPath": "/flags/sn.svg",
+    "title": "Quốc kỳ Sénégal",
+    "note": "Ba sọc xanh lá – vàng – đỏ với ngôi sao xanh lá ở giữa",
+    "keyColor": "#3A9A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Sénégal nằm ở cực tây nhô ra của châu Phi, nơi thủ đô Dakar tràn ngập âm nhạc và mùi cá kho thơm lừng. Những cây baobab khổng lồ mọc rải rác trên thảo nguyên, một cái hồ chuyển màu hồng kẹo ngọt, còn các võ sĩ vật truyền thống lấp đầy sân vận động mà bóng đá cũng phải ghen tị. Người Sénégal sống theo tinh thần teranga — một từ Wolof nói về lòng hiếu khách sâu sắc đến mức người lạ vừa đặt chân tới đã cảm thấy như về nhà.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Dakar",
+      "sub": "Nằm ở mũi cực tây châu Phi sát Đại Tây Dương"
+    },
+    {
+      "label": "Dân số",
+      "value": "~17,7 triệu",
+      "sub": "Ước tính 2023, đang tăng nhanh"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung cho 8 nước Tây Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Pháp / Wolof",
+      "sub": "Khoảng 80% dùng tiếng Wolof hàng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "196.722 km²",
+      "sub": "Lớn hơn Việt Nam một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "648 m",
+      "sub": "Dãy Nepen Diakha"
+    }
+  ],
+  "islands": [
+    "Dakar",
+    "Saint-Louis",
+    "Touba",
+    "Ziguinchor",
+    "Casamance"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đất bằng & biển hồng",
+    "animals": "Sư tử, bồ nông & baobab",
+    "culture": "Trống, teranga & đấu vật",
+    "history": "Đế chế, nô lệ & tự do",
+    "wows": "7 điều bất ngờ về Sénégal"
+  },
+  "geo": [
+    "Sénégal gần như bằng phẳng hoàn toàn — những đồng bằng cát trải dài từ vùng Sahel khô cằn ở phía bắc đến những cánh rừng xanh mướt ở vùng Casamance phía nam. Đất nước này ôm lấy nước Gambia bé nhỏ ở ba phía, và đường bờ biển Đại Tây Dương dài 531 km mang đến làn gió biển mát rượi cho Dakar.",
+    "Bên trong đất liền, sông Sénégal làm ranh giới phía bắc trong khi sông Gambia uốn lượn theo chiều đông–tây. Hồ Retba ở phía bắc Dakar lung linh màu hồng nhờ loài tảo thích muối — mặn hơn cả Biển Chết, bờ hồ trắng xóa muối kết tinh và được người địa phương thu hoạch mỗi ngày."
+  ],
+  "animals": [
+    "Vườn quốc gia Niokolo-Koba là ngôi nhà của một trong những đàn sư tử hoang dã cuối cùng ở Tây Phi — những con sư tử thon gầy, bờm thưa lang thang trên 9.000 km² thảo nguyên cùng với hà mã và tinh tinh trong khu di sản thế giới UNESCO.",
+    "Khu bảo tồn chim Djoudj đón tới 3 triệu con chim mỗi mùa đông — những đàn bồ nông trắng khổng lồ đến như những đám mây lông trắng, cùng với thìa bay, diệc và cốc đen. Sénégal ghi nhận hơn 660 loài chim trên toàn lãnh thổ."
+  ],
+  "culture": [
+    "Âm nhạc là nhịp đập của Sénégal. Youssou N'Dour đã kết hợp tiếng trống sabar với nhạc jazz để tạo ra thể loại mbalax rồi đưa nó vang xa khắp thế giới. Các griots — những người kể chuyện cha truyền con nối — lưu giữ hàng thế kỷ lịch sử chỉ bằng trí nhớ và tiếng hát.",
+    "Teranga — lòng hiếu khách — định hình cuộc sống hàng ngày: khách lạ được mời ăn trước khi gia chủ kịp hỏi tên. Môn đấu vật truyền thống laamb sánh ngang bóng đá về độ hấp dẫn — các võ sĩ đeo bùa hộ mệnh gris-gris rồi nhảy múa trước khi thi đấu trước 70.000 khán giả la hét vang trời."
+  ],
+  "history": [
+    "Xưa kia, những đế chế Ghana và Jolof hùng mạnh từng phát triển rực rỡ trên vùng đất này. Từ thế kỷ 15, người châu Âu dùng đảo Gorée — chỉ cách Dakar 3 km — làm trạm giam giữ người châu Phi bị bắt làm nô lệ. Cánh cửa Không Trở Về rùng rợn vẫn còn đó, nay là di sản thế giới UNESCO.",
+    "Pháp cai trị Sénégal từ thế kỷ 19 cho đến ngày 4 tháng 4 năm 1960, khi Sénégal tuyên bố độc lập dưới sự lãnh đạo của nhà thơ kiêm tổng thống Léopold Sédar Senghor. Kể từ đó, mọi lần chuyển giao quyền lực đều diễn ra hòa bình, khiến Sénégal trở thành một trong những nền dân chủ ổn định lâu đời nhất châu Phi."
+  ],
+  "wows": [
+    "Hồ Retba mặn hơn cả Biển Chết — nhảy xuống là nổi lềnh bềnh không cần bơi!",
+    "Tượng đài Phục hưng châu Phi ở Dakar cao hơn cả Tượng Nữ thần Tự do của Mỹ.",
+    "Sénégal gần như ôm trọn nước Gambia ở ba phía — cái ôm kỳ lạ nhất bản đồ thế giới.",
+    "Các võ sĩ đấu vật kiếm được nhiều tiền hơn cầu thủ bóng đá và thu hút tới 70.000 khán giả.",
+    "Cây baobab có thể sống tới 1.000 năm và tích trữ hàng tấn nước bên trong thân cây.",
+    "Sénégal chưa xảy ra một cuộc đảo chính quân sự nào kể từ khi độc lập năm 1960.",
+    "Ca sĩ Youssou N'Dour đã bán được 30 triệu album và từng làm bộ trưởng của đất nước."
+  ],
+  "myths": [
+    {
+      "myth": "Sénégal toàn là sa mạc và nạn đói",
+      "fact": "Phần lớn Sénégal là thảo nguyên xanh hoặc rừng rậm nhiệt đới. Vùng Casamance ở phía nam mưa nhiều và tươi tốt, còn ẩm thực — đặc biệt là cơm cá thiéboudienne — vô cùng phong phú và đa dạng."
+    },
+    {
+      "myth": "Như hầu hết châu Phi, đất nước này không ổn định về chính trị",
+      "fact": "Sénégal chỉ có các cuộc bầu cử hòa bình từ năm 1960 và chưa từng có đảo chính quân sự — thường được nhắc đến là một trong những nền dân chủ kiểu mẫu của châu Phi với báo chí tự do."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Salaam aleyk",
+      "say": "sa-LAHM ah-LAY"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Jërejëf",
+      "say": "jeh-reh-JEF"
+    },
+    {
+      "en": "Bạn khỏe không?",
+      "jp": "Na nga def?",
+      "say": "nah nga DEF"
+    },
+    {
+      "en": "Lòng hiếu khách",
+      "jp": "Teranga",
+      "say": "teh-RAHN-gah"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Mangi dem",
+      "say": "mahn-gee DEM"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sn-hero.jpg",
+      "alt": "Đường chân trời thành phố Dakar nhìn từ phía Đại Tây Dương",
+      "caption": "DAKAR — Thủ đô cực tây châu Phi soi bóng xuống Đại Tây Dương.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sn-landmark.jpg",
+      "alt": "Những ngôi nhà đầy màu sắc ven bờ đảo Gorée ngoài khơi Dakar",
+      "caption": "ĐẢO GORÉE — Hòn đảo UNESCO từng giam giữ người châu Phi bị bắt làm nô lệ.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sn-animalA.jpg",
+      "alt": "Đàn bồ nông trắng khổng lồ tại khu bảo tồn chim quốc gia Djoudj",
+      "caption": "BỒ NÔNG TRẮNG — Hàng triệu con đổ về Djoudj mỗi mùa đông.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sn-animalB.jpg",
+      "alt": "Cây baobab cổ thụ với thân to phình tròn trên thảo nguyên Sénégal",
+      "caption": "CÂY BAOBAB — Cây của sự sống châu Phi, sống hơn 1.000 năm.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "QATAR",
+  "nativeName": "قطر",
+  "romaji": "QATAR",
+  "tagline": "Cát, biển & những tòa tháp vươn cao",
+  "region": "Trung Đông",
+  "coords": "25.3N, 51.2E",
+  "fileNo": "042",
+  "langName": "tiếng Ả Rập",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5ECD7",
+    "dot": "#C9B48E",
+    "ink": "#231F1A",
+    "faint": "#8B7355",
+    "line": "#DDD0B2",
+    "accent": "#8D1B3D",
+    "accent2": "#F0F0F0"
+  },
+  "flag": {
+    "assetPath": "/flags/qa.svg",
+    "title": "Quốc kỳ Qatar",
+    "note": "Màu đỏ hạt dẻ với viền trắng răng cưa 9 đỉnh",
+    "keyColor": "#8D1B3D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Qatar là một bán đảo nhỏ nằm lọt thỏm giữa vịnh Ba Tư ấm áp — đất ở đây bằng phẳng đến mức đỉnh cao nhất cũng chỉ vỏn vẹn 103 mét. Ngày xưa, người Qatar lặn xuống biển mò ngọc trai để mưu sinh; ngày nay, những mỏ khí đốt khổng lồ đã biến nơi đây thành một trong những quốc gia giàu có nhất thế giới. Trên mảnh đất nắng cháy chỉ 11.571 km² này, bạn vừa thấy tháp cao chọc trời long lanh, vừa nghe tiếng vó lạc đà rầm rập, vừa nhìn những con dugong hiền lành gặm cỏ biển dưới làn nước trong xanh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Doha",
+      "sub": "nơi sinh sống của 80% dân số Qatar"
+    },
+    {
+      "label": "Dân số",
+      "value": "3,21 triệu người",
+      "sub": "tháng 12/2025, Hội đồng Quy hoạch"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đồng Riyal Qatar",
+      "sub": "1 QAR ≈ 0,27 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "tiếng Anh cũng được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "11.571 km²",
+      "sub": "nhỏ hơn tỉnh Nghệ An của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "103 m",
+      "sub": "đồi Qurayn Abu al Bawl"
+    }
+  ],
+  "islands": [
+    "Doha",
+    "Al Wakrah",
+    "Al Khor",
+    "Dukhan",
+    "Lusail"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Bán đảo cát và biển",
+    "animals": "Linh dương, chim ưng & thú biển khổng lồ",
+    "culture": "Ngọc trai, cà phê & nghệ thuật thả ưng",
+    "history": "Từ ngọc trai đến dầu khí",
+    "wows": "Những điều bất ngờ về Qatar"
+  },
+  "geo": [
+    "Qatar có hình dạng như một ngón tay cái nhô ra biển, gần như hoàn toàn bằng phẳng với phần lớn diện tích thấp hơn 40 mét so với mực nước biển. Đường bờ biển kéo dài hơn 600 km, từ những đồng muối sabkha ở phía bắc đến vùng Khor Al Adaid ở phía nam — nơi những cồn cát khổng lồ đổ thẳng xuống vịnh như một bức tranh thiên nhiên kỳ diệu.",
+    "Bên dưới lớp đất đá của Qatar là mỏ North Field — mỏ khí đốt tự nhiên lớn nhất thế giới không kèm dầu mỏ. Thủ đô Doha phát triển với tốc độ chóng mặt: khu West Bay lấp lánh tháp cao mà chỉ 30 năm trước hầu như vẫn còn là bãi đất trống."
+  ],
+  "animals": [
+    "Linh dương Ả Rập — linh vật quốc gia của Qatar — đã tuyệt chủng ngoài tự nhiên vào năm 1972. Nhờ chương trình nhân giống cẩn thận, loài vật tuyệt đẹp này đã được hồi sinh. Với bộ lông trắng muốt và đôi sừng thẳng như ngọn giáo, khi nhìn nghiêng, con linh dương trông giống hệt kỳ lân — và đó chính là lý do nhiều người tin rằng huyền thoại kỳ lân bắt nguồn từ đây.",
+    "Qatar là nơi có quần thể dugong lớn thứ hai thế giới — những con thú biển hiền lành họ hàng với bò biển, ngày ngày gặm cỏ dưới đáy vịnh. Chim ưng được xem là báu vật quốc gia; người chủ đeo găng tay cho ưng đậu lên cánh tay, và có hẳn một bệnh viện chim ưng tại khu chợ cổ Souq Waqif chuyên chữa trị miễn phí cho những con chim bị thương."
+  ],
+  "culture": [
+    "Cà phê Ả Rập — đắng ngắt, thơm mùi bạch đậu khấu, rót vào những chiếc tách nhỏ không có quai — luôn là thứ đầu tiên chủ nhà Qatar mang ra đãi khách. Từ chối uống là thất lễ; nếu đã uống đủ, chỉ cần lắc nhẹ chiếc tách là chủ nhà hiểu ngay. Cùng với đó bao giờ cũng có đĩa chà là. Nghi thức đón khách này gần như không đổi suốt nhiều thế kỷ qua.",
+    "Đua lạc đà và thả chim ưng là hai môn thể thao đặc trưng của mùa thể thao Qatar. Các cuộc đua diễn ra từ tháng 9 đến tháng 3, với những người cưỡi lạc đà là... robot điều khiển từ xa — chủ nhân ngồi trên xe SUV chạy song song bên đường phát lệnh! Bảo tàng Nghệ thuật Hồi giáo do kiến trúc sư I. M. Pei thiết kế lưu giữ 1.400 năm tinh hoa của thế giới Hồi giáo."
+  ],
+  "history": [
+    "Trong nhiều thế kỷ, người Qatar sống nhờ nghề lặn mò ngọc trai. Thợ lặn kẹp đá giữa ngón chân, lao xuống mà không có bình dưỡng khí, rồi ngoi lên với những con hàu chứa ngọc quý. Qatar từng là trung tâm khai thác ngọc trai lớn bậc nhất thế giới — cho đến thập niên 1930, khi ngọc trai nhân tạo của Nhật Bản tràn ngập thị trường khiến ngành này sụp đổ hoàn toàn.",
+    "Dầu mỏ được phát hiện năm 1939 và bắt đầu xuất khẩu từ năm 1949, biến một bán đảo nghèo khó thành một đất nước thịnh vượng. Qatar tuyên bố độc lập khỏi Anh vào năm 1971. Chuyến tàu chở khí hóa lỏng LNG đầu tiên rời Qatar đến Nhật Bản năm 1996, mở ra kỷ nguyên khí đốt — nguồn tiền tài trợ cho những sân vận động và tuyến metro hiện đại ngày hôm nay."
+  ],
+  "wows": [
+    "Mỏ North Field của Qatar là mỏ khí đốt tự nhiên lớn nhất thế giới, trữ lượng ước tính khoảng 900 nghìn tỷ feet khối.",
+    "Với GDP khoảng 76.000 USD/người (2024), Qatar thuộc top 5 quốc gia giàu nhất hành tinh.",
+    "World Cup FIFA 2022 là kỳ World Cup đầu tiên tại Trung Đông; cả 8 sân vận động chỉ cách nhau trong vòng 55 km.",
+    "Kỵ sĩ trong các cuộc đua lạc đà là robot điều khiển từ xa — chủ nhân phóng xe SUV chạy song song bên đường ra lệnh.",
+    "Qatar có một trong những quần thể dugong lớn nhất thế giới; từng đàn hơn 600 con cùng gặm cỏ biển trong vịnh.",
+    "Bảo tàng Nghệ thuật Hồi giáo tọa lạc trên hòn đảo nhân tạo riêng của nó, được thiết kế bởi I. M. Pei khi ông 91 tuổi.",
+    "Qatar xây dựng toàn bộ hệ thống tàu điện ngầm có điều hòa từ đầu chỉ trong bảy năm, khánh thành năm 2019."
+  ],
+  "myths": [
+    {
+      "myth": "Qatar chỉ là sa mạc hoang vu",
+      "fact": "Qatar có tới 600 km bờ biển, rừng đước, vùng biển nội địa Khor Al Adaid vây quanh bởi những cồn cát khổng lồ, và một trong những đường chân trời hiện đại nhất thế giới tại Doha."
+    },
+    {
+      "myth": "Qatar không có lịch sử hay văn hóa gì",
+      "fact": "Hạt ngọc trai cổ nhất Qatar có niên đại 4.600 năm trước Công nguyên, người dân nơi đây thực hành nghệ thuật thả chim ưng suốt nhiều thế kỷ, và Doha hiện có những bảo tàng đẳng cấp thế giới như Bảo tàng Nghệ thuật Hồi giáo."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min-FAD-lak"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "Đi thôi!",
+      "jp": "يلا",
+      "say": "YAL-la"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/qa-landmark.jpg",
+      "alt": "Bảo tàng Nghệ thuật Hồi giáo với đường chân trời Doha phía sau",
+      "caption": "BẢO TÀNG NGHỆ THUẬT HỒI GIÁO — Kiệt tác của I. M. Pei trên hòn đảo riêng, bờ kè Corniche Doha",
+      "credit": "Mohamod Fasil / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/qa-animalA.jpg",
+      "alt": "Linh dương Ả Rập trắng đứng trong khu bảo tồn sa mạc",
+      "caption": "LINH DƯƠNG Ả RẬP — Linh vật quốc gia Qatar, được cứu khỏi tuyệt chủng nhờ bảo tồn",
+      "credit": "Charles J. Sharp / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/qa-animalB.jpg",
+      "alt": "Con dugong đang bơi dưới nước",
+      "caption": "DUGONG — Vùng biển Qatar là nơi sinh sống của một trong những quần thể dugong lớn nhất Trái Đất",
+      "credit": "Gejuni / CC BY-SA 3.0"
+    },
+    "hero": {
+      "src": "/photos/qa-hero.jpg",
+      "alt": "Đường chân trời khu West Bay Doha lúc bình minh với những tòa tháp soi bóng xuống mặt nước",
+      "caption": "ĐƯỜNG CHÂN TRỜI DOHA — Những tòa tháp West Bay rực sáng lúc bình minh, vươn lên từ sa mạc",
+      "credit": "Francisco Anzola / CC BY 2.0"
+    }
+  }
+}

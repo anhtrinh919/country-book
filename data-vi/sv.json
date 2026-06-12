@@ -1,0 +1,163 @@
+{
+  "name": "EL SALVADOR",
+  "nativeName": "SV",
+  "romaji": "EL SALVADOR",
+  "tagline": "Vùng đất núi lửa",
+  "region": "Trung Mỹ",
+  "coords": "13.79°N, 88.90°W",
+  "fileNo": "056",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDD7",
+    "dot": "#CCBC96",
+    "ink": "#252018",
+    "faint": "#7A7055",
+    "line": "#DDD3B0",
+    "accent": "#1B3F8B",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/sv.svg",
+    "title": "Xanh–Trắng–Xanh",
+    "note": "Hai dải xanh tượng trưng cho đại dương; dải trắng giữa là hòa bình",
+    "keyColor": "#1B3F8B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "El Salvador là đất nước nhỏ nhất Trung Mỹ — diện tích chỉ bằng tỉnh Nghệ An của Việt Nam — nhưng bên trong là hơn 20 ngọn núi lửa, những rừng cà phê xanh mướt và bãi biển sóng lớn nhìn ra Thái Bình Dương. Người Pipil đã canh tác mảnh đất này từ lâu trước khi người Tây Ban Nha đặt chân đến năm 1524. Đây cũng là quốc gia duy nhất ở Trung Mỹ không có bờ biển Caribbean.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "San Salvador",
+      "sub": "khoảng 570.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "6,03 triệu người",
+      "sub": "điều tra dân số 2024 — đầu tiên kể từ 2007"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Mỹ",
+      "sub": "dùng từ 2001; đồng colón đã nghỉ hưu"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "hầu như toàn bộ người dân đều nói"
+    },
+    {
+      "label": "Diện tích",
+      "value": "21.040 km²",
+      "sub": "nhỏ nhất Trung Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.381 m",
+      "sub": "núi lửa Santa Ana (Ilamatepec)"
+    }
+  ],
+  "islands": [
+    "San Salvador",
+    "Santa Ana",
+    "San Miguel",
+    "Sonsonate",
+    "La Libertad"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa và sóng biển",
+    "animals": "Chim rừng, thú hoang và thiên nhiên",
+    "culture": "Pupusa, lễ hội và cà phê",
+    "history": "Từ vương triều Pipil đến hòa bình",
+    "wows": "El Salvador bất ngờ lắm!"
+  },
+  "geo": [
+    "El Salvador nằm trên Vành đai Lửa Thái Bình Dương, nhồi nhét hơn 20 ngọn núi lửa trong một vùng đất không lớn hơn tỉnh Nghệ An. Ngọn Santa Ana cao nhất với 2.381 m, bên trong có hồ miệng núi lửa xanh biếc lộng lẫy, lần phun trào gần nhất là năm 2005. Động đất rung chuyển mặt đất rất thường xuyên ở đây.",
+    "Bờ biển Thái Bình Dương dài 307 km — đây là đường bờ biển duy nhất của El Salvador, khiến đây là quốc gia duy nhất ở Trung Mỹ không có biển Caribbean. Vùng cao nguyên phủ rừng thông bên trong dốc xuống những thung lũng màu mỡ, nơi cà phê và mía trồng tươi tốt quanh năm."
+  ],
+  "animals": [
+    "Quốc điểu của El Salvador là chim torogoz — còn gọi là motmot chân xanh lam. Loài chim lấp lánh sắc màu này có chiếc đuôi dài với hai đầu tua như vợt, cứ đong đưa qua lại như cái lắc đồng hồ. Rùa biển lên đẻ trứng trên bãi cát Thái Bình Dương, còn khỉ hú rống vang khắp những khu rừng rậm.",
+    "Hươu đuôi trắng và coati (loài gần họ gấu mèo) chia sẻ rừng cao nguyên với báo đốm nhỏ ocelot. Hơn 500 loài chim đã được ghi nhận ở đây, biến El Salvador thành thiên đường ngắm chim thầm lặng nhưng rất ấn tượng — dù là đất nước nhỏ nhất Trung Mỹ."
+  ],
+  "culture": [
+    "Pupusa là món ăn El Salvador tặng cho thế giới: những chiếc bánh bắp dày tự tay nhào nặn, nhân phô mai, đậu đen hoặc thịt heo, nướng vàng trên bếp rồi ăn kèm dưa bắp cải chua giòn gọi là curtido. Mỗi gia đình đều có công thức pupusa riêng của mình.",
+    "Cà phê đã định hình đất nước này từ thập niên 1880, những đồn điền trên cao nguyên trồng loại hạt quý trồng dưới bóng cây. Bãi biển El Tunco sôi động với văn hóa lướt sóng, trong khi các lễ hội pha trộn truyền thống Công giáo với điệu nhảy Pipil cổ xưa và tiếng marimba rộn ràng."
+  ],
+  "history": [
+    "Người Pipil — có họ hàng với người Aztec — cai trị El Salvador trước khi nhà chinh phục Tây Ban Nha Pedro de Alvarado đến năm 1524. Các chiến binh Pipil đã đẩy lui cuộc xâm lược đầu tiên — phải tới ba lần viễn chinh mới khuất phục được họ. Sau đó, tiền từ cà phê xây nên những trang viên lộng lẫy nhưng đa số nông dân vẫn nghèo khó.",
+    "Một cuộc nội chiến tàn khốc (1979–1992) cướp đi hơn 75.000 sinh mạng trước khi hiệp định hòa bình chấm dứt xung đột. Năm 2021, El Salvador trở thành quốc gia đầu tiên trên thế giới công nhận Bitcoin là tiền tệ hợp pháp — nhưng thử nghiệm này đã bị hủy bỏ vào năm 2025."
+  ],
+  "wows": [
+    "El Salvador là quốc gia duy nhất ở Trung Mỹ không có bờ biển Caribbean — toàn bộ bãi biển đều nhìn ra Thái Bình Dương.",
+    "Một ngôi làng Maya tên Joya de Cerén bị tro núi lửa chôn vùi khoảng năm 600 sau Công nguyên — người ta gọi đây là 'Pompeii của châu Mỹ'.",
+    "El Salvador nhồi hơn 20 núi lửa vào diện tích chỉ bằng tỉnh Nghệ An — mật độ núi lửa thuộc hàng dày đặc nhất Trái Đất.",
+    "Chim torogoz đong đưa chiếc đuôi hình vợt như cái lắc đồng hồ để báo hiệu rằng nó đã phát hiện ra kẻ thù đang rình rập.",
+    "Chàm indigo từng là mặt hàng xuất khẩu chủ lực của El Salvador suốt 300 năm, cho đến khi thuốc nhuộm tổng hợp rẻ tiền xóa sổ ngành này.",
+    "Năm 2021, El Salvador là quốc gia đầu tiên trên Trái Đất chính thức công nhận Bitcoin là tiền tệ hợp pháp.",
+    "Ngày Pupusa là ngày lễ quốc gia, tổ chức vào Chủ nhật thứ hai của tháng 11 mỗi năm — được ghi vào luật hẳn hoi!"
+  ],
+  "myths": [
+    {
+      "myth": "El Salvador quá nguy hiểm để đến thăm",
+      "fact": "Tỷ lệ giết người giảm mạnh sau cải cách năm 2022; hiện El Salvador có một trong những tỷ lệ tội phạm thấp nhất Trung Mỹ và ngành du lịch lướt sóng đang nở rộ."
+    },
+    {
+      "myth": "El Salvador là một đất nước rộng lớn",
+      "fact": "Với 21.040 km², đây là quốc gia nhỏ nhất Trung Mỹ — diện tích tương đương tỉnh Nghệ An của Việt Nam hoặc bang Massachusetts của Mỹ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Sabroso",
+      "say": "sah-BROH-so"
+    },
+    {
+      "en": "Núi lửa",
+      "jp": "Volcán",
+      "say": "vol-KAHN"
+    },
+    {
+      "en": "Tạm biệt!",
+      "jp": "Adiós",
+      "say": "ah-dee-OHS"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sv-hero.jpg",
+      "alt": "Tượng đài Đấng Cứu Thế Thần Thánh ở trung tâm San Salvador",
+      "caption": "EL SALVADOR DEL MUNDO — tượng đài biểu tượng tại trái tim thủ đô San Salvador",
+      "credit": "Jcortezchavarria / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/sv-landmark.jpg",
+      "alt": "Toàn cảnh khu di chỉ khảo cổ Joya de Cerén",
+      "caption": "JOYA DE CERÉN — ngôi làng Maya bị núi lửa chôn vùi năm 600 sau Công nguyên",
+      "credit": "Mariordo / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sv-animalA.jpg",
+      "alt": "Chim torogoz đậu trên cành cây, lông xanh lam óng ánh",
+      "caption": "TOROGOZ — quốc điểu với chiếc đuôi hình vợt đong đưa như lắc đồng hồ",
+      "credit": "gailhampshire / CC BY 2.0"
+    },
+    "animalB": {
+      "src": "/photos/sv-animalB.jpg",
+      "alt": "Hươu đuôi trắng trong rừng cao nguyên tự nhiên",
+      "caption": "HƯƠU ĐUÔI TRẮNG — loài thú của những cánh rừng cao nguyên El Salvador",
+      "credit": "Santiago Ron (Jambato) / CC BY 4.0"
+    }
+  }
+}

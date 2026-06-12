@@ -1,0 +1,163 @@
+{
+  "name": "TANZANIA",
+  "nativeName": "TZ",
+  "romaji": "TANZANIA",
+  "tagline": "Trái tim hoang dã của châu Phi",
+  "region": "Đông Phi",
+  "coords": "6.37°S, 34.89°E",
+  "fileNo": "082",
+  "langName": "tiếng Swahili",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBF9E",
+    "ink": "#251E16",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#1DA354",
+    "accent2": "#1B75BC"
+  },
+  "flag": {
+    "assetPath": "/flags/tz.svg",
+    "title": "Cờ Tanzania",
+    "note": "Xanh lá, đen & xanh biển — đất đai, con người & biển cả",
+    "keyColor": "#1DA354",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tanzania là một vùng đất rộng lớn ở Đông Phi, nơi đỉnh núi cao nhất châu Phi phủ tuyết trắng dù nằm ngay gần xích đạo, hàng triệu con linh dương đầu bò rầm rộ chạy qua thảo nguyên vàng mỗi năm, và một hòn đảo hương liệu nổi bồng bềnh giữa biển ngọc bích. Từ miệng núi lửa khổng lồ hàng triệu năm tuổi đến những rạn san hô lung linh của Zanzibar, Tanzania chứa đựng nhiều kỳ quan thiên nhiên hơn hầu hết bất kỳ nơi nào trên Trái Đất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Dodoma",
+      "sub": "Thủ đô chính thức từ năm 1974"
+    },
+    {
+      "label": "Dân số",
+      "value": "61,7 triệu người",
+      "sub": "Điều tra dân số năm 2022"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Shilling Tanzania",
+      "sub": "Ký hiệu TZS"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Swahili",
+      "sub": "Tiếng Anh cũng dùng trong trường học"
+    },
+    {
+      "label": "Diện tích",
+      "value": "885.800 km²",
+      "sub": "Lớn hơn Việt Nam gần 2,7 lần"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "5.895 m",
+      "sub": "Núi Kilimanjaro — nóc nhà châu Phi"
+    }
+  ],
+  "islands": [
+    "Zanzibar",
+    "Dodoma",
+    "Arusha",
+    "Mwanza",
+    "Pemba"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ & ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Nóc nhà châu Phi & thảo nguyên bất tận",
+    "animals": "Màn trình diễn vĩ đại nhất Trái Đất",
+    "culture": "Trăm tộc người, một dân tộc",
+    "history": "Từ thời vương quốc đến ngày độc lập",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Tanzania trải dài trên một cao nguyên rộng lớn, xen kẽ núi lửa, miệng hố cổ đại và những hồ nước lấp lánh. Thung lũng Rift vĩ đại chạy dọc phía tây, tạo ra hồ Tanganyika — hồ nước ngọt dài nhất thế giới, sâu đến mức có thể xếp bốn tòa tháp Eiffel chồng lên nhau bên trong mà vẫn chưa chạm đáy.",
+    "Núi Kilimanjaro đứng sừng sững một mình trên thảo nguyên phía đông bắc — một ngọn núi lửa phủ tuyết cao 5.895 m, ngọn núi độc lập cao nhất hành tinh, cao hơn cả đỉnh Everest tính từ chân lên! Gần 30% diện tích Tanzania là vườn quốc gia được bảo vệ, tỷ lệ cao bậc nhất thế giới."
+  ],
+  "animals": [
+    "Serengeti là sân khấu của cuộc Di Cư Vĩ Đại — hơn 1,5 triệu con linh dương đầu bò cùng hàng trăm nghìn con ngựa vằn và linh dương Gazelle hùng hổ chạy theo vòng tròn khổng lồ quanh thảo nguyên mỗi năm. Những cảnh vượt sông đầy cá sấu đói rình rập là hình ảnh짜짜 hồi hộp nhất trong thế giới động vật.",
+    "Động vật biểu tượng của Tanzania là hươu cao cổ Maasai — sinh vật cao nhất còn sống trên Trái Đất. Đất nước này còn là ngôi nhà của sư tử, voi, báo, hà mã, chim hồng hạc và hơn 1.100 loài chim, tất cả thong thả sống trong những công viên tự nhiên rộng lớn đến mức chúng hầu như không để ý đến các xe jeep chở khách du lịch."
+  ],
+  "culture": [
+    "Tanzania là ngôi nhà của hơn 120 dân tộc khác nhau, nhưng tiếng Swahili — một ngôn ngữ du dương kết hợp giữa tiếng Bantu và tiếng Ả Rập — gắn kết tất cả họ lại. Trên đảo Zanzibar, những cánh cửa gỗ chạm khắc tinh xảo và vòm cuốn kiểu Ả Rập nhắc về hàng thế kỷ thương nhân buôn hương liệu; mùi đinh hương và quế vẫn còn phảng phất trong không khí.",
+    "Âm nhạc và vũ điệu hiện diện trong đời sống hàng ngày, từ những cú nhảy nhào lộn của chiến binh Maasai đến những dàn nhạc taarab ở Zanzibar hòa quyện violin và đàn oud theo kiểu Ả Rập. Ugali — một loại cháo bột ngô đặc — là món ăn chủ đạo mỗi ngày, dùng để gắp kèm thịt hầm, đậu hoặc cá nướng."
+  ],
+  "history": [
+    "Con người cổ đại đã để lại dấu chân trong tro núi lửa tại Laetoli từ 3,6 triệu năm trước — những dấu chân người vượn cổ xưa nhất được biết đến trên Trái Đất. Thương nhân Ả Rập và Ba Tư đã đến định cư dọc bờ biển từ thế kỷ 8, xây dựng nên Thị Trấn Đá và mạng lưới thương mại đại dương nhộn nhịp với hương liệu và nô lệ.",
+    "Đức rồi Anh lần lượt đô hộ đất liền, nhưng ngày 9 tháng 12 năm 1961, Julius Nyerere dẫn dắt Tanganyika giành độc lập. Năm 1964, Tanganyika và Zanzibar hợp nhất thành Tanzania ngày nay. Nyerere chọn tiếng Swahili làm ngôn ngữ chung để từ hàng trăm tộc người khác nhau, cả nước cùng nói chung một tiếng — một dân tộc thống nhất và tự hào."
+  ],
+  "wows": [
+    "Ngorongoro là miệng núi lửa nguyên vẹn lớn nhất Trái Đất — một cái bát rộng 20 km chứa tới 25.000 con thú lớn.",
+    "Dấu chân người vượn cổ từ 3,6 triệu năm trước vẫn còn được bảo tồn trong tro núi lửa tại Laetoli, Tanzania.",
+    "Freddie Mercury — giọng ca huyền thoại của ban nhạc Queen — sinh ra tại Zanzibar năm 1946.",
+    "Hồ Tanganyika chứa 16% lượng nước ngọt bề mặt của toàn Trái Đất và sâu tới 1.470 m.",
+    "Tanzania có nhiều Di sản Thế giới UNESCO hơn bất kỳ quốc gia nào khác ở Đông Phi.",
+    "Cuộc Di Cư Vĩ Đại không bao giờ dừng lại — đàn linh dương đầu bò đi 800 km mỗi năm mà không cần bản đồ.",
+    "Các sông băng trên đỉnh Kilimanjaro đã thu nhỏ 80% kể từ năm 1912 và có thể biến mất hoàn toàn vào năm 2050."
+  ],
+  "myths": [
+    {
+      "myth": "Kilimanjaro nằm ở Kenya",
+      "fact": "Núi Kilimanjaro nằm hoàn toàn trong lãnh thổ Tanzania, gần biên giới Kenya. Đỉnh cao nhất của Kenya là núi Kenya, thấp hơn Kilimanjaro khoảng 500 m."
+    },
+    {
+      "myth": "Cuộc Di Cư chỉ diễn ra vào mùa hè",
+      "fact": "Cuộc di cư của linh dương đầu bò diễn ra quanh năm — đàn thú liên tục di chuyển theo vòng tròn, với những cảnh vượt sông ngoạn mục đạt đỉnh cao từ tháng 7 đến tháng 10."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Jambo",
+      "say": "JAM-bo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Asante",
+      "say": "ah-SAN-tay"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Karibu",
+      "say": "kah-REE-boo"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Kwaheri",
+      "say": "kwah-HEH-ree"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Habari gani?",
+      "say": "ha-BAH-ree GAH-nee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tz-hero.jpg",
+      "alt": "Núi Kilimanjaro sừng sững trên thảo nguyên với những cây keo ở tiền cảnh",
+      "caption": "NÚI KILIMANJARO — đỉnh cao nhất châu Phi vươn lên giữa thảo nguyên vàng",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tz-landmark.jpg",
+      "alt": "Toàn cảnh Thị Trấn Đá Zanzibar với những tòa nhà lịch sử",
+      "caption": "THỊ TRẤN ĐÁ, ZANZIBAR — thành phố buôn hương liệu được UNESCO công nhận",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tz-animalA.jpg",
+      "alt": "Hươu cao cổ Maasai đứng cao vút trên thảo nguyên Tanzania",
+      "caption": "HƯƠU CAO CỔ MAASAI — động vật biểu tượng Tanzania, sinh vật cao nhất thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tz-animalB.jpg",
+      "alt": "Đàn linh dương đầu bò khổng lồ vượt sông Serengeti trong Cuộc Di Cư Vĩ Đại",
+      "caption": "CUỘC DI CƯ VĨ ĐẠI — 1,5 triệu linh dương đầu bò rầm rộ băng qua Serengeti",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

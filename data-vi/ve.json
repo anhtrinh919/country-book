@@ -1,0 +1,163 @@
+{
+  "name": "VENEZUELA",
+  "nativeName": "VE",
+  "romaji": "VENEZUELA",
+  "tagline": "Xứ sở của thiên thần và dầu mỏ",
+  "region": "Bắc Nam Mỹ",
+  "coords": "8.0°N, 66.0°W",
+  "fileNo": "058",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBA96",
+    "ink": "#231F1A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#CF142B",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/ve.svg",
+    "title": "Ba màu và những ngôi sao",
+    "note": "Vàng, xanh dương, đỏ với 8 ngôi sao xếp thành vòng cung",
+    "keyColor": "#003DA5",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Venezuela nằm ở phía bắc Nam Mỹ, nơi con sông Orinoco uốn lượn qua rừng rậm và thác nước cao nhất thế giới tan thành sương mù trước khi chạm đất. Những ngọn núi đỉnh bằng phẳng gọi là tepui vươn lên trên mây, ẩn chứa vô số sinh vật không nơi nào trên Trái Đất có được. Từ bãi biển Caribbean đến đỉnh tuyết Andes, Venezuela gói trọn sự đa dạng kỳ diệu vào một đất nước hoang dã và đầy màu sắc.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Caracas",
+      "sub": "dân số khoảng 2,9 triệu (ước tính 2023)"
+    },
+    {
+      "label": "Dân số",
+      "value": "~28,3 triệu",
+      "sub": "ước tính 2024; khoảng 8 triệu người đang sống ở nước ngoài"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Bolívar (VES)",
+      "sub": "đồng đô-la Mỹ cũng được dùng rộng rãi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Tây Ban Nha",
+      "sub": "cùng khoảng 40 ngôn ngữ bản địa"
+    },
+    {
+      "label": "Diện tích",
+      "value": "916.445 km²",
+      "sub": "gần gấp đôi bang California"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Pico Bolívar",
+      "sub": "4.978 m — thuộc dãy Andes"
+    }
+  ],
+  "islands": [
+    "Caracas",
+    "Maracaibo",
+    "Valencia",
+    "Barquisimeto",
+    "Guayana"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Tepui, sông dài và bầu trời hoang dã",
+    "animals": "Muôn thú rừng sâu và lòng sông",
+    "culture": "Âm nhạc, ẩm thực và lễ hội",
+    "history": "Từ thuộc địa đến vàng đen",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Venezuela như bốn thế giới ghép lại: dãy Andes phủ tuyết ở phía tây, bãi biển Caribbean ấm áp ở phía bắc, đồng cỏ Llanos bát ngát ở giữa, và rừng mưa Amazon bao la ở phía nam. Con sông Orinoco hùng vĩ — một trong những con sông dài nhất Nam Mỹ — chảy qua hầu khắp đất nước.",
+    "Vùng Gran Sabana ở đông nam trông như đến từ hành tinh khác — những ngọn núi đỉnh phẳng lì gọi là tepui đội mây lên như những chiếc bàn đá khổng lồ. Thác Angel đổ xuống từ độ cao 979 m trên đỉnh Auyán-tepui, là thác nước cao nhất thế giới không bị gián đoạn, cao hơn thác Niagara gần 16 lần."
+  ],
+  "animals": [
+    "Sông Orinoco là nơi sống của trăn khổng lồ anaconda, cá sấu kính, và cá sấu Orinoco. Capybara — loài chuột lang cỡ con chó, loài gặm nhấm lớn nhất thế giới — gặm cỏ thành đàn đông đúc. Cá heo sông màu hồng gọi là toninas lướt nhẹ qua những kênh rạch tối tăm trong rừng.",
+    "Những khu rừng mây của Venezuela ẩn chứa báo đốm, tapir và gấu kính. Trên đỉnh tepui có loài ếch cuội tí hon — khi gặp nguy hiểm, nó cuộn tròn người lại như viên đạn để lăn chạy trốn. Hơn 1.400 loài chim sinh sống ở đây — nhiều hơn cả toàn bộ châu Âu cộng lại."
+  ],
+  "culture": [
+    "Người Venezuela mê bóng chày — môn thể thao được yêu thích như người Việt mình mê bóng đá vậy, có từ những năm 1940. Âm nhạc dân tộc joropo — chơi bằng đàn harp, maracas và đàn cuatro bốn dây nhỏ — nhanh vui nhộn như một buổi tiệc cao bồi trên thảo nguyên.",
+    "Món ăn trung tâm là arepa: bánh ngô nhồi phô mai, đậu hoặc thịt bò xé. Mỗi dịp Giáng sinh, cả gia đình cùng nhau gói hallaca — nhân thịt ướp gia vị bọc trong lá chuối, giống như bánh chưng của mình nhưng hương vị Nam Mỹ. Cà phê đen đậm đặc được nhấm nháp suốt cả ngày."
+  ],
+  "history": [
+    "Người Wayuu và Timoto-Cuica bản địa đã sống ở đây từ lâu trước khi Columbus đặt chân lên bờ biển Venezuela năm 1498 — đây là lần đầu ông chạm tới đất liền châu Mỹ. Tây Ban Nha cai trị suốt 300 năm, đưa người châu Phi bị bắt làm nô lệ đến làm việc trên các đồn điền ca cao và mía đường.",
+    "Simón Bolívar, sinh tại Caracas năm 1783, là người hùng giải phóng Venezuela, Colombia, Ecuador, Peru và Bolivia khỏi ách thống trị của Tây Ban Nha. Dầu mỏ được tìm thấy dưới đáy hồ Maracaibo năm 1914 khiến Venezuela trở thành một trong những quốc gia giàu có nhất châu Mỹ, dù việc quản lý khối tài sản khổng lồ đó lại là thử thách vô cùng lớn."
+  ],
+  "wows": [
+    "Thác Angel cao đến mức nước bốc thành sương mù trước khi chạm đất vào những ngày có gió.",
+    "Venezuela có trữ lượng dầu mỏ đã được xác minh lớn nhất thế giới — nhiều hơn cả Ả Rập Xê Út.",
+    "Một nửa số loài thực vật trên đỉnh các tepui không mọc ở bất kỳ nơi nào khác trên Trái Đất.",
+    "Hồ Maracaibo có cơn giông điện cố định, sét đánh khoảng 280 cái mỗi giờ gần như suốt đêm.",
+    "Capybara — loài gặm nhấm to bằng con chó Labrador — đi thành đàn hàng trăm con trên đồng cỏ Llanos.",
+    "Thủ đô Caracas chỉ cách biển Caribbean 9 km nhưng mát mẻ quanh năm vì nằm ở độ cao 900 m.",
+    "Venezuela giành được nhiều vương miện Hoa hậu Hoàn vũ và Hoa hậu Thế giới nhất trong lịch sử."
+  ],
+  "myths": [
+    {
+      "myth": "Venezuela toàn là rừng nhiệt đới",
+      "fact": "Phân nửa đất nước là đồng cỏ Llanos trống trải, còn lại có đỉnh tuyết Andes, bãi biển Caribbean và vùng đất khô cằn — bốn cảnh quan hoàn toàn khác nhau."
+    },
+    {
+      "myth": "Thác Angel được đặt tên theo thiên thần",
+      "fact": "Thực ra tên này lấy từ Jimmy Angel — một phi công người Mỹ hạ cánh khẩn cấp trên đỉnh Auyán-tepui năm 1937 khi đang đi tìm vàng, và ông đã sống sót trở về."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Pana",
+      "say": "PAH-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ve-hero.jpg",
+      "alt": "Thác Angel đổ xuống từ đỉnh tepui ở Venezuela",
+      "caption": "THÁC ANGEL — 979 m rơi tự do từ đỉnh Auyán-tepui, thác nước cao nhất thế giới",
+      "credit": "Wikimedia Commons / Paulo Brito"
+    },
+    "landmark": {
+      "src": "/photos/ve-landmark.jpg",
+      "alt": "Những ngọn núi tepui đỉnh bằng vươn lên qua mây ở Gran Sabana",
+      "caption": "TEPUI — những ngọn núi bàn đá cổ xưa xuyên qua mây ở Gran Sabana",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/ve-animalA.jpg",
+      "alt": "Capybara nghỉ ngơi bên mép nước",
+      "caption": "CAPYBARA — loài gặm nhấm lớn nhất thế giới, sống ở vùng đầm lầy Llanos Venezuela",
+      "credit": "Wikimedia Commons / Cody Pope"
+    },
+    "animalB": {
+      "src": "/photos/ve-animalB.jpg",
+      "alt": "Đàn cò quăm đỏ thắm trong rừng ngập mặn",
+      "caption": "CÒ QUĂM ĐỎ — hàng ngàn con tụ về đồng bằng sông Orinoco, nhuộm đỏ cả một vùng",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

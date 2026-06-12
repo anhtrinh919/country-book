@@ -1,0 +1,163 @@
+{
+  "name": "TRUNG QUỐC",
+  "nativeName": "中国",
+  "romaji": "ZHŌNGGUÓ",
+  "tagline": "Đất nước vạn lý trường thành",
+  "region": "Đông Á",
+  "coords": "39°N · 116°E",
+  "fileNo": "CN",
+  "flag": {
+    "assetPath": "/flags/cn.svg",
+    "title": "Lá cờ đỏ năm sao",
+    "note": "Nền đỏ; một ngôi sao lớn và bốn ngôi sao nhỏ",
+    "keyColor": "#DE2910",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Trung Quốc là đất nước đông dân nhất thế giới và là một trong những nền văn minh lâu đời nhất hành tinh — quê hương của Vạn Lý Trường Thành, gấu trúc khổng lồ, và chữ viết hầu như không thay đổi suốt 3.000 năm qua. Đất nước này rộng lớn đến mức bình minh ở phía đông mọc sớm hơn phía tây đến hai tiếng đồng hồ, nhưng từ bắc đến nam, từ đông sang tây, tất cả mọi người đều dùng chung một múi giờ.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bắc Kinh",
+      "sub": "Nơi có cung điện Tử Cấm Thành"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,41 tỷ người",
+      "sub": "Ước tính 2024 — đông dân thứ 2 thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Nhân dân tệ ¥",
+      "sub": "Còn gọi là Renminbi (RMB)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Phổ thông (Mandarin)",
+      "sub": "Ngôn ngữ có nhiều người nói nhất trên Trái Đất"
+    },
+    {
+      "label": "Diện tích",
+      "value": "9.596.960 km²",
+      "sub": "Nước lớn thứ 3 hoặc thứ 4 thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "8.849 m",
+      "sub": "Đỉnh Everest, biên giới Nepal–Tây Tạng"
+    }
+  ],
+  "islands": [
+    "Beijing",
+    "Shanghai",
+    "Sichuan",
+    "Xinjiang",
+    "Tibet"
+  ],
+  "islandsLabel": "CÁC VÙNG LỚN:",
+  "sections": {
+    "geography": "Trường thành, núi cao & sông dài",
+    "animals": "Gấu trúc, báo tuyết & kỳ nhông khổng lồ",
+    "culture": "Mì sợi, trà xanh & phong bao đỏ",
+    "history": "Năm nghìn năm đế chế",
+    "wows": "Trung Quốc sẽ khiến bạn kinh ngạc"
+  },
+  "geo": [
+    "Trung Quốc có chung biên giới với 14 nước — nhiều hơn bất kỳ quốc gia nào khác trên thế giới. Phía tây là Cao nguyên Tây Tạng — 'nóc nhà thế giới' — nơi không khí loãng đến mức người vùng thấp mới đặt chân lên đã thấy chóng mặt. Ba con sông vĩ đại nhất châu Á — Trường Giang, Hoàng Hà và Mê Kông — đều bắt nguồn từ những dòng sông băng trên cao nguyên này.",
+    "Đi về phía đông, địa hình hạ thấp dần thành những đồng bằng màu mỡ. Sông Trường Giang dài hơn cả khoảng cách từ London sang New York, nuôi sống 400 triệu người. Sa mạc Gobi ở phía bắc rộng lớn hơn cả Tây Âu, vậy mà chỉ cần một ngày lái xe là bạn đã thấy những ruộng lúa xanh mướt và rừng tre rậm rạp đủ để một chú gấu trúc ẩn náu."
+  ],
+  "animals": [
+    "Gấu trúc khổng lồ từng đứng trước nguy cơ tuyệt chủng, nhưng nhờ những nỗ lực bảo tồn bền bỉ, số lượng cá thể hoang dã đã phục hồi lên khoảng 1.900 con. Mỗi ngày, chúng dành tới 14 tiếng chỉ để nhai tre — ăn đến 12 kg — vì tre vừa thiếu dinh dưỡng lại vừa khó tiêu hóa, gần như là ăn mà chẳng no.",
+    "Sông Trường Giang là quê hương của kỳ nhông khổng lồ Trung Quốc — loài lưỡng cư lớn nhất thế giới, có thể dài bằng chiều cao của một người trưởng thành và thở một phần qua làn da nhăn nhúm của mình. Trên cao nguyên Tây Tạng, báo tuyết rình rập săn cừu hoang; cả châu Á hiện chỉ còn khoảng 4.000 con sống sót."
+  ],
+  "culture": [
+    "Tết Nguyên Đán Trung Quốc tạo ra cuộc di chuyển lớn nhất hành tinh mỗi năm — hàng trăm triệu người cùng lúc đổ về quê nhà, lấp đầy từng toa tàu, từng chuyến bay. Nhà nhà treo đèn lồng đỏ, đốt pháo để xua đuổi xui xẻo, và trao cho trẻ em những phong bao đỏ lì xì đầy tiền. Mỗi năm được đặt tên theo một trong 12 con vật trong vòng quay không bao giờ dừng lại.",
+    "Người Trung Quốc đã phát minh ra giấy, nghề in, thuốc súng và la bàn — bốn thứ đã thay đổi cả lịch sử nhân loại. Ẩm thực vùng miền phong phú đến kỳ lạ: món Tứ Xuyên cay đến tê lưỡi, món Quảng Đông thanh nhẹ và hấp mềm, còn đầu bếp miền bắc kéo sợi mì bằng tay nhanh như ảo thuật. Trà được phát hiện ở đây từ 5.000 năm trước và Trung Quốc vẫn là quốc gia sản xuất trà nhiều nhất thế giới cho đến ngày nay."
+  ],
+  "history": [
+    "Lịch sử Trung Quốc trải dài 5.000 năm. Hoàng đế Tần Thủy Hoàng thống nhất các vương quốc đối địch vào năm 221 TCN và ra lệnh xây một bức tường dài ở phía bắc để ngăn kẻ xâm lược. Ông cho chôn cất 8.000 chiến binh đất nung kích thước người thật theo mình — mỗi khuôn mặt đều khác nhau — cho đến năm 1974 mới được những người nông dân tình cờ phát hiện.",
+    "Hàng thế kỷ liền, Trung Quốc là đất nước giàu có nhất thế giới, buôn bán tơ lụa và đồ sứ dọc theo Con đường Tơ lụa sang tận thành Rome. Các triều đại nối tiếp nhau — Hán, Đường, Minh, Thanh. Năm 1949, nước Cộng hòa Nhân dân được thành lập; ngày nay Trung Quốc có nền kinh tế lớn thứ hai thế giới."
+  ],
+  "wows": [
+    "Trung Quốc có chung biên giới với 14 nước — nhiều hơn bất kỳ quốc gia nào khác trên hành tinh.",
+    "Mạng lưới đường sắt cao tốc của Trung Quốc dài hơn 50.000 km — dài hơn tổng cộng tất cả các nước còn lại cộng lại.",
+    "Đập Tam Hiệp là nhà máy điện lớn nhất Trái Đất, cung cấp điện cho hàng chục triệu người.",
+    "Trung Quốc dùng nhiều xi măng trong 3 năm hơn cả lượng xi măng Mỹ tiêu thụ trong suốt thế kỷ 20.",
+    "\"Ngón cái\" của gấu trúc thực ra là một mẩu xương cổ tay mọc to ra — một thủ thuật tiến hóa giúp chúng cầm chắc cây tre.",
+    "Chữ Hán viết ra thì ai cũng hiểu, dù phát âm theo tiếng địa phương khác nhau hoàn toàn không thể hiểu lẫn nhau.",
+    "Toàn bộ Trung Quốc chỉ dùng một múi giờ duy nhất, dù đất nước trải rộng đủ để có tới năm múi giờ tự nhiên."
+  ],
+  "myths": [
+    {
+      "myth": "Vạn Lý Trường Thành có thể nhìn thấy từ ngoài vũ trụ",
+      "fact": "Các phi hành gia liên tục khẳng định không thể nhìn thấy bằng mắt thường — Trường Thành tuy dài nhưng chỉ rộng khoảng 5 mét, quá nhỏ để nhận ra từ quỹ đạo nếu không có kính phóng đại."
+    },
+    {
+      "myth": "Bánh quy may mắn (fortune cookie) là món của Trung Quốc",
+      "fact": "Bánh quy may mắn do người nhập cư Nhật Bản sáng tạo ra ở California đầu thế kỷ 20, và gần như không ai biết đến loại bánh này ở ngay trong Trung Quốc."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "你好",
+      "say": "Nǐ hǎo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "谢谢",
+      "say": "Xièxiè"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "好吃",
+      "say": "Hǎo chī"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "再见",
+      "say": "Zàijiàn"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "朋友",
+      "say": "Péngyǒu"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cn-hero.jpg",
+      "alt": "Bờ sông Thượng Hải lúc hoàng hôn với những tòa nhà chọc trời sáng rực",
+      "caption": "BỜ SÔNG THƯỢNG HẢI — những tòa nhà kiến trúc cổ điển đối mặt với rừng tháp siêu cao hiện đại",
+      "credit": "Wikimedia Commons / Siyuwj"
+    },
+    "landmark": {
+      "src": "/photos/cn-landmark.jpg",
+      "alt": "Vạn Lý Trường Thành uốn lượn qua những dãy núi xanh",
+      "caption": "VẠN LÝ TRƯỜNG THÀNH — 21.000 km thành lũy xây dọc các dãy núi Trung Quốc",
+      "credit": "Wikimedia Commons / Saad Akhtar"
+    },
+    "animalA": {
+      "src": "/photos/cn-animalA.jpg",
+      "alt": "Gấu trúc khổng lồ ngồi ăn tre",
+      "caption": "GẤU TRÚC KHỔNG LỒ — dành 14 tiếng mỗi ngày để ăn tre cho đủ năng lượng",
+      "credit": "Wikimedia Commons / Manfred Werner"
+    },
+    "animalB": {
+      "src": "/photos/cn-animalB.jpg",
+      "alt": "Báo tuyết với đôi mắt sắc lạnh trên nền núi đá",
+      "caption": "BÁO TUYẾT — chỉ còn khoảng 4.000 con sống sót trên khắp những ngọn núi cao châu Á",
+      "credit": "Wikimedia Commons / Snow Leopard Trust"
+    }
+  },
+  "theme": {
+    "paper": "#F5ECD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2118",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#DE2910",
+    "accent2": "#FFBE00"
+  },
+  "motif": "sun",
+  "langName": "tiếng Phổ thông"
+}

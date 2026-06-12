@@ -1,0 +1,163 @@
+{
+  "name": "PARAGUAY",
+  "nativeName": "PY",
+  "romaji": "PARAGUAY",
+  "tagline": "Trái tim Nam Mỹ",
+  "region": "Vùng nón Nam Mỹ, Nam Mỹ",
+  "coords": "23°S 58°W",
+  "fileNo": "079",
+  "langName": "tiếng Guaraní",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EED9",
+    "dot": "#CDBF9A",
+    "ink": "#28201A",
+    "faint": "#8B7A52",
+    "line": "#DDD0B0",
+    "accent": "#C0202E",
+    "accent2": "#1A3B8C"
+  },
+  "flag": {
+    "assetPath": "/flags/py.svg",
+    "title": "Lá cờ hai mặt khác nhau",
+    "note": "Lá cờ duy nhất trên thế giới có họa tiết khác nhau ở mỗi mặt",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Paraguay nằm ngay giữa lòng Nam Mỹ — không có biển, không có cảng, nhưng lại ẩn chứa vô số điều bất ngờ. Một con sông chia đôi đất nước: bên đông xanh mướt đồng ruộng, bên tây là vùng Chaco bát ngát hoang sơ. Hầu hết người dân ở đây nói được cả hai thứ tiếng — Tây Ban Nha lẫn Guaraní. Và đập thủy điện Itaipu khổng lồ cấp điện cho cả đất nước chỉ bằng sức nước!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Asunción",
+      "sub": "Bên bờ sông Paraguay từ năm 1537"
+    },
+    {
+      "label": "Dân số",
+      "value": "6,95 triệu người",
+      "sub": "Ước tính của LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Guaraní ₲",
+      "sub": "Đặt theo tên tộc người Guaraní"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Hai ngôn ngữ",
+      "sub": "Tiếng Tây Ban Nha và Guaraní đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "406.752 km²",
+      "sub": "Rộng hơn bang California của Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Cerro Peró",
+      "sub": "842 m ở vùng đồi phía đông"
+    }
+  ],
+  "islands": [
+    "Gran Chaco",
+    "Asunción",
+    "Cd. del Este",
+    "Encarnación",
+    "Concepción"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ & KHU VỰC CHÍNH:",
+  "sections": {
+    "geography": "Một đất nước, hai thế giới",
+    "animals": "Muông thú vùng Chaco",
+    "culture": "Đàn harp, trà lạnh và âm nhạc",
+    "history": "Những cuộc chiến dựng nước",
+    "wows": "Bảy điều bất ngờ ở Paraguay"
+  },
+  "geo": [
+    "Sông Paraguay chạy thẳng chia đôi đất nước. Phía đông là vùng Oriental — đồi xanh mơn mởn, đông dân nhất nước. Nông dân trồng đậu tương trên đất đỏ màu mỡ; sông Paraná tạo thành đường biên giới tự nhiên giữa Paraguay với Brazil và Argentina.",
+    "Phía tây là đồng bằng Gran Chaco mênh mông, hoang dã — một trong những vùng đất rộng lớn nhất Nam Mỹ. Rừng gai góc và đất ngập nước phơi nắng dữ dội suốt mùa khô. Vùng này chiếm đến 60% diện tích đất nước nhưng dân ở lại thưa thớt hơn cả một thị trấn nhỏ. Phía bắc xa xôi chạm đến vùng đất ngập nước Pantanal hùng vĩ."
+  ],
+  "animals": [
+    "Con thú ăn kiến khổng lồ lầm lũi đi bằng đốt ngón tay khắp vùng Chaco, mỗi ngày hút tới 35.000 con kiến qua cái mõm dài như ống. Báo đốm lặng lẽ rình mồi trong đêm tối, còn heo vòi ục ịch lao mình qua bụi rậm ven sông.",
+    "Capybara — loài gặm nhấm lớn nhất thế giới, to bằng chú chó Labrador — thích đằm mình trong các vùng đất ngập nước của Paraguay. Hơn 500 loài chim tô điểm bầu trời, trong đó có vẹt đuôi dài hyacinth lông xanh rực rỡ và sếu jabiru cao lớn oai vệ."
+  ],
+  "culture": [
+    "Paraguay là một trong số rất ít quốc gia trên thế giới mà hầu như ai cũng dùng tiếng bản địa hằng ngày. Tiếng Guaraní vang lên ở chợ, trong bài hát, trong câu đùa. Cây đàn harp Paraguay — nhẹ nhàng, dễ mang theo — có mặt ở mọi lễ hội cùng với guitar.",
+    "Uống tereré — trà yerba mate pha lạnh — quan trọng như cái bắt tay chào hỏi. Bạn bè truyền tay nhau cùng một bình uống theo vòng tròn; UNESCO đã công nhận tập tục này là di sản văn hóa phi vật thể. Ren thủ công ñandutí — có nghĩa là 'tơ nhện' — cũng là nghề truyền thống đặc sắc của người Paraguay."
+  ],
+  "history": [
+    "Paraguay tuyên bố độc lập khỏi Tây Ban Nha ngày 14 tháng 5 năm 1811 mà không cần nổ một phát súng nào. Nhưng Chiến tranh Ba Liên minh (1864–1870) chống lại Brazil, Argentina và Uruguay lại là thảm họa kinh hoàng: hơn nửa dân số thiệt mạng, và gần 90% đàn ông trưởng thành tử trận.",
+    "Đất nước vực dậy từ đống đổ nát, rồi đánh thắng Bolivia trong Chiến tranh Chaco (1932–1935), giành lại phần lớn vùng hoang địa tranh chấp. Chế độ độc tài kéo dài dưới thời Stroessner (1954–1989) kết thúc trong hòa bình; kể từ đó Paraguay duy trì nền dân chủ đến nay."
+  ],
+  "wows": [
+    "Lá cờ Paraguay là lá cờ duy nhất trên thế giới có họa tiết khác nhau ở hai mặt — mặt trước có ngôi sao, mặt sau có hình sư tử.",
+    "Đập Itaipu lập kỷ lục thế giới năm 2016 với 103 terawatt-giờ điện thủy năng sản xuất trong một năm.",
+    "Dù không có biển, Paraguay lại sở hữu lực lượng hải quân lớn nhất trong số các quốc gia không có đường bờ biển.",
+    "Đấu súng tay đôi vẫn... hợp pháp về mặt kỹ thuật — với điều kiện cả hai bên đều phải là người hiến máu đã đăng ký.",
+    "Paraguay từng lập kỷ lục Guinness với buổi nướng thịt barbecue lớn nhất thế giới, phục vụ khoảng 30.000 người.",
+    "Khoảng 90% người Paraguay trộn lẫn tiếng Tây Ban Nha và Guaraní trong cùng một câu — hỗn hợp ngôn ngữ độc đáo này gọi là Jopará.",
+    "Paraguay sản xuất gần 100% điện năng từ nước — một trong những lưới điện sạch nhất hành tinh."
+  ],
+  "myths": [
+    {
+      "myth": "Paraguay chỉ là sa mạc khô cằn",
+      "fact": "Nửa phía đông xanh tươi với đồi cuộn và thung lũng sông ngòi; chỉ vùng Chaco phía tây mới khô hạn — mà ngay cả đó vào mùa mưa cũng ngập tràn sức sống của đất ngập nước."
+    },
+    {
+      "myth": "Tiếng Guaraní đang chết dần",
+      "fact": "Guaraní vẫn đang sống khỏe — hơn 90% người Paraguay dùng hằng ngày, bất kể giàu nghèo hay xuất thân, khiến nó trở thành một trong những ngôn ngữ bản địa sinh động nhất thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Mba'éichapa",
+      "say": "mba-AY-ee-cha-pa"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Aguyje",
+      "say": "ah-goo-YEH"
+    },
+    {
+      "en": "Nước",
+      "jp": "Y",
+      "say": "ü (short)"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Chera'a",
+      "say": "che-RA-a"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Hetereí",
+      "say": "he-teh-reh-EE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/py-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống đập thủy điện Itaipu trên sông Paraná",
+      "caption": "ĐẬP ITAIPU — một trong những nhà máy điện hùng vĩ nhất thế giới, xây chung với Brazil",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/py-landmark.jpg",
+      "alt": "Toàn cảnh tàn tích truyền giáo Dòng Tên tại Trinidad, Paraguay",
+      "caption": "PHẾ TÍCH TRINIDAD — khu truyền giáo Dòng Tên thế kỷ 18, được UNESCO công nhận, tỉnh Itapúa",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/py-animalA.jpg",
+      "alt": "Capybara — loài gặm nhấm lớn nhất thế giới — đang nghỉ ngơi ngoài trời",
+      "caption": "CAPYBARA — loài gặm nhấm to nhất thế giới, sống khỏe trong các vùng đất ngập nước Paraguay",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/py-animalB.jpg",
+      "alt": "Thú ăn kiến khổng lồ đang đi trên đồng cỏ trống",
+      "caption": "THÚ ĂN KIẾN KHỔNG LỒ — ngốn 35.000 con kiến mỗi ngày trên khắp đồng bằng Gran Chaco",
+      "credit": "Wikimedia Commons / panoramio"
+    }
+  }
+}

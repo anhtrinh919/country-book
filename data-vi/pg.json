@@ -1,0 +1,163 @@
+{
+  "name": "PAPUA NEW GUINEA",
+  "nativeName": "PG",
+  "romaji": "PAPUA NIUGINI",
+  "tagline": "Vùng đất bất ngờ",
+  "region": "Melanesia, Thái Bình Dương",
+  "coords": "6°S 147°E",
+  "fileNo": "079",
+  "langName": "tiếng Tok Pisin",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CABB99",
+    "ink": "#221E16",
+    "faint": "#8A7B5A",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/pg.svg",
+    "title": "Papua New Guinea",
+    "note": "Hai nửa đen và đỏ, hình Chim Thiên Đường",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Papua New Guinea nằm ngay phía bắc nước Úc, trên hòn đảo lớn thứ hai thế giới. Những dãy núi rừng rậm dốc đứng đến mức các bộ tộc sống hàng trăm năm mà không biết nhau tồn tại — chính vì thế, đây là nơi có nhiều ngôn ngữ hơn bất kỳ quốc gia nào trên Trái Đất. Núi lửa còn hoạt động, rạn san hô bao quanh bờ biển, và loài chim với chiếc đuôi màu cam rực lửa là biểu tượng quốc gia.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Port Moresby",
+      "sub": "Bờ biển phía nam"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,3 triệu người",
+      "sub": "Ước tính LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Kina (PGK)",
+      "sub": "Đặt tên theo một loài vỏ sò"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "800+ ngôn ngữ",
+      "sub": "Nhiều nhất thế giới"
+    },
+    {
+      "label": "Diện tích",
+      "value": "462.840 km²",
+      "sub": "Lớn hơn bang California"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Wilhelm",
+      "sub": "4.509 m so với mặt biển"
+    }
+  ],
+  "islands": [
+    "Port Moresby",
+    "Lae",
+    "Mt Hagen",
+    "Madang",
+    "Bougainville"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Rừng rậm, núi cao & núi lửa",
+    "animals": "Lông vũ, nanh vuốt & sắc màu",
+    "culture": "800 ngôn ngữ, một dân tộc",
+    "history": "Bộ tộc, vàng & độc lập",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Xương sống của Papua New Guinea là dãy Cao Nguyên — những ngọn núi phủ rừng nhiệt đới dày đặc, nơi các thung lũng cao đến mức ban đêm có sương giá. Từ trên núi, những con sông hung dữ chảy xiết qua rừng mưa rậm rạp rồi đổ ra vùng bờ biển thấp trũng đầm lầy.",
+    "Hàng trăm hòn đảo nhỏ rải rác trên vùng biển xung quanh — trong đó có New Britain và Bougainville. Núi lửa Tavurvur từng phun trào vùi lấp cả thị trấn dưới tro bụi chỉ trong một đêm, và động đất xảy ra thường xuyên đến mức người dân đã quen với việc mặt đất rung chuyển."
+  ],
+  "animals": [
+    "Chim Thiên Đường Raggiana — biểu tượng quốc gia — mọc những chiếc lông đuôi dài màu cam rực như ngọn lửa, rồi treo ngược người trên cành cây, rũ lông điên cuồng để thu hút bạn tình. Chuột túi cây leo trèo tài tình trong rừng, nhảy từ cành này sang cành khác như những nghệ sĩ xiếc nhỏ có lông.",
+    "Rắn taipan Papua — một trong những loài rắn độc nhất thế giới — ẩn mình trong đồng cỏ. Vẹt sặc sỡ, đà điểu cassowary khổng lồ, và hơn 700 loài phong lan tô màu cho những khu rừng nơi đây — phong phú đến mức ngay cả các nhà khoa học vẫn còn tìm thấy loài mới."
+  ],
+  "culture": [
+    "Papua New Guinea có hơn 800 ngôn ngữ còn sử dụng đến ngày nay — nhiều hơn bất kỳ quốc gia nào khác trên thế giới. Các ngôi làng gần nhau đôi khi không hiểu được tiếng của nhau, vì thế tiếng Tok Pisin — một thứ ngôn ngữ pha trộn vui nhộn giữa tiếng Anh và nhiều thứ tiếng địa phương — trở thành cầu nối chung cho cả nước.",
+    "Lễ hội Sing-sing là những sự kiện khổng lồ khi nhiều bộ tộc kéo đến cùng nhau với bộ mặt vẽ lộng lẫy và những chiếc mũ lông vũ sặc sỡ để nhảy múa và ăn tiệc. Mỗi bộ trang phục chính là một cuốn bách khoa toàn thư sống động về lịch sử và bản sắc của từng tộc người."
+  ],
+  "history": [
+    "Con người đặt chân đến New Guinea ít nhất 50.000 năm trước — lâu hơn cả người hiện đại đến châu Mỹ. Kỳ diệu hơn, nông dân vùng cao nguyên ở đây đã trồng khoai môn và khoai từ từ 10.000 năm trước, phát minh ra nông nghiệp độc lập cùng lúc với Trung Đông — một trong những nơi đầu tiên trên Trái Đất làm được điều đó.",
+    "Năm 1884, Đức và Anh chia nhau chiếm đóng hòn đảo; sau Thế chiến I, Úc tiếp quản toàn bộ. Trong Thế chiến II, con đường mòn Kokoda là nơi diễn ra những trận chiến khốc liệt nhất trong rừng rậm. Ngày 16 tháng 9 năm 1975, Papua New Guinea giành được độc lập."
+  ],
+  "wows": [
+    "Papua New Guinea có nhiều ngôn ngữ hơn bất kỳ quốc gia nào — hơn 800 ngôn ngữ — được nói bởi chỉ 10 triệu người.",
+    "Nông dân vùng cao nguyên ở đây phát minh ra nông nghiệp từ 10.000 năm trước, cùng thời điểm với vùng Trung Đông — hoàn toàn độc lập với nhau.",
+    "Chim Thiên Đường Raggiana đực treo ngược người trên cành rồi rũ những chiếc lông cam như một vụ nổ pháo hoa lông vũ để quyến rũ bạn tình.",
+    "Núi lửa Tavurvur phun trào năm 1994 vùi lấp cả thị trấn Rabaul dưới nhiều mét tro bụi chỉ trong một đêm.",
+    "Chuột túi cây ở Papua New Guinea bám vào vỏ cây bằng bàn chân có đệm và sống hẳn trên tán rừng — không phải dưới đất như họ hàng của chúng.",
+    "Đảo New Guinea là hòn đảo lớn thứ hai thế giới, được chia sẻ giữa Papua New Guinea và Indonesia.",
+    "Một số ngôi làng ven biển được xây hoàn toàn trên cọc tre cắm giữa biển — trẻ em chèo thuyền độc mộc để đi lại giữa các nhà."
+  ],
+  "myths": [
+    {
+      "myth": "\"Papua New Guinea chỉ có một nền văn hóa rừng rậm\"",
+      "fact": "Đất nước này có hơn 800 ngôn ngữ và nền văn hóa hoàn toàn khác biệt — người Cao Nguyên, người Melanesia ven biển và người các đảo khác nhau nhiều như người Việt Nam khác người Pháp vậy."
+    },
+    {
+      "myth": "\"Lông Chim Thiên Đường rất quý hiếm\"",
+      "fact": "Chim Thiên Đường Raggiana không hề có nguy cơ tuyệt chủng — chúng sinh sống rất phong phú trong rừng Papua New Guinea, và hình ảnh chúng đang bay tự do tự hào được đặt ngay trên lá cờ quốc gia."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Gude",
+      "say": "GOO-day"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tenkyu",
+      "say": "TEN-kyoo"
+    },
+    {
+      "en": "Đúng rồi",
+      "jp": "Yesa",
+      "say": "YEH-sah"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "Gutpela",
+      "say": "GOOT-peh-lah"
+    },
+    {
+      "en": "Nước",
+      "jp": "Wara",
+      "say": "WAH-rah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pg-hero.jpg",
+      "alt": "Cảng Port Moresby với thuyền bè và đường chân trời thành phố",
+      "caption": "CẢNG PORT MORESBY — mặt tiền biển của thủ đô trên bờ nam Papua New Guinea",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pg-landmark.jpg",
+      "alt": "Lối đi tưởng niệm Kokoda Track trải dài với các tấm biển kỷ niệm",
+      "caption": "ĐÀI TƯỞNG NIỆM KOKODA TRACK — tri ân những trận chiến khốc liệt trong rừng rậm thời Thế chiến II",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pg-animalA.jpg",
+      "alt": "Chim Thiên Đường Raggiana với bộ lông đuôi cam rực rỡ đậu trên cành cây",
+      "caption": "CHIM THIÊN ĐƯỜNG RAGGIANA — quốc điểu của Papua New Guinea với những chiếc lông đuôi màu cam như ngọn lửa",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pg-animalB.jpg",
+      "alt": "Chuột túi cây đậu trên cành cây trong rừng",
+      "caption": "CHUỘT TÚI CÂY — loài thú có túi đã bỏ đất liền lên sống hẳn trên tán rừng",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

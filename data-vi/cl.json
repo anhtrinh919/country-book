@@ -1,0 +1,163 @@
+{
+  "name": "CHILE",
+  "nativeName": "CL",
+  "romaji": "CHILE",
+  "tagline": "Dải đất mỏng manh cuối trời",
+  "region": "Nam Mỹ",
+  "coords": "-30.0°N, -71.0°E",
+  "fileNo": "CL",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA5",
+    "ink": "#25201B",
+    "faint": "#877A5C",
+    "line": "#DDD5C0",
+    "accent": "#D52B1E",
+    "accent2": "#003DA5"
+  },
+  "flag": {
+    "assetPath": "/flags/cl.svg",
+    "title": "Quốc kỳ Chile",
+    "note": "Đỏ, trắng và xanh với ngôi sao đơn độc",
+    "keyColor": "#D52B1E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Chile là đất nước trải dài như một dải băng mỏng dọc theo rìa phía tây của Nam Mỹ — hẹp đến mức bạn có thể lái xe từ bờ Thái Bình Dương lên đến dãy Andes chỉ trong vài tiếng, nhưng lại dài đến mức ôm trọn gần như mọi kiểu khí hậu trên Trái Đất: từ sa mạc khô nhất thế giới ở phía bắc, cho đến những sông băng khổng lồ và đàn chim cánh cụt ở tận cùng phía nam.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Santiago",
+      "sub": "Khoảng 6,3 triệu người vùng đô thị"
+    },
+    {
+      "label": "Dân số",
+      "value": "19,5 triệu người",
+      "sub": "Ước tính năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Peso Chile",
+      "sub": "CLP — 1 USD ≈ 950 CLP"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Còn có tiếng Mapudungun"
+    },
+    {
+      "label": "Diện tích",
+      "value": "756.102 km²",
+      "sub": "Gấp 4 lần nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "6.893 m",
+      "sub": "Ojos del Salado — núi lửa cao nhất thế giới"
+    }
+  ],
+  "islands": [
+    "Santiago",
+    "Valparaíso",
+    "Atacama",
+    "Patagonia",
+    "Chiloé"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Dải đất của những thái cực",
+    "animals": "Hồng hạc và cáo xám",
+    "culture": "Thi ca, bánh nhân thịt và đua ngựa",
+    "history": "Từ người Mapuche đến nền cộng hòa",
+    "wows": "Bạn có biết không?"
+  },
+  "geo": [
+    "Chile là đất nước dài nhất và hẹp nhất thế giới — trải dài 4.300 km từ bắc xuống nam nhưng chỗ rộng nhất cũng không quá 350 km. Dãy Andes chạy dọc suốt chiều dài đất nước như một cái xương sống khổng lồ, còn sa mạc Atacama ở phía bắc mỗi năm chỉ nhận được chưa đến 1 mm mưa — khô hơn cả sao Hỏa.",
+    "Ở phía nam, vùng Patagonia là xứ sở thần tiên với những sông băng ầm ào và những vịnh hẹp màu ngọc lục bảo. Đảo Phục Sinh — một chấm nhỏ cách bờ biển 3.700 km giữa Nam Thái Bình Dương — cũng là lãnh thổ của Chile, là một trong những nơi có người ở xa xôi nhất hành tinh."
+  ],
+  "animals": [
+    "Hồng hạc Andes lội trên những hồ muối nông đến mức mặt nước trông như những tấm gương hồng rực; cả đàn hàng nghìn con đến làm tổ ở Salar de Atacama. Cò quắm Andean vớiải cánh rộng 3 mét lượn trên những luồng khí nóng ở đỉnh núi, có thể bay hàng giờ mà không cần vỗ cánh một lần.",
+    "Trong dòng hải lưu Humboldt lạnh giá, chim cánh cụt Magellanic bơi cùng sư tử biển và cá heo. Con pudú — loài hươu nhỏ nhất thế giới chỉ cao 35 cm, bằng một con chó nhỏ — ẩn náu trong rừng mưa phía nam bên cạnh con chilla, loài cáo xám đặc trưng của Chile."
+  ],
+  "culture": [
+    "Người Chile tự hào về món empanada — những chiếc bánh bột nhồi thịt bò, ô liu và trứng — và môn thể thao quốc gia rodeo, nơi những kỵ mã gọi là huasos mặc áo choàng thêu hoa lùa bê con quanh đấu trường theo từng cặp. Bóng đá cũng là niềm đam mê cháy bỏng của người dân nơi đây.",
+    "Hai nhà thơ đoạt giải Nobel Pablo Neruda và Gabriela Mistral đều là người Chile. Neruda nổi tiếng đến mức xây ba ngôi nhà kỳ quặc, trong đó có một cái hình con tàu. Điệu múa cueca — đôi bạn nhảy vẫy khăn tay như những con chim đang tán tỉnh nhau — là điệu múa dân tộc được yêu thích nhất."
+  ],
+  "history": [
+    "Người Mapuche đã canh tác và săn bắt trên đất Chile từ rất lâu trước khi người châu Âu đặt chân đến, và nổi tiếng với việc kháng cự thành công trước sự xâm lược của đế chế Inca. Những nhà thám hiểm Tây Ban Nha lập thành phố Santiago năm 1541, và Chile giành độc lập năm 1818 dưới sự lãnh đạo của Bernardo O'Higgins sau nhiều năm chiến đấu gian khổ.",
+    "Thế kỷ 20 chứng kiến chính phủ xã hội chủ nghĩa lên nắm quyền năm 1970, rồi đảo chính quân sự năm 1973 kéo dài cho đến khi nền dân chủ được khôi phục năm 1990. Ngày nay Chile là nền kinh tế ổn định nhất Nam Mỹ, sản xuất gần một phần ba lượng đồng của cả thế giới và cả những loại rượu vang nổi tiếng."
+  ],
+  "wows": [
+    "Chile dài 4.300 km nhưng trung bình chỉ rộng 177 km — dài hơn cả chiều cao của nước Mỹ tính từ bắc xuống nam.",
+    "Sa mạc Atacama có những trạm khí tượng chưa từng ghi nhận một giọt mưa nào trong lịch sử.",
+    "Chile cung cấp khoảng một phần ba tổng lượng đồng được khai thác trên Trái Đất mỗi năm.",
+    "Núi Ojos del Salado ở dãy Andes là núi lửa đang hoạt động cao nhất thế giới với 6.893 m.",
+    "Những bức tượng khổng lồ moai trên Đảo Phục Sinh được tạc và di chuyển mà không cần bánh xe hay dụng cụ bằng kim loại.",
+    "Con pudú trong rừng Chile là loài hươu nhỏ nhất thế giới, chỉ cao 35 cm.",
+    "Đường bờ biển Chile dài 6.435 km — đủ để nối liền London với New York."
+  ],
+  "myths": [
+    {
+      "myth": "\"Chile lúc nào cũng lạnh và đầy băng tuyết\"",
+      "fact": "Chỉ có miền cực nam mới có băng tuyết thôi — sa mạc Atacama ở phía bắc thì nắng cháy, còn Santiago có mùa hè ấm áp kiểu Địa Trung Hải, giống hệt vùng California ở Mỹ."
+    },
+    {
+      "myth": "\"Đảo Phục Sinh thuộc về Polynesia\"",
+      "fact": "Đảo Phục Sinh về mặt địa lý là vùng Polynesia, nhưng đã là lãnh thổ Chile từ năm 1888 — người dân ở đây mang quốc tịch Chile và dùng đồng peso Chile."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-ahs"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Rico!",
+      "say": "REE-koh"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Chao",
+      "say": "chow"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cl-hero.jpg",
+      "alt": "Đường chân trời thành phố Santiago với dãy Andes phủ tuyết trắng phía sau",
+      "caption": "SANTIAGO — thủ đô Chile với dãy Andes phủ tuyết hùng vĩ phía sau",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/cl-landmark.jpg",
+      "alt": "Những tảng đá đỏ kỳ lạ của sa mạc Atacama dưới bầu trời xanh thẳm",
+      "caption": "SA MẠC ATACAMA — sa mạc không nằm ở cực khô nhất Trái Đất",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cl-animalA.jpg",
+      "alt": "Đàn hồng hạc Andes đứng trên hồ muối nông màu hồng nhạt",
+      "caption": "HỒNG HẠC ANDES — lội trên mặt nước lặng yên của Salar de Atacama",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cl-animalB.jpg",
+      "alt": "Đàn chim cánh cụt Magellanic trên bờ đá phía nam",
+      "caption": "CHIM CÁNH CỤT MAGELLANIC — làm tổ trên bờ biển miền nam đầy gió của Chile",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

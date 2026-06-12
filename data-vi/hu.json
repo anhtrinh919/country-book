@@ -1,0 +1,163 @@
+{
+  "name": "HUNGARY",
+  "nativeName": "HU",
+  "romaji": "MAGYARORSZÁG",
+  "tagline": "Xứ sở ớt đỏ và suối nước nóng",
+  "region": "Đông Âu",
+  "coords": "47.16°N, 19.50°E",
+  "fileNo": "036",
+  "langName": "tiếng Hungary",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CDBFA0",
+    "ink": "#2A2218",
+    "faint": "#8C7A5A",
+    "line": "#DDD0B0",
+    "accent": "#CE2939",
+    "accent2": "#436F4D"
+  },
+  "flag": {
+    "assetPath": "/flags/hu.svg",
+    "title": "Quốc kỳ Hungary",
+    "note": "Ba màu đỏ, trắng, xanh — biểu tượng tự hào từ năm 1848",
+    "keyColor": "#CE2939",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hungary nằm ngay trái tim châu Âu, được vòng cung Carpathian ôm ấp xung quanh. Thủ đô Budapest từng là hai thành phố riêng biệt, rồi được nối lại bằng những cây cầu thanh lịch bắc qua sông Danube. Người Hungary đã phát minh ra khối Rubik, bút bi và que diêm an toàn — những thứ cả thế giới đang dùng mỗi ngày. Và dưới lòng đất, hơn 1.300 mạch nước nóng cứ tự trào lên, biến cả đất nước thành một khu spa thiên nhiên khổng lồ.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Budapest",
+      "sub": "Dân số ~1,7 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "9,6 triệu người",
+      "sub": "Ước tính tháng 1/2024 (KSH)"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Forint (HUF)",
+      "sub": "~370 HUF = 1 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Hungary",
+      "sub": "Magyar — tiếng độc nhất vô nhị ở châu Âu"
+    },
+    {
+      "label": "Diện tích",
+      "value": "93.028 km²",
+      "sub": "Nhỏ hơn Bồ Đào Nha một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Kékes 1.014 m",
+      "sub": "Đỉnh núi trong dãy Mátra"
+    }
+  ],
+  "islands": [
+    "Budapest",
+    "Debrecen",
+    "Miskolc",
+    "Pécs",
+    "Győr"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đồng bằng mênh mông và suối nước ấm",
+    "animals": "Thú hoang trên thảo nguyên Puszta",
+    "culture": "Ớt đỏ, âm nhạc và tài phát minh",
+    "history": "Đế chế nối tiếp đế chế",
+    "wows": "Những điều kỳ lạ về Hungary"
+  },
+  "geo": [
+    "Hungary gần như bằng phẳng hoàn toàn — một cái bát khổng lồ gọi là Lòng chảo Pannonia. Vùng Đại Bình Nguyên (Puszta) trải rộng về phía đông, là thảo nguyên gió thổi vi vu, nơi các chàng kỵ mã từng phi ngựa rong ruổi. Hai con sông lớn Danube và Tisza chia cắt đất nước thành ba phần rõ rệt.",
+    "Hơn 1.300 mạch nước nóng rải khắp nơi trong cả nước. Hồ Balaton — hồ lớn nhất Trung Âu — nằm trong một thung lũng ở phía tây. Nước hồ ấm áp và nông nên mỗi mùa hè, hàng triệu người kéo đến tắm và đi thuyền."
+  ],
+  "animals": [
+    "Thảo nguyên Puszta là quê hương của bò xám Hungary và cừu racka với đôi sừng xoắn ốc ngoạn mục. Chim ô tác lớn — loài chim bay nặng nhất thế giới — vẫn còn sải bước trên đồng cỏ Hungary, xòe rộng đôi cánh khổng lồ mỗi mùa giao phối.",
+    "Sông Danube đầy cá da trơn khổng lồ và cá tầm. Đại bàng đuôi trắng —ải cánh rộng bằng cả chiếc ghế sofa — tuần tra dọc bờ sông, còn sóc đất châu Âu thì nhoi lên khỏi mặt đất như meerkat trên khắp cánh đồng trống."
+  ],
+  "culture": [
+    "Ẩm thực Hungary đỏ rực vì ớt paprika, loại gia vị du nhập từ châu Mỹ cách đây 400 năm. Món súp goulash (gulyás) vốn là bữa ăn nấu bên lửa trại của những người chăn gia súc trên thảo nguyên, giờ đây được cả thế giới yêu thích.",
+    "Nhà soạn nhạc Béla Bartók từng lặn lội qua từng ngôi làng để thu âm những bài dân ca cổ bằng xi lanh sáp. Học viện Liszt lộng lẫy vẫn đào tạo các nghệ sĩ piano concert đến ngày nay. Và mỗi sáng chủ nhật, cả gia đình cùng ngâm mình trong bể khoáng 36°C — tắm suối nóng là một phần không thể thiếu của cuộc sống người Hungary."
+  ],
+  "history": [
+    "Các bộ tộc Magyar du mục phi ngựa từ thảo nguyên Ural và định cư ở Lòng chảo Carpathian vào năm 895 sau Công nguyên. Vua Stephen I cải đạo vương quốc sang Thiên Chúa giáo khoảng năm 1000 và được Giáo hoàng trao vương miện — vật thiêng liêng nhất của Hungary cho đến tận bây giờ.",
+    "Hungary từng bị người Ottoman cai trị suốt 150 năm, rồi lại chịu ách Habsburg gần hai thế kỷ. Năm 1989, người Hungary ôn hòa tháo dỡ hàng rào Bức màn Sắt, thắp lên ngọn lửa chấm dứt Chiến tranh Lạnh cho cả châu Âu."
+  ],
+  "wows": [
+    "Khối Rubik do Ernő Rubik phát minh năm 1974 là đồ chơi xếp hình bán chạy nhất lịch sử nhân loại.",
+    "Tuyến tàu điện ngầm số 1 ở Budapest (1896) là đường tàu điện ngầm đầu tiên trên lục địa châu Âu.",
+    "Hungary giành nhiều huy chương vàng Olympic tính theo đầu người hơn gần như bất kỳ quốc gia nào khác trên Trái Đất.",
+    "Laszlo Biro đăng ký bằng sáng chế bút bi năm 1938 — người Anh vẫn gọi tất cả bút bi là 'biros' cho đến hôm nay.",
+    "Hồ Balaton chỉ sâu trung bình 3 m — nông đến mức bạn có thể lội bộ ra xa bờ một cách đáng ngạc nhiên.",
+    "Ngôn ngữ họ hàng gần nhất của tiếng Hungary là tiếng Phần Lan, cách đó khoảng 1.500 km xuyên châu Âu.",
+    "Budapest có hơn 100 mạch nước nóng tự nhiên — nhiều hơn bất kỳ thủ đô nào khác trên thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Goulash là món hầm đặc sệt",
+      "fact": "Gulyás truyền thống thực ra là một loại súp loãng, ăn bằng thìa chứ không phải nĩa. Phiên bản hầm đặc là do người nước ngoài sáng tạo ra — và người Hungary thấy điều đó khá buồn cười."
+    },
+    {
+      "myth": "Người Hungary là dân Slavic",
+      "fact": "Tiếng Magyar thuộc nhóm Finno-Ugric, hoàn toàn không liên quan đến các ngôn ngữ Slavic. Tổ tiên người Hungary xuất phát từ dãy núi Ural, không cùng gốc rễ với các nước láng giềng."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Szia",
+      "say": "SEE-yah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Köszönöm",
+      "say": "KUH-suh-nuhm"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Kérem",
+      "say": "KAY-rem"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Finom",
+      "say": "FEE-nom"
+    },
+    {
+      "en": "Chúc mừng!",
+      "jp": "Egészségre",
+      "say": "egg-ACE-shayg-reh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hu-hero.jpg",
+      "alt": "Cầu Xích lung linh ánh đèn bắc qua sông Danube đêm về, Lâu đài Buda sáng rực phía sau",
+      "caption": "CẦU XÍCH — cây cầu treo xây năm 1849 của Budapest lung linh trên sông Danube về đêm",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/hu-landmark.jpg",
+      "alt": "Tòa nhà Quốc hội Hungary soi bóng xuống sông Danube ở Budapest",
+      "caption": "TÒA NHÀ QUỐC HỘI — kiệt tác kiến trúc Neo-Gothic bên sông Danube, một trong những tòa nhà lớn nhất châu Âu",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hu-animalA.jpg",
+      "alt": "Chim ô tác đực xòe lông khoe mẽ trên cánh đồng cỏ trống",
+      "caption": "CHIM Ô TÁC LỚN — loài chim bay nặng nhất thế giới sải bước trên thảo nguyên Puszta",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hu-animalB.jpg",
+      "alt": "Bò xám Hungary với đôi sừng cong dài trên thảo nguyên Puszta",
+      "caption": "BÒ XÁM HUNGARY — giống bò cổ xưa với đôi sừng dài ngoạn mục trên thảo nguyên Puszta",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

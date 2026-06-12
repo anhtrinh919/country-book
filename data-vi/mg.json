@@ -1,0 +1,163 @@
+{
+  "name": "MADAGASCAR",
+  "nativeName": "MG",
+  "romaji": "MADAGASIKARA",
+  "tagline": "Lục địa thứ tám",
+  "region": "Đông Phi / Ấn Độ Dương",
+  "coords": "20°S, 47°E",
+  "fileNo": "061",
+  "langName": "tiếng Malagasy",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BEA8",
+    "ink": "#26201A",
+    "faint": "#7A6E58",
+    "line": "#DDD5C2",
+    "accent": "#C0202E",
+    "accent2": "#3A7D44"
+  },
+  "flag": {
+    "assetPath": "/flags/mg.svg",
+    "title": "Madagascar",
+    "note": "Dải trắng và đỏ dọc bên trái, rồi đỏ trên xanh lá bên phải",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Madagascar là hòn đảo lớn thứ tư thế giới — một chiếc tàu Nô-a khổng lồ trôi nổi giữa Ấn Độ Dương. Tách rời khỏi châu Phi từ 170 triệu năm trước, nơi đây có tới 90% động vật không tồn tại ở bất kỳ đâu khác trên Trái Đất. Hơn 100 loài vượn cáo, nửa số tắc kè hoa thế giới và những cây baobab cổ thụ khổng lồ đều sống ở đây. Các nhà khoa học gọi Madagascar là 'lục địa thứ tám' — và họ hoàn toàn có lý.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Antananarivo",
+      "sub": "Thành phố của nghìn chiến binh"
+    },
+    {
+      "label": "Dân số",
+      "value": "31,3 triệu người",
+      "sub": "Ước tính 2025, đang tăng nhanh"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Ariary (MGA)",
+      "sub": "Một trong số ít đồng tiền không dùng hệ thập phân"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Malagasy",
+      "sub": "Ngôn ngữ gốc Nam Đảo — gần tiếng Mã Lai hơn"
+    },
+    {
+      "label": "Diện tích",
+      "value": "587.041 km²",
+      "sub": "Lớn hơn nước Pháp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Maromokotro",
+      "sub": "2.876 m — dãy núi phía bắc"
+    }
+  ],
+  "islands": [
+    "Antananarivo",
+    "Toamasina",
+    "Mahajanga",
+    "Fianarantsoa",
+    "Toliara"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Thế giới tách biệt giữa đại dương",
+    "animals": "Sinh vật chỉ có ở đây",
+    "culture": "Tổ tiên, lúa gạo và baobab",
+    "history": "Vương triều và nền độc lập",
+    "wows": "Tám điều bất ngờ"
+  },
+  "geo": [
+    "Madagascar nằm cách bờ đông châu Phi 400 km. Một dãy núi chạy dọc giữa đảo, phía đông dốc xuống rừng mưa nhiệt đới ẩm ướt. Phía tây khô hơn, có những cây baobab khổng lồ và những tháp đá vôi sắc bén gọi là tsingy — trong tiếng Malagasy có nghĩa là 'nơi bạn không thể đi chân trần'.",
+    "Phía nam gần như là sa mạc, đầy những loài cây gai góc không nơi nào khác có. Chỉ một hòn đảo mà chứa tới sáu vùng khí hậu khác nhau! Đất đỏ sét khiến Madagascar còn có biệt danh 'Đảo Đỏ Vĩ Đại'. Mỗi mùa đông, cá voi lưng gù kéo đến vùng biển ấm quanh đảo để sinh sản."
+  ],
+  "animals": [
+    "Hơn 100 loài vượn cáo sống ở đây, từ vượn cáo chuột chỉ nặng 30 gram — linh trưởng nhỏ nhất thế giới — đến vượn cáo indri với tiếng hú ma mị vang xa hàng kilomet. Khoảng 90% động vật hoang dã của Madagascar là loài đặc hữu, nghĩa là không tồn tại ở bất kỳ nơi nào khác trên hành tinh này.",
+    "Con fossa — kẻ săn mồi đứng đầu Madagascar — trông giống báo puma nhỏ nhưng thực ra họ hàng với cầy mangut. Nửa số tắc kè hoa thế giới sống ở đây, kể cả Brookesia micra bé chỉ bằng móng tay. Tắc kè hoa panther có thể chuyển màu rực rỡ như điện, còn ếch nhái ở đây phát sáng dưới ánh đèn cực tím!"
+  ],
+  "culture": [
+    "Văn hóa Malagasy xoay quanh tổ tiên gọi là razana — những người tin rằng ông bà vẫn luôn dõi theo người sống. Mỗi gia đình có fady riêng, những điều kiêng kị truyền qua bao đời. Phong tục đặc sắc nhất là famadihana: gia đình đào mộ lấy hài cốt tổ tiên ra, quấn lụa mới rồi cùng nhau nhảy múa vui vẻ trước khi chôn lại.",
+    "Cơm là thứ thiêng liêng — người Malagasy ăn ba bữa cơm mỗi ngày và có hơn 30 từ để chỉ các món cơm khác nhau! Món quốc hồn là romazava: canh thịt bò zebu hầm với rau dại. Bò zebu xuất hiện trong mọi nghi lễ quan trọng. Những buổi lễ làng rộn rã tiếng nhạc hira gasy và những vũ điệu kể chuyện đầy màu sắc."
+  ],
+  "history": [
+    "Những thủy thủ người Polynesia đã vượt hơn 6.000 km đại dương để đến định cư ở Madagascar khoảng 2.000 năm trước — một trong những hành trình dũng cảm nhất lịch sử loài người. Sau đó, nông dân Bantu từ châu Phi cũng lần lượt đến. Đến thế kỷ 18, vương quốc Merina đã thống nhất phần lớn đảo dưới một gia đình hoàng tộc vùng cao nguyên.",
+    "Năm 1896, Pháp đô hộ Madagascar, lưu đày nữ hoàng và chấm dứt chế độ quân chủ. Cuộc khởi nghĩa năm 1947 bị đàn áp đẫm máu, cướp đi hàng chục nghìn sinh mạng. Ngày 26 tháng 6 năm 1960, Madagascar giành độc lập hoàn toàn — ngày này vẫn được kỷ niệm hàng năm với những cuộc diễu hành rộn ràng khắp đảo."
+  ],
+  "wows": [
+    "Madagascar sản xuất khoảng 80% lượng vani của cả thế giới, vậy mà đây lại là một trong những quốc gia nghèo nhất hành tinh.",
+    "Những người đầu tiên đến Madagascar không phải từ châu Phi gần kề, mà từ Indonesia — cách xa hơn 6.000 km!",
+    "Madagascar là nhà của gần một nửa số loài tắc kè hoa trên Trái Đất: khoảng 59 loài chỉ sống ở đây.",
+    "Những tháp đá tsingy sắc như dao; động vật ẩn náu bên trong, an toàn vì con người không thể bước vào.",
+    "Tiếng Malagasy là ngôn ngữ Nam Đảo, gần với tiếng Mã Lai hơn là tiếng Swahili của châu Phi.",
+    "Chưa có vườn thú nào trên thế giới nuôi được vượn cáo indri sống lâu — nó chối từ cuộc sống trong chuồng.",
+    "Mỗi gia đình có fady riêng biệt: nhà này kiêng ăn lươn, nhà kia kiêng ngồi quay mặt về hướng bắc khi ăn cơm."
+  ],
+  "myths": [
+    {
+      "myth": "Madagascar là một đất nước châu Phi về mặt văn hóa",
+      "fact": "Người dân và ngôn ngữ ở đây bắt nguồn từ Indonesia, cách xa 6.000 km về phía đông. Tiếng Malagasy là ngôn ngữ Nam Đảo. Hòn đảo này tách khỏi châu Phi từ 170 triệu năm trước — lâu trước khi con người xuất hiện trên Trái Đất."
+    },
+    {
+      "myth": "Vượn cáo là loài khỉ",
+      "fact": "Vượn cáo là linh trưởng nguyên thủy — một nhánh cổ xưa hơn nhiều. Chúng tiến hóa riêng biệt ở Madagascar trong hàng triệu năm, hoàn toàn tách biệt với khỉ hay vượn người."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Salama",
+      "say": "sah-LAH-mah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Misaotra",
+      "say": "mee-SOW-trah"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Veloma",
+      "say": "veh-LOO-mah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Azafady",
+      "say": "ah-zah-FAH-dee"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Manao ahoana",
+      "say": "mah-NOW ah-OO-nah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mg-hero.jpg",
+      "alt": "Đại lộ cây baobab lúc hoàng hôn ở miền tây Madagascar",
+      "caption": "ĐẠI LỘ BAOBAB — những cây cổ thụ khổng lồ xếp hàng bên con đường đất đỏ gần Morondava",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mg-landmark.jpg",
+      "alt": "Ruộng bậc thang xanh mướt trên sườn đồi vùng cao nguyên Madagascar",
+      "caption": "RUỘNG BẬC THANG CAO NGUYÊN — những sườn đồi được đắp bậc nuôi sống cả dân tộc yêu lúa gạo",
+      "credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mg-animalA.jpg",
+      "alt": "Vượn cáo indri bám trên cây trong rừng mưa Madagascar",
+      "caption": "VƯỢN CÁO INDRI — loài vượn cáo lớn nhất, tiếng hú vang xa hàng kilomet",
+      "credit": "Wikimedia Commons / CC BY 2.5"
+    },
+    "animalB": {
+      "src": "/photos/mg-animalB.jpg",
+      "alt": "Con fossa nằm nghỉ trên cành cây — kẻ săn mồi lớn nhất Madagascar",
+      "caption": "CON FOSSA — trông như báo puma nhỏ nhưng thực ra họ hàng với cầy mangut",
+      "credit": "Wikimedia Commons / CC BY-SA 4.0"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "GAMBIA",
+  "nativeName": "GM",
+  "romaji": "GAMBIA",
+  "tagline": "Quốc gia nhỏ nhất lục địa đen",
+  "region": "Tây Phi",
+  "coords": "13.45°N, 16.58°W",
+  "fileNo": "047",
+  "langName": "tiếng Mandinka",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4C09A",
+    "ink": "#1E1A14",
+    "faint": "#8A7A55",
+    "line": "#E0D0A8",
+    "accent": "#3A7728",
+    "accent2": "#C8262B"
+  },
+  "flag": {
+    "assetPath": "/flags/gm.svg",
+    "title": "Cộng hòa Gambia",
+    "note": "Ba sọc đỏ, xanh lam và xanh lá với viền trắng",
+    "keyColor": "#3A7728",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Gambia là quốc gia nhỏ nhất trên đất liền châu Phi — mảnh đất dài và hẹp như ngón tay, uốn mình theo dòng sông Gambia. Ba phía đều là nước láng giềng Senegal bao bọc. Con sông chính là mạch sống: người dân đánh cá, trồng trọt và đi lại trên đó mỗi ngày. Tuy bé xíu, Gambia lại tràn ngập chim muông đầy màu sắc, những ngôi làng thân thiện và bãi biển Đại Tây Dương nắng vàng rực rỡ.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Banjul",
+      "sub": "Khoảng 460.000 người (vùng đô thị)"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,8 triệu người",
+      "sub": "Ước tính 2023 (World Bank)"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dalasi (GMD)",
+      "sub": "≈ 75 dalasi đổi 1 đô-la Mỹ"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Ngôn ngữ chính thức; tiếng Mandinka được dùng phổ biến"
+    },
+    {
+      "label": "Diện tích",
+      "value": "11.295 km²",
+      "sub": "Nhỏ hơn tỉnh Nghệ An của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "53 m",
+      "sub": "Một dải đất cao gần Sabi, chưa được đặt tên"
+    }
+  ],
+  "islands": [
+    "Banjul",
+    "Serekunda",
+    "Brikama",
+    "Farafenni",
+    "Basse"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đất nước của một dòng sông",
+    "animals": "Chim trời, cá nước và thú khổng lồ",
+    "culture": "Âm nhạc, đậu phộng và cây đàn kora",
+    "history": "Từ đế chế đến độc lập",
+    "wows": "Gambia bất ngờ"
+  },
+  "geo": [
+    "Gambia có hình dạng như một ngón tay dài và mảnh, chỉ thẳng về phía đông vào lòng Tây Phi. Sông Gambia chảy ngay giữa đất nước, hai bên là đồng bằng ngập lũ, rừng đước rậm rạp và thảo nguyên xanh mướt. Bờ biển phía tây giáp Đại Tây Dương trải dài những bãi cát vàng óng ánh.",
+    "Vì địa hình bằng phẳng tuyệt đối — không nơi nào cao hơn một tòa nhà năm tầng — dòng sông quyết định mọi thứ. Vào mùa mưa, nước sông dâng lên cuồn cuộn, tràn vào những cánh đồng lúa và kê mà người dân trông chờ suốt cả năm."
+  ],
+  "animals": [
+    "Gambia là thiên đường cho người mê chim với hơn 560 loài, trong đó có chim ăn ong sặc sỡ và chim bói cá lấp lánh như đá quý. Những chú khỉ đầu chó lông vàng lang thang trong Khu bảo tồn Abuko gần thủ đô, còn khỉ xanh nhảy chuyền giữa những tán cây ven sông.",
+    "Dòng sông ăm ắp cá sấu sông Nile và hà mã thỉnh thoảng trồi lên mặt nước thở phì phò. Tại hồ thiêng Kachikally, du khách còn được sờ tận tay vào những chú cá sấu — người địa phương tin đó là điều may mắn và phước lành."
+  ],
+  "culture": [
+    "Đàn kora — nhạc cụ 21 dây làm từ một trái bầu khổng lồ — là linh hồn âm nhạc của Gambia. Các griot (nghệ nhân kể chuyện bằng âm nhạc) đi khắp làng mạc, hát lại lịch sử và ca ngợi tổ tiên, giữ gìn ký ức hàng trăm năm mà không cần viết thành chữ.",
+    "Đậu phộng có mặt trong món hầm, nước sốt và đồ ăn vặt. Bữa chính là benachin — cơm nấu với cà chua và cá — được ăn chung từ một cái bát lớn. Phong tục này như muốn nói: những gì của tôi cũng là của bạn."
+  ],
+  "history": [
+    "Thung lũng sông Gambia từng là một phần của Đế chế Mali hùng mạnh, kiểm soát các tuyến buôn bán vàng và muối. Năm 1455, thủy thủ người Bồ Đào Nha đặt chân đến đây — một trong những lần người châu Âu tiếp xúc sớm nhất với châu Phi. Người Anh sau đó dùng Banjul làm căn cứ để góp phần xóa bỏ nạn buôn bán nô lệ.",
+    "Gambia tuyên bố độc lập ngày 18 tháng 2 năm 1965. Đất nước từng hợp nhất với Senegal thành liên bang 'Senegambia' vào thập niên 1980, nhưng liên minh tan rã năm 1989. Một chế độ độc tài kéo dài nhiều thập kỷ cuối cùng kết thúc năm 2017 nhờ một cuộc bầu cử dân chủ hòa bình."
+  ],
+  "wows": [
+    "Gambia hẹp đến mức nếu đứng ở giữa đất nước, bạn đã gần bờ Đại Tây Dương hơn là gần bất kỳ thị trấn biên giới nào.",
+    "Hồ thiêng Kachikally có hơn 80 con cá sấu sông Nile sống tự nhiên, nhưng chúng vẫn điềm tĩnh cho người ta sờ vào.",
+    "Hơn 560 loài chim sống trong một vùng đất còn nhỏ hơn tỉnh Nghệ An — thiên đường ngắm chim thu nhỏ của thế giới.",
+    "Gambia gần như hoàn toàn bị bao quanh bởi một quốc gia duy nhất — Senegal ôm trọn ba phía.",
+    "Đàn kora 21 dây có thể cùng lúc nghe như đàn hạc, đàn ghi-ta và trống — phải mất nhiều năm mới thuần thục.",
+    "Gambia từng 'biến mất' khỏi bản đồ: từ 1982 đến 1989, đất nước hòa vào liên bang Senegambia với Senegal.",
+    "Cửa sông Banjul rộng đến mức không thể nhìn thấy bờ bên kia — trông y hệt như đang đứng trước biển khơi."
+  ],
+  "myths": [
+    {
+      "myth": "Gambia là một phần của Senegal",
+      "fact": "Gambia hoàn toàn độc lập từ năm 1965 — chỉ là đất nước này tình cờ bị Senegal bao quanh gần như toàn bộ, khiến nó trông như một vùng đất lọt thỏm trên bản đồ."
+    },
+    {
+      "myth": "Quá nhỏ để đáng ghé thăm",
+      "fact": "Dù tí hon, Gambia gói trọn hơn 560 loài chim, bãi biển Đại Tây Dương, hà mã và truyền thống âm nhạc griot sống động — du khách từ khắp nơi trên thế giới vượt cả đại dương chỉ để đến đây."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "I be nyadi",
+      "say": "ee-beh NYA-dee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Abaraka",
+      "say": "ah-bah-RAH-kah"
+    },
+    {
+      "en": "Đúng rồi",
+      "jp": "Haa",
+      "say": "haa"
+    },
+    {
+      "en": "Thức ăn",
+      "jp": "Domo",
+      "say": "DOH-moh"
+    },
+    {
+      "en": "Dòng sông",
+      "jp": "Baa",
+      "say": "baa"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gm-hero.jpg",
+      "alt": "Toàn cảnh thủ đô Banjul nhìn từ sông Gambia",
+      "caption": "BANJUL — thủ đô bé nhỏ nằm ngay nơi sông Gambia gặp Đại Tây Dương",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gm-landmark.jpg",
+      "alt": "Cổng chào Arch 22 ở thủ đô Banjul, Gambia",
+      "caption": "ARCH 22 — cổng vòm khải hoàn cao 35 mét, biểu tượng của thủ đô Banjul",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gm-animalA.jpg",
+      "alt": "Chim bói cá malachite đậu trên cọng sậy",
+      "caption": "CHIM BÓI CÁ MALACHITE — một trong hơn 560 loài chim dọc sông Gambia",
+      "credit": "Wikimedia Commons / Dick Daniels"
+    },
+    "animalB": {
+      "src": "/photos/gm-animalB.jpg",
+      "alt": "Cá sấu sông Nile đang nằm nghỉ, miệng há rộng",
+      "caption": "CÁ SẤU SÔNG NILE — tại hồ thiêng Kachikally, du khách được chạm vào những con khổng lồ này",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

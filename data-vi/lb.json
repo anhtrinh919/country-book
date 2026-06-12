@@ -1,0 +1,163 @@
+{
+  "name": "LI-BĂNG",
+  "nativeName": "لبنان",
+  "romaji": "LUBNAN",
+  "tagline": "Rừng tuyết bách và biển Địa Trung Hải",
+  "region": "Trung Đông",
+  "coords": "33.85°N, 35.86°E",
+  "fileNo": "LB",
+  "langName": "tiếng Ả Rập",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2218",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#C0202E",
+    "accent2": "#2B6B3E"
+  },
+  "flag": {
+    "assetPath": "/flags/lb.svg",
+    "title": "Quốc kỳ Li-băng",
+    "note": "Hai sọc đỏ, sọc trắng ở giữa, ở giữa là cây tuyết bách xanh",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Li-băng là một đất nước bé nhỏ ven Địa Trung Hải nhưng chứa tới 6.000 năm lịch sử. Chính người Phoenicia ở đây đã tạo ra bảng chữ cái đầu tiên của loài người! Thủ đô Beirut độc đáo đến nỗi bạn vừa đi ngang phế tích La Mã vừa ngửi thấy mùi bánh mì nóng chỉ trong một con phố. Điều thú vị hơn nữa: buổi sáng bạn có thể trượt tuyết trên núi, buổi chiều ra tắm biển — hai chỗ cách nhau chưa đầy một tiếng lái xe!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Beirut",
+      "sub": "Thành phố tái sinh bảy lần"
+    },
+    {
+      "label": "Dân số",
+      "value": "~5,8 triệu người",
+      "sub": "Ước tính của World Bank, 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Bảng LBP",
+      "sub": "Bảng Li-băng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "Tiếng Pháp cũng được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "10.452 km²",
+      "sub": "Quốc gia nhỏ nhất châu Á"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.088 m",
+      "sub": "Qurnat as Sawda'"
+    }
+  ],
+  "islands": [
+    "BEIRUT",
+    "TRIPOLI",
+    "SIDON",
+    "BAALBEK",
+    "TYRE"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, bờ biển và rừng tuyết bách",
+    "animals": "Thú hoang và biển ngọc lam",
+    "culture": "Tiệc tùng, tín ngưỡng và điệu dabke",
+    "history": "6.000 năm sống cùng lịch sử",
+    "wows": "Những điều bất ngờ về Li-băng"
+  },
+  "geo": [
+    "Li-băng trải dài theo bốn dải song song từ bắc xuống nam: dải bờ biển Địa Trung Hải ấm áp, dãy núi Lebanon sừng sững, thung lũng Bekaa bằng phẳng, và dãy Anti-Lebanon giáp biên giới Syria. Thung lũng Bekaa hứng nước từ cả hai dãy núi, biến nơi đây thành vựa lúa của cả nước.",
+    "Thung lũng Kadisha ở phía bắc được UNESCO công nhận là Di sản thế giới — các tu sĩ từng ẩn cư trong những hang đá trên vách núi dựng đứng hàng thế kỷ. Những rừng tuyết bách cổ thụ mọc trên độ cao hơn 1.400 m có những cây đã sống hơn một nghìn năm, cành tán xòe rộng như chiếc ô khổng lồ."
+  ],
+  "animals": [
+    "Cây tuyết bách Lebanon (Cedrus libani) là biểu tượng sống của quốc gia — những cây cổ thụ trong khu bảo tồn Shouf xòe tán phẳng rộng như chiếc dù xanh khổng lồ. Sói sọc, lợn rừng và chồn đá lén lút đi kiếm ăn trong rừng núi khi đêm xuống.",
+    "Rùa biển đầu to đến đẻ trứng trên các bãi cát Li-băng mỗi mùa hè. Vào mùa thu, từng đàn chim săn mồi di cư — diều hâu ong và đại bàng chân ngắn — kéo qua các sườn núi tạo thành dòng chim cuộn tròn trên bầu trời, đẹp như một bức tranh động."
+  ],
+  "culture": [
+    "Ẩm thực Li-băng nổi tiếng khắp thế giới: bữa ăn nào cũng bắt đầu bằng meze — một mâm nhỏ gồm hummus, tabbouleh và bánh mì dẹt nóng hổi trước khi món chính ra. Người Li-băng coi việc tiếp khách là niềm tự hào dân tộc — khách vừa bước vào nhà đã có ngay ly cà phê cardamom thơm ngào ngạt.",
+    "Điệu dabke là vũ điệu giậm chân theo hàng được biểu diễn trong các đám cưới, người nhảy nắm tay nhau và đá chân nhịp nhàng như một. Lễ hội quốc tế Baalbeck diễn ra giữa những đền đài La Mã đồ sộ — từ năm 1956 đến nay, nơi đây đã đón những buổi hòa nhạc opera và jazz đẳng cấp thế giới."
+  ],
+  "history": [
+    "Người Phoenicia lập ra các thành phố thương mại ở đây từ khoảng năm 3000 TCN và truyền bảng chữ cái đầu tiên được sử dụng rộng rãi tới Hy Lạp rồi khắp thế giới. Alexander Đại đế, người La Mã, quân Thập tự chinh và đế chế Ottoman lần lượt để lại đền thờ, lâu đài và đại lộ — tất cả đều có thể ghé thăm ngày hôm nay.",
+    "Li-băng giành độc lập từ Pháp năm 1943. Cuộc nội chiến (1975–1990) chia cắt Beirut theo Đường Xanh, nhưng thành phố đã hồi sinh mạnh mẽ. Những ngôi đền La Mã ở Baalbek đứng vững suốt 2.000 năm qua bao trận động đất và cuộc xâm lăng — kỳ tích không thể không nể phục."
+  ],
+  "wows": [
+    "Người Phoenicia sáng tạo ra bảng chữ cái 22 chữ cái — gốc rễ của chữ Hy Lạp, chữ Latin và chữ Ả Rập ngày nay.",
+    "Buổi sáng trượt tuyết ở Mzaar, buổi chiều tắm biển Địa Trung Hải — hai chỗ chỉ cách nhau 50 km!",
+    "Móng đền Baalbek có ba tảng đá, mỗi tảng nặng tới 1.000 tấn — được dịch chuyển không cần máy móc.",
+    "Byblos có người ở liên tục từ khoảng năm 5000 TCN — một trong những thành phố lâu đời nhất trái đất.",
+    "Người Li-băng sống ở nước ngoài khoảng 14 triệu người — gấp đôi dân số trong nước.",
+    "Thành Tyre xưa là một hòn đảo; năm 332 TCN Alexander lấp biển bằng con đê dài 1 km để tấn công — con đê đó vẫn còn đến ngày nay.",
+    "Các pharaoh Ai Cập từng phái cả hạm đội thuyền sang Li-băng chỉ để mua gỗ tuyết bách đóng thuyền hoàng gia và xây đền."
+  ],
+  "myths": [
+    {
+      "myth": "Li-băng toàn là sa mạc",
+      "fact": "Li-băng có tuyết rơi dày trên núi từ tháng 12 đến tháng 4. Khu nghỉ dưỡng trượt tuyết, thung lũng xanh tươi và lượng mưa dồi dào khiến đây là một trong những quốc gia xanh nhất Trung Đông."
+    },
+    {
+      "myth": "Tiếng Li-băng chỉ là tiếng Ả Rập thông thường",
+      "fact": "Tiếng Ả Rập Li-băng tự nhiên pha trộn cả tiếng Pháp lẫn tiếng Anh ngay giữa câu nói. Kiểu nói chuyện \"mix\" độc đáo này không giống bất kỳ phương ngữ Ả Rập nào khác trên thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "Mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lb-hero.jpg",
+      "alt": "Bờ biển Beirut về đêm với những tòa nhà cao tầng sáng rực phản chiếu xuống mặt biển",
+      "caption": "BEIRUT VỀ ĐÊM — đại lộ corniche lấp lánh ánh đèn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lb-landmark.jpg",
+      "alt": "Những cột đá La Mã sừng sững của Đền Bacchus tại Baalbek trên nền trời xanh",
+      "caption": "BAALBEK — Đền Bacchus, phế tích La Mã hoành tráng nhất Trung Đông",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lb-animalA.jpg",
+      "alt": "Những cây tuyết bách Lebanon cổ thụ xòe tán rộng trong rừng núi",
+      "caption": "CEDRUS LIBANI — tuyết bách nghìn năm tuổi trong rừng Bcharre",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lb-animalB.jpg",
+      "alt": "Một con rùa biển đầu to đang bơi trong làn nước xanh trong vắt của Địa Trung Hải",
+      "caption": "RÙA BIỂN ĐẦU TO — đến đẻ trứng trên bãi biển Li-băng mỗi mùa hè",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

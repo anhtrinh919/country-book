@@ -1,0 +1,163 @@
+{
+  "name": "SAINT LUCIA",
+  "nativeName": "LC",
+  "romaji": "SAINT LUCIA",
+  "tagline": "Hòn Đảo Ánh Sáng & Đỉnh Piton",
+  "region": "Vùng Caribe",
+  "coords": "13.91°N, 60.98°W",
+  "fileNo": "079",
+  "langName": "Kwéyòl",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CBBF9E",
+    "ink": "#1E1A16",
+    "faint": "#7A6B4E",
+    "line": "#DDD0B0",
+    "accent": "#65CFFF",
+    "accent2": "#003F87"
+  },
+  "flag": {
+    "assetPath": "/flags/lc.svg",
+    "title": "Saint Lucia",
+    "note": "Hai đỉnh Piton trên nền xanh trời và vàng",
+    "keyColor": "#65CFFF",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Saint Lucia là hòn đảo núi lửa ở vùng biển Caribbean, nổi tiếng nhất với hai đỉnh Piton — hai chiếc cột đá khổng lồ nhô thẳng lên từ mặt biển. Hòn đảo bé nhỏ này từng bị giành đi giành lại tới 14 lần giữa Anh và Pháp, để lại dấu ấn của cả hai nền văn hóa trên khắp mọi nơi. Ngày nay, Saint Lucia có rừng nhiệt đới xanh mướt, núi lửa duy nhất trên thế giới mà bạn có thể lái xe vào tận miệng, và những đồi chuối trải dài tít tắp trên từng sườn núi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Castries",
+      "sub": "Thành phố lớn nhất và cảng chính"
+    },
+    {
+      "label": "Dân số",
+      "value": "180,000",
+      "sub": "Ước tính 2023, phần lớn gốc Phi-Caribbean"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la EC",
+      "sub": "1 XCD ≈ 0,37 USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Tiếng Kwéyòl được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "617 km²",
+      "sub": "Nhỏ hơn thành phố Los Angeles"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Gimie",
+      "sub": "958 m, đỉnh giữa rừng nhiệt đới"
+    }
+  ],
+  "islands": [
+    "Castries",
+    "Soufrière",
+    "Gros Islet",
+    "Vieux Fort",
+    "Micoud"
+  ],
+  "islandsLabel": "CÁC THỊ TRẤN CHÍNH:",
+  "sections": {
+    "geography": "Núi lửa, biển & rừng xanh",
+    "animals": "Sinh vật của rừng nhiệt đới",
+    "culture": "Carnival rực rỡ & tiếng Creole",
+    "history": "Bị tranh giành 14 lần",
+    "wows": "Những điều bất ngờ về Saint Lucia"
+  },
+  "geo": [
+    "Saint Lucia nằm giữa biển Caribbean và Đại Tây Dương, được tạo hình bởi những ngọn núi lửa cổ đại. Hai đỉnh Piton — Gros Piton cao 770 m và Petit Piton cao 743 m — là Di sản Thế giới UNESCO, đứng sừng sững giữa biển khơi đến mức tàu thuyền ở xa hàng chục km vẫn nhìn thấy.",
+    "Bên trong hòn đảo là rừng nhiệt đới rậm rạp, hứng tới 2.000 mm mưa mỗi năm. Gần thị trấn Soufrière có Suối Lưu Huỳnh — núi lửa duy nhất trên thế giới mà bạn lái xe thẳng vào được, đỗ xe cách hố bùn sôi sùng sục chỉ vài bước chân rồi hít thở mùi trái đất nóng hổi."
+  ],
+  "animals": [
+    "Saint Lucia là quê hương của Vẹt Saint Lucia — còn gọi là Jacquot — một loài chim xanh tươi tắn với những đốm đỏ, xanh dương và vàng, không nơi nào trên Trái Đất có ngoài hòn đảo này. Vào thập niên 1970, chỉ còn chưa đầy 150 con sống sót; nhờ nỗ lực bảo tồn, số lượng đã tăng lên hơn 1.000 con.",
+    "Mỗi mùa xuân, rùa da — nặng hơn cả một chiếc xe máy — lặc lè bò lên bãi biển Saint Lucia để đẻ trứng. Dưới làn nước trong vắt, các rạn san hô che chở cho cá ngựa, cá bay và cá ếch kỳ lạ — loài chuyên giả vờ làm hòn đá ghồ ghề để qua mặt kẻ thù."
+  ],
+  "culture": [
+    "Người Saint Lucia pha trộn ba nền văn hóa Pháp, châu Phi và Anh theo cách riêng của mình. Tiếng Kwéyòl — một dạng tiếng Pháp đã qua bộ lọc Caribbean — được dùng rộng rãi đến mức có hẳn một ngày quốc gia riêng gọi là Jounen Kwéyòl, tổ chức vào tháng Mười với đầy ắp ẩm thực, âm nhạc và những câu chuyện dân gian.",
+    "Hòn đảo bé tí này sản sinh ra hai người đoạt giải Nobel — tỉ lệ cao nhất thế giới so với dân số. Carnival nổ ra vào tháng Bảy với âm nhạc soca rộn ràng và trang phục lộng lẫy muôn màu. Món ăn quốc gia là chuối xanh hầm cá muối, và bóng cricket được người dân yêu mến như một tín ngưỡng."
+  ],
+  "history": [
+    "Trước khi người châu Âu đặt chân tới, người Arawak rồi người Carib đã sinh sống trên hòn đảo này từ lâu đời. Cảng biển chiến lược của Saint Lucia biến nó thành miếng mồi ngon: Anh và Pháp giành qua giành lại quyền kiểm soát tới 14 lần trong khoảng từ năm 1660 đến 1814 — kỷ lục của toàn vùng Caribbean.",
+    "Người nô lệ châu Phi bị đưa đến làm việc trên các đồn điền mía; con cháu họ chiếm phần lớn dân số ngày nay. Chế độ nô lệ kết thúc năm 1834. Saint Lucia chính thức độc lập vào ngày 22 tháng 2 năm 1979 và tung bay lá cờ xanh-vàng hình hai đỉnh Piton."
+  ],
+  "wows": [
+    "Saint Lucia có 2 người đoạt giải Nobel — tỉ lệ cao nhất thế giới so với dân số, không nước nào bì kịp.",
+    "Hai đỉnh Piton có hình dạng đặc biệt đến mức nhìn từ vệ tinh vẫn nhận ra ngay đó là Saint Lucia.",
+    "Suối Lưu Huỳnh cho phép bạn lái xe đến cách hố bùn núi lửa sôi sùng sục chỉ 20 m — điều không tìm được ở bất kỳ đâu trên Trái Đất.",
+    "Vẹt Saint Lucia tăng từ 150 con năm 1977 lên hơn 1.000 con nhờ chiến dịch bảo tồn của chính người dân địa phương.",
+    "Saint Lucia đổi tay thuộc địa 14 lần, để lại dấu ấn đồng thời của cả văn hóa Pháp lẫn Anh trên khắp hòn đảo.",
+    "Chuối trồng trên đất núi lửa ở đây có vị ngọt đặc biệt hơn hẳn chuối bán ở siêu thị thông thường.",
+    "Hai đỉnh Piton tạo thành bức tường chắn gió tự nhiên, khiến vịnh Soufrière có làn nước êm ả nhất vùng Caribbean."
+  ],
+  "myths": [
+    {
+      "myth": "\"Hai đỉnh Piton là một ngọn núi\"",
+      "fact": "Thực ra đây là hai cột đá núi lửa tách biệt — Gros Piton (770 m) và Petit Piton (743 m) — với một thung lũng ở giữa, chỉ trông có vẻ dính liền khi nhìn từ ngoài biển vào."
+    },
+    {
+      "myth": "\"Núi lửa drive-in đang phun trào\"",
+      "fact": "Suối Lưu Huỳnh là khu địa nhiệt với các lỗ hơi nước và hố bùn sôi — rất ấn tượng và có mùi đặc biệt, nhưng ngọn núi lửa Soufrière thực ra đã ngủ yên từ khoảng 20.000 năm trước."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjou",
+      "say": "bohn-ZHOO"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mèsi",
+      "say": "MED-see"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Bonjou maten",
+      "say": "bohn-ZHOO mah-TEN"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Koman ou yé?",
+      "say": "koh-MAHN oo YEH"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Bon anpil!",
+      "say": "bohn ahm-PEEL"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lc-hero.jpg",
+      "alt": "Hai đỉnh Piton sừng sững vươn lên từ mặt biển Caribbean",
+      "caption": "HAI ĐỈNH PITON — Di sản UNESCO, hai cột đá núi lửa huyền thoại trên vịnh Soufrière",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lc-landmark.jpg",
+      "alt": "Những hố bùn xám sôi sùng sục tại công viên núi lửa Suối Lưu Huỳnh",
+      "caption": "SUỐI LƯU HUỲNH — núi lửa drive-in duy nhất thế giới, gần thị trấn Soufrière",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lc-animalA.jpg",
+      "alt": "Vẹt Saint Lucia đậu trên cành cây, khoe bộ lông xanh rực rỡ",
+      "caption": "VẸT SAINT LUCIA — loài Jacquot đặc hữu, được cứu thoát khỏi nguy cơ tuyệt chủng",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lc-animalB.jpg",
+      "alt": "Rùa da khổng lồ bò lên bãi biển trong đêm tối để đẻ trứng",
+      "caption": "RÙA DA — loài rùa lớn nhất thế giới, đến đẻ trứng trên các bãi biển Saint Lucia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

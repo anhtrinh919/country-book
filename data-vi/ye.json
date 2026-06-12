@@ -1,0 +1,163 @@
+{
+  "name": "YEMEN",
+  "nativeName": "اليمن",
+  "romaji": "AL-YAMAN",
+  "tagline": "Vùng đất của Nữ hoàng Sheba",
+  "region": "Trung Đông",
+  "coords": "15.5°N, 48.5°E",
+  "fileNo": "026",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDDB",
+    "dot": "#CCBA9E",
+    "ink": "#2A2018",
+    "faint": "#8A7555",
+    "line": "#DECCAC",
+    "accent": "#CE1126",
+    "accent2": "#000000"
+  },
+  "flag": {
+    "assetPath": "/flags/ye.svg",
+    "title": "Quốc kỳ Yemen",
+    "note": "Ba dải ngang màu đỏ, trắng và đen",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Yemen nằm ở mũi phía nam của bán đảo Ả Rập — nơi những con đường hương liệu cổ xưa gặp biển cả. Nơi đây từng là quê hương của những vương quốc huyền thoại khi châu Âu vẫn còn là rừng hoang, và Nữ hoàng Sheba hùng cứ vùng đất này cách đây 3.000 năm. Ngày nay Yemen còn giữ những tòa nhà chọc trời bằng bùn đất, những cây máu rồng kỳ lạ như hành tinh khác, và một hòn đảo được gọi là \"Galápagos của Ấn Độ Dương.\"",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Sana'a",
+      "sub": "Một trong những thành phố cổ nhất thế giới"
+    },
+    {
+      "label": "Dân số",
+      "value": "~41,8 triệu người",
+      "sub": "Ước tính của Liên Hợp Quốc, 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rial Yemen",
+      "sub": "YER — chia thành 100 fils"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Phương ngữ vùng Vịnh và Yemen"
+    },
+    {
+      "label": "Diện tích",
+      "value": "527.968 km²",
+      "sub": "Rộng hơn nước Pháp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "3.666 m",
+      "sub": "Jabal An-Nabi Shu'ayb — đỉnh núi cao nhất bán đảo Ả Rập"
+    }
+  ],
+  "islands": [
+    "Sana'a",
+    "Aden",
+    "Hadhramaut",
+    "Socotra",
+    "Ta'izz"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ & VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Sa mạc, núi cao và biển cổ",
+    "animals": "Rồng máu, báo hoa và chim quý",
+    "culture": "Cà phê, tháp bùn và nghề bạc",
+    "history": "Vua hương liệu và thành phố trên mây",
+    "wows": "Khó tin nhưng là thật!"
+  },
+  "geo": [
+    "Vùng cao nguyên Yemen là góc ẩm ướt nhất của bán đảo Ả Rập — những thửa ruộng bậc thang bám chắc sườn núi ở độ cao 2.000 m, đón mưa mùa mà những vương quốc sa mạc lân cận chẳng bao giờ có được. Biển Đỏ và biển Ả Rập kẹp Yemen thành hình mũi nhọn ấn tượng.",
+    "Về phía đông là Vùng Tứ không — sa mạc cát lớn nhất thế giới. Ngoài khơi, quần đảo Socotra hẻo lánh nằm gần Somalia còn hơn gần thủ đô Sana'a, cô lập giữa Ấn Độ Dương như một thế giới bị lạc lõng giữa thời gian."
+  ],
+  "animals": [
+    "Loài vật biểu tượng của Yemen là báo hoa Ả Rập — một trong những loài mèo lớn hiếm nhất thế giới, chỉ còn chưa đến 200 con sống sót trên những vách đá cao nguyên hẻo lánh. Dê núi Nubian và sói Ả Rập cũng lặng lẽ băng qua địa hình núi non hiểm trở.",
+    "Trên đảo Socotra, tiến hóa đã tự do phát triển trong sự cô lập hàng triệu năm: gần 700 loài sinh vật không tồn tại ở bất kỳ nơi nào khác trên Trái Đất. Cây máu rồng xòe tán như chiếc ô khổng lồ và rỉ ra nhựa đỏ tươi khi bị cắt — trông như thứ gì đó từ hành tinh khác."
+  ],
+  "culture": [
+    "Người Yemen đã xây nhà bằng bùn hàng nghìn năm nay — những tòa tháp ở Shibam cao đến 11 tầng vươn thẳng từ nền sa mạc, được ví là 'Manhattan của sa mạc'. Những ngôi nhà cổ tại Sana'a được trang trí bằng hoa văn thạch cao trắng hình học tinh xảo.",
+    "Cà phê được pha uống lần đầu tiên trên thế giới chính là ở Yemen vào thế kỷ 15, bởi các tu sĩ Sufi cần tỉnh táo qua đêm để cầu nguyện. Cảng Mocha đã truyền tên mình vào tách cà phê mocha — mỗi tách mocha bạn uống đều mang theo một mảnh nhỏ của Yemen."
+  ],
+  "history": [
+    "Ba nghìn năm trước, Vương quốc Saba — quê hương của Nữ hoàng Sheba huyền thoại — kiểm soát con đường hương liệu nối Ấn Độ với Địa Trung Hải. Nhũ hương và몰약 của Yemen còn quý hơn vàng trong thế giới cổ đại, khiến cả đế chế phải tranh giành.",
+    "Yemen cũng là nơi cà phê lần đầu trở thành đồ uống, và cảng Mocha từng chi phối toàn bộ thương mại cà phê thế giới cho đến thế kỷ 17 — khi thương nhân Hà Lan bí mật mang giống cây đến thuộc địa của họ và phá vỡ thế độc quyền kéo dài hàng trăm năm."
+  ],
+  "wows": [
+    "Những tòa tháp bùn ở Shibam là các tòa nhà chung cư cao tầng cổ nhất thế giới, có tòa cao đến 11 tầng.",
+    "Cây máu rồng tiết ra nhựa đỏ tươi được dùng làm sơn và thuốc chữa bệnh suốt hơn 2.000 năm.",
+    "Jabal An-Nabi Shu'ayb cao 3.666 m là đỉnh núi cao nhất toàn bộ bán đảo Ả Rập.",
+    "Đập Marib cổ đại, xây dựng khoảng thế kỷ 8 trước Công nguyên, tưới nước cho cả vùng đất rộng lớn — một kỳ công kỹ thuật vượt thời đại.",
+    "Khoảng 37% loài thực vật trên đảo Socotra không tồn tại ở bất kỳ nơi nào khác trên Trái Đất.",
+    "Từ 'mocha' bắt nguồn từ Al-Mukha — một cảng thị thật sự ở Yemen.",
+    "Thành phố cổ Sana'a đã có người sinh sống liên tục hơn 2.500 năm."
+  ],
+  "myths": [
+    {
+      "myth": "Yemen chỉ là sa mạc bằng phẳng và nóng bức",
+      "fact": "Cao nguyên Yemen đón mưa mùa và có đỉnh núi cao đến 3.700 m. Thủ đô Sana'a nằm ở độ cao mát mẻ 2.300 m, và những ruộng bậc thang trên núi đã nuôi sống người dân nơi đây hàng nghìn năm."
+    },
+    {
+      "myth": "Nữ hoàng Sheba là nhân vật lịch sử đã được xác nhận",
+      "fact": "Vương quốc Saba cổ đại của Yemen có thật và rất hùng mạnh, nhưng hàng nghìn văn bản khắc đá hoàng gia chưa bao giờ nhắc đến tên một nữ hoàng cầm quyền — bà vẫn là một huyền thoại tráng lệ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "كم الثمن؟",
+      "say": "kam ath-tha-MAN"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "مع السلامة",
+      "say": "ma-as-sa-LA-ma"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/ye-landmark.jpg",
+      "alt": "Những tòa tháp cao tầng bằng bùn đất ở Shibam vươn lên từ thung lũng Hadhramaut",
+      "caption": "SHIBAM — những tòa nhà chọc trời bằng bùn cổ đại, 'Manhattan của sa mạc'",
+      "credit": "Jialiang Gao / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/ye-animalA.jpg",
+      "alt": "Báo hoa Ả Rập đang nghỉ ngơi, lộ rõ bộ lông vàng điểm đốm đen",
+      "caption": "BÁO HOA Ả RẬP — cực kỳ nguy cấp, chưa đến 200 con còn sống trong tự nhiên",
+      "credit": "JaffaFalcon / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/ye-animalB.jpg",
+      "alt": "Cây máu rồng với tán lá hình nấm đặc trưng trên đảo Socotra",
+      "caption": "CÂY MÁU RỒNG — cây ô ngoài hành tinh của Socotra rỉ ra nhựa đỏ",
+      "credit": "Alex38 / Wikimedia Commons CC BY 4.0"
+    },
+    "hero": {
+      "src": "/photos/ye-hero.jpg",
+      "alt": "Toàn cảnh thành phố Sana'a với những ngôi nhà tháp truyền thống",
+      "caption": "SANA'A — một trong những thành phố có người sinh sống lâu đời nhất thế giới",
+      "credit": "Sameer Alssayyad / Wikimedia CC BY-SA 3.0"
+    }
+  }
+}

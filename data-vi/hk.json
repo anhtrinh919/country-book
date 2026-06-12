@@ -1,0 +1,162 @@
+{
+  "name": "HỒNG KÔNG",
+  "nativeName": "香港",
+  "romaji": "HEUNG GONG",
+  "tagline": "Thành phố trên bến cảng",
+  "region": "Đông Á",
+  "coords": "22.3°N 114.2°E",
+  "fileNo": "042",
+  "langName": "tiếng Quảng Đông",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFAC",
+    "ink": "#1E1C1A",
+    "faint": "#857565",
+    "line": "#DDD3C0",
+    "accent": "#DE2110",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/hk.svg",
+    "title": "Cờ Hồng Kông",
+    "note": "Nền đỏ với hoa ban trắng năm cánh",
+    "keyColor": "#DE2110",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hồng Kông là một thành phố nhỏ xíu nhưng chọc trời nằm bên bờ biển Trung Quốc — nơi những tòa nhà cao tầng chen nhau leo lên tận sườn đồi dốc đứng nhìn xuống bến cảng. Trước đây là thuộc địa Anh, đến năm 1997 Hồng Kông trở về với Trung Quốc nhưng vẫn giữ luật pháp và đồng tiền riêng. Bảy triệu rưỡi người sống chen chúc ở mảnh đất bé tí này — ăn dim sum, đi tàu điện lung linh đèn neon, và qua cảng bằng chuyến phà Star Ferry huyền thoại.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Hồng Kông",
+      "sub": "Thành phố chính là lãnh thổ"
+    },
+    {
+      "label": "Dân số",
+      "value": "7,5 triệu người",
+      "sub": "Ước tính năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la Hồng Kông",
+      "sub": "HKD — neo tỷ giá theo USD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Quảng Đông",
+      "sub": "Tiếng Anh cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.114 km²",
+      "sub": "Nhỏ hơn cả thành phố Los Angeles"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Đại Mao Sơn",
+      "sub": "957 m — đỉnh núi luôn phủ sương mù"
+    }
+  ],
+  "islands": [
+    "HK Island",
+    "Kowloon",
+    "Lantau",
+    "Cheung Chau"
+  ],
+  "islandsLabel": "CÁC KHU VỰC CHÍNH:",
+  "sections": {
+    "geography": "Bến cảng do rồng tạc nên",
+    "animals": "Thiên nhiên hoang dã giữa lòng thành phố",
+    "culture": "Đèn neon, há cảo và múa lân",
+    "history": "Từ làng chài đến rừng nhà chọc trời",
+    "wows": "Ủa, chuyện đó có thật không?"
+  },
+  "geo": [
+    "Hồng Kông nằm ôm lấy cửa sông Châu Giang, trải ra trên một bán đảo và 263 hòn đảo lớn nhỏ. Bến cảng nằm giữa đảo Hồng Kông và bán đảo Cửu Long sâu đến mức những chiếc tàu container khổng lồ có thể đậu ngay giữa lòng thành phố.",
+    "Hơn 70% diện tích Hồng Kông là thiên nhiên hoang sơ — đồi rừng dốc đứng, bãi biển và khu bảo tồn. Thế mà phần đô thị còn lại lại ken đặc đến mức Hồng Kông có nhiều nhà chọc trời hơn bất kỳ thành phố nào khác trên Trái Đất."
+  ],
+  "animals": [
+    "Tê tê Trung Hoa — con vật nhút nhát phủ đầy vảy, hay cuộn tròn lại khi sợ hãi — lặng lẽ lục lọ trong rừng vào ban đêm. Lợn rừng thường tót qua khu dân cư, còn hươu sủa kêu réo từ trong bụi rậm các công viên quốc gia.",
+    "Vùng đất ngập nước Mai Po là nơi trú ngụ của hơn 400 loài chim, trong đó có con cò thìa mặt đen cực kỳ hiếm. Rùa xanh đẻ trứng trên những bãi biển vắng lặng, còn cá heo không vây Ấn Độ Dương-Thái Bình Dương vui đùa ở vùng nước nông quanh cảng."
+  ],
+  "culture": [
+    "Hồng Kông pha trộn truyền thống Quảng Đông với dấu ấn người Anh. Các gia đình tụ họp đi ăn yum cha — những chiếc xửng hấp bằng tre đẩy qua đẩy lại chứa đầy há cảo và siu mai — trong khi xe điện cọc cạch lăn bánh qua những tòa nhà kiểu Victoria. Mỗi mùa thu, lễ hội Cô Hồn lại đổ xuống đường những làn khói từ vàng mã đang cháy.",
+    "Biển hiệu neon, phong bì đỏ may mắn và pháo hoa tô điểm cho lịch Quảng Đông suốt cả năm. Thế nhưng người Hồng Kông cũng xếp hàng uống trà chiều theo kiểu Anh và xem đua ngựa ở trường đua Happy Valley — một trường đua tồn tại ngay trong lòng thành phố từ năm 1846."
+  ],
+  "history": [
+    "Ngư dân đã sống ở đây hàng ngàn năm trước khi người Anh chiếm đảo Hồng Kông năm 1842 sau Chiến tranh Thuốc phiện lần thứ nhất. Nơi này dần lớn thành một cảng thương mại quan trọng, rồi bán đảo Cửu Long cũng được nhượng thêm cho Anh trong những thập kỷ tiếp theo.",
+    "Nhật Bản chiếm đóng Hồng Kông trong Thế chiến thứ hai; sau khi Anh tiếp quản lại, thành phố bùng nổ thành một trung tâm tài chính toàn cầu. Ngày 1 tháng 7 năm 1997, theo mô hình 'một đất nước, hai chế độ', Hồng Kông trở về với Trung Quốc — nhưng vẫn giữ tòa án và đồng tiền riêng ít nhất đến năm 2047."
+  ],
+  "wows": [
+    "Hồng Kông có nhiều xe Rolls-Royce tính theo đầu người hơn bất kỳ nơi nào khác trên thế giới.",
+    "Tàu điện ngầm MTR chạy đúng giờ trong 99,9% số chuyến — một trong những hệ thống giao thông đúng giờ nhất hành tinh.",
+    "Từ những năm 1800, Hồng Kông đã lấn biển tạo thêm khoảng 70 km² đất mới.",
+    "Thang cuốn ngoài trời có mái che dài nhất thế giới — 800 m — leo lên sườn đồi Mid-Levels.",
+    "Hơn 90% chuyến đi hằng ngày sử dụng phương tiện công cộng — tỷ lệ cao nhất của bất kỳ thành phố nào trên Trái Đất.",
+    "Tàu điện đỉnh Peak Tram đã chở khách lên cùng một con dốc đứng từ năm 1888 đến nay.",
+    "Hồng Kông có hơn 1.000 tòa nhà cao trên 100 m — nhiều hơn New York, Chicago và Dubai cộng lại."
+  ],
+  "myths": [
+    {
+      "myth": "Hồng Kông bây giờ chỉ là một phần của Trung Quốc thôi",
+      "fact": "Từ năm 1997, Hồng Kông là Đặc khu Hành chính với luật pháp, tòa án, đồng tiền và hộ chiếu riêng theo mô hình 'một đất nước, hai chế độ' ít nhất đến năm 2047."
+    },
+    {
+      "myth": "Hồng Kông chỉ là thành phố — không có thiên nhiên gì cả",
+      "fact": "Hơn 70% diện tích Hồng Kông là vùng nông thôn được bảo vệ, với những lối mòn xuyên rừng, hơn 260 hòn đảo và những bãi biển mà phần lớn du khách không bao giờ tìm thấy."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "你好",
+      "say": "nay HO"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "唔該",
+      "say": "mm GOY"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "好味",
+      "say": "ho MAY"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "幾錢?",
+      "say": "gay CHIN"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "拜拜",
+      "say": "bye-BYE"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hk-hero.jpg",
+      "alt": "Toàn cảnh Hồng Kông về đêm với bến cảng Victoria lung linh đèn neon",
+      "caption": "BẾN CẢNG VICTORIA — những tòa tháp neon phản chiếu xuống mặt nước lúc hoàng hôn",
+      "credit": "Wikimedia Commons / Diliff"
+    },
+    "landmark": {
+      "src": "/photos/hk-landmark.jpg",
+      "alt": "Nhìn xuống rừng nhà chọc trời Hồng Kông từ đỉnh Victoria Peak",
+      "caption": "ĐỈNH VICTORIA — đài quan sát cao 552 m sừng sững phía trên rừng nhà chọc trời",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hk-animalA.jpg",
+      "alt": "Hoa ban Bauhinia blakeana màu hồng tím — biểu tượng của Hồng Kông",
+      "caption": "HOA BAN HỒNG KÔNG — loài hoa biểu tượng nở rộ trên lá cờ thành phố",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hk-animalB.jpg",
+      "alt": "Cò thìa mặt đen lội trong vùng đất ngập nước Mai Po",
+      "caption": "CÒ THÌA MẶT ĐEN — loài chim quý hiếm được bảo vệ tại đầm lầy Mai Po",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "HONDURAS",
+  "nativeName": "HN",
+  "romaji": "HONDURAS",
+  "tagline": "Rừng già, rạn san hô và đỉnh mây",
+  "region": "Trung Mỹ",
+  "coords": "15.2°N, 86.2°W",
+  "fileNo": "076",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F2ECD9",
+    "dot": "#CDBF9E",
+    "ink": "#241F1A",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B0",
+    "accent": "#1A3D8F",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/hn.svg",
+    "title": "Quốc kỳ Honduras",
+    "note": "Ba sọc xanh-trắng-xanh với năm ngôi sao xanh ở giữa",
+    "keyColor": "#1A3D8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Honduras nằm giữa lòng Trung Mỹ, nơi những dãy núi mây phủ trắng đỉnh đứng cạnh tàn tích đô thị Maya cổ đại, còn rạn san hô lớn thứ hai thế giới trải dài ngay ngoài khơi. Vẹt đỏ rực ríu rít bay qua những cánh rừng mưa, nơi báo đốm vẫn lặng lẽ rình mồi. Cái tên Honduras trong tiếng Tây Ban Nha có nghĩa là \"độ sâu lớn\" — vì những thủy thủ đầu tiên đến đây đã kinh ngạc trước vùng biển sâu hun hút ở bờ bắc.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tegucigalpa",
+      "sub": "Tọa lạc ở độ cao ~975 m"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,9 triệu người",
+      "sub": "Ước tính 2025, Liên Hợp Quốc"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Lempira (L)",
+      "sub": "Đặt theo tên một thủ lĩnh Lenca"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Cùng với tiếng Garífuna và Creole"
+    },
+    {
+      "label": "Diện tích",
+      "value": "112.492 km²",
+      "sub": "Lớn hơn Bulgaria"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Las Minas",
+      "sub": "2.870 m, đỉnh phủ rừng rậm"
+    }
+  ],
+  "islands": [
+    "Tegucigalpa",
+    "S.P. Sula",
+    "La Ceiba",
+    "Roatán",
+    "Copán"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ VÀ ĐỊA DANH CHÍNH:",
+  "sections": {
+    "geography": "Núi non, biển cả và đại dương sâu thẳm",
+    "animals": "Muông thú của rừng già và rạn san hô",
+    "culture": "Ngô vàng, nhịp trống và hồn Lenca",
+    "history": "Từ phiến đá Maya đến nền cộng hòa",
+    "wows": "Bảy điều không thể tin nổi"
+  },
+  "geo": [
+    "Honduras là đất nước của núi non — những dãy núi lởm chởm chạy từ đông sang tây như tấm vải nhàu nhĩ, với những thung lũng màu mỡ ẩn náu bên dưới. Bờ bắc mở ra biển Caribbean ấm áp, còn phía nam chạm đến vịnh Fonseca nóng bức bên bờ Thái Bình Dương.",
+    "Rạn san hô Mesoamerican — hệ thống san hô lớn thứ hai thế giới — ôm trọn bờ biển Caribbean của Honduras. Quần đảo Bay gồm Roatán, Utila, Guanaja nằm ngay trên rạn san hô đó, nên du khách chỉ cần lặn vài mét là đã bơi cùng cá vẹt và rùa biển ngay sát bờ cát."
+  ],
+  "animals": [
+    "Vẹt đỏ — rực rỡ ba màu đỏ, vàng và xanh — là quốc điểu của Honduras, làm tổ trong những cánh rừng thấp ven bờ biển Mosquito. Báo đốm, lợn vòi và tê tê khổng lồ vẫn lang thang trong Khu dự trữ sinh quyển Río Plátano — khu rừng mưa nhiệt đới lớn nhất Trung Mỹ.",
+    "Ngoài khơi, cá mập voi — loài cá to nhất Trái Đất — tụ tập mỗi mùa xuân gần đảo Utila để ăn trứng cá nhỏ li ti. Rạn san hô còn là ngôi nhà của cá ngựa, lươn biển và rùa đồi mồi — những con rùa lên bãi đẻ trứng dưới ánh trăng mỗi đêm."
+  ],
+  "culture": [
+    "Người Honduras tự hào với món baleadas — bánh tortilla dày gấp đôi, nhân đậu chiên, kem chua và phô mai vụn, có thể ăn bất cứ lúc nào trong ngày. Ngô đã thiêng liêng ở vùng đất này từ hàng nghìn năm trước; bánh tamales gói lá chuối xuất hiện ở mọi lễ hội.",
+    "Người Garífuna ở bờ biển Caribbean kết hợp gốc rễ châu Phi, Carib và Arawak thành một nền văn hóa mà UNESCO công nhận là di sản nhân loại. Âm nhạc punta của họ — tiếng trống dồn dập, vũ điệu lắc hông sôi động — vang lên khắp các làng chài, và những chiếc thuyền đánh cá truyền thống vẫn được đục đẽo hoàn toàn bằng tay."
+  ],
+  "history": [
+    "Người Maya cổ đại xây dựng thành phố hoành tráng nhất của họ tại Copán. Cầu thang Chữ Tượng hình ở đây — 2.200 ký tự khắc trên 63 bậc đá — là dòng chữ Maya dài nhất từng được tìm thấy. Triều đại bắt đầu khoảng năm 427 sau Công nguyên và thành phố gần như bị bỏ hoang vào năm 900.",
+    "Người Tây Ban Nha đến chinh phục vào thập niên 1520. Honduras giành độc lập năm 1821, rồi tách ra thành quốc gia riêng năm 1838. Đồng tiền Lempira được đặt theo tên vị tù trưởng chiến binh Lenca đã anh dũng chống lại người Tây Ban Nha trước khi hy sinh năm 1537."
+  ],
+  "wows": [
+    "Cầu thang Copán khắc 2.200 ký tự Maya — nhiều hơn bất kỳ công trình Maya nào khác.",
+    "Đảo Utila là một trong những nơi rẻ nhất thế giới để lấy bằng lặn biển.",
+    "Honduras là nước xuất khẩu cà phê lớn nhất Trung Mỹ — hạt cà phê cao nguyên ở đây được giới chuyên gia rất ưa chuộng.",
+    "Khu dự trữ Río Plátano hẻo lánh đến mức có những vùng chưa từng được các nhà khoa học khám phá đầy đủ.",
+    "Cá mập voi dài đến 12 m ghé thăm đảo Utila mỗi mùa xuân — và bạn được phép bơi cùng chúng.",
+    "Tegucigalpa là một trong số ít thủ đô thế giới hầu như ai cũng chỉ gọi bằng biệt danh — \"Tegus\".",
+    "Tiếng Garífuna được UNESCO công nhận năm 2001 nhưng chỉ còn chưa đến 200.000 người trên toàn cầu biết nói."
+  ],
+  "myths": [
+    {
+      "myth": "Honduras toàn rừng rậm nguy hiểm",
+      "fact": "Quần đảo Bay và khu di tích Copán là những điểm đến an toàn, được hàng trăm nghìn du khách ghé thăm mỗi năm mà không gặp rắc rối gì."
+    },
+    {
+      "myth": "Người Maya biến mất chỉ sau một đêm",
+      "fact": "Người Maya ở Copán rời bỏ thành phố dần dần trong nhiều thập kỷ — nhiều khả năng do hạn hán, đất đai bạc màu và bất ổn chính trị, chứ không phải một thảm họa nào đó xảy ra bất ngờ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Bánh tortilla",
+      "jp": "Tortilla",
+      "say": "tor-TEE-yah"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hn-hero.jpg",
+      "alt": "Toàn cảnh thành phố Tegucigalpa trải dài trên những ngọn đồi xanh",
+      "caption": "TEGUCIGALPA — thủ đô leo dốc lên những sườn đồi xanh ở độ cao ~975 m so với mực nước biển",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/hn-landmark.jpg",
+      "alt": "Cầu thang Chữ Tượng hình tại khu di tích Maya Copán",
+      "caption": "COPÁN — dòng chữ Maya dài nhất thế giới, 2.200 ký tự khắc trên 63 bậc đá",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/hn-animalA.jpg",
+      "alt": "Vẹt đỏ đậu trên cành cây, khoe bộ lông rực rỡ đỏ, vàng và xanh",
+      "caption": "VẸT ĐỎ — quốc điểu của Honduras cháy rực màu đỏ và vàng giữa tán rừng",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/hn-animalB.jpg",
+      "alt": "Cá mập voi khổng lồ lướt nhẹ trong làn nước xanh biếc",
+      "caption": "CÁ MẬP VOI — loài cá lớn nhất đại dương ghé thăm đảo Utila mỗi mùa xuân gần rạn san hô",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

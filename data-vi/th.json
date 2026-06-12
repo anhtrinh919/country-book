@@ -1,0 +1,163 @@
+{
+  "name": "THÁI LAN",
+  "nativeName": "ไทย",
+  "romaji": "THAILAND",
+  "tagline": "Đất nước của nụ cười và đền vàng",
+  "region": "Đông Nam Á",
+  "coords": "15.87°N, 100.99°E",
+  "fileNo": "076",
+  "flag": {
+    "assetPath": "/flags/th.svg",
+    "title": "Cờ Thái Lan",
+    "note": "Đỏ, trắng, xanh — tượng trưng cho dân tộc, tôn giáo và hoàng gia",
+    "keyColor": "#A51831",
+    "mastheadMotif": "clipped-flag"
+  },
+  "lead": "Thái Lan nằm ngay giữa lòng Đông Nam Á — chỗ có cả đền cổ nghìn năm, núi rừng mờ sương ở miền Bắc, biển xanh ấm áp ở miền Nam, lẫn thành phố Bangkok sôi động không bao giờ ngủ. Điều đặc biệt nhất? Thái Lan là quốc gia duy nhất ở Đông Nam Á chưa bao giờ bị người châu Âu đô hộ — tên nước theo tiếng Thái có nghĩa là Đất của Người Tự Do. Từ những trận đấu Muay Thai rực lửa đến chợ nổi trên sông, mỗi góc đất Thái đều tràn ngập màu sắc, hương vị và những nụ cười thật tươi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Bangkok",
+      "sub": "Krung Thep — Thành phố của các Thiên thần"
+    },
+    {
+      "label": "Dân số",
+      "value": "70,3 triệu người",
+      "sub": "Điều tra dân số chính thức ngày 1 tháng 4 năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Baht Thái ฿",
+      "sub": "100 satang = 1 baht"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Thái",
+      "sub": "Chữ viết có nguồn gốc từ chữ Khmer cổ đại"
+    },
+    {
+      "label": "Diện tích",
+      "value": "513.115 km²",
+      "sub": "Gần gấp đôi nước Anh, lớn hơn Việt Nam một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Doi Inthanon",
+      "sub": "2.565 m — Nóc nhà của Thái Lan"
+    }
+  ],
+  "islands": [
+    "Bangkok",
+    "Chiang Mai",
+    "Phuket",
+    "Chiang Rai",
+    "Ayutthaya"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi rừng, sông ngòi và biển ấm",
+    "animals": "Voi, cá và thú rừng quý hiếm",
+    "culture": "Đền chùa, ẩm thực và nghệ thuật cổ",
+    "history": "Vương quốc không bao giờ bị khuất phục",
+    "wows": "7 điều khiến bạn phải xuýt xoa!"
+  },
+  "geo": [
+    "Nhìn trên bản đồ, Thái Lan có hình dáng giống một chiếc rìu dài. Nửa trên rộng hơn là vùng cao nguyên và thung lũng sông, nơi những con sông lớn chảy về hạ lưu hội tụ thành sông Chao Phraya — con sông 'mẹ' chảy qua giữa thủ đô Bangkok. Nửa dưới hẹp dần như cán rìu — đó là bán đảo Kra kẹp giữa vịnh Thái Lan và biển Andaman.",
+    "Miền Bắc có những đỉnh núi quanh năm mờ sương, trong đó Doi Inthanon cao 2.565 m là điểm cao nhất cả nước — gần bằng núi Fansipan của Việt Nam mình! Còn miền Nam thì lại ngập tràn hàng nghìn hòn đảo nhỏ, rặng san hô rực rỡ và những vách đá vôi dựng thẳng đứng từ mặt biển xanh như ngọc như những chiếc răng khổng lồ."
+  ],
+  "animals": [
+    "Con vật nổi tiếng nhất của Thái Lan chính là voi châu Á. Ngày xưa voi được dùng để chiến đấu và kéo gỗ rừng, nhưng ngày nay chúng được bảo vệ trong các vườn quốc gia. Khoảng 4.000–4.400 con voi hoang dã đang sống tự do trong những khu rừng như Khao Yai. Đặc biệt, voi trắng được coi là biểu tượng thiêng liêng của hoàng gia Thái.",
+    "Cá betta — hay còn gọi là cá xiêm — chính là linh vật thủy sản quốc gia của Thái Lan. Loài cá nước ngọt vây xòe rực rỡ này đã được người Thái nuôi từ hơn 1.000 năm trước! Ngoài ra, trong những cánh rừng rậm rạp miền Bắc vẫn còn ẩn náu báo đốm mây, hổ Đông Dương và gấu chó — những loài thú quý hiếm đang cần được bảo vệ."
+  ],
+  "culture": [
+    "Thái Lan là đất nước Phật giáo sâu sắc — hơn 93% người dân theo đạo Phật và cả nước có hơn 40.000 ngôi chùa. Các chàng trai trẻ thường dành vài tuần tu hành ở chùa như một bước trưởng thành. Cách chào 'Wai' — hai tay chắp trước ngực cúi đầu nhẹ — vừa là lời chào hỏi, vừa là lời cảm ơn, vừa thể hiện sự kính trọng.",
+    "Người Thái cực kỳ mê ăn uống! Từ cà ri thơm lừng, gỏi đu đủ chua cay, đến Pad Thai — những món ăn đường phố ngon tuyệt và rẻ bất ngờ. Tết Thái Lan gọi là Songkran, diễn ra vào tháng Tư, là lễ hội té nước lớn nhất thế giới — cả nước ướt sũng để xua tan điều xui xẻo và đón năm mới may mắn!"
+  ],
+  "history": [
+    "Những vương quốc Thái đầu tiên hình thành ở Sukhothai vào thế kỷ 13, rồi tiếp nối là vương triều Ayutthaya hùng mạnh cai trị suốt 400 năm. Trong khi các nước láng giềng lần lượt rơi vào tay thực dân châu Âu, các vị vua Thái khéo léo ngoại giao và giữ vững nền độc lập — trở thành quốc gia duy nhất ở Đông Nam Á chưa một lần bị đô hộ.",
+    "Năm 1939, đất nước đổi tên từ Xiêm thành Thái Lan — có nghĩa là Đất của Người Tự Do. Còn thủ đô Bangkok lại có tên gọi đầy đủ theo nghi lễ dài tới 168 chữ cái, được sách Kỷ lục Guinness công nhận là tên thành phố dài nhất thế giới!"
+  ],
+  "wows": [
+    "Tên gọi đầy đủ của Bangkok dài 168 chữ cái — kỷ lục Guinness về tên thành phố dài nhất hành tinh.",
+    "Bức tượng Phật bằng vàng nguyên khối lớn nhất thế giới nặng 5,5 tấn đã ẩn náu dưới lớp thạch cao suốt khoảng 200 năm ngay giữa Bangkok.",
+    "Thái Lan có hơn 40.000 ngôi chùa Phật giáo — nhiều hơn số cây xăng của hầu hết các nước khác.",
+    "Thái Lan là quốc gia duy nhất ở Đông Nam Á chưa bao giờ bị bất kỳ cường quốc châu Âu nào đô hộ.",
+    "Cá betta đã được người Thái nuôi từ hơn 1.000 năm trước — lâu hơn nhiều so với nhiều giống thú cưng quen thuộc ngày nay.",
+    "Món Pad Thai nổi tiếng thực ra được... chính phủ phát minh ra vào những năm 1940, để tiết kiệm gạo trong thời chiến bằng cách khuyến khích dân ăn mì.",
+    "Đỉnh núi Doi Inthanon được đặt theo tên vị vua cuối cùng của Chiang Mai — và tro cốt của ông được chôn cất ngay gần đỉnh."
+  ],
+  "myths": [
+    {
+      "myth": "\"Pad Thai là món ăn truyền thống cổ xưa\"",
+      "fact": "Thực ra Pad Thai mới chỉ xuất hiện từ những năm 1940! Chính phủ Thái lan đã phát minh ra công thức này để khuyến khích dân ăn mì thay cơm, giúp tiết kiệm gạo trong Thế chiến II. Ngon tuyệt vời — nhưng hoàn toàn là món hiện đại!"
+    },
+    {
+      "myth": "\"Đi Thái Lan là thấy voi đầy đường\"",
+      "fact": "Voi hoang dã châu Á đang trong tình trạng nguy cấp — chỉ còn khoảng 4.000–4.400 con sống trong rừng Thái Lan. Bạn sẽ dễ gặp voi hơn ở các khu bảo tồn và khu bảo vệ động vật hơn là ngoài đường phố."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "สวัสดี",
+      "say": "Sa-wat-dee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "ขอบคุณ",
+      "say": "Khob-khun"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "อร่อย",
+      "say": "A-roi"
+    },
+    {
+      "en": "Đền chùa",
+      "jp": "วัด",
+      "say": "Wat"
+    },
+    {
+      "en": "Nước",
+      "jp": "น้ำ",
+      "say": "Nahm"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/th-landmark.jpg",
+      "alt": "Đền Wat Arun nhìn từ bên kia sông Chao Phraya lúc bình minh",
+      "caption": "WAT ARUN — Đền Bình Minh lấp lánh bên bờ sông của Bangkok",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/th-animalA.jpg",
+      "alt": "Voi châu Á tại trại voi Ayutthaya, Thái Lan",
+      "caption": "VOI CHÂU Á — biểu tượng thiêng liêng của hoàng gia và văn hóa Thái",
+      "credit": "Yosemite / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/th-animalB.jpg",
+      "alt": "Cá betta đang xòe vây với màu sắc rực rỡ",
+      "caption": "CÁ BETTA — linh vật thủy sản quốc gia của Thái Lan",
+      "credit": "ErgoSum88 / Wikimedia Commons Public Domain"
+    },
+    "hero": {
+      "src": "/photos/th-hero.jpg",
+      "alt": "Đường chân trời Bangkok với tàu điện trên cao BTS chạy phía trước",
+      "caption": "BTS SKYTRAIN — hệ thống tàu điện trên cao hiện đại vút cao giữa lòng Bangkok",
+      "credit": "V. Argenberg / Wikimedia CC BY 4.0"
+    }
+  },
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBFA0",
+    "ink": "#2B2318",
+    "faint": "#8B7A56",
+    "line": "#DDD0B0",
+    "accent": "#A51931",
+    "accent2": "#2D2A7A"
+  },
+  "motif": "sun",
+  "langName": "tiếng Thái"
+}

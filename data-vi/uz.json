@@ -1,0 +1,163 @@
+{
+  "name": "UZBEKISTAN",
+  "nativeName": "O'zbek",
+  "romaji": "UZBEKISTON",
+  "tagline": "Trái tim Con Đường Tơ Lụa",
+  "region": "Trung Á",
+  "coords": "41°N 64°E",
+  "fileNo": "062",
+  "langName": "tiếng Uzbek",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EED8",
+    "dot": "#D4C49A",
+    "ink": "#2B2318",
+    "faint": "#8A7A52",
+    "line": "#E0D0A8",
+    "accent": "#1A6B9A",
+    "accent2": "#2E8B4A"
+  },
+  "flag": {
+    "assetPath": "/flags/uz.svg",
+    "title": "Quốc kỳ Uzbekistan",
+    "note": "Ba sọc xanh dương, trắng và xanh lá — có trăng lưỡi liềm và 12 ngôi sao",
+    "keyColor": "#1A6B9A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Uzbekistan nằm ngay giữa lòng châu Á, nơi những đoàn lạc đà chở tơ lụa và hương liệu đi lại giữa Trung Quốc và châu Âu hàng nghìn năm trước. Đặt chân đến Samarkand, bạn sẽ ngẩn ngơ trước những quảng trường khảm gạch xanh lấp lánh và những ngọn tháp đứng sừng sững suốt 600 năm. Thú vị nhất là Uzbekistan thuộc nhóm cực hiếm — chỉ có hai nước trên Trái Đất mà muốn ra tới biển phải vượt qua hai đường biên giới!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tashkent",
+      "sub": "Dân số khoảng 3 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "37,5 triệu người",
+      "sub": "Ước tính tháng 1/2025, Cục Thống kê"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Som (UZS)",
+      "sub": "\"Som\" nghĩa là \"thuần khiết\" trong tiếng Turk"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Uzbek",
+      "sub": "Ngôn ngữ Turk, dùng chữ Latin"
+    },
+    {
+      "label": "Diện tích",
+      "value": "447.400 km²",
+      "sub": "Lớn hơn Thụy Điển một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "4.668 m",
+      "sub": "Đỉnh Alpomish, dãy Gissar (2023)"
+    }
+  ],
+  "islands": [
+    "Tashkent",
+    "Samarkand",
+    "Bukhara",
+    "Khiva",
+    "Fergana"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sa mạc, sông ngòi & núi non",
+    "animals": "Muông thú thảo nguyên và rừng núi",
+    "culture": "Hương vị Tơ Lụa & gạch xanh lam",
+    "history": "Đế chế ở ngã tư thế giới",
+    "wows": "Những điều khó tin!"
+  },
+  "geo": [
+    "Uzbekistan phần lớn là sa mạc bằng phẳng và thảo nguyên khô hạn, được hai con sông quý giá Amu Darya và Syr Darya tưới mát. Hai dòng sông này từng nuôi sống những cánh đồng bông mênh mông, cho đến khi người Liên Xô chặn nước dẫn vào kênh tưới tiêu, gây ra thảm họa môi trường kinh khủng mà cả thế giới biết đến.",
+    "Về phía đông, địa hình vút lên thành những dãy núi hùng vĩ quanh năm phủ tuyết. Phía tây là cao nguyên Ustyurt rộng lớn, phẳng như mặt bàn. Biển Aral — từng là hồ nước lớn thứ tư thế giới — đã mất tới 90% lượng nước sau khi hai con sông bị đổi dòng, để lại một vùng cát trắng mênh mông."
+  ],
+  "animals": [
+    "Thảo nguyên Uzbekistan là ngôi nhà của linh dương saiga — loài thú sống sót từ Kỷ Băng Hà với cái mũi phình to kỳ lạ, giúp sưởi ấm không khí lạnh trước khi vào phổi. Mỗi mùa đông, từng đàn saiga hàng nghìn con di cư qua cao nguyên Ustyurt, thở ra những làn khói trắng trong sương giá.",
+    "Trên những vách đá cao của dãy Kugitang sống một loài dê hoang đặc biệt — markhor Bukhara, với cặp sừng xoắn ốc hùng tráng dài hơn một mét. Báo tuyết cũng lặng lẽ tuần tra những sườn núi cao nhất, săn mồi giữa vách đá hiểm trở — chẳng ai thấy chúng bao giờ nếu chúng không muốn."
+  ],
+  "culture": [
+    "Plov — cơm thơm nấu cùng thịt cừu, cà rốt và thì là trong chảo gang khổng lồ — là món ăn quốc hồn quốc túy của Uzbekistan. Tục ngữ xưa có câu: \"Giàu hay nghèo, hãy ăn plov.\" Đàn ông truyền thống là người nấu plov cho đám cưới, ngoài trời, bên ngọn lửa bùng cháy rực rỡ.",
+    "Navruz — Tết Mùa Xuân tổ chức đúng ngày xuân phân tháng Ba — là lễ hội lớn nhất trong năm. Mọi gia đình dọn dẹp nhà cửa, bỏ qua mọi hiềm khích cũ, và cùng nhau vui ăn ngoài công viên. Lễ hội này đã được người dân Uzbekistan duy trì liên tục hơn 3.000 năm, còn lâu hơn cả lịch sử Việt Nam ta."
+  ],
+  "history": [
+    "Samarkand và Bukhara đã là những đô thị lừng danh trên Con Đường Tơ Lụa từ thế kỷ thứ 8, giàu có nhờ buôn bán giữa Trung Quốc và châu Âu. Vào những năm 1420, nhà thiên văn học kiêm vua Ulugbek cho xây một đài quan sát ở Samarkand, nơi ông lập danh mục hơn 1.000 ngôi sao — khi cả thế giới còn chưa có kính thiên văn.",
+    "Thế kỷ 14, đại chinh phục gia Timur (còn gọi là Tamerlane) biến Samarkand thành kinh đô lộng lẫy của một đế chế rộng lớn, cho xây vô số công trình phủ gạch xanh lam nguy nga. Đến thế kỷ 19, Nga sáp nhập vùng đất này; mãi đến năm 1991, Uzbekistan mới chính thức tuyên bố độc lập."
+  ],
+  "wows": [
+    "Trên thế giới chỉ có hai nước \"kép không giáp biển\" — Uzbekistan là một trong số đó: muốn ra tới đại dương phải vượt qua hai đường biên giới.",
+    "Quảng trường Registan ở Samarkand phủ kín gạch mosaic xanh lam đến mức trông như viên đá quý phát sáng từ trên không trung.",
+    "Các ga tàu điện ngầm Tashkent đẹp như cung điện dưới lòng đất — nhưng suốt 41 năm, khách du lịch bị cấm chụp ảnh bên trong.",
+    "Biển Aral từng là hồ nước lớn thứ tư thế giới vào năm 1960; ngày nay phần lớn đã thành sa mạc cát.",
+    "Những con thuyền đánh cá cũ của biển Aral giờ nằm chơ vơ giữa đất liền, cách mép nước xa nhất tới 150 km.",
+    "Khu phố cổ Itchan Kala trong thành Khiva có hơn 50 công trình cổ đại được bao quanh bởi tường thành đất nung.",
+    "Năm 2017, các đầu bếp Tashkent nấu hơn 7 tấn plov trong một nồi khổng lồ — phá kỷ lục thế giới!"
+  ],
+  "myths": [
+    {
+      "myth": "Uzbekistan khó đi và không an toàn",
+      "fact": "Sau các cải cách từ năm 2016, hơn 90 quốc tịch được miễn visa. Hàng triệu du khách đến thăm các thành phố Tơ Lụa mỗi năm một cách bình an và thú vị."
+    },
+    {
+      "myth": "Thảm họa biển Aral không thể cứu vãn được",
+      "fact": "Đập Kok-Aral mà Kazakhstan xây năm 2005 đã khiến phần phía bắc của biển Aral dâng lên chỉ trong vài tháng. Uzbekistan cũng trồng hàng triệu cây saxaul trên nền biển cũ, giúp giảm đáng kể những trận bão cát nguy hiểm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Salom",
+      "say": "sah-LOM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Rahmat",
+      "say": "RAH-mat"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Iltimos",
+      "say": "il-TI-mos"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Ha",
+      "say": "ha"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Mazali!",
+      "say": "ma-ZA-li"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/uz-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống thành phố Tashkent, Uzbekistan",
+      "caption": "TASHKENT — Thủ đô lớn nhất Trung Á nhìn từ trên không",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/uz-landmark.jpg",
+      "alt": "Quảng trường Registan với ba tòa madrasa ở Samarkand, Uzbekistan",
+      "caption": "QUẢNG TRƯỜNG REGISTAN — Ba tòa madrasa khảm gạch xanh lam của Samarkand, viên ngọc của Con Đường Tơ Lụa",
+      "credit": "Stomac / Wikimedia Commons CC BY-SA 2.0 FR"
+    },
+    "animalA": {
+      "src": "/photos/uz-animalA.jpg",
+      "alt": "Linh dương saiga trên thảo nguyên Trung Á",
+      "caption": "LINH DƯƠNG SAIGA — loài thú mũi phình sống sót từ Kỷ Băng Hà trên thảo nguyên Uzbekistan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/uz-animalB.jpg",
+      "alt": "Dê hoang markhor với cặp sừng xoắn ốc",
+      "caption": "MARKHOR BUKHARA — dê hoang sừng xoắn ốc trên dãy núi Kugitang",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

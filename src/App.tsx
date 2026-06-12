@@ -12,6 +12,7 @@ import { useProfile, setProfile, hasOnboarded, COUNTRY_OPTIONS, type Profile } f
 import { LangContext } from "./LangContext";
 import { getLang, setLang, type Lang } from "./lang";
 import { LOCALES } from "./locale";
+import { getUI, tContinent } from "./i18n";
 
 const SPREAD_W = 1588;
 const SPREAD_H = 1123;
@@ -101,12 +102,15 @@ function PrintPage() {
   return <div id="print-root" style={{ width: SPREAD_W2, height: SPREAD_H2, background: "#fff" }}><SpineFrame n={idx + 1}>{renderSpinePage(SPINE[idx], true, PERSON.name, "en")}</SpineFrame></div>;
 }
 
-function spineLabel(p: Page): string {
-  if (p.type === "country") return COUNTRIES[p.iso!]?.name ?? p.iso!;
-  if (p.type === "continent-divider") return `${p.continent} — divider`;
-  if (p.type === "quiz") return `Quiz · ${p.continent}`;
-  if (p.type === "toc") return "Contents";
-  if (p.type === "world-map-toc") return "World Map";
+function spineLabel(p: Page, lang: Lang = "en"): string {
+  const ui = getUI(lang);
+  if (p.type === "country") return getCountryLang(p.iso!, lang)?.name ?? COUNTRIES[p.iso!]?.name ?? p.iso!;
+  if (p.type === "continent-divider") return tContinent(p.continent!, lang);
+  if (p.type === "quiz") return ui.quiz.challenge(tContinent(p.continent!, lang));
+  if (p.type === "toc") return ui.toc.title;
+  if (p.type === "world-map-toc") return ui.worldmap.title;
+  if (p.type === "passport") return ui.passport.title;
+  if (p.type === "cover") return ui.cover.kicker;
   return p.type.replace(/-/g, " ");
 }
 
@@ -121,7 +125,7 @@ function BookReader() {
   const dir = React.useRef<1 | -1>(1);
 
   // language toggle (EN / VI)
-  const { lang } = React.useContext(LangContext);
+  const { lang, ui } = React.useContext(LangContext);
 
   // viewport tracking → responsive scale; narrow screens read one page at a time
   const [vp, setVp] = React.useState(() => ({ w: window.innerWidth, h: window.innerHeight }));
@@ -286,21 +290,27 @@ function BookReader() {
               <span title="Countries visited" style={{ color: "#7FB069" }}>🌍 {visitedCountryCount(visited)}</span>
             </div>
             <button onClick={() => { reveal(); setShowOnboard(true); }} title="Make this book yours — set name, age, home country" style={chipBtn(false)}>✎</button>
+            {!IS_FR_BUILD && (
+              <button onClick={() => { reveal(); setLang(lang === "vi" ? "en" : "vi"); }} title="English / Tiếng Việt"
+                style={{ background: "#B23A2E", color: "#fff", border: "none", borderRadius: 7, padding: "7px 9px", fontFamily: "'Spline Sans Mono', monospace", fontSize: 12, letterSpacing: ".06em", cursor: "pointer" }}>
+                {lang === "vi" ? "EN" : "VI"}
+              </button>
+            )}
             <button onClick={() => go(1)} disabled={atEnd} style={navBtn(atEnd)}>→</button>
           </>
         ) : (
           <>
             <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
-              <button onClick={() => go(-1)} disabled={atStart} style={navBtn(atStart)}>← Prev</button>
+              <button onClick={() => go(-1)} disabled={atStart} style={navBtn(atStart)}>{ui.reader.prev}</button>
               <button onClick={() => { reveal(); toggleVisited(idx + 1); }} title="Mark this page visited / not visited"
-                style={chipBtn(isVisited)}>{isVisited ? "✓ Visited" : "Mark visited"}</button>
+                style={chipBtn(isVisited)}>{isVisited ? ui.reader.visited : ui.reader.markVisited}</button>
             </div>
             <div style={{ display: "flex", alignItems: "center", gap: 14, fontSize: 13 }}>
-              <Link to={`/book/${MAP_PAGE}`} style={{ color: "#B23A2E", textDecoration: "none" }}>Map</Link>
+              <Link to={`/book/${MAP_PAGE}`} style={{ color: "#B23A2E", textDecoration: "none" }}>{ui.reader.map}</Link>
               <span style={{ opacity: .6 }}>·</span>
-              <span style={{ fontWeight: 700 }}>{spineLabel(page)}</span>
+              <span style={{ fontWeight: 700 }}>{spineLabel(page, lang)}</span>
               <span style={{ display: "flex", alignItems: "center", gap: 6, opacity: .85 }}>
-                <span style={{ opacity: .6 }}>page</span>
+                <span style={{ opacity: .6 }}>{ui.reader.page}</span>
                 <input
                   value={jump}
                   onChange={(e) => { reveal(); setJump(e.target.value.replace(/[^0-9]/g, "")); }}
@@ -319,7 +329,7 @@ function BookReader() {
               <button onClick={() => { reveal(); setShowOnboard(true); }} title="Make this book yours — set name, age, home country"
                 style={chipBtn(false)}>✎ {prof.name}</button>
               <button onClick={() => { reveal(); setConfirmReset(true); }} title="Reset all progress"
-                style={chipBtn(false)}>Reset</button>
+                style={chipBtn(false)}>{ui.reader.reset}</button>
               {!IS_FR_BUILD && (
                 <div style={{ display: "flex", gap: 2, border: "1px solid #4a3f30", borderRadius: 7, overflow: "hidden" }}>
                   {(["en", "vi"] as Lang[]).map((l) => (
@@ -330,7 +340,7 @@ function BookReader() {
                   ))}
                 </div>
               )}
-              <button onClick={() => go(1)} disabled={atEnd} style={navBtn(atEnd)}>Next →</button>
+              <button onClick={() => go(1)} disabled={atEnd} style={navBtn(atEnd)}>{ui.reader.next}</button>
             </div>
           </>
         )}
@@ -342,14 +352,14 @@ function BookReader() {
           style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,.6)", display: "grid", placeItems: "center", zIndex: 40 }}>
           <div onClick={(e) => e.stopPropagation()}
             style={{ background: "#26221d", color: "#F0E6D1", border: "1px solid #4a3f30", borderRadius: 14, padding: "26px 30px", width: "min(380px, 92vw)", fontFamily: "'Spline Sans Mono', monospace", boxShadow: "0 24px 60px rgba(0,0,0,.6)" }}>
-            <div style={{ fontFamily: "'Bricolage Grotesque', sans-serif", fontWeight: 800, fontSize: 22, marginBottom: 8 }}>Reset all progress?</div>
+            <div style={{ fontFamily: "'Bricolage Grotesque', sans-serif", fontWeight: 800, fontSize: 22, marginBottom: 8 }}>{ui.reader.resetTitle}</div>
             <p style={{ fontSize: 13.5, lineHeight: 1.5, opacity: .85, margin: "0 0 22px" }}>
-              This clears every visited page and all collected stamps for {prof.name}. This can't be undone.
+              {ui.reader.resetBody(prof.name)}
             </p>
             <div style={{ display: "flex", justifyContent: "flex-end", gap: 12 }}>
-              <button onClick={() => setConfirmReset(false)} style={chipBtn(false)}>Cancel</button>
+              <button onClick={() => setConfirmReset(false)} style={chipBtn(false)}>{ui.reader.cancel}</button>
               <button onClick={() => { resetProgress(); setConfirmReset(false); }}
-                style={{ ...navBtn(false), background: "#B23A2E" }}>Reset everything</button>
+                style={{ ...navBtn(false), background: "#B23A2E" }}>{ui.reader.resetAll}</button>
             </div>
           </div>
         </div>
@@ -365,11 +375,17 @@ function BookReader() {
    passport, Explorer's Log narrative, and the rank ladder for whichever child is reading. */
 function OnboardingModal({ onClose }: { onClose: () => void }) {
   const prof = useProfile();
+  const { ui, lang } = React.useContext(LangContext);
   const [name, setName] = React.useState(prof.name);
   const [age, setAge] = React.useState(String(prof.age));
   const [nationality, setNationality] = React.useState(prof.nationality);
   const [homeIso, setHomeIso] = React.useState(prof.homeIso);
   const home = COUNTRY_OPTIONS.find((c) => c.iso === homeIso);
+  const localizedOptions = React.useMemo(
+    () => COUNTRY_OPTIONS.map((c) => ({ iso: c.iso, name: getCountryLang(c.iso, lang)?.name ?? c.name }))
+      .sort((a, b) => a.name.localeCompare(b.name, lang)),
+    [lang]
+  );
   const valid = name.trim().length > 0 && !!home;
   const save = () => {
     if (!valid || !home) return;
@@ -390,33 +406,33 @@ function OnboardingModal({ onClose }: { onClose: () => void }) {
       style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,.6)", display: "grid", placeItems: "center", zIndex: 50 }}>
       <div onClick={(e) => e.stopPropagation()}
         style={{ background: "#26221d", color: "#F0E6D1", border: "1px solid #4a3f30", borderRadius: 16, padding: "28px 32px", width: "min(440px, 92vw)", maxHeight: "88vh", overflowY: "auto", fontFamily: "'Spline Sans Mono', monospace", boxShadow: "0 28px 70px rgba(0,0,0,.65)" }}>
-        <div style={{ fontFamily: "'Bricolage Grotesque', sans-serif", fontWeight: 800, fontSize: 26, lineHeight: 1.05 }}>Make this book yours</div>
+        <div style={{ fontFamily: "'Bricolage Grotesque', sans-serif", fontWeight: 800, fontSize: 26, lineHeight: 1.05 }}>{ui.onboard.title}</div>
         <p style={{ fontSize: 13, lineHeight: 1.5, opacity: .8, margin: "8px 0 22px" }}>
-          Tell us who's exploring. Your name appears on the cover and passport, and your journey starts at home.
+          {ui.onboard.lead}
         </p>
         <div style={{ display: "grid", gridTemplateColumns: "1.4fr .8fr", gap: 16 }}>
           <div>
-            <label style={label}>Your name</label>
-            <input value={name} onChange={(e) => setName(e.target.value)} maxLength={14} placeholder="e.g. Momo" style={field} autoFocus />
+            <label style={label}>{ui.onboard.yourName}</label>
+            <input value={name} onChange={(e) => setName(e.target.value)} maxLength={14} placeholder={ui.onboard.namePh} style={field} autoFocus />
           </div>
           <div>
-            <label style={label}>Age</label>
-            <input value={age} onChange={(e) => setAge(e.target.value.replace(/[^0-9]/g, ""))} inputMode="numeric" maxLength={3} placeholder="7" style={field} />
+            <label style={label}>{ui.onboard.age}</label>
+            <input value={age} onChange={(e) => setAge(e.target.value.replace(/[^0-9]/g, ""))} inputMode="numeric" maxLength={3} placeholder={ui.onboard.agePh} style={field} />
           </div>
         </div>
         <div style={{ marginTop: 16 }}>
-          <label style={label}>Nationality</label>
-          <input value={nationality} onChange={(e) => setNationality(e.target.value)} maxLength={24} placeholder="e.g. Vietnamese" style={field} />
+          <label style={label}>{ui.onboard.nationality}</label>
+          <input value={nationality} onChange={(e) => setNationality(e.target.value)} maxLength={24} placeholder={ui.onboard.nationalityPh} style={field} />
         </div>
         <div style={{ marginTop: 16 }}>
-          <label style={label}>Home country — your journey starts here</label>
+          <label style={label}>{ui.onboard.homeCountry}</label>
           <select value={homeIso} onChange={(e) => setHomeIso(e.target.value)} style={{ ...field, appearance: "auto" }}>
-            {COUNTRY_OPTIONS.map((c) => <option key={c.iso} value={c.iso}>{c.name}</option>)}
+            {localizedOptions.map((c) => <option key={c.iso} value={c.iso}>{c.name}</option>)}
           </select>
         </div>
         <div style={{ display: "flex", justifyContent: "flex-end", gap: 12, marginTop: 26 }}>
-          <button onClick={onClose} style={chipBtn(false)}>Cancel</button>
-          <button onClick={save} disabled={!valid} style={{ ...navBtn(!valid) }}>Start exploring →</button>
+          <button onClick={onClose} style={chipBtn(false)}>{ui.onboard.cancel}</button>
+          <button onClick={save} disabled={!valid} style={{ ...navBtn(!valid) }}>{ui.onboard.start}</button>
         </div>
       </div>
     </div>
@@ -475,9 +491,10 @@ export default function App() {
     return () => window.removeEventListener("cb-lang-change", handler);
   }, []);
   const locale = LOCALES[lang] ?? LOCALES.en;
+  const ui = getUI(lang);
 
   return (
-    <LangContext.Provider value={{ lang, locale, young: IS_YOUNG_BUILD }}>
+    <LangContext.Provider value={{ lang, locale, ui, young: IS_YOUNG_BUILD }}>
       <HashRouter>
         <Routes>
           <Route path="/" element={<Navigate to="/book/1" replace />} />

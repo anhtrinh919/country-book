@@ -1,0 +1,163 @@
+{
+  "name": "GABON",
+  "nativeName": "GA",
+  "romaji": "GABON",
+  "tagline": "Lá phổi xanh cuối cùng của châu Phi",
+  "region": "Trung Phi",
+  "coords": "0°N 12°E",
+  "fileNo": "083",
+  "langName": "tiếng Pháp",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDDF",
+    "dot": "#C8BB9E",
+    "ink": "#1E2016",
+    "faint": "#7A7A55",
+    "line": "#DDD8C0",
+    "accent": "#009E60",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/ga.svg",
+    "title": "Cờ Gabon",
+    "note": "Xanh lá, vàng và xanh dương — rừng già, ánh nắng, đại dương",
+    "keyColor": "#009E60",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Gabon nằm ở bờ Đại Tây Dương của châu Phi, nơi đường Xích đạo xuyên thẳng qua những cánh rừng già cổ thụ. Hơn 80% đất nước là rừng nhiệt đới rậm rạp — nơi trú ngụ của voi rừng, khỉ đột lưng bạc và con mandrill, loài khỉ rực rỡ sắc màu nhất thế giới. Gabon đã gìn giữ gần như nguyên vẹn những cánh rừng của mình, trở thành một trong những lá phổi xanh hấp thụ khí carbon lớn nhất hành tinh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Libreville",
+      "sub": "thành lập năm 1849, dân số ~900 nghìn"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,54 triệu người",
+      "sub": "ước tính 2024, Ngân hàng Thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "dùng chung với 5 nước láng giềng"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Pháp",
+      "sub": "ngôn ngữ chính thức; hơn 40 tiếng địa phương"
+    },
+    {
+      "label": "Diện tích",
+      "value": "267.668 km²",
+      "sub": "tương đương diện tích New Zealand"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Bengoué",
+      "sub": "1.070 m, đông bắc Gabon"
+    }
+  ],
+  "islands": [
+    "Libreville",
+    "Port-Gentil",
+    "Franceville",
+    "Oyem",
+    "Lambaréné"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Rừng già bên mép đại dương",
+    "animals": "Những gã khổng lồ của rừng thẳm",
+    "culture": "Trống, mặt nạ và cây iboga huyền bí",
+    "history": "Từ những chiếc thuyền độc mộc đến giàn khoan dầu",
+    "wows": "Gabon kỳ diệu"
+  },
+  "geo": [
+    "Gabon nằm vắt qua đường Xích đạo ở bờ Đại Tây Dương thuộc Trung Phi. Rừng nhiệt đới dày đặc phủ kín hơn 80% diện tích đất nước, chằng chịt bởi con sông Ogooué hùng vĩ — con đường giao thương hàng thế kỷ của người Gabon — uốn lượn suốt 1.200 km đổ ra biển.",
+    "Bờ biển nơi đây thay nhau hiện ra với những bãi cát trắng, rừng ngập mặn xanh mướt và những vũng đá hoang sơ. Sâu trong đất liền, địa hình nhô cao thành khối Chaillu, nơi Vườn Quốc gia Lopé ôm trong lòng những thảo nguyên cổ xưa viền quanh bởi rừng rậm — một sự kết hợp hiếm thấy đến mức UNESCO công nhận là kỳ quan thế giới."
+  ],
+  "animals": [
+    "Gabon là nơi sinh sống của gần 85.000 con voi rừng — nhiều hơn bất kỳ quốc gia nào khác trên Trái Đất. Ở Vườn Quốc gia Loango, bạn có thể chứng kiến những chú voi đủng đỉnh dạo bộ trên bãi biển trong khi sóng vỗ nhẹ vào chân, còn hà mã thì đang lướt sóng ngay bên cạnh.",
+    "Con mandrill — loài khỉ lớn nhất thế giới với khuôn mặt sặc sỡ đỏ-xanh như sơn — là biểu tượng quốc gia của Gabon. Khoảng 35.000 con khỉ đột đồng bằng phương Tây sinh sống trong những cánh rừng nơi đây, và Lopé từng ghi nhận đàn mandrill đông nhất thế giới với hơn 1.400 con cùng di chuyển một lúc."
+  ],
+  "culture": [
+    "Gabon có hơn 40 dân tộc khác nhau, đông nhất là người Fang. Truyền thống tâm linh Bwiti đan xen việc thờ cúng tổ tiên, tiếng trống đánh nhiều nhịp cùng lúc và cây iboga thiêng liêng — một loài cây của rừng nhiệt đới đang được các nhà khoa học toàn thế giới nghiên cứu như một loại thuốc trị nghiện tiềm năng.",
+    "Âm nhạc ngập tràn trong đời sống làng xã: đàn harp-lute mvet và đàn mộc cầm obala bằng gỗ là linh hồn của các lễ hội. Bữa ăn mang hơi thở của cả hai thế giới — phong cách Pháp hòa quyện với hương vị rừng già: cá hun khói, khoai mì, chuối tiêu nướng và tôm hùm tươi ngay từ bờ biển."
+  ],
+  "history": [
+    "Thủy thủ người Bồ Đào Nha đặt chân đến đây năm 1472 và đặt tên cho cửa sông là 'Gabão' vì hình dạng giống chiếc áo choàng. Pháp đến thực dân hóa vào thế kỷ 19; thủ đô Libreville được những người nô lệ được giải phóng xây dựng nên — cái tên có nghĩa là 'thị trấn tự do'.",
+    "Gabon giành độc lập ngày 17 tháng 8 năm 1960. Dầu mỏ phát hiện những năm 1970 đưa đất nước này trở thành một trong những quốc gia giàu có nhất châu Phi. Năm 2021, Gabon trở thành nước châu Phi đầu tiên được nhận tiền mặt — 17 triệu đô la — từ Liên Hợp Quốc thông qua chương trình REDD+ vì đã bảo vệ rừng."
+  ],
+  "wows": [
+    "Gabon hấp thụ nhiều CO₂ hơn lượng nó thải ra — một trong số ít quốc gia trên Trái Đất thực sự là 'bể chứa carbon' ròng.",
+    "Ở Loango, bạn có thể nhìn thấy voi đi trên bãi biển, hà mã lướt sóng và cá voi ngoài khơi — tất cả chỉ trong một ngày.",
+    "Cây iboga được Gabon tuyên bố là báu vật quốc gia năm 2000, hiện đang được nghiên cứu như phương pháp chữa trị chứng nghiện ma túy.",
+    "Năm 2002, Gabon thành lập 13 vườn quốc gia cùng một lúc, bảo vệ 11% diện tích lãnh thổ trong một hành động bảo tồn kỷ lục.",
+    "Voi rừng là những 'người làm vườn siêu cỡ' của Gabon — chúng phát tán hạt giống đi khắp nơi thông qua phân của mình.",
+    "Vườn Quốc gia Lopé lưu giữ 1.800 bức chạm khắc đá cổ đại bên cạnh đàn khỉ đột — một trong số ít di sản UNESCO kết hợp cả thiên nhiên lẫn văn hóa.",
+    "Cờ Gabon có tỉ lệ 3:4 hiếm gặp — chỉ có bốn nước trên thế giới dùng tỉ lệ này: Gabon, CHDC Congo, Papua New Guinea và San Marino."
+  ],
+  "myths": [
+    {
+      "myth": "Gabon chỉ là rừng rậm, chẳng có gì khác",
+      "fact": "Gabon có thủ đô hiện đại với những tòa nhà chọc trời và từng là một trong những quốc gia có thu nhập bình quân đầu người cao nhất châu Phi, thuộc nhóm thu nhập trung bình cao."
+    },
+    {
+      "myth": "Tất cả voi châu Phi đều giống nhau",
+      "fact": "Voi rừng ở Gabon là một loài riêng biệt — nhỏ hơn, với ngà thẳng hơn, sống sâu trong rừng già chứ không phải trên thảo nguyên như loài voi mà mọi người hay hình dung."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjour",
+      "say": "bohn-ZHOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Oui",
+      "say": "WEE"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Au revoir",
+      "say": "oh-ruh-VWAH"
+    },
+    {
+      "en": "Con voi",
+      "jp": "Éléphant",
+      "say": "ay-lay-FAHN"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ga-hero.jpg",
+      "alt": "Các tòa nhà văn phòng hiện đại ở trung tâm thủ đô Libreville, Gabon",
+      "caption": "LIBREVILLE — đường chân trời thủ đô với tòa nhà Gabon Mining nổi bật.",
+      "credit": "Delrick Williams, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/ga-landmark.jpg",
+      "alt": "Toàn cảnh thảo nguyên và rừng rậm của Vườn Quốc gia Lopé",
+      "caption": "VƯỜN QUỐC GIA LOPÉ — thảo nguyên gặp rừng nhiệt đới tại Di sản Thế giới UNESCO.",
+      "credit": "Olly Griffin, CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ga-animalA.jpg",
+      "alt": "Voi rừng mẹ và con trong Vườn Quốc gia Loango, Gabon",
+      "caption": "VOI RỪNG — mẹ và con tại Loango, khu bảo tồn voi lớn nhất Trái Đất.",
+      "credit": "Kurt Dundy, CC BY 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ga-animalB.jpg",
+      "alt": "Khỉ đột đồng bằng phương Tây hoang dã — mẹ bế con trong Vườn Quốc gia Loango",
+      "caption": "KHỈ ĐỘT ĐỒNG BẰNG PHƯƠNG TÂY — mẹ và con đang kiếm ăn trong rừng Loango.",
+      "credit": "TheLeftCoast, CC0 1.0"
+    }
+  }
+}

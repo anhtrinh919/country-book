@@ -1,0 +1,163 @@
+{
+  "name": "BURKINA FASO",
+  "nativeName": "BF",
+  "romaji": "BURKINA FASO",
+  "tagline": "Đất của những con người ngay thẳng",
+  "region": "Tây Phi",
+  "coords": "12.3°N, 1.5°W",
+  "fileNo": "071",
+  "langName": "tiếng Mooré",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDDA",
+    "dot": "#C9B48A",
+    "ink": "#231E12",
+    "faint": "#8A7455",
+    "line": "#DDD0B0",
+    "accent": "#EF2B2D",
+    "accent2": "#009A44"
+  },
+  "flag": {
+    "assetPath": "/flags/bf.svg",
+    "title": "Cờ Burkina Faso",
+    "note": "Hai nửa đỏ và xanh lá, ngôi sao vàng ở giữa",
+    "keyColor": "#EF2B2D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Burkina Faso nằm lọt thỏm giữa lục địa Châu Phi, bao quanh bởi sáu nước láng giềng mà không có lấy một mét bờ biển. Tên nước có nghĩa là \"Đất của những con người ngay thẳng\" — cái tên do một vị tổng thống đặt vì ông tin rằng sự trung thực mới là kho báu lớn nhất của một quốc gia. Phần lớn người dân nơi đây làm nông, bầu trời thì rộng mênh mông, và mỗi buổi hoàng hôn trên đồng cỏ phẳng lặng lại bùng cháy một màu vàng rực rỡ.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Ouagadougou",
+      "sub": "Tên gọi thân mật: \"Ouaga\""
+    },
+    {
+      "label": "Dân số",
+      "value": "24,1 triệu người",
+      "sub": "Ước tính LHQ, năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc CFA",
+      "sub": "Dùng chung ở Tây Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Mooré & nhiều ngôn ngữ khác",
+      "sub": "Hơn 60 ngôn ngữ được sử dụng"
+    },
+    {
+      "label": "Diện tích",
+      "value": "274.223 km²",
+      "sub": "Lớn hơn cả nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "747 m",
+      "sub": "Núi Tenakourou, phía Tây Nam"
+    }
+  ],
+  "islands": [
+    "Ouagadougou",
+    "Bobo",
+    "Koudougou",
+    "Banfora",
+    "Ouahigouya"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Cao nguyên phẳng dưới bầu trời rộng",
+    "animals": "Thú hoang trên đồng cỏ savanna",
+    "culture": "Mặt nạ, phim ảnh và nhịp trống",
+    "history": "Vương quốc, biến cố và dũng khí",
+    "wows": "Bảy điều bất ngờ!"
+  },
+  "geo": [
+    "Burkina Faso nằm trên một cao nguyên rộng lớn, cao khoảng 400 m so với mực nước biển — phẳng như mặt bàn, ngày ngày bị mặt trời thiêu đốt. Ba con sông Volta Đen, Volta Đỏ và Volta Trắng chảy ngang qua đất nước này. Mùa mưa ngắn ngủi đến là đủ biến đám bụi khô cằn thành đồng cỏ xanh mướt chỉ trong một thời gian rất ngắn.",
+    "Ngọn núi cao nhất, Tenakourou, chỉ đạt 747 m — giống một ngọn đồi phủ rừng hơn là một ngọn núi thật sự. Đứng trên đỉnh, có thể nhìn thấy cả Mali lẫn Bờ Biển Ngà cùng một lúc. Mỗi thập kỷ, sa mạc Sahel lại lấn thêm về phía Nam, khiến trồng cây trở thành một trong những việc làm quan trọng nhất của đất nước."
+  ],
+  "animals": [
+    "Động vật hoang dã của Burkina Faso trú ngụ trong bốn vườn quốc gia ở phía Nam. Khu phức hợp W-Arly-Pendjari là ngôi nhà của khoảng 200 con voi, 100 con sư tử, hà mã, cá sấu và hơn 300 loài chim. Bình minh ló dạng là lúc đàn voi lội qua sông Arli, còn báo cheetah thì rình rập trong đám cỏ dài gần đó.",
+    "Chỉ cách thủ đô 30 km, tại làng Bazoulé có một cái ao thiêng nơi hơn một trăm con cá sấu sông Nile sống cùng với dân làng. Người dân tin rằng đàn cá sấu này đã đến từ những cơn mưa đầu tiên hàng thế kỷ trước và xem chúng như hàng xóm — lũ trẻ con vẫn vô tư chơi ngay bên mép nước mà không hề sợ hãi."
+  ],
+  "culture": [
+    "Hơn 60 dân tộc ở Burkina Faso đều có âm nhạc và mặt nạ riêng. Người Mossi, Bobo và Bwa chạm khắc những chiếc mặt nạ gỗ cao lớn, tượng trưng cho tổ tiên và muông thú, được đeo trong các lễ hội để kết nối người đang sống với những người đã khuất. Tiếng trống, đàn balafon và đàn kora vang vọng suốt những đêm hội.",
+    "Hai năm một lần, Ouagadougou lại đăng cai FESPACO — liên hoan phim lớn nhất châu Phi. Đạo diễn từ hơn 50 quốc gia tranh giải Ngựa Vàng Yennenga, lấy tên từ một công chúa huyền thoại của người Mossi. Burkina Faso là cái tên vượt trội bất ngờ trên bản đồ điện ảnh châu Phi."
+  ],
+  "history": [
+    "Các vương quốc Mossi đã cai trị vùng đất này từ khoảng năm 1100, kiên cường chống lại mọi cuộc chinh phạt suốt nhiều thế kỷ. Pháp chiếm đóng nơi đây vào năm 1896, đặt tên là Thượng Volta. Ngày 5 tháng 8 năm 1960, đất nước giành được độc lập, trở thành một trong những quốc gia đầu tiên ở Tây Phi được tự do.",
+    "Năm 1983, Đại úy Thomas Sankara đổi tên nước thành Burkina Faso, tổ chức tiêm chủng cho 2,5 triệu trẻ em chỉ trong một tuần, và trồng 10 triệu cây xanh để ngăn sa mạc hóa. Được hàng triệu người coi là anh hùng, ông bị ám sát trong một cuộc đảo chính chỉ bốn năm sau đó."
+  ],
+  "wows": [
+    "Tên \"Burkina Faso\" ghép từ hai ngôn ngữ: \"ngay thẳng\" trong tiếng Mooré và \"tổ quốc\" trong tiếng Dyula.",
+    "FESPACO tại Ouagadougou là liên hoan phim lớn nhất châu Phi, tổ chức liên tục từ năm 1969.",
+    "Hơn 100 con cá sấu sông Nile hoang dã ở Bazoulé được người dân địa phương coi là tổ tiên linh thiêng.",
+    "Đứng trên đỉnh núi Tenakourou có thể nhìn thấy ba quốc gia cùng một lúc.",
+    "Burkina Faso nằm trong top 15 nước khai thác vàng nhiều nhất thế giới, vậy mà phần lớn người dân vẫn sống bằng nghề làm ruộng.",
+    "Đội ngũ của Sankara tiêm chủng cho 2,5 triệu trẻ em chỉ trong một tuần mà không cần viện trợ nước ngoài.",
+    "Sáu quốc gia giáp biên giới với Burkina Faso — nhiều nước láng giềng nhất ở Tây Phi."
+  ],
+  "myths": [
+    {
+      "myth": "\"Tên nước có nghĩa là 'Nhân dân liêm khiết'\"",
+      "fact": "Thực ra tên nước có nghĩa là 'Nhân dân ngay thẳng'. 'Burkina' nghĩa là ngay thẳng/trung thực trong tiếng Mooré; 'Faso' nghĩa là tổ quốc trong tiếng Dyula. Sankara chọn cái tên này năm 1984 để khơi dậy niềm tự hào về sự liêm chính."
+    },
+    {
+      "myth": "\"Nước không có biển thì không có sức mạnh văn hóa\"",
+      "fact": "Burkina Faso tổ chức liên hoan phim lớn nhất châu Phi (FESPACO), có truyền thống mặt nạ nổi tiếng thế giới, và Ouagadougou thu hút nghệ sĩ từ hơn 50 quốc gia đến mỗi hai năm một lần."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Laafi",
+      "say": "LAH-fee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Y barka",
+      "say": "ee BAR-kah"
+    },
+    {
+      "en": "Có",
+      "jp": "Ngye",
+      "say": "nn-GYEH"
+    },
+    {
+      "en": "Không",
+      "jp": "Ayo",
+      "say": "AH-yoh"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Nindaare",
+      "say": "nin-DAH-reh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bf-hero.jpg",
+      "alt": "Cảnh thành phố Ouagadougou về đêm nhìn từ trên cao",
+      "caption": "OUAGADOUGOU — thủ đô lung linh ánh đèn ban đêm, nhìn từ mái nhà",
+      "credit": "Wegmann / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/bf-landmark.jpg",
+      "alt": "Mặt tiền Thánh đường Hồi giáo lớn Bobo-Dioulasso xây bằng gạch bùn",
+      "caption": "THÁNH ĐƯỜNG HỒI GIÁO — công trình bằng gạch bùn biểu tượng của Bobo-Dioulasso",
+      "credit": "Semiliki / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/bf-animalA.jpg",
+      "alt": "Con hà mã trồi lên mặt nước ở hồ gần Satiri, Burkina Faso",
+      "caption": "HÀ MÃ — trồi lên ở Hồ Hà Mã gần Satiri",
+      "credit": "Adam Jones Ph.D. / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/bf-animalB.jpg",
+      "alt": "Đàn cá sấu sông Nile thiêng ở ao làng Bazoulé",
+      "caption": "CÁ SẤU THIÊNG — những con cá sấu linh thiêng của làng Bazoulé",
+      "credit": "Marco Schmidt / CC BY-SA 3.0"
+    }
+  }
+}

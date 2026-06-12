@@ -1,0 +1,163 @@
+{
+  "name": "BOTSWANA",
+  "nativeName": "BW",
+  "romaji": "BOTSWANA",
+  "tagline": "Trời xanh, cát vàng và kim cương",
+  "region": "Nam Phi",
+  "coords": "-22.3°S, 24.7°E",
+  "fileNo": "BW1",
+  "langName": "tiếng Setswana",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C8B89A",
+    "ink": "#1E1A14",
+    "faint": "#7A6E5A",
+    "line": "#DDD0B8",
+    "accent": "#4A90C4",
+    "accent2": "#1A1A1A"
+  },
+  "flag": {
+    "assetPath": "/flags/bw.svg",
+    "title": "Quốc kỳ Botswana",
+    "note": "Màu xanh tượng trưng cho mưa; đen và trắng là sọc ngựa vằn",
+    "keyColor": "#4A90C4",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Botswana là đất nước nằm giữa lòng châu Phi, không có biển — chỉ có thảo nguyên cháy nắng, những đàn voi khổng lồ và một biển nước kỳ diệu giữa sa mạc. Khi độc lập năm 1966, đây là một trong những nước nghèo nhất thế giới, nhưng rồi họ tìm thấy kim cương và dùng tiền đó xây trường học, bệnh viện cho người dân. Ngày nay, gần 40% diện tích đất nước được bảo vệ như khu bảo tồn thiên nhiên.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Gaborone",
+      "sub": "Thành lập năm 1964, dân số khoảng 270.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,36 triệu người",
+      "sub": "Điều tra 2022 — chỉ 4 người/km²"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Pula (BWP)",
+      "sub": "Pula nghĩa là 'mưa' — thứ quý giá nhất nơi đây"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Setswana",
+      "sub": "Tiếng Anh cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "581.730 km²",
+      "sub": "Rộng tương đương nước Pháp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Monalanong",
+      "sub": "1.491 m — chỉ là một ngọn đồi thoai thoải"
+    }
+  ],
+  "islands": [
+    "Gaborone",
+    "Francistown",
+    "Maun",
+    "Kasane",
+    "Serowe"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Muối trắng và biển nước giữa sa mạc",
+    "animals": "Vương quốc của những loài khổng lồ",
+    "culture": "Botho — sống vì nhau",
+    "history": "Từ đất nghèo đến đất kim cương",
+    "wows": "Những điều khiến bạn há hốc miệng"
+  },
+  "geo": [
+    "Botswana gần như bằng phẳng hoàn toàn — cả nước là một cao nguyên rộng lớn nằm ở độ cao khoảng 1.000 m so với mặt biển. Khoảng 70% diện tích là vùng Kalahari, một sa mạc cỏ khô với cồn cát vàng trải dài bất tận, nhưng vẫn đủ mưa để nuôi sống muôn loài.",
+    "Thế nhưng nước đã làm nên phép màu ở đây. Sông Okavango từ Angola chảy vào nội địa rồi tỏa ra thành đồng bằng nội địa lớn nhất thế giới — 22.000 km² kênh rạch và đảo xanh mướt. Còn cánh đồng muối Makgadikgadi, vết tích của một hồ nước cổ đại đã cạn khô, trắng lóa như gương phản chiếu ánh mặt trời châu Phi."
+  ],
+  "animals": [
+    "Botswana là đất nước có nhiều voi nhất thế giới — 130.000 con đi lại tự do trên khắp lãnh thổ. Mỗi buổi chiều tà, những đàn voi khổng lồ ở sông Chobe bước xuống uống nước bên cạnh sư tử, báo hoa, chó hoang, hà mã và cá sấu — tất cả cùng sống trong những khu bảo tồn chiếm gần 40% đất nước.",
+    "Ngựa vằn là linh vật quốc gia và những sọc đen trắng của nó chính là nguồn cảm hứng cho màu sắc lá cờ Botswana. Hàng chục nghìn con ngựa vằn di cư ngang qua đồng cỏ Makgadikgadi mỗi năm. Riêng đồng bằng Okavango đã là nơi trú ngụ của hơn 500 loài chim."
+  ],
+  "culture": [
+    "Người Tswana sống theo triết lý botho — tin rằng một người chỉ thực sự trở thành con người khi biết sống tử tế và gắn bó với cộng đồng. Lời chào quan trọng lắm: đi ngang qua người khác mà không nói 'Dumela' được xem là thiếu lịch sự. Món seswaa — thịt bò ninh nhừ và giã nhuyễn — là món ăn quốc hồn được người Botswana yêu thích nhất.",
+    "Tiếng marimba và tiếng trống giữ nhịp cho những điệu múa mùa gặt như Setapa. Đặc biệt nhất là kgotla — nơi hội họp ngoài trời dưới bóng cây, nơi mọi người lớn đều có quyền lên tiếng để giải quyết tranh chấp và bàn chuyện của cả làng. Truyền thống này là nền tảng của nền dân chủ mà người Botswana rất tự hào."
+  ],
+  "history": [
+    "Ngày độc lập 30 tháng 9 năm 1966, Botswana là một trong sáu nước nghèo nhất thế giới — chỉ có 12 km đường nhựa, không có trường đại học, dân số sống nhờ khẩu phần cứu đói. Vậy mà chỉ tám tháng sau, các nhà địa chất tìm thấy kim cương.",
+    "Chính phủ dùng toàn bộ tiền từ kim cương để xây trường học, bệnh viện và đường sá cho người dân. Chỉ trong ba thập kỷ, Botswana đạt tốc độ tăng trưởng kinh tế nhanh nhất thế giới, trở thành quốc gia thu nhập trung bình cao — và trong suốt hành trình đó, không có một cuộc đảo chính nào xảy ra."
+  ],
+  "wows": [
+    "Botswana có 130.000 con voi — nhiều hơn bất kỳ quốc gia nào trên Trái Đất.",
+    "Đồng bằng Okavango ngập nước vào mùa khô: mưa rơi ở Angola, mấy tháng sau nước mới chảy đến đây.",
+    "Viên kim cương Sewelô (2019) nặng 1.758 carat — viên lớn thứ hai từng được tìm thấy trong lịch sử.",
+    "'Pula!' vừa có nghĩa là 'mưa' vừa có nghĩa là 'chúc mừng' — đó cũng chính là tên đồng tiền của Botswana.",
+    "Vườn quốc gia Chobe có thể chứa đến 50.000 con voi trong một khu bảo tồn duy nhất.",
+    "Cánh đồng muối Makgadikgadi bằng phẳng đến mức ban đêm các ngôi sao phản chiếu lấp lánh trên mặt muối ướt.",
+    "Botswana xây dựng được tỷ lệ điều trị HIV trên 90% chỉ trong chưa đầy một thập kỷ — kỷ lục thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Botswana toàn là sa mạc hoang vu",
+      "fact": "Vùng Kalahari vẫn có đủ mưa để nuôi cỏ và muôn thú. Còn đồng bằng Okavango ở phía bắc là vùng đất ngập nước xanh tươi — một trong những nơi phong phú nhất châu Phi."
+    },
+    {
+      "myth": "Botswana là một nước nghèo bình thường ở châu Phi",
+      "fact": "Ngân hàng Thế giới xếp Botswana vào nhóm thu nhập trung bình cao — một bước tiến kỳ diệu từ xuất phát điểm là một trong sáu nước nghèo nhất thế giới khi mới độc lập năm 1966."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Dumela",
+      "say": "doo-MEH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ke a leboga",
+      "say": "keh-ah-leh-BOH"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Ka tswee",
+      "say": "kah-TSWEE"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Ee",
+      "say": "ay"
+    },
+    {
+      "en": "Ở lại mạnh khỏe",
+      "jp": "Sala sentle",
+      "say": "SAH-lah SEN-tleh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bw-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống đồng bằng Okavango, Botswana",
+      "caption": "ĐỒNG BẰNG OKAVANGO — đồng bằng nội địa lớn nhất thế giới, di sản thiên nhiên UNESCO",
+      "credit": "Diego Delso, CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/bw-landmark.jpg",
+      "alt": "Cánh đồng muối Makgadikgadi dưới bầu trời bao la",
+      "caption": "CÁNH ĐỒNG MUỐI MAKGADIKGADI — một trong những cánh đồng muối lớn nhất Trái Đất, tàn tích của hồ nước cổ đại",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bw-animalA.jpg",
+      "alt": "Voi châu Phi trong bụi cây ở Botswana",
+      "caption": "VOI CHÂU PHI — Botswana là nơi có nhiều voi nhất thế giới",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bw-animalB.jpg",
+      "alt": "Ngựa vằn Burchell trên thảo nguyên vàng ở Botswana",
+      "caption": "NGỰA VẰN BURCHELL — linh vật quốc gia, những sọc đen trắng của nó là cảm hứng cho màu cờ Botswana",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "PAKISTAN",
+  "nativeName": "پاک",
+  "romaji": "PAKISTAN",
+  "tagline": "Núi cao, xoài ngọt & chợ rực rỡ",
+  "region": "Nam Á",
+  "coords": "30.38°N, 69.35°E",
+  "fileNo": "PK",
+  "langName": "tiếng Urdu",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA2",
+    "ink": "#2B2318",
+    "faint": "#8B7A58",
+    "line": "#DCCFB0",
+    "accent": "#01411C",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/pk.svg",
+    "title": "Quốc kỳ Pakistan",
+    "note": "Nền xanh lá với trăng lưỡi liềm và ngôi sao trắng",
+    "keyColor": "#01411C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Pakistan là nơi Con đường Tơ lụa ngày xưa đi ngang qua những đỉnh núi cao nhất thế giới. Năm trong số mười bốn ngọn núi cao nhất Trái Đất đều nằm ở đây, vậy mà phía nam lại có bãi biển ấm áp trên Biển Ả Rập. Sông Indus — cái nôi của một trong những nền văn minh cổ đại nhất — vẫn đang tưới tắm những vườn xoài ngọt nhất hành tinh. Hơn 240 triệu người gọi Pakistan là quê hương.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Islamabad",
+      "sub": "Thành phố được quy hoạch xây dựng từ thập niên 1960"
+    },
+    {
+      "label": "Dân số",
+      "value": "241 triệu người",
+      "sub": "Điều tra 2023 — đông thứ 5 thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rupee Pakistan",
+      "sub": "Ký hiệu ₨, gọi là 'rupee'"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Urdu",
+      "sub": "Hơn 70 ngôn ngữ địa phương cùng tồn tại"
+    },
+    {
+      "label": "Diện tích",
+      "value": "881.913 km²",
+      "sub": "Lớn hơn Pháp và Đức cộng lại"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "K2, 8.611 m",
+      "sub": "Ngọn núi cao thứ hai trên Trái Đất"
+    }
+  ],
+  "islands": [
+    "Punjab",
+    "Sindh",
+    "KP",
+    "Balochistan",
+    "Gilgit"
+  ],
+  "islandsLabel": "CÁC TỈNH LỚN:",
+  "sections": {
+    "geography": "Núi cao, sa mạc & sông lớn",
+    "animals": "Báo tuyết & cá heo sông",
+    "culture": "Cricket, xe tải nghệ thuật & ẩm thực",
+    "history": "5.000 năm văn minh",
+    "wows": "Pakistan sẽ khiến bạn ngạc nhiên!"
+  },
+  "geo": [
+    "Pakistan là vùng đất của những tương phản kỳ diệu. Phía bắc là dãy Karakoram và Himalaya hùng vĩ — K2 dựng đứng đến mức số người từng đặt chân lên Mặt Trăng còn nhiều hơn số người chinh phục được đỉnh núi này. Những dòng sông băng khổng lồ tan chảy thành những con sông chảy dài tới tận biển.",
+    "Phía nam hoàn toàn khác biệt: sa mạc Thar cháy bỏng dưới nắng hè, còn thung lũng sông Indus trải dài bạt ngàn với những cánh đồng lúa mì, bông và mía bao la — không khác gì vựa lương thực của cả một vùng."
+  ],
+  "animals": [
+    "Báo tuyết lang thang trên những dãy núi cao của Pakistan — loài mèo lớn đốm trắng bí ẩn đến mức người ta gọi nó là 'bóng ma của núi'. Pakistan là một trong những nơi có quần thể báo tuyết hoang dã lớn nhất thế giới, sống ở độ cao trên 3.000 m — cao hơn nhiều so với bất kỳ đỉnh núi nào ở Việt Nam.",
+    "Cá heo sông Indus chỉ sống trên một đoạn sông Indus duy nhất, định hướng bằng sóng siêu âm vì nước quá đục để nhìn thấy. Còn con markhor — loài dê núi với đôi sừng xoắn ốc ngoạn mục — là quốc thú của Pakistan, biểu tượng của sức mạnh và vẻ đẹp hoang dã."
+  ],
+  "culture": [
+    "Nghệ thuật trang trí xe tải của Pakistan nổi tiếng khắp thế giới — các tài xế vẽ đầy màu sắc rực rỡ lên xe: hoa lá, chân dung, thơ ca, biến những con đường thành triển lãm nghệ thuật di động. Khắp các khu chợ đều thoảng mùi bánh naan nướng giòn từ lò đất nung nóng hổi.",
+    "Cricket ở Pakistan gần như là một tín ngưỡng: mỗi trận đấu lớn có thể khiến đường phố vắng tanh vì cả nước ngồi xem cùng nhau. Đến ngày Eid, các gia đình cùng ăn cơm biryani thơm lừng và món sheer khurma ngọt ngào, mặc quần áo mới rồi đi thăm hàng xóm — cả khu phố biến thành một bữa tiệc hội hè rộn ràng."
+  ],
+  "history": [
+    "Nền văn minh Thung lũng Indus từng rực rỡ tại Mohenjo-daro hơn 4.500 năm trước. Người dân nơi đây đã có hệ thống nước sạch, nhà gạch và chữ viết riêng — trong khi phần lớn thế giới còn chưa biết thành phố là gì. Chính vùng đất này sau đó đã chứng kiến đội quân của Alexander Đại đế hành quân qua những con đèo hùng vĩ.",
+    "Đế chế Mughal hùng mạnh đã xây dựng những thánh đường lộng lẫy và Thành Lahore lấp lánh trên mảnh đất này. Năm 1947, Pakistan giành độc lập khi Đế quốc Anh-Ấn bị chia tách — một trong những sự kiện kịch tính nhất của thế kỷ 20."
+  ],
+  "wows": [
+    "Pakistan trồng hơn 1,8 triệu tấn xoài mỗi năm — giống xoài Sindhri là một trong những loại ngọt nhất thế giới.",
+    "Tỷ lệ tử vong khi leo K2 khoảng 1 trong 10 người lên đỉnh — nguy hiểm gấp khoảng 5 lần so với Everest.",
+    "Mohenjo-daro đã có hệ thống cống ngầm hoàn chỉnh gần 2.000 năm trước khi Rome xây cống nổi tiếng của mình.",
+    "Đường cao tốc Karakoram leo lên độ cao 4.714 m, trở thành một trong những con đường trải nhựa cao nhất Trái Đất.",
+    "Cung gương trong Thành Lahore được ốp hàng nghìn mảnh gương nhỏ — chỉ một ngọn nến cũng tỏa sáng như cả dải Ngân Hà.",
+    "Pakistan có hơn 7.000 sông băng ngoài vùng cực — nhiều hơn bất kỳ nơi nào khác ở cùng vĩ độ này trên thế giới.",
+    "K2 là đỉnh núi trên 8.000 m cuối cùng chưa được chinh phục vào mùa đông — mãi đến năm 2021, mười nhà leo núi người Nepal mới lần đầu tiên đặt chân lên đỉnh vào tháng Giêng."
+  ],
+  "myths": [
+    {
+      "myth": "Pakistan toàn là sa mạc và vùng đất khô cằn",
+      "fact": "Các thung lũng Hunza và Swat xanh tươi mướt mát, với đồng cỏ cao nguyên, rừng rậm và hơn 7.000 sông băng — miền bắc trông chẳng khác gì nước Thụy Sĩ ở châu Âu."
+    },
+    {
+      "myth": "Tiếng Urdu và tiếng Hindi hoàn toàn khác nhau",
+      "fact": "Khi nói chuyện bình thường hàng ngày, người nói tiếng Urdu và tiếng Hindi vẫn hiểu được nhau — sự khác biệt chủ yếu nằm ở chữ viết và từ ngữ trang trọng vay mượn từ tiếng Ba Tư hoặc tiếng Phạn."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "آداب",
+      "say": "Adaab"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شکریہ",
+      "say": "Shukriya"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "جی ہاں",
+      "say": "Ji haan"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذیذ!",
+      "say": "Laziz!"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "خوبصورت",
+      "say": "Khubsoorat"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pk-hero.jpg",
+      "alt": "Thánh đường Badshahi ở Lahore với sân rộng lớn lúc hoàng hôn",
+      "caption": "THÁNH ĐƯỜNG BADSHAHI — một trong những thánh đường lớn nhất thế giới, xây tại Lahore năm 1673.",
+      "credit": "Ali Imran / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/pk-landmark.jpg",
+      "alt": "Tàn tích gạch cổ của khu khảo cổ Mohenjo-daro",
+      "caption": "MOHENJO-DARO — thành phố 4.500 tuổi với hệ thống cống thoát nước đô thị đầu tiên trên thế giới.",
+      "credit": "Wikimedia Commons / Public Domain"
+    },
+    "animalA": {
+      "src": "/photos/pk-animalA.jpg",
+      "alt": "Báo tuyết với bộ lông đốm đang nghỉ ngơi trên tảng đá",
+      "caption": "BÁO TUYẾT — bóng ma của núi rừng Pakistan, sống trên độ cao 3.000 m.",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/pk-animalB.jpg",
+      "alt": "Dê núi markhor với đôi sừng xoắn dài ngoạn mục trên sườn đá",
+      "caption": "MARKHOR — quốc thú của Pakistan, với đôi sừng xoắn ốc dài tới 1,6 m.",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

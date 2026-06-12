@@ -1,0 +1,163 @@
+{
+  "name": "GUYANA",
+  "nativeName": "GY",
+  "romaji": "GUYANA",
+  "tagline": "Vùng đất ngàn dòng sông",
+  "region": "Bắc Nam Mỹ",
+  "coords": "4.86°N, 58.93°W",
+  "fileNo": "084",
+  "langName": "tiếng Anh Creole",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F3EDD8",
+    "dot": "#C8BA9A",
+    "ink": "#251E14",
+    "faint": "#8A7A55",
+    "line": "#DCCFA8",
+    "accent": "#009E60",
+    "accent2": "#FCD116"
+  },
+  "flag": {
+    "assetPath": "/flags/gy.svg",
+    "title": "Mũi Tên Vàng",
+    "note": "Nền xanh lá; mũi tên vàng viền đen, đầu mũi màu đỏ",
+    "keyColor": "#009E60",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Guyana nằm ở phía bắc Nam Mỹ nhưng lại mang hồn Caribbean — đây là quốc gia duy nhất trên đất liền Nam Mỹ dùng tiếng Anh làm ngôn ngữ chính thức. Phần lớn người dân sống trên một dải đất ven biển thấp, phía sau là rừng nhiệt đới hoang sơ, những ngọn núi cổ đại phẳng lì trên đỉnh, và thảo nguyên vàng rực. Năm 2015, người ta tìm thấy dầu mỏ, và từ đó Guyana trở thành một trong những nền kinh tế tăng trưởng nhanh nhất thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Georgetown",
+      "sub": "Xây dựng thấp hơn mực nước biển, nhờ đê chắn sóng mới trụ vững"
+    },
+    {
+      "label": "Dân số",
+      "value": "~808.000",
+      "sub": "Ước tính 2024; dân số nhỏ so với cả châu lục"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la Guyana",
+      "sub": "Đồng đô la Guyana (GYD) từ năm 1839"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Quốc gia nói tiếng Anh duy nhất ở Nam Mỹ"
+    },
+    {
+      "label": "Diện tích",
+      "value": "214.969 km²",
+      "sub": "Xấp xỉ bằng nước Anh"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Roraima",
+      "sub": "2.772 m — đỉnh núi phẳng cổ đại hàng tỉ năm tuổi"
+    }
+  ],
+  "islands": [
+    "Georgetown",
+    "Linden",
+    "Lethem",
+    "Bartica",
+    "Anna Regina"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sông ngòi, núi phẳng & thế giới bị lãng quên",
+    "animals": "Báo đốm, khổng lồ & ếch tên lửa",
+    "culture": "Cricket, cà ri & lễ hội",
+    "history": "Mía đường, tự do & vàng đen",
+    "wows": "Guyana bất ngờ"
+  },
+  "geo": [
+    "Cái tên Guyana có nghĩa là 'vùng đất ngàn dòng sông' theo ngôn ngữ của người Arawak bản địa — và quả thật vậy, đất nước này có hơn 40 con sông chằng chịt. Bờ biển phía Đại Tây Dương thấp hơn mặt nước biển, nhờ hệ thống đê do người Hà Lan xây dựng từ hàng trăm năm trước mà vẫn còn đứng vững đến hôm nay. Phần đất liền bên trong, rừng nhiệt đới che phủ tới 80% diện tích, mọc trên nền đá Guiana Shield có tuổi đời hai tỉ năm — cổ nhất thế giới.",
+    "Xuống phía nam là Thảo nguyên Rupununi, một vùng đồng cỏ mênh mông tiếp giáp với Brazil. Vươn lên giữa trời là những ngọn tepui — những khối cao nguyên sa thạch khổng lồ với đỉnh phẳng như bị cắt bằng dao. Núi Roraima cao 2.772 m nằm ngay điểm giao giữa ba nước Guyana, Venezuela và Brazil, và chính ngọn núi bí ẩn này đã truyền cảm hứng cho nhà văn Conan Doyle viết cuốn Thế giới đã mất."
+  ],
+  "animals": [
+    "Khu rừng Iwokrama của Guyana được xếp vào một trong những nơi tốt nhất trên thế giới để nhìn thấy báo đốm hoang dã. Đại bàng đầu hói làm tổ trên những cây cao nhất, với đôi vuốt to bằng vuốt gấu xám Bắc Mỹ. Rái cá khổng lồ dài tới 1,8 m — bằng cả một người lớn — săn mồi ồn ào theo từng đàn trên sông Rupununi.",
+    "Gần thác Kaieteur có một loài ếch vàng rực tên là ếch tên lửa vàng — không tìm thấy ở đâu khác trên Trái Đất, chúng nuôi nòng nọc ngay bên trong những bông hoa bromeliad khổng lồ. Chim đá-cà phê lướt qua tán rừng với bộ lông cam rực rỡ. Cá arapaima dài hơn 2 m nhưng lại phải ngoi lên mặt nước để thở không khí, giống như một con cá voi tí hon."
+  ],
+  "culture": [
+    "Văn hóa Guyana là sự pha trộn của người gốc Phi, gốc Ấn Độ, người bản địa Amerindian và người châu Âu. Cricket là niềm đam mê dân tộc — các ngôi sao cricket Guyana từng là trụ cột của đội Tây Ấn qua bao thế hệ. Món ăn quốc hồn quốc túy là pepperpot — một nồi hầm đậm đặc theo công thức của người bản địa, nấu cho dịp Giáng sinh và giữ ấm suốt nhiều ngày, hương vị càng ngày càng đậm đà hơn.",
+    "Diwali, Eid, và lễ Phagwah (tương tự Holi ở Ấn Độ) đều là ngày lễ quốc gia, phản ánh cộng đồng Hindu, Hồi giáo và Kitô giáo sống hòa thuận bên nhau. Lễ hội Mashramani — carnival Ngày Cộng hòa vào tháng Hai — biến thủ đô Georgetown thành biển âm thanh trống thép và những chiếc xe hoa lộng lẫy. Tiếng Creole của người Guyana pha trộn giữa tiếng Anh, tiếng Hindi và tiếng Hà Lan thành một thứ ngôn ngữ vừa ấm áp vừa như một bài nhạc."
+  ],
+  "history": [
+    "Những người Hà Lan đến đây từ những năm 1600, lập các đồn điền mía dọc theo các con sông và đưa người Phi bị bắt làm nô lệ đến làm việc. Anh tiếp quản vào năm 1814 và sau khi xóa bỏ chế độ nô lệ năm 1833, họ đưa hàng chục nghìn lao động theo hợp đồng từ Ấn Độ sang — chính điều này đã định hình nên bức tranh đa sắc tộc đặc trưng của Guyana ngày nay.",
+    "Guyana giành độc lập ngày 26 tháng 5 năm 1966. Trong nhiều thập kỷ sau đó, đây là một trong những quốc gia nghèo nhất Nam Mỹ. Rồi năm 2015, tập đoàn ExxonMobil phát hiện các mỏ dầu khổng lồ ngoài khơi. Đến năm 2024, GDP tăng tới 43% trong một năm — thuộc hàng tốc độ tăng trưởng nhanh nhất từng ghi nhận trên Trái Đất."
+  ],
+  "wows": [
+    "Thác Kaieteur cao gấp 4,5 lần thác Niagara — vậy mà hầu hết mọi người chưa bao giờ nghe đến nó.",
+    "Thủ đô Georgetown nằm thấp hơn mặt nước biển, được bảo vệ bởi những con đê Hà Lan xây từ 300 năm trước.",
+    "Ếch tên lửa vàng chỉ sống trong những bông bromeliad gần thác Kaieteur — không có ở bất kỳ nơi nào khác trên Trái Đất.",
+    "GDP của Guyana tăng 43% năm 2024, một trong những tốc độ tăng trưởng quốc gia nhanh nhất từng được ghi nhận.",
+    "Đỉnh Roraima cao đến mức mây hình thành bên dưới chân bạn — bạn đứng cao hơn cả thời tiết.",
+    "Guyana là quốc gia nói tiếng Anh duy nhất trên toàn bộ đất liền Nam Mỹ.",
+    "Cá arapaima dài hơn 2 m nhưng phải ngoi lên thở không khí như cá voi — một loài cá kỳ lạ bậc nhất thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Guyana là một hòn đảo vùng Caribbean",
+      "fact": "Guyana nằm hẳn trên đất liền Nam Mỹ, giáp Venezuela, Brazil và Suriname — chỉ là tiếng Anh và nét văn hóa Caribbean làm nó có cảm giác như một đảo quốc mà thôi."
+    },
+    {
+      "myth": "Guyana luôn nghèo từ trước đến nay",
+      "fact": "Kể từ khi phát hiện dầu mỏ ngoài khơi năm 2015, thu nhập bình quân đầu người vọt từ khoảng 5.000 đô-la Mỹ lên hơn 29.000 đô-la vào năm 2024 — một trong những bước nhảy thu nhập nhanh nhất lịch sử."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Wha' happen?",
+      "say": "wha HAP-en"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tank yuh",
+      "say": "TANK yuh"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "Proper so",
+      "say": "PROP-ah so"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Bredda",
+      "say": "BRED-ah"
+    },
+    {
+      "en": "Không sao",
+      "jp": "Nuh worry",
+      "say": "nuh WOR-ee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gy-hero.jpg",
+      "alt": "Bến tàu Georgetown với những tòa nhà sặc sỡ dọc sông Demerara",
+      "caption": "BẾN TÀU GEORGETOWN — cảng cổ thời Hà Lan trên sông Demerara",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/gy-landmark.jpg",
+      "alt": "Thác Kaieteur đổ xuống vách đá sa thạch vào rừng nhiệt đới xanh mướt",
+      "caption": "THÁC KAIETEUR — 226 m sấm sét, cao gấp bốn lần thác Niagara",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gy-animalA.jpg",
+      "alt": "Báo đốm nằm nghỉ trên bờ sông trong rừng nhiệt đới Nam Mỹ",
+      "caption": "BÁO ĐỐM — động vật biểu tượng của Guyana, chúa tể rừng Iwokrama",
+      "credit": "Wikimedia Commons / Charles J. Sharp"
+    },
+    "animalB": {
+      "src": "/photos/gy-animalB.jpg",
+      "alt": "Đàn rái cá khổng lồ đang bơi trên một con sông Nam Mỹ",
+      "caption": "RÁI CÁ KHỔNG LỒ — dài tới 1,8 m, sông Rupununi là lãnh địa của chúng",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

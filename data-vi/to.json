@@ -1,0 +1,163 @@
+{
+  "name": "TONGA",
+  "nativeName": "TO",
+  "romaji": "TONGA",
+  "tagline": "Vương quốc giữa Thái Bình Dương",
+  "region": "Polynesia, Nam Thái Bình Dương",
+  "coords": "21°S, 175°W",
+  "fileNo": "093",
+  "langName": "tiếng Tonga",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F5EDE0",
+    "dot": "#CDBAA0",
+    "ink": "#27201A",
+    "faint": "#8A7355",
+    "line": "#DDD0BA",
+    "accent": "#C8102E",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/to.svg",
+    "title": "Tonga",
+    "note": "Nền đỏ, ô vuông trắng góc trái có thánh giá đỏ",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tonga là vương quốc duy nhất ở Thái Bình Dương chưa từng bị nước ngoài đô hộ — hoàng gia và niềm tự hào vẫn còn nguyên vẹn đến tận ngày nay. Trải dài trên đại dương mênh mông, 170 hòn đảo của Tonga che giấu những rạn san hô rực màu, nơi cá voi lưng gù về sinh nở, và những vòm đá san hô khổng lồ từ một nền văn minh cổ xưa — những người xây chúng không để lại chữ viết, chỉ để lại đá ghép hoàn hảo với nhau.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Nuku'alofa",
+      "sub": "trên đảo Tongatapu"
+    },
+    {
+      "label": "Dân số",
+      "value": "~100.000",
+      "sub": "điều tra dân số 2021"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Pa'anga (TOP)",
+      "sub": "100 seniti = 1 TOP"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tonga/Anh",
+      "sub": "cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "748 km²",
+      "sub": "nhỏ hơn Hồng Kông"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Kao, 1.046 m",
+      "sub": "một ngọn núi lửa đang hoạt động"
+    }
+  ],
+  "islands": [
+    "Tongatapu",
+    "Vava'u",
+    "'Eua",
+    "Ha'apai",
+    "Niuas"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo, rạn san hô và núi lửa",
+    "animals": "Cá voi, dơi và cá rực rỡ",
+    "culture": "Yến tiệc hoàng gia và nghề dệt thủ công",
+    "history": "Vương quốc không khuất phục",
+    "wows": "Thật sao, có thật không?!"
+  },
+  "geo": [
+    "170 hòn đảo của Tonga trải dài 800 km từ bắc xuống nam giữa Thái Bình Dương. Chuỗi đảo phía tây là núi lửa — Kao và Tofua vươn thẳng đứng lên từ lòng đại dương sâu thẳm. Những đảo phía đông lại phẳng lì, là đá vôi san hô, nằm gần mặt nước biển và được bao quanh bởi những rạn san hô đủ sắc màu.",
+    "Ngay cạnh Tonga là Rãnh Tonga — một vực thẳm dưới biển sâu tới 10.800 mét, một trong những điểm sâu nhất Trái Đất. Mỗi năm các hòn đảo lại dịch chuyển dần về phía tây khi mảng kiến tạo Thái Bình Dương trôi bên dưới, khiến Tonga trở thành một trong những nơi xảy ra động đất nhiều nhất thế giới."
+  ],
+  "animals": [
+    "Từ tháng 7 đến tháng 10 hằng năm, những con cá voi lưng gù khổng lồ lại bơi về vùng biển ấm của Tonga để sinh nở và cất tiếng hát. Ở đây bạn có thể bơi lặn ngay bên cạnh chúng — một trong số rất ít nơi trên Trái Đất cho phép điều đó một cách hợp pháp và an toàn.",
+    "Dơi quạ ăn trái cây là loài thú sống trên cạn lớn nhất bản địa của Tonga và được coi là linh thiêng — chỉ nhà vua mới được phép săn bắt. Cá vẹt sặc sỡ và rùa biển cũng là những cư dân quen thuộc của vùng rạn san hô nơi đây."
+  ],
+  "culture": [
+    "Xã hội Tonga vận hành theo thứ bậc nghiêm ngặt — tầng lớp quý tộc đứng trên dân thường, và mọi người đều biết vị trí của mình trong một bữa tiệc. Không buổi sum họp nào trọn vẹn nếu thiếu chiếc lò nướng umu chôn dưới đất, chất đầy thịt heo, khoai mỡ và nước cốt dừa béo ngậy.",
+    "Phụ nữ Tonga dệt những chiếc chiếu tinh xảo từ lá dứa, có khi mất cả nhiều năm mới hoàn thành — và chúng còn quý hơn tiền tệ trong lễ cưới. Vải tapa — làm từ vỏ cây dâu đập mỏng thành những tấm lớn có hoa văn — là món quà mà hoàng gia trao tặng trong các dịp trọng đại."
+  ],
+  "history": [
+    "Vương triều Tu'i Tonga của Tonga bắt đầu vào khoảng năm 950 sau Công nguyên, một trong những dòng họ hoàng gia lâu đời nhất Thái Bình Dương. Vào thời cực thịnh, họ kiểm soát mạng lưới thương mại trải rộng sang Fiji, Samoa và Niue — một cường quốc Thái Bình Dương điều hành từ một hòn đảo san hô nhỏ bé.",
+    "Thuyền trưởng Cook đã ghé thăm Tonga ba lần và gọi đây là \"Quần đảo Thân Thiện\". Vua Tāufa'āhau Tupou I soạn thảo hiến pháp năm 1875 trước khi Anh quốc kịp nắm quyền kiểm soát hoàn toàn. Tonga gia nhập Khối Thịnh vượng Chung năm 1970 với tư cách là quốc gia quân chủ duy nhất."
+  ],
+  "wows": [
+    "Tonga là quốc gia duy nhất ở Thái Bình Dương chưa bao giờ bị thực dân châu Âu đô hộ chính thức.",
+    "Ở Tonga, bạn có thể hợp pháp bơi cùng cá voi lưng gù mẹ và cá voi con mới sinh.",
+    "Tonga nằm xa về phía đông đến mức thường là quốc gia đầu tiên đón giao thừa Năm Mới trên thế giới.",
+    "Ha'amonga 'a Maui là vòm đá san hô nặng 40 tấn, xây dựng khoảng năm 1200 sau Công nguyên — phiên bản Stonehenge của Tonga.",
+    "Dơi quạ ở Tonga là tài sản hoàng gia; dân thường bị cấm săn bắt chúng.",
+    "Đội rugby Tonga từng đánh bại Pháp và Ý tại Giải Vô địch Rugby Thế giới.",
+    "Người Tonga thuộc số những người cao nhất và nặng cân nhất trên thế giới tính theo trung bình."
+  ],
+  "myths": [
+    {
+      "myth": "Tonga chỉ có một hòn đảo",
+      "fact": "Tonga gồm 170 hòn đảo trải rộng trên diện tích đại dương lớn hơn cả nước Pháp, dù tổng diện tích đất liền rất nhỏ."
+    },
+    {
+      "myth": "Các đảo Thái Bình Dương đều giống nhau",
+      "fact": "Tonga có văn hóa hoàng gia riêng biệt, xã hội theo thứ bậc và ngôn ngữ độc đáo — và chưa từng bị đô hộ, khác hẳn hầu hết các nước láng giềng."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Mālō e lelei",
+      "say": "MAH-lo eh leh-LAY"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Mālō",
+      "say": "MAH-lo"
+    },
+    {
+      "en": "Có",
+      "jp": "'Io",
+      "say": "EE-oh"
+    },
+    {
+      "en": "Không",
+      "jp": "'Ikai",
+      "say": "EE-kai"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Mālohi!",
+      "say": "MAH-lo-hee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/to-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống thủ đô Nuku'alofa của Tonga",
+      "caption": "NUKU'ALOFA — thủ đô thấp bằng phẳng của Tonga nép mình bên bờ biển được rạn san hô che chở của đảo Tongatapu.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/to-landmark.jpg",
+      "alt": "Vòm đá san hô Ha'amonga 'a Maui dạng cổng tam thạch",
+      "caption": "HA'AMONGA 'A MAUI — vòm đá san hô nặng 40 tấn xây dựng khoảng năm 1200 sau Công nguyên, Stonehenge của Tonga.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/to-animalA.jpg",
+      "alt": "Cá voi lưng gù bơi dưới nước biển xanh trong",
+      "caption": "CÁ VOI LƯNG GÙ — những con cá voi mẹ đưa cá voi con về vùng biển ấm của Tonga từ tháng 7 đến tháng 10.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/to-animalB.jpg",
+      "alt": "Dơi quạ Tonga treo mình trên cây",
+      "caption": "DƠI QUẠ TONGA — con vật hoàng gia; chỉ nhà vua mới được phép hợp pháp săn loài dơi khổng lồ này.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

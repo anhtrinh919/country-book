@@ -1,0 +1,163 @@
+{
+  "name": "BURUNDI",
+  "nativeName": "BI",
+  "romaji": "BURUNDI",
+  "tagline": "Đồi xanh, trống trận & hồ sâu thẳm",
+  "region": "Đông Phi",
+  "coords": "3.4°S, 29.9°E",
+  "fileNo": "083",
+  "langName": "tiếng Kirundi",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BFA8",
+    "ink": "#261F18",
+    "faint": "#8B7A5A",
+    "line": "#DDD4C0",
+    "accent": "#CE1126",
+    "accent2": "#1EB53A"
+  },
+  "flag": {
+    "assetPath": "/flags/bi.svg",
+    "title": "Quốc kỳ Burundi",
+    "note": "Đỏ & xanh chia bởi chữ thập trắng chéo + 3 ngôi sao",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Burundi là một đất nước nhỏ bé ở Đông Phi, nơi những dãy đồi xanh mướt thoai thoải xuống tận Hồ Tanganyika — một trong những hồ sâu nhất thế giới. Người ta gọi đây là 'Thụy Sĩ của châu Phi' vì khí hậu mát mẻ trên cao nguyên. Đây là vùng đất của những tiếng trống vương giả vang rền, những vận động viên chạy bộ vô địch, và sức sống phi thường của con người trên một trong những quốc gia nhỏ nhất lục địa đen.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Gitega",
+      "sub": "Thủ đô chính trị từ năm 2019"
+    },
+    {
+      "label": "Dân số",
+      "value": "12,3 triệu người",
+      "sub": "Điều tra dân số quốc gia 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Franc BIF",
+      "sub": "Franc Burundi (BIF)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Kirundi",
+      "sub": "Cùng với tiếng Pháp & Swahili"
+    },
+    {
+      "label": "Diện tích",
+      "value": "27.834 km²",
+      "sub": "Nhỏ hơn nước Bỉ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Heha 2.684m",
+      "sub": "Tỉnh Bururi, phía tây nam"
+    }
+  ],
+  "islands": [
+    "Bujumbura",
+    "Gitega",
+    "Ngozi",
+    "Rumonge",
+    "Bururi"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đất nước nghìn ngọn đồi",
+    "animals": "Thú hoang vùng hố rift",
+    "culture": "Trống thiêng, vũ điệu & bia chuối",
+    "history": "Vương triều, thực dân & khí phách",
+    "wows": "Bảy điều bất ngờ về Burundi"
+  },
+  "geo": [
+    "Burundi nằm trên một cao nguyên trung bình 1.500 m so với mực nước biển, vì vậy dù là xứ nhiệt đới, khí hậu ở đây vẫn mát mẻ dễ chịu quanh năm. Những dãy đồi phủ rừng xanh tầng tầng lớp lớp trải từ đông sang tây, xen lẫn các thung lũng sông nơi cây chuối mọc kín từng sườn dốc.",
+    "Hồ Tanganyika ôm trọn toàn bộ rìa phía tây đất nước: dài 676 km và sâu tới 1.471 m, với nhiều loài cá chỉ tồn tại duy nhất ở đây. Một con suối nhỏ trên núi Gikizi ở vùng cao phía nam là nguồn xa nhất của dòng sông Nile huyền thoại."
+  ],
+  "animals": [
+    "Vườn quốc gia Kibira ở phía tây bắc là góc hoang dã nhất của Burundi — 400 km² rừng mưa nhiệt đới trên núi cao vang tiếng tinh tinh hú gọi bình minh. Khỉ colobus nhảy thoăn thoắt trên tán lá, còn hàng trăm loài chim đủ màu sắc lướt qua màn sương.",
+    "Hà mã lội bùn ở vùng đồng bằng sông Rusizi và dọc bờ Hồ Tanganyika. Dưới mặt hồ, hơn 130 loài cá cichlid ánh lên đủ màu sắc rực rỡ — đây là bài học tiến hóa sống động mà các nhà khoa học trên toàn thế giới tìm đến nghiên cứu."
+  ],
+  "culture": [
+    "Nhịp đập của Burundi là chiếc trống ingoma. Những tay trống hoàng gia — mặc trang phục đỏ, trắng và xanh lá — đánh đồng loạt những chiếc trống khổng lồ đục bằng tay trong khi múa nhào lộn điêu luyện. UNESCO đã đưa truyền thống độc đáo này vào danh sách Di sản Phi vật thể năm 2014.",
+    "Cuộc sống thường ngày của người dân gắn liền với những nông trại trên sườn đồi trồng chuối tây, khoai lang và cao lương. Bạn bè quây quần cùng nhau nhâm nhi urwagwa — loại bia chuối lên men sủi bọt nhẹ — qua những chiếc ống hút dài từ một nồi chung, một tục lệ có tuổi đời cũ hơn cả vương quốc."
+  ],
+  "history": [
+    "Hàng thế kỷ qua, Burundi là một vương quốc hùng mạnh; người ta nói vị mwami (vua) 'lên ngôi trống' khi đăng quang. Vương quốc sống sót qua thời kỳ thương nhân Ả Rập và người Đức đô hộ, trước khi Bỉ tiếp quản sau Thế chiến thứ nhất.",
+    "Độc lập đến vào ngày 1 tháng 7 năm 1962. Những thập kỷ sau đó đầy biến động với nội chiến đau thương, nhưng một thỏa thuận hòa bình năm 2000 đã dần dần vãn hồi ổn định, và ngày nay thế hệ trẻ đang góp sức định hình một tương lai mới."
+  ],
+  "wows": [
+    "Quốc kỳ Burundi có hình chữ thập chéo (saltire) — kiểu cờ hiếm gặp — chia đôi mảng đỏ và xanh lá.",
+    "Một con suối ở núi Gikizi, miền nam Burundi, là điểm nguồn xa nhất của sông Nile — dòng sông dài nhất thế giới.",
+    "Vénuste Niyongabo giành huy chương vàng Olympic đầu tiên cho Burundi tại Atlanta 1996 ở nội dung 5.000 m.",
+    "Hồ Tanganyika chứa 17% lượng nước ngọt bề mặt chưa đóng băng của Trái Đất — hồ sâu thứ hai thế giới.",
+    "Burundi là quốc gia đông dân thứ ba châu Phi tính theo mật độ — đông gấp đôi nước Pháp trên mỗi km².",
+    "Các nhà khoa học tái phát hiện con ếch ngón dài Bururi vào năm 2011 — loài đã tưởng tuyệt chủng từ năm 1949.",
+    "Khu bảo tồn Gishora có hai chiếc trống thiêng liêng đến mức chưa bao giờ được đánh một lần nào."
+  ],
+  "myths": [
+    {
+      "myth": "Burundi và Rwanda là một đất nước",
+      "fact": "Đây là hai quốc gia hoàn toàn riêng biệt với chính phủ, thủ đô và quốc kỳ khác nhau, dù hai nước có ngôn ngữ gần gũi và nhiều truyền thống văn hóa chung."
+    },
+    {
+      "myth": "Burundi không có động vật hoang dã vì đất nước quá nhỏ",
+      "fact": "Vườn quốc gia Kibira là nơi trú ngụ của tinh tinh và hơn 200 loài chim; còn Hồ Tanganyika là điểm nóng đa dạng sinh học cá nước ngọt hàng đầu thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Amahoro",
+      "say": "ah-mah-HO-ro"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Murakoze",
+      "say": "moo-rah-KO-zay"
+    },
+    {
+      "en": "Vâng / Có",
+      "jp": "Ego",
+      "say": "EH-go"
+    },
+    {
+      "en": "Nước uống",
+      "jp": "Amazi",
+      "say": "ah-MAH-zee"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Biryoha",
+      "say": "bee-RYO-hah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bi-hero.jpg",
+      "alt": "Toàn cảnh thành phố Bujumbura nhìn từ trên cao với Hồ Tanganyika trải dài đến tận chân trời",
+      "caption": "BUJUMBURA & HỒ TANGANYIKA — thành phố gặp một trong những hồ sâu nhất Trái Đất",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bi-landmark.jpg",
+      "alt": "Các tay trống hoàng gia Burundi biểu diễn với những chiếc trống ingoma khổng lồ",
+      "caption": "TRỐNG HOÀNG GIA INGOMA — nhịp đập của văn hóa Burundi được UNESCO công nhận",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bi-animalA.jpg",
+      "alt": "Tinh tinh phương đông ngồi trên cây giữa rừng mưa nhiệt đới",
+      "caption": "TINH TINH PHƯƠNG ĐÔNG — sinh sống trong rừng mưa nhiệt đới sương mù của Kibira",
+      "credit": "Wikimedia Commons / Rod Waddington"
+    },
+    "animalB": {
+      "src": "/photos/bi-animalB.jpg",
+      "alt": "Hà mã ngâm mình một phần dưới mặt nước sông",
+      "caption": "HÀ MÃ — lội bùn ở đồng bằng sông Rusizi của Burundi",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

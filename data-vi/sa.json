@@ -1,0 +1,163 @@
+{
+  "name": "Ả RẬP XÊ-ÚT",
+  "nativeName": "السعود",
+  "romaji": "ARABIA AL-SAUDIA",
+  "tagline": "Xứ cát vàng, dầu mỏ và đức tin",
+  "region": "Trung Đông",
+  "coords": "24°N 45°E",
+  "fileNo": "SA",
+  "langName": "tiếng Ả Rập",
+  "motif": "chevron",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D9C8A0",
+    "ink": "#1E1A14",
+    "faint": "#8A7A5E",
+    "line": "#E0D0AE",
+    "accent": "#165A30",
+    "accent2": "#C8B400"
+  },
+  "flag": {
+    "assetPath": "/flags/sa.svg",
+    "title": "Lá cờ xanh lá",
+    "note": "Nền xanh lá với thanh kiếm trắng và kinh Shahada",
+    "keyColor": "#165A30",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ả Rập Xê-út là một vương quốc sa mạc rộng lớn trên bán đảo Ả Rập, nơi có hai thánh địa linh thiêng nhất của đạo Hồi — Mecca và Medina. Mỗi năm, hàng triệu người hành hương từ khắp nơi trên thế giới đổ về đây. Dưới những cồn cát vàng óng là một trong những mỏ dầu lớn nhất hành tinh. Từ những ngôi mộ đá cổ đại hàng nghìn năm tuổi đến những tòa tháp kính sáng lóa, vương quốc này chứa đựng cả ngàn năm lịch sử trong một tầm mắt.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Riyadh",
+      "sub": "Dân số ~7,8 triệu người (2024)"
+    },
+    {
+      "label": "Dân số",
+      "value": "35,3 triệu người",
+      "sub": "Ước tính 2024, gồm cả người nước ngoài"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đồng Riyal Ả Rập",
+      "sub": "SAR; 1 USD ≈ 3,75 SAR"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Phương ngữ Ả Rập vùng Vịnh"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2.150.000 km²",
+      "sub": "Lớn thứ 5 ở châu Á"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Jabal Sawda",
+      "sub": "3.015 m, dãy núi Asir"
+    }
+  ],
+  "islands": [
+    "Riyadh",
+    "Jeddah",
+    "Mecca",
+    "Medina",
+    "Dammam"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Biển cát và đá giữa trời",
+    "animals": "Thú sa mạc và chim ưng",
+    "culture": "Đức tin, tiệc tùng và truyền thống",
+    "history": "Từ bộ lạc đến vương quốc",
+    "wows": "Những điều bất ngờ về Ả Rập Xê-út"
+  },
+  "geo": [
+    "Ả Rập Xê-út phần lớn là một cao nguyên mênh mông trải dài cát và sỏi đá. Rub' al Khali — hay còn gọi là Góc Rỗng — là sa mạc cát liên tục lớn nhất thế giới, rộng hơn cả nước Pháp. Những cồn cát khổng lồ ở đây cao tới 250 mét, như những ngọn núi bằng cát.",
+    "Dọc theo phía tây, dãy núi Hejaz và Asir mang lại không khí mát mẻ hơn, thậm chí có cả mưa. Bờ Biển Đỏ ẩn giấu những rạn san hô tuyệt đẹp, trong khi phía đông mở ra vịnh Ba Tư nông cạn nhưng chứa đựng nguồn dầu mỏ khổng lồ."
+  ],
+  "animals": [
+    "Con lạc đà dromedary của Ả Rập có thể nhịn uống nước cả tuần và gùi những tải nặng xuyên sa mạc nóng bỏng mà không mệt mỏi. Linh dương Ả Rập từng tuyệt chủng hoàn toàn trong tự nhiên, nhưng nhờ được nuôi sinh sản trong các khu bảo tồn, chúng đã được thả về hoang dã và nay đàn linh dương lại tự do tung tăng.",
+    "Nghề nuôi và huấn luyện chim ưng đã có mặt ở vùng đất này suốt 2.000 năm; những người nuôi chim ưng Ả Rập luyện chim ưng Peregrine và Saker thành người bạn đồng hành quý giá. Loài báo Ả Rập hiếm có vẫn còn tồn tại ở những vùng cao của dãy núi Asir."
+  ],
+  "culture": [
+    "Đạo Hồi định hình cuộc sống hàng ngày rất sâu sắc — tín đồ cầu nguyện năm lần mỗi ngày, và trong tháng Ramadan mọi người nhịn ăn uống từ lúc mặt trời mọc đến khi mặt trời lặn. Đến dịp lễ Eid, các gia đình cùng nhau thưởng thức thịt cừu, cơm kabsa thơm phức và những trái chà là ngọt ngào.",
+    "Lòng hiếu khách của người Ả Rập Xê-út nổi tiếng khắp thế giới: khách đến thăm luôn được đón tiếp bằng cà phê qahwa thơm mùi bạch đậu khấu và đĩa chà là. Bộ thobe trắng tinh của nam và abaya đen của nữ vẫn được mặc trang trọng bên cạnh những trang phục thành thị hiện đại."
+  ],
+  "history": [
+    "Những bộ lạc Bedouin du mục đã băng qua những sa mạc này suốt hàng nghìn năm, và Mecca đã trở thành một trung tâm thương mại sầm uất từ rất lâu trước khi đạo Hồi ra đời. Nhà tiên tri Muhammad sinh ra tại đây vào khoảng năm 570 sau Công nguyên, và từ bán đảo này đức tin đã lan tỏa ra khắp thế giới.",
+    "Năm 1932, vua Abdulaziz ibn Saud thống nhất các bộ lạc đang tranh giành thành một vương quốc. Chỉ vài năm sau, những mỏ dầu khổng lồ được khám phá, biến một vương quốc sa mạc thành một cường quốc toàn cầu chỉ trong thời gian ngắn đến mức khó tin."
+  ],
+  "wows": [
+    "Sa mạc Rub' al Khali rộng đến mức có thể nuốt trọn toàn bộ nước Pháp — mà vẫn còn thừa chỗ.",
+    "Ả Rập Xê-út không có một con sông thường xuyên nào — không một con sông nào trên toàn bộ lãnh thổ.",
+    "Cuộc hành hương Hajj thu hút gần 2 triệu người đổ về Mecca chỉ trong vòng một tuần.",
+    "Ả Rập Xê-út nắm giữ khoảng 17% trữ lượng dầu mỏ đã được xác nhận của toàn thế giới.",
+    "Di tích Hegra tại Al-Ula có những ngôi mộ đá kiểu Nabataean được chạm khắc từ hơn 2.000 năm trước.",
+    "Dự án 'The Line' tại NEOM được tưởng tượng như một thành phố dài 170 km nằm giữa hai bức tường kính phản chiếu — không có đường sá, không có xe hơi.",
+    "Người ta cho rằng linh dương Ả Rập đã truyền cảm hứng cho truyền thuyết về con kỳ lân."
+  ],
+  "myths": [
+    {
+      "myth": "\"Đây chỉ là một vùng sa mạc bằng phẳng vô tận\"",
+      "fact": "Ả Rập Xê-út có những ngọn núi cao hơn 3.000 m ở phía tây, những thung lũng ruộng bậc thang xanh mướt ở Asir, và bờ Biển Đỏ với những rạn san hô — đa dạng hơn nhiều so với những gì người ta thường nghĩ."
+    },
+    {
+      "myth": "\"Người không theo đạo Hồi không bao giờ được vào Ả Rập Xê-út\"",
+      "fact": "Ả Rập Xê-út bắt đầu cấp visa du lịch cho người nước ngoài từ năm 2019; người không theo đạo Hồi hoàn toàn có thể tự do khám phá các di tích, sa mạc và bãi biển — chỉ có Mecca và khu vực trung tâm linh thiêng của Medina là nơi hạn chế."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HAH-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً وسهلاً",
+      "say": "AH-lan wa-SAH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sa-hero.jpg",
+      "alt": "Đường chân trời thành phố Riyadh lúc hoàng hôn nhìn từ Tháp Kingdom",
+      "caption": "RIYADH VỀ ĐÊM — những tòa tháp lấp lánh vươn lên từ sa mạc lúc hoàng hôn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sa-landmark.jpg",
+      "alt": "Nhìn từ trên cao xuống thánh đường Masjid al-Haram ở Mecca",
+      "caption": "MASJID AL-HARAM — thánh đường linh thiêng nhất đạo Hồi bao quanh đền Kaaba",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sa-animalA.jpg",
+      "alt": "Chân dung lạc đà dromedary Ả Rập",
+      "caption": "LẠC ĐÀ Ả RẬP — có thể sống sót một tuần trong sa mạc mà không cần uống nước",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sa-animalB.jpg",
+      "alt": "Linh dương Ả Rập màu trắng đứng giữa sa mạc",
+      "caption": "LINH DƯƠNG Ả RẬP — từng tuyệt chủng trong tự nhiên, nay đã được thả về hoang dã",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

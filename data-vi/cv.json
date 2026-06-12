@@ -1,0 +1,163 @@
+{
+  "name": "CABO VERDE",
+  "nativeName": "CV",
+  "romaji": "CABO VERDE",
+  "tagline": "Quần đảo lửa và giai điệu",
+  "region": "Tây Phi",
+  "coords": "16.0°N, 24.0°W",
+  "fileNo": "023",
+  "langName": "Kriolu",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F2EDE3",
+    "dot": "#C9BBA8",
+    "ink": "#26201A",
+    "faint": "#8B7B62",
+    "line": "#DDD4C2",
+    "accent": "#003893",
+    "accent2": "#CF2027"
+  },
+  "flag": {
+    "assetPath": "/flags/cv.svg",
+    "title": "Cờ Cabo Verde",
+    "note": "Biển xanh, dải đỏ-trắng, mười ngôi sao tượng trưng mười hòn đảo",
+    "keyColor": "#003893",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mười hòn đảo núi lửa nằm giữa Đại Tây Dương, cách bờ biển Tây Phi 570 km — và trước năm 1460, không một ai sống ở đây cả. Rồi những người thủy thủ Bồ Đào Nha đặt chân lên, mang theo người châu Phi, và từ đó sinh ra một dân tộc độc đáo — pha trộn giữa châu Phi, châu Âu và biển cả. Ngày nay Cabo Verde nổi tiếng với sóng lướt ván, rùa biển đẻ trứng về đêm, và một thể loại nhạc da diết gọi là morna.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Praia",
+      "sub": "Trên đảo Santiago"
+    },
+    {
+      "label": "Dân số",
+      "value": "~525.000",
+      "sub": "Ước tính World Bank 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Escudo (CVE)",
+      "sub": "Gắn giá trị theo đồng euro"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Bồ Đào Nha",
+      "sub": "Kriolu dùng trong cuộc sống hằng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "4.033 km²",
+      "sub": "Nhỏ hơn đảo Phú Quý nhiều lần"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.829 m",
+      "sub": "Núi lửa Pico do Fogo"
+    }
+  ],
+  "islands": [
+    "Santiago",
+    "São Vicente",
+    "Fogo",
+    "Sal",
+    "Santo Antão"
+  ],
+  "islandsLabel": "CÁC HÒN ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo lửa và gió sa mạc",
+    "animals": "Rùa biển, chim và đại dương",
+    "culture": "Nhạc morna, ẩm thực và hồn đảo",
+    "history": "Thủy thủ, thương nhân và tự do",
+    "wows": "Cabo Verde bất ngờ chưa?"
+  },
+  "geo": [
+    "Mười hòn đảo của Cabo Verde chia thành hai nhóm: nhóm đảo phía đông bằng phẳng như Sal và Boa Vista — nơi gió thổi mãi cho đến khi cát tụ thành những đụn cồn bất tận; và nhóm đảo phía tây hiểm trở như Santo Antão và Fogo — nơi những đỉnh núi dựng đứng đổ thẳng xuống biển.",
+    "Kỳ thú nhất là đảo Fogo: ngọn núi lửa vẫn còn hoạt động, lần phun gần nhất vào năm 2014 chôn vùi cả một ngôi làng dưới dung nham. Thế nhưng ngay trong miệng núi lửa, người dân đã quay lại trồng cà phê và nho — một trong những vườn nho ấn tượng nhất thế giới."
+  ],
+  "animals": [
+    "Boa Vista là bãi đẻ của rùa đầu to — một trong những quần thể lớn nhất thế giới, với hơn 170.000 tổ trứng chỉ trong một mùa. Cứ mỗi tháng Tám, khi màn đêm buông xuống, những con rùa mẹ nặng nề bò lên bãi cát ấm để đào hố chôn trứng.",
+    "Chim sơn ca Raso chỉ sống trên một hòn đảo nhỏ xíu không người ở — toàn bộ loài này chưa đầy 1.500 con, nếu tập hợp lại sẽ vừa trong một sân vận động. Ngoài khơi, cá voi lưng gù ghé qua vào mùa đông, và năm loài rùa biển khác nhau cùng bơi trong vùng biển Cabo Verde."
+  ],
+  "culture": [
+    "Văn hóa Cabo Verde là cuộc hôn phối giữa nhịp điệu châu Phi và giai điệu Bồ Đào Nha. Morna — thể loại nhạc chậm, da diết, nặng nỗi nhớ biển khơi — được UNESCO công nhận là di sản văn hóa phi vật thể năm 2019. Ca sĩ Cesária Évora, người phụ nữ hay hát chân trần từ thành phố Mindelo, đã đưa morna vào các nhà hát lớn khắp thế giới.",
+    "Ẩm thực cũng mang cùng sự pha trộn đó: cachupa là món hầm quốc dân từ ngô và đậu, nấu cùng cá hoặc thịt — mỗi gia đình có công thức riêng truyền từ đời này sang đời khác. Còn mỗi tháng Hai, thành phố Mindelo lại rực rỡ với một trong những lễ hội carnival sôi động nhất toàn châu Phi."
+  ],
+  "history": [
+    "Trước năm 1460, những hòn đảo này hoàn toàn không có người ở. Những nhà thám hiểm Bồ Đào Nha biến Cabo Verde thành trạm giao thương lớn đầu tiên ở Tây Phi — điểm kết nối giữa châu Âu, châu Phi và châu Mỹ, và tiếc thay, cũng là một mắt xích trong thảm kịch buôn bán nô lệ xuyên Đại Tây Dương.",
+    "Suốt 500 năm là thuộc địa của Bồ Đào Nha. Nhà lãnh đạo Amílcar Cabral đã truyền cảm hứng cho phong trào đòi độc lập, và điều kỳ diệu là: tự do đến mà không cần đổ một giọt máu — qua đàm phán sau cuộc cách mạng tại Bồ Đào Nha năm 1974. Ngày Độc lập: 5 tháng 7 năm 1975."
+  ],
+  "wows": [
+    "Cabo Verde không có một con sông nào — hầu hết các đảo lấy nước ngọt hoàn toàn từ các nhà máy khử muối biển.",
+    "Khuôn mặt ca sĩ Cesária Évora in trên tờ tiền 2.000 escudo — hiếm có nơi nào trên thế giới tôn vinh một nhạc sĩ trên đồng tiền quốc gia như vậy.",
+    "Núi lửa Pico do Fogo phun trào năm 2014; người dân đã quay lại và giờ canh tác ngay trên cánh đồng dung nham nguội.",
+    "Cabo Verde chưa từng xảy ra đảo chính quân sự — sự ổn định đáng kinh ngạc so với nhiều nước trong khu vực.",
+    "Gió mậu dịch thổi mạnh đến mức trên một số hòn đảo, cây cối mọc nghiêng vĩnh viễn về một phía.",
+    "Người Cabo Verde sống ở nước ngoài còn đông hơn dân ở trong nước — một cộng đồng hải ngoại rải khắp thế giới gồm nhạc sĩ và ngư dân.",
+    "Vào thế kỷ 19, cảng Mindelo là một trong những trạm tiếp than nhộn nhịp nhất Đại Tây Dương cho tàu hơi nước."
+  ],
+  "myths": [
+    {
+      "myth": "Cabo Verde chỉ là điểm du lịch biển bình thường",
+      "fact": "Các hòn đảo còn có núi lửa đang hoạt động, những cung đường đi bộ xuyên rừng mây, môn lướt ván buồm đẳng cấp thế giới, các loài chim đặc hữu không nơi nào có, và bãi đẻ rùa biển khổng lồ."
+    },
+    {
+      "myth": "Người dân nói tiếng Bồ Đào Nha hằng ngày",
+      "fact": "Tiếng Bồ Đào Nha là ngôn ngữ chính thức dùng trong văn bản, nhưng trong cuộc sống thực tế, hầu hết người Cabo Verde đều nói Kriolu — một ngôn ngữ lai giữa tiếng Bồ Đào Nha và các tiếng Tây Phi — như tiếng mẹ đẻ thực sự của mình."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Ola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Obrigadu",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Bon dia",
+      "say": "bohn DEE-ah"
+    },
+    {
+      "en": "Bạn khỏe không?",
+      "jp": "Modi bu sta?",
+      "say": "MOH-dee boo stah"
+    },
+    {
+      "en": "Rất tốt!",
+      "jp": "Muitu ben",
+      "say": "MWEE-too ben"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cv-hero.jpg",
+      "alt": "Toàn cảnh vịnh Mindelo và thành phố trên đảo São Vicente, Cabo Verde",
+      "caption": "MINDELO — thủ phủ văn hóa Cabo Verde ôm lấy vịnh Porto Grande xanh thẳm",
+      "credit": "Manuel de Sousa / CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/cv-landmark.jpg",
+      "alt": "Con đường dẫn qua vùng đất núi lửa hướng về Pico do Fogo trên đảo Fogo",
+      "caption": "PICO DO FOGO — con đường uốn vào miệng núi lửa nơi ngọn núi vẫn còn âm ỉ",
+      "credit": "Cayambe / CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/cv-animalA.jpg",
+      "alt": "Chim sơn ca Raso đực đang đậu — loài chim đặc hữu nhỏ bé của Cabo Verde",
+      "caption": "SƠN CA RASO — cả loài chỉ sống trên một hòn đảo nhỏ; chưa đầy 1.500 con còn lại",
+      "credit": "Justin Welbergen / CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/cv-animalB.jpg",
+      "alt": "Bãi biển Santa Maria trên đảo Sal, Cabo Verde, nước xanh ngọc và cát trắng mịn",
+      "caption": "BÃI SANTA MARIA — rùa đầu to đến đẻ trứng trên bờ cát vàng của Sal mỗi mùa hè",
+      "credit": "Adrião / CC BY 3.0"
+    }
+  }
+}

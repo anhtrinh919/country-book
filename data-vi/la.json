@@ -1,0 +1,163 @@
+{
+  "name": "LÀO",
+  "nativeName": "ລາວ",
+  "romaji": "LAO PDR",
+  "tagline": "Đất nước Triệu Voi",
+  "region": "Đông Nam Á",
+  "coords": "18°N 103°E",
+  "fileNo": "076",
+  "langName": "tiếng Lào",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EAD8",
+    "dot": "#C9B898",
+    "ink": "#221E18",
+    "faint": "#7D6E52",
+    "line": "#DACBB0",
+    "accent": "#CE1126",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/la.svg",
+    "title": "Quốc kỳ Lào",
+    "note": "Đỏ — xanh — đỏ, vòng tròn trắng giữa tượng trưng cho sự đoàn kết",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Lào là vương quốc rừng núi nằm giữa sáu nước láng giềng ở Đông Nam Á — và là quốc gia duy nhất trong khu vực không có biển. Sông Mê Kông chảy dọc biên giới phía tây, nuôi dưỡng những cánh đồng lúa và những ngôi đền cổ kính. Mỗi buổi sáng sớm, các nhà sư khoác áo vàng nhận cơm từ tay người dân, còn trong rừng sâu, voi rừng vẫn ung dung lội qua những con suối lấp lánh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Vientiane",
+      "sub": "Bên bờ sông Mê Kông"
+    },
+    {
+      "label": "Dân số",
+      "value": "7,8 triệu người",
+      "sub": "Ước tính của LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Kip Lào",
+      "sub": "LAK — chỉ có tiền giấy, không có tiền xu"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Lào",
+      "sub": "Viết bằng chữ tròn uốn lượn"
+    },
+    {
+      "label": "Diện tích",
+      "value": "236.800 km²",
+      "sub": "Rộng hơn nước Anh một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Phu Bia 2.819m",
+      "sub": "Tỉnh Xaisomboun"
+    }
+  ],
+  "islands": [
+    "Vientiane",
+    "L. Prabang",
+    "Pakse",
+    "Savannakhet",
+    "Phonsavan"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sông núi, rừng già & cao nguyên",
+    "animals": "Voi, gấu & sinh vật huyền bí",
+    "culture": "Sư sãi, xôi & lễ hội",
+    "history": "Vương triều, chiến tranh & bom đạn",
+    "wows": "Bảy điều bất ngờ"
+  },
+  "geo": [
+    "Gần ba phần tư diện tích Lào là núi cao và rừng rậm. Cao nguyên Bolaven mát mẻ nổi tiếng với cà phê thơm ngon và những thác nước tuyệt đẹp — thác Kuang Si đổ xuống qua đá vôi trắng, tạo thành những hồ nước màu xanh ngọc bích trong vắt.",
+    "Sông Mê Kông chảy dài 1.835 km dọc biên giới phía tây — dài hơn cả đường bờ biển Việt Nam. Dù không có biển, miền nam Lào lại có Si Phan Don — 'Bốn Nghìn Đảo' — một mê cung đảo sông nơi bạn có thể nằm võng ngắm dòng nước trôi qua nhẹ nhàng."
+  ],
+  "animals": [
+    "Lào từng được gọi là Đất nước Triệu Voi, và voi châu Á vẫn còn sống trong những cánh rừng Lào — khoảng 700 con. Tại sông Tad Lo, voi lội qua dòng nước trong ánh hoàng hôn vàng óng. Gấu ngựa, báo mây và con saola kỳ bí tựa như kỳ lân (phát hiện năm 1992) ẩn mình trong dãy Trường Sơn.",
+    "Sông Mê Kông từng có cá heo Irrawaddy — loài có mõm tròn, được xem như thần linh — nhưng con cuối cùng ở Lào đã mất vào năm 2022. Cá tra khổng lồ sông Mê Kông, một trong những loài cá nước ngọt lớn nhất thế giới với trọng lượng lên tới 300 kg, vẫn còn ẩn náu trong những vực nước sâu của dòng sông."
+  ],
+  "culture": [
+    "Người Lào ăn xôi nhiều hơn bất kỳ dân tộc nào trên thế giới — khoảng 171 kg mỗi người mỗi năm! Bữa ăn được dọn chung cả bàn, với cá, rau thơm và gỏi đu đủ som tam ăn cùng những nắm xôi nhỏ vo tròn tay.",
+    "Phật giáo chi phối từng ngày sống ở Lào. Tại Luang Prabang, hàng trăm nhà sư mặc áo vàng nghệ im lặng bước ra đường từ lúc bình minh để nhận cơm — nghi lễ gọi là Tak Bat. Các lễ hội đánh dấu mùa vụ, từ Lễ bắn pháo thăng thiên đến Boun That Luang lung linh ánh nến vào tháng Mười Một."
+  ],
+  "history": [
+    "Vương quốc Lan Xang — Triệu Voi — được thành lập năm 1353 và một thời trải dài từ biên giới Vân Nam xuống tận Campuchia. Luang Prabang là kinh đô vàng son, và hình ảnh voi ba đầu tồn tại trên cờ hoàng gia suốt 600 năm.",
+    "Pháp đô hộ Lào năm 1893. Sau khi giành độc lập năm 1953, Lào bị cuốn vào Chiến tranh Việt Nam. Trong giai đoạn 1964–1973, Mỹ bí mật ném hơn hai triệu tấn bom xuống đây. Một phần ba số bom không nổ và cho đến nay vẫn còn gây thương vong cho người dân."
+  ],
+  "wows": [
+    "Lào là quốc gia duy nhất ở Đông Nam Á không có biển — không một mét bờ biển nào.",
+    "Đây là nước bị ném bom nhiều nhất tính theo đầu người trong lịch sử: hơn hai triệu tấn bom rải xuống từ 1964 đến 1973.",
+    "Cánh đồng Chum: hàng nghìn chiếc chum đá nặng tới 14 tấn, có tuổi đời hơn 2.500 năm — và không ai biết chúng được làm ra để làm gì.",
+    "Người Lào ăn trung bình 171 kg xôi mỗi người mỗi năm — kỷ lục thế giới.",
+    "Con saola phát hiện năm 1992 hiếm đến mức chưa một nhà khoa học nào từng nhìn thấy nó sống ngoài tự nhiên.",
+    "Si Phan Don có nghĩa là 'Bốn Nghìn Đảo' — một đất nước không có biển mà lại có nhiều đảo hơn nhiều quốc gia ven biển.",
+    "Tháp Pha That Luang ở Vientiane được dát vàng thật và xuất hiện trên mọi tờ tiền Lào."
+  ],
+  "myths": [
+    {
+      "myth": "Lào lúc nào cũng nóng bức như vùng nhiệt đới",
+      "fact": "Những thị trấn miền cao như Phonsavan có thể xuống gần 0°C vào mùa đông, và cao nguyên Bolaven mát lạnh đến mức trồng được dâu tây quanh năm."
+    },
+    {
+      "myth": "Cánh đồng Chum là do người ngoài hành tinh tạo ra",
+      "fact": "Những chiếc chum có niên đại khoảng 500 TCN đến năm 500 SCN và hầu như chắc chắn được dùng cho nghi lễ tang ma của người thời Đồ Đồng sơ khai — đây là thành tựu tuyệt vời của con người."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "ສະບາຍດີ",
+      "say": "sa-bai-dee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "ຂໍຂອບໃຈ",
+      "say": "khob chai"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "ແຊບ",
+      "say": "saep"
+    },
+    {
+      "en": "Sông",
+      "jp": "ແມ່ນ້ຳ",
+      "say": "mae nam"
+    },
+    {
+      "en": "Voi",
+      "jp": "ຊ້າງ",
+      "say": "saang"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/la-landmark.jpg",
+      "alt": "Tháp Pha That Luang dát vàng tại Vientiane, Lào",
+      "caption": "PHA THAT LUANG — tháp quốc gia dát vàng của Vientiane, xây dựng năm 1566",
+      "credit": "shankar s. / CC BY 2.0"
+    },
+    "animalA": {
+      "src": "/photos/la-animalA.jpg",
+      "alt": "Voi châu Á lội qua sông Tad Lo trong ánh hoàng hôn, cao nguyên Bolaven, Lào",
+      "caption": "VOI CHÂU Á — lội qua sông Tad Lo trong ánh hoàng hôn, cao nguyên Bolaven",
+      "credit": "Basile Morin / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/la-animalB.jpg",
+      "alt": "Thác Kuang Si đổ xuống hồ nước xanh ngọc bích, Luang Prabang, Lào",
+      "caption": "THÁC KUANG SI — thác nước nhiều tầng màu xanh ngọc bích gần Luang Prabang",
+      "credit": "Basile Morin / CC BY-SA 4.0"
+    },
+    "hero": {
+      "src": "/photos/la-hero.jpg",
+      "alt": "Các nhà sư Phật giáo mặc áo vàng nghệ nhận cơm lúc bình minh tại Luang Prabang, Lào",
+      "caption": "TAK BAT — các nhà sư áo vàng nhận cơm sáng khi bình minh vừa ló dạng, Luang Prabang",
+      "credit": "Christophe95 / CC BY-SA 4.0"
+    }
+  }
+}

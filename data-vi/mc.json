@@ -1,0 +1,163 @@
+{
+  "name": "MONACO",
+  "nativeName": "MC",
+  "romaji": "MONACO",
+  "tagline": "Đất nhỏ, phong cách lớn",
+  "region": "Tây Âu",
+  "coords": "43°44′N 7°24′E",
+  "fileNo": "125",
+  "langName": "tiếng Pháp",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EDE2",
+    "dot": "#CDBBA4",
+    "ink": "#231F1B",
+    "faint": "#8A7060",
+    "line": "#DCCCB8",
+    "accent": "#CE1126",
+    "accent2": "#F5F5F5"
+  },
+  "flag": {
+    "assetPath": "/flags/mc.svg",
+    "title": "Đỏ và Trắng",
+    "note": "Đỏ trên trắng — màu cờ của dòng họ Grimaldi từ năm 1339",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Monaco là một công quốc tí hon — gần như chỉ bằng một công viên thành phố — nằm kẹp giữa nước Pháp và biển Địa Trung Hải. Dòng họ Grimaldi đã trị vì vách đá này từ năm 1297. Ngày nay, Monaco nổi tiếng khắp thế giới nhờ sòng bài huyền thoại, giải đua xe Công thức 1 trên đường phố, và mật độ triệu phú cao nhất trên mỗi mét vuông so với bất kỳ nơi nào trên Trái Đất.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Monaco-Ville",
+      "sub": "còn gọi là Le Rocher"
+    },
+    {
+      "label": "Dân số",
+      "value": "38.423",
+      "sub": "điều tra dân số 2024, IMSEE"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "sử dụng từ năm 1999"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Pháp",
+      "sub": "cùng tiếng Monegasque bản địa"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2,1 km²",
+      "sub": "quốc gia nhỏ thứ 2 thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "164 m",
+      "sub": "Chemin des Révoires"
+    }
+  ],
+  "islands": [
+    "Monaco-Ville",
+    "Monte-Carlo",
+    "La Condamine",
+    "Fontvieille",
+    "Larvotto"
+  ],
+  "islandsLabel": "CÁC KHU VỰC CHÍNH:",
+  "sections": {
+    "geography": "Vách đá trên mặt biển",
+    "animals": "Biển xanh và cuộc sống ẩn náu",
+    "culture": "Xa hoa trên mảnh đất nhỏ",
+    "history": "Tu sĩ, vương tước và sòng bài",
+    "wows": "Tin được không?"
+  },
+  "geo": [
+    "Monaco bám chặt vào vách đá đá vôi trên bờ Riviera Pháp, ba phía giáp nước Pháp và phía nam là biển Địa Trung Hải. Cả quốc gia chỉ bằng công viên Central Park ở New York — đi bộ qua hết đất nước chỉ mất khoảng 20 phút.",
+    "Cảng Hercule mỗi mùa xuân lại chật kín những chiếc du thuyền khổng lồ đắt giá nhất thế giới. Nhiều thập kỷ qua, các kỹ sư âm thầm lấn biển, lấy thêm đất để Monaco ngày càng rộng hơn một chút."
+  ],
+  "animals": [
+    "Vùng nước của Monaco tràn ngập sự sống Địa Trung Hải — bạch tuộc, cá tráp và lươn biển ẩn nấp dưới đáy cảng. Mỗi mùa hè, đàn cá heo sọc và cá voi vây lớn bơi ngang ngoài khơi, được tàu nghiên cứu của Bảo tàng Hải dương học theo dõi sát sao.",
+    "Trên cạn và trên mái nhà, mòng biển chân vàng làm chủ bầu trời, lượn vòng trên bến cảng với tiếng kêu vang. Trong những khu vườn nhỏ, cáo đỏ và chuột chũi Địa Trung Hải mù lòa sống ẩn mình, di chuyển hoàn toàn bằng xúc giác dưới lòng đất."
+  ],
+  "culture": [
+    "Monaco pha trộn sự thanh lịch Pháp với sự ấm áp Ý. Món ăn quốc hồn là bánh chiên barbajuan — bánh giòn rụm nhân rau cải và phô mai ricotta. Ballet Monte-Carlo, Dàn nhạc Giao hưởng và Nhà hát Opera đều chung sống trong một tòa nhà Belle Époque lộng lẫy dát vàng.",
+    "Mỗi tháng Năm, giải đua Monaco Grand Prix biến mọi con đường thành trường đua. Người Monegasque chính gốc chỉ chiếm khoảng một phần tư dân số — và thú vị là luật pháp cấm họ vào sòng bài nổi tiếng của đất nước mình."
+  ],
+  "history": [
+    "Năm 1297, François Grimaldi cải trang thành tu sĩ, dùng mưu trí chiếm lấy pháo đài Monaco, giấu kiếm bên trong bộ áo dòng. Dòng họ ông đã nắm giữ vách đá này từ đó đến nay — triều đại trị vì lâu đời nhất ở châu Âu.",
+    "Vào thập niên 1860, Monaco gần như vỡ nợ. Vương tử Charles III cho xây sòng bài Monte-Carlo vào năm 1863; những con bạc giàu có đổ đến từ khắp nơi. Năm 1869, doanh thu sòng bài lớn đến mức ông bãi bỏ thuế thu nhập — chính sách đó vẫn còn hiệu lực đến tận ngày nay."
+  ],
+  "wows": [
+    "Monaco là quốc gia đông dân nhất thế giới tính theo mật độ, với hơn 18.000 người trên mỗi km².",
+    "Người Monegasque chính gốc bị pháp luật cấm vào đánh bạc tại sòng bài Monte-Carlo.",
+    "Vương tử Charles III bãi bỏ thuế thu nhập từ năm 1869 — và cho đến nay vẫn chưa bao giờ thu lại.",
+    "Giải đua Monaco Grand Prix đã chạy trên cùng một đường phố từ năm 1929 — cuộc đua xe còn hoạt động lâu đời nhất lịch sử.",
+    "Monaco không có nợ công — một trong số rất ít quốc gia trên thế giới không nợ tiền ai.",
+    "Khu vực Fontvieille hoàn toàn được xây dựng trên vùng đất lấn biển.",
+    "Ayrton Senna vô địch Monaco Grand Prix sáu lần — kỷ lục chưa ai phá vỡ."
+  ],
+  "myths": [
+    {
+      "myth": "Monaco chỉ dành cho tỷ phú",
+      "fact": "Ai cũng có thể tự do đến thăm. Sòng bài, quảng trường hoàng cung và các bãi biển đều mở cửa cho tất cả — tàu từ Nice chạy chỉ 25 phút và chỉ tốn vài euro."
+    },
+    {
+      "myth": "Monaco có sân bay riêng",
+      "fact": "Monaco không có sân bay nào cả. Sân bay gần nhất là Nice Côte d'Azur — 20 phút đi trực thăng hoặc 40 phút lái xe dọc bờ biển Riviera."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bonjour",
+      "say": "bon-ZHOOR"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Merci",
+      "say": "mair-SEE"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "S'il vous",
+      "say": "seel-voo-PLAY"
+    },
+    {
+      "en": "Biển cả",
+      "jp": "La mer",
+      "say": "la MAIR"
+    },
+    {
+      "en": "Cung điện",
+      "jp": "Le palais",
+      "say": "luh pa-LAY"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mc-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống cảng Hercule của Monaco, chật kín du thuyền trong tuần lễ Grand Prix",
+      "caption": "CẢNG HERCULE — nhìn từ trên không trong tuần lễ đua xe Công thức 1",
+      "credit": "Niels Mickers / CC BY 3.0 NL"
+    },
+    "landmark": {
+      "src": "/photos/mc-landmark.jpg",
+      "alt": "Cung điện Hoàng tử Monaco sừng sững trên vách đá nhìn ra biển",
+      "caption": "CUNG ĐIỆN HOÀNG TỬ — nơi ở của dòng họ Grimaldi trên vách đá từ năm 1297",
+      "credit": "Niels Mickers / CC BY 3.0 NL"
+    },
+    "animalA": {
+      "src": "/photos/mc-animalA.jpg",
+      "alt": "Mòng biển chân vàng đứng với đôi chân vàng đặc trưng và đôi cánh xám",
+      "caption": "MÒNG BIỂN CHÂN VÀNG — loài chim bờ biển đặc trưng của Monaco, làm chủ mọi bến cảng",
+      "credit": "Alexis Lours / CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/mc-animalB.jpg",
+      "alt": "Cá heo mũi chai trưởng thành bơi cùng chú cá heo con",
+      "caption": "CÁ HEO MŨI CHAI — khách ghé thăm theo mùa trong vùng biển ấm ngoài khơi Monaco",
+      "credit": "Peter Asprey / CC BY-SA 3.0"
+    }
+  }
+}

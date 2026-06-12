@@ -1,0 +1,163 @@
+{
+  "name": "LATVIA",
+  "nativeName": "LV",
+  "romaji": "LATVIJA",
+  "tagline": "Xứ sở bài ca và hổ phách",
+  "region": "Bắc Âu · Vùng Baltic",
+  "coords": "56.9°N, 24.6°E",
+  "fileNo": "042",
+  "langName": "tiếng Latvia",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EAD6",
+    "dot": "#C8B99A",
+    "ink": "#231F1A",
+    "faint": "#7A6A52",
+    "line": "#DDD0B5",
+    "accent": "#9E3039",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/lv.svg",
+    "title": "Cờ Latvia",
+    "note": "Đỏ thẫm — trắng — đỏ thẫm",
+    "keyColor": "#9E3039",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Latvia là đất nước nhỏ bé ở vùng Baltic, nơi hơn một nửa lãnh thổ là rừng già ngàn năm tuổi và ca hát là môn thể thao quốc gia. Cứ năm năm một lần, 40.000 người cùng cất tiếng hát trong lễ hội lớn nhất châu Âu — và trên bờ biển, sóng có thể cuốn lên những viên hổ phách vàng óng từ những khu rừng cổ đại sống cách đây 40 triệu năm!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Riga",
+      "sub": "Thành phố lớn nhất; khoảng 600.000 dân"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,86 triệu người",
+      "sub": "Ước tính tháng 5/2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Dùng từ ngày 1/1/2014"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Latvia",
+      "sub": "Một trong hai ngôn ngữ Baltic còn tồn tại"
+    },
+    {
+      "label": "Diện tích",
+      "value": "64.589 km²",
+      "sub": "Hơi nhỏ hơn đảo Ireland"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "312 m",
+      "sub": "Đồi Gaiziņkalns, vùng Vidzeme"
+    }
+  ],
+  "islands": [
+    "Riga",
+    "Vidzeme",
+    "Kurzeme",
+    "Latgale",
+    "Zemgale"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Rừng già, đầm lầy và bờ Baltic",
+    "animals": "Thú hoang trong rừng sâu",
+    "culture": "Bài ca, hổ phách và bánh mì đen",
+    "history": "Từ thời thập tự chinh đến tự do",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Latvia nằm dọc bờ đông Biển Baltic — địa hình phẳng lặng, không có điểm nào cao quá 312 mét. Hơn nửa đất nước là rừng thông, bạch dương và sồi cổ thụ, đan xen với sông ngòi, hồ nước và những vùng đầm lầy ngập tràn chuồn chuồn. So với Việt Nam, Latvia nhỏ hơn nhưng rừng nhiều hơn hẳn!",
+    "Con sông Daugava chảy về phía tây, đổ ra biển ngay tại thủ đô Riga. Bờ biển Baltic dài 500 km toàn cát trắng mịn, và sau mỗi cơn bão, người ta có thể nhặt được những viên hổ phách vàng — đó là nhựa cây hóa thạch từ những khu rừng tồn tại cách đây 40 triệu năm."
+  ],
+  "animals": [
+    "Trong những cánh rừng Latvia, gấu nâu, sói xám, linh miêu và nai sừng tấm cùng chung sống — con nai sừng tấm là loài hươu lớn nhất châu Âu, to hơn trâu Việt Nam nhiều lần! Ở khu bảo tồn Pape, bò rừng châu Âu và ngựa hoang tự do chạy trên những đụn cát ven biển, như hình ảnh còn sót lại từ thời kỷ Băng hà.",
+    "Cò trắng là vị khách mùa hè được người Latvia yêu quý nhất — khoảng 14.000 đôi cò về đây làm tổ trên ống khói nhà dân mỗi năm, đây là mật độ cò dày đặc nhất châu Âu. Còn chim quốc gia của Latvia là chim chìa vôi trắng nhỏ nhắn, lanh lợi."
+  ],
+  "culture": [
+    "Người Latvia đã sưu tầm được hơn 1,2 triệu bài dân ca gọi là *dainas* — những vần thơ ngắn về thiên nhiên và bốn mùa. Cứ năm năm một lần, Lễ hội Ca nhạc và Múa dân gian quy tụ 40.000 người biểu diễn tại Riga, được UNESCO công nhận là di sản văn hóa phi vật thể nhân loại.",
+    "Bánh mì đen ăn trong mọi bữa, nướng theo công thức ngàn năm tuổi. Đêm hạ chí (lễ Jāņi), cả nhà cùng đốt lửa trại và kết vòng hoa đội đầu. Ai cũng đi tìm hoa dương xỉ — dù ai cũng biết loài hoa ấy không có thật — nhưng đó chính là điều kỳ diệu của đêm Jāņi!"
+  ],
+  "history": [
+    "Người Latvia từng buôn bán hổ phách với La Mã cổ đại. Đến thế kỷ 13, các hiệp sĩ thập tự chinh người Đức kéo đến, xây lâu đài đá và thống trị suốt nhiều thế kỷ. Sau đó Latvia lần lượt thuộc Ba Lan, Thụy Điển rồi Nga, trước khi tuyên bố độc lập vào ngày 18/11/1918.",
+    "Liên Xô chiếm đóng Latvia năm 1940 và lại một lần nữa từ năm 1944. Năm 1989, hai triệu người nắm tay nhau tạo thành chuỗi người dài 675 km xuyên suốt ba nước Baltic — một trong những cuộc biểu tình hòa bình lớn nhất lịch sử. Latvia giành lại độc lập hoàn toàn vào ngày 21/8/1991."
+  ],
+  "wows": [
+    "Riga có hơn 800 tòa nhà Art Nouveau — nhiều hơn cả Paris hay Barcelona, khiến đây trở thành thủ đô Art Nouveau của thế giới.",
+    "Riga được cho là nơi dựng cây thông Noel đầu tiên trên thế giới vào năm 1510 — các thương nhân trang trí, nhảy múa xung quanh rồi đốt cây đi!",
+    "Latvia có 1,2 triệu bài dân ca được sưu tầm — nhiều bài hát tính theo đầu người hơn hầu hết các quốc gia khác.",
+    "Chuỗi người Baltic năm 1989 là chuỗi người dài nhất lịch sử: 675 km tay nối tay xuyên qua ba đất nước.",
+    "Lễ hội Ca nhạc và Múa dân gian của Latvia thu hút khoảng 40.000 người biểu diễn trong một dàn hợp xướng ngoài trời khổng lồ, năm năm một lần.",
+    "Hơn 55% diện tích Latvia là rừng — tỷ lệ cao nhất trong số các nước châu Âu.",
+    "Khoảng 14.000 đôi cò trắng bay từ châu Phi về Latvia làm tổ mỗi mùa xuân, đây là một trong những mật độ cò cao nhất châu Âu."
+  ],
+  "myths": [
+    {
+      "myth": "Latvia là một phần của vùng Scandinavia",
+      "fact": "Latvia là quốc gia Baltic — một vùng hoàn toàn khác. Tiếng Latvia có họ hàng với tiếng Litva, không liên quan gì đến các ngôn ngữ Scandinavia, và văn hóa cũng rất khác biệt."
+    },
+    {
+      "myth": "Latvia lúc nào cũng lạnh và ảm đạm",
+      "fact": "Latvia có những mùa hè ấm áp, nắng đẹp với ngày rất dài. Cuối tháng 6, mặt trời gần như không lặn, và lễ hội lửa trại Midsummer ra đời chính là để ăn mừng đêm sáng kỳ diệu ấy!"
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Sveiki",
+      "say": "SVAY-kee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Paldies",
+      "say": "PAL-dee-yes"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Lūdzu",
+      "say": "LOOD-zoo"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Atā",
+      "say": "ah-TAA"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Garšīgi",
+      "say": "GAR-shee-gee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lv-hero.jpg",
+      "alt": "Toàn cảnh thành phố Riga nhìn từ bên kia sông Daugava",
+      "caption": "RIGA — thành phố lớn nhất vùng Baltic, soi bóng xuống dòng sông Daugava rộng lớn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lv-landmark.jpg",
+      "alt": "Quảng trường Tòa thị chính khu Phố Cổ Riga với mặt tiền rực rỡ và đường đá cuội",
+      "caption": "PHỐ CỔ RIGA — tháp nhọn thời trung cổ và mặt tiền màu pastel, Di sản thế giới UNESCO",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lv-animalA.jpg",
+      "alt": "Cò trắng đứng trên đồng cỏ",
+      "caption": "CÒ TRẮNG — khoảng 14.000 đôi làm tổ ở Latvia mỗi mùa hè, thường đậu trên ống khói",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lv-animalB.jpg",
+      "alt": "Linh miêu Á-Âu trên cành cây trong rừng",
+      "caption": "LINH MIÊU Á-ÂU — thợ săn bí ẩn rình rập trong những khu rừng thông sâu thẳm của Latvia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "CUBA",
+  "nativeName": "CU",
+  "romaji": "CUBA",
+  "tagline": "Hòn đảo âm nhạc và sắc màu",
+  "region": "Vùng Caribe",
+  "coords": "22°N 80°W",
+  "fileNo": "047",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CCBFA3",
+    "ink": "#241E18",
+    "faint": "#8A7558",
+    "line": "#DDD0B0",
+    "accent": "#002A8F",
+    "accent2": "#CC1414"
+  },
+  "flag": {
+    "assetPath": "/flags/cu.svg",
+    "title": "Quốc kỳ Cuba",
+    "note": "Sọc xanh và trắng, tam giác đỏ, ngôi sao",
+    "keyColor": "#002A8F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Cuba là hòn đảo lớn nhất vùng Caribbean — nơi những chiếc xe cổ sơn đủ màu sắc rầm rộ lăn bánh qua những con phố rực rỡ, và tiếng nhạc vang ra từ mọi cánh cửa. Thủ đô Havana tràn ngập vũ điệu và mùi gió biển. Đảo này trồng mía, sản xuất xì gà nổi tiếng khắp thế giới, và còn giấu trong lòng những dãy núi, hang động kỳ bí cùng rạn san hô đầy màu sắc chờ được khám phá.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Havana",
+      "sub": "Khoảng 2,1 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "11,2 triệu",
+      "sub": "Ước tính 2023"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Peso Cuba",
+      "sub": "CUP"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Ngôn ngữ chính thức duy nhất"
+    },
+    {
+      "label": "Diện tích",
+      "value": "109.884 km²",
+      "sub": "Lớn hơn Iceland"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Pico Turquino",
+      "sub": "1.974 m — dãy Sierra Maestra"
+    }
+  ],
+  "islands": [
+    "Havana",
+    "Santiago",
+    "Trinidad",
+    "Varadero",
+    "Cienfuegos"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đảo dài giữa trùng khơi",
+    "animals": "Muông thú xứ nhiệt đới",
+    "culture": "Nhịp điệu, sắc màu và hương vị",
+    "history": "Mía, hải tặc và cách mạng",
+    "wows": "Bảy điều bất ngờ về Cuba"
+  },
+  "geo": [
+    "Cuba là hòn đảo dài và hẹp — trải dài 1.200 km từ đầu đến cuối nhưng hiếm khi rộng hơn 100 km. Dãy núi Escambray và Sierra Maestra vươn lên ở phía đông nam, phủ rừng mây mù, trong khi bờ biển phía bắc mở ra vùng biển xanh lam trong vắt.",
+    "Sâu trong đất liền, những đồng bằng rộng lớn từng phủ kín mía đường. Cuba còn sở hữu hơn 4.000 đảo nhỏ, cùng những hang động đá vôi hùng vĩ, sông ngầm chảy trong lòng đất và rạn san hô tràn đầy cá tôm."
+  ],
+  "animals": [
+    "Ngôi sao của Cuba chính là chim ruồi ong — loài chim nhỏ nhất thế giới, chỉ to bằng con ong bắp cày, nhẹ hơn cả một cái kẹp giấy. Solenodon Cuba là loài thú giống chuột chù nhưng cổ xưa đến mức gần như không thay đổi từ thời khủng long.",
+    "Hồng hạc đi thành đàn rực rỡ dọc các cồn cát phía bắc. Cá sấu Cuba — thân ngắn, mắt sáng — vùng vẫy trong đầm lầy nước ngọt và không sống ở bất cứ đâu khác trên Trái Đất. Ngoài ra, lợn biển, rùa đồi mồi và cá mập voi còn tuần tra vùng biển bao quanh."
+  ],
+  "culture": [
+    "Người Cuba đam mê âm nhạc đến tận xương tủy — son, salsa và rumba đều được sinh ra tại đây. Bất kỳ góc phố nào cũng có thể biến thành sàn nhảy. Bóng chày là môn thể thao quốc gia; trẻ con tập cầm gậy từ khi còn bé xíu.",
+    "Ẩm thực Cuba đậm đà và no bụng: đậu đen nấu cơm (moros y cristianos), chuối chiên giòn và thịt heo quay chậm lửa. Những điếu xì gà cuốn tay ở vùng Vuelta Abajo được coi là loại ngon nhất thế giới."
+  ],
+  "history": [
+    "Cuba từng là quê hương của người Taíno trước khi Columbus đặt chân lên đảo năm 1492. Tây Ban Nha cai trị gần 400 năm, xây dựng sự giàu có từ những đồn điền mía do người châu Phi bị bắt làm nô lệ canh tác — một di sản còn in đậm trong văn hóa, ẩm thực và âm nhạc Cuba.",
+    "Sau cuộc đấu tranh giành độc lập quyết liệt, Cuba thoát khỏi ách Tây Ban Nha năm 1898. Năm 1959, cuộc cách mạng của Fidel Castro biến hòn đảo thành nhà nước cộng sản. Thể chế đó vẫn tồn tại đến hôm nay, khiến Cuba trở thành một trong những đất nước đặc biệt nhất thế giới."
+  ],
+  "wows": [
+    "Chim ruồi ong — chỉ có ở Cuba — là loài chim nhỏ nhất thế giới, nhẹ hơn cả một đồng xu.",
+    "Cuba cử bác sĩ ra nước ngoài giúp đỡ các dân tộc khác nhiều hơn gần như bất kỳ quốc gia nào trên Trái Đất.",
+    "Những chiếc xe Mỹ thập niên 1950 ở Havana vẫn chạy mỗi ngày vì hàng nhập khẩu bị cấm suốt hàng chục năm.",
+    "Cuba từng là nước xuất khẩu đường lớn nhất thế giới, phủ kín đất đai bằng những cánh đồng mía bao la.",
+    "Ếch eleuth Monte Iberia ở Cuba là một trong những động vật có xương sống nhỏ nhất hành tinh.",
+    "Chiến dịch xóa mù chữ năm 1961 đưa học sinh đi khắp đảo, nâng tỷ lệ biết chữ từ 23% lên 96%.",
+    "Cuba nằm ngay vùng bão nhiệt đới, nhưng hệ thống sơ tán của họ được cả thế giới khen ngợi vì cứu sống hàng triệu người."
+  ],
+  "myths": [
+    {
+      "myth": "Người Cuba hút xì gà mỗi ngày",
+      "fact": "Xì gà là mặt hàng xuất khẩu nổi tiếng, nhưng hầu hết người Cuba hiếm khi hút — chúng đắt tiền và chủ yếu làm để bán ra nước ngoài."
+    },
+    {
+      "myth": "Cuba vẫn còn như hồi thập niên 1950",
+      "fact": "Xe cổ là thật, nhưng Cuba cũng có bệnh viện hiện đại, trường đại học, phòng thí nghiệm công nghệ sinh học và internet ngày càng phổ biến."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hola",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-syahs"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Amigo",
+      "say": "ah-MEE-go"
+    },
+    {
+      "en": "Âm nhạc",
+      "jp": "Música",
+      "say": "MOO-see-kah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/cu-hero.jpg",
+      "alt": "Những chiếc xe cổ sặc sỡ trên phố Havana với những tòa nhà thời thuộc địa",
+      "caption": "MALECÓN HAVANA — xe cổ thập niên 1950 lướt trên đại lộ ven biển nổi tiếng của Cuba",
+      "credit": "Wikimedia Commons / Matthias Bethke"
+    },
+    "landmark": {
+      "src": "/photos/cu-landmark.jpg",
+      "alt": "Tòa nhà El Capitolio ở Havana với mái vòm uy nghi",
+      "caption": "EL CAPITOLIO — tòa nhà quốc hội mái vòm hoành tráng của Havana, hoàn thành năm 1929",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/cu-animalA.jpg",
+      "alt": "Chim ruồi ong đậu trên cành cây mảnh, thể hiện kích thước siêu nhỏ của nó",
+      "caption": "CHIM RUỒI ONG — loài chim nhỏ nhất thế giới, chỉ có ở Cuba",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/cu-animalB.jpg",
+      "alt": "Cá sấu Cuba trên bờ sông với những hoa văn đặc trưng rực rỡ",
+      "caption": "CÁ SẤU CUBA — loài bò sát hoa văn như đá quý, không sống ở nơi nào khác trên Trái Đất",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

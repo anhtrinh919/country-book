@@ -1,0 +1,163 @@
+{
+  "name": "PUERTO RICO",
+  "nativeName": "PR",
+  "romaji": "PUERTO RICO",
+  "tagline": "Hòn Đảo Huyền Diệu",
+  "region": "Vùng Caribe, Bắc Mỹ",
+  "coords": "18.2°N, 66.6°W",
+  "fileNo": "049",
+  "langName": "tiếng Tây Ban Nha",
+  "motif": "papel",
+  "theme": {
+    "paper": "#F5EEE0",
+    "dot": "#CCBA9E",
+    "ink": "#2B2118",
+    "faint": "#8A7055",
+    "line": "#DDD0B2",
+    "accent": "#C0202E",
+    "accent2": "#1A3E8F"
+  },
+  "flag": {
+    "assetPath": "/flags/pr.svg",
+    "title": "Cờ Puerto Rico",
+    "note": "Năm sọc ngang; ngôi sao trắng trên tam giác xanh",
+    "keyColor": "#C0202E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Puerto Rico là một hòn đảo nắng vàng ở vùng Caribe, thuộc nước Mỹ nhưng lại mang trái tim Latin sôi động riêng của mình. Người dân nói tiếng Tây Ban Nha, nhảy salsa và ăn cơm đậu gần như mỗi bữa. Những pháo đài cổ xưa canh giữ phố cổ San Juan, còn những vịnh biển phát sáng kỳ diệu và đài thiên văn khổng lồ làm cho hòn đảo này trở nên thật phi thường.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "San Juan",
+      "sub": "Thành phố Mỹ lâu đời nhất; Tây Ban Nha lập năm 1521"
+    },
+    {
+      "label": "Dân số",
+      "value": "3,2 triệu người",
+      "sub": "Thống kê Mỹ năm 2023; chỉ tính đảo chính"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Mỹ",
+      "sub": "Dùng USD; không có tiền riêng của Puerto Rico"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tây Ban Nha",
+      "sub": "Tiếng Anh đồng chính thức; tiếng Tây Ban Nha dùng hằng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "9.104 km²",
+      "sub": "Lái xe từ đầu đến cuối đảo chỉ mất khoảng 3 tiếng"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.338 m",
+      "sub": "Cerro de Punta, dãy núi Cordillera Central"
+    }
+  ],
+  "islands": [
+    "San Juan",
+    "Ponce",
+    "Vieques",
+    "Mayagüez",
+    "Culebra"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ & ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Hòn đảo xanh giữa nắng trời",
+    "animals": "Muôn thú trên đảo và dưới biển",
+    "culture": "Salsa, ẩm thực và sắc màu rực rỡ",
+    "history": "Pháo đài, mía đường và lá cờ mới",
+    "wows": "7 điều làm bạn ngỡ ngàng"
+  },
+  "geo": [
+    "Puerto Rico nằm ở nơi Đại Tây Dương gặp biển Caribe. Một dãy núi tên Cordillera Central chạy từ đông sang tây, với những thung lũng xanh mướt và những con sông — cùng rừng El Yunque, khu rừng nhiệt đới duy nhất trong toàn bộ Hệ thống Rừng Quốc gia Mỹ.",
+    "Những hòn đảo nhỏ Vieques và Culebra ở phía đông có bãi biển trong vắt như pha lê. Ngay phía bắc, Hố sâu Puerto Rico lao xuống tận 8.376 m — điểm sâu nhất của Đại Tây Dương, còn sâu hơn cả chiều cao của đỉnh Everest!"
+  ],
+  "animals": [
+    "Con ếch coquí chỉ bằng ngón tay cái nhưng tiếng kêu 'ko-kee' của nó vang khắp Puerto Rico mỗi đêm với âm lượng lên tới 90 decibel. Người Puerto Rico yêu quý nó đến mức hình ảnh coquí xuất hiện trên logo, tranh vẽ và cả hình xăm. Đảo cũng là nhà của con vẹt Puerto Rico — một trong những loài chim hiếm nhất thế giới.",
+    "Rùa biển về đẻ trứng trên bãi cát Puerto Rico mỗi mùa hè. Vịnh Mosquito trên đảo Vieques phát sáng xanh lam rực rỡ vào ban đêm — hàng tỷ sinh vật li ti bùng sáng mỗi khi có gì đó khuấy động mặt nước, như chớp điện lỏng. Bò biển manatee lặng lẽ bơi qua các đầm phá ven bờ phía tây."
+  ],
+  "culture": [
+    "Văn hóa Puerto Rico là sự pha trộn giữa truyền thống Taíno bản địa, Tây Ban Nha và châu Phi. Điệu nhảy salsa một phần được sinh ra ở đây — cứ bật nhạc lên là mọi người tự nhiên chuyển động. Trống bomba và plena kể lại những câu chuyện hòn đảo tại các quảng trường trong suốt cả năm.",
+    "Ẩm thực là ngôn ngữ tình yêu của hòn đảo: mofongo — chuối chiên giã dập, lechón — heo quay chậm lửa, và bánh chiên pastelillos vàng ươm trong mỗi bữa tiệc. Những con phố San Juan cổ được lát bằng đá xanh cobalt — đây vốn là đá dằn tàu từ thời xưa!"
+  ],
+  "history": [
+    "Người Taíno đã sống ở đây hàng trăm năm trước khi Columbus đặt chân tới năm 1493. Tây Ban Nha xây dựng những pháo đài khổng lồ El Morro và San Cristóbal để bảo vệ đoàn tàu chở kho báu, đồng thời đưa người châu Phi bị nô dịch đến làm việc trên các đồn điền mía. Puerto Rico trở thành lãnh thổ của Mỹ năm 1898.",
+    "Năm 1917, người Puerto Rico được công nhận là công dân Mỹ. Làn sóng di cư lớn đến New York vào thập niên 1950 đã lan tỏa văn hóa hòn đảo khắp nước Mỹ. Ngày nay người Puerto Rico vẫn tranh luận về việc thành bang hay độc lập, nhưng niềm tự hào về bản sắc hòn đảo thì ai cũng chung lòng."
+  ],
+  "wows": [
+    "Vịnh Mosquito trên đảo Vieques là vịnh phát sinh học sáng nhất thế giới — nước biển phát sáng xanh lam khi bạn khuấy tay vào.",
+    "Đài thiên văn Arecibo từng là kính thiên văn vô tuyến lớn nhất thế giới — đường kính 305 m, được xây trong một hố sụt giữa rừng nhiệt đới.",
+    "Ếch coquí kêu to tới 90 decibel — ồn như máy cắt cỏ — vậy mà người dân địa phương không ngủ được nếu thiếu tiếng kêu đó!",
+    "Hố sâu Puerto Rico ở độ sâu 8.376 m là điểm sâu nhất của toàn bộ Đại Tây Dương.",
+    "El Yunque là khu rừng nhiệt đới duy nhất trong Hệ thống Rừng Quốc gia Mỹ, nhận tới 5.000 mm mưa mỗi năm.",
+    "Các cầu thủ bóng chày Puerto Rico đã giành nhiều giải Găng Tay Vàng MLB bình quân đầu người hơn bất kỳ vùng lãnh thổ nào trên Trái Đất.",
+    "Puerto Rico có hơn 270 ngày nắng mỗi năm dù nằm giữa vành đai bão nhiệt đới!"
+  ],
+  "myths": [
+    {
+      "myth": "Puerto Rico là một quốc gia độc lập",
+      "fact": "Puerto Rico là lãnh thổ của Mỹ — 3,2 triệu cư dân là công dân Mỹ nhưng không được bỏ phiếu bầu tổng thống Mỹ và không có đại biểu bỏ phiếu trong Quốc hội."
+    },
+    {
+      "myth": "Puerto Rico bị bão tàn phá liên tục",
+      "fact": "Puerto Rico có khoảng 270 ngày nắng mỗi năm; bão lớn rất hiếm khi xảy ra, và thời tiết ấm áp dễ chịu chào đón du khách gần như quanh năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "¡Hola!",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Gracias",
+      "say": "GRAH-see-as"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "¡Qué rico!",
+      "say": "keh REE-koh"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Amigo",
+      "say": "ah-MEE-goh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/pr-hero.jpg",
+      "alt": "Đường chân trời San Juan với khu phố cổ San Juan ở phía trước",
+      "caption": "SAN JUAN — phố cổ sắc màu gặp gỡ đường chân trời hiện đại bên bờ Đại Tây Dương",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/pr-landmark.jpg",
+      "alt": "Pháo đài El Morro nhô ra biển tại San Juan cổ",
+      "caption": "EL MORRO — pháo đài Tây Ban Nha thế kỷ 16 canh giữ cảng San Juan",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/pr-animalA.jpg",
+      "alt": "Chú ếch coquí nhỏ xíu bám trên chiếc lá xanh",
+      "caption": "ẾCH COQUÍ — ca sĩ tí hon đáng yêu của Puerto Rico, kêu to như máy cắt cỏ",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/pr-animalB.jpg",
+      "alt": "Con vẹt Puerto Rico xanh tươi đậu trên cành cây",
+      "caption": "VẸT PUERTO RICO — một trong những loài chim hiếm nhất thế giới, chỉ còn khoảng 500 con",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "CROATIA",
+  "nativeName": "HR",
+  "romaji": "HRVATSKA",
+  "tagline": "Biển xanh, nghìn đảo & đá cổ ngàn năm",
+  "region": "Đông Nam Âu / Balkan",
+  "coords": "45.1°N, 15.2°E",
+  "fileNo": "085",
+  "langName": "tiếng Croatia",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#C9BCA8",
+    "ink": "#25201A",
+    "faint": "#8A7C65",
+    "line": "#D8CCBA",
+    "accent": "#CC2027",
+    "accent2": "#1A3A6B"
+  },
+  "flag": {
+    "assetPath": "/flags/hr.svg",
+    "title": "Quốc kỳ Croatia",
+    "note": "Ba sọc đỏ-trắng-xanh + huy hiệu ô vuông đỏ trắng",
+    "keyColor": "#CC2027",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Croatia ôm lấy biển Adriatic với hơn 1.700 km bờ biển và hơn một nghìn hòn đảo lớn nhỏ. Những thành phố có tường thành cổ kính ở đây trông như bước ra từ chuyện cổ tích, còn các vườn quốc gia thì giấu những thác nước đổ xuống hồ xanh ngọc bích. Tuy nhỏ nhưng Croatia sở hữu cả di tích La Mã, phố thị trung cổ lẫn bãi biển lộng lẫy — tất cả gói gọn trong một đất nước chỉ rộng hơn Việt Nam một chút.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Zagreb",
+      "sub": "Dân số khoảng 770.000 người (2021)"
+    },
+    {
+      "label": "Dân số",
+      "value": "3,87 triệu người",
+      "sub": "Điều tra dân số 2021"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "Gia nhập khu vực đồng Euro năm 2023"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Croatia",
+      "sub": "Ngôn ngữ Slav phương Nam"
+    },
+    {
+      "label": "Diện tích",
+      "value": "56.594 km²",
+      "sub": "Rộng hơn Đồng bằng sông Cửu Long một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Dinara 1.831 m",
+      "sub": "Nằm ở biên giới với Bosnia"
+    }
+  ],
+  "islands": [
+    "Zagreb",
+    "Split",
+    "Dubrovnik",
+    "Osijek",
+    "Rijeka"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Nghìn đảo & thác nước bậc thang",
+    "animals": "Gấu nâu rừng & cá ngựa biển",
+    "culture": "Cà vạt, cờ vua & hát a cappella",
+    "history": "Vương quốc, đế chế & độc lập",
+    "wows": "Những điều bất ngờ về Croatia!"
+  },
+  "geo": [
+    "Croatia có hình dáng như một vầng trăng lưỡi liềm. Dải bờ biển mỏng manh phía nam — gọi là Dalmatia — nhìn ra biển Adriatic với hơn một nghìn hòn đảo xanh mướt. Mùa hè ở đây nắng gắt và khô, không khí ngào ngạt mùi thông và muối biển.",
+    "Đi vào đất liền là dãy núi đá vôi và những thung lũng xanh rờn. Vườn quốc gia Plitvice nổi tiếng với 16 hồ nước xanh ngọc bích xếp tầng như bậc thang khổng lồ, hồ này đổ xuống hồ kia qua những thác nước phủ rêu — đẹp như tranh vẽ."
+  ],
+  "animals": [
+    "Khoảng 1.000 con gấu nâu đang sống tự do trong những khu rừng Velebit — đây là loài động vật hoang dã lớn nhất Croatia. Kền kền đầu trắng với sải cánh dài tới 2,5 m bay lượn trên đảo Cres, một trong số ít nơi ở châu Âu còn bảo tồn được loài chim hùng vĩ này.",
+    "Những vũng biển trong vắt của Adriatic là nơi trú ngụ của cá ngựa mõm ngắn và rùa biển đầu to — loài rùa này mỗi mùa hè lại bò lên những bãi biển vắng để đẻ trứng. Cá heo thì thường nhảy lên đón đầu các chuyến phà qua đảo, như thể đang chào khách."
+  ],
+  "culture": [
+    "Người Croatia chính là những người phát minh ra cà vạt! Từ 'cravat' trong tiếng Anh bắt nguồn từ chữ 'Croat'. Vào thế kỷ 17, các chiến binh Croatia đeo khăn thắt nút quanh cổ ra trận — và mốt đó lan rộng khắp châu Âu. Zagreb ngày nay còn có hẳn một bảo tàng nhỏ về cà vạt!",
+    "Klapa — điệu hát hòa âm của những giọng nam không nhạc đệm từ vùng Dalmatia — đã được UNESCO công nhận là di sản văn hóa thế giới. Nghe klapa như nghe biển cả cất tiếng hát. Người Croatia cũng chính là những người mang trò chơi cờ vua vào cuộc sống với tên gọi 'šah', và họ còn phát minh ra bút chì bấm."
+  ],
+  "history": [
+    "Người Hy Lạp và La Mã xưa rất mê bờ biển Croatia. Hoàng đế Diocletian đã xây cung điện nghỉ dưỡng tại Split vào khoảng năm 295–305 sau Công nguyên — và ngày nay vẫn có người sống bên trong tường thành cổ đó! Croatia trở thành một vương quốc độc lập từ năm 925.",
+    "Sau nhiều thế kỷ lần lượt nằm dưới quyền kiểm soát của Hungary, đế chế Ottoman và nhà Habsburg, Croatia gia nhập Nam Tư. Năm 1991, Croatia tuyên bố độc lập, trải qua cuộc chiến tranh giành tự do và chính thức gia nhập Liên minh châu Âu vào năm 2013."
+  ],
+  "wows": [
+    "Croatia có hơn 1.000 hòn đảo nhưng chỉ khoảng 50 đảo có người sinh sống thường xuyên.",
+    "Tường thành cổ của Dubrovnik từng là bối cảnh quay 'King's Landing' trong bộ phim Game of Thrones nổi tiếng.",
+    "Người dân vẫn đang sống bên trong Cung điện Diocletian ở Split — ngôi cung điện La Mã đã 1.700 năm tuổi!",
+    "Huy hiệu ô vuông đỏ trắng của Croatia — gọi là šahovnica — đã là biểu tượng của người Croatia suốt nhiều thế kỷ.",
+    "Từ 'cravat' (cà vạt) trong tiếng Anh xuất phát trực tiếp từ chữ 'Croat' — tên gọi người Croatia.",
+    "Những thác đá travertine ở Plitvice cao lên khoảng một xentimét mỗi năm — chúng đang lớn như sinh vật sống.",
+    "Croatia gia nhập khu vực đồng Euro vào tháng 1 năm 2023, trở thành thành viên thứ 20 dùng đồng tiền này."
+  ],
+  "myths": [
+    {
+      "myth": "\"Dubrovnik chính là King's Landing trong Game of Thrones\"",
+      "fact": "Dubrovnik chỉ đóng vai trường quay. Đây là một thành phố trung cổ có thật với tường thành được xây từ thế kỷ 13 — cổ kính hơn bất kỳ bộ phim truyền hình nào rất nhiều."
+    },
+    {
+      "myth": "\"Croatia chỉ có bãi biển\"",
+      "fact": "Nội địa Croatia có rừng rậm, núi non, gấu hoang dã và thủ đô Zagreb sầm uất với những đại lộ kiến trúc Áo-Hung và văn hóa cà phê quán quanh năm."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bok",
+      "say": "BOKE"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Hvala",
+      "say": "HVAH-lah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Molim",
+      "say": "MOH-leem"
+    },
+    {
+      "en": "Hòn đảo",
+      "jp": "Otok",
+      "say": "OH-tok"
+    },
+    {
+      "en": "Biển cả",
+      "jp": "More",
+      "say": "MOH-reh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hr-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống khu phố cổ Dubrovnik và tường thành ven biển",
+      "caption": "DUBROVNIK — thành phố có tường thành trung cổ bên bờ Adriatic, Viên ngọc của biển Adriatic",
+      "credit": "Wikimedia Commons / Bernard Gagnon"
+    },
+    "landmark": {
+      "src": "/photos/hr-landmark.jpg",
+      "alt": "Những hồ nước xanh ngọc bích xếp tầng và thác nước ở Plitvice",
+      "caption": "HỒ PLITVICE — 16 hồ xanh ngọc bích xếp tầng đổ xuống nhau qua những thác travertine",
+      "credit": "Wikimedia Commons / Branko Radovanović"
+    },
+    "animalA": {
+      "src": "/photos/hr-animalA.jpg",
+      "alt": "Gấu nâu đứng trong khoảng trống giữa rừng",
+      "caption": "GẤU NÂU — khoảng 1.000 con đang sống tự do trong rừng núi Velebit của Croatia",
+      "credit": "Wikimedia Commons / Malene Thyssen"
+    },
+    "animalB": {
+      "src": "/photos/hr-animalB.jpg",
+      "alt": "Rùa biển đầu to đang bơi dưới nước",
+      "caption": "RÙA BIỂN ĐẦU TO — mỗi mùa hè lại lên những bãi biển vắng của Croatia để đẻ trứng",
+      "credit": "Wikimedia Commons / Tomas Castelazo"
+    }
+  }
+}

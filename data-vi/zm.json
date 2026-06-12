@@ -1,0 +1,163 @@
+{
+  "name": "ZAMBIA",
+  "nativeName": "ZM",
+  "romaji": "ZAMBIA",
+  "tagline": "Xứ sở của thác nước hùng vĩ",
+  "region": "Nam Phi",
+  "coords": "13°S, 28°E",
+  "fileNo": "072",
+  "langName": "tiếng Nyanja",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEB98A",
+    "ink": "#231F1A",
+    "faint": "#8A7050",
+    "line": "#DDD0B0",
+    "accent": "#198A00",
+    "accent2": "#DE2010"
+  },
+  "flag": {
+    "assetPath": "/flags/zm.svg",
+    "title": "Quốc kỳ Zambia",
+    "note": "Nền xanh lá với đại bàng cam, và các sọc đỏ & đen",
+    "keyColor": "#198A00",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nằm sâu trong lòng châu Phi, Zambia được bao phủ bởi những đồng cỏ savannah bát ngát và rừng xanh bạt ngàn. Sông Zambezi đổ xuống thác Victoria hùng vĩ cao 108 m, tung bọt trắng như sấm như sét. Năm 1964, Zambia thoát khỏi ách cai trị của Anh và lấy tên mình từ chính con sông đó. Với 20 vườn quốc gia, đây là một trong những thiên đường động vật hoang dã tuyệt vời nhất châu Phi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Lusaka",
+      "sub": "Dân số ~3,5 triệu người (ước tính 2023)"
+    },
+    {
+      "label": "Dân số",
+      "value": "20,5 triệu người",
+      "sub": "Ước tính của Liên Hợp Quốc năm 2023"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Kwacha (ZMW)",
+      "sub": "100 ngwee = 1 kwacha"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh",
+      "sub": "Hơn 72 ngôn ngữ Bantu được sử dụng"
+    },
+    {
+      "label": "Diện tích",
+      "value": "752.618 km²",
+      "sub": "Lớn hơn Pháp và Đức cộng lại"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Đồi Mafinga",
+      "sub": "2.301 m so với mực nước biển"
+    }
+  ],
+  "islands": [
+    "Lusaka",
+    "Livingstone",
+    "Ndola",
+    "Kitwe",
+    "Kasama"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sông ngòi, thác nước & đồng hoang",
+    "animals": "Những gã khổng lồ rừng xanh",
+    "culture": "Trống hội, vải sặc sỡ & lòng mến khách",
+    "history": "Từ vương quốc đến độc lập",
+    "wows": "Những điều kỳ diệu của Zambia"
+  },
+  "geo": [
+    "Zambia nằm trên một cao nguyên rộng lớn, trung bình cao 1.200 m so với mực nước biển — chính vì vậy dù gần vùng xích đạo, khí hậu nơi đây vẫn dễ chịu. Ba con sông lớn chảy qua đất nước này: sông Zambezi, sông Kafue và sông Luangwa. Hồ Tanganyika, một trong những hồ sâu nhất thế giới, chạm tới biên giới phía bắc của Zambia.",
+    "Thác Victoria — người địa phương gọi là Mosi-oa-Tunya, nghĩa là 'làn khói sấm vang' — nằm vắt ngang biên giới với Zimbabwe. Vào mùa lũ, làn khói nước bốc cao đến 400 m, có thể nhìn thấy từ xa tới 50 km. Ở phía bắc, vùng đầm lầy Bangweulu mênh mông là nơi trú ngụ của loài chim cổ rùa cực kỳ hiếm gặp."
+  ],
+  "animals": [
+    "Zambia bảo vệ động vật hoang dã trên khắp 20 vườn quốc gia. South Luangwa nổi tiếng với các chuyến safari đi bộ — du khách có thể theo dấu sư tử và báo hoa bằng chính đôi chân của mình. Vườn quốc gia Kafue rộng bằng cả nước Thụy Sĩ, là nơi sinh sống của chó hoang, báo săn và những đàn trâu khổng lồ.",
+    "Sông Zambezi tấp nập hà mã và cá sấu. Vùng đầm lầy Bangweulu là nơi ở của chim cổ rùa — loài chim xám khổng lồ có thể đứng bất động hàng tiếng đồng hồ. Zambia còn là nơi duy nhất trên Trái Đất có loài hươu cao cổ Thornicroft — một phân loài cực kỳ quý hiếm không tìm thấy ở bất kỳ nơi nào khác."
+  ],
+  "culture": [
+    "Zambia có hơn 70 nhóm dân tộc nhưng lại nổi tiếng với tinh thần đoàn kết — khẩu hiệu quốc gia là 'Một Zambia, Một Dân Tộc'. Âm nhạc và điệu múa gắn liền với mọi lễ hội. Mỗi tháng Hai, người Ngoni tổ chức lễ hội Nc'wala — lễ tạ ơn mùa màng với những điệu múa chiến binh và tiếng trống rộn ràng.",
+    "Món ăn chủ đạo là nshima — cháo bột ngô đặc sệt, ăn bằng cách vo thành viên nhỏ rồi chấm vào cá, đậu hoặc rau — giống như cách người Việt ăn cơm nắm vậy. Chitenge — loại vải họa tiết rực rỡ — được quấn thành váy, địu em bé hoặc quấn đầu, khiến mỗi khu chợ trở thành một bức tranh sắc màu ngập tràn."
+  ],
+  "history": [
+    "Trước khi người châu Âu đặt chân đến, vương quốc Lozi hùng mạnh trị vì vùng đồng bằng Barotse màu mỡ, còn người Bemba kiểm soát phía bắc. Nhà thám hiểm David Livingstone đến thác Victoria năm 1855; đến năm 1924, vùng đất này trở thành thuộc địa của Anh với tên gọi Northern Rhodesia.",
+    "Zambia giành độc lập vào ngày 24 tháng 10 năm 1964, với Kenneth Kaunda trở thành tổng thống đầu tiên, và đất nước được đặt tên theo con sông Zambezi. Đồng mang lại thịnh vượng; giá đồng sụt giảm vào thập niên 1970 gây nhiều khó khăn, nhưng từ thập niên 1990, đất nước đã dần phát triển trở lại."
+  ],
+  "wows": [
+    "Thác Victoria rộng 1.708 m — thác nước rộng nhất thế giới tính cả chiều ngang lẫn chiều cao.",
+    "Biên giới Zambia–Zimbabwe chạy thẳng qua chính giữa thác nước!",
+    "Vườn quốc gia Kafue rộng 22.400 km² — lớn hơn toàn bộ xứ Wales của Anh.",
+    "Zambia là một trong những quốc gia châu Phi đầu tiên phát sóng truyền hình, từ tận năm 1961.",
+    "Chim cổ rùa cao hơn 1,5 m với chiếc mỏ hình dạng như chiếc guốc gỗ cổ xưa.",
+    "Ghềnh thác sông Zambezi phía dưới thác Victoria đạt cấp độ 5 — mức nguy hiểm tối đa mà con người còn có thể sống sót.",
+    "Zambia chiếm hơn 40% tổng lượng nước ngọt trên mặt đất của toàn châu Phi."
+  ],
+  "myths": [
+    {
+      "myth": "Zambia là vùng sa mạc khô cằn hoặc đồng trọc",
+      "fact": "Zambia có đến khoảng 65% diện tích là rừng và đất lâm nghiệp, với ba con sông lớn và những vùng đất ngập nước mênh mông. Khí hậu cao nguyên ôn hòa, xanh tươi phần lớn trong năm."
+    },
+    {
+      "myth": "Thác Victoria chỉ thuộc về Zimbabwe",
+      "fact": "Thác nằm đều trên lãnh thổ cả hai nước. Thị trấn Livingstone của Zambia nằm ngay bên bờ sông và là nơi có thể ngắm toàn cảnh chiều rộng của thác đẹp nhất."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Moni",
+      "say": "moh-nee"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Zikomo",
+      "say": "zee-KOH-moh"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Inde",
+      "say": "in-day"
+    },
+    {
+      "en": "Thức ăn",
+      "jp": "Chakudya",
+      "say": "cha-KOO-dyah"
+    },
+    {
+      "en": "Nước",
+      "jp": "Madzi",
+      "say": "MAH-dzee"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/zm-hero.jpg",
+      "alt": "Thác Victoria đang vào mùa lũ nhìn từ phía bờ Zambia",
+      "caption": "THÁC VICTORIA — sông Zambezi gầm thét qua màn nước rộng nhất thế giới",
+      "credit": "Wikimedia Commons / Ninara"
+    },
+    "landmark": {
+      "src": "/photos/zm-landmark.jpg",
+      "alt": "Nhìn từ trên cao: thác Victoria và hẻm núi sông Zambezi",
+      "caption": "MOSI-OA-TUNYA — làn khói nước bốc cao 400 m, có thể nhìn thấy từ 50 km vào mùa lũ",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/zm-animalA.jpg",
+      "alt": "Chim cổ rùa đứng bất động trong đầm lầy",
+      "caption": "CHIM CỔ RÙA — đầm lầy Bangweulu là nơi trú ngụ của loài chim khổng lồ trông như từ cổ đại bước ra",
+      "credit": "Wikimedia Commons / Quartl"
+    },
+    "animalB": {
+      "src": "/photos/zm-animalB.jpg",
+      "alt": "Hà mã há miệng to lộ ra bộ răng nanh",
+      "caption": "HÀ MÃ — sông Zambezi là nơi sinh sống của một trong những đàn hà mã đông đúc nhất châu Phi",
+      "credit": "Wikimedia Commons / Scott Kinmartin"
+    }
+  }
+}

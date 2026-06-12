@@ -1,0 +1,163 @@
+{
+  "name": "MÔNG CỔ",
+  "nativeName": "ᠮᠣᠩᠭᠣᠯ",
+  "romaji": "MONGOL ULS",
+  "tagline": "Bầu trời rộng lớn và thảo nguyên bất tận",
+  "region": "Đông Á",
+  "coords": "47°N · 106°E",
+  "fileNo": "076",
+  "flag": {
+    "assetPath": "/flags/mn.svg",
+    "title": "Quốc kỳ Mông Cổ",
+    "note": "Đỏ, xanh, đỏ với biểu tượng Soyombo",
+    "keyColor": "#C4272F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Mông Cổ là vùng đất mênh mông nằm giữa Nga và Trung Quốc — một biển cỏ vàng bất tận gọi là thảo nguyên. Trẻ em nơi đây leo lên lưng ngựa trước khi học đọc, còn những con đại bàng vàng khổng lồ đậu trên cánh tay thợ săn. Tám trăm năm trước, chiến binh Thành Cát Tư Hãn phi ngựa từ vùng đồng cỏ này và dựng nên đế chế đất liền rộng lớn nhất lịch sử loài người.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Ulaanbaatar",
+      "sub": "Nơi ở của gần một nửa dân số cả nước"
+    },
+    {
+      "label": "Dân số",
+      "value": "3,5 triệu người",
+      "sub": "Ước tính 2025; mật độ dân số thấp nhất thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Tögrög ₮",
+      "sub": "Còn viết là Tugrik"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Mông Cổ",
+      "sub": "Viết bằng chữ Cyrillic"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.564.116 km²",
+      "sub": "Quốc gia lớn thứ 18 trên Trái Đất"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Khüiten 4.356m",
+      "sub": "Nằm ở dãy Altai, phía tây"
+    }
+  ],
+  "islands": [
+    "Ulaanbaatar",
+    "Darkhan",
+    "Erdenet",
+    "Ölgii",
+    "Dalanzadgad"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Bầu trời rộng hơn cả biển",
+    "animals": "Đại bàng, ngựa và muông thú hoang dã",
+    "culture": "Lều ger, lễ hội và cung vàng",
+    "history": "Đế chế vĩ đại trên lưng ngựa",
+    "wows": "Ồ! Bạn có biết không?"
+  },
+  "geo": [
+    "Mông Cổ nằm trên một cao nguyên rộng lớn — hầu hết đất đai cao hơn 1.500 m so với mực nước biển, tức là cao hơn cả đỉnh Fansipan của Việt Nam. Phía bắc có rừng thông và hồ nước, dòng sông Selenge chảy vào Hồ Baikal của Nga. Mùa đông ở đây khắc nghiệt khủng khiếp: nhiệt độ có thể xuống tới −40°C — lạnh đến mức hơi thở đóng băng ngay khi vừa thở ra.",
+    "Phía nam là sa mạc Gobi — nhưng không phải cát như ta tưởng. Phần lớn là đá sỏi trơ trọi, ánh lên màu cam khi hoàng hôn xuống. Ẩn bên dưới là những quả trứng khủng long được bảo tồn suốt 70 triệu năm. Mỗi mùa hè, các nhà khoa học lại đào lên những sinh vật từng oai hùng một thời trên vùng đất hoàn toàn khác."
+  ],
+  "animals": [
+    "Ngựa takhi — còn gọi là ngựa Przewalski — là loài ngựa hoang duy nhất thực sự còn tồn tại trên Trái Đất. Vào những năm 1960, chúng biến mất hoàn toàn ngoài tự nhiên; các nhà khoa học phải nhân giống trong vườn thú rồi thả chúng trở về thảo nguyên. Ngày nay, từng đàn nhỏ lại phi nước đại tự do, bờm cứng tung bay trong gió.",
+    "Đại bàng vàng được những thợ săn người Kazakh thuần hóa có sải cánh dài tới hai mét, có thể phát hiện con cáo từ cách một kilômét. Mỗi mùa thu, các thợ săn đại bàng tranh tài tại Lễ hội Đại Bàng Vàng ở Ölgii — truyền thống đã có hơn 2.000 năm tuổi."
+  ],
+  "culture": [
+    "Chiếc lều ger chỉ mất một tiếng để xếp lên lưng lạc đà và một tiếng nữa để dựng lại ở nơi khác — hoàn hảo cho những gia đình chăn nuôi du mục, chạy theo đàn gia súc khắp thảo nguyên. Bên trong lều, một chiếc lò nhỏ đốt phân khô để sưởi ấm, thảm nỉ nhiều màu trải kín sàn, và vòm mái tròn để một tia sáng ban ngày lọt vào.",
+    "Người Mông Cổ yêu thích Naadam — lễ hội tháng Bảy với ba môn thể thao gọi là \"trò chơi của người dũng mãnh\": vật, đua ngựa và bắn cung. Phụ nữ cũng thi bắn cung, còn trẻ em từ năm tuổi đã đua ngựa những chặng mười kilômét. Kỵ sĩ về nhất được vinh danh bằng một bài thơ hát tặng riêng."
+  ],
+  "history": [
+    "Năm 1206, Temüjin thống nhất các bộ tộc Mông Cổ đang xung chiến và trở thành Thành Cát Tư Hãn — \"người cai trị khắp hoàn vũ\". Đội kỵ binh của ông phi ngựa từ Thái Bình Dương tới tận ngưỡng cửa châu Âu. Những kỵ mã tốc hành gọi là örtöö chuyển tin tức qua hàng nghìn kilômét — đó là hệ thống bưu chính đầu tiên trên thế giới.",
+    "Sau khi đế chế sụp đổ, Mông Cổ bị nhà Thanh của Trung Quốc cai trị suốt 200 năm. Năm 1921, nước này trở thành một trong những nhà nước xã hội chủ nghĩa đầu tiên trên thế giới. Từ năm 1990, Mông Cổ chuyển sang dân chủ, và sự bùng nổ khai khoáng đã biến nơi đây thành một trong những nền kinh tế tăng trưởng nhanh nhất châu Á."
+  ],
+  "wows": [
+    "Mông Cổ chỉ có 2 người trên mỗi km² — quốc gia thưa dân nhất thế giới, thưa hơn Việt Nam gần 200 lần!",
+    "Đế chế Mông Cổ thế kỷ 13 là đế chế đất liền liền thổ rộng lớn nhất trong toàn bộ lịch sử nhân loại.",
+    "Mông Cổ có nhiều ngựa hơn người — trên 4 triệu con ngựa đang tự do rong ruổi khắp đất nước.",
+    "Những quả trứng khủng long đầu tiên từng được tìm thấy trên thế giới xuất hiện ở sa mạc Gobi năm 1923.",
+    "Ulaanbaatar là thủ đô lạnh nhất Trái Đất, nhiệt độ trung bình cả năm chỉ −1,3°C — lạnh hơn Hà Nội mùa đông rất nhiều!",
+    "Các ca sĩ hát khèn cổ họng Mông Cổ (khoomii) có thể phát ra hai nốt nhạc khác nhau cùng một lúc.",
+    "Chữ Mông Cổ truyền thống viết theo chiều dọc, từ trên xuống — một trong số ít chữ viết trên thế giới vẫn giữ cách này."
+  ],
+  "myths": [
+    {
+      "myth": "\"Thành Cát Tư Hãn chỉ là kẻ chinh phạt tàn bạo\"",
+      "fact": "Bộ luật của ông đảm bảo tự do tín ngưỡng, cấm tra tấn và tạo ra hệ thống bưu chính đường dài đầu tiên trên thế giới — những ý tưởng cực kỳ tiến bộ cho thế kỷ 13."
+    },
+    {
+      "myth": "\"Sa mạc Gobi toàn là cồn cát\"",
+      "fact": "Chỉ khoảng 5% sa mạc Gobi là cát. Phần lớn là đá sỏi lạnh lẽo; một số nơi còn có tuyết vào mùa đông, khiến đây trở thành một trong những sa mạc lạnh hiếm gặp trên thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Сайн байна",
+      "say": "SAIN bai-na oo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Баярлалаа",
+      "say": "bah-yar-LAH-lah"
+    },
+    {
+      "en": "Ngựa",
+      "jp": "Морь",
+      "say": "MOR"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Амттай!",
+      "say": "am-TAI"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Баяртай",
+      "say": "bah-yar-TAI"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mn-hero.jpg",
+      "alt": "Toàn cảnh thành phố Ulaanbaatar nhìn từ đồi Zaisan",
+      "caption": "ULAANBAATAR trải rộng trong thung lũng sông Tuul, với núi thiêng Bogd Khan sừng sững phía sau.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/mn-landmark.jpg",
+      "alt": "Những ngọn đồi thảo nguyên xanh mướt tại Vườn Quốc gia Khustai, Mông Cổ",
+      "caption": "THẢO NGUYÊN KHUSTAI óng vàng khi hoàng hôn buông — quê hương của đàn ngựa Przewalski được tái hoang hóa.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/mn-animalA.jpg",
+      "alt": "Ngựa hoang Przewalski đứng trên đồng cỏ",
+      "caption": "NGỰA PRZEWALSKI, loài ngựa hoang thực sự cuối cùng trên Trái Đất, đã giành lại được thảo nguyên quê hương.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/mn-animalB.jpg",
+      "alt": "Đại bàng vàng đang bay với đôi cánh dang rộng",
+      "caption": "ĐẠI BÀNG VÀNG, ngôi sao của truyền thống săn bắn cổ đại của người Kazakh ở miền tây Mông Cổ.",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "theme": {
+    "paper": "#F2E8D0",
+    "dot": "#C9B899",
+    "ink": "#2B2218",
+    "faint": "#8A7458",
+    "line": "#DDD0B0",
+    "accent": "#C0272D",
+    "accent2": "#1A4FA0"
+  },
+  "motif": "sun",
+  "langName": "tiếng Mông Cổ"
+}

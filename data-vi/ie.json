@@ -1,0 +1,163 @@
+{
+  "name": "IRELAND",
+  "nativeName": "IE",
+  "romaji": "IRELAND",
+  "tagline": "Hòn Đảo Ngọc Lục Bảo",
+  "region": "Tây Bắc Âu",
+  "coords": "53°N, 8°W",
+  "fileNo": "037",
+  "langName": "tiếng Ireland",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EFF5E8",
+    "dot": "#c4d4b0",
+    "ink": "#1e2a18",
+    "faint": "#7a8c6a",
+    "line": "#d4e0c4",
+    "accent": "#169B62",
+    "accent2": "#FF883E"
+  },
+  "flag": {
+    "assetPath": "/flags/ie.svg",
+    "title": "Lá cờ ba màu Ireland",
+    "note": "Xanh lá, trắng và cam — biểu trưng cho sự đoàn kết",
+    "keyColor": "#169B62",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ireland là hòn đảo nhỏ nằm ở rìa tây của châu Âu, xanh mướt đến nỗi người ta gọi là \"hòn đảo ngọc lục bảo\". Mưa Đại Tây Dương tưới tắm khắp nơi, khiến đồng cỏ luôn xanh rì như tranh vẽ. Nơi đây có những tòa lâu đài cổ hàng nghìn năm tuổi, âm nhạc rộn ràng trong các quán rượu ấm cúng, và người dân thân thiện bậc nhất thế giới. Thú vị là có nhiều người Ireland đang sống ở nước ngoài hơn là trên chính hòn đảo quê hương — họ mang văn hóa và tình thân của mình trải dài khắp thế giới.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Dublin",
+      "sub": "Tên tiếng Ireland: Baile Átha Cliath"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,1 triệu người",
+      "sub": "Số liệu năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro €",
+      "sub": "Gia nhập khu vực đồng Euro năm 2002"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ireland / Tiếng Anh",
+      "sub": "Cả hai đều là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "70.273 km²",
+      "sub": "Nhỏ hơn cả Bồ Đào Nha"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.041 m",
+      "sub": "Carrauntoohil, hạt Kerry"
+    }
+  ],
+  "islands": [
+    "Dublin",
+    "Cork",
+    "Galway",
+    "Limerick",
+    "Kilkenny"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Vách đá, hồ nước và đồng cỏ bất tận",
+    "animals": "Sinh vật của đầm lầy và bờ biển hoang dã",
+    "culture": "Âm nhạc, huyền thoại và niềm vui bất tận",
+    "history": "Thánh nhân, Vikings và nền độc lập",
+    "wows": "Những điều kỳ diệu của Ireland"
+  },
+  "geo": [
+    "Ireland là bức tranh khảm của những cánh đồng xanh ngắt, ngăn cách nhau bằng các bờ tường đá cổ, điểm xuyết bởi những hồ nước trong vắt và dòng sông nâu chảy chậm. Mưa rơi khoảng 150 ngày mỗi năm — chính những cơn mưa đó giữ cho cả đảo xanh mướt đến khó tin.",
+    "Bờ biển phía tây Ireland hùng vĩ và dữ dội: Vách đá Moher cao 214 m dựng thẳng đứng trước Đại Tây Dương, còn cao nguyên đá vôi Burren lại là nơi kỳ lạ mà các loài hoa dại vùng Bắc Cực, núi Alps và Địa Trung Hải cùng nhau nở rộ cạnh nhau."
+  ],
+  "animals": [
+    "Loài thú trên cạn lớn nhất Ireland là hươu đỏ, sống rong ruổi trong Vườn quốc gia Killarney. Hải cẩu xám bơi lội trong các vịnh nước lạnh, còn cá heo cảng nhào lộn theo từng con sóng ngoài khơi.",
+    "Đầm lầy là nhà của thỏ rừng Ireland — to hơn và khỏe hơn thỏ rừng nâu thông thường. Đại bàng đuôi trắng đã tuyệt chủng ở đây suốt một thế kỷ, nhưng được tái thả vào năm 2007 và giờ đây lại bay liệng trên những hồ nước miền tây."
+  ],
+  "culture": [
+    "Ireland là quốc gia duy nhất trên thế giới có biểu tượng quốc gia là một nhạc cụ — cây đàn harp. Những buổi nhạc truyền thống gọi là seisiún tự nhiên nổi lên trong các quán rượu với tiếng đàn fiddle, sáo và trống bodhrán, không sân khấu, không lịch diễn — ai muốn tham gia thì cứ ngồi xuống mà chơi.",
+    "Người Ireland có tài kể chuyện như thiên phú — đất nước nhỏ bé này đã sản sinh ra bốn nhà văn đoạt giải Nobel. Lễ Halloween mà cả thế giới biết đến cũng bắt nguồn từ đây, từ lễ hội Samhain của người Celt cổ đại — khi người ta tin rằng ranh giới giữa cõi sống và cõi chết mỏng manh nhất."
+  ],
+  "history": [
+    "Trong thời Trung Cổ tăm tối khi châu Âu gần như quên mất chữ nghĩa và tri thức, các tu sĩ Ireland đã miệt mài chép lại những tài liệu quý giá trong các tu viện trên đảo, giữ ngọn đèn học vấn không tắt. Vikings kéo đến cướp phá vào thế kỷ 9 nhưng rồi cũng ở lại định cư, và chính họ đã lập ra thành phố Dublin khoảng năm 841.",
+    "Anh cai trị Ireland suốt nhiều thế kỷ cho đến khi cuộc Nổi dậy Phục Sinh năm 1916 châm ngòi cho cuộc chiến giành độc lập. Nhà nước Tự do Ireland ra đời năm 1922, và nền Cộng hòa chính thức được tuyên bố vào năm 1949."
+  ],
+  "wows": [
+    "Cuốn sách Book of Kells (khoảng năm 800) được vẽ tỉ mỉ đến nỗi các nhà nghiên cứu cho rằng các tu sĩ có thể đã dùng kính lúp — hàng thế kỷ trước khi kính được phát minh chính thức.",
+    "Ireland không có con rắn nào — băng hà đã xóa sổ chúng, và biển ngăn không cho chúng quay lại, chứ không phải do Thánh Patrick xua đuổi như truyền thuyết.",
+    "Nhà máy bia Guinness đã ký hợp đồng thuê mặt bằng tại Dublin năm 1759 với thời hạn 9.000 năm — và vẫn đang sản xuất bia ở đó đến hôm nay.",
+    "Lăng mộ Newgrange (3.200 năm trước Công nguyên) còn cổ hơn cả Stonehenge và các kim tự tháp Ai Cập hàng trăm năm.",
+    "Ireland xuất khẩu phần mềm nhiều hơn bất kỳ quốc gia châu Âu nào khác — đây là nơi đặt trụ sở của hàng chục tập đoàn công nghệ toàn cầu.",
+    "Chữ viết Ogham của người Ireland cổ khắc trên các tảng đá đứng là một trong những bảng chữ cái lâu đời nhất châu Âu, có niên đại hơn 1.500 năm.",
+    "Vào ngày đông chí, ánh bình minh chiếu thẳng vào hành lang của lăng mộ Newgrange một cách hoàn hảo — một công trình kỹ thuật được thiết kế từ 5.000 năm trước."
+  ],
+  "myths": [
+    {
+      "myth": "Ireland lúc nào cũng lạnh và ảm đạm",
+      "fact": "Dòng hải lưu Gulf Stream giữ Ireland ôn hòa quanh năm — Dublin hiếm khi có tuyết, và hoa thủy tiên vàng thường nở rộ vào tháng Hai, khiến nhiều khách du lịch bất ngờ."
+    },
+    {
+      "myth": "Người Ireland rất yêu quý nhân vật Leprechaun",
+      "fact": "Leprechaun thực ra chỉ là nhân vật phụ trong truyện dân gian Ireland; người dân địa phương thấy khá buồn cười khi du khách mê mẩn với hình tượng này hơn cả người bản xứ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Dia dhuit",
+      "say": "dee-ah gwit"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Go raibh má",
+      "say": "guh rev mah"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Le do thoil",
+      "say": "leh duh hull"
+    },
+    {
+      "en": "Chúc mừng!",
+      "jp": "Sláinte!",
+      "say": "slawn-cha"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "Fáilte",
+      "say": "fawl-cha"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ie-hero.jpg",
+      "alt": "Toàn cảnh thành phố Dublin với sông Liffey và cầu Ha'penny",
+      "caption": "DUBLIN — sông Liffey uốn lượn qua những ngọn tháp kiến trúc Georgian và cần cẩu hiện đại.",
+      "credit": "Diliff / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "landmark": {
+      "src": "/photos/ie-landmark.jpg",
+      "alt": "Vách đá Moher dựng đứng hiên ngang trước Đại Tây Dương ở hạt Clare",
+      "caption": "VÁCH ĐÁ MOHER — 214 m đá dựng thẳng đứng đối mặt với Đại Tây Dương hung dữ, hạt Clare.",
+      "credit": "Ermell / Wikimedia Commons CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/ie-animalA.jpg",
+      "alt": "Hươu đực đỏ với bộ gạc lớn trên nền cảnh quan xanh mướt",
+      "caption": "HƯƠU ĐỎ — loài thú trên cạn lớn nhất Ireland, chúa sơn lâm của Killarney.",
+      "credit": "Luc Viatour / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/ie-animalB.jpg",
+      "alt": "Đại bàng đuôi trắng đang bay với đôi cánh dang rộng",
+      "caption": "ĐẠI BÀNG ĐUÔI TRẮNG — tuyệt chủng 100 năm, được tái thả và bay liệng trở lại từ năm 2007.",
+      "credit": "Artie Wolfe / Wikimedia Commons CC BY-SA 3.0"
+    }
+  }
+}

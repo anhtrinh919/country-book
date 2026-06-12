@@ -68,5 +68,5 @@ export default defineConfig({
       },
     }),
   ],
-  server: { port: IS_FR ? 5174 : 5173 },
+  server: { port: IS_FR ? 5174 : 5173, allowedHosts: [".ts.net"] },
 });

@@ -1,0 +1,162 @@
+{
+  "name": "GRENADA",
+  "nativeName": "GD",
+  "romaji": "GRENADA",
+  "tagline": "Hòn đảo gia vị vùng Caribe",
+  "region": "Vùng Caribe",
+  "coords": "12.1°N, 61.7°W",
+  "fileNo": "082",
+  "langName": "tiếng Anh Creole",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F4EEE0",
+    "dot": "#c9b99a",
+    "ink": "#251e18",
+    "faint": "#877358",
+    "line": "#ddd0b8",
+    "accent": "#CE1126",
+    "accent2": "#009E60"
+  },
+  "flag": {
+    "assetPath": "/flags/gd.svg",
+    "title": "Quốc kỳ Grenada",
+    "note": "Tam giác vàng-xanh, viền đỏ, hình hạt nhục đậu khấu",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Grenada là một quốc đảo nhỏ xíu ở vùng Caribe — lái xe vòng quanh đảo chỉ mất vài tiếng đồng hồ, vậy mà nơi đây trồng nhiều nhục đậu khấu đến mức hương thơm của nó lan tỏa khắp bếp núc thế giới. Rừng núi xanh mướt đổ xuống những rạn san hô và cảng tàu với những ngôi nhà nhiều màu sắc rực rỡ. Ba hòn đảo, một tính cách: ấm áp, sôi động và ngát hương.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "St. George's",
+      "sub": "Cảng hình móng ngựa, bờ tây nam"
+    },
+    {
+      "label": "Dân số",
+      "value": "~117.000",
+      "sub": "Ước tính World Bank 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô la EC",
+      "sub": "Gắn với đô la Mỹ từ năm 1976"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Tiếng Creole cũng được dùng rộng rãi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "344 km²",
+      "sub": "Khoảng bằng 3 lần diện tích đảo Malta"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "840 m",
+      "sub": "Núi St. Catherine, đỉnh rừng nhiệt đới"
+    }
+  ],
+  "islands": [
+    "Grenada",
+    "Carriacou",
+    "Petite Mart.",
+    "Ronde Island"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo núi lửa ngát hương giữa rừng xanh",
+    "animals": "Khỉ hoang và rùa biển cổ đại",
+    "culture": "Trống, lễ hội và nồi oildown",
+    "history": "Từ người Carib đến gia vị và tự do",
+    "wows": "Những điều bất ngờ về Grenada"
+  },
+  "geo": [
+    "Xương sống của Grenada là một ngọn núi lửa đang ngủ, phủ kín rừng nhiệt đới. Hồ Grand Etang nằm trong một miệng núi lửa cũ ở độ cao 530 m — mặt nước phẳng lặng như gương, xung quanh là dương xỉ khổng lồ và màn sương mờ ảo.",
+    "Thủ đô St. George's uốn mình quanh một cảng hình móng ngựa. Những ngôi nhà kiểu Georgian nhiều màu sắc bám chặt lên sườn đồi, và một đường hầm đục xuyên đá núi lửa năm 1894 vẫn đang được dùng hằng ngày đến tận bây giờ."
+  ],
+  "animals": [
+    "Khỉ Mona nhảy nhót trên tán rừng Grand Etang — chúng đến đây trên những con tàu chở nô lệ từ Tây Phi khoảng năm 1760, và từ đó sống hoang dã, thậm chí còn dạn dĩ xin chuối từ tay du khách đi bộ.",
+    "Rùa da biển khổng lồ bò lên bãi Levera mỗi mùa xuân để chôn trứng dưới ánh trăng. Bồ câu Grenada — loài chim không tồn tại ở bất kỳ nơi nào khác trên Trái Đất — là một trong những loài chim hiếm nhất còn sống."
+  ],
+  "culture": [
+    "Lễ hội lớn nhất Grenada là Spicemas vào tháng Tám. J'ouvert bắt đầu lúc 4 giờ sáng: những người hóa trang Jab Jab bôi đầy dầu đen và xích lên người — một hành động vui mừng biến lời xúc phạm xưa cũ thành niềm tự hào hôm nay.",
+    "Món ăn quốc gia oildown được nấu từ bánh mì trái cây, nước cốt dừa, rau callaloo và thịt muối trong một nồi lớn. Âm nhạc Big Drum và điệu nhảy quadrille, bắt nguồn từ truyền thống Phi và Pháp, vang lên suốt các lễ hội làng quê quanh năm."
+  ],
+  "history": [
+    "Người Carib gọi hòn đảo là Camerhogne khi Columbus nhìn thấy nó vào năm 1498. Người Pháp định cư từ năm 1649, rồi người Anh tiếp quản năm 1783 — để lại luật Anh, địa danh Pháp và những đồn điền nhục đậu khấu.",
+    "Grenada giành độc lập vào ngày 7 tháng 2 năm 1974 và đưa hình hạt nhục đậu khấu lên quốc kỳ. Năm 1983, quân Mỹ đổ bộ trong thời kỳ hỗn loạn chính trị — đây là lần duy nhất Mỹ xâm nhập quân sự vào một quốc gia Caribe trong thời hiện đại."
+  ],
+  "wows": [
+    "Grenada sản xuất khoảng 20% lượng nhục đậu khấu của cả thế giới — đất núi lửa giúp gia vị nơi đây có hương vị đặc biệt nồng đậm.",
+    "Công viên điêu khắc dưới nước đầu tiên thế giới nằm ngoài khơi vịnh Molinere: 65 bức tượng phủ san hô chỉ sâu 5 m dưới mặt biển.",
+    "Hình hạt nhục đậu khấu xuất hiện trên quốc kỳ Grenada — đây là quốc gia duy nhất trên thế giới có hình ảnh gia vị trên cờ.",
+    "Khỉ Mona vốn là động vật bản địa của Tây Phi, vậy mà chúng đã sống hoang dã trong rừng Grenada suốt hơn 260 năm.",
+    "Đường hầm St. George's được đục bằng tay qua đá núi lửa năm 1894 và vẫn đang hoạt động mỗi ngày cho đến nay.",
+    "Rùa da biển là loài xuất hiện trước khi Biển Caribe hình thành — chúng có trước cả những hòn đảo mà chúng đang làm tổ.",
+    "Grenada không đánh thuế thu nhập cá nhân — một điểm hút mạnh người nghỉ hưu và dân làm việc từ xa khắp thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Grenada là một phần của quần đảo Grenadines",
+      "fact": "Đây là hai nơi khác nhau. Quần đảo Grenadines thuộc chung hai nước St. Vincent và Grenada. Còn Grenada là một quốc gia độc lập ở phía nam, với Carriacou và Petite Martinique là hai đảo em của mình."
+    },
+    {
+      "myth": "Cây nhục đậu khấu lớn nhanh",
+      "fact": "Một cây nhục đậu khấu cần 7–9 năm mới ra quả lần đầu, và phải đến 20 năm mới cho năng suất đầy đủ — mỗi lọ gia vị là kết quả của sự kiên nhẫn cả thập kỷ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Wha happenin",
+      "say": "wha HAP-en-in"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tanks nuh",
+      "say": "tanks NOO"
+    },
+    {
+      "en": "Tốt lắm",
+      "jp": "Real good",
+      "say": "ree-uhl GOOD"
+    },
+    {
+      "en": "Bạn bè",
+      "jp": "Pardner",
+      "say": "PARD-nuh"
+    },
+    {
+      "en": "Đi thôi",
+      "jp": "Come nuh",
+      "say": "kum NOO"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gd-hero.jpg",
+      "alt": "Toàn cảnh cảng St. George's, Grenada",
+      "caption": "CẢNG ST. GEORGE'S — những ngôi nhà pastel vây quanh một trong những cảng đẹp nhất vùng Caribe",
+      "credit": "Wikimedia Commons / panoramio"
+    },
+    "landmark": {
+      "src": "/photos/gd-landmark.jpg",
+      "alt": "Tượng điêu khắc dưới nước ở vịnh Molinere, Grenada",
+      "caption": "CÔNG VIÊN ĐIÊU KHẮC MOLINERE — phòng trưng bày nghệ thuật dưới nước đầu tiên thế giới, nay là rạn san hô sống",
+      "credit": "SunCat / Flickr via Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/gd-animalA.jpg",
+      "alt": "Khỉ Mona và con bám trên cành cây",
+      "caption": "KHỈ MONA — hậu duệ của những con khỉ lén lút theo tàu từ châu Phi, sống hoang dã ở Grenada hơn 260 năm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/gd-animalB.jpg",
+      "alt": "Rùa da biển trên bãi biển vào ban đêm",
+      "caption": "RÙA DA BIỂN — loài bò sát lớn nhất đại dương làm tổ trên bãi Levera, Grenada",
+      "credit": "Wikimedia Commons / NPS USVI"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "THỤY ĐIỂN",
+  "nativeName": "SE",
+  "romaji": "SVERIGE",
+  "tagline": "Xứ sở rừng xanh & ánh sáng",
+  "region": "Bắc Âu",
+  "coords": "62°N, 15°E",
+  "fileNo": "042",
+  "langName": "tiếng Thụy Điển",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#C8BCA8",
+    "ink": "#1E2318",
+    "faint": "#7A7860",
+    "line": "#D8CFBC",
+    "accent": "#006AA7",
+    "accent2": "#FECC02"
+  },
+  "flag": {
+    "assetPath": "/flags/se.svg",
+    "title": "Quốc kỳ Thụy Điển",
+    "note": "Nền xanh dương với cây thánh giá Bắc Âu màu vàng",
+    "keyColor": "#006AA7",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Thụy Điển là một đất nước dài và hẹp ở phương Bắc, nơi rừng thông phủ kín một nửa lãnh thổ và mùa hè mặt trời gần như không bao giờ lặn. Đây là quê hương của IKEA, Spotify và thuốc nổ dynamite — người Thụy Điển tái chế giỏi đến mức phải nhập rác từ nước khác về để đốt làm điện! Nai sừng tấm thong thả đi dạo qua các khu phố, Viking từng chinh phục khắp bảy biển, còn bữa tối của trẻ em Thụy Điển thường có thịt viên ăn kèm mứt lingonberry đỏ tươi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Stockholm",
+      "sub": "thành phố trải trên 14 hòn đảo"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,6 triệu người",
+      "sub": "cuối năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Krona (SEK)",
+      "sub": "1 kr = 100 öre"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Thụy Điển",
+      "sub": "+ 5 ngôn ngữ thiểu số chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "450.295 km²",
+      "sub": "lớn hơn bang California của Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Kebnekaise",
+      "sub": "2.097 m, thuộc vùng Lapland"
+    }
+  ],
+  "islands": [
+    "Stockholm",
+    "Gothenburg",
+    "Malmö",
+    "Uppsala",
+    "Kiruna"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Rừng, hồ & mặt trời lúc nửa đêm",
+    "animals": "Nai sừng tấm, sói & tuần lộc",
+    "culture": "Thiết kế, ABBA & thịt viên",
+    "history": "Từ Viking đến thiên đường phúc lợi",
+    "wows": "Bạn có biết không?"
+  },
+  "geo": [
+    "Thụy Điển trải dài tới 1.500 km từ nam lên bắc — miền nam ấm áp đủ để trồng dâu tây trong khi các đỉnh núi Bắc Cực vẫn phủ tuyết trắng quanh năm. Gần 100.000 hồ nước lấp lánh khắp đất nước, và rừng thông xanh bất tận che phủ phần lớn lãnh thổ.",
+    "Tận cùng phía bắc là vùng Lapland nằm trên vòng Bắc Cực. Vào tháng Sáu, mặt trời không hề lặn — cả ngày lẫn đêm đều sáng. Nhưng tháng Giêng thì ngược lại, trời tối gần như suốt ngày, đổi lại những đêm đông trong vắt bùng cháy với ánh cực quang xanh lá và tím huyền ảo."
+  ],
+  "animals": [
+    "Con nai sừng tấm của Thụy Điển — người địa phương gọi là älg — còn cao hơn cả con ngựa và thường thơ thẩn lạc vào vùng ngoại ô mỗi mùa thu. Thụy Điển có khoảng 300.000 con, một trong những mật độ nai sừng tấm dày đặc nhất thế giới.",
+    "Loài sói đã trở lại từ nguy cơ tuyệt chủng vào những năm 1980, nay cùng chia sẻ rừng với gấu nâu, linh miêu và chồn wolverine. Ở vùng Lapland, người Sámi bản địa vẫn duy trì tập tục chăn những đàn tuần lộc khổng lồ băng qua tuyết tundra theo từng mùa trong năm."
+  ],
+  "culture": [
+    "Người Thụy Điển yêu thích những thứ vừa đẹp vừa tiện dụng — IKEA, Spotify, Minecraft và Skype đều ra đời từ đất nước này. Mỗi tuần người Thụy Điển đều có một nghi lễ không thể thiếu là fika: giờ nghỉ ngơi uống cà phê ăn bánh ngọt, ấm áp và thư thái như một tôn giáo riêng của cả dân tộc.",
+    "Lễ hội Midsommar là bữa tiệc lớn nhất năm: mọi người cùng nhảy múa quanh cây cột trang trí đầy hoa, ăn cá trích muối dưới bầu trời không bao giờ tối. Tháng Mười Hai, lễ Thánh Lucia thắp sáng những ngày đông tối tăm với đoàn rước gái trẻ mặc áo trắng, đội vương miện nến lung linh."
+  ],
+  "history": [
+    "Vào khoảng năm 800 sau Công nguyên, những chiến binh Viking người Norse dong thuyền đi khắp nơi — buôn bán, chinh phục và lập các khu định cư từ Constantinople xa xôi cho đến tận vùng đất Newfoundland. Thế kỷ 17, Thụy Điển trở thành đế chế hùng mạnh nhất vùng Baltic, kiểm soát phần lớn miền Bắc châu Âu.",
+    "Thụy Điển không tham chiến suốt hơn 200 năm qua — một trong những chuỗi hòa bình dài nhất thế giới. Đất nước này xây dựng mô hình phúc lợi toàn dân với y tế và giáo dục miễn phí, và ngày nay thường xuyên được xếp hạng là một trong những quốc gia hạnh phúc và bình đẳng nhất hành tinh."
+  ],
+  "wows": [
+    "Thụy Điển có khoảng 270.000 hòn đảo — phần lớn là những tảng đá nhỏ xíu nhô lên giữa Biển Baltic và dọc bờ biển.",
+    "Thụy Điển phải nhập rác từ các nước láng giềng vì họ chuyển đổi rác thành điện năng giỏi đến mức... hết rác mà dùng!",
+    "Ban nhạc ABBA bán được hơn 400 triệu đĩa nhạc toàn cầu — thành tích khổng lồ từ một đất nước chỉ có 10 triệu dân.",
+    "Giải Nobel do Alfred Nobel — người Thụy Điển — sáng lập, chính ông cũng là người phát minh ra thuốc nổ dynamite.",
+    "Năm 1967, cả nước Thụy Điển đổi từ đi đường bên trái sang bên phải chỉ trong một đêm, lúc 5 giờ sáng.",
+    "Tàu điện ngầm Stockholm được mệnh danh là 'phòng trưng bày nghệ thuật dài nhất thế giới' — 100 nhà ga đều được trang trí tác phẩm nghệ thuật.",
+    "Thịt viên Thụy Điển bắt nguồn từ công thức của Thổ Nhĩ Kỳ, được Vua Charles XII mang về từ đầu thế kỷ 18."
+  ],
+  "myths": [
+    {
+      "myth": "Thụy Điển lúc nào cũng lạnh cóng",
+      "fact": "Mùa hè ở Stockholm trung bình 23°C và miền nam Thụy Điển trồng được cả táo lẫn dâu tây. Chỉ có vùng cực bắc mới thực sự giá lạnh quanh năm."
+    },
+    {
+      "myth": "Thịt viên là món do người Thụy Điển phát minh",
+      "fact": "Vua Charles XII mang công thức về từ Thổ Nhĩ Kỳ vào khoảng năm 1715 — món ăn này thực ra chịu ảnh hưởng từ köfte gia vị Trung Đông."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hej",
+      "say": "hey"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tack",
+      "say": "tahk"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Snälla",
+      "say": "SNEL-ah"
+    },
+    {
+      "en": "Nai sừng tấm",
+      "jp": "Älg",
+      "say": "elg"
+    },
+    {
+      "en": "Giờ nghỉ ấm cúng",
+      "jp": "Fika",
+      "say": "FEE-kah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/se-hero.jpg",
+      "alt": "Toàn cảnh phố cổ Stockholm và bến tàu nhìn từ xa",
+      "caption": "STOCKHOLM — thủ đô trải dài trên 14 hòn đảo nơi hồ Mälaren gặp Biển Baltic.",
+      "credit": "Arild Vågen / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/se-landmark.jpg",
+      "alt": "Cung điện Drottningholm nhìn từ trên cao với khu vườn hoàng gia tỉa tót ngay ngắn",
+      "caption": "CUNG ĐIỆN DROTTNINGHOLM — dinh thự bên hồ của hoàng gia, được UNESCO công nhận là Di sản Thế giới.",
+      "credit": "Holger Ellgaard / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/se-animalA.jpg",
+      "alt": "Con nai sừng tấm đực đứng sừng sững giữa khoảng trống trong rừng",
+      "caption": "NAI SỪNG TẤM — gã khổng lồ của rừng Thụy Điển, cao hơn ngựa và sinh ra để vượt tuyết sâu.",
+      "credit": "Gunnar Ries / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/se-animalB.jpg",
+      "alt": "Đàn tuần lộc trên đồng tuyết trắng ở vùng Lapland Thụy Điển",
+      "caption": "TUẦN LỘC — được người Sámi chăn dắt qua vùng tundra Bắc Cực suốt hàng nghìn năm.",
+      "credit": "Susanne Nilsson / Wikimedia Commons"
+    }
+  }
+}

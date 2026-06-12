@@ -1,0 +1,162 @@
+{
+  "name": "ANH",
+  "nativeName": "GB",
+  "romaji": "UNITED KINGDOM",
+  "tagline": "Hòn đảo của những ý tưởng vĩ đại",
+  "region": "Tây Âu",
+  "coords": "51.5°N, 0.1°W",
+  "fileNo": "047",
+  "langName": "tiếng Anh (giọng Anh)",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F0EBE1",
+    "dot": "#C8BCA8",
+    "ink": "#1E1C1A",
+    "faint": "#7A6E5C",
+    "line": "#D8CEBC",
+    "accent": "#C8102E",
+    "accent2": "#012169"
+  },
+  "flag": {
+    "assetPath": "/flags/gb.svg",
+    "title": "Cờ Union Jack",
+    "note": "Chữ thập đỏ, trắng và xanh của ba dân tộc",
+    "keyColor": "#C8102E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Vương quốc Anh thực ra là bốn đất nước gộp lại — Anh, Scotland, Wales và Bắc Ireland — cùng sống trên một hòn đảo ngoài khơi châu Âu. Đây là nơi khai sinh ra Shakespeare, đầu máy hơi nước, mạng internet và bóng đá. Trời hay mưa, người dân mê uống trà, xứ sở đầy lâu đài và từng một thời cai trị một phần tư thế giới — ngày nay nước Anh vẫn dẫn đầu về âm nhạc, khoa học và kể chuyện.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "London",
+      "sub": "Dân số 9,7 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "67,6 triệu người",
+      "sub": "Ước tính 2023, ONS"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Bảng Anh (£)",
+      "sub": "GBP — đồng tiền lâu đời nhất thế giới"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "Cùng tiếng Wales và tiếng Gaelic Scotland"
+    },
+    {
+      "label": "Diện tích",
+      "value": "243.610 km²",
+      "sub": "Lớn hơn Romania một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Ben Nevis",
+      "sub": "1.345 m — Scotland"
+    }
+  ],
+  "islands": [
+    "London",
+    "Edinburgh",
+    "Cardiff",
+    "Belfast"
+  ],
+  "islandsLabel": "CÁC THỦ ĐÔ:",
+  "sections": {
+    "geography": "Hoang mạc, lâu đài và bờ biển",
+    "animals": "Thú hoang và linh vật hoàng gia",
+    "culture": "Trà, tivi và truyền thống",
+    "history": "Đế quốc và phát minh",
+    "wows": "Những điều bất ngờ về nước Anh"
+  },
+  "geo": [
+    "Nước Anh nằm trên hai hòn đảo lớn, cách châu Âu bởi eo biển Channel — chỗ hẹp nhất chỉ 34 km, hẹp hơn khoảng cách từ Hà Nội đến Hòa Bình. Vùng Cao nguyên Scotland có những hồ nước cổ xưa và núi đá gồ ghề; xứ Wales xanh rờn thung lũng; miền nam nước Anh trải dài những đồi đất phấn nhẹ nhàng.",
+    "Đường bờ biển của Anh dài hơn 17.800 km — không có điểm nào ở Anh cách biển quá 113 km. Dòng hải lưu Gulf Stream giúp mùa đông ấm hơn, nhưng cũng mang theo những đám mây xám xịt nổi tiếng đã truyền cảm hứng cho biết bao nhà thơ."
+  ],
+  "animals": [
+    "Sóc đỏ là loài sóc bản địa của nước Anh, nay đã trở nên hiếm sau khi sóc xám lớn hơn từ Mỹ du nhập vào năm 1876. Chim cốc mỏ sặc sỡ làm tổ trên vách đá biển mỗi mùa xuân, còn hải cẩu xám nghỉ nắng theo đàn hàng nghìn con trên những bờ biển hoang sơ của Scotland.",
+    "Chim cổ đỏ là linh vật không chính thức của nước Anh — dạn dĩ đến mức dám đậu ngay lên cuốc của người làm vườn. Mèo rừng quý hiếm vẫn rình rập trong những thung lũng Scotland, còn ngựa hoang Dartmoor nhởn nhơ trên hoang mạc miền tây nam như đã làm suốt hàng thế kỷ."
+  ],
+  "culture": [
+    "Người Anh rất thích xếp hàng — đứng thành hàng ngay ngắn gần như là môn thể thao quốc dân. Mỗi ngày người dân pha trà hơn 100 triệu lần. Đài BBC thành lập năm 1927 là đài phát thanh truyền hình quốc gia lâu đời nhất thế giới, mỗi tuần tiếp cận 468 triệu người.",
+    "Bóng đá ra đời ở Anh năm 1863 rồi lan ra khắp mọi ngóc ngách trên trái đất. Đêm lửa trại 5 tháng 11 thắp sáng bầu trời bằng pháo hoa rực rỡ. Lễ đổi gác tại Cung điện Buckingham với mũ da gấu và ban nhạc đồng thu hút hàng triệu du khách mỗi năm."
+  ],
+  "history": [
+    "Người La Mã xâm chiếm vào năm 43 sau Công nguyên, xây dựng đường sá và nhà tắm công cộng còn nhìn thấy được đến tận ngày nay. Người Norman đến năm 1066 — cuộc xâm lược thành công cuối cùng — thay đổi ngôn ngữ và luật pháp mãi mãi. Đại Hiến chương Magna Carta năm 1215 gieo hạt mầm cho nền dân chủ hiện đại.",
+    "Cuộc Cách mạng Công nghiệp bùng nổ ở đây vào những năm 1760, biến thế giới từ nông nghiệp sang công nghiệp. Đế quốc Anh trở thành đế quốc lớn nhất lịch sử vào những năm 1920. Năm 1948, nước Anh thành lập NHS — hệ thống y tế miễn phí cho toàn dân."
+  ],
+  "wows": [
+    "Tàu điện ngầm London khai trương năm 1863 — metro đầu tiên trên thế giới; hành khách đi trên những toa gỗ thắp sáng bằng đèn khí.",
+    "Tim Berners-Lee phát minh ra World Wide Web rồi tặng miễn phí cho cả thế giới dùng — không thu một xu nào.",
+    "Nước Anh không có bản Hiến pháp thành văn — đất nước vận hành theo những bộ luật và tập quán có tuổi đời hàng trăm năm.",
+    "Vương quốc Anh cử bốn đội bóng riêng biệt tham dự World Cup: Anh, Scotland, Wales và Bắc Ireland.",
+    "Đại học Oxford đã 300 tuổi khi Đế chế Aztec mới thành lập — lâu đời hơn cả nền văn minh đó.",
+    "Nước Anh có nhiều người đoạt giải Nobel hơn bất kỳ quốc gia nào, chỉ đứng sau Mỹ.",
+    "Big Ben thực ra chỉ là tên cái chuông — cái tháp chính thức có tên là Tháp Elizabeth."
+  ],
+  "myths": [
+    {
+      "myth": "Ở Anh ngày nào cũng mưa",
+      "fact": "London nhận lượng mưa hàng năm ít hơn Rome hay Miami — trời hay mưa phùn nhưng hiếm khi thành cơn lớn, và thường tạnh vào buổi chiều."
+    },
+    {
+      "myth": "Nhà vua cai trị đất nước",
+      "fact": "Nhà vua không có quyền lực chính trị nào — Nghị viện và Thủ tướng mới là người đưa ra mọi quyết định thực sự; vai trò của nhà vua chỉ mang tính nghi lễ."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Hiya!",
+      "say": "HI-yah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Cheers!",
+      "say": "CHEERZ"
+    },
+    {
+      "en": "Tuyệt vời!",
+      "jp": "Brilliant!",
+      "say": "BRIL-yant"
+    },
+    {
+      "en": "Bánh quy",
+      "jp": "Biscuit",
+      "say": "BIS-kit"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Ta-ta!",
+      "say": "tah-TAH"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/gb-hero.jpg",
+      "alt": "Cầu Tower Bridge bắc qua sông Thames ở London",
+      "caption": "CẦU TOWER BRIDGE — cây cầu nâng hạ thời Victoria bắc qua sông Thames, khánh thành năm 1894",
+      "credit": "© Diliff / Wikimedia Commons CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/gb-landmark.jpg",
+      "alt": "Vòng đá Stonehenge trên đồng bằng Salisbury",
+      "caption": "STONEHENGE — vòng tròn đá đứng 5.000 năm tuổi trên đồng bằng Salisbury, nước Anh",
+      "credit": "© Adam Kliczek / Wikimedia Commons CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/gb-animalA.jpg",
+      "alt": "Chim cốc Atlantic với chiếc mỏ nhiều màu sắc trên vách đá",
+      "caption": "CHIM CỐC ATLANTIC — làm tổ trên vách đá biển nước Anh mỗi mùa xuân và hè",
+      "credit": "© Ómar Runólfsson / Wikimedia CC BY"
+    },
+    "animalB": {
+      "src": "/photos/gb-animalB.jpg",
+      "alt": "Sóc đỏ đậu trên cành cây",
+      "caption": "SÓC ĐỎ — loài sóc bản địa của nước Anh, nay hiếm gặp ngoài Scotland",
+      "credit": "© Diliff / Wikimedia Commons CC BY-SA"
+    }
+  }
+}

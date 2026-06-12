@@ -1,0 +1,163 @@
+{
+  "name": "SIERRA LEONE",
+  "nativeName": "SL",
+  "romaji": "SALONE",
+  "tagline": "Đất của sư tử và kim cương",
+  "region": "Tây Phi",
+  "coords": "8.5°N, 11.8°W",
+  "fileNo": "088",
+  "langName": "tiếng Krio",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDE0",
+    "dot": "#C9BFA8",
+    "ink": "#252018",
+    "faint": "#887A5C",
+    "line": "#DDD4BC",
+    "accent": "#1A7A3C",
+    "accent2": "#1A4FA0"
+  },
+  "flag": {
+    "assetPath": "/flags/sl.svg",
+    "title": "Xanh lá, Trắng, Xanh biển",
+    "note": "Ra đời năm 1961 khi đất nước giành độc lập",
+    "keyColor": "#1A7A3C",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Sierra Leone nằm bên bờ Đại Tây Dương ở Tây Phi, nơi những khu rừng mưa nhiệt đới gặp gỡ những bãi biển trắng muốt lộng lẫy. Thủ đô Freetown được người nô lệ được giải phóng xây dựng từ năm 1787 — một trong những câu chuyện kỳ diệu nhất lịch sử thế giới. Dưới lớp đất đỏ ẩn chứa những viên kim cương đẹp nhất hành tinh, còn trên cao, những chú tinh tinh đu chuyền giữa tán rừng xanh ngút ngàn phía trên những vũng biển xanh ngọc.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Freetown",
+      "sub": "Có cảng nước sâu lớn nhất châu Phi"
+    },
+    {
+      "label": "Dân số",
+      "value": "8,46 triệu người",
+      "sub": "Điều tra 2023; tuổi trung bình chỉ 19"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Leone (SLE)",
+      "sub": "Do Ngân hàng Sierra Leone phát hành"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Anh / Krio",
+      "sub": "96% người dân nói tiếng Krio"
+    },
+    {
+      "label": "Diện tích",
+      "value": "73.252 km²",
+      "sub": "Gần bằng diện tích Scotland"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.948 m",
+      "sub": "Núi Bintumani — Vua của các ngọn núi"
+    }
+  ],
+  "islands": [
+    "Freetown",
+    "Bo",
+    "Kenema",
+    "Makeni",
+    "Koidu"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Biển xanh, rừng già & cảng sâu",
+    "animals": "Tinh tinh, hà mã & muông thú hoang dã",
+    "culture": "Nhịp điệu Krio & bát cơm đầy",
+    "history": "Người nô lệ tự do & núi sư tử",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Sierra Leone gói trọn đủ mọi thứ trong một dải đất nhỏ — rừng mưa nhiệt đới dày đặc ở phía đông, đồi núi nhấp nhô phía bắc với đỉnh Bintumani sừng sững, và dọc bờ biển là những bãi cát trắng mịn mà nhiều du khách gọi là đẹp nhất Tây Phi.",
+    "Freetown tọa lạc bên một trong những cảng nước sâu tự nhiên lớn nhất thế giới, che chở cho tàu thuyền qua bao thế kỷ. Rừng mưa Gola ở phía đông nam là một trong những mảnh còn sót lại của khu rừng Thượng Guinea cổ đại — một điểm nóng đa dạng sinh học hàng triệu năm tuổi."
+  ],
+  "animals": [
+    "Rừng Sierra Leone là nơi trú ngụ của hơn 5.500 con tinh tinh tây — quần thể sống hoang dã lớn thứ hai trên thế giới. Khu bảo tồn Tacugama gần Freetown chuyên cứu hộ những chú tinh tinh mồ côi và dần đưa chúng trở lại tự nhiên.",
+    "Con hà mã lùn bé nhỏ ẩn náu dọc sông Moa — chỉ nặng 200 kg, nó sống đơn độc trong bụi rậm um tùm, khác hoàn toàn người anh khổng lồ của mình. Chim dệt Gola malimbe với bộ lông đỏ rực và đen tuyền gần như chỉ tồn tại ở nơi này trên khắp Trái Đất."
+  ],
+  "culture": [
+    "Tiếng Krio — một ngôn ngữ lai sinh ra từ tiếng Anh, các tiếng châu Phi và ngôn ngữ Caribbean — là sợi dây gắn kết tất cả các dân tộc Sierra Leone lại với nhau. Âm nhạc tràn ngập khắp phố phường Freetown: Afrobeat, reggae, và guitar palm-wine hòa quyện thành thứ âm thanh riêng biệt chỉ có ở Salone.",
+    "Cơm là trung tâm của mọi bữa ăn — cơm jollof với nước sốt, súp lạc chan trên cơm trắng, hay nước sốt lá sắn ninh nhừ thơm lừng. Lễ hội Carnival Freetown tháng Tám biến đường phố thành biển màu sắc, tiếng trống và vũ điệu kéo dài đến tận đêm khuya ấm áp."
+  ],
+  "history": [
+    "Năm 1787, những nhà vận động người Anh chống chế độ nô lệ đưa người da đen được giải phóng đến định cư ở một bán đảo gọi là 'Tỉnh Tự Do' — hạt nhân đầu tiên của Freetown. Hàng nghìn người châu Phi được giải phóng tiếp tục đến đây sau khi Anh cấm buôn bán nô lệ năm 1807, biến nơi này thành thành phố vĩ đại của tự do.",
+    "Kim cương được phát hiện năm 1930 mang lại của cải nhưng cũng kéo theo xung đột. Cuộc nội chiến tàn khốc (1991–2002) được tài trợ bởi những 'viên kim cương máu' đã cướp đi 50.000 sinh mạng. Kể từ khi hòa bình trở lại, Sierra Leone đã tái thiết với nghị lực phi thường, mở lòng chào đón du khách đến với những bãi biển của mình."
+  ],
+  "wows": [
+    "Viên kim cương 969 carat — Ngôi sao Sierra Leone (1972) — là viên kim cương phù sa lớn nhất từng được tìm thấy.",
+    "Cảng Freetown sâu đến mức những con tàu lớn nhất thế giới có thể neo đậu mà không chạm đáy.",
+    "Một cây bông gòn 300 năm tuổi ở trung tâm thành phố từng chứng kiến những người nô lệ được giải phóng cầu nguyện dưới bóng nó vào năm 1792.",
+    "Tiếng Krio gần với tiếng Anh đến mức nhiều người nói tiếng Anh bản ngữ có thể hiểu được một phần.",
+    "Khu bảo tồn Tacugama đã phục hồi hơn 100 con tinh tinh và thả một số về rừng tự nhiên.",
+    "Bãi biển Tokeh và River No. 2 được xếp vào hàng đẹp nhất châu Phi — nhưng gần như chưa ai biết đến.",
+    "Một nửa dân số Sierra Leone dưới 19 tuổi — đây là một trong những quốc gia trẻ nhất hành tinh."
+  ],
+  "myths": [
+    {
+      "myth": "\"Sierra Leone vẫn còn nguy hiểm\"",
+      "fact": "Nội chiến đã kết thúc từ năm 2002. Freetown giờ là thành phố sôi động, thân thiện với ngành du lịch đang phát triển mạnh. Hãy kiểm tra thông tin du lịch cập nhật như với bất kỳ điểm đến nào."
+    },
+    {
+      "myth": "\"Được đặt tên vì có sư tử thật\"",
+      "fact": "Nhà thám hiểm người Bồ Đào Nha Pedro de Sintra đặt tên 'Serra Lyoa' năm 1462 vì tiếng sấm vang rền như tiếng gầm của sư tử quanh những ngọn đồi — hoàn toàn không phải vì có sư tử nào ở đây."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Kushɛ",
+      "say": "koo-SHEH"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tɛnki",
+      "say": "TEN-kee"
+    },
+    {
+      "en": "Bạn có khỏe không?",
+      "jp": "Aw di bodi?",
+      "say": "aw di BOH-di"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "A de go",
+      "say": "ah day GOH"
+    },
+    {
+      "en": "Không sao",
+      "jp": "Nɔ bad",
+      "say": "nor BAD"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sl-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống cảng và bán đảo Freetown",
+      "caption": "FREETOWN — nhìn từ trên cao xuống một trong những cảng tự nhiên lớn nhất châu Phi",
+      "credit": "David Hond / Wikimedia Commons CC BY 2.0"
+    },
+    "landmark": {
+      "src": "/photos/sl-landmark.jpg",
+      "alt": "Bãi biển Lumley ở Freetown, Sierra Leone",
+      "caption": "BÃI BIỂN LUMLEY — cát vàng Đại Tây Dương chỉ vài phút từ trung tâm thành phố",
+      "credit": "Hussein Kefel / Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/sl-animalA.jpg",
+      "alt": "Chân dung tinh tinh tây ở Tây Phi",
+      "caption": "TINH TINH TÂY — Sierra Leone có quần thể hoang dã lớn thứ 2 thế giới",
+      "credit": "Ben Costamagna / iNaturalist CC BY 4.0"
+    },
+    "animalB": {
+      "src": "/photos/sl-animalB.jpg",
+      "alt": "Hà mã lùn tại vườn thú Bristol",
+      "caption": "HÀ MÃ LÙN — chú hà mã nhỏ nhút nhát ẩn náu trong những dòng sông Sierra Leone",
+      "credit": "Adrian Pingstone / Wikimedia Commons PD"
+    }
+  }
+}

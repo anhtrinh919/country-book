@@ -1,0 +1,163 @@
+{
+  "name": "NAURU",
+  "nativeName": "NR",
+  "romaji": "NAOERO",
+  "tagline": "Hòn đảo nhỏ, chuyện lớn",
+  "region": "Micronesia, Thái Bình Dương",
+  "coords": "0.52°S, 166.93°E",
+  "fileNo": "078",
+  "langName": "tiếng Nauru",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EFF5F0",
+    "dot": "#c2d4c8",
+    "ink": "#1a2820",
+    "faint": "#6a8a72",
+    "line": "#d4e3d8",
+    "accent": "#002B7F",
+    "accent2": "#FFC61E"
+  },
+  "flag": {
+    "assetPath": "/flags/nr.svg",
+    "title": "Quốc kỳ Nauru",
+    "note": "Nền xanh biển, đường vàng xích đạo, ngôi sao 12 cánh",
+    "keyColor": "#002B7F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nauru là nước cộng hòa nhỏ nhất thế giới — một chấm san hô giữa Thái Bình Dương, chỉ rộng bằng khoảng 1.000 sân bóng đá. Các thủy thủ ngày xưa gọi đây là Đảo Dễ Chịu. Rồi người ta phát hiện ra lòng đất chứa đầy phân chim hóa đá qua hàng triệu năm — thứ phân bón quý mà cả thế giới cần. Nauru trở thành một trong những nơi giàu nhất hành tinh, rồi sau đó lại phải gầy dựng lại từ đầu trên vùng đất đầy gai đá.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Yaren",
+      "sub": "Trung tâm hành chính trên thực tế"
+    },
+    {
+      "label": "Dân số",
+      "value": "11.680",
+      "sub": "Điều tra dân số năm 2021"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "AUD $",
+      "sub": "Đô la Úc"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Nauru",
+      "sub": "Tiếng Anh cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "21 km²",
+      "sub": "Quốc gia nhỏ thứ 3 thế giới"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Command Ridge",
+      "sub": "71 m so với mực nước biển"
+    }
+  ],
+  "islands": [
+    "Yaren",
+    "Anibare",
+    "Buada",
+    "Aiwo",
+    "Boe"
+  ],
+  "islandsLabel": "CÁC KHU VỰC CHÍNH:",
+  "sections": {
+    "geography": "Chấm san hô giữa đại dương",
+    "animals": "Chim trời, rạn san hô & loài hiếm",
+    "culture": "Tiệc tùng, dòng tộc & đời đảo",
+    "history": "Từ giàu có đến gầy dựng lại",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "Nauru là một hòn đảo san hô hình bầu dục bằng phẳng, xung quanh có dải ven biển hẹp nơi hầu hết người dân sinh sống. Phía bên trong là cao nguyên trung tâm cao khoảng 30 mét — từng phủ đầy lớp đất giàu phốt phát, nhưng sau một thế kỷ khai thác, giờ đây chỉ còn là đá vôi trơ trọi.",
+    "Đảo không có sông suối, gần như không có nước ngọt ngoại trừ Đầm Buada — một hồ nước yên tĩnh trong đất liền, quanh bờ mọc đầy dừa. Ngoài khơi, mặt biển tụt xuống độ sâu thẳm chỉ trong vài bước chân, tạo nên những rạn san hô tuyệt đẹp ngay sát bờ."
+  ],
+  "animals": [
+    "Cư dân nổi tiếng nhất của Nauru là chim chích lau sậy Nauru — một loài chim nhỏ màu nâu không tồn tại ở bất cứ đâu khác trên Trái Đất. Nó nhảy nhót qua những bụi cây còn sót lại, dùng cái mỏ mảnh để bắt côn trùng. Việc khai thác mỏ đã phá hủy phần lớn rừng là ngôi nhà của nó, khiến loài này trở nên dễ bị tổn thương.",
+    "Chim fregatbird lớn lượn vòng trên bờ biển, đón gió nóng để chộp cá ngay trên không. Dưới làn nước, cá rạn san hô đủ màu sắc, rùa biển và cá trevally tung tăng quanh rạn. Ngoài xa, những con cá ngừ đại dương cũng ghé qua ngay ngoài khơi đảo."
+  ],
+  "culture": [
+    "Người Nauru thuộc 12 dòng tộc cổ xưa, mỗi dòng tộc mang những câu chuyện riêng. Dòng tộc được truyền theo mẹ — con thuộc tộc của mẹ, không phải của cha. Những bữa tiệc lớn quy tụ mọi người lại với nhau bên cá tươi, dừa và quả dứa dại pandanus.",
+    "Những bài hát và điệu múa truyền thống giữ gìn ký ức về tổ tiên. Nghề đan chiếu và giỏ bằng lá pandanus được truyền từ đời này sang đời khác. Cử tạ là môn thể thao được người Nauru tự hào — các vận động viên nước này đã từng giành huy chương Olympic."
+  ],
+  "history": [
+    "Người Micronesia đến định cư trên đảo vào khoảng năm 1000 trước Công nguyên. Năm 1798, thuyền trưởng người Anh John Fearn đặt tên đảo là Pleasant Island — Đảo Dễ Chịu. Đức chiếm đảo năm 1888; rồi lần lượt Anh, Úc và Nhật Bản đều kiểm soát nơi này qua hai cuộc thế chiến.",
+    "Khai thác phốt phát bắt đầu từ năm 1907, biến Nauru thành quốc gia có thu nhập bình quân đầu người cao nhất thế giới vào thập niên 1970. Đến đầu những năm 2000, mỏ cạn kiệt, để lại 80% diện tích đảo bị đào xới trơ trọi. Nauru giành độc lập từ năm 1968."
+  ],
+  "wows": [
+    "Nauru là nước cộng hòa độc lập nhỏ nhất thế giới — chỉ có Vatican City và Monaco nhỏ hơn.",
+    "Bạn có thể lái xe vòng quanh toàn bộ hòn đảo chỉ trong khoảng 20 phút trên con đường vành đai duy nhất.",
+    "Phốt phát của Nauru được tạo thành từ hàng triệu năm phân chim tích tụ — một kho tài sản xây trên... phân cổ đại.",
+    "Thập niên 1970, Nauru có thu nhập bình quân đầu người thuộc hàng cao nhất Trái Đất, đủ tiền để lập hẳn một hãng hàng không riêng.",
+    "Nauru không có thủ đô chính thức; văn phòng chính phủ đặt tại Yaren — thị trấn gần giống đô thị nhất của đảo.",
+    "Mỗi năm chỉ có khoảng 200 khách du lịch đến Nauru — một trong những con số thấp nhất của bất kỳ quốc gia nào trên Trái Đất.",
+    "12 cánh của ngôi sao trên quốc kỳ tượng trưng cho 12 dòng tộc nguyên thủy của Nauru."
+  ],
+  "myths": [
+    {
+      "myth": "Nauru vẫn là hòn đảo giàu có và thịnh vượng",
+      "fact": "Nauru từng cực kỳ giàu có trong thập niên 1970–80 nhờ phốt phát. Khi mỏ cạn, tiền bạc cũng tan. Ngày nay Nauru đang xây dựng lại nền kinh tế và phục hồi vùng đất bị khai thác."
+    },
+    {
+      "myth": "Bên trong đảo là rừng nhiệt đới xanh tươi",
+      "fact": "Khai thác mỏ đã phá trụi 80% diện tích đảo, chỉ còn lại những gai đá vôi nhọn hoắt. Động vật hoang dã trong đất liền rất thưa thớt; loài chim đất chủ yếu là chích lau sậy Nauru đang bị đe dọa."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Óyó",
+      "say": "OH-yo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tubwa",
+      "say": "TOOB-wah"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Io",
+      "say": "EE-oh"
+    },
+    {
+      "en": "Không",
+      "jp": "Pue",
+      "say": "POO-eh"
+    },
+    {
+      "en": "Cá",
+      "jp": "Ikir",
+      "say": "EE-keer"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/nr-hero.jpg",
+      "alt": "Hoàng hôn trên bờ biển Nauru với Thái Bình Dương yên lặng",
+      "caption": "BỜ BIỂN NAURU — Thái Bình Dương nhuộm vàng khi hoàng hôn buông xuống nước cộng hòa nhỏ nhất thế giới.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/nr-landmark.jpg",
+      "alt": "Những mũi đá vôi nhọn nhô lên trên cao nguyên Nauru sau nhiều thập kỷ khai thác phốt phát",
+      "caption": "GAI ĐÁ NAURU — những tháp đá vôi nhọn hoắt là dấu tích của hàng thập kỷ khai thác phốt phát.",
+      "credit": "Stefan Lins / Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/nr-animalA.jpg",
+      "alt": "Chim fregatbird lớn đang bay trên mặt đại dương nhiệt đới",
+      "caption": "CHIM FREGATBIRD LỚN — tay không tặc lành nghề trên không, lượn vòng trên vùng biển Thái Bình Dương của Nauru.",
+      "credit": "Charles J Sharp / Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/nr-animalB.jpg",
+      "alt": "Chim fregatbird với đuôi chẻ đôi đặc trưng đậu trên hòn đảo nhiệt đới",
+      "caption": "CHIM FREGATBIRD — sải cánh rộng 2,3 m, những chú chim này lướt nhẹ nhàng trên luồng gió ấm Thái Bình Dương.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

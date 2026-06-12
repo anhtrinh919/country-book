@@ -1,0 +1,163 @@
+{
+  "name": "SÃO TOMÉ",
+  "nativeName": "ST",
+  "romaji": "SÃO TOMÉ",
+  "tagline": "Quần đảo Sô-cô-la",
+  "region": "Trung Phi",
+  "coords": "0.19°N, 6.61°E",
+  "fileNo": "178",
+  "langName": "tiếng Bồ Đào Nha",
+  "motif": "dots",
+  "theme": {
+    "paper": "#F3EDD8",
+    "dot": "#C8B88A",
+    "ink": "#2B2015",
+    "faint": "#8B7A50",
+    "line": "#DDD0AC",
+    "accent": "#12873A",
+    "accent2": "#FFCB00"
+  },
+  "flag": {
+    "assetPath": "/flags/st.svg",
+    "title": "Xanh lá, vàng, đỏ",
+    "note": "Ngôi sao đen trên dải vàng ở giữa",
+    "keyColor": "#12873A",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hai hòn đảo núi lửa nằm ngay trên đường xích đạo giữa Đại Tây Dương, từng là nơi sản xuất sô-cô-la nhiều nhất thế giới. Rừng nhiệt đới dày đặc che giấu những loài chim cực kỳ hiếm, những điền trang thực dân đổ nát chìm dần vào cây cỏ, và rùa biển lên bãi đẻ trứng mỗi đêm. Khó tin rằng một đất nước nhỏ thứ hai châu Phi lại chứa nhiều kỳ diệu đến vậy chỉ trong 1.001 km²!",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "São Tomé",
+      "sub": "Khoảng 80.000 người ven biển"
+    },
+    {
+      "label": "Dân số",
+      "value": "240.000",
+      "sub": "Ước tính của LHQ, 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dobra (STN)",
+      "sub": "Neo với đồng euro"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Bồ Đào Nha",
+      "sub": "Cùng tiếng Forro & Creole"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.001 km²",
+      "sub": "Quốc gia nhỏ thứ 2 châu Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Pico 2.024 m",
+      "sub": "Pico de São Tomé"
+    }
+  ],
+  "islands": [
+    "São Tomé",
+    "Príncipe",
+    "Rolas Islet",
+    "Água Grande",
+    "Lobata"
+  ],
+  "islandsLabel": "CÁC ĐẢO & KHU VỰC CHÍNH:",
+  "sections": {
+    "geography": "Đảo lửa giữa xích đạo",
+    "animals": "Chim chóc độc nhất vô nhị",
+    "culture": "Ca cao, âm nhạc & điền trang",
+    "history": "Đường mía, nô lệ & tự do",
+    "wows": "Khó mà tin được!"
+  },
+  "geo": [
+    "Hai ngọn núi lửa dạng khiên nhô lên từ đáy Đại Tây Dương, tọa lạc gần như ngay trên đường xích đạo. Rừng mưa nhiệt đới phủ kín các sườn núi nhờ lượng mưa thuộc hàng nhiều nhất châu Phi, trong khi những vách đá dựng đứng đổ thẳng xuống làn nước xanh ngọc ấm áp.",
+    "Hãy tưởng tượng một chiếc răng khổng lồ đâm thẳng ra khỏi rừng — đó chính là Pico Cão Grande, trụ đá núi lửa cao 300 mét sừng sững giữa cây xanh. Còn tại hòn đảo nhỏ Ilhéu das Rolas, đường xích đạo chạy ngang qua — con có thể đứng một chân ở Bắc bán cầu, một chân ở Nam bán cầu cùng lúc!"
+  ],
+  "animals": [
+    "São Tomé và Príncipe có nhiều loài chim đặc hữu trên mỗi km² hơn hầu hết mọi nơi trên Trái Đất, thậm chí nhiều hơn cả quần đảo Galápagos nổi tiếng. Loài chim hút mật lớn nhất thế giới và loài ibis nhỏ nhất thế giới cùng sống trên những tán cây, bên cạnh chim thiên đường São Tomé rực rỡ sắc màu.",
+    "Rùa da, rùa đồi mồi và rùa xanh đều lên bãi đẻ trứng hàng năm trên những bãi biển này. Tất cả các loài ếch bản địa đều không tồn tại ở bất kỳ đâu khác trên Trái Đất. Đặc biệt nhất là con chim sẻ lớn São Tomé — một loài chim sẻ khổng lồ tưởng đã tuyệt chủng — mới chỉ được tìm thấy lại vào năm 1991!"
+  ],
+  "culture": [
+    "Cuộc sống nơi đây nhịp nhàng theo điệu nhạc puxa — thể loại âm nhạc vui tươi đặc trưng của đảo — cùng mùi thơm ngào ngạt của ca cao rang. Người dân nấu món calulu, một nồi hầm chậm với cá hun khói và dầu cọ đã sưởi ấm những hòn đảo này qua bao thế kỷ.",
+    "Khắp vùng nông thôn là những điền trang thực dân đổ nát gọi là roças, những nhà thờ lớn giờ đây phủ đầy dây leo. Năm 2024, hệ thống canh tác ca cao xen canh truyền thống tại đây được tổ chức FAO công nhận là Di sản Nông nghiệp Quan trọng Toàn cầu — một niềm tự hào lớn của người dân São Tomé."
+  ],
+  "history": [
+    "Những nhà thám hiểm Bồ Đào Nha phát hiện ra hai hòn đảo này không có người ở vào khoảng năm 1470. Chỉ trong vài thập kỷ, São Tomé trở thành nơi sản xuất đường mía bận rộn nhất thế giới, trên đôi vai của những người châu Phi bị bắt làm nô lệ — một lịch sử tàn khốc đã nhào nặn nên nền văn hóa Creole pha trộn độc đáo của đảo.",
+    "Độc lập đến một cách hòa bình vào ngày 12 tháng 7 năm 1975. Đến năm 1990, São Tomé trở thành một trong những quốc gia đa đảng đầu tiên ở châu Phi, tổ chức bầu cử tự do năm 1991 — một bước tiến phi thường, chỉ 15 năm sau khi ách thực dân kết thúc."
+  ],
+  "wows": [
+    "Từng là nước sản xuất ca cao lớn nhất thế giới — một đất nước nhỏ hơn Hà Nội mà nuôi cả thói quen ăn sô-cô-la của cả hành tinh!",
+    "Số loài chim đặc hữu trên mỗi km² nhiều hơn cả quần đảo Galápagos lừng danh.",
+    "Pico Cão Grande cao 300 mét trên tán rừng — bằng chiều cao tháp Eiffel — và kỳ lạ thay, phần đỉnh còn rộng hơn phần đáy.",
+    "Đường xích đạo cắt ngang hòn đảo nhỏ Ilhéu das Rolas: chỉ một bước chân là bước từ Bắc bán cầu sang Nam bán cầu.",
+    "Mọi loài ếch bản địa trên đảo São Tomé đều là loài đặc hữu — không tồn tại ở bất kỳ nơi nào khác trên Trái Đất.",
+    "Tờ tiền Dobra được trang trí hình bướm, không phải chân dung chính trị gia hay công trình kiến trúc như nhiều nước khác.",
+    "Chim sẻ lớn São Tomé nặng hơn 50% so với bất kỳ loài chim nào trong họ chim sẻ, và khoa học chỉ biết đến nó từ năm 1991."
+  ],
+  "myths": [
+    {
+      "myth": "\"Chỉ là một hòn đảo nhỏ bình thường ở châu Phi\"",
+      "fact": "São Tomé và Príncipe sánh ngang Galápagos về số loài đặc hữu trên mỗi km² — hơn 25 loài chim đặc hữu, cùng hàng chục loài ếch, bò sát và thực vật không tồn tại ở bất kỳ đâu khác."
+    },
+    {
+      "myth": "\"Sô-cô-la đến từ những nước lớn\"",
+      "fact": "Đất nước hai đảo nhỏ này từng là nhà cung cấp ca cao số một của cả thế giới, và giống ca cao Amelonado hiếm có của nó vẫn được các nhà làm sô-cô-la cao cấp trân trọng đến ngày nay."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Olá",
+      "say": "OH-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Obrigado",
+      "say": "oh-bree-GAH-doo"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Por favor",
+      "say": "por fah-VOR"
+    },
+    {
+      "en": "Sô-cô-la",
+      "jp": "Chocolate",
+      "say": "sho-koh-LAH-teh"
+    },
+    {
+      "en": "Hòn đảo",
+      "jp": "Ilha",
+      "say": "EEL-yah"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/st-hero.jpg",
+      "alt": "Container tàu biển tại cảng thành phố São Tomé",
+      "caption": "CẢNG SÃO TOMÉ — bến cảng tấp nập của thủ đô xích đạo lúc bình minh",
+      "credit": "Ji-Elle / CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/st-landmark.jpg",
+      "alt": "Trụ đá núi lửa Pico Cão Grande nhô lên khỏi rừng già",
+      "caption": "PICO CÃO GRANDE — chiếc kim đá núi lửa cao 300 mét sừng sững trên rừng mưa nhiệt đới",
+      "credit": "Yakoo1986 / CC BY-SA 4.0"
+    },
+    "animalA": {
+      "src": "/photos/st-animalA.jpg",
+      "alt": "Chim hút mật São Tomé đực đậu trên cành cây",
+      "caption": "CHIM HÚT MẬT SÃO TOMÉ — loài chim hút mật lớn nhất thế giới, chỉ sống trên những hòn đảo này",
+      "credit": "Charles J. Sharp / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/st-animalB.jpg",
+      "alt": "Các công trình điền trang thực dân Roça Agostinho Neto trong rừng nhiệt đới",
+      "caption": "ROÇA AGOSTINHO NETO — điền trang ca cao hoành tráng nhất, nay đã bị rừng xanh bao phủ",
+      "credit": "Ji-Elle / CC BY-SA 4.0"
+    }
+  }
+}

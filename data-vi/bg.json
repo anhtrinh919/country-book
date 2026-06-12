@@ -1,0 +1,163 @@
+{
+  "name": "BULGARIA",
+  "nativeName": "БГ",
+  "romaji": "BALGARIYA",
+  "tagline": "Hoa hồng, phế tích & rượu đỏ",
+  "region": "Đông Âu",
+  "coords": "42.7°N, 25.5°E",
+  "fileNo": "BG",
+  "langName": "tiếng Bulgaria",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#CCBFA0",
+    "ink": "#27201A",
+    "faint": "#8A7A5E",
+    "line": "#DDD0B2",
+    "accent": "#24693D",
+    "accent2": "#D01C2A"
+  },
+  "flag": {
+    "assetPath": "/flags/bg.svg",
+    "title": "Quốc kỳ Bulgaria",
+    "note": "Ba sọc trắng, xanh lá và đỏ từ năm 1878",
+    "keyColor": "#24693D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Bulgaria nằm ở vùng Balkan, nơi những ngôi mộ cổ ẩn dưới cánh đồng lúa mì và cả thung lũng bừng nở hoa hồng hồng mỗi tháng Năm để tạo ra thứ tinh dầu hoa hồng ngon nhất thế giới. Đây là một trong những quốc gia lâu đời nhất châu Âu — tên nước gần như không đổi từ năm 681 sau Công nguyên — và trên mảnh đất nhỏ hơn Iceland ấy có đủ cả núi tuyết, sông Danube hùng vĩ lẫn bờ Biển Đen lấp lánh.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Sofia",
+      "sub": "~1,3 triệu người; nằm ở độ cao 550 m"
+    },
+    {
+      "label": "Dân số",
+      "value": "6,4 triệu người",
+      "sub": "Theo điều tra dân số NSI năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Lev (BGN)",
+      "sub": "1 lev = 100 stotinki"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Bulgaria",
+      "sub": "Viết bằng chữ Cyrillic"
+    },
+    {
+      "label": "Diện tích",
+      "value": "110.994 km²",
+      "sub": "Lớn hơn Iceland một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Musala 2.925 m",
+      "sub": "Đỉnh cao nhất bán đảo Balkan"
+    }
+  ],
+  "islands": [
+    "Sofia",
+    "Plovdiv",
+    "Varna",
+    "Burgas",
+    "Ruse"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, sông ngòi & biển cả",
+    "animals": "Gấu hoang & ong mật rừng",
+    "culture": "Hoa hồng, nhịp điệu & lễ hội",
+    "history": "Vua chúa, thánh nhân & thời Xô viết",
+    "wows": "Bulgaria sẽ khiến bạn ngạc nhiên!"
+  },
+  "geo": [
+    "Bulgaria giống như một chiếc bánh sandwich phong cảnh. Dãy Balkan chạy ngang qua giữa đất nước; phía nam là dãy Rhodope vươn lên đỉnh Musala — ngọn núi cao nhất bán đảo Balkan. Kẹp giữa hai dãy núi ấy là Đồng bằng Thrace, thung lũng trồng hoa hồng tuyệt vời nhất châu Âu.",
+    "Sông Danube tạo thành toàn bộ biên giới phía bắc, còn bờ Biển Đen trải dài 378 km về phía đông. Rừng bao phủ một phần ba đất nước, che chở cho linh miêu và gấu nâu giữa những cánh rừng sồi cổ thụ."
+  ],
+  "animals": [
+    "Gấu nâu là loài động vật hoang dã lớn nhất của Bulgaria — khoảng 700 con gấu sinh sống trong các dãy núi Rhodope và Balkan, ngày ngày ăn quả rừng và mật ong. Bồ nông Dalmatian làm tổ tại hồ Srebarna, một vùng đất ngập nước được UNESCO công nhận gần sông Danube.",
+    "Ong mật Bulgaria sản xuất ra thứ mật ong hoa dại núi rừng thuộc hàng ngon nhất châu Âu. Chó chăn cừu Karakachan cổ đại đã bảo vệ đàn gia súc ở đây hơn 2.000 năm mà hầu như không thay đổi gì cả."
+  ],
+  "culture": [
+    "Mỗi tháng Năm, Thung lũng Hoa hồng gần Kazanlak ngập tràn màu hồng của hoa hồng damask được hái trước bình minh — ba tấn cánh hoa mới ép được vỏn vẹn một kilogram tinh dầu, thứ tinh dầu góp mặt trong những chai nước hoa xa xỉ nhất thế giới. Người Bulgaria còn yêu sữa chua đến mức đặt tên loài vi khuẩn làm nên nó theo tên mình: Lactobacillus bulgaricus.",
+    "Nhạc dân gian Bulgaria dùng những nhịp điệu kỳ lạ — 7/8 hay 11/16 — khiến người nghe phương Tây bối rối nhưng lại khiến các vũ công Bulgaria xoay tròn hoàn hảo. Điệu nhảy horo kết thành chuỗi tay nắm tay, đôi khi cuốn hàng trăm người vào một vòng tròn khổng lồ đang quay."
+  ],
+  "history": [
+    "Bulgaria ra đời vào năm 681 sau Công nguyên khi Khan Asparuh đoàn kết các chiến binh Bulgar với người Slav. Thế kỷ thứ 9, các học trò của Thánh Cyril và Methodius đã phát triển chữ Cyrillic tại các trường văn học Bulgaria — thứ chữ viết ngày nay được hơn 250 triệu người trên thế giới sử dụng.",
+    "Sau gần 500 năm dưới ách đô hộ của Ottoman, Bulgaria giành được độc lập năm 1878 nhờ sự giúp đỡ của Nga. Sau Thế chiến thứ hai, Bulgaria trở thành nước cộng sản cho đến khi các cuộc biểu tình ôn hòa chấm dứt chế độ này năm 1989. Năm 2004 Bulgaria gia nhập NATO và năm 2007 gia nhập Liên minh châu Âu."
+  ],
+  "wows": [
+    "Bulgaria đã cho thế giới chữ Cyrillic — hơn 250 triệu người dùng nó trong 50+ ngôn ngữ khác nhau.",
+    "Thung lũng Hoa hồng Bulgaria sản xuất khoảng 70% lượng tinh dầu hoa hồng toàn cầu cho ngành nước hoa xa xỉ.",
+    "Đỉnh Musala là điểm cao nhất bán đảo Balkan và ngọn núi cao nhất giữa dãy Alps và dãy Caucasus.",
+    "Ở Bulgaria, gật đầu có nghĩa là KHÔNG và lắc đầu có nghĩa là CÓ — ngược hẳn với gần như cả thế giới.",
+    "Thành phố Plovdiv đã có người ở liên tục hơn 6.000 năm — một trong những thành phố lâu đời nhất châu Âu.",
+    "Lăng mộ Thrace ở Kazanlak được UNESCO công nhận với những bức tranh tường sặc sỡ 2.300 năm tuổi.",
+    "Vi khuẩn sữa chua Lactobacillus bulgaricus được phát hiện lần đầu trong sữa chua Bulgaria năm 1905."
+  ],
+  "myths": [
+    {
+      "myth": "Người Bulgaria gật đầu là đồng ý",
+      "fact": "Ngược lại hoàn toàn — gật đầu có nghĩa là KHÔNG, còn lắc đầu mới là CÓ, khiến gần như mọi du khách lần đầu đến đây đều bối rối."
+    },
+    {
+      "myth": "Chữ Cyrillic do Thánh Cyril sáng tạo",
+      "fact": "Thánh Cyril và Methodius thực ra đã tạo ra chữ Glagolitic. Chính các học trò của họ mới phát triển chữ Cyrillic tại các trường văn học Bulgaria vào thế kỷ thứ 9."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Здравей",
+      "say": "ZDRA-vey"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Благодаря",
+      "say": "bla-go-da-RYA"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Моля",
+      "say": "MOL-ya"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Да",
+      "say": "da"
+    },
+    {
+      "en": "Hoa hồng",
+      "jp": "Роза",
+      "say": "RO-za"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/bg-hero.jpg",
+      "alt": "Nhà thờ Alexander Nevsky với những mái vòm vàng ở Sofia",
+      "caption": "NHÀ THỜ ALEXANDER NEVSKY — Biểu tượng mái vòm vàng của Sofia, một trong những nhà thờ lớn nhất châu Âu.",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/bg-landmark.jpg",
+      "alt": "Tu viện Rila nằm giữa núi rừng",
+      "caption": "TU VIỆN RILA — Pháo đài đức tin được UNESCO công nhận, ẩn sâu trong núi rừng Bulgaria.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/bg-animalA.jpg",
+      "alt": "Gấu nâu chạy trong rừng",
+      "caption": "GẤU NÂU — Khoảng 700 con gấu sinh sống trong các khu rừng Rhodope và Balkan của Bulgaria.",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/bg-animalB.jpg",
+      "alt": "Bồ nông Dalmatian trên mặt nước",
+      "caption": "BỒ NÔNG DALMATIAN — Làm tổ tại vùng đất ngập nước Srebarna được UNESCO công nhận trên sông Danube.",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

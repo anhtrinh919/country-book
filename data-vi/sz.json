@@ -1,0 +1,162 @@
+{
+  "name": "ESWATINI",
+  "nativeName": "eSwati",
+  "romaji": "ESWATINI",
+  "tagline": "Vương quốc hoàng gia cuối cùng của châu Phi",
+  "region": "Nam Phi",
+  "coords": "-26.5°N, 31.5°E",
+  "fileNo": "152",
+  "langName": "tiếng Swazi",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CBBC9E",
+    "ink": "#252018",
+    "faint": "#8A7A5A",
+    "line": "#DCCFAD",
+    "accent": "#3E6EB0",
+    "accent2": "#C8102E"
+  },
+  "flag": {
+    "assetPath": "/flags/sz.svg",
+    "title": "Khiên & Giáo",
+    "note": "Xanh, đỏ & vàng — chiếc khiên đoàn kết mọi người",
+    "keyColor": "#3E6EB0",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Eswatini là một vương quốc nhỏ bé nằm lọt giữa Nam Phi và Mozambique — lái xe băng qua chỉ mất hai tiếng! Thế mà nơi đây chứa đựng núi non hùng vĩ, đồng bằng đầy thú hoang và một nền văn hóa hoàng gia sống động mà không nơi nào trên trái đất có được. Đây là vương quốc quân chủ tuyệt đối cuối cùng của châu Phi, nơi một gia tộc hoàng gia trị vì đã hơn 200 năm.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Mbabane",
+      "sub": "Lobamba là thủ đô lập pháp"
+    },
+    {
+      "label": "Dân số",
+      "value": "1,24 triệu người",
+      "sub": "Ước tính 2024; phần lớn là người Swazi"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Lilangeni",
+      "sub": "Tỷ giá 1:1 với đồng rand Nam Phi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Swazi",
+      "sub": "Hai ngôn ngữ chính thức; tiếng Swazi dùng ở nhà"
+    },
+    {
+      "label": "Diện tích",
+      "value": "17.204 km²",
+      "sub": "Nhỏ hơn tỉnh Nghệ An của Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Emlembe 1.862m",
+      "sub": "Dãy Drakensberg; giáp biên giới Nam Phi"
+    }
+  ],
+  "islands": [
+    "Hhohho",
+    "Manzini",
+    "Lubombo",
+    "Shiselweni"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Núi cao, thung lũng và thảo nguyên",
+    "animals": "Thú hoang trong vương quốc bé nhỏ",
+    "culture": "Hoàng gia, lễ hội và điệu múa",
+    "history": "Từ vua Ngwane III đến vua Mswati III",
+    "wows": "Bảy điều bất ngờ về vương quốc này"
+  },
+  "geo": [
+    "Eswatini trải dài từ những ngọn núi mát mẻ trên cao ở phía tây — nơi thác Malolotja đổ xuống 89 mét — qua vùng trung du xanh tươi rồi đến đồng bằng thảo nguyên nóng bức ở phía đông. Bốn vùng địa hình khác nhau hoàn toàn gói gọn trong một đất nước tí hon!",
+    "Thung lũng Ezulwini — nghĩa là 'Nơi của Thiên Đường' — là nơi tọa lạc của cung điện hoàng gia và quốc hội. Gần đó, Tảng đá Sibebe là một vòm đá granit hình thành từ ba tỷ năm trước, một trong những bề mặt đá lộ thiên lớn nhất thế giới."
+  ],
+  "animals": [
+    "Vườn quốc gia Hlane bảo tồn tê giác trắng, voi, sư tử, hươu cao cổ và hà mã. Các kiểm lâm canh giữ đàn tê giác ngày đêm, biến Eswatini thành một trong những câu chuyện thành công về bảo tồn tê giác ấn tượng nhất miền Nam châu Phi.",
+    "Eswatini là một trong số ít nơi ở châu Phi có loài nhạn xanh hiếm gặp sinh sản. Hơn 500 loài chim đã được ghi nhận tại đây — thật đáng kinh ngạc với một đất nước nhỏ như vậy — cùng với linh dương impala, kudu và ngựa vằn."
+  ],
+  "culture": [
+    "Mỗi tháng Tám, lên đến 40.000 cô gái chưa lập gia đình từ khắp cả nước tề tựu về dự lễ hội Umhlanga. Mỗi người chặt một cây sậy cao, dâng lên Hoàng Thái hậu, rồi cùng nhau nhảy múa trong những bộ trang phục hạt cườm rực rỡ — một trong những lễ hội ngoạn mục nhất châu Phi.",
+    "Lễ nghi Incwala linh thiêng vào tháng Mười Hai tái tạo quyền năng của nhà vua qua sáu ngày hát những bài ca cổ xưa không thể nghe thấy ở bất kỳ nơi nào khác. Người thợ thủ công Swazi nổi tiếng với những chiếc giỏ đan và nến đổ tay đầy màu sắc được bán ra toàn thế giới."
+  ],
+  "history": [
+    "Vương quốc Swazi hình thành vào giữa thế kỷ 18 dưới thời vua Ngwane III. Vua Mswati II sau đó mở rộng lãnh thổ mạnh mẽ đến nỗi cả đất nước lẫn dân tộc đều được đặt tên theo ông. Anh bảo hộ vương quốc từ thập niên 1890; độc lập hoàn toàn đến năm 1968.",
+    "Năm 2018, vua Mswati III đổi tên đất nước từ Swaziland thành Eswatini — nghĩa là 'Vùng đất của người Swazi' — nhân dịp kỷ niệm 50 năm độc lập. Ông trị vì đến ngày nay với tư cách là vị quân chủ chuyên chế duy nhất còn lại ở châu Phi."
+  ],
+  "wows": [
+    "Eswatini là vương quốc quân chủ tuyệt đối cuối cùng của châu Phi — nhà vua nắm toàn quyền trên mọi nhánh của chính quyền.",
+    "Tảng đá Sibebe gần Mbabane có tuổi đời 3 tỷ năm và là một trong những vòm đá granit lớn nhất trái đất.",
+    "Khu bảo tồn Malolotja nhỏ bé là một trong những nơi hiếm hoi ở châu Phi có loài nhạn xanh quý hiếm làm tổ sinh sản.",
+    "Eswatini là đồng minh ngoại giao duy nhất của Đài Loan trên toàn bộ lục địa châu Phi.",
+    "Đồng lilangeni có tỷ giá đúng 1:1 với đồng rand Nam Phi — cả hai đều tiêu được như nhau.",
+    "Dù nhỏ hơn xứ Wales, Eswatini vẫn là nước sản xuất đường lớn thứ 4 ở châu Phi.",
+    "Lễ hội Umhlanga thu hút đến 40.000 người tham gia — một trong những cuộc tụ họp lớn nhất châu lục."
+  ],
+  "myths": [
+    {
+      "myth": "\"Tên nước vẫn là Swaziland\"",
+      "fact": "Nhà vua đã đổi tên thành Eswatini năm 2018 để tôn vinh tiếng Swazi và thoát khỏi cái tên thời thực dân — dù bản đồ cũ vẫn còn ghi Swaziland."
+    },
+    {
+      "myth": "\"Đây chỉ là một phần của Nam Phi\"",
+      "fact": "Eswatini là một vương quốc độc lập hoàn toàn với vua riêng, tiền tệ riêng và văn hóa riêng — Nam Phi chỉ bao quanh ba phía của đất nước này mà thôi."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Sawubona",
+      "say": "sah-woo-BOH-nah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ngiyabonga",
+      "say": "ngee-yah-BONG-ah"
+    },
+    {
+      "en": "Bạn khỏe không?",
+      "jp": "Unjani?",
+      "say": "oon-JAH-nee"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Sala kahle",
+      "say": "SAH-lah KAH-shlay"
+    },
+    {
+      "en": "Chào buổi sáng",
+      "jp": "Kusile",
+      "say": "koo-SEE-lay"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/sz-hero.jpg",
+      "alt": "Những ngọn đồi xanh mướt của vùng cao nguyên Eswatini",
+      "caption": "CAO NGUYÊN ESWATINI — núi rừng xanh tươi dốc xuống những đồng bằng thảo nguyên vàng óng",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/sz-landmark.jpg",
+      "alt": "Tảng đá Sibebe khổng lồ hình vòm granit gần Mbabane",
+      "caption": "TẢNG ĐÁ SIBEBE — vòm đá granit 3 tỷ năm tuổi gần thủ đô Mbabane",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/sz-animalA.jpg",
+      "alt": "Tê giác trắng phương Nam trên đồng cỏ thảo nguyên",
+      "caption": "TÊ GIÁC TRẮNG — được bảo vệ nghiêm ngặt trong Vườn quốc gia Hlane",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/sz-animalB.jpg",
+      "alt": "Linh dương impala đực đứng cảnh giác giữa cỏ vàng",
+      "caption": "LINH DƯƠNG IMPALA — loài linh dương đông đảo nhất trong các khu bảo tồn Eswatini",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

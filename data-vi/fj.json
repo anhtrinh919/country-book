@@ -1,0 +1,163 @@
+{
+  "name": "FIJI",
+  "nativeName": "FJ",
+  "romaji": "VITI",
+  "tagline": "Bula! Sống vui mà!",
+  "region": "Melanesia, Thái Bình Dương",
+  "coords": "18°S 178°E",
+  "fileNo": "047",
+  "langName": "tiếng Fiji",
+  "motif": "dots",
+  "theme": {
+    "paper": "#EEF4F6",
+    "dot": "#b8d0da",
+    "ink": "#1c2c35",
+    "faint": "#6e8a98",
+    "line": "#cde0e8",
+    "accent": "#009FCA",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/fj.svg",
+    "title": "Quốc kỳ Fiji",
+    "note": "Nền xanh da trời, góc trái có cờ Liên hiệp Anh và huy hiệu quốc gia",
+    "keyColor": "#009FCA",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Fiji là 333 hòn đảo rải rác trên mặt biển Nam Thái Bình Dương ấm áp — chỉ 110 đảo có người ở, nhưng cộng lại tạo thành một trong những nơi rực rỡ nhất Trái Đất: rạn san hô đủ màu cầu vồng, rừng mưa xanh ngắt, và lời chào nồng hậu đến mức người ta đặt riêng một từ cho nó — Bula! Hai đảo lớn nhất là Viti Levu — nơi có thủ đô Suva — và Vanua Levu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Suva",
+      "sub": "trên đảo Viti Levu"
+    },
+    {
+      "label": "Dân số",
+      "value": "933.000",
+      "sub": "ước tính năm 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "FJD $",
+      "sub": "đô-la Fiji"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "cùng tiếng Fiji và tiếng Hindi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "18.272 km²",
+      "sub": "khoảng bằng tỉnh Nghệ An"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "1.324 m",
+      "sub": "núi Tomanivi, đảo Viti Levu"
+    }
+  ],
+  "islands": [
+    "Viti Levu",
+    "Vanua Levu",
+    "Taveuni",
+    "Yasawa",
+    "Kadavu"
+  ],
+  "islandsLabel": "CÁC ĐẢO CHÍNH:",
+  "sections": {
+    "geography": "Đảo, rạn san hô & rừng mưa",
+    "animals": "Kỳ nhông, vẹt & dơi quả",
+    "culture": "Tinh thần Bula & lễ đi lửa",
+    "history": "Thủ lĩnh, mía đường & độc lập",
+    "wows": "Bảy điều bất ngờ về Fiji"
+  },
+  "geo": [
+    "Fiji nằm giữa Nam Thái Bình Dương, cách New Zealand khoảng 1.770 km về phía bắc. Hai đảo lớn nhất — Viti Levu và Vanua Levu — vốn là những núi lửa cổ đại, nay phủ kín rừng mưa với những con sông chảy xiết và vùng cao nguyên mát mẻ. Đỉnh Tomanivi trên đảo Viti Levu cao 1.324 m, cao hơn cả nhiều đỉnh núi ở Việt Nam.",
+    "Bao quanh các đảo là Rạn San Hô Biển Lớn (Cakaulevu) — rạn san hô dài thứ ba thế giới với hơn 200 km. Fiji còn được gọi là Thủ đô San Hô Mềm của Thế Giới, vì vùng biển xanh ngọc của nó chứa hơn 390 loài san hô khác nhau."
+  ],
+  "animals": [
+    "Ngôi sao bò sát của Fiji là kỳ nhông sọc — loài thằn lằn xanh điện với vạch trắng, chỉ sống ở đây và không tìm thấy ở đâu khác trên Trái Đất. Loài kỳ nhông mào — đang đứng trước nguy cơ tuyệt chủng — chỉ còn sống sót trong những khu rừng khô trên vài hòn đảo nhỏ phía tây bắc.",
+    "Chim quốc gia của Fiji là vẹt lory vòng cổ — loài vẹt đỏ rực và xanh lá thoăn thoắt lao qua những tán cây đang nở hoa. Dơi quả Thái Bình Dương là thú có vú bản địa duy nhất trên đất liền của Fiji, còn cá đuối manta thì lượn lờ quanh những rạn san hô đảo Kadavu."
+  ],
+  "culture": [
+    "Người Fiji chào hỏi mọi người bằng Bula! — một từ có nghĩa là 'sự sống', dùng được cho cả lời chào, lời chúc mừng và lời mời uống. Hiếu khách là điều thiêng liêng: khách đến thăm làng sẽ được mời tham dự lễ uống kava — thứ nước có vị đất được pha từ rễ cây và uống chung từ một bát gỗ lớn.",
+    "Trên đảo Beqa, những người đàn ông thuộc tộc Nakarovu đi chân trần qua đá trắng nung đỏ trong một nghi lễ 500 năm tuổi. Điệu múa meke kết hợp hát, đánh trống và những chuyển động uyển chuyển để truyền lại những huyền thoại từ thế hệ này sang thế hệ khác."
+  ],
+  "history": [
+    "Người ta đã sống ở Fiji ít nhất 3.500 năm. Năm 1874, sau nhiều năm xung đột giữa các thủ lĩnh và áp lực từ người nước ngoài, thủ lĩnh Cakobau ký Văn kiện Nhượng địa — trao Fiji cho Nữ hoàng Victoria của Anh, mở đầu 96 năm dưới sự cai trị của người Anh.",
+    "Người Anh đưa 61.000 công nhân từ Ấn Độ sang làm việc trên các đồn điền mía từ năm 1879 đến 1916, tạo nên sự pha trộn văn hóa độc đáo của Fiji ngày nay. Ngày 10 tháng 10 năm 1970 — đúng ngày kỷ niệm ký Văn kiện Nhượng địa — Fiji giành được độc lập hoàn toàn."
+  ],
+  "wows": [
+    "Fiji giành huy chương vàng Olympic môn bóng bầu dục 7 người ở ba kỳ Thế vận hội liên tiếp — thật ấn tượng với một đất nước chưa đến một triệu dân!",
+    "Đường Đổi Ngày Quốc Tế uốn cong riêng để toàn bộ Fiji nằm trong cùng một múi giờ.",
+    "Rạn San Hô Biển Lớn của Fiji dài hơn 200 km — dài thứ ba thế giới.",
+    "Hơn một nửa các loài sinh vật ở Fiji không tìm thấy ở bất kỳ nơi nào khác trên hành tinh.",
+    "Người Fiji nói 'có' bằng cách im lặng nhướng cả hai lông mày lên — không cần nói một chữ nào!",
+    "Fiji có nhiều cầu thủ bóng bầu dục đăng ký thi đấu tính theo đầu người hơn bất kỳ quốc gia nào.",
+    "Năm 2021, các nhà bảo tồn thiên nhiên trồng 1.000 rạn san hô chịu nhiệt dưới đáy biển tạo thành chữ BULA."
+  ],
+  "myths": [
+    {
+      "myth": "Fiji chỉ là một hòn đảo nghỉ dưỡng nhiệt đới",
+      "fact": "Fiji có 333 hòn đảo (chỉ 110 có người ở), một thành phố thủ đô thực sự, vùng cao nguyên mát mẻ, và hai nền văn hóa lớn — người iTaukei bản địa và người gốc Ấn Độ — với ẩm thực và ngôn ngữ hoàn toàn khác nhau."
+    },
+    {
+      "myth": "Lễ đi lửa chỉ là màn trình diễn cho khách du lịch",
+      "fact": "Lễ đi lửa ở Beqa là nghi lễ thiêng liêng của tộc Nakarovu, đòi hỏi nhiều tuần chuẩn bị tâm linh; những người tham gia thực sự bước qua những tảng đá được nung nóng trên 300°C."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Bula!",
+      "say": "BOO-lah"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Vinaka",
+      "say": "vee-NAH-kah"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Moce",
+      "say": "MO-they"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Kerekere",
+      "say": "keh-reh-KEH-reh"
+    },
+    {
+      "en": "Có / Vâng",
+      "jp": "Io",
+      "say": "EE-oh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/fj-hero.jpg",
+      "alt": "Nhìn từ trên cao cồn cát Sigatoka trải dài theo bờ biển Coral Coast của Fiji",
+      "caption": "CỒN CÁT SIGATOKA — vườn quốc gia đầu tiên của Fiji, trải dài theo bờ Coral Coast trên đảo Viti Levu",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/fj-landmark.jpg",
+      "alt": "Ngôi đền Hindu Sri Siva Subramaniya rực rỡ sắc màu ở Nadi, Fiji",
+      "caption": "ĐỀN SRI SIVA SUBRAMANIYA — ngôi đền Hindu lớn nhất Nam Bán Cầu, tọa lạc tại thành phố Nadi",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/fj-animalA.jpg",
+      "alt": "Kỳ nhông sọc Fiji màu xanh sáng đang đậu trên cành cây",
+      "caption": "KỲ NHÔNG SỌC FIJI — loài thằn lằn xanh điện đặc hữu, chỉ có ở Fiji",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/fj-animalB.jpg",
+      "alt": "Vẹt lory vòng cổ màu đỏ và xanh lá đang đậu trên cành ở Fiji",
+      "caption": "VẸT LORY VÒNG CỔ — chim quốc gia màu đỏ rực của Fiji, người địa phương gọi là kula",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

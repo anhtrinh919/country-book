@@ -1,0 +1,163 @@
+{
+  "name": "UAE",
+  "nativeName": "الإمار",
+  "romaji": "AL-IMARAT",
+  "tagline": "Sa mạc vàng, tầm cao mới",
+  "region": "Trung Đông & Vùng Vịnh",
+  "coords": "24°N · 54°E",
+  "fileNo": "042",
+  "flag": {
+    "assetPath": "/flags/ae.svg",
+    "title": "Quốc kỳ UAE",
+    "note": "Đỏ, xanh lá, trắng và đen — bốn màu Ả Rập thống nhất",
+    "keyColor": "#EF3340",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "UAE là vùng đất nắng cháy nơi những cồn cát vàng óng sánh vai cùng những tòa nhà chọc trời cao nhất thế giới. Bảy tiểu vương quốc nắm tay nhau năm 1971 để cùng xây dựng một đất nước bên vịnh Ả Rập. Ngày nay, lạc đà đi chung đường với xe siêu sang, và chim ưng lượn trên bầu trời những thành phố lấp lánh như ngọc trong đêm sa mạc. Truyền thống Bedouin ngàn năm và cuộc sống hiện đại diệu kỳ cùng tồn tại hòa hợp nơi đây.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Abu Dhabi",
+      "sub": "Xây dựng trên một hòn đảo giữa vịnh"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,9 triệu",
+      "sub": "Ước tính 2024; ~88% là người nước ngoài"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dirham AED",
+      "sub": "Gắn cố định với đồng đô-la Mỹ từ năm 1997"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Tiếng Anh được dùng rộng rãi khắp nơi"
+    },
+    {
+      "label": "Diện tích",
+      "value": "83.600 km²",
+      "sub": "Xấp xỉ bằng đất nước Bồ Đào Nha"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Jebel Jais",
+      "sub": "1.934 m, thuộc tiểu vương quốc Ras Al Khaimah"
+    }
+  ],
+  "islands": [
+    "Abu Dhabi",
+    "Dubai",
+    "Sharjah",
+    "Fujairah",
+    "RAK"
+  ],
+  "islandsLabel": "CÁC TIỂU VƯƠNG QUỐC:",
+  "sections": {
+    "geography": "Sa mạc, cồn cát và hai bờ biển",
+    "animals": "Chim ưng, lạc đà và vùng vịnh",
+    "culture": "Ngọc trai, thơ ca và phong tục tự hào",
+    "history": "Từ lều Bedouin tới tàu thăm sao Hỏa",
+    "wows": "Khó tin nhưng có thật!"
+  },
+  "geo": [
+    "UAE nằm ở mũi đất của bán đảo Ả Rập, tiếp giáp hai vùng biển: Vịnh Ả Rập êm đềm ở phía tây và Vịnh Oman sóng gió hơn ở phía đông. Phần lớn đất nước là sa mạc bằng phẳng và nắng thiêu — những cồn cát khổng lồ có thể cao bằng tòa nhà mười tầng, còn mùa hè nhiệt độ có thể lên tới 50°C.",
+    "Dãy núi Hajar đá dựng đứng ở phía đông, bị cắt xẻ bởi những con suối khô bỗng chốc hóa lũ sau những cơn mưa hiếm hoi. Abu Dhabi tọa lạc trên một hòn đảo bằng phẳng, còn Dubai trải dài dọc theo bờ biển. Bầu trời trên cao gần như lúc nào cũng xanh trong vắt, không một gợn mây."
+  ],
+  "animals": [
+    "Chim ưng peregrine là loài vật được người UAE trân trọng nhất — biểu tượng sống của truyền thống Bedouin. Người nuôi chim ưng bỏ ra những khoản tiền khổng lồ để huấn luyện những thợ săn tốc độ này, có thể lao xuống với vận tốc hơn 300 km/h. Chim ưng Emirati còn được cấp hộ chiếu riêng để cùng chủ nhân bay ra nước ngoài thi đấu!",
+    "Lạc đà Ả Rập từng là phương tiện vận chuyển mọi thứ qua sa mạc. Ngày nay lạc đà được tổ chức đua ở các trường đua đặc biệt, với nài cưỡi là robot điều khiển từ xa! Dugong, cá mập voi và rùa đồi mồi cũng sinh sống trong vùng nước ấm áp và nông của Vịnh Ả Rập gần đó."
+  ],
+  "culture": [
+    "Văn hóa Emirati được xây dựng trên nền tảng lòng hiếu khách. Khách đến nhà luôn được mời qahwa — cà phê hạt bạch đậu khấu — cùng chà là ngọt. Từ chối là điều thất lễ! Trang phục truyền thống, áo dài trắng kandura của đàn ông và áo choàng đen abaya của phụ nữ, được mặc tự hào ngay cả bên trong những tòa nhà kính hiện đại.",
+    "Thơ ca là niềm đam mê quốc gia: những cuộc thi thơ truyền hình thu hút hàng triệu khán giả theo dõi. Chợ souq ngày thứ Sáu nhộn nhịp với gia vị, vàng bạc và bao câu chuyện. Những chiếc thuyền gỗ dhow truyền thống, từng dùng để lặn ngọc trai, vẫn được căng buồm trong các lễ hội di sản mỗi năm."
+  ],
+  "history": [
+    "Hàng ngàn năm qua, các bộ lạc Bedouin chăn lạc đà trên đất liền trong khi các cộng đồng ven biển lặn lấy ngọc trai ở Vịnh Ả Rập để bán sang tận Ấn Độ và châu Âu. Đầu thế kỷ 20, ngọc trai nuôi cấy giá rẻ từ Nhật Bản tràn ngập thị trường và gần như xóa sổ nghề lặn ngọc qua một đêm.",
+    "Dầu mỏ được phát hiện ở Abu Dhabi năm 1958 và tất cả thay đổi. Bảy tiểu vương quốc thống nhất thành UAE vào ngày 2 tháng 12 năm 1971. Chỉ trong 50 năm, đất nước này vươn mình từ những ngôi làng nhà bùn lên thành quốc gia có tàu thăm dò sao Hỏa và những thành phố mọc lên giữa biển."
+  ],
+  "wows": [
+    "Tòa Burj Khalifa cao 828 m — tòa nhà cao nhất Trái Đất, tầng trên cùng có thời tiết riêng biệt so với tầng dưới.",
+    "Palm Jumeirah là đảo nhân tạo hình cây cọ, được đắp bằng 94 triệu m³ cát từ lòng Vịnh Ả Rập.",
+    "UAE đến được sao Hỏa ngay lần thử đầu tiên năm 2021 — chỉ có bốn quốc gia khác từng làm được điều này.",
+    "Bảo tàng Louvre Abu Dhabi là bảo tàng nghệ thuật toàn cầu đầu tiên ở thế giới Ả Rập, lấy cảm hứng từ nguyên mẫu Paris.",
+    "UAE không đánh thuế thu nhập cá nhân — mỗi cư dân giữ trọn vẹn từng đồng Dirham kiếm được.",
+    "Chim ưng Emirati có hộ chiếu chính thức để có thể bay cùng chủ nhân ra nước ngoài đi săn.",
+    "Ski Dubai là đường trượt tuyết trong nhà thực sự với tuyết thật, nằm bên trong một trung tâm thương mại ở một trong những vùng nóng nhất Trái Đất."
+  ],
+  "myths": [
+    {
+      "myth": "\"UAE chỉ là Dubai\"",
+      "fact": "Dubai là tiểu vương quốc nổi tiếng nhất, nhưng Abu Dhabi mới là thủ đô và chiếm tới 87% diện tích cả nước. UAE có tổng cộng bảy tiểu vương quốc."
+    },
+    {
+      "myth": "\"Tất cả đều được xây bằng tiền dầu mỏ\"",
+      "fact": "Dầu mỏ từng tài trợ cho mọi thứ, nhưng ngày nay du lịch, tài chính và thương mại chiếm hơn 70% kinh tế Dubai — được xây dựng để phát triển mạnh khi dầu cạn kiệt."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "Mar-HAH-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلا وسهلا",
+      "say": "AH-lan wa-SAH-lan"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "La-DHEEZ"
+    },
+    {
+      "en": "Bình an",
+      "jp": "سلام",
+      "say": "Sa-LAM"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ae-hero.jpg",
+      "alt": "Ngước nhìn thẳng lên tòa Burj Khalifa trên nền trời xanh",
+      "caption": "BURJ KHALIFA vươn 828 m trên bầu trời Dubai — tòa nhà cao nhất Trái Đất.",
+      "credit": "Donaldytong / Wikimedia Commons CC BY-SA"
+    },
+    "landmark": {
+      "src": "/photos/ae-landmark.jpg",
+      "alt": "Thánh đường Sheikh Zayed với 82 mái vòm trắng phản chiếu trên mặt hồ",
+      "caption": "THÁNH ĐƯỜNG SHEIKH ZAYED lung linh với 82 mái vòm trắng tại Abu Dhabi.",
+      "credit": "Sergio Pessolano / Wikimedia Commons CC BY"
+    },
+    "animalA": {
+      "src": "/photos/ae-animalA.jpg",
+      "alt": "Chim ưng peregrine đậu trên cành, ánh mắt sắc bén",
+      "caption": "CHIM ƯNG PEREGRINE — quốc điểu UAE, được thuần hóa suốt hàng thế kỷ.",
+      "credit": "Quartl / Wikimedia Commons CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/ae-animalB.jpg",
+      "alt": "Đàn lạc đà bước đi trên những cồn cát vàng",
+      "caption": "LẠC ĐÀ Ả RẬP vượt sa mạc — con thuyền huyền thoại trên đại dương cát.",
+      "credit": "Berthold Werner / Wikimedia Commons CC BY-SA"
+    }
+  },
+  "theme": {
+    "paper": "#F3E8CC",
+    "dot": "#CCBA96",
+    "ink": "#2B2118",
+    "faint": "#8C7A52",
+    "line": "#DDD0B0",
+    "accent": "#007A3D",
+    "accent2": "#CE1126"
+  },
+  "motif": "chevron",
+  "langName": "tiếng Ả Rập"
+}

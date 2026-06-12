@@ -1,0 +1,163 @@
+{
+  "name": "AI CẬP",
+  "nativeName": "مصر",
+  "romaji": "MISR",
+  "tagline": "Đất của Pharaoh & dòng sông Nile",
+  "region": "Bắc Phi",
+  "coords": "26.8°N 30.8°E",
+  "fileNo": "019",
+  "langName": "tiếng Ả Rập",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#CEBA96",
+    "ink": "#241E14",
+    "faint": "#8A7A52",
+    "line": "#DDD0B0",
+    "accent": "#CE1126",
+    "accent2": "#C09300"
+  },
+  "flag": {
+    "assetPath": "/flags/eg.svg",
+    "title": "Quốc kỳ Ai Cập",
+    "note": "Ba sọc đỏ, trắng, đen; chính giữa là đại bàng vàng Saladin",
+    "keyColor": "#CE1126",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Ai Cập nằm ngay điểm giao giữa châu Phi và châu Á, nơi dòng sông Nile biến sa mạc thành đồng ruộng xanh tươi. Những kim tự tháp xây dựng cách đây 4.500 năm vẫn đứng sừng sững cao như tòa nhà 48 tầng. Hơn 107 triệu người sống ở đây, khiến Ai Cập trở thành đất nước Ả Rập đông dân nhất thế giới — nơi những kỳ quan cổ đại và những thành phố hiện đại nhộn nhịp cùng tồn tại dưới một bầu trời.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Cairo",
+      "sub": "Thành phố lớn nhất châu Phi"
+    },
+    {
+      "label": "Dân số",
+      "value": "107 triệu người",
+      "sub": "ước tính cuối năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Bảng Ai Cập",
+      "sub": "Egyptian Pound (LE)"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "Tiếng Ả Rập Ai Cập dùng hằng ngày"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.002.450 km²",
+      "sub": "Gấp 3 lần diện tích Việt Nam"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "2.629 m",
+      "sub": "Núi Catherine, bán đảo Sinai"
+    }
+  ],
+  "islands": [
+    "Cairo",
+    "Alexandria",
+    "Luxor",
+    "Aswan",
+    "Sinai"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ & VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Dòng sông giữa sa mạc",
+    "animals": "Sinh vật của cát và nước",
+    "culture": "Lễ hội, đức tin & pharaoh",
+    "history": "Câu chuyện cổ xưa nhất Trái Đất",
+    "wows": "Những điều sẽ khiến bạn ngỡ ngàng!"
+  },
+  "geo": [
+    "Ai Cập có tới 96% là sa mạc — sa mạc Sahara và sa mạc phía Đông bao phủ gần hết đất nước, chỉ để lại một dải xanh hẹp chạy dọc theo sông Nile. Dải đất nhỏ bé chỉ chiếm 5% diện tích đó nhưng là nơi gần như toàn bộ người dân Ai Cập sinh sống. Sông Nile chảy dài 6.650 km về phía bắc rồi tỏa ra thành vùng đồng bằng phì nhiêu trước khi đổ vào Địa Trung Hải.",
+    "Bán đảo Sinai nhô ra Biển Đỏ như một hình tam giác, là cây cầu nối châu Phi với châu Á. Những rạn san hô ở đây được xếp vào hàng đẹp nhất thế giới. Kênh đào Suez cắt qua phía đông bắc, cho phép tàu thuyền đi thẳng giữa hai biển — tiết kiệm hàng tuần di chuyển so với phải vòng quanh châu Phi."
+  ],
+  "animals": [
+    "Cá sấu sông Nile có thể dài tới 6 mét và từng được người Ai Cập cổ đại thờ phụng như thần Sobek. Ngày nay chúng còn sống ở hồ Nasser phía sau đập Aswan. Cò quắm linh thiêng — với cái mỏ cong màu đen — đã bị ướp xác hàng triệu con để dâng lên Thoth, thần của trí tuệ.",
+    "Cáo fennec lướt qua sa mạc Tây trên đôi tai khổng lồ giúp tỏa nhiệt trong những đêm sa mạc lạnh giá. Bọ cánh cứng scarab lăn phân thành những quả cầu tròn trịa và trở thành biểu tượng của sự tái sinh trong Ai Cập cổ đại. Bò biển dugong lặng lẽ gặm cỏ biển dưới làn nước xanh của Biển Đỏ, xa lánh mọi ồn ào."
+  ],
+  "culture": [
+    "Người Ai Cập nổi tiếng là những chủ nhà hiếu khách — từ chối thêm thức ăn khi được mời là điều hầu như không thể xảy ra. Ful medames (đậu fava hầm nhừ) và koshari (lentil, cơm, mì, sốt cà chua chua ngọt) là những món ăn hàng ngày được yêu thích từ học sinh đến những người quyền quý.",
+    "Trong tháng Ramadan, đường phố rực rỡ với những chiếc đèn lồng phát sáng gọi là fanous, và các gia đình cùng phá vỡ chay tịnh bên nhau trong bữa iftar. Thư pháp Ả Rập — những nét chữ uốn lượn, chảy mềm mại — trang trí nhà thờ Hồi giáo, thiệp cưới và cả hình xăm, được cả thế giới Ả Rập trân trọng như loại hình nghệ thuật cao quý nhất."
+  ],
+  "history": [
+    "Vị pharaoh đầu tiên của Ai Cập thống nhất đất nước vào khoảng năm 3100 trước Công nguyên — cách đây hơn 5.100 năm. Suốt 3.000 năm, các pharaoh cai trị một nền văn minh đã phát minh ra chữ viết, lịch 365 ngày và các kỹ thuật phẫu thuật tiên tiến. Kim tự tháp Lớn từng là công trình cao nhất Trái Đất trong gần 4.000 năm.",
+    "Người Hy Lạp, La Mã, Ả Rập, Ottoman và Anh lần lượt để lại dấu ấn trước khi Ai Cập giành độc lập năm 1952. Cuộc chinh phục của người Ả Rập năm 641 sau Công nguyên mang theo Hồi giáo và tiếng Ả Rập. Năm 1869, kênh đào Suez khai thông, biến Ai Cập trở thành một trong những quốc gia có vị trí chiến lược quan trọng nhất thế giới chỉ sau một đêm."
+  ],
+  "wows": [
+    "Đá trong Kim tự tháp Lớn đủ để xây một bức tường bao quanh toàn nước Pháp.",
+    "Người Ai Cập cổ đại đã phát minh ra lịch 365 ngày cách đây hơn 5.000 năm.",
+    "Tàu điện ngầm Cairo là hệ thống metro lâu đời nhất châu Phi, chở hơn 3,5 triệu hành khách mỗi ngày.",
+    "Số cột đá obelisk cổ đại hiện còn ở Rome nhiều hơn ở toàn bộ Ai Cập cộng lại.",
+    "Đồng bằng sông Nile được hình thành hoàn toàn từ bùn đất cuốn theo từ vùng Cao nguyên Ethiopia.",
+    "Pharaoh Tutankhamun lên ngôi chỉ khi mới 9 tuổi.",
+    "Ai Cập thu hoạch hơn 2 triệu tấn chà là mỗi năm — nhiều hơn bất kỳ quốc gia nào trên thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Kim tự tháp do nô lệ xây dựng",
+      "fact": "Bằng chứng khảo cổ cho thấy những người xây kim tự tháp là thợ lành nghề và công nhân được trả lương, ăn uống đầy đủ, sống trong làng riêng có cả dịch vụ y tế — hoàn toàn không phải nô lệ."
+    },
+    {
+      "myth": "Ai Cập chỉ là sa mạc hoang vu",
+      "fact": "Ai Cập có đồng bằng sông Nile xanh tốt, bãi biển Địa Trung Hải, những rạn san hô Biển Đỏ tuyệt đẹp và Cairo — thành phố 20 triệu người tràn ngập ẩm thực, âm nhạc và lịch sử."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Đúng rồi",
+      "jp": "أيوه",
+      "say": "AY-wah"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/eg-hero.jpg",
+      "alt": "Quần thể kim tự tháp Giza sừng sững giữa bầu trời sa mạc",
+      "caption": "KIM TỰ THÁP GIZA — kỳ quan duy nhất trong Bảy Kỳ Quan Thế Giới Cổ Đại còn tồn tại đến nay",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/eg-landmark.jpg",
+      "alt": "Tượng Nhân Sư khổng lồ nhìn về phía đông trên cao nguyên Giza",
+      "caption": "TƯỢNG NHÂN SƯ — được tạc từ một khối đá vôi nguyên vẹn vào khoảng năm 2500 trước Công nguyên",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/eg-animalA.jpg",
+      "alt": "Cận cảnh một con cá sấu sông Nile",
+      "caption": "CÁ SẤU SÔNG NILE — gã khổng lồ bọc giáp của dòng sông, từng được thờ như thần Sobek",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/eg-animalB.jpg",
+      "alt": "Cáo fennec với đôi tai to bất thường giữa sa mạc",
+      "caption": "CÁO FENNEC — đôi tai khổng lồ giúp tỏa nhiệt trong những đêm sa mạc nóng bỏng của Ai Cập",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

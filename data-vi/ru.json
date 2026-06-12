@@ -1,0 +1,163 @@
+{
+  "name": "NGA",
+  "nativeName": "Россия",
+  "romaji": "ROSSIYA",
+  "tagline": "Đất nước rộng lớn nhất thế giới",
+  "region": "Đông Âu & Bắc Á",
+  "coords": "61°N, 105°E",
+  "fileNo": "043",
+  "langName": "tiếng Nga",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#EEE8DC",
+    "dot": "#CFC5B0",
+    "ink": "#25201C",
+    "faint": "#8A7E68",
+    "line": "#DDD5C2",
+    "accent": "#CC2B2B",
+    "accent2": "#1C3F8C"
+  },
+  "flag": {
+    "assetPath": "/flags/ru.svg",
+    "title": "Quốc kỳ ba sọc của Nga",
+    "note": "Trắng, xanh & đỏ — từ thời Sa hoàng Peter Đại đế",
+    "keyColor": "#CC2B2B",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Nước Nga trải dài qua 11 múi giờ khác nhau — khi các bạn nhỏ ở Mát-xcơ-va đang ăn sáng, những đứa trẻ ở bờ biển Thái Bình Dương đã sắp đi ngủ rồi! Đây là đất nước lớn nhất hành tinh — rộng gần bằng hai lần nước Mỹ cộng lại. Nga có hồ nước ngọt sâu nhất thế giới, những cánh rừng bạt ngàn bí ẩn, và những thành phố lộng lẫy với mái vòm vàng chói cạnh bảo tàng tên lửa.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Mát-xcơ-va",
+      "sub": "13 triệu dân — thành phố lớn nhất châu Âu"
+    },
+    {
+      "label": "Dân số",
+      "value": "144 triệu người",
+      "sub": "Ước tính 2024, đông thứ 9 thế giới"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Rúp (₽)",
+      "sub": "1 rúp = 100 kopek"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Nga",
+      "sub": "Viết bằng bảng chữ cái Cyrillic"
+    },
+    {
+      "label": "Diện tích",
+      "value": "17,1 triệu km²",
+      "sub": "Quốc gia rộng nhất trái đất"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Elbrus",
+      "sub": "5.642 m — đỉnh núi cao nhất châu Âu"
+    }
+  ],
+  "islands": [
+    "Siberia",
+    "The Urals",
+    "Moscow",
+    "St Pete's",
+    "Kamchatka"
+  ],
+  "islandsLabel": "CÁC VÙNG & THÀNH PHỐ LỚN:",
+  "sections": {
+    "geography": "Rừng taiga, hồ sâu & núi lửa",
+    "animals": "Gấu nâu, hổ Amur & cáo tuyết trắng",
+    "culture": "Mái vòm vàng, múa ballet & giấc mơ vũ trụ",
+    "history": "Sa hoàng, cách mạng & vệ tinh đầu tiên",
+    "wows": "Những điều bất ngờ về nước Nga"
+  },
+  "geo": [
+    "Nước Nga trải qua 11 múi giờ và chiếm một phần tám tổng diện tích đất liền của cả trái đất. Từ đồng bằng phía tây, địa hình dâng cao dần lên dãy Ural — ranh giới tự nhiên phân chia châu Âu và châu Á — rồi mở ra vùng taiga Siberia mênh mông, cánh rừng rộng lớn nhất thế giới.",
+    "Hồ Baikal chứa khoảng một phần năm toàn bộ lượng nước ngọt không đóng băng trên trái đất, với độ sâu lên tới 1.642 m — sâu hơn cả tòa nhà cao nhất thế giới! Ở vùng viễn đông, bán đảo Kamchatka có hơn 160 ngọn núi lửa, trong đó khoảng 29 ngọn vẫn còn hoạt động."
+  ],
+  "animals": [
+    "Nga là quê hương của hổ Amur — loài mèo hoang lớn nhất thế giới, sống ẩn mình trong những rừng bạch dương ở vùng viễn đông. Gấu nâu là biểu tượng không chính thức của đất nước này — số lượng gấu nhiều hơn hổ hàng chục nghìn con.",
+    "Cáo Bắc Cực có bộ lông đổi sang màu trắng tinh khiết vào mùa đông để ngụy trang trên tuyết. Hải cẩu nerpa ở hồ Baikal là loài hải cẩu nước ngọt duy nhất trên thế giới — không nơi nào khác có được."
+  ],
+  "culture": [
+    "Người Nga rất tự hào về nghệ thuật của mình. Nhà hát múa ballet Bolshoi đã mê hoặc khán giả suốt 250 năm, và nhạc sĩ Tchaikovsky đã tặng cho thế giới vở ballet Hồ Thiên Nga bất hủ. Búp bê Matryoshka lồng vào nhau là một trong những món đồ thủ công được nhận ra nhiều nhất trên toàn cầu.",
+    "Ẩm thực Nga rất đậm đà và no bụng: súp củ dền borscht, bánh kếp blini và bánh bao nhân thịt pelmeni giúp người dân chống chọi qua những mùa đông dài giá lạnh. Một tách trà nóng từ bình đun samovar là trung tâm của mọi buổi sum họp gia đình Nga."
+  ],
+  "history": [
+    "Nước Nga khởi đầu từ những thành bang Slavic thời trung cổ. Ivan Hung đế trở thành vị sa hoàng đầu tiên vào năm 1547, rồi Peter Đại đế xây dựng Saint Petersburg từ đầm lầy hoang vu, dùng ý chí sắt đá để kéo đất nước bước vào thời đại hiện đại.",
+    "Cuộc Cách mạng năm 1917 lật đổ chế độ sa hoàng và tạo ra Liên Xô. Năm 1957, Liên Xô phóng vệ tinh Sputnik — vệ tinh nhân tạo đầu tiên trong lịch sử loài người lên quỹ đạo. Và năm 1961, phi hành gia Yuri Gagarin trở thành người đầu tiên bay vào vũ trụ. Liên Xô tan rã vào năm 1991."
+  ],
+  "wows": [
+    "Nga có 11 múi giờ — nhiều hơn bất kỳ quốc gia nào khác trên trái đất.",
+    "Một mình hồ Baikal đã chứa 20% tổng lượng nước ngọt không đóng băng của toàn thế giới.",
+    "Tuyến đường sắt Xuyên Siberia dài 9.289 km — tuyến đường sắt dài nhất hành tinh.",
+    "Phi hành gia Yuri Gagarin là người đầu tiên trong lịch sử loài người bay vào vũ trụ, tháng 4 năm 1961.",
+    "Nga có 32 Di sản Thế giới UNESCO, từ điện Kremlin đến hồ Baikal.",
+    "Rừng taiga Siberia rộng đến mức đôi khi được gọi là \"lá phổi của hành tinh\".",
+    "Các ga tàu điện ngầm ở Mát-xcơ-va được trang trí bằng đèn chùm và đá cẩm thạch lộng lẫy — người ta gọi là \"cung điện của nhân dân\"."
+  ],
+  "myths": [
+    {
+      "myth": "Nước Nga lúc nào cũng đóng băng và phủ đầy tuyết",
+      "fact": "Miền nam nước Nga có mùa hè khá ấm áp — Mát-xcơ-va đạt tới 25°C vào tháng 7, còn bờ biển Biển Đen là điểm nghỉ dưỡng tắm biển được yêu thích."
+    },
+    {
+      "myth": "Gấu đi lang thang trên đường phố các thành phố Nga",
+      "fact": "Gấu nâu sống sâu trong những khu rừng hẻo lánh, rất xa các thành phố. Người thành phố ở Nga gặp bồ câu còn thường xuyên hơn gặp gấu gấp nhiều lần."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Привет",
+      "say": "Pree-VYET"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Спасибо",
+      "say": "Spa-SEE-ba"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Пожалуйста",
+      "say": "Pa-ZHAL-sta"
+    },
+    {
+      "en": "Có / Đúng rồi",
+      "jp": "Да",
+      "say": "Da"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "Вкусно!",
+      "say": "VKOOS-na"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/ru-hero.jpg",
+      "alt": "Các tòa nhà chọc trời khu Moscow City bên dòng sông Moskva lúc hoàng hôn",
+      "caption": "MOSCOW CITY — những tháp kính lung linh bên sông Moskva lúc hoàng hôn",
+      "credit": "Wikimedia Commons / Sergei Korolev"
+    },
+    "landmark": {
+      "src": "/photos/ru-landmark.jpg",
+      "alt": "Nhà thờ Thánh Basil với những mái vòm hành tây sặc sỡ nhiều màu trên Quảng trường Đỏ ở Mát-xcơ-va",
+      "caption": "NHÀ THỜ THÁNH BASIL — những mái vòm rực rỡ như kẹo ngọt trên Quảng trường Đỏ",
+      "credit": "Wikimedia Commons / Ludvig14"
+    },
+    "animalA": {
+      "src": "/photos/ru-animalA.jpg",
+      "alt": "Hổ Amur nằm nghỉ, bộ lông vằn cam trắng dày dặn nổi bật",
+      "caption": "HỔ AMUR — loài mèo hoang lớn nhất thế giới, đến từ vùng viễn đông nước Nga",
+      "credit": "Wikimedia Commons / Dave Pape"
+    },
+    "animalB": {
+      "src": "/photos/ru-animalB.jpg",
+      "alt": "Hải cẩu Baikal đang nghỉ ngơi trên tảng đá ở hồ Baikal",
+      "caption": "HẢI CẨU BAIKAL — loài hải cẩu nước ngọt duy nhất trên thế giới, chỉ có ở hồ Baikal",
+      "credit": "Wikimedia Commons / Sergey Gabdurakhmanov"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "TUNISIA",
+  "nativeName": "تونس",
+  "romaji": "TUNIS",
+  "tagline": "Nơi sa mạc gặp biển xanh",
+  "region": "Bắc Phi",
+  "coords": "33.89°N, 9.54°E",
+  "fileNo": "088",
+  "langName": "tiếng Ả Rập",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD8",
+    "dot": "#D4C09A",
+    "ink": "#2A2018",
+    "faint": "#8A7455",
+    "line": "#E0CFA8",
+    "accent": "#E70013",
+    "accent2": "#FFFFFF"
+  },
+  "flag": {
+    "assetPath": "/flags/tn.svg",
+    "title": "Cờ Tunisia",
+    "note": "Lưỡi liềm và ngôi sao đỏ trên hình tròn trắng",
+    "keyColor": "#E70013",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tunisia là mảnh đất nắng vàng nơi cồn cát Sahara chạm vào bờ biển Địa Trung Hải xanh biếc. Nơi đây có những di tích La Mã hàng nghìn năm tuổi và các khu phố cổ thơm ngát hoa nhài cùng hương vị gia vị. Đặc biệt, năm 2011, người dân Tunisia đã ôn hòa lật đổ chính phủ của mình — đất nước Ả Rập đầu tiên làm được điều đó — truyền cảm hứng thay đổi khắp cả vùng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tunis",
+      "sub": "Khu đô thị ~2,7 triệu người"
+    },
+    {
+      "label": "Dân số",
+      "value": "12,1 triệu",
+      "sub": "Ước tính 2024, chủ yếu người Ả Rập-Berber"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dinar (TND)",
+      "sub": "1 dinar = 1.000 millime"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Tiếng Ả Rập địa phương; tiếng Pháp cũng phổ biến"
+    },
+    {
+      "label": "Diện tích",
+      "value": "163.610 km²",
+      "sub": "Gần bằng diện tích bang Georgia, Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Jebel Chambi",
+      "sub": "1.544 m — đỉnh núi phủ đầy rừng"
+    }
+  ],
+  "islands": [
+    "Tunis",
+    "Sfax",
+    "Sousse",
+    "Kairouan",
+    "Djerba"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Sa mạc, biển xanh và đồi núi",
+    "animals": "Sinh vật vùng cát và bờ biển",
+    "culture": "Phố cổ, trà bạc hà và Star Wars",
+    "history": "Từ Carthage đến Mùa Xuân Ả Rập",
+    "wows": "Bảy điều kỳ diệu"
+  },
+  "geo": [
+    "Tunisia có hình dáng trông như một cái tai. Phía bắc xanh mướt và đồi núi trùng điệp, phủ đầy những vườn ô-liu và cánh đồng lúa mì, với 1.300 km bờ biển Địa Trung Hải có bãi cát trắng và nước biển xanh ngắt.",
+    "Đi về phía nam, địa hình chuyển dần sang hồ muối Chott el-Djerid — một hồ mênh mông lấp lánh như gương — rồi sa mạc Sahara bắt đầu, với những cồn cát cam khổng lồ gần Douz nơi lạc đà bước thong thả trong ánh hoàng hôn."
+  ],
+  "animals": [
+    "Vịnh Gabès nông cạn là nơi nuôi dưỡng bạch tuộc, cá tráp và rùa biển lưng da quý hiếm đang nguy cấp — chúng đẻ trứng trên những bãi biển vắng vẻ. Mỗi mùa đông, hàng nghìn con hồng hạc hồng hào lội bì bõm trong các đầm ven biển.",
+    "Trong rừng cây thông chai ở miền bắc, lợn rừng và hươu đỏ Barbary được tái thả về hoang dã sống ẩn mình trong bụi rậm. Vào ban đêm, linh cẩu có sọc và cáo fennec — với đôi tai to như chảo thu sóng — lặng lẽ săn mồi ở rìa sa mạc."
+  ],
+  "culture": [
+    "Ẩm thực Tunisia cay nồng và thơm phức. Harissa — một loại tương ớt đỏ gạch làm từ ớt khô, tỏi và cumin — được dùng với hầu hết mọi món. Bữa sáng đặc trưng là brik: bánh phồng giòn rụm với trứng lòng đào bên trong, phải ăn nhanh kẻo chảy tràn.",
+    "Âm nhạc Tunisia pha trộn tiếng đàn Andalusia, nhạc cụ gõ Berber và nhạc pop hiện đại thành phong cách gọi là malouf. Khu phố cổ có tường bao của Tunis là mê cung chợ trời được UNESCO công nhận, bán nước hoa, đèn lồng đồng và thảm dệt. Hành tinh Tatooine trong bộ phim Star Wars cũng được quay tại đây!"
+  ],
+  "history": [
+    "Carthage, được thành lập gần Tunis ngày nay vào khoảng năm 814 trước Công nguyên, từng là một trong những thành phố hùng mạnh nhất thế giới cổ đại. Tướng quân Hannibal đã dẫn đoàn voi chiến vượt dãy Alps để tấn công Rome — một chiến tích không ai dám ngờ tới. Cuối cùng Rome thắng, san phẳng Carthage rồi xây dựng lại thành một thành phố nguy nga.",
+    "Người Ả Rập mang đạo Hồi đến vào thế kỷ 7; tiếp theo là thời Ottoman rồi đến thực dân Pháp năm 1881. Độc lập đến năm 1956. Năm 2011, cuộc phản kháng của người bán hàng rong Mohamed Bouazizi châm ngòi Cách mạng Hoa Nhài, khơi dậy làn sóng Mùa Xuân Ả Rập trên khắp khu vực."
+  ],
+  "wows": [
+    "Tunisia thu hoạch dầu ô-liu từ những cây hơn 2.000 năm tuổi và xuất khẩu khoảng 1,8 tỷ lít mỗi năm.",
+    "Làng Matmata được xây hoàn toàn dưới lòng đất — người dân khoét nhà vào đá, và nơi đây đóng vai hành tinh của Luke Skywalker trong Star Wars.",
+    "Hồ muối Chott el-Djerid bằng phẳng đến mức nhìn từ trên cao trông như một tấm gương bạc khổng lồ.",
+    "Tunisia xóa bỏ chế độ nô lệ năm 1846 — gần 20 năm trước Mỹ!",
+    "Bảo tàng Bardo lưu giữ bộ sưu tập tranh ghép đá mosaic La Mã lớn nhất thế giới.",
+    "Khu phố cổ Tunis chứa hơn 700 công trình lịch sử trong những con hẻm hẹp đến mức không có xe hơi nào lọt vào được.",
+    "Carthage bị phá hủy triệt để đến mức người La Mã tương truyền đã cày muối xuống tận những đống đổ nát."
+  ],
+  "myths": [
+    {
+      "myth": "Tunisia toàn là sa mạc",
+      "fact": "Chỉ có một phần ba phía nam mới là Sahara. Miền bắc có đồi xanh, rừng thông chai, sông ngòi và bờ biển Địa Trung Hải ôn hòa — trông giống miền nam nước Ý hơn là cồn cát."
+    },
+    {
+      "myth": "Harissa chỉ là tương ớt thông thường",
+      "fact": "Harissa thật sự là hỗn hợp ớt khô nướng chậm, tỏi, cumin và ngò — mỗi gia đình có công thức riêng, tạo ra hương vị phức tạp và đậm đà hơn tương ớt thông thường rất nhiều."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "أهلاً",
+      "say": "AH-hlan"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHOOK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "بنين",
+      "say": "ba-NEEN"
+    },
+    {
+      "en": "Bao nhiêu?",
+      "jp": "قداش؟",
+      "say": "GAD-daysh"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/tn-hero.jpg",
+      "alt": "Nhìn từ trên cao khu phố cổ Tunis lúc hoàng hôn",
+      "caption": "PHỐ CỔ TUNIS — thành phố cổ có tường bao tỏa sắc vàng lúc mặt trời lặn",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/tn-landmark.jpg",
+      "alt": "Đấu trường La Mã El Djem khổng lồ sừng sững trên vùng đồng bằng Tunisia",
+      "caption": "ĐẤU TRƯỜNG EL DJEM — đấu trường lớn thứ ba thời La Mã, vẫn đứng vững sau 1.800 năm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/tn-animalA.jpg",
+      "alt": "Cáo fennec với đôi tai khổng lồ ngồi trên cát sa mạc màu vàng nhạt",
+      "caption": "CÁO FENNEC — đôi tai siêu to giúp tản nhiệt và nghe thấy cả tiếng bọ cánh cứng chui dưới cát",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/tn-animalB.jpg",
+      "alt": "Đàn hồng hạc hồng hào lội trong đầm ven biển nông của Tunisia",
+      "caption": "HỒNG HẠC — hàng nghìn con qua đông mỗi năm ở các đầm muối ven biển Tunisia",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "ALGERIA",
+  "nativeName": "DZ",
+  "romaji": "AL-JAZAIR",
+  "tagline": "Gã khổng lồ sa mạc ở phương Bắc",
+  "region": "Bắc Phi",
+  "coords": "28.0°N, 2.5°E",
+  "fileNo": "DZ",
+  "langName": "tiếng Ả Rập",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EDD9",
+    "dot": "#CDBF9E",
+    "ink": "#1E1A14",
+    "faint": "#7A6E52",
+    "line": "#DDD0B0",
+    "accent": "#006233",
+    "accent2": "#D21034"
+  },
+  "flag": {
+    "assetPath": "/flags/dz.svg",
+    "title": "Quốc kỳ Algeria",
+    "note": "Xanh lá & trắng với trăng lưỡi liềm và ngôi sao đỏ",
+    "keyColor": "#006233",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Algeria là nước lớn nhất châu Phi — rộng đến mức gộp toàn bộ Tây Âu lại cũng chưa bằng! Gần như cả đất nước là sa mạc Sahara bao la với những đụn cát, đồng đá và ốc đảo rợp bóng cọ chà là. Nhưng ở miền Bắc, bờ Địa Trung Hải xanh biếc ôm lấy những cánh đồng lúa mì và vườn ô liu xanh mướt. Thủ đô Algiers được gọi là \"Thành phố Trắng\" vì những ngôi nhà trên đồi sáng lên chói lọi dưới nắng.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Algiers",
+      "sub": "Khoảng 3,8 triệu người (ước tính 2024)"
+    },
+    {
+      "label": "Dân số",
+      "value": "45,6 triệu người",
+      "sub": "Ước tính 2023"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dinar (DZD)",
+      "sub": "1 USD ≈ 134 DZD"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Ả Rập",
+      "sub": "Tiếng Tamazight cũng là ngôn ngữ chính thức"
+    },
+    {
+      "label": "Diện tích",
+      "value": "2.381.741 km²",
+      "sub": "Lớn nhất châu Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Tahat 2.908m",
+      "sub": "Dãy núi Ahaggar, giữa lòng Sahara"
+    }
+  ],
+  "islands": [
+    "Algiers",
+    "Oran",
+    "Constantine",
+    "Tamanrasset",
+    "Tlemcen"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Biển cát và đá vô tận",
+    "animals": "Sinh vật của sa mạc",
+    "culture": "Couscous, thảm dệt và khu phố cổ",
+    "history": "Đế chế, cướp biển và tự do",
+    "wows": "Ôi trời — bạn có biết không?"
+  },
+  "geo": [
+    "Đến 90% diện tích Algeria là sa mạc Sahara — sa mạc nóng lớn nhất Trái Đất. Nhưng phần lớn không phải là đụn cát như ta hay tưởng, mà là những vùng đất đá cuội và đá trọc rộng mênh mông gọi là 'reg'. Chỉ ở miền Bắc, các con sông mới tưới tắm dải bờ biển xanh tươi với ruộng lúa mì và vườn nho trải dài.",
+    "Giữa lòng Sahara, dãy núi Ahaggar vươn cao như một cảnh quan mặt trăng với những trụ đá núi lửa kỳ vĩ hàng triệu năm tuổi. Ở miền Bắc, rừng tuyết tùng trên dãy Atlas và hẻm núi Chiffa là nơi những chú khỉ Barbary ngồi bên đường nhìn xe cộ qua lại — vui như xem xiếc!"
+  ],
+  "animals": [
+    "Cáo fennec — loài cáo hoang dã nhỏ nhất thế giới — có đôi tai to đến mức có thể nghe thấy tiếng bọ cánh cứng bò dưới cát trong đêm tối! Linh dương addax duyên dáng vượt qua những đụn cát trống trải, còn mèo cát với bàn chân to bẹt lặng lẽ đi săn khi trời tối.",
+    "Khỉ Barbary sống trong rừng tuyết tùng Atlas. Rắn viper có sừng trườn ngoằn ngoèo trên đá sa mạc, báo gêpa Sahara cực hiếm vẫn còn lang thang ở miền Nam xa xôi, và mỗi mùa thu chim hồng hạc lại bay về tụ hội thành đàn đông đảo trên các hồ muối phía Bắc."
+  ],
+  "culture": [
+    "Người Algeria yêu thích couscous — những hạt bột mì hấp mềm ăn cùng thịt cừu, rau củ và gia vị thơm nức. Thứ Sáu là ngày sum họp gia đình: mâm cơm đầy xúc xích merguez, tương harissa cay thơm và bánh ngọt hạnh nhân thấm mật ong vàng óng.",
+    "Thảm dệt tay của người Berber từ vùng Ghardaïa rực rỡ với những hoa văn kim cương hình học đậm màu. Nhạc raï — dòng nhạc pop sâu lắng pha giữa lời ca tiếng Ả Rập và guitar điện — ra đời ở Oran rồi lan khắp thế giới. Khu phố cổ casbah của Algiers là mê cung được UNESCO công nhận với những bậc thang trắng và cổng vòm đẹp mê hồn."
+  ],
+  "history": [
+    "Algeria là quê hương của người Berber (Amazigh) từ hơn 10.000 năm trước. Người Phoenicia xây dựng các thành phố ven biển; người La Mã để lại Timgad hùng vĩ — một thành phố hoàn chỉnh vẫn đứng vững giữa sa mạc đến tận ngày nay. Rồi người Ottoman đến cai trị, mang theo những đội thuyền cướp biển khiến các vua chúa châu Âu phải run sợ.",
+    "Pháp chiếm đóng Algeria từ năm 1830. Sau tám năm kháng chiến giành độc lập kiên cường và khốc liệt — một trong những cuộc đấu tranh được ca ngợi nhất lịch sử — Algeria chính thức tự do vào ngày 5 tháng 7 năm 1962, ngày lễ tự hào nhất trên tất cả mọi tờ lịch."
+  ],
+  "wows": [
+    "Algeria rộng hơn toàn bộ Tây Âu cộng lại.",
+    "Tranh đá ở Tassili n'Ajjer vẽ voi đang sống ở nơi mà bây giờ chỉ có cát sa mạc bay.",
+    "Dầu mỏ và khí đốt chiếm khoảng 95% thu nhập xuất khẩu của Algeria.",
+    "Thành phố La Mã Timgad bị cát Sahara chôn vùi suốt 1.000 năm rồi mới được khám phá lại.",
+    "Cướp biển Algeria từng đột kích tận Iceland vào năm 1627 — cách nửa vòng Trái Đất!",
+    "Algeria có bảy di sản thế giới được UNESCO công nhận.",
+    "Cáo fennec không bao giờ cần uống nước — nó lấy đủ nước từ côn trùng và rễ cây sa mạc."
+  ],
+  "myths": [
+    {
+      "myth": "Algeria chỉ toàn là đụn cát bát ngát",
+      "fact": "Thực ra chỉ khoảng 25% sa mạc Sahara của Algeria là cát. Phần lớn là đồng đá cuội phẳng hoặc đá núi lửa trọc, và miền Bắc có rừng rậm cùng bờ Địa Trung Hải xanh mướt."
+    },
+    {
+      "myth": "Không có sinh vật nào sống được trong Sahara",
+      "fact": "Hơn 70 loài thú, 100 loài bò sát và 300 loài chim đang sống sót trên sa mạc Algeria nhờ biết trú bóng mát, hoạt động ban đêm và tích trữ nước tài tình."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكراً",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "نعم",
+      "say": "NA-am"
+    },
+    {
+      "en": "Bánh mì",
+      "jp": "خبز",
+      "say": "KHU-bz"
+    },
+    {
+      "en": "Chào mừng",
+      "jp": "أهلاً",
+      "say": "AH-lan"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/dz-hero.jpg",
+      "alt": "Thành phố Algiers nhìn từ Địa Trung Hải, những ngôi nhà trắng trải dài lên sườn đồi",
+      "caption": "ALGIERS — Thành phố Trắng vươn lên sườn đồi nhìn ra Địa Trung Hải",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/dz-landmark.jpg",
+      "alt": "Nhìn từ trên cao xuống phế tích La Mã Timgad với những con phố ô vuông giữa sa mạc",
+      "caption": "TIMGAD — thành phố La Mã với lưới đường ô vuông bị cát Sahara chôn vùi 1.000 năm",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/dz-animalA.jpg",
+      "alt": "Cáo fennec với đôi tai khổng lồ ngồi trên cát",
+      "caption": "CÁO FENNEC — tai to khổng lồ để nghe mồi dưới lòng đất và tản nhiệt giữa sa mạc",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/dz-animalB.jpg",
+      "alt": "Khỉ Barbary ngồi trong rừng tuyết tùng ở Algeria",
+      "caption": "KHỈ BARBARY — chú linh trưởng tinh nghịch của Algeria sống trong rừng tuyết tùng Atlas",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

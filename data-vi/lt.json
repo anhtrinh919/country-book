@@ -1,0 +1,163 @@
+{
+  "name": "LITHUANIA",
+  "nativeName": "LT",
+  "romaji": "LIETUVA",
+  "tagline": "Tâm hồn Baltic, bờ biển hổ phách",
+  "region": "Bắc Âu",
+  "coords": "55.17°N, 23.88°E",
+  "fileNo": "073",
+  "langName": "tiếng Lithuania",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EDD8",
+    "dot": "#C9BC9A",
+    "ink": "#252018",
+    "faint": "#857A55",
+    "line": "#DDD5B8",
+    "accent": "#FDB913",
+    "accent2": "#006A44"
+  },
+  "flag": {
+    "assetPath": "/flags/lt.svg",
+    "title": "Trispalvė",
+    "note": "Vàng, xanh lá & đỏ — mặt trời, rừng cây, dũng cảm",
+    "keyColor": "#FDB913",
+    "mastheadMotif": "clipped-flag"
+  },
+  "lead": "Lithuania là nước lớn nhất trong ba quốc gia Baltic bên bờ biển Baltic — và các nhà khoa học đã tính toán rằng đúng trung tâm của châu Âu nằm ngay phía bắc thủ đô Vilnius. Những cánh rừng dày đặc, bãi biển hổ phách lấp lánh, một tòa lâu đài đỏ như trong chuyện cổ tích dựng trên đảo giữa hồ, và ngọn đồi thánh giá nhiều nhất thế giới — tất cả làm nên một đất nước nhỏ bé nhưng đầy điều kỳ diệu.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Vilnius",
+      "sub": "dân số ~610.000 người"
+    },
+    {
+      "label": "Dân số",
+      "value": "2,83 triệu người",
+      "sub": "ước tính 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Euro (€)",
+      "sub": "dùng từ tháng 1/2015"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Lithuania",
+      "sub": "ngôn ngữ Ấn-Âu cổ nhất còn tồn tại"
+    },
+    {
+      "label": "Diện tích",
+      "value": "65.300 km²",
+      "sub": "hơi lớn hơn Ireland một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "294 m",
+      "sub": "Đồi Aukštojas, đông nam Lithuania"
+    }
+  ],
+  "islands": [
+    "Vilnius",
+    "Kaunas",
+    "Klaipėda",
+    "Šiauliai",
+    "Panevėžys"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Rừng, đồi cát & đầm phá",
+    "animals": "Cò trắng, sói & bò rừng châu Âu",
+    "culture": "Hổ phách, tiếng hát & bóng rổ",
+    "history": "Từ đại công quốc đến tự do",
+    "wows": "Những điều kỳ lạ của Lithuania"
+  },
+  "geo": [
+    "Lithuania gần như hoàn toàn bằng phẳng — ngọn đồi cao nhất chỉ bằng một tòa nhà 90 tầng. Nửa đất nước là rừng, và hơn 3.000 hồ cùng những dòng sông chảy khắp nơi. Điều thú vị là các nhà khoa học đã xác định chính xác trung tâm của cả châu Âu nằm cách thủ đô Vilnius chỉ 26 km về phía bắc!",
+    "Dọc bờ biển, dải đất Curonian Spit là một dải cát hẹp dài tới 98 km chạy dọc theo biển Baltic, một bên là vùng đầm phá yên tĩnh, một bên là những đồi cát khổng lồ cứ dịch chuyển theo gió. Khu vực này được UNESCO công nhận là Di sản Thế giới."
+  ],
+  "animals": [
+    "Chim cò trắng là quốc điểu của Lithuania, và đất nước này có nhiều tổ cò trên mỗi kilômét vuông hơn hầu hết nơi nào trên Trái Đất. Mỗi mùa xuân, hàng nghìn con cò từ châu Phi bay về, đậu làm tổ trên mái nhà và cột điện. Trong các cánh rừng sâu, những con sói vẫn lang thang tự do.",
+    "Bò rừng châu Âu — loài động vật trên cạn nặng nhất châu Âu, từng suýt tuyệt chủng — đã được đưa trở lại rừng Lithuania và nay tự do gặm cỏ. Hải ly cũng hồi sinh mạnh mẽ, xây đập khắp nơi và biến đổi dòng chảy của nhiều con sông."
+  ],
+  "culture": [
+    "Người Lithuania vô cùng đam mê ca hát và bóng rổ. Cứ bốn năm một lần, cả nước tổ chức Đại hội Ca nhạc khổng lồ, nơi hàng chục nghìn người cùng nhau biểu diễn. Các cầu thủ bóng rổ Lithuania được tôn vinh như những anh hùng dân tộc — đội tuyển quốc gia từng giành tới ba huy chương đồng Olympic.",
+    "Hổ phách là kho báu của Lithuania. Tới 80% lượng hổ phách của toàn thế giới trôi dạt vào bờ biển Baltic, và người Lithuania đã khéo léo chạm khắc chúng suốt 4.000 năm qua. Lễ hội mùa hè Joninės thắp lửa trại trong đêm ngắn nhất năm, tiếp nối truyền thống tín ngưỡng dân gian từ hàng nghìn năm trước."
+  ],
+  "history": [
+    "Một thời Lithuania là đất nước lớn nhất châu Âu. Vào thế kỷ 14, Đại Công quốc Lithuania trải dài từ biển Baltic gần tới tận Biển Đen — rộng hơn cả Việt Nam ngày nay nhiều lần! Vua Mindaugas là người đã thống nhất các bộ tộc năm 1253 và cho đến nay vẫn là vị vua duy nhất được phong tước chính thức trong lịch sử Lithuania.",
+    "Sau thời kỳ bị Liên Xô cai trị, Lithuania trở thành nước Cộng hòa Xô viết đầu tiên tuyên bố độc lập vào năm 1990. Sau đó, hai triệu người đã xếp thành một hàng dài 675 km nối liền Vilnius với Tallinn — một cuộc biểu tình hòa bình mang tên \"Con đường Baltic\" để đòi lại tự do."
+  ],
+  "wows": [
+    "Đúng trung tâm của châu Âu là một cột đá granit có ngôi sao vàng, nằm ngay phía bắc Vilnius.",
+    "Xe ủi Liên Xô từng san phẳng Đồi Thánh Giá ba lần — người Lithuania lại bí mật xây lại từ đầu mỗi lần.",
+    "Tiếng Lithuania cổ đến mức các nhà ngôn ngữ học dùng nó để giải mã âm thanh của tiếng Sanskrit 3.500 năm tuổi.",
+    "Tại Olympic 1992, đội bóng rổ Lithuania mặc áo tie-dye hình bộ xương được ban nhạc Grateful Dead tài trợ khi nhận huy chương đồng.",
+    "Lithuania kiểm soát hơn nửa thị trường laser khoa học siêu nhanh toàn cầu — loại được dùng tại CERN và NASA.",
+    "Những đồi cát trên dải Curonian Spit dịch chuyển tới 10 mét mỗi năm, từ từ nuốt chửng cả khu rừng phía sau.",
+    "Khu phố cổ Vilnius là một trong những trung tâm thành phố trung cổ còn tồn tại lớn nhất ở Bắc Âu."
+  ],
+  "myths": [
+    {
+      "myth": "Lithuania thuộc Đông Âu",
+      "fact": "Về mặt địa lý, Lithuania nằm ở Bắc Âu — và điểm trung tâm chính xác của lục địa châu Âu nằm ngay phía bắc Vilnius, không phải ở phía đông."
+    },
+    {
+      "myth": "Người Lithuania nói một ngôn ngữ Slavic",
+      "fact": "Tiếng Lithuania là ngôn ngữ Baltic, hoàn toàn tách biệt với tiếng Nga hay tiếng Ba Lan, và là một trong những ngôn ngữ Ấn-Âu cổ nhất còn được sử dụng đến ngày nay."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Labas",
+      "say": "LAH-bahs"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Ačiū",
+      "say": "AH-choo"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Prašau",
+      "say": "prah-SHOW"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Viso gero",
+      "say": "VEE-so GEH-ro"
+    },
+    {
+      "en": "Đẹp quá!",
+      "jp": "Gražu",
+      "say": "GRAH-zhoo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lt-hero.jpg",
+      "alt": "Nhìn từ trên cao xuống mái nhà và tháp chuông khu phố cổ Vilnius",
+      "caption": "KHU PHỐ CỔ VILNIUS — mái đỏ và tháp Baroque ngay giữa trái tim châu Âu",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lt-landmark.jpg",
+      "alt": "Hàng nghìn cây thánh giá phủ kín Đồi Thánh Giá ở Lithuania",
+      "caption": "ĐỒI THÁNH GIÁ — hơn 100.000 cây thánh giá do khách hành hương cắm gần Šiauliai",
+      "credit": "Wikimedia Commons / Avi1111"
+    },
+    "animalA": {
+      "src": "/photos/lt-animalA.jpg",
+      "alt": "Cò trắng đứng trên đồng cỏ xanh",
+      "caption": "CÒ TRẮNG — quốc điểu của Lithuania, mỗi mùa xuân lại trở về làm tổ trên mái nhà",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lt-animalB.jpg",
+      "alt": "Bò rừng châu Âu đứng giữa khoảng trống trong rừng",
+      "caption": "BÒ RỪNG CHÂU ÂU — từng suýt tuyệt chủng, nay tự do sống trong rừng Lithuania",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "MALAWI",
+  "nativeName": "MW",
+  "romaji": "MALAWI",
+  "tagline": "Trái tim ấm áp của châu Phi",
+  "region": "Nam Phi",
+  "coords": "13.9°S, 33.7°E",
+  "fileNo": "082",
+  "langName": "tiếng Chichewa",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F2EBD9",
+    "dot": "#C9B99A",
+    "ink": "#1E1A14",
+    "faint": "#7A6A50",
+    "line": "#DDD0B8",
+    "accent": "#1A1A1A",
+    "accent2": "#C0272D"
+  },
+  "flag": {
+    "assetPath": "/flags/mw.svg",
+    "title": "Quốc kỳ Malawi",
+    "note": "Đen, đỏ và xanh lá; mặt trời mọc được thêm vào năm 2010",
+    "keyColor": "#C0272D",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Malawi là đất nước nhỏ bé ở miền nam châu Phi nhưng ẩn chứa điều kỳ diệu: gần một phần năm lãnh thổ là mặt nước. Hồ Malawi khổng lồ chứa nhiều loài cá hơn bất kỳ hồ nào trên Trái Đất. Dù là một trong những nước nghèo nhất thế giới, người Malawi nổi tiếng vì nụ cười hiếu khách — khiến cả thế giới gọi đây là \"Trái tim ấm áp của châu Phi\".",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Lilongwe",
+      "sub": "Từ ngày độc lập năm 1964"
+    },
+    {
+      "label": "Dân số",
+      "value": "22,2 triệu người",
+      "sub": "Ước tính của Liên Hợp Quốc, 2025"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Kwacha",
+      "sub": "Nghĩa là \"Bình minh\" trong tiếng Chichewa"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Chichewa",
+      "sub": "Cùng với tiếng Anh (ngôn ngữ chính thức)"
+    },
+    {
+      "label": "Diện tích",
+      "value": "118.484 km²",
+      "sub": "Bằng khoảng bang Pennsylvania của Mỹ"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Sapitwa 3.002m",
+      "sub": "Đỉnh của khối núi Mulanje"
+    }
+  ],
+  "islands": [
+    "Lilongwe",
+    "Blantyre",
+    "Mzuzu",
+    "Zomba",
+    "Karonga"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Hồ nước trải dài nửa đất nước",
+    "animals": "Bờ hoang dã và vùng nước đủ sắc cầu vồng",
+    "culture": "Múa, trống và những trái tim ấm",
+    "history": "Từ Nyasaland đến ngày tự do",
+    "wows": "Bảy điều khó tin về Malawi!"
+  },
+  "geo": [
+    "Malawi dài và hẹp như một dải lụa — gần 900 km từ bắc xuống nam nhưng chỗ rộng nhất cũng chưa đến 150 km. Thung lũng Rift lớn đã xé toạc mặt đất nơi đây, tạo nên những vách đá dựng đứng và một lòng chảo sâu thẳm được lấp đầy bởi hồ Malawi — hồ nước ngọt lớn thứ ba châu Phi, dài 584 km và trong vắt như pha lê.",
+    "Miền nam đất nước được chi phối bởi khối núi Mulanje hùng vĩ, một cao nguyên đá granit vươn lên sừng sững trên những đồn điền chè xanh mướt. Sông Shire chảy từ hồ về phía nam, len lỏi qua những đầm lầy cói rậm rạp và thung lũng đầy thú hoang, rồi nhập vào sông Zambezi ở nước láng giềng Mozambique."
+  ],
+  "animals": [
+    "Hồ Malawi là nhà của hơn 1.000 loài cá cichlid — nhiều hơn bất kỳ hồ nào trên Trái Đất. Những chú cá như viên ngọc rực rỡ này đã tiến hóa ngay tại đây, mỗi loài một màu sắc khác nhau trông như ai đó vừa đổ cả hộp màu xuống nước. Đại bàng cá châu Phi — chim quốc huy của Malawi — săn mồi dọc bờ hồ, tiếng hót vang vọng khiến người địa phương gọi đó là \"giọng nói thật sự của châu Phi\".",
+    "Vườn quốc gia Liwonde là nơi trú ngụ của 600 con voi, 2.500 con hà mã, và cả sư tử lẫn tê giác đen vừa được tái thả về sau nhiều năm vắng bóng. Cá sấu sông Nile phơi nắng trên những bãi cát, trong khi cọ borassus cao vút soi bóng xuống dòng nước. Đây là một trong những câu chuyện bảo tồn thành công đẹp nhất của toàn châu Phi."
+  ],
+  "culture": [
+    "Người Chewa có điệu múa Gule Wamkulu — \"Vũ điệu Lớn\" — nơi những vũ công đeo mặt nạ hóa thân thành hồn ma và thú dữ. UNESCO đã công nhận đây là Di sản Văn hóa Phi vật thể của nhân loại từ năm 2005. Những chiếc mặt nạ được chạm khắc bí mật, và người ta tin rằng khi đeo vào, vũ công thật sự trở thành linh hồn mà họ thể hiện.",
+    "Nsima — cháo bắp đặc quánh — xuất hiện trong hầu hết mọi bữa ăn, được bốc bằng tay và chấm vào nước sốt cá hoặc đậu phộng. Âm nhạc thấm đẫm mọi khoảnh khắc cuộc sống — có bài hát gieo hạt, bài mừng mùa gặt, bài đám cưới — thường được chơi trên đàn mambilira, một loại đàn xylophone làm bằng gỗ."
+  ],
+  "history": [
+    "Một mảnh xương hàm được tìm thấy ở Malawi năm 1991 có niên đại 2,4 triệu năm — thuộc những bằng chứng cổ nhất về chi người từng được phát hiện. Vương quốc Maravi thống trị vùng đất này suốt nhiều thế kỷ, trước khi nhà thám hiểm người Scotland David Livingstone đến vào thập niên 1850 và vẽ bản đồ chiếc hồ vĩ đại.",
+    "Anh Quốc biến nơi đây thành xứ bảo hộ Nyasaland năm 1891. Hastings Banda dẫn dắt đất nước giành độc lập ngày 6 tháng 7 năm 1964. Sau 30 năm độc đảng, nền dân chủ ra đời năm 1994. Năm 2012, Tổng thống Joyce Banda bán chiếc chuyên cơ tổng thống lấy tiền bổ sung ngân sách quốc gia."
+  ],
+  "wows": [
+    "Hồ Malawi chứa nhiều loài cá hơn bất kỳ hồ nào trên Trái Đất — hơn 1.000 loài cichlid khác nhau.",
+    "Mảnh xương hàm 2,4 triệu năm tuổi tìm thấy ở đây là một trong những bằng chứng cổ nhất về loài người từng được phát hiện.",
+    "Gần một phần năm toàn bộ lãnh thổ Malawi là mặt nước — hồ Malawi to đến mức nhìn thấy từ vũ trụ.",
+    "Tên đồng tiền \"kwacha\" có nghĩa là \"bình minh\" trong tiếng Chichewa — biểu tượng cho một ngày mới tự do.",
+    "Vườn quốc gia Liwonde tái thả sư tử, báo săn, chó hoang và tê giác đen về thiên nhiên — tất cả trong vòng một thập kỷ.",
+    "Những vũ công mặt nạ Gule Wamkulu thuộc về một hội bí mật tồn tại suốt nhiều thế kỷ.",
+    "Tổng thống Joyce Banda bán chuyên cơ tổng thống với giá 15 triệu đô-la để bổ sung ngân sách quốc gia."
+  ],
+  "myths": [
+    {
+      "myth": "Malawi lúc nào cũng nóng như thiêu đốt",
+      "fact": "Vùng cao nguyên Mulanje có thể lạnh thật sự — người leo núi cần mang theo áo ấm ban đêm, và ở độ cao trên 2.500 m hoàn toàn có thể có sương giá."
+    },
+    {
+      "myth": "Nước hồ không an toàn để bơi lội",
+      "fact": "Phần lớn mặt nước hồ gần các khu nghỉ dưỡng không có ký sinh trùng bilharzia; nhiều điểm được chỉ định là phổ biến và được coi là an toàn để lặn ngắm cá."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Muli bwanji",
+      "say": "moo-li BWAN-jee"
+    },
+    {
+      "en": "Tôi khỏe",
+      "jp": "Ndili bwino",
+      "say": "in-DEE-li BWEE-no"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Zikomo",
+      "say": "zee-KOH-mo"
+    },
+    {
+      "en": "Có / Đúng",
+      "jp": "Inde",
+      "say": "in-DEH"
+    },
+    {
+      "en": "Hồ nước",
+      "jp": "Nyanja",
+      "say": "NYAN-ja"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/mw-hero.jpg",
+      "alt": "Bờ hồ Malawi tại Chiweta với dãy núi mờ xa phía sau",
+      "caption": "HỒ MALAWI — vùng biển nội địa bao phủ một phần năm đất nước",
+      "credit": "Michaelphoya / Wikimedia CC BY-SA 4.0"
+    },
+    "landmark": {
+      "src": "/photos/mw-landmark.jpg",
+      "alt": "Những hàng chè xanh mướt trải dài với khối núi Mulanje sừng sững phía sau",
+      "caption": "KHỐI NÚI MULANJE — người khổng lồ granit vươn cao trên xứ chè miền nam",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalA": {
+      "src": "/photos/mw-animalA.jpg",
+      "alt": "Cá cichlid màu xanh rực rỡ bơi trong làn nước trong vắt",
+      "caption": "CÁ CICHLID — một trong hơn 1.000 loài chỉ có ở hồ Malawi",
+      "credit": "Wikimedia Commons CC BY-SA 3.0"
+    },
+    "animalB": {
+      "src": "/photos/mw-animalB.jpg",
+      "alt": "Đại bàng cá châu Phi dang cánh bay lượn trên bầu trời",
+      "caption": "ĐẠI BÀNG CÁ CHÂU PHI — chim quốc huy, giọng ca của bờ hồ",
+      "credit": "Wikimedia Commons CC BY-SA 4.0"
+    }
+  }
+}

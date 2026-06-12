@@ -1,0 +1,163 @@
+{
+  "name": "TAJIKISTAN",
+  "nativeName": "Тоҷик",
+  "romaji": "TOJIKISTON",
+  "tagline": "Nóc nhà của thế giới",
+  "region": "Trung Á",
+  "coords": "38.5N, 71.0E",
+  "fileNo": "084",
+  "langName": "tiếng Tajik",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F0EBE0",
+    "dot": "#c9bfa8",
+    "ink": "#25201a",
+    "faint": "#8a7a5e",
+    "line": "#ddd0bb",
+    "accent": "#CC2027",
+    "accent2": "#2E7D32"
+  },
+  "flag": {
+    "assetPath": "/flags/tj.svg",
+    "title": "Tajikistan",
+    "note": "Ba màu: đỏ, trắng, xanh lá + vương miện và ngôi sao",
+    "keyColor": "#CC2027",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Tajikistan là vương quốc núi non kỳ vĩ ở Trung Á, nơi 90% diện tích là những đỉnh núi và thung lũng dựng đứng. Dãy Pamir — được gọi là Nóc nhà của thế giới — cao đến mức phân nửa đất nước nằm trên độ cao 3.000 mét, cao hơn bất kỳ ngọn núi nào ở Việt Nam rất nhiều lần. Ngày xưa, những đoàn lạc đà chở tơ lụa và vàng bạc đã băng qua những con đèo này trên Con đường Tơ lụa huyền thoại. Ngày nay, báo tuyết vẫn lặng lẽ rình mồi trên các sông băng, còn những đàn cừu sừng khổng lồ gặm cỏ trên mây.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Dushanbe",
+      "sub": "Tên có nghĩa là \"Thứ Hai\" trong tiếng Tajik"
+    },
+    {
+      "label": "Dân số",
+      "value": "10,6 triệu người",
+      "sub": "Ước tính của LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Somoni (TJS)",
+      "sub": "1 somoni = 100 diram"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Tajik",
+      "sub": "Họ tiếng Ba Tư; chữ Cyrillic"
+    },
+    {
+      "label": "Diện tích",
+      "value": "141.400 km²",
+      "sub": "Gần bằng diện tích nước Hy Lạp"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "7.495 m",
+      "sub": "Đỉnh Ismoil Somoni, dãy Pamir"
+    }
+  ],
+  "islands": [
+    "Dushanbe",
+    "Khujand",
+    "Khorog",
+    "Kulob",
+    "Istaravshan"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Đất nước trên mây",
+    "animals": "Bóng ma của dãy Pamir",
+    "culture": "Bánh mì, trà và con đường tơ lụa",
+    "history": "Những đế chế trên nóc nhà thế giới",
+    "wows": "Khó mà tin được!"
+  },
+  "geo": [
+    "Dãy núi Pamir thống trị phía đông Tajikistan — rộng lớn và hùng vĩ đến mức được mệnh danh là Nóc nhà của thế giới. Đỉnh Ismoil Somoni vươn lên 7.495 mét, cao nhất trong toàn bộ lãnh thổ Liên Xô cũ. Sông băng Fedchenko dài 77 km là sông băng dài nhất thế giới ngoài hai vùng địa cực — gấp đôi chiều dài thành phố Hà Nội.",
+    "Hơn 900 con sông xẻ qua các vùng cao nguyên, cung cấp nước cho toàn bộ Trung Á. Đập Nurek cao 300 mét — một trong những đập cao nhất thế giới — chứa nước trong một hồ chứa dài 70 km nằm giữa hẻm núi, tỏa ra màu xanh ngọc kỳ ảo không thể tin được."
+  ],
+  "animals": [
+    "Báo tuyết — loài mèo lớn màu xám đốm trắng của dãy Pamir — là động vật biểu tượng của Tajikistan. Khoảng 250–280 con báo quý hiếm này lặng lẽ săn mồi trên các sườn đá, rình bắt dê núi và cừu hoang trong bóng tối hoàn toàn. Người địa phương gọi chúng là bóng ma của núi rừng.",
+    "Cừu Marco Polo là loài vật quốc gia: đôi sừng xoắn ốc của nó có thể dài hơn 1,5 mét — dài nhất trong tất cả các loài cừu hoang trên Trái Đất. Những con vật to lớn, lông xù này gặm cỏ ở độ cao trên 4.000 mét, hoàn toàn bình thản trước không khí loãng và giá lạnh khắc nghiệt của dãy Pamir."
+  ],
+  "culture": [
+    "Văn hóa Tajik xoay quanh lòng hiếu khách và bánh mì. Không có vị khách nào bị từ chối — trà, bánh mì dẹt (non), hoa quả khô và các loại hạt luôn được bày ra trên tấm vải dastarkhan. Món ăn truyền thống osh là cơm thơm nấu với thịt cừu, cà rốt và gia vị trong một chiếc chảo gang khổng lồ gọi là kazan.",
+    "Mỗi năm vào ngày 21 tháng 3, lễ Navruz — Tết năm mới của người Ba Tư — tràn ngập đường phố với âm nhạc, điệu nhảy và món cháo ngọt sumalak được khuấy liên tục suốt đêm. Những chiếc váy lụa atlas sặc sỡ và mũ thêu tubeteika được mặc tự hào trong mọi dịp lễ hội."
+  ],
+  "history": [
+    "Tajikistan nằm ở ngã tư của các nền văn minh cổ đại. Những thương nhân Sogdia đã chở tơ lụa và vàng bạc qua những con đèo này hơn một ngàn năm. Vào thế kỷ 9–10, Đế chế Samanid đã biến Bukhara lân cận thành trung tâm rực rỡ của thơ ca và khoa học Ba Tư.",
+    "Nga sáp nhập vùng đất này vào thế kỷ 19 và Tajikistan trở thành một nước cộng hòa Xô Viết năm 1929. Độc lập đến vào ngày 9 tháng 9 năm 1991, sau đó là cuộc nội chiến kết thúc năm 1997. Kể từ đó, đất nước đã hồi sinh và chào đón du khách đến khám phá những đỉnh núi kỳ vĩ."
+  ],
+  "wows": [
+    "Dushanbe có nghĩa là \"Thứ Hai\" trong tiếng Tajik — thành phố lớn lên từ một phiên chợ họp vào thứ Hai nổi tiếng.",
+    "Năm 2011, cột cờ Dushanbe cao 165 mét — từng là cột cờ cao nhất thế giới trong một thời gian ngắn.",
+    "Sông băng Fedchenko dài 77 km là sông băng dài nhất thế giới ngoài Bắc Cực và Nam Cực.",
+    "Hồ Iskanderkul được đặt theo tên Alexander Đại Đế — truyền thuyết kể rằng ông đã để ngựa của mình chết đuối ở đây.",
+    "Năm 1966, người ta tìm thấy một tượng Phật nằm dài 12 mét chôn vùi dưới lòng đất ở miền bắc Tajikistan.",
+    "Hơn 93% diện tích Tajikistan là đồi núi, khiến nó là một trong những quốc gia hiểm trở nhất Trái Đất.",
+    "Đập Nurek cao 300 mét — một trong những con đập cao nhất từng được xây dựng trên thế giới."
+  ],
+  "myths": [
+    {
+      "myth": "Tajikistan không thể đến thăm được",
+      "fact": "Những du khách ưa mạo hiểm đã khám phá nơi này hàng thập kỷ qua con đường Pamir Highway. Du lịch đang ngày càng phát triển — thách thức chính là sự xa xôi hẻo lánh, không phải là không thể vào được."
+    },
+    {
+      "myth": "Ở đó lúc nào cũng lạnh cóng",
+      "fact": "Mùa hè ở các thung lũng đạt tới 30°C và Dushanbe ấm áp từ tháng 5 đến tháng 10. Cái lạnh khắc nghiệt chỉ xuất hiện trên cao nguyên Pamir vào mùa đông."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "Салом",
+      "say": "sah-LOM"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Раҳмат",
+      "say": "rah-MAT"
+    },
+    {
+      "en": "Có / Không",
+      "jp": "Ҳа / Не",
+      "say": "ha / neh"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "Лутфан",
+      "say": "LOOT-fan"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "Хайр",
+      "say": "KHAYR"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/tj-landmark.jpg",
+      "alt": "Cung điện Quốc gia với cột cờ khổng lồ ở Dushanbe, Tajikistan",
+      "caption": "CUNG ĐIỆN QUỐC GIA — trung tâm dân sự hoành tráng của Dushanbe với cột cờ kỷ lục",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "animalA": {
+      "src": "/photos/tj-animalA.jpg",
+      "alt": "Một đôi cừu Marco Polo với đôi sừng xoắn khổng lồ trên dãy núi Pamir",
+      "caption": "CỪU MARCO POLO — loài vật quốc gia với đôi sừng dài nhất trong các loài cừu hoang",
+      "credit": "Fábio Olmos / Wikimedia Commons / CC BY-SA"
+    },
+    "animalB": {
+      "src": "/photos/tj-animalB.jpg",
+      "alt": "Một con báo tuyết đang nằm nghỉ trên tảng đá, bộ lông xám đốm trắng",
+      "caption": "BÁO TUYẾT — bóng ma của dãy Pamir; khoảng 250 con còn lại ở Tajikistan",
+      "credit": "Wikimedia Commons / CC BY-SA"
+    },
+    "hero": {
+      "src": "/photos/tj-hero.jpg",
+      "alt": "Đại lộ hiện đại trồng cây xanh ở trung tâm Dushanbe với những tòa nhà lớn",
+      "caption": "ĐẠI LỘ DUSHANBE — thủ đô hiện đại được xây dựng trên nền một khu chợ thứ Hai xưa",
+      "credit": "Ninara / Wikimedia Commons / CC BY 2.0"
+    }
+  }
+}

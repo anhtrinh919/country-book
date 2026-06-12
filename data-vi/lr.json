@@ -1,0 +1,163 @@
+{
+  "name": "LIBERIA",
+  "nativeName": "LR",
+  "romaji": "LIBERIA",
+  "tagline": "Ngôi sao cô đơn của châu Phi",
+  "region": "Tây Phi",
+  "coords": "6.3°N, 9.4°W",
+  "fileNo": "072",
+  "langName": "tiếng Anh Liberia",
+  "motif": "tricolore",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA0",
+    "ink": "#2A2318",
+    "faint": "#8A7A58",
+    "line": "#DCCFB0",
+    "accent": "#BF1F2E",
+    "accent2": "#002868"
+  },
+  "flag": {
+    "assetPath": "/flags/lr.svg",
+    "title": "Ngôi Sao Cô Đơn",
+    "note": "11 sọc đỏ và trắng; ô vuông xanh và ngôi sao trắng",
+    "keyColor": "#BF1F2E",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Liberia là nước cộng hòa lâu đời nhất châu Phi — ra đời năm 1847 do những người Mỹ gốc Phi được giải phóng vượt biển sang xây dựng quê hương mới. Rừng nhiệt đới rậm rạp che giấu những chú hà mã lùn và tinh tinh hoang dã. Lá cờ của Liberia trông rất giống cờ Mỹ vì chính những người sáng lập đã thiết kế theo mẫu đó. Hơn 5,2 triệu người Liberia đang sống dọc theo bờ biển xanh mướt ở Tây Phi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Monrovia",
+      "sub": "đặt theo tên Tổng thống Mỹ James Monroe"
+    },
+    {
+      "label": "Dân số",
+      "value": "5,2 triệu người",
+      "sub": "theo điều tra dân số quốc gia năm 2022"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Đô-la Liberia",
+      "sub": "LRD; đô-la Mỹ cũng được dùng rộng rãi"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "tiếng Anh",
+      "sub": "cùng hơn 20 ngôn ngữ bản địa"
+    },
+    {
+      "label": "Diện tích",
+      "value": "111.369 km²",
+      "sub": "nhỉnh hơn Hàn Quốc một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Núi Wuteve",
+      "sub": "1.448 m — thuộc dãy Nimba"
+    }
+  ],
+  "islands": [
+    "Montserrado",
+    "Bong",
+    "Nimba",
+    "Sinoe",
+    "Maryland"
+  ],
+  "islandsLabel": "CÁC HẠTNHÂN CHÍNH:",
+  "sections": {
+    "geography": "Rừng già, sông ngòi & bờ biển",
+    "animals": "Sinh vật bí ẩn của Sapo",
+    "culture": "Hai nguồn cội, một đất nước",
+    "history": "Từ những con tàu đến Ngôi Sao Cô Đơn",
+    "wows": "Khoan đã — bạn có biết không?"
+  },
+  "geo": [
+    "Bờ biển Liberia trải dài 570 km dọc Đại Tây Dương, viền bởi những bãi cát trắng và rừng đước xanh mướt. Đi sâu vào trong, những ngọn đồi xanh nhô lên hướng về dãy núi Guinea và những con sông rộng lớn cắt ngang qua rừng rậm.",
+    "Hơn 40% diện tích rừng nhiệt đới Thượng Guinea còn sót lại ở Tây Phi nằm bên trong lãnh thổ Liberia. Mùa mưa đổ xuống tới 5 mét nước mỗi năm gần bờ biển, giữ cho khu rừng luôn xanh tươi rực rỡ."
+  ],
+  "animals": [
+    "Vườn quốc gia Sapo của Liberia là một trong những nơi tốt nhất trên Trái Đất để bắt gặp hà mã lùn — loài hà mã rừng chỉ to bằng một con lợn lớn. Chúng nhút nhát đến mức gần như không ai chụp được ảnh ngoài tự nhiên cho đến khi bẫy camera cuối cùng ghi lại được hình ảnh chúng lội qua suối trong rừng Sapo.",
+    "Tinh tinh Tây Phi — loài tinh tinh đang có nguy cơ tuyệt chủng nhất châu Phi — đu chuyền qua những tán cây cổ thụ của Liberia. Voi rừng, linh dương Jentink, khỉ Diana, và cá sấu mõm thon cũng cùng nhau sinh sống trong những khu rừng này."
+  ],
+  "culture": [
+    "Văn hóa Liberia là sự kết hợp của hai thế giới: 16 dân tộc bản địa — Kpelle, Bassa, Grebo và nhiều tộc khác — đã sống ở đây hàng thế kỷ, và những người Mỹ gốc Phi nhập cư mang theo nghề thêu thùa, ẩm thực miền Nam nước Mỹ, và những ngôi nhà gỗ theo phong cách thuộc địa.",
+    "Cơm là nền tảng của mọi bữa ăn, dùng kèm với nước sốt palava — rau xanh, cá khô và dầu cọ. Người Liberia nói một thứ tiếng Anh địa phương rất sinh động: 'no fuss' có nghĩa là đừng lo, còn 'pekin' là đứa trẻ nhỏ. Những lễ hội múa mặt nạ gìn giữ những câu chuyện cổ xưa cho đến tận ngày nay."
+  ],
+  "history": [
+    "Năm 1822, những người Mỹ gốc Phi đầu tiên được giải phóng đặt chân lên đảo Providence ở cửa sông Mesurado, được Hội Thuộc địa hóa người Mỹ hậu thuẫn. Đến năm 1847, họ tuyên bố độc lập — biến Liberia trở thành nước cộng hòa đầu tiên ở châu Phi.",
+    "Thế kỷ 20 chứng kiến đồn điền cao su Firestone khổng lồ ra đời (1926), rồi những cuộc nội chiến tàn khốc (1989–2003), và sau đó là hy vọng: năm 2006, bà Ellen Johnson Sirleaf trở thành nữ Tổng thống dân cử đầu tiên ở châu Phi, và giành giải Nobel Hòa bình năm 2011."
+  ],
+  "wows": [
+    "Đồn điền Firestone của Liberia rộng khoảng 450 km² — trang trại cao su lớn nhất thế giới dưới quyền quản lý của một công ty.",
+    "Hà mã lùn chỉ nặng 270 kg — bằng một phần mười so với hà mã thường.",
+    "Bà Ellen Johnson Sirleaf là người phụ nữ đầu tiên được bầu làm nguyên thủ quốc gia tại châu Phi vào năm 2006.",
+    "Cờ Liberia có 11 sọc, mỗi sọc đại diện cho một người ký vào Tuyên ngôn Độc lập năm 1847.",
+    "Liberia sử dụng đúng múi giờ GMT — không lệch một phút nào, tọa lạc ngay trên vành đai kinh tuyến gốc.",
+    "Sapo là khối rừng nhiệt đới đồng bằng nguyên sinh lớn thứ hai Tây Phi, chỉ sau Taï ở Bờ Biển Ngà.",
+    "Cao su Liberia quan trọng đến mức trong Thế chiến II, các nhà sử học cho rằng nó đã góp phần giúp phe Đồng Minh giành chiến thắng."
+  ],
+  "myths": [
+    {
+      "myth": "\"Liberia chưa bao giờ bị thực dân hóa\"",
+      "fact": "Đúng là không có đế quốc châu Âu nào cai trị Liberia, nhưng những người Mỹ gốc Phi nhập cư đã thống trị các dân tộc bản địa suốt hơn một thế kỷ — các nhà sử học gọi đây là chủ nghĩa thực dân nội bộ."
+    },
+    {
+      "myth": "\"Sư tử là động vật biểu tượng của Liberia\"",
+      "fact": "Huy hiệu quốc gia chính thức của Liberia có hình một con chim bồ câu và một con tàu buồm — biểu tượng của hòa bình và hành trình vượt biển của những người sáng lập, chứ không phải sư tử."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "How de body?",
+      "say": "How-dee BOD-ee"
+    },
+    {
+      "en": "Không sao cả",
+      "jp": "No fuss",
+      "say": "No FUSS"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "Tank ya",
+      "say": "Tank YA"
+    },
+    {
+      "en": "Đi thôi!",
+      "jp": "We move",
+      "say": "Wee MOOV"
+    },
+    {
+      "en": "Đứa trẻ nhỏ",
+      "jp": "Pekin",
+      "say": "PEH-kin"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/lr-hero.jpg",
+      "alt": "Khu dân cư ven biển Sinkor, thủ đô Monrovia, Liberia",
+      "caption": "MONROVIA — bờ biển Đại Tây Dương rực nắng của nước cộng hòa lâu đời nhất châu Phi",
+      "credit": "Panoramio / Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/lr-landmark.jpg",
+      "alt": "Tòa nhà Ủy ban thành phố Monrovia, Liberia",
+      "caption": "TÒA THỊ CHÍNH MONROVIA — trung tâm dân sự mang kiến trúc thuộc địa của Liberia",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/lr-animalA.jpg",
+      "alt": "Hà mã lùn chụp cận cảnh tại vườn thú Edinburgh",
+      "caption": "HÀ MÃ LÙN — sinh vật rừng nhút nhát của Liberia, hiếm khi thấy ngoài tự nhiên",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/lr-animalB.jpg",
+      "alt": "Tinh tinh ngồi ngoài trời",
+      "caption": "TINH TINH TÂY PHI — loài đang cực kỳ nguy cấp, sống trên những tán cây của rừng Sapo",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

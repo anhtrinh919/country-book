@@ -1,0 +1,163 @@
+{
+  "name": "HÀN QUỐC",
+  "nativeName": "한국",
+  "romaji": "HANGUK",
+  "tagline": "Đất nước bình yên buổi sáng",
+  "region": "Đông Á",
+  "coords": "37°N 127°E",
+  "fileNo": "082",
+  "langName": "tiếng Hàn",
+  "motif": "sun",
+  "theme": {
+    "paper": "#F0EDE4",
+    "dot": "#C9C0AF",
+    "ink": "#1E1C18",
+    "faint": "#7D7260",
+    "line": "#DDD8CC",
+    "accent": "#C60C30",
+    "accent2": "#003478"
+  },
+  "flag": {
+    "assetPath": "/flags/kr.svg",
+    "title": "태극기 Taegukgi",
+    "note": "Vòng tròn âm dương và bốn quẻ bát quái trên nền trắng",
+    "keyColor": "#C60C30",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Hàn Quốc là một bán đảo đầy núi non nằm kẹp giữa Trung Quốc và Nhật Bản — nhỏ thôi nhưng mạnh lắm! Đây là quê hương của K-pop, nơi sáng tạo ra một trong những bảng chữ cái thông minh nhất lịch sử, và chỉ trong vài chục năm đã vươn từ đống tro tàn sau chiến tranh lên thành cường quốc công nghệ. Từ cung điện ngàn năm tuổi đến hòn đảo lửa Jeju kỳ diệu, Hàn Quốc là nơi 5.000 năm lịch sử sống chung với tàu siêu tốc.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Seoul",
+      "sub": "Khoảng 9,6 triệu người trong thành phố"
+    },
+    {
+      "label": "Dân số",
+      "value": "51,8 triệu người",
+      "sub": "Thống kê năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Won (₩)",
+      "sub": "1 USD ≈ 1.450 Won"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Hàn",
+      "sub": "Chữ Hangul, 24 chữ cái"
+    },
+    {
+      "label": "Diện tích",
+      "value": "100.339 km²",
+      "sub": "Hơi lớn hơn Iceland một chút"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Hallasan 1.947m",
+      "sub": "Núi lửa trên đảo Jeju"
+    }
+  ],
+  "islands": [
+    "Seoul",
+    "Busan",
+    "Jeju",
+    "Incheon",
+    "Gwangju"
+  ],
+  "islandsLabel": "CÁC THÀNH PHỐ CHÍNH:",
+  "sections": {
+    "geography": "Núi non, biển cả & ruộng lúa",
+    "animals": "Hổ, sếu & sinh vật biển",
+    "culture": "Kimchi, K-pop & đền cổ",
+    "history": "Triều đại, chiến tranh & kỳ tích",
+    "wows": "7 điều khó tin về Hàn Quốc"
+  },
+  "geo": [
+    "Khoảng 70% diện tích Hàn Quốc là núi dốc phủ rừng xanh, chỉ còn lại những dải đồng bằng ven biển hẹp — đó là nơi hầu hết người dân sinh sống và trồng lúa nước trong những ruộng bậc thang ngập nước. Bờ biển phía nam và phía tây của đất nước bị cắt xẻ ngoằn ngoèo, tạo thành hơn 3.000 hòn đảo lớn nhỏ.",
+    "Sông Hàn chảy xuyên qua lòng thủ đô Seoul, chia thành phố thành hai bờ sầm uất. Xuống phía nam là đảo Jeju kỳ bí — một ngọn núi lửa đã ngủ yên, có những ống dung nham khổng lồ bạn có thể chui vào đi bộ bên trong, và đỉnh Hallasan cao nhất Hàn Quốc chót vót giữa đảo."
+  ],
+  "animals": [
+    "Hổ Siberia — trắng bạc, oai phong và đầy huyền bí — chính là biểu tượng quốc gia của Hàn Quốc. Ngày xưa, loài hổ này từng đi lại khắp các ngọn núi trên bán đảo, nhưng đến những năm 1920 thì bị săn bắt đến tuyệt chủng. Cho đến nay, thỉnh thoảng người ta vẫn tìm thấy dấu chân bí ẩn gần Khu phi quân sự DMZ, và ai cũng tự hỏi: liệu hổ có còn ở đây không?",
+    "Sếu đầu đỏ với chiếc mũ đỏ tươi và bộ lông trắng muốt là loài chim được người Hàn yêu quý nhất — biểu tượng của sự may mắn và trường thọ. Mỗi mùa đông, hàng nghìn con sếu bay đến trú đông tại vùng đất ngập nước trong Khu phi quân sự DMZ — một khu bảo tồn thiên nhiên tình cờ ra đời vì hơn 70 năm qua không một bóng người được phép đặt chân vào."
+  ],
+  "culture": [
+    "Món ăn nổi tiếng nhất của Hàn Quốc chính là kimchi — cải thảo muối chua cay nồng, ăn kèm trong hầu hết mọi bữa ăn từ sáng đến tối. Có hơn 200 loại kimchi khác nhau, và mỗi mùa thu cả gia đình cùng nhau làm kimchi dự trữ cho mùa đông — truyền thống gọi là kimjang này đã được UNESCO công nhận là di sản văn hóa nhân loại.",
+    "K-pop không chỉ là âm nhạc — đó là cả một thế giới của những nhóm nhạc thần tượng, video ca nhạc lộng lẫy và những fandom trung thành khắp năm châu. Làn sóng Hallyu đã cuốn phim Hàn, ẩm thực Hàn và thời trang Hàn đi khắp châu Á rồi lan ra toàn thế giới — kể cả Việt Nam mình cũng mê lắm đó!"
+  ],
+  "history": [
+    "Nền văn minh Hàn Quốc đã có từ 5.000 năm trước. Triều đại Joseon cai trị suốt 500 năm từ năm 1392, xây dựng những cung điện tráng lệ, sáng tạo ra bảng chữ cái Hangul và sản sinh ra nhiều học giả lỗi lạc — trước khi Nhật Bản cưỡng chiếm bán đảo vào năm 1910.",
+    "Năm 1950, Bắc Triều Tiên tấn công miền Nam, châm ngòi cho cuộc chiến tranh Triều Tiên tàn khốc kéo dài ba năm. Vậy mà chỉ vài chục năm sau, Hàn Quốc đã vươn lên thành cường quốc kinh tế với những tập đoàn khổng lồ như Samsung, Hyundai — kỳ tích mà các nhà kinh tế gọi là 'Kỳ tích sông Hàn'."
+  ],
+  "wows": [
+    "Hàn Quốc có tốc độ internet thuộc hàng nhanh nhất thế giới, với 89% hộ gia đình được kết nối cáp quang siêu tốc.",
+    "Chữ Hangul được thiết kế khéo léo đến mức các học giả nói rằng chỉ cần một buổi sáng là bạn có thể học đọc được — sáng tạo từ năm 1443!",
+    "Seoul có hàng nghìn jjimjilbang — nhà tắm công cộng khổng lồ nơi người Hàn đến thư giãn, ngủ lại qua đêm và ăn uống trong đó.",
+    "Doanh thu của Samsung trong những năm đỉnh cao tương đương khoảng 20% toàn bộ nền kinh tế Hàn Quốc — một công ty bằng một phần năm đất nước!",
+    "Hàn Quốc chỉ có đường biên giới đất liền duy nhất với Bắc Triều Tiên — bịt kín hoàn toàn, khiến Hàn Quốc thực tế như một đảo quốc.",
+    "Khu DMZ là một trong những vùng đa dạng sinh học nhất châu Á, nơi trú ngụ của 6.200 loài sinh vật hoang dã từ năm 1953 đến nay.",
+    "Theo truyền thống, mọi đứa trẻ Hàn Quốc sinh ra đã được tính là 1 tuổi rồi — phong tục thú vị này chỉ mới chính thức bị bãi bỏ năm 2023."
+  ],
+  "myths": [
+    {
+      "myth": "Tất cả các món ăn Hàn Quốc đều cay xé lưỡi",
+      "fact": "Ớt thực ra chỉ mới du nhập vào Hàn Quốc qua các thương nhân Bồ Đào Nha và Nhật Bản vào khoảng năm 1600. Rất nhiều món truyền thống — cháo, bánh gạo, đồ chay nhà chùa — hoàn toàn không có cay."
+    },
+    {
+      "myth": "Các idol K-pop chỉ biết hát và nhảy",
+      "fact": "Các thần tượng K-pop thường phải khổ luyện nhiều năm về hát, nhảy, ngoại ngữ và diễn xuất trước khi được ra mắt — đây là một trong những ngành giải trí khắt khe nhất thế giới."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "안녕하세요",
+      "say": "an-nyong-ha-se-yo"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "감사합니다",
+      "say": "gam-sa-ham-ni-da"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "맛있어요",
+      "say": "ma-shi-sso-yo"
+    },
+    {
+      "en": "Tạm biệt",
+      "jp": "안녕히 가세요",
+      "say": "anyong-hi-ga-seyo"
+    },
+    {
+      "en": "Có / Không",
+      "jp": "네 / 아니요",
+      "say": "ne / a-ni-yo"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/kr-hero.jpg",
+      "alt": "Tàu cao tốc KTX tại ga Seoul",
+      "caption": "TÀU CAO TỐC KTX — Đường sắt siêu nhanh của Hàn Quốc tại ga Seoul",
+      "credit": "Wikimedia Commons"
+    },
+    "landmark": {
+      "src": "/photos/kr-landmark.jpg",
+      "alt": "Toàn cảnh cung điện Gyeongbokgung ở Seoul",
+      "caption": "CUNG ĐIỆN GYEONGBOKGUNG — Hoàng cung vĩ đại thế kỷ 14 của Seoul",
+      "credit": "Wikimedia Commons"
+    },
+    "animalA": {
+      "src": "/photos/kr-animalA.jpg",
+      "alt": "Hổ Siberia trong rừng tuyết",
+      "caption": "HỔ SIBERIA — Biểu tượng quốc gia Hàn Quốc, nay đã tuyệt chủng trên bán đảo",
+      "credit": "Wikimedia Commons"
+    },
+    "animalB": {
+      "src": "/photos/kr-animalB.jpg",
+      "alt": "Sếu đầu đỏ giữa vùng đất ngập nước",
+      "caption": "SẾU ĐẦU ĐỎ — Biểu tượng may mắn thiêng liêng, trú đông tại DMZ của Hàn Quốc",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

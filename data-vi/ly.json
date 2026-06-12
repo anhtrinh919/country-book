@@ -1,0 +1,162 @@
+{
+  "name": "LIBYA",
+  "nativeName": "ليبيا",
+  "romaji": "LIBYĀ",
+  "tagline": "Biển xanh, cát vàng & vàng son La Mã",
+  "region": "Bắc Phi",
+  "coords": "26.3°N, 17.2°E",
+  "fileNo": "LY",
+  "langName": "tiếng Ả Rập",
+  "motif": "diamond",
+  "theme": {
+    "paper": "#F5EFE0",
+    "dot": "#CDBFA2",
+    "ink": "#251F18",
+    "faint": "#8A7A5A",
+    "line": "#DDD0B2",
+    "accent": "#239E3F",
+    "accent2": "#C8000A"
+  },
+  "flag": {
+    "assetPath": "/flags/ly.svg",
+    "title": "Quốc kỳ Libya",
+    "note": "Ba sọc đỏ, đen và xanh lá với hình lưỡi liềm và ngôi sao",
+    "keyColor": "#239E3F",
+    "mastheadMotif": "geometric-emblem"
+  },
+  "lead": "Libya là một đất nước rộng lớn ở Bắc Phi, nơi sa mạc Sahara gặp gỡ bờ biển Địa Trung Hải lấp lánh. Hơn 90% diện tích là hoang mạc — với những cồn cát vàng, miệng núi lửa đen và những hồ cổ xưa ẩn mình dưới cát. Thế nhưng dưới những cồn cát ấy lại ẩn chứa những tàn tích La Mã đồ sộ và biển dầu mỏ khổng lồ, khiến Libya trở thành một trong những đất nước đáng kinh ngạc nhất châu Phi.",
+  "facts": [
+    {
+      "label": "Thủ đô",
+      "value": "Tripoli",
+      "sub": "Thành phố ven biển Địa Trung Hải"
+    },
+    {
+      "label": "Dân số",
+      "value": "7,4 triệu người",
+      "sub": "Ước tính LHQ năm 2024"
+    },
+    {
+      "label": "Tiền tệ",
+      "value": "Dinar Libya",
+      "sub": "1 dinar = 1.000 dirham"
+    },
+    {
+      "label": "Ngôn ngữ",
+      "value": "Tiếng Ả Rập",
+      "sub": "Tiếng Berber cũng được dùng"
+    },
+    {
+      "label": "Diện tích",
+      "value": "1.676.198 km²",
+      "sub": "Lớn thứ 4 ở châu Phi"
+    },
+    {
+      "label": "Đỉnh cao nhất",
+      "value": "Bikku Bitti",
+      "sub": "2.267 m ở miền nam"
+    }
+  ],
+  "islands": [
+    "Tripolitania",
+    "Cyrenaica",
+    "Fezzan",
+    "Sirte"
+  ],
+  "islandsLabel": "CÁC VÙNG CHÍNH:",
+  "sections": {
+    "geography": "Biển cát và đá vô tận",
+    "animals": "Những kẻ sống sót ở hoang mạc",
+    "culture": "Lễ hội và nghệ thuật cổ xưa",
+    "history": "Các đế chế giữa lòng cát",
+    "wows": "Khó mà tin được!"
+  },
+  "geo": [
+    "Bờ biển Libya trải dài 1.770 km dọc Địa Trung Hải — dài nhất châu Phi trên vùng biển này. Phía sau bờ biển, địa hình dâng lên thành cao nguyên phẳng, rồi đổ xuống sa mạc Sahara — sa mạc nóng bỏng lớn nhất thế giới. So với Việt Nam, diện tích Libya rộng gấp khoảng 5 lần!",
+    "Sâu trong vùng Fezzan, những hồ nước bí ẩn lung linh giữa những cồn cát đỏ cao vút tại Ubari — được nuôi dưỡng bởi nước mưa cổ đại tích tụ dưới lòng đất hàng ngàn năm. Một ngọn núi lửa đã tắt tên Waw an Namus để lại một vệt tro đen như mực loang rộng 20 km giữa vùng cát vàng."
+  ],
+  "animals": [
+    "Con cáo fennec là cư dân hoang mạc đáng yêu nhất của Libya. Đôi tai khổng lồ của nó hoạt động như chiếc ăng-ten, nghe được tiếng sâu bọ di chuyển dưới đất vào ban đêm. Điều kỳ diệu hơn là nó không cần uống nước — mọi thứ cần thiết đều lấy từ thức ăn.",
+    "Cừu Barbary leo lên những vách đá sa mạc dựng đứng một cách dễ dàng, bộ bờm xù bay phất phới trong gió. Linh dương Dorcas lao vun vút trên cát trống, còn thằn lằn sandfish — loài bơi lội trong cát rời như bơi dưới nước — biến mất chỉ trong một cái chớp mắt."
+  ],
+  "culture": [
+    "Ẩm thực Libya đậm đà và thơm ngát. Bánh bazin — một loại bột bánh mì đặc nấu trong nước muối — là món ăn quốc hồn, thưởng thức bằng cách b掰 từng miếng nhúng vào nồi hầm. Couscous và thịt cừu ướp gia vị thơm lừng luôn có mặt trên mâm cơm gia đình mỗi dịp lễ tết.",
+    "Người Berber đã dệt thảm và đập bạc suốt nhiều thế kỷ, với những hoa văn hình học mang theo câu chuyện gia tộc trong từng nút thắt. Ở thành phố cổ Ghadames, các mái nhà nối liền nhau thành đường đi trên cao, để phụ nữ có thể đi khắp thành phố mà không cần xuống đường — vừa mát mẻ, vừa kín đáo."
+  ],
+  "history": [
+    "Thương nhân Phoenicia lập nên các thành phố ven biển từ khoảng năm 1000 trước Công nguyên; người Hy Lạp định cư tại Cyrene năm 631 trước Công nguyên. Sau đó người La Mã tiếp quản — Hoàng đế Septimius Severus, sinh ra trên đất Libya, đã xây dựng Leptis Magna thành một trong những thành phố huy hoàng nhất thế giới Địa Trung Hải.",
+    "Quân đội Ả Rập đem đạo Hồi đến năm 642 sau Công nguyên. Ý chiếm Libya từ năm 1911 cho đến khi quân Đồng Minh đánh đuổi năm 1943. Libya độc lập năm 1951, và chỉ bảy năm sau người ta phát hiện ra dầu mỏ — thay đổi hoàn toàn bộ mặt đất nước chỉ qua một đêm."
+  ],
+  "wows": [
+    "Libya nắm giữ trữ lượng dầu mỏ lớn nhất châu Phi — khoảng 48 tỷ thùng.",
+    "Thành La Mã Leptis Magna bị cát vùi lấp suốt 800 năm, rồi hiện ra gần như nguyên vẹn hoàn toàn.",
+    "Núi lửa Waw an Namus để lại cánh đồng tro rộng 20 km với ba hồ miệng núi lửa nước mặn giữa Sahara.",
+    "Hơn 90% diện tích Libya là sa mạc — một trong những tỷ lệ cao nhất Trái Đất.",
+    "Bờ biển Địa Trung Hải của Libya dài 1.770 km — dài nhất châu Phi trên vùng biển này.",
+    "Thành phố cổ Ghadames có những lối đi trên mái nhà, cho người dân đi khắp phố mà không cần xuống đường.",
+    "Thành phố Hy Lạp Cyrene, xây dựng năm 631 trước Công nguyên, vẫn còn đó — những cây cột được chạm khắc vào sườn đồi Libya."
+  ],
+  "myths": [
+    {
+      "myth": "Libya chỉ là sa mạc trống rỗng",
+      "fact": "Libya có 1.770 km bờ biển Địa Trung Hải, năm Di sản Thế giới UNESCO và những thành phố cổ do người Hy Lạp, La Mã và Berber xây dựng — không hề trống rỗng chút nào."
+    },
+    {
+      "myth": "Sa mạc Sahara toàn là cồn cát nhấp nhô",
+      "fact": "Phần lớn Sahara, bao gồm nhiều vùng ở Libya, thực ra là những đồng bằng sỏi phẳng và đá trơ trọi — những cồn cát nổi tiếng chỉ chiếm khoảng 25% diện tích sa mạc."
+    }
+  ],
+  "words": [
+    {
+      "en": "Xin chào",
+      "jp": "مرحبا",
+      "say": "mar-HA-ba"
+    },
+    {
+      "en": "Cảm ơn",
+      "jp": "شكرا",
+      "say": "SHUK-ran"
+    },
+    {
+      "en": "Làm ơn",
+      "jp": "من فضلك",
+      "say": "min FAD-lak"
+    },
+    {
+      "en": "Ngon quá!",
+      "jp": "لذيذ",
+      "say": "la-ZEEZ"
+    },
+    {
+      "en": "Sa mạc",
+      "jp": "صحراء",
+      "say": "SAH-ra"
+    }
+  ],
+  "photos": {
+    "landmark": {
+      "src": "/photos/ly-landmark.jpg",
+      "alt": "Những hồ nước xanh ngọc ẩn mình giữa những cồn cát đỏ Sahara tại Ubari, Libya",
+      "caption": "HỒ UBARI — nước ốc đảo cổ xưa lung linh giữa những cồn cát cao vút của vùng Fezzan",
+      "credit": "Luca Galuzzi / CC BY-SA 2.5"
+    },
+    "animalA": {
+      "src": "/photos/ly-animalA.jpg",
+      "alt": "Cáo fennec với đôi tai to ở sa mạc Sahara",
+      "caption": "CÁO FENNEC — đôi tai khổng lồ giúp nó nghe thấy con mồi di chuyển dưới đất ban đêm",
+      "credit": "Merzougaloisirs / CC BY-SA 4.0"
+    },
+    "animalB": {
+      "src": "/photos/ly-animalB.jpg",
+      "alt": "Cừu Barbary đứng trên địa hình đá gồ ghề",
+      "caption": "CỪU BARBARY — loài cừu hoang duy nhất ở châu Phi, sinh ra để leo những vách đá sa mạc",
+      "credit": "Kevin Floyd / CC BY 4.0"
+    },
+    "hero": {
+      "src": "/photos/ly-hero.jpg",
+      "alt": "Khải Hoàn Môn Marcus Aurelius trong khu phố cổ Tripoli",
+      "caption": "KHẢI HOÀN MÔN MARCUS AURELIUS — cổng khải hoàn La Mã xây năm 163 sau Công nguyên trong khu phố cổ Tripoli",
+      "credit": "Daniel & Kate Pett / CC BY 2.0"
+    }
+  }
+}
