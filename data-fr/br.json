@@ -72,10 +72,18 @@
     "history": "Un pays né d'une grande aventure",
     "wows": "Les superpouvoirs du Brésil"
   },
-  "geo": "Le Brésil abrite 60 % de l'Amazonie — la plus grande forêt du monde, plus grande que toute l'Europe ! Le fleuve Amazone déverse plus d'eau douce dans la mer que n'importe quel autre fleuve sur Terre.",
-  "animals": "L'Amazonie est la maison du jaguar, du dauphin rose, du capybara — un énorme cochon d'Inde qui adore nager — et de grenouilles arc-en-ciel tellement brillantes qu'elles font peur aux prédateurs ! Les toucans aux becs géants et les aras écarlates colorent les arbres de rouge et de jaune.",
-  "culture": "Au Brésil, le Carnaval est la plus grande fête de rue du monde entier : deux millions de personnes dansent et chantent chaque jour dans les rues de Rio ! Le plat préféré des Brésiliens s'appelle la feijoada, un ragoût de haricots noirs et de viande tellement bon qu'on en reprend toujours.",
-  "history": "Il y a très longtemps, une légende raconte que le premier explorateur portugais arrivé au Brésil crut avoir découvert un paradis plein d'oiseaux colorés et d'arbres géants — et il n'avait pas tort ! La capitale Brasília est encore plus magique : elle a été construite en seulement 41 mois au milieu d'une plaine vide, comme une ville sortie de nulle part.",
+  "geo": [
+    "Le Brésil abrite 60 % de l'Amazonie — la plus grande forêt du monde, plus grande que toute l'Europe ! Le fleuve Amazone déverse plus d'eau douce dans la mer que n'importe quel autre fleuve sur Terre."
+  ],
+  "animals": [
+    "L'Amazonie est la maison du jaguar, du dauphin rose, du capybara — un énorme cochon d'Inde qui adore nager — et de grenouilles arc-en-ciel tellement brillantes qu'elles font peur aux prédateurs ! Les toucans aux becs géants et les aras écarlates colorent les arbres de rouge et de jaune."
+  ],
+  "culture": [
+    "Au Brésil, le Carnaval est la plus grande fête de rue du monde entier : deux millions de personnes dansent et chantent chaque jour dans les rues de Rio ! Le plat préféré des Brésiliens s'appelle la feijoada, un ragoût de haricots noirs et de viande tellement bon qu'on en reprend toujours."
+  ],
+  "history": [
+    "Il y a très longtemps, une légende raconte que le premier explorateur portugais arrivé au Brésil crut avoir découvert un paradis plein d'oiseaux colorés et d'arbres géants — et il n'avait pas tort ! La capitale Brasília est encore plus magique : elle a été construite en seulement 41 mois au milieu d'une plaine vide, comme une ville sortie de nulle part."
+  ],
   "wows": [
     "Le fleuve Amazone est si puissant qu'on peut boire l'eau douce de l'océan à 160 km des côtes !",
     "Le Brésil a gagné la Coupe du Monde de football 5 fois — plus que n'importe quel autre pays !",

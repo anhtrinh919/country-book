@@ -72,10 +72,18 @@
     "history": "Temples magiques et chevaliers",
     "wows": "7 choses incroyables sur Malte"
   },
-  "geo": "Malte est une petite île dorée posée entre la Sicile et l'Afrique, avec des falaises magnifiques et des grottes creusées par les vagues. Le soleil brille plus de 300 jours par an et la mer est toujours tout près !",
-  "animals": "L'oiseau national de Malte est le Merle de roche bleu — un oiseau bleu cobalt qui vit sur les falaises et les vieux remparts. Chaque automne, des milliers d'oiseaux migrateurs traversent l'île en voyageant entre l'Europe et l'Afrique !",
-  "culture": "Chaque village à Malte organise une grande fête d'été avec des feux d'artifice, des fanfares et des lumières colorées dans les rues. Le plat préféré des Maltais, c'est le ragoût de lapin, et leurs petits gâteaux feuilletés appelés pastizzi sont un délice !",
-  "history": "Malte a des temples en pierre construits il y a 5 600 ans — bien avant les Pyramides et Stonehenge. Des chevaliers courageux appelés les Chevaliers de Saint-Jean ont construit la belle ville de Valletta avec ses hautes murailles !",
+  "geo": [
+    "Malte est une petite île dorée posée entre la Sicile et l'Afrique, avec des falaises magnifiques et des grottes creusées par les vagues. Le soleil brille plus de 300 jours par an et la mer est toujours tout près !"
+  ],
+  "animals": [
+    "L'oiseau national de Malte est le Merle de roche bleu — un oiseau bleu cobalt qui vit sur les falaises et les vieux remparts. Chaque automne, des milliers d'oiseaux migrateurs traversent l'île en voyageant entre l'Europe et l'Afrique !"
+  ],
+  "culture": [
+    "Chaque village à Malte organise une grande fête d'été avec des feux d'artifice, des fanfares et des lumières colorées dans les rues. Le plat préféré des Maltais, c'est le ragoût de lapin, et leurs petits gâteaux feuilletés appelés pastizzi sont un délice !"
+  ],
+  "history": [
+    "Malte a des temples en pierre construits il y a 5 600 ans — bien avant les Pyramides et Stonehenge. Des chevaliers courageux appelés les Chevaliers de Saint-Jean ont construit la belle ville de Valletta avec ses hautes murailles !"
+  ],
   "wows": [
     "Les temples de Malte ont 5 600 ans — plus vieux que les Pyramides d'Égypte !",
     "Valletta n'a que 5 000 habitants : c'est la plus petite capitale de toute l'Europe.",

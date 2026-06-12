@@ -72,10 +72,18 @@
     "history": "Pirates et île au trésor",
     "wows": "Incroyable mais vrai !"
   },
-  "geo": "Les Bahamas, c'est 700 îles et 2 400 petits îlots, mais seulement 30 sont habités — les autres sont des plages vides rien que pour toi ! La terre est très plate, faite de corail calcaire, et elle dépasse à peine la surface de la mer.",
-  "animals": "Le flamant rose américain est l'oiseau national, et plus de 50 000 flamants vivent sur la Grande Inagua — leur plumage rose colore toute la rive comme un nuage ! Le mérou de Nassau, lui, se cache sur les récifs coralliens en changeant ses taches en quelques secondes comme un caméléon.",
-  "culture": "La fête du Junkanoo, c'est un carnaval géant avant l'aube du Nouvel An, avec des costumes en papier crépon coloré, des tambours en peau de chèvre et des trompettes qui font trembler les rues ! Les Bahamiens adorent aussi le conch — un gros coquillage qu'ils mangent en salade ou en beignets depuis 1 300 ans.",
-  "history": "Il y a très longtemps, les Lucayens vivaient tranquillement sur ces îles depuis des centaines d'années, mangeant des coquillages et construisant leurs pirogues. En 1492, un explorateur nommé Christophe Colomb débarqua sur la plage de San Salvador et fut tellement émerveillé qu'il appela la région « baja mar », la mer peu profonde !",
+  "geo": [
+    "Les Bahamas, c'est 700 îles et 2 400 petits îlots, mais seulement 30 sont habités — les autres sont des plages vides rien que pour toi ! La terre est très plate, faite de corail calcaire, et elle dépasse à peine la surface de la mer."
+  ],
+  "animals": [
+    "Le flamant rose américain est l'oiseau national, et plus de 50 000 flamants vivent sur la Grande Inagua — leur plumage rose colore toute la rive comme un nuage ! Le mérou de Nassau, lui, se cache sur les récifs coralliens en changeant ses taches en quelques secondes comme un caméléon."
+  ],
+  "culture": [
+    "La fête du Junkanoo, c'est un carnaval géant avant l'aube du Nouvel An, avec des costumes en papier crépon coloré, des tambours en peau de chèvre et des trompettes qui font trembler les rues ! Les Bahamiens adorent aussi le conch — un gros coquillage qu'ils mangent en salade ou en beignets depuis 1 300 ans."
+  ],
+  "history": [
+    "Il y a très longtemps, les Lucayens vivaient tranquillement sur ces îles depuis des centaines d'années, mangeant des coquillages et construisant leurs pirogues. En 1492, un explorateur nommé Christophe Colomb débarqua sur la plage de San Salvador et fut tellement émerveillé qu'il appela la région « baja mar », la mer peu profonde !"
+  ],
   "wows": [
     "Les Bahamas ont plus de « trous bleus » — des gouffres sous-marins — par kilomètre carré que n'importe où ailleurs sur Terre.",
     "Le Trou Bleu de Dean, sur l'île de Long Island, plonge à 202 mètres de profondeur — c'est comme un immeuble de 60 étages à l'envers dans la mer !",

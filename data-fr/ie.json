@@ -72,10 +72,18 @@
     "history": "Une légende vieille de 5 000 ans",
     "wows": "Irlande : les incroyables surprises"
   },
-  "geo": "L'Irlande est couverte de champs verts séparés par des murets en pierre et parsemés de lacs brillants appelés loughs. À l'ouest, les Falaises de Moher plongent de 214 mètres dans l'océan Atlantique — c'est comme regarder dans le vide depuis un immeuble de 70 étages !",
-  "animals": "Le cerf roux est le plus grand animal sauvage d'Irlande et il vit dans le parc national de Killarney. L'aigle à queue blanche avait disparu pendant 100 ans, mais depuis 2007 il vole de nouveau au-dessus des lacs — c'est comme si un super-héros était revenu !",
-  "culture": "L'Irlande est le seul pays au monde dont l'emblème national est un instrument de musique : la harpe ! Partout dans les petits cafés appelés pubs, les musiciens jouent du violon et de la flûte, et tout le monde danse et chante ensemble.",
-  "history": "Il y a 5 000 ans, des gens très habiles ont construit un tombeau magique appelé Newgrange. Chaque année, le matin du 21 décembre, un rayon de soleil entre exactement dans le couloir et illumine la salle secrète — comme une lampe allumée par le soleil !",
+  "geo": [
+    "L'Irlande est couverte de champs verts séparés par des murets en pierre et parsemés de lacs brillants appelés loughs. À l'ouest, les Falaises de Moher plongent de 214 mètres dans l'océan Atlantique — c'est comme regarder dans le vide depuis un immeuble de 70 étages !"
+  ],
+  "animals": [
+    "Le cerf roux est le plus grand animal sauvage d'Irlande et il vit dans le parc national de Killarney. L'aigle à queue blanche avait disparu pendant 100 ans, mais depuis 2007 il vole de nouveau au-dessus des lacs — c'est comme si un super-héros était revenu !"
+  ],
+  "culture": [
+    "L'Irlande est le seul pays au monde dont l'emblème national est un instrument de musique : la harpe ! Partout dans les petits cafés appelés pubs, les musiciens jouent du violon et de la flûte, et tout le monde danse et chante ensemble."
+  ],
+  "history": [
+    "Il y a 5 000 ans, des gens très habiles ont construit un tombeau magique appelé Newgrange. Chaque année, le matin du 21 décembre, un rayon de soleil entre exactement dans le couloir et illumine la salle secrète — comme une lampe allumée par le soleil !"
+  ],
   "wows": [
     "L'Irlande n'a aucun serpent — les glaciers les ont tous fait disparaître il y a très longtemps !",
     "La brasserie Guinness à Dublin a signé un contrat de location de 9 000 ans en 1759 — et fabrique encore de la bière aujourd'hui !",

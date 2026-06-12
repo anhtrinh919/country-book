@@ -72,10 +72,18 @@
     "history": "Une légende très ancienne",
     "wows": "7 choses qui vont t'épater !"
   },
-  "geo": "Le Nicaragua a deux énormes lacs et une rangée de 19 volcans qui soufflent de la fumée ! Le pays touche à la fois l'océan Pacifique et la mer des Caraïbes.",
-  "animals": "Le lac Nicaragua cache des requins — les seuls requins au monde qui vivent dans l'eau douce ! Des centaines de tortues de mer viennent pondre leurs œufs sur la plage chaque année, toutes ensemble.",
-  "culture": "Au Nicaragua, les gens adorent la poésie et la musique, et les places des villages sont pleines de chansons le soir ! Le plat préféré s'appelle le gallo pinto — c'est du riz avec des haricots noirs, mangé au petit-déjeuner, au déjeuner et au dîner.",
-  "history": "Il y a très longtemps, deux grandes villes rivales, Granada et León, se disputaient pour savoir laquelle serait la capitale du pays ! Elles étaient si jalouses l'une de l'autre qu'on a finalement choisi une toute nouvelle ville, Managua, pour que personne ne soit fâché.",
+  "geo": [
+    "Le Nicaragua a deux énormes lacs et une rangée de 19 volcans qui soufflent de la fumée ! Le pays touche à la fois l'océan Pacifique et la mer des Caraïbes."
+  ],
+  "animals": [
+    "Le lac Nicaragua cache des requins — les seuls requins au monde qui vivent dans l'eau douce ! Des centaines de tortues de mer viennent pondre leurs œufs sur la plage chaque année, toutes ensemble."
+  ],
+  "culture": [
+    "Au Nicaragua, les gens adorent la poésie et la musique, et les places des villages sont pleines de chansons le soir ! Le plat préféré s'appelle le gallo pinto — c'est du riz avec des haricots noirs, mangé au petit-déjeuner, au déjeuner et au dîner."
+  ],
+  "history": [
+    "Il y a très longtemps, deux grandes villes rivales, Granada et León, se disputaient pour savoir laquelle serait la capitale du pays ! Elles étaient si jalouses l'une de l'autre qu'on a finalement choisi une toute nouvelle ville, Managua, pour que personne ne soit fâché."
+  ],
   "wows": [
     "On peut faire du surf sur les cendres noires du volcan Cerro Negro — comme du ski, mais sur un volcan !",
     "Le lac Nicaragua est le seul lac au monde avec des requins qui nagent à l'intérieur.",

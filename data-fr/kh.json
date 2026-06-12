@@ -72,10 +72,18 @@
     "history": "L'empire des rois-dieux",
     "wows": "Wahou ! Tu savais ça ?"
   },
-  "geo": "Le Cambodge est un grand pays plat arrosé par le fleuve Mékong. Au milieu se trouve le lac Tonlé Sap — le plus grand lac d'eau douce d'Asie du Sud-Est — qui devient six fois plus grand pendant la saison des pluies !",
-  "animals": "Le dauphin de l'Irrawaddy est un petit dauphin tout rond qui vit dans le Mékong et qui ressemble à un dauphin qui sourit toujours. Les Cambodgiens le considèrent comme sacré et il n'en reste plus que 100 environ !",
-  "culture": "Pour dire bonjour au Cambodge, on joint les mains comme pour une prière et on s'incline — ça s'appelle le sampeah. Les Cambodgiens cuisinent aussi un délicieux poisson cuit dans des feuilles de bananier avec du lait de coco !",
-  "history": "Il y a plus de 1 000 ans, un roi-dieu nommé Jayavarman II a construit un immense empire qui couvrait presque toute l'Asie du Sud-Est. Sa capitale Angkor était la plus grande ville du monde entier à l'époque !",
+  "geo": [
+    "Le Cambodge est un grand pays plat arrosé par le fleuve Mékong. Au milieu se trouve le lac Tonlé Sap — le plus grand lac d'eau douce d'Asie du Sud-Est — qui devient six fois plus grand pendant la saison des pluies !"
+  ],
+  "animals": [
+    "Le dauphin de l'Irrawaddy est un petit dauphin tout rond qui vit dans le Mékong et qui ressemble à un dauphin qui sourit toujours. Les Cambodgiens le considèrent comme sacré et il n'en reste plus que 100 environ !"
+  ],
+  "culture": [
+    "Pour dire bonjour au Cambodge, on joint les mains comme pour une prière et on s'incline — ça s'appelle le sampeah. Les Cambodgiens cuisinent aussi un délicieux poisson cuit dans des feuilles de bananier avec du lait de coco !"
+  ],
+  "history": [
+    "Il y a plus de 1 000 ans, un roi-dieu nommé Jayavarman II a construit un immense empire qui couvrait presque toute l'Asie du Sud-Est. Sa capitale Angkor était la plus grande ville du monde entier à l'époque !"
+  ],
   "wows": [
     "Angkor Vat est si grand qu'il a un fossé de plus de 5 km tout autour — comme une rivière qui fait le tour !",
     "Le drapeau du Cambodge est le seul au monde à montrer un vrai bâtiment : les tours d'Angkor Vat !",

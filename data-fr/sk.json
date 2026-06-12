@@ -72,10 +72,18 @@
     "history": "Une légende très ancienne",
     "wows": "La Slovaquie va t'étonner !"
   },
-  "geo": "La Slovaquie se trouve dans les Carpates, une grande courbe de montagnes. Les Hautes Tatras au nord montent comme des dents de requin, jusqu'à 2 654 m de hauteur ! Sous la terre, plus de 7 000 grottes ont été découvertes, et six d'entre elles sont classées à l'UNESCO.",
-  "animals": "La Slovaquie abrite environ 1 000 ours bruns qui se promènent dans les forêts des Carpates — c'est l'une des plus grandes densités de l'Union européenne ! Tout en haut des rochers vit le chamois des Tatras, un animal qui n'existe nulle part ailleurs sur Terre.",
-  "culture": "En Slovaquie, chaque village avait autrefois ses propres chansons, costumes colorés et petites églises en bois. Le plat national s'appelle les bryndzové halušky : des petites boulettes de pommes de terre avec du fromage de brebis et du bacon croustillant, miam ! Le hockey sur glace est une passion nationale — les Slovaques ont même gagné le championnat du monde en 2002.",
-  "history": "Il y a très longtemps, en l'an 863, deux missionnaires nommés Cyrille et Méthode ont inventé le tout premier alphabet slave pour les habitants de Grande-Moravie. Plus tard, la ville de Bratislava est devenue une ville royale où les rois étaient couronnés avec de grandes cérémonies.",
+  "geo": [
+    "La Slovaquie se trouve dans les Carpates, une grande courbe de montagnes. Les Hautes Tatras au nord montent comme des dents de requin, jusqu'à 2 654 m de hauteur ! Sous la terre, plus de 7 000 grottes ont été découvertes, et six d'entre elles sont classées à l'UNESCO."
+  ],
+  "animals": [
+    "La Slovaquie abrite environ 1 000 ours bruns qui se promènent dans les forêts des Carpates — c'est l'une des plus grandes densités de l'Union européenne ! Tout en haut des rochers vit le chamois des Tatras, un animal qui n'existe nulle part ailleurs sur Terre."
+  ],
+  "culture": [
+    "En Slovaquie, chaque village avait autrefois ses propres chansons, costumes colorés et petites églises en bois. Le plat national s'appelle les bryndzové halušky : des petites boulettes de pommes de terre avec du fromage de brebis et du bacon croustillant, miam ! Le hockey sur glace est une passion nationale — les Slovaques ont même gagné le championnat du monde en 2002."
+  ],
+  "history": [
+    "Il y a très longtemps, en l'an 863, deux missionnaires nommés Cyrille et Méthode ont inventé le tout premier alphabet slave pour les habitants de Grande-Moravie. Plus tard, la ville de Bratislava est devenue une ville royale où les rois étaient couronnés avec de grandes cérémonies."
+  ],
   "wows": [
     "La Slovaquie a plus de 180 châteaux dans un pays plus petit que le Costa Rica — plus par habitant que presque partout ailleurs !",
     "Bratislava est la seule capitale au monde qui touche deux pays différents : l'Autriche et la Hongrie.",

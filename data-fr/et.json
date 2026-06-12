@@ -72,10 +72,18 @@
     "history": "3 millions d'années d'aventures",
     "wows": "C'est vraiment vrai ça ?!"
   },
-  "geo": "L'Éthiopie est posée sur un grand plateau rocheux traversé par la Grande Vallée du Rift. Au nord, les montagnes des Siméon s'élèvent très haut dans les nuages, et à l'est, le sol descend jusqu'à un endroit appelé la dépression Danakil — l'un des lieux les plus chauds de la Terre, avec des lacs de lave orange qui brillent !",
-  "animals": "Le loup éthiopien est le carnivore le plus rare d'Afrique, et il vit seulement sur les hauts plateaux de l'Éthiopie. Le gélada, un singe qui ressemble à un babouin, broute l'herbe au bord des falaises en groupes de centaines, et il montre un joli patch rouge brillant sur sa poitrine !",
-  "culture": "En Éthiopie, faire du café est une vraie cérémonie : on fait griller les grains verts sur du charbon, puis on les prépare dans une belle théière en argile appelée jebena. L'Église orthodoxe a plus de 1 600 ans et il y a plus de 80 jours fériés dans l'année — les Éthiopiens adorent faire la fête !",
-  "history": "Dans la région Afar, les scientifiques ont trouvé les os d'une ancêtre appelée « Lucy » qui a vécu il y a 3,2 millions d'années. L'ancien empire Aksoum était si puissant qu'il commerçait avec Rome et l'Arabie, et il a même inventé son propre alphabet !",
+  "geo": [
+    "L'Éthiopie est posée sur un grand plateau rocheux traversé par la Grande Vallée du Rift. Au nord, les montagnes des Siméon s'élèvent très haut dans les nuages, et à l'est, le sol descend jusqu'à un endroit appelé la dépression Danakil — l'un des lieux les plus chauds de la Terre, avec des lacs de lave orange qui brillent !"
+  ],
+  "animals": [
+    "Le loup éthiopien est le carnivore le plus rare d'Afrique, et il vit seulement sur les hauts plateaux de l'Éthiopie. Le gélada, un singe qui ressemble à un babouin, broute l'herbe au bord des falaises en groupes de centaines, et il montre un joli patch rouge brillant sur sa poitrine !"
+  ],
+  "culture": [
+    "En Éthiopie, faire du café est une vraie cérémonie : on fait griller les grains verts sur du charbon, puis on les prépare dans une belle théière en argile appelée jebena. L'Église orthodoxe a plus de 1 600 ans et il y a plus de 80 jours fériés dans l'année — les Éthiopiens adorent faire la fête !"
+  ],
+  "history": [
+    "Dans la région Afar, les scientifiques ont trouvé les os d'une ancêtre appelée « Lucy » qui a vécu il y a 3,2 millions d'années. L'ancien empire Aksoum était si puissant qu'il commerçait avec Rome et l'Arabie, et il a même inventé son propre alphabet !"
+  ],
   "wows": [
     "L'Éthiopie a 13 mois ! Le 13e mois, Pagume, n'a que 5 ou 6 jours.",
     "Les Éthiopiens comptent les heures depuis le lever du soleil — leur midi, c'est notre 6h !",

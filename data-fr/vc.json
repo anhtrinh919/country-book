@@ -72,10 +72,18 @@
     "history": "Une légende de guerriers courageux",
     "wows": "Sept surprises grandes comme un joyau"
   },
-  "geo": "Saint-Vincent est une île volcanique couverte d'une forêt touffue et verte. Le volcan La Soufrière a craché de la cendre en 2021, comme un géant qui tousse très fort ! Au sud, de petites îles appelées les Grenadines s'étirent sur 90 km avec des lagons si clairs qu'on voit tout au fond.",
-  "animals": "Le perroquet de Saint-Vincent est l'oiseau national — il est doré, bleu et violet, et il vit uniquement ici, nulle part ailleurs dans le monde ! Le gecko de l'île Union est si minuscule qu'il tient dans la paume d'une main, et les scientifiques ne l'ont découvert qu'en 2005.",
-  "culture": "Le carnaval Vincy Mas arrive chaque été à Kingstown avec des costumes brillants, des tambours et de la musique soca pendant douze jours entiers ! Le plat préféré des habitants est le poisson frit avec du fruit à pain grillé sur des braises de charbon.",
-  "history": "Il y a très longtemps, un chef courageux nommé Chatoyer protégeait son peuple, les Garifunas, contre tous ceux qui voulaient s'emparer de leur île. Il est aujourd'hui le seul héros national du pays, et tout le monde se souvient de lui comme d'un géant brave et fort !",
+  "geo": [
+    "Saint-Vincent est une île volcanique couverte d'une forêt touffue et verte. Le volcan La Soufrière a craché de la cendre en 2021, comme un géant qui tousse très fort ! Au sud, de petites îles appelées les Grenadines s'étirent sur 90 km avec des lagons si clairs qu'on voit tout au fond."
+  ],
+  "animals": [
+    "Le perroquet de Saint-Vincent est l'oiseau national — il est doré, bleu et violet, et il vit uniquement ici, nulle part ailleurs dans le monde ! Le gecko de l'île Union est si minuscule qu'il tient dans la paume d'une main, et les scientifiques ne l'ont découvert qu'en 2005."
+  ],
+  "culture": [
+    "Le carnaval Vincy Mas arrive chaque été à Kingstown avec des costumes brillants, des tambours et de la musique soca pendant douze jours entiers ! Le plat préféré des habitants est le poisson frit avec du fruit à pain grillé sur des braises de charbon."
+  ],
+  "history": [
+    "Il y a très longtemps, un chef courageux nommé Chatoyer protégeait son peuple, les Garifunas, contre tous ceux qui voulaient s'emparer de leur île. Il est aujourd'hui le seul héros national du pays, et tout le monde se souvient de lui comme d'un géant brave et fort !"
+  ],
   "wows": [
     "Saint-Vincent produit 95 % de la marante mondiale — une plante que les anciens utilisaient pour soigner les blessures !",
     "Un vrai décor du film Pirates des Caraïbes a été construit à Wallilabou Bay — les accessoires sont encore là !",

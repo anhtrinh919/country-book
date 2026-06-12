@@ -72,10 +72,18 @@
     "history": "Des empires et des sculptures magiques",
     "wows": "Les secrets fous du Nigéria"
   },
-  "geo": "Le Nigéria a deux grands fleuves — le Niger et la Bénoué — qui se rejoignent en formant un immense Y comme dans l'alphabet ! Au nord, c'est une grande plaine sèche et chaude ; au sud, une forêt touffue pleine de mystères.",
-  "animals": "Dans les forêts du Nigéria vit le gorille de Cross River, l'un des animaux les plus rares du monde — il en reste moins de 300 ! Au parc de Yankari, plus de 350 éléphants se promènent librement près de sources d'eau chaude.",
-  "culture": "Au Nigéria, les gens parlent plus de 500 langues différentes — c'est comme avoir 500 façons de dire bonjour ! Chaque année, Nollywood fabrique des milliers de films, et la star Burna Boy fait danser le monde entier avec sa musique Afrobeats.",
-  "history": "Il y a 2 000 ans, le peuple Nok fabriquait de magnifiques statues en terre cuite — certaines ressemblent à des visages souriants. Bien plus tard, le royaume yoruba d'Oyo était si puissant que ses cavaliers faisaient trembler toute la région !",
+  "geo": [
+    "Le Nigéria a deux grands fleuves — le Niger et la Bénoué — qui se rejoignent en formant un immense Y comme dans l'alphabet ! Au nord, c'est une grande plaine sèche et chaude ; au sud, une forêt touffue pleine de mystères."
+  ],
+  "animals": [
+    "Dans les forêts du Nigéria vit le gorille de Cross River, l'un des animaux les plus rares du monde — il en reste moins de 300 ! Au parc de Yankari, plus de 350 éléphants se promènent librement près de sources d'eau chaude."
+  ],
+  "culture": [
+    "Au Nigéria, les gens parlent plus de 500 langues différentes — c'est comme avoir 500 façons de dire bonjour ! Chaque année, Nollywood fabrique des milliers de films, et la star Burna Boy fait danser le monde entier avec sa musique Afrobeats."
+  ],
+  "history": [
+    "Il y a 2 000 ans, le peuple Nok fabriquait de magnifiques statues en terre cuite — certaines ressemblent à des visages souriants. Bien plus tard, le royaume yoruba d'Oyo était si puissant que ses cavaliers faisaient trembler toute la région !"
+  ],
   "wows": [
     "Le Nigéria fabrique plus de films par an que Hollywood — Nollywood est la plus grande industrie de cinéma d'Afrique !",
     "Lagos est une ville de 15 millions d'habitants — c'est comme si toute la France habitait dans une seule ville !",

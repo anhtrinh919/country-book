@@ -72,10 +72,18 @@
     "history": "Une île aux trésors cachés",
     "wows": "Trop surprenant pour être vrai !"
   },
-  "geo": "Nauru est une petite île ovale entourée d'un lagon de corail coloré et d'une bande côtière où vivent presque tous ses habitants. Au centre, un plateau rocheux s'élève à 30 mètres — il abritait autrefois un trésor enfoui dans la terre ! La seule étendue d'eau douce est le lagon de Buada, un joli étang entouré de palmiers.",
-  "animals": "L'oiseau le plus célèbre de Nauru est la fauvette des roseaux — un petit oiseau brun que l'on ne trouve nulle part ailleurs sur Terre ! Les frégates géantes planent au-dessus des vagues et attrapent des poissons en plein vol, comme de vrais acrobates du ciel.",
-  "culture": "Les habitants de Nauru appartiennent à 12 clans anciens, et chacun possède ses propres histoires et traditions. Les grandes fêtes rassemblent tout le monde autour de poisson frais, de noix de coco et de fruits de pandanus. La lévation de poids est même un sport national — des athlètes de Nauru ont gagné des médailles olympiques !",
-  "history": "Il y a très longtemps, des navigateurs venus d'îles lointaines ont découvert Nauru et l'ont appelée « l'île Agréable ». Des siècles plus tard, on a découvert que son sol était rempli d'un trésor naturel : du phosphate formé par des millions d'oiseaux pendant des millénaires !",
+  "geo": [
+    "Nauru est une petite île ovale entourée d'un lagon de corail coloré et d'une bande côtière où vivent presque tous ses habitants. Au centre, un plateau rocheux s'élève à 30 mètres — il abritait autrefois un trésor enfoui dans la terre ! La seule étendue d'eau douce est le lagon de Buada, un joli étang entouré de palmiers."
+  ],
+  "animals": [
+    "L'oiseau le plus célèbre de Nauru est la fauvette des roseaux — un petit oiseau brun que l'on ne trouve nulle part ailleurs sur Terre ! Les frégates géantes planent au-dessus des vagues et attrapent des poissons en plein vol, comme de vrais acrobates du ciel."
+  ],
+  "culture": [
+    "Les habitants de Nauru appartiennent à 12 clans anciens, et chacun possède ses propres histoires et traditions. Les grandes fêtes rassemblent tout le monde autour de poisson frais, de noix de coco et de fruits de pandanus. La lévation de poids est même un sport national — des athlètes de Nauru ont gagné des médailles olympiques !"
+  ],
+  "history": [
+    "Il y a très longtemps, des navigateurs venus d'îles lointaines ont découvert Nauru et l'ont appelée « l'île Agréable ». Des siècles plus tard, on a découvert que son sol était rempli d'un trésor naturel : du phosphate formé par des millions d'oiseaux pendant des millénaires !"
+  ],
   "wows": [
     "Nauru est la plus petite république du monde — seuls le Vatican et Monaco sont encore plus petits !",
     "Tu peux faire le tour de toute l'île en voiture en seulement 20 minutes sur une seule route !",

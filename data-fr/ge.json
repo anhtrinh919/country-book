@@ -72,10 +72,18 @@
     "history": "Un roi, un faucon et une ville magique",
     "wows": "La Géorgie qui surprend !"
   },
-  "geo": "La Géorgie est nichée entre de très hautes montagnes enneigées appelées le Grand Caucase et la mer Noire. Le mont Chkhara monte jusqu'à 5 201 m — plus haut que toutes les montagnes d'Europe !",
-  "animals": "Dans les montagnes géorgiennes vit le tur du Caucase, une chèvre sauvage avec de grandes cornes recourbées qui saute sur les rochers. Chaque automne, plus d'un million d'oiseaux de proie survolent la côte de Batoumi — un spectacle incroyable !",
-  "culture": "Les Géorgiens fabriquent leur vin dans de grandes jarres en argile enterrées sous terre appelées qvevri. Ils chantent aussi en trois voix différentes en même temps — une façon de faire de la musique vraiment unique au monde !",
-  "history": "Il y a très longtemps, un roi géorgien chassait à la fauconnerie quand son faucon tomba dans une source d'eau chaude et bouillonnante — et à cet endroit, il construisit la ville de Tbilissi ! La Géorgie était aussi le pays de la Toison d'or, que cherchait le héros grec Jason.",
+  "geo": [
+    "La Géorgie est nichée entre de très hautes montagnes enneigées appelées le Grand Caucase et la mer Noire. Le mont Chkhara monte jusqu'à 5 201 m — plus haut que toutes les montagnes d'Europe !"
+  ],
+  "animals": [
+    "Dans les montagnes géorgiennes vit le tur du Caucase, une chèvre sauvage avec de grandes cornes recourbées qui saute sur les rochers. Chaque automne, plus d'un million d'oiseaux de proie survolent la côte de Batoumi — un spectacle incroyable !"
+  ],
+  "culture": [
+    "Les Géorgiens fabriquent leur vin dans de grandes jarres en argile enterrées sous terre appelées qvevri. Ils chantent aussi en trois voix différentes en même temps — une façon de faire de la musique vraiment unique au monde !"
+  ],
+  "history": [
+    "Il y a très longtemps, un roi géorgien chassait à la fauconnerie quand son faucon tomba dans une source d'eau chaude et bouillonnante — et à cet endroit, il construisit la ville de Tbilissi ! La Géorgie était aussi le pays de la Toison d'or, que cherchait le héros grec Jason."
+  ],
   "wows": [
     "La Géorgie a inventé le vin il y a 8 000 ans — bien avant les pyramides d'Égypte !",
     "Une chanson géorgienne appelée Chakrulo a été envoyée dans l'espace en 1977 à bord de la sonde Voyager.",

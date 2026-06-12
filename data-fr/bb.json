@@ -72,10 +72,18 @@
     "history": "Une île pleine de trésors",
     "wows": "Tu ne savais pas ça !"
   },
-  "geo": "La Barbade est une île plate faite de corail, avec de douces collines et de belles plages calmes à l'ouest. À l'est, les vagues de l'Atlantique sont grandes comme des montagnes — les surfeurs adorent ça !",
-  "animals": "Le poisson volant est le symbole de la Barbade : il bondit hors de l'eau et plane jusqu'à 45 mètres avec ses nageoires comme des ailes ! L'île abrite aussi 10 000 singes verts qui chipent les mangues dans les arbres.",
-  "culture": "Le plat préféré des Barbadiens, c'est le poisson volant avec du cou-cou, une bouillie crémeuse de maïs et de gombos. Chaque été, le festival Crop Over remplit les rues de déguisements colorés, de musique calypso et de danses joyeuses !",
-  "history": "Il y a très longtemps, des navigateurs ont découvert cette île et l'ont appelée « Les Barbus » à cause des figuiers à longues racines qui ressemblaient à des barbes. La Barbade est devenue une vraie île indépendante en 1966 — et tout le monde a fêté ça !",
+  "geo": [
+    "La Barbade est une île plate faite de corail, avec de douces collines et de belles plages calmes à l'ouest. À l'est, les vagues de l'Atlantique sont grandes comme des montagnes — les surfeurs adorent ça !"
+  ],
+  "animals": [
+    "Le poisson volant est le symbole de la Barbade : il bondit hors de l'eau et plane jusqu'à 45 mètres avec ses nageoires comme des ailes ! L'île abrite aussi 10 000 singes verts qui chipent les mangues dans les arbres."
+  ],
+  "culture": [
+    "Le plat préféré des Barbadiens, c'est le poisson volant avec du cou-cou, une bouillie crémeuse de maïs et de gombos. Chaque été, le festival Crop Over remplit les rues de déguisements colorés, de musique calypso et de danses joyeuses !"
+  ],
+  "history": [
+    "Il y a très longtemps, des navigateurs ont découvert cette île et l'ont appelée « Les Barbus » à cause des figuiers à longues racines qui ressemblaient à des barbes. La Barbade est devenue une vraie île indépendante en 1966 — et tout le monde a fêté ça !"
+  ],
   "wows": [
     "La distillerie Mount Gay fabrique du rhum depuis 1703 — c'est la plus vieille marque de rhum du monde !",
     "Le pamplemousse a été inventé à la Barbade — c'est un croisement né par hasard entre deux fruits.",

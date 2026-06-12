@@ -72,10 +72,18 @@
     "history": "Un pays né d'une signature de l'Empereur",
     "wows": "Incroyable mais vrai !"
   },
-  "geo": "Le Liechtenstein se trouve entre l'Autriche et la Suisse, avec le grand fleuve Rhin à l'ouest et les montagnes pointues des Alpes à l'est. Le pays ne fait que 26 km du nord au sud — on peut le traverser à vélo en une matinée !",
-  "animals": "Dans les Alpes du Liechtenstein vit le chamois, un animal agile comme une chèvre qui saute de rocher en rocher sans jamais tomber. La marmotte alpine, elle, siffle très fort pour alerter ses amis, puis dort tout l'hiver bien au chaud sous la neige !",
-  "culture": "Chaque année le 15 août, le Prince ouvre les portes de son château et invite tous les habitants du pays à une grande fête dans son jardin — tout le monde est bienvenu ! En automne, les vaches descendent des montagnes décorées de fleurs et de cloches dans un grand défilé coloré.",
-  "history": "Il y a très longtemps, en 1719, un grand Empereur du nom de Charles a réuni deux petits territoires et a décidé de les appeler Liechtenstein. Mais les princes qui donnaient leur nom au pays n'ont jamais visité leur nouveau royaume pendant les cent premières années !",
+  "geo": [
+    "Le Liechtenstein se trouve entre l'Autriche et la Suisse, avec le grand fleuve Rhin à l'ouest et les montagnes pointues des Alpes à l'est. Le pays ne fait que 26 km du nord au sud — on peut le traverser à vélo en une matinée !"
+  ],
+  "animals": [
+    "Dans les Alpes du Liechtenstein vit le chamois, un animal agile comme une chèvre qui saute de rocher en rocher sans jamais tomber. La marmotte alpine, elle, siffle très fort pour alerter ses amis, puis dort tout l'hiver bien au chaud sous la neige !"
+  ],
+  "culture": [
+    "Chaque année le 15 août, le Prince ouvre les portes de son château et invite tous les habitants du pays à une grande fête dans son jardin — tout le monde est bienvenu ! En automne, les vaches descendent des montagnes décorées de fleurs et de cloches dans un grand défilé coloré."
+  ],
+  "history": [
+    "Il y a très longtemps, en 1719, un grand Empereur du nom de Charles a réuni deux petits territoires et a décidé de les appeler Liechtenstein. Mais les princes qui donnaient leur nom au pays n'ont jamais visité leur nouveau royaume pendant les cent premières années !"
+  ],
   "wows": [
     "On peut traverser tout le pays à vélo en une seule matinée — c'est minuscule !",
     "Le prince habite pour de vrai dans le château qui surplombe la capitale.",

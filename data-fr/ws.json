@@ -72,10 +72,18 @@
     "history": "3 000 ans d'aventures sur l'île",
     "wows": "C'est difficile à croire, mais c'est vrai !"
   },
-  "geo": "Les Samoa sont deux îles volcaniques sorties du fond de l'océan, avec de grandes montagnes couvertes de forêt tropicale et des plages de sable blanc. La chose la plus incroyable s'appelle To Sua — c'est une piscine géante de 30 mètres de profondeur creusée dans un tube de lave, reliée à l'océan par une grotte sous-marine !",
-  "animals": "La seule bête sauvage qui vit sur terre aux Samoa est une grosse chauve-souris appelée la renarde volante — elle chasse des fruits en pleine journée, ce qui est très bizarre pour une chauve-souris ! L'oiseau le plus rare s'appelle le manumea, le « petit dodo » des Samoa, et il reste moins de 250 de ces oiseaux dans toute la forêt.",
-  "culture": "Aux Samoa, les familles vivent ensemble dans des maisons ouvertes sans murs appelées fale, et tout le monde décide ensemble. Avant chaque fête, les anciens boivent une boisson spéciale appelée 'ava dans une coquille de noix de coco, en suivant des règles très anciennes sur qui parle et qui boit en premier !",
-  "history": "Il y a 3 000 ans, des aventuriers polynésiens sont arrivés à Samoa en pirogue depuis d'autres îles. Depuis les Samoa, ces grands navigateurs sont partis explorer et découvrir Hawaii et même la Nouvelle-Zélande — c'était les plus grands explorateurs de l'océan !",
+  "geo": [
+    "Les Samoa sont deux îles volcaniques sorties du fond de l'océan, avec de grandes montagnes couvertes de forêt tropicale et des plages de sable blanc. La chose la plus incroyable s'appelle To Sua — c'est une piscine géante de 30 mètres de profondeur creusée dans un tube de lave, reliée à l'océan par une grotte sous-marine !"
+  ],
+  "animals": [
+    "La seule bête sauvage qui vit sur terre aux Samoa est une grosse chauve-souris appelée la renarde volante — elle chasse des fruits en pleine journée, ce qui est très bizarre pour une chauve-souris ! L'oiseau le plus rare s'appelle le manumea, le « petit dodo » des Samoa, et il reste moins de 250 de ces oiseaux dans toute la forêt."
+  ],
+  "culture": [
+    "Aux Samoa, les familles vivent ensemble dans des maisons ouvertes sans murs appelées fale, et tout le monde décide ensemble. Avant chaque fête, les anciens boivent une boisson spéciale appelée 'ava dans une coquille de noix de coco, en suivant des règles très anciennes sur qui parle et qui boit en premier !"
+  ],
+  "history": [
+    "Il y a 3 000 ans, des aventuriers polynésiens sont arrivés à Samoa en pirogue depuis d'autres îles. Depuis les Samoa, ces grands navigateurs sont partis explorer et découvrir Hawaii et même la Nouvelle-Zélande — c'était les plus grands explorateurs de l'océan !"
+  ],
   "wows": [
     "Les Samoa ont effacé le 30 décembre 2011 de leur calendrier en sautant par-dessus la ligne de date internationale !",
     "Le mot « tatouage » que tout le monde utilise vient du mot samoan tatau.",

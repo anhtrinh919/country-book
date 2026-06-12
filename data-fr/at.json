@@ -72,10 +72,18 @@
     "history": "Empereurs et légendes d'autrefois",
     "wows": "7 choses qui vont t'épater !"
   },
-  "geo": "L'Autriche est presque entièrement couverte par les Alpes, avec des sommets enneigés et des lacs brillants comme des miroirs. Le grand fleuve Danube traverse le nord du pays et passe devant la belle ville de Vienne.",
-  "animals": "Le bouquetin des Alpes grimpe sur des rochers à pic avec ses énormes cornes recourbées — il ne tombe jamais ! En bas, dans les forêts, des chevaux blancs appelés Lipizzans apprennent à danser et à sauter comme des danseurs de ballet.",
-  "culture": "À Vienne, les gens adorent aller dans des cafés douillets pour manger un gâteau au chocolat appelé Sachertorte et boire un café bien chaud. La musique résonne partout en Autriche, car c'est le pays où le célèbre Mozart est né !",
-  "history": "Il y a très longtemps, l'Autriche était dirigée par une famille puissante appelée les Habsbourg pendant plus de 600 ans. Leur ville de Vienne était si grande et si belle que des gens venaient du monde entier pour la voir.",
+  "geo": [
+    "L'Autriche est presque entièrement couverte par les Alpes, avec des sommets enneigés et des lacs brillants comme des miroirs. Le grand fleuve Danube traverse le nord du pays et passe devant la belle ville de Vienne."
+  ],
+  "animals": [
+    "Le bouquetin des Alpes grimpe sur des rochers à pic avec ses énormes cornes recourbées — il ne tombe jamais ! En bas, dans les forêts, des chevaux blancs appelés Lipizzans apprennent à danser et à sauter comme des danseurs de ballet."
+  ],
+  "culture": [
+    "À Vienne, les gens adorent aller dans des cafés douillets pour manger un gâteau au chocolat appelé Sachertorte et boire un café bien chaud. La musique résonne partout en Autriche, car c'est le pays où le célèbre Mozart est né !"
+  ],
+  "history": [
+    "Il y a très longtemps, l'Autriche était dirigée par une famille puissante appelée les Habsbourg pendant plus de 600 ans. Leur ville de Vienne était si grande et si belle que des gens venaient du monde entier pour la voir."
+  ],
   "wows": [
     "Mozart a composé sa première symphonie à seulement 8 ans — pendant des vacances en famille à Londres !",
     "C'est l'Autriche qui a inventé le croissant — les boulangers de Vienne l'ont créé, et la France l'a rendu célèbre.",

@@ -72,10 +72,18 @@
     "history": "Une légende vieille de 800 ans",
     "wows": "L'Espagne va t'étonner !"
   },
-  "geo": "L'Espagne est posée sur un grand plateau plat appelé la Meseta, entouré de montagnes comme les Pyrénées au nord. Tout autour, la mer baigne ses côtes : l'Atlantique d'un côté, la Méditerranée de l'autre !",
-  "animals": "Le lynx ibérique vit dans les forêts du sud de l'Espagne — c'est le chat sauvage le plus rare du monde entier ! Des vautours énormes planent au-dessus des gorges, et des ours bruns se promènent dans les montagnes du nord.",
-  "culture": "En Espagne, on mange très tard : le dîner commence souvent à 21 h, quand les petits français dorment déjà ! Les tapas sont de petites assiettes de nourriture que tout le monde partage au bar.",
-  "history": "Pendant presque 800 ans, des rois venus d'Afrique du Nord appelés les Maures ont construit de magnifiques palais en Espagne. Leur plus beau palais, l'Alhambra, est encore debout aujourd'hui — on peut aller le visiter !",
+  "geo": [
+    "L'Espagne est posée sur un grand plateau plat appelé la Meseta, entouré de montagnes comme les Pyrénées au nord. Tout autour, la mer baigne ses côtes : l'Atlantique d'un côté, la Méditerranée de l'autre !"
+  ],
+  "animals": [
+    "Le lynx ibérique vit dans les forêts du sud de l'Espagne — c'est le chat sauvage le plus rare du monde entier ! Des vautours énormes planent au-dessus des gorges, et des ours bruns se promènent dans les montagnes du nord."
+  ],
+  "culture": [
+    "En Espagne, on mange très tard : le dîner commence souvent à 21 h, quand les petits français dorment déjà ! Les tapas sont de petites assiettes de nourriture que tout le monde partage au bar."
+  ],
+  "history": [
+    "Pendant presque 800 ans, des rois venus d'Afrique du Nord appelés les Maures ont construit de magnifiques palais en Espagne. Leur plus beau palais, l'Alhambra, est encore debout aujourd'hui — on peut aller le visiter !"
+  ],
   "wows": [
     "À la fête de la Tomatina, 20 000 personnes se lancent 150 tonnes de tomates — quelle bataille !",
     "La Sagrada Família à Barcelone est en construction depuis 1882 et n'est toujours pas terminée !",

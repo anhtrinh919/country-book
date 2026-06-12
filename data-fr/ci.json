@@ -72,10 +72,18 @@
     "history": "Cacao, rois et découvertes",
     "wows": "Des faits incroyables !"
   },
-  "geo": "La Côte d'Ivoire descend de la savane sèche du nord jusqu'aux forêts tropicales du sud. La côte atlantique est bordée de jolies lagunes et de villages de pêcheurs. À l'ouest, les montagnes Nimba montent jusqu'à 1 752 m et cachent cinquante cascades !",
-  "animals": "L'éléphant de forêt d'Afrique — avec ses grandes oreilles rondes — est l'animal national du pays. Dans le parc de Taï, des chimpanzés très malins utilisent des pierres comme des marteaux pour casser des noix, et ils apprennent ce tour à leurs bébés ! L'hippopotame pygmée, aussi petit qu'un gros cochon, se cache dans les rivières de la forêt.",
-  "culture": "Les gens de Côte d'Ivoire adorent la musique : le Coupé-Décalé, né à Abidjan, est une danse joyeuse et colorée qui a conquis le monde entier ! Dans les marchés, on sent la bonne odeur du poulet grillé et de l'aloko, des tranches de banane plantain frites bien croustillantes.",
-  "history": "Il y a très longtemps, des marins portugais ont découvert cette côte et lui ont donné le nom «Côte d'Ivoire» car ils y achetaient de grandes défenses d'éléphant. Plus tard, des bâtisseurs très courageux ont construit à Yamoussoukro la plus grande église du monde — encore plus grande que Saint-Pierre de Rome !",
+  "geo": [
+    "La Côte d'Ivoire descend de la savane sèche du nord jusqu'aux forêts tropicales du sud. La côte atlantique est bordée de jolies lagunes et de villages de pêcheurs. À l'ouest, les montagnes Nimba montent jusqu'à 1 752 m et cachent cinquante cascades !"
+  ],
+  "animals": [
+    "L'éléphant de forêt d'Afrique — avec ses grandes oreilles rondes — est l'animal national du pays. Dans le parc de Taï, des chimpanzés très malins utilisent des pierres comme des marteaux pour casser des noix, et ils apprennent ce tour à leurs bébés ! L'hippopotame pygmée, aussi petit qu'un gros cochon, se cache dans les rivières de la forêt."
+  ],
+  "culture": [
+    "Les gens de Côte d'Ivoire adorent la musique : le Coupé-Décalé, né à Abidjan, est une danse joyeuse et colorée qui a conquis le monde entier ! Dans les marchés, on sent la bonne odeur du poulet grillé et de l'aloko, des tranches de banane plantain frites bien croustillantes."
+  ],
+  "history": [
+    "Il y a très longtemps, des marins portugais ont découvert cette côte et lui ont donné le nom «Côte d'Ivoire» car ils y achetaient de grandes défenses d'éléphant. Plus tard, des bâtisseurs très courageux ont construit à Yamoussoukro la plus grande église du monde — encore plus grande que Saint-Pierre de Rome !"
+  ],
   "wows": [
     "La Côte d'Ivoire produit presque la moitié du cacao de toute la planète — chaque tablette de chocolat commence ici !",
     "Abidjan est la 3ᵉ plus grande ville francophone du monde, après Kinshasa et Paris.",

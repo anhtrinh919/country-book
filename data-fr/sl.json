@@ -72,10 +72,18 @@
     "history": "La montagne qui rugit comme un lion",
     "wows": "Difficile à croire, mais c'est vrai !"
   },
-  "geo": "La Sierra Leone a tout en un petit espace : des forêts tropicales épaisses, des collines et une grande montagne appelée Bintumani. Au bord de la mer, il y a de magnifiques plages de sable blanc que beaucoup trouvent les plus belles de toute l'Afrique de l'Ouest !",
-  "animals": "La Sierra Leone abrite plus de 5 500 chimpanzés sauvages — c'est l'une des plus grandes familles de chimpanzés au monde ! Il y a aussi le petit hippopotame pygmée qui se cache dans les rivières ; il est deux fois moins grand que son grand cousin !",
-  "culture": "En Sierra Leone, on mange du riz à chaque repas — avec une soupe aux arachides ou une sauce aux feuilles de manioc. Chaque mois d'août, la ville de Freetown se remplit de couleurs, de tambours et de danses pour le grand carnaval !",
-  "history": "En 1462, un explorateur portugais a entendu le tonnerre gronder dans les collines comme un lion qui rugit, et il a appelé ce pays « Serra Lyoa », la montagne du lion. C'est comme ça que la Sierra Leone a eu son beau nom !",
+  "geo": [
+    "La Sierra Leone a tout en un petit espace : des forêts tropicales épaisses, des collines et une grande montagne appelée Bintumani. Au bord de la mer, il y a de magnifiques plages de sable blanc que beaucoup trouvent les plus belles de toute l'Afrique de l'Ouest !"
+  ],
+  "animals": [
+    "La Sierra Leone abrite plus de 5 500 chimpanzés sauvages — c'est l'une des plus grandes familles de chimpanzés au monde ! Il y a aussi le petit hippopotame pygmée qui se cache dans les rivières ; il est deux fois moins grand que son grand cousin !"
+  ],
+  "culture": [
+    "En Sierra Leone, on mange du riz à chaque repas — avec une soupe aux arachides ou une sauce aux feuilles de manioc. Chaque mois d'août, la ville de Freetown se remplit de couleurs, de tambours et de danses pour le grand carnaval !"
+  ],
+  "history": [
+    "En 1462, un explorateur portugais a entendu le tonnerre gronder dans les collines comme un lion qui rugit, et il a appelé ce pays « Serra Lyoa », la montagne du lion. C'est comme ça que la Sierra Leone a eu son beau nom !"
+  ],
   "wows": [
     "Un diamant de 969 carats — l'Étoile de Sierra Leone — est le plus gros diamant de rivière jamais trouvé !",
     "Le port de Freetown est si profond que les plus grands bateaux du monde y flottent sans toucher le fond.",

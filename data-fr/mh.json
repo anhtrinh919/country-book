@@ -72,10 +72,18 @@
     "history": "Les premiers navigateurs des étoiles",
     "wows": "Trop incroyable pour être vrai !"
   },
-  "geo": "Les Îles Marshall forment deux rangées d'atolls — Ratak (le Lever du soleil) et Ralik (le Coucher du soleil) — avec en tout 1 152 petits bouts de terre. L'atoll de Kwajalein possède le plus grand lagon du monde, si grand qu'une ville entière pourrait s'y cacher !",
-  "animals": "Sous l'eau, plus de 250 espèces de poissons colorés nagent entre 300 sortes de coraux. Sur terre, le crabe des cocotiers est le plus grand crabe du monde — il grimpe aux palmiers et ouvre les noix de coco avec ses pinces géantes !",
-  "culture": "Aux Îles Marshall, c'est la maman qui transmet les terres et les titres à ses enfants — les mamans sont très importantes ici ! La fête de Noël, appelée Kūrijmōj, dure quatre mois entiers avec des chansons et des festins.",
-  "history": "Il y a 2 000 ans, les ancêtres marshallais traversaient l'immense océan sans carte ni boussole. Ils lisaient les vagues sous leur pirogue pour trouver les îles cachées derrière l'horizon — comme des super-héros de la mer !",
+  "geo": [
+    "Les Îles Marshall forment deux rangées d'atolls — Ratak (le Lever du soleil) et Ralik (le Coucher du soleil) — avec en tout 1 152 petits bouts de terre. L'atoll de Kwajalein possède le plus grand lagon du monde, si grand qu'une ville entière pourrait s'y cacher !"
+  ],
+  "animals": [
+    "Sous l'eau, plus de 250 espèces de poissons colorés nagent entre 300 sortes de coraux. Sur terre, le crabe des cocotiers est le plus grand crabe du monde — il grimpe aux palmiers et ouvre les noix de coco avec ses pinces géantes !"
+  ],
+  "culture": [
+    "Aux Îles Marshall, c'est la maman qui transmet les terres et les titres à ses enfants — les mamans sont très importantes ici ! La fête de Noël, appelée Kūrijmōj, dure quatre mois entiers avec des chansons et des festins."
+  ],
+  "history": [
+    "Il y a 2 000 ans, les ancêtres marshallais traversaient l'immense océan sans carte ni boussole. Ils lisaient les vagues sous leur pirogue pour trouver les îles cachées derrière l'horizon — comme des super-héros de la mer !"
+  ],
   "wows": [
     "La capitale Majuro est si étroite qu'on peut marcher du lagon à la mer en seulement deux minutes !",
     "Les Marshallais savaient naviguer sur l'océan rien qu'en sentant les vagues sous leur bateau.",

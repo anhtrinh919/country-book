@@ -72,10 +72,18 @@
     "history": "Une légende vieille de 6 000 ans",
     "wows": "Le Liban, ça m'épate !"
   },
-  "geo": "Le Liban est rayé comme un arc-en-ciel : une côte ensoleillée, de hautes montagnes, une grande vallée plate et encore des montagnes. Entre les deux rangées de montagnes, la vallée de la Bekaa garde l'eau de pluie pour faire pousser les légumes et les raisins !",
-  "animals": "Le cèdre du Liban est un arbre géant qui vit plus de mille ans et déploie ses branches comme un grand parasol vert. Chaque été, des tortues marines viennent pondre leurs œufs sur les plages de sable chaud du Liban !",
-  "culture": "Au Liban, quand quelqu'un arrive à la maison, on lui sert tout de suite un café chaud parfumé à la cardamome. Aux mariages, tout le monde danse le dabké en se tenant le bras et en frappant fort du pied ensemble — boum, boum, boum !",
-  "history": "Il y a très très longtemps, les Phéniciens vivaient ici et ont inventé les lettres de l'alphabet — les mêmes que tu apprends à l'école ! Ils naviguaient sur de grands bateaux en bois et emportaient leur alphabet partout dans le monde.",
+  "geo": [
+    "Le Liban est rayé comme un arc-en-ciel : une côte ensoleillée, de hautes montagnes, une grande vallée plate et encore des montagnes. Entre les deux rangées de montagnes, la vallée de la Bekaa garde l'eau de pluie pour faire pousser les légumes et les raisins !"
+  ],
+  "animals": [
+    "Le cèdre du Liban est un arbre géant qui vit plus de mille ans et déploie ses branches comme un grand parasol vert. Chaque été, des tortues marines viennent pondre leurs œufs sur les plages de sable chaud du Liban !"
+  ],
+  "culture": [
+    "Au Liban, quand quelqu'un arrive à la maison, on lui sert tout de suite un café chaud parfumé à la cardamome. Aux mariages, tout le monde danse le dabké en se tenant le bras et en frappant fort du pied ensemble — boum, boum, boum !"
+  ],
+  "history": [
+    "Il y a très très longtemps, les Phéniciens vivaient ici et ont inventé les lettres de l'alphabet — les mêmes que tu apprends à l'école ! Ils naviguaient sur de grands bateaux en bois et emportaient leur alphabet partout dans le monde."
+  ],
   "wows": [
     "Les Phéniciens ont inventé l'alphabet il y a 3 000 ans — tes lettres viennent d'ici !",
     "On peut skier le matin sur la neige et se baigner dans la mer l'après-midi, à seulement 50 km de distance.",

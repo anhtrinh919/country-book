@@ -72,10 +72,18 @@
     "history": "Une légende vieille de mille ans",
     "wows": "Difficile à croire, mais c'est vrai !"
   },
-  "geo": "La Lettonie est un pays très plat au bord de la mer Baltique, couvert à moitié de grandes forêts de pins et de bouleaux. La rivière Daugava traverse le pays jusqu'à la mer, et après les tempêtes, on trouve sur la plage de l'ambre doré vieux de 40 millions d'années !",
-  "animals": "Les forêts lettones cachent des ours bruns, des loups, des lynx et d'immenses élans. Les cigognes blanches sont les invitées préférées de l'été — 14 000 paires font leur nid sur les cheminées des maisons chaque année !",
-  "culture": "Les Lettons ont inventé plus d'un million de petites chansons appelées dainas qui racontent la nature et les saisons. Tous les cinq ans, 40 000 chanteurs se réunissent à Riga pour le grand Festival de la Chanson — c'est comme un concert géant !",
-  "history": "Il y a très longtemps, les Lettons échangeaient leur ambre brillant contre des trésors avec les Romains de l'Antiquité. La nuit de la Saint-Jean, tout le monde cherche la fleur de fougère magique dans la forêt — même si elle n'existe pas vraiment !",
+  "geo": [
+    "La Lettonie est un pays très plat au bord de la mer Baltique, couvert à moitié de grandes forêts de pins et de bouleaux. La rivière Daugava traverse le pays jusqu'à la mer, et après les tempêtes, on trouve sur la plage de l'ambre doré vieux de 40 millions d'années !"
+  ],
+  "animals": [
+    "Les forêts lettones cachent des ours bruns, des loups, des lynx et d'immenses élans. Les cigognes blanches sont les invitées préférées de l'été — 14 000 paires font leur nid sur les cheminées des maisons chaque année !"
+  ],
+  "culture": [
+    "Les Lettons ont inventé plus d'un million de petites chansons appelées dainas qui racontent la nature et les saisons. Tous les cinq ans, 40 000 chanteurs se réunissent à Riga pour le grand Festival de la Chanson — c'est comme un concert géant !"
+  ],
+  "history": [
+    "Il y a très longtemps, les Lettons échangeaient leur ambre brillant contre des trésors avec les Romains de l'Antiquité. La nuit de la Saint-Jean, tout le monde cherche la fleur de fougère magique dans la forêt — même si elle n'existe pas vraiment !"
+  ],
   "wows": [
     "Riga a plus de 800 bâtiments aux façades sculptées comme des gâteaux — plus qu'à Paris ou Barcelone !",
     "La première décoration de Noël sur un arbre a été faite à Riga en 1510 — c'est Riga qui a inventé le sapin de Noël !",

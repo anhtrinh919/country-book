@@ -71,10 +71,18 @@
     "history": "Un royaume vieux de 300 ans",
     "wows": "Sept surprises royales"
   },
-  "geo": "L'Eswatini a des montagnes fraîches à l'ouest où une cascade plonge de 89 mètres, et une grande savane chaude et plate à l'est. La vallée d'Ezulwini, qui veut dire « Lieu du Paradis », abrite le palais du roi !",
-  "animals": "Le parc national royal de Hlane protège des rhinocéros blancs, des éléphants, des lions et des girafes. L'Eswatini est l'un des seuls endroits en Afrique où naît l'hirondelle bleue, un oiseau très rare !",
-  "culture": "Chaque août, jusqu'à 40 000 filles habillées de costumes colorés dansent ensemble pour la fête des Roseaux. Elles offrent chacune un grand roseau à la Reine mère — c'est l'une des plus grandes fêtes d'Afrique !",
-  "history": "Il y a très longtemps, un roi puissant appelé Mswati II agrandit son royaume, et les gens prirent son nom pour s'appeler les Swazis. En 2018, le roi d'aujourd'hui a donné un nouveau nom au pays : Eswatini, qui veut dire « Pays des Swazis » !",
+  "geo": [
+    "L'Eswatini a des montagnes fraîches à l'ouest où une cascade plonge de 89 mètres, et une grande savane chaude et plate à l'est. La vallée d'Ezulwini, qui veut dire « Lieu du Paradis », abrite le palais du roi !"
+  ],
+  "animals": [
+    "Le parc national royal de Hlane protège des rhinocéros blancs, des éléphants, des lions et des girafes. L'Eswatini est l'un des seuls endroits en Afrique où naît l'hirondelle bleue, un oiseau très rare !"
+  ],
+  "culture": [
+    "Chaque août, jusqu'à 40 000 filles habillées de costumes colorés dansent ensemble pour la fête des Roseaux. Elles offrent chacune un grand roseau à la Reine mère — c'est l'une des plus grandes fêtes d'Afrique !"
+  ],
+  "history": [
+    "Il y a très longtemps, un roi puissant appelé Mswati II agrandit son royaume, et les gens prirent son nom pour s'appeler les Swazis. En 2018, le roi d'aujourd'hui a donné un nouveau nom au pays : Eswatini, qui veut dire « Pays des Swazis » !"
+  ],
   "wows": [
     "L'Eswatini est le seul pays d'Afrique encore gouverné par un roi tout-puissant.",
     "Le rocher Sibebe a 3 milliards d'années — c'est l'un des plus grands dômes de granit de la Terre !",

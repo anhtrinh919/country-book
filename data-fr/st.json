@@ -72,10 +72,18 @@
     "history": "L'île qui nourrissait le monde en chocolat",
     "wows": "C'est pas croyable !"
   },
-  "geo": "Ces deux îles sont des volcans qui sortent du fond de l'océan, juste sur l'équateur. La forêt tropicale recouvre tout, et des falaises plongent dans une mer turquoise et chaude !",
-  "animals": "São Tomé a plus d'oiseaux uniques que presque n'importe où sur Terre, même plus que les îles Galápagos ! Les tortues marines viennent pondre leurs œufs sur les plages chaque année — des leatherbacks, les plus grandes tortues du monde.",
-  "culture": "Les habitants cuisinent le calulu, un délicieux ragoût de poisson fumé à l'huile de palme qui mijote des heures. La musique locale s'appelle le puxa, et tout le monde danse en sentant l'odeur du cacao qui grille !",
-  "history": "Quand les marins portugais ont découvert ces îles vers 1470, elles étaient complètement vides — aucun être humain n'y vivait ! Très vite, São Tomé est devenu le plus grand producteur de sucre du monde entier.",
+  "geo": [
+    "Ces deux îles sont des volcans qui sortent du fond de l'océan, juste sur l'équateur. La forêt tropicale recouvre tout, et des falaises plongent dans une mer turquoise et chaude !"
+  ],
+  "animals": [
+    "São Tomé a plus d'oiseaux uniques que presque n'importe où sur Terre, même plus que les îles Galápagos ! Les tortues marines viennent pondre leurs œufs sur les plages chaque année — des leatherbacks, les plus grandes tortues du monde."
+  ],
+  "culture": [
+    "Les habitants cuisinent le calulu, un délicieux ragoût de poisson fumé à l'huile de palme qui mijote des heures. La musique locale s'appelle le puxa, et tout le monde danse en sentant l'odeur du cacao qui grille !"
+  ],
+  "history": [
+    "Quand les marins portugais ont découvert ces îles vers 1470, elles étaient complètement vides — aucun être humain n'y vivait ! Très vite, São Tomé est devenu le plus grand producteur de sucre du monde entier."
+  ],
   "wows": [
     "Autrefois, ces deux petites îles fournissaient tout le cacao du monde — tout seul !",
     "Il y a plus d'oiseaux uniques ici par km² que même aux célèbres îles Galápagos.",

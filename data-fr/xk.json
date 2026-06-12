@@ -72,10 +72,18 @@
     "history": "Un royaume, des tours et un nouveau matin",
     "wows": "Le Kosovo fait QUOI ?!"
   },
-  "geo": "Le Kosovo est entouré de belles montagnes de tous les côtés, comme dans un bol géant ! Au milieu, des plaines vertes où les fermiers cultivent du blé et des poivrons.",
-  "animals": "Dans les montagnes du Kosovo vit le lynx des Balkans, un grand chat sauvage avec des oreilles pointues et des taches comme un léopard. Il est si rare qu'on saute de joie chaque fois qu'une caméra cachée prend sa photo !",
-  "culture": "Au Kosovo, les gens adorent se retrouver autour d'un café — c'est comme ça qu'on se fait des amis ! Aux mariages, tout le monde se prend par la main et danse ensemble en cercle : ça s'appelle la Valle.",
-  "history": "Il y a très très longtemps, de grandes monastères décorées comme des palais brillaient au Kosovo. Les histoires de cette époque sont encore chantées en chanson aujourd'hui !",
+  "geo": [
+    "Le Kosovo est entouré de belles montagnes de tous les côtés, comme dans un bol géant ! Au milieu, des plaines vertes où les fermiers cultivent du blé et des poivrons."
+  ],
+  "animals": [
+    "Dans les montagnes du Kosovo vit le lynx des Balkans, un grand chat sauvage avec des oreilles pointues et des taches comme un léopard. Il est si rare qu'on saute de joie chaque fois qu'une caméra cachée prend sa photo !"
+  ],
+  "culture": [
+    "Au Kosovo, les gens adorent se retrouver autour d'un café — c'est comme ça qu'on se fait des amis ! Aux mariages, tout le monde se prend par la main et danse ensemble en cercle : ça s'appelle la Valle."
+  ],
+  "history": [
+    "Il y a très très longtemps, de grandes monastères décorées comme des palais brillaient au Kosovo. Les histoires de cette époque sont encore chantées en chanson aujourd'hui !"
+  ],
   "wows": [
     "Le Kosovo est né en 2008 — plus jeune que beaucoup de téléphones portables !",
     "Chaque année, le grand monument NEWBORN à Pristina est repeint d'un nouveau dessin.",

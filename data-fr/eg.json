@@ -72,10 +72,18 @@
     "history": "La plus vieille histoire du monde",
     "wows": "Des choses qui vont t'épater !"
   },
-  "geo": "L'Égypte est couverte à 96 % de désert, et presque tout le monde vit dans une fine bande verte le long du Nil. Ce grand fleuve parcourt 6 650 km avant de se jeter dans la mer Méditerranée !",
-  "animals": "Le crocodile du Nil peut mesurer 6 mètres — aussi long qu'une grande voiture familiale fois trois ! Les anciens Égyptiens le vénéraient comme un dieu et lui offraient des cadeaux.",
-  "culture": "Chaque jour, les Égyptiens mangent du koshari : des lentilles, du riz et des pâtes mélangés avec une sauce tomate piquante. Pendant le Ramadan, les familles accrochent de jolies lanternes lumineuses appelées fanous dans toutes les rues !",
-  "history": "Il y a plus de 5 000 ans, les pharaons ont inventé l'écriture et le calendrier de 365 jours. La Grande Pyramide a été le bâtiment le plus haut de la planète pendant presque 4 000 ans !",
+  "geo": [
+    "L'Égypte est couverte à 96 % de désert, et presque tout le monde vit dans une fine bande verte le long du Nil. Ce grand fleuve parcourt 6 650 km avant de se jeter dans la mer Méditerranée !"
+  ],
+  "animals": [
+    "Le crocodile du Nil peut mesurer 6 mètres — aussi long qu'une grande voiture familiale fois trois ! Les anciens Égyptiens le vénéraient comme un dieu et lui offraient des cadeaux."
+  ],
+  "culture": [
+    "Chaque jour, les Égyptiens mangent du koshari : des lentilles, du riz et des pâtes mélangés avec une sauce tomate piquante. Pendant le Ramadan, les familles accrochent de jolies lanternes lumineuses appelées fanous dans toutes les rues !"
+  ],
+  "history": [
+    "Il y a plus de 5 000 ans, les pharaons ont inventé l'écriture et le calendrier de 365 jours. La Grande Pyramide a été le bâtiment le plus haut de la planète pendant presque 4 000 ans !"
+  ],
   "wows": [
     "La Grande Pyramide contient assez de pierres pour construire un mur tout autour de la France.",
     "Les anciens Égyptiens ont inventé le calendrier de 365 jours il y a plus de 5 000 ans.",

@@ -72,10 +72,18 @@
     "history": "Le pont qui tient depuis 500 ans",
     "wows": "7 choses incroyables sur la Bosnie"
   },
-  "geo": "La Bosnie est presque entièrement couverte de montagnes et de forêts, traversées par des rivières d'un vert brillant comme la Neretva. Tout en bas au sud, le pays touche la mer sur seulement 20 km — c'est le plus petit bord de mer d'Europe !",
-  "animals": "Les forêts de Bosnie sont l'un des derniers endroits en Europe où les ours, les loups et les lynx vivent tous ensemble à l'état sauvage. Dans les grottes sous la terre, il y a des crevettes aveugles et des insectes qu'on ne trouve nulle part ailleurs au monde !",
-  "culture": "En Bosnie, boire du café est comme une petite fête : on le verse dans une minuscule tasse et on le sirote avec un cube de sucre. La nourriture préférée s'appelle ćevapi — de petites boulettes de viande grillée dans un pain tout moelleux !",
-  "history": "Il y a très longtemps, des bâtisseurs très habiles ont construit un magnifique pont en pierre à Mostar, et il a tenu debout pendant plus de 400 ans ! On l'appelle le Stari Most, ce qui veut dire « le Vieux Pont ».",
+  "geo": [
+    "La Bosnie est presque entièrement couverte de montagnes et de forêts, traversées par des rivières d'un vert brillant comme la Neretva. Tout en bas au sud, le pays touche la mer sur seulement 20 km — c'est le plus petit bord de mer d'Europe !"
+  ],
+  "animals": [
+    "Les forêts de Bosnie sont l'un des derniers endroits en Europe où les ours, les loups et les lynx vivent tous ensemble à l'état sauvage. Dans les grottes sous la terre, il y a des crevettes aveugles et des insectes qu'on ne trouve nulle part ailleurs au monde !"
+  ],
+  "culture": [
+    "En Bosnie, boire du café est comme une petite fête : on le verse dans une minuscule tasse et on le sirote avec un cube de sucre. La nourriture préférée s'appelle ćevapi — de petites boulettes de viande grillée dans un pain tout moelleux !"
+  ],
+  "history": [
+    "Il y a très longtemps, des bâtisseurs très habiles ont construit un magnifique pont en pierre à Mostar, et il a tenu debout pendant plus de 400 ans ! On l'appelle le Stari Most, ce qui veut dire « le Vieux Pont »."
+  ],
   "wows": [
     "Sarajevo a accueilli les Jeux Olympiques d'hiver en 1984 — avec des skieurs du monde entier !",
     "Le pont Stari Most à Mostar a été reconstruit pierre par pierre après avoir été détruit — exactement comme avant !",

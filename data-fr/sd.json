@@ -72,10 +72,18 @@
     "history": "Les pharaons noirs du Koush",
     "wows": "Des trucs qui font « Waouh ! »"
   },
-  "geo": "Au nord, le Soudan est un grand désert brûlant où se cachent des pyramides. À Khartoum, le Nil Bleu et le Nil Blanc se rejoignent et on peut voir deux couleurs d'eau couler côte à côte !",
-  "animals": "Le crocodile du Nil se cache dans les rivières du Soudan et peut mesurer 5 mètres de long — c'est aussi grand que deux voitures ! Les gazelles de Dorcas traversent le désert en courant très vite et n'ont même pas besoin de boire de l'eau.",
-  "culture": "Au Soudan, quand un invité arrive, on lui offre toujours un café épicé ou un thé sucré pour dire « bienvenue ». Le matin, tout le monde mange des haricots mijotés appelés ful medames, avec du pain chaud.",
-  "history": "Il y a 2 600 ans, les rois du royaume de Koush étaient si puissants qu'ils ont conquis toute l'Égypte et sont devenus pharaons ! Ces pharaons noirs ont construit des centaines de pyramides pointues le long du Nil.",
+  "geo": [
+    "Au nord, le Soudan est un grand désert brûlant où se cachent des pyramides. À Khartoum, le Nil Bleu et le Nil Blanc se rejoignent et on peut voir deux couleurs d'eau couler côte à côte !"
+  ],
+  "animals": [
+    "Le crocodile du Nil se cache dans les rivières du Soudan et peut mesurer 5 mètres de long — c'est aussi grand que deux voitures ! Les gazelles de Dorcas traversent le désert en courant très vite et n'ont même pas besoin de boire de l'eau."
+  ],
+  "culture": [
+    "Au Soudan, quand un invité arrive, on lui offre toujours un café épicé ou un thé sucré pour dire « bienvenue ». Le matin, tout le monde mange des haricots mijotés appelés ful medames, avec du pain chaud."
+  ],
+  "history": [
+    "Il y a 2 600 ans, les rois du royaume de Koush étaient si puissants qu'ils ont conquis toute l'Égypte et sont devenus pharaons ! Ces pharaons noirs ont construit des centaines de pyramides pointues le long du Nil."
+  ],
   "wows": [
     "Le Soudan a plus de pyramides que l'Égypte — plus de 200 rien qu'à Meroë !",
     "Les pyramides soudanaises sont bien plus pointues que celles d'Égypte.",

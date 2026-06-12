@@ -72,10 +72,18 @@
     "history": "Les rois de la montagne",
     "wows": "Trop difficile à croire !"
   },
-  "geo": "Le Lesotho est le seul pays du monde entièrement situé au-dessus de 1 000 m — même ses vallées sont plus hautes que les sommets anglais ! La cascade de Maletsunyane plonge de 192 m d'un seul coup, et toute cette eau de pluie est envoyée par des tuyaux géants vers les villes d'Afrique du Sud.",
-  "animals": "Le gypaète barbu vole sur ses ailes de 2,8 m au-dessus des sommets du Lesotho. Il attrape des os, les emporte très haut et les lâche sur les rochers pour les casser et manger la moelle à l'intérieur !",
-  "culture": "La couverture basotho est bien plus qu'un simple manteau — chaque motif coloré raconte un moment de la vie, comme une naissance ou un mariage. Le chapeau en forme de cône appelé mokorotlo est tellement important qu'il figure sur le drapeau du pays !",
-  "history": "Il y a environ 200 ans, le chef Moshoeshoe I a rassemblé des familles dispersées au sommet d'une montagne appelée Thaba Bosiu, ce qui veut dire « Montagne de la Nuit ». Il était si bon diplomate que beaucoup de personnes venaient se réfugier chez lui et son royaume devint de plus en plus grand !",
+  "geo": [
+    "Le Lesotho est le seul pays du monde entièrement situé au-dessus de 1 000 m — même ses vallées sont plus hautes que les sommets anglais ! La cascade de Maletsunyane plonge de 192 m d'un seul coup, et toute cette eau de pluie est envoyée par des tuyaux géants vers les villes d'Afrique du Sud."
+  ],
+  "animals": [
+    "Le gypaète barbu vole sur ses ailes de 2,8 m au-dessus des sommets du Lesotho. Il attrape des os, les emporte très haut et les lâche sur les rochers pour les casser et manger la moelle à l'intérieur !"
+  ],
+  "culture": [
+    "La couverture basotho est bien plus qu'un simple manteau — chaque motif coloré raconte un moment de la vie, comme une naissance ou un mariage. Le chapeau en forme de cône appelé mokorotlo est tellement important qu'il figure sur le drapeau du pays !"
+  ],
+  "history": [
+    "Il y a environ 200 ans, le chef Moshoeshoe I a rassemblé des familles dispersées au sommet d'une montagne appelée Thaba Bosiu, ce qui veut dire « Montagne de la Nuit ». Il était si bon diplomate que beaucoup de personnes venaient se réfugier chez lui et son royaume devint de plus en plus grand !"
+  ],
   "wows": [
     "Le point le plus bas du Lesotho est plus haut que le plus haut sommet de toute l'Angleterre.",
     "La mine de diamants de Letšeng est à 3 100 m d'altitude — c'est la plus haute mine de diamants du monde !",

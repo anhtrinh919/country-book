@@ -72,10 +72,18 @@
     "history": "Un héros qui bâtissait des monastères",
     "wows": "Sept secrets étonnants"
   },
-  "geo": "La Moldavie est un pays tout plat avec de douces collines et de grandes rivières — pas du tout de montagnes ! La terre noire très riche s'appelle la « tchernozem » : c'est l'une des meilleures terres pour faire pousser des légumes et du raisin dans le monde entier.",
-  "animals": "L'oiseau préféré de la Moldavie est la cigogne blanche : chaque printemps, des milliers de cigognes reviennent d'Afrique pour faire leur nid sur les cheminées des maisons ! Dans les forêts se cache aussi le vison d'Europe, un petit animal au pelage marron brillant qui adore glisser entre les roseaux au bord de l'eau.",
-  "culture": "En Moldavie, tout le monde danse la « hora » : on se tient par la main en cercle et on tourbillonne ensemble lors des mariages et des fêtes de la récolte ! Chaque octobre, tout le pays fête le Jour National du Vin avec des caves ouvertes et de la musique joyeuse.",
-  "history": "Il y a très longtemps, un grand héros appelé Étienne le Grand gagna presque toutes ses batailles — 34 victoires sur 36 ! Après chaque victoire, il construisait un monastère en remerciement, et on peut encore les voir aujourd'hui, couverts de belles peintures colorées.",
+  "geo": [
+    "La Moldavie est un pays tout plat avec de douces collines et de grandes rivières — pas du tout de montagnes ! La terre noire très riche s'appelle la « tchernozem » : c'est l'une des meilleures terres pour faire pousser des légumes et du raisin dans le monde entier."
+  ],
+  "animals": [
+    "L'oiseau préféré de la Moldavie est la cigogne blanche : chaque printemps, des milliers de cigognes reviennent d'Afrique pour faire leur nid sur les cheminées des maisons ! Dans les forêts se cache aussi le vison d'Europe, un petit animal au pelage marron brillant qui adore glisser entre les roseaux au bord de l'eau."
+  ],
+  "culture": [
+    "En Moldavie, tout le monde danse la « hora » : on se tient par la main en cercle et on tourbillonne ensemble lors des mariages et des fêtes de la récolte ! Chaque octobre, tout le pays fête le Jour National du Vin avec des caves ouvertes et de la musique joyeuse."
+  ],
+  "history": [
+    "Il y a très longtemps, un grand héros appelé Étienne le Grand gagna presque toutes ses batailles — 34 victoires sur 36 ! Après chaque victoire, il construisait un monastère en remerciement, et on peut encore les voir aujourd'hui, couverts de belles peintures colorées."
+  ],
   "wows": [
     "La cave de Mileștii Mici garde plus de 1,5 million de bouteilles de vin — le record mondial du Guinness !",
     "Ses tunnels font 55 km de long : on les visite en voiture sur des rues qui portent des noms de raisins.",

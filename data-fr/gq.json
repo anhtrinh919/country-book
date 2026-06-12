@@ -72,10 +72,18 @@
     "history": "Cacao, explorateurs et île du Nouvel An",
     "wows": "C'est vraiment vrai ?"
   },
-  "geo": "La Guinée Équatoriale est coupée en deux morceaux ! L'île de Bioko est un grand volcan qui monte jusqu'à 3 011 m au-dessus de la mer, avec la capitale Malabo perchée tout en haut. Sur le continent, la jungle épaisse est traversée de rivières jusqu'aux frontières avec le Cameroun et le Gabon.",
-  "animals": "L'île de Bioko est le seul endroit au monde où vivent les drills de Bioko, des singes au visage coloré très spéciaux ! De novembre à février, d'énormes tortues luth remontent sur les plages la nuit pour enterrer leurs œufs dans le sable.",
-  "culture": "En Guinée Équatoriale, on parle espagnol et on mange des plantains avec des plats qui ressemblent à ceux d'Espagne — une surprise en pleine Afrique ! Le peuple Bubi danse la balélé à Noël, et les musiciens Fang jouent du mvet, une grande harpe aux quinze cordes avec des mélodies secrètes.",
-  "history": "Des marins portugais ont découvert l'île d'Annobón le 1er janvier 1472 — ils l'ont appelée « Anno Bom », qui veut dire « Bonne Année » ! Longtemps après, des plantations de cacao ont poussé partout sur ces terres, et aujourd'hui le pays tire aussi beaucoup de pétrole du fond de la mer.",
+  "geo": [
+    "La Guinée Équatoriale est coupée en deux morceaux ! L'île de Bioko est un grand volcan qui monte jusqu'à 3 011 m au-dessus de la mer, avec la capitale Malabo perchée tout en haut. Sur le continent, la jungle épaisse est traversée de rivières jusqu'aux frontières avec le Cameroun et le Gabon."
+  ],
+  "animals": [
+    "L'île de Bioko est le seul endroit au monde où vivent les drills de Bioko, des singes au visage coloré très spéciaux ! De novembre à février, d'énormes tortues luth remontent sur les plages la nuit pour enterrer leurs œufs dans le sable."
+  ],
+  "culture": [
+    "En Guinée Équatoriale, on parle espagnol et on mange des plantains avec des plats qui ressemblent à ceux d'Espagne — une surprise en pleine Afrique ! Le peuple Bubi danse la balélé à Noël, et les musiciens Fang jouent du mvet, une grande harpe aux quinze cordes avec des mélodies secrètes."
+  ],
+  "history": [
+    "Des marins portugais ont découvert l'île d'Annobón le 1er janvier 1472 — ils l'ont appelée « Anno Bom », qui veut dire « Bonne Année » ! Longtemps après, des plantations de cacao ont poussé partout sur ces terres, et aujourd'hui le pays tire aussi beaucoup de pétrole du fond de la mer."
+  ],
   "wows": [
     "C'est le seul pays d'Afrique où l'espagnol est la langue officielle !",
     "La capitale Malabo est sur une île volcanique, séparée du reste du pays par 40 km de mer.",

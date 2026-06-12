@@ -72,10 +72,18 @@
     "history": "Des bateaux jusqu'à l'étoile",
     "wows": "Oh là là, tu savais ça ?"
   },
-  "geo": "Le Liberia a 570 km de jolies plages dorées le long de l'océan Atlantique. À l'intérieur des terres, une grande forêt verte reçoit tellement de pluie que les arbres ne s'arrêtent jamais de pousser !",
-  "animals": "Le parc national de Sapo abrite l'hippopotame pygmée — un hippo de la taille d'un gros cochon qui se cache dans la forêt ! Il est si timide qu'on ne l'avait presque jamais photographié avant que des caméras cachées le surprennent dans les ruisseaux.",
-  "culture": "Au Liberia, on mange du riz à chaque repas, souvent avec une sauce verte appelée « palava » faite d'huile de palme et de poisson séché. Lors des grandes fêtes, les gens portent des masques colorés et dansent pour raconter les vieilles histoires de leurs ancêtres !",
-  "history": "Il y a très longtemps, en 1822, les premiers hommes et femmes libérés de l'esclavage ont débarqué sur une île appelée Providence — comme des explorateurs courageux ! En 1847, ils ont créé leur propre pays indépendant, le tout premier de toute l'Afrique.",
+  "geo": [
+    "Le Liberia a 570 km de jolies plages dorées le long de l'océan Atlantique. À l'intérieur des terres, une grande forêt verte reçoit tellement de pluie que les arbres ne s'arrêtent jamais de pousser !"
+  ],
+  "animals": [
+    "Le parc national de Sapo abrite l'hippopotame pygmée — un hippo de la taille d'un gros cochon qui se cache dans la forêt ! Il est si timide qu'on ne l'avait presque jamais photographié avant que des caméras cachées le surprennent dans les ruisseaux."
+  ],
+  "culture": [
+    "Au Liberia, on mange du riz à chaque repas, souvent avec une sauce verte appelée « palava » faite d'huile de palme et de poisson séché. Lors des grandes fêtes, les gens portent des masques colorés et dansent pour raconter les vieilles histoires de leurs ancêtres !"
+  ],
+  "history": [
+    "Il y a très longtemps, en 1822, les premiers hommes et femmes libérés de l'esclavage ont débarqué sur une île appelée Providence — comme des explorateurs courageux ! En 1847, ils ont créé leur propre pays indépendant, le tout premier de toute l'Afrique."
+  ],
   "wows": [
     "La plantation Firestone au Liberia couvre 450 km² — c'est la plus grande ferme de caoutchouc du monde !",
     "L'hippopotame pygmée pèse seulement 270 kg — dix fois moins lourd que son grand cousin le vrai hippo !",

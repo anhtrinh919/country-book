@@ -72,10 +72,18 @@
     "history": "Les rois Pipils et leurs secrets",
     "wows": "El Salvador t'étonne !"
   },
-  "geo": "El Salvador est assis sur une ceinture de volcans, avec plus de 20 volcans entassés dans un tout petit pays ! Le plus haut, le Santa Ana, possède un lac de cratère de couleur turquoise, comme dans un conte.",
-  "animals": "L'oiseau national s'appelle le torogoz — il a des plumes turquoise et bleu comme des bijoux, et il balance sa longue queue en pendule pour prévenir ses amis ! Sur les plages du Pacifique, des tortues de mer viennent pondre leurs œufs la nuit.",
-  "culture": "La pupusa est la spécialité préférée de tous les Salvadoriens : c'est une galette de maïs bien épaisse, farcie de fromage ou de haricots, grillée jusqu'à être toute dorée ! Chaque famille a sa propre recette secrète.",
-  "history": "Avant l'arrivée des Espagnols, le peuple Pipil, cousin des Aztèques, régnait sur ces terres et les guerriers étaient si courageux qu'ils repoussèrent les premiers envahisseurs ! Un mystérieux village maya appelé Joya de Cerén fut recouvert de cendres volcaniques il y a 1 400 ans, comme la ville de Pompéi.",
+  "geo": [
+    "El Salvador est assis sur une ceinture de volcans, avec plus de 20 volcans entassés dans un tout petit pays ! Le plus haut, le Santa Ana, possède un lac de cratère de couleur turquoise, comme dans un conte."
+  ],
+  "animals": [
+    "L'oiseau national s'appelle le torogoz — il a des plumes turquoise et bleu comme des bijoux, et il balance sa longue queue en pendule pour prévenir ses amis ! Sur les plages du Pacifique, des tortues de mer viennent pondre leurs œufs la nuit."
+  ],
+  "culture": [
+    "La pupusa est la spécialité préférée de tous les Salvadoriens : c'est une galette de maïs bien épaisse, farcie de fromage ou de haricots, grillée jusqu'à être toute dorée ! Chaque famille a sa propre recette secrète."
+  ],
+  "history": [
+    "Avant l'arrivée des Espagnols, le peuple Pipil, cousin des Aztèques, régnait sur ces terres et les guerriers étaient si courageux qu'ils repoussèrent les premiers envahisseurs ! Un mystérieux village maya appelé Joya de Cerén fut recouvert de cendres volcaniques il y a 1 400 ans, comme la ville de Pompéi."
+  ],
   "wows": [
     "El Salvador est le seul pays d'Amérique centrale dont toutes les plages donnent sur le Pacifique — pas une seule plage des Caraïbes !",
     "Un village maya entier, Joya de Cerén, a été enseveli sous les cendres d'un volcan en l'an 600 — on l'appelle la Pompéi des Amériques.",

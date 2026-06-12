@@ -72,10 +72,18 @@
     "history": "Des empereurs et des artistes géniaux",
     "wows": "Tu vas pas y croire…"
   },
-  "geo": "L'Italie est une longue péninsule qui plonge dans la mer Méditerranée, avec les Alpes comme un grand mur neigeux au nord. Deux énormes îles — la Sicile et la Sardaigne — font aussi partie de l'Italie !",
-  "animals": "Le loup gris des Apennins a failli disparaître, mais aujourd'hui plus de 3 000 loups se promènent dans les montagnes italiennes. Le petit cheval sauvage de Sardaigne mesure à peine un mètre de haut et n'existe nulle part ailleurs sur Terre !",
-  "culture": "En Italie, manger c'est presque aussi important que respirer : chaque région a ses propres recettes secrètes, et mettre la mauvaise forme de pâtes dans une sauce est une catastrophe ! Le dimanche, le déjeuner en famille peut durer des heures et des heures.",
-  "history": "Il y a très longtemps, la ville de Rome était juste un petit village — puis elle est devenue un immense empire qui commandait la moitié du monde connu ! Plus tard, des artistes incroyables comme Léonard de Vinci et Michel-Ange ont peint des fresques et sculpté des statues si belles qu'on les regarde encore aujourd'hui.",
+  "geo": [
+    "L'Italie est une longue péninsule qui plonge dans la mer Méditerranée, avec les Alpes comme un grand mur neigeux au nord. Deux énormes îles — la Sicile et la Sardaigne — font aussi partie de l'Italie !"
+  ],
+  "animals": [
+    "Le loup gris des Apennins a failli disparaître, mais aujourd'hui plus de 3 000 loups se promènent dans les montagnes italiennes. Le petit cheval sauvage de Sardaigne mesure à peine un mètre de haut et n'existe nulle part ailleurs sur Terre !"
+  ],
+  "culture": [
+    "En Italie, manger c'est presque aussi important que respirer : chaque région a ses propres recettes secrètes, et mettre la mauvaise forme de pâtes dans une sauce est une catastrophe ! Le dimanche, le déjeuner en famille peut durer des heures et des heures."
+  ],
+  "history": [
+    "Il y a très longtemps, la ville de Rome était juste un petit village — puis elle est devenue un immense empire qui commandait la moitié du monde connu ! Plus tard, des artistes incroyables comme Léonard de Vinci et Michel-Ange ont peint des fresques et sculpté des statues si belles qu'on les regarde encore aujourd'hui."
+  ],
   "wows": [
     "L'Italie possède plus de sites classés au patrimoine mondial de l'UNESCO que n'importe quel autre pays — 59 en tout !",
     "Le Vatican, entouré par Rome, est le plus petit pays du monde : il fait seulement 0,44 km².",

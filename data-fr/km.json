@@ -71,10 +71,18 @@
     "history": "Des sultans et des routes d'épices",
     "wows": "Trop incroyable pour être vrai !"
   },
-  "geo": "Les Comores sont nées du feu — les trois îles sont des volcans ! Le plus grand cratère mesure 3 km de large, on pourrait y mettre tout un village.",
-  "animals": "Le cœlacanthe est un poisson qu'on croyait disparu depuis 65 millions d'années, mais il vit encore aux Comores dans des grottes sous-marines ! La chauve-souris géante de Livingstone a des ailes d'1,4 mètre — plus grandes que tes bras écartés !",
-  "culture": "Le Grand Mariage aux Comores est une fête qui dure deux semaines avec des danses, des festins et des costumes brillants comme des sultans ! Les femmes se peignent le visage avec une pâte dorée parfumée pour les célébrations.",
-  "history": "Des marchands arabes ont baptisé ces îles « Juzur al-Qamar », c'est-à-dire « Îles de la Lune », il y a plus de mille ans ! Pendant des siècles, des sultans y régnaient et échangeaient des épices précieuses avec des bateaux venus de partout.",
+  "geo": [
+    "Les Comores sont nées du feu — les trois îles sont des volcans ! Le plus grand cratère mesure 3 km de large, on pourrait y mettre tout un village."
+  ],
+  "animals": [
+    "Le cœlacanthe est un poisson qu'on croyait disparu depuis 65 millions d'années, mais il vit encore aux Comores dans des grottes sous-marines ! La chauve-souris géante de Livingstone a des ailes d'1,4 mètre — plus grandes que tes bras écartés !"
+  ],
+  "culture": [
+    "Le Grand Mariage aux Comores est une fête qui dure deux semaines avec des danses, des festins et des costumes brillants comme des sultans ! Les femmes se peignent le visage avec une pâte dorée parfumée pour les célébrations."
+  ],
+  "history": [
+    "Des marchands arabes ont baptisé ces îles « Juzur al-Qamar », c'est-à-dire « Îles de la Lune », il y a plus de mille ans ! Pendant des siècles, des sultans y régnaient et échangeaient des épices précieuses avec des bateaux venus de partout."
+  ],
   "wows": [
     "Les Comores produisent 80 % du ylang-ylang mondial — la fleur secrète du parfum Chanel N°5 !",
     "Le volcan Karthala entre en éruption tous les 11 ans en moyenne — c'est l'un des plus actifs de la Terre !",

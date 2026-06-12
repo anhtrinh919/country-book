@@ -72,10 +72,18 @@
     "history": "Les Mayas et leurs pyramides",
     "wows": "7 surprises étonnantes"
   },
-  "geo": "Le Belize se trouve sur la côte des Caraïbes en Amérique centrale, entre le Mexique au nord et le Guatemala à l'ouest. Au large, un récif de corail s'étire sur 300 km — et il cache un trou géant et parfaitement rond appelé le Grand Trou Bleu !",
-  "animals": "Le Belize est l'un des rares endroits au monde où les jaguars vivent encore librement dans la jungle. L'animal national est le tapir de Baird, une drôle de bête grosse comme un petit cheval avec un nez allongé !",
-  "culture": "Au Belize, plein de peuples différents vivent ensemble — les Mayas, les Créoles, les Garifunas et même des familles Mennonites qui se déplacent en calèche à cheval ! Dans les marchés, on trouve du riz créole, du poisson à la noix de coco et des tamales mayas tous côte à côte.",
-  "history": "Il y a plus de 2 000 ans, les Mayas construisaient ici de grandes villes avec de hautes pyramides en pierre. La ville de Caracol était plus grande que Belize City aujourd'hui — et puis, mystérieusement, tout le monde est parti !",
+  "geo": [
+    "Le Belize se trouve sur la côte des Caraïbes en Amérique centrale, entre le Mexique au nord et le Guatemala à l'ouest. Au large, un récif de corail s'étire sur 300 km — et il cache un trou géant et parfaitement rond appelé le Grand Trou Bleu !"
+  ],
+  "animals": [
+    "Le Belize est l'un des rares endroits au monde où les jaguars vivent encore librement dans la jungle. L'animal national est le tapir de Baird, une drôle de bête grosse comme un petit cheval avec un nez allongé !"
+  ],
+  "culture": [
+    "Au Belize, plein de peuples différents vivent ensemble — les Mayas, les Créoles, les Garifunas et même des familles Mennonites qui se déplacent en calèche à cheval ! Dans les marchés, on trouve du riz créole, du poisson à la noix de coco et des tamales mayas tous côte à côte."
+  ],
+  "history": [
+    "Il y a plus de 2 000 ans, les Mayas construisaient ici de grandes villes avec de hautes pyramides en pierre. La ville de Caracol était plus grande que Belize City aujourd'hui — et puis, mystérieusement, tout le monde est parti !"
+  ],
   "wows": [
     "Le Grand Trou Bleu est si parfaitement rond qu'on peut le voir depuis l'espace comme un point bleu sombre !",
     "Le Belize est le seul pays d'Amérique centrale où l'anglais est la langue officielle.",

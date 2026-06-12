@@ -72,10 +72,18 @@
     "history": "Des villes cachées dans le désert",
     "wows": "Ouah — tu savais ça ?"
   },
-  "geo": "L'Algérie est couverte à 90 % par le Sahara, le plus grand désert chaud de la Terre ! Dans le nord, il y a de belles forêts, des champs de blé et une mer bleue étincelante.",
-  "animals": "Le renard fennec est le plus petit renard sauvage du monde, avec des oreilles si grandes qu'il entend les insectes marcher sous le sable la nuit ! Dans les forêts du nord vivent aussi des macaques de Barbarie, des singes espièges qui regardent passer les voitures.",
-  "culture": "Les Algériens adorent le couscous — de petits grains cuits à la vapeur avec de l'agneau, des légumes et des épices parfumées. Le vendredi, toute la famille se réunit autour d'une grande table pleine de saucisses merguez et de gâteaux au miel et aux amandes !",
-  "history": "Il y a très très longtemps, des artistes ont peint des éléphants et des girafes sur les rochers du désert — là où il n'y a plus que du sable aujourd'hui ! Les Romains ont aussi construit une ville entière, Timgad, qui a été ensevelie sous le sable pendant 1 000 ans avant d'être redécouverte.",
+  "geo": [
+    "L'Algérie est couverte à 90 % par le Sahara, le plus grand désert chaud de la Terre ! Dans le nord, il y a de belles forêts, des champs de blé et une mer bleue étincelante."
+  ],
+  "animals": [
+    "Le renard fennec est le plus petit renard sauvage du monde, avec des oreilles si grandes qu'il entend les insectes marcher sous le sable la nuit ! Dans les forêts du nord vivent aussi des macaques de Barbarie, des singes espièges qui regardent passer les voitures."
+  ],
+  "culture": [
+    "Les Algériens adorent le couscous — de petits grains cuits à la vapeur avec de l'agneau, des légumes et des épices parfumées. Le vendredi, toute la famille se réunit autour d'une grande table pleine de saucisses merguez et de gâteaux au miel et aux amandes !"
+  ],
+  "history": [
+    "Il y a très très longtemps, des artistes ont peint des éléphants et des girafes sur les rochers du désert — là où il n'y a plus que du sable aujourd'hui ! Les Romains ont aussi construit une ville entière, Timgad, qui a été ensevelie sous le sable pendant 1 000 ans avant d'être redécouverte."
+  ],
   "wows": [
     "L'Algérie est plus grande que toute l'Europe de l'Ouest réunie !",
     "Des peintures rupestres montrent des éléphants là où le Sahara souffle aujourd'hui.",

@@ -72,10 +72,18 @@
     "history": "Des empires dans les sommets",
     "wows": "Trop incroyable !"
   },
-  "geo": "Les montagnes du Pamir couvrent presque tout le pays — si hautes qu'on les appelle le Toit du Monde ! Le plus grand glacier hors des pôles s'étire sur 77 km, comme un fleuve de glace géant.",
-  "animals": "Le léopard des neiges, manteau gris et tacheté, se cache dans les rochers du Pamir comme un fantôme. Le mouton de Marco Polo est l'animal national : ses cornes en tire-bouchon peuvent mesurer plus d'un mètre et demi !",
-  "culture": "Les familles tadjikes accueillent toujours les invités avec du thé chaud et du pain plat appelé non. Chaque année le 21 mars, pour le Nouvel An persan Navruz, tout le monde danse dans la rue en habits de soie colorés !",
-  "history": "Il y a très longtemps, des marchands traversaient ces montagnes sur la Route de la Soie pour apporter de l'or et des tissus brillants. La capitale Douchanbé a grandi autour d'un célèbre marché du lundi, et son nom signifie encore « lundi » aujourd'hui !",
+  "geo": [
+    "Les montagnes du Pamir couvrent presque tout le pays — si hautes qu'on les appelle le Toit du Monde ! Le plus grand glacier hors des pôles s'étire sur 77 km, comme un fleuve de glace géant."
+  ],
+  "animals": [
+    "Le léopard des neiges, manteau gris et tacheté, se cache dans les rochers du Pamir comme un fantôme. Le mouton de Marco Polo est l'animal national : ses cornes en tire-bouchon peuvent mesurer plus d'un mètre et demi !"
+  ],
+  "culture": [
+    "Les familles tadjikes accueillent toujours les invités avec du thé chaud et du pain plat appelé non. Chaque année le 21 mars, pour le Nouvel An persan Navruz, tout le monde danse dans la rue en habits de soie colorés !"
+  ],
+  "history": [
+    "Il y a très longtemps, des marchands traversaient ces montagnes sur la Route de la Soie pour apporter de l'or et des tissus brillants. La capitale Douchanbé a grandi autour d'un célèbre marché du lundi, et son nom signifie encore « lundi » aujourd'hui !"
+  ],
   "wows": [
     "Douchanbé veut dire « lundi » — la ville a grandi autour d'un grand marché du lundi !",
     "En 2011, le mât du drapeau de Douchanbé mesurait 165 m — le plus haut du monde !",

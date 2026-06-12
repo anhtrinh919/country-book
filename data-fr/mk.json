@@ -72,10 +72,18 @@
     "history": "Une légende plus vieille que les étoiles",
     "wows": "Les grandes surprises de Macédoine"
   },
-  "geo": "La Macédoine du Nord est un pays sans mer, entouré de montagnes et de vallées. Au sud-ouest, le lac Ohrid est si transparent qu'on peut voir jusqu'à 22 mètres de profondeur !",
-  "animals": "Le lynx des Balkans vit dans les forêts de montagne — il est si rare qu'il reste moins de 50 individus dans la nature ! La truite d'Ohrid, avec ses écailles brillantes, vit seulement dans ce lac et nulle part ailleurs sur Terre.",
-  "culture": "Le plat préféré des Macédoniens s'appelle le tavche gravche — des haricots blancs cuits dans un pot en argile avec du paprika, qu'on mange chaque vendredi. À l'automne, toutes les familles préparent l'ajvar, une délicieuse confiture de poivrons rouges qu'on met sur tout !",
-  "history": "Il y a très longtemps, des moines fabriquaient des lettres spéciales appelées l'alphabet cyrillique dans une école près du lac Ohrid. Aujourd'hui, 300 millions de personnes dans le monde utilisent ces lettres pour écrire !",
+  "geo": [
+    "La Macédoine du Nord est un pays sans mer, entouré de montagnes et de vallées. Au sud-ouest, le lac Ohrid est si transparent qu'on peut voir jusqu'à 22 mètres de profondeur !"
+  ],
+  "animals": [
+    "Le lynx des Balkans vit dans les forêts de montagne — il est si rare qu'il reste moins de 50 individus dans la nature ! La truite d'Ohrid, avec ses écailles brillantes, vit seulement dans ce lac et nulle part ailleurs sur Terre."
+  ],
+  "culture": [
+    "Le plat préféré des Macédoniens s'appelle le tavche gravche — des haricots blancs cuits dans un pot en argile avec du paprika, qu'on mange chaque vendredi. À l'automne, toutes les familles préparent l'ajvar, une délicieuse confiture de poivrons rouges qu'on met sur tout !"
+  ],
+  "history": [
+    "Il y a très longtemps, des moines fabriquaient des lettres spéciales appelées l'alphabet cyrillique dans une école près du lac Ohrid. Aujourd'hui, 300 millions de personnes dans le monde utilisent ces lettres pour écrire !"
+  ],
   "wows": [
     "Le lac Ohrid a 3 millions d'années — il existait avant les premiers humains !",
     "Des astronomes ont donné le nom « Ohrid » à un lac sur la lune de Saturne, Titan.",

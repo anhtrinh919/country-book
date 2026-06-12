@@ -72,10 +72,18 @@
     "history": "Un pays ancien plein de légendes",
     "wows": "On n'y croit presque pas !"
   },
-  "geo": "La Corée du Nord est couverte de montagnes à 80 % — les collines s'étendent partout comme un tapis vert ! Tout au nord, le mont Paektu est un volcan endormi avec un lac magnifique au sommet qu'on appelle le Lac du Ciel.",
-  "animals": "L'ours noir d'Asie vit dans les forêts froides du Nord — il a un croissant blanc sur la poitrine, comme une lune dessinée sur son pelage ! Il s'appelle l'ours lune, et il mange des fruits en automne pour se préparer à dormir tout l'hiver.",
-  "culture": "Chaque année, plus de 100 000 personnes dansent et bougent ensemble dans le plus grand stade du monde, à Pyongyang — c'est le spectacle le plus grand de toute la planète ! Trente mille enfants lèvent des cartes colorées en même temps pour former de gigantesques images, comme un puzzle vivant.",
-  "history": "Il y a très longtemps, une légende raconte qu'un dieu-soleil descendit sur le mont Paektu et fonda le premier peuple coréen — c'est pour ça que cette montagne est sacrée ! Les Coréens vivent sur cette péninsule depuis des milliers et des milliers d'années.",
+  "geo": [
+    "La Corée du Nord est couverte de montagnes à 80 % — les collines s'étendent partout comme un tapis vert ! Tout au nord, le mont Paektu est un volcan endormi avec un lac magnifique au sommet qu'on appelle le Lac du Ciel."
+  ],
+  "animals": [
+    "L'ours noir d'Asie vit dans les forêts froides du Nord — il a un croissant blanc sur la poitrine, comme une lune dessinée sur son pelage ! Il s'appelle l'ours lune, et il mange des fruits en automne pour se préparer à dormir tout l'hiver."
+  ],
+  "culture": [
+    "Chaque année, plus de 100 000 personnes dansent et bougent ensemble dans le plus grand stade du monde, à Pyongyang — c'est le spectacle le plus grand de toute la planète ! Trente mille enfants lèvent des cartes colorées en même temps pour former de gigantesques images, comme un puzzle vivant."
+  ],
+  "history": [
+    "Il y a très longtemps, une légende raconte qu'un dieu-soleil descendit sur le mont Paektu et fonda le premier peuple coréen — c'est pour ça que cette montagne est sacrée ! Les Coréens vivent sur cette péninsule depuis des milliers et des milliers d'années."
+  ],
   "wows": [
     "Le lac du Ciel, au sommet du mont Paektu, est si profond qu'il mesure 384 mètres — presque autant que la tour Eiffel !",
     "Un grand hôtel de 105 étages à Pyongyang est construit depuis 1987 mais n'a jamais accueilli un seul client.",

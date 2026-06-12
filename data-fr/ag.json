@@ -72,10 +72,18 @@
     "history": "Sucre, voiles et liberté",
     "wows": "Le savais-tu ?"
   },
-  "geo": "Antigua est une île plate entourée de récifs de corail et de jolies baies aux sables pâles. Le mont Obama, à 402 m, est le seul vrai sommet — il domine une côte découpée en dizaines de plages !",
-  "animals": "Le frégat superbe est l'oiseau national d'Antigua : le mâle gonfle sa gorge rouge comme un ballon pour séduire les femelles ! Des tortues de mer pondent leurs œufs sur les plages tranquilles, et les récifs abritent plus de 170 espèces de poissons.",
-  "culture": "Chaque été, le Carnaval d'Antigua envahit les rues avec des costumes à plumes géants, de la musique soca et des danses — tout le pays fait la fête ! Le plat traditionnel « fungee », une bouillie de maïs avec du gombo, rappelle les racines africaines de l'île.",
-  "history": "Il y a très très longtemps, des peuples appelés Arawaks vivaient sur ces îles, et Christophe Colomb les a aperçues en 1493. Les Anglais sont arrivés en 1632 et ont planté de la canne à sucre — aujourd'hui, le Carnaval célèbre chaque année la fin de l'esclavage !",
+  "geo": [
+    "Antigua est une île plate entourée de récifs de corail et de jolies baies aux sables pâles. Le mont Obama, à 402 m, est le seul vrai sommet — il domine une côte découpée en dizaines de plages !"
+  ],
+  "animals": [
+    "Le frégat superbe est l'oiseau national d'Antigua : le mâle gonfle sa gorge rouge comme un ballon pour séduire les femelles ! Des tortues de mer pondent leurs œufs sur les plages tranquilles, et les récifs abritent plus de 170 espèces de poissons."
+  ],
+  "culture": [
+    "Chaque été, le Carnaval d'Antigua envahit les rues avec des costumes à plumes géants, de la musique soca et des danses — tout le pays fait la fête ! Le plat traditionnel « fungee », une bouillie de maïs avec du gombo, rappelle les racines africaines de l'île."
+  ],
+  "history": [
+    "Il y a très très longtemps, des peuples appelés Arawaks vivaient sur ces îles, et Christophe Colomb les a aperçues en 1493. Les Anglais sont arrivés en 1632 et ont planté de la canne à sucre — aujourd'hui, le Carnaval célèbre chaque année la fin de l'esclavage !"
+  ],
   "wows": [
     "Antigua compte 365 plages — une pour chaque jour de l'année, tu ne visites jamais la même deux fois !",
     "Nelson's Dockyard est le seul chantier naval géorgien encore en activité dans le monde entier.",

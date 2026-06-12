@@ -72,10 +72,18 @@
     "history": "L'île aux mille trésors cachés",
     "wows": "La Jamaïque t'étonne !"
   },
-  "geo": "La Jamaïque a de grandes montagnes au milieu, appelées les Blue Mountains — elles sont si hautes qu'elles fabriquent leurs propres nuages ! Des dizaines de rivières dévalent ces pentes jusqu'à la mer, et des plages de sable blanc bordent toute l'île.",
-  "animals": "L'oiseau national de la Jamaïque s'appelle l'oiseau-médecin — un colibri avec deux longues plumes qui volent derrière lui comme des rubans. Il bat des ailes 50 fois par seconde pour boire le nectar des fleurs !",
-  "culture": "Les Jamaïcains ont inventé le reggae, une musique joyeuse et douce qui a fait danser le monde entier. Le plat préféré de l'île est le poulet jerk, frotté d'épices piquantes et cuit lentement sur un feu de bois parfumé !",
-  "history": "Il y a très longtemps, un peuple appelé les Taïnos vivait sur cette île et l'appelaient Xaymaca, ce qui veut dire « terre de bois et d'eau ». Chaque année le 6 août, toute l'île fait la fête avec des feux d'artifice pour célébrer son indépendance !",
+  "geo": [
+    "La Jamaïque a de grandes montagnes au milieu, appelées les Blue Mountains — elles sont si hautes qu'elles fabriquent leurs propres nuages ! Des dizaines de rivières dévalent ces pentes jusqu'à la mer, et des plages de sable blanc bordent toute l'île."
+  ],
+  "animals": [
+    "L'oiseau national de la Jamaïque s'appelle l'oiseau-médecin — un colibri avec deux longues plumes qui volent derrière lui comme des rubans. Il bat des ailes 50 fois par seconde pour boire le nectar des fleurs !"
+  ],
+  "culture": [
+    "Les Jamaïcains ont inventé le reggae, une musique joyeuse et douce qui a fait danser le monde entier. Le plat préféré de l'île est le poulet jerk, frotté d'épices piquantes et cuit lentement sur un feu de bois parfumé !"
+  ],
+  "history": [
+    "Il y a très longtemps, un peuple appelé les Taïnos vivait sur cette île et l'appelaient Xaymaca, ce qui veut dire « terre de bois et d'eau ». Chaque année le 6 août, toute l'île fait la fête avec des feux d'artifice pour célébrer son indépendance !"
+  ],
   "wows": [
     "Usain Bolt a couru 100 m en 9,58 secondes en 2009 — personne au monde n'a jamais couru plus vite !",
     "Le drapeau jamaïcain est le seul au monde qui n'a ni rouge, ni blanc, ni bleu.",

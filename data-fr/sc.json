@@ -72,10 +72,18 @@
     "history": "Pirates, trésors et liberté",
     "wows": "Difficile à croire, mais vrai !"
   },
-  "geo": "Les Seychelles se trouvent seules dans l'océan Indien, à 1 500 km de l'Afrique. Leurs îles sont faites de vieux rochers de granit arrondis et de forêts vertes — les seules îles de granit au milieu d'un océan sur toute la Terre ! La mer autour du pays est 3 000 fois plus grande que toutes ses îles réunies.",
-  "animals": "La tortue géante d'Aldabra vit aux Seychelles — plus de 100 000 d'entre elles se promènent lentement sur l'atoll d'Aldabra et peuvent vivre plus de 150 ans ! Le perroquet noir des Seychelles, lui, vit seulement sur l'île de Praslin et il n'en reste qu'environ 1 000 dans le monde entier.",
-  "culture": "Aux Seychelles, on mange du poisson grillé avec une sauce au piment et au gingembre, et du curry de poulpe au lait de coco — miam ! En octobre, le Festival Kreol remplit les rues de musique, de costumes colorés et de bonnes odeurs d'épices.",
-  "history": "Il y a très longtemps, le pirate Olivier le Vasseur — surnommé « La Buse » — aurait caché un immense trésor sur ces îles avant d'être arrêté en 1730. Il a lancé une devinette codée dans la foule, et personne n'a encore réussi à la résoudre ! Des chercheurs de trésors continuent de creuser jusqu'à aujourd'hui.",
+  "geo": [
+    "Les Seychelles se trouvent seules dans l'océan Indien, à 1 500 km de l'Afrique. Leurs îles sont faites de vieux rochers de granit arrondis et de forêts vertes — les seules îles de granit au milieu d'un océan sur toute la Terre ! La mer autour du pays est 3 000 fois plus grande que toutes ses îles réunies."
+  ],
+  "animals": [
+    "La tortue géante d'Aldabra vit aux Seychelles — plus de 100 000 d'entre elles se promènent lentement sur l'atoll d'Aldabra et peuvent vivre plus de 150 ans ! Le perroquet noir des Seychelles, lui, vit seulement sur l'île de Praslin et il n'en reste qu'environ 1 000 dans le monde entier."
+  ],
+  "culture": [
+    "Aux Seychelles, on mange du poisson grillé avec une sauce au piment et au gingembre, et du curry de poulpe au lait de coco — miam ! En octobre, le Festival Kreol remplit les rues de musique, de costumes colorés et de bonnes odeurs d'épices."
+  ],
+  "history": [
+    "Il y a très longtemps, le pirate Olivier le Vasseur — surnommé « La Buse » — aurait caché un immense trésor sur ces îles avant d'être arrêté en 1730. Il a lancé une devinette codée dans la foule, et personne n'a encore réussi à la résoudre ! Des chercheurs de trésors continuent de creuser jusqu'à aujourd'hui."
+  ],
   "wows": [
     "Les îles de granit des Seychelles sont les seules îles de granit au milieu d'un océan dans le monde entier.",
     "Le palmier coco de mer fait pousser la graine la plus lourde du monde — une noix peut peser 25 kg, plus lourd qu'un enfant !",

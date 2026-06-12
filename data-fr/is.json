@@ -72,10 +72,18 @@
     "history": "Les premières aventures islandaises",
     "wows": "Les moments magiques de l'Islande"
   },
-  "geo": "En Islande, la terre est vivante : des geysers crachent de l'eau bouillante très haut dans le ciel toutes les quelques minutes ! Plus de 130 volcans se trouvent là, dont 30 encore actifs aujourd'hui.",
-  "animals": "Le renard arctique est le seul animal sauvage qui vit sur la terre en Islande — il est arrivé tout seul en marchant sur la mer gelée ! Des millions de macareux nichent ici chaque été, battant leurs petites ailes 400 fois par minute comme de vrais hélicoptères à plumes.",
-  "culture": "Les Islandais adorent se baigner dans des piscines d'eau chaude naturelle dehors, même quand la neige tombe sur leur tête ! À Noël, tout le monde offre un livre à lire dans son lit le soir — c'est la tradition de la grande inondation de livres de Noël.",
-  "history": "Des Vikings venus de Norvège sont arrivés en Islande vers 874 après Jésus-Christ, à bord de bateaux à tête de dragon. En 930, ils ont créé un des plus vieux parlements du monde, où tout le monde se retrouvait dehors pour décider ensemble des règles.",
+  "geo": [
+    "En Islande, la terre est vivante : des geysers crachent de l'eau bouillante très haut dans le ciel toutes les quelques minutes ! Plus de 130 volcans se trouvent là, dont 30 encore actifs aujourd'hui."
+  ],
+  "animals": [
+    "Le renard arctique est le seul animal sauvage qui vit sur la terre en Islande — il est arrivé tout seul en marchant sur la mer gelée ! Des millions de macareux nichent ici chaque été, battant leurs petites ailes 400 fois par minute comme de vrais hélicoptères à plumes."
+  ],
+  "culture": [
+    "Les Islandais adorent se baigner dans des piscines d'eau chaude naturelle dehors, même quand la neige tombe sur leur tête ! À Noël, tout le monde offre un livre à lire dans son lit le soir — c'est la tradition de la grande inondation de livres de Noël."
+  ],
+  "history": [
+    "Des Vikings venus de Norvège sont arrivés en Islande vers 874 après Jésus-Christ, à bord de bateaux à tête de dragon. En 930, ils ont créé un des plus vieux parlements du monde, où tout le monde se retrouvait dehors pour décider ensemble des règles."
+  ],
   "wows": [
     "L'Islande produit presque toute son électricité grâce à la chaleur des volcans et des rivières — sans fumée !",
     "Le ciel de l'Islande danse en vert et violet les nuits d'hiver : ce sont les aurores boréales.",

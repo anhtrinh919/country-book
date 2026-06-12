@@ -71,10 +71,18 @@
     "history": "Des empires dans les dunes",
     "wows": "C'est incroyable !"
   },
-  "geo": "La Libye a une longue côte au bord de la mer bleue, puis le sable du Sahara s'étend à perte de vue. Dans le désert du Fezzan, des lacs étincelants se cachent entre de grandes dunes rouges, nourris par une eau de pluie très très ancienne !",
-  "animals": "Le renard fennec vit dans le désert libyen avec ses immenses oreilles en forme d'antenne — elles l'aident à entendre les insectes sous le sable la nuit ! Il n'a jamais besoin de boire de l'eau, car il trouve toute l'humidité dans sa nourriture.",
-  "culture": "Le plat préféré des Libyens s'appelle le bazin : c'est une boule de pâte cuite qu'on trempe dans un délicieux ragoût avec les doigts. Dans la vieille ville de Ghadames, les toits des maisons sont reliés pour pouvoir se promener au-dessus des rues, bien à l'ombre !",
-  "history": "Il y a très longtemps, les Romains ont construit une ville magnifique appelée Leptis Magna, avec de grands arcs et des colonnes décorées. Cette ville a été cachée sous le sable pendant 800 ans, puis les archéologues l'ont retrouvée presque comme neuve !",
+  "geo": [
+    "La Libye a une longue côte au bord de la mer bleue, puis le sable du Sahara s'étend à perte de vue. Dans le désert du Fezzan, des lacs étincelants se cachent entre de grandes dunes rouges, nourris par une eau de pluie très très ancienne !"
+  ],
+  "animals": [
+    "Le renard fennec vit dans le désert libyen avec ses immenses oreilles en forme d'antenne — elles l'aident à entendre les insectes sous le sable la nuit ! Il n'a jamais besoin de boire de l'eau, car il trouve toute l'humidité dans sa nourriture."
+  ],
+  "culture": [
+    "Le plat préféré des Libyens s'appelle le bazin : c'est une boule de pâte cuite qu'on trempe dans un délicieux ragoût avec les doigts. Dans la vieille ville de Ghadames, les toits des maisons sont reliés pour pouvoir se promener au-dessus des rues, bien à l'ombre !"
+  ],
+  "history": [
+    "Il y a très longtemps, les Romains ont construit une ville magnifique appelée Leptis Magna, avec de grands arcs et des colonnes décorées. Cette ville a été cachée sous le sable pendant 800 ans, puis les archéologues l'ont retrouvée presque comme neuve !"
+  ],
   "wows": [
     "La Libye possède les plus grandes réserves de pétrole de toute l'Afrique !",
     "La ville romaine de Leptis Magna a dormi sous le sable pendant 800 ans.",

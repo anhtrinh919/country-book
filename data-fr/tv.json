@@ -72,10 +72,18 @@
     "history": "Des étoiles pour se guider",
     "wows": "Tuvalu, c'est surprenant !"
   },
-  "geo": "Tuvalu se trouve au milieu du Pacifique, entre Hawaï et l'Australie. Ses neuf îles sont des atolls coralliens, plats comme des assiettes — on peut à peine les voir depuis un bateau ! Les lagons à l'intérieur sont d'un turquoise brillant, entourés de cocotiers qui se penchent dans le vent.",
-  "animals": "Le requin à pointes noires nage dans les eaux peu profondes, ses nageoires sombres dépassant de la surface comme des petits drapeaux. Les tortues vertes géantes viennent pondre leurs œufs sur les plages de sable — elles peuvent vivre plus longtemps qu'un arrière-grand-papa !",
-  "culture": "Le fatele est une danse où tout le monde chante de plus en plus vite jusqu'à s'essouffler, et ça finit toujours en fou rire ! On mange du poisson frais et de la crème de coco, et on joue à l'ano — un jeu de balles en feuilles de palmier.",
-  "history": "Il y a plus de 2 000 ans, de courageux explorateurs polynésiens ont trouvé ces îles en suivant les étoiles dans le ciel nocturne. Ils naviguaient sans carte ni boussole, juste en regardant les étoiles — comme des super-héros de la mer !",
+  "geo": [
+    "Tuvalu se trouve au milieu du Pacifique, entre Hawaï et l'Australie. Ses neuf îles sont des atolls coralliens, plats comme des assiettes — on peut à peine les voir depuis un bateau ! Les lagons à l'intérieur sont d'un turquoise brillant, entourés de cocotiers qui se penchent dans le vent."
+  ],
+  "animals": [
+    "Le requin à pointes noires nage dans les eaux peu profondes, ses nageoires sombres dépassant de la surface comme des petits drapeaux. Les tortues vertes géantes viennent pondre leurs œufs sur les plages de sable — elles peuvent vivre plus longtemps qu'un arrière-grand-papa !"
+  ],
+  "culture": [
+    "Le fatele est une danse où tout le monde chante de plus en plus vite jusqu'à s'essouffler, et ça finit toujours en fou rire ! On mange du poisson frais et de la crème de coco, et on joue à l'ano — un jeu de balles en feuilles de palmier."
+  ],
+  "history": [
+    "Il y a plus de 2 000 ans, de courageux explorateurs polynésiens ont trouvé ces îles en suivant les étoiles dans le ciel nocturne. Ils naviguaient sans carte ni boussole, juste en regardant les étoiles — comme des super-héros de la mer !"
+  ],
   "wows": [
     "Le code internet de Tuvalu est .tv — des chaînes du monde entier paient pour l'utiliser !",
     "La piste d'atterrissage de Funafuti sert aussi de terrain de sport et de marché quand il n'y a pas d'avion.",

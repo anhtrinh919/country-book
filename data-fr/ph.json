@@ -72,10 +72,18 @@
     "history": "Une légende au bout des îles",
     "wows": "C'est vraiment vrai ?"
   },
-  "geo": "Les Philippines se trouvent sur la Ceinture de Feu du Pacifique, avec plus de 20 volcans actifs. Le volcan Mayon a un cône presque parfait, comme un chapeau pointu géant !",
-  "animals": "L'aigle des Philippines a des ailes aussi larges qu'une porte de classe. Le tarsier est un tout petit animal de la taille de la main avec des yeux énormes — plus grands que son cerveau !",
-  "culture": "Aux Philippines, on fête des centaines de fiestas chaque année, avec des tambours et des déguisements colorés. Le plat préféré s'appelle l'adobo : de la viande mijotée dans du vinaigre et de l'ail, miam !",
-  "history": "On dit que le dieu Bathala créa les premières îles en jetant des rochers dans la mer. Il y a très longtemps, des navigateurs courageux ont traversé l'océan sur de petits bateaux pour s'y installer !",
+  "geo": [
+    "Les Philippines se trouvent sur la Ceinture de Feu du Pacifique, avec plus de 20 volcans actifs. Le volcan Mayon a un cône presque parfait, comme un chapeau pointu géant !"
+  ],
+  "animals": [
+    "L'aigle des Philippines a des ailes aussi larges qu'une porte de classe. Le tarsier est un tout petit animal de la taille de la main avec des yeux énormes — plus grands que son cerveau !"
+  ],
+  "culture": [
+    "Aux Philippines, on fête des centaines de fiestas chaque année, avec des tambours et des déguisements colorés. Le plat préféré s'appelle l'adobo : de la viande mijotée dans du vinaigre et de l'ail, miam !"
+  ],
+  "history": [
+    "On dit que le dieu Bathala créa les premières îles en jetant des rochers dans la mer. Il y a très longtemps, des navigateurs courageux ont traversé l'océan sur de petits bateaux pour s'y installer !"
+  ],
   "wows": [
     "Les Philippines ont 7 641 îles, mais moins de 2 000 ont un nom !",
     "Noël commence officiellement en septembre — quatre mois de chants et de lumières !",

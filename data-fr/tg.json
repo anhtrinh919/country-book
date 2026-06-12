@@ -72,10 +72,18 @@
     "history": "Des maisons en boue comme des tours !",
     "wows": "Vraiment, c'est vrai ?!"
   },
-  "geo": "Le Togo est l'un des pays les plus étroits du monde — à peine 56 km de large au plus mince ! Il s'étire sur 560 km depuis la plage au sud jusqu'aux grandes savanes sèches du nord.",
-  "animals": "Dans le parc national de Fazao-Malfakassa vivent environ 60 éléphants de savane, les plus à l'ouest de toute l'Afrique de l'Ouest ! Les rivières du sud cachent aussi des hippopotames et des crocodiles.",
-  "culture": "Le peuple Éwé tisse de magnifiques tissus kente aux couleurs vives, portés lors des grandes fêtes. Chaque année, la Fête de l'Igname rassemble tout le monde pour danser, manger et célébrer ensemble !",
-  "history": "Dans le nord du Togo, les Batammariba construisent de grandes maisons en boue en forme de tours, appelées takienta. Ces maisons uniques ont le même style depuis plus de 300 ans et sont classées au patrimoine mondial de l'UNESCO !",
+  "geo": [
+    "Le Togo est l'un des pays les plus étroits du monde — à peine 56 km de large au plus mince ! Il s'étire sur 560 km depuis la plage au sud jusqu'aux grandes savanes sèches du nord."
+  ],
+  "animals": [
+    "Dans le parc national de Fazao-Malfakassa vivent environ 60 éléphants de savane, les plus à l'ouest de toute l'Afrique de l'Ouest ! Les rivières du sud cachent aussi des hippopotames et des crocodiles."
+  ],
+  "culture": [
+    "Le peuple Éwé tisse de magnifiques tissus kente aux couleurs vives, portés lors des grandes fêtes. Chaque année, la Fête de l'Igname rassemble tout le monde pour danser, manger et célébrer ensemble !"
+  ],
+  "history": [
+    "Dans le nord du Togo, les Batammariba construisent de grandes maisons en boue en forme de tours, appelées takienta. Ces maisons uniques ont le même style depuis plus de 300 ans et sont classées au patrimoine mondial de l'UNESCO !"
+  ],
   "wows": [
     "Lomé est si proche du Ghana qu'on peut passer d'un pays à l'autre à pied en se promenant dans la ville !",
     "Le marché Akodessewa à Lomé est le plus grand marché vaudou du monde entier.",

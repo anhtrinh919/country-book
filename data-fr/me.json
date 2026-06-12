@@ -72,10 +72,18 @@
     "history": "Les guerriers de la montagne noire",
     "wows": "C'est vrai, je te jure !"
   },
-  "geo": "Le Monténégro est presque tout en montagnes — avec des pics de pierre pointus et des lacs brillants cachés dans les vallées. La mer est toute proche et la baie de Kotor s'enfonce si loin dans les terres qu'on croirait un lac !",
-  "animals": "Dans les grandes forêts de montagne vivent encore environ 300 ours bruns sauvages — c'est énorme pour un si petit pays ! Sur le lac Skadar, des pélicans dalmates géants — les plus grands oiseaux d'Europe — font leurs nids sur des îles de roseaux qui flottent sur l'eau.",
-  "culture": "Au Monténégro, on mange un jambon de montagne spécial qui sèche pendant des mois dans le vent frais des villages — il s'appelle le pršut et c'est un vrai trésor ! Les gens sont très fiers et ont une expression célèbre : « Nous sommes peu nombreux, mais nous sommes forts ! »",
-  "history": "Il y a très longtemps, les guerriers du Monténégro vivaient dans des montagnes si difficiles à traverser que personne ne pouvait les attraper ! Ils savaient si bien se cacher dans les rochers que leur petit pays n'a jamais été vraiment vaincu.",
+  "geo": [
+    "Le Monténégro est presque tout en montagnes — avec des pics de pierre pointus et des lacs brillants cachés dans les vallées. La mer est toute proche et la baie de Kotor s'enfonce si loin dans les terres qu'on croirait un lac !"
+  ],
+  "animals": [
+    "Dans les grandes forêts de montagne vivent encore environ 300 ours bruns sauvages — c'est énorme pour un si petit pays ! Sur le lac Skadar, des pélicans dalmates géants — les plus grands oiseaux d'Europe — font leurs nids sur des îles de roseaux qui flottent sur l'eau."
+  ],
+  "culture": [
+    "Au Monténégro, on mange un jambon de montagne spécial qui sèche pendant des mois dans le vent frais des villages — il s'appelle le pršut et c'est un vrai trésor ! Les gens sont très fiers et ont une expression célèbre : « Nous sommes peu nombreux, mais nous sommes forts ! »"
+  ],
+  "history": [
+    "Il y a très longtemps, les guerriers du Monténégro vivaient dans des montagnes si difficiles à traverser que personne ne pouvait les attraper ! Ils savaient si bien se cacher dans les rochers que leur petit pays n'a jamais été vraiment vaincu."
+  ],
   "wows": [
     "Le nom « Monténégro » et « Crna Gora » veulent dire tous les deux exactement la même chose : Montagne Noire !",
     "Le canyon de la Tara est aussi profond que 1 300 mètres — c'est le plus grand gouffre d'Europe !",

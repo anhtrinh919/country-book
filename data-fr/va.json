@@ -72,10 +72,18 @@
     "history": "Une toute petite nation très très vieille",
     "wows": "Trop bizarre pour être vrai !"
   },
-  "geo": "La Cité du Vatican se trouve entièrement à l'intérieur de Rome, entourée de hauts murs. Elle est si petite qu'on peut la traverser à pied en 20 minutes !",
-  "animals": "Dans les jardins du Vatican vivent des rouges-gorges qui sautillent sous les arbres et des perruches vertes très bavardes. Ces perruches se sont échappées de leurs cages il y a longtemps et vivent maintenant en liberté !",
-  "culture": "Chaque année, des millions de personnes viennent sur la Place Saint-Pierre pour voir le Pape. Des soldats suisses en uniformes rayés de jaune, rouge et bleu gardent le Pape depuis plus de 500 ans !",
-  "history": "Il y a très très longtemps, les papes ont bâti une immense basilique sur une colline sacrée de Rome. En 1929, la Cité du Vatican est devenue un vrai pays tout seul, le plus jeune pays du monde !",
+  "geo": [
+    "La Cité du Vatican se trouve entièrement à l'intérieur de Rome, entourée de hauts murs. Elle est si petite qu'on peut la traverser à pied en 20 minutes !"
+  ],
+  "animals": [
+    "Dans les jardins du Vatican vivent des rouges-gorges qui sautillent sous les arbres et des perruches vertes très bavardes. Ces perruches se sont échappées de leurs cages il y a longtemps et vivent maintenant en liberté !"
+  ],
+  "culture": [
+    "Chaque année, des millions de personnes viennent sur la Place Saint-Pierre pour voir le Pape. Des soldats suisses en uniformes rayés de jaune, rouge et bleu gardent le Pape depuis plus de 500 ans !"
+  ],
+  "history": [
+    "Il y a très très longtemps, les papes ont bâti une immense basilique sur une colline sacrée de Rome. En 1929, la Cité du Vatican est devenue un vrai pays tout seul, le plus jeune pays du monde !"
+  ],
   "wows": [
     "La Cité du Vatican est le seul pays qui se trouve complètement à l'intérieur d'une autre ville !",
     "On peut traverser tout le pays à pied en seulement 20 minutes.",

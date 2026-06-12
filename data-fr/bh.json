@@ -72,10 +72,18 @@
     "history": "5 000 ans de voyages",
     "wows": "Le savais-tu ?"
   },
-  "geo": "Bahreïn est un archipel de 33 îles posées dans une mer peu profonde entre le Qatar et l'Arabie Saoudite. Une grande route de presque 25 km traverse la mer pour relier Bahreïn au désert !",
-  "animals": "L'oryx d'Arabie, une belle antilope blanche aux longues cornes, vit dans une réserve protégée, et des dauphins joueurs sautent juste au bord des côtes. Le dugong, une douce vache de mer, broute les herbes sous les vagues dans l'une des dernières grandes familles du Golfe !",
-  "culture": "Les gens de Bahreïn adorent se retrouver pour boire un café parfumé à la cardamome et discuter ensemble pendant des heures. Chaque année, des voitures de Formule 1 font un bruit de tonnerre dans le désert la nuit, et tout le monde sort pour regarder !",
-  "history": "Il y a 5 000 ans, Bahreïn s'appelait Dilmun — les vieux textes sumériens en parlent comme d'un pays magique plein de richesses. Un arbre tout seul dans le désert pousse depuis 400 ans sans eau visible : les anciens croyaient qu'il buvait dans le paradis !",
+  "geo": [
+    "Bahreïn est un archipel de 33 îles posées dans une mer peu profonde entre le Qatar et l'Arabie Saoudite. Une grande route de presque 25 km traverse la mer pour relier Bahreïn au désert !"
+  ],
+  "animals": [
+    "L'oryx d'Arabie, une belle antilope blanche aux longues cornes, vit dans une réserve protégée, et des dauphins joueurs sautent juste au bord des côtes. Le dugong, une douce vache de mer, broute les herbes sous les vagues dans l'une des dernières grandes familles du Golfe !"
+  ],
+  "culture": [
+    "Les gens de Bahreïn adorent se retrouver pour boire un café parfumé à la cardamome et discuter ensemble pendant des heures. Chaque année, des voitures de Formule 1 font un bruit de tonnerre dans le désert la nuit, et tout le monde sort pour regarder !"
+  ],
+  "history": [
+    "Il y a 5 000 ans, Bahreïn s'appelait Dilmun — les vieux textes sumériens en parlent comme d'un pays magique plein de richesses. Un arbre tout seul dans le désert pousse depuis 400 ans sans eau visible : les anciens croyaient qu'il buvait dans le paradis !"
+  ],
   "wows": [
     "Il y a plus de voitures par kilomètre de route à Bahreïn que presque partout ailleurs sur Terre.",
     "Un arbre appelé l'Arbre de Vie pousse seul dans le désert depuis 400 ans sans aucune eau visible.",

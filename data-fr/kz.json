@@ -72,10 +72,18 @@
     "history": "De la Route de la Soie aux fusées",
     "wows": "Oh là là, vraiment ?!"
   },
-  "geo": "Le Kazakhstan est si grand qu'il couvre toute la largeur de l'Europe de l'Ouest ! La plupart du pays est une steppe plate comme une crêpe, mais au sud-est s'élèvent les montagnes pointues du Tian Shan.",
-  "animals": "L'aigle royal est l'animal national du Kazakhstan — des chasseurs à cheval lui apprennent à attraper des proies depuis plus de 4 000 ans ! Il y a aussi la saïga, une antilope avec un gros nez rigolo qui filtre la poussière de la steppe.",
-  "culture": "Au Kazakhstan, les invités mangent toujours en premier — c'est la règle ! Le plat préféré s'appelle le beshbarmak, ce qui veut dire « cinq doigts », parce qu'on le mange avec les mains.",
-  "history": "Il y a très longtemps, des caravanes chargées de soie et d'épices traversaient le Kazakhstan sur la Route de la Soie. Les nomades kazakhs étaient de grands cavaliers qui vivaient librement dans la steppe depuis des millénaires.",
+  "geo": [
+    "Le Kazakhstan est si grand qu'il couvre toute la largeur de l'Europe de l'Ouest ! La plupart du pays est une steppe plate comme une crêpe, mais au sud-est s'élèvent les montagnes pointues du Tian Shan."
+  ],
+  "animals": [
+    "L'aigle royal est l'animal national du Kazakhstan — des chasseurs à cheval lui apprennent à attraper des proies depuis plus de 4 000 ans ! Il y a aussi la saïga, une antilope avec un gros nez rigolo qui filtre la poussière de la steppe."
+  ],
+  "culture": [
+    "Au Kazakhstan, les invités mangent toujours en premier — c'est la règle ! Le plat préféré s'appelle le beshbarmak, ce qui veut dire « cinq doigts », parce qu'on le mange avec les mains."
+  ],
+  "history": [
+    "Il y a très longtemps, des caravanes chargées de soie et d'épices traversaient le Kazakhstan sur la Route de la Soie. Les nomades kazakhs étaient de grands cavaliers qui vivaient librement dans la steppe depuis des millénaires."
+  ],
   "wows": [
     "Le Kazakhstan est plus grand que toute l'Europe de l'Ouest, mais il n'a aucune plage !",
     "Tous les pommiers du monde viennent des forêts sauvages près d'Almaty — le Kazakhstan est le pays natal de la pomme !",

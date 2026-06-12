@@ -72,10 +72,18 @@
     "history": "Une île de légendes",
     "wows": "Taïwan va t'épater !"
   },
-  "geo": "Taïwan se trouve sur une ceinture de volcans et de séismes — l'île tremble environ 1 000 fois par an ! Une grande chaîne de montagnes traverse l'île comme une colonne vertébrale, avec presque 200 sommets de plus de 3 000 mètres.",
-  "animals": "La forêt de Taïwan cache un ours noir appelé l'ours de Formose, qui a une grande tache jaune en forme de V sur la poitrine — on l'appelle « l'ours à la lune » ! Chaque hiver, des millions de papillons violets s'envolent vers la vallée de Maolin, comme un blizzard violet vivant.",
-  "culture": "À Taïwan, les marchés nocturnes sont des fêtes en plein air où l'on mange du tofu croustillant, des omelettes aux huîtres et de la glace avec des mangues fraîches. Le bubble tea — du thé sucré avec des petites billes de tapioca — a été inventé ici dans les années 1980 !",
-  "history": "Des peuples venus de très loin se sont installés sur l'île de Taïwan il y a au moins 6 000 ans ! Ils ont construit des villages dans les montagnes et ont navigué sur des pirogues jusqu'aux îles du Pacifique.",
+  "geo": [
+    "Taïwan se trouve sur une ceinture de volcans et de séismes — l'île tremble environ 1 000 fois par an ! Une grande chaîne de montagnes traverse l'île comme une colonne vertébrale, avec presque 200 sommets de plus de 3 000 mètres."
+  ],
+  "animals": [
+    "La forêt de Taïwan cache un ours noir appelé l'ours de Formose, qui a une grande tache jaune en forme de V sur la poitrine — on l'appelle « l'ours à la lune » ! Chaque hiver, des millions de papillons violets s'envolent vers la vallée de Maolin, comme un blizzard violet vivant."
+  ],
+  "culture": [
+    "À Taïwan, les marchés nocturnes sont des fêtes en plein air où l'on mange du tofu croustillant, des omelettes aux huîtres et de la glace avec des mangues fraîches. Le bubble tea — du thé sucré avec des petites billes de tapioca — a été inventé ici dans les années 1980 !"
+  ],
+  "history": [
+    "Des peuples venus de très loin se sont installés sur l'île de Taïwan il y a au moins 6 000 ans ! Ils ont construit des villages dans les montagnes et ont navigué sur des pirogues jusqu'aux îles du Pacifique."
+  ],
   "wows": [
     "Le bubble tea au lait avec des billes a été inventé à Taïwan — et maintenant tout le monde en boit dans le monde entier !",
     "La montagne Yushan est plus haute que le célèbre mont Fuji au Japon de presque 180 mètres !",

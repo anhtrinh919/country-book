@@ -72,10 +72,18 @@
     "history": "Légendes, rois et inventions magiques",
     "wows": "7 choses à ne pas croire !"
   },
-  "geo": "La Corée du Sud est couverte à 70 % de montagnes boisées et escarpées, et les gens vivent surtout sur les étroites plaines côtières. Au sud, l'île de Jeju cache un volcan endormi appelé Hallasan et des tunnels creusés dans la lave qu'on peut visiter à pied !",
-  "animals": "L'animal national de la Corée du Sud est le tigre de Sibérie, grand, puissant et presque blanc dans la neige. La grue à couronne rouge, avec sa tête écarlate et ses plumes blanches, est un symbole de chance — chaque hiver, des milliers d'entre elles viennent se reposer dans les zones humides de Corée !",
-  "culture": "Le plat le plus célèbre de Corée est le kimchi — un chou fermenté piquant et aillé que l'on mange à presque tous les repas, et il en existe plus de 200 variétés ! La K-pop, c'est de la musique coréenne avec des clips éblouissants et des fans partout dans le monde qui connaissent chaque pas de danse.",
-  "history": "Il y a très longtemps, un roi coréen a demandé à ses savants d'inventer un alphabet facile pour que tout le monde puisse lire — ils ont créé le hangul en 1443, avec seulement 24 lettres ! Des palais magnifiques construits il y a 600 ans se dressent encore aujourd'hui au cœur de Séoul.",
+  "geo": [
+    "La Corée du Sud est couverte à 70 % de montagnes boisées et escarpées, et les gens vivent surtout sur les étroites plaines côtières. Au sud, l'île de Jeju cache un volcan endormi appelé Hallasan et des tunnels creusés dans la lave qu'on peut visiter à pied !"
+  ],
+  "animals": [
+    "L'animal national de la Corée du Sud est le tigre de Sibérie, grand, puissant et presque blanc dans la neige. La grue à couronne rouge, avec sa tête écarlate et ses plumes blanches, est un symbole de chance — chaque hiver, des milliers d'entre elles viennent se reposer dans les zones humides de Corée !"
+  ],
+  "culture": [
+    "Le plat le plus célèbre de Corée est le kimchi — un chou fermenté piquant et aillé que l'on mange à presque tous les repas, et il en existe plus de 200 variétés ! La K-pop, c'est de la musique coréenne avec des clips éblouissants et des fans partout dans le monde qui connaissent chaque pas de danse."
+  ],
+  "history": [
+    "Il y a très longtemps, un roi coréen a demandé à ses savants d'inventer un alphabet facile pour que tout le monde puisse lire — ils ont créé le hangul en 1443, avec seulement 24 lettres ! Des palais magnifiques construits il y a 600 ans se dressent encore aujourd'hui au cœur de Séoul."
+  ],
   "wows": [
     "Presque tous les foyers coréens ont internet ultra-rapide — parmi les plus rapides du monde !",
     "L'alphabet hangul est si simple qu'on peut apprendre à le lire en une seule matinée.",

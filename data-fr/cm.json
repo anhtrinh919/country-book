@@ -72,10 +72,18 @@
     "history": "Des crevettes à la république",
     "wows": "C'est vrai, vraiment ?!"
   },
-  "geo": "Au Cameroun, le sud est une grande forêt pleine d'arbres énormes, et le nord devient tout plat près du lac Tchad. Le mont Cameroun, un volcan encore actif, sort directement de la mer — comme un géant qui sort de l'eau !",
-  "animals": "Dans les forêts du Cameroun vivent des gorilles, des éléphants et des chimpanzés. Le touraco de Bannerman, un oiseau aux ailes rouge vif, n'existe nulle part ailleurs sur Terre — seulement ici !",
-  "culture": "Les Bamiléké font de grandes fêtes où des danseurs portent d'énormes masques en forme d'éléphant qui se balancent au son des tambours. Le plat favori s'appelle le ndólé — une sauce aux feuilles et aux cacahuètes que tout le monde adore !",
-  "history": "Il y a très longtemps, des marins portugais ont découvert une rivière pleine de crevettes géantes et l'ont appelée « Rio dos Camarões » — la rivière des crevettes. C'est de là que vient le nom « Cameroun » !",
+  "geo": [
+    "Au Cameroun, le sud est une grande forêt pleine d'arbres énormes, et le nord devient tout plat près du lac Tchad. Le mont Cameroun, un volcan encore actif, sort directement de la mer — comme un géant qui sort de l'eau !"
+  ],
+  "animals": [
+    "Dans les forêts du Cameroun vivent des gorilles, des éléphants et des chimpanzés. Le touraco de Bannerman, un oiseau aux ailes rouge vif, n'existe nulle part ailleurs sur Terre — seulement ici !"
+  ],
+  "culture": [
+    "Les Bamiléké font de grandes fêtes où des danseurs portent d'énormes masques en forme d'éléphant qui se balancent au son des tambours. Le plat favori s'appelle le ndólé — une sauce aux feuilles et aux cacahuètes que tout le monde adore !"
+  ],
+  "history": [
+    "Il y a très longtemps, des marins portugais ont découvert une rivière pleine de crevettes géantes et l'ont appelée « Rio dos Camarões » — la rivière des crevettes. C'est de là que vient le nom « Cameroun » !"
+  ],
   "wows": [
     "Le mont Cameroun est le plus haut sommet d'Afrique centrale et il crache encore de la lave !",
     "Au Cameroun, on parle plus de 280 langues différentes — c'est l'un des pays les plus multilingues du monde.",

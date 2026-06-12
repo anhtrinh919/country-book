@@ -72,10 +72,18 @@
     "history": "Une grande aventure pleine de découvertes",
     "wows": "50 choses épatantes sur les États-Unis"
   },
-  "geo": "Les États-Unis ont des déserts brûlants, de grandes plaines plates et de hautes montagnes enneigées. Le Grand Canyon est un immense trou creusé par une rivière — il est si grand qu'il a sa propre météo !",
-  "animals": "Le bison américain est un animal gigantesque qui broute dans les grandes plaines protégées. Autrefois, il en existait 60 millions — autant que le nombre d'étoiles visibles dans le ciel la nuit !",
-  "culture": "Aux États-Unis, on adore manger de la pizza, des barbecues et des hamburgers selon la région où l'on vit. Le cinéma d'Hollywood fait rêver des milliards d'enfants et d'adultes partout dans le monde !",
-  "history": "Les Amérindiens ont habité ces terres pendant 15 000 ans avant l'arrivée des Européens. En 1776, treize colonies ont décidé de s'appeler un nouveau pays — les États-Unis d'Amérique — et ont inventé une façon de vivre ensemble appelée démocratie !",
+  "geo": [
+    "Les États-Unis ont des déserts brûlants, de grandes plaines plates et de hautes montagnes enneigées. Le Grand Canyon est un immense trou creusé par une rivière — il est si grand qu'il a sa propre météo !"
+  ],
+  "animals": [
+    "Le bison américain est un animal gigantesque qui broute dans les grandes plaines protégées. Autrefois, il en existait 60 millions — autant que le nombre d'étoiles visibles dans le ciel la nuit !"
+  ],
+  "culture": [
+    "Aux États-Unis, on adore manger de la pizza, des barbecues et des hamburgers selon la région où l'on vit. Le cinéma d'Hollywood fait rêver des milliards d'enfants et d'adultes partout dans le monde !"
+  ],
+  "history": [
+    "Les Amérindiens ont habité ces terres pendant 15 000 ans avant l'arrivée des Européens. En 1776, treize colonies ont décidé de s'appeler un nouveau pays — les États-Unis d'Amérique — et ont inventé une façon de vivre ensemble appelée démocratie !"
+  ],
   "wows": [
     "Les États-Unis ont plus de 1 200 tornades par an — plus que n'importe quel autre pays !",
     "L'Alaska est si loin à l'ouest qu'il est plus proche de la Russie que du reste des États-Unis — seulement 88 km de mer les séparent !",

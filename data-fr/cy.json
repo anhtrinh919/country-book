@@ -72,10 +72,18 @@
     "history": "Des dieux, du cuivre et des légendes",
     "wows": "Tu savais ça ?"
   },
-  "geo": "Chypre est une île baignée de soleil au milieu de la mer Méditerranée, là où l'Europe, l'Asie et l'Afrique se rencontrent. Au centre, les montagnes du Troodos montent très haut — assez haut pour qu'il y ait de la neige en hiver !",
-  "animals": "Le mouflon de Chypre est un mouton sauvage avec de grandes cornes qui s'enroulent en spirale, et on ne le trouve que sur cette île. Il y a aussi environ un million de chats qui se promènent librement partout — bien plus que les habitants !",
-  "culture": "Le halloumi est un fromage magique de Chypre : on peut le faire griller sans qu'il fonde, et il fait un petit bruit quand on le mange ! Chaque printemps, la fête Kataklysmos transforme les plages en grandes batailles d'eau avec des courses de bateaux.",
-  "history": "Il y a plus de 4 000 ans, Chypre était le plus grand endroit au monde pour extraire le cuivre, ce métal orange et brillant. En fait, le mot « cuivre » vient tout droit du nom de l'île, Kypros — c'est elle qui lui a donné son prénom !",
+  "geo": [
+    "Chypre est une île baignée de soleil au milieu de la mer Méditerranée, là où l'Europe, l'Asie et l'Afrique se rencontrent. Au centre, les montagnes du Troodos montent très haut — assez haut pour qu'il y ait de la neige en hiver !"
+  ],
+  "animals": [
+    "Le mouflon de Chypre est un mouton sauvage avec de grandes cornes qui s'enroulent en spirale, et on ne le trouve que sur cette île. Il y a aussi environ un million de chats qui se promènent librement partout — bien plus que les habitants !"
+  ],
+  "culture": [
+    "Le halloumi est un fromage magique de Chypre : on peut le faire griller sans qu'il fonde, et il fait un petit bruit quand on le mange ! Chaque printemps, la fête Kataklysmos transforme les plages en grandes batailles d'eau avec des courses de bateaux."
+  ],
+  "history": [
+    "Il y a plus de 4 000 ans, Chypre était le plus grand endroit au monde pour extraire le cuivre, ce métal orange et brillant. En fait, le mot « cuivre » vient tout droit du nom de l'île, Kypros — c'est elle qui lui a donné son prénom !"
+  ],
   "wows": [
     "Le drapeau de Chypre montre la forme de l'île elle-même — c'est l'un des seuls drapeaux au monde à faire ça !",
     "Le vin le plus vieux du monde qui a encore un nom vient de Chypre — on le fabrique depuis au moins 2 800 ans.",

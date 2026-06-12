@@ -61,10 +61,18 @@
     "history": "Du petit village à la grande cité",
     "wows": "Tu ne vas pas le croire !"
   },
-  "geo": "Singapour est posée sur une grande île et 63 petites îles, tout au bout de la péninsule de Malaisie. Il n'y a pas de montagnes du tout — le point le plus haut ne fait que 164 mètres, comme un immeuble de 50 étages !",
-  "animals": "Les loutres à ventre lisse glissent et plongent dans les canaux de la ville comme si c'était leur piscine ! Le pangolin de Sunda, tout couvert d'écailles dorées comme une pomme de pin, se cache encore la nuit dans les forêts du cœur de Singapour.",
-  "culture": "À Singapour, on mange partout dehors dans de grands marchés couverts appelés « hawker centres » — le riz au poulet ou la soupe laksa ne coûtent que quelques sous ! Les gens parlent l'anglais, le malais, le mandarin et le tamoul, et ils mélangent tout ça dans une langue rigolote appelée le singlish.",
-  "history": "Il y a très longtemps, une légende raconte qu'un prince aperçut un animal mystérieux sur cette île — une tête de lion sur un corps de poisson, le Merlion ! C'est pour ça que Singapour s'appelle « la Cité du Lion », et aujourd'hui une grande statue Merlion crache de l'eau dans la baie.",
+  "geo": [
+    "Singapour est posée sur une grande île et 63 petites îles, tout au bout de la péninsule de Malaisie. Il n'y a pas de montagnes du tout — le point le plus haut ne fait que 164 mètres, comme un immeuble de 50 étages !"
+  ],
+  "animals": [
+    "Les loutres à ventre lisse glissent et plongent dans les canaux de la ville comme si c'était leur piscine ! Le pangolin de Sunda, tout couvert d'écailles dorées comme une pomme de pin, se cache encore la nuit dans les forêts du cœur de Singapour."
+  ],
+  "culture": [
+    "À Singapour, on mange partout dehors dans de grands marchés couverts appelés « hawker centres » — le riz au poulet ou la soupe laksa ne coûtent que quelques sous ! Les gens parlent l'anglais, le malais, le mandarin et le tamoul, et ils mélangent tout ça dans une langue rigolote appelée le singlish."
+  ],
+  "history": [
+    "Il y a très longtemps, une légende raconte qu'un prince aperçut un animal mystérieux sur cette île — une tête de lion sur un corps de poisson, le Merlion ! C'est pour ça que Singapour s'appelle « la Cité du Lion », et aujourd'hui une grande statue Merlion crache de l'eau dans la baie."
+  ],
   "wows": [
     "L'aéroport de Changi a été élu meilleur aéroport du monde 14 fois — il a même une piscine et un cinéma à l'intérieur !",
     "Singapour a grandi de 25 % en ajoutant du sable dans la mer pour fabriquer de nouvelles terres.",

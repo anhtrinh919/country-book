@@ -71,10 +71,18 @@
     "history": "Une terre de légendes et de trésors",
     "wows": "7 choses incroyables sur l'Afghanistan"
   },
-  "geo": "L'Afghanistan n'a pas du tout de mer — il est entouré de terre de tous les côtés ! Au milieu, les montagnes de l'Hindu Kuch sont si hautes qu'elles restent couvertes de neige toute l'année.",
-  "animals": "Le léopard des neiges se promène en silence sur les hautes montagnes, avec ses grandes pattes douces comme des raquettes à neige. Le lévrier afghan, un des plus vieux chiens du monde, a de longs poils soyeux pour rester bien au chaud !",
-  "culture": "En Afghanistan, on offre toujours du thé vert à la cardamome à ses invités pour leur dire bienvenue — c'est une règle très importante ! Les familles fabriquent aussi de magnifiques tapis avec des motifs colorés qui racontent des histoires.",
-  "history": "Il y a très longtemps, une ville appelée Balkh était si grande et si belle qu'on l'appelait la « Mère de toutes les villes » — elle avait déjà 3 000 ans ! Des voyageurs et des aventuriers du monde entier venaient la visiter.",
+  "geo": [
+    "L'Afghanistan n'a pas du tout de mer — il est entouré de terre de tous les côtés ! Au milieu, les montagnes de l'Hindu Kuch sont si hautes qu'elles restent couvertes de neige toute l'année."
+  ],
+  "animals": [
+    "Le léopard des neiges se promène en silence sur les hautes montagnes, avec ses grandes pattes douces comme des raquettes à neige. Le lévrier afghan, un des plus vieux chiens du monde, a de longs poils soyeux pour rester bien au chaud !"
+  ],
+  "culture": [
+    "En Afghanistan, on offre toujours du thé vert à la cardamome à ses invités pour leur dire bienvenue — c'est une règle très importante ! Les familles fabriquent aussi de magnifiques tapis avec des motifs colorés qui racontent des histoires."
+  ],
+  "history": [
+    "Il y a très longtemps, une ville appelée Balkh était si grande et si belle qu'on l'appelait la « Mère de toutes les villes » — elle avait déjà 3 000 ans ! Des voyageurs et des aventuriers du monde entier venaient la visiter."
+  ],
   "wows": [
     "Les grenades de Kandahar sont parmi les plus sucrées du monde — on les adore depuis plus de 1 000 ans !",
     "La ville de Balkh a plus de 3 000 ans — c'est une des plus vieilles villes de la planète !",

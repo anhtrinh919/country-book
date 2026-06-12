@@ -72,10 +72,18 @@
     "history": "Les grands marchands du monde",
     "wows": "Tu y crois, toi ?"
   },
-  "geo": "Les Pays-Bas sont tellement plats qu'on peut faire du vélo des heures sans monter une seule côte ! Une grande partie du pays est un ancien fond de mer, asséché grâce à de grandes digues et des pompes géantes. Les fleuves Rhin et Maas se répandent en un large delta avant de rejoindre la mer du Nord.",
-  "animals": "Des milliers de phoques gris se prélassent sur les bancs de sable de la mer des Wadden quand la marée se retire. Les cigognes blanches reviennent chaque printemps pour faire leurs nids sur les toits des maisons — les habitants les adorent, car elles portent bonheur !",
-  "culture": "Aux Pays-Bas, il y a 23 millions de vélos pour seulement 18 millions d'habitants — il y a plus de vélos que de personnes ! On mange des stroopwafels, deux petites gaufres collées avec du caramel, c'est délicieux.",
-  "history": "Il y a très longtemps, au XVII° siècle, les bateaux néerlandais naviguaient jusqu'en Asie et en Amérique pour rapporter des épices, de la soie et des merveilles. Amsterdam était le port le plus animé de toute la planète, rempli de marchands venus du monde entier !",
+  "geo": [
+    "Les Pays-Bas sont tellement plats qu'on peut faire du vélo des heures sans monter une seule côte ! Une grande partie du pays est un ancien fond de mer, asséché grâce à de grandes digues et des pompes géantes. Les fleuves Rhin et Maas se répandent en un large delta avant de rejoindre la mer du Nord."
+  ],
+  "animals": [
+    "Des milliers de phoques gris se prélassent sur les bancs de sable de la mer des Wadden quand la marée se retire. Les cigognes blanches reviennent chaque printemps pour faire leurs nids sur les toits des maisons — les habitants les adorent, car elles portent bonheur !"
+  ],
+  "culture": [
+    "Aux Pays-Bas, il y a 23 millions de vélos pour seulement 18 millions d'habitants — il y a plus de vélos que de personnes ! On mange des stroopwafels, deux petites gaufres collées avec du caramel, c'est délicieux."
+  ],
+  "history": [
+    "Il y a très longtemps, au XVII° siècle, les bateaux néerlandais naviguaient jusqu'en Asie et en Amérique pour rapporter des épices, de la soie et des merveilles. Amsterdam était le port le plus animé de toute la planète, rempli de marchands venus du monde entier !"
+  ],
   "wows": [
     "Un quart des Pays-Bas est sous le niveau de la mer — les digues les protègent de l'inondation !",
     "Il y a 23 millions de vélos pour 18 millions d'habitants — chaque enfant a son vélo dès tout petit.",

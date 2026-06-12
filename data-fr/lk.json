@@ -72,10 +72,18 @@
     "history": "2 500 ans de rois et d'épices",
     "wows": "Sri Lanka te surprend !"
   },
-  "geo": "Sri Lanka se trouve dans l'océan Indien, tout près de la pointe sud de l'Inde. Au centre, il y a de belles collines fraîches couvertes de plantations de thé en terrasses.",
-  "animals": "Les éléphants d'Asie se promènent en liberté dans les forêts, et des baleines bleues — les plus grands animaux du monde — nagent juste au large des côtes ! Cinq espèces de tortues de mer pondent leurs œufs sur les plages de Sri Lanka.",
-  "culture": "La plupart des Sri-Lankais sont bouddhistes, et chaque ville a un temple au toit doré appelé vihara. Tout le monde adore manger du riz et du curry avec les doigts !",
-  "history": "Il y a très longtemps, le grand royaume d'Anuradhapura a construit d'énormes réservoirs d'eau pour que les paysans puissent cultiver du riz partout. Les marchands du monde entier venaient ici chercher des épices et des pierres précieuses.",
+  "geo": [
+    "Sri Lanka se trouve dans l'océan Indien, tout près de la pointe sud de l'Inde. Au centre, il y a de belles collines fraîches couvertes de plantations de thé en terrasses."
+  ],
+  "animals": [
+    "Les éléphants d'Asie se promènent en liberté dans les forêts, et des baleines bleues — les plus grands animaux du monde — nagent juste au large des côtes ! Cinq espèces de tortues de mer pondent leurs œufs sur les plages de Sri Lanka."
+  ],
+  "culture": [
+    "La plupart des Sri-Lankais sont bouddhistes, et chaque ville a un temple au toit doré appelé vihara. Tout le monde adore manger du riz et du curry avec les doigts !"
+  ],
+  "history": [
+    "Il y a très longtemps, le grand royaume d'Anuradhapura a construit d'énormes réservoirs d'eau pour que les paysans puissent cultiver du riz partout. Les marchands du monde entier venaient ici chercher des épices et des pierres précieuses."
+  ],
   "wows": [
     "Sri Lanka a inventé la cannelle — cette épice parfumée poussait ici à l'état sauvage il y a 3 000 ans !",
     "Des saphirs et des rubis sortent encore du sol après la pluie dans presque chaque région.",

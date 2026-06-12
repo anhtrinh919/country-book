@@ -72,10 +72,18 @@
     "history": "Le pays qui a dit non !",
     "wows": "7 choses qui vont t'épater"
   },
-  "geo": "La Guinée a de hauts plateaux couverts d'herbe verte où il fait bon frais. De ces collines coulent des cascades qui donnent naissance à de grands fleuves comme le Niger et le Sénégal !",
-  "animals": "Les forêts de Guinée abritent des centaines de chimpanzés sauvages qui apprennent à leurs bébés à casser des noix avec des pierres. Sur le mont Nimba vit un crapaud très spécial qui donne naissance à de vrais têtards vivants — pas des œufs comme les autres grenouilles !",
-  "culture": "En Guinée, tout le monde mange du riz avec une sauce aux cacahuètes dans un grand bol partagé. Les griots sont des musiciens-conteurs qui chantent les histoires des familles lors des fêtes et des mariages !",
-  "history": "Il y a très longtemps, la Guinée a été le premier pays d'Afrique à dire à la France : « Nous voulons être libres ! » Les gens étaient si fiers qu'ils ont dit préférer être pauvres et libres plutôt que riches mais pas libres. Quel courage !",
+  "geo": [
+    "La Guinée a de hauts plateaux couverts d'herbe verte où il fait bon frais. De ces collines coulent des cascades qui donnent naissance à de grands fleuves comme le Niger et le Sénégal !"
+  ],
+  "animals": [
+    "Les forêts de Guinée abritent des centaines de chimpanzés sauvages qui apprennent à leurs bébés à casser des noix avec des pierres. Sur le mont Nimba vit un crapaud très spécial qui donne naissance à de vrais têtards vivants — pas des œufs comme les autres grenouilles !"
+  ],
+  "culture": [
+    "En Guinée, tout le monde mange du riz avec une sauce aux cacahuètes dans un grand bol partagé. Les griots sont des musiciens-conteurs qui chantent les histoires des familles lors des fêtes et des mariages !"
+  ],
+  "history": [
+    "Il y a très longtemps, la Guinée a été le premier pays d'Afrique à dire à la France : « Nous voulons être libres ! » Les gens étaient si fiers qu'ils ont dit préférer être pauvres et libres plutôt que riches mais pas libres. Quel courage !"
+  ],
   "wows": [
     "La Guinée possède les plus grandes réserves de bauxite du monde — le rocher qui sert à fabriquer l'aluminium de nos canettes et avions !",
     "Le plateau du Fouta Djallon donne naissance à 22 fleuves qui arrosent toute l'Afrique de l'Ouest.",

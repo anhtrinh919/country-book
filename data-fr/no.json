@@ -72,10 +72,18 @@
     "history": "Des Vikings aux trésors pétroliers",
     "wows": "7 choses qui font dire « Ouah ! »"
   },
-  "geo": "La Norvège est très longue et très étroite — comme un serpent géant accroché au bord de l'Europe ! Des glaciers ont creusé des milliers de fjords dans la côte, créant des couloirs d'eau entre des falaises hautes comme des immeubles.",
-  "animals": "L'élan est le plus grand animal des forêts norvégiennes — il pèse autant qu'une petite voiture ! Le renard arctique vit dans la neige tout au nord et son manteau tout blanc le garde au chaud même par grand froid.",
-  "culture": "Chaque 17 mai, toute la Norvège fait un immense défilé d'enfants avec des fanfares, des drapeaux, des hot-dogs et des glaces ! Beaucoup de Norvégiens portent un beau costume brodé à la main qui montre la vallée d'où vient leur famille.",
-  "history": "Il y a plus de mille ans, les Vikings sont partis de Norvège sur de grands bateaux en forme de dragons pour explorer des terres inconnues, bien avant tout le monde ! Ces courageux marins ont même atteint l'Amérique sans boussole ni carte.",
+  "geo": [
+    "La Norvège est très longue et très étroite — comme un serpent géant accroché au bord de l'Europe ! Des glaciers ont creusé des milliers de fjords dans la côte, créant des couloirs d'eau entre des falaises hautes comme des immeubles."
+  ],
+  "animals": [
+    "L'élan est le plus grand animal des forêts norvégiennes — il pèse autant qu'une petite voiture ! Le renard arctique vit dans la neige tout au nord et son manteau tout blanc le garde au chaud même par grand froid."
+  ],
+  "culture": [
+    "Chaque 17 mai, toute la Norvège fait un immense défilé d'enfants avec des fanfares, des drapeaux, des hot-dogs et des glaces ! Beaucoup de Norvégiens portent un beau costume brodé à la main qui montre la vallée d'où vient leur famille."
+  ],
+  "history": [
+    "Il y a plus de mille ans, les Vikings sont partis de Norvège sur de grands bateaux en forme de dragons pour explorer des terres inconnues, bien avant tout le monde ! Ces courageux marins ont même atteint l'Amérique sans boussole ni carte."
+  ],
   "wows": [
     "La Norvège a plus de 50 000 îles — personne n'a réussi à les compter toutes !",
     "En été, le soleil brille 76 jours sans jamais se coucher dans le nord du pays.",

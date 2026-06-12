@@ -72,10 +72,18 @@
     "history": "Les empereurs du Sahel",
     "wows": "Sept merveilles surprenantes"
   },
-  "geo": "Le Niger est immense — il fait la taille de la France, de l'Allemagne et de l'Espagne réunies ! Plus de 80 % du pays est couvert par le désert du Sahara, avec d'énormes dunes de sable. Mais au sud, le fleuve Niger apporte de l'eau et de la verdure, et un grand parc naturel s'étend sur trois pays à la fois.",
-  "animals": "La girafe d'Afrique de l'Ouest est l'animal le plus célèbre du Niger — c'est la girafe la plus rare du monde entier ! Il n'en restait que 50 dans les années 1990, mais aujourd'hui elles sont plus de 600 et se promènent librement près des villages. Dans le désert de l'Aïr vit l'addax, une antilope magique qui peut survivre sans presque boire d'eau.",
-  "culture": "Chaque année, les nomades Wodaabe organisent une fête très spéciale appelée le Gerewol : ce sont les hommes qui se maquillent, mettent de beaux habits et dansent pour impressionner les femmes ! Les Touaregs, eux, portent de grands voiles bleus et traversent le désert à dos de chameau depuis des centaines d'années. Les marchés du Niger sont pleins de couleurs, de musique et de bons plats.",
-  "history": "Il y a très longtemps, la ville d'Agadez était une cité magique où se croisaient des caravanes de chameaux chargés d'or et d'ivoire venus de toute l'Afrique. Le puissant empire Songhaï régnait sur tout le Sahel au 15ème siècle — c'était l'un des plus grands empires d'Afrique ! Sa mosquée d'Agadez, une tour en terre, est encore debout aujourd'hui.",
+  "geo": [
+    "Le Niger est immense — il fait la taille de la France, de l'Allemagne et de l'Espagne réunies ! Plus de 80 % du pays est couvert par le désert du Sahara, avec d'énormes dunes de sable. Mais au sud, le fleuve Niger apporte de l'eau et de la verdure, et un grand parc naturel s'étend sur trois pays à la fois."
+  ],
+  "animals": [
+    "La girafe d'Afrique de l'Ouest est l'animal le plus célèbre du Niger — c'est la girafe la plus rare du monde entier ! Il n'en restait que 50 dans les années 1990, mais aujourd'hui elles sont plus de 600 et se promènent librement près des villages. Dans le désert de l'Aïr vit l'addax, une antilope magique qui peut survivre sans presque boire d'eau."
+  ],
+  "culture": [
+    "Chaque année, les nomades Wodaabe organisent une fête très spéciale appelée le Gerewol : ce sont les hommes qui se maquillent, mettent de beaux habits et dansent pour impressionner les femmes ! Les Touaregs, eux, portent de grands voiles bleus et traversent le désert à dos de chameau depuis des centaines d'années. Les marchés du Niger sont pleins de couleurs, de musique et de bons plats."
+  ],
+  "history": [
+    "Il y a très longtemps, la ville d'Agadez était une cité magique où se croisaient des caravanes de chameaux chargés d'or et d'ivoire venus de toute l'Afrique. Le puissant empire Songhaï régnait sur tout le Sahel au 15ème siècle — c'était l'un des plus grands empires d'Afrique ! Sa mosquée d'Agadez, une tour en terre, est encore debout aujourd'hui."
+  ],
   "wows": [
     "Le minaret de la mosquée d'Agadez est la plus haute tour en boue du monde — 27 mètres, construite en 1515 !",
     "La moitié des Nigériens a moins de 16 ans — c'est le pays le plus jeune du monde !",

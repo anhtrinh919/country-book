@@ -72,10 +72,18 @@
     "history": "Des rois anciens et des empreintes magiques",
     "wows": "Trop incroyable pour être vrai !"
   },
-  "geo": "La Tanzanie a un immense plateau avec des volcans, des lacs brillants et de grandes vallées. Le lac Tanganyika est si profond qu'on pourrait empiler quatre tours Eiffel à l'intérieur !",
-  "animals": "Chaque année, plus d'un million et demi de gnous galopent ensemble sur le Serengeti — c'est le plus grand défilé d'animaux de la planète ! L'animal national de la Tanzanie est la girafe masaï, la plus grande créature vivante sur Terre.",
-  "culture": "En Tanzanie, plus de 120 groupes différents vivent ensemble et parlent tous le swahili pour se comprendre. Sur l'île de Zanzibar, l'air sent les clous de girofle et la cannelle, et les portes en bois sculpté sont décorées comme des bijoux !",
-  "history": "Il y a 3,6 millions d'années, de très anciens ancêtres humains ont laissé leurs empreintes de pieds dans la cendre d'un volcan, et elles sont encore là aujourd'hui ! Ces empreintes à Laetoli sont les plus vieilles traces de pas humains jamais découvertes.",
+  "geo": [
+    "La Tanzanie a un immense plateau avec des volcans, des lacs brillants et de grandes vallées. Le lac Tanganyika est si profond qu'on pourrait empiler quatre tours Eiffel à l'intérieur !"
+  ],
+  "animals": [
+    "Chaque année, plus d'un million et demi de gnous galopent ensemble sur le Serengeti — c'est le plus grand défilé d'animaux de la planète ! L'animal national de la Tanzanie est la girafe masaï, la plus grande créature vivante sur Terre."
+  ],
+  "culture": [
+    "En Tanzanie, plus de 120 groupes différents vivent ensemble et parlent tous le swahili pour se comprendre. Sur l'île de Zanzibar, l'air sent les clous de girofle et la cannelle, et les portes en bois sculpté sont décorées comme des bijoux !"
+  ],
+  "history": [
+    "Il y a 3,6 millions d'années, de très anciens ancêtres humains ont laissé leurs empreintes de pieds dans la cendre d'un volcan, et elles sont encore là aujourd'hui ! Ces empreintes à Laetoli sont les plus vieilles traces de pas humains jamais découvertes."
+  ],
   "wows": [
     "Le cratère du Ngorongoro est un immense bol de 20 km de large avec 25 000 grands animaux à l'intérieur.",
     "Des empreintes humaines vieilles de 3,6 millions d'années sont conservées dans la cendre volcanique à Laetoli.",

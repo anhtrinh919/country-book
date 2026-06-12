@@ -72,10 +72,18 @@
     "history": "Un royaume au cœur des légendes",
     "wows": "Les surprises de la Lituanie"
   },
-  "geo": "La Lituanie est presque totalement plate — sa plus haute colline est aussi haute qu'un immeuble de 90 étages ! La moitié du pays est recouverte de forêts, et on y compte 3 000 lacs. Sur la côte, une longue bande de sable appelée la Neringa s'étire sur 98 km le long de la mer Baltique, avec d'immenses dunes qui bougent chaque année.",
-  "animals": "La cigogne blanche est l'oiseau national de la Lituanie, et ce pays a plus de nids de cigognes que presque n'importe où ailleurs sur Terre ! Chaque printemps, elles arrivent d'Afrique et s'installent sur les toits des maisons. Le bison d'Europe, le plus grand animal du continent, vit aussi dans les forêts lituaniennes.",
-  "culture": "Les Lituaniens adorent chanter — tous les quatre ans, des dizaines de milliers de personnes chantent ensemble lors d'un grand festival ! Le pays est aussi connu pour son ambre : jusqu'à 80 % de l'ambre mondial vient des plages de la mer Baltique, et les Lituaniens en font des bijoux depuis 4 000 ans.",
-  "history": "Il y a très longtemps, la Lituanie était le plus grand pays d'Europe, s'étendant jusqu'à presque deux mers ! Un roi courageux appelé Mindaugas a uni toutes les tribus en 1253 — il est le seul roi que la Lituanie ait jamais eu.",
+  "geo": [
+    "La Lituanie est presque totalement plate — sa plus haute colline est aussi haute qu'un immeuble de 90 étages ! La moitié du pays est recouverte de forêts, et on y compte 3 000 lacs. Sur la côte, une longue bande de sable appelée la Neringa s'étire sur 98 km le long de la mer Baltique, avec d'immenses dunes qui bougent chaque année."
+  ],
+  "animals": [
+    "La cigogne blanche est l'oiseau national de la Lituanie, et ce pays a plus de nids de cigognes que presque n'importe où ailleurs sur Terre ! Chaque printemps, elles arrivent d'Afrique et s'installent sur les toits des maisons. Le bison d'Europe, le plus grand animal du continent, vit aussi dans les forêts lituaniennes."
+  ],
+  "culture": [
+    "Les Lituaniens adorent chanter — tous les quatre ans, des dizaines de milliers de personnes chantent ensemble lors d'un grand festival ! Le pays est aussi connu pour son ambre : jusqu'à 80 % de l'ambre mondial vient des plages de la mer Baltique, et les Lituaniens en font des bijoux depuis 4 000 ans."
+  ],
+  "history": [
+    "Il y a très longtemps, la Lituanie était le plus grand pays d'Europe, s'étendant jusqu'à presque deux mers ! Un roi courageux appelé Mindaugas a uni toutes les tribus en 1253 — il est le seul roi que la Lituanie ait jamais eu."
+  ],
   "wows": [
     "Le centre exact de l'Europe est une colonne de granit avec des étoiles dorées, juste au nord de Vilnius.",
     "Il y a plus de 100 000 croix sur la Colline des Croix — les gens viennent en planter de partout dans le monde !",

@@ -72,10 +72,18 @@
     "history": "Des empires sculptés dans la roche",
     "wows": "Sept faits qui font bouche bée"
   },
-  "geo": "La Jordanie est un grand désert doré avec des plateaux rocheux, et au fond se trouve la mer Morte — l'endroit le plus bas de toute la Terre ! Dans le sud, le désert de Wadi Rum brille en orange au coucher du soleil, avec des piliers de sable si hauts qu'on dirait la planète Mars.",
-  "animals": "L'oryx d'Arabie est une grande antilope blanche avec de longues cornes droites — elle avait disparu, mais des gens courageux l'ont sauvée et remise en liberté dans le désert ! Le chat des sables, lui, est un tout petit chat doré avec d'énormes oreilles qui chasse la nuit et ne boit jamais d'eau.",
-  "culture": "En Jordanie, les gens t'offrent toujours du café parfumé à la cardamome quand tu arrives chez eux — c'est impoli de refuser ! Le plat préféré s'appelle le mansaf : c'est de l'agneau cuit dans une sauce au yaourt posé sur un grand plat de riz que tout le monde mange ensemble avec les mains.",
-  "history": "Il y a 2 000 ans, des gens appelés les Nabatéens ont taillé une ville entière dans des falaises roses — c'est la ville de Pétra, et c'est magique ! Tout près, la ville romaine de Jerash est encore si bien conservée qu'on dirait que les Romains viennent juste de partir.",
+  "geo": [
+    "La Jordanie est un grand désert doré avec des plateaux rocheux, et au fond se trouve la mer Morte — l'endroit le plus bas de toute la Terre ! Dans le sud, le désert de Wadi Rum brille en orange au coucher du soleil, avec des piliers de sable si hauts qu'on dirait la planète Mars."
+  ],
+  "animals": [
+    "L'oryx d'Arabie est une grande antilope blanche avec de longues cornes droites — elle avait disparu, mais des gens courageux l'ont sauvée et remise en liberté dans le désert ! Le chat des sables, lui, est un tout petit chat doré avec d'énormes oreilles qui chasse la nuit et ne boit jamais d'eau."
+  ],
+  "culture": [
+    "En Jordanie, les gens t'offrent toujours du café parfumé à la cardamome quand tu arrives chez eux — c'est impoli de refuser ! Le plat préféré s'appelle le mansaf : c'est de l'agneau cuit dans une sauce au yaourt posé sur un grand plat de riz que tout le monde mange ensemble avec les mains."
+  ],
+  "history": [
+    "Il y a 2 000 ans, des gens appelés les Nabatéens ont taillé une ville entière dans des falaises roses — c'est la ville de Pétra, et c'est magique ! Tout près, la ville romaine de Jerash est encore si bien conservée qu'on dirait que les Romains viennent juste de partir."
+  ],
   "wows": [
     "La mer Morte est 10 fois plus salée que l'océan — tu flottes sans bouger, comme par magie !",
     "Pétra était cachée pendant des siècles ; un explorateur s'est déguisé pour la découvrir en 1812.",

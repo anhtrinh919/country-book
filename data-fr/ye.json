@@ -72,10 +72,18 @@
     "history": "Rois des épices et cités dans les nuages",
     "wows": "C'est dur à croire, mais c'est vrai !"
   },
-  "geo": "Les montagnes du Yémen sont l'endroit le plus arrosé de toute l'Arabie — des fermes en terrasses accrochées aux pentes à 2 000 m boivent la pluie de mousson ! À l'est s'étend le Quart Vide, le plus grand désert de sable du monde.",
-  "animals": "Le léopard d'Arabie est l'animal national du Yémen — il est si rare qu'il en reste moins de 200 dans les falaises des montagnes. Sur l'île de Socotra, le dragonnier ressemble à un grand parapluie et saigne une sève rouge vif quand on le coupe !",
-  "culture": "Les Yéménites construisent avec de la boue depuis des milliers d'années — à Shibam, des tours de 11 étages poussent du désert comme de vrais gratte-ciel ! Et c'est au Yémen que le café a été bu pour la première fois, au XVe siècle.",
-  "history": "Il y a 3 000 ans, le royaume de Saba contrôlait la route des épices entre l'Inde et la Méditerranée — l'encens yéménite valait plus que l'or ! La légendaire reine de Saba aurait régné ici, mais personne n'a jamais trouvé son nom gravé dans la pierre.",
+  "geo": [
+    "Les montagnes du Yémen sont l'endroit le plus arrosé de toute l'Arabie — des fermes en terrasses accrochées aux pentes à 2 000 m boivent la pluie de mousson ! À l'est s'étend le Quart Vide, le plus grand désert de sable du monde."
+  ],
+  "animals": [
+    "Le léopard d'Arabie est l'animal national du Yémen — il est si rare qu'il en reste moins de 200 dans les falaises des montagnes. Sur l'île de Socotra, le dragonnier ressemble à un grand parapluie et saigne une sève rouge vif quand on le coupe !"
+  ],
+  "culture": [
+    "Les Yéménites construisent avec de la boue depuis des milliers d'années — à Shibam, des tours de 11 étages poussent du désert comme de vrais gratte-ciel ! Et c'est au Yémen que le café a été bu pour la première fois, au XVe siècle."
+  ],
+  "history": [
+    "Il y a 3 000 ans, le royaume de Saba contrôlait la route des épices entre l'Inde et la Méditerranée — l'encens yéménite valait plus que l'or ! La légendaire reine de Saba aurait régné ici, mais personne n'a jamais trouvé son nom gravé dans la pierre."
+  ],
   "wows": [
     "Les tours de boue de Shibam sont les plus vieux immeubles de grande hauteur du monde — certains ont 11 étages !",
     "Le dragonnier saigne une sève rouge vif utilisée comme peinture et médicament depuis plus de 2 000 ans.",

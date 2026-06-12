@@ -61,10 +61,18 @@
     "history": "Il était une fois un pays courageux",
     "wows": "Des trucs qui font dire WAOUAH !"
   },
-  "geo": "Le Viêt Nam est si long qu'il fait 1 650 km du nord au sud, mais par endroits il est tout fin comme un ruban ! Au nord, il y a de hautes montagnes enveloppées de brume, et au sud, un grand delta avec plein de rivières et de marchés flottants.",
-  "animals": "Le saola — qu'on appelle aussi la licorne d'Asie — est un animal si rare que presque personne ne l'a jamais vu en photo vivant ! Dans la célèbre baie de Hạ Long, des tortues de mer nagent près de récifs de corail plein de couleurs.",
-  "culture": "La plus grande fête du Viêt Nam s'appelle le Tết, le Nouvel An lunaire : les familles se retrouvent, les dragons dansent dans les rues et les enfants reçoivent des enveloppes rouges avec de l'argent porte-bonheur ! Le phở est une soupe magique qui mijote toute la nuit avec des épices parfumées.",
-  "history": "Il y a 2 500 ans, les Vietnamiens fabriquaient déjà de magnifiques tambours en bronze ! La légende dit que le peuple vietnamien descend d'un dragon et d'une fée — c'est pour ça qu'ils se sentent à la fois de la mer et des montagnes.",
+  "geo": [
+    "Le Viêt Nam est si long qu'il fait 1 650 km du nord au sud, mais par endroits il est tout fin comme un ruban ! Au nord, il y a de hautes montagnes enveloppées de brume, et au sud, un grand delta avec plein de rivières et de marchés flottants."
+  ],
+  "animals": [
+    "Le saola — qu'on appelle aussi la licorne d'Asie — est un animal si rare que presque personne ne l'a jamais vu en photo vivant ! Dans la célèbre baie de Hạ Long, des tortues de mer nagent près de récifs de corail plein de couleurs."
+  ],
+  "culture": [
+    "La plus grande fête du Viêt Nam s'appelle le Tết, le Nouvel An lunaire : les familles se retrouvent, les dragons dansent dans les rues et les enfants reçoivent des enveloppes rouges avec de l'argent porte-bonheur ! Le phở est une soupe magique qui mijote toute la nuit avec des épices parfumées."
+  ],
+  "history": [
+    "Il y a 2 500 ans, les Vietnamiens fabriquaient déjà de magnifiques tambours en bronze ! La légende dit que le peuple vietnamien descend d'un dragon et d'une fée — c'est pour ça qu'ils se sentent à la fois de la mer et des montagnes."
+  ],
   "wows": [
     "Le Viêt Nam produit plus de noix de cajou que tout autre pays — 8 noix de cajou sur 10 dans le monde viennent de là !",
     "La baie de Hạ Long est parsemée de 1 969 îles en calcaire, comme des châteaux de pierre qui sortent de l'eau !",

@@ -72,10 +72,18 @@
     "history": "Des Vikings aux rois gentils",
     "wows": "Tu savais ça ?"
   },
-  "geo": "La Suède est si longue qu'au sud on cueille des fraises pendant que le nord est encore enneigé ! Il y a presque 100 000 lacs et des forêts de pins partout. En Laponie, tout en haut, le soleil brille toute la nuit en juin et des aurores vertes et violettes dansent dans le ciel en hiver.",
-  "animals": "L'élan de Suède est plus grand qu'un cheval — il peut entrer dans un jardin en ville ! La Suède en a 300 000, c'est l'un des pays qui en a le plus au monde. En Laponie, le peuple Sámi garde d'immenses troupeaux de rennes qui courent sur la toundra enneigée.",
-  "culture": "Chaque semaine, les Suédois font une pause appelée fika : on s'assoit ensemble avec un café et un gâteau à la cannelle. C'est presque une règle nationale ! En été, pour la fête de Midsommar, tout le monde danse autour d'un grand poteau couvert de fleurs sous un soleil qui ne se couche pas.",
-  "history": "Il y a très longtemps, les Vikings de Suède naviguaient partout dans le monde sur de grands bateaux en bois. Ils ont exploré des terres très lointaines, de la Turquie jusqu'en Amérique ! Aujourd'hui la Suède est l'un des pays les plus paisibles du monde — elle n'a pas fait la guerre depuis plus de 200 ans.",
+  "geo": [
+    "La Suède est si longue qu'au sud on cueille des fraises pendant que le nord est encore enneigé ! Il y a presque 100 000 lacs et des forêts de pins partout. En Laponie, tout en haut, le soleil brille toute la nuit en juin et des aurores vertes et violettes dansent dans le ciel en hiver."
+  ],
+  "animals": [
+    "L'élan de Suède est plus grand qu'un cheval — il peut entrer dans un jardin en ville ! La Suède en a 300 000, c'est l'un des pays qui en a le plus au monde. En Laponie, le peuple Sámi garde d'immenses troupeaux de rennes qui courent sur la toundra enneigée."
+  ],
+  "culture": [
+    "Chaque semaine, les Suédois font une pause appelée fika : on s'assoit ensemble avec un café et un gâteau à la cannelle. C'est presque une règle nationale ! En été, pour la fête de Midsommar, tout le monde danse autour d'un grand poteau couvert de fleurs sous un soleil qui ne se couche pas."
+  ],
+  "history": [
+    "Il y a très longtemps, les Vikings de Suède naviguaient partout dans le monde sur de grands bateaux en bois. Ils ont exploré des terres très lointaines, de la Turquie jusqu'en Amérique ! Aujourd'hui la Suède est l'un des pays les plus paisibles du monde — elle n'a pas fait la guerre depuis plus de 200 ans."
+  ],
   "wows": [
     "La Suède a environ 270 000 îles — la plupart sont de petits rochers dans la mer Baltique !",
     "La Suède importe les poubelles d'autres pays pour les transformer en électricité.",

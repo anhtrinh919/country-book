@@ -72,10 +72,18 @@
     "history": "L'empire des marchands des mers",
     "wows": "7 choses folles sur Oman"
   },
-  "geo": "Oman est un pays de déserts dorés et de montagnes rocailleuses, avec de profonds ravins appelés wadis qui se remplissent de piscines turquoise après la pluie. Au sud, les falaises de Dhofar deviennent toutes vertes en été quand le brouillard de la mousson arrive !",
-  "animals": "À Ras al Jinz, jusqu'à 20 000 tortues marines vertes viennent pondre leurs œufs sur la plage chaque année. L'oryx d'Arabie avait disparu, mais Oman en a élevé et relâché dans le désert — cette belle antilope blanche est revenue à la vie !",
-  "culture": "Quand tu arrives chez un Omanais, il t'offre toujours du café à la cardamome et des dattes sucrées — c'est la règle ! À Salalah, on récolte l'encens en faisant couler la sève blanche des arbres Boswellia, et toute la ville sent ce parfum merveilleux.",
-  "history": "Les marins d'Oman naviguaient jusqu'en Afrique, en Inde et en Chine pour vendre de l'encens et des épices. L'explorateur Marco Polo a dit que la vieille ville de Qalhat était l'un des plus beaux ports du monde entier !",
+  "geo": [
+    "Oman est un pays de déserts dorés et de montagnes rocailleuses, avec de profonds ravins appelés wadis qui se remplissent de piscines turquoise après la pluie. Au sud, les falaises de Dhofar deviennent toutes vertes en été quand le brouillard de la mousson arrive !"
+  ],
+  "animals": [
+    "À Ras al Jinz, jusqu'à 20 000 tortues marines vertes viennent pondre leurs œufs sur la plage chaque année. L'oryx d'Arabie avait disparu, mais Oman en a élevé et relâché dans le désert — cette belle antilope blanche est revenue à la vie !"
+  ],
+  "culture": [
+    "Quand tu arrives chez un Omanais, il t'offre toujours du café à la cardamome et des dattes sucrées — c'est la règle ! À Salalah, on récolte l'encens en faisant couler la sève blanche des arbres Boswellia, et toute la ville sent ce parfum merveilleux."
+  ],
+  "history": [
+    "Les marins d'Oman naviguaient jusqu'en Afrique, en Inde et en Chine pour vendre de l'encens et des épices. L'explorateur Marco Polo a dit que la vieille ville de Qalhat était l'un des plus beaux ports du monde entier !"
+  ],
   "wows": [
     "L'encens d'Oman est brûlé comme parfum depuis plus de 5 000 ans.",
     "Un réseau de tunnels en pierre vieux de 3 000 ans apporte encore de l'eau douce aux fermes aujourd'hui !",

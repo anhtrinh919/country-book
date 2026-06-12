@@ -72,10 +72,18 @@
     "history": "Un royaume bâti en pierres",
     "wows": "Tu n'y croiras pas !"
   },
-  "geo": "Le Zimbabwe est posé sur un haut plateau au centre de l'Afrique, alors il fait plus frais qu'on ne l'imagine. Au nord, le fleuve Zambèze plonge dans la cascade Victoria Falls : elle fait 1,7 km de large et 108 m de haut !",
-  "animals": "Le Zimbabwe est le pays des Big Five : lion, léopard, rhinocéros, éléphant et buffle vivent tous ici. Le chien sauvage africain a un manteau de taches unique — aucun chien dans le monde entier ne lui ressemble !",
-  "culture": "Le plat préféré des Zimbabwéens s'appelle le sadza, une grosse bouillie de maïs qu'on mange avec les mains. Le peuple shona joue de la mbira depuis plus de 1 000 ans — c'est un petit piano qu'on gratte avec ses pouces !",
-  "history": "Il y a 900 ans, des bâtisseurs shona ont empilé d'énormes blocs de granit pour créer une ville de 18 000 personnes — sans une seule goutte de colle ! Ce site géant s'appelle le Grand Zimbabwe, ce qui signifie « grandes maisons en pierre ».",
+  "geo": [
+    "Le Zimbabwe est posé sur un haut plateau au centre de l'Afrique, alors il fait plus frais qu'on ne l'imagine. Au nord, le fleuve Zambèze plonge dans la cascade Victoria Falls : elle fait 1,7 km de large et 108 m de haut !"
+  ],
+  "animals": [
+    "Le Zimbabwe est le pays des Big Five : lion, léopard, rhinocéros, éléphant et buffle vivent tous ici. Le chien sauvage africain a un manteau de taches unique — aucun chien dans le monde entier ne lui ressemble !"
+  ],
+  "culture": [
+    "Le plat préféré des Zimbabwéens s'appelle le sadza, une grosse bouillie de maïs qu'on mange avec les mains. Le peuple shona joue de la mbira depuis plus de 1 000 ans — c'est un petit piano qu'on gratte avec ses pouces !"
+  ],
+  "history": [
+    "Il y a 900 ans, des bâtisseurs shona ont empilé d'énormes blocs de granit pour créer une ville de 18 000 personnes — sans une seule goutte de colle ! Ce site géant s'appelle le Grand Zimbabwe, ce qui signifie « grandes maisons en pierre »."
+  ],
   "wows": [
     "Le Zimbabwe a 16 langues officielles — c'est le record du monde !",
     "La cascade Victoria Falls est si forte qu'on entend son grondement à 40 km de distance.",

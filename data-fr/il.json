@@ -72,10 +72,18 @@
     "history": "3 000 ans d'histoires extraordinaires",
     "wows": "Incroyable mais vrai !"
   },
-  "geo": "En Israël, il y a une côte verte, un désert immense, une montagne enneigée et une vallée fleurie — tout ça dans un tout petit pays ! Le Jourdain coule vers la mer Morte, le point le plus bas de toute la Terre.",
-  "animals": "Deux fois par an, 500 millions d'oiseaux traversent le ciel d'Israël comme une rivière géante de plumes ! L'oryx d'Arabie, une antilope blanche qui ressemble à une licorne, a été sauvé de la disparition et vit maintenant dans le désert du Néguev.",
-  "culture": "En Israël, on mange du houmous et des falafels délicieux tous les jours ! Le vendredi soir, toute la famille se réunit autour d'une grande table avec des bougies et un gros pain tressé appelé challah.",
-  "history": "Le roi David a construit sa capitale à Jérusalem il y a 3 000 ans et son fils Salomon y a élevé un temple immense. Israël est le seul pays au monde à avoir ressuscité une langue morte — l'hébreu — pour en faire la langue de tous les jours !",
+  "geo": [
+    "En Israël, il y a une côte verte, un désert immense, une montagne enneigée et une vallée fleurie — tout ça dans un tout petit pays ! Le Jourdain coule vers la mer Morte, le point le plus bas de toute la Terre."
+  ],
+  "animals": [
+    "Deux fois par an, 500 millions d'oiseaux traversent le ciel d'Israël comme une rivière géante de plumes ! L'oryx d'Arabie, une antilope blanche qui ressemble à une licorne, a été sauvé de la disparition et vit maintenant dans le désert du Néguev."
+  ],
+  "culture": [
+    "En Israël, on mange du houmous et des falafels délicieux tous les jours ! Le vendredi soir, toute la famille se réunit autour d'une grande table avec des bougies et un gros pain tressé appelé challah."
+  ],
+  "history": [
+    "Le roi David a construit sa capitale à Jérusalem il y a 3 000 ans et son fils Salomon y a élevé un temple immense. Israël est le seul pays au monde à avoir ressuscité une langue morte — l'hébreu — pour en faire la langue de tous les jours !"
+  ],
   "wows": [
     "La mer Morte est tellement salée qu'on ne peut pas couler, même si on essaie très fort !",
     "L'hébreu n'était plus parlé depuis 2 000 ans — Israël l'a ramené à la vie, unique au monde.",

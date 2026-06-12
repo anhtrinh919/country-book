@@ -72,10 +72,18 @@
     "history": "La ville des hommes libres",
     "wows": "Les surprises du Gabon"
   },
-  "geo": "Le Gabon est traversé par l'Équateur, là où l'Afrique touche l'océan Atlantique. Une forêt épaisse couvre plus de 80 % du pays, et le grand fleuve Ogooué serpente sur 1 200 km jusqu'à la mer comme un ruban marron.",
-  "animals": "Au Gabon vivent près de 85 000 éléphants des forêts — plus que partout ailleurs sur Terre ! Dans le parc de Loango, on peut les voir marcher sur la plage pendant que les hippos sautent dans les vagues à côté.",
-  "culture": "Le Gabon compte plus de 40 peuples différents qui font de la musique avec des harpes et des xylophones en bois. À table, on mange du poisson fumé, du manioc, des bananes plantains et du homard fraîchement pêché sur la côte.",
-  "history": "Des marins portugais ont découvert le Gabon en 1472 et ont donné son nom à l'estuaire en forme de grand manteau. La capitale Libreville a été fondée par des personnes libérées de l'esclavage — son nom signifie exactement « ville libre » !",
+  "geo": [
+    "Le Gabon est traversé par l'Équateur, là où l'Afrique touche l'océan Atlantique. Une forêt épaisse couvre plus de 80 % du pays, et le grand fleuve Ogooué serpente sur 1 200 km jusqu'à la mer comme un ruban marron."
+  ],
+  "animals": [
+    "Au Gabon vivent près de 85 000 éléphants des forêts — plus que partout ailleurs sur Terre ! Dans le parc de Loango, on peut les voir marcher sur la plage pendant que les hippos sautent dans les vagues à côté."
+  ],
+  "culture": [
+    "Le Gabon compte plus de 40 peuples différents qui font de la musique avec des harpes et des xylophones en bois. À table, on mange du poisson fumé, du manioc, des bananes plantains et du homard fraîchement pêché sur la côte."
+  ],
+  "history": [
+    "Des marins portugais ont découvert le Gabon en 1472 et ont donné son nom à l'estuaire en forme de grand manteau. La capitale Libreville a été fondée par des personnes libérées de l'esclavage — son nom signifie exactement « ville libre » !"
+  ],
   "wows": [
     "Au Gabon, on peut voir des éléphants sur la plage, des hippos dans les vagues et des baleines au large — tout le même jour !",
     "Le Gabon absorbe plus de gaz carbonique qu'il n'en produit : c'est comme un grand poumon vert pour la Terre entière.",

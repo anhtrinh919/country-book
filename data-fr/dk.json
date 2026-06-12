@@ -72,10 +72,18 @@
     "history": "Des Vikings aux gens les plus heureux",
     "wows": "7 choses folles sur le Danemark"
   },
-  "geo": "Le Danemark est si plat que sa plus haute colline fait seulement 171 mètres — c'est moins haut qu'une grande tour en ville ! Le pays est fait d'une grande presqu'île et de plus de 400 îles reliées par de grands ponts.",
-  "animals": "Le marsouin commun, un tout petit dauphin, nage dans les mers froides autour du Danemark. Chaque automne, des millions d'étourneaux forment d'immenses nuages qui changent de forme dans le ciel — les Danois appellent ça le « Soleil Noir » !",
-  "culture": "Les Danois adorent les soirées douillettes avec des bougies et des boissons chaudes — ils appellent ça le hygge. Ils mangent aussi de grands sandwichs ouverts appelés smørrebrød, garnis de poisson ou d'œufs !",
-  "history": "Il y a plus de 1 000 ans, des guerriers appelés Vikings partaient du Danemark sur des bateaux ornés de têtes de dragon. Ils naviguaient si loin qu'ils ont atteint l'Amérique bien avant tout le monde !",
+  "geo": [
+    "Le Danemark est si plat que sa plus haute colline fait seulement 171 mètres — c'est moins haut qu'une grande tour en ville ! Le pays est fait d'une grande presqu'île et de plus de 400 îles reliées par de grands ponts."
+  ],
+  "animals": [
+    "Le marsouin commun, un tout petit dauphin, nage dans les mers froides autour du Danemark. Chaque automne, des millions d'étourneaux forment d'immenses nuages qui changent de forme dans le ciel — les Danois appellent ça le « Soleil Noir » !"
+  ],
+  "culture": [
+    "Les Danois adorent les soirées douillettes avec des bougies et des boissons chaudes — ils appellent ça le hygge. Ils mangent aussi de grands sandwichs ouverts appelés smørrebrød, garnis de poisson ou d'œufs !"
+  ],
+  "history": [
+    "Il y a plus de 1 000 ans, des guerriers appelés Vikings partaient du Danemark sur des bateaux ornés de têtes de dragon. Ils naviguaient si loin qu'ils ont atteint l'Amérique bien avant tout le monde !"
+  ],
   "wows": [
     "Le drapeau danois est le plus vieux drapeau national du monde — la légende dit qu'il est tombé du ciel en 1219 !",
     "LEGO a été inventé dans un petit atelier de menuisier danois en 1932 — c'est maintenant le jouet numéro un dans le monde !",

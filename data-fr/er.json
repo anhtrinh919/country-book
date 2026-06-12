@@ -72,10 +72,18 @@
     "history": "Un trésor ancien au bord de la mer",
     "wows": "Des choses qui vont t'étonner !"
   },
-  "geo": "L'Érythrée a de hauts plateaux frais où vivent la plupart des gens, et une longue côte chaude sur la mer Rouge. La mer Rouge s'étire sur presque 2 000 km et cache plus de 120 îles entourées de coraux colorés !",
-  "animals": "Dans la mer Rouge, les dugongs sont des animaux doux et ronds qui mangent de l'herbe sous l'eau — on dirait des vaches de la mer ! Sur les rochers des montagnes, les bouquetins de Nubie sautent avec leurs grandes cornes recourbées.",
-  "culture": "En Érythrée, on mange tous ensemble un grand pain mou et spongieux appelé l'injera — il sert à la fois d'assiette et de cuillère ! Les gens adorent la cérémonie du café où on grille les grains devant les invités.",
-  "history": "Il y a très longtemps, le port d'Adulis était un endroit magique où des marchands venaient d'Arabie, d'Inde et de Rome pour échanger des trésors. La ville d'Asmara est remplie de beaux bâtiments construits par les Italiens il y a plus de cent ans !",
+  "geo": [
+    "L'Érythrée a de hauts plateaux frais où vivent la plupart des gens, et une longue côte chaude sur la mer Rouge. La mer Rouge s'étire sur presque 2 000 km et cache plus de 120 îles entourées de coraux colorés !"
+  ],
+  "animals": [
+    "Dans la mer Rouge, les dugongs sont des animaux doux et ronds qui mangent de l'herbe sous l'eau — on dirait des vaches de la mer ! Sur les rochers des montagnes, les bouquetins de Nubie sautent avec leurs grandes cornes recourbées."
+  ],
+  "culture": [
+    "En Érythrée, on mange tous ensemble un grand pain mou et spongieux appelé l'injera — il sert à la fois d'assiette et de cuillère ! Les gens adorent la cérémonie du café où on grille les grains devant les invités."
+  ],
+  "history": [
+    "Il y a très longtemps, le port d'Adulis était un endroit magique où des marchands venaient d'Arabie, d'Inde et de Rome pour échanger des trésors. La ville d'Asmara est remplie de beaux bâtiments construits par les Italiens il y a plus de cent ans !"
+  ],
   "wows": [
     "Asmara est la première ville moderniste d'Afrique classée par l'UNESCO — ses rues ressemblent à un décor de film des années 1930 !",
     "En 1937, l'Érythrée avait le plus long téléphérique du monde : 72 km de cabines transportant des marchandises.",

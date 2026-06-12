@@ -72,10 +72,18 @@
     "history": "Un port de rêve au bord de la mer",
     "wows": "C'est vrai, vraiment ?"
   },
-  "geo": "La Malaisie a deux grandes parties séparées par la mer : une péninsule couverte de forêts vertes et deux régions sur l'île de Bornéo. Le mont Kinabalu est si haut qu'il touche les nuages et on peut le voir de très loin !",
-  "animals": "L'orang-outan de Bornéo se balance de branche en branche dans une forêt vieille de 130 millions d'années. Le singe proboscis a un nez si énorme qu'il ressemble à une patate — et il klaxonne pour parler à ses amis !",
-  "culture": "En Malaisie, tout le monde fête les fêtes de ses voisins : l'Aïd, le Nouvel An chinois, Deepavali et Noël sont tous des jours fériés ! La nourriture préférée de tout le monde est le nasi lemak — du riz cuit dans du lait de coco avec des cacahuètes croustillantes.",
-  "history": "Il y a 600 ans, Malacca était le port le plus animé d'Asie — des bateaux du monde entier venaient y acheter des épices précieuses. Les marchands arabes, indiens et chinois dormaient tous dans la même ville et échangeaient leurs trésors !",
+  "geo": [
+    "La Malaisie a deux grandes parties séparées par la mer : une péninsule couverte de forêts vertes et deux régions sur l'île de Bornéo. Le mont Kinabalu est si haut qu'il touche les nuages et on peut le voir de très loin !"
+  ],
+  "animals": [
+    "L'orang-outan de Bornéo se balance de branche en branche dans une forêt vieille de 130 millions d'années. Le singe proboscis a un nez si énorme qu'il ressemble à une patate — et il klaxonne pour parler à ses amis !"
+  ],
+  "culture": [
+    "En Malaisie, tout le monde fête les fêtes de ses voisins : l'Aïd, le Nouvel An chinois, Deepavali et Noël sont tous des jours fériés ! La nourriture préférée de tout le monde est le nasi lemak — du riz cuit dans du lait de coco avec des cacahuètes croustillantes."
+  ],
+  "history": [
+    "Il y a 600 ans, Malacca était le port le plus animé d'Asie — des bateaux du monde entier venaient y acheter des épices précieuses. Les marchands arabes, indiens et chinois dormaient tous dans la même ville et échangeaient leurs trésors !"
+  ],
   "wows": [
     "La grotte de Sarawak est si grande qu'on pourrait mettre 40 avions géants à l'intérieur !",
     "Les tours Petronas étaient les plus hautes du monde de 1998 à 2004 — comme deux crayons géants dans le ciel.",

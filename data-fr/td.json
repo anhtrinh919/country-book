@@ -72,10 +72,18 @@
     "history": "Le pays du plus vieux crâne du monde",
     "wows": "Le Tchad, ça t'épate !"
   },
-  "geo": "Au nord du Tchad, il y a un immense désert avec des dunes de sable et un grand volcan appelé Emi Koussi. Au sud, la pluie arrive chaque été et transforme les plaines en prairie verte !",
-  "animals": "Au parc de Zakouma vivent 700 éléphants — leur troupeau a doublé grâce à des gardiens courageux qui les protègent. Des hippopotames barbotent dans le fleuve Chari et des gazelles filent comme des flèches dans le désert !",
-  "culture": "Au Tchad, les gens organisent des courses de chameaux et boivent un thé très spécial en trois petites tasses. La lutte est le sport préféré, et tout le village vient encourager les combattants en criant très fort !",
-  "history": "Il y a très longtemps, des rois puissants régnaient au Tchad depuis presque 1 000 ans — leur empire s'appelait Kanem-Bornu. Dans le désert du Tchad, des explorateurs ont trouvé le crâne le plus vieux jamais découvert : il a 7 millions d'années !",
+  "geo": [
+    "Au nord du Tchad, il y a un immense désert avec des dunes de sable et un grand volcan appelé Emi Koussi. Au sud, la pluie arrive chaque été et transforme les plaines en prairie verte !"
+  ],
+  "animals": [
+    "Au parc de Zakouma vivent 700 éléphants — leur troupeau a doublé grâce à des gardiens courageux qui les protègent. Des hippopotames barbotent dans le fleuve Chari et des gazelles filent comme des flèches dans le désert !"
+  ],
+  "culture": [
+    "Au Tchad, les gens organisent des courses de chameaux et boivent un thé très spécial en trois petites tasses. La lutte est le sport préféré, et tout le village vient encourager les combattants en criant très fort !"
+  ],
+  "history": [
+    "Il y a très longtemps, des rois puissants régnaient au Tchad depuis presque 1 000 ans — leur empire s'appelait Kanem-Bornu. Dans le désert du Tchad, des explorateurs ont trouvé le crâne le plus vieux jamais découvert : il a 7 millions d'années !"
+  ],
   "wows": [
     "Le lac Tchad a rétréci de 90% — il était autrefois aussi grand que la mer !",
     "L'Emi Koussi est le plus grand volcan du Sahara, encore plus large que Paris.",

@@ -72,10 +72,18 @@
     "history": "La naissance d'un tout nouveau pays",
     "wows": "Sept surprises incroyables"
   },
-  "geo": "Le Soudan du Sud est traversé par le grand fleuve Nil Blanc. Le Sudd — l'un des plus grands marais du monde — est un labyrinthe de roseaux géants, d'îles flottantes et de pélicans pendant la saison des pluies !",
-  "animals": "Le bec-en-sabot est un oiseau étrange avec un bec en forme de sabot — assez grand pour avaler un poisson entier d'un seul coup ! Chaque année, environ un million d'antilopes kob galopent ensemble sur les plaines de Boma, comme un gigantesque troupeau de chevaux.",
-  "culture": "Le peuple Dinka adore ses vaches — une famille peut avoir tout un troupeau qui vaut autant qu'une maison ! Pendant les fêtes, les femmes portent des colliers de perles empilés du menton jusqu'à la poitrine, et tout le monde chante et danse.",
-  "history": "Il y a très longtemps, les gens du Soudan du Sud rêvaient d'avoir leur propre pays. Le 9 juillet 2011, ils ont levé leur nouveau drapeau — noir, rouge, vert et bleu avec une belle étoile dorée — et le Soudan du Sud est devenu un pays tout neuf !",
+  "geo": [
+    "Le Soudan du Sud est traversé par le grand fleuve Nil Blanc. Le Sudd — l'un des plus grands marais du monde — est un labyrinthe de roseaux géants, d'îles flottantes et de pélicans pendant la saison des pluies !"
+  ],
+  "animals": [
+    "Le bec-en-sabot est un oiseau étrange avec un bec en forme de sabot — assez grand pour avaler un poisson entier d'un seul coup ! Chaque année, environ un million d'antilopes kob galopent ensemble sur les plaines de Boma, comme un gigantesque troupeau de chevaux."
+  ],
+  "culture": [
+    "Le peuple Dinka adore ses vaches — une famille peut avoir tout un troupeau qui vaut autant qu'une maison ! Pendant les fêtes, les femmes portent des colliers de perles empilés du menton jusqu'à la poitrine, et tout le monde chante et danse."
+  ],
+  "history": [
+    "Il y a très longtemps, les gens du Soudan du Sud rêvaient d'avoir leur propre pays. Le 9 juillet 2011, ils ont levé leur nouveau drapeau — noir, rouge, vert et bleu avec une belle étoile dorée — et le Soudan du Sud est devenu un pays tout neuf !"
+  ],
   "wows": [
     "Le Soudan du Sud est le pays le plus jeune du monde, né le 9 juillet 2011 !",
     "Le marais du Sudd devient plus grand que l'Angleterre quand il pleut beaucoup.",

@@ -72,10 +72,18 @@
     "history": "Un royaume puissant au bord du lac",
     "wows": "Sept surprises époustouflantes"
   },
-  "geo": "L'Ouganda n'a pas de mer, mais l'eau est partout : le lac Victoria, grand comme une mer, brille sur sa frontière. C'est là que naît le Nil, le plus long fleuve du monde, qui part ensuite vers le nord !",
-  "animals": "Le bec-en-sabot est un oiseau bleu géant avec un bec rond comme un sabot de bois — il reste immobile pendant 30 minutes, puis attrape un poisson en un éclair ! Dans le parc Bwindi, des gorilles de montagne vivent en famille dans la forêt brumeuse.",
-  "culture": "Le plat préféré en Ouganda est le matoke — des bananes vertes cuites doucement dans des feuilles jusqu'à être toutes molles et dorées. Dans la rue, tout le monde adore le Rolex : c'est une crêpe roulée avec des œufs et des légumes, et son nom vient de « rolled eggs » !",
-  "history": "Il y a très longtemps, le royaume Buganda était l'un des plus puissants de toute l'Afrique de l'Est, avec un grand roi appelé le kabaka et une flotte de pirogues sur le lac Victoria. Le palais royal de Kampala existe encore aujourd'hui — on peut aller le visiter !",
+  "geo": [
+    "L'Ouganda n'a pas de mer, mais l'eau est partout : le lac Victoria, grand comme une mer, brille sur sa frontière. C'est là que naît le Nil, le plus long fleuve du monde, qui part ensuite vers le nord !"
+  ],
+  "animals": [
+    "Le bec-en-sabot est un oiseau bleu géant avec un bec rond comme un sabot de bois — il reste immobile pendant 30 minutes, puis attrape un poisson en un éclair ! Dans le parc Bwindi, des gorilles de montagne vivent en famille dans la forêt brumeuse."
+  ],
+  "culture": [
+    "Le plat préféré en Ouganda est le matoke — des bananes vertes cuites doucement dans des feuilles jusqu'à être toutes molles et dorées. Dans la rue, tout le monde adore le Rolex : c'est une crêpe roulée avec des œufs et des légumes, et son nom vient de « rolled eggs » !"
+  ],
+  "history": [
+    "Il y a très longtemps, le royaume Buganda était l'un des plus puissants de toute l'Afrique de l'Est, avec un grand roi appelé le kabaka et une flotte de pirogues sur le lac Victoria. Le palais royal de Kampala existe encore aujourd'hui — on peut aller le visiter !"
+  ],
   "wows": [
     "Le Nil — le plus long fleuve du monde — naît en Ouganda. On peut le voir sortir du lac Victoria à Jinja !",
     "Aux chutes Murchison, tout le Nil passe en grondant dans un trou de seulement 7 mètres de large, comme de l'eau dans un robinet géant !",

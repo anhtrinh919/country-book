@@ -72,10 +72,18 @@
     "history": "Des perles aux trésors de gaz",
     "wows": "Le Qatar, c'est incroyable !"
   },
-  "geo": "Le Qatar ressemble à un pouce qui dépasse dans le Golfe Persique, presque tout plat et entouré de 600 km de côtes. Au sud, d'immenses dunes de sable plongent directement dans la mer — comme un toboggan géant !",
-  "animals": "L'oryx d'Arabie, l'animal national du Qatar, était complètement disparu, mais des soigneurs l'ont sauvé en l'élevant avec beaucoup d'amour. Le Qatar abrite aussi des dugongs — de doux mammifères marins qui ressemblent à des vaches et broutent les herbes sous l'eau !",
-  "culture": "Quand tu arrives chez un Qatarien, il t'offre du café au cardamome dans une toute petite tasse, accompagné de dattes sucrées — c'est la règle de politesse depuis des centaines d'années ! Les courses de chameaux sont très populaires, et les jockeys sont des petits robots télécommandés posés sur le dos des chameaux !",
-  "history": "Pendant des siècles, les habitants du Qatar plongeaient dans la mer sans bouteille d'oxygène pour ramasser des huîtres contenant des perles précieuses. Le Qatar était l'un des plus grands marchés de perles du monde, jusqu'au jour où des huîtres élevées au Japon ont fabriqué des perles moins chères !",
+  "geo": [
+    "Le Qatar ressemble à un pouce qui dépasse dans le Golfe Persique, presque tout plat et entouré de 600 km de côtes. Au sud, d'immenses dunes de sable plongent directement dans la mer — comme un toboggan géant !"
+  ],
+  "animals": [
+    "L'oryx d'Arabie, l'animal national du Qatar, était complètement disparu, mais des soigneurs l'ont sauvé en l'élevant avec beaucoup d'amour. Le Qatar abrite aussi des dugongs — de doux mammifères marins qui ressemblent à des vaches et broutent les herbes sous l'eau !"
+  ],
+  "culture": [
+    "Quand tu arrives chez un Qatarien, il t'offre du café au cardamome dans une toute petite tasse, accompagné de dattes sucrées — c'est la règle de politesse depuis des centaines d'années ! Les courses de chameaux sont très populaires, et les jockeys sont des petits robots télécommandés posés sur le dos des chameaux !"
+  ],
+  "history": [
+    "Pendant des siècles, les habitants du Qatar plongeaient dans la mer sans bouteille d'oxygène pour ramasser des huîtres contenant des perles précieuses. Le Qatar était l'un des plus grands marchés de perles du monde, jusqu'au jour où des huîtres élevées au Japon ont fabriqué des perles moins chères !"
+  ],
   "wows": [
     "La colline la plus haute du Qatar ne fait que 103 m — même la Tour Eiffel est 3 fois plus haute !",
     "Le Qatar est l'un des 5 pays les plus riches du monde entier.",

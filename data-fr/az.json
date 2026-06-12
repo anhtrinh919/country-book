@@ -72,10 +72,18 @@
     "history": "Un temple de feu magique",
     "wows": "Tu ne le croiras pas !"
   },
-  "geo": "Au nord, les montagnes du Caucase sont couvertes de neige, et au bord de la mer Caspienne, la terre est presque plate. La mer Caspienne est le plus grand lac du monde — plus grand que l'Allemagne — et son bord est 28 mètres sous le niveau de la mer !",
-  "animals": "Le léopard du Caucase se promène encore dans les forêts de montagne, mais l'animal préféré du pays c'est le cheval Karabakh — un cheval doré élevé ici depuis plus de 2 000 ans ! Des flamants roses se rassemblent en grands groupes roses sur les bords de la mer Caspienne chaque automne.",
-  "culture": "En Azerbaïdjan, tout le monde boit du thé noir toute la journée dans de jolis verres en forme de poire ! Les tapis faits à la main racontent des histoires avec des fils de laine colorés, et apprendre à les tisser est classé au patrimoine mondial de l'UNESCO.",
-  "history": "Il y a très longtemps, des pèlerins venaient de très loin pour voir le temple d'Ateshgah, dont le feu brûlait sans jamais s'éteindre — comme par magie ! Ces flammes sortaient tout simplement du sol, alimentées par le gaz naturel qui se cachait en dessous.",
+  "geo": [
+    "Au nord, les montagnes du Caucase sont couvertes de neige, et au bord de la mer Caspienne, la terre est presque plate. La mer Caspienne est le plus grand lac du monde — plus grand que l'Allemagne — et son bord est 28 mètres sous le niveau de la mer !"
+  ],
+  "animals": [
+    "Le léopard du Caucase se promène encore dans les forêts de montagne, mais l'animal préféré du pays c'est le cheval Karabakh — un cheval doré élevé ici depuis plus de 2 000 ans ! Des flamants roses se rassemblent en grands groupes roses sur les bords de la mer Caspienne chaque automne."
+  ],
+  "culture": [
+    "En Azerbaïdjan, tout le monde boit du thé noir toute la journée dans de jolis verres en forme de poire ! Les tapis faits à la main racontent des histoires avec des fils de laine colorés, et apprendre à les tisser est classé au patrimoine mondial de l'UNESCO."
+  ],
+  "history": [
+    "Il y a très longtemps, des pèlerins venaient de très loin pour voir le temple d'Ateshgah, dont le feu brûlait sans jamais s'éteindre — comme par magie ! Ces flammes sortaient tout simplement du sol, alimentées par le gaz naturel qui se cachait en dessous."
+  ],
   "wows": [
     "La colline Yanar Dağ brûle sans s'arrêter depuis les années 1950 grâce au gaz qui sort de la terre.",
     "Des voitures de Formule 1 font la course chaque année dans les rues de Bakou, juste à côté d'une vieille ville de 800 ans !",

@@ -72,10 +72,18 @@
     "history": "Une légende de cascades et de trésors",
     "wows": "Trop incroyable, mais c'est vrai !"
   },
-  "geo": "Au Venezuela, une immense cascade appelée Chutes Angel tombe du haut d'une montagne-table — l'eau fait 979 m de chute, presque 16 fois plus haute que les chutes du Niagara ! Le grand fleuve Orénoque serpente à travers la jungle et arrose presque tout le pays.",
-  "animals": "Le capybara est un cochon d'Inde gros comme un chien — c'est le plus grand rongeur du monde, et il vit au Venezuela ! Dans les rivières vivent aussi des dauphins roses appelés toninas qui nagent dans les eaux sombres de la jungle.",
-  "culture": "Au Venezuela, on mange des arepas — de petits pains de maïs farcis de fromage ou de viande, c'est délicieux ! À Noël, toute la famille prépare ensemble des hallacas, des petits paquets de viande épicée enveloppés dans des feuilles de bananier.",
-  "history": "Il y a très longtemps, des peuples comme les Wayuu vivaient sur ces terres bien avant que les Européens n'arrivent. Plus tard, un homme courageux né à Caracas, Simón Bolívar, a libéré cinq pays de leurs colonisateurs — comme un super-héros de l'histoire !",
+  "geo": [
+    "Au Venezuela, une immense cascade appelée Chutes Angel tombe du haut d'une montagne-table — l'eau fait 979 m de chute, presque 16 fois plus haute que les chutes du Niagara ! Le grand fleuve Orénoque serpente à travers la jungle et arrose presque tout le pays."
+  ],
+  "animals": [
+    "Le capybara est un cochon d'Inde gros comme un chien — c'est le plus grand rongeur du monde, et il vit au Venezuela ! Dans les rivières vivent aussi des dauphins roses appelés toninas qui nagent dans les eaux sombres de la jungle."
+  ],
+  "culture": [
+    "Au Venezuela, on mange des arepas — de petits pains de maïs farcis de fromage ou de viande, c'est délicieux ! À Noël, toute la famille prépare ensemble des hallacas, des petits paquets de viande épicée enveloppés dans des feuilles de bananier."
+  ],
+  "history": [
+    "Il y a très longtemps, des peuples comme les Wayuu vivaient sur ces terres bien avant que les Européens n'arrivent. Plus tard, un homme courageux né à Caracas, Simón Bolívar, a libéré cinq pays de leurs colonisateurs — comme un super-héros de l'histoire !"
+  ],
   "wows": [
     "Les Chutes Angel sont si hautes que l'eau se transforme en brouillard avant de toucher le sol les jours de vent !",
     "Le lac Maracaibo a un orage permanent presque chaque nuit — des éclairs claquent 280 fois par heure !",

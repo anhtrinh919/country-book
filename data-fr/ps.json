@@ -72,10 +72,18 @@
     "history": "Une ville vieille comme le monde",
     "wows": "7 choses qui vont t'épater !"
   },
-  "geo": "La Cisjordanie est couverte de collines calcaires et de vergers d'oliviers et d'amandiers. Tout près se trouve la mer Morte, l'endroit le plus bas de toute la Terre — à 430 mètres sous le niveau de la mer !",
-  "animals": "Le cincle palestinien est le petit oiseau national de Palestine, avec une gorge vert brillant qui brille comme un bijou. Des gazelles sautent encore sur les collines rocheuses — et les damans des rochers, qui ressemblent à des grosses marmottes, sont en réalité des cousins très lointains des éléphants !",
-  "culture": "Le plat préféré s'appelle le maqluba — du riz renversé à l'envers avec des légumes et du poulet, comme un château de sable qu'on retourne ! Et le knafeh est une pâtisserie chaude au fromage trempée dans du sirop sucré. Pour les fêtes, tout le monde danse le dabke, une danse en ligne où l'on frappe fort les pieds par terre !",
-  "history": "Jéricho est considérée comme la plus vieille ville du monde — des gens y habitaient déjà il y a 11 000 ans, bien avant les dinosaures connus des enfants ! Le nom même de Palestine vient des anciens Philistins qui vivaient le long de la mer il y a très très longtemps.",
+  "geo": [
+    "La Cisjordanie est couverte de collines calcaires et de vergers d'oliviers et d'amandiers. Tout près se trouve la mer Morte, l'endroit le plus bas de toute la Terre — à 430 mètres sous le niveau de la mer !"
+  ],
+  "animals": [
+    "Le cincle palestinien est le petit oiseau national de Palestine, avec une gorge vert brillant qui brille comme un bijou. Des gazelles sautent encore sur les collines rocheuses — et les damans des rochers, qui ressemblent à des grosses marmottes, sont en réalité des cousins très lointains des éléphants !"
+  ],
+  "culture": [
+    "Le plat préféré s'appelle le maqluba — du riz renversé à l'envers avec des légumes et du poulet, comme un château de sable qu'on retourne ! Et le knafeh est une pâtisserie chaude au fromage trempée dans du sirop sucré. Pour les fêtes, tout le monde danse le dabke, une danse en ligne où l'on frappe fort les pieds par terre !"
+  ],
+  "history": [
+    "Jéricho est considérée comme la plus vieille ville du monde — des gens y habitaient déjà il y a 11 000 ans, bien avant les dinosaures connus des enfants ! Le nom même de Palestine vient des anciens Philistins qui vivaient le long de la mer il y a très très longtemps."
+  ],
   "wows": [
     "Jéricho est la ville la plus vieille du monde — elle existe depuis 11 000 ans !",
     "La mer Morte est si salée qu'on flotte dessus sans nager, comme un bouchon de liège.",

@@ -72,10 +72,18 @@
     "history": "La légende du grand empire",
     "wows": "Des choses qui t'étonneront vraiment !"
   },
-  "geo": "Au Pérou, il y a un désert au bord de la mer, de gigantesques montagnes enneigées au milieu, et une grande jungle amazone derrière. Tout au fond, il y a un lac tellement haut dans les montagnes que les oiseaux doivent battre des ailes plus vite pour voler !",
-  "animals": "L'alpaga est un animal tout doux et tout bouclé qui vit dans les montagnes — sa laine est encore plus douce que celle d'un mouton ! Au Pérou, il y a aussi un oiseau tout orange électrique qui danse et tournoie pour impressionner ses amis.",
-  "culture": "La pomme de terre vient du Pérou — il en existe plus de 3 000 sortes différentes rien que là-bas ! Chaque année à Cusco, les gens s'habillent avec des costumes incroyables et dansent pour célébrer le dieu soleil des Incas.",
-  "history": "Il y a très longtemps, les Incas ont construit un empire immense en déplaçant des pierres aussi lourdes que des éléphants, sans camions ni grues. Ils avaient aussi des routes longues de 40 000 km — comme faire le tour de la Terre !",
+  "geo": [
+    "Au Pérou, il y a un désert au bord de la mer, de gigantesques montagnes enneigées au milieu, et une grande jungle amazone derrière. Tout au fond, il y a un lac tellement haut dans les montagnes que les oiseaux doivent battre des ailes plus vite pour voler !"
+  ],
+  "animals": [
+    "L'alpaga est un animal tout doux et tout bouclé qui vit dans les montagnes — sa laine est encore plus douce que celle d'un mouton ! Au Pérou, il y a aussi un oiseau tout orange électrique qui danse et tournoie pour impressionner ses amis."
+  ],
+  "culture": [
+    "La pomme de terre vient du Pérou — il en existe plus de 3 000 sortes différentes rien que là-bas ! Chaque année à Cusco, les gens s'habillent avec des costumes incroyables et dansent pour célébrer le dieu soleil des Incas."
+  ],
+  "history": [
+    "Il y a très longtemps, les Incas ont construit un empire immense en déplaçant des pierres aussi lourdes que des éléphants, sans camions ni grues. Ils avaient aussi des routes longues de 40 000 km — comme faire le tour de la Terre !"
+  ],
   "wows": [
     "Machu Picchu était cachée dans les nuages depuis 400 ans et personne ne la connaissait !",
     "Au Pérou, on trouve 1 800 sortes d'oiseaux différents — presque un oiseau sur cinq de toute la Terre !",

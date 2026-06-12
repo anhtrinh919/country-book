@@ -72,10 +72,18 @@
     "history": "Une langue née des soldats romains",
     "wows": "Trop fort pour y croire !"
   },
-  "geo": "Les montagnes Carpates traversent la Roumanie en forme de fer à cheval, couvertes de forêts de hêtres et de sapins. Le grand fleuve Danube coule jusqu'à la mer Noire en formant un immense delta plein d'oiseaux !",
-  "animals": "La Roumanie abrite plus de 10 000 ours bruns — c'est le plus grand pays à ours d'Europe. Dans le delta du Danube, des milliers de pélicans blancs volent ensemble au-dessus des roseaux, c'est un spectacle incroyable !",
-  "culture": "Les Roumains mangent une bouillie de maïs appelée mămăligă, un peu comme de la polenta ! Dans les villages, tout le monde danse en cercle lors des fêtes, une danse qui s'appelle la hora.",
-  "history": "Il y a 2 000 ans, des soldats romains sont venus vivre ici et ont appris leur langue aux habitants. C'est pourquoi les Roumains parlent encore aujourd'hui une langue proche du français et de l'espagnol !",
+  "geo": [
+    "Les montagnes Carpates traversent la Roumanie en forme de fer à cheval, couvertes de forêts de hêtres et de sapins. Le grand fleuve Danube coule jusqu'à la mer Noire en formant un immense delta plein d'oiseaux !"
+  ],
+  "animals": [
+    "La Roumanie abrite plus de 10 000 ours bruns — c'est le plus grand pays à ours d'Europe. Dans le delta du Danube, des milliers de pélicans blancs volent ensemble au-dessus des roseaux, c'est un spectacle incroyable !"
+  ],
+  "culture": [
+    "Les Roumains mangent une bouillie de maïs appelée mămăligă, un peu comme de la polenta ! Dans les villages, tout le monde danse en cercle lors des fêtes, une danse qui s'appelle la hora."
+  ],
+  "history": [
+    "Il y a 2 000 ans, des soldats romains sont venus vivre ici et ont appris leur langue aux habitants. C'est pourquoi les Roumains parlent encore aujourd'hui une langue proche du français et de l'espagnol !"
+  ],
   "wows": [
     "Le château de Bran en Transylvanie a inspiré la légende du comte Dracula !",
     "Le Palais du Parlement à Bucarest est le bâtiment le plus lourd du monde — environ 4 milliards de kilos !",

@@ -72,10 +72,18 @@
     "history": "Royaumes magiques et rois anciens",
     "wows": "7 choses qui font dire « Wahou ! »"
   },
-  "geo": "Le Myanmar ressemble à un cerf-volant avec une longue queue ! Le grand fleuve Irrawaddy traverse presque tout le pays, et dans le nord il y a une montagne enneigée toute l'année — la plus haute de toute l'Asie du Sud-Est.",
-  "animals": "Le dauphin de l'Irrawaddy vit dans le grand fleuve et aide les pêcheurs à attraper des poissons — comme un vrai ami ! La tortue étoilée birmane avait presque disparu, mais des gens gentils l'ont sauvée et maintenant elle revient.",
-  "culture": "Chaque matin, les gens au Myanmar offrent de la nourriture aux moines au lever du soleil, c'est très beau à voir ! En avril, tout le monde se retrouve dehors pour s'arroser d'eau pendant quatre jours — c'est la fête de Thingyan pour chasser la malchance !",
-  "history": "Il y a très très longtemps, un grand royaume a construit plus de 10 000 temples sur une plaine — plus de 2 000 existent encore aujourd'hui ! C'est comme une forêt magique de tours dorées.",
+  "geo": [
+    "Le Myanmar ressemble à un cerf-volant avec une longue queue ! Le grand fleuve Irrawaddy traverse presque tout le pays, et dans le nord il y a une montagne enneigée toute l'année — la plus haute de toute l'Asie du Sud-Est."
+  ],
+  "animals": [
+    "Le dauphin de l'Irrawaddy vit dans le grand fleuve et aide les pêcheurs à attraper des poissons — comme un vrai ami ! La tortue étoilée birmane avait presque disparu, mais des gens gentils l'ont sauvée et maintenant elle revient."
+  ],
+  "culture": [
+    "Chaque matin, les gens au Myanmar offrent de la nourriture aux moines au lever du soleil, c'est très beau à voir ! En avril, tout le monde se retrouve dehors pour s'arroser d'eau pendant quatre jours — c'est la fête de Thingyan pour chasser la malchance !"
+  ],
+  "history": [
+    "Il y a très très longtemps, un grand royaume a construit plus de 10 000 temples sur une plaine — plus de 2 000 existent encore aujourd'hui ! C'est comme une forêt magique de tours dorées."
+  ],
   "wows": [
     "À Bagan, il y a plus de temples anciens au même endroit que presque partout ailleurs sur Terre !",
     "La capitale a une route géante avec 20 voies — mais pendant longtemps, presque personne ne roulait dessus !",

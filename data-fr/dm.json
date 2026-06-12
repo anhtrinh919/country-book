@@ -72,10 +72,18 @@
     "history": "L'île sauvage que personne ne pouvait conquérir",
     "wows": "Les secrets fous de cette île incroyable"
   },
-  "geo": "La Dominique est couverte d'une forêt si dense que les explorateurs avaient du mal à débarquer ! Neuf volcans façonnent l'île, et les cascades jumelles de Trafalgar dégringolent dans un bassin de jungle à seulement 20 minutes de la capitale. Le Lac Bouillant est un vrai lac qui bouillonne et fume comme une grande soupe grise et bleue.",
-  "animals": "Le perroquet Sisserou, avec sa poitrine violette, n'existe nulle part ailleurs sur Terre — il est sur le drapeau de la Dominique ! Des baleines à dents géantes vivent toute l'année dans la mer autour de l'île, et les chercheurs nagent avec elles.",
-  "culture": "Les Kalinago, le seul peuple amérindien encore présent dans les Caraïbes orientales, vivent ici depuis des milliers d'années et fabriquent de magnifiques paniers tressés et des pirogues en bois sculpté. Chaque octobre, le Jour Créole remplit les rues de tissu madras coloré, de musique calypso et de bons plats comme la soupe callaloo et la banane plantain.",
-  "history": "Christophe Colomb a aperçu cette île un dimanche de 1493, et « Domingo » (dimanche en espagnol) lui a donné son nom. Les Kalinago ont défendu leur île si courageusement que la Dominique a été l'une des dernières îles des Caraïbes à être colonisée.",
+  "geo": [
+    "La Dominique est couverte d'une forêt si dense que les explorateurs avaient du mal à débarquer ! Neuf volcans façonnent l'île, et les cascades jumelles de Trafalgar dégringolent dans un bassin de jungle à seulement 20 minutes de la capitale. Le Lac Bouillant est un vrai lac qui bouillonne et fume comme une grande soupe grise et bleue."
+  ],
+  "animals": [
+    "Le perroquet Sisserou, avec sa poitrine violette, n'existe nulle part ailleurs sur Terre — il est sur le drapeau de la Dominique ! Des baleines à dents géantes vivent toute l'année dans la mer autour de l'île, et les chercheurs nagent avec elles."
+  ],
+  "culture": [
+    "Les Kalinago, le seul peuple amérindien encore présent dans les Caraïbes orientales, vivent ici depuis des milliers d'années et fabriquent de magnifiques paniers tressés et des pirogues en bois sculpté. Chaque octobre, le Jour Créole remplit les rues de tissu madras coloré, de musique calypso et de bons plats comme la soupe callaloo et la banane plantain."
+  ],
+  "history": [
+    "Christophe Colomb a aperçu cette île un dimanche de 1493, et « Domingo » (dimanche en espagnol) lui a donné son nom. Les Kalinago ont défendu leur île si courageusement que la Dominique a été l'une des dernières îles des Caraïbes à être colonisée."
+  ],
   "wows": [
     "La Dominique est le seul pays au monde où des cachalots vivent dans la mer toute l'année — on peut nager près d'eux !",
     "L'île possède plus de 365 rivières dans seulement 750 km² — c'est l'une des plus hautes densités de rivières sur Terre !",

@@ -61,10 +61,18 @@
     "history": "Le plus grand empire à cheval",
     "wows": "Ouah ! Tu savais ça ?"
   },
-  "geo": "La Mongolie est posée sur un grand plateau très haut — comme vivre sur le toit du monde ! Au sud se trouve le désert de Gobi, plein de rochers orangés et de secrets enfouis sous la terre.",
-  "animals": "Le takhi est le seul vrai cheval sauvage encore vivant sur Terre — il avait disparu, mais des scientifiques l'ont sauvé et relâché dans la steppe. Les chasseurs kazakhs dressent de grands aigles dorés qui voient un renard à un kilomètre de distance !",
-  "culture": "Les Mongols habitent dans des gers, des tentes rondes et chaleureuses que toute la famille peut démonter et remonter en seulement une heure. En juillet, ils fêtent le Naadam avec trois sports : la lutte, le tir à l'arc, et des courses de chevaux où même les enfants de cinq ans participent !",
-  "history": "Il y a très longtemps, un guerrier nommé Gengis Khan a réuni tous les peuples mongols et est parti à cheval conquérir des terres immenses. Il a inventé le premier réseau de messagers au monde — des cavaliers rapides qui portaient les lettres d'un bout à l'autre du pays !",
+  "geo": [
+    "La Mongolie est posée sur un grand plateau très haut — comme vivre sur le toit du monde ! Au sud se trouve le désert de Gobi, plein de rochers orangés et de secrets enfouis sous la terre."
+  ],
+  "animals": [
+    "Le takhi est le seul vrai cheval sauvage encore vivant sur Terre — il avait disparu, mais des scientifiques l'ont sauvé et relâché dans la steppe. Les chasseurs kazakhs dressent de grands aigles dorés qui voient un renard à un kilomètre de distance !"
+  ],
+  "culture": [
+    "Les Mongols habitent dans des gers, des tentes rondes et chaleureuses que toute la famille peut démonter et remonter en seulement une heure. En juillet, ils fêtent le Naadam avec trois sports : la lutte, le tir à l'arc, et des courses de chevaux où même les enfants de cinq ans participent !"
+  ],
+  "history": [
+    "Il y a très longtemps, un guerrier nommé Gengis Khan a réuni tous les peuples mongols et est parti à cheval conquérir des terres immenses. Il a inventé le premier réseau de messagers au monde — des cavaliers rapides qui portaient les lettres d'un bout à l'autre du pays !"
+  ],
   "wows": [
     "La Mongolie n'a que 2 personnes par kilomètre carré — c'est le pays le moins peuplé de la Terre !",
     "Il y a plus de chevaux que de gens en Mongolie — plus de 4 millions de chevaux !",

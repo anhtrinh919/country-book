@@ -72,10 +72,18 @@
     "history": "Un royaume aux mille éléphants",
     "wows": "Sept choses qui étonnent vraiment"
   },
-  "geo": "Les trois quarts du Laos sont couverts de montagnes et de jungle épaisse. La cascade de Kuang Si déverse une eau turquoise sur des rochers blancs, comme dans un conte de fées ! Le grand fleuve Mékong longe tout le pays, avec des milliers d'îles où l'on peut se balancer dans un hamac.",
-  "animals": "Le Laos s'appelait autrefois le Pays du Million d'Éléphants, et il en reste encore environ 700 dans les forêts ! Au bord de la rivière Tad Lo, on peut voir des éléphants barbotent dans l'eau au coucher du soleil. C'est le meilleur spectacle du monde !",
-  "culture": "Les Laotiens mangent plus de riz gluant que n'importe qui d'autre sur Terre — ils en avalent 171 kg chaque année ! Chaque matin à Luang Prabang, des centaines de moines en robe orange défilent en silence pour recevoir du riz dans leurs bols.",
-  "history": "Il y a très longtemps, un grand roi fonda le royaume de Lan Xang — ce qui veut dire « Million d'Éléphants » ! Sur le drapeau royal, un éléphant à trois têtes portait la couronne depuis plus de 600 ans.",
+  "geo": [
+    "Les trois quarts du Laos sont couverts de montagnes et de jungle épaisse. La cascade de Kuang Si déverse une eau turquoise sur des rochers blancs, comme dans un conte de fées ! Le grand fleuve Mékong longe tout le pays, avec des milliers d'îles où l'on peut se balancer dans un hamac."
+  ],
+  "animals": [
+    "Le Laos s'appelait autrefois le Pays du Million d'Éléphants, et il en reste encore environ 700 dans les forêts ! Au bord de la rivière Tad Lo, on peut voir des éléphants barbotent dans l'eau au coucher du soleil. C'est le meilleur spectacle du monde !"
+  ],
+  "culture": [
+    "Les Laotiens mangent plus de riz gluant que n'importe qui d'autre sur Terre — ils en avalent 171 kg chaque année ! Chaque matin à Luang Prabang, des centaines de moines en robe orange défilent en silence pour recevoir du riz dans leurs bols."
+  ],
+  "history": [
+    "Il y a très longtemps, un grand roi fonda le royaume de Lan Xang — ce qui veut dire « Million d'Éléphants » ! Sur le drapeau royal, un éléphant à trois têtes portait la couronne depuis plus de 600 ans."
+  ],
   "wows": [
     "Le Laos est le seul pays d'Asie du Sud-Est sans bord de mer — pas une seule plage !",
     "La Plaine des Jarres est couverte de milliers de grandes jarres en pierre, vieilles de 2 500 ans !",

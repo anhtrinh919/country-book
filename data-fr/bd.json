@@ -72,10 +72,18 @@
     "history": "Une très vieille terre de légendes",
     "wows": "7 choses époustouflantes !"
   },
-  "geo": "Le Bangladesh est presque entièrement plat et traversé par plus de 700 rivières qui coulent vers la mer. Chaque année, la grande pluie de mousson inonde un tiers du pays et laisse une boue si riche que les champs poussent trois fois par an !",
-  "animals": "Le tigre du Bengale royal vit dans la forêt des Sundarbans et sait nager entre les îles dans l'eau salée — c'est le seul tigre au monde qui nage dans la mer ! Le poisson Hilsa est tellement adoré au Bangladesh que le pays en pêche 86 % de toute la planète.",
-  "culture": "Au Bangladesh, on mange du riz à presque tous les repas, et tout le monde adore chanter — un grand poète d'ici a écrit la chanson nationale du pays ! Chaque printemps, la fête Pahela Baishakh remplit les rues de vêtements orange et blanc très joyeux.",
-  "history": "Il y a très longtemps, ce pays s'appelait le Bengale et était célèbre dans le monde entier pour ses tissus si fins qu'on les appelait « air tissé ». Les empereurs et les rois de loin venaient acheter ces étoffes magiques qui semblaient faites de nuages !",
+  "geo": [
+    "Le Bangladesh est presque entièrement plat et traversé par plus de 700 rivières qui coulent vers la mer. Chaque année, la grande pluie de mousson inonde un tiers du pays et laisse une boue si riche que les champs poussent trois fois par an !"
+  ],
+  "animals": [
+    "Le tigre du Bengale royal vit dans la forêt des Sundarbans et sait nager entre les îles dans l'eau salée — c'est le seul tigre au monde qui nage dans la mer ! Le poisson Hilsa est tellement adoré au Bangladesh que le pays en pêche 86 % de toute la planète."
+  ],
+  "culture": [
+    "Au Bangladesh, on mange du riz à presque tous les repas, et tout le monde adore chanter — un grand poète d'ici a écrit la chanson nationale du pays ! Chaque printemps, la fête Pahela Baishakh remplit les rues de vêtements orange et blanc très joyeux."
+  ],
+  "history": [
+    "Il y a très longtemps, ce pays s'appelait le Bengale et était célèbre dans le monde entier pour ses tissus si fins qu'on les appelait « air tissé ». Les empereurs et les rois de loin venaient acheter ces étoffes magiques qui semblaient faites de nuages !"
+  ],
   "wows": [
     "Le Bangladesh est sur le plus grand delta du monde, là où deux immenses fleuves se jettent dans la mer.",
     "Les tigres des Sundarbans nagent dans l'eau salée — aucun autre tigre au monde ne fait ça !",

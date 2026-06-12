@@ -72,10 +72,18 @@
     "history": "Une île née d'un grand voyage",
     "wows": "Sept choses qui étonnent !"
   },
-  "geo": "Madagascar est à 400 km de l'Afrique, posée au milieu de l'océan Indien. À l'ouest, de gigantesques baobabs bordent les pistes rouges, et des tours de pierre pointues appelées tsingy déchirent le ciel !",
-  "animals": "Le lémurien souris est le plus petit singe du monde — il pèse à peine 30 grammes, comme un stylo ! Madagascar abrite aussi la moitié des caméléons de la planète, dont certains sont moins grands qu'un ongle.",
-  "culture": "Les Malgaches mangent du riz trois fois par jour et ont plus de 30 mots pour en parler tellement ils l'adorent ! Lors des fêtes, les familles dansent et chantent au son de la musique hira gasy.",
-  "history": "Il y a 2 000 ans, de courageux marins ont traversé 6 000 km d'océan depuis l'Indonésie pour atteindre Madagascar — c'est comme faire le tour de la Terre à moitié ! C'est de là que viennent les premiers habitants de l'île.",
+  "geo": [
+    "Madagascar est à 400 km de l'Afrique, posée au milieu de l'océan Indien. À l'ouest, de gigantesques baobabs bordent les pistes rouges, et des tours de pierre pointues appelées tsingy déchirent le ciel !"
+  ],
+  "animals": [
+    "Le lémurien souris est le plus petit singe du monde — il pèse à peine 30 grammes, comme un stylo ! Madagascar abrite aussi la moitié des caméléons de la planète, dont certains sont moins grands qu'un ongle."
+  ],
+  "culture": [
+    "Les Malgaches mangent du riz trois fois par jour et ont plus de 30 mots pour en parler tellement ils l'adorent ! Lors des fêtes, les familles dansent et chantent au son de la musique hira gasy."
+  ],
+  "history": [
+    "Il y a 2 000 ans, de courageux marins ont traversé 6 000 km d'océan depuis l'Indonésie pour atteindre Madagascar — c'est comme faire le tour de la Terre à moitié ! C'est de là que viennent les premiers habitants de l'île."
+  ],
   "wows": [
     "Madagascar produit 80 % de toute la vanille du monde — l'arôme de ta glace préférée !",
     "Les premiers habitants sont arrivés d'Indonésie en bateau, pas d'Afrique juste à côté.",

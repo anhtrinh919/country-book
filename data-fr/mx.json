@@ -72,10 +72,18 @@
     "history": "Une légende d'il y a très longtemps",
     "wows": "C'est vrai, je te jure !"
   },
-  "geo": "Le Mexique a un grand désert au nord, une longue chaîne de montagnes au milieu et une jungle touffue au sud. La ville de Mexico est si haute dans les montagnes que même les footballeurs ont du mal à respirer !",
-  "animals": "L'axolotl est une petite salamandre souriante avec des plumes roses sur la tête qui peut faire repousser ses pattes si elle les perd. L'aigle royal, le même que sur le drapeau, peut repérer un lapin à deux kilomètres de distance !",
-  "culture": "En novembre, les familles mexicaines décorent de belles tables couvertes de fleurs orange pour accueillir leurs ancêtres lors du Día de los Muertos — c'est une fête joyeuse avec de la musique et de bons repas. Dans les rues, des orchestres en costumes argentés jouent de la trompette et du violon pendant qu'on mange des tacos et du maïs beurré !",
-  "history": "Il y a très longtemps, les Aztèques vivaient dans une ville magique construite sur une île au milieu d'un grand lac, là où se trouve aujourd'hui Mexico. Cette ville s'appelait Tenochtitlan et elle était si belle que les visiteurs pensaient rêver !",
+  "geo": [
+    "Le Mexique a un grand désert au nord, une longue chaîne de montagnes au milieu et une jungle touffue au sud. La ville de Mexico est si haute dans les montagnes que même les footballeurs ont du mal à respirer !"
+  ],
+  "animals": [
+    "L'axolotl est une petite salamandre souriante avec des plumes roses sur la tête qui peut faire repousser ses pattes si elle les perd. L'aigle royal, le même que sur le drapeau, peut repérer un lapin à deux kilomètres de distance !"
+  ],
+  "culture": [
+    "En novembre, les familles mexicaines décorent de belles tables couvertes de fleurs orange pour accueillir leurs ancêtres lors du Día de los Muertos — c'est une fête joyeuse avec de la musique et de bons repas. Dans les rues, des orchestres en costumes argentés jouent de la trompette et du violon pendant qu'on mange des tacos et du maïs beurré !"
+  ],
+  "history": [
+    "Il y a très longtemps, les Aztèques vivaient dans une ville magique construite sur une île au milieu d'un grand lac, là où se trouve aujourd'hui Mexico. Cette ville s'appelait Tenochtitlan et elle était si belle que les visiteurs pensaient rêver !"
+  ],
   "wows": [
     "La pyramide de Cholula est si grande qu'une vraie église a été construite tout en haut.",
     "Le Mexique a inventé la télévision en couleur — sans lui, tout serait encore en noir et blanc !",

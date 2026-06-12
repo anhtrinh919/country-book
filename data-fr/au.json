@@ -72,10 +72,18 @@
     "history": "Des histoires vieilles de 65 000 ans",
     "wows": "C'est vrai, vraiment ?!"
   },
-  "geo": "L'Australie est un continent tout seul, entouré d'eau de tous les côtés ! Au milieu se trouve l'Outback rouge avec Uluru, un rocher géant de 348 mètres qui brille comme une orange au coucher du soleil.",
-  "animals": "L'Australie a des animaux qu'on ne trouve nulle part ailleurs sur Terre, comme le kangourou qui porte son bébé dans une poche sur le ventre ! Le koala, lui, dort 22 heures par jour en mangeant des feuilles d'eucalyptus.",
-  "culture": "Les Australiens adorent manger des saucisses grillées sur le barbecue le dimanche, c'est presque une fête nationale ! Les peuples aborigènes font de la belle peinture avec des points et jouent du didgeridoo, un instrument de musique magique.",
-  "history": "Les peuples aborigènes sont arrivés en Australie il y a au moins 65 000 ans, bien avant les dinosaures en Europe ! Ils ont inventé des façons de s'occuper de la forêt avec le feu, et ils se racontaient des histoires incroyables appelées le Temps du Rêve.",
+  "geo": [
+    "L'Australie est un continent tout seul, entouré d'eau de tous les côtés ! Au milieu se trouve l'Outback rouge avec Uluru, un rocher géant de 348 mètres qui brille comme une orange au coucher du soleil."
+  ],
+  "animals": [
+    "L'Australie a des animaux qu'on ne trouve nulle part ailleurs sur Terre, comme le kangourou qui porte son bébé dans une poche sur le ventre ! Le koala, lui, dort 22 heures par jour en mangeant des feuilles d'eucalyptus."
+  ],
+  "culture": [
+    "Les Australiens adorent manger des saucisses grillées sur le barbecue le dimanche, c'est presque une fête nationale ! Les peuples aborigènes font de la belle peinture avec des points et jouent du didgeridoo, un instrument de musique magique."
+  ],
+  "history": [
+    "Les peuples aborigènes sont arrivés en Australie il y a au moins 65 000 ans, bien avant les dinosaures en Europe ! Ils ont inventé des façons de s'occuper de la forêt avec le feu, et ils se racontaient des histoires incroyables appelées le Temps du Rêve."
+  ],
   "wows": [
     "L'Australie est le seul pays qui est aussi un continent entier — sans aucun voisin !",
     "La Grande Barrière de Corail est si grande qu'on peut la voir depuis l'espace !",

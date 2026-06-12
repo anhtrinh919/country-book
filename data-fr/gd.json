@@ -71,10 +71,18 @@
     "history": "Une île pleine de secrets anciens",
     "wows": "Des choses vraiment incroyables !"
   },
-  "geo": "La Grenade est une ancienne montagne volcanique habillée de forêt tropicale. Au cœur de l'île, le lac Grand Etang dort dans un vieux cratère entouré de grandes fougères et de brouillard.",
-  "animals": "Des singes mona sautent entre les branches de la forêt — ils sont arrivés d'Afrique il y a plus de 260 ans et se promènent librement ! De grandes tortues luths viennent pondre leurs œufs sur la plage de Levera la nuit, au clair de lune.",
-  "culture": "Chaque mois d'août, la Grenade fait une grande fête appelée Spicemas avec des tambours, des déguisements et des danses colorées. Le plat national s'appelle l'oildown : du fruit à pain, du lait de coco et de la viande mijotent dans un grand pot — ça sent tellement bon !",
-  "history": "Les premiers habitants appelaient cette île Camerhogne, et Christophe Colomb l'a aperçue depuis son bateau en 1498. Les Français sont arrivés en 1649 et ont laissé plein de jolis noms de villages qui sonnent encore français aujourd'hui !",
+  "geo": [
+    "La Grenade est une ancienne montagne volcanique habillée de forêt tropicale. Au cœur de l'île, le lac Grand Etang dort dans un vieux cratère entouré de grandes fougères et de brouillard."
+  ],
+  "animals": [
+    "Des singes mona sautent entre les branches de la forêt — ils sont arrivés d'Afrique il y a plus de 260 ans et se promènent librement ! De grandes tortues luths viennent pondre leurs œufs sur la plage de Levera la nuit, au clair de lune."
+  ],
+  "culture": [
+    "Chaque mois d'août, la Grenade fait une grande fête appelée Spicemas avec des tambours, des déguisements et des danses colorées. Le plat national s'appelle l'oildown : du fruit à pain, du lait de coco et de la viande mijotent dans un grand pot — ça sent tellement bon !"
+  ],
+  "history": [
+    "Les premiers habitants appelaient cette île Camerhogne, et Christophe Colomb l'a aperçue depuis son bateau en 1498. Les Français sont arrivés en 1649 et ont laissé plein de jolis noms de villages qui sonnent encore français aujourd'hui !"
+  ],
   "wows": [
     "La Grenade produit un cinquième de toute la noix de muscade de la planète — son sol volcanique la rend extra parfumée !",
     "Sous l'eau, à 5 mètres de profondeur, il y a 65 statues couvertes de coraux — le premier parc de sculptures sous-marines du monde !",

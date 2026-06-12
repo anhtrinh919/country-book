@@ -72,10 +72,18 @@
     "history": "Une ville plus vieille que toute l'Amérique",
     "wows": "Sept choses qui vont t'épater !"
   },
-  "geo": "Le Pico Duarte est la montagne la plus haute de toutes les Caraïbes — si haut qu'on y trouve des forêts de pins comme en Europe ! Tout près, il y a un lac salé qui se trouve sous le niveau de la mer, où vivent des crocodiles et des flamants roses.",
-  "animals": "Le palmiste huppé est l'oiseau national — il vit nulle part ailleurs sur Terre et construit des nids géants en brindilles dans les palmiers avec ses amis ! Chaque hiver, plus de 1 500 baleines à bosse arrivent dans la baie de Samaná pour jouer et chanter ensemble.",
-  "culture": "Le merengue et la bachata sont deux danses nées ici — aujourd'hui, tout le monde les danse partout dans le monde ! La République dominicaine fabrique aussi du chocolat bio délicieux et une pierre bleue magique appelée larimar, qu'on ne trouve que dans une seule colline au monde.",
-  "history": "Il y a plus de 500 ans, Santo Domingo est devenue la première grande ville construite par les Européens dans toute l'Amérique — la première cathédrale, la première université, tout était là ! Le héros Juan Pablo Duarte a dessiné le drapeau bleu et rouge avec sa croix blanche pour célébrer la liberté.",
+  "geo": [
+    "Le Pico Duarte est la montagne la plus haute de toutes les Caraïbes — si haut qu'on y trouve des forêts de pins comme en Europe ! Tout près, il y a un lac salé qui se trouve sous le niveau de la mer, où vivent des crocodiles et des flamants roses."
+  ],
+  "animals": [
+    "Le palmiste huppé est l'oiseau national — il vit nulle part ailleurs sur Terre et construit des nids géants en brindilles dans les palmiers avec ses amis ! Chaque hiver, plus de 1 500 baleines à bosse arrivent dans la baie de Samaná pour jouer et chanter ensemble."
+  ],
+  "culture": [
+    "Le merengue et la bachata sont deux danses nées ici — aujourd'hui, tout le monde les danse partout dans le monde ! La République dominicaine fabrique aussi du chocolat bio délicieux et une pierre bleue magique appelée larimar, qu'on ne trouve que dans une seule colline au monde."
+  ],
+  "history": [
+    "Il y a plus de 500 ans, Santo Domingo est devenue la première grande ville construite par les Européens dans toute l'Amérique — la première cathédrale, la première université, tout était là ! Le héros Juan Pablo Duarte a dessiné le drapeau bleu et rouge avec sa croix blanche pour célébrer la liberté."
+  ],
   "wows": [
     "Un enfant né ici a 5 fois plus de chances de jouer dans la grande ligue de baseball américaine qu'un enfant né aux États-Unis !",
     "La pierre larimar, d'un bleu de ciel, n'existe qu'à un seul endroit sur toute la Terre : une colline en République dominicaine.",

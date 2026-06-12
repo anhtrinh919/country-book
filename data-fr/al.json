@@ -72,10 +72,18 @@
     "history": "Des guerriers légendaires et des bunkers magiques",
     "wows": "Le savais-tu ?"
   },
-  "geo": "L'Albanie est presque entièrement couverte de montagnes — certaines si hautes que des villages étaient coupés du monde pendant des siècles ! La côte est bordée de 476 km de mer turquoise, avec des plages cachées comme des trésors.",
-  "animals": "L'aigle royal est l'animal national de l'Albanie — il vole si haut qu'il voit tout le pays d'un seul regard ! Au lac Prespa vivent les plus grands pélicans d'Europe, avec des ailes aussi larges que deux adultes bras tendus.",
-  "culture": "À Tirana, la capitale, tous les immeubles gris ont été peints de dessins géants et de couleurs vives — c'est comme une ville en bonbons ! Les Albanais adorent le byrek, une tarte feuilletée au fromage super croustillante.",
-  "history": "Il y a 2 500 ans, les Illyriens construisaient des forteresses sur les collines d'Albanie. Un héros légendaire appelé Skanderbeg était si courageux qu'il a tenu tête à une armée entière pendant 25 ans — toute l'Europe l'admirait !",
+  "geo": [
+    "L'Albanie est presque entièrement couverte de montagnes — certaines si hautes que des villages étaient coupés du monde pendant des siècles ! La côte est bordée de 476 km de mer turquoise, avec des plages cachées comme des trésors."
+  ],
+  "animals": [
+    "L'aigle royal est l'animal national de l'Albanie — il vole si haut qu'il voit tout le pays d'un seul regard ! Au lac Prespa vivent les plus grands pélicans d'Europe, avec des ailes aussi larges que deux adultes bras tendus."
+  ],
+  "culture": [
+    "À Tirana, la capitale, tous les immeubles gris ont été peints de dessins géants et de couleurs vives — c'est comme une ville en bonbons ! Les Albanais adorent le byrek, une tarte feuilletée au fromage super croustillante."
+  ],
+  "history": [
+    "Il y a 2 500 ans, les Illyriens construisaient des forteresses sur les collines d'Albanie. Un héros légendaire appelé Skanderbeg était si courageux qu'il a tenu tête à une armée entière pendant 25 ans — toute l'Europe l'admirait !"
+  ],
   "wows": [
     "En Albanie, hocher la tête veut dire NON et secouer la tête veut dire OUI — tout le contraire de chez nous !",
     "Il y a 173 000 bunkers en Albanie — soit presque un pour chaque 14 personnes — beaucoup sont devenus des cafés !",

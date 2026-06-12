@@ -72,10 +72,18 @@
     "history": "Des empires plus vieux que tout",
     "wows": "Sept choses étonnantes !"
   },
-  "geo": "L'Iran est un grand plateau entouré de montagnes — le mont Damavand est un volcan enneigé plus haut que toutes les Alpes ! Au centre, deux énormes déserts brillent de sel et de sable, mais au nord, les forêts au bord de la mer Caspienne sont aussi vertes qu'une jungle.",
-  "animals": "Le guépard d'Asie est le chat le plus rare du monde — il en reste moins de 30, et ils vivent tous en Iran ! Chaque printemps, des milliers de flamants roses arrivent au lac Urmia et colorent l'eau en rose.",
-  "culture": "Chaque printemps, les Iraniens fêtent le Nouvel An Nowruz en sautant par-dessus des feux de joie et en décorant une table avec sept objets magiques. Les tapis persans sont tissés à la main pendant des années et certains ont plus de 2 500 ans d'histoire !",
-  "history": "Il y a très longtemps, un roi très sage appelé Cyrus le Grand a créé un empire immense — de l'Égypte jusqu'à l'Inde. Il a même écrit l'une des premières listes de droits pour les gens, comme une promesse de les traiter gentiment !",
+  "geo": [
+    "L'Iran est un grand plateau entouré de montagnes — le mont Damavand est un volcan enneigé plus haut que toutes les Alpes ! Au centre, deux énormes déserts brillent de sel et de sable, mais au nord, les forêts au bord de la mer Caspienne sont aussi vertes qu'une jungle."
+  ],
+  "animals": [
+    "Le guépard d'Asie est le chat le plus rare du monde — il en reste moins de 30, et ils vivent tous en Iran ! Chaque printemps, des milliers de flamants roses arrivent au lac Urmia et colorent l'eau en rose."
+  ],
+  "culture": [
+    "Chaque printemps, les Iraniens fêtent le Nouvel An Nowruz en sautant par-dessus des feux de joie et en décorant une table avec sept objets magiques. Les tapis persans sont tissés à la main pendant des années et certains ont plus de 2 500 ans d'histoire !"
+  ],
+  "history": [
+    "Il y a très longtemps, un roi très sage appelé Cyrus le Grand a créé un empire immense — de l'Égypte jusqu'à l'Inde. Il a même écrit l'une des premières listes de droits pour les gens, comme une promesse de les traiter gentiment !"
+  ],
   "wows": [
     "Le mont Damavand est le plus grand volcan de toute l'Asie, à 5 610 m de hauteur !",
     "Cyrus le Grand a inventé la première poste du monde — ses coureurs couraient 2 700 km !",

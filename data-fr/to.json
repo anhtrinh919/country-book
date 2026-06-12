@@ -72,10 +72,18 @@
     "history": "Le royaume qui a tenu bon",
     "wows": "C'est vrai, vraiment ?!"
   },
-  "geo": "Les 170 îles de Tonga s'étirent sur 800 km dans l'océan. À l'ouest, des volcans sortent tout droits de la mer ; à l'est, des îles plates en corail sont entourées de récifs très colorés. Juste à côté se trouve l'un des endroits les plus profonds de la Terre : la fosse de Tonga, à plus de 10 800 mètres sous l'eau !",
-  "animals": "Les baleines à bosse nagent jusqu'à Tonga chaque année entre juillet et octobre pour donner naissance à leurs bébés. C'est l'un des rares endroits au monde où on a le droit de nager avec elles ! La chauve-souris géante appelée renard volant est un animal sacré à Tonga — seul le roi a le droit de la chasser.",
-  "culture": "À Tonga, les grandes fêtes se font autour d'un umu, un four creusé dans la terre rempli de cochon, d'ignames et de crème de coco. Les femmes fabriquent aussi de beaux tapis tressés avec des feuilles de pandanus — ça prend des années, et ils valent encore plus que l'argent pour les mariages !",
-  "history": "Le royaume de Tonga existe depuis plus de 1 000 ans, gouverné par la même famille royale depuis l'an 950 ! Le capitaine Cook, un grand explorateur, est venu trois fois et a appelé Tonga les « Îles Amicales » parce que les habitants étaient si gentils avec lui.",
+  "geo": [
+    "Les 170 îles de Tonga s'étirent sur 800 km dans l'océan. À l'ouest, des volcans sortent tout droits de la mer ; à l'est, des îles plates en corail sont entourées de récifs très colorés. Juste à côté se trouve l'un des endroits les plus profonds de la Terre : la fosse de Tonga, à plus de 10 800 mètres sous l'eau !"
+  ],
+  "animals": [
+    "Les baleines à bosse nagent jusqu'à Tonga chaque année entre juillet et octobre pour donner naissance à leurs bébés. C'est l'un des rares endroits au monde où on a le droit de nager avec elles ! La chauve-souris géante appelée renard volant est un animal sacré à Tonga — seul le roi a le droit de la chasser."
+  ],
+  "culture": [
+    "À Tonga, les grandes fêtes se font autour d'un umu, un four creusé dans la terre rempli de cochon, d'ignames et de crème de coco. Les femmes fabriquent aussi de beaux tapis tressés avec des feuilles de pandanus — ça prend des années, et ils valent encore plus que l'argent pour les mariages !"
+  ],
+  "history": [
+    "Le royaume de Tonga existe depuis plus de 1 000 ans, gouverné par la même famille royale depuis l'an 950 ! Le capitaine Cook, un grand explorateur, est venu trois fois et a appelé Tonga les « Îles Amicales » parce que les habitants étaient si gentils avec lui."
+  ],
   "wows": [
     "Tonga est le seul pays du Pacifique à n'avoir jamais été colonisé par les Européens.",
     "On peut nager légalement tout près des baleines à bosse et de leurs bébés à Tonga !",

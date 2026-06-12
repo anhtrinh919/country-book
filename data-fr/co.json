@@ -72,10 +72,18 @@
     "history": "Une cité perdue plus vieille que tu ne crois",
     "wows": "Les records fous de la Colombie"
   },
-  "geo": "La Colombie a des plages dorées sur la mer des Caraïbes d'un côté, et l'océan Pacifique de l'autre — deux océans pour un seul pays ! La capitale Bogotá est si haute dans les montagnes que le ciel y semble tout proche.",
-  "animals": "La Colombie détient le record du monde des espèces d'oiseaux avec plus de 1 900 sortes, dont le coq-de-roche des Andes, un oiseau orange fluo qui ressemble à un petit casque volant ! Dans les rivières de l'Amazone nagent des dauphins roses comme du chewing-gum.",
-  "culture": "Les Colombiens boivent du café toute la journée dans de petites tasses appelées « tinto », cultivé sur des collines brumeuses et parfumées. Chaque août, la ville de Medellín se couvre de roses, d'orchidées et d'œillets lors d'un grand festival de fleurs !",
-  "history": "Il y a très longtemps, les Muisca habitaient le haut plateau de Bogotá et échangeaient des émeraudes vertes étincelantes comme trésor. La Cité Perdue de Colombie est vieille de 650 ans de plus que le célèbre Machu Picchu au Pérou !",
+  "geo": [
+    "La Colombie a des plages dorées sur la mer des Caraïbes d'un côté, et l'océan Pacifique de l'autre — deux océans pour un seul pays ! La capitale Bogotá est si haute dans les montagnes que le ciel y semble tout proche."
+  ],
+  "animals": [
+    "La Colombie détient le record du monde des espèces d'oiseaux avec plus de 1 900 sortes, dont le coq-de-roche des Andes, un oiseau orange fluo qui ressemble à un petit casque volant ! Dans les rivières de l'Amazone nagent des dauphins roses comme du chewing-gum."
+  ],
+  "culture": [
+    "Les Colombiens boivent du café toute la journée dans de petites tasses appelées « tinto », cultivé sur des collines brumeuses et parfumées. Chaque août, la ville de Medellín se couvre de roses, d'orchidées et d'œillets lors d'un grand festival de fleurs !"
+  ],
+  "history": [
+    "Il y a très longtemps, les Muisca habitaient le haut plateau de Bogotá et échangeaient des émeraudes vertes étincelantes comme trésor. La Cité Perdue de Colombie est vieille de 650 ans de plus que le célèbre Machu Picchu au Pérou !"
+  ],
   "wows": [
     "La Colombie envoie 200 000 tonnes de fleurs coupées dans le monde chaque année !",
     "Bogotá est si haute que les visiteurs se sentent tout étourdis en marchant.",

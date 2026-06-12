@@ -72,10 +72,18 @@
     "history": "Royaumes anciens et grandes aventures",
     "wows": "7 choses qui vont t'épater !"
   },
-  "geo": "L'Angola a des forêts, des savanes et même un désert — tout ça dans un seul pays ! Dans la province de Malanje, d'énormes rochers noirs s'appellent les Pedras Negras, et juste à côté, la cascade de Kalandula tombe de 105 mètres de haut — c'est comme dix maisons empilées !",
-  "animals": "L'animal national de l'Angola est le grand hippotrague noir — une antilope avec des cornes courbes plus longues que toi ! Il n'en reste plus que 310 dans le monde entier, nulle part ailleurs.",
-  "culture": "En Angola, on mange un porridge épais de manioc appelé funge, qu'on attrape directement avec les doigts. Et partout — dans les marchés, dans les bus, dans les fêtes — il y a de la musique et de la danse !",
-  "history": "Il y a très longtemps, le puissant Royaume de Kongo régnait sur ces terres et commerçait de l'ivoire et des tissus avec tout le monde. Le roi était si grand que quand les navires portugais arrivèrent en 1483, il les accueillit comme des amis.",
+  "geo": [
+    "L'Angola a des forêts, des savanes et même un désert — tout ça dans un seul pays ! Dans la province de Malanje, d'énormes rochers noirs s'appellent les Pedras Negras, et juste à côté, la cascade de Kalandula tombe de 105 mètres de haut — c'est comme dix maisons empilées !"
+  ],
+  "animals": [
+    "L'animal national de l'Angola est le grand hippotrague noir — une antilope avec des cornes courbes plus longues que toi ! Il n'en reste plus que 310 dans le monde entier, nulle part ailleurs."
+  ],
+  "culture": [
+    "En Angola, on mange un porridge épais de manioc appelé funge, qu'on attrape directement avec les doigts. Et partout — dans les marchés, dans les bus, dans les fêtes — il y a de la musique et de la danse !"
+  ],
+  "history": [
+    "Il y a très longtemps, le puissant Royaume de Kongo régnait sur ces terres et commerçait de l'ivoire et des tissus avec tout le monde. Le roi était si grand que quand les navires portugais arrivèrent en 1483, il les accueillit comme des amis."
+  ],
   "wows": [
     "La cascade de Kalandula est la 2e plus grande d'Afrique — presque personne dehors du continent ne la connaît !",
     "La samba du Brésil vient directement de la danse semba de l'Angola, transportée par bateau il y a 400 ans.",

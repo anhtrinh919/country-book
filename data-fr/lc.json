@@ -72,10 +72,18 @@
     "history": "Une île que tout le monde voulait",
     "wows": "Des choses incroyables à Sainte-Lucie"
   },
-  "geo": "Sainte-Lucie est une petite île des Caraïbes née de volcans anciens. Les deux Pitons — deux montagnes pointues comme des dents géantes — sont classés au patrimoine mondial de l'UNESCO et se voient de très loin en mer. Près de la ville de Soufrière, il y a un volcan spécial où tu peux t'approcher en voiture de la boue bouillonnante et sentir l'odeur de la Terre !",
-  "animals": "Le perroquet de Sainte-Lucie, surnommé Jacquot, est un oiseau vert brillant avec des plumes rouges, bleues et jaunes — il ne vit nulle part ailleurs sur Terre ! Les tortues luth, aussi lourdes qu'une moto, viennent pondre leurs œufs sur les plages de l'île chaque printemps.",
-  "culture": "Les habitants de Sainte-Lucie parlent un créole amusant qui ressemble à du français mélangé avec de la musique des Caraïbes — c'est le kwéyòl ! Chaque juillet, le Carnaval éclate avec des costumes colorés et de la musique soca qui donne envie de danser.",
-  "history": "Avant les Européens, des peuples Caraïbes vivaient sur cette belle île. La France et l'Angleterre se sont disputé l'île quatorze fois — comme un jouet trop beau que tout le monde voulait garder !",
+  "geo": [
+    "Sainte-Lucie est une petite île des Caraïbes née de volcans anciens. Les deux Pitons — deux montagnes pointues comme des dents géantes — sont classés au patrimoine mondial de l'UNESCO et se voient de très loin en mer. Près de la ville de Soufrière, il y a un volcan spécial où tu peux t'approcher en voiture de la boue bouillonnante et sentir l'odeur de la Terre !"
+  ],
+  "animals": [
+    "Le perroquet de Sainte-Lucie, surnommé Jacquot, est un oiseau vert brillant avec des plumes rouges, bleues et jaunes — il ne vit nulle part ailleurs sur Terre ! Les tortues luth, aussi lourdes qu'une moto, viennent pondre leurs œufs sur les plages de l'île chaque printemps."
+  ],
+  "culture": [
+    "Les habitants de Sainte-Lucie parlent un créole amusant qui ressemble à du français mélangé avec de la musique des Caraïbes — c'est le kwéyòl ! Chaque juillet, le Carnaval éclate avec des costumes colorés et de la musique soca qui donne envie de danser."
+  ],
+  "history": [
+    "Avant les Européens, des peuples Caraïbes vivaient sur cette belle île. La France et l'Angleterre se sont disputé l'île quatorze fois — comme un jouet trop beau que tout le monde voulait garder !"
+  ],
   "wows": [
     "Sainte-Lucie a deux lauréats du prix Nobel — plus qu'aucun autre pays par habitant dans le monde entier !",
     "Les Pitons sont si reconnaissables qu'on peut identifier l'île depuis l'espace rien qu'à leur forme !",

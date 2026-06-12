@@ -72,10 +72,18 @@
     "history": "Là où l'histoire a été inventée",
     "wows": "L'Irak qui surprend !"
   },
-  "geo": "L'Irak est traversé par deux grands fleuves, le Tigre et l'Euphrate, qui coulent vers la mer. Au nord, il y a de belles montagnes enneigées, et au sud, de grands marais pleins de roseaux et d'oiseaux !",
-  "animals": "Dans les marais du sud vivent des loutres rigolotes et des buffles d'eau aux grandes cornes recourbées. La rousserolle de Basra, un petit oiseau chanteur, niche uniquement en Irak — nulle part ailleurs sur Terre !",
-  "culture": "En Irak, on adore les dattes — il existe plus de 1 000 sortes différentes, c'est comme 1 000 saveurs de bonbons ! Le vendredi, les familles se réunissent pour manger de l'agneau avec du riz au safran doré.",
-  "history": "Il y a 5 000 ans, les Sumériens ont inventé l'écriture en faisant des petits signes dans l'argile molle. Plus tard, Babylone était la ville la plus grande du monde, avec des jardins suspendus magiques !",
+  "geo": [
+    "L'Irak est traversé par deux grands fleuves, le Tigre et l'Euphrate, qui coulent vers la mer. Au nord, il y a de belles montagnes enneigées, et au sud, de grands marais pleins de roseaux et d'oiseaux !"
+  ],
+  "animals": [
+    "Dans les marais du sud vivent des loutres rigolotes et des buffles d'eau aux grandes cornes recourbées. La rousserolle de Basra, un petit oiseau chanteur, niche uniquement en Irak — nulle part ailleurs sur Terre !"
+  ],
+  "culture": [
+    "En Irak, on adore les dattes — il existe plus de 1 000 sortes différentes, c'est comme 1 000 saveurs de bonbons ! Le vendredi, les familles se réunissent pour manger de l'agneau avec du riz au safran doré."
+  ],
+  "history": [
+    "Il y a 5 000 ans, les Sumériens ont inventé l'écriture en faisant des petits signes dans l'argile molle. Plus tard, Babylone était la ville la plus grande du monde, avec des jardins suspendus magiques !"
+  ],
   "wows": [
     "L'histoire la plus ancienne du monde, l'Épopée de Gilgamesh, a été écrite sur des tablettes d'argile ici il y a 4 000 ans !",
     "Les Babyloniens ont inventé les 60 minutes dans une heure — on utilise encore leur idée aujourd'hui !",

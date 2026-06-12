@@ -72,10 +72,18 @@
     "history": "Deux princes pour un tout petit pays",
     "wows": "Sept choses qui font « Waouh ! »"
   },
-  "geo": "Andorre est entièrement perchée dans les Pyrénées, à près de 2 000 m de hauteur en moyenne — aussi haut que la montagne de la Table en Afrique du Sud ! Toutes les villes se trouvent dans des vallées creusées par des rivières, et des forêts de pins couvrent les pentes tout autour.",
-  "animals": "Le vautour fauve à barbe — appelé gypaète barbu — est l'oiseau national d'Andorre. Il a une envergure plus grande qu'un canapé et fait quelque chose qu'aucun autre oiseau ne fait : il mange des os, en les lâchant de très haut pour les casser sur les rochers ! L'isard, une sorte de chèvre-antilope, bondit sur les crêtes enneigées avec son masque sombre comme un bandit de dessin animé.",
-  "culture": "En Andorre, les gens parlent le catalan, la même langue qu'à Barcelone. Chaque septembre, les villages fêtent avec des danses folkloriques et de grandes marionnettes en papier mâché qu'on appelle des gegants — des géants en fête qui défilent dans les rues !",
-  "history": "Il y a très, très longtemps — en 1278 — deux chefs se disputaient Andorre. Ils ont décidé de ne pas se battre et de partager le pays en deux, moitié chacun ! Cet accord magique s'appelle un paréage, et depuis ce jour, Andorre a toujours eu deux princes.",
+  "geo": [
+    "Andorre est entièrement perchée dans les Pyrénées, à près de 2 000 m de hauteur en moyenne — aussi haut que la montagne de la Table en Afrique du Sud ! Toutes les villes se trouvent dans des vallées creusées par des rivières, et des forêts de pins couvrent les pentes tout autour."
+  ],
+  "animals": [
+    "Le vautour fauve à barbe — appelé gypaète barbu — est l'oiseau national d'Andorre. Il a une envergure plus grande qu'un canapé et fait quelque chose qu'aucun autre oiseau ne fait : il mange des os, en les lâchant de très haut pour les casser sur les rochers ! L'isard, une sorte de chèvre-antilope, bondit sur les crêtes enneigées avec son masque sombre comme un bandit de dessin animé."
+  ],
+  "culture": [
+    "En Andorre, les gens parlent le catalan, la même langue qu'à Barcelone. Chaque septembre, les villages fêtent avec des danses folkloriques et de grandes marionnettes en papier mâché qu'on appelle des gegants — des géants en fête qui défilent dans les rues !"
+  ],
+  "history": [
+    "Il y a très, très longtemps — en 1278 — deux chefs se disputaient Andorre. Ils ont décidé de ne pas se battre et de partager le pays en deux, moitié chacun ! Cet accord magique s'appelle un paréage, et depuis ce jour, Andorre a toujours eu deux princes."
+  ],
   "wows": [
     "Andorre a DEUX chefs d'État : le président français ET un évêque espagnol sont tous les deux princes en même temps !",
     "C'est le seul pays au monde où le catalan est la seule langue officielle.",

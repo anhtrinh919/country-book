@@ -72,10 +72,18 @@
     "history": "Un grand royaume au cœur de l'Afrique",
     "wows": "Difficile à croire mais c'est vrai !"
   },
-  "geo": "Le fleuve Congo serpente à travers le pays comme un énorme point d'interrogation, au milieu d'une forêt aussi grande que l'Europe de l'Ouest. À l'est, des volcans et des montagnes enneigées s'élèvent jusqu'aux nuages, même tout près de l'équateur !",
-  "animals": "L'okapi est un animal timide avec des rayures de zèbre sur les pattes — il ressemble à une girafe et ne vit que dans les forêts du Congo. Le fleuve abrite plus de 700 sortes de poissons différents, dont l'énorme tigerfish aux dents pointues comme des couteaux !",
-  "culture": "Le Congo a inventé la soukous, une musique joyeuse à la guitare électrique qui fait danser toute l'Afrique depuis des décennies. Les gens portent de beaux tissus colorés appelés kitenge, avec des motifs magnifiques qu'on retrouve dans les grandes boutiques de mode du monde entier !",
-  "history": "Il y a très longtemps, un puissant royaume appelé le Royaume Kongo régnait sur une grande partie de l'Afrique centrale, et commerçait du cuivre et des étoffes avec des pays très lointains. Le 30 juin 1960, le Congo est devenu libre et indépendant — ce jour-là, tous les habitants ont célébré avec une joie immense !",
+  "geo": [
+    "Le fleuve Congo serpente à travers le pays comme un énorme point d'interrogation, au milieu d'une forêt aussi grande que l'Europe de l'Ouest. À l'est, des volcans et des montagnes enneigées s'élèvent jusqu'aux nuages, même tout près de l'équateur !"
+  ],
+  "animals": [
+    "L'okapi est un animal timide avec des rayures de zèbre sur les pattes — il ressemble à une girafe et ne vit que dans les forêts du Congo. Le fleuve abrite plus de 700 sortes de poissons différents, dont l'énorme tigerfish aux dents pointues comme des couteaux !"
+  ],
+  "culture": [
+    "Le Congo a inventé la soukous, une musique joyeuse à la guitare électrique qui fait danser toute l'Afrique depuis des décennies. Les gens portent de beaux tissus colorés appelés kitenge, avec des motifs magnifiques qu'on retrouve dans les grandes boutiques de mode du monde entier !"
+  ],
+  "history": [
+    "Il y a très longtemps, un puissant royaume appelé le Royaume Kongo régnait sur une grande partie de l'Afrique centrale, et commerçait du cuivre et des étoffes avec des pays très lointains. Le 30 juin 1960, le Congo est devenu libre et indépendant — ce jour-là, tous les habitants ont célébré avec une joie immense !"
+  ],
   "wows": [
     "Le fleuve Congo est le plus profond du monde entier — plus de 220 mètres !",
     "Plus de la moitié de toute la forêt tropicale d'Afrique se trouve au Congo.",

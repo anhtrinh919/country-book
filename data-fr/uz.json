@@ -72,10 +72,18 @@
     "history": "Il était une fois Samarcande…",
     "wows": "Tu n'y croiras pas !"
   },
-  "geo": "L'Ouzbékistan est surtout un grand désert plat, traversé par deux rivières qui donnent de l'eau à tout le monde. À l'est, il y a de belles montagnes enneigées toute l'année !",
-  "animals": "La saïga est une antilope préhistorique avec un très gros nez rigolo qui réchauffe l'air froid avant de respirer. Dans les montagnes vit le markhor, une chèvre sauvage aux cornes torsadées aussi longues que toi !",
-  "culture": "Le plat préféré de tout le monde s'appelle le plov : du riz avec de la viande et des carottes, cuit dans un immense chaudron. Pour la fête du printemps appelée Navruz, les familles sortent dans les parcs et mangent ensemble en chantant !",
-  "history": "Il y a très longtemps, un grand savant nommé Ulugbek a compté plus de 1 000 étoiles depuis son observatoire à Samarcande. La ville brillait de milliers de carreaux bleus et tout le monde venait de loin pour la voir !",
+  "geo": [
+    "L'Ouzbékistan est surtout un grand désert plat, traversé par deux rivières qui donnent de l'eau à tout le monde. À l'est, il y a de belles montagnes enneigées toute l'année !"
+  ],
+  "animals": [
+    "La saïga est une antilope préhistorique avec un très gros nez rigolo qui réchauffe l'air froid avant de respirer. Dans les montagnes vit le markhor, une chèvre sauvage aux cornes torsadées aussi longues que toi !"
+  ],
+  "culture": [
+    "Le plat préféré de tout le monde s'appelle le plov : du riz avec de la viande et des carottes, cuit dans un immense chaudron. Pour la fête du printemps appelée Navruz, les familles sortent dans les parcs et mangent ensemble en chantant !"
+  ],
+  "history": [
+    "Il y a très longtemps, un grand savant nommé Ulugbek a compté plus de 1 000 étoiles depuis son observatoire à Samarcande. La ville brillait de milliers de carreaux bleus et tout le monde venait de loin pour la voir !"
+  ],
   "wows": [
     "Pour aller à la mer depuis l'Ouzbékistan, il faut traverser deux pays — c'est unique au monde !",
     "La place du Régistan à Samarcande est couverte de mosaïques bleues si brillantes qu'on la voit de très loin !",

@@ -72,10 +72,18 @@
     "history": "Une légende de fierté et d'honneur",
     "wows": "Sept surprises étonnantes !"
   },
-  "geo": "Le Burkina Faso est un grand plateau plat, baigné de soleil et traversé par trois rivières aux noms de couleurs : la Volta Noire, la Volta Rouge et la Volta Blanche. Quand la pluie arrive, toute la terre sèche se transforme comme par magie en savane toute verte !",
-  "animals": "Près du village de Bazoulé, à seulement 30 km de la capitale, plus de cent crocodiles du Nil vivent dans un étang sacré avec les habitants du village. Les enfants jouent tout près de l'eau sans avoir peur, car tout le monde croit que ces crocodiles sont des ancêtres protecteurs !",
-  "culture": "Au Burkina Faso, les artisans fabriquent de grands masques en bois qui représentent des animaux et des ancêtres, portés lors de fêtes extraordinaires. Le soir des célébrations, on entend les tambours, la balafon et la kora résonner jusqu'aux étoiles !",
-  "history": "Il y a très longtemps, une courageuse princesse mossi nommée Yennenga chevauchait seule à travers la savane et fonda un grand royaume. Aujourd'hui encore, le plus beau trophée du grand festival du cinéma s'appelle l'Étalon d'or de Yennenga, en son honneur !",
+  "geo": [
+    "Le Burkina Faso est un grand plateau plat, baigné de soleil et traversé par trois rivières aux noms de couleurs : la Volta Noire, la Volta Rouge et la Volta Blanche. Quand la pluie arrive, toute la terre sèche se transforme comme par magie en savane toute verte !"
+  ],
+  "animals": [
+    "Près du village de Bazoulé, à seulement 30 km de la capitale, plus de cent crocodiles du Nil vivent dans un étang sacré avec les habitants du village. Les enfants jouent tout près de l'eau sans avoir peur, car tout le monde croit que ces crocodiles sont des ancêtres protecteurs !"
+  ],
+  "culture": [
+    "Au Burkina Faso, les artisans fabriquent de grands masques en bois qui représentent des animaux et des ancêtres, portés lors de fêtes extraordinaires. Le soir des célébrations, on entend les tambours, la balafon et la kora résonner jusqu'aux étoiles !"
+  ],
+  "history": [
+    "Il y a très longtemps, une courageuse princesse mossi nommée Yennenga chevauchait seule à travers la savane et fonda un grand royaume. Aujourd'hui encore, le plus beau trophée du grand festival du cinéma s'appelle l'Étalon d'or de Yennenga, en son honneur !"
+  ],
   "wows": [
     "Le nom « Burkina Faso » mélange deux langues : « honnête » en mooré et « patrie » en dioula.",
     "À Ouagadougou, il y a le plus grand festival de cinéma d'Afrique — depuis 1969 !",

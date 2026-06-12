@@ -71,10 +71,18 @@
     "history": "D'un village au ciel des gratte-ciel",
     "wows": "Attends — c'est vraiment vrai ?"
   },
-  "geo": "Hong Kong est posé au bord de la mer, avec une péninsule et 263 îles. Le port est si profond que de gigantesques bateaux s'y garent en plein cœur de la ville !",
-  "animals": "Le pangolin chinois, un animal couvert d'écailles qui se roule en boule quand il a peur, se promène dans la forêt la nuit. Les zones humides de Mai Po accueillent plus de 400 espèces d'oiseaux, dont le rarissime spatule à face noire !",
-  "culture": "Les familles de Hong Kong se retrouvent pour le yum cha — des petits paniers vapeur remplis de délicieux raviolis. Chaque automne, la Fête des Fantômes affamés illumine les rues de papiers brûlants et de lumières rouges !",
-  "history": "Des pêcheurs vivaient ici depuis des milliers d'années, bien avant que la grande ville naisse au bord de l'eau. La ville a grandi, grandi, grandi — jusqu'à devenir l'une des skylines les plus impressionnantes du monde entier !",
+  "geo": [
+    "Hong Kong est posé au bord de la mer, avec une péninsule et 263 îles. Le port est si profond que de gigantesques bateaux s'y garent en plein cœur de la ville !"
+  ],
+  "animals": [
+    "Le pangolin chinois, un animal couvert d'écailles qui se roule en boule quand il a peur, se promène dans la forêt la nuit. Les zones humides de Mai Po accueillent plus de 400 espèces d'oiseaux, dont le rarissime spatule à face noire !"
+  ],
+  "culture": [
+    "Les familles de Hong Kong se retrouvent pour le yum cha — des petits paniers vapeur remplis de délicieux raviolis. Chaque automne, la Fête des Fantômes affamés illumine les rues de papiers brûlants et de lumières rouges !"
+  ],
+  "history": [
+    "Des pêcheurs vivaient ici depuis des milliers d'années, bien avant que la grande ville naisse au bord de l'eau. La ville a grandi, grandi, grandi — jusqu'à devenir l'une des skylines les plus impressionnantes du monde entier !"
+  ],
   "wows": [
     "Hong Kong a plus de voitures Rolls-Royce par habitant que n'importe où ailleurs sur Terre.",
     "Le métro est à l'heure 99,9 % du temps — presque magique !",

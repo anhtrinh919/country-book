@@ -72,10 +72,18 @@
     "history": "Un pays qui a choisi la paix",
     "wows": "Le Costa Rica qui t'étonnera"
   },
-  "geo": "Le Costa Rica est posé sur la « Ceinture de feu » — il a cinq volcans encore bien vivants ! Le volcan Arenal, beau comme un cône de glace, a une montagne qui sépare la pluie vers l'océan Pacifique d'un côté et vers les Caraïbes de l'autre.",
-  "animals": "Le Costa Rica est minuscule mais abrite 5 % de tous les animaux et plantes de la planète — c'est magique ! Le quetzal resplendissant, un oiseau aux plumes vertes brillantes plus longues que son propre corps, vit dans les forêts brumeuses.",
-  "culture": "Chaque matin, les habitants mangent du « gallo pinto », c'est du riz et des haricots noirs grillés ensemble — leur plat préféré ! Ils disent « Pura Vida » des dizaines de fois par jour : ça veut dire bonjour, au revoir et « la vie est belle » !",
-  "history": "Bien avant l'arrivée des premiers explorateurs espagnols en 1502, le peuple Bribri vivait ici depuis des milliers d'années. En 1948, le Costa Rica a fait quelque chose d'extraordinaire : il a supprimé son armée pour dépenser tout cet argent dans les écoles et les hôpitaux !",
+  "geo": [
+    "Le Costa Rica est posé sur la « Ceinture de feu » — il a cinq volcans encore bien vivants ! Le volcan Arenal, beau comme un cône de glace, a une montagne qui sépare la pluie vers l'océan Pacifique d'un côté et vers les Caraïbes de l'autre."
+  ],
+  "animals": [
+    "Le Costa Rica est minuscule mais abrite 5 % de tous les animaux et plantes de la planète — c'est magique ! Le quetzal resplendissant, un oiseau aux plumes vertes brillantes plus longues que son propre corps, vit dans les forêts brumeuses."
+  ],
+  "culture": [
+    "Chaque matin, les habitants mangent du « gallo pinto », c'est du riz et des haricots noirs grillés ensemble — leur plat préféré ! Ils disent « Pura Vida » des dizaines de fois par jour : ça veut dire bonjour, au revoir et « la vie est belle » !"
+  ],
+  "history": [
+    "Bien avant l'arrivée des premiers explorateurs espagnols en 1502, le peuple Bribri vivait ici depuis des milliers d'années. En 1948, le Costa Rica a fait quelque chose d'extraordinaire : il a supprimé son armée pour dépenser tout cet argent dans les écoles et les hôpitaux !"
+  ],
   "wows": [
     "Plus de 99 % de l'électricité du Costa Rica vient du soleil, du vent et des volcans !",
     "C'est l'un des rares pays du monde dont la constitution interdit d'avoir une armée.",

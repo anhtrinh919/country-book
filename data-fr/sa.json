@@ -72,10 +72,18 @@
     "history": "Des tribus au grand royaume",
     "wows": "7 choses folles sur l'Arabie Saoudite !"
   },
-  "geo": "L'Arabie Saoudite est presque entièrement un grand plateau de sable et de cailloux. Le Rub' al Khali — le « Quart vide » — est le plus grand désert de sable du monde, avec des dunes aussi hautes qu'un immeuble de 25 étages !",
-  "animals": "Le chameau d'Arabie peut vivre une semaine entière sans boire une seule goutte d'eau — c'est un super-héros du désert ! L'oryx d'Arabie, une belle antilope blanche, avait disparu, mais des gens l'ont sauvée et elle vit de nouveau en liberté.",
-  "culture": "Chaque jour, les familles s'arrêtent cinq fois pour prier ensemble — c'est très important pour eux. Lors de la fête de l'Aïd, tout le monde se régale d'agneau, de riz kabsa et de dattes sucrées !",
-  "history": "Il y a très longtemps, des familles appelées Bédouins traversaient ce désert à dos de chameau et connaissaient chaque dune par cœur. La ville de La Mecque était déjà un grand marché animé bien avant que le prophète Mahomet y naisse, il y a environ 1 450 ans !",
+  "geo": [
+    "L'Arabie Saoudite est presque entièrement un grand plateau de sable et de cailloux. Le Rub' al Khali — le « Quart vide » — est le plus grand désert de sable du monde, avec des dunes aussi hautes qu'un immeuble de 25 étages !"
+  ],
+  "animals": [
+    "Le chameau d'Arabie peut vivre une semaine entière sans boire une seule goutte d'eau — c'est un super-héros du désert ! L'oryx d'Arabie, une belle antilope blanche, avait disparu, mais des gens l'ont sauvée et elle vit de nouveau en liberté."
+  ],
+  "culture": [
+    "Chaque jour, les familles s'arrêtent cinq fois pour prier ensemble — c'est très important pour eux. Lors de la fête de l'Aïd, tout le monde se régale d'agneau, de riz kabsa et de dattes sucrées !"
+  ],
+  "history": [
+    "Il y a très longtemps, des familles appelées Bédouins traversaient ce désert à dos de chameau et connaissaient chaque dune par cœur. La ville de La Mecque était déjà un grand marché animé bien avant que le prophète Mahomet y naisse, il y a environ 1 450 ans !"
+  ],
   "wows": [
     "Le désert Rub' al Khali est si grand qu'il pourrait avaler toute la France — et il resterait encore de la place !",
     "Il n'y a pas un seul vrai fleuve dans tout le pays — zéro rivière permanente !",

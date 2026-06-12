@@ -72,10 +72,18 @@
     "history": "La légende du petit royaume courageux",
     "wows": "La Belgique va t'épater !"
   },
-  "geo": "La Belgique est presque entièrement plate, avec de jolies dunes de sable le long de la mer du Nord. Mais dans le sud, la forêt des Ardennes cache de belles collines, des grottes mystérieuses et des rivières qui tourbillonnent !",
-  "animals": "Le renard roux se promène dans les forêts des Ardennes quand le soleil se couche. La cigogne blanche, elle, fait son grand nid sur les toits des églises chaque printemps — comme si l'église était sa maison !",
-  "culture": "En Belgique, tout le monde adore le chocolat, la bière et les frites — même si les gens du nord parlent néerlandais et ceux du sud parlent français ! Chaque ville a un carillon, une grosse tour avec des cloches qui jouent une chanson toutes les quinze minutes.",
-  "history": "Il y a très longtemps, un petit lion courageux est devenu le symbole de la Belgique. En 1830, les Belges ont décidé d'être libres et ont choisi leur propre roi — comme dans un conte de fées qui devient vrai !",
+  "geo": [
+    "La Belgique est presque entièrement plate, avec de jolies dunes de sable le long de la mer du Nord. Mais dans le sud, la forêt des Ardennes cache de belles collines, des grottes mystérieuses et des rivières qui tourbillonnent !"
+  ],
+  "animals": [
+    "Le renard roux se promène dans les forêts des Ardennes quand le soleil se couche. La cigogne blanche, elle, fait son grand nid sur les toits des églises chaque printemps — comme si l'église était sa maison !"
+  ],
+  "culture": [
+    "En Belgique, tout le monde adore le chocolat, la bière et les frites — même si les gens du nord parlent néerlandais et ceux du sud parlent français ! Chaque ville a un carillon, une grosse tour avec des cloches qui jouent une chanson toutes les quinze minutes."
+  ],
+  "history": [
+    "Il y a très longtemps, un petit lion courageux est devenu le symbole de la Belgique. En 1830, les Belges ont décidé d'être libres et ont choisi leur propre roi — comme dans un conte de fées qui devient vrai !"
+  ],
   "wows": [
     "La Belgique fabrique plus de 220 000 tonnes de chocolat chaque année — imagine la montagne !",
     "Les Belges ont inventé les frites, pas les Français — et ils les mangent avec de la mayonnaise !",

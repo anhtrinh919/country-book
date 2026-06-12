@@ -71,10 +71,18 @@
     "history": "Légendes et grandes inventions",
     "wows": "Les surprises brillantes de l'île"
   },
-  "geo": "La Grande-Bretagne est une île séparée de l'Europe par la Manche, large d'à peine 34 km ! L'Écosse a de hautes montagnes avec des lacs mystérieux, et la côte fait 17 800 km — on n'est jamais loin de la mer.",
-  "animals": "Le macareux moine niche sur les falaises rocheuses chaque printemps, avec son bec orange et rouge tout coloré. L'écureuil roux, le vrai écureuil anglais, est aujourd'hui très rare — c'est un trésor à protéger !",
-  "culture": "Au Royaume-Uni, faire la queue bien sagement est presque un sport national — tout le monde attend son tour très poliment ! Le 5 novembre, le ciel s'illumine de feux d'artifice pour la nuit de Guy Fawkes.",
-  "history": "Il y a 5 000 ans, des gens ont dressé d'énormes pierres en cercle pour faire Stonehenge — on ne sait toujours pas comment ! Des chevaliers et des rois habitaient de grands châteaux forts partout sur l'île.",
+  "geo": [
+    "La Grande-Bretagne est une île séparée de l'Europe par la Manche, large d'à peine 34 km ! L'Écosse a de hautes montagnes avec des lacs mystérieux, et la côte fait 17 800 km — on n'est jamais loin de la mer."
+  ],
+  "animals": [
+    "Le macareux moine niche sur les falaises rocheuses chaque printemps, avec son bec orange et rouge tout coloré. L'écureuil roux, le vrai écureuil anglais, est aujourd'hui très rare — c'est un trésor à protéger !"
+  ],
+  "culture": [
+    "Au Royaume-Uni, faire la queue bien sagement est presque un sport national — tout le monde attend son tour très poliment ! Le 5 novembre, le ciel s'illumine de feux d'artifice pour la nuit de Guy Fawkes."
+  ],
+  "history": [
+    "Il y a 5 000 ans, des gens ont dressé d'énormes pierres en cercle pour faire Stonehenge — on ne sait toujours pas comment ! Des chevaliers et des rois habitaient de grands châteaux forts partout sur l'île."
+  ],
   "wows": [
     "Le métro de Londres a ouvert en 1863 — c'est le plus vieux du monde, les passagers voyageaient dans des wagons en bois !",
     "Tim Berners-Lee a inventé l'internet et l'a offert gratuitement à tout le monde.",

@@ -72,10 +72,18 @@
     "history": "L'or des Incas et la liberté",
     "wows": "Des surprises à l'Équateur !"
   },
-  "geo": "Les Andes traversent l'Équateur comme une grande colonne vertébrale, avec le Chimborazo si haut que son sommet est le point le plus éloigné du centre de la Terre ! À l'est coule l'Amazone avec sa jungle immense, et à 1 000 km dans l'océan, les îles Galápagos abritent des animaux qu'on ne trouve nulle part ailleurs.",
-  "animals": "La tortue géante des Galápagos pèse 400 kg et vit plus de 100 ans — plus longtemps que n'importe quel humain ! L'iguane marin plonge dans la mer pour manger des algues, ce qui en fait le seul lézard au monde qui nage dans l'océan.",
-  "culture": "Le fameux chapeau « Panama » est en réalité fabriqué en Équateur, tressé à la main avec de la paille dans les villages côtiers — c'est si beau que l'UNESCO l'a classé au patrimoine de l'humanité ! Au marché d'Otavalo, les habitants Kichwa vendent depuis des siècles de magnifiques tissus colorés faits à la main.",
-  "history": "Il y a très longtemps, les puissants Incas ont fait de Quito leur capitale du nord. Quand les Espagnols sont arrivés en 1534, ils ont construit leurs églises directement sur les fondations incas — on peut encore les voir aujourd'hui !",
+  "geo": [
+    "Les Andes traversent l'Équateur comme une grande colonne vertébrale, avec le Chimborazo si haut que son sommet est le point le plus éloigné du centre de la Terre ! À l'est coule l'Amazone avec sa jungle immense, et à 1 000 km dans l'océan, les îles Galápagos abritent des animaux qu'on ne trouve nulle part ailleurs."
+  ],
+  "animals": [
+    "La tortue géante des Galápagos pèse 400 kg et vit plus de 100 ans — plus longtemps que n'importe quel humain ! L'iguane marin plonge dans la mer pour manger des algues, ce qui en fait le seul lézard au monde qui nage dans l'océan."
+  ],
+  "culture": [
+    "Le fameux chapeau « Panama » est en réalité fabriqué en Équateur, tressé à la main avec de la paille dans les villages côtiers — c'est si beau que l'UNESCO l'a classé au patrimoine de l'humanité ! Au marché d'Otavalo, les habitants Kichwa vendent depuis des siècles de magnifiques tissus colorés faits à la main."
+  ],
+  "history": [
+    "Il y a très longtemps, les puissants Incas ont fait de Quito leur capitale du nord. Quand les Espagnols sont arrivés en 1534, ils ont construit leurs églises directement sur les fondations incas — on peut encore les voir aujourd'hui !"
+  ],
   "wows": [
     "Le sommet du Chimborazo est plus loin du centre de la Terre que celui de l'Everest, car notre planète est un peu ronde comme une balle aplatie à l'équateur.",
     "L'Équateur envoie plus de 5 millions de tonnes de bananes chaque année dans le monde entier !",

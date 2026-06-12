@@ -72,10 +72,18 @@
     "history": "Des bergers qui ont changé le monde",
     "wows": "Oh là là — la Suisse a vraiment fait ÇA ?"
   },
-  "geo": "La Suisse est nichée au cœur de l'Europe, entourée de grandes montagnes appelées les Alpes. Plus de 1 500 lacs brillent entre les pics comme des miroirs géants !",
-  "animals": "L'ibex des Alpes est une chèvre sauvage avec des cornes courbées plus longues que ton bras ! La marmotte, elle, dort toute l'hiver sous la terre en ronflant bien au chaud.",
-  "culture": "En Suisse, on mange de la fondue : on trempe du pain dans un grand pot de fromage fondu tout chaud, miam ! Les Suisses fabriquent aussi des montres tellement précises qu'elles ne se trompent presque jamais.",
-  "history": "Il y a très très longtemps, en 1291, trois petits villages de montagne se sont donné la main et ont promis de se protéger — c'est comme ça que la Suisse est née ! Chaque 1er août, tous les Suisses font la fête pour cet anniversaire.",
+  "geo": [
+    "La Suisse est nichée au cœur de l'Europe, entourée de grandes montagnes appelées les Alpes. Plus de 1 500 lacs brillent entre les pics comme des miroirs géants !"
+  ],
+  "animals": [
+    "L'ibex des Alpes est une chèvre sauvage avec des cornes courbées plus longues que ton bras ! La marmotte, elle, dort toute l'hiver sous la terre en ronflant bien au chaud."
+  ],
+  "culture": [
+    "En Suisse, on mange de la fondue : on trempe du pain dans un grand pot de fromage fondu tout chaud, miam ! Les Suisses fabriquent aussi des montres tellement précises qu'elles ne se trompent presque jamais."
+  ],
+  "history": [
+    "Il y a très très longtemps, en 1291, trois petits villages de montagne se sont donné la main et ont promis de se protéger — c'est comme ça que la Suisse est née ! Chaque 1er août, tous les Suisses font la fête pour cet anniversaire."
+  ],
   "wows": [
     "Les Suisses mangent environ 10 kg de chocolat chacun par an — c'est énorme !",
     "Le tunnel ferroviaire de Saint-Gothard fait 57 km — le plus long train souterrain du monde !",

@@ -72,10 +72,18 @@
     "history": "La naissance d'un pays libre !",
     "wows": "Le Ghana va t'étonner !"
   },
-  "geo": "Le sud du Ghana est bordé de belles plages de sable au bord de l'océan Atlantique. Au milieu du pays se trouve le lac Volta — c'est le plus grand lac artificiel du monde, grand comme une mer !",
-  "animals": "Au Ghana, les éléphants se baladent dans le parc national de Mole et viennent boire de l'eau tout près des visiteurs. La nuit, de grandes tortues marines remontent sur les plages pour pondre leurs œufs dans le sable — les gens du village les gardent avec des lampes !",
-  "culture": "Les Ghanéens portent le kente, un tissu aux rayures dorées, rouges et vertes, pour les fêtes et les mariages. Quand quelqu'un part pour toujours, sa famille commande un cercueil en forme de poisson, d'avion ou même de cabossede cacao — quelle idée !",
-  "history": "Il y a très longtemps, les rois Ashanti possédaient des trésors d'or et gouvernaient tout autour. Le 6 mars 1957, le Ghana est devenu le tout premier pays noir d'Afrique à être libre — tout le continent a crié de joie !",
+  "geo": [
+    "Le sud du Ghana est bordé de belles plages de sable au bord de l'océan Atlantique. Au milieu du pays se trouve le lac Volta — c'est le plus grand lac artificiel du monde, grand comme une mer !"
+  ],
+  "animals": [
+    "Au Ghana, les éléphants se baladent dans le parc national de Mole et viennent boire de l'eau tout près des visiteurs. La nuit, de grandes tortues marines remontent sur les plages pour pondre leurs œufs dans le sable — les gens du village les gardent avec des lampes !"
+  ],
+  "culture": [
+    "Les Ghanéens portent le kente, un tissu aux rayures dorées, rouges et vertes, pour les fêtes et les mariages. Quand quelqu'un part pour toujours, sa famille commande un cercueil en forme de poisson, d'avion ou même de cabossede cacao — quelle idée !"
+  ],
+  "history": [
+    "Il y a très longtemps, les rois Ashanti possédaient des trésors d'or et gouvernaient tout autour. Le 6 mars 1957, le Ghana est devenu le tout premier pays noir d'Afrique à être libre — tout le continent a crié de joie !"
+  ],
   "wows": [
     "Le lac Volta est si grand qu'il couvre presque tout un pays — c'est le plus grand lac artificiel de la planète !",
     "1 barre de chocolat sur 5 dans le monde vient du cacao planté au Ghana !",

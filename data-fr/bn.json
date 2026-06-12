@@ -71,10 +71,18 @@
     "history": "Un sultan légendaire et son trésor",
     "wows": "Des choses qui vont t'épater !"
   },
-  "geo": "Brunéi se trouve sur la côte nord de Bornéo, entouré presque entièrement par la Malaisie. La forêt tropicale couvre les deux tiers du pays, et des rivières servent d'autoroutes à travers la verdure !",
-  "animals": "Le singe nasique vit uniquement sur l'île de Bornéo — il a un gros nez tout rond et il sait nager comme un champion ! Dans le parc d'Ulu Temburong, on trouve aussi des éléphants pygmées et des léopards des nuages qui se cachent dans les arbres.",
-  "culture": "Dans le village de Kampong Ayer, 13 000 personnes vivent dans des maisons construites sur des pilotis au-dessus de la rivière ! Chaque soir, un grand marché sizzle avec des brochettes de viande et une pâte collante au tapioca appelée ambuyat, le plat préféré des Brunéiens.",
-  "history": "Il y a très longtemps, le sultanat de Brunéi était si puissant qu'il régnait sur une grande partie de Bornéo et des Philippines. Quand les explorateurs de Magellan arrivèrent en 1521, ils découvrirent un palais brillant rempli d'or et de canons !",
+  "geo": [
+    "Brunéi se trouve sur la côte nord de Bornéo, entouré presque entièrement par la Malaisie. La forêt tropicale couvre les deux tiers du pays, et des rivières servent d'autoroutes à travers la verdure !"
+  ],
+  "animals": [
+    "Le singe nasique vit uniquement sur l'île de Bornéo — il a un gros nez tout rond et il sait nager comme un champion ! Dans le parc d'Ulu Temburong, on trouve aussi des éléphants pygmées et des léopards des nuages qui se cachent dans les arbres."
+  ],
+  "culture": [
+    "Dans le village de Kampong Ayer, 13 000 personnes vivent dans des maisons construites sur des pilotis au-dessus de la rivière ! Chaque soir, un grand marché sizzle avec des brochettes de viande et une pâte collante au tapioca appelée ambuyat, le plat préféré des Brunéiens."
+  ],
+  "history": [
+    "Il y a très longtemps, le sultanat de Brunéi était si puissant qu'il régnait sur une grande partie de Bornéo et des Philippines. Quand les explorateurs de Magellan arrivèrent en 1521, ils découvrirent un palais brillant rempli d'or et de canons !"
+  ],
   "wows": [
     "Les habitants de Brunéi ne paient aucun impôt — le pétrole paie tout à leur place !",
     "Le palais du Sultan a 1 788 pièces et 5 piscines — la plus grande résidence royale du monde !",

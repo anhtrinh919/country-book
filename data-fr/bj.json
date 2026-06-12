@@ -72,10 +72,18 @@
     "history": "Un royaume légendaire d'autrefois",
     "wows": "7 choses qui vont t'étonner"
   },
-  "geo": "Le Bénin est tout long et fin — seulement 125 km de large sur la côte, mais 700 km du nord au sud ! Au sud, il y a des plages de sable et le lac Nokoué, où le village de Ganvié est construit tout entier sur des pilotis au-dessus de l'eau.",
-  "animals": "La star du Bénin, c'est l'éléphant d'Afrique — le parc de la Pendjari en abrite plus de 2 000, le plus grand troupeau d'Afrique de l'Ouest ! Dans les rivières vivent des hippopotames et des crocodiles, et des lamantins glissent doucement dans les lagunes côtières.",
-  "culture": "Le Bénin est le pays qui a inventé le Vodoun, une religion où l'on honore les esprits de la nature et les ancêtres. Chaque janvier, la fête du Vodoun remplit les rues de danseurs costumés, de tambours et de cérémonies colorées !",
-  "history": "Il y a très longtemps, vers l'an 1600, le puissant royaume de Dahomey s'est élevé dans cette région. Ses rois commandaient de grandes armées et faisaient fabriquer de magnifiques sculptures en bronze que l'on admire encore dans les musées du monde entier !",
+  "geo": [
+    "Le Bénin est tout long et fin — seulement 125 km de large sur la côte, mais 700 km du nord au sud ! Au sud, il y a des plages de sable et le lac Nokoué, où le village de Ganvié est construit tout entier sur des pilotis au-dessus de l'eau."
+  ],
+  "animals": [
+    "La star du Bénin, c'est l'éléphant d'Afrique — le parc de la Pendjari en abrite plus de 2 000, le plus grand troupeau d'Afrique de l'Ouest ! Dans les rivières vivent des hippopotames et des crocodiles, et des lamantins glissent doucement dans les lagunes côtières."
+  ],
+  "culture": [
+    "Le Bénin est le pays qui a inventé le Vodoun, une religion où l'on honore les esprits de la nature et les ancêtres. Chaque janvier, la fête du Vodoun remplit les rues de danseurs costumés, de tambours et de cérémonies colorées !"
+  ],
+  "history": [
+    "Il y a très longtemps, vers l'an 1600, le puissant royaume de Dahomey s'est élevé dans cette région. Ses rois commandaient de grandes armées et faisaient fabriquer de magnifiques sculptures en bronze que l'on admire encore dans les musées du monde entier !"
+  ],
   "wows": [
     "Ganvié sur le lac Nokoué abrite 30 000 personnes — même le marché flotte sur l'eau !",
     "Le 10 janvier est un jour férié national pour le Vodoun — le seul pays du monde à le fêter ainsi.",

@@ -72,10 +72,18 @@
     "history": "Un peuple ancien et ses dessins sur les rochers",
     "wows": "7 surprises incroyables"
   },
-  "geo": "En Namibie, des dunes rouge-orange hautes comme des immeubles bordent tout l'océan — la plus grande s'appelle Big Daddy ! Juste à côté de ces dunes brûlantes, l'océan froid envoie du brouillard chaque matin, comme par magie.",
-  "animals": "La Namibie est le pays du monde avec le plus de guépards en liberté — environ 3 000 ! Sur la Côte des Squelettes, une plage accueille jusqu'à 100 000 otaries qui se prélassent ensemble.",
-  "culture": "Les femmes Himba du nord enduisent leurs cheveux d'une pâte rouge appelée ocre — c'est leur protection solaire naturelle ! À Windhoek, on mange des grillades africaines et des saucisses allemandes dans la même rue.",
-  "history": "Le peuple San vit en Namibie depuis plus de 20 000 ans et a dessiné des empreintes de mains sur les rochers ! Ces peintures rupestres sont comme un livre d'images géant laissé par nos lointains ancêtres.",
+  "geo": [
+    "En Namibie, des dunes rouge-orange hautes comme des immeubles bordent tout l'océan — la plus grande s'appelle Big Daddy ! Juste à côté de ces dunes brûlantes, l'océan froid envoie du brouillard chaque matin, comme par magie."
+  ],
+  "animals": [
+    "La Namibie est le pays du monde avec le plus de guépards en liberté — environ 3 000 ! Sur la Côte des Squelettes, une plage accueille jusqu'à 100 000 otaries qui se prélassent ensemble."
+  ],
+  "culture": [
+    "Les femmes Himba du nord enduisent leurs cheveux d'une pâte rouge appelée ocre — c'est leur protection solaire naturelle ! À Windhoek, on mange des grillades africaines et des saucisses allemandes dans la même rue."
+  ],
+  "history": [
+    "Le peuple San vit en Namibie depuis plus de 20 000 ans et a dessiné des empreintes de mains sur les rochers ! Ces peintures rupestres sont comme un livre d'images géant laissé par nos lointains ancêtres."
+  ],
   "wows": [
     "Le désert du Namib a environ 55 millions d'années — c'est le désert le plus vieux de la Terre !",
     "La dune Big Daddy fait 325 m de haut — plus haute que la Tour Eiffel !",

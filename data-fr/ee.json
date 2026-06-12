@@ -72,10 +72,18 @@
     "history": "Une météorite a creusé un lac !",
     "wows": "Sept surprises sur l'Estonie"
   },
-  "geo": "L'Estonie est couverte à moitié par la forêt — des pins et des bouleaux partout comme une grande couverture verte ! Elle a plus de 2 200 îles et des lacs qui brillent au soleil.",
-  "animals": "Dans les forêts estoniennes vivent des lynx, des loups et des ours bruns — de vrais animaux sauvages ! Les cigognes blanches nichent sur les toits des maisons, et les Estoniens pensent qu'elles portent bonheur.",
-  "culture": "En Estonie, tout le monde chante ensemble lors d'une grande fête tous les cinq ans — imaginez 30 000 voix en même temps ! On mange du pain de seigle noir et du poisson fumé, et le sauna en famille, c'est sacré.",
-  "history": "Sur l'île de Saaremaa, il y a un lac tout rond qui vient d'une météorite tombée il y a 3 500 ans — une vraie roche de l'espace ! La vieille ville de Tallinn a des tours pointues construites par des marchands il y a très longtemps.",
+  "geo": [
+    "L'Estonie est couverte à moitié par la forêt — des pins et des bouleaux partout comme une grande couverture verte ! Elle a plus de 2 200 îles et des lacs qui brillent au soleil."
+  ],
+  "animals": [
+    "Dans les forêts estoniennes vivent des lynx, des loups et des ours bruns — de vrais animaux sauvages ! Les cigognes blanches nichent sur les toits des maisons, et les Estoniens pensent qu'elles portent bonheur."
+  ],
+  "culture": [
+    "En Estonie, tout le monde chante ensemble lors d'une grande fête tous les cinq ans — imaginez 30 000 voix en même temps ! On mange du pain de seigle noir et du poisson fumé, et le sauna en famille, c'est sacré."
+  ],
+  "history": [
+    "Sur l'île de Saaremaa, il y a un lac tout rond qui vient d'une météorite tombée il y a 3 500 ans — une vraie roche de l'espace ! La vieille ville de Tallinn a des tours pointues construites par des marchands il y a très longtemps."
+  ],
   "wows": [
     "L'Estonie a plus de cratères de météorites par km² que presque n'importe quel autre pays !",
     "Skype, l'appli pour parler en vidéo avec papi et mamie, a été inventé en Estonie.",

@@ -72,10 +72,18 @@
     "history": "Une île qui a tout changé",
     "wows": "Haïti t'épate !"
   },
-  "geo": "Haïti est l'un des pays les plus montagneux des Caraïbes — le nom Ayiti signifie « terre des hautes montagnes » en langue taïno. Deux grandes presqu'îles s'avancent dans la mer des Caraïbes, avec des plages cachées et des baies turquoise !",
-  "animals": "L'animal le plus bizarre d'Haïti est le solénodon, une petite créature au long nez qui injecte du venin avec une dent — un super-pouvoir que presque aucun autre mammifère ne possède depuis l'époque des dinosaures. L'iguane rhinocéros, lui, a de vraies bosses sur le nez comme une corne !",
-  "culture": "À Haïti, les artisans fabriquent d'immenses masques en papier mâché en forme de dragons et d'animaux pour le grand carnaval appelé Kanaval. Pendant la fête, on entend de partout des tambours et des cors en bambou qui font un bruit incroyable !",
-  "history": "Un jour, des gens qui avaient décidé d'être libres ont bâti une forteresse géante au sommet d'une montagne pour la protéger — la Citadelle Laferrière. C'est la plus grande forteresse de tout le continent américain, et on peut encore la visiter aujourd'hui !",
+  "geo": [
+    "Haïti est l'un des pays les plus montagneux des Caraïbes — le nom Ayiti signifie « terre des hautes montagnes » en langue taïno. Deux grandes presqu'îles s'avancent dans la mer des Caraïbes, avec des plages cachées et des baies turquoise !"
+  ],
+  "animals": [
+    "L'animal le plus bizarre d'Haïti est le solénodon, une petite créature au long nez qui injecte du venin avec une dent — un super-pouvoir que presque aucun autre mammifère ne possède depuis l'époque des dinosaures. L'iguane rhinocéros, lui, a de vraies bosses sur le nez comme une corne !"
+  ],
+  "culture": [
+    "À Haïti, les artisans fabriquent d'immenses masques en papier mâché en forme de dragons et d'animaux pour le grand carnaval appelé Kanaval. Pendant la fête, on entend de partout des tambours et des cors en bambou qui font un bruit incroyable !"
+  ],
+  "history": [
+    "Un jour, des gens qui avaient décidé d'être libres ont bâti une forteresse géante au sommet d'une montagne pour la protéger — la Citadelle Laferrière. C'est la plus grande forteresse de tout le continent américain, et on peut encore la visiter aujourd'hui !"
+  ],
   "wows": [
     "Haïti était si riche qu'elle produisait la moitié du sucre et du café de toute l'Europe — on l'appelait « La Perle des Antilles » !",
     "La Citadelle Laferrière est la plus grande forteresse de tout l'hémisphère occidental — un château au sommet d'une montagne !",

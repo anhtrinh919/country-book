@@ -72,10 +72,18 @@
     "history": "Des anciens royaumes à la liberté",
     "wows": "Les surprises de la Zambie"
   },
-  "geo": "La Zambie est posée sur un haut plateau — même près de l'équateur, il fait bon vivre ! Le grand fleuve Zambèze traverse le pays et plonge en cascade dans un vacarme de tonnerre.",
-  "animals": "Dans les marais de Bangweulu vit le bec-en-sabot, un oiseau gris immense au bec en forme de sabot. Il reste immobile pendant des heures comme une statue, puis — clac — attrape un poisson !",
-  "culture": "Tous les jours, les Zambiens mangent du nshima, une bouillie de maïs qu'on roule en boule avec les doigts et qu'on trempe dans du poisson ou des légumes. Les femmes portent du chitenge, un tissu aux couleurs vives et joyeuses !",
-  "history": "Il y a très longtemps, le puissant royaume Lozi régnait sur les plaines inondées du Barotse, et les chefs Bemba commandaient au nord. Ces peuples connaissaient chaque rivière et chaque forêt de leur pays bien avant les explorateurs.",
+  "geo": [
+    "La Zambie est posée sur un haut plateau — même près de l'équateur, il fait bon vivre ! Le grand fleuve Zambèze traverse le pays et plonge en cascade dans un vacarme de tonnerre."
+  ],
+  "animals": [
+    "Dans les marais de Bangweulu vit le bec-en-sabot, un oiseau gris immense au bec en forme de sabot. Il reste immobile pendant des heures comme une statue, puis — clac — attrape un poisson !"
+  ],
+  "culture": [
+    "Tous les jours, les Zambiens mangent du nshima, une bouillie de maïs qu'on roule en boule avec les doigts et qu'on trempe dans du poisson ou des légumes. Les femmes portent du chitenge, un tissu aux couleurs vives et joyeuses !"
+  ],
+  "history": [
+    "Il y a très longtemps, le puissant royaume Lozi régnait sur les plaines inondées du Barotse, et les chefs Bemba commandaient au nord. Ces peuples connaissaient chaque rivière et chaque forêt de leur pays bien avant les explorateurs."
+  ],
   "wows": [
     "Victoria Falls est large de 1 708 m — la plus grande cascade du monde !",
     "La frontière entre la Zambie et le Zimbabwe passe exactement au milieu des chutes.",

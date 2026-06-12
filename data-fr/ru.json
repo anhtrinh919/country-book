@@ -72,10 +72,18 @@
     "history": "Tsars, couronnements et premières dans l'espace",
     "wows": "Pourquoi la Russie étonne tout le monde"
   },
-  "geo": "La Russie s'étend sur 11 fuseaux horaires et couvre un huitième de toute la terre du monde ! À l'est, la Kamtchatka a plus de 160 volcans, dont 29 crachent encore de la fumée.",
-  "animals": "Le tigre de l'Amour est le plus grand félin sauvage du monde — il vit dans les forêts de l'extrême est de la Russie. Dans le lac Baïkal vit la nerpa, le seul phoque d'eau douce de la planète !",
-  "culture": "En Russie, on adore les blinis, de fines crêpes que l'on mange avec de la confiture ou de la crème. On boit le thé dans un grand samovar brillant, et tout le monde se retrouve autour de la table !",
-  "history": "Il y a très longtemps, la Russie était gouvernée par des tsars qui vivaient dans des palais couverts d'or. En 1961, un Russe appelé Youri Gagarine fut le premier être humain à voyager dans l'espace !",
+  "geo": [
+    "La Russie s'étend sur 11 fuseaux horaires et couvre un huitième de toute la terre du monde ! À l'est, la Kamtchatka a plus de 160 volcans, dont 29 crachent encore de la fumée."
+  ],
+  "animals": [
+    "Le tigre de l'Amour est le plus grand félin sauvage du monde — il vit dans les forêts de l'extrême est de la Russie. Dans le lac Baïkal vit la nerpa, le seul phoque d'eau douce de la planète !"
+  ],
+  "culture": [
+    "En Russie, on adore les blinis, de fines crêpes que l'on mange avec de la confiture ou de la crème. On boit le thé dans un grand samovar brillant, et tout le monde se retrouve autour de la table !"
+  ],
+  "history": [
+    "Il y a très longtemps, la Russie était gouvernée par des tsars qui vivaient dans des palais couverts d'or. En 1961, un Russe appelé Youri Gagarine fut le premier être humain à voyager dans l'espace !"
+  ],
   "wows": [
     "La Russie a 11 fuseaux horaires — plus que n'importe quel autre pays !",
     "Le lac Baïkal contient à lui seul 20 % de toute l'eau douce non gelée du monde.",

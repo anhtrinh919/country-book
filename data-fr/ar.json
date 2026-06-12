@@ -72,10 +72,18 @@
     "history": "Légendes et découvertes lointaines",
     "wows": "Wahou — tu savais ça ?"
   },
-  "geo": "L'Argentine est si grande qu'elle va de la jungle chaude au nord jusqu'aux glaces de la Patagonie au sud ! Les chutes d'Iguazú, c'est 275 cascades toutes ensemble — la plus grande douche du monde !",
-  "animals": "Le capybara est le plus gros rongeur du monde, aussi lourd qu'un grand chien, et il adore se baigner dans les marécages argentins. En Patagonie, plus d'un million de pingouins de Magellan se rassemblent chaque printemps — c'est la plus grande colonie de pingouins du monde !",
-  "culture": "Le tango est une danse née à Buenos Aires où les gens bougent très près l'un de l'autre sur une belle musique. Les Argentins adorent aussi faire des grands barbecues en famille qu'on appelle l'asado — ça cuit des heures et tout le monde se régale !",
-  "history": "Il y a très longtemps, des gens courageux ont marché jusqu'au bout de la Patagonie, il y a 13 000 ans ! Les Incas, qui construisaient des cités magnifiques, sont arrivés dans le nord de l'Argentine il y a plus de 600 ans.",
+  "geo": [
+    "L'Argentine est si grande qu'elle va de la jungle chaude au nord jusqu'aux glaces de la Patagonie au sud ! Les chutes d'Iguazú, c'est 275 cascades toutes ensemble — la plus grande douche du monde !"
+  ],
+  "animals": [
+    "Le capybara est le plus gros rongeur du monde, aussi lourd qu'un grand chien, et il adore se baigner dans les marécages argentins. En Patagonie, plus d'un million de pingouins de Magellan se rassemblent chaque printemps — c'est la plus grande colonie de pingouins du monde !"
+  ],
+  "culture": [
+    "Le tango est une danse née à Buenos Aires où les gens bougent très près l'un de l'autre sur une belle musique. Les Argentins adorent aussi faire des grands barbecues en famille qu'on appelle l'asado — ça cuit des heures et tout le monde se régale !"
+  ],
+  "history": [
+    "Il y a très longtemps, des gens courageux ont marché jusqu'au bout de la Patagonie, il y a 13 000 ans ! Les Incas, qui construisaient des cités magnifiques, sont arrivés dans le nord de l'Argentine il y a plus de 600 ans."
+  ],
   "wows": [
     "Le premier dessin animé du monde a été fabriqué en Argentine en 1917 !",
     "L'Aconcagua est la plus haute montagne de tout l'hémisphère occidental — 6 959 mètres !",

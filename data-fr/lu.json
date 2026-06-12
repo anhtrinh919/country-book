@@ -72,10 +72,18 @@
     "history": "La forteresse des histoires anciennes",
     "wows": "Petit pays, GRANDES surprises !"
   },
-  "geo": "Le nord du Luxembourg est couvert de forêts et de collines des Ardennes, avec des rochers en forme de labyrinthe et des ruisseaux tout clairs. Au sud, les terres sont plus douces et ensoleillées — les habitants l'appellent « la Bonne Terre » !",
-  "animals": "Dans les grandes forêts des Ardennes vivent des sangliers, des cerfs roux et même des loutres timides. Les castors sont revenus dans les rivières après avoir disparu pendant deux cents ans entiers !",
-  "culture": "Les enfants du Luxembourg apprennent trois langues avant leurs dix ans — luxembourgeois, français et allemand, c'est impressionnant ! Chaque automne depuis l'an 1340, une grande fête foraine appelée Schueberfouer réunit tout le monde.",
-  "history": "Il y a très longtemps, Luxembourg-Ville avait une énorme forteresse perchée sur des falaises, si puissante qu'on l'appelait le « Gibraltar du Nord ». On l'a démolie pierre par pierre après 1867 pour que le pays reste en paix pour toujours !",
+  "geo": [
+    "Le nord du Luxembourg est couvert de forêts et de collines des Ardennes, avec des rochers en forme de labyrinthe et des ruisseaux tout clairs. Au sud, les terres sont plus douces et ensoleillées — les habitants l'appellent « la Bonne Terre » !"
+  ],
+  "animals": [
+    "Dans les grandes forêts des Ardennes vivent des sangliers, des cerfs roux et même des loutres timides. Les castors sont revenus dans les rivières après avoir disparu pendant deux cents ans entiers !"
+  ],
+  "culture": [
+    "Les enfants du Luxembourg apprennent trois langues avant leurs dix ans — luxembourgeois, français et allemand, c'est impressionnant ! Chaque automne depuis l'an 1340, une grande fête foraine appelée Schueberfouer réunit tout le monde."
+  ],
+  "history": [
+    "Il y a très longtemps, Luxembourg-Ville avait une énorme forteresse perchée sur des falaises, si puissante qu'on l'appelait le « Gibraltar du Nord ». On l'a démolie pierre par pierre après 1867 pour que le pays reste en paix pour toujours !"
+  ],
   "wows": [
     "Le Luxembourg est le pays le plus riche d'Europe — ses habitants ont le plus d'argent en moyenne !",
     "Tous les bus, trains et trams sont gratuits pour tout le monde depuis 2020.",

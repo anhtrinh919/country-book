@@ -72,10 +72,18 @@
     "history": "La légende de notre terre éternelle",
     "wows": "Vanuatu, c'est incroyable !"
   },
-  "geo": "Le Vanuatu est posé sur la Ceinture de feu du Pacifique, là où la Terre crache des volcans au milieu de la mer. La plus grande île s'appelle Espiritu Santo, et sa plus haute montagne mesure 1 877 mètres — plus haut que les nuages !",
-  "animals": "Le crabe des cocotiers est le plus grand crabe terrestre du monde : il peut casser une noix de coco avec ses pinces comme si c'était du papier ! La chauve-souris renard volante survole les forêts le soir pour répandre les graines et faire pousser les arbres.",
-  "culture": "Dans chaque village du Vanuatu, on partage le kava — une boisson faite avec des racines — autour d'un grand feu au coucher du soleil. Les enfants apprennent à tisser des paniers et à sculpter le bois en regardant leurs grands-parents, et chaque famille a ses propres chansons secrètes.",
-  "history": "Il y a 3 000 ans, des navigateurs courageux ont vogué sur l'océan et découvert ces îles magiques. Quand le Vanuatu est devenu libre le 30 juillet 1980, il a choisi un nom qui veut dire « notre terre est debout pour toujours ».",
+  "geo": [
+    "Le Vanuatu est posé sur la Ceinture de feu du Pacifique, là où la Terre crache des volcans au milieu de la mer. La plus grande île s'appelle Espiritu Santo, et sa plus haute montagne mesure 1 877 mètres — plus haut que les nuages !"
+  ],
+  "animals": [
+    "Le crabe des cocotiers est le plus grand crabe terrestre du monde : il peut casser une noix de coco avec ses pinces comme si c'était du papier ! La chauve-souris renard volante survole les forêts le soir pour répandre les graines et faire pousser les arbres."
+  ],
+  "culture": [
+    "Dans chaque village du Vanuatu, on partage le kava — une boisson faite avec des racines — autour d'un grand feu au coucher du soleil. Les enfants apprennent à tisser des paniers et à sculpter le bois en regardant leurs grands-parents, et chaque famille a ses propres chansons secrètes."
+  ],
+  "history": [
+    "Il y a 3 000 ans, des navigateurs courageux ont vogué sur l'océan et découvert ces îles magiques. Quand le Vanuatu est devenu libre le 30 juillet 1980, il a choisi un nom qui veut dire « notre terre est debout pour toujours »."
+  ],
   "wows": [
     "Le Vanuatu a 138 langues différentes pour seulement 335 000 personnes — c'est plus que partout ailleurs sur Terre !",
     "Le volcan Yasur sur l'île de Tanna crache du feu depuis des centaines d'années sans jamais s'arrêter.",

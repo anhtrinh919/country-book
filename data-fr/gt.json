@@ -72,10 +72,18 @@
     "history": "Des pyramides cachées dans la jungle",
     "wows": "Tu savais ça ?"
   },
-  "geo": "Le Guatemala a 37 volcans, et trois d'entre eux fument encore aujourd'hui ! Le lac Atitlán se cache dans un ancien cratère de volcan, entouré de trois autres volcans tout autour.",
-  "animals": "Le quetzal resplendissant est l'oiseau du Guatemala — ses plumes de queue vert brillant mesurent jusqu'à 65 cm, aussi longues que ton bras ! Les jaguars habitent encore dans la grande forêt du nord, là où vivent aussi les singes hurleurs.",
-  "culture": "Les femmes mayas tissent des habits très colorés appelés huipiles, et chaque village a son propre dessin unique. Deux fois par semaine, le marché de Chichicastenango se remplit de fleurs, de tissus et d'une belle musique jouée sur un xylophone géant en bois appelé marimba !",
-  "history": "Il y a très longtemps, la ville de Tikal avait 60 000 habitants et un temple si grand qu'il dépasse les arbres de la jungle ! Ce temple géant est même apparu dans le premier film Star Wars.",
+  "geo": [
+    "Le Guatemala a 37 volcans, et trois d'entre eux fument encore aujourd'hui ! Le lac Atitlán se cache dans un ancien cratère de volcan, entouré de trois autres volcans tout autour."
+  ],
+  "animals": [
+    "Le quetzal resplendissant est l'oiseau du Guatemala — ses plumes de queue vert brillant mesurent jusqu'à 65 cm, aussi longues que ton bras ! Les jaguars habitent encore dans la grande forêt du nord, là où vivent aussi les singes hurleurs."
+  ],
+  "culture": [
+    "Les femmes mayas tissent des habits très colorés appelés huipiles, et chaque village a son propre dessin unique. Deux fois par semaine, le marché de Chichicastenango se remplit de fleurs, de tissus et d'une belle musique jouée sur un xylophone géant en bois appelé marimba !"
+  ],
+  "history": [
+    "Il y a très longtemps, la ville de Tikal avait 60 000 habitants et un temple si grand qu'il dépasse les arbres de la jungle ! Ce temple géant est même apparu dans le premier film Star Wars."
+  ],
   "wows": [
     "Le Guatemala a 37 volcans — il y en a plus ici que presque partout ailleurs sur Terre !",
     "Les anciens Mayas ont inventé l'une des premières boissons au chocolat du monde, avec du cacao et du piment.",

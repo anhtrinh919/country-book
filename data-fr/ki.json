@@ -72,10 +72,18 @@
     "history": "Une île ancienne et ses légendes",
     "wows": "C'est vrai, vraiment ?!"
   },
-  "geo": "Kiribati est formé de 33 îles de corail dispersées dans le Pacifique, mais toute leur surface réunie est plus petite que Hong Kong ! Presque partout, la terre n'est qu'à 2 mètres au-dessus des vagues.",
-  "animals": "La magnifique frégate règne dans le ciel de Kiribati et trône même sur le drapeau du pays. Le mâle gonfle une poche rouge brillante sous son bec pour séduire sa compagne, et il vole si bien qu'il vole les poissons dans le bec des autres oiseaux !",
-  "culture": "Chaque village de Kiribati possède un maneaba, une grande maison ouverte avec un toit fait de feuilles de pandanus, où tout le monde se retrouve pour danser et festoyer. La danse te mwaie est magique : chaque mouvement des doigts raconte une histoire, comme un livre vivant !",
-  "history": "Il y a plus de 2 000 ans, des navigateurs courageux ont traversé l'océan et découvert ces îles pour y construire leur maison. La grande île de Banaba cache un secret : son sol était rempli d'un trésor rare appelé phosphate, que les gens venaient chercher de très loin.",
+  "geo": [
+    "Kiribati est formé de 33 îles de corail dispersées dans le Pacifique, mais toute leur surface réunie est plus petite que Hong Kong ! Presque partout, la terre n'est qu'à 2 mètres au-dessus des vagues."
+  ],
+  "animals": [
+    "La magnifique frégate règne dans le ciel de Kiribati et trône même sur le drapeau du pays. Le mâle gonfle une poche rouge brillante sous son bec pour séduire sa compagne, et il vole si bien qu'il vole les poissons dans le bec des autres oiseaux !"
+  ],
+  "culture": [
+    "Chaque village de Kiribati possède un maneaba, une grande maison ouverte avec un toit fait de feuilles de pandanus, où tout le monde se retrouve pour danser et festoyer. La danse te mwaie est magique : chaque mouvement des doigts raconte une histoire, comme un livre vivant !"
+  ],
+  "history": [
+    "Il y a plus de 2 000 ans, des navigateurs courageux ont traversé l'océan et découvert ces îles pour y construire leur maison. La grande île de Banaba cache un secret : son sol était rempli d'un trésor rare appelé phosphate, que les gens venaient chercher de très loin."
+  ],
   "wows": [
     "Kiribati est le seul pays du monde qui se trouve à la fois au nord, au sud, à l'est et à l'ouest — dans les quatre coins de la Terre en même temps !",
     "Les îles Line sont si loin vers l'est que Kiritimati est la première à fêter chaque Nouvel An sur toute la planète.",

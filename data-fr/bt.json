@@ -72,10 +72,18 @@
     "history": "Rois-moines et forteresses magiques",
     "wows": "7 surprises sur le Bhoutan"
   },
-  "geo": "Le Bhoutan est presque entièrement recouvert de montagnes — les sommets glacés de l'Himalaya touchent les nuages au nord, tandis que de chaudes forêts tropicales poussent dans les vallées du sud. Plus de 72 % du pays est couvert d'arbres, ce qui en fait l'un des endroits les plus verts de toute la Terre !",
-  "animals": "L'animal national du Bhoutan est le takine, une bête poilue qui ressemble à une vache avec une tête de chèvre — la légende dit qu'un saint l'a créé en assemblant les os des deux animaux ! Des pandas roux dorment dans les forêts de bambous, et chaque hiver, des grues à cou noir sacrées viennent passer la saison dans la vallée de Phobjikha.",
-  "culture": "Au Bhoutan, les gens mesurent le bonheur avec une règle spéciale appelée « Bonheur National Brut » — c'est écrit dans leur constitution ! Le sport préféré est le tir à l'arc, et les compétitions ressemblent à des fêtes joyeuses avec de la musique et des danses.",
-  "history": "Il y a très longtemps, un moine-guerrier du nom de Zhabdrung a construit de grandes forteresses appelées dzongs pour protéger chaque vallée du pays. Ces forteresses servaient à la fois de château et de monastère, et elles existent encore aujourd'hui. Le Bhoutan n'a jamais été conquis par personne !",
+  "geo": [
+    "Le Bhoutan est presque entièrement recouvert de montagnes — les sommets glacés de l'Himalaya touchent les nuages au nord, tandis que de chaudes forêts tropicales poussent dans les vallées du sud. Plus de 72 % du pays est couvert d'arbres, ce qui en fait l'un des endroits les plus verts de toute la Terre !"
+  ],
+  "animals": [
+    "L'animal national du Bhoutan est le takine, une bête poilue qui ressemble à une vache avec une tête de chèvre — la légende dit qu'un saint l'a créé en assemblant les os des deux animaux ! Des pandas roux dorment dans les forêts de bambous, et chaque hiver, des grues à cou noir sacrées viennent passer la saison dans la vallée de Phobjikha."
+  ],
+  "culture": [
+    "Au Bhoutan, les gens mesurent le bonheur avec une règle spéciale appelée « Bonheur National Brut » — c'est écrit dans leur constitution ! Le sport préféré est le tir à l'arc, et les compétitions ressemblent à des fêtes joyeuses avec de la musique et des danses."
+  ],
+  "history": [
+    "Il y a très longtemps, un moine-guerrier du nom de Zhabdrung a construit de grandes forteresses appelées dzongs pour protéger chaque vallée du pays. Ces forteresses servaient à la fois de château et de monastère, et elles existent encore aujourd'hui. Le Bhoutan n'a jamais été conquis par personne !"
+  ],
   "wows": [
     "Le Bhoutan absorbe plus de CO₂ qu'il n'en produit — ses forêts géantes nettoient l'air de toute la planète !",
     "Le plus haut sommet jamais gravi de la Terre se trouve au Bhoutan — personne n'a le droit d'y monter pour respecter les esprits de la montagne.",

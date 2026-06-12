@@ -61,10 +61,18 @@
     "history": "Samouraïs, ninjas et empereurs",
     "wows": "Sept surprises épatantes"
   },
-  "geo": "Le Japon n'est pas une seule île, mais des milliers — dont quatre très grandes où vivent presque tous les Japonais ! Le plus célèbre est le mont Fuji, un volcan en forme de cône parfait qui culmine à 3 776 mètres.",
-  "animals": "Dans les montagnes de Nagano, des singes des neiges plongent dans des sources d'eau chaude pour se réchauffer — ce sont les seuls singes sauvages au monde à faire des bains chauds ! Dans le parc de Nara, des cerfs apprivoisés inclinent la tête pour demander des gâteaux.",
-  "culture": "Au printemps, les familles pique-niquent sous des nuages de fleurs de cerisier roses appelées sakura — c'est une fête qui s'appelle hanami. Le Japon a aussi inventé les sushis, les mangas et les origamis !",
-  "history": "Il y a très longtemps, le Japon était gardé par les samouraïs, des guerriers avec de grandes épées et un code d'honneur très strict. Dans l'ombre travaillaient les ninjas, de vrais espions qui se déguisaient en paysans pour passer inaperçus.",
+  "geo": [
+    "Le Japon n'est pas une seule île, mais des milliers — dont quatre très grandes où vivent presque tous les Japonais ! Le plus célèbre est le mont Fuji, un volcan en forme de cône parfait qui culmine à 3 776 mètres."
+  ],
+  "animals": [
+    "Dans les montagnes de Nagano, des singes des neiges plongent dans des sources d'eau chaude pour se réchauffer — ce sont les seuls singes sauvages au monde à faire des bains chauds ! Dans le parc de Nara, des cerfs apprivoisés inclinent la tête pour demander des gâteaux."
+  ],
+  "culture": [
+    "Au printemps, les familles pique-niquent sous des nuages de fleurs de cerisier roses appelées sakura — c'est une fête qui s'appelle hanami. Le Japon a aussi inventé les sushis, les mangas et les origamis !"
+  ],
+  "history": [
+    "Il y a très longtemps, le Japon était gardé par les samouraïs, des guerriers avec de grandes épées et un code d'honneur très strict. Dans l'ombre travaillaient les ninjas, de vrais espions qui se déguisaient en paysans pour passer inaperçus."
+  ],
   "wows": [
     "Des singes prennent des bains chauds dans la neige — les seuls singes sauvages au monde à le faire !",
     "Le train Hayabusa roule à 320 km/h et arrive à l'heure à la seconde près.",

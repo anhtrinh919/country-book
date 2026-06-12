@@ -72,10 +72,18 @@
     "history": "Un pays plein de légendes",
     "wows": "La Gambie qui surprend !"
   },
-  "geo": "La Gambie ressemble à un long doigt fin qui pointe vers l'est en Afrique de l'Ouest, avec un grand fleuve qui coule tout au milieu. Les plages de l'océan Atlantique s'étirent sur des kilomètres à l'ouest, et tout le pays est aussi plat qu'une crêpe !",
-  "animals": "La Gambie est un paradis pour les oiseaux avec plus de 560 espèces, dont de magnifiques martins-pêcheurs aux couleurs de l'arc-en-ciel. Dans la piscine sacrée de Kachikally, les visiteurs peuvent toucher de vrais crocodiles du Nil — et c'est considéré comme une chance !",
-  "culture": "Le plat principal s'appelle le benachin — du riz cuit avec de la tomate et du poisson, mangé dans un grand bol partagé par toute la famille. Les griots, des musiciens conteurs, voyagent de village en village pour chanter les histoires du passé sans jamais les écrire !",
-  "history": "Il y a très longtemps, la Gambie faisait partie du puissant empire du Mali, qui contrôlait des routes d'or et de sel. Les arachides poussent partout dans ce pays, et les gens les cuisinent dans des sauces et des ragoûts délicieux depuis des siècles !",
+  "geo": [
+    "La Gambie ressemble à un long doigt fin qui pointe vers l'est en Afrique de l'Ouest, avec un grand fleuve qui coule tout au milieu. Les plages de l'océan Atlantique s'étirent sur des kilomètres à l'ouest, et tout le pays est aussi plat qu'une crêpe !"
+  ],
+  "animals": [
+    "La Gambie est un paradis pour les oiseaux avec plus de 560 espèces, dont de magnifiques martins-pêcheurs aux couleurs de l'arc-en-ciel. Dans la piscine sacrée de Kachikally, les visiteurs peuvent toucher de vrais crocodiles du Nil — et c'est considéré comme une chance !"
+  ],
+  "culture": [
+    "Le plat principal s'appelle le benachin — du riz cuit avec de la tomate et du poisson, mangé dans un grand bol partagé par toute la famille. Les griots, des musiciens conteurs, voyagent de village en village pour chanter les histoires du passé sans jamais les écrire !"
+  ],
+  "history": [
+    "Il y a très longtemps, la Gambie faisait partie du puissant empire du Mali, qui contrôlait des routes d'or et de sel. Les arachides poussent partout dans ce pays, et les gens les cuisinent dans des sauces et des ragoûts délicieux depuis des siècles !"
+  ],
   "wows": [
     "La Gambie est tellement étroite qu'on peut en voir presque les deux bords depuis le milieu !",
     "La piscine sacrée de Kachikally abrite plus de 80 crocodiles sauvages que les gens peuvent toucher sans danger.",

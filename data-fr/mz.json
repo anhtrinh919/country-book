@@ -72,10 +72,18 @@
     "history": "Des marchands venus de très loin",
     "wows": "Le Mozambique qui étonne !"
   },
-  "geo": "Le Mozambique possède l'une des plus longues côtes d'Afrique, avec 2 470 km de plages bordées de récifs coralliens et d'îles magnifiques. À l'intérieur, le grand fleuve Zambèze traverse le pays et se répand en immenses deltas avant d'atteindre la mer.",
-  "animals": "L'archipel de Bazaruto abrite les derniers dugongs d'Afrique de l'Est — ce sont des animaux doux comme des vaches de mer qui mangent des herbes au fond de l'eau ! Des requins baleines géants et des raies manta géantes viennent se promener dans ces mêmes eaux.",
-  "culture": "Au Mozambique, on mange des crevettes grillées avec une sauce très piquante appelée piri-piri — miam, mais attention ça brûle ! La musique marrabenta, jouée sur des guitares fabriquées avec des boîtes de conserve, donne envie de danser tout de suite.",
-  "history": "Il y a plus de mille ans, des marchands arabes ont navigué jusqu'aux côtes du Mozambique et ont bâti de belles cités au bord de la mer. Ensuite, des explorateurs portugais sont arrivés sur leurs grands bateaux il y a 500 ans pour faire le commerce des épices.",
+  "geo": [
+    "Le Mozambique possède l'une des plus longues côtes d'Afrique, avec 2 470 km de plages bordées de récifs coralliens et d'îles magnifiques. À l'intérieur, le grand fleuve Zambèze traverse le pays et se répand en immenses deltas avant d'atteindre la mer."
+  ],
+  "animals": [
+    "L'archipel de Bazaruto abrite les derniers dugongs d'Afrique de l'Est — ce sont des animaux doux comme des vaches de mer qui mangent des herbes au fond de l'eau ! Des requins baleines géants et des raies manta géantes viennent se promener dans ces mêmes eaux."
+  ],
+  "culture": [
+    "Au Mozambique, on mange des crevettes grillées avec une sauce très piquante appelée piri-piri — miam, mais attention ça brûle ! La musique marrabenta, jouée sur des guitares fabriquées avec des boîtes de conserve, donne envie de danser tout de suite."
+  ],
+  "history": [
+    "Il y a plus de mille ans, des marchands arabes ont navigué jusqu'aux côtes du Mozambique et ont bâti de belles cités au bord de la mer. Ensuite, des explorateurs portugais sont arrivés sur leurs grands bateaux il y a 500 ans pour faire le commerce des épices."
+  ],
   "wows": [
     "Le Mozambique est le seul pays dont le nom contient les cinq voyelles : A, E, I, O, U !",
     "Son drapeau est le seul au monde à montrer un fusil.",

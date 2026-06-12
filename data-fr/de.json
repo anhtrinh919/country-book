@@ -72,10 +72,18 @@
     "history": "Un pays de rois et de légendes",
     "wows": "L'Allemagne t'étonne !"
   },
-  "geo": "Au nord, il y a des côtes venteuses et plates ; au sud, les montagnes des Alpes bavaroises touchent les nuages à presque 3 000 mètres ! La grande forêt Noire est si sombre et mystérieuse qu'elle a inspiré les contes des frères Grimm, comme Blanche-Neige et le Petit Chaperon Rouge.",
-  "animals": "Le sanglier sauvage vit dans les forêts allemandes : c'est un gros cochon avec de grandes dents et des poils raides qui fouille les feuilles pour trouver des glands. Il y en a tellement qu'on en voit parfois la nuit dans les rues de Berlin, une ville de millions de personnes !",
-  "culture": "Les Allemands font plus de 1 300 sortes de pain différents — plus que n'importe quel autre pays au monde ! Chaque décembre, les places des villes se transforment en marchés de Noël brillants avec des lumières et du chocolat chaud, une tradition qui a commencé ici il y a 500 ans.",
-  "history": "Il y a très longtemps, l'Allemagne n'était pas un seul pays mais des dizaines de petits royaumes et châteaux forts, chacun avec son propre roi. Le château de Neuschwanstein, perché tout en haut d'une montagne comme dans un dessin animé, a même inspiré le château de Cendrillon chez Disney !",
+  "geo": [
+    "Au nord, il y a des côtes venteuses et plates ; au sud, les montagnes des Alpes bavaroises touchent les nuages à presque 3 000 mètres ! La grande forêt Noire est si sombre et mystérieuse qu'elle a inspiré les contes des frères Grimm, comme Blanche-Neige et le Petit Chaperon Rouge."
+  ],
+  "animals": [
+    "Le sanglier sauvage vit dans les forêts allemandes : c'est un gros cochon avec de grandes dents et des poils raides qui fouille les feuilles pour trouver des glands. Il y en a tellement qu'on en voit parfois la nuit dans les rues de Berlin, une ville de millions de personnes !"
+  ],
+  "culture": [
+    "Les Allemands font plus de 1 300 sortes de pain différents — plus que n'importe quel autre pays au monde ! Chaque décembre, les places des villes se transforment en marchés de Noël brillants avec des lumières et du chocolat chaud, une tradition qui a commencé ici il y a 500 ans."
+  ],
+  "history": [
+    "Il y a très longtemps, l'Allemagne n'était pas un seul pays mais des dizaines de petits royaumes et châteaux forts, chacun avec son propre roi. Le château de Neuschwanstein, perché tout en haut d'une montagne comme dans un dessin animé, a même inspiré le château de Cendrillon chez Disney !"
+  ],
   "wows": [
     "Hambourg a plus de ponts que Venise, Amsterdam et Londres réunis — plus de 2 300 ponts !",
     "L'ours en gélatine a été inventé en Allemagne par Hans Riegel à Bonn en 1922.",

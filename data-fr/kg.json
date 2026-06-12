@@ -72,10 +72,18 @@
     "history": "Nomades et routes de soie",
     "wows": "Sept surprises incroyables"
   },
-  "geo": "Neuf dixièmes du Kirghizistan sont des montagnes — on les appelle les Tian Shan, ce qui veut dire « Montagnes Célestes ». Entre elles se cachent de grands prés verts où les familles installent leurs yourtes rondes comme leurs ancêtres le faisaient il y a mille ans. Le trésor du pays s'appelle l'Issyk-Koul : c'est un lac de montagne si grand qu'on ne voit pas l'autre rive, et il ne gèle jamais même en hiver !",
-  "animals": "Le léopard des neiges grimpe tout en haut des montagnes du Kirghizistan — plus de 550 vivent ici, c'est l'un des meilleurs endroits du monde pour les protéger. Les chasseurs kirghizes dressent des aigles dorés depuis plus de 2 000 ans : l'aigle se perche sur le bras de son ami et part chasser ensemble !",
-  "culture": "La yourte kirghize est une tente ronde en feutre que toute la famille peut monter en moins d'une heure. Sur le drapeau du pays, tu peux voir le toit de la yourte vu d'en haut, dessiné dans un soleil doré ! Le peuple kirghiz adore aussi les jeux à cheval et les histoires de héros récitées de mémoire par des conteurs.",
-  "history": "Il y a très longtemps, un héros géant appelé Manas rassembla quarante tribus de cavaliers pour former le peuple kirghiz. Les caravanes de la Route de la Soie passaient par ces montagnes, chargées de soie brillante et d'épices parfumées. Le soleil du drapeau a exactement 40 rayons — un pour chaque tribu que Manas a réunie !",
+  "geo": [
+    "Neuf dixièmes du Kirghizistan sont des montagnes — on les appelle les Tian Shan, ce qui veut dire « Montagnes Célestes ». Entre elles se cachent de grands prés verts où les familles installent leurs yourtes rondes comme leurs ancêtres le faisaient il y a mille ans. Le trésor du pays s'appelle l'Issyk-Koul : c'est un lac de montagne si grand qu'on ne voit pas l'autre rive, et il ne gèle jamais même en hiver !"
+  ],
+  "animals": [
+    "Le léopard des neiges grimpe tout en haut des montagnes du Kirghizistan — plus de 550 vivent ici, c'est l'un des meilleurs endroits du monde pour les protéger. Les chasseurs kirghizes dressent des aigles dorés depuis plus de 2 000 ans : l'aigle se perche sur le bras de son ami et part chasser ensemble !"
+  ],
+  "culture": [
+    "La yourte kirghize est une tente ronde en feutre que toute la famille peut monter en moins d'une heure. Sur le drapeau du pays, tu peux voir le toit de la yourte vu d'en haut, dessiné dans un soleil doré ! Le peuple kirghiz adore aussi les jeux à cheval et les histoires de héros récitées de mémoire par des conteurs."
+  ],
+  "history": [
+    "Il y a très longtemps, un héros géant appelé Manas rassembla quarante tribus de cavaliers pour former le peuple kirghiz. Les caravanes de la Route de la Soie passaient par ces montagnes, chargées de soie brillante et d'épices parfumées. Le soleil du drapeau a exactement 40 rayons — un pour chaque tribu que Manas a réunie !"
+  ],
   "wows": [
     "Le lac Issyk-Koul ne gèle jamais, même quand il fait très très froid en hiver !",
     "Le poème épique Manas a plus de 500 000 lignes — le plus long poème du monde entier !",

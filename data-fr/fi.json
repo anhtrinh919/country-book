@@ -72,10 +72,18 @@
     "history": "La légende du pays du Kalevala",
     "wows": "Mais c'est pas vrai ?!"
   },
-  "geo": "La Finlande est couverte à 75 % de forêts de sapins et de pins, avec des milliers de petites îles rocheuses sur sa côte. En hiver, tout devient blanc et il fait très très froid — jusqu'à −30 °C dans le nord !",
-  "animals": "L'ours brun est l'animal national de la Finlande, et les forêts en cachent environ 2 000 — les Finlandais le considèrent comme un grand esprit de la forêt. En Laponie, 200 000 rennes se promènent en liberté dans la neige !",
-  "culture": "En Finlande, presque chaque famille a un sauna : une petite cabane très chaude où l'on transpire, puis on plonge dans un lac glacé — même les enfants le font ! C'est aussi le pays qui a inventé Angry Birds, le jeu où l'on lance des oiseaux.",
-  "history": "Il y a très longtemps, les Finlandais racontaient des histoires magiques dans un grand poème appelé le Kalevala, avec des héros, des sorciers et des créatures extraordinaires. Ces contes ont gardé la culture finlandaise vivante pendant des siècles !",
+  "geo": [
+    "La Finlande est couverte à 75 % de forêts de sapins et de pins, avec des milliers de petites îles rocheuses sur sa côte. En hiver, tout devient blanc et il fait très très froid — jusqu'à −30 °C dans le nord !"
+  ],
+  "animals": [
+    "L'ours brun est l'animal national de la Finlande, et les forêts en cachent environ 2 000 — les Finlandais le considèrent comme un grand esprit de la forêt. En Laponie, 200 000 rennes se promènent en liberté dans la neige !"
+  ],
+  "culture": [
+    "En Finlande, presque chaque famille a un sauna : une petite cabane très chaude où l'on transpire, puis on plonge dans un lac glacé — même les enfants le font ! C'est aussi le pays qui a inventé Angry Birds, le jeu où l'on lance des oiseaux."
+  ],
+  "history": [
+    "Il y a très longtemps, les Finlandais racontaient des histoires magiques dans un grand poème appelé le Kalevala, avec des héros, des sorciers et des créatures extraordinaires. Ces contes ont gardé la culture finlandaise vivante pendant des siècles !"
+  ],
   "wows": [
     "La Finlande est le pays le plus heureux du monde depuis 8 années de suite !",
     "Il y a 188 000 lacs en Finlande — soit presque un lac pour chaque 30 personnes.",

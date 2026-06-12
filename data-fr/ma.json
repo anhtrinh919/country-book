@@ -72,10 +72,18 @@
     "history": "Sultans et royaumes anciens",
     "wows": "Le Maroc te surprend !"
   },
-  "geo": "Au Maroc, de grandes montagnes s'appellent l'Atlas, et des villages accrochés aux falaises y cachent des forêts de cèdres. Au sud, d'immenses dunes de sable dorées montent jusqu'à 150 mètres de haut — comme un immeuble de 40 étages !",
-  "animals": "Le macaque de Barbarie est le seul singe sauvage du Maroc : il grimpe dans les cèdres et fait des cabrioles ! Le fennec, un tout petit renard du désert, a des oreilles si grandes qu'elles ressemblent à des antennes de télévision.",
-  "culture": "Au Maroc, on boit du thé à la menthe versé de très haut pour faire de la mousse — c'est la coutume ! Le tagine est un plat délicieux : de la viande mijotée avec des abricots et des épices dans un pot en terre cuite en forme de chapeau pointu.",
-  "history": "À Fès, il y a une université qui existe depuis l'an 859 — c'est la plus vieille université du monde entier ! Les Amazighs, les premiers habitants du Maroc, vivent ici depuis 5 000 ans.",
+  "geo": [
+    "Au Maroc, de grandes montagnes s'appellent l'Atlas, et des villages accrochés aux falaises y cachent des forêts de cèdres. Au sud, d'immenses dunes de sable dorées montent jusqu'à 150 mètres de haut — comme un immeuble de 40 étages !"
+  ],
+  "animals": [
+    "Le macaque de Barbarie est le seul singe sauvage du Maroc : il grimpe dans les cèdres et fait des cabrioles ! Le fennec, un tout petit renard du désert, a des oreilles si grandes qu'elles ressemblent à des antennes de télévision."
+  ],
+  "culture": [
+    "Au Maroc, on boit du thé à la menthe versé de très haut pour faire de la mousse — c'est la coutume ! Le tagine est un plat délicieux : de la viande mijotée avec des abricots et des épices dans un pot en terre cuite en forme de chapeau pointu."
+  ],
+  "history": [
+    "À Fès, il y a une université qui existe depuis l'an 859 — c'est la plus vieille université du monde entier ! Les Amazighs, les premiers habitants du Maroc, vivent ici depuis 5 000 ans."
+  ],
   "wows": [
     "L'université d'Al-Qarawiyyin à Fès est la plus vieille du monde : elle a plus de 1 100 ans !",
     "Les dunes de l'Erg Chebbi sont aussi hautes qu'un immeuble de 40 étages.",

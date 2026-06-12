@@ -72,10 +72,18 @@
     "history": "L'île aux trésors cachés",
     "wows": "Des trucs qui font wow !"
   },
-  "geo": "Trinidad était autrefois collée à l'Amérique du Sud — la mer entre les deux est tellement peu profonde ! Au nord, de grandes montagnes attrappent les nuages et font pousser une forêt tropicale magnifique. Tobago, l'île voisine à 30 km, est pleine de coraux colorés et de plages de sable blanc.",
-  "animals": "L'ibis rouge est l'oiseau national de Trinidad — il est tellement rouge qu'on dirait une flamme vivante qui vole ! Cette belle couleur vient des crevettes qu'il mange tous les jours. L'autre île, Tobago, a un oiseau rigolo appelé le cocrico qui crie très fort comme un coq tous les matins.",
-  "culture": "Le carnaval de Trinidad est la plus grande fête du monde des Caraïbes — tout le monde met des costumes géants et danse dans la rue ! Et les instruments de musique appelés steelpan ont été inventés ici : ce sont de vieux fûts de pétrole martelés pour faire de la belle musique.",
-  "history": "Il y a très longtemps, l'île s'est détachée de l'Amérique du Sud comme un grand morceau de puzzle ! Christophe Colomb l'a découverte en 1498 et l'a nommée d'après trois sommets qu'il voyait depuis son bateau.",
+  "geo": [
+    "Trinidad était autrefois collée à l'Amérique du Sud — la mer entre les deux est tellement peu profonde ! Au nord, de grandes montagnes attrappent les nuages et font pousser une forêt tropicale magnifique. Tobago, l'île voisine à 30 km, est pleine de coraux colorés et de plages de sable blanc."
+  ],
+  "animals": [
+    "L'ibis rouge est l'oiseau national de Trinidad — il est tellement rouge qu'on dirait une flamme vivante qui vole ! Cette belle couleur vient des crevettes qu'il mange tous les jours. L'autre île, Tobago, a un oiseau rigolo appelé le cocrico qui crie très fort comme un coq tous les matins."
+  ],
+  "culture": [
+    "Le carnaval de Trinidad est la plus grande fête du monde des Caraïbes — tout le monde met des costumes géants et danse dans la rue ! Et les instruments de musique appelés steelpan ont été inventés ici : ce sont de vieux fûts de pétrole martelés pour faire de la belle musique."
+  ],
+  "history": [
+    "Il y a très longtemps, l'île s'est détachée de l'Amérique du Sud comme un grand morceau de puzzle ! Christophe Colomb l'a découverte en 1498 et l'a nommée d'après trois sommets qu'il voyait depuis son bateau."
+  ],
   "wows": [
     "Il y a un lac de goudron naturel à La Brea — c'est comme une grande flaque noire qui bouillonne toute seule !",
     "Le steelpan est le seul instrument de musique inventé au 20e siècle — les Nations Unies ont créé une journée mondiale pour le fêter.",

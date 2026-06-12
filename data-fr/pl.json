@@ -71,10 +71,18 @@
     "history": "Un pays perdu puis retrouvé",
     "wows": "Des choses qui vont t'épater !"
   },
-  "geo": "La Pologne est presque entièrement plate, comme une immense table verte parcourue de grandes rivières qui coulent jusqu'à la mer Baltique. Tout au sud, les monts Tatra se dressent très haut, avec des rochers pointus où grimpent les chamois !",
-  "animals": "Le bison d'Europe est l'animal le plus lourd de tout le continent — il vit dans l'immense forêt de Białowieża, une forêt si vieille qu'elle ressemble à une forêt de conte de fées. La Pologne accueille aussi un quart de toutes les cigognes blanches du monde, et les gens sont super contents quand une cigogne fait son nid sur leur cheminée !",
-  "culture": "En Pologne, on adore manger des pierogis — de petits chaussons de pâte bien gonflés, remplis de pommes de terre, de fromage ou même de fruits rouges. À Noël, les familles mettent toujours une assiette vide sur la table pour accueillir un inconnu qui n'aurait nulle part où aller !",
-  "history": "Il y a plus de mille ans, un roi courageux a fondé le royaume de Pologne sur une grande plaine au cœur de l'Europe. Selon la légende, la ville de Cracovie a été bâtie près d'une grotte où vivait un terrible dragon que les habitants ont vaincu avec ruse !",
+  "geo": [
+    "La Pologne est presque entièrement plate, comme une immense table verte parcourue de grandes rivières qui coulent jusqu'à la mer Baltique. Tout au sud, les monts Tatra se dressent très haut, avec des rochers pointus où grimpent les chamois !"
+  ],
+  "animals": [
+    "Le bison d'Europe est l'animal le plus lourd de tout le continent — il vit dans l'immense forêt de Białowieża, une forêt si vieille qu'elle ressemble à une forêt de conte de fées. La Pologne accueille aussi un quart de toutes les cigognes blanches du monde, et les gens sont super contents quand une cigogne fait son nid sur leur cheminée !"
+  ],
+  "culture": [
+    "En Pologne, on adore manger des pierogis — de petits chaussons de pâte bien gonflés, remplis de pommes de terre, de fromage ou même de fruits rouges. À Noël, les familles mettent toujours une assiette vide sur la table pour accueillir un inconnu qui n'aurait nulle part où aller !"
+  ],
+  "history": [
+    "Il y a plus de mille ans, un roi courageux a fondé le royaume de Pologne sur une grande plaine au cœur de l'Europe. Selon la légende, la ville de Cracovie a été bâtie près d'une grotte où vivait un terrible dragon que les habitants ont vaincu avec ruse !"
+  ],
   "wows": [
     "L'aigle blanc est le symbole de la Pologne depuis plus de 1 000 ans !",
     "La mine de sel de Wieliczka a des chapelles entières sculptées dans le sel.",

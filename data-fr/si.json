@@ -72,10 +72,18 @@
     "history": "Les Romains, les rois et la liberté",
     "wows": "7 surprises incroyables sur la Slovénie"
   },
-  "geo": "La Slovénie est un tout petit pays avec quatre paysages différents ! Il y a des montagnes pointues, une grande grotte avec 24 km de couloirs souterrains, et une rivière appelée la Soča qui brille d'un bleu turquoise magique.",
-  "animals": "Les forêts de Slovénie abritent près de 1 000 ours bruns — c'est l'une des plus grandes familles d'ours d'Europe ! Dans les grottes vit l'Olm, une petite salamandre aveugle et pâle qui peut vivre plus de 100 ans sans manger.",
-  "culture": "En Slovénie, presque tout le monde élève des abeilles et les ruches sont décorées de jolis dessins colorés. Pour les fêtes, on mange la potica, un gâteau roulé aux noix qui sent tellement bon !",
-  "history": "Il y a 2 000 ans, les Romains ont construit des routes et une ville là où se trouve Ljubljana aujourd'hui. Des centaines d'années plus tard, la Slovénie est devenue un pays libre et indépendant le 25 juin 1991 !",
+  "geo": [
+    "La Slovénie est un tout petit pays avec quatre paysages différents ! Il y a des montagnes pointues, une grande grotte avec 24 km de couloirs souterrains, et une rivière appelée la Soča qui brille d'un bleu turquoise magique."
+  ],
+  "animals": [
+    "Les forêts de Slovénie abritent près de 1 000 ours bruns — c'est l'une des plus grandes familles d'ours d'Europe ! Dans les grottes vit l'Olm, une petite salamandre aveugle et pâle qui peut vivre plus de 100 ans sans manger."
+  ],
+  "culture": [
+    "En Slovénie, presque tout le monde élève des abeilles et les ruches sont décorées de jolis dessins colorés. Pour les fêtes, on mange la potica, un gâteau roulé aux noix qui sent tellement bon !"
+  ],
+  "history": [
+    "Il y a 2 000 ans, les Romains ont construit des routes et une ville là où se trouve Ljubljana aujourd'hui. Des centaines d'années plus tard, la Slovénie est devenue un pays libre et indépendant le 25 juin 1991 !"
+  ],
   "wows": [
     "Le mot « amour » se cache dans le nom du pays : Slo-LOVE-nia !",
     "Un vrai petit train électrique roule à l'intérieur de la grotte de Postojna depuis 1872.",

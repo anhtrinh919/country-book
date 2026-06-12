@@ -72,10 +72,18 @@
     "history": "La légende du vieux royaume",
     "wows": "7 choses qui surprennent !"
   },
-  "geo": "La Serbie n'a pas de mer du tout — c'est un pays entouré de terre partout ! Au nord, c'est une grande plaine plate avec des tournesols à perte de vue, et au sud les montagnes montent très haut. Le Danube traverse le pays sur 588 km, comme une route d'eau géante.",
-  "animals": "Dans les forêts de Serbie vit le lynx eurasien, un grand chat sauvage avec des oreilles pointues très difficile à apercevoir. Sur les plaines du nord habite l'outarde géante, l'oiseau volant le plus lourd du monde — il se gonfle comme un ballon de plumes au printemps !",
-  "culture": "En Serbie, les invités ne repartent jamais le ventre vide — c'est la règle ! Sur toutes les tables on trouve du burek, une pâte feuilletée croustillante, et de l'ajvar, une confiture de poivrons rouges que toute la famille prépare ensemble en automne.",
-  "history": "Il y a très longtemps, un grand empire serbe s'étendait sur presque toute l'Europe du Sud, dirigé par le tsar Dušan au XIVᵉ siècle. Belgrade a été détruite et reconstruite 44 fois — comme un château de sable géant que l'on recommence encore et encore !",
+  "geo": [
+    "La Serbie n'a pas de mer du tout — c'est un pays entouré de terre partout ! Au nord, c'est une grande plaine plate avec des tournesols à perte de vue, et au sud les montagnes montent très haut. Le Danube traverse le pays sur 588 km, comme une route d'eau géante."
+  ],
+  "animals": [
+    "Dans les forêts de Serbie vit le lynx eurasien, un grand chat sauvage avec des oreilles pointues très difficile à apercevoir. Sur les plaines du nord habite l'outarde géante, l'oiseau volant le plus lourd du monde — il se gonfle comme un ballon de plumes au printemps !"
+  ],
+  "culture": [
+    "En Serbie, les invités ne repartent jamais le ventre vide — c'est la règle ! Sur toutes les tables on trouve du burek, une pâte feuilletée croustillante, et de l'ajvar, une confiture de poivrons rouges que toute la famille prépare ensemble en automne."
+  ],
+  "history": [
+    "Il y a très longtemps, un grand empire serbe s'étendait sur presque toute l'Europe du Sud, dirigé par le tsar Dušan au XIVᵉ siècle. Belgrade a été détruite et reconstruite 44 fois — comme un château de sable géant que l'on recommence encore et encore !"
+  ],
   "wows": [
     "La Serbie est le plus grand exportateur mondial de framboises congelées !",
     "Nikola Tesla, l'inventeur de l'électricité que tu utilises chez toi, est né dans une famille serbe.",

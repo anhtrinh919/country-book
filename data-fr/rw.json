@@ -72,10 +72,18 @@
     "history": "Un royaume de rois et de vaches",
     "wows": "Mais c'est incroyable, le Rwanda !"
   },
-  "geo": "Le Rwanda est posé très haut dans les airs — même ses vallées sont à un kilomètre d'altitude ! Tout le pays est couvert de collines vertes qui se suivent comme des vagues, et au nord, de grands volcans endormis s'élèvent dans les nuages.",
-  "animals": "L'animal vedette du Rwanda, c'est le gorille des montagnes — un géant tout doux qui vit seulement dans les forêts de volcans. Il reste moins de 1 000 gorilles sauvages dans le monde, et le Rwanda en protège un tiers dans son parc !",
-  "culture": "Chaque dernier samedi du mois, tous les Rwandais sortent ensemble pour balayer les rues et planter des arbres — même le président prend un balai ! En août, il y a une grande fête des récoltes avec des danseurs qui sautent très haut avec de grands chapeaux blancs.",
-  "history": "Pendant des siècles, le Rwanda était un puissant royaume dirigé par un roi appelé le mwami, célèbre pour ses guerriers et ses nombreuses vaches. Les vaches étaient si précieuses qu'on les offrait comme cadeaux très importants !",
+  "geo": [
+    "Le Rwanda est posé très haut dans les airs — même ses vallées sont à un kilomètre d'altitude ! Tout le pays est couvert de collines vertes qui se suivent comme des vagues, et au nord, de grands volcans endormis s'élèvent dans les nuages."
+  ],
+  "animals": [
+    "L'animal vedette du Rwanda, c'est le gorille des montagnes — un géant tout doux qui vit seulement dans les forêts de volcans. Il reste moins de 1 000 gorilles sauvages dans le monde, et le Rwanda en protège un tiers dans son parc !"
+  ],
+  "culture": [
+    "Chaque dernier samedi du mois, tous les Rwandais sortent ensemble pour balayer les rues et planter des arbres — même le président prend un balai ! En août, il y a une grande fête des récoltes avec des danseurs qui sautent très haut avec de grands chapeaux blancs."
+  ],
+  "history": [
+    "Pendant des siècles, le Rwanda était un puissant royaume dirigé par un roi appelé le mwami, célèbre pour ses guerriers et ses nombreuses vaches. Les vaches étaient si précieuses qu'on les offrait comme cadeaux très importants !"
+  ],
   "wows": [
     "Au Rwanda, plus de 60 % des députés au parlement sont des femmes — c'est un record mondial !",
     "Kigali est la ville la plus propre d'Afrique — les sacs en plastique sont interdits depuis 2008 !",

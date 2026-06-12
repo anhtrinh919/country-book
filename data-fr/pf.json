@@ -72,10 +72,18 @@
     "history": "Navigateurs étoilés et découvertes",
     "wows": "Les secrets surprenants des îles"
   },
-  "geo": "La Polynésie française compte 121 îles, et certaines ont des volcans si hauts qu'on dirait des montagnes qui poussent dans la mer ! Les atolls du groupe Tuamotu sont des anneaux de corail plats entourant des lagons turquoise brillants comme des bijoux.",
-  "animals": "Les baleines à bosse arrivent chaque juillet pour mettre au monde leurs bébés tout près de l'île de Moorea — on peut les voir nager en mettant juste un masque ! Il y a aussi un tout petit loriquet d'un bleu électrique, comme un joyau volant entre les palmiers des îles lointaines.",
-  "culture": "Le mot « tatouage » vient du mot polynésien tatu — les habitants se font tatouer des dessins qui racontent l'histoire de leur famille ! Chaque juillet, le grand festival Heiva éclate à Tahiti, avec des danseurs qui bougent les hanches si vite qu'on ne voit plus que des couleurs.",
-  "history": "Il y a très longtemps, de courageux navigateurs polynésiens ont trouvé ces îles en regardant les étoiles depuis leurs pirogues, sans aucune carte ! Un capitaine anglais appelé Wallis a découvert Tahiti en 1767 et a cru qu'il était arrivé au paradis.",
+  "geo": [
+    "La Polynésie française compte 121 îles, et certaines ont des volcans si hauts qu'on dirait des montagnes qui poussent dans la mer ! Les atolls du groupe Tuamotu sont des anneaux de corail plats entourant des lagons turquoise brillants comme des bijoux."
+  ],
+  "animals": [
+    "Les baleines à bosse arrivent chaque juillet pour mettre au monde leurs bébés tout près de l'île de Moorea — on peut les voir nager en mettant juste un masque ! Il y a aussi un tout petit loriquet d'un bleu électrique, comme un joyau volant entre les palmiers des îles lointaines."
+  ],
+  "culture": [
+    "Le mot « tatouage » vient du mot polynésien tatu — les habitants se font tatouer des dessins qui racontent l'histoire de leur famille ! Chaque juillet, le grand festival Heiva éclate à Tahiti, avec des danseurs qui bougent les hanches si vite qu'on ne voit plus que des couleurs."
+  ],
+  "history": [
+    "Il y a très longtemps, de courageux navigateurs polynésiens ont trouvé ces îles en regardant les étoiles depuis leurs pirogues, sans aucune carte ! Un capitaine anglais appelé Wallis a découvert Tahiti en 1767 et a cru qu'il était arrivé au paradis."
+  ],
   "wows": [
     "Les 121 îles sont si loin les unes des autres que les visiter toutes, c'est comme aller de Paris jusqu'en Chine !",
     "Le mot « tatouage » que tout le monde connait vient de ces îles — les marins de Cook l'ont rapporté en Europe en 1769.",

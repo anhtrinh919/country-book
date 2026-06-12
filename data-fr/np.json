@@ -72,10 +72,18 @@
     "history": "Une légende de lac et de dieu",
     "wows": "Tu ne vas pas le croire !"
   },
-  "geo": "Le Népal a des montagnes tellement grandes qu'elles sont les plus hautes du monde entier ! Au sud, il y a une jungle chaude et plate où vivent des rhinocéros, et au nord des sommets couverts de neige toute l'année.",
-  "animals": "Dans la jungle de Chitwan, le rhinocéros à une corne vit avec des tigres du Bengale et des éléphants sauvages. Tout en haut des montagnes enneigées, le mystérieux léopard des neiges chasse en secret — on le voit si rarement qu'on l'appelle le fantôme des Himalayas !",
-  "culture": "Au Népal, les gens fêtent Tihar, la fête des lumières, en décorant les rues de fleurs de soucis jaunes et de petites lampes scintillantes. Pour dire bonjour, on joint les deux mains et on dit « Namaste » — c'est comme envoyer un bisou du cœur !",
-  "history": "On dit qu'il y a très longtemps, la vallée de Kathmandu était un immense lac, et qu'un dieu l'a vidé d'un seul coup d'épée pour que les gens puissent y vivre. C'est là que le Bouddha est né il y a plus de 2 500 ans — les gens du monde entier viennent visiter cet endroit sacré !",
+  "geo": [
+    "Le Népal a des montagnes tellement grandes qu'elles sont les plus hautes du monde entier ! Au sud, il y a une jungle chaude et plate où vivent des rhinocéros, et au nord des sommets couverts de neige toute l'année."
+  ],
+  "animals": [
+    "Dans la jungle de Chitwan, le rhinocéros à une corne vit avec des tigres du Bengale et des éléphants sauvages. Tout en haut des montagnes enneigées, le mystérieux léopard des neiges chasse en secret — on le voit si rarement qu'on l'appelle le fantôme des Himalayas !"
+  ],
+  "culture": [
+    "Au Népal, les gens fêtent Tihar, la fête des lumières, en décorant les rues de fleurs de soucis jaunes et de petites lampes scintillantes. Pour dire bonjour, on joint les deux mains et on dit « Namaste » — c'est comme envoyer un bisou du cœur !"
+  ],
+  "history": [
+    "On dit qu'il y a très longtemps, la vallée de Kathmandu était un immense lac, et qu'un dieu l'a vidé d'un seul coup d'épée pour que les gens puissent y vivre. C'est là que le Bouddha est né il y a plus de 2 500 ans — les gens du monde entier viennent visiter cet endroit sacré !"
+  ],
   "wows": [
     "Le drapeau du Népal est le seul drapeau du monde qui ne soit pas rectangulaire — il a la forme de deux triangles empilés !",
     "Huit des dix plus hautes montagnes du monde sont au Népal, dont l'Everest à 8 849 m.",

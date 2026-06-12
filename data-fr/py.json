@@ -72,10 +72,18 @@
     "history": "Une légende d'explorateurs",
     "wows": "Les grandes surprises du Paraguay"
   },
-  "geo": "Une grande rivière coupe le Paraguay en deux moitiés ! À l'est, tout est vert et vallonné ; à l'ouest, s'étend le Gran Chaco, une immense plaine sauvage où il fait très très chaud.",
-  "animals": "Le fourmilier géant se promène dans le Chaco et avale 35 000 fourmis par jour avec son long museau en trompe ! Le cabiai, le plus grand rongeur du monde — aussi gros qu'un chien —, adore barboter dans les rivières du Paraguay.",
-  "culture": "Au Paraguay, les amis partagent tous le même gobelet de tereré, une tisane glacée très fraîche — c'est comme se serrer la main ! On joue de la harpe paraguayenne à toutes les fêtes, et les femmes fabriquent une dentelle appelée ñandutí, ce qui veut dire « toile d'araignée ».",
-  "history": "Le Paraguay s'est séparé de l'Espagne le 14 mai 1811, sans même tirer un seul coup de feu — c'est presque magique ! La capitale Asunción est l'une des plus anciennes villes d'Amérique du Sud, construite au bord de la grande rivière il y a très longtemps.",
+  "geo": [
+    "Une grande rivière coupe le Paraguay en deux moitiés ! À l'est, tout est vert et vallonné ; à l'ouest, s'étend le Gran Chaco, une immense plaine sauvage où il fait très très chaud."
+  ],
+  "animals": [
+    "Le fourmilier géant se promène dans le Chaco et avale 35 000 fourmis par jour avec son long museau en trompe ! Le cabiai, le plus grand rongeur du monde — aussi gros qu'un chien —, adore barboter dans les rivières du Paraguay."
+  ],
+  "culture": [
+    "Au Paraguay, les amis partagent tous le même gobelet de tereré, une tisane glacée très fraîche — c'est comme se serrer la main ! On joue de la harpe paraguayenne à toutes les fêtes, et les femmes fabriquent une dentelle appelée ñandutí, ce qui veut dire « toile d'araignée »."
+  ],
+  "history": [
+    "Le Paraguay s'est séparé de l'Espagne le 14 mai 1811, sans même tirer un seul coup de feu — c'est presque magique ! La capitale Asunción est l'une des plus anciennes villes d'Amérique du Sud, construite au bord de la grande rivière il y a très longtemps."
+  ],
   "wows": [
     "Le drapeau du Paraguay est le seul au monde avec un dessin différent devant et derrière !",
     "Le barrage d'Itaipu produit presque toute l'électricité du pays grâce à l'eau d'une rivière.",

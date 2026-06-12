@@ -72,10 +72,18 @@
     "history": "Les marins qui ont découvert le monde",
     "wows": "Les surprises du Portugal !"
   },
-  "geo": "Le Portugal longe l'océan Atlantique sur 832 km de côtes avec des falaises dorées et de l'eau turquoise. Il possède aussi des îles volcanique très loin en mer, comme les Açores et la belle île de Madère !",
-  "animals": "Le lynx ibérique ressemble à un grand chat sauvage avec de grandes pattes et des oreilles pointues — il chasse les lapins dans les forêts de chênes-lièges. Il était presque disparu, mais des gens gentils l'ont sauvé et maintenant il y en a plus de 1 600 !",
-  "culture": "Au Portugal, les maisons et les églises sont décorées de jolies tuiles bleues et blanches appelées azulejos. Les enfants adorent manger les pastéis de nata, de petites tartelettes à la crème dorée inventées par des moines il y a très longtemps !",
-  "history": "Il y a très longtemps, des marins courageux portugais ont voyagé sur de grands bateaux pour découvrir des pays inconnus. L'un d'eux, Vasco da Gama, a trouvé le chemin vers l'Inde en naviguant tout autour de l'Afrique !",
+  "geo": [
+    "Le Portugal longe l'océan Atlantique sur 832 km de côtes avec des falaises dorées et de l'eau turquoise. Il possède aussi des îles volcanique très loin en mer, comme les Açores et la belle île de Madère !"
+  ],
+  "animals": [
+    "Le lynx ibérique ressemble à un grand chat sauvage avec de grandes pattes et des oreilles pointues — il chasse les lapins dans les forêts de chênes-lièges. Il était presque disparu, mais des gens gentils l'ont sauvé et maintenant il y en a plus de 1 600 !"
+  ],
+  "culture": [
+    "Au Portugal, les maisons et les églises sont décorées de jolies tuiles bleues et blanches appelées azulejos. Les enfants adorent manger les pastéis de nata, de petites tartelettes à la crème dorée inventées par des moines il y a très longtemps !"
+  ],
+  "history": [
+    "Il y a très longtemps, des marins courageux portugais ont voyagé sur de grands bateaux pour découvrir des pays inconnus. L'un d'eux, Vasco da Gama, a trouvé le chemin vers l'Inde en naviguant tout autour de l'Afrique !"
+  ],
   "wows": [
     "Le Portugal fabrique la moitié de tous les bouchons du monde — ils viennent d'écorce d'arbre !",
     "Lisbonne existe depuis 1200 avant Jésus-Christ — c'est bien plus vieux que Rome !",

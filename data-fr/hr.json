@@ -72,10 +72,18 @@
     "history": "Un palais romain où on vit encore !",
     "wows": "Tu ne vas pas le croire !"
   },
-  "geo": "La Croatie ressemble à un croissant qui embrasse la mer Adriatique avec plus de 1 000 îles. À l'intérieur du pays, le parc de Plitvice empile 16 lacs turquoise comme un escalier géant avec des cascades entre chaque marche !",
-  "animals": "Environ 1 000 ours bruns vivent dans les grandes forêts de Croatie — ce sont les plus gros animaux sauvages du pays ! Dans la mer Adriatique, le petit hippocampe se cache dans les baies propres, et les dauphins sautent souvent près des bateaux.",
-  "culture": "C'est un Croate qui a inventé la cravate ! Des soldats portaient des écharpes nouées au cou au XVIIe siècle, et toute l'Europe a copié la mode. À Zagreb, il y a même un petit musée de la cravate !",
-  "history": "Il y a presque 1 700 ans, l'empereur romain Dioclétien a fait construire un immense palais à Split pour sa retraite. Le plus incroyable ? Des gens vivent encore à l'intérieur de ce palais aujourd'hui !",
+  "geo": [
+    "La Croatie ressemble à un croissant qui embrasse la mer Adriatique avec plus de 1 000 îles. À l'intérieur du pays, le parc de Plitvice empile 16 lacs turquoise comme un escalier géant avec des cascades entre chaque marche !"
+  ],
+  "animals": [
+    "Environ 1 000 ours bruns vivent dans les grandes forêts de Croatie — ce sont les plus gros animaux sauvages du pays ! Dans la mer Adriatique, le petit hippocampe se cache dans les baies propres, et les dauphins sautent souvent près des bateaux."
+  ],
+  "culture": [
+    "C'est un Croate qui a inventé la cravate ! Des soldats portaient des écharpes nouées au cou au XVIIe siècle, et toute l'Europe a copié la mode. À Zagreb, il y a même un petit musée de la cravate !"
+  ],
+  "history": [
+    "Il y a presque 1 700 ans, l'empereur romain Dioclétien a fait construire un immense palais à Split pour sa retraite. Le plus incroyable ? Des gens vivent encore à l'intérieur de ce palais aujourd'hui !"
+  ],
   "wows": [
     "La Croatie a plus de 1 000 îles, mais seulement 50 environ ont des habitants.",
     "Les vieux murs de Dubrovnik ont servi de décor dans la série Game of Thrones !",

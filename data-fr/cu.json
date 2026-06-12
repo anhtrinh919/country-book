@@ -72,10 +72,18 @@
     "history": "Une île aux mille histoires",
     "wows": "Sept surprises incroyables de Cuba"
   },
-  "geo": "Cuba est une île longue et mince — 1 200 km d'un bout à l'autre ! Au sud-est, de grandes montagnes vertes se cachent dans les nuages, et au nord, une mer turquoise toute calme attend les baigneurs.",
-  "animals": "Le colibri abeille vit seulement à Cuba : c'est le plus petit oiseau du monde, à peine plus gros qu'une abeille ! Les flamants roses marchent en groupe dans l'eau peu profonde le long des côtes.",
-  "culture": "À Cuba, la musique est partout — dans les rues, les maisons, même dans les marchés ! Le plat préféré des Cubains, c'est le riz aux haricots noirs avec de la banane plantain frite, c'est délicieux !",
-  "history": "Avant l'arrivée des explorateurs, le peuple Taïno vivait à Cuba depuis très longtemps et connaissait chaque forêt et chaque rivière de l'île. Ils ont appris à cultiver le maïs et la patate douce, et fabriquaient de jolis hamacs pour dormir sous les étoiles !",
+  "geo": [
+    "Cuba est une île longue et mince — 1 200 km d'un bout à l'autre ! Au sud-est, de grandes montagnes vertes se cachent dans les nuages, et au nord, une mer turquoise toute calme attend les baigneurs."
+  ],
+  "animals": [
+    "Le colibri abeille vit seulement à Cuba : c'est le plus petit oiseau du monde, à peine plus gros qu'une abeille ! Les flamants roses marchent en groupe dans l'eau peu profonde le long des côtes."
+  ],
+  "culture": [
+    "À Cuba, la musique est partout — dans les rues, les maisons, même dans les marchés ! Le plat préféré des Cubains, c'est le riz aux haricots noirs avec de la banane plantain frite, c'est délicieux !"
+  ],
+  "history": [
+    "Avant l'arrivée des explorateurs, le peuple Taïno vivait à Cuba depuis très longtemps et connaissait chaque forêt et chaque rivière de l'île. Ils ont appris à cultiver le maïs et la patate douce, et fabriquaient de jolis hamacs pour dormir sous les étoiles !"
+  ],
   "wows": [
     "Le colibri abeille de Cuba est l'oiseau le plus léger du monde — moins lourd qu'une pièce de monnaie !",
     "Les vieilles voitures américaines des années 1950 roulent encore tous les jours dans les rues de La Havane.",

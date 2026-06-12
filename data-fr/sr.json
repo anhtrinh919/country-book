@@ -72,10 +72,18 @@
     "history": "Échangé contre une île célèbre",
     "wows": "Sept secrets étonnants"
   },
-  "geo": "Le Suriname est posé sur de très vieilles roches — parmi les plus anciennes de la Terre ! Au nord, des rivières coulent jusqu'à l'océan Atlantique. Au sud, une forêt immense et verte couvre presque tout le pays.",
-  "animals": "La loutre géante de rivière mesure presque 2 mètres — c'est comme un adulte couché ! Elle chasse en famille en bavardant bruyamment sur les plages de sable. On trouve aussi des jaguars, des aigles harpies et plus de 700 espèces d'oiseaux dans la forêt.",
-  "culture": "Dans la capitale Paramaribo, une mosquée et une synagogue se trouvent côte à côte dans la même rue — c'est unique au monde ! Les gens cuisinent du riz javanais, du poulet créole et des galettes indiennes tout parfumées. Le marché central sent bon les épices chaque matin.",
-  "history": "Il y a très longtemps, les Hollandais ont échangé le Suriname contre une petite île appelée Manhattan — c'est là où se trouve New York aujourd'hui ! Des gens courageux appelés Marrons ont fui dans la forêt pour vivre libres et ont signé la paix avec les Hollandais il y a 260 ans.",
+  "geo": [
+    "Le Suriname est posé sur de très vieilles roches — parmi les plus anciennes de la Terre ! Au nord, des rivières coulent jusqu'à l'océan Atlantique. Au sud, une forêt immense et verte couvre presque tout le pays."
+  ],
+  "animals": [
+    "La loutre géante de rivière mesure presque 2 mètres — c'est comme un adulte couché ! Elle chasse en famille en bavardant bruyamment sur les plages de sable. On trouve aussi des jaguars, des aigles harpies et plus de 700 espèces d'oiseaux dans la forêt."
+  ],
+  "culture": [
+    "Dans la capitale Paramaribo, une mosquée et une synagogue se trouvent côte à côte dans la même rue — c'est unique au monde ! Les gens cuisinent du riz javanais, du poulet créole et des galettes indiennes tout parfumées. Le marché central sent bon les épices chaque matin."
+  ],
+  "history": [
+    "Il y a très longtemps, les Hollandais ont échangé le Suriname contre une petite île appelée Manhattan — c'est là où se trouve New York aujourd'hui ! Des gens courageux appelés Marrons ont fui dans la forêt pour vivre libres et ont signé la paix avec les Hollandais il y a 260 ans."
+  ],
   "wows": [
     "Le Suriname a été échangé contre Manhattan en 1667 — les Hollandais ont abandonné New York pour avoir cette colonie de sucre !",
     "C'est le seul pays hors d'Europe où le néerlandais est la langue officielle principale.",

@@ -61,10 +61,18 @@
     "history": "Une histoire vieille de 10 000 ans",
     "wows": "L'Inde va t'épater !"
   },
-  "geo": "L'Inde ressemble à un grand triangle pointé vers le sud dans l'océan Indien. L'Himalaya forme un mur de neige géant tout au nord du pays.",
-  "animals": "Le tigre du Bengale est l'animal national de l'Inde — un grand chasseur rayé qui vit dans les forêts. Le paon, l'oiseau national, agite un éventail de plumes bleu brillant comme un danseur de discothèque !",
-  "culture": "En Inde, la fête de Holi est magique : les gens se lancent des nuages de poudre colorée jusqu'à ressembler à des arcs-en-ciel qui marchent ! On boit du chai sucré et épicé partout dans les rues.",
-  "history": "Il y a plus de 4 000 ans, l'une des plus anciennes villes du monde existait déjà en Inde, avec des rues tracées au cordeau et même des égouts ! L'empereur moghol Shah Jahan a fait construire le Taj Mahal au 17e siècle pour honorer sa femme adorée.",
+  "geo": [
+    "L'Inde ressemble à un grand triangle pointé vers le sud dans l'océan Indien. L'Himalaya forme un mur de neige géant tout au nord du pays."
+  ],
+  "animals": [
+    "Le tigre du Bengale est l'animal national de l'Inde — un grand chasseur rayé qui vit dans les forêts. Le paon, l'oiseau national, agite un éventail de plumes bleu brillant comme un danseur de discothèque !"
+  ],
+  "culture": [
+    "En Inde, la fête de Holi est magique : les gens se lancent des nuages de poudre colorée jusqu'à ressembler à des arcs-en-ciel qui marchent ! On boit du chai sucré et épicé partout dans les rues."
+  ],
+  "history": [
+    "Il y a plus de 4 000 ans, l'une des plus anciennes villes du monde existait déjà en Inde, avec des rues tracées au cordeau et même des égouts ! L'empereur moghol Shah Jahan a fait construire le Taj Mahal au 17e siècle pour honorer sa femme adorée."
+  ],
   "wows": [
     "L'Inde a inventé le chiffre zéro — sans lui, les ordinateurs ne pourraient pas fonctionner !",
     "Le Taj Mahal devient rose au lever du soleil et doré au coucher du soleil.",

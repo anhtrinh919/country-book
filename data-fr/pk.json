@@ -72,10 +72,18 @@
     "history": "5 000 ans de merveilles",
     "wows": "Le Pakistan va t'étonner !"
   },
-  "geo": "Le nord du Pakistan abrite des montagnes géantes — le K2 est si haut que plus de gens ont marché sur la Lune que sur son sommet ! Au sud, le grand fleuve Indus arrose des champs immenses où poussent du blé et de la canne à sucre.",
-  "animals": "Le léopard des neiges vit dans les montagnes du Pakistan — on l'appelle le « fantôme des montagnes » parce qu'il est tellement discret qu'on le voit presque jamais ! Le markhor, une chèvre sauvage avec des cornes torsadées comme des tire-bouchons géants, est l'animal national du pays.",
-  "culture": "Au Pakistan, les chauffeurs de camions peignent leurs véhicules avec des fleurs et des couleurs vives — les routes ressemblent à des galeries d'art qui bougent ! Pendant la fête de l'Aïd, toutes les familles partagent du biryani parfumé et des douceurs sucrées, et tout le quartier fait la fête ensemble.",
-  "history": "Il y a 4 500 ans, à Mohenjo-daro, des gens vivaient déjà dans de belles maisons en briques avec de l'eau courante — avant même que Rome n'existe ! Les empereurs moghols ont ensuite bâti de magnifiques mosquées et des palais couverts de milliers de petits miroirs brillants.",
+  "geo": [
+    "Le nord du Pakistan abrite des montagnes géantes — le K2 est si haut que plus de gens ont marché sur la Lune que sur son sommet ! Au sud, le grand fleuve Indus arrose des champs immenses où poussent du blé et de la canne à sucre."
+  ],
+  "animals": [
+    "Le léopard des neiges vit dans les montagnes du Pakistan — on l'appelle le « fantôme des montagnes » parce qu'il est tellement discret qu'on le voit presque jamais ! Le markhor, une chèvre sauvage avec des cornes torsadées comme des tire-bouchons géants, est l'animal national du pays."
+  ],
+  "culture": [
+    "Au Pakistan, les chauffeurs de camions peignent leurs véhicules avec des fleurs et des couleurs vives — les routes ressemblent à des galeries d'art qui bougent ! Pendant la fête de l'Aïd, toutes les familles partagent du biryani parfumé et des douceurs sucrées, et tout le quartier fait la fête ensemble."
+  ],
+  "history": [
+    "Il y a 4 500 ans, à Mohenjo-daro, des gens vivaient déjà dans de belles maisons en briques avec de l'eau courante — avant même que Rome n'existe ! Les empereurs moghols ont ensuite bâti de magnifiques mosquées et des palais couverts de milliers de petits miroirs brillants."
+  ],
   "wows": [
     "Le Pakistan produit plus d'1,8 million de tonnes de mangues par an — les mangues Sindhri sont parmi les plus sucrées du monde !",
     "Le K2 est si difficile à gravir que plus de gens ont marché sur la Lune que sur son sommet.",

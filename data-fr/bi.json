@@ -72,10 +72,18 @@
     "history": "Les rois et leurs tambours sacrés",
     "wows": "Sept surprises du Burundi"
   },
-  "geo": "Le Burundi est perché très haut dans les nuages — à 1 500 mètres d'altitude — alors il y fait frais même si c'est en Afrique ! Des collines couvertes de bananiers s'étendent à perte de vue. Tout à l'ouest, le lac Tanganyika est si long qu'on ne voit pas le bout, et si profond qu'il cache des poissons qu'on ne trouve nulle part ailleurs sur Terre !",
-  "animals": "Dans la forêt du parc de Kibira, des chimpanzés crient le matin pour se dire bonjour — on les entend de très loin ! Des hippopotames se baignent dans la rivière Rusizi, la bouche grande ouverte comme des baignoires géantes.",
-  "culture": "Au Burundi, les musiciens frappent de très grands tambours en bois en sautant et en dansant en même temps — c'est leur façon de fêter les grandes occasions ! Les amis boivent ensemble une bière de banane appelée urwagwa, en partageant la même paille dans un grand pot.",
-  "history": "Il y a très longtemps, le Burundi était un royaume dirigé par un roi appelé le mwami, et quand il devenait roi on disait qu'il « montait sur le tambour » ! Certains tambours du sanctuaire de Gishora sont tellement sacrés qu'on ne les a jamais frappés une seule fois.",
+  "geo": [
+    "Le Burundi est perché très haut dans les nuages — à 1 500 mètres d'altitude — alors il y fait frais même si c'est en Afrique ! Des collines couvertes de bananiers s'étendent à perte de vue. Tout à l'ouest, le lac Tanganyika est si long qu'on ne voit pas le bout, et si profond qu'il cache des poissons qu'on ne trouve nulle part ailleurs sur Terre !"
+  ],
+  "animals": [
+    "Dans la forêt du parc de Kibira, des chimpanzés crient le matin pour se dire bonjour — on les entend de très loin ! Des hippopotames se baignent dans la rivière Rusizi, la bouche grande ouverte comme des baignoires géantes."
+  ],
+  "culture": [
+    "Au Burundi, les musiciens frappent de très grands tambours en bois en sautant et en dansant en même temps — c'est leur façon de fêter les grandes occasions ! Les amis boivent ensemble une bière de banane appelée urwagwa, en partageant la même paille dans un grand pot."
+  ],
+  "history": [
+    "Il y a très longtemps, le Burundi était un royaume dirigé par un roi appelé le mwami, et quand il devenait roi on disait qu'il « montait sur le tambour » ! Certains tambours du sanctuaire de Gishora sont tellement sacrés qu'on ne les a jamais frappés une seule fois."
+  ],
   "wows": [
     "Le lac Tanganyika est le deuxième lac le plus profond du monde — 1 471 mètres de fond !",
     "Une petite source au mont Gikizi est le point de départ le plus lointain du fleuve Nil.",

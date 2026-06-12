@@ -72,10 +72,18 @@
     "history": "Les premiers habitants de la Terre arc-en-ciel",
     "wows": "Des surprises qui font ouvrir les yeux grands !"
   },
-  "geo": "L'Afrique du Sud est tout au bout de l'Afrique, avec un grand désert plat au milieu et des montagnes spectaculaires comme une muraille à l'est. Deux océans encadrent ses côtes : l'Atlantique froid à l'ouest et l'océan Indien chaud à l'est !",
-  "animals": "L'Afrique du Sud est la maison des Cinq Grands : le lion, le léopard, l'éléphant, le rhinocéros et le buffle — tous visibles dans le parc Kruger. Des pingouins rigolots se dandinent sur la plage de Boulders, à seulement 40 km d'une grande ville !",
-  "culture": "En Afrique du Sud, on dit bonjour de façon différente selon l'endroit : « Sawubona » en zoulou, « Molo » en xhosa, « Hallo » en afrikaans. Chaque week-end, les familles se retrouvent autour du braai — un grand barbecue où tout le monde mange ensemble !",
-  "history": "Il y a très très longtemps, les San vivaient en Afrique du Sud : ils chassaient les animaux et peignaient de magnifiques images sur les rochers. Ces peintures rupestres ont des milliers d'années et on peut encore les voir aujourd'hui !",
+  "geo": [
+    "L'Afrique du Sud est tout au bout de l'Afrique, avec un grand désert plat au milieu et des montagnes spectaculaires comme une muraille à l'est. Deux océans encadrent ses côtes : l'Atlantique froid à l'ouest et l'océan Indien chaud à l'est !"
+  ],
+  "animals": [
+    "L'Afrique du Sud est la maison des Cinq Grands : le lion, le léopard, l'éléphant, le rhinocéros et le buffle — tous visibles dans le parc Kruger. Des pingouins rigolots se dandinent sur la plage de Boulders, à seulement 40 km d'une grande ville !"
+  ],
+  "culture": [
+    "En Afrique du Sud, on dit bonjour de façon différente selon l'endroit : « Sawubona » en zoulou, « Molo » en xhosa, « Hallo » en afrikaans. Chaque week-end, les familles se retrouvent autour du braai — un grand barbecue où tout le monde mange ensemble !"
+  ],
+  "history": [
+    "Il y a très très longtemps, les San vivaient en Afrique du Sud : ils chassaient les animaux et peignaient de magnifiques images sur les rochers. Ces peintures rupestres ont des milliers d'années et on peut encore les voir aujourd'hui !"
+  ],
   "wows": [
     "La montagne de la Table à Cape Town est vieille de 600 millions d'années — bien plus vieille que les dinosaures !",
     "Johannesburg est construite sur la plus grande réserve d'or du monde, tout sous les pieds des habitants.",

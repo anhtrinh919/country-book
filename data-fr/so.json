@@ -72,10 +72,18 @@
     "history": "Marchands anciens et rois du désert",
     "wows": "Sept raisons de dire ouaaah !"
   },
-  "geo": "La Somalie est la pointe de la Corne d'Afrique — le bout pointu qui s'avance le plus loin dans l'océan Indien. Au nord, de grandes montagnes s'élèvent jusqu'à 2 416 m, tandis que le reste du pays est une vaste plaine chaude et sèche brûlée par le soleil.",
-  "animals": "La Somalie a plus de chameaux que n'importe quel autre pays — plus de 7 millions de dromadaires se promènent dans les plaines ! Le gérenuk, une antilope au très long cou, se dresse sur ses pattes arrière pour grignoter les hautes branches des arbres.",
-  "culture": "Les Somaliens adorent tellement la poésie qu'on les appelle la « Nation des Poètes » — les histoires rimées se récitent aux mariages et aux fêtes ! Chaque invité reçoit du shaah, un thé sucré et parfumé, avec du canjeero, un pain plat moelleux à manger avec du miel.",
-  "history": "Il y a 5 000 à 9 000 ans, des artistes ont peint de magnifiques vaches décorées sur les rochers des grottes de Laas Geel — on peut encore les voir aujourd'hui ! Il y a 1 000 ans, Mogadiscio était déjà une ville animée où des bateaux venaient échanger de l'or, de l'ivoire et de l'encens.",
+  "geo": [
+    "La Somalie est la pointe de la Corne d'Afrique — le bout pointu qui s'avance le plus loin dans l'océan Indien. Au nord, de grandes montagnes s'élèvent jusqu'à 2 416 m, tandis que le reste du pays est une vaste plaine chaude et sèche brûlée par le soleil."
+  ],
+  "animals": [
+    "La Somalie a plus de chameaux que n'importe quel autre pays — plus de 7 millions de dromadaires se promènent dans les plaines ! Le gérenuk, une antilope au très long cou, se dresse sur ses pattes arrière pour grignoter les hautes branches des arbres."
+  ],
+  "culture": [
+    "Les Somaliens adorent tellement la poésie qu'on les appelle la « Nation des Poètes » — les histoires rimées se récitent aux mariages et aux fêtes ! Chaque invité reçoit du shaah, un thé sucré et parfumé, avec du canjeero, un pain plat moelleux à manger avec du miel."
+  ],
+  "history": [
+    "Il y a 5 000 à 9 000 ans, des artistes ont peint de magnifiques vaches décorées sur les rochers des grottes de Laas Geel — on peut encore les voir aujourd'hui ! Il y a 1 000 ans, Mogadiscio était déjà une ville animée où des bateaux venaient échanger de l'or, de l'ivoire et de l'encens."
+  ],
   "wows": [
     "La côte somalienne mesure 3 300 km — la plus longue de toute l'Afrique continentale !",
     "Les peintures des grottes de Laas Geel ont jusqu'à 9 000 ans — parmi les mieux conservées du monde !",

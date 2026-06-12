@@ -72,10 +72,18 @@
     "history": "Les premiers peuples de la grande terre",
     "wows": "Les records fous du Canada"
   },
-  "geo": "Le Canada est si immense qu'on pourrait mettre 26 fois le Royaume-Uni à l'intérieur ! À l'ouest se dressent les montagnes Rocheuses, et au centre s'étendent de grandes plaines plates à perte de vue. Le Canada possède plus de lacs que tous les autres pays du monde réunis — environ deux à trois millions de lacs scintillants !",
-  "animals": "L'orignal est le plus grand cerf du monde et adore les forêts canadiennes. Il est si grand qu'il peut traverser un lac entier à la nage avec ses grosses pattes en forme de pagaies ! Chaque automne, des ours polaires se rassemblent près de Churchill, au Manitoba, en attendant que la glace se forme sur la baie d'Hudson.",
-  "culture": "Au Canada, on parle à la fois anglais et français — c'est la loi ! Au Québec, même les boîtes de céréales doivent être écrites en français en premier. Chaque février, les familles canadiennes cuisinent avec du sirop d'érable, car le Canada fabrique les trois quarts du sirop d'érable de toute la planète !",
-  "history": "Depuis au moins 15 000 ans, les peuples des Premières Nations et les Inuits vivaient sur cette terre avec des langues riches et des routes commerciales. Le Canada est devenu un grand pays uni le 1er juillet 1867, quand quatre provinces ont décidé de se rassembler comme une seule grande famille.",
+  "geo": [
+    "Le Canada est si immense qu'on pourrait mettre 26 fois le Royaume-Uni à l'intérieur ! À l'ouest se dressent les montagnes Rocheuses, et au centre s'étendent de grandes plaines plates à perte de vue. Le Canada possède plus de lacs que tous les autres pays du monde réunis — environ deux à trois millions de lacs scintillants !"
+  ],
+  "animals": [
+    "L'orignal est le plus grand cerf du monde et adore les forêts canadiennes. Il est si grand qu'il peut traverser un lac entier à la nage avec ses grosses pattes en forme de pagaies ! Chaque automne, des ours polaires se rassemblent près de Churchill, au Manitoba, en attendant que la glace se forme sur la baie d'Hudson."
+  ],
+  "culture": [
+    "Au Canada, on parle à la fois anglais et français — c'est la loi ! Au Québec, même les boîtes de céréales doivent être écrites en français en premier. Chaque février, les familles canadiennes cuisinent avec du sirop d'érable, car le Canada fabrique les trois quarts du sirop d'érable de toute la planète !"
+  ],
+  "history": [
+    "Depuis au moins 15 000 ans, les peuples des Premières Nations et les Inuits vivaient sur cette terre avec des langues riches et des routes commerciales. Le Canada est devenu un grand pays uni le 1er juillet 1867, quand quatre provinces ont décidé de se rassembler comme une seule grande famille."
+  ],
   "wows": [
     "La côte du Canada mesure 202 080 km — la plus longue du monde, assez pour faire le tour de la Terre cinq fois !",
     "Le Canada a plus de lacs que tous les autres pays de la Terre réunis — des millions et des millions !",

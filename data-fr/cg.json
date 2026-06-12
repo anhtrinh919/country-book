@@ -72,10 +72,18 @@
     "history": "Royaumes, fleuves et liberté",
     "wows": "C'est vrai, vraiment ?!"
   },
-  "geo": "La forêt couvre presque tout le Congo — c'est la deuxième plus grande forêt tropicale du monde ! Le fleuve Congo est si profond que des poissons y vivent sans jamais voir la lumière.",
-  "animals": "Les gorilles des plaines vivent dans le grand parc Odzala-Kokoua — tu pourrais t'asseoir tout près d'un gorille ! Les éléphants de forêt, plus petits que leurs cousins de savane, se retrouvent dans des clairières boueuses pour laper des sels.",
-  "culture": "La rumba congolaise, née des rythmes africains, est si célèbre que l'UNESCO l'a reconnue comme trésor du monde ! Les gens portent de magnifiques tissus colorés appelés pagnes pour les fêtes et même tous les jours.",
-  "history": "Il y a plus de 2 000 ans, des familles parlant bantou sont venues s'installer dans la forêt du Congo. Le roi Tio a accueilli un explorateur français, et la grande ville a pris son nom : Brazzaville !",
+  "geo": [
+    "La forêt couvre presque tout le Congo — c'est la deuxième plus grande forêt tropicale du monde ! Le fleuve Congo est si profond que des poissons y vivent sans jamais voir la lumière."
+  ],
+  "animals": [
+    "Les gorilles des plaines vivent dans le grand parc Odzala-Kokoua — tu pourrais t'asseoir tout près d'un gorille ! Les éléphants de forêt, plus petits que leurs cousins de savane, se retrouvent dans des clairières boueuses pour laper des sels."
+  ],
+  "culture": [
+    "La rumba congolaise, née des rythmes africains, est si célèbre que l'UNESCO l'a reconnue comme trésor du monde ! Les gens portent de magnifiques tissus colorés appelés pagnes pour les fêtes et même tous les jours."
+  ],
+  "history": [
+    "Il y a plus de 2 000 ans, des familles parlant bantou sont venues s'installer dans la forêt du Congo. Le roi Tio a accueilli un explorateur français, et la grande ville a pris son nom : Brazzaville !"
+  ],
   "wows": [
     "Brazzaville et Kinshasa sont les deux seules capitales du monde face à face, séparées par seulement 4 km de fleuve !",
     "Le fleuve Congo est si profond — 220 mètres — qu'un immeuble de 20 étages se cacherait sous l'eau !",

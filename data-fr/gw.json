@@ -72,10 +72,18 @@
     "history": "La légende d'un pays libre",
     "wows": "La Guinée-Bissau qui émerveille"
   },
-  "geo": "La Guinée-Bissau est tellement plate que sa plus haute colline ne fait que 277 m — moins haut que beaucoup de tours en ville ! La côte se fragmente en 88 îles bordées de mangroves où la mer entre et sort deux fois par jour.",
-  "animals": "Dans l'archipel des Bijagós, les hippopotames sont les seuls au monde à nager dans l'Atlantique pour manger des herbes marines la nuit. Sur une seule île, plus de 100 000 sternes de Caspienne nichent ensemble — la plus grande colonie d'oiseaux aquatiques d'Afrique de l'Ouest !",
-  "culture": "Plus de 20 groupes différents vivent en Guinée-Bissau, chacun avec ses propres fêtes et sa propre musique. Le son du pays s'appelle le Gumbé — une musique de tambours africains mélangée à des mélodies portugaises !",
-  "history": "Le peuple Bijagó des îles croit que les hippopotames marins sont leurs ancêtres sacrés — c'est pourquoi personne ne leur fait de mal. Chaque année, ils organisent des dizaines de cérémonies pour honorer leurs esprits dans la forêt.",
+  "geo": [
+    "La Guinée-Bissau est tellement plate que sa plus haute colline ne fait que 277 m — moins haut que beaucoup de tours en ville ! La côte se fragmente en 88 îles bordées de mangroves où la mer entre et sort deux fois par jour."
+  ],
+  "animals": [
+    "Dans l'archipel des Bijagós, les hippopotames sont les seuls au monde à nager dans l'Atlantique pour manger des herbes marines la nuit. Sur une seule île, plus de 100 000 sternes de Caspienne nichent ensemble — la plus grande colonie d'oiseaux aquatiques d'Afrique de l'Ouest !"
+  ],
+  "culture": [
+    "Plus de 20 groupes différents vivent en Guinée-Bissau, chacun avec ses propres fêtes et sa propre musique. Le son du pays s'appelle le Gumbé — une musique de tambours africains mélangée à des mélodies portugaises !"
+  ],
+  "history": [
+    "Le peuple Bijagó des îles croit que les hippopotames marins sont leurs ancêtres sacrés — c'est pourquoi personne ne leur fait de mal. Chaque année, ils organisent des dizaines de cérémonies pour honorer leurs esprits dans la forêt."
+  ],
   "wows": [
     "Les hippos des Bijagós sont les seuls hippos du monde à nager et à manger dans l'océan Atlantique !",
     "La Guinée-Bissau a déclaré son indépendance en 1973 — un an avant que le Portugal l'accepte !",

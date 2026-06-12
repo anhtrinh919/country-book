@@ -72,10 +72,18 @@
     "history": "Les rois et les légendes",
     "wows": "La Hongrie t'épate !"
   },
-  "geo": "La Hongrie est presque entièrement plate, comme un grand bol appelé le Bassin des Carpates. Le lac Balaton, grand comme une mer, est si peu profond qu'on peut marcher très loin dans l'eau sans se mouiller le ventre !",
-  "animals": "Dans les grandes prairies de la Puszta vit l'outarde géante, le plus lourd oiseau qui sache voler au monde. Quand il veut impressionner, il gonfle ses plumes et devient gros comme un ballon !",
-  "culture": "La cuisine hongroise est toute rouge grâce au paprika, une épice venue d'Amérique il y a 400 ans. Le goulasch est une soupe bien chaude et parfumée que les bergers préparaient autrefois près de leur feu de camp.",
-  "history": "Il y a très longtemps, des cavaliers nomades appelés les Magyars ont galopé depuis de lointaines steppes pour s'installer en Hongrie. Leur roi Étienne reçut une couronne dorée envoyée par le pape — cette couronne est encore aujourd'hui le trésor le plus précieux du pays !",
+  "geo": [
+    "La Hongrie est presque entièrement plate, comme un grand bol appelé le Bassin des Carpates. Le lac Balaton, grand comme une mer, est si peu profond qu'on peut marcher très loin dans l'eau sans se mouiller le ventre !"
+  ],
+  "animals": [
+    "Dans les grandes prairies de la Puszta vit l'outarde géante, le plus lourd oiseau qui sache voler au monde. Quand il veut impressionner, il gonfle ses plumes et devient gros comme un ballon !"
+  ],
+  "culture": [
+    "La cuisine hongroise est toute rouge grâce au paprika, une épice venue d'Amérique il y a 400 ans. Le goulasch est une soupe bien chaude et parfumée que les bergers préparaient autrefois près de leur feu de camp."
+  ],
+  "history": [
+    "Il y a très longtemps, des cavaliers nomades appelés les Magyars ont galopé depuis de lointaines steppes pour s'installer en Hongrie. Leur roi Étienne reçut une couronne dorée envoyée par le pape — cette couronne est encore aujourd'hui le trésor le plus précieux du pays !"
+  ],
   "wows": [
     "Le Rubik's Cube a été inventé par Ernő Rubik en 1974 — c'est le jouet puzzle le plus vendu de toute l'histoire !",
     "Le métro de Budapest (1896) est le premier métro souterrain de tout le continent européen.",

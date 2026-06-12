@@ -72,10 +72,18 @@
     "history": "Un roi avec des tonnes d'or !",
     "wows": "7 choses folles sur le Mali"
   },
-  "geo": "Le Mali est presque tout un grand désert de sable doré où il fait très très chaud. Le fleuve Niger traverse le pays comme une longue rivière magique qui donne à boire et à manger à tout le monde.",
-  "animals": "Dans le fleuve Niger vivent des hippos qui se baignent toute la journée sous le soleil. De grandes girafes d'Afrique de l'Ouest tendent leur long cou pour manger des feuilles d'acacia !",
-  "culture": "Au Mali, il y a des musiciens spéciaux appelés griots qui racontent des histoires en jouant d'un instrument avec 21 cordes. La grande mosquée de Djenné est entièrement faite en boue séchée — et tous les habitants du village la repeignent ensemble chaque année !",
-  "history": "Il y a très longtemps, un roi appelé Mansa Musa avait tellement d'or qu'il en donnait à tout le monde pendant son grand voyage. La ville de Tombouctou était comme une énorme école géante avec des milliers d'élèves venus de partout !",
+  "geo": [
+    "Le Mali est presque tout un grand désert de sable doré où il fait très très chaud. Le fleuve Niger traverse le pays comme une longue rivière magique qui donne à boire et à manger à tout le monde."
+  ],
+  "animals": [
+    "Dans le fleuve Niger vivent des hippos qui se baignent toute la journée sous le soleil. De grandes girafes d'Afrique de l'Ouest tendent leur long cou pour manger des feuilles d'acacia !"
+  ],
+  "culture": [
+    "Au Mali, il y a des musiciens spéciaux appelés griots qui racontent des histoires en jouant d'un instrument avec 21 cordes. La grande mosquée de Djenné est entièrement faite en boue séchée — et tous les habitants du village la repeignent ensemble chaque année !"
+  ],
+  "history": [
+    "Il y a très longtemps, un roi appelé Mansa Musa avait tellement d'or qu'il en donnait à tout le monde pendant son grand voyage. La ville de Tombouctou était comme une énorme école géante avec des milliers d'élèves venus de partout !"
+  ],
   "wows": [
     "La grande mosquée de Djenné est refaite en boue fraîche chaque année depuis plus de 800 ans !",
     "Le roi Mansa Musa voyageait avec 60 000 personnes et 18 tonnes d'or dans ses bagages.",

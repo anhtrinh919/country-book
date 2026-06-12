@@ -71,10 +71,18 @@
     "history": "Des rois du récif à un pays libre",
     "wows": "Des choses qui vont t'étonner !"
   },
-  "geo": "Les 607 îles de Micronésie s'étalent sur 3 000 km dans le Pacifique, mais mises bout à bout elles tiendraient dans une grande ville ! La plupart sont des îles plates entourées de lagons turquoise, mais Pohnpei monte haut dans les nuages avec ses forêts tout en haut.",
-  "animals": "À Yap, plus de 100 raies mantas habitent les canaux chauds et glissent dans l'eau comme de grands oiseaux silencieux. Sur l'atoll de Pingelap, des crabes de cocotier géants peuvent casser une noix de coco avec leurs pinces — et ils vivent jusqu'à 60 ans !",
-  "culture": "Sur l'île de Pohnpei, lors des grandes fêtes, tout le monde partage une boisson appelée sakau dans une coquille de noix de coco, et chacun boit dans un ordre très précis pour montrer du respect. Sur chaque île, les gens fabriquent de jolis paniers et des vêtements avec des feuilles, et les danses sont transmises de génération en génération.",
-  "history": "Il y a très longtemps, des navigateurs micronésiens traversaient des milliers de kilomètres d'océan en lisant les étoiles et les vagues, sans aucune boussole ! Vers l'an 1200, des bâtisseurs ont construit Nan Madol, une ville de 100 îles en pierre au milieu d'un lagon, reliées par des canaux — elle existe encore aujourd'hui !",
+  "geo": [
+    "Les 607 îles de Micronésie s'étalent sur 3 000 km dans le Pacifique, mais mises bout à bout elles tiendraient dans une grande ville ! La plupart sont des îles plates entourées de lagons turquoise, mais Pohnpei monte haut dans les nuages avec ses forêts tout en haut."
+  ],
+  "animals": [
+    "À Yap, plus de 100 raies mantas habitent les canaux chauds et glissent dans l'eau comme de grands oiseaux silencieux. Sur l'atoll de Pingelap, des crabes de cocotier géants peuvent casser une noix de coco avec leurs pinces — et ils vivent jusqu'à 60 ans !"
+  ],
+  "culture": [
+    "Sur l'île de Pohnpei, lors des grandes fêtes, tout le monde partage une boisson appelée sakau dans une coquille de noix de coco, et chacun boit dans un ordre très précis pour montrer du respect. Sur chaque île, les gens fabriquent de jolis paniers et des vêtements avec des feuilles, et les danses sont transmises de génération en génération."
+  ],
+  "history": [
+    "Il y a très longtemps, des navigateurs micronésiens traversaient des milliers de kilomètres d'océan en lisant les étoiles et les vagues, sans aucune boussole ! Vers l'an 1200, des bâtisseurs ont construit Nan Madol, une ville de 100 îles en pierre au milieu d'un lagon, reliées par des canaux — elle existe encore aujourd'hui !"
+  ],
   "wows": [
     "Nan Madol est la seule ville ancienne bâtie sur un récif de corail, construite avec d'énormes rondins de basalte sans aucun outil en métal.",
     "Les pierres « rai » de Yap peuvent peser 4 tonnes — aussi lourd qu'un éléphant — et personne ne les déplace pour changer de propriétaire !",

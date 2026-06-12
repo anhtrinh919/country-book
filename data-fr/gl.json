@@ -72,10 +72,18 @@
     "history": "Vikings, Inuits et mystères glacés",
     "wows": "Trop incroyable pour être vrai !"
   },
-  "geo": "La glace recouvre 80 % du Groenland et cache un canyon géant plus long que le Grand Canyon — impossible à voir depuis le ciel ! La côte est découpée de fjords profonds et de petites maisons colorées perchées sur les rochers.",
-  "animals": "Le narval — la vraie licorne de l'Arctique — vit dans les eaux glacées du Groenland et sa corne spiralée peut atteindre 3 mètres de long ! Le bœuf musqué porte la laine la plus chaude du monde, appelée qiviut.",
-  "culture": "Les Groenlandais ont inventé le kayak il y a très longtemps — c'était un bateau silencieux pour approcher les phoques sans les effrayer. Le plat national, le suaasat, est une soupe chaude de phoque ou de baleine.",
-  "history": "Il y a environ 1 000 ans, un Viking appelé Erik le Rouge a nommé cette île « Groenland » (pays vert) pour attirer des habitants — alors qu'elle était couverte de glace ! Deux villages vikings ont prospéré pendant 500 ans puis ont mystérieusement disparu.",
+  "geo": [
+    "La glace recouvre 80 % du Groenland et cache un canyon géant plus long que le Grand Canyon — impossible à voir depuis le ciel ! La côte est découpée de fjords profonds et de petites maisons colorées perchées sur les rochers."
+  ],
+  "animals": [
+    "Le narval — la vraie licorne de l'Arctique — vit dans les eaux glacées du Groenland et sa corne spiralée peut atteindre 3 mètres de long ! Le bœuf musqué porte la laine la plus chaude du monde, appelée qiviut."
+  ],
+  "culture": [
+    "Les Groenlandais ont inventé le kayak il y a très longtemps — c'était un bateau silencieux pour approcher les phoques sans les effrayer. Le plat national, le suaasat, est une soupe chaude de phoque ou de baleine."
+  ],
+  "history": [
+    "Il y a environ 1 000 ans, un Viking appelé Erik le Rouge a nommé cette île « Groenland » (pays vert) pour attirer des habitants — alors qu'elle était couverte de glace ! Deux villages vikings ont prospéré pendant 500 ans puis ont mystérieusement disparu."
+  ],
   "wows": [
     "La glace pèse tellement lourd qu'elle enfonce la terre 300 m sous le niveau de la mer !",
     "Un glacier au Groenland avance de 46 m par jour — plus vite qu'un escargot géant !",

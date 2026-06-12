@@ -72,10 +72,18 @@
     "history": "Des étoiles et des îles mystérieuses",
     "wows": "Sept merveilles étonnantes"
   },
-  "geo": "Les Palaos se trouvent dans le Pacifique, entre les Philippines et la Papouasie-Nouvelle-Guinée. Ses 340 îles sont entourées d'un récif incroyable avec plus de 500 espèces de coraux et 1 300 poissons !",
-  "animals": "Au lac des Méduses vit presque un million de méduses dorées qui ont perdu leur dard il y a 12 000 ans — tu peux nager avec elles sans te faire piquer ! Les eaux chaudes abritent aussi des dugongs, de gentilles vaches de mer qui broutent l'herbe sous l'eau.",
-  "culture": "Le bai est une grande maison en bois décorée de panneaux peints qui racontent des histoires et des légendes. La société des Palaos donne la terre et le titre de clan aux mamans — ce sont elles les chefs de famille !",
-  "history": "Les premiers habitants sont arrivés aux Palaos il y a au moins 3 000 ans et ont construit des terrasses en pierre encore visibles aujourd'hui. Les Palaos sont devenus un pays indépendant le 1er octobre 1994 — un tout nouveau pays !",
+  "geo": [
+    "Les Palaos se trouvent dans le Pacifique, entre les Philippines et la Papouasie-Nouvelle-Guinée. Ses 340 îles sont entourées d'un récif incroyable avec plus de 500 espèces de coraux et 1 300 poissons !"
+  ],
+  "animals": [
+    "Au lac des Méduses vit presque un million de méduses dorées qui ont perdu leur dard il y a 12 000 ans — tu peux nager avec elles sans te faire piquer ! Les eaux chaudes abritent aussi des dugongs, de gentilles vaches de mer qui broutent l'herbe sous l'eau."
+  ],
+  "culture": [
+    "Le bai est une grande maison en bois décorée de panneaux peints qui racontent des histoires et des légendes. La société des Palaos donne la terre et le titre de clan aux mamans — ce sont elles les chefs de famille !"
+  ],
+  "history": [
+    "Les premiers habitants sont arrivés aux Palaos il y a au moins 3 000 ans et ont construit des terrasses en pierre encore visibles aujourd'hui. Les Palaos sont devenus un pays indépendant le 1er octobre 1994 — un tout nouveau pays !"
+  ],
   "wows": [
     "Ngerulmud est la capitale d'un pays avec presque personne qui y habite en permanence !",
     "En 2009, les Palaos ont créé le premier sanctuaire pour requins au monde — 135 espèces protégées.",

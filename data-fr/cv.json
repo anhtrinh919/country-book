@@ -72,10 +72,18 @@
     "history": "Marins et trésors oubliés",
     "wows": "Le Cap-Vert qui surprend !"
   },
-  "geo": "Le Cap-Vert a dix îles : certaines sont toutes plates avec des dunes de sable, d'autres ont des montagnes pointues qui plongent dans la mer. L'île de Fogo est un vrai volcan encore vivant — en 2014, la lave a recouvert tout un village !",
-  "animals": "Chaque été, des milliers de tortues marines géantes sortent de l'eau la nuit pour pondre leurs œufs dans le sable chaud de l'île Boa Vista. Des baleines à bosse passent aussi en hiver, et un minuscule oiseau appelé l'alouette de Raso vit sur une seule toute petite île.",
-  "culture": "La musique du Cap-Vert s'appelle la morna — c'est une chanson douce et mélancolique qui parle de la mer et des gens qui voyagent loin. Le plat préféré des Cap-Verdiens est la cachupa, une soupe épaisse de maïs et de haricots que chaque famille prépare à sa façon !",
-  "history": "Avant 1460, ces îles étaient complètement vides — pas un seul habitant ! Des marins explorateurs sont arrivés en bateau et ont tout construit de zéro, mélangeant des cultures d'Afrique, d'Europe et de l'océan.",
+  "geo": [
+    "Le Cap-Vert a dix îles : certaines sont toutes plates avec des dunes de sable, d'autres ont des montagnes pointues qui plongent dans la mer. L'île de Fogo est un vrai volcan encore vivant — en 2014, la lave a recouvert tout un village !"
+  ],
+  "animals": [
+    "Chaque été, des milliers de tortues marines géantes sortent de l'eau la nuit pour pondre leurs œufs dans le sable chaud de l'île Boa Vista. Des baleines à bosse passent aussi en hiver, et un minuscule oiseau appelé l'alouette de Raso vit sur une seule toute petite île."
+  ],
+  "culture": [
+    "La musique du Cap-Vert s'appelle la morna — c'est une chanson douce et mélancolique qui parle de la mer et des gens qui voyagent loin. Le plat préféré des Cap-Verdiens est la cachupa, une soupe épaisse de maïs et de haricots que chaque famille prépare à sa façon !"
+  ],
+  "history": [
+    "Avant 1460, ces îles étaient complètement vides — pas un seul habitant ! Des marins explorateurs sont arrivés en bateau et ont tout construit de zéro, mélangeant des cultures d'Afrique, d'Europe et de l'océan."
+  ],
   "wows": [
     "Il n'y a aucune rivière au Cap-Vert — l'eau douce vient de machines qui retirent le sel de la mer !",
     "Le vent souffle si fort sur certaines îles que les arbres poussent tout penchés sur le côté.",

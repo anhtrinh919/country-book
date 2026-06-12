@@ -72,10 +72,18 @@
     "history": "Un peuple ancien bâtisseur de temples",
     "wows": "7 choses folles sur la Bolivie"
   },
-  "geo": "La Bolivie est tellement haute qu'elle touche presque les nuages ! L'Altiplano est un immense plateau glacé à plus de 3 600 m — plus haut que toutes les montagnes d'Europe. Le lac Titicaca brille là-haut comme un joyau bleu à 3 810 m d'altitude.",
-  "animals": "Sur les lacs salés des hauteurs, des milliers de flamants roses se baladent en grandes familles colorées. Les lamas et leurs cousins les vigognes se promènent en troupeaux, et le condor des Andes plane dans le ciel avec ses ailes géantes de 3 mètres de large !",
-  "culture": "Les femmes aymara portent des jupes colorées en couches et de petits chapeaux ronds appelés bombin — elles ont transformé ce chapeau de cheminot anglais en leur propre tenue magnifique ! Pendant le carnaval d'Oruro, 50 000 danseurs défilent dans la rue avec d'immenses masques de diable.",
-  "history": "Il y a très longtemps, le peuple Tiwanaku a construit de grands temples en pierre près du lac Titicaca — il y a plus de 1 600 ans ! Leurs pierres énormes étaient si bien taillées qu'elles tenaient sans ciment.",
+  "geo": [
+    "La Bolivie est tellement haute qu'elle touche presque les nuages ! L'Altiplano est un immense plateau glacé à plus de 3 600 m — plus haut que toutes les montagnes d'Europe. Le lac Titicaca brille là-haut comme un joyau bleu à 3 810 m d'altitude."
+  ],
+  "animals": [
+    "Sur les lacs salés des hauteurs, des milliers de flamants roses se baladent en grandes familles colorées. Les lamas et leurs cousins les vigognes se promènent en troupeaux, et le condor des Andes plane dans le ciel avec ses ailes géantes de 3 mètres de large !"
+  ],
+  "culture": [
+    "Les femmes aymara portent des jupes colorées en couches et de petits chapeaux ronds appelés bombin — elles ont transformé ce chapeau de cheminot anglais en leur propre tenue magnifique ! Pendant le carnaval d'Oruro, 50 000 danseurs défilent dans la rue avec d'immenses masques de diable."
+  ],
+  "history": [
+    "Il y a très longtemps, le peuple Tiwanaku a construit de grands temples en pierre près du lac Titicaca — il y a plus de 1 600 ans ! Leurs pierres énormes étaient si bien taillées qu'elles tenaient sans ciment."
+  ],
   "wows": [
     "La Bolivie a 37 langues officielles — plus que n'importe quel autre pays du monde !",
     "Le Salar d'Uyuni fait 10 582 km² et devient un miroir parfait après la pluie.",

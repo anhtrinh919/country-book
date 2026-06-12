@@ -72,10 +72,18 @@
     "history": "La légende des Mapuches",
     "wows": "Tu savais ça ?"
   },
-  "geo": "Le Chili est le pays le plus long et le plus fin du monde — 4 300 km de haut, mais jamais plus de 350 km de large ! Au nord, le désert d'Atacama est si sec qu'il pleut moins que sur Mars.",
-  "animals": "Le flamant des Andes se promène dans des lacs salés si peu profonds qu'ils ressemblent à des miroirs roses ! Le pudú, le plus petit cerf du monde, mesure seulement 35 cm — il se cache dans les forêts du sud comme un secret.",
-  "culture": "Les Chiliens adorent les empanadas, de petits chaussons dorés remplis de viande et d'œuf — c'est délicieux ! La cueca est la danse nationale : les danseurs agitent des mouchoirs blancs comme des oiseaux amoureux.",
-  "history": "Les Mapuches vivaient au Chili bien avant l'arrivée des Européens, et ils étaient si courageux que même les Incas n'ont pas réussi à les conquérir ! Santiago, la capitale, a été fondée en 1541 par des explorateurs espagnols.",
+  "geo": [
+    "Le Chili est le pays le plus long et le plus fin du monde — 4 300 km de haut, mais jamais plus de 350 km de large ! Au nord, le désert d'Atacama est si sec qu'il pleut moins que sur Mars."
+  ],
+  "animals": [
+    "Le flamant des Andes se promène dans des lacs salés si peu profonds qu'ils ressemblent à des miroirs roses ! Le pudú, le plus petit cerf du monde, mesure seulement 35 cm — il se cache dans les forêts du sud comme un secret."
+  ],
+  "culture": [
+    "Les Chiliens adorent les empanadas, de petits chaussons dorés remplis de viande et d'œuf — c'est délicieux ! La cueca est la danse nationale : les danseurs agitent des mouchoirs blancs comme des oiseaux amoureux."
+  ],
+  "history": [
+    "Les Mapuches vivaient au Chili bien avant l'arrivée des Européens, et ils étaient si courageux que même les Incas n'ont pas réussi à les conquérir ! Santiago, la capitale, a été fondée en 1541 par des explorateurs espagnols."
+  ],
   "wows": [
     "Le Chili fait 4 300 km de long — c'est plus long que la hauteur des États-Unis !",
     "Dans le désert d'Atacama, certaines stations météo n'ont jamais enregistré une seule goutte de pluie.",

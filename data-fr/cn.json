@@ -61,10 +61,18 @@
     "history": "Une légende vieille de cinq mille ans",
     "wows": "La Chine va t'épater !"
   },
-  "geo": "La Chine touche 14 pays voisins — plus que n'importe quel autre pays du monde ! À l'ouest se dressent les plus hautes montagnes de la Terre, et à l'est s'étendent de grands fleuves et des forêts de bambous.",
-  "animals": "Le panda géant mange du bambou pendant 14 heures chaque jour, parce que le bambou est tellement peu nourrissant qu'il en faut des tonnes ! Dans les hautes montagnes vit le léopard des neiges, un grand chat magique dont il ne reste que 4 000 dans tout le monde.",
-  "culture": "Chaque année, pour le Nouvel An chinois, les familles accrochent des lanternes rouges et offrent aux enfants des enveloppes rouges pleines de pièces porte-bonheur ! Chaque année porte le nom d'un animal — comme le dragon, le tigre ou le lapin.",
-  "history": "Il y a très longtemps, un grand empereur a fait construire une muraille immense pour protéger son royaume, et il a enterré 8 000 soldats en terre cuite pour le garder — chacun avec un visage différent ! Des fermiers les ont découverts par hasard en 1974.",
+  "geo": [
+    "La Chine touche 14 pays voisins — plus que n'importe quel autre pays du monde ! À l'ouest se dressent les plus hautes montagnes de la Terre, et à l'est s'étendent de grands fleuves et des forêts de bambous."
+  ],
+  "animals": [
+    "Le panda géant mange du bambou pendant 14 heures chaque jour, parce que le bambou est tellement peu nourrissant qu'il en faut des tonnes ! Dans les hautes montagnes vit le léopard des neiges, un grand chat magique dont il ne reste que 4 000 dans tout le monde."
+  ],
+  "culture": [
+    "Chaque année, pour le Nouvel An chinois, les familles accrochent des lanternes rouges et offrent aux enfants des enveloppes rouges pleines de pièces porte-bonheur ! Chaque année porte le nom d'un animal — comme le dragon, le tigre ou le lapin."
+  ],
+  "history": [
+    "Il y a très longtemps, un grand empereur a fait construire une muraille immense pour protéger son royaume, et il a enterré 8 000 soldats en terre cuite pour le garder — chacun avec un visage différent ! Des fermiers les ont découverts par hasard en 1974."
+  ],
   "wows": [
     "La Chine a 14 pays voisins — plus que n'importe quel autre pays sur Terre !",
     "Les trains très rapides de Chine mesurent plus de 50 000 km — plus que tous les autres pays réunis.",

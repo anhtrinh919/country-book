@@ -72,10 +72,18 @@
     "history": "Une légende d'île et d'ancêtres",
     "wows": "Le Timor-Leste t'étonnera !"
   },
-  "geo": "Le Timor-Leste occupe la pointe est de l'île de Timor, entourée par la mer de Timor et la mer de Banda. Des montagnes traversent tout le pays, et au nord se trouve la petite île d'Ataúro, entourée de récifs coralliens fabuleux.",
-  "animals": "Le crabe de cocotier est le plus grand crabe terrestre du monde — il peut grimper aux palmiers pour attraper des noix de coco ! Dans la mer, les dugongs, de doux « vaches marines », nagent tranquillement dans les herbiers marins.",
-  "culture": "Chaque famille timoraise garde précieusement une maison ancestrale appelée uma lulik, décorée de tissus colorés appelés tais. Lors des fêtes, tout le village se tient par les bras en cercle et danse le tebe-tebe en chantant ensemble pendant des heures !",
-  "history": "Il y a très longtemps, les habitants croyaient que le Timor-Leste était né du dos d'un crocodile géant qui s'était transformé en île pour abriter des gens. Aujourd'hui encore, le crocodile est un animal sacré et on le respecte comme un ancêtre.",
+  "geo": [
+    "Le Timor-Leste occupe la pointe est de l'île de Timor, entourée par la mer de Timor et la mer de Banda. Des montagnes traversent tout le pays, et au nord se trouve la petite île d'Ataúro, entourée de récifs coralliens fabuleux."
+  ],
+  "animals": [
+    "Le crabe de cocotier est le plus grand crabe terrestre du monde — il peut grimper aux palmiers pour attraper des noix de coco ! Dans la mer, les dugongs, de doux « vaches marines », nagent tranquillement dans les herbiers marins."
+  ],
+  "culture": [
+    "Chaque famille timoraise garde précieusement une maison ancestrale appelée uma lulik, décorée de tissus colorés appelés tais. Lors des fêtes, tout le village se tient par les bras en cercle et danse le tebe-tebe en chantant ensemble pendant des heures !"
+  ],
+  "history": [
+    "Il y a très longtemps, les habitants croyaient que le Timor-Leste était né du dos d'un crocodile géant qui s'était transformé en île pour abriter des gens. Aujourd'hui encore, le crocodile est un animal sacré et on le respecte comme un ancêtre."
+  ],
   "wows": [
     "Le Timor-Leste est le tout premier nouveau pays né au XXIe siècle — le 20 mai 2002 !",
     "L'île d'Ataúro détient un record mondial : plus de 250 espèces de poissons par endroit dans ses récifs !",

@@ -61,10 +61,18 @@
     "history": "Des nomades du désert jusqu'aux étoiles",
     "wows": "C'est vrai, je te jure !"
   },
-  "geo": "Les Émirats sont entourés de deux mers : le calme golfe Arabique à l'ouest et le golfe d'Oman à l'est. Le pays est presque entièrement un désert brûlant où les dunes peuvent être aussi hautes qu'un immeuble de dix étages !",
-  "animals": "Le faucon pèlerin est l'animal préféré des Émirats — il plonge à plus de 300 km/h, plus vite qu'une voiture de course ! Les chameaux, eux, font des courses sur des pistes spéciales avec de petits robots comme jockeys.",
-  "culture": "Quand tu arrives chez quelqu'un aux Émirats, on t'offre toujours du café à la cardamome et des dattes sucrées — c'est impoli de refuser ! Les hommes portent une longue robe blanche appelée kandura et les femmes une belle robe noire appelée abaya.",
-  "history": "Il y a très longtemps, des pêcheurs plongeaient dans le golfe pour ramasser des perles brillantes qu'ils vendaient jusqu'en Inde et en Europe. Ces perles étaient si précieuses qu'elles valaient autant que de l'or !",
+  "geo": [
+    "Les Émirats sont entourés de deux mers : le calme golfe Arabique à l'ouest et le golfe d'Oman à l'est. Le pays est presque entièrement un désert brûlant où les dunes peuvent être aussi hautes qu'un immeuble de dix étages !"
+  ],
+  "animals": [
+    "Le faucon pèlerin est l'animal préféré des Émirats — il plonge à plus de 300 km/h, plus vite qu'une voiture de course ! Les chameaux, eux, font des courses sur des pistes spéciales avec de petits robots comme jockeys."
+  ],
+  "culture": [
+    "Quand tu arrives chez quelqu'un aux Émirats, on t'offre toujours du café à la cardamome et des dattes sucrées — c'est impoli de refuser ! Les hommes portent une longue robe blanche appelée kandura et les femmes une belle robe noire appelée abaya."
+  ],
+  "history": [
+    "Il y a très longtemps, des pêcheurs plongeaient dans le golfe pour ramasser des perles brillantes qu'ils vendaient jusqu'en Inde et en Europe. Ces perles étaient si précieuses qu'elles valaient autant que de l'or !"
+  ],
   "wows": [
     "Le Burj Khalifa mesure 828 m de haut — c'est l'immeuble le plus grand du monde entier !",
     "L'île Palm Jumeirah est en forme de palmier et a été construite avec du sable au milieu de la mer.",
