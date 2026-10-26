@@ -24,7 +24,7 @@
     "keyColor": "#CE1126",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Monaco is a tiny principality — barely bigger than a city park — squeezed between France and the Mediterranean Sea. The Grimaldi family has ruled this rocky cliff since 1297. Today it is famous for its grand casino, its Formula One street race, and having more millionaires per square metre than anywhere else on Earth.",
+  "lead": "Monaco is a tiny country ruled by a prince. It is squeezed between France and the sea. The Grimaldi family has ruled this cliff since 1297. It has a grand casino and a Formula One street race.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "You won't believe this!"
   },
   "geo": [
-    "Monaco clings to a limestone cliff on the French Riviera, wrapped by France on three sides and the Mediterranean to the south. The whole country is barely bigger than New York's Central Park — you can walk across it in 20 minutes.",
-    "The harbour, Port Hercule, fills with the world's largest superyachts each spring. Engineers have reclaimed land from the sea over decades, quietly making Monaco a little bigger each year."
+    "Monaco clings to a limestone cliff on the French Riviera. It is barely bigger than New York's Central Park. You can walk across it in 20 minutes.",
+    "The harbour, Port Hercule, fills with the world's largest superyachts each spring. Engineers have built new land out into the sea, so Monaco grows a little each year."
   ],
   "animals": [
-    "Monaco's waters teem with Mediterranean life — octopus, sea bream, and moray eels lurk below the harbour. Striped dolphins and fin whales pass offshore each summer, tracked by the Oceanographic Museum's research boats.",
-    "On land and rooftop, the yellow-legged gull reigns, swooping over the marina with a sharp cry. Tiny gardens hide red foxes and the blind Mediterranean mole, navigating entirely by touch beneath the soil."
+    "Octopus, sea bream, and moray eels hide below the harbour. Striped dolphins and fin whales pass by each summer.",
+    "The yellow-legged gull rules the rooftops. The blind Mediterranean mole finds its way by touch under the soil."
   ],
   "culture": [
-    "Monaco blends French elegance with Italian warmth. The national dish is barbajuan — a crispy fried parcel stuffed with chard and ricotta. The Monte-Carlo Ballet, Philharmonic Orchestra, and Opéra all share the same gilded Belle Époque building.",
-    "The Monaco Grand Prix turns every street into a racing circuit each May. Native Monegasques make up only about a quarter of residents — and are banned by law from entering the famous casino."
+    "Monaco mixes French style with Italian warmth. The national dish is barbajuan, a crispy fried parcel of chard and ricotta. The ballet, orchestra, and opera all share one grand theatre.",
+    "Every May, the Monaco Grand Prix turns the streets into a racing circuit. Only about a quarter of residents are native Monegasques. The law bans them from gambling in the casino."
   ],
   "history": [
-    "In 1297, François Grimaldi dressed as a monk and tricked his way into Monaco's fortress, sword hidden under his habit. His family has held the rock ever since — the oldest reigning dynasty in Europe.",
-    "In the 1860s Monaco nearly went bankrupt. Prince Charles III opened the Monte-Carlo Casino in 1863; wealthy gamblers flooded in. By 1869 revenues were so vast he abolished income tax — a policy that still stands."
+    "In 1297, François Grimaldi dressed as a monk and tricked his way into Monaco's fortress. He hid a sword under his robe. His family still holds the rock.",
+    "By the 1860s, Monaco was nearly bankrupt. Prince Charles III opened the Monte-Carlo Casino in 1863, and wealthy gamblers flooded in. By 1869 he had ended income tax."
   ],
   "wows": [
-    "Monaco is the world's most densely populated country, with over 18,000 people per km².",
-    "Monegasque citizens are banned by law from gambling in the Monte-Carlo Casino.",
-    "Prince Charles III abolished income tax in 1869 — and it has never come back.",
-    "The Monaco Grand Prix has run on the same street circuit since 1929 — motorsport's oldest active race.",
-    "Monaco has zero public debt — one of the very few countries that owes nothing.",
-    "Fontvieille district sits entirely on land reclaimed from the sea.",
-    "Ayrton Senna won the Monaco Grand Prix six times — a record that still stands."
+    "Monaco is the world's most crowded country, with over 18,000 people per km².",
+    "The law bans Monegasque citizens from gambling in the Monte-Carlo Casino.",
+    "Prince Charles III ended income tax in 1869, and it never came back.",
+    "The Monaco Grand Prix has used the same streets since 1929.",
+    "Monaco has zero public debt, so it owes nothing.",
+    "Fontvieille district sits entirely on land built out into the sea.",
+    "Ayrton Senna won the Monaco Grand Prix six times, a record."
   ],
   "myths": [
     {
-      "myth": "Monaco is just for billionaires",
-      "fact": "Anyone can visit freely. The casino, palace square, and beaches are open to all — a train from Nice takes about 25 minutes and costs a few euros."
+      "myth": "Monaco has its own airport",
+      "fact": "Monaco has only a heliport. Helicopters fly there from Nice airport in about seven minutes."
     },
     {
-      "myth": "Monaco has its own airport",
-      "fact": "There is no airport in Monaco at all. The nearest is Nice Côte d'Azur — a 20-minute helicopter hop or 40-minute drive along the Riviera."
+      "myth": "Monaco is part of France",
+      "fact": "Monaco is its own country, with its own flag and laws. It joined the United Nations in 1993."
     }
   ],
   "words": [

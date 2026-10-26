@@ -24,7 +24,7 @@
     "keyColor": "#00AEEF",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Kazakhstan is the world's biggest landlocked country — endless golden steppe, Tian Shan peaks, and skies that swallow the horizon. Kazakh nomads rode horses here for millennia, living in portable round tents called yurts. Today it launches rockets from Baikonur and grows futuristic cities from flat grassland.",
+  "lead": "Kazakhstan is the world's biggest landlocked country. It has endless golden steppe and Tian Shan peaks. Nomads rode horses here for thousands of years and lived in round tents called yurts. Today rockets launch from Baikonur.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Wild herds & hunting eagles",
     "culture": "Nomad feasts & dombra songs",
     "history": "Silk Road to rocket age",
-    "wows": "Wait, really?!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Kazakhstan is so vast it spans the width of Western Europe. Most is steppe — endless flat grassland — but the south-east rises into jagged Tian Shan peaks, and the west dips into a hollow 132 m below sea level.",
-    "The Aral Sea, once the world's fourth-largest lake, shrank to 10% of its size after Soviet engineers diverted its rivers for cotton. Kazakhstan built a dam in 2005 and the northern section is slowly, remarkably, refilling."
+    "Kazakhstan is as wide as Western Europe. Most of it is steppe, which is flat grassland. The south-east has jagged Tian Shan peaks. The west dips to 132 m below sea level.",
+    "The Aral Sea was once the world's fourth-largest lake. It shrank to 10% of its size when Soviet engineers diverted its rivers. A 2005 dam is refilling the north."
   ],
   "animals": [
-    "Kazakhstan's national animal is the golden eagle. Hunters called berkutchi have trained these birds to hunt from horseback for over 4,000 years — a golden eagle can dive at 240 km/h and spot prey a kilometre away.",
-    "The saiga antelope's bulbous nose filters steppe dust and warms icy air. Once nearly extinct, the population has rebounded to over 2.8 million — one of conservation's greatest comeback stories."
+    "The golden eagle is the national animal. Hunters called berkutchi have flown eagles from horseback for over 4,000 years. A golden eagle dives at 240 km/h.",
+    "The saiga antelope has a bulbous nose that filters dust and warms icy air. It was nearly extinct. Now over 2.8 million roam the steppe."
   ],
   "culture": [
-    "Kazakh hospitality is legendary — guests are always fed first, and hosts carve a whole sheep, giving the head to the most honoured visitor. The national dish, beshbarmak ('five fingers'), is boiled horse or lamb over noodles, eaten with your hands.",
-    "Music flows through Kazakh life via the dombra, a two-stringed lute that is the soul of the steppe. Fermented mare's milk, kumiss, has been drunk here for 5,000 years and is considered both beverage and medicine."
+    "Guests are fed first. The host gives the sheep's head to the most honoured visitor. Beshbarmak ('five fingers') is boiled horse or lamb on noodles, eaten by hand.",
+    "The dombra, a two-stringed lute, is the soul of the steppe. People have drunk kumiss, fermented mare's milk, for 5,000 years. They treat it as both drink and medicine."
   ],
   "history": [
-    "Kazakh lands sat at the crossroads of the Silk Road; caravans of silk and spice passed through Taraz and Otrar. Genghis Khan swept through in 1219, but the Kazakh Khanate rose again in the 15th century as proud nomadic rulers.",
-    "Russia absorbed Kazakhstan through the 18th–19th centuries, and Soviet rule brought space launches from Baikonur. Kazakhstan declared independence on 16 December 1991 — the very last Soviet republic to do so."
+    "Silk and spice caravans crossed Kazakh lands through Taraz and Otrar. Genghis Khan swept through in 1219. The Kazakh Khanate rose in the 15th century.",
+    "Russia took over Kazakhstan in the 18th–19th centuries. Soviet rule brought space launches from Baikonur. Kazakhstan declared independence on 16 December 1991, the last Soviet republic to do so."
   ],
   "wows": [
-    "Kazakhstan is larger than all of Western Europe, yet no border touches an ocean.",
-    "DNA studies confirm the wild apple forests near Almaty are the original home of every apple on Earth.",
-    "Baikonur launched Sputnik (1957) and Yuri Gagarin (1961) — both space firsts on Kazakh soil.",
-    "The tenge symbol ₸ was chosen by national competition in 2007, 14 years after the currency launched.",
-    "Khan Tengri's pure marble summit glows blood-red at sunset — climbers call it King of the Sky.",
-    "The saiga rebounded from 50,000 to 2.8 million animals in two decades — a record wildlife recovery.",
-    "Astana's winters plunge to −40 °C, making it one of the coldest capital cities on the planet."
+    "Kazakhstan is bigger than Western Europe but has no ocean coast.",
+    "DNA studies show the wild apple forests near Almaty gave us every apple.",
+    "Baikonur launched Sputnik in 1957 and Yuri Gagarin in 1961.",
+    "The ₸ symbol for the tenge was chosen in 2007.",
+    "Khan Tengri's marble summit glows blood-red at sunset.",
+    "Saiga numbers jumped from 50,000 to 2.8 million in two decades.",
+    "Astana's winters plunge to −40 °C, among the coldest for any capital."
   ],
   "myths": [
     {
-      "myth": "Kazakhstan is just like Borat shows",
-      "fact": "Borat was filmed in Romania. Real Kazakhstan has modern cities, women vote and drive, and the government was furious with the film."
+      "myth": "Borat shows what Kazakhstan is really like",
+      "fact": "Borat was filmed in Romania. Real Kazakhstan has modern cities, and women vote and drive."
     },
     {
-      "myth": "It's all flat, featureless desert",
-      "fact": "The steppe is vast, but Kazakhstan also has Tian Shan glaciers, Altai forests, deep canyons, and a Caspian Sea coastline."
+      "myth": "A lake is either fresh or salty",
+      "fact": "Kazakhstan's Lake Balkhash is half fresh water and half salty, split by a narrow strait."
     }
   ],
   "words": [

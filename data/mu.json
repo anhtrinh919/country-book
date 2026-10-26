@@ -24,7 +24,7 @@
     "keyColor": "#C0202E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Mauritius is a tiny island in the Indian Ocean, 2,000 km off Africa. No one lived here until the 1600s, so everyone today descends from Dutch, French, British, African, or Indian arrivals. That rich mix created one of the world's most colourful cultures — and the island is also the only place the famous dodo bird ever called home.",
+  "lead": "Mauritius is a tiny island in the Indian Ocean, 2,000 km off Africa. No one lived here until the 1600s. People came from Holland, France, Britain, Africa and India. It was the only home of the dodo.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Seven reasons to be amazed"
   },
   "geo": [
-    "Mauritius is a volcanic island ringed by coral reefs and crystal-clear lagoons. The centre rises into rugged mountains draped in tropical forest, while black sand beaches and dramatic basalt cliffs dot the coast.",
-    "The south-west hides the Seven Coloured Earths at Chamarel — dunes striped in seven shades of red, violet, blue and yellow caused by different amounts of iron in volcanic soil. No matter how often they are mixed, the colours always re-separate."
+    "Mauritius is a volcanic island ringed by coral reefs and clear lagoons. Black sand beaches and basalt cliffs dot the coast.",
+    "The Seven Coloured Earths at Chamarel are dunes striped red, violet, blue and yellow. Iron in the volcanic soil makes the colours."
   ],
   "animals": [
-    "The pink pigeon is Mauritius's rarest bird — just 10 survived in the wild in 1991, but careful conservation has brought hundreds back. The Mauritian flying fox, a large fruit bat, pollinates the forest each night.",
-    "Beneath the turquoise lagoons, spinner dolphins, green sea turtles and reef fish thrive. Aldabra giant tortoises — up to 250 kg — were introduced to restore island ecosystems, filling the role once played by long-lost native relatives."
+    "In 1991 just 10 pink pigeons survived in the wild. Careful care has brought back hundreds. The Mauritian flying fox, a big fruit bat, pollinates the forest at night.",
+    "Spinner dolphins, green sea turtles and reef fish swim in the lagoons. Aldabra giant tortoises, up to 250 kg, were brought in to restore the island's nature."
   ],
   "culture": [
-    "Mauritius is Africa's only Hindu-majority nation, yet celebrates Eid, Christmas, Diwali and Chinese New Year with equal joy. The result is a feast of festivals and street food — from Indian dholl puri flatbreads to Creole rougaille stew.",
-    "Sega music, born when African enslaved people danced around campfires to lift their spirits, was recognised by UNESCO in 2014. Played on goatskin drums called ravanne, it gets everyone moving. More than half the island speaks French-rooted Creole at home."
+    "Mauritius is Africa's only Hindu-majority nation. People celebrate Eid, Christmas, Diwali and Chinese New Year. Try dholl puri, an Indian flatbread, or rougaille, a Creole stew.",
+    "Sega music began when enslaved Africans danced around campfires. UNESCO honoured it in 2014. Players beat goatskin drums called ravanne."
   ],
   "history": [
-    "Mauritius was completely uninhabited until Dutch sailors arrived in 1638 — one of the few countries today with no indigenous people. The Dutch accidentally introduced rats and pigs that ate dodo eggs; by 1681, the dodo was gone forever.",
-    "France built sugar plantations using enslaved Africans; Britain seized the island in 1810 and freed the enslaved, replacing them with Indian indentured workers. Mauritius won independence peacefully on 12 March 1968 and became a republic in 1992."
+    "Dutch sailors reached uninhabited Mauritius in 1638. Their rats and pigs ate dodo eggs. By 1681 the dodo was gone forever.",
+    "France built sugar plantations worked by enslaved Africans. Britain took the island in 1810 and freed them. Mauritius became independent peacefully on 12 March 1968 and a republic in 1992."
   ],
   "wows": [
-    "The dodo, found only in Mauritius, went from first sighting to total extinction in under 80 years.",
-    "An optical illusion off south-west Mauritius looks like an underwater waterfall — seen only from the air.",
-    "Mauritius has no indigenous people; everyone descends from settlers who arrived after 1638.",
-    "The Seven Coloured Earths always re-separate into distinct bands, even after being fully mixed.",
-    "Sega music was created by enslaved people as emotional release — now it is UNESCO heritage.",
-    "Mauritius briefly became a high-income country in 2020, one of only two in Sub-Saharan Africa.",
-    "The Mauritian rupee coin features the dodo, a bird extinct for over 340 years."
+    "The dodo went extinct in under 80 years after its first sighting.",
+    "From the air, the sea off the south-west looks like an underwater waterfall.",
+    "Mauritius has no indigenous people, because everyone descends from settlers.",
+    "The Seven Coloured Earths re-separate into bands, even after mixing.",
+    "Enslaved people created sega music, now UNESCO heritage.",
+    "Mauritius briefly became a high-income country in 2020.",
+    "The dodo on Mauritius's coat of arms has been extinct for over 340 years."
   ],
   "myths": [
     {
-      "myth": "Mauritius is just a honeymoon beach resort",
-      "fact": "Beyond the beaches: Hindu temples, Chinese shrines, Creole markets, volcanic peaks, and wildlife found nowhere else on Earth."
+      "myth": "Mauritius belongs to France",
+      "fact": "It is independent. Nearby Réunion is part of France."
     },
     {
-      "myth": "The dodo was slow and stupid",
-      "fact": "The dodo evolved with no predators, so it was fearless, not foolish. Invasive rats eating its eggs — not just hunting — drove it to extinction."
+      "myth": "The dodo was a made-up story",
+      "fact": "Dodos were real. Sailors drew them, and scientists have dug up their bones."
     }
   ],
   "words": [

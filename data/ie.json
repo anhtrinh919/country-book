@@ -24,7 +24,7 @@
     "keyColor": "#169B62",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Ireland is a small island wrapped in forty shades of green at the western edge of Europe. Atlantic rain keeps everything lush. It has ancient castles, lively music in cosy pubs, and some of the friendliest people anywhere. More Irish people live abroad than on the island, spreading their stories and warmth to every corner of the world.",
+  "lead": "Ireland is a small island at the western edge of Europe, wrapped in forty shades of green. Atlantic rain keeps everything lush. It has ancient castles and lively music in cosy pubs. More Irish people live abroad than on the island.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Cliffs, loughs & rolling green",
     "animals": "Creatures of bog & wild coast",
-    "culture": "Music, myth & mighty craic",
+    "culture": "Music, myth & great craic",
     "history": "Saints, Vikings & independence",
-    "wows": "Jaw-dropping Ireland facts"
+    "wows": "Ireland, wow!"
   },
   "geo": [
-    "Ireland is a patchwork of emerald fields divided by stone walls, dotted with glassy lakes (loughs) and slow brown rivers. Rain falls about 150 days a year, keeping everything impossibly green.",
-    "The west coast is dramatic: the Cliffs of Moher rise 214 m from the Atlantic, and the Burren is a limestone plateau where Arctic, Alpine, and Mediterranean wildflowers all grow side by side."
+    "Green fields are divided by stone walls, dotted with glassy lakes called loughs. Rain falls about 150 days a year, keeping everything green.",
+    "The Cliffs of Moher rise 214 m from the Atlantic. In the Burren, a limestone plateau, Arctic, Alpine and Mediterranean wildflowers grow side by side."
   ],
   "animals": [
-    "Ireland's largest land mammal is the red deer, which roams Killarney National Park. Grey seals bob in cold bays, and harbour porpoises spin through offshore waves.",
-    "Boglands shelter the Irish hare — a chunkier cousin of the brown hare. White-tailed eagles were extinct here for a century but were reintroduced in 2007 and now soar over western lakes again."
+    "The red deer, Ireland's largest land mammal, roams Killarney National Park. Grey seals bob in cold bays.",
+    "The Irish hare is a chunkier cousin of the brown hare. White-tailed eagles vanished for a century. They were brought back in 2007."
   ],
   "culture": [
-    "Ireland is the only country whose national emblem is a musical instrument — the harp. Traditional sessions (seisiún) fill pubs with fiddles, flutes, and bodhrán drums, with no stage or schedule.",
-    "Storytelling is a national art. Ireland has four Nobel Prize-winning writers. Halloween began here as the ancient Celtic festival Samhain, when the veil between worlds grew thin."
+    "The harp is Ireland's national emblem, the only musical instrument that is any country's emblem. Traditional sessions (seisiún) fill pubs with fiddles, flutes and bodhrán drums.",
+    "Storytelling is a national art. Ireland has four Nobel Prize-winning writers. Halloween began here as Samhain, an ancient Celtic festival."
   ],
   "history": [
-    "Irish monks kept learning alive through Europe's Dark Ages, copying manuscripts in island monasteries. Vikings raided in the 800s but settled too, founding Dublin around 841 CE as a trading town.",
-    "Britain ruled Ireland for centuries until the 1916 Easter Rising sparked a war for independence. The Irish Free State came in 1922; the Republic was formally proclaimed in 1949."
+    "Irish monks kept learning alive through Europe's Dark Ages by copying manuscripts. Vikings raided in the 800s, then settled. They founded Dublin around 841 CE.",
+    "The 1916 Easter Rising sparked a war for independence from Britain. The Irish Free State began in 1922. The Republic was proclaimed in 1949."
   ],
   "wows": [
-    "The Book of Kells (c. 800 CE) is so detailed monks may have used a lens centuries before invention.",
-    "No snakes live in Ireland — glaciers wiped them out; the sea stopped them returning, not St Patrick.",
-    "Guinness brewery signed a 9,000-year lease on its Dublin site in 1759 — and is still brewing there.",
-    "Newgrange tomb (3,200 BCE) predates Stonehenge and the Egyptian pyramids by hundreds of years.",
-    "Ireland exports more software than any other European country, home to dozens of global tech giants.",
-    "Irish Ogham script carved on standing stones is one of Europe's oldest alphabets, over 1,500 years old.",
-    "On winter solstice, sunrise shines perfectly down Newgrange's passage — engineered 5,000 years ago."
+    "The Book of Kells (c. 800 CE) is full of tiny detail.",
+    "Glaciers and sea, not St Patrick, keep Ireland snake-free.",
+    "Guinness signed a 9,000-year lease on its Dublin site in 1759.",
+    "Newgrange tomb (3,200 BCE) is older than Stonehenge and the pyramids.",
+    "Ireland exports more software than any other European country.",
+    "Ogham script on standing stones is over 1,500 years old.",
+    "At winter solstice, sunrise shines down Newgrange's passage."
   ],
   "myths": [
     {
       "myth": "Ireland is always cold and grey",
-      "fact": "The Gulf Stream keeps Ireland mild — Dublin rarely sees snow, and daffodils often bloom in February, surprising most visitors."
+      "fact": "The Gulf Stream keeps Ireland mild. Dublin rarely sees snow. Daffodils often bloom in February."
     },
     {
-      "myth": "Irish people love leprechauns",
-      "fact": "Leprechauns are minor in real Irish folklore; locals find the tourist obsession more amusing than something they actually celebrate."
+      "myth": "St Patrick was born in Ireland",
+      "fact": "Patrick was born in Roman Britain. Raiders took him to Ireland as a teenage slave."
     }
   ],
   "words": [

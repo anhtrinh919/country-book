@@ -24,7 +24,7 @@
     "keyColor": "#00209F",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Haiti was the first country built by people who freed themselves from slavery. In 1804 Haitians defeated Napoleon's armies and declared independence. About 12 million people live among rugged mountains and bright blue sea. Haiti is the birthplace of Vodou, carnival music, and vivid iron sculptures hammered from oil drums.",
+  "lead": "Haiti was the first country built by people who freed themselves from slavery. In 1804 Haitians beat Napoleon's armies and declared independence. About 12 million people live among rugged mountains and bright blue sea.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN CITIES:",
   "sections": {
     "geography": "Mountains, sea & surprise",
-    "animals": "Horns, wings & venom",
+    "animals": "Venom, horns & wings",
     "culture": "Drums, colour & spirit",
     "history": "Revolution & resistance",
-    "wows": "Mind-blowing Haiti facts"
+    "wows": "Haiti, wow!"
   },
   "geo": [
-    "Haiti is one of the most mountainous countries in the Caribbean — the Taíno name Ayiti means 'land of high mountains'. Peaks rise sharply from the coast, with valleys where farmers grow coffee and mangoes on terraced hillsides.",
-    "Haiti shares Hispaniola with the Dominican Republic. Two peninsulas jut into the Caribbean Sea, giving Haiti one of the longest coastlines in the region, with turquoise bays and hidden beaches."
+    "Haiti is one of the most mountainous countries in the Caribbean. Its Taíno name Ayiti means 'land of high mountains'. Farmers grow coffee and mangoes on terraced hillsides.",
+    "Haiti shares the island of Hispaniola with the Dominican Republic. Two peninsulas jut into the sea, giving it one of the region's longest coastlines."
   ],
   "animals": [
-    "Haiti's strangest mammal is the Hispaniolan solenodon, a long-nosed creature that injects venom through a tooth groove — a trick almost no other mammal can do, unchanged since dinosaur times.",
-    "The rhinoceros iguana, named for bony nose-horn bumps, is a dinosaur-sized lizard on rocky limestone cliffs. The bright-green Hispaniolan Amazon parrot chatters loudly in mountain forest canopies above the coast."
+    "The Hispaniolan solenodon has a long nose and injects venom through a groove in its tooth. Almost no other mammal can do that.",
+    "The rhinoceros iguana has bony bumps like a horn on its nose. The bright-green Hispaniolan Amazon parrot chatters loudly in mountain forests."
   ],
   "culture": [
-    "Haiti has a vivid art scene unlike anywhere else. Jacmel craftspeople make giant papier-mâché carnival masks — dragons, pigs, politicians — that parade during Kanaval. Artists hammer recycled oil drums into haunting iron sculptures, a tradition begun by blacksmith Georges Liautaud.",
-    "Vodou is Haiti's spiritual heart, rooted in West African tradition and used for healing and community. Rara music fills streets during Lent: bamboo vaksen horns, metal bells, and thundering drums echo around every corner."
+    "Craftspeople in Jacmel make giant papier-mâché masks of dragons, pigs and politicians for Kanaval. Artists hammer old oil drums into iron sculptures, a tradition begun by blacksmith Georges Liautaud.",
+    "Vodou is Haiti's spiritual heart. It comes from West African tradition. During Lent, rara music fills the streets with bamboo horns called vaksen, bells and drums."
   ],
   "history": [
-    "In 1791, enslaved people on the French colony of Saint-Domingue rose up in history's greatest slave rebellion. Led by Toussaint Louverture and others, they fought French, Spanish, and British armies for 13 brutal years.",
-    "On 1 January 1804, Dessalines declared the Republic of Haiti — the first free Black nation and first Latin American country to win independence, inspiring freedom movements worldwide."
+    "In 1791 enslaved people on the French colony of Saint-Domingue rose up. Led by Toussaint Louverture and others, they fought French, Spanish and British armies for 13 years.",
+    "On 1 January 1804 Dessalines declared the Republic of Haiti. It was the first free Black nation and the first Latin American country to win independence."
   ],
   "wows": [
-    "Haiti produced half of Europe's sugar and coffee in the 1750s — it was called 'The Pearl of the Antilles'.",
-    "After independence France sent warships demanding 150 million gold francs; Haiti finished paying only in 1947.",
-    "The Citadelle Laferrière is the Western Hemisphere's largest fortress — mortar mixed with molasses and blood.",
-    "Haiti's flag was born when Dessalines ripped the white stripe from a French tricolour and re-stitched it.",
-    "The Hispaniolan solenodon injects venom through a tooth groove — a 76-million-year-old mammal trick.",
-    "Every tap-tap bus is painted head-to-toe with saints, footballers, and vivid religious slogans.",
-    "Haitian Creole was created in one or two generations by enslaved Africans from dozens of language groups."
+    "Haiti made half of Europe's sugar and coffee in the 1750s.",
+    "Haiti finished paying France 150 million gold francs in 1947.",
+    "The Citadelle Laferrière is the Americas' largest fortress.",
+    "Haiti's flag began when Dessalines ripped the white from a French tricolour.",
+    "The solenodon's venom trick is 76 million years old.",
+    "Every tap-tap bus is painted with saints and footballers.",
+    "Haitian Creole was created in one or two generations."
   ],
   "myths": [
     {
-      "myth": "Haiti is just dangerous and broken",
-      "fact": "Haiti has stunning beaches, lush mountains, vibrant cities, and an extraordinary art scene. Real challenges exist, but its creativity has dazzled the world for centuries."
+      "myth": "Nobody lived in Haiti before Columbus",
+      "fact": "Taíno people had lived there for hundreds of years. In 1492 Columbus's ship ran aground off Haiti's north coast."
     },
     {
       "myth": "Vodou is dark magic",
-      "fact": "Vodou is a West African-rooted religion used for healing and community guidance. The Hollywood horror version has nothing to do with the real practice."
+      "fact": "Followers believe in one creator, Bondye. Helper spirits called lwa guide daily life. Pin-stuck dolls come from movies."
     }
   ],
   "words": [

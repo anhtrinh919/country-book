@@ -24,7 +24,7 @@
     "keyColor": "#006B3F",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Togo is a tiny sliver of West Africa — so narrow you could drive across it in an hour. Its capital Lomé sits right on the beach, with Atlantic waves close to busy market stalls. Togo has mud tower-houses, the world's biggest voodoo market, and forests where elephants roam. Small in size, enormous in character.",
+  "lead": "Togo is a thin slice of West Africa. You can drive across it in an hour. Lomé, the capital, sits on a beach. It has mud tower-houses, the world's biggest voodoo market, and forest elephants.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Wild things, north to south",
     "culture": "Drums, cloth & voodoo",
     "history": "From Togoland to freedom",
-    "wows": "Wait — seriously?"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Togo is one of the world's narrowest countries — barely 56 km wide at its slimmest. It stretches 560 km from the Gulf of Guinea beach in the south all the way north to dry savanna bordering Burkina Faso.",
-    "The landscape shifts heading north: sandy coast gives way to rolling plateaus, then the Togo Mountains rise. Mont Agou, at 986 m, is the tallest peak, and open savanna fans out to the north."
+    "Togo is one of the world's narrowest countries. At its slimmest it is only 56 km wide. It stretches 560 km, from the Gulf of Guinea beach to dry savanna by Burkina Faso.",
+    "Going north, sandy coast turns into rolling plateaus. Then the Togo Mountains rise. Mont Agou, at 986 m, is the tallest peak. Savanna fills the far north."
   ],
   "animals": [
-    "Fazao-Malfakassa National Park shelters about 60 savanna elephants — the most westerly viable elephant group in the Guinea savanna zone — plus patas monkeys, baboons, and roan antelopes.",
-    "The park hosts over 244 bird species. Southern rivers shelter hippos and crocodiles, while vervet monkeys and bushbuck move between gallery woodland and open grassland."
+    "Fazao-Malfakassa National Park has about 60 savanna elephants. They are the most westerly ones in the Guinea savanna. Patas monkeys, baboons, and roan antelopes live there too.",
+    "The park has over 244 bird species. Hippos and crocodiles live in the southern rivers. Vervet monkeys and bushbuck roam the woods."
   ],
   "culture": [
-    "The Ewe people weave stunning kente cloth — vivid geometric strips stitched into colourful robes worn at festivals. Their complex polyrhythmic drumming is studied by musicians in universities worldwide.",
-    "Vodun (voodoo) is an officially recognised religion. Lomé's Akodessewa market is the world's largest fetish market. The annual Yam Festival is a joyful harvest celebration of food, dance, and community."
+    "The Ewe people weave kente cloth, stitching bright strips into festival robes. Their drumming layers many beats at once. Musicians study it in universities worldwide.",
+    "Vodun (voodoo) is an officially recognised religion. Lomé's Akodessewa is the world's largest voodoo market. Each year, the Yam Festival celebrates the harvest with food and dance."
   ],
   "history": [
-    "Germany claimed Togoland in 1884, building a railway and Lomé's port. In 1914, British and French forces captured it in the very first Allied victory of WWI — in just 26 days.",
-    "France governed the eastern half until 27 April 1960, when Togo gained independence. Koutammakou in the north, with its mud tower-houses, became a UNESCO World Heritage Site in 2004."
+    "Germany claimed Togoland in 1884. It built a railway and Lomé's port. In 1914, British and French forces captured it in 26 days. It was the first Allied victory of World War I.",
+    "France governed the eastern half until 27 April 1960. Then Togo became independent. In 2004, Koutammakou, with its mud tower-houses, became a UNESCO World Heritage Site."
   ],
   "wows": [
-    "Lomé borders Ghana so closely you can stroll on foot from one country to the other through the city.",
-    "Togo holds the world's 4th-largest phosphate reserves, a key fertiliser helping grow food globally.",
-    "Lomé's Akodessewa is Earth's largest voodoo market, supplying healers across West Africa.",
-    "Germany built one of Africa's earliest railways here in the 1900s to move goods to Lomé's port.",
-    "The Batammariba build two-storey mud tower-houses called takienta using the same design for 300+ years.",
-    "Togo's flag was designed by artist Paul Ahyi in 1960; each of its five stripes stands for one region.",
-    "Ewe drumming from southern Togo is so complex that universities in the USA and Europe teach it formally."
+    "In Lomé, you can walk from Togo into Ghana.",
+    "Togo has the world's 4th-largest phosphate reserves, used for fertiliser.",
+    "Lomé's voodoo market supplies healers across West Africa.",
+    "Germany built one of Africa's earliest railways in Togo in the 1900s.",
+    "The Batammariba build mud tower-houses, called takienta, in a design over 300 years old.",
+    "Paul Ahyi designed the flag in 1960; its five stripes stand for five regions.",
+    "Ewe drumming is so tricky that universities in the USA and Europe teach it."
   ],
   "myths": [
     {
       "myth": "Voodoo is all about evil spells",
-      "fact": "Vodun is a West African religion focused on ancestors, healing, and community. The scary Hollywood version is fiction — balance and respect are its true heart."
+      "fact": "Vodun is about ancestors, healing, and community. Movies made it look scary."
     },
     {
-      "myth": "Togo is just a tiny forgotten place",
-      "fact": "Togo has one of West Africa's busiest ports, a UNESCO World Heritage Site, globally studied music, and phosphate reserves that help feed the world."
+      "myth": "Voodoo began in Haiti",
+      "fact": "It began in West Africa. Enslaved people later carried it across the ocean to Haiti."
     }
   ],
   "words": [

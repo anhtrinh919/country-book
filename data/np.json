@@ -24,7 +24,7 @@
     "keyColor": "#BA1B1E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Squeezed between India and China, Nepal holds eight of the world's ten tallest mountains. From steamy jungles where rhinos roam to icy peaks where snow leopards prowl, it packs wild variety into a land barely bigger than England. The Buddha was born here; ancient temples, vivid festivals, and a warm Namaste draw adventurers and pilgrims.",
+  "lead": "Nepal sits between India and China. Eight of the world's ten tallest mountains are here. Rhinos roam its steamy jungles. Snow leopards prowl its icy peaks. The Buddha was born here too.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "You won't believe this!"
   },
   "geo": [
-    "Nepal stretches 800 km east to west yet crosses four astonishing climate zones. The flat, steamy Terai in the south touches the Ganges plain; mid-hills rise in the middle; then the Great Himalayas loom in the north, home to eight peaks above 8,000 m.",
-    "Landlocked between India and China, Nepal has no sea — but thousands of glacial rivers fed by snow-melt. The Kali Gandaki Gorge drops over 5,500 m between two Himalayan peaks, making it one of Earth's deepest gorges."
+    "Nepal stretches 800 km from east to west. It has four climate zones. The south is flat and steamy. The north has eight peaks above 8,000 m.",
+    "Nepal has no sea, but thousands of rivers run from melting snow. The Kali Gandaki Gorge drops over 5,500 m between two peaks."
   ],
   "animals": [
-    "The warm Terai lowlands shelter the greater one-horned rhinoceros and Bengal tiger inside Chitwan National Park. Rare Gangetic river dolphins swim in jungle rivers, and wild elephants wade through tall elephant grass.",
-    "High in the mountains, the elusive snow leopard hunts among glaciers while red pandas nap in rhododendron forests. Nepal's national bird, the Danphe (Himalayan monal pheasant), flashes rainbow feathers across alpine meadows."
+    "Rhinos and Bengal tigers live in Chitwan National Park. River dolphins swim in the jungle rivers. Wild elephants wade through tall grass.",
+    "Shy snow leopards hunt high among the glaciers. Red pandas nap in rhododendron forests. The Danphe, or Himalayan monal pheasant, is the national bird."
   ],
   "culture": [
-    "Nepal is Hindu and Buddhist all at once — temples to Shiva stand beside golden stupas draped in prayer flags. Festivals like Dashain and Tihar (festival of lights) fill the streets with colour, music, and marigolds for weeks at a time.",
-    "The Newari people of Kathmandu Valley built breathtaking pagoda temples over 1,000 years ago. Sherpas from the high Himalayas are famous worldwide as expert mountain guides. Everywhere, pressed-hands Namaste greets strangers with genuine warmth."
+    "Nepal is Hindu and Buddhist at once. Temples to Shiva stand beside golden stupas. Dashain and Tihar, the festival of lights, fill streets with colour and marigolds.",
+    "The Newari people built Kathmandu Valley's pagoda temples over 1,000 years ago. Sherpas guide climbers up the mountains. People say Namaste with hands pressed together."
   ],
   "history": [
-    "Lumbini, in the Terai, is where the Buddha was born around 563 BCE — one of the world's great spiritual birthplaces. For centuries rival kingdoms ruled the valleys until Prithvi Narayan Shah united them into one Nepal in 1768.",
-    "Nepal was the last Hindu kingdom on Earth until 2008, when citizens voted to become a republic. The Gurkha soldiers of Nepal earned worldwide fame fighting alongside British forces — their curved kukri knife became a symbol of extraordinary courage."
+    "The Buddha was born in Lumbini around 563 BCE. Rival kingdoms ruled the valleys for centuries. Prithvi Narayan Shah joined them into one Nepal in 1768.",
+    "Nepal was the last Hindu kingdom until 2008, when people voted for a republic. Gurkha soldiers fought beside British forces."
   ],
   "wows": [
-    "Nepal's flag is the world's only non-rectangular national flag — shaped from two stacked triangles.",
-    "Eight of the world's ten highest mountains stand inside Nepal, including Everest at 8,849 m.",
-    "The Buddha was born in Lumbini, Nepal — one of Asia's most sacred pilgrimage sites.",
-    "Nepal has 124 spoken languages — more than most countries ten times its size.",
-    "The Kali Gandaki Gorge between two Himalayan giants is deeper than the Grand Canyon.",
-    "Kathmandu Valley was, legend says, once a vast lake drained by a god with one sword-stroke.",
-    "Kami Rita Sherpa has summited Everest 32 times — the all-time world record."
+    "Nepal's flag is the only one that is not a rectangle.",
+    "Everest rises 8,849 m above sea level.",
+    "Lumbini, where the Buddha was born, is a sacred pilgrim site.",
+    "Nepal has 124 languages, more than most countries ten times bigger.",
+    "The Kali Gandaki Gorge is deeper than the Grand Canyon.",
+    "Legend says a god drained Kathmandu Valley's lake with one sword stroke.",
+    "Kami Rita Sherpa has climbed Everest 32 times, a world record."
   ],
   "myths": [
     {
-      "myth": "Everest is the tallest mountain",
-      "fact": "Everest is highest above sea level (8,849 m), but Mauna Kea in Hawaii is taller base-to-peak — most of it hides under the Pacific Ocean."
+      "myth": "Everest is the tallest mountain on Earth",
+      "fact": "Measured from base to peak, Mauna Kea in Hawaii is taller. Most of it hides under the sea."
     },
     {
-      "myth": "Nepal is only mountains",
-      "fact": "The southern Terai is flat tropical jungle full of tigers, rhinos, and elephants — as hot and lush as anywhere in India."
+      "myth": "Yetis are real animals in the Himalayas",
+      "fact": "DNA tests on hair and bones said to be from yetis showed they came from bears."
     }
   ],
   "words": [

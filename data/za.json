@@ -24,7 +24,7 @@
     "keyColor": "#007A4D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "South Africa sits at the very tip of Africa, where the Atlantic and Indian oceans nearly meet. It holds snowy mountains, scorching deserts, wild savannahs, and whale-watched coastlines all in one country. Eleven official languages make it the world's most multilingual nation — and its rainbow flag tells the whole story.",
+  "lead": "South Africa sits at the tip of Africa, where the Atlantic and Indian oceans meet. It has snowy mountains, hot deserts, wild savannah and whale-filled seas. It has 11 official languages.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "BIG REGIONS & CITIES:",
   "sections": {
-    "geography": "A land of two oceans & peaks",
+    "geography": "Two oceans, deserts & peaks",
     "animals": "Big Five & beyond",
     "culture": "Eleven tongues, one nation",
-    "history": "From apartheid to rainbow",
-    "wows": "Seriously surprising SA facts"
+    "history": "Hard times, then freedom",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "South Africa wraps around the southern tip of Africa. The flat Karoo desert stretches across the centre, while the dramatic Drakensberg mountains form a giant wall along the east.",
-    "Two oceans frame the coastline — the cold Atlantic in the west and the warm Indian Ocean in the east. They meet near Cape Agulhas, the true southern tip of the continent."
+    "South Africa wraps around Africa's southern tip. The flat Karoo desert spreads across the middle. The Drakensberg mountains form a giant wall in the east.",
+    "Two oceans touch its coast. The Atlantic is cold in the west. The Indian Ocean is warm in the east. They meet near Cape Agulhas, Africa's true southern tip."
   ],
   "animals": [
-    "South Africa is home to the Big Five — lion, leopard, elephant, rhino, and buffalo — all easily spotted in Kruger National Park, one of Africa's largest game reserves.",
-    "The waters off Hermanus are the world's best place to watch southern right whales from shore. Penguins waddle on Boulders Beach, just 40 km from Cape Town."
+    "South Africa has the Big Five: lion, leopard, elephant, rhino and buffalo. You can spot them all in Kruger National Park, one of Africa's largest game reserves.",
+    "Southern right whales swim close to shore at Hermanus, the best place to watch them from land. Penguins waddle on Boulders Beach, 40 km from Cape Town."
   ],
   "culture": [
-    "South Africa has 11 official languages — more than any other country. Greetings change every few kilometres: 'Sawubona' in Zulu, 'Molo' in Xhosa, 'Hallo' in Afrikaans.",
-    "Braai (barbecue) is the great national pastime — families gather around charcoal fires every weekend. Rugby is almost a religion, and the Springboks are World Cup champions."
+    "Greetings change every few kilometres. Zulu speakers say 'Sawubona'. Xhosa speakers say 'Molo'. Afrikaans speakers say 'Hallo'. Eleven languages share one country.",
+    "Families gather around charcoal fires for a braai (barbecue) every weekend. Rugby is almost a religion. The Springboks are World Cup champions."
   ],
   "history": [
-    "For millennia, San hunter-gatherers and Bantu-speaking farmers called southern Africa home. Dutch settlers arrived in 1652, followed by the British, reshaping the land through conflict.",
-    "Apartheid — a cruel system of racial separation — ruled from 1948 until 1994. Nelson Mandela spent 27 years in prison before becoming the country's first democratically elected president."
+    "San hunter-gatherers and Bantu-speaking farmers lived in southern Africa for thousands of years. Dutch settlers arrived in 1652. The British came next. Conflict reshaped the land.",
+    "Apartheid was a cruel system of racial separation. It lasted from 1948 until 1994. Nelson Mandela spent 27 years in prison, then became the first democratically elected president."
   ],
   "wows": [
-    "South Africa is the only country to have voluntarily dismantled its own nuclear weapons.",
-    "Johannesburg sits atop the world's largest gold reef — more gold mined here than anywhere on Earth.",
-    "SA has three capital cities: Pretoria, Cape Town, and Bloemfontein.",
-    "Boulders Beach hosts over 3,000 wild African penguins just 40 km from Cape Town.",
-    "South Africa produces around 80% of the world's platinum supply.",
-    "Baobab trees in Limpopo can live 2,000 years, storing thousands of litres inside.",
-    "Table Mountain is ~600 million years old — far older than the Himalayas."
+    "Only South Africa has given up its own nuclear weapons by choice.",
+    "Johannesburg sits on the world's largest gold reef.",
+    "South Africa has three capital cities: Pretoria, Cape Town and Bloemfontein.",
+    "Boulders Beach has over 3,000 wild African penguins.",
+    "South Africa produces around 80% of the world's platinum.",
+    "Limpopo's baobab trees live 2,000 years and store thousands of litres of water.",
+    "Table Mountain is about 600 million years old, older than the Himalayas."
   ],
   "myths": [
     {
-      "myth": "South Africa is mostly jungle",
-      "fact": "Most of SA is dry grassland (veld) and semi-desert Karoo — true rainforest covers only a tiny sliver of the south coast."
+      "myth": "A springbok is only a rugby team",
+      "fact": "It is also an antelope. When excited, it bounces high into the air in a move called pronking."
     },
     {
-      "myth": "Lions roam the streets",
-      "fact": "Wild lions live only in protected reserves like Kruger — city residents are far more likely to spot a hadeda ibis in the garden."
+      "myth": "Table Mountain is a volcano",
+      "fact": "No. It is mostly sandstone, a rock made of sand squeezed together over millions of years."
     }
   ],
   "words": [

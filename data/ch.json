@@ -24,7 +24,7 @@
     "keyColor": "#D0021B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Landlocked in the heart of Europe, Switzerland is where soaring Alpine peaks scrape the clouds, cowbells echo across meadows, and four languages share one train timetable. Tiny but mighty, it has stayed neutral in every war for over 200 years and invented the Red Cross, modern banking, and some of the world's best chocolate.",
+  "lead": "Switzerland is a small country in the middle of Europe. Tall Alpine peaks poke the clouds. People speak four languages here. The Swiss have stayed neutral (taking no side) in every war for over 200 years. They invented the Red Cross and modern banking.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Wait — Switzerland did WHAT?"
   },
   "geo": [
-    "Switzerland sits where the Alps rise like a giant wall across Central Europe. Glaciers carve deep valleys, and over 1,500 lakes shimmer between the peaks — Lake Geneva alone is big enough to sail a ship across. The Rhine, Rhône, and Inn rivers all begin here.",
-    "A rolling plateau in the middle is where most Swiss people live and work. The Jura Mountains form a quieter ridge to the north-west. Despite being surrounded by five countries, Switzerland has no coast at all."
+    "The Alps rise like a giant wall across the country. Over 1,500 lakes shimmer between the peaks. The Rhine, Rhône and Inn rivers all start here.",
+    "Most Swiss people live on the rolling plateau in the middle. The Jura Mountains form a quieter ridge in the north-west. Five countries surround Switzerland, but it has no coast."
   ],
   "animals": [
-    "The Alps are home to the ibex — a wild mountain goat with curving horns longer than your arm — and the marmot, a chubby, whistling rodent that naps underground all winter. Golden eagles soar above the treeline scanning for prey.",
-    "In forests below, red deer and chamois graze while the bearded vulture — reintroduced in 1991 — wheels on thermals above. The Saint Bernard dog was bred by monks at the Great Saint Bernard Pass to rescue lost travellers in the snow."
+    "The ibex is a wild mountain goat with horns longer than your arm. The marmot is a chubby rodent that naps underground all winter. Golden eagles soar above the treeline.",
+    "Red deer and chamois graze in the forests below. Bearded vultures, brought back in 1991, glide overhead. Monks bred the Saint Bernard dog to rescue lost travellers."
   ],
   "culture": [
-    "Switzerland speaks four languages and it works perfectly — signs switch tongue at cantonal borders. Swiss German sounds nothing like classroom German; even Germans struggle with it. Fondue and raclette (melted cheese poured over potatoes) are national comfort foods shared around a communal pot.",
-    "Watchmaking has been a Swiss art since the 1600s; Rolex and Swatch are both born here. Yodelling and the alphorn — a long wooden horn blasted across valleys — stay proud folk traditions. Direct democracy means citizens vote on nearly everything, from tax rates to new tunnels."
+    "Signs switch language at canton (Swiss region) borders. Swiss German sounds nothing like classroom German. Raclette is melted cheese poured over potatoes. Families share fondue from one pot.",
+    "Swiss watchmakers have worked since the 1600s. Rolex and Swatch were born here. Citizens vote on nearly everything, from tax rates to new tunnels."
   ],
   "history": [
-    "Celtic Helvetians settled here before Julius Caesar marched through in 58 BC. The Swiss Confederation was born in 1291 when three mountain communities signed a mutual-defence pact — that date is still National Day, celebrated on 1 August.",
-    "Switzerland declared permanent neutrality in 1815. Geneva became the Red Cross headquarters in 1863 and later hosted the League of Nations. Today it holds more international organisations than anywhere else, making tiny Switzerland a giant in global diplomacy."
+    "Celtic Helvetians lived here before Julius Caesar marched through in 58 BC. In 1291, three mountain communities signed a pact to defend each other. National Day is 1 August.",
+    "Switzerland declared permanent neutrality in 1815. Geneva became the Red Cross headquarters in 1863. Today it holds more international organisations than anywhere else."
   ],
   "wows": [
-    "Switzerland has more banks per person than almost any country on Earth.",
-    "The St Gotthard Base Tunnel — opened 2016 — is the world's longest railway tunnel at 57 km.",
-    "Swiss people eat about 10 kg of chocolate each per year — one of the highest figures on the planet.",
-    "The country has enough underground bunkers to shelter its entire population in an emergency.",
-    "Switzerland invented Velcro — engineer George de Mestral copied burr seeds stuck to his dog.",
-    "The Swiss army knife was first made in 1891 and is still produced in the canton of Schwyz.",
-    "Geneva's Jet d'Eau fountain shoots water 140 metres high — taller than Notre-Dame Cathedral."
+    "Switzerland has more banks per person than almost any country.",
+    "The St Gotthard Base Tunnel (2016) is the world's longest railway tunnel, at 57 km.",
+    "Swiss people eat about 10 kg of chocolate each year.",
+    "Switzerland has enough bunkers for its whole population.",
+    "George de Mestral invented Velcro after burrs stuck to his dog.",
+    "The Swiss army knife was first made in 1891.",
+    "Geneva's Jet d'Eau fountain shoots water 140 metres high."
   ],
   "myths": [
     {
       "myth": "Switzerland is always cold and snowy",
-      "fact": "Summers on the Swiss Plateau regularly hit 30 °C, and the southern canton of Ticino is almost Mediterranean — with palm trees and warm lakes."
+      "fact": "Summers on the Swiss Plateau often hit 30 °C. Ticino, in the south, has palm trees and warm lakes."
     },
     {
-      "myth": "Everyone in Switzerland speaks German",
-      "fact": "About 63% speak Swiss German, but 23% speak French, 8% Italian, and a small community still uses ancient Romansh — all four are fully official languages."
+      "myth": "All Swiss cheese has holes",
+      "fact": "Only some. Emmental has holes made by tiny gas bubbles. Gruyère has almost none."
     }
   ],
   "words": [

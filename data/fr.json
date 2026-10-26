@@ -2,7 +2,7 @@
   "name": "FRANCE",
   "nativeName": "FR",
   "romaji": "FRANCE",
-  "tagline": "Land of Art & Baguettes",
+  "tagline": "Art, baguettes & good food",
   "region": "Western Europe",
   "coords": "46°N 2°E",
   "fileNo": "008",
@@ -24,7 +24,7 @@
     "keyColor": "#002395",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "France is Europe's largest country, where snowy Alps meet sunflower fields and castles overlook café terraces. About 90 million tourists visit every year — more than France's whole population — to see the Eiffel Tower, taste croissants, and walk through ancient vineyards. Every corner, from Normandy to Provence, tells a different story.",
+  "lead": "France is the largest country in the EU. Snowy Alps meet sunflower fields. Castles overlook café terraces. About 90 million tourists visit each year, more than France's whole population. They come to see the Eiffel Tower, eat croissants and walk through old vineyards.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Forests, peaks & wetlands",
     "culture": "Art, food & the good life",
     "history": "Revolutions & empire",
-    "wows": "Surprises about France!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "France is shaped almost like a hexagon — French people call it l'Hexagone! The north has flat farmland and chalk cliffs above the Channel, while the south basks in Mediterranean sunshine. The Loire and Seine rivers wind past grand châteaux.",
-    "The Alps rise along the east, with Mont Blanc the highest peak in Western Europe. The Pyrenees form a wall with Spain, and the ancient Massif Central volcanic plateau sits right in the country's middle."
+    "France is shaped almost like a hexagon. The French call it l'Hexagone! The north has flat farmland and chalk cliffs above the Channel. The south basks in Mediterranean sunshine. The Loire and Seine rivers wind past grand châteaux (castles).",
+    "The Alps rise along the east. Mont Blanc is the highest peak in Western Europe. The Pyrenees form a wall with Spain. The ancient Massif Central, a volcanic plateau, sits in the middle of the country."
   ],
   "animals": [
-    "France's forests shelter red deer, wild boar, and shy roe deer. Golden eagles soar above the Pyrenees, and flamingos wade through the shallow Camargue lagoons in the south — a surprise splash of pink against the reedy marshes.",
-    "The Camargue is also home to wild white horses roaming free in herds. Otters have returned to mountain streams, and the lynx quietly hunts in the Vosges forests — rewilding efforts are bringing rare species back."
+    "France's forests shelter red deer, wild boar and shy roe deer. Golden eagles soar above the Pyrenees. Flamingos wade through the shallow Camargue lagoons in the south. They make a splash of pink against the reedy marshes.",
+    "The Camargue also has wild white horses that roam free in herds. Otters have returned to mountain streams. Lynx hunt quietly in the Vosges forests. People are bringing rare animals back to the wild."
   ],
   "culture": [
-    "France gave the world impressionist painting, cinema (invented in Lyon in 1895), and haute couture — Paris hosts four major fashion weeks a year. The French take lunch seriously: a proper midday meal with several courses is still normal in many towns.",
-    "Bread is practically sacred — a law means a true baguette must be baked fresh on site. Over 1,200 named cheeses exist, and the French eat roughly 26 kg of cheese per person each year. Eating well is a patriotic duty."
+    "France gave the world impressionist painting, cinema and haute couture (fancy fashion). Cinema was invented in Lyon in 1895. Paris hosts four major fashion weeks a year. The French take lunch seriously. A midday meal with several courses is still normal in many towns.",
+    "Bread is almost sacred. A law says a true baguette must be baked fresh on site. France has over 1,200 named cheeses. The French eat roughly 26 kg of cheese per person each year. Eating well is a duty."
   ],
   "history": [
-    "France was home to Celtic Gauls before Julius Caesar conquered it in 52 BC. In 1431, teenage Joan of Arc rallied the French army, helping end the Hundred Years' War. She remains France's greatest national hero.",
-    "The 1789 Revolution toppled the king and spread the idea that people should rule themselves. Napoleon conquered much of Europe before defeat in 1815. In 1944, Allied forces liberated Paris from Nazi occupation."
+    "Celtic Gauls lived in France before Julius Caesar conquered it in 52 BC. In 1429, teenage Joan of Arc rallied the French army. Her victories helped end the Hundred Years' War. She remains France's greatest national hero.",
+    "The 1789 Revolution toppled the king. It spread the idea that people should rule themselves. Napoleon conquered much of Europe before his defeat in 1815. In 1944, Allied forces freed Paris from Nazi occupation."
   ],
   "wows": [
-    "France welcomes ~90 million tourists a year — more visitors than its entire population.",
-    "The Eiffel Tower was meant to be torn down after 1889 — now it's the world's most-visited paid monument.",
-    "French territory touches the Atlantic, Pacific, Indian Ocean, and even borders Brazil.",
-    "A French law ensures bakers rotate holidays so no neighbourhood ever runs out of fresh bread.",
-    "Tour de France riders cycle ~3,400 km in 3 weeks, burning 8,000 calories on mountain days.",
-    "Camargue flamingos hatch grey — they turn pink only after years eating algae and shrimp.",
-    "France has won more Nobel Prizes in Literature than any other nation — 15 laureates."
+    "About 90 million tourists visit France a year, more than its whole population.",
+    "The Eiffel Tower was due to be torn down after 1889, yet now it's the world's most-visited paid monument.",
+    "French territory touches the Atlantic, Pacific and Indian Oceans, and it even borders Brazil.",
+    "A French law makes bakers take turns on holiday, so no area runs out of fresh bread.",
+    "Tour de France riders cycle about 3,400 km in 3 weeks, burning 8,000 calories on mountain days.",
+    "Camargue flamingos hatch grey and turn pink only after years of eating algae and shrimp.",
+    "France has won more Nobel Prizes in Literature than any other nation."
   ],
   "myths": [
     {
-      "myth": "French people are rude to tourists",
-      "fact": "Studies show French locals are among Europe's most helpful — a simple \"Bonjour!\" before asking transforms most interactions completely."
+      "myth": "Croissants were invented in France",
+      "fact": "The croissant's ancestor, the kipferl, came from Austria. French bakers later made it flaky and famous."
     },
     {
       "myth": "Napoleon was very short",
-      "fact": "Napoleon stood about 1.69 m (5 ft 7 in), average for his era. The legend came from a mix-up between French and English measurements."
+      "fact": "Napoleon was about 1.69 m tall (5 ft 7 in), average for his time. French inches were longer than English ones, which caused the mix-up."
     }
   ],
   "words": [

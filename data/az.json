@@ -2,7 +2,7 @@
   "name": "AZERBAIJAN",
   "nativeName": "AZ",
   "romaji": "AZƏRBAYCAN",
-  "tagline": "Land of Fire & Flame",
+  "tagline": "The Land of Fire",
   "region": "South Caucasus, Asia",
   "coords": "40.4°N, 49.9°E",
   "fileNo": "AZ",
@@ -24,7 +24,7 @@
     "keyColor": "#0092BC",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Azerbaijan sits where Europe meets Asia, between the Caspian Sea and the Caucasus peaks. It is called the \"Land of Fire\" because natural gas seeps from the earth and has burned for centuries. Baku, the capital, mixes medieval stone towers with futuristic skyscrapers that glow like embers above the Caspian at night.",
+  "lead": "Azerbaijan is where Europe meets Asia, between the Caspian Sea and the Caucasus mountains. Gas leaks from the ground here and has burned for centuries. People call it the Land of Fire. Baku, the capital, mixes old stone towers with glass skyscrapers.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "Flames from the earth",
-    "animals": "Wild Caucasus creatures",
-    "culture": "Tea, rugs & poetry",
-    "history": "Crossroads of empires",
-    "wows": "Hard to believe!"
+    "geography": "Fire from the ground",
+    "animals": "Leopards, seals & horses",
+    "culture": "Tea, rugs & music",
+    "history": "Roads between empires",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Azerbaijan stretches from snow-capped Caucasus peaks in the north to the flat Absheron Peninsula poking into the Caspian Sea. The Caspian is the world's biggest lake — bigger than Germany — and its shore sits about 28 metres below sea level.",
-    "The south holds subtropical Talysh forests so wet that rare silkworm trees grow there. Overall Azerbaijan squeezes nine of Earth's eleven climate zones into one small country."
+    "Snowy Caucasus mountains fill the north. The flat Absheron Peninsula juts into the Caspian Sea. The Caspian is the world's biggest lake, bigger than Germany.",
+    "Wet Talysh forests cover the south, with rare silkworm trees. Azerbaijan has nine of Earth's eleven climate zones in one small country."
   ],
   "animals": [
-    "The Caucasian leopard still prowls remote mountain forests, and brown bears roam high ridges. The elegant Karabakh horse — bred here for over 2,000 years — is Azerbaijan's national animal, famed for its golden coat and speed.",
-    "Flamingos gather in pink flocks on Caspian mudflats each autumn. The Caspian seal — found nowhere else on Earth — hauls out on sandbanks, while giant sturgeon the size of small cars once filled the sea."
+    "Caucasian leopards prowl the remote mountain forests. The Karabakh horse, bred here for over 2,000 years, is the national animal. It has a golden coat.",
+    "Flamingos gather on the Caspian mudflats each autumn. The Caspian seal lives nowhere else on Earth. Giant sturgeon, as big as small cars, once filled the sea."
   ],
   "culture": [
-    "Azerbaijanis drink black tea from pear-shaped armudu glasses all day, always with sugar cubes held between the teeth. Hand-knotted carpets tell stories in wool — each region has secret patterns, and Azerbaijani carpet-weaving is on UNESCO's heritage list.",
-    "Mugham is the country's hypnotic classical music: a singer improvises over a tar lute for an hour without repeating a phrase. Novruz, the spring New Year, fills streets with bonfires, painted eggs, and trays of sprouted green wheat."
+    "People drink black tea all day from pear-shaped armudu glasses. They hold a sugar cube between their teeth. UNESCO lists Azerbaijani carpet-weaving as world heritage.",
+    "Mugham is classical music. A singer improvises over a tar lute for an hour. At Novruz, the spring New Year, streets fill with bonfires and painted eggs."
   ],
   "history": [
-    "Ancient fire temples drew Zoroastrian pilgrims for millennia; one at Ateshgah burned continuously for centuries. Arab caliphs, Mongol khans, Persian shahs, and Russian tsars each swept through, leaving mosques and fortresses behind.",
-    "Oil transformed Azerbaijan in the 1870s — Baku once produced half the world's petroleum. Independence came in 1918 (one of the first democratic republics in the Muslim world) and again in 1991 when the Soviet Union collapsed."
+    "Fire temples drew Zoroastrian pilgrims for thousands of years. Arab, Mongol, Persian, and Russian rulers each swept through. They left mosques and fortresses.",
+    "In the 1870s, Baku produced half the world's oil. Azerbaijan became independent in 1918, then again in 1991, when the Soviet Union collapsed."
   ],
   "wows": [
-    "Yanar Dağ hillside has burned non-stop since the 1950s, fuelled by natural gas seeping from below.",
-    "Baku's Formula 1 street race roars past an 800-year-old walled medieval city every year.",
-    "The Caspian Sea holds about 90% of the world's remaining wild sturgeon, source of the finest caviar.",
-    "Flame Towers' 10,000 LED panels display animated fire visible from across the whole city at night.",
-    "Gobustan's 6,000+ rock carvings span up to 40,000 years of human history — UNESCO-listed.",
-    "Azerbaijan drilled an industrial oil well in 1846 — 13 years before the famous Pennsylvania well.",
-    "The Caspian lies about 28 metres below ocean sea level, the world's lowest large lake surface."
+    "Yanar Dağ hillside has burned nonstop since the 1950s.",
+    "Baku's Formula 1 race roars past an 800-year-old walled city.",
+    "The Caspian holds about 90% of the world's wild sturgeon.",
+    "The Flame Towers have 10,000 LED panels that show moving fire.",
+    "Gobustan's 6,000+ rock carvings span up to 40,000 years.",
+    "Azerbaijan drilled an oil well in 1846, 13 years before Pennsylvania.",
+    "The Caspian lies about 28 metres below sea level."
   ],
   "myths": [
     {
-      "myth": "Azerbaijan is part of the Middle East",
-      "fact": "It sits in the South Caucasus, bordering Russia and Georgia — culturally and geographically distinct from the Middle East."
+      "myth": "Volcanoes always spit hot lava",
+      "fact": "Mud volcanoes burp out cool mud and gas instead. Azerbaijan has hundreds of them, about half of all on Earth."
     },
     {
-      "myth": "The Caspian Sea is a real sea",
-      "fact": "Despite its vast size (371,000 km²), it is a landlocked saltwater lake with no connection to any ocean."
+      "myth": "Azerbaijanis speak Arabic",
+      "fact": "They speak Azerbaijani, which is close to Turkish."
     }
   ],
   "words": [

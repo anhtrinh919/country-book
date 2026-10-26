@@ -24,7 +24,7 @@
     "keyColor": "#75AADB",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Uruguay sits wedged between Brazil and Argentina on South America's Atlantic coast. It has roughly four cows per person — a world record! Despite being tiny, it is among the most peaceful democracies in the Americas and the first country to fully legalise cannabis. Its capital Montevideo hugs the wide Río de la Plata estuary.",
+  "lead": "Uruguay sits between Brazil and Argentina on South America's Atlantic coast. It has roughly four cows for every person, a world record. Its capital, Montevideo, hugs the wide Río de la Plata estuary.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Giants of the pampas",
     "culture": "Mate, drums & asado",
     "history": "From colony to free nation",
-    "wows": "Surprising Uruguay"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Uruguay is almost entirely one vast rolling grassland called the Pampas — endless green waves dotted with cattle. Only thin forests line the rivers. Its highest peak, Cerro Catedral, is a mere 514 m — shorter than many city skyscrapers.",
-    "The coast is spectacular: the Río de la Plata estuary meets the Atlantic, giving Uruguay sandy beaches, dune lagoons, and sea-lion colonies on rocky islands. No mountains means the country is wonderfully easy to explore on foot."
+    "Uruguay is mostly rolling grassland called the Pampas. Cattle dot the green hills. Its highest peak, Cerro Catedral, is only 514 m.",
+    "The Río de la Plata meets the Atlantic along the coast. Uruguay has sandy beaches, dune lagoons, and sea-lion colonies on rocky islands."
   ],
   "animals": [
-    "The capybara is king of the wetlands — the world's largest rodent, the size of a small pig, paddling through Uruguay's lagoons in family groups. Elegant pampas deer tiptoe through the grasslands on slender legs.",
-    "The greater rhea strides across the Pampas like a feathery ostrich — the biggest bird in the Americas, though flightless. Uruguay's national bird is the hornero, which builds a clay nest shaped like a clay oven on fence posts."
+    "The capybara is the world's largest rodent. It is the size of a small pig. Families paddle through Uruguay's lagoons.",
+    "The greater rhea looks like a feathery ostrich. It is the biggest bird in the Americas, but it cannot fly. The hornero, Uruguay's national bird, builds a clay nest like a little oven."
   ],
   "culture": [
-    "Uruguayans carry a hot-water thermos everywhere, pouring it into a gourd of yerba mate — a bitter herbal drink sipped through a metal straw. Sharing mate is like a handshake; refusing it is rude. Asado (barbecue) is equally sacred: families grill beef over wood embers all Sunday.",
-    "Candombe drumming arrived with enslaved Africans and never left — UNESCO lists it as Intangible Cultural Heritage. February carnival fills Montevideo's streets with pounding drums and feathered dancers. Tango also grew up here, making Uruguay co-birthplace of one of the world's most romantic dances."
+    "Uruguayans carry a hot-water thermos everywhere. They pour it into a gourd of yerba mate, a bitter herbal drink. On Sundays, families grill beef over wood embers. That is asado.",
+    "Candombe drumming arrived with enslaved Africans and never left. UNESCO lists it as Intangible Cultural Heritage. Carnival fills Montevideo with drums every February. Tango grew up here too, so Uruguay shares its birth with Argentina."
   ],
   "history": [
-    "Indigenous Charrúa people lived here for millennia before Spanish explorers arrived in 1516. Portugal founded Colonia del Sacramento in 1680, sparking a tug-of-war with Spain. Hero José Artigas rallied farmers and freed slaves against Spanish rule from 1811.",
-    "Thirty-three patriots crossed the river in 1825 and declared independence. British diplomats brokered peace in 1828, and tiny Uruguay was born as a buffer state between its giant neighbours Brazil and Argentina, which it has been ever since."
+    "The Charrúa people lived here for thousands of years. Spanish explorers arrived in 1516. Portugal founded Colonia del Sacramento in 1680. From 1811, José Artigas rallied farmers and freed slaves against Spain.",
+    "In 1825, thirty-three patriots crossed the river and declared independence. British diplomats brokered peace in 1828. Uruguay became a buffer state, a calm gap between giants Brazil and Argentina."
   ],
   "wows": [
-    "Uruguay has ~3.6 cows per person — the highest cattle-to-human ratio on Earth.",
-    "In 2013 it became the first country to fully legalise recreational cannabis nationally.",
-    "Montevideo hosted the first-ever FIFA World Cup in 1930 — and Uruguay won it.",
-    "Montevideo's rambla is 22 km long — the world's longest urban coastal promenade.",
-    "Free secular public education for both sexes began here in the 1870s, ahead of most of Europe.",
-    "Colonia del Sacramento (est. 1680) is a UNESCO World Heritage Site with unchanged cobbled streets.",
-    "Uruguay is the only mainland American nation with no mountain chains, jungle, or volcanoes."
+    "Uruguay has about 3.6 cows per person, the world's highest ratio.",
+    "In 2013, it became the first country to fully legalise recreational cannabis.",
+    "Montevideo hosted the first FIFA World Cup in 1930. Uruguay won it.",
+    "Montevideo's rambla, a seaside walkway, is 22 km long.",
+    "Free public schools for girls and boys began here in the 1870s.",
+    "Colonia del Sacramento is a UNESCO World Heritage Site with cobbled streets.",
+    "Uruguay has no mountain chains, jungle, or volcanoes."
   ],
   "myths": [
     {
-      "myth": "Uruguay is a tiny poor country",
-      "fact": "Uruguay has the 2nd-highest GDP per capita in South America and the largest middle class in Latin America — over 60% of its population."
+      "myth": "A cow has four stomachs",
+      "fact": "A cow has one stomach with four parts. Each part does a different job when it digests grass."
     },
     {
-      "myth": "Tango is purely Argentine",
-      "fact": "Tango was born on both sides of the Río de la Plata in the 1880s. UNESCO recognises its shared Uruguayan-Argentine origin as world heritage."
+      "myth": "Bulls charge at the colour red",
+      "fact": "Bulls cannot see red well. They charge at the movement of the waving cloth."
     }
   ],
   "words": [

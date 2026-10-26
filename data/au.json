@@ -24,7 +24,7 @@
     "keyColor": "#00387A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Australia is the only country filling an entire continent — a sun-baked land bigger than Europe, where kangaroos outnumber people and the oldest living culture on Earth has thrived for 65,000 years. From red desert heart to tropical reef to snowy mountains, it packs almost every landscape imaginable into one enormous island.",
+  "lead": "Australia is the only country that fills a whole continent. Kangaroos outnumber people here. The oldest living culture on Earth has thrived here for 65,000 years. Desert, reef, and snowy mountains fit on one huge island.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Wait, really?!"
   },
   "geo": [
-    "Australia sits on its own tectonic plate and is the flattest, driest inhabited continent. The vast red Outback bakes under a relentless sun, studded with Uluru — a sandstone monolith that glows orange at sunset and stands 348 m tall.",
-    "Around the edges the landscape flips: tropical rainforest in Queensland, surf beaches in New South Wales, wine valleys in South Australia, and snowy Alps in the south-east. The Great Barrier Reef stretches 2,300 km — the world's largest living structure."
+    "Australia is the flattest, driest inhabited continent. The red Outback bakes under a hot sun. In it stands Uluru, a giant rock 348 m tall that glows orange at sunset.",
+    "Around the edges, the land changes. Queensland has rainforest. Snowy Alps rise in the south-east. The Great Barrier Reef stretches 2,300 km, the world's largest living structure."
   ],
   "animals": [
-    "Australia spent millions of years cut off from the world, so evolution went its own way. Kangaroos carry babies in pouches; wombats produce cube-shaped droppings; the platypus — a mammal with a duck's bill that lays eggs and senses prey with electricity — left scientists speechless.",
-    "The koala sleeps 22 hours a day on eucalyptus leaves. The emu is a 1.9 m flightless bird that fought the Australian army in 1932 and won. Deadly wonders abound: box jellyfish and the inland taipan, the world's most venomous snake."
+    "Cut off for millions of years, Australia grew its own animals. Kangaroos carry babies in pouches. Wombats make cube-shaped droppings. The platypus has a duck's bill, lays eggs, and senses prey with electricity.",
+    "The koala sleeps up to 22 hours a day. The emu is a 1.9 m flightless bird. The inland taipan is the world's most venomous snake."
   ],
   "culture": [
-    "Australians live mostly on the coast and treat the beach like a backyard. Surfing, cricket, and Aussie Rules Football are near-religions. A Sunday 'barbie' with snags — beef or pork sausages — is practically a national ceremony.",
-    "Aboriginal cultures are the world's oldest living traditions, rich with Dreamtime stories, dot painting, and the didgeridoo — a wind instrument hollowed by termites. Vegemite, a salty dark yeast spread, divides the world into devoted fans and horrified first-timers."
+    "Most Australians live on the coast and treat the beach like a backyard. On Sundays many families have a 'barbie' with snags (sausages).",
+    "Aboriginal cultures share Dreamtime stories, dot painting, and the didgeridoo. Termites hollow out this wind instrument. Vegemite, a salty yeast spread, divides people into fans and horrified first-timers."
   ],
   "history": [
-    "Aboriginal peoples arrived at least 65,000 years ago. They developed rich oral traditions, fire-stick farming, and continent-wide trade networks long before any European arrived.",
-    "British ships founded a penal colony at Sydney Cove in 1788. Gold rushes drove rapid growth, and on 1 January 1901 six colonies united as the Commonwealth of Australia — a prosperous, multicultural democracy and one of the world's most liveable nations today."
+    "Aboriginal peoples arrived at least 65,000 years ago. They built trade networks across the continent long before Europeans came.",
+    "British ships founded a penal colony at Sydney Cove in 1788. On 1 January 1901, six colonies united as the Commonwealth of Australia."
   ],
   "wows": [
-    "Australia is the only country that is also an entire continent, with no land borders at all.",
-    "The Great Barrier Reef is so vast it is visible from space with the naked eye.",
-    "Anna Creek cattle station in SA is larger than the entire country of Israel.",
-    "Australia has more venomous snake species than any other country on Earth.",
-    "Aboriginal culture is the oldest continuous living culture on the planet at 65,000+ years.",
-    "In 1932, soldiers tried to cull emus with machine guns — the emus won and the army withdrew.",
-    "Canberra was purpose-built as capital because Sydney and Melbourne couldn't agree."
+    "Australia is a whole continent and a single country, with no land borders.",
+    "You can see the Great Barrier Reef from space.",
+    "Anna Creek cattle station in South Australia is bigger than Israel.",
+    "Lake Hillier in Western Australia is naturally pink.",
+    "The Dingo Fence runs about 5,600 km across the country.",
+    "In 1932, soldiers shot at emus with machine guns, and the emus won.",
+    "Canberra was built as capital because Sydney and Melbourne could not agree."
   ],
   "myths": [
     {
-      "myth": "Australia is always hot and sunny",
-      "fact": "The Snowy Mountains get heavy snowfall each winter; Canberra regularly hits -10 °C. Australia's enormous size means it hosts almost every climate zone on Earth."
+      "myth": "Koalas are a kind of bear",
+      "fact": "Koalas are marsupials, not bears. Their babies grow in a pouch."
     },
     {
       "myth": "Toilets flush the opposite way Down Under",
-      "fact": "The Coriolis effect is far too weak to spin a toilet bowl. Water direction depends on the bowl's shape, not the hemisphere you're standing in."
+      "fact": "The Coriolis effect is far too weak to spin a toilet bowl. Water direction depends on the bowl's shape, not the hemisphere."
     }
   ],
   "words": [

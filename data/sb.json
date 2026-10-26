@@ -2,7 +2,7 @@
   "name": "SOLOMON IS.",
   "nativeName": "SB",
   "romaji": "SOLOMON ISLANDS",
-  "tagline": "A thousand islands, one sea",
+  "tagline": "Over 900 islands, one sea",
   "region": "Melanesia, Pacific Ocean",
   "coords": "9.65°S, 160.16°E",
   "fileNo": "168",
@@ -24,7 +24,7 @@
     "keyColor": "#0A2D9C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Solomon Islands is a chain of over 900 tropical islands in the South Pacific. Nearly a million people live here, speaking 70+ languages plus Pijin — a friendly blend of English and island words. Blue for ocean, green for jungle: the flag says it all, split by a golden stripe with five white stars.",
+  "lead": "Solomon Islands is a chain of over 900 tropical islands in the South Pacific. Around 820,000 people live here. They speak 70+ languages plus Pijin, a mix of English and island words.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN ISLANDS:",
   "sections": {
     "geography": "Islands, reefs & rainforest",
-    "animals": "Wild wings & hidden creatures",
+    "animals": "Parrots, bats & cuscus",
     "culture": "Kastom, wantok & song",
-    "history": "Coastwatchers & WWII tides",
-    "wows": "Hard to believe, but true!"
+    "history": "Explorers, war & freedom",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Solomon Islands stretches 1,500 km across the Pacific — over 900 islands topped with rainforest and volcanic peaks. The largest, Guadalcanal, holds the capital and Mount Popomanaseu, rising 2,335 m into the clouds.",
-    "The sea is just as dramatic. Marovo Lagoon — the world's largest double-barrier saltwater lagoon — shimmers in turquoise and jade. Coral reefs hug the shores, and the water is so clear you can see 30 m to the sandy bottom."
+    "Solomon Islands stretches 1,500 km across the Pacific. Rainforest and volcanic peaks cover its 900 islands. Guadalcanal, the biggest, has the capital and 2,335 m Mount Popomanaseu.",
+    "Marovo Lagoon shimmers in turquoise and jade. Coral reefs hug the shores. The water is so clear you can see 30 m to the sandy bottom."
   ],
   "animals": [
-    "The eclectus parrot is a jaw-dropper: males are bright green, females red and blue — so different that scientists once thought they were two separate species. Solomon Islands holds 69 endemic bird species, more than almost any similar-sized area on Earth.",
-    "Giant fruit bats flap through the forest at dusk, pollinating trees as they go. The spotted cuscus — a fluffy marsupial with huge round eyes — dozes in the canopy by day. Sea turtles nest on remote beaches, and the reefs teem with sharks, rays, and clownfish."
+    "Male eclectus parrots are bright green. Females are red and blue. The islands have 69 endemic (found nowhere else) bird species.",
+    "Giant fruit bats fly through the forest at dusk. The spotted cuscus, a fluffy marsupial, sleeps in the trees by day. Sea turtles nest on far beaches."
   ],
   "culture": [
-    "Life runs on kastom — the web of traditional rules, ceremonies, and storytelling passed down through families. Shell money, carved shields, and pan-pipe music are not museum pieces; they are used in real celebrations today.",
-    "The wantok system ties communities together: wantok means 'one talk', and anyone who speaks your language is kin. You share food, help, and loyalty. Most villages have both a church and a traditional meeting house standing side by side."
+    "Life here follows kastom, the old rules, ceremonies and stories of each family. Shell money, carved shields and pan-pipe music are still used in celebrations.",
+    "Wantok means 'one talk'. Anyone who speaks your language is family. You share food, help and loyalty."
   ],
   "history": [
-    "People have lived here for at least 30,000 years. Spanish explorer Mendaña arrived in 1568, named the islands after King Solomon's legendary gold, and sparked centuries of outside interest. Britain made them a protectorate in 1893.",
-    "In 1942–43 Guadalcanal became one of WWII's fiercest battlegrounds. Local Solomon Islanders served as coastwatchers and scouts; a US admiral said they 'saved Guadalcanal'. Independence came on 7 July 1978."
+    "People have lived here for at least 30,000 years. In 1568, the Spanish explorer Mendaña named the islands after King Solomon's legendary gold. Britain made them a protectorate in 1893.",
+    "In 1942–43, Guadalcanal became one of World War II's fiercest battlegrounds. Local islanders served as coastwatchers and scouts. Independence came on 7 July 1978."
   ],
   "wows": [
-    "The world's largest coral colony was found here in 2024 — wider than two basketball courts side by side.",
-    "Solomon Islands has 69 endemic bird species — more per km² than almost anywhere else on Earth.",
+    "The world's largest coral colony, found here in 2024, is wider than two basketball courts.",
+    "Solomon Islands has 69 endemic bird species, more per km² than almost anywhere.",
     "Marovo Lagoon is the world's largest double-barrier enclosed saltwater lagoon.",
-    "Over 70 distinct local languages are spoken — a different tongue in nearly every valley.",
-    "Male and female eclectus parrots look so unlike each other that scientists listed them as 2 species.",
-    "WWII wrecks near Guadalcanal are now coral gardens — among the world's top dive sites.",
-    "The Honiara parliament was a US gift, built in memory of soldiers lost at Guadalcanal."
+    "Over 70 local languages are spoken, a different one in nearly every valley.",
+    "Male and female eclectus parrots look so different that scientists listed 2 species.",
+    "World War II wrecks near Guadalcanal are now coral gardens and top dive sites.",
+    "Honiara's parliament was a US gift, built in memory of soldiers lost at Guadalcanal."
   ],
   "myths": [
     {
-      "myth": "The islands hide King Solomon's gold",
-      "fact": "Spaniard Mendaña named them hoping to find biblical riches in 1568 — no gold hoard was ever discovered. The legend outlasted the explorer."
+      "myth": "Coral is a plant or a rock",
+      "fact": "Coral is an animal. Tiny polyps build hard skeletons, and millions together make a reef."
     },
     {
-      "myth": "Allied soldiers won the Pacific war alone",
-      "fact": "Local Solomon Islanders served as coastwatchers and scouts. A US admiral credited them directly with saving Guadalcanal — and the wider Pacific campaign."
+      "myth": "Bats are blind",
+      "fact": "No bat is blind. Fruit bats see well in dim light and also smell ripe fruit."
     }
   ],
   "words": [

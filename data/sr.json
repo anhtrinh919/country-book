@@ -24,7 +24,7 @@
     "keyColor": "#377E3F",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Suriname is South America's tiniest country, yet nine-tenths is untouched rainforest. Squeezed between Guyana, Brazil, and French Guiana, it spills north to the Atlantic. Paramaribo is a UNESCO city of Dutch wooden buildings where Creoles, Hindustanis, Javanese, Maroons, and Indigenous peoples share one humid, gold-rich world.",
+  "lead": "Suriname is the smallest country in South America. Rainforest covers nine-tenths of it. Paramaribo is a UNESCO city of Dutch wooden houses. Creoles, Hindustanis, Javanese, Maroons and Indigenous peoples live side by side.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "A land of rivers & rainforest",
+    "geography": "Rivers & rainforest",
     "animals": "Giants of the jungle rivers",
     "culture": "A world in one city block",
     "history": "Traded for Manhattan",
-    "wows": "Seven surprising secrets"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Suriname sits on the ancient Guiana Shield, one of Earth's oldest rock formations. The north is a low coastal belt where rivers fan out into the Atlantic. Dense tropical forest covers the vast interior, broken only by granite mountains and dark-water rivers.",
-    "The Suriname, Marowijne, and Coppename rivers drain the highlands. The Central Suriname Nature Reserve — 1.6 million hectares of primary forest — protects the upper watersheds and holds over 5,000 plant species. More than 90% of the country remains forested."
+    "Suriname sits on the Guiana Shield, one of Earth's oldest rocks. Thick forest covers the rest, with granite mountains and dark rivers.",
+    "The Suriname, Marowijne and Coppename rivers drain the highlands. The Central Suriname Nature Reserve protects 1.6 million hectares of forest."
   ],
   "animals": [
-    "The giant river otter — nearly 2 metres long — is Suriname's river royalty. Family groups fish together on remote sandbanks, chattering loudly. Suriname's pristine waterways are one of the last strongholds for this endangered species.",
-    "Jaguars roam the deep interior, leaving paw prints along quiet river banks. The forest also shelters harpy eagles, tapirs, giant armadillos, and eight monkey species. Over 700 bird species have been recorded, including the brilliant scarlet macaw."
+    "The giant river otter is nearly 2 metres long. Families fish together on sandbanks and chatter loudly. Suriname's rivers are one of the last safe places for them.",
+    "Jaguars roam the deep forest. Tapirs, giant armadillos and eight kinds of monkey live here too. Over 700 bird species include the scarlet macaw."
   ],
   "culture": [
-    "Paramaribo's most extraordinary sight is a mosque and a Jewish synagogue standing side by side on the same street — a symbol of 300 years of religious tolerance. Hindu temples, Catholic cathedrals, and Winti shrines share the same neighbourhoods.",
-    "Food mirrors the mix: roti with curry (Hindustani), nasi goreng (Javanese), pom chicken (Creole), and bara fried lentil dough. The Central Market buzzes with colour, spice, and a dozen languages every morning."
+    "In Paramaribo, a mosque and a synagogue stand side by side. People have lived together peacefully for 300 years.",
+    "Food shows the mix. Roti and curry came from Hindustani cooks. Nasi goreng is Javanese. Pom is a Creole chicken dish."
   ],
   "history": [
-    "Indigenous Lokono and Kalina people lived along the rivers for centuries before Europeans arrived. England settled the coast in the 1650s, but in 1667 the Dutch swapped rights to a small island called Manhattan to take Suriname — then the world's richest sugar colony.",
-    "African enslaved people fled brutal plantations into the forest, forming the free Maroon nations that fought the Dutch to a standstill, signing peace treaties in the 1760s. Suriname became fully independent on 25 November 1975."
+    "The Lokono and Kalina peoples lived along the rivers first. In 1667, the Dutch gave England a small island called Manhattan. In return, they kept Suriname, a very valuable sugar colony.",
+    "Enslaved Africans fled brutal plantations into the forest. They formed free Maroon nations and fought the Dutch to a standstill. Peace treaties came in the 1760s. Suriname became independent on 25 November 1975."
   ],
   "wows": [
-    "Suriname was traded for Manhattan Island in 1667 — the Dutch gave up New York to get this sugar colony.",
-    "It is the only country outside Europe where Dutch is the official majority language.",
-    "Over 90% of Suriname is intact tropical rainforest — second-highest forest cover of any nation on Earth.",
-    "St. Peter and Paul Cathedral in Paramaribo is the largest wooden building in the Western Hemisphere.",
-    "A mosque and a Jewish synagogue stand literally next to each other on Keizerstraat in old Paramaribo.",
-    "Julianatop was first summited only in 1963 — its Amerindian name means 'He who stands alone.'",
-    "Gold now makes up 79% of all exports; some 20,000 artisanal miners pan the interior rivers."
+    "In 1667, the Dutch gave up Manhattan to get Suriname.",
+    "Suriname is the only South American country where Dutch is the official language.",
+    "Over 90% of Suriname is rainforest, one of the highest shares on Earth.",
+    "St. Peter and Paul Cathedral is the largest wooden building in the Western Hemisphere.",
+    "A mosque and a synagogue stand next to each other on Keizerstraat.",
+    "Julianatop was first climbed only in 1963. Its Amerindian name means 'He who stands alone.'",
+    "Gold makes up 79% of exports. About 20,000 small miners pan the rivers."
   ],
   "myths": [
     {
-      "myth": "Suriname is a Caribbean island",
-      "fact": "It is firmly on the South American mainland, bordering Brazil to the south — though its culture has strong Caribbean flavour from centuries of shared Atlantic history."
+      "myth": "New York was always called New York",
+      "fact": "The Dutch named it New Amsterdam. England took it in 1664 and renamed it for the Duke of York."
     },
     {
-      "myth": "Everyone speaks Spanish here",
-      "fact": "Suriname is surrounded by Spanish-speaking nations but its official language is Dutch, and the street lingua franca is Sranan Tongo, an English-based creole."
+      "myth": "Jaguars are the biggest cats on Earth",
+      "fact": "Tigers and lions are bigger. The jaguar is the biggest cat in the Americas, and its bite can crack turtle shells."
     }
   ],
   "words": [

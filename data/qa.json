@@ -24,7 +24,7 @@
     "keyColor": "#8D1B3D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Qatar is a small peninsula in the warm Persian Gulf — so flat its highest point is only 103 m tall. Once its people dived for pearls; today giant gas fields make it one of the world's richest countries. Gleaming towers, thundering camel races, and gentle dugongs grazing on sea-grass all share this sun-baked land of just 11,571 km².",
+  "lead": "Qatar is a small peninsula in the warm Persian Gulf. It is so flat that its highest point is only 103 m. Giant gas fields make it one of the world's richest countries.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "A peninsula of sand & sea",
-    "animals": "Oryx, falcons & sea giants",
+    "geography": "A thumb of sand & sea",
+    "animals": "Oryx, falcons & sea cows",
     "culture": "Pearls, coffee & falconry",
-    "history": "From pearls to petrodollars",
-    "wows": "Wow-worthy Qatar facts"
+    "history": "From pearls to gas",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Qatar is a thumb-shaped peninsula, almost entirely flat with most land under 40 m. The coast stretches over 600 km, from sabkha salt flats in the north to Khor Al Adaid in the south, where giant sand dunes tumble straight into the Gulf.",
-    "Beneath Qatar's rocky surface lies the North Field — the world's largest non-associated natural-gas reservoir. The capital Doha has grown so fast that its glittering West Bay skyline barely existed 30 years ago."
+    "Qatar is a thumb-shaped peninsula, almost entirely flat. The coast runs over 600 km. In the south, giant sand dunes tumble into the Gulf at Khor Al Adaid.",
+    "Under Qatar's rocky ground lies the North Field, the world's largest gas field not tied to oil. Doha's West Bay skyline barely existed 30 years ago."
   ],
   "animals": [
-    "The Arabian oryx — Qatar's national animal — was extinct in the wild by 1972. Careful breeding brought it back. This elegant white antelope with spear-like horns may have inspired the unicorn legend when seen side-on by ancient travellers.",
-    "Qatar hosts the world's second-largest dugong population — gentle sea-cow relatives grazing on Gulf sea-grass. Falcons are national treasures; owners carry them on gloved fists, and a falcon hospital in Souq Waqif treats injured birds for free."
+    "The Arabian oryx is Qatar's national animal. By 1972, none were left in the wild. Careful breeding brought it back. Seen side-on, its spear-like horns may have inspired the unicorn legend.",
+    "Qatar has the world's second-largest dugong population. Dugongs are gentle sea cows that graze on sea-grass. A falcon hospital in Souq Waqif treats injured birds for free."
   ],
   "culture": [
-    "Arabic coffee — bitter, cardamom-scented, poured into tiny handleless cups — is the first thing a Qatari host offers a guest. Refusing is rude; wiggling the cup means you've had enough. Dates always arrive alongside. This ritual has barely changed in centuries.",
-    "Falconry and camel racing define the sporting year. Races run September to March using robot jockeys — tiny remote-controlled figures on humps. The Museum of Islamic Art, designed by I. M. Pei, holds 1,400 years of Islamic treasures."
+    "A Qatari host first offers guests Arabic coffee. It is bitter and smells of cardamom. Tiny cups have no handles. Wiggle the cup when you have had enough.",
+    "Falconry and camel racing fill the sports year. Races run from September to March. Robot jockeys ride the camels."
   ],
   "history": [
-    "For centuries Qatar's livelihood came from pearl diving. Men held stones between their toes, plunged without tanks, and surfaced with oysters. Qatar was a great pearling centre until the 1930s, when Japanese cultured pearls flooded the market and the industry collapsed.",
-    "Oil was discovered in 1939 and exported from 1949, transforming a poor peninsula into a wealthy nation. Qatar declared independence from Britain in 1971. Its first LNG cargo sailed to Japan in 1996, launching the gas era that funds today's stadiums and metro."
+    "Pearl diving once fed Qatar. Divers held stones between their toes and plunged without tanks. In the 1930s, Japanese cultured pearls flooded the market. The industry collapsed.",
+    "Oil was found in 1939 and sold abroad from 1949. Qatar became independent from Britain in 1971. In 1996, its first cargo of liquid gas sailed to Japan. Gas now pays for new stadiums and a metro."
   ],
   "wows": [
-    "Qatar's North Field is the world's largest non-associated gas field, holding ~900 trillion cubic feet.",
-    "At ~US$76,000 GDP per person (2024), Qatar ranks among the five richest countries globally.",
-    "The 2022 FIFA World Cup was the first in the Middle East; all 8 stadiums within just 55 km.",
-    "Camel races use robot jockeys: remote-controlled devices, owners drive alongside in SUVs.",
-    "Qatar has one of the world's largest dugong populations; herds of 600+ graze its Gulf waters.",
-    "The Museum of Islamic Art sits on its own artificial island, designed by I. M. Pei at 91.",
-    "Qatar built a brand-new air-conditioned metro from scratch in seven years, opening 2019."
+    "Qatar's North Field holds about 900 trillion cubic feet of gas.",
+    "Qatar's 2024 GDP was about US$76,000 per person, top five worldwide.",
+    "The 2022 World Cup had all 8 stadiums within 55 km.",
+    "Camel races use robot jockeys, with owners driving alongside.",
+    "Herds of 600+ dugongs graze in Qatar's Gulf waters.",
+    "The Museum of Islamic Art sits on its own artificial island.",
+    "Qatar's new metro took seven years and opened in 2019."
   ],
   "myths": [
     {
-      "myth": "Qatar is just empty desert",
-      "fact": "Qatar has 600 km of coastline, mangrove forests, the Inland Sea (Khor Al Adaid) ringed by giant dunes, and one of the world's most futuristic skylines in Doha."
+      "myth": "Camels store water in their humps",
+      "fact": "Humps store fat, not water. A thirsty camel can drink 100 litres in minutes."
     },
     {
-      "myth": "Qatar has no history or culture",
-      "fact": "Qatar's oldest pearl bead dates to 4,600 BCE, its people have practiced falconry for centuries, and Doha hosts world-class museums including the Museum of Islamic Art."
+      "myth": "Pearls grow inside fish",
+      "fact": "A pearl grows inside an oyster. Grit gets in, and the oyster coats it in shiny layers."
     }
   ],
   "words": [

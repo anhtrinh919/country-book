@@ -24,7 +24,7 @@
     "keyColor": "#009E60",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Gabon sits on Africa's Atlantic coast where the Equator runs through ancient rainforest. Over 80% of its land is jungle — sheltering forest elephants, silverback gorillas, and the mandrill, the world's most colourful monkey. Gabon has kept most of its trees standing, making it one of the planet's greatest carbon-absorbing green lungs.",
+  "lead": "Gabon is on Africa's Atlantic coast, where the Equator crosses ancient rainforest. Over 80% of the land is jungle. Forest elephants, silverback gorillas and mandrills live there. The mandrill is the world's most colourful monkey. Gabon has kept most of its trees standing. They soak up huge amounts of carbon.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "A forest on the ocean's edge",
     "animals": "Giants of the jungle",
     "culture": "Drums, masks & wild iboga",
-    "history": "From canoes to oil rigs",
-    "wows": "Gabon's wow moments"
+    "history": "Sailors, freedom & oil",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Gabon straddles the Equator on Central Africa's Atlantic coast. Thick rainforest blankets over 80% of the land, threaded by the mighty Ogooué River — Gabon's highway for centuries — winding 1,200 km to the sea.",
-    "The coast swaps between white-sand beaches, mangrove swamps, and rocky coves. Inland, hills rise to the Chaillu Massif, where Lopé National Park holds ancient savanna ringed by jungle — a rare mix that UNESCO declared a world wonder."
+    "Gabon straddles the Equator on Central Africa's Atlantic coast. Thick rainforest covers over 80% of the land. The Ogooué River winds 1,200 km to the sea. It has been Gabon's highway for centuries.",
+    "The coast mixes white-sand beaches, mangrove swamps and rocky coves. Inland, hills rise to the Chaillu Massif. Lopé National Park lies there, with ancient savanna ringed by jungle. UNESCO has named it a World Heritage Site."
   ],
   "animals": [
-    "Gabon shelters nearly 85,000 forest elephants — more than any other country. In Loango National Park you can watch them strolling along the beach, waves lapping at their feet, while hippos body-surf in the surf nearby.",
-    "The mandrill, the world's largest monkey with a vivid red-and-blue face, is Gabon's national animal. Around 35,000 western lowland gorillas live in the forests, and Lopé hosts the world's biggest recorded mandrill troop — over 1,400 strong."
+    "Gabon shelters nearly 85,000 forest elephants, more than any other country. In Loango National Park, they stroll along the beach. Waves lap at their feet. Hippos body-surf in the sea nearby.",
+    "The mandrill is the world's largest monkey, with a vivid red-and-blue face. It is Gabon's national animal. Around 35,000 western lowland gorillas live in the forests. Lopé has the biggest mandrill troop ever recorded, over 1,400 strong."
   ],
   "culture": [
-    "Gabon has more than 40 ethnic groups, the largest being the Fang. The Bwiti spiritual tradition weaves ancestor veneration, polyrhythmic drumming, and the sacred iboga plant — a rainforest shrub now studied worldwide as a potential addiction medicine.",
-    "Music fills village life: the mvet harp-lute and wooden obala xylophone set the beat at festivals. Meals mix French influence with forest flavours — smoked fish, cassava, plantain, and fresh lobster along the coast."
+    "Gabon has more than 40 ethnic groups. The largest is the Fang. The Bwiti spiritual tradition mixes ancestor worship, drumming and the sacred iboga plant. Iboga is a rainforest shrub. Scientists study it as a possible medicine for addiction.",
+    "Music fills village life. The mvet harp-lute and the wooden obala xylophone set the beat at festivals. Meals mix French influence with forest flavours. People eat smoked fish, cassava and plantain. On the coast, there is fresh lobster."
   ],
   "history": [
-    "Portuguese sailors arrived in 1472 and named the estuary 'Gabão' for its cloak-like shape. France colonised it in the 1800s; Libreville was founded by freed enslaved people — its name literally means 'free town'.",
-    "Gabon won independence on 17 August 1960. Oil wealth in the 1970s made it one of Africa's richer nations. In 2021 it became the first African country paid cash — $17 million — for protecting its forests under the UN REDD+ programme."
+    "Portuguese sailors arrived in 1472. They named the estuary 'Gabão' for its cloak-like shape. France colonised Gabon in the 1800s. Freed enslaved people founded Libreville. Its name means 'free town'.",
+    "Gabon won independence on 17 August 1960. Oil money in the 1970s made it one of Africa's richer nations. In 2021 it became the first African country paid cash for protecting its forests. It received $17 million under the UN's REDD+ programme."
   ],
   "wows": [
-    "Gabon absorbs more CO₂ than it produces — one of few countries on Earth that is a net carbon sink.",
-    "In Loango you can see elephants on the beach, hippos surfing, and offshore whales — all on the same day.",
-    "The iboga plant, declared a national treasure in 2000, is now studied as a treatment for drug addiction.",
-    "In 2002 Gabon created 13 national parks at once, protecting 11% of its land in a single conservation move.",
-    "Forest elephants are Gabon's 'mega-gardeners', scattering seeds across vast distances inside their dung.",
-    "Lopé holds 1,800 ancient rock carvings alongside gorillas — a rare UNESCO natural and cultural site.",
-    "Gabon's flag has a rare 3:4 ratio — shared by only DR Congo, Papua New Guinea, and San Marino."
+    "Gabon absorbs more CO₂ than it produces, so it is a net carbon sink.",
+    "In Loango you can see elephants on the beach, hippos surfing and whales offshore, all in one day.",
+    "Gabon made the iboga plant part of its national heritage in 2000, and scientists now study it for addiction.",
+    "In 2002 Gabon created 13 national parks at once, protecting 11% of its land.",
+    "Forest elephants are Gabon's 'mega-gardeners', spreading seeds far and wide in their dung.",
+    "Lopé has 1,800 ancient rock carvings alongside gorillas, a rare natural and cultural UNESCO site.",
+    "Gabon's flag has a rare 3:4 ratio, shared with only a few countries such as DR Congo."
   ],
   "myths": [
     {
-      "myth": "Gabon is just jungle with nothing else",
-      "fact": "Gabon has a modern capital with skyscrapers and was one of Africa's wealthiest countries per person, sitting firmly in the upper-middle-income bracket."
+      "myth": "Gorillas are dangerous monsters",
+      "fact": "Gorillas are shy plant-eaters. Chest-beating is a show to warn rivals, and real fights are rare."
     },
     {
       "myth": "All African elephants are the same",
-      "fact": "Gabon's forest elephant is a separate species — smaller, with straighter tusks, living deep in jungle far from the savanna elephants most people picture."
+      "fact": "Gabon's forest elephant is a separate species. It is smaller, with straighter tusks, and lives deep in the jungle far from the savanna elephants most people picture."
     }
   ],
   "words": [

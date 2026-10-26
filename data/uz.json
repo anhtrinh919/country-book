@@ -24,7 +24,7 @@
     "keyColor": "#1A6B9A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Uzbekistan sits at the heart of Asia, where Silk Road caravans carried silk and spices between China and Europe. Walk through Samarkand's glittering blue-tiled squares and gaze at minarets standing 600 years. It's one of only two doubly-landlocked nations on Earth — cross two borders just to reach the sea!",
+  "lead": "Uzbekistan is in the heart of Asia. Silk Road caravans once carried silk and spices through it. Samarkand has blue-tiled squares and minarets (tall towers) 600 years old. It is doubly landlocked, so you cross two borders to reach the sea.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Deserts, rivers & mountains",
     "animals": "Steppe & mountain creatures",
-    "culture": "Silk Road spice & blue tiles",
+    "culture": "Plov, tiles & New Year",
     "history": "Empires at the crossroads",
-    "wows": "You won't believe these!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Uzbekistan is mostly flat desert and dry steppe, crossed by two life-giving rivers — the Amu Darya and Syr Darya. These rivers fed vast cotton fields until Soviet planners diverted them for irrigation, triggering an environmental catastrophe.",
-    "The east rises into dramatic mountains with year-round snow. In the west, the Ustyurt Plateau stretches flat as a table. The Aral Sea, once the world's fourth-largest lake, lost 90% of its water after the rivers were diverted."
+    "Uzbekistan is mostly flat desert and dry steppe. Two rivers cross it, the Amu Darya and Syr Darya. Soviet planners diverted them to water cotton.",
+    "Snowy mountains rise in the east. The Ustyurt Plateau is flat as a table in the west. The Aral Sea lost 90% of its water."
   ],
   "animals": [
-    "The steppe shelters the saiga antelope — an Ice Age survivor with a bulging nose that warms cold air before it reaches its lungs. Saiga herds migrate across the Ustyurt Plateau each winter, snorting clouds of steam.",
-    "High in the Kugitang mountains lives the Bukharan markhor, a wild goat with magnificent corkscrew horns over a metre long. Elusive snow leopards also patrol the highest ridges, hunting among rocky crags."
+    "The saiga antelope is an Ice Age survivor. Its bulging nose warms cold air before it reaches its lungs. Saiga herds cross the Ustyurt Plateau each winter.",
+    "The Bukharan markhor lives high in the Kugitang mountains. This wild goat has corkscrew horns over a metre long."
   ],
   "culture": [
-    "Plov — fragrant rice cooked with lamb, carrot and cumin in a giant iron pot — is the national soul food. An old proverb says: 'Rich or poor, eat plov.' Men traditionally cook it for weddings, outdoors over roaring fires.",
-    "Navruz, the spring New Year at the March equinox, is the biggest holiday. Families clean their homes, forgive old quarrels, and feast in the parks. This celebration has continued here for over 3,000 years."
+    "Plov is rice cooked with lamb, carrot, and cumin in a giant iron pot. An old proverb says, 'Rich or poor, eat plov.'",
+    "Navruz is the spring New Year, held at the March equinox. Families forgive old quarrels and feast in parks. People have celebrated it here for over 3,000 years."
   ],
   "history": [
-    "Samarkand and Bukhara flourished as great Silk Road cities from the 8th century, growing rich on trade between China and Europe. The astronomer-ruler Ulugbek built an observatory in Samarkand in the 1420s that mapped over 1,000 stars.",
-    "In the 14th century, conqueror Timur (Tamerlane) made Samarkand the dazzling capital of a vast empire, filling it with turquoise-tiled monuments. Russia absorbed the region in the 1860s–80s; Uzbekistan declared independence in 1991."
+    "Samarkand and Bukhara became great Silk Road cities from the 8th century. In the 1420s, the astronomer-ruler Ulugbek built an observatory in Samarkand. It mapped over 1,000 stars.",
+    "In the 14th century, the conqueror Timur (Tamerlane) made Samarkand the capital of a vast empire. Russia took over the region in the 1860s–80s. Uzbekistan became independent in 1991."
   ],
   "wows": [
-    "Only two countries are doubly-landlocked — Uzbekistan is one; cross two borders to reach any ocean.",
-    "Samarkand's Registan is covered in so much turquoise mosaic it glows like a jewel from space.",
-    "Tashkent's metro stations are underground palaces; tourists were banned from photographing them for 41 years.",
-    "The Aral Sea was the world's 4th-largest lake in 1960; most of it is now sandy desert.",
-    "Old fishing boats from the Aral Sea sit stranded up to 150 km from the nearest water today.",
-    "Khiva's walled inner city, Itchan Kala, packs 50+ ancient monuments inside mud-brick walls.",
-    "In 2017, Tashkent chefs cooked over 7 tonnes of plov in a single record-breaking cauldron."
+    "Only two countries are doubly landlocked. Uzbekistan is one.",
+    "Samarkand's Registan has so much turquoise mosaic that it glows like a jewel.",
+    "Photos in Tashkent's palace-like metro stations were banned for 41 years.",
+    "In 1960, the Aral Sea was the world's 4th-largest lake. Now most of it is desert.",
+    "Old fishing boats sit stranded up to 150 km from the nearest water.",
+    "Khiva's walled inner city, Itchan Kala, has over 50 ancient monuments.",
+    "In 2017, Tashkent chefs cooked over 7 tonnes of plov in one pot."
   ],
   "myths": [
     {
-      "myth": "Uzbekistan is hard to visit and unsafe",
-      "fact": "Visas are free for 90+ nationalities after reforms launched in 2016, and millions of tourists safely explore its Silk Road cities every year."
+      "myth": "Silk comes from a plant, like cotton",
+      "fact": "Silk comes from silkworms. Each worm spins its cocoon from one thread, hundreds of metres long."
     },
     {
-      "myth": "The Aral Sea disaster cannot be undone",
-      "fact": "Kazakhstan's 2005 Kok-Aral Dam partly refilled the northern Aral within months. Uzbekistan has since planted saxaul trees across the dry seabed, cutting deadly dust storms."
+      "myth": "The Aral Sea can never be refilled",
+      "fact": "Kazakhstan's Kok-Aral Dam, built in 2005, brought water back to the northern Aral Sea."
     }
   ],
   "words": [

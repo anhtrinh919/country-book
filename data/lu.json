@@ -24,7 +24,7 @@
     "keyColor": "#EF3340",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Luxembourg is tiny — you could drive end to end in under an hour — yet it packs in fairy-tale castles, deep forests, and one of Earth's highest living standards. Tucked between France, Belgium, and Germany, it is one of the world's last Grand Duchies. Nearly half the workforce commutes in from neighbouring countries every single morning.",
+  "lead": "Luxembourg is tiny. You could drive across it in under an hour. It has fairy-tale castles, deep forests, and one of Earth's highest living standards. It sits between France, Belgium, and Germany.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Little country, BIG surprises"
   },
   "geo": [
-    "Luxembourg's hilly, forested Ardennes covers the north, with sandstone gorges and clear streams. The south is gentler farmland — softer and sunnier, nicknamed 'the Good Land' by locals.",
-    "The Moselle River forms the eastern border with Germany, lined with steep vineyards. Luxembourg City is built on dramatic rocky cliffs above two rivers, the Alzette and Pétrusse."
+    "Hills, forests, and sandstone gorges cover the Ardennes in the north. The south is gentler farmland that locals call 'the Good Land'.",
+    "The Moselle River forms the border with Germany, lined with steep vineyards. Luxembourg City stands on rocky cliffs above two rivers, the Alzette and the Pétrusse."
   ],
   "animals": [
-    "The thick Ardennes forests shelter red deer, wild boar, and the shy European otter. Rare black storks nest beside quiet streams, and beavers returned after being absent for two full centuries.",
-    "Kingfishers flash electric blue over the Moselle, and kestrels hover above vineyards. Greater horseshoe bats roost deep in the old fortress caves beneath Luxembourg City."
+    "Red deer, wild boar, and shy otters live in the Ardennes forests. Beavers came back after two centuries away.",
+    "Kingfishers flash blue over the Moselle. Greater horseshoe bats sleep in the old fortress caves under Luxembourg City."
   ],
   "culture": [
-    "Luxembourgers switch between three official languages — Luxembourgish at home, French for official papers, and German in early schooling. Children learn all three before age ten, and English is widely spoken too.",
-    "The national dish is smoked pork collar with broad beans — hearty winter fuel. The country produces 15 million bottles of Moselle wine a year, and the Schueberfouer funfair has run every autumn since 1340."
+    "Luxembourg has three official languages. People speak Luxembourgish at home and use French for official papers. Early school lessons are in German.",
+    "The national dish is smoked pork collar with broad beans. The country makes 15 million bottles of Moselle wine a year. The Schueberfouer funfair has run every autumn since 1340."
   ],
   "history": [
-    "Luxembourg's clifftop fortress earned the nickname 'the Gibraltar of the North.' Built over 400 years, it was demolished stone by stone after 1867 when great powers declared Luxembourg permanently neutral.",
-    "Occupied twice in the World Wars, the Battle of the Bulge tore through its Ardennes hills in 1944–45. Afterwards Luxembourg became a founding member of what grew into the European Union."
+    "Luxembourg's clifftop fortress, built over 400 years, was called 'the Gibraltar of the North'. In 1867, great powers declared Luxembourg permanently neutral, so it was torn down.",
+    "Luxembourg was occupied twice in the World Wars. The Battle of the Bulge tore through its hills in 1944–45. Later it helped found what became the European Union."
   ],
   "wows": [
-    "Luxembourg City hosts three EU institutions — more than any capital outside Brussels.",
-    "Luxembourg has the EU's highest GDP per person — the richest country in the bloc on paper.",
-    "Nearly 47% of Luxembourg residents were born abroad — one of the world's most mixed nations.",
-    "220,000 cross-border workers commute in from three countries every single working day.",
-    "In 2020 Luxembourg made all buses, trains, and trams free for everyone.",
+    "Luxembourg City hosts three EU institutions, more than any capital but Brussels.",
+    "Luxembourg has the highest GDP (money earned) per person in the EU.",
+    "Nearly 47% of residents were born abroad.",
+    "220,000 workers commute in from three countries every working day.",
+    "In 2020, all buses, trains, and trams became free for everyone.",
     "Müllerthal's mossy sandstone mazes earned it the nickname 'Little Switzerland'.",
-    "Grand Duke Henri is one of only five reigning grand dukes left in the world."
+    "Luxembourg is the world's only Grand Duchy."
   ],
   "myths": [
     {
-      "myth": "Luxembourg is just a tax haven with nothing to see",
-      "fact": "It has 3 UNESCO World Heritage sites, medieval towns, dramatic gorges, and fine Moselle Riesling — far more than its reputation suggests."
+      "myth": "Luxembourg is part of Belgium",
+      "fact": "Belgium has a province named Luxembourg. It is a different place next door."
     },
     {
-      "myth": "Luxembourgish is just a dialect of German",
-      "fact": "Luxembourgish is a fully recognised language with its own grammar and official status — as distinct from German as Dutch is."
+      "myth": "Luxembourg is Europe's smallest country",
+      "fact": "Many are smaller, such as Vatican City, Monaco, San Marino, and Malta."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#0072CE",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Estonia sits on the Baltic Sea — tiny but packed with surprises. It has 2,000+ islands, fairy-tale towns, and eerie bogs. It was first to hold online elections and today almost everything runs digitally. Singing festivals gather a quarter of the nation, and medieval Tallinn looks straight out of a storybook.",
+  "lead": "Estonia sits on the Baltic Sea. It has 2,000+ islands, fairy-tale towns and spooky bogs. It was first to hold online elections, and almost everything now runs digitally. Singing festivals gather a quarter of the nation.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "Bogs, forests & 2,000 isles",
     "animals": "Wolves, lynxes & white storks",
     "culture": "Songs, saunas & e-everything",
-    "history": "Vikings, castles & digital age",
-    "wows": "Seven surprises about Estonia"
+    "history": "Castles, freedom & e-state",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Estonia is almost half forest — pines, birches and spruces stretch like a giant green blanket. Ancient peat bogs spread for miles, their dark water perfectly still. The flat coastline is fringed with more than 2,200 islands and thousands of glittering lakes.",
-    "The biggest island, Saaremaa, has a meteor crater lake called Kaali — a space rock punched it into the limestone 3,500 years ago. Winters are snowy and dark; summers burst with 19 hours of daylight and crowds flock to Pärnu's sandy beaches."
+    "Forest covers more than half of Estonia. Ancient peat bogs spread for miles, with dark, still water. The coast has more than 2,200 islands.",
+    "Saaremaa, the biggest island, has Kaali, a lake in a meteor crater. A space rock punched into the limestone there 3,500 years ago. Summers have 19 hours of daylight."
   ],
   "animals": [
-    "Estonia's forests shelter wolves, brown bears, lynxes and elk — big wild animals roaming freely. White-tailed eagles soar over coastal wetlands, and every spring thousands of cranes gather in the bogs during migration, filling the air with trumpeting calls.",
-    "White storks nest on rooftop poles in village after village — Estonians consider them lucky. The Baltic Sea brings harbour and grey seals bobbing near the islands. Ringed seals, once endangered here, are slowly recovering thanks to strict protection laws."
+    "Wolves, brown bears, lynxes and elk roam Estonia's forests. White-tailed eagles soar over coastal wetlands. Every spring, thousands of cranes gather in the bogs.",
+    "White storks nest on rooftop poles in villages. Estonians think they are lucky. Harbour and grey seals bob near the islands."
   ],
   "culture": [
-    "Estonians love singing — seriously. Every five years the Song Festival draws up to 100,000 performers; when 30,000 voices join together the sound carries for kilometres. This tradition helped Estonia hold onto its identity through decades of foreign rule.",
-    "Sauna is a national ritual, shared with family and friends. Cuisine leans on rye bread, smoked fish and wild berries. Estonia is a tech pioneer — Skype was built here and children learn to code from age seven in school."
+    "Every five years, the Song Festival draws up to 100,000 performers. When 30,000 voices join, the sound carries for kilometres. It helped Estonia keep its identity through decades of foreign rule.",
+    "Sauna is a national ritual shared with family and friends. Meals feature rye bread, smoked fish and wild berries. Skype was built here, and children learn to code from age seven."
   ],
   "history": [
-    "Estonia was ruled by Danes, Germans, Swedes and Russians over the centuries, yet Estonians held onto their language and songs every time. Tallinn's cone-topped towers were built by German merchants in the 13th century — the Old Town is a UNESCO World Heritage Site.",
-    "In 1991 Estonia broke free from the Soviet Union and immediately built a digital state. By 2005 it held the world's first legally-binding internet election. Today 'e-Residency' lets anyone on Earth start an Estonian company entirely online."
+    "Danes, Germans, Swedes and Russians all ruled Estonia. Estonians kept their language and songs every time. German merchants built Tallinn's cone-topped towers in the 13th century.",
+    "In 1991, Estonia broke free from the Soviet Union and built a digital state. In 2005 it held the world's first legally binding internet election. Today 'e-Residency' lets anyone start an Estonian company online."
   ],
   "wows": [
-    "Estonia has more meteorite craters per km² than almost any other country on Earth.",
-    "Skype was built by Estonian engineers in Tallinn and launched in 2003, changing global communication.",
-    "Estonia held the world's first legally-binding national internet election in 2005.",
-    "Citizens can register a company online in minutes — government is almost fully digital.",
+    "Estonia has more meteorite craters per km² than almost any other country.",
+    "Estonian engineers built Skype in Tallinn, launching it in 2003.",
+    "Estonia held the world's first legally binding national internet election in 2005.",
+    "Citizens can register a company online in minutes.",
     "The Estonian Song Festival is on UNESCO's Intangible Cultural Heritage of Humanity list.",
-    "More than half of Estonia is covered by forest — one of Europe's highest proportions.",
-    "In 1989, Estonians joined a 675 km human chain across three Baltic states to demand freedom."
+    "More than half of Estonia is forest, one of Europe's highest shares.",
+    "In 1989, Estonians joined a 675 km human chain across three Baltic states."
   ],
   "myths": [
     {
       "myth": "Estonia is a Scandinavian country",
-      "fact": "Estonia is Baltic, not Scandinavian. Its language is related to Finnish and Hungarian — an entirely different family from Swedish or Norwegian."
+      "fact": "Scandinavia means Norway, Sweden and Denmark. Estonia is Baltic, like Latvia and Lithuania."
     },
     {
-      "myth": "Estonia is cold and grey all year",
-      "fact": "Summers are warm and sunny with nearly 20 hours of daylight. July often reaches 25°C and the beach town of Pärnu buzzes with visitors all season."
+      "myth": "Wolves howl at the moon",
+      "fact": "Wolves howl to talk to each other. The moon has nothing to do with it."
     }
   ],
   "words": [

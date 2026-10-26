@@ -24,7 +24,7 @@
     "keyColor": "#D52B1E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Chile is a country that stretches like a long ribbon down the western edge of South America — so narrow you can drive from the Pacific Ocean to the Andes in just hours, yet so tall it spans every climate on Earth, from the world's driest desert in the north to icy glaciers and penguins in the far south.",
+  "lead": "Chile is a long, thin ribbon of land down the west edge of South America. You can drive from the Pacific Ocean to the Andes in just hours. Yet it has every climate on Earth. The north has the world's driest desert. The far south has glaciers and penguins.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Did you know?"
   },
   "geo": [
-    "Chile is the world's longest and thinnest country — 4,300 km from top to bottom but never more than 350 km wide. The Andes run the entire length like a spine, while the Atacama Desert in the north receives less than 1 mm of rain a year — drier than Mars.",
-    "Down south, Patagonia is a wonderland of crashing glaciers and jade fjords. Easter Island, a tiny dot 3,700 km offshore in the South Pacific, is also part of Chile — one of the most remote inhabited spots on Earth."
+    "Chile is the world's longest, thinnest country. It is 4,300 km long and never more than 350 km wide. The Atacama Desert gets less than 1 mm of rain a year, drier than Mars.",
+    "Patagonia, in the south, has crashing glaciers and jade fjords. Easter Island is part of Chile too. This tiny dot lies 3,700 km out in the South Pacific."
   ],
   "animals": [
-    "The Andean flamingo wades through salt lakes so shallow they look like pink mirrors; huge flocks nest at Salar de Atacama. The Andean condor, with a 3-metre wingspan, soars on thermals above the peaks for hours without a single flap.",
-    "In the cold Humboldt Current, Magellanic penguins swim alongside sea lions and dolphins. The pudú — the world's tiniest deer at just 35 cm tall — hides in southern rainforests alongside the chilla, Chile's own grey fox."
+    "Andean flamingos wade in salt lakes so shallow they look like pink mirrors. The Andean condor has a 3-metre wingspan. It soars above the peaks for hours without one flap.",
+    "Magellanic penguins swim in the cold Humboldt Current with sea lions and dolphins. The pudú, the world's tiniest deer, is only 35 cm tall."
   ],
   "culture": [
-    "Chileans are proud of their empanadas — pastry pockets stuffed with beef, olives, and egg — and their national sport of rodeo, where pairs of horsemen called huasos herd a calf around a ring in embroidered ponchos. Football is an obsession too.",
-    "Nobel Prize poets Pablo Neruda and Gabriela Mistral were both Chilean. Neruda built three eccentric houses, one shaped like a ship. The cueca dance, where partners wave handkerchiefs like courting birds, is the beloved national dance."
+    "Chileans love empanadas, pastry pockets filled with beef, olives and egg. Their national sport is rodeo. Horsemen called huasos herd a calf around a ring.",
+    "Chile has two Nobel Prize poets, Pablo Neruda and Gabriela Mistral. Neruda built three odd houses, and one looks like a ship. Cueca dancers wave handkerchiefs like courting birds."
   ],
   "history": [
-    "The Mapuche people farmed and hunted across Chile long before Europeans arrived, famously resisting Inca conquest. Spanish explorers founded Santiago in 1541, and Chile won independence in 1818 under Bernardo O'Higgins after years of hard fighting.",
-    "The 20th century brought a socialist government in 1970, then a military coup in 1973 lasting until democracy returned in 1990. Today Chile is South America's most stable economy, producing a third of the world's copper and fine wines."
+    "The Mapuche people lived here long before Europeans came. They famously resisted the Inca. Spain founded Santiago in 1541. Chile won independence in 1818 under Bernardo O'Higgins.",
+    "A socialist government began in 1970. A military coup followed in 1973 and lasted until democracy returned in 1990."
   ],
   "wows": [
-    "Chile is 4,300 km long but averages only 177 km wide — longer than the USA is tall.",
-    "The Atacama Desert has weather stations that have never recorded a single drop of rain.",
-    "Chile produces roughly one-third of all the copper mined on Earth each year.",
-    "Ojos del Salado on the Andes border is the world's highest active volcano at 6,893 m.",
-    "Easter Island's giant moai statues were carved and moved without wheels or metal tools.",
-    "The pudú, native to Chilean forests, is the world's smallest deer at just 35 cm tall.",
-    "Chile's coastline stretches 6,435 km — enough to reach from London to New York."
+    "Chile is 4,300 km long but only 177 km wide on average.",
+    "Some Atacama weather stations have never recorded a drop of rain.",
+    "Chile produces about one-third of the world's copper.",
+    "Ojos del Salado is the world's highest active volcano at 6,893 m.",
+    "Easter Island's moai statues were moved without wheels or metal tools.",
+    "The pudú is the world's smallest deer, just 35 cm tall.",
+    "Chile's coastline is 6,435 km, as far as London to New York."
   ],
   "myths": [
     {
-      "myth": "Chile is always cold and icy",
-      "fact": "Only the far south is icy — the Atacama in the north is a scorching desert, and Santiago enjoys warm Mediterranean summers much like California."
+      "myth": "The Atacama is the hottest desert on Earth",
+      "fact": "It is the driest, not the hottest. Its nights can be chilly."
     },
     {
-      "myth": "Easter Island belongs to Polynesia",
-      "fact": "Easter Island is geographically Polynesian but has been Chilean territory since 1888 — residents hold Chilean citizenship and use Chilean pesos."
+      "myth": "Easter Island statues are only heads",
+      "fact": "The moai have full bodies. Most are buried up to their necks."
     }
   ],
   "words": [

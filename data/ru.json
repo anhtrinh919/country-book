@@ -24,7 +24,7 @@
     "keyColor": "#CC2B2B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Russia spans eleven time zones — when kids in Moscow eat breakfast, children near the Pacific coast are already going to bed. It holds the world's deepest lake, its densest forests, and land enough to fit the USA nearly twice over. Yet most Russians live in the west, in grand cities where golden domes stand beside rocket museums.",
+  "lead": "Russia has eleven time zones. When kids in Moscow eat breakfast, children near the Pacific coast are going to bed. It holds the world's deepest lake and enough land to fit the USA nearly twice.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "BIG REGIONS & CITIES:",
   "sections": {
     "geography": "Forests, lakes & volcanoes",
-    "animals": "Bears, tigers & frozen foxes",
-    "culture": "Domes, ballet & space dreams",
+    "animals": "Bears, tigers & Arctic foxes",
+    "culture": "Ballet, dolls & hot tea",
     "history": "Tsars, revolution & Sputnik",
-    "wows": "Why Russia surprises everyone"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Russia spans 11 time zones and covers one-eighth of all the land on Earth. Its western plains rise at the Ural Mountains — the boundary between Europe and Asia — then open into the vast Siberian taiga, the planet's largest forest.",
-    "Lake Baikal holds about one-fifth of all Earth's unfrozen fresh water and plunges 1,642 m deep. In the far east, Kamchatka bristles with more than 160 volcanoes, around 29 of which are still active."
+    "Russia covers one-eighth of the land on Earth. The Ural Mountains divide Europe from Asia. Beyond them lies the Siberian taiga, the planet's largest forest.",
+    "Lake Baikal holds about one-fifth of Earth's unfrozen fresh water. It plunges 1,642 m deep. Kamchatka in the far east has more than 160 volcanoes, and about 29 are active."
   ],
   "animals": [
-    "Russia is home to the Amur tiger, the world's largest wild cat, prowling birch forests in the far east. The brown bear is the unofficial national animal — they outnumber tigers by tens of thousands.",
-    "The Arctic fox wears a coat that turns pure white in winter to hide on the tundra. Lake Baikal's nerpa is the world's only freshwater seal, found nowhere else on Earth."
+    "The Amur tiger, the world's largest wild cat, prowls the birch forests. The brown bear is Russia's unofficial national animal. Bears outnumber tigers by tens of thousands.",
+    "The Arctic fox's coat turns pure white in winter to hide on the snowy tundra. The nerpa is a seal that lives only in Lake Baikal."
   ],
   "culture": [
-    "Russians are fiercely proud of their arts. The Bolshoi Ballet has wowed audiences for 250 years, and Tchaikovsky gave the world Swan Lake. Matryoshka nesting dolls are among the world's most recognised crafts.",
-    "Food is hearty: borscht (beetroot soup), blini (thin pancakes) and pelmeni dumplings fuel people through long winters. A glass of tea from a samovar is the heart of any Russian gathering."
+    "The Bolshoi Ballet has wowed audiences for 250 years. Tchaikovsky gave the world Swan Lake. Matryoshka nesting dolls are among the world's best-known crafts.",
+    "Borscht is beetroot soup. Blini are thin pancakes. Pelmeni are dumplings. Tea from a samovar is the heart of any gathering."
   ],
   "history": [
-    "Russia began as medieval Slavic city-states. Ivan the Terrible became the first tsar in 1547, and Peter the Great built St Petersburg from scratch, dragging the country into the modern age by sheer force of will.",
-    "Revolution in 1917 swept away the tsar and created the Soviet Union. In 1957 the Soviets launched Sputnik, the world's first satellite, and in 1961 Yuri Gagarin became the first human in space. The USSR dissolved in 1991."
+    "Russia began as medieval Slavic city-states. Ivan the Terrible became the first tsar in 1547. Peter the Great built St Petersburg from scratch.",
+    "A revolution in 1917 created the Soviet Union. In 1957, it launched Sputnik, the first satellite. In 1961, Yuri Gagarin became the first human in space. The USSR broke up in 1991."
   ],
   "wows": [
-    "Russia has 11 time zones — more than any other country on Earth.",
-    "Lake Baikal alone holds 20% of all the world's unfrozen fresh water.",
-    "The Trans-Siberian Railway is the longest rail line on Earth at 9,289 km.",
-    "Yuri Gagarin became the first human ever in space in April 1961.",
-    "Russia has 32 UNESCO World Heritage Sites, from the Kremlin to Lake Baikal.",
-    "The Siberian taiga is so vast it is sometimes called the lungs of the planet.",
-    "Moscow's metro stations are decorated with chandeliers and marble — nicknamed 'the people's palace'."
+    "Russia has 11 time zones, more than almost any other country.",
+    "Lake Baikal alone holds 20% of the world's unfrozen fresh water.",
+    "The Trans-Siberian Railway is Earth's longest, at 9,289 km.",
+    "Yuri Gagarin became the first human in space in April 1961.",
+    "Russia has 32 UNESCO World Heritage Sites, including the Kremlin.",
+    "People call Siberia's taiga the lungs of the planet.",
+    "Moscow's chandelier-lit metro stations are nicknamed 'the people's palace'."
   ],
   "myths": [
     {
       "myth": "Russia is always frozen and covered in snow",
-      "fact": "Southern Russia has warm summers — Moscow hits 25°C in July and the Black Sea coast is a popular beach destination."
+      "fact": "Moscow hits 25°C in July, and the Black Sea coast is a popular beach spot."
     },
     {
       "myth": "Bears roam the streets of Russian cities",
-      "fact": "Brown bears live deep in remote forests, far from cities. Urban Russians are far more likely to spot pigeons than bears."
+      "fact": "Brown bears live in remote forests, far from cities. City Russians see more pigeons than bears."
     }
   ],
   "words": [

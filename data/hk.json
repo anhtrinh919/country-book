@@ -24,7 +24,7 @@
     "keyColor": "#DE2110",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Hong Kong is a tiny, towering city on China's coast where skyscrapers climb steep hills right to the harbour's edge. Once British, it returned to China in 1997 yet keeps its own laws and currency. Seven million people share this small place — eating dim sum, riding neon-lit trams, and crossing the harbour on the famous Star Ferry.",
+  "lead": "Hong Kong is a small city on China's coast. Skyscrapers climb steep hills right to the harbour. Britain ruled it until 1997. Now it is part of China, but it keeps its own laws and money. About seven million people live here.",
   "facts": [
     {
       "label": "Capital",
@@ -65,45 +65,45 @@
   ],
   "islandsLabel": "MAIN AREAS:",
   "sections": {
-    "geography": "A harbour carved by dragons",
+    "geography": "Hills, harbour & islands",
     "animals": "Wild side of the city",
     "culture": "Neon, dumplings & dragons",
     "history": "Village to world skyline",
-    "wows": "Wait — that's actually true?"
+    "wows": "Wait, is that true?"
   },
   "geo": [
-    "Hong Kong hugs the Pearl River estuary, scattered across a peninsula and 263 islands. The harbour between Hong Kong Island and Kowloon is so deep that giant cargo ships park right in the city's heart.",
-    "Over 70% of the land is countryside — steep jungle hills, beaches, and reserves. Yet the urban strip is so dense that Hong Kong has more skyscrapers than any other city on Earth."
+    "Hong Kong spreads across a peninsula and 263 islands. The harbour between Hong Kong Island and Kowloon is so deep that giant cargo ships park in the city.",
+    "More than 70% of the land is countryside, with jungle hills and beaches. Yet Hong Kong has more skyscrapers than any other city on Earth."
   ],
   "animals": [
-    "Chinese pangolins — shy, scale-covered animals that roll into a ball when scared — shuffle through forest at night. Wild boars trot through suburbs, and barking deer call from country-park bushes.",
-    "The Mai Po wetlands host 400+ bird species including the rare black-faced spoonbill. Green turtles nest on quiet beaches, and Indo-Pacific finless porpoises play in the harbour shallows."
+    "Shy Chinese pangolins roll into a scaly ball when scared. They shuffle through the forest at night. Wild boars trot through suburbs.",
+    "The Mai Po wetlands see more than 400 kinds of birds, including the rare black-faced spoonbill. Green turtles nest on quiet beaches."
   ],
   "culture": [
-    "Hong Kong blends Cantonese tradition with British echoes. Families gather for yum cha — wheeled bamboo steamers of har gow and siu mai — while trams rattle past Victorian buildings. The Hungry Ghost Festival fills streets with burning paper offerings every autumn.",
-    "Neon signs, lucky red envelopes, and firecrackers mark the Cantonese calendar. Yet Hongkongers also queue for afternoon tea and watch horse races at Happy Valley — a track inside the city since 1846."
+    "Families meet for yum cha. Bamboo steamers of har gow and siu mai roll to the table. Every autumn, the Hungry Ghost Festival fills streets with burning paper gifts.",
+    "Neon signs, lucky red envelopes and firecrackers mark the Cantonese calendar. People watch horse races at Happy Valley, a track inside the city since 1846."
   ],
   "history": [
-    "Fishermen lived here for thousands of years before Britain took Hong Kong Island in 1842 after the First Opium War. It grew into a major trading port, and Kowloon was added in the following decades.",
-    "Japan occupied it in World War II; Britain returned and the city boomed into a global finance hub. On 1 July 1997, under 'one country, two systems', Hong Kong rejoined China — keeping its courts and currency until at least 2047."
+    "Fishers lived here for thousands of years. Britain took Hong Kong Island in 1842, after the First Opium War. The place grew into a big trading port.",
+    "On 1 July 1997 Hong Kong rejoined China under 'one country, two systems'. It keeps its own courts and currency until at least 2047."
   ],
   "wows": [
-    "Hong Kong has more Rolls-Royce cars per person than anywhere else on Earth.",
-    "The MTR metro runs on time 99.9% of all journeys — one of the most reliable systems anywhere.",
-    "Land reclamation has added about 70 km² of new ground to Hong Kong since the 1800s.",
-    "The world's longest outdoor covered escalator — 800 m — climbs Mid-Levels hill.",
-    "Over 90% of daily trips use public transport, the highest share of any city on the planet.",
-    "The Peak Tram has carried passengers up the same steep hill since 1888.",
-    "Hong Kong has over 1,000 buildings taller than 100 m — more than New York, Chicago, and Dubai combined."
+    "Hong Kong has more Rolls-Royce cars per person than anywhere else.",
+    "The MTR metro runs on time for 99.9% of journeys.",
+    "Land reclamation has added about 70 km² of new ground.",
+    "The world's longest outdoor covered escalator is 800 m long.",
+    "Over 90% of daily trips use public transport.",
+    "The Peak Tram has climbed the same hill since 1888.",
+    "Hong Kong has over 1,000 buildings taller than 100 m."
   ],
   "myths": [
     {
-      "myth": "Hong Kong is just part of China now",
-      "fact": "Since 1997 it has been a Special Administrative Region with its own laws, courts, currency, and passport under 'one country, two systems' until at least 2047."
+      "myth": "Fortune cookies are a Chinese food",
+      "fact": "They became popular in California about 100 years ago. They are not a traditional Chinese sweet."
     },
     {
-      "myth": "It's only a city — no nature at all",
-      "fact": "More than 70% of Hong Kong's land is protected countryside, with jungle trails, 260+ islands, and beaches most visitors never find."
+      "myth": "Bamboo is too weak to build with",
+      "fact": "Bamboo is light but very strong. Builders in Hong Kong still use bamboo scaffolds on skyscrapers."
     }
   ],
   "words": [

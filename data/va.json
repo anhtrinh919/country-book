@@ -24,7 +24,7 @@
     "keyColor": "#C8A84B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Tucked inside Rome, Vatican City is the world's tiniest country — smaller than most shopping malls. It is home to the Pope and some of the greatest art ever made. St Peter's Square, the Sistine Chapel ceiling, and the Swiss Guard in their striped Renaissance uniforms make this 0.44 km² dot one of the most visited places on Earth.",
+  "lead": "Vatican City sits inside Rome. It is the world's tiniest country, smaller than most shopping malls. It covers just 0.44 km². The Pope lives here. So do the Sistine Chapel and the Swiss Guard, in striped Renaissance uniforms.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Wings over the Gardens",
     "culture": "Art, gold & ancient guards",
     "history": "From empire to microstate",
-    "wows": "Hard to believe — but true!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Vatican City sits entirely inside Rome — a walled hilltop enclave of just 0.44 km². The Vatican Hill rises to 76 metres. About half the land is the Vatican Gardens: fountains, sculpted hedges, and ancient olive trees.",
-    "A single tiny railway, just 300 metres long, connects it to Italy. The Pope also owns Castel Gandolfo, a summer palace 25 km away in the Alban Hills, which sits even higher above sea level."
+    "A wall surrounds Vatican City's hilltop. Vatican Hill rises 76 metres. About half the land is the Vatican Gardens, with fountains, sculpted hedges, and ancient olive trees.",
+    "A tiny railway, just 300 metres long, links it to Italy. The Pope also has a summer palace, Castel Gandolfo, 25 km away in the Alban Hills."
   ],
   "animals": [
-    "Because Vatican City is mostly buildings, wildlife shelters in the Gardens — a green oasis of 23 hectares. European robins hop under cypress trees, barn swallows streak overhead in summer, and starling murmurations swirl above the rooftops at dusk.",
-    "The bright green rose-ringed parakeet — escaped from pet shops in the 1970s — now chatters through Vatican trees. Historically the Gardens held caged lions and ostriches, until a pope freed them all, saying he could not bear to see animals locked away."
+    "Wildlife shelters in the Vatican Gardens, a green oasis of 23 hectares. European robins hop under cypress trees.",
+    "Bright green rose-ringed parakeets escaped from pet shops in the 1970s. Long ago, the Gardens held caged lions and ostriches. One pope freed them all."
   ],
   "culture": [
-    "The Vatican is the heart of Roman Catholicism. Each year millions pour into St Peter's Square hoping to glimpse the Pope. The Sistine Chapel, painted by Michelangelo between 1508 and 1512, draws visitors who crane their necks at his extraordinary ceiling.",
-    "The Swiss Guard — 135 soldiers, all Swiss Catholics — has protected the Pope since 1506. Their striped yellow, red, and blue uniforms need 154 pieces to assemble. The Vatican also mints its own rare euro coins, eagerly collected worldwide."
+    "The Vatican is the heart of Roman Catholicism. Millions come to St Peter's Square each year to see the Pope. Michelangelo painted the Sistine Chapel between 1508 and 1512.",
+    "The Swiss Guard has 135 soldiers, all Swiss Catholics. They have protected the Pope since 1506. Their striped uniforms have 154 pieces."
   ],
   "history": [
-    "St Peter's Hill has been sacred since early Christianity. The great basilica was built over the believed tomb of Saint Peter, and popes lived here for centuries. In 1870, Italy unified and absorbed the Papal States, leaving the Pope confined inside the Vatican for 59 years.",
-    "On 11 February 1929, Italy and the Holy See signed the Lateran Treaty, creating Vatican City as an independent country. It is the world's newest sovereign state by founding date, yet home to some of the oldest continuous traditions in human history."
+    "St Peter's Hill has been sacred since early Christianity. In 1870, Italy took over the Papal States. The Pope stayed inside the Vatican for 59 years.",
+    "On 11 February 1929, Italy and the Holy See signed the Lateran Treaty. It created Vatican City as an independent country."
   ],
   "wows": [
-    "Vatican City is the only country that fits entirely inside another city — Rome.",
-    "You can walk across the entire country in about 20 minutes.",
-    "The Vatican's ATMs offer Latin as a language option — the only ones in the world.",
-    "Vatican City's railway is just 300 metres long and rarely carries passengers.",
+    "Vatican City is the only country that fits inside another city, Rome.",
+    "You can walk across the whole country in about 20 minutes.",
+    "The Vatican's ATMs offer Latin as a language. They are the only ones in the world.",
+    "Its railway is only 300 metres long.",
     "Swiss Guards must be Swiss, Catholic, male, and at least 174 cm tall.",
-    "New Swiss Guards are sworn in each May 6th, recalling 147 guards who died defending the Pope in 1527.",
+    "New Swiss Guards swear their oath each 6 May. It honours 147 guards who died in 1527.",
     "The Vatican Library holds over 1 million books and 80,000 manuscripts."
   ],
   "myths": [
     {
       "myth": "Michelangelo designed the Swiss Guard uniforms",
-      "fact": "The bold striped uniform was created in 1914 by Commandant Jules Repond — Michelangelo never designed it, though the legend persists everywhere."
+      "fact": "Commandant Jules Repond designed the striped uniform in 1914. Michelangelo died in 1564."
     },
     {
-      "myth": "The Pope owns all of Vatican City",
-      "fact": "Vatican City is a sovereign state governed by the Holy See as an institution — no single person owns it, including the Pope himself."
+      "myth": "Vatican City is part of Italy",
+      "fact": "It is a separate country. It has its own stamps, radio station, and post office."
     }
   ],
   "words": [

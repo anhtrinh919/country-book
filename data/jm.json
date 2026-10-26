@@ -24,7 +24,7 @@
     "keyColor": "#F9D23C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Jamaica is a sun-drenched Caribbean island smaller than Connecticut. The Taíno named it Xaymaca — \"land of wood and water\" — and both remain: rushing rivers, rainforests, dazzling beaches. It gave the world reggae, the fastest runners ever timed, and a mountain coffee so prized Japan buys most of the crop.",
+  "lead": "Jamaica is a sunny Caribbean island, smaller than Connecticut. The Taíno named it Xaymaca, \"land of wood and water\". Jamaica gave the world reggae and the fastest runners ever timed.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Wild creatures of the island",
     "culture": "Riddim, coffee & jerk spice",
     "history": "From Xaymaca to independence",
-    "wows": "Jamaica surprises!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Jamaica has a rugged spine of mountains running east to west. The Blue Mountains soar to 2,256 m — high enough to brew clouds and grow some of Earth's most famous coffee. Dozens of rivers tumble down these slopes to the sea.",
-    "The coastline switches from dramatic cliffs to mangrove lagoons to long white beaches. The south is drier; the north is lush with rain. Hot springs bubble up, but there are no active volcanoes."
+    "Mountains run east to west along Jamaica like a spine. The Blue Mountains soar to 2,256 m, high enough to brew clouds.",
+    "Dozens of rivers tumble down to the sea. The coast has cliffs, mangrove lagoons, and long white beaches. There are hot springs but no active volcanoes."
   ],
   "animals": [
-    "Jamaica's national bird is the Doctor Bird — a red-billed streamertail hummingbird found nowhere else. The male has two long tail feathers that stream behind him as he hovers, beating his wings 50 times per second to sip nectar.",
-    "The Jamaican iguana was thought extinct for 40 years until rediscovered in the Hellshire Hills in 1990. It grows nearly a metre long and is one of the world's rarest lizards. The gentle yellow boa, a non-venomous snake, also lives only here."
+    "The Doctor Bird, a red-billed streamertail hummingbird, is Jamaica's national bird. It lives nowhere else. The male has two long tail feathers. His wings beat 50 times a second.",
+    "The Jamaican iguana was thought extinct for 40 years. People found it again in the Hellshire Hills in 1990. The gentle yellow boa, a harmless snake, also lives only here."
   ],
   "culture": [
-    "Jamaica invented reggae in the 1960s — a slow rhythmic beat carrying messages of peace. Bob Marley spread it worldwide, and UNESCO added reggae to its cultural heritage list in 2018. Music spills from open windows everywhere you go.",
-    "Jerk chicken — rubbed with scotch bonnet pepper and allspice, smoked over pimento wood — is the island's signature dish. Ackee and saltfish is the national breakfast. Blue Mountain coffee, grown in misty highland air, is among the world's most expensive cups."
+    "Jamaica invented reggae in the 1960s. Bob Marley spread it worldwide. UNESCO added reggae to its cultural heritage list in 2018. Music spills from open windows everywhere.",
+    "Jerk chicken is rubbed with scotch bonnet pepper and allspice, then smoked over pimento wood. Ackee and saltfish is the national breakfast."
   ],
   "history": [
-    "The Taíno arrived around 600 AD and named the island Xaymaca. Columbus landed in 1494; within a century the Taíno had vanished from European disease. The Spanish, then the British after 1655, ran vast sugar plantations worked by enslaved Africans.",
-    "Slavery ended in 1834, but real power stayed with plantation owners for another century. Jamaicans organised and voted for self-rule until, on 6 August 1962, the island became fully independent. Kingston still lights fireworks over the harbour each year."
+    "The Taíno arrived around 600 AD. Columbus landed in 1494, and within a century European disease had wiped out the Taíno. The Spanish, then the British after 1655, ran sugar plantations.",
+    "Enslaved Africans worked the plantations. Slavery ended in 1834, but plantation owners kept the power for another century. On 6 August 1962, Jamaica became fully independent."
   ],
   "wows": [
-    "Usain Bolt's 100 m world record of 9.58 s, set in 2009, still stands — no one has run faster.",
-    "Jamaica's flag is the only national flag containing neither red, white, nor blue.",
-    "About 70% of Jamaica's Blue Mountain coffee goes to Japan, selling for $50+ per pound.",
-    "In 1988 Jamaica's bobsled team entered the Calgary Winter Olympics — a tropical island in a sled race.",
-    "The Doctor Bird beats its wings ~50 times per second, hovering so still it looks frozen.",
-    "At 10,830 km², Jamaica is among the smallest nations ever to win Olympic sprint gold.",
-    "Dunn's River Falls flows over terraced steps directly onto a beach into the Caribbean Sea."
+    "Usain Bolt's 100 m world record of 9.58 s, set in 2009, still stands.",
+    "Jamaica's flag is the only one with no red, white, or blue.",
+    "About 70% of Blue Mountain coffee goes to Japan, selling for $50+ per pound.",
+    "In 1988, a Jamaican bobsled team raced at the Calgary Winter Olympics.",
+    "The Doctor Bird hovers so still it looks frozen.",
+    "At 10,830 km², Jamaica is among the smallest nations to win Olympic sprint gold.",
+    "Dunn's River Falls tumbles down terraced steps onto a Caribbean beach."
   ],
   "myths": [
     {
-      "myth": "Everyone in Jamaica only speaks Patois",
-      "fact": "English is the official language used in schools, courts, and media. Patois is vibrant and beloved, but most Jamaicans switch comfortably between both every day."
+      "myth": "Pirate town Port Royal is only a legend",
+      "fact": "It was real. An earthquake in 1692 sank most of it into the sea. Divers still find ruins."
     },
     {
-      "myth": "Jamaica is dangerous everywhere",
-      "fact": "Crime is concentrated in specific urban pockets. Beaches, mountain villages, and resort towns are peaceful, and millions visit safely every year."
+      "myth": "Ackee is safe to eat at any stage",
+      "fact": "Unripe ackee is poisonous. Cooks wait until the red pods open by themselves."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#003DA5",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Venezuela tops South America, where the Orinoco winds through jungle and the world's tallest waterfall turns to mist before landing. Flat-topped mountains called tepuis rise above clouds sheltering animals found nowhere else. From Caribbean beaches to Andes snowcaps, Venezuela packs astonishing variety into one wild, colourful country.",
+  "lead": "Venezuela sits at the top of South America. The world's tallest waterfall turns to mist before it lands. Flat-topped mountains called tepuis rise above the clouds.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Creatures of jungle & river",
     "culture": "Music, food & fiesta",
     "history": "From colonies to black gold",
-    "wows": "Hard to believe, but true!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Venezuela has four worlds squeezed together: icy Andes in the west, warm Caribbean beaches in the north, vast grassy Llanos plains in the centre, and Amazon rainforest in the south. The mighty Orinoco, one of South America's longest rivers, drains almost the entire country.",
-    "The Gran Sabana in the southeast is otherworldly — flat-topped mountains called tepuis burst through clouds like giant stone tables. Angel Falls tumbles 979 m off Auyán-tepui, the world's highest uninterrupted waterfall, nearly 16 times taller than Niagara."
+    "Venezuela has four worlds in one. Icy Andes rise in the west. Caribbean beaches line the north. Grassy Llanos plains spread across the centre. Amazon rainforest covers the south.",
+    "In the southeast, tepuis burst through the clouds like giant stone tables. Angel Falls drops 979 m off Auyán-tepui. It is the world's highest uninterrupted waterfall, nearly 16 times taller than Niagara."
   ],
   "animals": [
-    "The Orinoco teems with giant anacondas, spectacled caimans, and Orinoco crocodiles. Capybaras — dog-sized guinea pigs, the world's largest rodents — graze in huge herds. Pink river dolphins called toninas glide through murky jungle waterways.",
-    "Venezuela's cloud forests hide jaguars, tapirs, and spectacled bears. The tiny pebble toad on the tepuis rolls itself into a ball to escape danger. Over 1,400 bird species live here — more than all of Europe combined."
+    "The Orinoco River has giant anacondas, spectacled caimans, and pink river dolphins called toninas. Capybaras graze in huge herds.",
+    "Cloud forests hide jaguars, tapirs, and spectacled bears. The tiny pebble toad rolls into a ball to escape danger."
   ],
   "culture": [
-    "Venezuelans are passionate about baseball, the national sport since the 1940s. The joropo — played on harp, maracas, and a small four-string cuatro guitar — is the national music, fast and festive as a cowboy party on the open plains.",
-    "Food centres on the arepa: a corn cake stuffed with cheese, beans, or shredded beef. At Christmas, whole families fold hallacas — spiced meat parcels in banana leaves. Strong café negro is sipped at every hour of the day."
+    "Baseball has been the national sport since the 1940s. The joropo, the national music, uses a harp, maracas, and a small four-string guitar called a cuatro.",
+    "Arepas are corn cakes stuffed with cheese, beans, or shredded beef. At Christmas, families fold hallacas, spiced meat parcels in banana leaves."
   ],
   "history": [
-    "Indigenous Wayuu and Timoto-Cuica peoples lived here before Columbus touched Venezuelan shores in 1498 — mainland America. Spain ruled 300 years, importing enslaved Africans for cacao and sugar plantations.",
-    "Simón Bolívar, born in Caracas in 1783, liberated Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spain. Oil discovered under Lake Maracaibo in 1914 made Venezuela one of the Americas' wealthiest nations, though managing that fortune proved an enormous challenge."
+    "The Wayuu and Timoto-Cuica peoples lived here before Columbus arrived in 1498. Spain ruled for 300 years and brought enslaved Africans to its cacao and sugar plantations.",
+    "Simón Bolívar was born in Caracas in 1783. He freed Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spain. Oil found under Lake Maracaibo in 1914 made Venezuela one of the Americas' wealthiest nations."
   ],
   "wows": [
-    "Angel Falls is so tall the water turns to mist before reaching the ground on windy days.",
-    "Venezuela holds the world's largest proven oil reserves — more than Saudi Arabia.",
-    "Half the plant species atop the tepuis grow nowhere else on the planet.",
-    "Lake Maracaibo has a permanent lightning storm firing ~280 bolts per hour most nights.",
-    "The capybara, a rodent the size of a Labrador, roams the Llanos in herds of 100+.",
-    "Caracas is just 9 km from the Caribbean Sea yet stays cool year-round at 900 m altitude.",
+    "Angel Falls turns to mist on windy days.",
+    "Venezuela has the world's largest proven oil reserves.",
+    "Half the plant species on top of the tepuis grow nowhere else.",
+    "Lake Maracaibo has a lightning storm most nights, about 280 bolts per hour.",
+    "A capybara is as big as a Labrador.",
+    "Caracas is 9 km from the sea but stays cool at 900 m altitude.",
     "Venezuela has won more Miss Universe and Miss World titles than any other country."
   ],
   "myths": [
     {
-      "myth": "Venezuela is all jungle and rainforest",
-      "fact": "Half the country is open Llanos grassland, and it also has snowy Andes peaks, Caribbean beaches, and arid scrubland — four completely different landscapes."
+      "myth": "Oil comes from dead dinosaurs",
+      "fact": "Oil comes mostly from tiny sea plants and animals that died millions of years ago. Dinosaurs had little to do with it."
     },
     {
       "myth": "Angel Falls is named after an angel",
-      "fact": "It is named after Jimmy Angel, an American pilot who crash-landed on top of Auyán-tepui in 1937 while searching for gold — and survived the trek out."
+      "fact": "It is named after Jimmy Angel, a US pilot. He crash-landed on a tepui in 1937 and walked out alive."
     }
   ],
   "words": [

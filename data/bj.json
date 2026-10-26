@@ -2,7 +2,7 @@
   "name": "BENIN",
   "nativeName": "BJ",
   "romaji": "BÉNIN",
-  "tagline": "Birthplace of Voodoo",
+  "tagline": "Land of Vodun and kings",
   "region": "West Africa",
   "coords": "9.31°N, 2.32°E",
   "fileNo": "047",
@@ -24,7 +24,7 @@
     "keyColor": "#008751",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Benin is a slim finger of land in West Africa where ancient kingdoms made bronze sculptures now in world museums. It is the homeland of Vodun — a living religion of spirits and ancestors, not movie-monster magic. The south holds lagoon villages built on stilts; the north opens to dry savannah roamed by elephants.",
+  "lead": "Benin is a long, thin country in West Africa. Ancient kingdoms here made bronze sculptures that now sit in world museums. It is the homeland of Vodun, a living religion of spirits and ancestors. In the south, lagoon villages stand on stilts.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "Lagoons, savannah & beyond",
-    "animals": "Wild things of Benin",
-    "culture": "Kingdoms, drums & spirits",
-    "history": "From empire to independence",
-    "wows": "7 things that'll surprise you"
+    "geography": "Lagoons, stilts & savannah",
+    "animals": "Elephants, lions & manatees",
+    "culture": "Spirits, drums & warriors",
+    "history": "From Dahomey to Benin",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Benin is long and narrow — only 125 km wide at its coast but stretching 700 km north. The south has sandy beaches, mangrove swamps, and Lake Nokoué, where the village of Ganvié sits entirely on stilts above the water.",
-    "Moving north, forested hills rise to dry savannah and Pendjari National Park — one of West Africa's finest reserves, where lions roam free alongside elephants and hippos."
+    "Benin is only 125 km wide at the coast but stretches 700 km north. On Lake Nokoué in the south, the village of Ganvié stands on stilts above the water.",
+    "In the north, forested hills rise to dry savannah. Pendjari National Park, one of West Africa's finest reserves, is there. Lions roam free beside elephants and hippos."
   ],
   "animals": [
-    "Benin's star animal is the African elephant — Pendjari Park shelters over 2,000 of them, the largest population in West Africa. Lion prides stalk tall grass, and rare African wild dogs patrol in packs.",
-    "Waterways teem with hippos and Nile crocodiles. Rare manatees glide through coastal lagoons. Colourful bee-eaters and giant hornbills call through the forest canopy at dawn."
+    "Pendjari Park shelters over 2,000 elephants, the biggest herd in West Africa. Lion prides stalk the tall grass, and rare African wild dogs patrol in packs.",
+    "Hippos and Nile crocodiles fill the waterways. Rare manatees glide through coastal lagoons. At dawn, bee-eaters and giant hornbills call from the canopy."
   ],
   "culture": [
-    "Benin is the world's birthplace of Vodun — a religion honouring spirits of nature and ancestors. Every January, Vodun Day fills Ouidah's streets with drummers, vivid costumed dancers, and elaborate ceremonies.",
-    "Dahomey's all-female Agojie warriors inspired the film 'The Woman King'. Colourful appliqué tapestries still stitched in Abomey retell those battle stories panel by panel."
+    "Benin is the birthplace of Vodun, a religion that honours nature spirits and ancestors. Every January, Vodun Day fills Ouidah's streets with drummers and costumed dancers.",
+    "Dahomey's all-female warriors, the Agojie, inspired the film 'The Woman King'. In Abomey, artists still stitch colourful appliqué (cloth pictures) that retell battles."
   ],
   "history": [
-    "The Kingdom of Dahomey rose around 1600 CE, growing rich through trade — tragically including the slave trade through Ouidah's 'Door of No Return'. Its kings commanded vast armies and commissioned extraordinary bronze artworks.",
-    "France colonised the region in the 1890s. Independence came 1 August 1960. After political upheaval the country renamed itself Benin in 1975 and built one of West Africa's more stable democracies."
+    "The Kingdom of Dahomey rose around 1600 CE and grew wealthy through trade. That trade included enslaved people sold through Ouidah's 'Door of No Return'. Its kings led vast armies.",
+    "France colonised the region in the 1890s. Benin became independent on 1 August 1960. It took the name Benin in 1975 and built one of West Africa's steadier democracies."
   ],
   "wows": [
-    "Ouidah's 'Door of No Return' beach is where ~1 million enslaved people were shipped to the Americas.",
-    "Ganvié on Lake Nokoué holds 30,000 people who travel everywhere by canoe — even the market floats.",
-    "Dahomey's Agojie female warriors were so fierce that European soldiers wrote home in awe of their bravery.",
-    "10 January is a national Vodun holiday — Benin is the only country in the world to honour it this way.",
-    "Abomey's royal palaces are UNESCO-listed, with bas-relief walls that tell history like a giant comic strip.",
-    "Some of Benin's baobab trees are over 1,000 years old — locals call them 'the tree that drinks the sky'.",
-    "Pendjari is the last stronghold of the West African lion; fewer than 400 survive in the whole region."
+    "About 1 million enslaved people left from Ouidah's 'Door of No Return' beach.",
+    "Ganvié's 30,000 people travel everywhere by canoe, even to the floating market.",
+    "European soldiers wrote home in awe of Dahomey's Agojie warriors.",
+    "Benin celebrates Vodun with a national holiday on 10 January.",
+    "UNESCO lists Abomey's royal palaces, whose carved walls tell history like a comic strip.",
+    "Some Benin baobab trees are over 1,000 years old.",
+    "Fewer than 400 West African lions survive, mostly in Pendjari."
   ],
   "myths": [
     {
-      "myth": "Voodoo is all about zombie curses",
-      "fact": "Vodun is a sophisticated ancestral religion with priests, shrines, and ethical codes — Hollywood invented the zombie curse for horror films."
+      "myth": "Cashew nuts grow inside the fruit",
+      "fact": "A cashew nut hangs outside its fruit, the cashew apple. Benin is a big cashew grower."
     },
     {
       "myth": "Benin is part of Nigeria",
-      "fact": "Benin is a separate country west of Nigeria; the name comes from the Bight of Benin coastal bay, not Nigeria's Benin City."
+      "fact": "Benin is its own country, just west of Nigeria. It is named after the Bight of Benin, a bay."
     }
   ],
   "words": [

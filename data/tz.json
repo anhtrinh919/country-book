@@ -24,7 +24,7 @@
     "keyColor": "#1DA354",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Tanzania is a giant East African land where Africa's highest peak wears snow, millions of wildebeest thunder across golden plains each year, and a spice island floats in a turquoise sea. From an ancient volcanic crater to Zanzibar's coral reefs, it packs more wild wonders into one country than almost anywhere on Earth.",
+  "lead": "Tanzania is in East Africa. Africa's highest peak rises here, with snow on top. Millions of wildebeest run across golden plains. A spice island, Zanzibar, floats in a turquoise sea.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Roof of Africa & wild plains",
     "animals": "The greatest show on Earth",
-    "culture": "A hundred tribes, one nation",
+    "culture": "Many peoples, one nation",
     "history": "From sultanates to freedom",
-    "wows": "Hard to believe, but true!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Tanzania sits on a vast high plateau dotted with volcanoes, ancient craters, and glittering lakes. The Great Rift Valley cuts through the west, creating Lake Tanganyika — the world's longest freshwater lake, so deep you could stack four Eiffel Towers inside it.",
-    "Mount Kilimanjaro stands alone on the northeastern plains — a snow-capped volcano rising 5,895 m above sea level, the tallest free-standing mountain on the planet. Nearly 30% of Tanzania is protected national park, more than almost any other country."
+    "Tanzania sits on a high plateau with volcanoes and glittering lakes. The Great Rift Valley made Lake Tanganyika, the world's longest freshwater lake. Four Eiffel Towers could stack inside it.",
+    "Mount Kilimanjaro rises 5,895 m. Snow covers its top. It is the tallest free-standing mountain on Earth. Nearly 30% of Tanzania is national park."
   ],
   "animals": [
-    "The Serengeti hosts the Great Migration — over 1.5 million wildebeest plus hundreds of thousands of zebras and gazelles stampeding in a giant loop across the plains. It is the largest overland animal movement on Earth, with nail-biting crocodile river crossings.",
-    "Tanzania's national animal is the Maasai giraffe, the tallest creature alive. The country also shelters lions, elephants, cheetahs, hippos, flamingos, and over 1,100 bird species, all roaming parks so vast the animals barely notice the jeeps."
+    "Every year, over 1.5 million wildebeest cross the Serengeti. Zebras and gazelles go with them. It is the biggest land animal journey on Earth.",
+    "The Maasai giraffe is Tanzania's national animal. It is the tallest animal alive. Lions, elephants, and over 1,100 kinds of birds live here too."
   ],
   "culture": [
-    "Tanzania is home to over 120 ethnic groups, yet Swahili — a melodic blend of Bantu and Arabic — ties them all together. On Zanzibar, carved wooden doors and Arabic arches recall centuries of spice-trade merchants; cloves and cinnamon still perfume the island air.",
-    "Music and dance pulse through daily life, from the acrobatic leaps of Maasai warriors to the taarab orchestras of Zanzibar blending violins with ouds. Ugali — a firm maize porridge — is the everyday staple, scooped up with stew, beans, or grilled fish."
+    "More than 120 ethnic groups live in Tanzania. Swahili, a mix of Bantu and Arabic, joins them all. On Zanzibar, cloves and cinnamon still scent the air.",
+    "Maasai warriors dance with high leaps. Ugali is the everyday food. It is a firm maize porridge. People scoop it up with stew, beans, or fish."
   ],
   "history": [
-    "Ancient humans left footprints in volcanic ash at Laetoli 3.6 million years ago — the oldest known hominin footprints on Earth. Arab and Persian traders settled the coast from the 8th century, building Stone Town and a busy ocean trade in spices and enslaved people.",
-    "Germany then Britain colonised the mainland, but on 9 December 1961 Julius Nyerere led Tanganyika to independence. In 1964, Tanganyika and Zanzibar united to form Tanzania. Nyerere championed Swahili to forge one proud nation from hundreds of tribal identities."
+    "Early humans left footprints in volcanic ash at Laetoli 3.6 million years ago. Arab and Persian traders settled the coast from the 8th century. They built Stone Town.",
+    "On 9 December 1961, Julius Nyerere led Tanganyika to independence. In 1964, Tanganyika and Zanzibar joined to make Tanzania. Nyerere pushed Swahili to unite hundreds of tribes."
   ],
   "wows": [
-    "Ngorongoro is Earth's largest intact volcanic caldera — a bowl 20 km wide holding 25,000 large animals.",
-    "Human ancestor footprints from 3.6 million years ago are still preserved in ash at Laetoli, Tanzania.",
-    "Freddie Mercury, lead singer of Queen, was born in Zanzibar in 1946.",
-    "Lake Tanganyika holds 16% of Earth's surface fresh water and plunges 1,470 m deep.",
-    "Tanzania has more UNESCO World Heritage Sites than any other East African country.",
-    "The Great Migration never stops — wildebeest travel 800 km every year with no map.",
-    "Kilimanjaro's glaciers have shrunk 80% since 1912 and may vanish by 2050."
+    "Ngorongoro is the world's biggest unbroken volcanic crater.",
+    "Footprints of human ancestors from 3.6 million years ago survive at Laetoli.",
+    "Freddie Mercury of Queen was born in Zanzibar in 1946.",
+    "Lake Tanganyika holds 16% of Earth's surface fresh water.",
+    "Tanzania has more UNESCO sites than any other East African country.",
+    "Wildebeest walk 800 km every year without a map.",
+    "Kilimanjaro's glaciers have shrunk 80% since 1912."
   ],
   "myths": [
     {
-      "myth": "Kilimanjaro is in Kenya",
-      "fact": "Mount Kilimanjaro is entirely in Tanzania, near the Kenyan border. Kenya's highest peak is Mount Kenya, which stands about 500 m shorter."
+      "myth": "Giraffes have extra neck bones",
+      "fact": "A giraffe has just seven neck bones, like you. Each bone is much, much longer."
     },
     {
-      "myth": "Migration only happens in summer",
-      "fact": "The wildebeest migration is year-round — the herds circle continuously, with the famous river crossings peaking between July and October."
+      "myth": "Lions live in the jungle",
+      "fact": "Most lions live on grassy plains called savannah, not in thick jungle."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#E70013",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Tunisia is a sunny land where Sahara dunes meet Mediterranean beaches. Packed with Roman ruins and medinas fragrant with jasmine and spice, it punches far above its size. In 2011, Tunisians peacefully overthrew their government — the first Arab country to do so — inspiring change across the whole region.",
+  "lead": "Tunisia is a sunny land where Sahara dunes meet Mediterranean beaches. It has Roman ruins and medinas that smell of jasmine and spice. In 2011, Tunisians peacefully overthrew their government. They were the first Arab country to do so.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Creatures of sand and shore",
     "culture": "Medinas, mint tea & Star Wars",
     "history": "Carthage to the Arab Spring",
-    "wows": "Seven wow-worthy facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Tunisia is shaped like an ear. The north is green and hilly, covered in olive groves and wheat fields, with 1,300 km of Mediterranean coast offering white-sand beaches and turquoise water.",
-    "Head south and the land turns to the Chott el-Djerid — a vast salt lake shimmering like a mirror — then the Sahara begins, with towering orange dunes near Douz where camels plod at sunset."
+    "Tunisia is shaped like an ear. The green, hilly north has olive groves and wheat fields. Its Mediterranean coast is 1,300 km long.",
+    "In the south, the Chott el-Djerid salt lake shimmers like a mirror. Then the Sahara begins. Tall orange dunes rise near Douz, where camels plod at sunset."
   ],
   "animals": [
-    "The shallow Gulf of Gabès is a nursery for octopus, sea bream, and endangered loggerhead sea turtles that nest on quiet beaches. Pink flamingos wade in coastal lagoons every winter.",
-    "In northern cork-oak forests, wild boar and reintroduced Barbary red deer roam the undergrowth. Striped hyenas and fennec foxes — with ears like satellite dishes — prowl the desert edge at night."
+    "The shallow Gulf of Gabès is a nursery for octopus and sea bream. Endangered loggerhead sea turtles nest on its beaches. Pink flamingos wade in coastal lagoons every winter.",
+    "Wild boar and Barbary red deer roam the northern cork-oak forests. Striped hyenas and fennec foxes prowl the desert edge at night."
   ],
   "culture": [
-    "Tunisian food is fiery and fragrant. Harissa — a brick-red chilli paste of dried peppers, garlic, and cumin — goes on almost everything. A classic breakfast is brik: a crispy pastry with a runny egg inside, eaten fast before it drips.",
-    "Music blends Andalusian strings, Berber percussion, and modern pop in a style called malouf. The walled medina of Tunis is a UNESCO-listed maze of souks selling perfume, copper lanterns, and carpets. Tatooine in Star Wars was filmed here."
+    "Harissa, a brick-red paste of dried chillies, garlic, and cumin, goes on almost everything. Brik, a crispy pastry with a runny egg inside, is a classic breakfast.",
+    "Malouf music blends Andalusian strings, Berber drums, and modern pop. The walled medina of Tunis is a UNESCO-listed maze of souks (markets)."
   ],
   "history": [
-    "Carthage, founded near modern Tunis around 814 BC, became one of the ancient world's mightiest cities. Its general Hannibal crossed the Alps with war elephants to attack Rome. Rome eventually won, flattened Carthage, then rebuilt it as a grand city.",
-    "Arabs brought Islam in the 7th century; Ottoman rule followed, then French colonisation in 1881. Independence came in 1956. In 2011, street vendor Mohamed Bouazizi's protest ignited the Jasmine Revolution, sparking the wider Arab Spring."
+    "Carthage was founded near modern Tunis around 814 BC. Its general Hannibal crossed the Alps with war elephants to attack Rome. Rome won, flattened Carthage, then rebuilt it.",
+    "Arabs brought Islam in the 7th century. Ottoman rule followed, then French colonisation in 1881. Independence came in 1956. In 2011, Mohamed Bouazizi's protest sparked the Jasmine Revolution and the Arab Spring."
   ],
   "wows": [
-    "Tunisia grows olive oil from trees over 2,000 years old and exports about 1.8 billion litres a year.",
-    "Matmata is built underground — families carved homes into rock and it doubled as Luke's planet in Star Wars.",
-    "The Chott el-Djerid salt lake is so flat and reflective it looks like liquid silver from the air.",
-    "Tunisia abolished slavery in 1846 — nearly 20 years before the United States did the same.",
-    "The Bardo Museum holds the world's largest collection of ancient Roman floor mosaics.",
-    "Tunis's medina packs over 700 monuments into lanes so narrow no car can enter.",
-    "Carthage was so thoroughly destroyed that Romans reportedly ploughed salt into its ruins."
+    "Tunisia's olive trees top 2,000 years old, and it exports about 1.8 billion litres of oil a year.",
+    "In Matmata, families carved homes underground, and Star Wars filmed Luke's planet there.",
+    "The Chott el-Djerid salt lake looks like liquid silver.",
+    "Tunisia abolished slavery in 1846, nearly 20 years before the United States.",
+    "The Bardo Museum has the world's largest collection of Roman floor mosaics.",
+    "Tunis's medina has over 700 monuments, in lanes too narrow for cars.",
+    "Romans reportedly ploughed salt into Carthage's ruins."
   ],
   "myths": [
     {
-      "myth": "Tunisia is all desert",
-      "fact": "Only the southern third is Sahara. The north has green hills, cork forests, rivers, and a mild Mediterranean coast — more like southern Italy than a sand dune."
+      "myth": "Tunisia is in the Middle East",
+      "fact": "It is in North Africa. Ras ben Sakka, the continent's northernmost point, is in Tunisia."
     },
     {
-      "myth": "Harissa is just hot sauce",
-      "fact": "Real harissa is a slow-roasted paste of dried chillies, garlic, cumin, and coriander — each family's recipe differs, making it far more complex than simple hot sauce."
+      "myth": "Sahara camels have two humps",
+      "fact": "They have one hump and are called dromedaries. Two-humped camels live in cold Central Asia."
     }
   ],
   "words": [

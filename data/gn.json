@@ -2,7 +2,7 @@
   "name": "GUINEA",
   "nativeName": "GN",
   "romaji": "GUINÉE",
-  "tagline": "Water tower of Africa",
+  "tagline": "Water tower of West Africa",
   "region": "West Africa",
   "coords": "11.0°N, 10.9°W",
   "fileNo": "042",
@@ -24,7 +24,7 @@
     "keyColor": "#CE1126",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Guinea sits on West Africa's coast where rainforests meet grassy highlands. Its hills feed the Niger, Gambia and Senegal rivers — the Water Tower of West Africa. Beneath the red soil hides the planet's biggest bauxite store, the ore that makes aluminium. From its villages came the djembe drum, now heard on every continent.",
+  "lead": "Guinea sits on the coast of West Africa. Its hills feed the Niger, Gambia and Senegal rivers. Under the red soil lies the biggest store of bauxite, the ore for aluminium. The djembe drum began in its villages.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "The water tower of Africa",
+    "geography": "Highlands, gorges & waterfalls",
     "animals": "Chimps, hippos & rare toads",
     "culture": "Drums, griots & peanut stew",
     "history": "The land that said no",
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Guinea divides into four zones. The Atlantic coast has mangrove swamps and humid lowlands. Inland, the Fouta Djallon plateau rises to cool grasslands cut by spectacular gorges and waterfalls that feed rivers flowing across West Africa.",
-    "The Forest Region in the south-east is dense jungle shared with chimpanzees and rare wildlife. Along the Ivory Coast border, Mount Nimba is a UNESCO nature reserve protecting hundreds of species found nowhere else on Earth."
+    "Guinea has four zones. The coast has mangrove swamps. Inland, the Fouta Djallon plateau has cool grasslands, gorges and waterfalls. Its water feeds rivers across West Africa.",
+    "The Forest Region in the south-east is thick jungle full of chimpanzees. Mount Nimba, a UNESCO nature reserve, protects hundreds of species found nowhere else."
   ],
   "animals": [
-    "Guinea's forests shelter one of the world's largest western chimpanzee populations. In Bossou village, wild chimps live alongside people, cracking nuts with stones — a skill passed mother to child like a family recipe.",
-    "The shy pygmy hippopotamus hides in Guinea's swampy lowlands. On Mount Nimba lives the viviparous toad, which gives birth to live tadpoles — one of the strangest amphibians on the planet."
+    "Guinea's forests shelter one of the biggest groups of western chimpanzees. In Bossou village, wild chimps crack nuts with stones. Mothers teach their babies.",
+    "The shy pygmy hippo hides in swampy lowlands. A toad on Mount Nimba gives birth to live tadpoles. Few amphibians do that."
   ],
   "culture": [
-    "Guinea is the heartland of the djembe drum, a goblet-shaped instrument that spread from Mandinka villages to concert stages worldwide. Griots are storyteller-musicians who memorise royal histories and sing them at weddings and festivals, keeping the past alive with voice and kora harp.",
-    "Rice with peanut sauce is the everyday meal, eaten from a shared bowl. Three big groups — the Pular, Malinke and Susu — each bring their own language and music, making Guinea feel like three countries stitched together under one flag."
+    "The djembe is a goblet-shaped drum that began in Mandinka villages. Griots are storyteller-musicians. They memorise royal histories and sing them at weddings and festivals.",
+    "Rice with peanut sauce is an everyday meal, eaten from a shared bowl. The Pular, Malinke and Susu peoples each have their own language and music."
   ],
   "history": [
-    "On 2 October 1958, Guinea became the first French colony to vote for independence. Leader Sékou Touré told France: ‘We prefer poverty in freedom to riches in slavery.’ France pulled out in weeks, ripping phones from walls. Guinea stood alone — and survived.",
-    "Touré ruled harshly for 26 years, jailing thousands. After his death in 1984, Guinea slowly opened up. Its enormous bauxite reserves — the rock that makes all aluminium — still make it one of Africa's most strategically important nations."
+    "On 2 October 1958, Guinea became the first French colony to vote for independence. Leader Sékou Touré said: 'We prefer poverty in freedom to riches in slavery.'",
+    "Touré ruled harshly for 26 years. After he died in 1984, Guinea slowly opened up. Its bauxite makes it one of Africa's most important countries."
   ],
   "wows": [
-    "Guinea holds the world's largest bauxite reserves — the ore used to make aluminium for cans, planes and foil.",
-    "The Fouta Djallon plateau feeds 22 West African rivers, including the Niger, Gambia and Senegal.",
-    "Bossou village chimps use stone hammers to crack oil-palm nuts, teaching the skill to their young.",
-    "Guinea is the birthplace of the djembe drum, now played in music schools from Tokyo to Toronto.",
-    "Mount Nimba's viviparous toad gives live birth to toadlets — almost no other amphibian does this.",
-    "The 2014 Ebola outbreak that alarmed the world began in one small Guinean village in December 2013.",
-    "Conakry's Grand Mosque was the largest mosque in sub-Saharan Africa when it opened in 1982."
+    "Guinea holds the world's largest bauxite reserves.",
+    "The Fouta Djallon plateau feeds 22 West African rivers.",
+    "Bossou chimps crack oil-palm nuts with stone hammers.",
+    "Djembe drums from Guinea are played from Tokyo to Toronto.",
+    "Mount Nimba's toad gives birth to live toadlets.",
+    "The 2014 Ebola outbreak began in one Guinean village.",
+    "Conakry's Grand Mosque was the largest in sub-Saharan Africa in 1982."
   ],
   "myths": [
     {
-      "myth": "Guinea is just jungle and poverty",
-      "fact": "Guinea holds a quarter of the world's bauxite and has stunning highland plateaus, spectacular waterfalls and a rich musical heritage that shaped West Africa."
+      "myth": "All the Guineas are one country",
+      "fact": "Four places share the name Guinea. Guinea, Guinea-Bissau, Equatorial Guinea and Papua New Guinea are all separate countries."
     },
     {
-      "myth": "Everyone speaks French there",
-      "fact": "Only about 28% of Guineans use French daily. Most speak Pular, Malinke or Susu at home, at market and with friends."
+      "myth": "A djembe drum is played with sticks",
+      "fact": "Drummers use bare hands. A djembe makes three sounds: a deep bass, a clear tone and a sharp slap."
     }
   ],
   "words": [

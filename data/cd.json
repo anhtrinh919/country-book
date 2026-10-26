@@ -24,7 +24,7 @@
     "keyColor": "#007FFF",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "DR Congo is a giant rainforest nation in the heart of Africa. The Congo River snakes through jungles so vast they act like a second lung for our planet. More kinds of birds, fish, and primates live here than almost anywhere else, and beneath the floor lies a treasure chest of minerals that power the world's phones and batteries.",
+  "lead": "DR Congo is a giant rainforest country in the heart of Africa. The Congo River snakes through jungles so vast that they act like a second lung for our planet. More kinds of birds, fish, and primates live here than almost anywhere else. Under the ground are minerals that power the world's phones and batteries.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Jungle giants & river beasts",
     "culture": "Music, colour & 200 peoples",
     "history": "Kingdom, colony & freedom",
-    "wows": "Hard to believe but true!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "The Congo River loops through the country like a giant question mark, draining a rainforest the size of Western Europe. Rains fall almost every day near the equator, keeping rivers brimming year-round.",
-    "To the east, the land rises into volcanoes and the Rwenzori 'Mountains of the Moon' — capped with glaciers right on the equator. Deep lakes like Tanganyika glitter between the peaks along the Great Rift Valley."
+    "The Congo River loops through the country like a giant question mark. It drains a rainforest the size of Western Europe. Rain falls almost every day near the equator. That keeps the rivers full all year.",
+    "In the east, the land rises into volcanoes and the Rwenzori Mountains, or 'Mountains of the Moon'. Glaciers cap them, right on the equator. Deep lakes like Tanganyika glitter between the peaks along the Great Rift Valley."
   ],
   "animals": [
-    "The DRC is the only place where okapis roam wild — shy, zebra-striped relatives of the giraffe. Mountain gorillas cling on in the Virunga volcanoes, and the Congo River holds over 700 fish species, including the fearsome goliath tigerfish.",
-    "Bonobos — our closest ape relatives — live only in forests south of the Congo River. Forest elephants, hippos, and the Congo peacock (found nowhere else on Earth) complete an astonishing wildlife roster."
+    "The okapi lives wild only in the DRC. It is a shy, zebra-striped relative of the giraffe. Mountain gorillas cling on in the Virunga volcanoes. The Congo River holds over 700 fish species, including the fierce goliath tigerfish.",
+    "Bonobos, our closest ape relatives, live only in forests south of the Congo River. Forest elephants and hippos live here too. So does the Congo peacock, found nowhere else on Earth."
   ],
   "culture": [
-    "Congo gave the world soukous — bouncy electric-guitar music that swept across Africa in the 1970s and still fills dance floors today. Kinshasa's sapeurs dress in spectacular tailored suits as living art and peaceful protest.",
-    "Over 200 ethnic groups produce carved wooden masks for ceremonies connecting the living with ancestors. Colourful wax-print kitenge fabrics are worn daily and inspire fashion designers worldwide."
+    "Congo gave the world soukous. It is bouncy electric-guitar music that swept across Africa in the 1970s. It still fills dance floors today. In Kinshasa, sapeurs wear spectacular tailored suits. For them, it is living art and peaceful protest.",
+    "Over 200 ethnic groups live here. They carve wooden masks for ceremonies that link the living with their ancestors. Colourful wax-print fabrics called kitenge are worn daily. Fashion designers worldwide love them."
   ],
   "history": [
-    "The Kongo Kingdom ruled much of Central Africa for centuries, trading copper and cloth across the continent. In the 1880s Belgian King Leopold II seized the land, forcing people to harvest rubber in conditions so brutal that millions died.",
-    "Congo gained independence on 30 June 1960. Leader Patrice Lumumba gave a bold speech demanding true freedom. Decades of dictatorship followed, but elections have been held and vast mineral wealth offers hope."
+    "The Kongo Kingdom ruled much of Central Africa for centuries. It traded copper and cloth across the continent. In the 1880s, Belgian King Leopold II seized the land. He forced people to harvest rubber in brutal conditions. Millions died.",
+    "Congo became independent on 30 June 1960. Its leader, Patrice Lumumba, gave a bold speech demanding true freedom. Decades of dictatorship followed. Now elections are held, and vast mineral wealth offers hope."
   ],
   "wows": [
-    "The Congo River plunges over 220 m deep — the deepest river on Earth.",
+    "The Congo River plunges over 220 m deep, making it the deepest river on Earth.",
     "DR Congo holds more than half of Africa's tropical rainforest.",
     "No other river system on Earth has more freshwater fish species.",
     "Kinshasa and Brazzaville are the world's closest pair of capital cities.",
-    "Almost every smartphone battery contains coltan mined in eastern Congo.",
+    "Most of the world's cobalt, a metal in phone batteries, is mined in DR Congo.",
     "Bonobos are the only great apes known to be led by females.",
     "Mount Nyiragongo holds one of Earth's largest active lava lakes, glowing orange at night."
   ],
   "myths": [
     {
-      "myth": "Congo is all jungle",
-      "fact": "The east has glaciated mountains, active volcanoes, and high grasslands — dramatically different from the rainforest basin."
+      "myth": "The Congo is Africa's longest river",
+      "fact": "The Nile is longer. The Congo is second. But the Congo carries far more water."
     },
     {
-      "myth": "It's too dangerous to visit",
-      "fact": "Most of the country, including Kinshasa, is peaceful and welcoming; conflict is focused in specific eastern border zones."
+      "myth": "Gorillas are fierce meat-eaters",
+      "fact": "Gorillas are gentle. They mostly eat plants, like leaves, stems and fruit."
     }
   ],
   "words": [

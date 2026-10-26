@@ -24,7 +24,7 @@
     "keyColor": "#1B3F8B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "El Salvador is the tiniest country in Central America, yet it packs in 20-plus volcanoes, coffee forests, and Pacific surf beaches. The Pipil people farmed here before Spanish explorers arrived in 1524. Today 6 million Salvadorans share a country no bigger than Wales — the only one in Central America with no Caribbean coast.",
+  "lead": "El Salvador is the smallest country in Central America. It has over 20 volcanoes, coffee forests and Pacific surf beaches. The Pipil people farmed here before the Spanish came in 1524.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Feathers, fur & forest life",
     "culture": "Pupusas, festivals & coffee",
     "history": "From Pipil kings to peace",
-    "wows": "Surprising El Salvador"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "El Salvador sits on the Pacific Ring of Fire, packed with more than 20 volcanoes in a space the size of Wales. Santa Ana, the highest at 2,381 m, holds a vivid crater lake and last erupted in 2005. Earthquakes rattle the ground regularly.",
-    "The Pacific coast stretches 307 km — El Salvador's only coastline, making it the sole Central American country with no Caribbean shore. Inland, pine-forested highlands drop to fertile valleys where coffee and sugar cane thrive."
+    "El Salvador sits on the Pacific Ring of Fire. Santa Ana is the highest volcano, at 2,381 m. It has a crater lake and last erupted in 2005.",
+    "The Pacific coast is 307 km long. It is the country's only coast, so it has no Caribbean shore. Pine highlands drop to valleys where coffee and sugar cane grow."
   ],
   "animals": [
-    "El Salvador's national bird is the turquoise-browed motmot, called 'torogoz'. This jewel-coloured bird swings its long racket-tipped tail like a pendulum. Sea turtles nest on Pacific beaches and howler monkeys roam the forests.",
-    "White-tailed deer and coatis share highland forests with ocelots. Over 500 bird species have been recorded here, making El Salvador a quiet birdwatching gem despite being the smallest country in Central America."
+    "The national bird is the turquoise-browed motmot, called the torogoz. It swings its long racket-tipped tail like a pendulum. Sea turtles nest on the Pacific beaches.",
+    "White-tailed deer, coatis and ocelots live in the highland forests. More than 500 bird species have been recorded here."
   ],
   "culture": [
-    "Pupusas are El Salvador's gift to the world: thick handmade cornmeal patties stuffed with cheese, beans, or pork, griddled until golden and served with tangy pickled cabbage called curtido. Every family has a favourite recipe.",
-    "Coffee has shaped the country since the 1880s, with highland haciendas growing prized shade-grown beans. El Tunco beach pulses with surf culture, while festivals blend Catholic traditions with ancient Pipil dances and marimba music."
+    "Pupusas are thick cornmeal patties filled with cheese, beans or pork. People eat them with curtido, a tangy pickled cabbage.",
+    "Coffee has shaped the country since the 1880s. Festivals mix Catholic traditions with old Pipil dances and marimba music."
   ],
   "history": [
-    "The Pipil people, related to the Aztecs, ruled El Salvador before Spanish conquistador Pedro de Alvarado arrived in 1524. Warriors repelled the first invasion — it took three expeditions to conquer them. Coffee wealth later built grand estates but left most farmers poor.",
-    "A brutal civil war (1979–1992) killed over 75,000 people before peace accords ended the conflict. In 2021 El Salvador became the first country to adopt Bitcoin as legal tender, though the experiment was reversed in 2025."
+    "The Pipil people, related to the Aztecs, ruled here. Spanish conquistador Pedro de Alvarado arrived in 1524. Pipil warriors beat the first invasion. Spain needed three tries to win.",
+    "A civil war from 1979 to 1992 killed over 75,000 people. Peace accords ended it. In 2021, El Salvador became the first country to make Bitcoin official money. It reversed this in 2025."
   ],
   "wows": [
-    "El Salvador is the only Central American nation with no Caribbean coast — all beaches face the Pacific.",
-    "A Maya village called Joya de Cerén was buried in volcanic ash around AD 600 — the Pompeii of the Americas.",
-    "El Salvador has 20-plus volcanoes crammed into an area the size of Wales — among Earth's densest.",
-    "The torogoz bird swings its racket-tipped tail like a pendulum to signal predators it has been spotted.",
-    "Indigo dye was El Salvador's top export for 300 years until cheap synthetic dyes wiped out the trade.",
-    "In 2021 El Salvador became the first nation on Earth to make Bitcoin legal tender.",
-    "Pupusa Day is a national holiday celebrated every second Sunday of November, enshrined by law."
+    "El Salvador is the only Central American country with no Caribbean coast.",
+    "Joya de Cerén, a Maya village, was buried in ash around AD 600. People call it the Pompeii of the Americas.",
+    "Over 20 volcanoes squeeze into a space the size of Wales.",
+    "The torogoz swings its tail like a pendulum to show predators it has been spotted.",
+    "Indigo dye was the top export for 300 years, until cheap synthetic dyes ended the trade.",
+    "In 2021, it was the first nation to make Bitcoin legal tender.",
+    "Pupusa Day is a national holiday on the second Sunday of November."
   ],
   "myths": [
     {
-      "myth": "El Salvador is too dangerous to visit",
-      "fact": "Homicide rates fell sharply after 2022 reforms; El Salvador now has one of Central America's lowest crime rates and a thriving surf-tourism industry."
+      "myth": "Coffee beans are beans",
+      "fact": "They are seeds inside a red fruit called a coffee cherry. Each cherry usually holds two seeds."
     },
     {
-      "myth": "El Salvador is a large country",
-      "fact": "At 21,040 km² it is the smallest country in Central America — roughly the size of Wales or the US state of Massachusetts."
+      "myth": "El Salvador is named after a man called Salvador",
+      "fact": "The name is Spanish for 'The Saviour'. It honours Jesus Christ."
     }
   ],
   "words": [

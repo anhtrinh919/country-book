@@ -13,7 +13,7 @@
     "keyColor": "#DA251D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Vietnam is a long S-shaped strip on Asia's eastern edge — so skinny you can drive from sea to mountains in an hour. Over 100 million people call it home, speaking a language with six musical tones. From misty rice terraces in the north to glowing limestone islands in the south, every corner feels like a different world in one extraordinary place.",
+  "lead": "Vietnam is a long, thin country shaped like the letter S. More than 100 million people live here. Their language has six musical tones. Rice terraces climb the northern hills. Limestone islands dot the southern sea.",
   "facts": [
     {
       "label": "Capital",
@@ -58,42 +58,42 @@
     "geography": "A skinny S of sea & mountains",
     "animals": "Wild things of jungle & bay",
     "culture": "Pho, lanterns & dragon dances",
-    "history": "A thousand years of resilience",
-    "wows": "Facts that'll make you go WOW!"
+    "history": "Drums, battles & one nation",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Vietnam stretches 1,650 km from top to bottom but is barely 50 km wide at its narrowest. The north has the Red River Delta and soaring mountains where mist curls around rice terraces carved over centuries. The Annamite Range runs like a spine all the way south.",
-    "The south fans out into the Mekong Delta — a watery maze of rivers and floating markets. Vietnam also has nearly 3,000 km of coastline and over 3,000 islands, including the fairytale limestone towers of Hạ Long Bay, a UNESCO World Heritage Site."
+    "Vietnam is 1,650 km long but only 50 km wide at its narrowest. The Red River Delta and tall mountains fill the north. The Annamite Range runs south like a spine.",
+    "The Mekong Delta is a maze of rivers and floating markets. Vietnam has nearly 3,000 km of coast and over 3,000 islands. Hạ Long Bay is a UNESCO World Heritage Site."
   ],
   "animals": [
-    "Vietnam harbours some of the world's rarest creatures. The saola — the Asian unicorn — was only discovered in 1992 and is so elusive almost no one has photographed one alive. Indochinese tigers and clouded leopards prowl the ancient border forests.",
-    "In the waters near Hạ Long Bay, dugongs graze on sea grass while sea turtles glide past coral reefs. Vietnam hosts nearly 1,000 bird species — more than all of Europe — including the Vietnamese pheasant found nowhere else."
+    "The saola, the Asian unicorn, was found only in 1992. Almost nobody has photographed one alive. Indochinese tigers and clouded leopards prowl the border forests.",
+    "Dugongs graze on sea grass near Hạ Long Bay. Vietnam has nearly 1,000 bird species, more than all of Europe. The Vietnamese pheasant lives nowhere else."
   ],
   "culture": [
-    "Vietnamese culture weaves 54 ethnic traditions together. The biggest celebration is Tết — Lunar New Year — when families reunite, firecrackers pop, and dragon dancers fill every street. Red envelopes with lucky money go to children, and homes fill with incense and peach blossoms.",
-    "Food is a serious art: phở broth simmers for hours with star anise and charred ginger. Bánh mì — a crusty baguette stuffed with Vietnamese fillings — shows how cultures can collide deliciously. Hội An glows with silk lanterns every single night."
+    "Vietnam has 54 ethnic groups. Tết, the Lunar New Year, is the biggest party. Dragon dancers fill the streets, and children get red envelopes of lucky money.",
+    "Phở broth simmers for hours with star anise and charred ginger. Bánh mì is a crusty baguette with Vietnamese fillings. Hội An glows with silk lanterns every night."
   ],
   "history": [
-    "Vietnam's Đông Sơn civilisation was beating bronze drums 2,500 years ago. After 1,000 years of Chinese rule, general Ngô Quyền defeated a Chinese fleet in 938 AD using iron-tipped stakes hidden beneath the tide — a victory still celebrated today.",
-    "France colonised the country in the 1800s. A long independence struggle led by Hồ Chí Minh ended in 1975 reunification. Today Vietnam is one of Asia's fastest-growing economies, its cities buzzing with motorbikes and ambition."
+    "Đông Sơn people beat bronze drums 2,500 years ago. China ruled for 1,000 years. In 938 AD, Ngô Quyền beat a Chinese fleet with stakes hidden under the tide.",
+    "France took control in the 1800s. Hồ Chí Minh led the fight for independence. The country reunited in 1975. Today it is one of Asia's fastest-growing economies."
   ],
   "wows": [
-    "Vietnam exports more cashew kernels than any country — over 80% of all processed cashews on Earth.",
-    "Hạ Long Bay holds around 1,969 limestone islands, many hollow with vast caves inside.",
-    "Vietnamese uses Latin letters but tiny accent marks that change every word's tone and meaning.",
-    "Hang Sơn Đoòng is the world's largest cave — big enough to hold its own jungle and clouds.",
-    "The áo dài national dress has been worn for nearly 300 years, still seen daily on city streets.",
-    "Vietnam is the world's second-largest coffee exporter, growing bold robusta in the highlands.",
-    "Water puppetry — rối nước — is over 1,000 years old; puppeteers stand waist-deep to perform."
+    "Over 80% of the world's processed cashews come from Vietnam.",
+    "Around 1,969 limestone islands dot Hạ Long Bay, many hollow.",
+    "Tiny accent marks change a Vietnamese word's tone and meaning.",
+    "Hang Sơn Đoòng, the world's largest cave, has its own jungle.",
+    "The áo dài, Vietnam's national dress, is nearly 300 years old.",
+    "Vietnam is the second-largest coffee exporter, growing robusta in the highlands.",
+    "Water puppet shows, rối nước, are over 1,000 years old."
   ],
   "myths": [
     {
-      "myth": "Phở is a quick, simple dish",
-      "fact": "A proper phở broth simmers 6–12 hours with charred onion, ginger, star anise, and cinnamon. Street vendors start cooking at midnight to be ready by dawn."
+      "myth": "Everyone in Vietnam has a different family name",
+      "fact": "No. About 4 in 10 Vietnamese people share the family name Nguyễn."
     },
     {
-      "myth": "Vietnam is mostly jungle",
-      "fact": "Vietnam is highly urbanised and is one of Asia's top exporters of electronics and textiles — manufacturing now outpaces rice and rubber in export value."
+      "myth": "Tết falls on the same day every year",
+      "fact": "No. Tết follows the moon, so it lands between late January and mid-February."
     }
   ],
   "words": [

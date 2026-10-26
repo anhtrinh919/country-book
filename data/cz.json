@@ -24,7 +24,7 @@
     "keyColor": "#D7141A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Czechia sits in the heart of Europe — locked in by Germany, Austria, Slovakia and Poland, no sea in sight. A land of fairy-tale castles, Gothic spires, golden beer and cobblestone squares. Prague is one of the best-preserved medieval cities on Earth, with more castles per square kilometre than almost anywhere else.",
+  "lead": "Czechia is in the middle of Europe. Germany, Austria, Slovakia and Poland surround it, so it has no sea. It has fairy-tale castles and golden beer. Prague is one of Earth's best-kept medieval cities.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "A kingdom of hills & rivers",
-    "animals": "Lynx, deer & forest folk",
+    "geography": "Hills, rivers & deep forests",
+    "animals": "Lynx, deer & great bustards",
     "culture": "Beer, brass & fairy tales",
-    "history": "Empires, springs & velvet",
-    "wows": "Jaw-dropping Czechia facts"
+    "history": "Kings, tanks & velvet",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Czechia has no coast at all — completely landlocked, ringed by gentle mountain ranges. The west is rolling Bohemian hills; the east opens into Moravia's flatter plains, famous for vineyards and folk festivals.",
-    "The Vltava River winds 430 km through the country, threading under Prague's famous bridges before joining the Elbe. Dense pine forests cover the southern Šumava range, sheltering wolves, lynx and otters in one of Central Europe's wildest corners."
+    "Gentle mountains ring the country. The west has rolling Bohemian hills. The east has Moravia's flat plains, with vineyards and folk festivals.",
+    "The Vltava River winds 430 km through Czechia, under Prague's famous bridges. Then it joins the Elbe. Pine forests cover the Šumava mountains. Wolves, lynx and otters live there."
   ],
   "animals": [
-    "The Eurasian lynx prowls Šumava forest — a spotted, tufty-eared wildcat the size of a labrador. Hunted to extinction, it was reintroduced in the 1980s; around 60 now live quietly in the Bohemian hills.",
-    "Red deer bugle through misty autumn valleys, and white-tailed eagles soar over fishpond-dotted South Bohemia. The great bustard, Europe's heaviest flying bird, still struts across Moravian fields in small, precious flocks."
+    "The Eurasian lynx is a spotted wildcat the size of a labrador. Hunters wiped it out. People brought it back to the Šumava forest in the 1980s. Around 60 now live in the Bohemian hills.",
+    "Red deer bellow in misty autumn valleys. White-tailed eagles soar over South Bohemia's fishponds. The great bustard, Europe's heaviest flying bird, still strolls across Moravian fields."
   ],
   "culture": [
-    "Czechs drink more beer per person than anyone else on Earth — roughly 150 litres each per year. Pilsen invented the pale lager style in 1842, and the Pilsner Urquell brewery still makes it there today.",
-    "Marionette puppetry is a centuries-old Czech art form; intricate wooden puppets perform full operas. Czechs also love fairy tales — TV fairy-tale films air every Christmas Eve and the whole family watches together."
+    "Czechs drink more beer per person than anyone on Earth, about 150 litres a year. Pilsen invented pale lager in 1842. The Pilsner Urquell brewery still makes it there.",
+    "Marionettes (string puppets) are an old Czech art. Wooden puppets perform whole operas. Every Christmas Eve, families watch fairy-tale films together."
   ],
   "history": [
-    "Bohemia was the heart of the Holy Roman Empire under Charles IV, who built Charles Bridge (1357), founded Central Europe's first university (1348) and turned Prague into a glittering imperial capital.",
-    "In 1968 Soviet tanks crushed the Prague Spring reforms. Then in 1989, students took to Wenceslas Square and — in just 43 days of peaceful protest — toppled communist rule without a shot fired: the Velvet Revolution."
+    "Bohemia was the heart of the Holy Roman Empire under Charles IV. He founded Central Europe's first university in 1348. He also built Charles Bridge in 1357.",
+    "In 1968, Soviet tanks crushed the Prague Spring reforms. In 1989, students filled Wenceslas Square. After 43 days of peaceful protest, communist rule ended without a shot. This was the Velvet Revolution."
   ],
   "wows": [
-    "Czechia has over 2,000 castles and châteaux — more than almost any other country in Europe.",
-    "Prague Castle is the world's largest ancient castle complex at nearly 70,000 square metres.",
-    "The word 'robot' was coined by Czech playwright Karel Čapek in his 1920 play R.U.R.",
-    "Czech scientist Otto Wichterle invented the world's first soft contact lenses at home, Christmas Day 1961.",
-    "Czechs hold the world record for highest beer consumption per person — every single year since 1993.",
-    "The ABO blood-type system was first fully classified by Czech psychiatrist Jan Jánský in 1907.",
-    "Czechia packs 16 UNESCO World Heritage Sites into a country smaller than Austria."
+    "Czechia has over 2,000 castles and châteaux.",
+    "Prague Castle is the world's largest ancient castle complex, at nearly 70,000 square metres.",
+    "Karel Čapek invented the word 'robot' in his 1920 play R.U.R.",
+    "Otto Wichterle invented soft contact lenses at home, on Christmas Day 1961.",
+    "Czechs have drunk the most beer per person every year since 1993.",
+    "Jan Jánský first fully sorted blood into ABO types in 1907.",
+    "Czechia has 16 UNESCO World Heritage Sites."
   ],
   "myths": [
     {
       "myth": "Czech Republic and Czechoslovakia are the same",
-      "fact": "Czechoslovakia split peacefully on 1 Jan 1993 — the Velvet Divorce. Czechia (west) and Slovakia (east) became separate nations with their own flags, languages and currencies."
+      "fact": "Czechoslovakia split peacefully on 1 January 1993. Czechia and Slovakia became two countries."
     },
     {
       "myth": "Prague is in Eastern Europe",
-      "fact": "Prague sits further west than Vienna and nearly level with Stockholm. Czechia is Central Europe; the 'Eastern' label is a Cold War political tag, not a geography fact."
+      "fact": "Prague is farther west than Vienna. 'Eastern Europe' was a Cold War label, not a map fact."
     }
   ],
   "words": [

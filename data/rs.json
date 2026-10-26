@@ -24,7 +24,7 @@
     "keyColor": "#C0282E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Serbia sits in the heart of the Balkans, where Roman roads, Ottoman spice markets, and Belgrade nightlife all collide. Two great rivers — the Danube and the Sava — meet here, surrounded by medieval monasteries, raspberry farms, and towns rebuilt many times over. Small but bold, loud but warm.",
+  "lead": "Serbia is in the middle of the Balkans. Roman roads, Ottoman spice markets, and Belgrade nightlife all meet here. The Danube and Sava rivers join in Belgrade. Serbia is small but bold, loud but warm.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN CITIES:",
   "sections": {
     "geography": "Rivers, plains & mountains",
-    "animals": "Lynx, bears & wild things",
-    "culture": "Rakija, music & big hearts",
+    "animals": "Lynx, bears & big birds",
+    "culture": "Burek, music & big hearts",
     "history": "Empires come and go",
-    "wows": "7 surprising facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Serbia is landlocked — no coast at all. The north is flat Pannonian Plain with sunflowers stretching to the horizon; the south rises into the Carpathian and Dinaric mountains. The Danube flows through for 588 km, making it one of Europe's great river highways.",
-    "Tara National Park in the west guards deep gorges and Pančić's spruce, a tree found nowhere else on Earth. At Đerdap, the Danube squeezes between 300 m cliffs in Europe's longest river gorge."
+    "Serbia has no coast. The north is the flat Pannonian Plain, with sunflowers to the horizon. The south has mountains. The Danube flows 588 km through Serbia.",
+    "Tara National Park has deep gorges and Pančić's spruce, a tree found nowhere else on Earth. At Đerdap, the Danube squeezes between 300 m cliffs."
   ],
   "animals": [
-    "Serbia's forests shelter brown bears, grey wolves, and the rare Eurasian lynx — one of the most secretive big cats on the continent. The Danube wetlands host over 300 bird species, including white-tailed eagles with wingspans wider than a grown-up's arms.",
-    "The Balkans pond turtle basks on river rocks, while the northern plains hide the great bustard — the world's heaviest flying bird, which puffs up like a feathery balloon during its spectacular spring mating display."
+    "Brown bears, grey wolves, and the rare Eurasian lynx live in Serbia's forests. The Danube wetlands host over 300 bird species. White-tailed eagles have wings wider than a grown-up's arms.",
+    "The great bustard lives on the northern plains. It is the world's heaviest flying bird. In spring, it puffs up like a balloon to show off."
   ],
   "culture": [
-    "Serbians take hospitality seriously — guests never leave hungry. Tables always hold burek (flaky pastry), roast lamb, and ajvar: a sweet-smoky red pepper relish that families spend whole autumn weekends jarring together.",
-    "Music is everywhere: brass bands shake villages at the Guča festival each August. Slava — a family's patron-saint feast day — is so central to identity that UNESCO added it to its heritage list in 2014."
+    "Guests never leave hungry in Serbia. Tables hold burek (flaky pastry), roast lamb, and ajvar, a sweet, smoky red pepper relish. Families jar ajvar together on autumn weekends.",
+    "Brass bands shake the Guča festival each August. Slava is a family's patron-saint feast day. UNESCO listed it in 2014."
   ],
   "history": [
-    "Romans, Byzantines, and Ottomans all ruled Serbia. The medieval Serbian Empire of Tsar Dušan in the 1300s stretched from the Danube to the Aegean. Ottomans held Serbia for nearly 400 years until uprisings in 1804 won autonomy.",
-    "The 20th century was turbulent: Serbia sat at the centre of both World Wars, then joined Yugoslavia. It became an independent republic again in 2006. Belgrade kept rebuilding — today it's one of Europe's fastest-growing capitals."
+    "Romans, Byzantines, and Ottomans all ruled Serbia. In the 1300s, Tsar Dušan's empire stretched from the Danube to the Aegean. The Ottomans held Serbia for nearly 400 years, until uprisings in 1804 won self-rule.",
+    "Serbia sat at the centre of both World Wars, then joined Yugoslavia. It became an independent republic again in 2006. Belgrade is now one of Europe's fastest-growing capitals."
   ],
   "wows": [
-    "Serbia is Europe's biggest raspberry grower and the world's top exporter of frozen raspberries.",
-    "Tesla, inventor of AC electricity, was born in 1856 to a Serbian family — proud to call himself Serbian.",
-    "Belgrade has been destroyed and rebuilt 44 times in recorded history.",
-    "The Đerdap Gorge is Europe's longest river gorge at over 100 km.",
-    "Serbia uses two alphabets — Cyrillic and Latin — side by side on street signs.",
-    "Exit festival in Novi Sad started as a student protest in 2000 and grew into a top European event.",
-    "Home distilling of slivovitz plum brandy is a celebrated Serbian tradition with UNESCO heritage status."
+    "Serbia is Europe's biggest raspberry grower and top exporter of frozen raspberries.",
+    "Tesla, inventor of AC electricity, was born in 1856 to a Serbian family.",
+    "Belgrade has been destroyed and rebuilt 44 times.",
+    "The Đerdap Gorge is over 100 km long, Europe's longest river gorge.",
+    "Serbian street signs use Cyrillic and Latin side by side.",
+    "Exit festival in Novi Sad began as a student protest in 2000.",
+    "Home-distilled slivovitz plum brandy has UNESCO heritage status."
   ],
   "myths": [
     {
-      "myth": "Serbia is just mountains and war stories",
-      "fact": "The north is flat farmland, and Belgrade is a buzzing capital ranked among Europe's top cities — with river beaches, great food, and a young creative scene."
+      "myth": "A raspberry is a true berry",
+      "fact": "Not to scientists. A raspberry is a cluster of tiny fruits, each with its own seed."
     },
     {
-      "myth": "Cyrillic means you can't read anything",
-      "fact": "Serbia uses both Cyrillic and Latin scripts — most signs and menus appear in both, so visitors navigate easily."
+      "myth": "Wolves howl at the moon",
+      "fact": "Wolves howl to talk to their pack. The moon has nothing to do with it."
     }
   ],
   "words": [

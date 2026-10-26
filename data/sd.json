@@ -2,7 +2,7 @@
   "name": "SUDAN",
   "nativeName": "SD",
   "romaji": "AS-SUDAN",
-  "tagline": "Land of a thousand pyramids",
+  "tagline": "Land of the Black Pharaohs",
   "region": "North Africa",
   "coords": "15°N 30°E",
   "fileNo": "093",
@@ -24,7 +24,7 @@
     "keyColor": "#D21034",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Sudan sits where Africa meets the Arab world — two great Nile rivers converge at Khartoum in swirling colours. The desert north hides more pyramids than Egypt, lions and crocodiles roam the green south, and an ancient kingdom once ruled Egypt itself. One of Africa's largest and most surprising countries.",
+  "lead": "Sudan is in northeast Africa, where Africa meets the Arab world. Two great Nile rivers meet at its capital, Khartoum. Desert covers the north. Long ago, a Sudanese kingdom ruled all of Egypt.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Desert, river & volcano",
     "animals": "Crocs, camels & gazelles",
-    "culture": "Pyramids, henna & Nile music",
+    "culture": "Henna, drums & Nile music",
     "history": "Black Pharaohs & Kush",
-    "wows": "Things to blow your mind"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Sudan is mostly Sahara in the north, where the ancient Nubian Desert bakes under fierce sun. The Nile snakes through the country, and where its Blue and White branches crash together at Khartoum you can see two different colours of water swirling side by side before merging.",
-    "In the west, dormant volcano Jebel Marra rises nearly 3,000 m with a sparkling crater lake inside. The south turns green and swampy with savannah wildlife, while the east meets the Red Sea — giving Sudan beaches, desert, and jungle all at once."
+    "Desert covers northern Sudan, including the Nubian Desert. The Nile winds through the country. Its Blue and White branches meet at Khartoum.",
+    "In the west, Jebel Marra, a sleeping volcano, rises nearly 3,000 m. A sparkling lake fills its crater. The south is green and swampy. The east meets the Red Sea."
   ],
   "animals": [
-    "The Nile crocodile lurks in Sudan's rivers, growing up to 5 metres and waiting motionless for hours before snapping. Dorcas gazelles dart across the northern desert on delicate legs, surviving without drinking water by eating moisture-rich plants.",
-    "Dromedary camels have carried loads across the Nubian Desert for thousands of years. Lions and leopards hunt in southern grasslands, and the African rock python — Africa's longest snake — coils along riverbanks. Over 630 bird species fill the skies."
+    "The Nile crocodile grows up to 5 metres long. It waits for hours without moving. Dorcas gazelles dart across the northern desert and get water from plants.",
+    "Dromedary camels have crossed the Nubian Desert for thousands of years. Lions and leopards hunt in the south. The African rock python is Africa's longest snake."
   ],
   "culture": [
-    "Sudanese hospitality means guests are always offered strong spiced coffee or sweet tea. Nubian people are famous for colourful geometric wall paintings, bold handwoven textiles, and music played on drums and the oud lute.",
-    "Henna patterns on hands and feet are central to weddings that last several nights. The giant Omdurman souq buzzes with spices and gold jewellery. Ful medames — slow-cooked spiced beans — is the beloved everyday breakfast."
+    "Sudanese hosts offer guests strong spiced coffee or sweet tea. Nubian people paint bold geometric patterns on walls and play drums and the oud, a lute.",
+    "Weddings last several nights, with henna patterns on hands and feet. The giant Omdurman souq (market) sells spices and gold jewellery. Ful medames, spiced beans, is the favourite breakfast."
   ],
   "history": [
-    "Around 2,600 years ago the Kingdom of Kush grew so powerful its rulers — the Black Pharaohs — conquered all of Egypt. They built hundreds of steep pyramids along the Nile, more than exist in Egypt today, as royal tombs for Kushite kings.",
-    "Sudan became part of the Ottoman Empire, then British-Egyptian rule, before winning independence in 1956. In 2011 South Sudan voted to separate, becoming Africa's newest nation in one of the most recent peaceful independences on Earth."
+    "About 2,600 years ago, the Kingdom of Kush grew powerful. Its rulers, the Black Pharaohs, conquered all of Egypt. Kushite kings built hundreds of steep pyramids along the Nile.",
+    "Sudan won independence in 1956 after Ottoman and British-Egyptian rule. In 2011, South Sudan voted to separate. It became Africa's newest nation, peacefully."
   ],
   "wows": [
-    "Sudan has more ancient pyramids than Egypt — over 200 at Meroë alone, built by Kushite kings.",
-    "The Black Pharaohs of Kush conquered Egypt in 747 BC and ruled the empire for nearly a century.",
-    "At Khartoum, two rivers — one blue-green, one muddy-brown — flow visibly side by side before mixing.",
-    "Jebel Marra volcano erupted just 3,500 years ago; hot springs still bubble inside its crater lake.",
-    "Sudan's pyramids are steeper than Egypt's — a sharp 72-degree angle compared to Egypt's 54 degrees.",
-    "Sudan has the largest camel market in Africa at Omdurman, trading thousands of camels every week.",
-    "Egypt called this land 'Nubia' from their word for gold — Sudan supplied most of ancient Egypt's gold."
+    "Sudan has more ancient pyramids than Egypt, over 200 at Meroë alone.",
+    "The Black Pharaohs of Kush conquered Egypt in 747 BC and ruled for nearly a century.",
+    "At Khartoum, a blue-green river and a muddy-brown river flow side by side.",
+    "Jebel Marra erupted just 3,500 years ago, and its crater lake has hot springs.",
+    "Sudan's pyramids are steeper than Egypt's: 72 degrees, not 54.",
+    "Omdurman has Africa's largest camel market.",
+    "Egypt called this land Nubia, from its word for gold."
   ],
   "myths": [
     {
-      "myth": "Sudan is just desert",
-      "fact": "Only the north is desert — the south has tropical savannah, swamps, and a Red Sea coast with coral reefs."
+      "myth": "Rivers always flow south",
+      "fact": "Rivers flow downhill, in any direction. The Nile runs north to the Mediterranean Sea."
     },
     {
-      "myth": "Egypt has the most pyramids",
-      "fact": "Sudan has around 255 pyramids, more than twice Egypt's total. They were mostly built after 700 BC and are less visited."
+      "myth": "The Sahara is the world's biggest desert",
+      "fact": "Antarctica is bigger. A desert is any place with very little rain, hot or cold."
     }
   ],
   "words": [

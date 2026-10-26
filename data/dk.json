@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Denmark is a small, flat country in northern Europe where islands are linked by giant bridges. It gave the world LEGO bricks, Vikings, and Hans Christian Andersen's fairy tales. Danes love cycling, cosy candlelit evenings called hygge, and open-faced sandwiches piled high. You can drive from one side to the other in just a few hours.",
+  "lead": "Denmark is a small, flat country in northern Europe. Giant bridges link its islands. It gave the world LEGO, Vikings and Hans Christian Andersen's fairy tales. Danes love cycling and cosy candlelit evenings called hygge.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Creatures of sea & meadow",
     "culture": "Hygge, LEGO & fairy tales",
     "history": "Vikings to happy kingdom",
-    "wows": "7 surprising Danish facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Denmark sits on the Jutland peninsula plus over 400 islands. The land is so flat its highest hill stands only 171 m — shorter than many city skyscrapers. Sandy beaches, chalk cliffs, and ancient beech forests line the coasts.",
-    "The Great Belt Bridge is nearly 18 km long. The Øresund Bridge links Denmark directly to Sweden — you drive between two countries across open sea in minutes."
+    "Denmark has the Jutland peninsula and over 400 islands. It is so flat that its highest hill is only 171 m. Sandy beaches, chalk cliffs and beech forests line the coasts.",
+    "The Great Belt Bridge is nearly 18 km long. The Øresund Bridge links Denmark to Sweden. You can drive between two countries over open sea in minutes."
   ],
   "animals": [
-    "Harbour porpoises and grey seals populate coastal waters, basking on rocky outcrops. White storks nest on rooftops in the south each spring, and red deer roam ancient beech forests inland.",
-    "European hares sprint at 70 km/h across open fields. Each autumn, millions of starlings swirl in shape-shifting clouds over southern marshes in a spectacle Danes call 'Sort Sol' — Black Sun."
+    "Harbour porpoises and grey seals swim along the coast. White storks nest on southern rooftops each spring. Red deer roam the old beech forests.",
+    "European hares sprint at 70 km/h across open fields. Each autumn, millions of starlings swirl in giant clouds over southern marshes. Danes call this 'Sort Sol', or Black Sun."
   ],
   "culture": [
-    "Danes live by hygge — cosiness, warm company, candles, and hot drinks. Open-faced sandwiches called smørrebrød are piled with herring, eggs, or roast beef and eaten with a knife and fork.",
-    "Denmark gave the world LEGO (from 'leg godt', 'play well') and storyteller Hans Christian Andersen. Danish design is famous for clean, simple shapes seen in furniture and everyday objects worldwide."
+    "Hygge means cosiness, warm company, candles and hot drinks. Smørrebrød are open sandwiches piled with herring, eggs or roast beef. People eat them with a knife and fork.",
+    "The name LEGO comes from 'leg godt', which means 'play well'. Denmark also gave us the storyteller Hans Christian Andersen. Danish design is famous for clean, simple shapes."
   ],
   "history": [
-    "The Vikings set out from Denmark over 1,000 years ago in longships, reaching England, Iceland, Greenland, and even North America. Danish kings once ruled a vast northern empire across the Atlantic.",
-    "Denmark became a peaceful constitutional monarchy in 1849. Today it ranks among the world's least corrupt and happiest nations, with free education and healthcare — a far cry from its raiding past."
+    "The Vikings sailed from Denmark over 1,000 years ago in longships. They reached England, Iceland, Greenland and even North America. Danish kings once ruled a vast northern empire.",
+    "Denmark became a peaceful constitutional monarchy in 1849. Today it is among the least corrupt nations. Education and healthcare are free."
   ],
   "wows": [
-    "The Dannebrog is the world's oldest national flag still in use — legend says it fell from the sky in 1219.",
-    "Denmark generates around 60% of its electricity from wind turbines spinning in the grey North Sea.",
-    "LEGO was founded in a tiny Danish carpentry workshop in 1932 and is now the world's top toy brand.",
-    "Copenhagen's cycle lanes carry more bikes than cars through the city centre every single day.",
-    "Greenland — the world's largest island — is part of the Danish realm, making Denmark an Arctic nation.",
-    "Denmark has ranked among the world's happiest countries many years running in the UN report.",
-    "Nowhere in Denmark is more than 52 km from the sea, despite having no mountains at all."
+    "Legend says the Dannebrog, the oldest flag still in use, fell from the sky in 1219.",
+    "Denmark makes around 60% of its electricity from wind.",
+    "LEGO began in a tiny Danish carpentry workshop in 1932.",
+    "Copenhagen's cycle lanes carry more bikes than cars every day.",
+    "Greenland, the world's largest island, is part of the Danish realm.",
+    "Denmark is often among the world's happiest countries in the UN report.",
+    "Nowhere in Denmark is more than 52 km from the sea."
   ],
   "myths": [
     {
       "myth": "The Little Mermaid has a happy ending",
-      "fact": "In Andersen's original tale the mermaid dissolves into sea foam — she does not marry the prince. She earns a soul as a spirit of the air."
+      "fact": "In Andersen's tale, the mermaid turns into sea foam. She does not marry the prince."
     },
     {
       "myth": "Vikings wore horned helmets",
-      "fact": "Real Viking helmets were simple iron caps with a nose guard. Horned helmets were invented by 19th-century artists for costumes and operas."
+      "fact": "Real Viking helmets were plain iron caps. Artists in the 1800s added horns for costumes and operas."
     }
   ],
   "words": [

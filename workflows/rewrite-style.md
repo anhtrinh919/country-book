@@ -44,7 +44,3 @@ Each myth box must teach something new. A myth fails if its answer repeats anyth
 Before: "Myanmar sits at the heart of Southeast Asia, where the Irrawaddy River flows past thousands of golden pagodas to the sea. From snowy peaks in the north to coral islands in the south, it holds ancient temples, rare wildlife, and dozens of peoples — each with their own language, dress, and festivals."
 
 After: "Myanmar is in Southeast Asia, next to Thailand and India. A giant river called the Irrawaddy runs right through it. Thousands of golden temples sit along its banks. Snow covers the mountains in the north. Coral islands dot the warm sea in the south. More than 100 groups of people live here, and each has its own clothes and festivals."
-
-## Vietnamese
-
-Translate from the new English, not the old Vietnamese. Write as a Vietnamese children's book would: câu ngắn, từ ngữ quen thuộc, giọng kể thân thiện. Keep the same facts, numbers, and item counts. Keep each string about as long as the English, and never more than 1.2 times its length. Always call the reader "em", never "bạn". Use common Vietnamese names for places and animals where they exist (e.g. "sông Irrawaddy", "voi châu Á"). Do not copy myth answers from the page text — the same uniqueness rule applies.

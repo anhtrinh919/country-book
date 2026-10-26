@@ -24,7 +24,7 @@
     "keyColor": "#00247D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "New Zealand is two gorgeous islands at the bottom of the world. The Māori called it Aotearoa — \"Land of the Long White Cloud\" — arriving by canoe around 700 years ago. Today it's famous for fiery volcanoes, ancient reptiles that outlived dinosaurs, and being the first country to let women vote. Real-life Middle-earth too!",
+  "lead": "New Zealand is two islands at the bottom of the world. The Māori named it Aotearoa, the Land of the Long White Cloud. It has fiery volcanoes and ancient reptiles. Many Lord of the Rings scenes were filmed here.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Seven kiwi surprises"
   },
   "geo": [
-    "New Zealand sits on the Pacific Ring of Fire — it has active volcanoes, bubbling mud pools, and frequent earthquakes. The South Island's Southern Alps are a sharp, snowy spine of peaks, while deep fjords like Milford Sound slice into the coast.",
-    "The North Island has steaming geysers and a volcanic plateau. Most Kiwis live here, including in Auckland, the biggest city, perched between two harbours. Wellington, the capital, clings to a hilly harbour at the island's southern tip."
+    "New Zealand sits on the Ring of Fire, with active volcanoes and bubbling mud pools. Snowy Southern Alps and deep fjords like Milford Sound fill the South Island.",
+    "The North Island has steaming geysers. Most Kiwis live here. Auckland, the biggest city, sits between two harbours. Wellington, the capital, is at the southern tip."
   ],
   "animals": [
-    "New Zealand split from the super-continent Gondwana 80 million years ago before mammals arrived, so birds evolved to fill every role. The kiwi sniffs out worms with nostrils on its beak-tip and lays an egg a quarter of its own body weight.",
-    "The tuatara looks like a lizard but is the last survivor of a reptile family that lived beside dinosaurs — 220 million years ago. It grows past 100 years old. New Zealand also hosts the world's heaviest parrot, the flightless kākāpō."
+    "New Zealand split from Gondwana 80 million years ago, before mammals arrived. So birds took every job. The kiwi sniffs out worms with nostrils at its beak tip.",
+    "The tuatara looks like a lizard, but it is the last of a reptile family from the age of dinosaurs. The kākāpō is the world's heaviest parrot."
   ],
   "culture": [
-    "The Māori brought their language and the haka — a powerful dance of stamping, tongue-poking, and chanting. The All Blacks rugby team performs it before every match. A traditional hongi greeting involves pressing foreheads and noses together to share breath.",
-    "New Zealand food blends Māori and Pacific flavours. The hāngi is a feast slow-cooked underground on hot stones. Pavlova — meringue piled with cream and kiwifruit — is claimed by both New Zealand and Australia as their own."
+    "The haka is a Māori dance of stamping and chanting. The All Blacks rugby team performs it before every match. In a hongi greeting, people press noses together.",
+    "A hāngi is a feast cooked underground on hot stones. Pavlova is meringue piled with cream and kiwifruit. New Zealand and Australia both say they invented it."
   ],
   "history": [
-    "The Māori navigated here from Polynesia by canoe around 1300 CE, guided by stars and ocean swells. Dutch explorer Abel Tasman spotted the islands in 1642 but sailed off quickly after a hostile encounter near shore.",
-    "In 1840, the Crown and 500+ Māori chiefs signed the Treaty of Waitangi. New Zealand became self-governing in 1907 and in 1893 became the first country in the world to grant women the right to vote."
+    "The Māori sailed here from Polynesia around 1300 CE, guided by stars and ocean swells. Dutch explorer Abel Tasman spotted the islands in 1642.",
+    "In 1840, the Crown and more than 500 Māori chiefs signed the Treaty of Waitangi. New Zealand became self-governing in 1907."
   ],
   "wows": [
-    "In 1893 NZ became the first country on Earth to grant women the right to vote.",
-    "NZ sits atop Zealandia — a mostly sunken continent scientists confirmed in 2017.",
-    "Seven penguin species swim in NZ waters — more than any other country.",
-    "Tuatara Henry fathered chicks at age 111 — still growing at 35 years old.",
-    "There are about 4.6 sheep per person; in 1982 the ratio was 22 sheep each.",
-    "The world’s first commercial bungee jump opened at Queenstown in 1988.",
-    "All three Lord of the Rings films were shot across 150+ NZ locations."
+    "In 1893, New Zealand became the first country to let women vote.",
+    "Scientists confirmed in 2017 that a sunken continent lies under New Zealand.",
+    "Seven penguin species swim in New Zealand waters, more than anywhere else.",
+    "Henry the tuatara became a dad at age 111.",
+    "New Zealand has about 4.6 sheep per person.",
+    "The world's first commercial bungee jump opened at Queenstown in 1988.",
+    "All three Lord of the Rings films were shot at over 150 places."
   ],
   "myths": [
     {
-      "myth": "NZ is part of Australia",
-      "fact": "New Zealand is a separate country 2,000 km across the Tasman Sea, with its own government, currency, and distinct culture."
+      "myth": "New Zealand is part of Australia",
+      "fact": "It is a separate country, 2,000 km across the Tasman Sea, with its own government."
     },
     {
       "myth": "Every Kiwi speaks Māori",
-      "fact": "English is the everyday language. About 4% of New Zealanders speak conversational Māori, though the number is rising fast."
+      "fact": "Most people speak English. About 4 in 100 can chat in Māori."
     }
   ],
   "words": [

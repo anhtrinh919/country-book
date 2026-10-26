@@ -2,7 +2,7 @@
   "name": "FINLAND",
   "nativeName": "FI",
   "romaji": "SUOMI",
-  "tagline": "Land of Lakes & Light",
+  "tagline": "Lakes, light & saunas",
   "region": "Northern Europe",
   "coords": "64°N, 26°E",
   "fileNo": "042",
@@ -24,7 +24,7 @@
     "keyColor": "#003580",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Finland sits at the top of Europe where winter nights blaze with green northern lights and summers bring sun that never fully sets. The country has about 188,000 lakes and forests thick with elk. Finns invented the sauna — a hot steam followed by a plunge into icy water is something almost every family does weekly.",
+  "lead": "Finland is at the top of Europe. Green northern lights blaze on winter nights. In summer the sun barely sets. Finland has about 188,000 lakes and forests full of elk. Finns invented the sauna. Almost every family takes a hot steam and an icy plunge each week.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN REGIONS & CITIES:",
   "sections": {
-    "geography": "A World of Lakes & Forest",
-    "animals": "Creatures of the Wild North",
-    "culture": "Saunas, Silence & Santa",
-    "history": "From Grand Duchy to Pioneer",
-    "wows": "Wait — Really?!"
+    "geography": "A world of lakes & forest",
+    "animals": "Creatures of the wild north",
+    "culture": "Saunas, silence & Santa",
+    "history": "Swedes, tsars & freedom",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Finland is so flat and forested that standing on a hill is exciting. About 75% of the land is trees — pine and spruce — and the southern coast is dotted with thousands of rocky islands. In winter the whole country turns white and temperatures in the north dip below −30 °C.",
-    "Up in Lapland, north of the Arctic Circle, the sun never rises for weeks in midwinter. But that same region gets midnight sun every summer, when the sun skims the horizon without ever dipping below it."
+    "Finland is so flat that standing on a hill is exciting. About 75% of the land is trees, mostly pine and spruce. Thousands of rocky islands dot the southern coast. In winter, everything turns white. The north dips below −30 °C.",
+    "Lapland lies north of the Arctic Circle. In midwinter the sun does not rise for weeks. In summer the midnight sun skims the horizon and never dips below it."
   ],
   "animals": [
-    "Finland's forests shelter roughly 2,000 brown bears near the Russian border, plus wolverines, lynx, and wolves. The brown bear is the national animal, honoured in ancient Finnish mythology as a great forest spirit.",
-    "The whooper swan, Finland's national bird, nests on quiet lakes. Elk are so common that road signs warn drivers. In Lapland, roughly 200,000 reindeer roam freely, herded by the indigenous Sámi people."
+    "About 2,000 brown bears live in Finland's forests, near the Russian border. Wolverines, lynx and wolves live there too. The brown bear is the national animal. Ancient Finns saw it as a great forest spirit.",
+    "The whooper swan is Finland's national bird. It nests on quiet lakes. Elk are so common that road signs warn drivers. About 200,000 reindeer roam Lapland. The Sámi people herd them."
   ],
   "culture": [
-    "Finnish culture prizes quietness, honesty, and 'sisu' — gut-grit that keeps you going when things get hard. The sauna is sacred: Finland has roughly three million saunas for 5.6 million people. Business deals and friendships alike are sealed in the steam.",
-    "Finland gave the world Angry Birds and the Linux operating system. Santa Claus's official village sits on the Arctic Circle in Rovaniemi. Folk music on the kantele harp echoes stories from the epic poem Kalevala."
+    "Finns value quiet, honesty and sisu. Sisu means gut-grit, the strength to keep going when things get hard. The sauna is sacred. Finland has about three million saunas for 5.6 million people. Deals and friendships get sealed in the steam.",
+    "Finland gave the world Angry Birds and the Linux operating system. Santa Claus's official village sits on the Arctic Circle in Rovaniemi. Folk music on the kantele harp tells stories from the Kalevala, an epic poem."
   ],
   "history": [
-    "Sweden ruled Finland for ~600 years, leaving its language and Lutheran churches. In 1809 Russia took over, making Finland a semi-autonomous Grand Duchy. Finnish culture grew quietly stronger, fuelled by the Kalevala epic published in 1835.",
-    "Finland declared independence on 6 December 1917. In 1940 the Soviet Union invaded; Finland fought back fiercely in the Winter War, holding off a vastly larger Soviet force. Today Finland is among the world's happiest countries and joined NATO in April 2023."
+    "Sweden ruled Finland for about 600 years. It left its language and Lutheran churches. In 1809 Russia took over. Finland became a Grand Duchy (a semi-independent region). The Kalevala epic came out in 1835 and made Finnish culture stronger.",
+    "Finland declared independence on 6 December 1917. In 1940 the Soviet Union invaded. Finland fought hard in the Winter War against a much larger army. Today Finland is among the world's happiest countries. It joined NATO in April 2023."
   ],
   "wows": [
-    "Finland has ranked the world's happiest country eight years running per the UN.",
-    "Finland's 188,000 lakes mean you are never far from water almost anywhere you stand.",
-    "Finnish is one of the few European languages unrelated to Latin, Greek, or Germanic roots.",
-    "Finland gave women full voting rights in 1906 — first country in the world to do so.",
-    "The sauna tradition in Finland is thought to be thousands of years old, predating written Finnish.",
-    "Santa Claus's official home is Rovaniemi, Finland, right on the Arctic Circle.",
-    "Sámi herders move roughly 200,000 reindeer across Lapland on routes mapped over centuries."
+    "The UN has ranked Finland the world's happiest country eight years running.",
+    "With 188,000 lakes, you are never far from water in Finland.",
+    "Finnish is one of the few European languages unrelated to Latin, Greek or Germanic roots.",
+    "In 1906 Finnish women became the first in the world to vote and run for parliament.",
+    "The sauna tradition is thought to be thousands of years old, older than written Finnish.",
+    "Santa Claus's official home is Rovaniemi, right on the Arctic Circle.",
+    "Sámi herders move about 200,000 reindeer across Lapland on routes mapped over centuries."
   ],
   "myths": [
     {
-      "myth": "Finland is always dark and freezing",
-      "fact": "Southern Finnish summers reach 25 °C with near-endless daylight; Helsinki gets as much July sunshine as London does."
+      "myth": "Finland is in Scandinavia",
+      "fact": "Strictly, Scandinavia means Norway, Sweden and Denmark. Finland is a Nordic country."
     },
     {
-      "myth": "Finns are cold and unfriendly",
-      "fact": "Finns value silence and personal space, but are deeply loyal, generous hosts once you earn their trust — sisu means warmth too."
+      "myth": "Polar bears roam Lapland",
+      "fact": "Polar bears live on Arctic sea ice, far from Finland. No wild ones live there."
     }
   ],
   "words": [

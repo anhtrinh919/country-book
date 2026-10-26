@@ -24,7 +24,7 @@
     "keyColor": "#CE2028",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "North Macedonia is a small Balkan country with a huge story: home to one of Europe's oldest lakes, the Cyrillic alphabet was shaped here, and its highest peak is shared with Albania. Ancient roads, Byzantine frescoes, and Ottoman bazaars all converge here — crowned by a golden sun on a red flag that blazes across the whole Balkan sky.",
+  "lead": "North Macedonia is a small Balkan country. It has one of Europe's oldest lakes. People shaped the Cyrillic alphabet here. A golden sun shines on its red flag.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "Mountains, lakes & old roads",
     "animals": "Wild guardians of the Balkans",
     "culture": "Feasts, frescoes & festivals",
-    "history": "Kingdoms, empires & a new name",
+    "history": "Kings, empires & a new name",
     "wows": "Macedonia's big surprises"
   },
   "geo": [
-    "North Macedonia is a landlocked patchwork of mountains and river valleys. The Vardar River cuts through the middle, draining south toward the Aegean. Three national parks protect rugged ridges, and the western border climbs to Golem Korab at 2,764 m — the shared high point of two nations.",
-    "In the southwest, Lake Ohrid gleams with up to 22 m of visibility — crystal clarity fed by underground springs. Lake Prespa sits even higher at 850 m. Despite having no coast, the far south feels almost Mediterranean, warmed by Aegean breezes just 60 km away."
+    "North Macedonia has no coast. Mountains and river valleys fill the land. Golem Korab, at 2,764 m, is the peak it shares with Albania.",
+    "In the southwest, Lake Ohrid is so clear that you can see 22 m down. Lake Prespa sits higher, at 850 m. The far south feels almost like the Mediterranean."
   ],
   "animals": [
-    "The Balkan lynx — a critically rare subspecies with fewer than 50 individuals left in the wild — haunts the mountain forests and is the country's wildlife emblem, even appearing on the 5-denar coin. Brown bears, grey wolves, and golden eagles share the same steep wilderness.",
-    "Lake Ohrid is an evolutionary wonder: 2–3 million years old, with several fish species found nowhere else on Earth. The most prized is the Ohrid trout, famous for its rosy flesh — so rare and delicious it is strictly protected today."
+    "The Balkan lynx is a very rare wild cat. Fewer than 50 remain. It is on the 5-denar coin. Brown bears, grey wolves and golden eagles live here too.",
+    "Lake Ohrid has several fish found nowhere else on Earth. The Ohrid trout has pink flesh. It is now strictly protected."
   ],
   "culture": [
-    "Macedonian food is a joyful collision of Balkan, Ottoman, and Mediterranean flavours. The national dish is tavche gravche — baked white beans with paprika in a clay pot, eaten every Friday. Ajvar, a smoky red-pepper relish made in huge autumn batches, is spread on everything.",
-    "Folk dancers in embroidered costumes perform the oro chain dance at every village celebration. The Tikveš wine region has produced wine for over 2,500 years, warmed by Aegean breezes. Tikveš winery, founded 1885, now ships over 15 million bottles a year."
+    "The national dish is tavche gravche, baked white beans in a clay pot, eaten every Friday. Ajvar is a smoky red-pepper relish made each autumn.",
+    "Dancers in embroidered costumes do the oro chain dance at village parties. The Tikveš region has made wine for over 2,500 years."
   ],
   "history": [
-    "This small land straddles ancient crossroads. Philip II and Alexander the Great built their empire from here in the 4th century BC; the Roman Via Egnatia later cut straight through en route to Constantinople. Roman coins and forts still surface in farmers' fields.",
-    "Slavic settlers arrived in the 6th–7th centuries. Saint Clement founded the Ohrid Literary School in the 880s, where Cyrillic was developed. After Ottoman rule, independence from Yugoslavia came in 1991. A 2019 agreement with Greece made 'North Macedonia' official."
+    "Philip II and Alexander the Great built their empire here in the 4th century BC. The Roman road Via Egnatia later crossed the land. Farmers still find Roman coins in their fields.",
+    "Saint Clement founded the Ohrid Literary School in the 880s, where Cyrillic was developed. The country left Yugoslavia in 1991. A 2019 deal with Greece made 'North Macedonia' official."
   ],
   "wows": [
-    "Lake Ohrid is up to 3 million years old — one of the world's truly ancient lakes.",
-    "Golem Korab is the highest point of both North Macedonia AND Albania — one of the rarest feats in Europe.",
-    "The Cyrillic alphabet — used by 300 million people — was shaped at Ohrid's Literary School in the 9th century.",
-    "Astronomers named a lake on Saturn's moon Titan 'Ohrid Lacus' in honour of this ancient lake.",
-    "Korab Falls drops over 130 m in spring — the tallest waterfall in the country, fed by snowmelt.",
-    "Tikveš winery, founded 1885, ships 15 million bottles a year from vines over 2,500 years old.",
-    "The Ottoman Stone Bridge in Skopje, built in the 15th century, is still a working pedestrian crossing today."
+    "Lake Ohrid is up to 3 million years old.",
+    "Golem Korab is the high point of both North Macedonia and Albania.",
+    "Around 300 million people use the Cyrillic alphabet, shaped at Ohrid in the 9th century.",
+    "A lake on Saturn's moon Titan is named Ohrid Lacus.",
+    "Korab Falls drops over 130 m in spring, the country's tallest waterfall.",
+    "Tikveš winery, founded in 1885, ships 15 million bottles a year.",
+    "People still walk across Skopje's 15th-century Ottoman Stone Bridge."
   ],
   "myths": [
     {
-      "myth": "Alexander the Great was Macedonian like today",
-      "fact": "Today's Macedonians are Slavic; Slavic peoples arrived ~1,000 years after Alexander's death. Ancient Macedon and the modern republic share geography, not bloodline."
+      "myth": "Mother Teresa was born in India",
+      "fact": "She was born in Skopje in 1910. She left home at 18."
     },
     {
-      "myth": "It's just a tiny landlocked backwater",
-      "fact": "Lake Ohrid hosts hundreds of species found nowhere else, and the Ohrid region has been a UNESCO World Heritage Site since 1979."
+      "myth": "Ohrid pearls come from oysters",
+      "fact": "They are coated with scales from the plašica, a small Lake Ohrid fish."
     }
   ],
   "words": [

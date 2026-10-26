@@ -24,7 +24,7 @@
     "keyColor": "#0085CA",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Palau is a tiny island nation in the Pacific — 340 coral islands like green pebbles on a turquoise sea. Its reefs teem with so much life they are called the Underwater Serengeti. The last place on Earth to leave UN trusteeship, Palau became independent in 1994. Today this small nation invents ocean protection rules the whole world copies.",
+  "lead": "Palau is a tiny island nation in the Pacific. Its 340 coral islands look like green pebbles on a turquoise sea. Its reefs hold so much life that people call them the Underwater Serengeti. Palau became independent in 1994.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "Islands of jade & turquoise",
     "animals": "Stingless jellies & sea cows",
     "culture": "Carved tales & moon feasts",
-    "history": "From Spain to the stars",
-    "wows": "Seven wild wonders"
+    "history": "Spain, Japan & freedom",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Palau sits in the western Pacific, roughly halfway between the Philippines and Papua New Guinea. Its 340 islands perch on an underwater ridge, ringed by one of the world's richest reefs — over 500 coral species and 1,300 fish.",
-    "The Rock Islands — hundreds of mushroom-shaped limestone domes rising from a glassy lagoon — became a UNESCO World Heritage Site in 2012. Hidden among them are more than 50 landlocked marine lakes, sealed from the sea for millennia."
+    "Palau lies in the western Pacific, roughly halfway between the Philippines and Papua New Guinea. A reef rings its 340 islands, with over 500 coral species and 1,300 fish.",
+    "The Rock Islands are hundreds of mushroom-shaped limestone domes. They became a UNESCO World Heritage Site in 2012. More than 50 marine lakes hide among them."
   ],
   "animals": [
-    "Jellyfish Lake on Eil Malk holds nearly a million golden jellyfish that lost their sting after evolving alone for 12,000 years. Every day they migrate across the lake following the sun — you can snorkel right among them.",
-    "Palau's warm bays shelter one of the Pacific's most isolated dugong herds, gentle sea-cows grazing on seagrass. Saltwater crocodiles (called ius) lurk in mangrove estuaries, growing up to 4.5 metres long."
+    "Jellyfish Lake on Eil Malk holds nearly a million golden jellyfish. They lost their sting after living alone for 12,000 years. You can snorkel right among them.",
+    "Warm bays shelter dugongs, gentle sea cows that graze on seagrass. Saltwater crocodiles, called ius, lurk in the mangroves. They grow up to 4.5 metres long."
   ],
   "culture": [
-    "The bai is a grand wooden meeting house with painted story-panels on every beam, each telling a myth or moral tale. The last original-style bai, in Airai village, is at least 180 years old and still stands today.",
-    "Palau's society is matrilineal — land and clan title pass through mothers. The full moon is the best time for fishing and feasting, so important events are timed carefully to the lunar calendar."
+    "The bai is a grand wooden meeting house. Painted panels on every beam tell a myth or a lesson. The last original-style bai, in Airai village, is at least 180 years old.",
+    "Palau is matrilineal (mother-led). Land and clan titles pass down through mothers. The full moon is the best time for fishing and feasting."
   ],
   "history": [
-    "Humans settled Palau at least 3,000 years ago. Spain claimed the islands in 1885, sold them to Germany in 1899, and Japan seized them in 1914. The 1944 Battle of Peleliu lasted 74 brutal days — far longer than anyone expected.",
-    "After WWII the USA administered Palau as the planet's last UN trust territory. Palau became a fully independent republic on 1 October 1994, signing a Compact of Free Association with the United States."
+    "People settled Palau at least 3,000 years ago. Spain claimed the islands in 1885. It sold them to Germany in 1899. Japan took them in 1914. The 1944 Battle of Peleliu lasted 74 brutal days.",
+    "After World War II, the USA ran Palau as the last UN trust territory. Palau became independent on 1 October 1994. It signed a Compact of Free Association with the USA."
   ],
   "wows": [
-    "Ngerulmud is the world's least-populous national capital — it has no permanent fixed population at all.",
-    "In 2009 Palau created Earth's first national shark sanctuary, shielding 135+ species across 600,000 km².",
-    "From 2020, Palau was the first country to ban sunscreen chemicals proven to damage coral reefs.",
-    "Every visitor signs the 'Palau Pledge' — a conservation promise actually stamped into their passport.",
-    "The golden jellyfish of Jellyfish Lake is a subspecies found absolutely nowhere else on the planet.",
-    "Palau has closed 80% of its exclusive economic zone to fishing — one of Earth's largest marine reserves.",
-    "The Rock Islands is the only UNESCO mixed heritage site in all of the Pacific Islands."
+    "Ngerulmud is the world's least-populous national capital.",
+    "Palau made Earth's first national shark sanctuary in 2009, covering 600,000 km².",
+    "Palau was first to ban reef-harming sunscreen chemicals, from 2020.",
+    "Visitors sign the Palau Pledge, stamped into their passport.",
+    "Jellyfish Lake's golden jellyfish are found nowhere else on Earth.",
+    "Palau has closed 80% of its ocean waters to fishing.",
+    "The Rock Islands are the Pacific Islands' only UNESCO mixed site."
   ],
   "myths": [
     {
-      "myth": "Palau is too tiny to matter globally",
-      "fact": "Palau invented the world's first shark sanctuary, first reef-toxic sunscreen ban, and a marine reserve the size of France — giant ideas from an 18,000-person nation."
+      "myth": "Sharks love to eat people",
+      "fact": "Sharks rarely bite people. Most prefer fish. Divers in Palau swim near reef sharks at Blue Corner."
     },
     {
-      "myth": "The jellyfish in Jellyfish Lake will sting you",
-      "fact": "These golden jellyfish evolved for 12,000 years without predators and lost any effective sting. Snorkelling among millions of them is completely harmless."
+      "myth": "Coral is a plant",
+      "fact": "Coral is made of tiny animals called polyps, cousins of jellyfish."
     }
   ],
   "words": [

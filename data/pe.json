@@ -24,7 +24,7 @@
     "keyColor": "#D91023",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Peru is where the snowcapped Andes, steamy Amazon jungle, and a cool desert coast all meet at once. The mighty Inca Empire built stone cities so precisely fitted that no mortar was needed — and Machu Picchu still perches on its misty mountaintop today. Peru also holds the world's highest navigable lake and the deepest canyon.",
+  "lead": "Peru has snowy Andes mountains, steamy Amazon jungle and a cool desert coast. The Inca built stone cities with no mortar, and Machu Picchu still perches on its misty mountaintop. Peru has the world's highest navigable lake.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Things that’ll blow your mind"
   },
   "geo": [
-    "Peru packs three totally different landscapes side by side. The Pacific coast is mostly desert — drier than the Sahara in spots — yet it holds most of the country's people. The Andes spine runs down the middle, with peaks over 6,000 m capped in permanent snow.",
-    "East of the Andes the land drops into the Amazon Basin, blanketing more than half the country in jungle. Lake Titicaca sits at 3,812 m on the southern border — so high the air feels thin — making it the world's highest large navigable lake."
+    "Peru has three lands side by side. The Pacific coast is desert, drier than the Sahara in places. Peaks over 6,000 m wear snow in the Andes.",
+    "East of the Andes, jungle covers more than half the country. Lake Titicaca sits at 3,812 m, so high the air feels thin."
   ],
   "animals": [
-    "The woolly alpaca grazes on Andean grasslands and its super-soft fleece has been spun into clothing for thousands of years. The vicuña, its wild cousin, was so precious that Inca emperors declared it sacred. The giant condor rides thermals with a 3.2 m wingspan.",
-    "In the Amazon, pink river dolphins swim the flooded forest and jaguars pad the undergrowth. The cock-of-the-rock — Peru's national bird — blazes electric orange and dances to win a mate. Tiny poison dart frogs hide vivid warning colours in the leaf litter."
+    "Alpacas graze on Andean grasslands. Their soft wool has made clothes for thousands of years. The giant condor rides warm air on wings 3.2 m wide.",
+    "Pink river dolphins swim through the flooded Amazon forest. The cock-of-the-rock, Peru's national bird, is bright orange and dances to win a mate."
   ],
   "culture": [
-    "Peruvian food is one of the world's most celebrated cuisines. Ceviche — fish cured in lime juice with chilli — is the national dish. Peru gave the world the potato (over 3,000 varieties still grow here) and purple corn used to make chicha morada.",
-    "Music and colour fill every festival. Inti Raymi in Cusco honours the Inca sun god each June solstice with dazzling costumes. Andean panpipes and the tiny charango guitar give the highlands their sound, and 2,000-year-old weaving traditions still produce the world's finest textiles."
+    "Ceviche, fish cured in lime juice with chilli, is the national dish. Peru gave the world the potato, and over 3,000 kinds still grow here.",
+    "At Inti Raymi in Cusco each June solstice, people honour the Inca sun god in dazzling costumes. Panpipes and the tiny charango guitar give the highlands their sound."
   ],
   "history": [
-    "Around 1400 CE the Inca built the largest empire the Americas had seen — 4,000 km from Colombia to Chile — moving massive stones without wheels and linking their realm with 40,000 km of road.",
-    "Spanish conquistadors arrived in 1532 and the empire collapsed within a decade. Peru became Spain's richest colony. Independence came in 1821, declared by liberator José de San Martín."
+    "Around 1400 CE, the Inca built the biggest empire the Americas had seen, 4,000 km from Colombia to Chile. They moved huge stones without wheels.",
+    "Spanish conquistadors arrived in 1532, and the Inca Empire collapsed within a decade. Peru became independent in 1821, declared by José de San Martín."
   ],
   "wows": [
-    "Machu Picchu was unknown outside Peru until 1911 — a whole city hidden in the clouds for 400 years.",
-    "Peru has over 1,800 bird species — roughly one in five of all birds on Earth.",
-    "The Nazca Lines are giant desert drawings only visible from the air, made 2,000 years ago.",
-    "Potatoes originated in Peru — all 5,000+ global varieties descend from wild Andean plants.",
-    "Colca Canyon near Arequipa is twice as deep as the Grand Canyon at 3,400 m.",
-    "The Amazon River starts as snowmelt in the Peruvian Andes, 5,600 km from the sea.",
-    "Inca stones fit so precisely a sheet of paper cannot slide between them — no mortar needed."
+    "Machu Picchu stayed hidden in the clouds for 400 years, until 1911.",
+    "Peru has over 1,800 bird species, about one in five on Earth.",
+    "The Nazca Lines are giant desert drawings, 2,000 years old.",
+    "Over 5,000 kinds of potato come from wild Andean plants.",
+    "Colca Canyon is 3,400 m deep, twice as deep as the Grand Canyon.",
+    "The Amazon River begins as melted snow in the Peruvian Andes.",
+    "Inca stones fit so tightly that paper cannot slide between them."
   ],
   "myths": [
     {
-      "myth": "Machu Picchu was the lost Inca capital",
-      "fact": "It was a royal retreat for Emperor Pachacuti, not the capital. Cusco ruled the empire; local people never forgot Machu Picchu existed."
+      "myth": "Machu Picchu was the Inca capital",
+      "fact": "It was a royal retreat for Emperor Pachacuti. Cusco was the capital."
     },
     {
-      "myth": "The Amazon River starts in Brazil",
-      "fact": "The Amazon’s confirmed source (2014) is the Mantaro River in the Peruvian Andes, 5,600 km from the Atlantic mouth."
+      "myth": "The Inca had no way to keep records",
+      "fact": "They used knotted strings called quipu. The knots stored numbers."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#C0202E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Cambodia sits at the heart of Southeast Asia, where the Mekong flows past jungles hiding one of the world's greatest wonders — Angkor Wat. The Khmer people built a vast empire here over a thousand years ago, and stone temples still stand in the forest. Life revolves around rice, fish from the great Tonle Sap lake, and the monsoon rains.",
+  "lead": "Cambodia is in the heart of Southeast Asia. The Mekong River flows past jungles that hide Angkor Wat, one of the world's greatest wonders. The Khmer people built a huge empire here over a thousand years ago.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "Rivers, Lakes & Jungle",
-    "animals": "Wild Creatures of the Mekong",
-    "culture": "Temples, Dance & Flavour",
-    "history": "Empires, Temples & Rebirth",
-    "wows": "Wow! Did You Know?"
+    "geography": "Rivers, lakes & jungle",
+    "animals": "Wild creatures of the Mekong",
+    "culture": "Temples, dance & flavour",
+    "history": "Empires, temples & rebirth",
+    "wows": "Wow! Did you know?"
   },
   "geo": [
-    "Cambodia is mostly flat lowlands watered by the Mekong River. At the centre lies Tonle Sap — Southeast Asia's largest freshwater lake, which swells to six times its dry-season size when monsoon floods reverse its river's flow.",
-    "The Cardamom Mountains rise in the southwest, sheltering dense rainforest. About 20 % of the land is farmed — mostly rice paddies that shimmer green each wet season as the rains arrive."
+    "Cambodia is mostly flat lowlands watered by the Mekong River. Tonle Sap, Southeast Asia's largest freshwater lake, swells to six times its dry-season size when monsoon floods reverse its river.",
+    "The Cardamom Mountains rise in the southwest and shelter dense rainforest. About 20% of the land is farmed, mostly rice paddies."
   ],
   "animals": [
-    "The Irrawaddy dolphin — a chubby, smiling freshwater dolphin — lives only in a short stretch of the Mekong near Kratie. Cambodians consider these rare creatures sacred. Around 100 individuals survive today, and careful protection has helped the population slowly grow.",
-    "The giant ibis is Cambodia's national bird, a huge wading bird nearly as tall as a child. Critically endangered, it nests in northern forests. Asian elephants still roam the Cardamom Mountains in small, protected herds."
+    "The Irrawaddy dolphin is chubby and looks like it is smiling. It lives in a short stretch of the Mekong near Kratie. About 100 survive, and Cambodians see them as sacred.",
+    "The giant ibis, Cambodia's national bird, is nearly as tall as a child. It is critically endangered and nests in northern forests."
   ],
   "culture": [
-    "Cambodians greet each other with a sampeah — pressing palms together and bowing slightly. The higher the hands, the more respect is shown. Classical Apsara dance, inscribed by UNESCO, uses intricate hand gestures to tell stories from ancient mythology.",
-    "Khmer food is built around prahok — a fermented fish paste nicknamed 'Cambodian cheese'. It gives dishes a deep, rich flavour. Fish amok, steamed in banana leaves with coconut milk, is the dish visitors most remember."
+    "Cambodians greet each other with a sampeah. They press their palms together and bow a little. The higher the hands, the more respect they show.",
+    "Khmer food is built around prahok, a fermented fish paste nicknamed 'Cambodian cheese'. Fish amok, steamed in banana leaves with coconut milk, is the dish visitors remember most."
   ],
   "history": [
-    "In 802 CE, King Jayavarman II declared himself god-king and launched the Khmer Empire. Over 600 years it grew to cover much of mainland Southeast Asia. Angkor, its capital, became the largest pre-industrial city on Earth.",
-    "The empire fell in 1431 to Thai invaders, and Cambodia later became a French colony. In the 1970s the Khmer Rouge caused devastating loss of life. Since the 1990s, the country has rebuilt with remarkable determination."
+    "In 802 CE, King Jayavarman II declared himself god-king and began the Khmer Empire. Over 600 years, it grew to cover much of mainland Southeast Asia. Its capital, Angkor, became the largest pre-industrial city on Earth.",
+    "Thai invaders ended the empire in 1431. Cambodia later became a French colony. In the 1970s, the Khmer Rouge caused terrible loss of life."
   ],
   "wows": [
-    "Angkor Wat is the world's largest religious monument — 162 hectares, with a moat over 5 km around its walls.",
-    "Cambodia's flag shows an actual building — the towers of Angkor Wat — as its central design.",
-    "The Tonle Sap River reverses direction twice a year when Mekong monsoon floods push water upstream.",
-    "Angkor was Earth's biggest pre-industrial city at its 13th-century peak, as wide as modern Los Angeles.",
-    "Cambodia has no McDonald's — one of the last countries in Southeast Asia without a single branch.",
-    "Khmer is not a tonal language, unlike neighbours Thai and Vietnamese — a rare trait in the region.",
-    "Cambodian weddings last three full days, so every relative from every village can celebrate."
+    "Angkor Wat covers 162 hectares and has a moat over 5 km around it.",
+    "Cambodia's flag shows the towers of Angkor Wat.",
+    "The Tonle Sap River reverses direction twice a year.",
+    "At its 13th-century peak, Angkor was as wide as modern Los Angeles.",
+    "Cambodia has no McDonald's, one of the last in Southeast Asia without one.",
+    "Khmer is not a tonal language.",
+    "Cambodian weddings last three full days, so every relative can celebrate."
   ],
   "myths": [
     {
-      "myth": "Angkor Wat was a 'lost city' forgotten for centuries",
-      "fact": "Angkor was never truly abandoned — people lived, farmed, and worshipped there continuously. European explorers simply made it famous abroad in the 1800s."
+      "myth": "Angkor Wat was a lost city forgotten for centuries",
+      "fact": "People kept living and praying there. European explorers made it famous abroad in the 1800s."
     },
     {
-      "myth": "Cambodia has the only flag with a building on it",
-      "fact": "Other flags also show buildings: Portugal, San Marino, and Spain each include one in their coat of arms. Cambodia's Angkor Wat is just the most prominent."
+      "myth": "Angkor Wat was always a Buddhist temple",
+      "fact": "King Suryavarman II built it for the Hindu god Vishnu in the early 1100s. It became Buddhist later."
     }
   ],
   "words": [

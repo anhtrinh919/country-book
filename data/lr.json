@@ -24,7 +24,7 @@
     "keyColor": "#BF1F2E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Liberia is Africa's oldest republic — founded in 1847 by freed Black Americans who sailed across the ocean to build a new nation. Thick rainforests hide pygmy hippos and chimpanzees. Its flag echoes the US Stars and Stripes, made by its founders. About 5.2 million Liberians live along this lush West African coast.",
+  "lead": "Liberia is Africa's oldest republic. Freed Black Americans sailed across the ocean to found it in 1847. Thick rainforests hide pygmy hippos and chimpanzees. About 5.2 million people live on this green West African coast.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "Rainforests, rivers & coast",
     "animals": "Secret creatures of Sapo",
     "culture": "Two worlds, one nation",
-    "history": "From ships to Lone Star",
-    "wows": "Wait — did you know?"
+    "history": "Ships, settlers & freedom",
+    "wows": "Wait, did you know?"
   },
   "geo": [
-    "Liberia's coastline stretches 570 km along the Atlantic, fringed with sandy beaches and mangrove swamps. Inland, green hills rise toward the Guinea Highlands and wide rivers slice through dense jungle.",
-    "More than 40% of West Africa's surviving Upper Guinean rainforest grows inside Liberia. The rainy season dumps up to 5 metres of rain near the coast each year, keeping the forest brilliantly green."
+    "Liberia's coast runs 570 km along the Atlantic. Sandy beaches and mangrove swamps line the shore. Inland, green hills rise and wide rivers cut through the jungle.",
+    "More than 40% of West Africa's last Upper Guinean rainforest grows here. Up to 5 metres of rain fall near the coast each year."
   ],
   "animals": [
-    "Liberia's Sapo National Park is one of the best places on Earth to spot the pygmy hippopotamus — a forest hippo the size of a large pig. So elusive, it was barely photographed in the wild until camera traps finally caught it wading through Sapo's streams.",
-    "Western chimpanzees — Africa's most endangered chimp — swing through Liberia's ancient trees. Forest elephants, Jentink's duiker, Diana monkeys, and the slender-snouted crocodile also share these jungles."
+    "Sapo National Park is one of the best places to spot a pygmy hippo. This forest hippo is the size of a large pig.",
+    "Western chimpanzees, Africa's most endangered chimps, swing through Liberia's old trees. Forest elephants and Diana monkeys live here too."
   ],
   "culture": [
-    "Liberian culture blends two worlds: the 16 indigenous groups — Kpelle, Bassa, Grebo and more — who have lived here for centuries, and Americo-Liberian settlers who arrived from the US, bringing quilting, southern cooking, and wooden colonial buildings.",
-    "Rice anchors every meal, served with palava sauce — greens, dried fish, and palm oil. Liberians speak a vivid local English: 'no fuss' means don't worry, and 'pekin' means small child. Masked dance ceremonies keep ancient stories alive."
+    "Liberia mixes two worlds. The 16 local groups, such as the Kpelle, Bassa, and Grebo, have lived here for centuries. Settlers from the US brought quilting, southern cooking, and wooden houses.",
+    "Rice comes with every meal, often with palava sauce (greens, dried fish, and palm oil). 'Pekin' means small child in Liberian English. Masked dancers keep old stories alive."
   ],
   "history": [
-    "In 1822, the first freed Black Americans landed on Providence Island at the Mesurado River, backed by the American Colonization Society. By 1847 they declared independence — making Liberia Africa's very first republic.",
-    "The 20th century brought the giant Firestone rubber farm (1926), brutal civil wars (1989–2003), then hope: in 2006 Ellen Johnson Sirleaf became Africa's first elected female president, winning the Nobel Peace Prize in 2011."
+    "In 1822, the first freed Black Americans landed on Providence Island. In 1847 they declared independence. Liberia became Africa's first republic.",
+    "Civil wars raged from 1989 to 2003. Then, in 2006, Ellen Johnson Sirleaf became Africa's first elected female president. She won the Nobel Peace Prize in 2011."
   ],
   "wows": [
-    "Liberia's Firestone plantation covers ~450 km² — the world's largest rubber farm under one company.",
-    "The pygmy hippo weighs just 270 kg — one-tenth the size of its common hippo cousin.",
-    "Ellen Johnson Sirleaf was the first woman ever elected head of state in Africa (2006).",
-    "Liberia's flag has 11 stripes, one for each signer of its 1847 Declaration of Independence.",
-    "Liberia runs on GMT exactly — no offset at all, sitting neatly on the prime-meridian band.",
-    "Sapo is West Africa's second-largest block of untouched lowland rainforest after Taï in Côte d'Ivoire.",
-    "Liberian rubber was so vital in WWII that historians credit it with helping the Allies win the war."
+    "Firestone's rubber farm covers about 450 km², the world's largest under one company.",
+    "A pygmy hippo weighs just 270 kg, one-tenth of a common hippo.",
+    "Ellen Johnson Sirleaf was Africa's first elected female head of state, in 2006.",
+    "Liberia's flag has 11 stripes for the 11 signers of the 1847 declaration.",
+    "Liberia keeps GMT exactly, with no time offset.",
+    "Sapo is West Africa's second-largest untouched lowland rainforest, after Taï.",
+    "Liberian rubber helped the Allies in World War II, some historians say."
   ],
   "myths": [
     {
-      "myth": "Liberia was never colonised",
-      "fact": "No European power ruled it, but Americo-Liberian settlers dominated indigenous peoples for over a century — historians call this internal colonialism."
+      "myth": "Hippos are good swimmers",
+      "fact": "Hippos cannot swim. They are too heavy to float. They walk along the river bottom."
     },
     {
-      "myth": "Lions are Liberia's national animal",
-      "fact": "Liberia's official coat of arms shows a dove and a sailing ship — symbols of peace and the founders' ocean voyage, not a lion."
+      "myth": "Rubber is made in a factory",
+      "fact": "Natural rubber is milky sap from a tree. Workers cut the bark and collect the drips."
     }
   ],
   "words": [

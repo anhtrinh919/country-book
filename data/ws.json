@@ -2,7 +2,7 @@
   "name": "SAMOA",
   "nativeName": "WS",
   "romaji": "SAMOA",
-  "tagline": "Islands of blue & tatau",
+  "tagline": "Blue seas, ancient ways",
   "region": "Polynesia, South Pacific",
   "coords": "13°35′S 172°20′W",
   "fileNo": "063",
@@ -24,7 +24,7 @@
     "keyColor": "#C0202E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Samoa is a tiny island nation in the South Pacific, made up of two volcanic islands ringed by coral reefs and rainforest. Polynesians settled here 3,000 years ago, and the old way of life — Fa'a Samoa — is still alive today: big extended families, open-walled houses, and a tattoo tradition that gave the whole world the word \"tattoo\".",
+  "lead": "Samoa is a small island country in the South Pacific. It has two volcanic islands ringed by reefs and rainforest. People settled here 3,000 years ago. Samoa gave the world the word \"tattoo\".",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Volcanoes, reefs & blue holes",
     "animals": "Bats, birds & sea turtles",
-    "culture": "Fa'a Samoa — the Samoan way",
+    "culture": "Fa'a Samoa, the Samoan way",
     "history": "3,000 years of island story",
-    "wows": "Hard to believe, but true!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Samoa sits on two volcanic islands that burst from the ocean floor. Savai'i, the larger one, still has vast lava fields from a 1905 eruption. Both islands have rugged mountains draped in rainforest, with white-sand beaches and coral reefs along the coast.",
-    "The most jaw-dropping sight is To Sua Ocean Trench — a circular swimming hole 30 metres deep, carved from a collapsed lava tube and connected to the open ocean by an underwater cave."
+    "Samoa has two volcanic islands. The bigger one, Savai'i, has huge lava fields from a 1905 eruption. Rainforest covers the mountains. White beaches and reefs line the coast.",
+    "To Sua Ocean Trench is a swimming hole 30 metres deep. A collapsed lava tube made it. An underwater cave joins it to the sea."
   ],
   "animals": [
-    "Samoa's only native land mammals are bats — chiefly the Samoan flying fox, which soars in daylight hunting fruit and spreads seeds across the rainforest. Sea turtles nest on quiet beaches, and the reef teems with colourful tropical fish.",
-    "The rarest resident is the manumea, or tooth-billed pigeon — Samoa's national bird and the 'little dodo'. Fewer than 250 survive in the forest, with a hooked, toothed bill unlike any other living pigeon. Over 84% of Samoa's birds live nowhere else on Earth."
+    "Samoa's only native land mammals are bats. The Samoan flying fox hunts fruit in daylight and spreads seeds. Sea turtles nest on quiet beaches.",
+    "The manumea, or tooth-billed pigeon, is Samoa's national bird. Fewer than 250 survive. Over 84% of Samoa's birds live nowhere else on Earth."
   ],
   "culture": [
-    "Life is shaped by Fa'a Samoa — the Samoan Way. Extended families share open-walled houses called fale and make decisions together. Before any ceremony, elders share a ritual drink called 'ava from a polished coconut shell, following precise ancient rules about who speaks and who drinks first.",
-    "Samoa gave the world the word 'tattoo' (from tatau). Young men receive the pe'a — an intricate pattern from waist to knee — as a mark of identity and strength. Music, dance, and weaving fine mats are central arts, and Sunday is treated as a near-sacred day of rest."
+    "Fa'a Samoa means the Samoan Way. Big families share open-walled houses called fale. Before a ceremony, elders share a drink called 'ava from a coconut shell.",
+    "Young men get the pe'a, a tattoo from waist to knee. Music, dance and weaving fine mats are key arts. Sunday is a day of rest."
   ],
   "history": [
-    "Polynesians arrived by canoe from Tonga around 1000 BCE. By 200 CE, Samoa was a launching point for great voyages that settled eastern Polynesia, including Hawaii and New Zealand. British missionaries arrived in 1830 and converted most of the island within a decade.",
-    "Germany and the US divided the islands in 1899. New Zealand took over in 1914. On 1 January 1962, Samoa became the first Pacific Island nation to gain full independence — a milestone for the whole Pacific region."
+    "Polynesians sailed here from Tonga around 1000 BCE. By 200 CE, Samoa launched voyages to Hawaii and New Zealand. British missionaries arrived in 1830.",
+    "Germany and the US split the islands in 1899. New Zealand took over in 1914. On 1 January 1962, Samoa became the first Pacific island nation to win full independence."
   ],
   "wows": [
-    "Samoa erased 30 December 2011 from its calendar when it hopped across the International Date Line.",
-    "The word 'tattoo', used in every language, comes from the Samoan word tatau.",
-    "In 2009 Samoa switched from driving on the right to the left — overnight, in one go.",
-    "Samoa is a 30-minute flight from 'yesterday' — American Samoa sits on the other side of the Date Line.",
-    "Scientists went five years without photographing a live manumea — it is that rare and shy.",
-    "Samoa has no army at all — one of only 21 countries in the world with zero military.",
-    "Samoan flying foxes hunt fruit in full daylight, which is very unusual for any bat species."
+    "Samoa skipped 30 December 2011 by jumping across the Date Line.",
+    "The word 'tattoo' comes from the Samoan word tatau.",
+    "In 2009, Samoa switched overnight to driving on the left.",
+    "A 30-minute flight takes you from Samoa back to 'yesterday'.",
+    "Scientists went five years without photographing a live manumea.",
+    "Samoa has no army, one of only 21 such countries.",
+    "Samoan flying foxes hunt fruit in daylight, unusual for a bat."
   ],
   "myths": [
     {
-      "myth": "Samoa and American Samoa are the same place",
-      "fact": "They are separate. Samoa (capital Apia) is an independent nation; American Samoa is a US territory 164 km away, with a different government, currency, and even calendar day."
+      "myth": "Samoa and American Samoa are one country",
+      "fact": "No. American Samoa is a US territory, 164 km away. It uses the US dollar."
     },
     {
-      "myth": "Samoan tattoo patterns are just a style anyone can copy",
-      "fact": "The pe'a and malu are sacred rites tied to family and Samoan identity. The designs carry specific meaning and are earned through ceremony, not chosen from a pattern sheet."
+      "myth": "A Samoan tattoo is made with a machine",
+      "fact": "Artists tap the ink in by hand with a bone comb. A full pe'a takes weeks."
     }
   ],
   "words": [

@@ -2,7 +2,7 @@
   "name": "MOLDOVA",
   "nativeName": "MD",
   "romaji": "MOLDOVA",
-  "tagline": "Land of vines & hidden caves",
+  "tagline": "Vines & hidden wine caves",
   "region": "Eastern Europe",
   "coords": "47°N 29°E",
   "fileNo": "148",
@@ -24,7 +24,7 @@
     "keyColor": "#003DA5",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Moldova is a tiny landlocked country between Romania and Ukraine. Smaller than Ireland, it hides millions of wine bottles in cave-tunnels carved from limestone. Farmers have made wine here for 5,000 years. Today it heads toward the EU, trading the Soviet shadow for sunflower fields, cliff monasteries, and a warm welcome.",
+  "lead": "Moldova is a tiny country between Romania and Ukraine, smaller than Ireland. Cave tunnels carved from limestone hold millions of wine bottles. Farmers have made wine here for 5,000 years. Now it looks toward the EU.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN CITIES:",
   "sections": {
     "geography": "Rolling hills & river valleys",
-    "animals": "Storks, mink & forest folk",
+    "animals": "Storks, mink & wild boar",
     "culture": "Wine, dance & village feasts",
     "history": "Princes, tsars & independence",
     "wows": "Seven surprising secrets"
   },
   "geo": [
-    "Moldova is one of Europe's flattest countries — no mountains, just gentle hills and wide river valleys carved by the Prut and Dniester. Rich black soil called chernozem makes it one of the world's best farming lands.",
-    "Forests of oak and hornbeam cover the central Codru hills, sheltering deer and wild boar. The country has no sea coast at all — completely landlocked, making it one of Europe's quietest and most surprising destinations."
+    "Moldova is one of Europe's flattest countries. It has gentle hills and wide valleys cut by the Prut and the Dniester. Black soil called chernozem makes fine farmland.",
+    "Oak and hornbeam forests cover the central Codru hills, sheltering deer and wild boar. Moldova has no sea coast at all."
   ],
   "animals": [
-    "Moldova's national bird is the white stork. Thousands nest on chimney tops every spring — it's very good luck to have one on your roof! Oak forests hide roe deer, wild boar, badgers, and the shy Eurasian wildcat.",
-    "The rarest resident is the European mink, a small chestnut-furred creature that slides through riverside reeds. Critically endangered worldwide, it clings on in Moldova's Prut River floodplains, one of its last wild homes in Europe."
+    "The white stork is Moldova's national bird. Thousands nest on chimneys every spring, and a stork on your roof is good luck.",
+    "The European mink is a small, chestnut-furred creature that slides through reeds. It is critically endangered, but it clings on in the Prut River floodplains."
   ],
   "culture": [
-    "Moldovans love to dance — the hora is a whirling circle dance at every wedding and harvest feast, with everyone joining hands. Folk crafts like woven rugs and embroidered blouses with bright geometric borders are still made by hand in villages.",
-    "Wine is the heart of Moldovan life. Families tend their own vines, and every October the whole country celebrates National Wine Day with open cellars and folk music. Even a Soviet-era limestone quarry was turned into a vast underground wine city."
+    "Moldovans love to dance. The hora is a whirling circle dance at every wedding and harvest feast. Villagers still make woven rugs and embroidered blouses by hand.",
+    "Wine is the heart of Moldovan life. Every October, the whole country celebrates National Wine Day with open cellars and folk music. A Soviet-era limestone quarry became a huge underground wine city."
   ],
   "history": [
-    "Moldova's greatest hero, Stephen the Great, ruled 1457–1504 and won 34 of his 36 battles against the Ottomans. He built a monastery after every victory — dozens still stand as living treasures of stone and fresco.",
-    "After centuries ruled by Ottomans then Russia, Moldova became Soviet in 1940. On 27 August 1991, as the USSR crumbled, Moldova declared independence. It opened EU accession talks on 25 June 2024 — a huge moment for its people."
+    "Stephen the Great ruled from 1457 to 1504 and won 34 of his 36 battles against the Ottomans. After every victory he built a monastery. Dozens still stand.",
+    "Moldova became Soviet in 1940. On 27 August 1991, as the USSR crumbled, it declared independence. On 25 June 2024, it opened EU accession talks."
   ],
   "wows": [
-    "Mileștii Mici holds over 1.5 million bottles — the Guinness record for the world's largest wine collection.",
-    "Its 55 km of wine tunnels are so vast that visitors explore by car, on streets named after grape varieties.",
-    "Vines cover roughly 4% of Moldova's land — one of the highest vineyard densities of any country on Earth.",
-    "The cave monastery at Orheiul Vechi was carved into a white limestone cliff by monks over 600 years ago.",
-    "Remittances from Moldovans working abroad equal roughly 12% of the country's entire economy.",
-    "Moldova opened EU accession talks on 25 June 2024 — a landmark shift for this small Eastern European nation.",
-    "White storks fly from sub-Saharan Africa each spring to nest on the same Moldovan chimney, year after year."
+    "Mileștii Mici holds over 1.5 million wine bottles, a world record.",
+    "Its 55 km of wine tunnels are so big that visitors drive through them.",
+    "Vines cover roughly 4% of Moldova's land, among the highest shares anywhere.",
+    "Monks carved the cave monastery at Orheiul Vechi into a limestone cliff over 600 years ago.",
+    "Money sent home from abroad equals roughly 12% of Moldova's economy.",
+    "Moldova opened EU accession talks on 25 June 2024.",
+    "White storks fly from Africa each year to the same chimney."
   ],
   "myths": [
     {
-      "myth": "Moldova is part of Romania",
-      "fact": "Moldova and Romania share a language but Moldova has been fully independent since 1991 — its own government, currency, and passport. Two nations, one tongue."
+      "myth": "White wine is made from white grapes only",
+      "fact": "Grape juice is clear. Red wine gets its colour from the skins. Removing the skins quickly makes white wine from red grapes."
     },
     {
-      "myth": "There's nothing to see or do",
-      "fact": "Moldova has cliff monasteries, the world's largest wine cellar, Soviet mosaics, folk festivals, and the quirky territory of Transnistria — all in an area smaller than Ireland."
+      "myth": "Sunflowers always follow the sun",
+      "fact": "Only young sunflowers turn with the sun. Once grown, they face east and stay put."
     }
   ],
   "words": [

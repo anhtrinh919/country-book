@@ -2,7 +2,7 @@
   "name": "BELGIUM",
   "nativeName": "BE",
   "romaji": "BELGIQUE",
-  "tagline": "Waffles, Comics & Diamonds",
+  "tagline": "Waffles, comics & castles",
   "region": "Western Europe",
   "coords": "50.8°N, 4.4°E",
   "fileNo": "032",
@@ -24,7 +24,7 @@
     "keyColor": "#C8212C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Belgium is a small but mighty country between France, Germany, and the Netherlands. It invented the world-famous waffle, pioneered comic-strip art (hello, Tintin!), and has three official languages. Despite being roughly the size of Maryland, it has more castles per square kilometre than almost anywhere else on Earth.",
+  "lead": "Belgium is a small country between France, Germany, and the Netherlands. It is famous for waffles and for comic heroes like Tintin. It has three official languages. It is the size of Maryland but has more castles per square kilometre than almost anywhere.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "A flat land with hidden hills",
-    "animals": "Wild creatures of wood & coast",
-    "culture": "Waffles, comics & carillons",
-    "history": "Crossroads of empires",
-    "wows": "Belgium will surprise you!"
+    "geography": "Flat land, secret hills",
+    "animals": "Foxes, storks & seals",
+    "culture": "Waffles, comics & bells",
+    "history": "A crossroads for armies",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Belgium is mostly flat farmland and sandy dunes along its 67-kilometre North Sea coast. Rivers like the Meuse and Scheldt crisscross the country, and ancient canals still carry boats through medieval city centres.",
-    "In the south, the Ardennes forest rises into rolling hills — thick with pine trees and caves. This is where Belgium hides its highest point and wildest scenery, a world away from the busy cities up north."
+    "Flat farmland and sandy dunes cover most of Belgium. The North Sea coast is 67 km long. Old canals carry boats through medieval city centres.",
+    "The Ardennes forest rises in the south, with rolling hills, pine trees, and caves. Belgium's highest point and wildest scenery are here."
   ],
   "animals": [
-    "The red fox trots through Ardennes forests at dusk, while the European hedgehog snuffles through Belgian gardens. White storks nest on church rooftops in spring, and starlings swirl in murmurations over Brussels each autumn.",
-    "Along the coast, grey seals loll on sandbanks and harbour porpoises swim just offshore. The Scheldt estuary is a motorway for migrating birds — godwits, avocets, and spoonbills stop to refuel on their long journeys."
+    "Red foxes trot through the Ardennes at dusk. White storks nest on church roofs in spring. Starlings swirl in huge flocks over Brussels.",
+    "On the coast, grey seals loll on sandbanks and harbour porpoises swim offshore. Migrating birds like godwits, avocets, and spoonbills refuel on the Scheldt estuary."
   ],
   "culture": [
-    "Belgium has three communities side by side — Dutch-speaking Flemish in the north, French-speaking Walloons in the south, and a small German-speaking pocket in the east. Everyone agrees on beer, chocolate, and football.",
-    "Belgian comics are a national treasure: Tintin, the Smurfs, and Lucky Luke were all born here. Every town has a carillon — a tower of bells played like a keyboard — ringing out over the rooftops every quarter-hour."
+    "Dutch-speaking Flemish people live in the north. French-speaking Walloons live in the south. A small German-speaking group lives in the east. Everyone agrees on beer, chocolate, and football.",
+    "Tintin, the Smurfs, and Lucky Luke all began in Belgium. Every town has a carillon, a tower of bells played like a keyboard."
   ],
   "history": [
-    "Belgium's location made it a prize for every great power. Romans, Spanish kings, Austrian emperors, Napoleon, and the Dutch all ruled here before Belgians declared independence in 1830 and chose their own king.",
-    "Two World Wars tore through Belgian soil. After 1945, Belgium helped build a new Europe: Brussels became home to NATO and the EU, turning the old crossroads into a continent's capital."
+    "Romans, Spanish kings, Austrian emperors, Napoleon, and the Dutch all ruled Belgium. Belgians declared independence in 1830 and chose their own king.",
+    "Two World Wars tore through Belgian soil. After 1945, Belgium helped build a new Europe. Brussels became the base of NATO and the EU."
   ],
   "wows": [
-    "Belgium has over 1,500 named beer varieties — more than any other country on Earth.",
-    "Antwerp handles roughly half of all the world's rough diamonds every single year.",
-    "Belgians invented the French fry and eat frites with mayonnaise, not ketchup.",
-    "The Atomium in Brussels is an iron crystal model blown up 165 billion times, built in 1958.",
-    "Belgium once owned the Congo — a colony 77 times larger than Belgium itself.",
-    "The Brussels sprout has been grown near the Belgian capital since the 13th century.",
-    "Brussels has 50 giant comic-strip murals painted across city walls as a heritage trail."
+    "Belgium has over 1,500 named beers, more than any other country.",
+    "Antwerp handles about half of the world's rough diamonds.",
+    "Belgians say they invented the French fry.",
+    "The Atomium, built in 1958, is an iron crystal blown up 165 billion times.",
+    "Belgium once ruled the Congo, a colony 77 times bigger than Belgium.",
+    "Brussels sprouts have grown near Brussels since the 13th century.",
+    "Brussels has 50 giant comic-strip murals on its walls."
   ],
   "myths": [
     {
-      "myth": "Belgium has no real culture of its own",
-      "fact": "Belgium gave the world Tintin, the Smurfs, Art Nouveau, Trappist beer, and the saxophone — invented by Brussels-born Adolphe Sax in 1846."
+      "myth": "Belgian chocolate uses cocoa grown in Belgium",
+      "fact": "Cacao trees only grow in hot, wet places. Belgian chocolatiers import the beans."
     },
     {
       "myth": "A Belgian waffle is just a waffle",
-      "fact": "There are two distinct Belgian waffles: the crispy rectangular Brussels waffle and the sweet, sugar-pearl Liège waffle — locals are very serious about the difference."
+      "fact": "Belgium has two kinds. The Brussels waffle is crisp and rectangular. The Liège waffle is sweet, with sugar pearls."
     }
   ],
   "words": [

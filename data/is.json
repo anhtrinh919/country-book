@@ -24,7 +24,7 @@
     "keyColor": "#003897",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Iceland perches on the Arctic edge where volcanoes rumble under glaciers and the sky blazes green on winter nights. Still being shaped by fresh lava, fewer than 400,000 people live here — yet they get free hot water and heating straight from the volcano heat underfoot. Fire below, ice on top, breathtaking skies above.",
+  "lead": "Iceland sits near the Arctic. Volcanoes rumble under its glaciers. On winter nights, the sky glows green. Fewer than 400,000 people live here. Volcano heat gives them free hot water and heating.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Wild things of the north",
     "culture": "Vikings, sagas & hot pots",
     "history": "From settlers to superstars",
-    "wows": "Iceland's wow moments"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Iceland straddles two tectonic plates pulling apart by 2 cm a year. The result is bubbling geysers, steaming hot springs, black lava fields, and over 130 volcanoes, about 30 still active today.",
-    "More than 10% of Iceland is glacier, yet the ground underneath is warm. Geyser Strokkur shoots boiling water 20 metres high every few minutes, like the Earth clearing its throat on schedule."
+    "Two tectonic plates (giant rock slabs) pull apart under Iceland, 2 cm a year. Iceland has over 130 volcanoes. About 30 are still active.",
+    "More than 10% of Iceland is glacier, yet the ground underneath is warm. The geyser Strokkur shoots boiling water 20 metres high every few minutes."
   ],
   "animals": [
-    "Iceland has no native land predators — no bears, no wolves, no snakes. The Arctic fox is the only land mammal that arrived on its own, padding across frozen sea ice thousands of years ago.",
-    "The seas swarm with humpback whales and orcas. Millions of puffins nest here each summer, flapping stubby wings up to 400 beats per minute — like tiny feathery helicopters."
+    "Iceland has no bears, wolves, or snakes. The Arctic fox is the only land mammal that came on its own. It crossed frozen sea ice thousands of years ago.",
+    "Humpback whales and orcas swim offshore. Millions of puffins nest here each summer. Their stubby wings beat up to 400 times a minute."
   ],
   "culture": [
-    "Icelanders love the 'hot pot' — outdoor geothermal pools where neighbours gossip and kids splash. Every town has one, and soaking at 40 °C while snowflakes fall on your head is a perfectly normal Tuesday.",
-    "Iceland reads more books per person than almost anywhere on Earth. On Christmas Eve everyone gives novels to read in bed that night — the 'Jólabókaflóð', or Christmas Book Flood, rooted in Viking saga storytelling."
+    "Icelanders love 'hot pots', outdoor pools heated by the Earth. Every town has one. Soaking at 40 °C while snowflakes land on your head is a normal Tuesday.",
+    "Iceland reads more books per person than almost anywhere. On Christmas Eve, everyone gives novels to read in bed. This is the 'Jólabókaflóð', or Christmas Book Flood."
   ],
   "history": [
-    "Vikings from Norway settled Iceland around 874 AD. In 930 AD Icelanders created the Althing — one of the world's oldest parliaments — meeting in the open air to debate and make laws together.",
-    "Iceland spent centuries under Danish rule, survived volcanic eruptions that killed a quarter of its people in 1783, became independent in 1944, and grew from one of Europe's poorest to one of its wealthiest in one generation."
+    "Vikings from Norway settled Iceland around 874 AD. In 930 AD, Icelanders created the Althing, one of the world's oldest parliaments. People debated laws in the open air.",
+    "Denmark ruled for centuries. In 1783, eruptions killed a quarter of Icelanders. Independence came in 1944. In one generation, Iceland went from one of Europe's poorest countries to one of its wealthiest."
   ],
   "wows": [
-    "Iceland generates nearly 100% of its electricity from geothermal and hydropower — almost zero carbon.",
+    "Nearly 100% of Iceland's electricity is geothermal or hydropower.",
     "The Northern Lights dance green and purple over Reykjavik on clear winter nights.",
-    "Icelanders have no family surnames — each child uses a parent's first name plus -son or -dóttir.",
-    "Iceland has no army, navy, or air force — one of few nations with zero military forces.",
-    "At Silfra fissure you can swim between two tectonic plates in water so clear you see 100 m ahead.",
-    "Roads have been rerouted to avoid disturbing rocks where the hidden folk (Huldufólk) are said to live.",
-    "Eyjafjallajökull erupted in 2010 and grounded millions of airline passengers across Europe for weeks."
+    "Icelanders have no surnames, only a parent's first name plus -son or -dóttir.",
+    "Iceland has no army, navy, or air force.",
+    "At Silfra fissure, you can swim between two tectonic plates and see 100 m ahead.",
+    "Roads bend around rocks where the hidden folk (Huldufólk) are said to live.",
+    "Eyjafjallajökull erupted in 2010 and grounded millions of airline passengers."
   ],
   "myths": [
     {
-      "myth": "Iceland is covered in ice",
-      "fact": "Iceland is surprisingly green — about 23% grassland. A Viking named it Iceland to keep the good land secret; Greenland is the one mostly covered in ice."
+      "myth": "The Northern Lights shine all year",
+      "fact": "Summer nights are too bright to see them. They show best from about September to April."
     },
     {
-      "myth": "It's always bitterly cold there",
-      "fact": "Reykjavik winters are milder than New York City's, thanks to the Gulf Stream. Temperatures rarely drop below -10 °C and geothermal heating keeps homes warm year-round."
+      "myth": "Vikings wore helmets with horns",
+      "fact": "No horned Viking helmet has ever been found. The idea came from costumes in 1800s operas."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Panama is a skinny S-shaped country joining North and South America like a living bridge. Its famous Canal lets ships cut 13,000 km off their journey — giant locks lift vessels like bathtubs, shuffling 40 ships a day. Rainforests, coral reefs, and nearly 1,000 bird species make Panama one of the richest wild spots on Earth.",
+  "lead": "Panama is a skinny, S-shaped country that joins North and South America like a bridge. Its famous Canal cuts 13,000 km off a ship's trip. Giant locks lift ships like bathtubs. Rainforests and nearly 1,000 bird species make it wild.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Did you know?"
   },
   "geo": [
-    "Panama is so narrow you can stand on Volcán Barú and see both the Pacific and the Caribbean on a clear day — two oceans at once. Thick rainforest covers half the country, fed by over 3 m of rain a year.",
-    "The Canal cuts 80 km across the isthmus, linking two oceans and saving ships the long sail around South America. A watershed of lakes keeps the locks filled with freshwater all year round."
+    "Thick rainforest covers half of Panama, fed by over 3 m of rain a year. Volcán Barú, the country's only volcano, rises to 3,475 m.",
+    "The Canal cuts 80 km across the isthmus, a thin strip of land. Ships skip the long trip around South America. Lakes keep the locks full."
   ],
   "animals": [
-    "Panama sits on a great migration highway. Billions of raptors — hawks, vultures, falcons — funnel through each autumn, filling the sky above Panama City. The harpy eagle, the Americas' most powerful bird of prey, still nests in remote jungle.",
-    "Sloths doze in trees along the Canal; jaguars prowl Darién; and the golden frog — Panama's national symbol — is now mostly kept in zoos to protect it from a deadly skin fungus that has swept the wild."
+    "Each autumn, billions of raptors (hunting birds) fly over Panama City. The harpy eagle, the Americas' most powerful bird of prey, nests in remote jungle.",
+    "Sloths doze in trees along the Canal. Jaguars prowl Darién. The golden frog is Panama's national symbol, but a deadly fungus means most now live in zoos."
   ],
   "culture": [
-    "Panamanians are proud of their mix: Spanish settlers, West African Canal workers, indigenous Guna people who sew vivid mola cloth, plus Chinese and Indian traders. That blend fills the food — patacones (fried plantain) sit beside ceviche and thick sancocho chicken soup.",
-    "Music pulses everywhere: salsa, reggaeton, and tamborito drums share the same dancefloor. At Carnival, elaborate pollera dresses — stitched by hand over months — twirl through Panama City streets each February in one of the Americas' biggest parties."
+    "Spanish, West African, Chinese, Indian and Guna people all shaped Panama. The Guna sew bright mola cloth. Patacones (fried plantain) sit beside ceviche and sancocho soup.",
+    "Salsa, reggaeton and tamborito drums share one dancefloor. At Carnival each February, women twirl through Panama City in pollera dresses. Sewing one takes months."
   ],
   "history": [
-    "Indigenous peoples lived here thousands of years before the Spanish arrived in 1501. Panama City, founded 1519, became the Pacific's first European city and the exit point for gold looted from the Inca Empire across the mule trail Camino Real.",
-    "Panama broke from Colombia in 1903 — with US support — so the Canal could be built. The US ran the Canal Zone for nearly a century; Panama took full control on 31 December 1999, still celebrated as a national triumph."
+    "People lived here for thousands of years before the Spanish came in 1501. Panama City, founded in 1519, was the first European city on the Pacific.",
+    "Panama broke from Colombia in 1903, with US support, so the Canal could be built. Panama took full control of the Canal on 31 December 1999."
   ],
   "wows": [
-    "From Volcán Barú's summit you can see both the Pacific and the Caribbean Sea at the same time.",
-    "The Panama Canal earns around a third of Panama's entire government revenue from ship tolls.",
-    "More bird species live in Panama than in all of the USA and Canada put together.",
-    "The Guna people govern their own islands and decide who may visit or build there.",
-    "Panama uses US dollars but mints its own balboa coin at exactly 1-to-1 with the dollar.",
-    "Panama hats are actually made in Ecuador — Panama just shipped them to the world.",
-    "The 2016 Canal expansion lets ships carry 14,000 containers, ten times the 1914 capacity."
+    "Gravity fills the Canal's locks, so no pumps are needed.",
+    "The Guna people run their own islands and decide who visits.",
+    "Panama uses US dollars, but its balboa coin is worth exactly one dollar.",
+    "Panama hats are really made in Ecuador, not Panama.",
+    "The 2016 Canal expansion lets ships carry ten times the 1914 load: 14,000 containers.",
+    "Panama is smaller than Scotland yet has nearly 1,000 bird species.",
+    "From Volcán Barú's summit, you can see the Pacific and the Caribbean at once."
   ],
   "myths": [
     {
-      "myth": "Panama hats come from Panama",
-      "fact": "They are woven in Ecuador from toquilla straw — Panama just happened to be the trading hub that shipped them globally, so the name stuck."
+      "myth": "The Panama Canal is a flat ditch at sea level",
+      "fact": "Ships climb 26 m up to Gatún Lake, cross it, then go back down through locks."
     },
     {
-      "myth": "The Canal runs east–west",
-      "fact": "Because of Panama's S-shape, ships travel roughly north–south — you exit into the Pacific slightly east of where you entered from the Caribbean."
+      "myth": "The Canal runs east to west",
+      "fact": "Panama bends like an S. Ships go north to south, and the Pacific end lies east of the Caribbean end."
     }
   ],
   "words": [

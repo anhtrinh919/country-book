@@ -13,7 +13,7 @@
     "keyColor": "#EF3340",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "The UAE is a sun-baked land where golden dunes meet the world's tallest skyscrapers. Seven kingdoms joined hands in 1971 to build one country on the Arabian Gulf. Today camels share roads with supercars and falcons soar over cities glowing like jewels in the desert night. Ancient Bedouin traditions and dazzling modern life sit side by side here.",
+  "lead": "The UAE is a hot land on the Arabian Gulf. Golden dunes sit beside the world's tallest skyscrapers. Seven kingdoms joined to make one country in 1971. Camels share roads with supercars. Falcons fly over cities that glow in the desert night.",
   "facts": [
     {
       "label": "Capital",
@@ -62,38 +62,38 @@
     "wows": "Hard to believe, but true!"
   },
   "geo": [
-    "The UAE sits at the tip of the Arabian Peninsula, hugging two seas: the calm Arabian Gulf to the west and the wilder Gulf of Oman to the east. Most of the country is flat, scorching desert — huge dunes can grow taller than a ten-storey building, and summer heat can reach 50°C.",
-    "The rocky Hajar Mountains rise sharply in the east, cut through by wadis that flash-flood after rare rains. Abu Dhabi sits on a flat island, while Dubai stretches along the coast. The sky above is almost always a blazing, cloudless blue."
+    "The UAE sits between two seas, the calm Arabian Gulf and the wilder Gulf of Oman. Most of it is flat desert. Dunes grow taller than a ten-storey building. Summer heat can reach 50°C.",
+    "The rocky Hajar Mountains rise in the east. Wadis (dry riverbeds) flash-flood after rare rains. Abu Dhabi sits on an island, and Dubai stretches along the coast."
   ],
   "animals": [
-    "The peregrine falcon is the UAE's most treasured animal — a living symbol of Bedouin heritage. Falconers spend fortunes training these swift hunters, which dive at over 300 km/h. Emirati falcons even get their own passports to travel to competitions abroad!",
-    "The Arabian camel once carried everything across the desert. Today camels race at special tracks, watched by robot jockeys! Dugongs, whale sharks, and hawksbill turtles also live in the warm, shallow Gulf waters nearby."
+    "The peregrine falcon is the UAE's favourite animal. Falconers train these swift hunters. They dive at over 300 km/h.",
+    "Arabian camels once carried everything across the desert. Today they race on special tracks, with robot jockeys! Dugongs, whale sharks, and hawksbill turtles swim in the warm Gulf."
   ],
   "culture": [
-    "Emirati culture is built on generosity. A guest is always offered qahwa — cardamom coffee — and sweet dates. Refusing is rude! Traditional dress, the white kandura for men and the black abaya for women, is worn with pride even inside glass skyscrapers.",
-    "Poetry is a national obsession: huge televised poetry slams draw millions of viewers. The Friday souq (market) buzzes with spices, gold, and gossip. Traditional wooden dhow boats, once used for pearl diving, are still sailed at heritage festivals every year."
+    "A guest is always offered qahwa (cardamom coffee) and sweet dates. Refusing is rude! Men wear a white kandura and women a black abaya, even inside glass skyscrapers.",
+    "Huge TV poetry slams draw millions of viewers. Souqs (markets) buzz with spices and gold. Wooden dhows, once used for pearl diving, still sail at heritage festivals."
   ],
   "history": [
-    "For thousands of years, Bedouin tribes herded camels here while coastal communities dove for Gulf pearls sold as far away as India and Europe. In the early 1900s cheap Japanese cultured pearls flooded markets and nearly destroyed the trade overnight.",
-    "Oil was found in Abu Dhabi in 1958 and everything changed. Seven sheikhdoms united as the UAE on 2 December 1971. In just 50 years the country leapt from mud-brick villages to a nation with a Mars spacecraft and cities built on the sea."
+    "For thousands of years, Bedouin tribes herded camels here. Coastal people dived for pearls sold as far as India and Europe. Cheap Japanese cultured pearls nearly ruined that trade in the early 1900s.",
+    "Oil was found in Abu Dhabi in 1958. Seven sheikhdoms became the UAE on 2 December 1971. In 50 years, mud-brick villages grew into modern cities."
   ],
   "wows": [
-    "The Burj Khalifa stands 828 m tall — the tallest building on Earth, with its own weather at the top.",
-    "Palm Jumeirah is a man-made island shaped like a palm tree, built from 94 million m³ of Gulf sand.",
-    "The UAE reached Mars on its very first try in 2021 — only four other nations had ever done it before.",
-    "Abu Dhabi's Louvre is the first universal art museum in the Arab world, inspired by the Paris original.",
-    "The UAE has zero personal income tax — every resident keeps every single dirham they earn.",
-    "Emirati falcons carry official passports so they can fly with their owners to hunting trips abroad.",
-    "Ski Dubai is a real indoor ski slope with actual snow inside a mall in one of Earth's hottest countries."
+    "The Burj Khalifa is 828 m tall, the tallest building on Earth.",
+    "Palm Jumeirah is a palm-shaped island made from 94 million m³ of Gulf sand.",
+    "The UAE reached Mars on its very first try, in 2021.",
+    "Abu Dhabi's Louvre is the first universal art museum in the Arab world.",
+    "The UAE has no personal income tax.",
+    "Emirati falcons carry official passports for trips abroad.",
+    "Ski Dubai has real snow inside a mall."
   ],
   "myths": [
     {
-      "myth": "The UAE is just Dubai",
-      "fact": "Dubai is the most famous emirate, but Abu Dhabi is the capital and covers 87% of the country's land. The UAE has seven emirates in total."
+      "myth": "Camels store water in their humps",
+      "fact": "Humps hold fat, not water. Camels live off that fat when food runs out."
     },
     {
-      "myth": "It's all built on oil money",
-      "fact": "Oil once funded everything, but today tourism, finance, and trade make up over 70% of Dubai's economy — built to thrive after the oil runs out."
+      "myth": "Desert sand is best for building",
+      "fact": "Wind rounds desert grains too smooth for concrete. Dubai imports building sand."
     }
   ],
   "words": [

@@ -13,7 +13,7 @@
     "keyColor": "#DE2910",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "China is the world's most populous country and one of its oldest civilisations — home to the Great Wall, giant pandas, and a writing system barely changed in 3,000 years. From icy Himalayan peaks to steamy tropical islands, China stretches so far that sunrise happens two hours earlier in the east than the west, yet every clock shows the same time.",
+  "lead": "China has more people than any other country. It has the Great Wall, giant pandas and a writing system that has barely changed in 3,000 years. China is so wide that the sun rises two hours earlier in the east.",
   "facts": [
     {
       "label": "Capital",
@@ -62,38 +62,38 @@
     "wows": "China will blow your mind"
   },
   "geo": [
-    "China borders 14 countries — more than any other nation. The west is ruled by the Tibetan Plateau, the 'Roof of the World', where air is so thin lowlanders get dizzy walking. Three of Asia's greatest rivers — Yangtze, Yellow, and Mekong — are born here among glaciers.",
-    "Head east and land drops to fertile plains. The Yangtze is longer than the distance from London to New York and feeds 400 million people. The Gobi Desert up north spans an area bigger than Western Europe, yet a day's drive away lie lush rice paddies and bamboo forests thick enough to hide a panda."
+    "The Tibetan Plateau, the 'Roof of the World', fills the west. The air is so thin that visitors get dizzy walking. The Yangtze, Yellow and Mekong rivers begin here among glaciers.",
+    "The Yangtze flows east across fertile plains. It is longer than the distance from London to New York. It feeds 400 million people. The Gobi Desert in the north is bigger than Western Europe."
   ],
   "animals": [
-    "China's giant panda nearly vanished but wild numbers have climbed back to around 1,900 thanks to careful protection. They spend up to 14 hours munching bamboo — eating 12 kg daily — because bamboo is so low in nutrition it is basically leafy cardboard.",
-    "The Yangtze holds the Chinese giant salamander, the world's largest amphibian, which can grow as long as a human is tall and breathes partly through wrinkly skin. High on the Tibetan plateau, the snow leopard hunts wild sheep; as few as 4,000 are thought to survive across all of Asia."
+    "Giant pandas nearly vanished. Careful protection has raised wild numbers to about 1,900. Pandas munch bamboo all day, but it is basically leafy cardboard.",
+    "The Chinese giant salamander is the world's largest amphibian. Snow leopards hunt wild sheep on the Tibetan plateau. As few as 4,000 survive."
   ],
   "culture": [
-    "Chinese New Year triggers the world's biggest annual migration — hundreds of millions travel home, filling every train and plane. Families hang red lanterns, set off fireworks to scare bad luck, and give children red envelopes stuffed with money. Each year is named after one of 12 animals in a repeating cycle.",
-    "China invented paper, printing, gunpowder, and the compass — four things that changed the world. Food varies wildly: Sichuan cuisine is tongue-numbing spicy, Cantonese is delicate and steamed, northern chefs pull noodles by hand in seconds. Tea was discovered here 5,000 years ago and China is still the planet's top producer."
+    "Chinese New Year sparks the world's biggest yearly trip home. Families set off fireworks to scare away bad luck. Children get red envelopes full of money.",
+    "China invented paper, printing, gunpowder and the compass. Sichuan cooking is tongue-numbing hot. Tea was found here 5,000 years ago."
   ],
   "history": [
-    "China's history stretches 5,000 years. Emperor Qin Shi Huang unified rival kingdoms in 221 BC and ordered a wall across the north to stop invaders. He buried 8,000 life-sized terracotta soldiers with him — each face unique — rediscovered by farmers in 1974.",
-    "For centuries China was the richest country on Earth, trading silk and porcelain along the Silk Road to Rome. Dynasties rose and fell — Han, Tang, Ming, Qing. In 1949 the People's Republic was founded; today China has the world's second-largest economy."
+    "Emperor Qin Shi Huang joined rival kingdoms into one in 221 BC. He ordered a wall across the north. He was buried with 8,000 life-sized terracotta soldiers. Farmers found them in 1974.",
+    "For centuries China was the richest country on Earth. It sent silk and porcelain along the Silk Road. The People's Republic began in 1949. Now China has the world's second-largest economy."
   ],
   "wows": [
-    "China shares a border with 14 countries — more than any other nation on the planet.",
-    "China's high-speed rail network tops 50,000 km — longer than all other countries combined.",
-    "The Three Gorges Dam is Earth's largest power station, supplying power to tens of millions.",
-    "China used more cement in three years than the USA used in the entire 20th century.",
-    "A panda's 'thumb' is actually an enlarged wrist bone — evolution's trick for gripping bamboo.",
-    "Written Chinese is understood across dialects that sound completely different when spoken.",
-    "All of China runs on one time zone despite spanning the width of five normal ones."
+    "China shares a border with 14 countries, more than any other nation.",
+    "China's high-speed rail tops 50,000 km.",
+    "The Three Gorges Dam is Earth's largest power station.",
+    "China used more cement in three years than the USA did in the 20th century.",
+    "A panda's 'thumb' is really an enlarged wrist bone.",
+    "People who speak different dialects can all read written Chinese.",
+    "All of China uses one time zone, though it is as wide as five."
   ],
   "myths": [
     {
       "myth": "The Great Wall is visible from space",
-      "fact": "Astronauts consistently report they cannot see it with the naked eye — it is long but only about 5 metres wide, far too thin to spot from orbit without a lens."
+      "fact": "Astronauts say they cannot spot it with the naked eye. It is long, but only about 5 metres wide."
     },
     {
       "myth": "Fortune cookies are Chinese",
-      "fact": "Fortune cookies were created by Japanese immigrants in early 20th-century California and are virtually unknown inside China itself."
+      "fact": "Japanese immigrants made the first fortune cookies in California in the early 1900s."
     }
   ],
   "words": [

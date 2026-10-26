@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Austria is a small, landlocked country in the heart of Europe, ringed by the towering Alps. Once the centre of a grand empire ruling much of Europe, today it is famous for soaring mountain scenery, grand concert halls, and pastries so good that the whole world borrowed its recipes — from croissants to apple strudel.",
+  "lead": "Austria is a small, landlocked country in the heart of Europe, ringed by the towering Alps. It once ruled a grand empire. Today it is famous for mountains, concert halls, and apple strudel.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go WOW"
   },
   "geo": [
-    "Austria is almost entirely covered by the Alps, with snow-capped peaks, deep green valleys, and glacial lakes. The Danube River — made famous by a waltz — flows through the northern lowlands and past Vienna.",
-    "To the east the land flattens into the Vienna Basin, where most Austrians live and farm. Austria shares borders with eight countries, more neighbours than almost any nation its size."
+    "The Alps cover almost all of Austria, with snow-capped peaks, green valleys, and glacial lakes. The Danube River, made famous by a waltz, flows through the north and past Vienna.",
+    "In the east the land flattens into the Vienna Basin, where most Austrians live and farm. Austria shares borders with eight countries, more than almost any nation its size."
   ],
   "animals": [
-    "The high Alps are home to the chamois, a sure-footed mountain antelope that leaps between rocky ledges, and the ibex with its enormous curved horns. Golden eagles soar overhead on the mountain thermals.",
-    "In the forests below, red deer, brown bears, and lynx roam quietly. The white Lipizzan horses — famous for their breathtaking dancing displays — were bred in Austria and remain a proud national symbol."
+    "The chamois, a sure-footed mountain antelope, leaps between rocky ledges. The ibex has enormous curved horns. Golden eagles soar overhead.",
+    "In the forests below, red deer, brown bears, and lynx roam quietly. White Lipizzan horses, famous for their dancing displays, were bred in Austria."
   ],
   "culture": [
-    "Austria gave the world some of its greatest composers — Mozart was born in Salzburg, and the Strauss family invented the waltz. Vienna's concert halls still sell out every night with music lovers.",
-    "Austrians take coffee very seriously. The Viennese coffeehouse — a cosy café where people linger over a Melange and a slice of Sachertorte — is UNESCO intangible cultural heritage."
+    "Austria gave the world great composers. Mozart was born in Salzburg, and the Strauss family invented the waltz. Vienna's concert halls sell out every night.",
+    "Austrians take coffee seriously. In a Viennese coffeehouse, people linger over a Melange and a slice of Sachertorte. UNESCO lists this café culture as heritage."
   ],
   "history": [
-    "Austria was the heartland of the Habsburg dynasty, which ruled a vast empire across Central Europe for over 600 years. At its peak the empire stretched from Spain to Hungary, making Vienna one of the world's most powerful cities.",
-    "After World War I the empire collapsed and Austria became a republic. Absorbed by Nazi Germany in 1938, then liberated in 1945, Austria declared permanent neutrality in 1955 — a promise it still keeps today."
+    "Austria was the heartland of the Habsburg dynasty. It ruled a vast empire in Central Europe for over 600 years.",
+    "After World War I the empire collapsed and Austria became a republic. Nazi Germany took it in 1938, and it was liberated in 1945. In 1955 Austria declared permanent neutrality, a promise it still keeps."
   ],
   "wows": [
-    "Mozart wrote his first symphony aged eight — in London, not Salzburg, while on a European family tour.",
-    "Austria invented the croissant — Vienna's bakers created it, and France later made it world-famous.",
+    "Mozart wrote his first symphony aged eight, in London, on a family tour.",
+    "Vienna's bakers made the kipferl, the crescent roll behind the croissant.",
     "Vienna's New Year's Concert is broadcast to over 150 countries every 1 January.",
-    "Großglockner High Alpine Road rises so steeply that drivers pass through four distinct climate zones.",
-    "Austria is one of the top nations on Earth for Winter Olympic medals per person.",
+    "The Großglockner High Alpine Road passes through four climate zones.",
+    "Austria is one of the top nations for Winter Olympic medals per person.",
     "Vienna's Spanish Riding School has trained Lipizzan horses the same way for over 450 years.",
-    "Red Bull was invented in Austria in 1987 after its founder tried a similar drink in Thailand."
+    "Red Bull was invented in Austria in 1987, inspired by a drink from Thailand."
   ],
   "myths": [
     {
-      "myth": "Austria and Australia are the same place",
-      "fact": "Austria is a small landlocked country in Central Europe; Australia is a continent-island on the other side of the planet, about 140 times bigger and surrounded by ocean."
+      "myth": "Austria is the same as Australia",
+      "fact": "Australia is over 90 times bigger. Kangaroos live there, not in Austria."
     },
     {
-      "myth": "Mozart was German",
-      "fact": "Mozart was born in 1756 in Salzburg, which is very much in Austria — and Austrians are extremely proud of him."
+      "myth": "The Sound of Music is a hit in Austria",
+      "fact": "The film is little known there. Tourists ask about it more than locals do."
     }
   ],
   "words": [

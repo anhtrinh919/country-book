@@ -24,7 +24,7 @@
     "keyColor": "#006600",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Portugal sits at Europe's western edge, where the Atlantic begins. Portuguese sailors once mapped half the globe; their language is spoken by 260 million people today. Famous for golden beaches, fado music, and cork trees supplying half the world's bottle stoppers — its borders are Europe's oldest, nearly unchanged since 1139.",
+  "lead": "Portugal sits at the western edge of Europe, where the Atlantic begins. Its sailors once mapped half the globe. Today 260 million people speak Portuguese. Its borders have barely changed since 1139.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "KEY REGIONS:",
   "sections": {
-    "geography": "Where the land meets the sea",
-    "animals": "Wild hearts of Iberia",
+    "geography": "Where land meets the sea",
+    "animals": "Lynx, wolves & cork forests",
     "culture": "Fado, tiles & football",
     "history": "Sailors who mapped the world",
-    "wows": "Portugal's wow moments"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Portugal stretches down the Iberian Peninsula's western edge with 832 km of Atlantic coastline. The north is green and hilly, soaked by Atlantic rain; the south bakes under Mediterranean sun, with golden cliffs tumbling into turquoise water.",
-    "Far offshore, Portugal also owns the Azores — volcanic islands 1,500 km west — and lush Madeira, closer to Morocco than Lisbon. Its highest peak, Mount Pico, is a dormant volcano rising straight from the sea."
+    "Portugal runs down the west side of the Iberian Peninsula. It has 832 km of Atlantic coast. The north is green and rainy. The south is sunny, with golden cliffs.",
+    "Far out at sea lie the Azores, volcanic islands 1,500 km west. Madeira is closer to Morocco than Lisbon. Mount Pico, Portugal's highest peak, is a sleeping volcano."
   ],
   "animals": [
-    "The Iberian lynx prowls cork-oak forests on oversized paws, ears swivelling for rabbits. Once nearly extinct (fewer than 100 in 2002), breeding programmes brought it back to over 1,600 animals across Portugal and Spain.",
-    "The Iberian wolf — leaner and darker than northern cousins, with striped legs — hunts in small packs through misty highlands north of the Douro. About 300 survive in Portugal, protected by law since 1988."
+    "The Iberian lynx prowls cork-oak forests on big paws. In 2002, fewer than 100 were left. Breeding brought them back to over 1,600 in Portugal and Spain.",
+    "The Iberian wolf has striped legs and hunts in small packs north of the Douro. About 300 live in Portugal. A law has protected them since 1988."
   ],
   "culture": [
-    "Blue-and-white azulejo tiles coat church walls, railway stations, and houses — a tradition from Moorish rulers 500 years ago. Fado is music that aches beautifully: one singer, a guitar, and saudade — longing for something you can't quite name.",
-    "Football is a religion, with Benfica, Porto, and Sporting in eternal rivalry. The pastéis de nata — a tiny custard tart with a scorched top, invented by Lisbon monks in the 1800s — is eaten by millions daily."
+    "Blue-and-white azulejo tiles cover churches and houses. The Moors began this tradition 500 years ago. Fado is music full of saudade, a longing for something you cannot name.",
+    "Benfica, Porto, and Sporting are old football rivals. Lisbon monks invented pastéis de nata, tiny custard tarts, in the 1800s. Millions eat them daily."
   ],
   "history": [
-    "Portugal became a kingdom in 1139 — one of Europe's oldest nations. In the 1400s its sailors launched the Age of Discovery: Vasco da Gama reached India by sea; Pedro Álvares Cabral landed in Brazil. The empire spanned four continents.",
-    "The 1755 Lisbon earthquake flattened the capital and triggered a tsunami felt across Europe. The city was rebuilt in a bold grid within years. In 1974 the peaceful Carnation Revolution ended dictatorship — named for flowers placed in soldiers' rifle barrels."
+    "Portugal became a kingdom in 1139. In the 1400s, its sailors began the Age of Discovery. Vasco da Gama reached India by sea. Pedro Álvares Cabral landed in Brazil. The empire spanned four continents.",
+    "In 1755, an earthquake flattened Lisbon and sent a tsunami across Europe. The city was rebuilt in a grid within years. In 1974, the Carnation Revolution ended a dictatorship peacefully."
   ],
   "wows": [
-    "Portugal produces roughly half the world's cork, stripped from living trees by hand every nine years.",
-    "Lisbon was founded around 1200 BC — four centuries before Rome was even built.",
-    "In early 2025 Portugal generated over 80% of its electricity from renewables in a single quarter.",
-    "The world's oldest operating bookshop, Livraria Bertrand in Lisbon, has been open since 1732.",
-    "Portugal's borders have barely shifted since 1139 — oldest in continental Europe.",
-    "Portuguese is the official language of nine countries across four continents.",
-    "The 1974 Carnation Revolution was so peaceful that protesters placed flowers in soldiers' rifle barrels."
+    "Portugal makes half the world's cork, peeled by hand every nine years.",
+    "Lisbon was founded around 1200 BC, four centuries before Rome.",
+    "In early 2025, renewables made over 80% of Portugal's power in one quarter.",
+    "Livraria Bertrand in Lisbon, open since 1732, is the world's oldest bookshop.",
+    "Portugal's borders are the oldest in continental Europe.",
+    "Portuguese is official in nine countries on four continents.",
+    "In 1974, people put flowers in soldiers' rifle barrels."
   ],
   "myths": [
     {
-      "myth": "Portugal is always warm and sunny",
-      "fact": "Porto is wetter than London in winter. Heavy Atlantic rain soaks the north; even the Algarve gets rainy spells. Only the far south earns the postcard weather."
+      "myth": "Lisbon is built on flat land",
+      "fact": "Lisbon sits on seven hills. Yellow trams climb its steep streets."
     },
     {
       "myth": "Portuguese is just Spanish with an accent",
-      "fact": "They share Latin roots but sound very different. A Spanish speaker cannot automatically understand European Portuguese — the two are distinct languages."
+      "fact": "They share Latin roots but sound very different. Many Spanish speakers cannot follow spoken Portuguese."
     }
   ],
   "words": [

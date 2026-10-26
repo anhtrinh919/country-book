@@ -2,7 +2,7 @@
   "name": "SOUTH SUDAN",
   "nativeName": "SS",
   "romaji": "SOUTH SUDAN",
-  "tagline": "Africa's Newest Nation",
+  "tagline": "World's newest country",
   "region": "East Africa",
   "coords": "4.86°N, 31.57°E",
   "fileNo": "193",
@@ -24,7 +24,7 @@
     "keyColor": "#078930",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "South Sudan became the world's newest country on 9 July 2011, when nearly 99% of its people voted to break free from Sudan. The White Nile winds through vast papyrus swamps, cool highland forests rise in the south-east, and over 60 peoples speak their own languages. A remarkable nation still finding its feet.",
+  "lead": "South Sudan became the world's newest country on 9 July 2011. Nearly 99% of voters chose to break away from Sudan. The White Nile winds through huge papyrus swamps. Over 60 peoples speak their own languages.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Giants of the migration",
     "culture": "Cattle, song & celebration",
     "history": "A long road to freedom",
-    "wows": "Seven wild wows"
+    "wows": "7 wild wows"
   },
   "geo": [
-    "South Sudan sits on a vast flat basin drained by the White Nile. The Sudd — one of Earth's largest wetlands — swells bigger than Belgium in the wet season, becoming a maze of papyrus reeds, floating islands and pelican-filled lagoons.",
-    "In the south-east the land climbs to cool forested highlands where Mount Kinyeti reaches 3,187 m. Six countries share a border with South Sudan: Sudan, Ethiopia, Kenya, Uganda, DR Congo and Central African Republic."
+    "South Sudan lies on a flat basin drained by the White Nile. In the wet season, the Sudd swamp grows bigger than Belgium. It is a maze of papyrus reeds and floating islands.",
+    "In the south-east, the land climbs to cool, forested hills. Mount Kinyeti reaches 3,187 m. Six countries border South Sudan: Sudan, Ethiopia, Kenya, Uganda, DR Congo and Central African Republic."
   ],
   "animals": [
-    "The Sudd shelters the shoebill — a prehistoric-looking bird with a clog-shaped beak big enough to gulp a whole lungfish. The swampy flats are also home to the Nile lechwe, a chocolate antelope that wades chest-deep in water and lives almost nowhere else on Earth.",
-    "Every year around a million white-eared kob thunder across the Boma-Badingilo plains in one of the planet's biggest mammal migrations. Elephants, giraffes, lions and 400-plus bird species share this extraordinary landscape."
+    "The shoebill is a bird with a huge clog-shaped beak. It can gulp a whole lungfish.",
+    "Each year, around a million white-eared kob cross the Boma-Badingilo plains. It is one of the biggest animal migrations on Earth."
   ],
   "culture": [
-    "The Dinka — South Sudan's largest group — are devoted cattle-keepers. A family's herd is its bank account and wedding gift. Young men can name their favourite ox by its exact horn curve and coat pattern.",
-    "Music and wrestling fill celebrations. Women stack beaded necklaces from chin to chest; men mark their foreheads with V-shaped scars showing community ties. Sorghum porridge and fresh Nile fish are everyday staples."
+    "The Dinka are South Sudan's largest group. They are devoted cattle-keepers. A family's herd is its bank and its wedding gift. Young men know their favourite ox by its horns and coat.",
+    "Music and wrestling fill celebrations. Women wear stacks of beaded necklaces. Some men mark their foreheads with V-shaped scars."
   ],
   "history": [
-    "South Sudan's people fought for independence for over 50 years. When Sudan became independent in 1956, southern leaders were sidelined. A civil war raged on and off for decades, costing over a million lives and uprooting four million people.",
-    "Peace came in 2005, and on 9 July 2011 South Sudan raised its new flag — black, red, green and blue with a golden star — becoming Africa's 54th nation. Building stability remains a challenge, but its people's resolve is extraordinary."
+    "South Sudan's people fought for freedom for over 50 years. Sudan became independent in 1956, and southern leaders were left out. A long civil war cost over a million lives.",
+    "Peace came in 2005. On 9 July 2011, South Sudan raised a new flag with a golden star. It became Africa's 54th nation."
   ],
   "wows": [
     "South Sudan is the world's youngest country, born on 9 July 2011.",
-    "The Sudd swamp grows bigger than England during the rainy season.",
-    "About 75% of the old Sudan's oil reserves lie under South Sudan's plains.",
-    "The Boma kob migration may involve a million animals, rivalling the Serengeti.",
-    "Over 60 ethnic groups live here, speaking roughly 60 different languages.",
-    "Mount Kinyeti's forests feel like a different world from the hot Nile plains below.",
-    "The shoebill stands 1.5 m tall and belongs to a bird family entirely its own."
+    "The Sudd swamp grows bigger than England in the rainy season.",
+    "About 75% of the old Sudan's oil lies under South Sudan.",
+    "The Boma kob migration may include a million animals, like the Serengeti.",
+    "Over 60 ethnic groups live here and speak about 60 languages.",
+    "Mount Kinyeti's forests feel like another world from the hot Nile plains.",
+    "The shoebill stands 1.5 m tall and belongs to a bird family of its own."
   ],
   "myths": [
     {
-      "myth": "South Sudan is all desert like the north",
-      "fact": "Most of the country is tropical: lush savannas, dense highland forests, and one of Africa's largest swamps cover the land — very little desert exists at all."
+      "myth": "The Nile begins in Egypt",
+      "fact": "The Nile flows north. Its water starts far south, near Lake Victoria, and reaches Egypt last."
     },
     {
-      "myth": "Independence was purely about oil",
-      "fact": "Oil helped fund the movement, but decades of cultural, religious and political exclusion drove the push for freedom long before large-scale oil production began."
+      "myth": "Ancient Egyptian paper came from tree bark",
+      "fact": "Papyrus paper came from the stems of a tall reed. Huge beds of it still grow in the Sudd."
     }
   ],
   "words": [

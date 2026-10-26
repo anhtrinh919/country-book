@@ -24,7 +24,7 @@
     "keyColor": "#FF7F00",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Bhutan is a tiny kingdom hidden in the Himalayas between India and China. Its people call it Druk Yul — Land of the Thunder Dragon. Bhutan measures success not just by money but by happiness. It is famous for clifftop monasteries, clean rivers, and snow-capped peaks that touch the clouds.",
+  "lead": "Bhutan is a small kingdom in the Himalayas, between India and China. Its people call it Druk Yul, the Land of the Thunder Dragon. Bhutan measures success by happiness, not just money. It has monasteries on cliffs, clean rivers, and snowy peaks that touch the clouds.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Takins, tigers & red pandas",
     "culture": "Happiness, archery & red rice",
     "history": "Thunder kings & fortress forts",
-    "wows": "7 surprises about Bhutan"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Bhutan is almost entirely mountains. The Himalayas stack up in the north — icy peaks above 7,000 m — while subtropical jungle grows in the warm southern valleys. Three rivers carve deep gorges, fed by melting glaciers year-round.",
-    "About 72% of Bhutan is covered in trees, making it one of the most forested nations on Earth. The country absorbs more carbon dioxide than it produces, making it officially carbon-negative."
+    "Bhutan is almost all mountains. In the north, the Himalayas rise in icy peaks above 7,000 m. In the warm south, jungle grows in the valleys. Three rivers carve deep gorges. Melting glaciers feed them all year.",
+    "About 72% of Bhutan is covered in trees. That makes it one of the most forested countries on Earth. Bhutan takes in more carbon dioxide (a gas that warms the Earth) than it makes. So it is officially carbon-negative."
   ],
   "animals": [
-    "Bhutan's national animal is the takin — a shaggy beast that looks like someone stitched a cow's body onto a goat's head. Legend says a Buddhist saint created it from the bones of both animals at a feast.",
-    "Snow leopards prowl the high peaks, while Bengal tigers have been camera-trapped at 4,000 m. Red pandas curl in bamboo forests, and the sacred black-necked crane winters each year in Phobjikha Valley."
+    "Bhutan's national animal is the takin. It looks like a cow's body with a goat's head. Legend says a Buddhist saint made it from the bones of both animals at a feast. Imagine that shaggy beast on a mountain!",
+    "Snow leopards prowl the high peaks. Hidden cameras have filmed Bengal tigers at 4,000 m. Red pandas curl up in bamboo forests. Sacred black-necked cranes spend each winter in Phobjikha Valley."
   ],
   "culture": [
-    "Bhutan measures wellbeing by Gross National Happiness, balancing economy, environment, culture, and governance. Archery is the national sport — competitions are loud festivals with music, dancing, and cheerful teasing when opponents miss.",
-    "Men wear a knee-length robe called a gho; women wear the woven kira dress. Red rice and chilli cheese (ema datshi) are daily staples. Huge whitewashed dzongs serve as both government offices and monasteries."
+    "Bhutan measures wellbeing by Gross National Happiness. It balances the economy, nature, culture, and good government. Archery is the national sport. Matches are loud festivals with music and dancing. Players tease the other team when they miss.",
+    "Men wear a knee-length robe called a gho. Women wear a woven dress called a kira. People eat red rice and chilli and cheese (ema datshi) every day. Huge whitewashed dzongs are both government offices and monasteries."
   ],
   "history": [
-    "Bhutan was unified in the 1600s by monk-warrior Zhabdrung Ngawang Namgyal, who built fortress-dzongs to defend each valley. He created laws and dress codes still followed today. Bhutan was never colonised.",
-    "In 2008 Bhutan became a constitutional democracy, though the king remains deeply beloved. Television and internet only arrived in 1999. Tourism opened in 1974 with strict limits to protect culture and forests."
+    "In the 1600s, the monk-warrior Zhabdrung Ngawang Namgyal unified Bhutan. He built fortress-dzongs to guard each valley. He made laws and dress codes that people still follow. Bhutan was never colonised (ruled by another country).",
+    "Bhutan became a constitutional democracy in 2008. The king is still deeply loved. Television and internet only arrived in 1999. Tourism opened in 1974, with strict limits to protect culture and forests."
   ],
   "wows": [
-    "Bhutan is carbon-negative — its forests soak up far more CO₂ than the whole country produces.",
-    "Gangkhar Puesum is Earth's tallest unclimbed peak; Bhutan bans summit bids to respect mountain spirits.",
-    "TV and internet only switched on in 1999 — both launched on the same day, the king's coronation anniversary.",
-    "Gross National Happiness is written into Bhutan's constitution as the official measure of progress.",
-    "Thimphu is the only capital in the world without traffic lights — police direct every junction by hand.",
-    "Tigers have been photographed at 4,000 m altitude — higher than almost anywhere else on Earth.",
-    "Every building in Bhutan must follow traditional architecture by law — no glass towers allowed."
+    "Bhutan is carbon-negative, because its forests soak up more CO₂ than the country makes.",
+    "Gangkhar Puesum is the tallest unclimbed peak on Earth, and climbing it is banned.",
+    "TV and internet both switched on the same day in 1999, the king's coronation anniversary.",
+    "Gross National Happiness is in Bhutan's constitution as the official measure of progress.",
+    "Thimphu is the only capital in the world with no traffic lights, so police direct every junction.",
+    "Tigers have been photographed at 4,000 m, higher than almost anywhere else on Earth.",
+    "A law says every building in Bhutan must follow traditional design, so there are no glass towers."
   ],
   "myths": [
     {
-      "myth": "Bhutan is the happiest country on Earth",
-      "fact": "GNH is a policy tool measuring balance across four pillars. Bhutan ranks outside the top 90 in the UN World Happiness Report, which uses different measures."
+      "myth": "Mount Everest is in Bhutan",
+      "fact": "Everest is on the border of Nepal and China. It is 8,849 m tall. All of Bhutan's peaks are lower."
     },
     {
-      "myth": "Bhutan is part of Nepal or Tibet",
-      "fact": "Bhutan is its own sovereign kingdom with its own language, royal family, and history — never ruled by Nepal, Tibet, or China."
+      "myth": "Red pandas are cousins of giant pandas",
+      "fact": "Red pandas are not close kin to giant pandas. They have a family of their own, closer to raccoons and weasels."
     }
   ],
   "words": [

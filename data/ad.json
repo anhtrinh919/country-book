@@ -24,7 +24,7 @@
     "keyColor": "#003DA5",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Andorra is a tiny mountain country tucked between France and Spain — drive across it in 30 minutes. Ruled by two princes at once, a French president and a Spanish bishop, it has sat in the Pyrenees for 700+ years. Millions come for ski slopes and bargain shopping, making it one of the most-visited countries per person on Earth.",
+  "lead": "Andorra is a tiny country in the Pyrenees mountains, between France and Spain. You can drive across it in 30 minutes. Two princes rule it at once: the French president and a Spanish bishop. This has lasted over 700 years.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN PARISHES:",
   "sections": {
-    "geography": "A land of sky-high valleys",
+    "geography": "Valleys high in the sky",
     "animals": "Wild neighbours on the peaks",
     "culture": "Bargains, spas & old churches",
     "history": "Two princes, one tiny nation",
-    "wows": "Seven head-scratchers"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Andorra sits entirely inside the Pyrenees, with an average height of nearly 2,000 m — roughly as tall as Table Mountain in South Africa. Every town is in a valley carved by rivers, and forests of pine and fir cover the slopes between them.",
-    "Its two main rivers rush down through rocky gorges before crossing into Spain. Because mountains ring it completely, Andorra has no coastline, no port, and no airport — visitors must drive in over mountain passes from France or Spain."
+    "Andorra sits inside the Pyrenees mountains. Its average height is nearly 2,000 m. Rivers carved every valley, and pine and fir forests cover the slopes.",
+    "Two main rivers rush down rocky gorges into Spain. Mountains ring Andorra, so it has no coast, port, or airport. Visitors drive in over mountain passes."
   ],
   "animals": [
-    "The bearded vulture — called the lammergeier — is Andorra's national bird. It has a wingspan wider than a family sofa and does something no other bird does: it eats bones, dropping them from great heights onto rocks to crack them open for the marrow inside.",
-    "The isard, a goat-antelope related to the chamois, bounds across snowy ridges at up to 3,000 m. Sturdy and sure-footed, it wears a dark mask like a cartoon bandit. Golden eagles and wild boar also roam the forested hillsides below."
+    "The bearded vulture (lammergeier) is Andorra's national bird. Its wings are wider than a family sofa. It lives mostly on bones. It drops them onto rocks to crack them open.",
+    "The isard is a goat-antelope that bounds over snowy ridges up to 3,000 m. A dark mask makes it look like a cartoon bandit."
   ],
   "culture": [
-    "Andorra's people speak Catalan, the same language used in Barcelona. The old quarter of Andorra la Vella holds Romanesque stone churches built nearly 900 years ago, including Sant Esteve, which still rings its bells each morning.",
-    "Every September, parishes celebrate with folk dances and giant paper-mâché figures called gegants. The thermal spa Caldea — shaped like a glittering glass rocket — lets visitors soak in Pyrenean spring water at Europe's largest spa complex."
+    "People in Andorra speak Catalan. Romanesque stone churches in Andorra la Vella are nearly 900 years old. Sant Esteve still rings its bells each morning.",
+    "Every September, parishes celebrate with folk dances and giant paper-mâché figures called gegants. Caldea, a spa shaped like a glass rocket, is Europe's largest spa complex."
   ],
   "history": [
-    "A peace deal in 1278 settled a quarrel between the Bishop of Urgell and the Count of Foix: instead of one winner, they agreed to share Andorra equally. That treaty, called a paréage, created a co-principality that has never been dissolved.",
-    "When Henry IV became King of France in 1607, the co-prince title passed to every French president that followed. Andorra finally got its first written constitution in 1993, signed by President Mitterrand and the Bishop of Urgell."
+    "In 1278 the Bishop of Urgell and the Count of Foix quarrelled over Andorra. They agreed to share it equally. This deal, a paréage, made a co-principality that has never ended.",
+    "In 1607 Henry IV became King of France. The co-prince title then passed to every French president. Andorra's first written constitution came in 1993."
   ],
   "wows": [
-    "Andorra has TWO heads of state — the French president AND a Spanish bishop both serve as co-prince.",
-    "It is the only country where Catalan is the sole official national language.",
-    "Andorra la Vella is the highest capital city in all of Europe at 1,023 m above sea level.",
-    "Andorra has no army and has been at peace for over 700 years, relying on France and Spain for defence.",
-    "Grandvalira ski resort is the largest skiable area in the entire Pyrenean mountain range.",
-    "Andorra charges just 4.5% sales tax — 20–40% cheaper than in France or Spain next door.",
-    "Tiny Andorra gets over 8 million tourists a year — nearly 100 visitors for every one resident."
+    "Two co-princes lead Andorra: the French president and a Spanish bishop.",
+    "Andorra is the only country where Catalan is the sole official language.",
+    "At 1,023 m above sea level, Andorra la Vella is Europe's highest capital.",
+    "Andorra has no army and has been at peace for over 700 years.",
+    "Grandvalira is the largest ski area in the whole Pyrenees.",
+    "Sales tax is just 4.5%, so goods cost 20–40% less than next door.",
+    "Over 8 million tourists visit yearly, nearly 100 for every resident."
   ],
   "myths": [
     {
-      "myth": "Andorra is part of Spain or France",
-      "fact": "It is fully independent with its own government, parliament, laws, and passport, separate from both neighbours since 1278."
+      "myth": "The Pyrenees are Europe's tallest mountains",
+      "fact": "The Alps are taller. Mont Blanc is 4,807 m. The top Pyrenean peak, Aneto, is 3,404 m."
     },
     {
-      "myth": "You need French to visit Andorra",
-      "fact": "The official language is Catalan; Spanish is widely used too, and most shopkeepers speak English — French ranks third in daily life."
+      "myth": "You can take a train to Andorra",
+      "fact": "Andorra has no railway. The nearest stations are in France and Spain."
     }
   ],
   "words": [

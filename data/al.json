@@ -24,7 +24,7 @@
     "keyColor": "#D21034",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Albania is a small country on the Adriatic Sea, squeezed between mountains and turquoise water. Its Albanian name — Shqipëria — means \"Land of the Eagles,\" and a fierce black double-headed eagle soars across its red flag. Ancient castles, Ottoman bazaars, and hidden beaches crowd into a country barely bigger than Wales.",
+  "lead": "Albania is a small country on the Adriatic Sea, squeezed between mountains and turquoise water. In Albanian, its name Shqipëria means Land of the Eagles. A black two-headed eagle flies on its red flag. Ancient castles, Ottoman bazaars, and hidden beaches fill the land.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Did you know?"
   },
   "geo": [
-    "Almost all of Albania is mountains and hills. The Albanian Alps in the north are so rugged that villages were cut off for centuries. Three dazzling national lakes — Shkodër, Ohrid, and Prespa — shimmer along the borders.",
-    "The coast stretches 476 km of Adriatic and Ionian Sea, with brilliant turquoise beaches. The Vjosë River, one of Europe's last wild rivers, flows entirely free without a single dam — and in 2023 became Europe's first Wild River National Park."
+    "Mountains and hills cover almost all of Albania. The northern Albanian Alps are so rugged that villages stayed cut off for centuries. Three big lakes, Shkodër, Ohrid, and Prespa, lie along the borders.",
+    "The coast stretches 476 km along the Adriatic and Ionian Seas. The Vjosë River flows free without a single dam. In 2023 it became Europe's first Wild River National Park."
   ],
   "animals": [
-    "The golden eagle is Albania's national animal and flag star. Brown bears roam the northern highlands; wolves and lynx hide in beech forests. Prespa Lakes host Europe's largest Dalmatian pelican colony — birds with wingspans wider than a tall adult.",
-    "The Ionian coast shelters nesting loggerhead sea turtles. Ohrid trout, found only in Lake Ohrid, has its own protected status. Even flamingos visit Narta Lagoon each winter."
+    "The golden eagle is Albania's national animal. Brown bears roam the northern highlands. Wolves and lynx hide in beech forests. Prespa Lakes have Europe's largest Dalmatian pelican colony.",
+    "Loggerhead sea turtles nest on the Ionian coast. Ohrid trout live only in Lake Ohrid and are protected. Flamingos visit Narta Lagoon each winter."
   ],
   "culture": [
-    "Albania runs on an ancient honour code called Besa — your word is your bond. Traditional music features iso-polyphony, where voices weave haunting multi-part harmonies; UNESCO lists it as intangible heritage.",
-    "Tirana is one of Europe's most colourful capitals — a mayor ordered every grey communist block painted in vivid murals. Byrek (flaky cheese pastry), tavë kosi (baked lamb with yoghurt), and strong espresso fuel daily life."
+    "Albanians live by an old honour code called Besa. Your word is your bond. In iso-polyphony, voices weave haunting harmonies. UNESCO lists this music as heritage.",
+    "A mayor had grey communist blocks in Tirana painted with bright murals. People eat byrek (flaky cheese pastry) and tavë kosi (baked lamb with yoghurt)."
   ],
   "history": [
-    "The Illyrians built hilltop forts here 2,500 years ago. After Romans and Byzantines, the Ottomans ruled for nearly 500 years from 1479. Hero Skanderbeg held off the Ottoman army for 25 years, inspiring all of Europe.",
-    "Independence came in 1912. Dictator Enver Hoxha then sealed Albania off from the world, banning religion and building 173,000 bunkers. Many now serve as cafés and museums. Albania joined NATO in 2009."
+    "Illyrians built hilltop forts here 2,500 years ago. The Ottomans ruled for nearly 500 years from 1479. Hero Skanderbeg held off their army for 25 years.",
+    "Independence came in 1912. Dictator Enver Hoxha sealed Albania off from the world and built 173,000 bunkers. Many are now cafés and museums. Albania joined NATO in 2009."
   ],
   "wows": [
-    "Albania has more bunkers per km² than any country — about one for every 14 people.",
-    "In Albania, nodding means NO and shaking your head means YES — the opposite of most countries.",
-    "Shqipëria means Land of the Eagles — a name used only in Albanian, found in no other language on Earth.",
-    "Gjirokastër is a UNESCO city where every roof is made of flat stone slabs, not clay tiles.",
-    "Lake Ohrid is one of the world's oldest lakes — over 1.3 million years old.",
-    "Albania ended WWII with more Jews than it started with — the only Nazi-occupied land to do so.",
-    "The Albanian Alps hold villages where a 600-year-old law code called the Kanun still guides life."
+    "No country has more bunkers per km² than Albania.",
+    "In Albania, nodding means no and shaking your head means yes.",
+    "Only Albanians call their country Shqipëria.",
+    "UNESCO city Gjirokastër has roofs of flat stone slabs, not clay tiles.",
+    "Lake Ohrid is over 1.3 million years old, one of the oldest lakes.",
+    "Albania ended World War II with more Jews than it started with.",
+    "A 600-year-old law code, the Kanun, still guides some Alpine villages."
   ],
   "myths": [
     {
-      "myth": "Albania is dangerous to visit",
-      "fact": "Albania ranks among Europe's safest destinations. Violent crime is very low and locals treat guests like family under the Besa code of honour."
+      "myth": "Albania is in the European Union",
+      "fact": "Albania is a candidate, not a member. It has been one since 2014."
     },
     {
-      "myth": "Albanian and Greek are related languages",
-      "fact": "Albanian is its own unique language family, descended from ancient Illyrian roots — completely unrelated to Greek, Latin, or any Slavic tongue."
+      "myth": "Mother Teresa was born in India",
+      "fact": "She was born in Skopje to an Albanian family. Tirana's airport carries her name."
     }
   ],
   "words": [

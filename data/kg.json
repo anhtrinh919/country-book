@@ -24,7 +24,7 @@
     "keyColor": "#E8102A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Kyrgyzstan is a tiny landlocked country deep in Central Asia, almost entirely made of mountains. Snow-capped peaks stretch in every direction, and nomadic herders still ride horses across vast grassy valleys. One of Earth's most dramatic landscapes — and one of its best-kept secrets.",
+  "lead": "Kyrgyzstan is a small country in Central Asia with no coast. Almost all of it is mountains. Snow-capped peaks stretch in every direction. Nomadic herders still ride horses across wide grassy valleys.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Eagles, horses & leopards",
     "culture": "Yurts, felt & epic tales",
     "history": "Nomads, Silk Road & freedom",
-    "wows": "Seven surprises"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "About 90% of Kyrgyzstan is mountains — mostly the mighty Tian Shan range, meaning \"Heavenly Mountains.\" Valleys between them fill with summer meadows where families set up round felt tents called yurts, just as their ancestors did a thousand years ago.",
-    "The jewel is Issyk-Kul, the world's second-largest alpine lake. It never freezes, because natural salts act as anti-freeze. On clear days you can see snow peaks perfectly reflected in its brilliant blue surface."
+    "About 90% of Kyrgyzstan is mountains, mostly the Tian Shan (“Heavenly Mountains”). Families set up round felt tents called yurts in summer meadows, as their ancestors did a thousand years ago.",
+    "Issyk-Kul is the world's second-largest alpine lake. It never freezes, because natural salts act as anti-freeze. Snow peaks reflect in its bright blue water."
   ],
   "animals": [
-    "The snow leopard prowls Kyrgyzstan's high peaks — around 550 live here, making it one of the best countries on Earth to protect them. Golden eagles are trained by skilled hunters, a partnership over 2,000 years old still practised today.",
-    "Wild Przewalski's horses once roamed these steppes; their domestic cousins are still central to Kyrgyz life. Kumiss — fermented mare's milk — is the national drink. The Marco Polo argali, world's largest wild sheep, grazes the high Pamir plateau."
+    "Around 550 snow leopards prowl Kyrgyzstan's high peaks. Skilled hunters train golden eagles. This partnership is over 2,000 years old and still practised today.",
+    "Wild Przewalski's horses once roamed these steppes (grassy plains). Kumiss, fermented mare's milk, is the national drink. The Marco Polo argali, the world's largest wild sheep, grazes the Pamir plateau."
   ],
   "culture": [
-    "Kyrgyz culture revolves around the yurt — a portable felt tent assembled in under an hour. The flag shows a top-down view of the yurt's crown (tunduk) inside a golden sun. Felt-making is UNESCO-listed intangible heritage.",
-    "The national epic Manas is 20 times longer than the Iliad and Odyssey combined. Storytellers called manaschi recite it for hours from memory. The World Nomad Games — hosted in Kyrgyzstan — features ancient sports like kok-boru, a horse-mounted game using a goat carcass."
+    "Kyrgyz culture revolves around the yurt, a felt tent put up in under an hour. The flag shows the yurt's crown (tunduk) inside a golden sun.",
+    "The national epic Manas is 20 times longer than the Iliad and Odyssey combined. The World Nomad Games include kok-boru, a horseback game played with a goat carcass."
   ],
   "history": [
-    "Kyrgyz tribes roamed Central Asia for over 2,000 years. The ancient Silk Road passed through these mountains, carrying Chinese silk and Persian spices. In the 13th century Genghis Khan's Mongol empire swept across the region, absorbing the Kyrgyz clans.",
-    "Russia absorbed Kyrgyzstan in the 1860s. When the Soviet Union collapsed in 1991, independence was declared on 31 August. Kyrgyzstan has since held relatively free elections, earning a reputation as Central Asia's most open democracy."
+    "Kyrgyz tribes roamed Central Asia for over 2,000 years. The ancient Silk Road crossed these mountains, carrying Chinese silk and Persian spices.",
+    "In the 13th century, Genghis Khan's Mongol empire absorbed the Kyrgyz clans. Russia took over Kyrgyzstan in the 1860s. The Soviet Union collapsed in 1991, and Kyrgyzstan declared independence on 31 August."
   ],
   "wows": [
-    "Issyk-Kul never freezes in winter; mineral salts in the water act as natural anti-freeze.",
-    "The epic poem Manas tops 500,000 lines — the longest epic poem in the world.",
-    "Kyrgyzstan has the world's second-highest average elevation — only the Tibetan Plateau sits higher overall.",
-    "Eagle hunters train golden eagles from chicks — a 2,000-year-old tradition still alive today.",
-    "The flag's sun has exactly 40 rays — one for each ancient tribe that Manas united to form the Kyrgyz nation.",
+    "Issyk-Kul never freezes, because mineral salts act as natural anti-freeze.",
+    "The epic poem Manas tops 500,000 lines, the longest epic poem in the world.",
+    "Arslanbob has the largest natural walnut forest in the world.",
+    "Eagle hunters train golden eagles from chicks, a 2,000-year-old tradition.",
+    "The flag's sun has 40 rays, one for each tribe Manas united.",
     "The World Nomad Games, invented here in 2014, are like the Olympics for horse culture.",
-    "Kyrgyzstan shelters over 550 snow leopards — roughly 10% of the entire world population."
+    "Kyrgyzstan has over 550 snow leopards, roughly 10% of the entire world population."
   ],
   "myths": [
     {
-      "myth": "Kyrgyzstan is in the Middle East",
-      "fact": "It sits firmly in Central Asia, bordering China to the east and Kazakhstan to the north — closer to Beijing than to Tehran."
+      "myth": "Kyrgyzstan is named after a man called Stan",
+      "fact": "The word stan means land in Persian. Kyrgyzstan means land of the Kyrgyz."
     },
     {
-      "myth": "Nomads live in yurts all year round",
-      "fact": "Most Kyrgyz live in modern houses; yurts are used seasonally on summer mountain pastures and at festivals."
+      "myth": "Snow leopards roar like lions",
+      "fact": "They cannot roar. They chuff, hiss, mew, and growl instead."
     }
   ],
   "words": [

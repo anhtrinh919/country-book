@@ -2,7 +2,7 @@
   "name": "BULGARIA",
   "nativeName": "БГ",
   "romaji": "BALGARIYA",
-  "tagline": "Roses, ruins & rose-red wine",
+  "tagline": "Roses, tombs & mountains",
   "region": "Eastern Europe",
   "coords": "42.7°N, 25.5°E",
   "fileNo": "BG",
@@ -24,7 +24,7 @@
     "keyColor": "#24693D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Bulgaria sits in the Balkans where ancient tombs hide under wheat fields and whole valleys bloom pink each May to make the world's finest rose oil. One of Europe's oldest countries — its name has barely changed since AD 681 — it packs snowy mountains, the Danube River, and a sparkling Black Sea coast all into a land smaller than Iceland.",
+  "lead": "Bulgaria is in the Balkans. Old tombs hide under its wheat fields. Every May, valleys bloom pink to make the world's finest rose oil. Its name has barely changed since AD 681. It has snowy mountains, the Danube River, and a Black Sea coast, in a country about the size of Iceland.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "Mountains, rivers & sea",
-    "animals": "Wild bears & dancing bees",
-    "culture": "Roses, rhythm & ritual",
-    "history": "Tsars, saints & Soviets",
-    "wows": "Bulgaria will surprise you!"
+    "geography": "Peaks, plains & a sea",
+    "animals": "Bears, pelicans & bees",
+    "culture": "Roses, yoghurt & dance",
+    "history": "Khans, saints & tsars",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Bulgaria is a landscape sandwich. The Balkan Mountains cut across the middle; the Rhodope range rises in the south to Musala — the Balkans' highest peak. Between them lies the Thracian Plain, Europe's finest rose-growing valley.",
-    "The Danube River forms the entire northern border and the Black Sea coast stretches 378 km east. Forests cover a third of the country, sheltering lynx and brown bears among ancient oak trees."
+    "The Balkan Mountains cut across the middle. The Rhodope range rises in the south to Musala, the Balkans' highest peak. Between them lies the Thracian Plain, Europe's finest rose-growing valley.",
+    "The Danube forms the northern border. The Black Sea coast stretches 378 km in the east. Forests cover a third of the country, hiding lynx and brown bears."
   ],
   "animals": [
-    "The brown bear is Bulgaria's biggest wild animal — around 700 bears live in the Rhodope and Balkan mountains, munching berries and honey. The Dalmatian pelican nests on Srebarna Lake, a UNESCO wetland near the Danube.",
-    "Bulgaria's honeybees produce some of Europe's finest mountain wildflower honey. The ancient Karakachan shepherd dog has guarded flocks here for over 2,000 years without changing much at all."
+    "About 700 brown bears live in the Rhodope and Balkan mountains. The Dalmatian pelican nests on Srebarna Lake, a UNESCO wetland near the Danube.",
+    "Bulgaria's honeybees make some of Europe's best wildflower honey. The Karakachan shepherd dog has guarded flocks here for over 2,000 years."
   ],
   "culture": [
-    "Every May the Rose Valley near Kazanlak fills with pink damask roses harvested before sunrise — three tonnes of petals yield just one kilogram of rose oil used in the world's top perfumes. Bulgarians also love yoghurt so much they named the key bacteria after themselves: Lactobacillus bulgaricus.",
-    "Bulgarian folk music uses wild time signatures — 7/8 or 11/16 — that baffle Western listeners yet send Bulgarian dancers spinning perfectly. The horo chain dance can link hundreds of people in a giant swirling circle."
+    "Every May, pickers harvest pink damask roses near Kazanlak before sunrise. Three tonnes of petals make one kilogram of rose oil for top perfumes.",
+    "Bulgarian folk music uses tricky rhythms like 7/8 or 11/16. In the horo chain dance, hundreds of people can link up in one huge circle."
   ],
   "history": [
-    "Bulgaria was born in AD 681 when Khan Asparuh united Bulgar warriors with Slavic tribes. In the 9th century, disciples of Saints Cyril and Methodius developed the Cyrillic script at Bulgarian literary schools — now used by 250 million people worldwide.",
-    "After nearly 500 years of Ottoman rule, Russia helped win independence in 1878. Bulgaria became communist after WWII until peaceful protests ended the regime in 1989. It joined NATO in 2004 and the EU in 2007."
+    "Bulgaria began in AD 681, when Khan Asparuh joined Bulgar warriors with Slavic tribes. In the 9th century, pupils of Saints Cyril and Methodius created the Cyrillic alphabet.",
+    "Ottoman rule lasted nearly 500 years. Russia helped win independence in 1878. Communism ended in 1989 after peaceful protests. Bulgaria joined NATO in 2004 and the EU in 2007."
   ],
   "wows": [
-    "Bulgaria gave the world Cyrillic, now written by over 250 million people across 50+ languages.",
-    "The Rose Valley produces around 70% of the world's rose oil for luxury perfumes.",
-    "Musala is the highest peak in the Balkans and the tallest mountain between the Alps and the Caucasus.",
-    "In Bulgaria, nodding means NO and shaking your head means YES — the opposite of almost everywhere.",
-    "Plovdiv has been continuously inhabited for over 6,000 years, one of Europe's oldest cities.",
-    "Kazanlak's Thracian tomb is UNESCO-listed with 2,300-year-old vivid painted murals.",
-    "The yoghurt bacteria Lactobacillus bulgaricus was first identified in Bulgarian yoghurt in 1905."
+    "Bulgaria gave the world Cyrillic, now used by over 250 million people.",
+    "The Rose Valley makes about 70% of the world's rose oil.",
+    "Musala is the tallest peak between the Alps and the Caucasus.",
+    "In Bulgaria, a nod means NO and a head shake means YES.",
+    "People have lived in Plovdiv for over 6,000 years.",
+    "UNESCO lists Kazanlak's Thracian tomb, with 2,300-year-old murals.",
+    "Yoghurt bacteria Lactobacillus bulgaricus was first found in Bulgarian yoghurt in 1905."
   ],
   "myths": [
     {
-      "myth": "Bulgarians nod to mean yes",
-      "fact": "It's the opposite — a nod means NO and a head-shake means YES, confusing almost every first-time visitor."
+      "myth": "The oldest gold jewellery is Egyptian",
+      "fact": "Gold from graves near Varna, Bulgaria, is about 6,500 years old. Experts call it the oldest worked gold."
     },
     {
-      "myth": "Cyrillic was invented by St Cyril",
-      "fact": "Cyril and Methodius created the Glagolitic script. Cyrillic was developed by their disciples at Bulgarian literary schools in the 9th century."
+      "myth": "The Black Sea is black",
+      "fact": "It is blue-green, like most seas. Experts still argue about its name."
     }
   ],
   "words": [

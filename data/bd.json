@@ -2,7 +2,7 @@
   "name": "BANGLADESH",
   "nativeName": "বাংলা",
   "romaji": "BANGLADESH",
-  "tagline": "The river's green heart",
+  "tagline": "Land of rivers and rice",
   "region": "South Asia",
   "coords": "23.7°N, 90.4°E",
   "fileNo": "BD",
@@ -24,7 +24,7 @@
     "keyColor": "#006A4E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Bangladesh is a low-lying land where three great rivers fan into the world's largest delta. More people live here than in Russia, squeezed into a country smaller than England. The Sundarbans — the planet's biggest mangrove forest — hides swimming tigers. Rice paddies turn every flat field brilliant green each monsoon.",
+  "lead": "Bangladesh is a flat, low land where three great rivers fan out into the world's largest delta. More people live here than in Russia, in a country smaller than England. Tigers swim in the Sundarbans, the biggest mangrove forest on Earth. Rice fields turn bright green every monsoon.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "A land of rivers & delta",
-    "animals": "Tigers, fish & big birds",
-    "culture": "Rice, music & bright cloth",
+    "geography": "Rivers everywhere",
+    "animals": "Swimming tigers & big fish",
+    "culture": "Songs, cloth & festivals",
     "history": "From Bengal to freedom",
-    "wows": "7 things that'll stun you"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Bangladesh sits almost entirely on a giant river delta — flat, green, crisscrossed by over 700 rivers. Every monsoon, floods cover a third of the land but deposit rich mud making the soil incredibly fertile.",
-    "In the south-west, the Sundarbans mangrove forest straddles the border with India. Its tangle of roots and tidal creeks stretches 10,200 km² — the world's largest mangrove and a UNESCO World Heritage Site."
+    "Bangladesh sits on a giant river delta, crisscrossed by over 700 rivers. Every monsoon, floods cover a third of the land. They leave fertile mud for farming.",
+    "The Sundarbans mangrove forest lies in the south-west, on the border with India. Its roots and tidal creeks cover 10,200 km². It is a UNESCO World Heritage Site."
   ],
   "animals": [
-    "The Royal Bengal Tiger is Bangladesh's national animal. About 125 tigers roam the Sundarbans, swimming between islands through salty channels — the only sea-swimming tiger population on the planet.",
-    "The Hilsa (Ilish) is the national fish and a cultural treasure. Bangladesh supplies 86 % of the world's Hilsa catch. Fishers say those from the Padma River taste the finest — rich, fatty, and beloved at every feast."
+    "The Royal Bengal tiger is the national animal. About 125 live in the Sundarbans. They swim between islands through salty channels.",
+    "The hilsa (ilish) is the national fish. Fishers say hilsa from the Padma River taste the best. Families serve it at every feast."
   ],
   "culture": [
-    "Bengali culture revolves around music, poetry, and rice. Rabindranath Tagore — born in this region — wrote thousands of songs; his poem became Bangladesh's national anthem. The spring festival Pahela Baishakh fills streets with bright orange-and-white clothes.",
-    "Dhaka is famous for Jamdani weaving — a UNESCO-listed craft where weavers create shimmering floral muslin entirely from memory. Bangladesh is also the world's second-largest garment exporter, clothing billions of people globally."
+    "Rabindranath Tagore, born in this region, wrote thousands of songs. One poem became the national anthem. At Pahela Baishakh, the spring festival, streets fill with orange-and-white clothes.",
+    "Dhaka is famous for Jamdani weaving. Weavers make shimmering muslin, a fine cloth, from memory. Bangladesh is also the world's second-largest garment exporter."
   ],
   "history": [
-    "For centuries this was the heart of Bengal — a wealthy rice-and-muslin kingdom prized by Mughal emperors and British traders alike. The British East India Company made Dhaka a cloth capital, though exploitation slowly drained its wealth.",
-    "In 1971, Bangladesh fought a nine-month Liberation War for independence from Pakistan. After tremendous loss of life, victory came on 16 December — still celebrated as Victory Day — making it one of the world's youngest nations."
+    "For centuries this was the heart of Bengal, a wealthy land of rice and muslin. Mughal emperors and British traders both wanted it. Colonial rule slowly drained its wealth.",
+    "In 1971, Bangladesh fought a nine-month Liberation War against Pakistan. Victory came on 16 December, now Victory Day. It is one of the world's youngest nations."
   ],
   "wows": [
-    "Bangladesh is home to the world's largest river delta, where the Ganges and Brahmaputra meet the sea.",
-    "The Sundarbans' tigers swim in saltwater and hunt at sea — no other tiger population does this.",
-    "Bangladesh produces 86 % of the entire world's supply of Hilsa fish.",
-    "Dhaka has around 44,000 people per km² — one of the densest cities on Earth, per UN Habitat data.",
-    "Mughal emperors called Dhaka muslin 'woven air'; the craft is now UNESCO-listed heritage.",
-    "The Padma Bridge (2022) is 6.15 km long, built entirely with Bangladesh's own funds.",
-    "Tagore's poems became the national anthems of two nations — Bangladesh AND India."
+    "Bangladesh has the world's largest river delta.",
+    "Sundarbans tigers swim and hunt in salty water.",
+    "Bangladesh supplies 86% of the world's hilsa fish.",
+    "Dhaka has about 44,000 people per km², one of Earth's most crowded cities.",
+    "Mughal emperors called Dhaka muslin 'woven air'.",
+    "The 6.15 km Padma Bridge, finished in 2022, used only Bangladesh's own money.",
+    "Tagore's poems became the national anthems of Bangladesh and India."
   ],
   "myths": [
     {
-      "myth": "Bangladesh is always flooding",
-      "fact": "Seasonal floods cover a third of the land but deposit rich silt, making soil so fertile that farmers grow three rice crops a year. Floods are a lifeline, not only a disaster."
+      "myth": "Bangladesh has no beaches",
+      "fact": "Cox's Bazar has about 120 km of unbroken sand, often called the world's longest sea beach."
     },
     {
-      "myth": "It's one of the poorest nations",
-      "fact": "Bangladesh has lifted millions from poverty since 1990, becoming a lower-middle-income country and the world's second-largest garment exporter."
+      "myth": "Bangladesh is one of the poorest countries",
+      "fact": "Millions of people there have left poverty since 1990."
     }
   ],
   "words": [

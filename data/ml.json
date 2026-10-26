@@ -24,7 +24,7 @@
     "keyColor": "#1A7A3C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Mali is a vast landlocked country where the Niger River curves across the Sahara's edge. Once home to the world's richest empires, kings here gave away gold as gifts. Today mud-brick mosques rise like sandcastles, nomads ride camels across golden dunes, and griots keep ancient tales alive with kora harps and talking drums.",
+  "lead": "Mali is a huge country with no coast. The Niger River curves along the edge of the Sahara. Mud-brick mosques rise like sandcastles. Griots keep old tales alive with kora harps and talking drums.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 facts to blow your mind"
   },
   "geo": [
-    "Mali is two-thirds Sahara Desert — an ocean of golden sand where temperatures soar above 45 °C. The Niger River is its lifeline, flooding farmland each year and feeding millions with fish and rice.",
-    "The Sahel grassland belt runs across the south, turning green after rains. The Bandiagara Cliffs rise 500 m from the plain, where Dogon people have carved cliff-side villages into rock for nearly a thousand years."
+    "Two-thirds of Mali is Sahara Desert, where heat can top 45 °C. The Niger River floods farms every year and feeds millions with fish and rice.",
+    "The Sahel grassland crosses the south and turns green after rains. The Bandiagara Cliffs rise 500 m. The Dogon people have carved villages into them for nearly a thousand years."
   ],
   "animals": [
-    "The Niger River shelters hippos and Nile crocodiles that bask on sandy banks. African manatees glide through quiet backwaters — slow, whiskered mammals rarely seen elsewhere in West Africa.",
-    "Desert-adapted creatures roam the north: fennec foxes with enormous ears, sand gazelles, and golden jackals. Rare West African giraffes still wander near the Niger's inland delta, stretching tall to reach acacia leaves."
+    "Hippos and Nile crocodiles rest on the banks of the Niger. African manatees glide through quiet backwaters.",
+    "Fennec foxes with huge ears live in the north. Rare West African giraffes wander near the Niger's inland delta."
   ],
   "culture": [
-    "Mali is the birthplace of the griot — musician, historian and storyteller in one. Griots play the kora (a 21-string harp-lute made from a gourd) and recite royal histories going back 700 years.",
-    "The Great Mosque of Djenné is the world's largest mud-brick building, replastered by the whole town after every rainy season. Malian mud cloth (bogolanfini) is hand-painted with symbols that tell stories in pattern and colour."
+    "A griot is a musician, historian and storyteller in one. Griots play the kora, a 21-string harp-lute made from a gourd.",
+    "The Great Mosque of Djenné is the world's largest mud-brick building. The whole town replasters it after every rainy season."
   ],
   "history": [
-    "Around 1300 CE the Mali Empire ruled territory bigger than Western Europe. Emperor Mansa Musa was possibly history's wealthiest person — his 1324 pilgrimage with 12,000 servants and tonnes of gold caused inflation across North Africa.",
-    "Timbuktu became a great centre of learning with over 25,000 university students. Mali gained independence from France on 22 September 1960, celebrated today as its national holiday."
+    "Around 1300 CE the Mali Empire ruled land bigger than Western Europe. Emperor Mansa Musa may be the wealthiest person ever. In 1324 he made a pilgrimage with 12,000 servants and tonnes of gold.",
+    "Timbuktu became a great centre of learning with over 25,000 students. Mali became independent from France on 22 September 1960."
   ],
   "wows": [
-    "The Great Mosque of Djenné has been replastered from mud every year for over 800 years.",
-    "Mansa Musa's 1324 caravan had 60,000 people and carried roughly 18 tonnes of gold.",
-    "Mali holds over 700,000 ancient manuscripts, some stored in family homes in Timbuktu.",
-    "The Niger Inland Delta floods yearly into a wetland the size of Belgium, drawing millions of birds.",
-    "Timbuktu was so legendary that Europeans offered prizes to whoever could reach it and return.",
-    "Malian guitarist Ali Farka Touré's style directly shaped American blues music history.",
-    "Dogon people described the invisible star Sirius B centuries before telescopes confirmed it."
+    "The Great Mosque of Djenné has been replastered every year for over 800 years.",
+    "Mansa Musa's 1324 caravan had 60,000 people and about 18 tonnes of gold.",
+    "Mali holds over 700,000 ancient manuscripts, some in family homes.",
+    "The Niger Inland Delta floods into a wetland the size of Belgium.",
+    "Europeans once offered prizes to anyone who could reach Timbuktu and return.",
+    "Ali Farka Touré's guitar style helped shape American blues.",
+    "The Niger is Africa's third-longest river."
   ],
   "myths": [
     {
-      "myth": "Mali is all empty desert",
-      "fact": "Only two-thirds is desert; the south has rivers, forests, farmland and wetlands hosting dramatic wildlife migrations."
+      "myth": "Camels store water in their humps",
+      "fact": "A hump holds fat, not water. The fat gives energy on long trips."
     },
     {
-      "myth": "Timbuktu means 'the middle of nowhere'",
-      "fact": "Timbuktu was one of the medieval world's great cities — a wealthy trading hub with 180 Quranic schools at its peak."
+      "myth": "Timbuktu is not a real place",
+      "fact": "It is a real city in Mali. At its peak it had about 180 Quranic schools."
     }
   ],
   "words": [

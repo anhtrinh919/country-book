@@ -24,7 +24,7 @@
     "keyColor": "#000000",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Palestine sits at the crossroads of three continents, where ancient olive trees shade valleys seen by empires for thousands of years. From the West Bank hills to Gaza's coast, Palestinians are known for warm hospitality and poetry about home. Ramallah buzzes with cafés; Jerusalem draws pilgrims of three world religions.",
+  "lead": "Palestine sits where three continents meet. Old olive trees shade its valleys. Palestinians are famous for warm welcomes and poems about home. Ramallah has busy cafés. Jerusalem draws pilgrims from three world religions.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN REGIONS & CITIES:",
   "sections": {
     "geography": "Hills, valleys & the sea",
-    "animals": "Wild creatures of Palestine",
+    "animals": "Birds, gazelles & hyraxes",
     "culture": "Food, music & old craft",
     "history": "A land shaped by time",
-    "wows": "7 things that'll surprise you"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "The West Bank rises in limestone hills of olive and almond groves, cut by wadis that rush with water after winter rain. The Jordan Valley drops to the Dead Sea shore — about 430 m below sea level, the lowest land on Earth.",
-    "Gaza Strip is a narrow Mediterranean ribbon, just 41 km long and 10 km wide, yet home to over two million people — one of the world's most densely populated places. Sandy beaches meet a flat, fertile coastal plain."
+    "The West Bank has hills of olive and almond trees. The Jordan Valley drops to the Dead Sea. It lies 430 m below sea level, the lowest land on Earth.",
+    "The Gaza Strip is a narrow ribbon on the Mediterranean coast. It is just 41 km long and 10 km wide. Over two million people live there."
   ],
   "animals": [
-    "Palestine sits on a great bird-migration highway. Storks, pelicans, eagles, and bee-eaters pour through every spring and autumn. The Palestine sunbird — a tiny gem with an iridescent green throat — is the national bird.",
-    "Gazelles still dart across the hillsides, and the Palestine mountain gazelle is named after this land. Striped hyenas, red foxes, and rock hyraxes — surprisingly distant cousins of elephants — hide in the rocky terrain."
+    "Huge flocks of storks, pelicans, and eagles fly over Palestine each spring and autumn. The tiny Palestine sunbird, with a shiny green throat, is the national bird.",
+    "Mountain gazelles dart across the hillsides. Striped hyenas and red foxes hide in the rocks. So do rock hyraxes, small cousins of elephants."
   ],
   "culture": [
-    "Palestinian cuisine is generous: maqluba (upside-down rice and vegetables), musakhan (chicken on flatbread with caramelised onions and sumac), and knafeh (hot cheese pastry in syrup) are beloved across the Arab world. Olive oil from ancient trees goes on nearly everything.",
-    "Embroidery called tatreez stitches vivid red geometric patterns onto dresses, telling stories of village and family. Dabke, a stomping line dance at weddings, brings everyone to their feet, and the oud (pear-shaped lute) fills evenings with music."
+    "Maqluba is upside-down rice and vegetables. Musakhan is chicken on flatbread with onions and sumac. Knafeh is hot cheese pastry in syrup. Olive oil goes on almost everything.",
+    "Tatreez is red embroidery that tells stories of village and family. Dabke is a stomping line dance at weddings. The oud, a pear-shaped lute, fills evenings with music."
   ],
   "history": [
-    "People farmed these hills since 9000 BCE. Canaanites, Egyptians, Greeks, Romans, and Crusaders each left marks. The name 'Palestine' echoes the ancient Philistines who lived along the coast. Jericho is considered the world's oldest city.",
-    "After Ottoman rule, Britain controlled the region from 1917. In 1948 Israel was declared and around 700,000 Palestinians fled — an event called the Nakba, meaning 'catastrophe'. Palestinians have sought an independent state ever since."
+    "People farmed these hills since 9000 BCE. Canaanites, Egyptians, Greeks, Romans, and Crusaders all left marks. The name Palestine echoes the ancient Philistines of the coast.",
+    "After Ottoman rule, Britain controlled the region from 1917. Israel was declared in 1948, and around 700,000 Palestinians fled. They call this the Nakba, meaning 'catastrophe'. Palestinians have sought an independent state ever since."
   ],
   "wows": [
-    "Jericho is considered Earth's oldest city — people have lived there 11,000 years.",
-    "The Dead Sea is so salty you float like a cork — nearly 10x saltier than the ocean.",
-    "An olive tree near Bethlehem is estimated to be up to 5,000 years old and still fruiting.",
-    "The tiny Palestine sunbird hovers like a helicopter to sip nectar from flowers.",
-    "Tatreez stitch patterns are village-specific: experts read them like a postcode.",
-    "Nablus holds a knafeh festival drawing crowds for hot cheese-pastry in syrup.",
-    "The name 'Gaza' appears in Egyptian records 3,500 years old — one of history's oldest city names."
+    "People have lived in Jericho, maybe Earth's oldest city, for 11,000 years.",
+    "The Dead Sea is nearly 10 times saltier than the ocean.",
+    "An olive tree near Bethlehem may be up to 5,000 years old.",
+    "The tiny Palestine sunbird hovers like a helicopter.",
+    "Each village has its own tatreez patterns, like a postcode.",
+    "Nablus holds a festival for knafeh, the hot cheese pastry.",
+    "The name Gaza appears in Egyptian records 3,500 years old."
   ],
   "myths": [
     {
-      "myth": "Palestine has no ancient history",
-      "fact": "Jericho, in the West Bank, has walls and towers built 10,000 years ago — long before most civilisations existed anywhere on Earth."
+      "myth": "Arabic is written left to right",
+      "fact": "Arabic runs right to left. Its books open at what English readers call the back."
     },
     {
       "myth": "The Dead Sea is actually a sea",
-      "fact": "It's a landlocked salt lake with no outlet — water only leaves by evaporation, making it grow saltier every year."
+      "fact": "It is a salt lake with no way out to the ocean."
     }
   ],
   "words": [

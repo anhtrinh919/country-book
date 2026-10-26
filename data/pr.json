@@ -24,7 +24,7 @@
     "keyColor": "#C0202E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Puerto Rico is a sunny Caribbean island that belongs to the USA but has its own proud Latin soul. People speak Spanish, dance salsa, and eat rice and beans at almost every meal. Ancient forts guard Old San Juan, while glowing bays and giant radio telescopes make it truly extraordinary.",
+  "lead": "Puerto Rico is a sunny island in the Caribbean. It belongs to the USA, but people speak Spanish. They dance salsa and eat rice and beans at almost every meal. Old forts guard Old San Juan.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES & ISLANDS:",
   "sections": {
-    "geography": "A jungle island in the sun",
-    "animals": "Wild things of land & sea",
-    "culture": "Salsa, flavour & bold colour",
+    "geography": "A green island in the sun",
+    "animals": "Frogs, turtles & glowing bays",
+    "culture": "Salsa, food & bright colour",
     "history": "Forts, sugar & a new flag",
-    "wows": "7 things to blow your mind"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Puerto Rico sits where the Atlantic meets the Caribbean. A mountain spine called the Cordillera Central runs east to west, with green valleys and rivers — and El Yunque, the only tropical rainforest in the entire US National Forest system.",
-    "Tiny Vieques and Culebra islands have crystal-clear beaches to the east. Just north, the Puerto Rico Trench plunges to 8,376 m — the deepest point in the Atlantic, deeper than Everest is tall."
+    "The Cordillera Central mountains run east to west. El Yunque is the only tropical rainforest in the US National Forest system.",
+    "Tiny Vieques and Culebra islands lie to the east. North of the island, the Puerto Rico Trench drops 8,376 m. That is the Atlantic's deepest point."
   ],
   "animals": [
-    "The coquí is a thumb-sized tree frog whose 'ko-kee' call fills every Puerto Rican night at around 90 decibels. Puerto Ricans love it so much it appears on logos, art, and tattoos. The island also shelters the Puerto Rican parrot, one of Earth's rarest birds.",
-    "Sea turtles nest on Puerto Rican beaches each summer. Mosquito Bay on Vieques glows electric blue at night — billions of tiny organisms light up every splash like liquid lightning. Manatees drift through western coastal lagoons."
+    "The coquí is a tree frog as small as a thumb. Its 'ko-kee' call fills the night. The rare Puerto Rican parrot lives here too.",
+    "Sea turtles nest on the beaches each summer. Mosquito Bay on Vieques glows blue at night. Manatees drift through lagoons in the west."
   ],
   "culture": [
-    "Puerto Rican culture blends Taíno, Spanish, and African traditions. Salsa was partly born here — start the music and everyone moves. Bomba and plena drumming styles tell island stories in plazas during festivals throughout the year.",
-    "Food is the island's love language: mofongo (mashed fried plantains), lechón (slow-roasted pork), and golden pastelillos at every party. Old San Juan's streets are paved with blue cobblestones from old ship ballast."
+    "Puerto Rican culture mixes Taíno, Spanish, and African roots. Salsa was partly born here. Bomba and plena drums tell island stories at festivals.",
+    "Mofongo is mashed fried plantain. Lechón is slow-roasted pork. Golden pastelillos appear at every party. Old San Juan's blue cobblestones were once ship ballast (heavy weights)."
   ],
   "history": [
-    "Taíno people lived here centuries before Columbus arrived in 1493. Spain built massive forts — El Morro and San Cristóbal — to protect treasure fleets, and brought enslaved Africans to work sugar plantations. Puerto Rico became a US territory in 1898.",
-    "In 1917 Puerto Ricans became US citizens. A great migration to New York in the 1950s spread island culture across America. Today Puerto Ricans debate statehood vs. independence, but pride in island identity is universal."
+    "Taíno people lived here long before Columbus arrived in 1493. Spain built the forts El Morro and San Cristóbal. Enslaved Africans worked the sugar farms. Puerto Rico became a US territory in 1898.",
+    "In 1917, Puerto Ricans became US citizens. In the 1950s, many moved to New York and shared island culture. Today people debate statehood or independence."
   ],
   "wows": [
-    "Mosquito Bay on Vieques is the world's brightest bioluminescent bay — the water glows blue when you move.",
-    "Arecibo Observatory was once the world's largest radio telescope, 305 m wide, built into a jungle sinkhole.",
-    "The coquí frog hits 90 decibels — as loud as a lawnmower — yet locals can't sleep without its song.",
-    "The Puerto Rico Trench at 8,376 m is the deepest point in the entire Atlantic Ocean.",
-    "El Yunque is the only tropical rainforest in the US National Forest system, getting 5,000 mm of rain yearly.",
-    "Puerto Rican players have won more MLB Gold Glove awards per capita than any other territory on Earth.",
-    "Puerto Rico has over 270 sunny days per year despite sitting in the heart of the hurricane belt."
+    "Mosquito Bay on Vieques is the world's brightest glowing bay.",
+    "Arecibo's radio telescope was 305 m wide, in a jungle sinkhole.",
+    "The coquí frog hits 90 decibels, as loud as a lawnmower.",
+    "The Puerto Rico Trench, 8,376 m deep, is the Atlantic's lowest point.",
+    "El Yunque gets 5,000 mm of rain a year.",
+    "Puerto Ricans win more MLB Gold Gloves per person than any other territory.",
+    "Puerto Rico has over 270 sunny days a year."
   ],
   "myths": [
     {
-      "myth": "Puerto Rico is an independent country",
-      "fact": "Puerto Rico is a US territory — its 3.2 million residents are American citizens but cannot vote in US presidential elections and have no voting member in Congress."
+      "myth": "Puerto Rico's flag copies Cuba's",
+      "fact": "The colours are swapped. Cuba has a red triangle and blue stripes. Puerto Rico has a blue triangle and red stripes."
     },
     {
-      "myth": "It's always battered by hurricanes",
-      "fact": "Puerto Rico enjoys about 270 sunny days a year; major hurricanes are rare, and warm, calm weather greets visitors almost year-round."
+      "myth": "All coquí frogs sing at night",
+      "fact": "Only male coquís sing. They call to find a mate."
     }
   ],
   "words": [

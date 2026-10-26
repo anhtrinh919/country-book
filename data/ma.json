@@ -24,7 +24,7 @@
     "keyColor": "#C1272D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Morocco sits at Africa's top-left corner, where the Sahara nearly touches the Mediterranean. Souks full of spice-dyed silks, rose-pink walled cities, and the world's oldest university call this kingdom home. Snow-capped mountains rise behind Atlantic surf beaches, and the muezzin's call echoes across rooftop terraces at sunset.",
+  "lead": "Morocco sits in the top-left corner of Africa, where the Sahara nearly touches the Mediterranean Sea. Souks (busy markets) sell silks dyed with spices. Walled cities glow rose-pink. Snow covers mountains behind Atlantic surf beaches.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Morocco's jaw-droppers"
   },
   "geo": [
-    "Morocco has three mountain chains — the Rif, Middle Atlas, and High Atlas — where Berber villages cling to cliffs above cedar forests. Rivers tumble west to the Atlantic, feeding fertile plains where argan trees grow wild.",
-    "To the south, the land drops into the Sahara. Enormous dunes at Erg Chebbi rise 150 m high, turning gold at sunrise. The Atlantic coast stretches 1,800 km, giving Morocco both surf beaches and fishing harbours."
+    "Morocco has three mountain chains: the Rif, the Middle Atlas, and the High Atlas. Berber villages cling to cliffs above cedar forests.",
+    "In the south, the land drops into the Sahara. The dunes at Erg Chebbi rise 150 m and turn gold at sunrise. The Atlantic coast stretches 1,800 km."
   ],
   "animals": [
-    "The Barbary macaque — Morocco's only wild monkey — scrambles through cedar forests near Azrou. Loggerhead sea turtles nest on southern beaches each summer, and flamingos wade in coastal lagoons near Moulay Bousselham.",
-    "The High Atlas shelters the rare Barbary leopard, shy and seldom seen. Dromedary camels cross Saharan dunes, and the fennec fox — with ears like satellite dishes — hunts beetles through the sand at night."
+    "The Barbary macaque, Morocco's only wild monkey, scrambles through cedar forests near Azrou. Loggerhead sea turtles nest on southern beaches each summer.",
+    "The High Atlas shelters the rare, shy Barbary leopard. The fennec fox has ears like satellite dishes and hunts beetles in the sand at night."
   ],
   "culture": [
-    "Morocco's souks are a maze of craftspeople: coppersmiths hammering lanterns, weavers knotting Berber rugs, tanners dyeing leather in rainbow vats. Mint tea is poured from a great height to make it frothy — refusing a glass is considered rude.",
-    "Gnawa musicians play iron castanets and a three-string guembri late into the evening. Tagine — meat slow-cooked with apricots, olives, and cumin in a cone-shaped clay pot — arrives at the table still steaming."
+    "Souks are mazes of craftspeople. Coppersmiths hammer lanterns, weavers knot rugs, and tanners dye leather in rainbow vats. Cooks pour mint tea from a great height to make it frothy.",
+    "Gnawa musicians play iron castanets and a three-string guembri. Tagine is meat slow-cooked with apricots, olives, and cumin in a cone-shaped clay pot."
   ],
   "history": [
-    "The University of al-Qarawiyyin in Fes, founded in 859 CE, is the world's oldest continuously operating university. Berber (Amazigh) peoples have lived here for 5,000 years, long before Arab traders arrived in the 7th century.",
-    "Morocco was the first country to recognise the United States in 1777. France and Spain colonised it in 1912, but King Mohammed V led it to independence in 1956. King Mohammed VI still rules from the palace in Rabat today."
+    "The University of al-Qarawiyyin in Fes opened in 859 CE. Berber (Amazigh) peoples have lived in Morocco for 5,000 years. Arab traders came in the 7th century.",
+    "In 1777, Morocco became the first country to recognise the United States. France and Spain colonised it in 1912. King Mohammed V led it to independence in 1956."
   ],
   "wows": [
-    "Al-Qarawiyyin in Fes, founded 859 CE, is the world's oldest continuously operating university.",
-    "Morocco holds about 70% of the planet's known phosphate rock reserves — the world's largest share.",
-    "Saharan dunes at Erg Chebbi reach 150 m tall — higher than a 40-storey building.",
-    "Morocco has nine UNESCO World Heritage Sites, including the medinas of Fes, Marrakech, and Meknes.",
-    "Argan oil for cooking and cosmetics comes from trees that grow almost exclusively in Morocco.",
-    "The Strait of Gibraltar is just 14 km wide — Morocco's nearest point to Europe.",
-    "Djemaa el-Fna in Marrakech hosts storytellers and acrobats nightly, listed as UNESCO intangible heritage."
+    "Al-Qarawiyyin in Fes is the world's oldest continuously working university.",
+    "Morocco holds about 70% of the world's known phosphate, a rock used in fertiliser.",
+    "Erg Chebbi's dunes are 150 m tall, higher than a 40-storey building.",
+    "Morocco has nine UNESCO World Heritage Sites, including Fes, Marrakech, and Meknes.",
+    "Argan oil comes from trees that grow almost only in Morocco.",
+    "The Strait of Gibraltar is just 14 km wide, Morocco's nearest point to Europe.",
+    "Storytellers and acrobats perform nightly at Marrakech's Djemaa el-Fna."
   ],
   "myths": [
     {
-      "myth": "Morocco is all hot desert",
-      "fact": "The Sahara covers only the far south-east corner. Most of Morocco has mountains, green valleys, and Atlantic beaches. Ifrane in the Atlas gets heavy snow every winter."
+      "myth": "Goats cannot climb trees",
+      "fact": "In Morocco, goats climb argan trees to eat the fruit. They balance on branches high above the ground."
     },
     {
-      "myth": "Moroccan food is always fiery-hot",
-      "fact": "Moroccan cooking is richly spiced with cumin, saffron, and cinnamon but rarely fiery. Heat comes from harissa sauce served on the side — you choose how much to add."
+      "myth": "Moroccan food is always very hot",
+      "fact": "Most dishes are mild and sweet-smelling. Hot harissa sauce comes on the side, so each person picks how much."
     }
   ],
   "words": [

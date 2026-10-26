@@ -24,7 +24,7 @@
     "keyColor": "#003082",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Africa's heart, landlocked, no sea in sight. Dense Congo rainforest blankets the south; lion-roamed savanna stretches north. Forest elephants wade into jungle clearings, the Aka sing jaw-dropping four-part harmonies, and the Ubangi River lines the whole southern border. Almost zero light pollution — stars blaze wall-to-wall every night.",
+  "lead": "The Central African Republic sits in the heart of Africa, far from any sea. Thick rainforest covers the south. Lions roam the savanna in the north. Forest elephants wade into jungle clearings. The Aka sing in four-part harmony. At night the sky has almost no light pollution, so stars blaze from edge to edge.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Giants of forest & savanna",
     "culture": "Music, masks & 80 peoples",
     "history": "Emperors & independence",
-    "wows": "Seven wild surprises"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "CAR sits on a broad plateau averaging 600 m. Southern Congo rainforest hums with life; northern savanna stretches toward the Sahel. Rivers here drain two ways — some to the Congo, some ultimately toward the Nile — straddling both great watersheds.",
-    "The mighty Ubangi River forms the entire southern border, separating CAR from DR Congo across wide brown water. The Karre Mountains rise in the west, crowned by Mont Ngaoui at 1,410 m — the country's rocky rooftop."
+    "CAR sits on a broad plateau about 600 m high. Congo rainforest hums with life in the south. Savanna (open grassland) stretches north toward the Sahel. Rivers here drain two ways. Some flow to the Congo. Others end up flowing toward the Nile.",
+    "The Ubangi River forms the whole southern border with DR Congo. Its water is wide and brown. The Karre Mountains rise in the west. Mont Ngaoui, at 1,410 m, is the country's rocky rooftop."
   ],
   "animals": [
-    "Southern forests shelter critically endangered forest elephants, western lowland gorillas, and chimps. Bongo antelopes — chestnut-red with white stripes and the largest forest antelope on Earth — ghost through the Dzanga-Sangha undergrowth.",
-    "In the north, lions, leopards, and giant buffalo herds roam open woodlands. CAR counts 772 bird species and 209 mammals. Dzanga Bai is a jungle clearing where dozens of forest elephants gather daily around mineral-rich mud."
+    "Southern forests shelter critically endangered forest elephants and western lowland gorillas, plus chimps. The bongo is a chestnut-red antelope with white stripes. It is the largest forest antelope on Earth. It slips like a ghost through the Dzanga-Sangha undergrowth.",
+    "In the north, lions, leopards, and giant buffalo herds roam open woodlands. CAR has 772 bird species and 209 mammals. Dzanga Bai is a jungle clearing. Dozens of forest elephants gather there daily around mineral-rich mud."
   ],
   "culture": [
-    "More than 80 ethnic groups live here, each with its own language. The Aka people of the southwest forests are world-famous for intricate four-voice polyphonic singing — overlapping melodies that every child learns from birth, inscribed by UNESCO as world heritage.",
-    "The Gbaya, Banda, and Mandjia hold vibrant mask ceremonies with drumming heard for kilometres. National language Sango — a creole born from river-trade — stitches all peoples together as a shared everyday tongue."
+    "More than 80 ethnic groups live here, each with its own language. The Aka people of the southwest forests sing in four voices at once. Every child learns these overlapping melodies from birth. UNESCO lists this singing as world heritage.",
+    "The Gbaya, Banda, and Mandjia hold lively mask ceremonies. Their drumming can be heard for kilometres. The national language is Sango, a creole (mixed language) born from river trade. It joins all peoples in one shared everyday tongue."
   ],
   "history": [
-    "People have lived here at least 8,000 years — polished stone tools prove it. France named the colony Ubangi-Shari after its two rivers. Independence came on 13 August 1960, led by visionary Barthélémy Boganda, who died in a mysterious plane crash the year before.",
-    "In 1977, army commander Jean-Bédel Bokassa crowned himself Emperor Bokassa I in a $200 million ceremony modelled on Napoleon's coronation. France quietly removed him two years later. Since then, the country has worked toward stable democratic governance."
+    "People have lived here for at least 8,000 years. Polished stone tools prove it. France named the colony Ubangi-Shari, after its two rivers. Independence came on 13 August 1960. Its founding leader, Barthélémy Boganda, died in a mysterious plane crash in 1959.",
+    "In 1977, army commander Jean-Bédel Bokassa crowned himself Emperor Bokassa I. His $200 million ceremony copied Napoleon's coronation. France quietly removed him two years later. Since then, the country has worked toward stable, democratic rule."
   ],
   "wows": [
-    "CAR has almost zero light pollution — the Milky Way blazes like spilled sugar on every clear night.",
-    "Dzanga Bai clearing can draw up to 100 forest elephants into view in a single afternoon.",
-    "Aka polyphony is so complex that musicians spent years decoding it, yet local children sing it naturally.",
-    "Rain falling on the same hill can flow either toward the Congo or ultimately toward the Nile.",
-    "CAR holds gem-quality diamonds but is landlocked — every carat must travel hundreds of km to a port.",
-    "CAR is the country closest to the literal geographic centre of the entire African continent.",
-    "CAR's 772 recorded bird species outnumber every bird species found across the whole of Europe."
+    "CAR has almost no light pollution, so the Milky Way blazes like spilled sugar on clear nights.",
+    "Up to 100 forest elephants can gather at Dzanga Bai clearing in a single afternoon.",
+    "Aka singing is so complex that musicians spent years decoding it, yet local children sing it naturally.",
+    "Rain falling on the same hill can flow toward the Congo or toward the Nile.",
+    "CAR has gem-quality diamonds but no coast, so every carat travels hundreds of km to a port.",
+    "CAR is the country closest to the geographic centre of the whole African continent.",
+    "CAR's 772 recorded bird species outnumber all the bird species found across Europe."
   ],
   "myths": [
     {
-      "myth": "CAR is all jungle and poverty",
-      "fact": "The north is open lion-roamed savanna, and the ground holds enormous diamonds, gold, and uranium — natural wealth that rivals far better-known nations."
+      "myth": "Diamonds come out of the ground sparkling",
+      "fact": "Rough diamonds look like dull, cloudy pebbles. Cutters carve and polish them to make them sparkle."
     },
     {
-      "myth": "It's a tiny, forgotten country",
-      "fact": "At 623,000 km² CAR is bigger than France and borders six countries at the true geographic heart of Africa."
+      "myth": "Stars twinkle because they blink",
+      "fact": "Stars shine steadily. Moving air high above Earth makes their light wobble, so they seem to twinkle."
     }
   ],
   "words": [

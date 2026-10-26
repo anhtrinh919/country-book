@@ -2,7 +2,7 @@
   "name": "GAMBIA",
   "nativeName": "GM",
   "romaji": "GAMBIA",
-  "tagline": "Africa's Smallest Nation",
+  "tagline": "A tiny land on a big river",
   "region": "West Africa",
   "coords": "13.45°N, 16.58°W",
   "fileNo": "047",
@@ -24,7 +24,7 @@
     "keyColor": "#3A7728",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Gambia is the smallest country in mainland Africa — a thin sliver curled around the Gambia River. Senegal wraps around it on three sides. The river is the lifeline: people fish, farm, and travel it daily. Despite its size, Gambia bursts with colourful birds, friendly villages, and sunny Atlantic beaches.",
+  "lead": "Gambia is the smallest country on mainland Africa. It is a thin strip along the Gambia River. Senegal wraps around it on three sides. People fish, farm and travel on the river every day.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Surprising Gambia"
   },
   "geo": [
-    "Gambia is shaped like a long thin finger pointing east into West Africa. The Gambia River fills the centre, flanked by floodplains, mangrove swamps, and savanna. The Atlantic coast has sandy beaches stretching for kilometres.",
-    "Because the land is so flat — nowhere higher than a five-storey building — the river defines everything. In the rainy season it swells dramatically, flooding fields that farmers rely on for rice and millet."
+    "Gambia looks like a long thin finger pointing east. The Gambia River runs through the middle, with floodplains, mangrove swamps and savanna on its banks.",
+    "The land is so flat that nowhere is higher than a five-storey building. In the rainy season the river swells and floods the fields. Farmers grow rice and millet there."
   ],
   "animals": [
-    "Gambia is a birdwatcher's paradise with over 560 species, including brilliant bee-eaters and kingfishers. Baboons roam Abuko Nature Reserve near the capital, and green monkeys leap through riverside trees.",
-    "The river teems with Nile crocodiles and hippos that surface with a thunderous snort. At Kachikally's sacred pool, visitors actually touch the crocodiles — considered a blessing by locals."
+    "Gambia has over 560 kinds of birds, like bright bee-eaters and kingfishers. Baboons roam Abuko Nature Reserve, and green monkeys leap through riverside trees.",
+    "Nile crocodiles and hippos live in the river. At Kachikally's sacred pool, visitors touch the crocodiles. Locals call this a blessing."
   ],
   "culture": [
-    "The kora — a 21-stringed instrument made from a giant gourd — is Gambia's musical soul. Griots (storytelling musicians) travel between villages singing history and praise, keeping centuries of memory alive without writing it down.",
-    "Groundnuts appear in stews, sauces, and snacks. The main meal, benachin (rice cooked in tomato and fish), is eaten from a shared bowl — a tradition that says: what is mine is yours."
+    "The kora has 21 strings and a body made from a giant gourd. Griots, who are singing storytellers, travel between villages. They keep old stories alive without writing them down.",
+    "Groundnuts (peanuts) appear in stews, sauces and snacks. The main meal is benachin, rice cooked with tomato and fish. Everyone eats from one shared bowl."
   ],
   "history": [
-    "The Gambia River valley was part of the great Mali Empire, controlling gold and salt trade routes. Portuguese sailors arrived in 1455, one of Africa's earliest European contacts. Britain later used Banjul as a base to help end the slave trade.",
-    "Gambia gained independence on 18 February 1965. It briefly merged with Senegal as 'Senegambia' in the 1980s, but the union dissolved in 1989. A long dictatorship ended in 2017 via a peaceful democratic election."
+    "The Gambia River valley was part of the Mali Empire, which controlled the gold and salt trade. Portuguese sailors arrived in 1455. Britain later used Banjul to help end the slave trade.",
+    "Gambia gained independence on 18 February 1965. In the 1980s it joined Senegal as Senegambia, but the union ended in 1989. A long dictatorship ended in 2017."
   ],
   "wows": [
-    "Gambia is so narrow you can stand in its middle and be closer to the Atlantic than to any border town.",
-    "The sacred crocodile pool at Kachikally holds 80+ wild Nile crocs that calmly allow humans to touch them.",
-    "Over 560 bird species live in an area smaller than Yorkshire — world-class birding in miniature.",
-    "Gambia is almost entirely surrounded by one country — Senegal wraps around it on three sides.",
-    "The kora's 21 strings can sound like harp, guitar, and drum simultaneously — it takes years to master.",
-    "Gambia briefly vanished as a name: 1982–89 it merged with Senegal into the 'Senegambia' confederation.",
-    "Banjul's estuary is so wide the opposite bank is invisible — it looks exactly like open sea."
+    "At its narrowest, Gambia is only about 24 km wide.",
+    "The Kachikally pool holds over 80 wild Nile crocodiles.",
+    "Over 560 bird species live in an area smaller than Yorkshire.",
+    "Kunta Kinteh Island, a former slave-trade fort, is a UNESCO site.",
+    "A kora can sound like a harp, a guitar and a drum at once.",
+    "From 1982 to 1989, Gambia and Senegal formed Senegambia.",
+    "The Gambia River runs over 1,100 km from Guinea to the sea."
   ],
   "myths": [
     {
-      "myth": "Gambia is part of Senegal",
-      "fact": "Gambia is fully independent since 1965 — it just happens to be almost entirely surrounded by Senegal, which makes it appear enclave-like on maps."
+      "myth": "Hippos are slow and gentle",
+      "fact": "Hippos can sprint about 30 km/h on land. That is faster than most people can run. They are among Africa's most dangerous animals."
     },
     {
-      "myth": "Too small to be worth visiting",
-      "fact": "Despite its tiny size, Gambia packs in 560+ bird species, Atlantic beaches, hippos, and living griot music traditions that travellers fly continents to experience."
+      "myth": "Peanuts grow on trees",
+      "fact": "Peanuts grow underground. After the flower dies, its stem bends down and pushes the pod into the soil."
     }
   ],
   "words": [

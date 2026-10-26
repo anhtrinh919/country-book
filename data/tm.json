@@ -24,7 +24,7 @@
     "keyColor": "#1A7A3C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Turkmenistan is a vast desert country in Central Asia — 70% Karakum sand. Beneath it lies enough natural gas to rank 4th on Earth. Its marble capital Ashgabat holds Guinness records, a giant burning desert pit called the Door to Hell draws adventurers, and its golden Akhal-Teke horses are among the most beautiful animals alive.",
+  "lead": "Turkmenistan is a huge desert country in Central Asia. Karakum sand covers 70% of it. Under the sand lies the world's 4th-largest store of natural gas. A burning pit called the Door to Hell draws adventurers.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Desert beasts & gold steeds",
     "culture": "Carpets, horses & craft",
     "history": "Silk Roads & Soviet sands",
-    "wows": "Wait — seriously?!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "The Karakum — meaning 'black sand' in Turkmen — covers 70% of the country, making it one of Earth's largest sand deserts. Daytime temperatures hit 50°C, yet hardy saxaul trees and wildlife survive on barely a drop of rain.",
-    "Along the western edge lies the Caspian Sea, while the southeast rises into the Köýtendag mountains. Turkmenistan is landlocked, sharing borders with Iran, Afghanistan, Uzbekistan and Kazakhstan."
+    "Karakum means 'black sand' in Turkmen. This desert covers 70% of the country. Daytime heat hits 50°C. Hardy saxaul trees survive on barely a drop of rain.",
+    "The Caspian Sea lies to the west, and the Köýtendag mountains rise in the southeast. Turkmenistan borders Iran, Afghanistan, Uzbekistan, and Kazakhstan."
   ],
   "animals": [
-    "The Akhal-Teke horse is Turkmenistan's living national treasure — a breed 3,000 years old whose coat shimmers metallic gold in sunlight. UNESCO calls their breeding tradition intangible heritage. Locals say owning one is like owning a piece of the sky.",
-    "In the Karakum roam rare Turkmenian kulans (wild desert donkeys), secretive sand cats that pounce on jerboas by night, and the endangered Persian leopard in mountain forests. Over 80 reptile species include the giant desert monitor lizard."
+    "The Akhal-Teke is a horse breed 3,000 years old. Its coat shimmers like gold in sunlight. UNESCO lists its breeding tradition as living heritage.",
+    "Wild kulans (desert donkeys) roam the Karakum. Sand cats pounce on jerboas (tiny hopping rodents) at night. The endangered Persian leopard lives in the mountains. Over 80 reptile species live here."
   ],
   "culture": [
-    "Turkmen carpets are not just floor coverings — they are family stories knotted in wool. Mothers teach daughters each tribal pattern (called a gul) that identifies their clan. The five carpet guls on the national flag celebrate this living art form.",
-    "Turkmen Horse Day each April is a national holiday of parades and races honoring the Akhal-Teke. The national dish plov — rice, meat and carrots in one big pot — feeds whole villages, and green tea is poured before any conversation begins."
+    "Turkmen carpets are family stories knotted in wool. Each clan has its own pattern, called a gul. Five carpet guls appear on the national flag.",
+    "Turkmen Horse Day, each April, is a holiday of parades and races for the Akhal-Teke. Plov, the national dish, is rice, meat, and carrots in one pot."
   ],
   "history": [
-    "Ancient Turkmenistan sat on the famous Silk Road linking China to Rome. The city of Merv (near today's Mary) was once one of the world's largest cities, home to perhaps a million people in the 12th century.",
-    "Russia absorbed the region in the 1880s, and Turkmenistan became a Soviet republic. After independence in 1991, the first president renamed months after his family and built a gold rotating statue of himself that always faced the sun."
+    "Ancient Turkmenistan sat on the Silk Road between China and Rome. Merv, near today's Mary, held perhaps a million people in the 12th century.",
+    "Russia took the region in the 1880s. After independence in 1991, the first president renamed months after his family. He built a gold statue of himself that turned to face the sun."
   ],
   "wows": [
-    "Ashgabat's Guinness record: most white marble-clad buildings in the world — 543 of them.",
-    "Darvaza crater: drilled open by accident in 1971, deliberately lit to burn off gas. It blazed for 50+ years.",
-    "Turkmenistan holds the world's 4th largest natural gas reserves, behind Russia, Iran and Qatar.",
-    "Non-white cars were banned in Ashgabat from 2018 — the president believes white colour brings good luck.",
-    "The Akhal-Teke's hollow hair shafts scatter light like metal, giving a genuine gold shimmer — no dye needed.",
-    "The ancient city of Merv may have been the world's largest city in the 12th century.",
-    "The UN recognised Turkmenistan's permanent neutrality by resolution in 1995 — unique in the world."
+    "Ashgabat has 543 white marble-clad buildings, a Guinness world record.",
+    "Darvaza crater opened by accident in 1971, was lit on purpose, and burned for 50+ years.",
+    "Turkmenistan has the world's 4th-largest gas reserves, behind Russia, Iran, and Qatar.",
+    "Ashgabat banned non-white cars in 2018, as the president thinks white brings luck.",
+    "Hollow hairs make an Akhal-Teke shimmer like gold, with no dye.",
+    "Merv may have been the world's largest city in the 12th century.",
+    "In 1995, the UN recognised Turkmenistan's permanent neutrality, the only such case."
   ],
   "myths": [
     {
-      "myth": "Turkmenistan is all barren desert",
-      "fact": "While 70% is Karakum Desert, there's also Caspian coastline, mountain forests sheltering leopards, and fertile valleys that fed the ancient mega-city of Merv."
+      "myth": "Turkmenistan and Turkey are the same country",
+      "fact": "They are far apart, but their languages are cousins."
     },
     {
-      "myth": "The Door to Hell burned naturally",
-      "fact": "Soviet engineers accidentally drilled into a gas pocket in 1971, then deliberately lit it expecting a quick burnout. It blazed 50+ years before dying down around 2025."
+      "myth": "Nothing can grow in a desert country",
+      "fact": "The Karakum Canal carries river water across the sand. Farmers grow cotton and melons."
     }
   ],
   "words": [

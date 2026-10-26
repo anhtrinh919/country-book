@@ -24,7 +24,7 @@
     "keyColor": "#CE1126",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Laos is a forested kingdom tucked between six neighbours in Southeast Asia — the only landlocked country in the region. The Mekong River flows along its western edge, giving life to rice paddies and ancient temple towns. Monks collect alms at dawn, giant stone jars sit on misty plateaus, and wild elephants wade through jungle rivers.",
+  "lead": "Laos is a forested country in Southeast Asia. It is the only one in the region with no coast. The Mekong River flows along its western edge past rice paddies and temple towns. Wild elephants wade through jungle rivers.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Elephants, bears & river gods",
     "culture": "Monks, rice & festivals",
     "history": "Kingdoms, wars & bombs",
-    "wows": "Seven surprising facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Nearly three-quarters of Laos is steep mountain and thick jungle. The cool Bolaven Plateau is famous for coffee and waterfalls — at Kuang Si, water tumbles over white limestone into pools of brilliant turquoise.",
-    "The Mekong runs 1,835 km along the western border. Despite being landlocked, southern Laos holds Si Phan Don — the 'Four Thousand Islands' — a maze of river islands where you can watch the current drift past from a hammock."
+    "Nearly three-quarters of Laos is steep mountain and thick jungle. The cool Bolaven Plateau is famous for coffee and waterfalls. At Kuang Si, water tumbles over white limestone into turquoise pools.",
+    "The Mekong runs 1,835 km along the western border. In the south, Si Phan Don means 'Four Thousand Islands'. You can watch the river drift past from a hammock."
   ],
   "animals": [
-    "Laos was called the Land of a Million Elephants, and Asian elephants still roam its forests — around 700 remain. At Tad Lo river, elephants wade through the shallows at golden hour. Moon bears, clouded leopards, and the unicorn-like saola (discovered 1992) hide in the Annamite mountains.",
-    "The Mekong held Irrawaddy dolphins — round-headed, sacred freshwater mammals — but the last one in Laos died in 2022. Giant Mekong catfish, among the world's largest freshwater fish at up to 300 kg, still lurk in the deep river pools."
+    "Laos was called the Land of a Million Elephants. Around 700 Asian elephants still roam its forests. Moon bears, clouded leopards and the unicorn-like saola hide in the Annamite mountains.",
+    "The Mekong once held sacred Irrawaddy dolphins. The last one in Laos died in 2022. Giant Mekong catfish, up to 300 kg, still lurk in deep pools."
   ],
   "culture": [
-    "Laotians eat more sticky rice per person than any nation on Earth — about 171 kg each year. Meals are shared communally, with fish, herbs, and papaya salad called som tam alongside rice rolled into little balls.",
-    "Buddhism shapes every day. In Luang Prabang, hundreds of saffron-robed monks file silently through the streets at sunrise to collect rice — a ritual called Tak Bat. Festivals mark the seasons, from the Rocket Festival to candlelit Boun That Luang in November."
+    "People in Laos eat more sticky rice than anyone on Earth, about 171 kg a year each. Meals are shared, with fish, herbs and papaya salad called som tam.",
+    "Buddhism shapes daily life. At sunrise in Luang Prabang, hundreds of monks in saffron robes walk silently through the streets to collect rice. This ritual is called Tak Bat."
   ],
   "history": [
-    "The kingdom of Lan Xang — Million Elephants — was founded in 1353 and once stretched from the Yunnan border to Cambodia. Luang Prabang was its gilded capital, and the three-headed elephant symbol lived in royal flags for 600 years.",
-    "France colonised Laos in 1893. After independence in 1953, Laos was drawn into the Vietnam War. Between 1964–73, the US secretly dropped over two million tonnes of bombs. One third never exploded; UXO still injures people today."
+    "The kingdom of Lan Xang, 'Million Elephants', began in 1353. It once stretched from the Yunnan border to Cambodia. Luang Prabang was its gilded capital.",
+    "France colonised Laos in 1893. Laos gained independence in 1953. Between 1964 and 1973, the US secretly dropped over two million tonnes of bombs. A third never exploded and still hurts people."
   ],
   "wows": [
-    "Laos is Southeast Asia's only landlocked country — not one centimetre of coastline.",
-    "It is the most bombed country per capita in history: over two million tonnes of bombs fell 1964–73.",
-    "The Plain of Jars: thousands of stone vessels up to 14 tonnes, over 2,500 years old — origin still debated.",
-    "Laotians eat an average of 171 kg of sticky rice per person each year — a world record.",
-    "The saola, found in 1992, is so rare that no scientist has ever seen a live one in the wild.",
-    "Si Phan Don means 'Four Thousand Islands' — a landlocked nation richer in islands than many sea countries.",
-    "Pha That Luang in Vientiane is clad in real gold and appears on every Lao banknote."
+    "Laos is Southeast Asia's only landlocked country.",
+    "Laos is the most bombed country per person in history.",
+    "Stone jars on the Plain of Jars weigh up to 14 tonnes.",
+    "Laotians eat 171 kg of sticky rice a year, a world record.",
+    "No scientist has ever seen a live saola in the wild.",
+    "Landlocked Laos has Si Phan Don, the 'Four Thousand Islands'.",
+    "Pha That Luang in Vientiane is covered in real gold."
   ],
   "myths": [
     {
       "myth": "Laos is always hot and tropical",
-      "fact": "Highland towns like Phonsavan drop near freezing in winter, and the Bolaven Plateau is cool enough to grow strawberries year-round."
+      "fact": "Highland towns like Phonsavan drop near freezing in winter."
     },
     {
-      "myth": "The Plain of Jars is alien-made",
-      "fact": "The jars date to around 500 BC–AD 500 and were almost certainly used for funerary rituals by early Bronze Age peoples — remarkable human work."
+      "myth": "Elephants drink through their trunks",
+      "fact": "Elephants suck water up into the trunk. Then they squirt it into their mouths."
     }
   ],
   "words": [

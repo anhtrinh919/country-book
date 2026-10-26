@@ -24,7 +24,7 @@
     "keyColor": "#2D6A2D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Zimbabwe sits landlocked in southern Africa, where 900-year-old stone ruins gave the country its name. Victoria Falls — heard 40 km away — and Lake Kariba, the world's biggest man-made lake, live here. Elephant-packed savannah, ancient granite fortresses, and more official languages than any nation: Africa's wonder-packed heartland.",
+  "lead": "Zimbabwe is in southern Africa. It is named after its 900-year-old stone ruins. Victoria Falls roars so loudly you can hear it from 40 km away. Lake Kariba is the biggest man-made lake on Earth.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Falls, lakes & high plateaus",
     "animals": "Big Five & painted dogs",
-    "culture": "Stones, music & sadza",
+    "culture": "Mbira, sadza & wall art",
     "history": "Kingdoms, ruins & freedom",
-    "wows": "You won't believe this!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Zimbabwe sits on a high central plateau — the Highveld — at around 1,200 m, so it stays cooler than you'd expect near the equator. The Zambezi borders the north, then plunges over Victoria Falls: 1.7 km wide, 108 m tall, with spray that forms a permanent rainbow.",
-    "The Eastern Highlands rise to Mount Nyangani at 2,592 m — cold enough for frost in winter. Lake Kariba, formed when a dam was completed in 1959, stretches 280 km along the Zambian border and powers millions of homes."
+    "Zimbabwe sits on a high plateau called the Highveld, about 1,200 m up. Victoria Falls plunges 108 m and is 1.7 km wide. Its spray forms a permanent rainbow.",
+    "The Eastern Highlands rise to Mount Nyangani at 2,592 m. Frost forms there in winter. Lake Kariba, finished in 1959, stretches 280 km and powers millions of homes."
   ],
   "animals": [
-    "Zimbabwe is Big Five country — lion, leopard, rhino, elephant, and buffalo all roam here. Hwange National Park shelters around 40,000 elephants, one of Earth's densest populations, plus giraffe, zebra, and wild dogs.",
-    "The African painted dog is one of Zimbabwe's most endangered animals — about 660 in 86 packs, each with a unique coat like a fingerprint. The Zambezi also hosts enormous Nile crocodiles and huge pods of hippos."
+    "Zimbabwe has the Big Five: lion, leopard, rhino, elephant and buffalo. Hwange National Park shelters around 40,000 elephants, one of Earth's densest groups.",
+    "The African painted dog is one of Zimbabwe's most endangered animals. About 660 remain, in 86 packs. Nile crocodiles and hippos fill the Zambezi."
   ],
   "culture": [
-    "The Shona people — about 70% of Zimbabwe — have played the mbira, a thumb piano with metal keys, for over 1,000 years. It summons ancestors during healing ceremonies called bira, and its layered sound has influenced musicians worldwide.",
-    "The daily staple is sadza — stiff maize porridge scooped by hand and dipped into meat or pumpkin-leaf stew. The Ndebele people are famed for bold geometric murals painted on home walls in black, white, and red."
+    "The Shona people are about 70% of Zimbabwe. They have played the mbira, a thumb piano with metal keys, for over 1,000 years. Its music calls ancestors at healing ceremonies.",
+    "People scoop up sadza, a stiff maize porridge, and dip it in stew. The Ndebele paint bold patterns on house walls in black, white and red."
   ],
   "history": [
-    "About 900 years ago the Shona kingdom built a hilltop city of stacked granite — no mortar, just skill. It housed 18,000 people and traded gold as far as China. 'Zimbabwe' means 'great stone houses' in Shona.",
-    "British colonists arrived in 1890, renaming the land Rhodesia. On 18 April 1980 Zimbabwe raised its flag — the last African country to win independence from Britain. A new era opened in 2017 when Emmerson Mnangagwa took power."
+    "About 900 years ago, the Shona built a hilltop city of stacked granite, with no mortar. It held 18,000 people and traded gold with China. 'Zimbabwe' means 'great stone houses'.",
+    "British colonists arrived in 1890 and named the land Rhodesia. On 18 April 1980, Zimbabwe raised its flag. It was the last African country to win independence from Britain."
   ],
   "wows": [
-    "Zimbabwe has 16 official languages — a Guinness World Record for the most of any country.",
-    "In 2009 Zimbabwe printed a 100 trillion dollar note — the largest denomination ever — worth ~40 US cents.",
-    "Victoria Falls is so loud its roar carries 40 km, earning its Shona name: The Smoke That Thunders.",
-    "Lake Kariba is the world's largest man-made reservoir by volume — about 180 cubic kilometres of water.",
-    "Zimbabwe has more ancient rock-art sites than anywhere else in southern Africa, painted over 13,000 years.",
-    "Each African painted dog has a unique coat; no two wild dogs in the world look exactly the same.",
-    "Great Zimbabwe ruins cover 80 hectares — the biggest pre-modern stone complex in sub-Saharan Africa."
+    "Zimbabwe has 16 official languages, the most in any country.",
+    "In 2009, a 100 trillion dollar Zimbabwean note was worth 40 US cents.",
+    "Victoria Falls' Shona name means 'The Smoke That Thunders'.",
+    "Lake Kariba holds about 180 cubic kilometres of water.",
+    "Zimbabwe has southern Africa's most rock-art sites, painted over 13,000 years.",
+    "No two African painted dogs have the same coat.",
+    "Great Zimbabwe covers 80 hectares, sub-Saharan Africa's biggest pre-modern stone complex."
   ],
   "myths": [
     {
-      "myth": "Zimbabwe is just one big hot desert",
-      "fact": "Its central Highveld plateau sits at 1,200 m, keeping temperatures mild. The Eastern Highlands get heavy rain and frost on the peaks in winter."
+      "myth": "Wild dogs are greedy and fight over food",
+      "fact": "Painted dogs share. Pups eat first, and the pack feeds sick dogs."
     },
     {
-      "myth": "Victoria Falls is mostly on the Zambia side",
-      "fact": "Zimbabwe faces 75% of the falls. The widest, most dramatic sections — Main Falls and Rainbow Falls — are best seen from the Zimbabwean bank."
+      "myth": "Victoria Falls has always had that name",
+      "fact": "No. Explorer David Livingstone named it after Queen Victoria in 1855."
     }
   ],
   "words": [

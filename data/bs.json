@@ -24,7 +24,7 @@
     "keyColor": "#00B2CA",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Scatter 700 islands across the warm Atlantic, paint the water turquoise, and you have the Bahamas — where Columbus first set foot in the Americas in 1492, wild pigs swim to tourist boats, and most islands have nobody living on them, leaving endless empty beaches to explore.",
+  "lead": "The Bahamas has 700 islands in the warm Atlantic Ocean. The water is bright turquoise. Columbus first set foot in the Americas here in 1492. Wild pigs swim out to meet tourist boats. Most islands have nobody living on them. That leaves endless empty beaches to explore.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN ISLANDS:",
   "sections": {
     "geography": "A sea of 700 islands",
-    "animals": "Flamingos & reef kings",
+    "animals": "Flamingos and reef fish",
     "culture": "Conch, colour & carnival",
     "history": "Pirates to paradise",
-    "wows": "Hard to believe!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "The Bahamas stretches across 700 islands and 2,400 cays — but only about 30 are inhabited. The land is flat coral limestone, shaped by ancient reefs dissolved by rain and time, rarely more than a few metres above the sea.",
-    "Andros is the largest island and hides the world's third-longest barrier reef at 190 km. Underground, Lucayan National Park contains one of Earth's biggest underwater cave systems, completely invisible from the surface."
+    "The Bahamas has 700 islands and 2,400 cays (tiny islands). Only about 30 have people living on them. The land is flat coral limestone. Ancient reefs made it, and rain wore it down. Most of it is only a few metres above the sea.",
+    "Andros is the largest island. It has the world's third-longest barrier reef, at 190 km. Lucayan National Park has one of Earth's biggest underwater cave systems. You cannot see it from the surface."
   ],
   "animals": [
-    "The American flamingo is the national bird. Great Inagua shelters one of the world's largest breeding colonies — over 50,000 birds turn the shoreline pink as they wade through salt flats at dusk.",
-    "The Nassau grouper patrols coral reefs in dazzling camouflage, shifting spots within seconds. Once superabundant, it is now critically endangered because it gathers in huge spawning schools and was dangerously easy to catch."
+    "The American flamingo is the national bird. Great Inagua has one of the world's largest breeding colonies. Over 50,000 birds wade through the salt flats at dusk. They turn the shoreline pink.",
+    "The Nassau grouper patrols coral reefs. It changes its spots in seconds to hide. Once it was everywhere. Now it is critically endangered. It gathers in huge spawning schools (egg-laying groups), so it was far too easy to catch."
   ],
   "culture": [
-    "Junkanoo is the Bahamas' greatest party: a pre-dawn parade on Boxing Day and New Year's morning where teams in giant crepe-paper costumes dance to cowbells, goatskin drums, and brass bands. Roots go back to enslaved Africans celebrating rare holiday freedom; now a UNESCO heritage tradition.",
-    "Conch (say 'konk') is both national dish and obsession — eaten raw in salad, battered as fritters, or curried. The shell appears on the coat of arms. Lucayan people ate conch here 1,300 years ago and left vast shell middens archaeologists still study."
+    "Junkanoo is the Bahamas' biggest party. It is a parade before dawn on Boxing Day and New Year's morning. Teams in giant paper costumes dance to cowbells, goatskin drums, and brass bands. It began with enslaved Africans, who celebrated their rare holiday freedom. UNESCO now honours it.",
+    "Conch (say 'konk') is the national dish. People eat it raw in salad, fried as fritters, or in curry. The shell is on the coat of arms. The Lucayan people ate conch here 1,300 years ago. They left big shell piles that scientists still study."
   ],
   "history": [
-    "Columbus landed on San Salvador on 12 October 1492 — his first Americas contact. He named the region 'baja mar' (shallow sea). Within 25 years, Spanish slavers had taken every one of the 40,000 Lucayan people; the islands sat empty for over a century.",
-    "English settlers arrived in the 1640s, and pirates like Blackbeard soon ruled Nassau's harbour. Britain governed for 325 years until 10 July 1973, when the Bahamas raised its new aquamarine-and-gold flag and became fully independent."
+    "Columbus landed on San Salvador on 12 October 1492. It was his first Americas landing. He called the area 'baja mar' (shallow sea). Within 25 years, Spanish slavers had taken all 40,000 Lucayan people. The islands sat empty for over a century.",
+    "English settlers came in the 1640s. Pirates like Blackbeard soon ruled Nassau's harbour. Britain governed for 325 years. On 10 July 1973, the Bahamas raised its new aquamarine-and-gold flag. It became fully independent."
   ],
   "wows": [
-    "The Bahamas has more blue holes — underwater sinkholes — per square mile than anywhere on Earth.",
-    "Dean's Blue Hole on Long Island is 202 m deep; freedivers hold their breath past 100 m to set world records.",
-    "Wild pigs on Big Major Cay swim out to tourist boats seeking snacks; nobody knows how they arrived.",
-    "The Bahamian dollar has been pegged exactly 1-to-1 with the US dollar every single day since 1966.",
-    "Harbour Island's beach is naturally pink, coloured by millions of crushed red coral shell fragments.",
-    "There is no income tax, capital gains tax, or inheritance tax anywhere in the Bahamas.",
+    "The Bahamas has more blue holes (underwater sinkholes) per square mile than anywhere on Earth.",
+    "Dean's Blue Hole on Long Island is 202 m deep, and freedivers go past 100 m.",
+    "Wild pigs on Big Major Cay swim out to boats for snacks, and nobody knows how they arrived.",
+    "The Bahamian dollar has equalled the US dollar exactly since 1966.",
+    "Harbour Island's beach is naturally pink, coloured by crushed red coral shells.",
+    "The Bahamas has no income tax, capital gains tax, or inheritance tax.",
     "Columbus wrote that the Lucayan people were the most beautiful and gentle he had ever seen."
   ],
   "myths": [
     {
-      "myth": "Every Bahamian beach is white sand",
-      "fact": "Harbour Island's famous beach is pink, coloured by shell fragments from a local coral — one of only a handful of natural pink-sand beaches on the planet."
+      "myth": "A shell holds the sound of the sea",
+      "fact": "That sound is air moving around inside the shell. Cup your hand over your ear and you hear it too."
     },
     {
-      "myth": "The Bahamas is just one big island",
-      "fact": "There are 700 islands and 2,400 tiny cays; most have no roads or people — you could visit a new empty beach every day for years."
+      "myth": "Flamingos are born pink",
+      "fact": "Flamingo chicks are grey. They slowly turn pink from the shrimp and algae they eat."
     }
   ],
   "words": [

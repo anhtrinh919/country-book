@@ -2,7 +2,7 @@
   "name": "MALAYSIA",
   "nativeName": "MY",
   "romaji": "MALAYSIA",
-  "tagline": "Truly Asia, all at once",
+  "tagline": "All of Asia in one place",
   "region": "Southeast Asia",
   "coords": "4.21°N, 101.97°E",
   "fileNo": "043",
@@ -24,7 +24,7 @@
     "keyColor": "#CC0001",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Malaysia sits in the heart of Southeast Asia — split between a peninsula dangling from Thailand and two big states on Borneo. Rainforests older than the Amazon grow beside gleaming city towers, where Malay, Chinese, Indian, and dozens of indigenous cultures share the same streets — and the same extraordinary food.",
+  "lead": "Malaysia is in Southeast Asia. One part hangs down from Thailand. Two big states lie on the island of Borneo. Its rainforests are older than the Amazon. Many peoples share its busy streets and great food.",
   "facts": [
     {
       "label": "Capital",
@@ -66,41 +66,41 @@
   ],
   "islandsLabel": "MAIN REGIONS:",
   "sections": {
-    "geography": "Rainforests & twin peaks",
+    "geography": "Rainforest, caves & peaks",
     "animals": "Beasts of the jungle",
     "culture": "Spice, silk & festival light",
     "history": "Spice ports to skyscrapers",
     "wows": "Wait — really?"
   },
   "geo": [
-    "Malaysia's peninsula is mostly lush highlands draped in rainforest, with mangrove coasts on both sides. The Titiwangsa range runs down the spine like a green backbone, keeping the east coast wilder than the west.",
-    "Across the South China Sea, Sabah and Sarawak cover a vast chunk of Borneo. Rivers serve as highways, caves are the size of stadiums, and Mount Kinabalu stands alone above the clouds — a granite giant visible far out to sea."
+    "Rainforest covers the hills of the Malaysian peninsula. The Titiwangsa mountains run down it like a green backbone. The east coast is wilder than the west.",
+    "Sabah and Sarawak lie on Borneo. Rivers work as roads there. Some caves are as big as stadiums. Mount Kinabalu rises above the clouds."
   ],
   "animals": [
-    "Malaysia's rainforest is over 130 million years old. Orangutans swing through Borneo's canopy, pygmy elephants wade Sabah's rivers, and the Malayan tiger prowls the deep interior — fewer than 150 remain in the wild.",
-    "Proboscis monkeys with enormous noses honk from riverside trees. The Rafflesia — up to a metre wide — is the world's largest flower. Fireflies light up mangrove trees along the Selangor River like a living Christmas display every night."
+    "Malaysia's rainforest is over 130 million years old. Orangutans swing through Borneo's trees. Pygmy elephants wade in Sabah's rivers. Fewer than 150 Malayan tigers remain in the wild.",
+    "Proboscis monkeys have huge noses and honk from riverside trees. The Rafflesia, up to a metre wide, is the world's largest flower. Fireflies light up mangrove trees on the Selangor River."
   ],
   "culture": [
-    "Malaysia is a mosaic: Malay, Chinese, Indian, and over 60 indigenous groups. Hari Raya, Chinese New Year, Deepavali, and Christmas are all public holidays — and everyone tends to join everyone else's celebrations.",
-    "Food is the national obsession. Nasi lemak, roti canai, char kway teow, and laksa all exist within a short walk in any town. The Petronas Twin Towers — world's tallest 1998–2004 — loom over a city that never stops eating."
+    "Malay, Chinese, Indian and over 60 native groups live here. Hari Raya, Chinese New Year, Deepavali and Christmas are all public holidays. People often join each other's parties.",
+    "Food is the national favourite. Nasi lemak, roti canai, char kway teow and laksa are all a short walk apart. The Petronas Twin Towers were the world's tallest from 1998 to 2004."
   ],
   "history": [
-    "Malacca was Southeast Asia's greatest trading port in the 1400s — Arab, Indian, Chinese, and Javanese merchants all docked here. The Portuguese seized it in 1511, then the Dutch, then the British, leaving a layered colonial old town still standing.",
-    "Britain knitted the sultanates into British Malaya and added North Borneo. Independence came 31 August 1957 — Merdeka! Malaysia as a federation formed in 1963, transforming from a tin-and-rubber economy into a high-tech hub in decades."
+    "Malacca was the top trading port in Southeast Asia in the 1400s. Merchants from Arabia, India, China and Java came. The Portuguese took it in 1511, then the Dutch, then the British.",
+    "Britain joined the sultanates into British Malaya. Malaysia became independent on 31 August 1957. Everyone shouted Merdeka (freedom)! Malaysia became one federation in 1963."
   ],
   "wows": [
-    "Mulu's Sarawak Chamber is the world's largest cave room — big enough to fit 40 Boeing 747s.",
-    "Malaysia produces about a quarter of the world's palm oil — one of the top two producers.",
-    "The Petronas sky bridge connects the Twin Towers at floors 41–42 — 170 metres up.",
-    "Sabah and Sarawak are separated from Peninsular Malaysia by the South China Sea.",
-    "The tapir has barely changed in 20 million years — a living fossil still roaming Malaysian forests.",
-    "Kuala Lumpur means 'muddy confluence' — it started as a tin-mining camp in the 1850s.",
-    "Deer Cave in Mulu houses around three million bats that spiral out at dusk like a dark tornado."
+    "The world's biggest cave room, in Mulu, fits 40 Boeing 747s.",
+    "Malaysia makes about a quarter of the world's palm oil.",
+    "A sky bridge links the Twin Towers at floors 41 and 42, 170 metres up.",
+    "The South China Sea splits Malaysia in two.",
+    "The tapir has barely changed in 20 million years.",
+    "Kuala Lumpur means muddy confluence. It began as a tin-mining camp in the 1850s.",
+    "Around three million bats spiral out of Deer Cave at dusk."
   ],
   "myths": [
     {
-      "myth": "Malaysia is just jungle with no cities",
-      "fact": "Kuala Lumpur has one of Asia's most dramatic skylines, and over 70% of Malaysians live in cities — with fast internet and highways to match."
+      "myth": "The world's biggest flower smells sweet",
+      "fact": "The Rafflesia smells like rotting meat. That draws flies, which carry its pollen."
     },
     {
       "myth": "It's always unbearably hot",

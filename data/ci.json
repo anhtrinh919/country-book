@@ -24,7 +24,7 @@
     "keyColor": "#F77F00",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Côte d'Ivoire — French for \"Ivory Coast\" — hugs West Africa's Atlantic shore. It grows nearly half the world's cocoa, so almost every chocolate bar starts here. Two capitals share power: Yamoussoukro holds the official title while Abidjan runs the economy. Over 60 peoples and 75 languages fill this vibrant, music-loving nation.",
+  "lead": "Côte d'Ivoire means \"Ivory Coast\" in French. It is in West Africa. It grows nearly half the world's cocoa. Yamoussoukro is the official capital, but Abidjan runs the economy. Over 60 peoples live here and speak 75 languages.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Wild & wonderful facts"
   },
   "geo": [
-    "Côte d'Ivoire slopes from dusty northern savanna down to dense southern rainforest. The Atlantic coast is fringed with lagoons and fishing villages. Abidjan sits on islands connected by bridges across a glittering lagoon.",
-    "In the far west, the Nimba mountains rise to 1,752 m — a UNESCO rainforest shared with Guinea. Fifty springs tumble off their slopes. Four major rivers cross the country's 322,460 km², giving farmers water year-round."
+    "The land slopes from dry savanna in the north to thick rainforest in the south. Lagoons and fishing villages line the Atlantic coast. Abidjan sits on islands joined by bridges.",
+    "The Nimba mountains in the far west rise to 1,752 m. This UNESCO rainforest is shared with Guinea. Four big rivers cross the country's 322,460 km²."
   ],
   "animals": [
-    "The African forest elephant — rounder-eared and smaller than its savanna cousin — is the national animal. Taï National Park shelters leopards, bongo antelopes, and western chimpanzees that scientists have studied for 50 years.",
-    "The pygmy hippopotamus — a forest hippo roughly the size of a large pig — hides in Taï's streams. It is among Earth's rarest large mammals. Olive colobus monkeys, hundreds of bird species, and patterned chameleons share this lush world."
+    "The African forest elephant is the national animal. Taï National Park shelters leopards, bongo antelopes and western chimpanzees. Scientists have studied the chimps for 50 years.",
+    "The pygmy hippopotamus hides in Taï's streams. This forest hippo is the size of a large pig. It is one of Earth's rarest large mammals."
   ],
   "culture": [
-    "Côte d'Ivoire has 60+ ethnic groups. Baoulé people craft intricate gold jewellery and wooden masks worn at festivals. Dan masks from the west are believed to carry their own spirit. Markets burst with colour, noise, and the scent of grilled fish.",
-    "Music is everywhere — Coupé-Décalé, born in Abidjan, mixes electronic beats with flamboyant dance and went global in the 2000s. Maquis restaurants serve smoky braised chicken with attiéké. Aloko — fried plantain with chilli — is the favourite street snack."
+    "Over 60 ethnic groups live in Côte d'Ivoire. Baoulé people make fine gold jewellery and wooden masks. Many believe Dan masks carry their own spirit.",
+    "Coupé-Décalé music was born in Abidjan. Maquis restaurants serve smoky braised chicken with attiéké (cassava couscous). Aloko, fried plantain with chilli, is a favourite street snack."
   ],
   "history": [
-    "Portuguese traders arrived in the 1400s, naming the shore for the ivory they bought. France made it a colony in 1893. In 1960 Félix Houphouët-Boigny led peaceful independence and built one of Africa's wealthiest economies on cocoa and coffee.",
-    "His biggest monument: the Basilica of Our Lady of Peace in Yamoussoukro — completed 1989, bigger than St Peter's in Rome. After civil conflict in the 2000s the country rebuilt fast. It won the Africa Cup of Nations on home soil in 2024."
+    "Portuguese traders came in the 1400s. They named the shore after the ivory they bought. France made it a colony in 1893. Félix Houphouët-Boigny led peaceful independence in 1960.",
+    "His biggest monument is the Basilica of Our Lady of Peace in Yamoussoukro. It was finished in 1989 and is bigger than St Peter's in Rome. The country rebuilt fast after civil conflict in the 2000s."
   ],
   "wows": [
-    "Côte d'Ivoire grows ~45% of the world's cocoa — nearly every chocolate bar starts here.",
+    "Côte d'Ivoire grows about 45% of the world's cocoa.",
     "Abidjan is the world's 3rd-largest French-speaking city, after Kinshasa and Paris.",
-    "The Yamoussoukro basilica is the biggest church on Earth, dome taller than the Panthéon.",
-    "Yamoussoukro only became official capital in 1983; Abidjan still does most governing.",
-    "Taï chimps use stone tools to crack nuts — a skill passed down through generations.",
-    "Since 1960, about 90% of Côte d'Ivoire's original rainforest has been cleared for farms.",
+    "The Yamoussoukro basilica is the biggest church on Earth.",
+    "Yamoussoukro only became the official capital in 1983.",
+    "Taï chimps crack nuts with stone tools.",
+    "Since 1960, about 90% of the original rainforest has been cleared for farms.",
     "The country has won the Africa Cup of Nations four times, most recently in 2024."
   ],
   "myths": [
     {
-      "myth": "\"Ivory Coast\" still exports ivory",
-      "fact": "The name recalls centuries-old ivory trade. Today the country exports cocoa, cashews, and rubber — international ivory trade has been banned since 1989."
+      "myth": "Cocoa beans taste like chocolate fresh from the tree",
+      "fact": "Fresh beans are bitter and pale. They must be fermented, dried and roasted first."
     },
     {
-      "myth": "It’s one big jungle",
-      "fact": "The north is dry savanna with mango trees and barely any rain for half the year; tropical rainforest covers only the south and west."
+      "myth": "Chimpanzees are monkeys",
+      "fact": "Chimps are apes, like us. Apes have no tail. Most monkeys do."
     }
   ],
   "words": [

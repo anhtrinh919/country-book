@@ -24,7 +24,7 @@
     "keyColor": "#CE1126",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Yemen sits at the tip of Arabia, where ancient spice routes met the sea. Its highlands were home to great kingdoms when most of Europe's cities didn't exist — the legendary Queen of Sheba ruled here 3,000 years ago. Today Yemen holds mud-brick skyscrapers, otherworldly dragon-blood trees, and the \"Galápagos of the Indian Ocean.\"",
+  "lead": "Yemen sits at the tip of Arabia, beside the sea. Its highlands had great kingdoms before most European cities existed. The legendary Queen of Sheba ruled here 3,000 years ago. Today it has mud-brick skyscrapers.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES & REGIONS:",
   "sections": {
-    "geography": "Desert, mountains & old seas",
-    "animals": "Dragons, leopards & rare birds",
-    "culture": "Coffee, towers & silver art",
-    "history": "Spice kings & sky cities",
-    "wows": "Hard to believe, but true!"
+    "geography": "Desert, mountains & islands",
+    "animals": "Leopards, ibex & dragon trees",
+    "culture": "Mud towers & first coffee",
+    "history": "Spice kings & coffee ports",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Yemen's highlands are the wettest corner of Arabia — terraced farms cling to slopes at 2,000 m, fed by monsoon rains that never reach the flat desert kingdoms nearby. The Red Sea and Arabian Sea squeeze it into a dramatic horn shape.",
-    "To the east stretches the Empty Quarter, the world's largest sand desert. Off the coast, the remote Socotra archipelago sits closer to Somalia than to Sana'a, marooned like a lost world in the Indian Ocean."
+    "Yemen's highlands are the wettest part of Arabia. Monsoon rains feed terraced farms 2,000 m up. Two seas squeeze Yemen into a horn shape.",
+    "The Empty Quarter, the biggest sand desert on Earth, lies to the east. Far offshore, the Socotra islands sit closer to Somalia than to Sana'a."
   ],
   "animals": [
-    "Yemen's national animal is the Arabian leopard — one of the world's rarest big cats, with fewer than 200 surviving in remote highland cliffs. Nubian ibex and Arabian wolves also pick their way across the rugged mountain terrain.",
-    "On Socotra, evolution ran wild in isolation: nearly 700 species live nowhere else. The dragon blood tree fans out like a giant umbrella and bleeds vivid red sap when cut — it looks like something from another planet."
+    "The Arabian leopard is Yemen's national animal. Fewer than 200 survive on remote highland cliffs. Nubian ibex and Arabian wolves also climb the rocky hills.",
+    "On Socotra, nearly 700 species live nowhere else. The dragon blood tree looks like a giant umbrella. It bleeds bright red sap when cut."
   ],
   "culture": [
-    "Yemenis have built in mud for thousands of years — Shibam's tower blocks rise up to 11 storeys from the desert floor, earning the nickname 'Manhattan of the Desert.' Old Sana'a's ornate houses are dressed in white geometric plasterwork.",
-    "Coffee was first brewed as a drink in Yemen in the 15th century, by Sufi monks who needed to stay awake through night prayers. The port of Mocha gave its name to mocha coffee — every mocha carries a little piece of Yemen."
+    "Yemenis have built with mud for thousands of years. Shibam's tower blocks rise up to 11 storeys. People call it the 'Manhattan of the Desert'.",
+    "In the 15th century, Sufi monks in Yemen first brewed coffee. It kept them awake for night prayers. The port of Mocha gave mocha coffee its name."
   ],
   "history": [
-    "Three thousand years ago, the Kingdom of Saba — home of the legendary Queen of Sheba — controlled the incense road linking India to the Mediterranean. Yemeni frankincense and myrrh were worth more than gold in the ancient world.",
-    "Yemen was where coffee first became a drink, and the port of Mocha ran the entire world's coffee trade until the 1600s, when Dutch traders smuggled seedlings to their colonies and finally broke the monopoly."
+    "Three thousand years ago, the Kingdom of Saba controlled the incense road from India to the Mediterranean. Frankincense and myrrh were worth more than gold.",
+    "Mocha ran the world's coffee trade until the 1600s. Then Dutch traders smuggled coffee seedlings to their colonies and broke Yemen's hold."
   ],
   "wows": [
-    "Shibam's mud towers are the world's oldest high-rise apartment buildings, some rising 11 storeys tall.",
-    "The dragon blood tree bleeds bright-red resin used as paint and medicine for over 2,000 years.",
-    "Jabal An-Nabi Shu'ayb is the highest peak in all of Arabia at 3,666 m.",
-    "The ancient Marib Dam, built around the 8th century BC, irrigated vast farmland — an engineering marvel.",
-    "About 37% of Socotra's plant species grow absolutely nowhere else on Earth.",
-    "The word 'mocha' comes from Al-Mukha, a real Yemeni port city.",
-    "Old Sana'a has been continuously inhabited for over 2,500 years."
+    "Shibam's mud towers are the world's oldest high-rise apartments.",
+    "Dragon blood tree resin has been paint and medicine for over 2,000 years.",
+    "Jabal An-Nabi Shu'ayb, at 3,666 m, is Arabia's highest peak.",
+    "The Marib Dam, built around the 8th century BC, watered huge farms.",
+    "About 37% of Socotra's plants grow nowhere else on Earth.",
+    "The word 'mocha' comes from Al-Mukha, a Yemeni port.",
+    "People have lived in Old Sana'a for over 2,500 years."
   ],
   "myths": [
     {
-      "myth": "Yemen is just flat, hot desert",
-      "fact": "Yemen's highlands get monsoon rains and rise to 3,700 m. The capital Sana'a sits at a cool 2,300 m, and terraced mountain farms have fed people here for millennia."
+      "myth": "Socotra belongs to Somalia",
+      "fact": "Socotra belongs to Yemen. UNESCO named it a World Heritage Site in 2008."
     },
     {
-      "myth": "The Queen of Sheba is confirmed history",
-      "fact": "Yemen's ancient Sabaean kingdom was powerful and real, but thousands of royal inscriptions have never named a ruling queen — she remains a magnificent legend."
+      "myth": "Coffee beans grow on bean plants",
+      "fact": "They are seeds inside a red fruit called a coffee cherry."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#65CFFF",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Saint Lucia is a volcanic Caribbean island famous for the Pitons — two dramatic cones rising straight from the sea. Nicknamed \"Helen of the West Indies,\" it changed hands between Britain and France fourteen times. Today it has rainforests, a drive-in volcano, coral reefs, and banana plantations on every hillside.",
+  "lead": "Saint Lucia is a volcanic island in the Caribbean. Two steep cones called the Pitons rise straight from the sea. Britain and France fought over it fourteen times. It has rainforest, reefs and banana farms.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Creatures of the rainforest",
     "culture": "Carnival colours & Creole",
     "history": "Fought over 14 times",
-    "wows": "Surprising Saint Lucia facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Saint Lucia sits between the Caribbean Sea and the Atlantic, shaped by ancient volcanoes. The twin Pitons — Gros Piton (770 m) and Petit Piton (743 m) — are a UNESCO World Heritage Site visible far out at sea.",
-    "The island's interior is thick tropical rainforest fed by 2,000 mm of rain each year. Sulphur Springs near Soufrière is the world's only drive-in volcano — you park beside bubbling grey mud and smell the hot earth."
+    "Saint Lucia sits between the Caribbean Sea and the Atlantic. The twin Pitons, Gros Piton (770 m) and Petit Piton (743 m), are a UNESCO World Heritage Site.",
+    "Thick rainforest covers the inland, fed by 2,000 mm of rain a year. Sulphur Springs near Soufrière is the world's only drive-in volcano. You park beside bubbling grey mud."
   ],
   "animals": [
-    "Saint Lucia is home to the Saint Lucia Parrot (Jacquot) — a brilliant green bird with red, blue and yellow markings found nowhere else on Earth. Fewer than 150 survived in the 1970s; conservation brought numbers back to over 1,000.",
-    "Leatherback sea turtles — heavier than a motorbike — haul themselves up Saint Lucia's beaches each spring to nest. The island's reefs shelter seahorses, flying fish, and the frogfish, which disguises itself as a bumpy rock."
+    "The Saint Lucia Parrot, or Jacquot, is bright green with red, blue and yellow markings. It lives nowhere else. Fewer than 150 survived in the 1970s. Now over 1,000 do.",
+    "Leatherback sea turtles, heavier than a motorbike, nest on the beaches each spring. Reefs shelter seahorses and flying fish. The frogfish disguises itself as a bumpy rock."
   ],
   "culture": [
-    "Saint Lucians blend French, African and British traditions. The Creole language Kwéyòl sounds like French through a Caribbean filter and has its own national day — Jounen Kwéyòl — celebrated every October with food, music and storytelling.",
-    "The island has two Nobel Prize winners — the most per capita anywhere. Carnival erupts each July with soca music and dazzling costumes. The national dish is green fig and saltfish, and cricket is practically a religion."
+    "Saint Lucians blend French, African and British traditions. The Creole language Kwéyòl sounds like French with a Caribbean twist. Its national day, Jounen Kwéyòl, comes every October with food and music.",
+    "Carnival bursts out each July with soca music and dazzling costumes. The national dish is green fig and saltfish. Cricket is practically a religion."
   ],
   "history": [
-    "Indigenous Arawak then Carib people lived here long before Europeans arrived. The island's strategic harbour made it a prize: Britain and France swapped control fourteen times between 1660 and 1814 — a Caribbean record.",
-    "Enslaved Africans were brought to work sugar plantations; their descendants form most of today's population. Slavery ended in 1834. Saint Lucia gained full independence on 22 February 1979 and flies its blue-gold Piton flag."
+    "Arawak, then Carib, people lived here long before Europeans came. The harbour was a prize. Britain and France swapped control fourteen times between 1660 and 1814, a Caribbean record.",
+    "Enslaved Africans worked the sugar plantations. Their descendants form most of the population today. Slavery ended in 1834. Saint Lucia became fully independent on 22 February 1979."
   ],
   "wows": [
-    "Saint Lucia has 2 Nobel Prize winners — more per capita than any other country on Earth.",
-    "The Pitons are so iconic that Saint Lucia can be identified from space by their shape alone.",
-    "Sulphur Springs lets you drive a car to within 20 m of boiling volcanic mud — unique on Earth.",
-    "The Saint Lucia Parrot rose from 150 birds in 1977 to 1,000+ today thanks to passionate local conservation.",
-    "Saint Lucia changed colonial rulers 14 times, leaving French AND British fingerprints on everything.",
-    "Bananas grown in volcanic soil here taste noticeably sweeter than most store-bought varieties.",
-    "The twin Pitons create a natural windbreak giving Soufrière bay some of the calmest sailing in the Caribbean."
+    "Two Nobel winners make Saint Lucia a world leader per person.",
+    "The Pitons are so famous that their shape alone says Saint Lucia.",
+    "At Sulphur Springs, you can drive within 20 m of boiling mud.",
+    "Parrot numbers grew from 150 in 1977 to over 1,000.",
+    "Saint Lucia changed rulers 14 times, leaving French and British marks.",
+    "Bananas grown in its volcanic soil taste sweeter than most.",
+    "The twin Pitons shelter Soufrière bay, giving calm sailing."
   ],
   "myths": [
     {
-      "myth": "The Pitons are one mountain",
-      "fact": "They are two separate volcanic plugs — Gros Piton (770 m) and Petit Piton (743 m) — with a valley between them, though they look merged when viewed from the sea."
+      "myth": "Bananas grow on trees",
+      "fact": "A banana plant is a giant herb with no wood. Its trunk is tightly wrapped leaves."
     },
     {
-      "myth": "Drive-in volcano = active eruption",
-      "fact": "Sulphur Springs is a geothermal field of steam vents and boiling mud — dramatic and smelly, but Soufrière last erupted roughly 20,000 years ago."
+      "myth": "All turtles have hard shells",
+      "fact": "The leatherback's shell is soft and leathery, with no hard plates."
     }
   ],
   "words": [

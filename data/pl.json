@@ -24,7 +24,7 @@
     "keyColor": "#C7102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Poland sits in the heart of Europe on a vast flat plain. It was wiped off the map for 123 years, rebuilt its capital from rubble, and produced world-famous scientists and musicians. Today nearly 38 million people call it home — famous for pierogies, Baltic amber, and a white eagle that has been Poland's symbol for over a thousand years.",
+  "lead": "Poland sits in the middle of Europe on a big flat plain. Its capital was rebuilt from rubble. A white eagle has been its symbol for over a thousand years. Nearly 38 million people live here.",
   "facts": [
     {
       "label": "Capital",
@@ -65,45 +65,45 @@
   ],
   "islandsLabel": "BIG REGIONS:",
   "sections": {
-    "geography": "A land of plains & mountains",
+    "geography": "Plains, peaks & old forest",
     "animals": "Bison, lynx & eagles",
     "culture": "Pierogies, polkas & amber",
-    "history": "Lost & found — 1,000 years",
-    "wows": "Things that'll blow your mind"
+    "history": "Lost & found, 1,000 years",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Poland is mostly one vast flat plain, so it has always been easy to cross — which is why so many armies marched through it. Mighty rivers like the Vistula and Oder flow north to the Baltic Sea, passing ancient cities and dark pine forests.",
-    "The south is completely different: the Tatra Mountains rise sharply along the Slovak border with rocky peaks where ibex leap between cliffs. In between lie rolling hills, glacier lakes, and the vast primeval Białowieża Forest."
+    "Poland is mostly one big flat plain. Armies could march across it with ease. The Vistula and Oder rivers flow north to the Baltic Sea.",
+    "The Tatra Mountains rise along the Slovak border in the south. Ibex leap between rocky cliffs. The ancient Białowieża Forest spreads through the east."
   ],
   "animals": [
-    "Poland's most famous animal is the European bison — the heaviest land animal in Europe. Hunted to extinction in the wild by 1927, scientists bred them back from zoo animals and released them. Over 2,000 now roam free across Poland, with the largest herd in ancient Białowieża Forest.",
-    "The Tatra Mountains shelter brown bears, wolves, and the lynx — a cat with huge paws built for snow. White-tailed eagles soar above Polish lakes, and Poland hosts roughly 25% of all white storks in the world; villages celebrate when storks nest on chimneys."
+    "The European bison is Europe's heaviest land animal. By 1927, none were left in the wild. Scientists bred them from zoo animals. Over 2,000 now roam free. The biggest herd lives in Białowieża Forest.",
+    "Brown bears, wolves, and lynx live in the Tatra Mountains. The lynx has huge paws for walking on snow. White storks nest on village chimneys, and villagers cheer."
   ],
   "culture": [
-    "Polish food is hearty: pierogi (dough pockets stuffed with potato, cheese, or berries), żurek (sour rye soup), and bigos (hunter's stew). Amber from the Baltic coast has been traded for 3,000 years — Poland crafts around 70% of the world's amber jewellery.",
-    "Music is huge: Frédéric Chopin was Polish, and every five years pianists compete in Warsaw's famous Chopin Competition. Christmas is the biggest celebration, with an extra plate left at the table for any stranger who might need a meal."
+    "Pierogi are dough pockets stuffed with potato, cheese, or berries. Żurek is sour rye soup. Bigos is hunter's stew. Amber from the Baltic coast has been traded for 3,000 years.",
+    "Frédéric Chopin was Polish. Every five years, pianists compete in Warsaw's Chopin Competition. At Christmas, families leave an extra plate for a stranger in need."
   ],
   "history": [
-    "Poland became a kingdom over 1,000 years ago. By the 16th century the Polish-Lithuanian Commonwealth was one of Europe's largest states. Then three powerful neighbours carved Poland up and erased it from maps entirely for 123 years.",
-    "Poland reappeared in 1918, then suffered terribly in WWII — Warsaw was nearly destroyed and six million citizens were killed. In 1989 the Solidarity trade union movement achieved a peaceful revolution and won Poland's first free elections."
+    "Poland became a kingdom over 1,000 years ago. By the 16th century, it was one of Europe's biggest states. Then three neighbours split it up. Poland vanished from maps for 123 years.",
+    "Poland returned in 1918. In World War II, Warsaw was nearly destroyed, and six million citizens were killed. In 1989, the Solidarity union won Poland's first free elections peacefully."
   ],
   "wows": [
-    "Poland was erased from world maps for 123 years yet language and culture survived.",
-    "Warsaw's Old Town was rebuilt brick-by-brick using 18th-century paintings as blueprints.",
-    "Marie Curie, two-time Nobel laureate in two sciences, was born in Warsaw in 1867.",
-    "Poland crafts around 70% of the world's amber jewellery — resin from forests 40 million years old.",
-    "European bison were extinct in the wild by 1927 but bred back; 2,000+ now roam free in Poland.",
-    "About 25% of all white storks on Earth nest in Poland every summer.",
-    "Wieliczka Salt Mine has underground chapels and chandeliers carved entirely from salt."
+    "Poland vanished from world maps for 123 years.",
+    "Warsaw's Old Town was rebuilt using 18th-century paintings.",
+    "Marie Curie, born in Warsaw in 1867, won Nobel Prizes in two sciences.",
+    "Poland crafts about 70% of the world's amber jewellery.",
+    "Bison vanished from the wild by 1927, yet 2,000+ roam now.",
+    "About 25% of the world's white storks nest in Poland.",
+    "Wieliczka Salt Mine has chapels and chandeliers made of salt."
   ],
   "myths": [
     {
       "myth": "Poland is always cold and grey",
-      "fact": "Summers regularly hit 30°C; Kraków and Gdańsk are sunny, colourful cities with thriving café cultures and beautiful medieval squares."
+      "fact": "Summers often hit 30°C. Kraków and Gdańsk are sunny, colourful cities."
     },
     {
       "myth": "Polish spelling is impossible to learn",
-      "fact": "Polish spelling is consistent — each letter makes one sound. Once you know sz=sh and cz=ch, words like Szczecin become readable quickly."
+      "fact": "Each letter makes one sound. Learn that sz is sh and cz is ch, and it gets easy."
     }
   ],
   "words": [

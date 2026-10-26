@@ -24,7 +24,7 @@
     "keyColor": "#2B6B3C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Vanuatu is 83 volcanic islands in the South Pacific. Its people speak more languages per person than anywhere — 138 tongues for under 340,000 people. A volcano you can walk right up to, a ritual that inspired bungee jumping, and a tribe that once worshipped a British prince: extraordinary tales, tiny islands.",
+  "lead": "Vanuatu is 83 volcanic islands in the South Pacific. Under 340,000 people live here, and they speak 138 languages. You can walk right up to an active volcano. One tribe once worshipped a British prince.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN ISLANDS:",
   "sections": {
-    "geography": "A land of islands & fire",
+    "geography": "Volcano islands in the sea",
     "animals": "Crabs, bats & reef life",
     "culture": "Kastom, kava & community",
     "history": "Two colonies, one free nation",
-    "wows": "Extraordinary Vanuatu"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Vanuatu sits on the Pacific Ring of Fire, where tectonic plates push volcanic mountains through the sea. The archipelago stretches 1,300 km north to south; Espiritu Santo, the largest island, holds the highest peak, Mt Tabwemasana, at 1,877 m.",
-    "Narrow beaches give way to dense rainforest and rugged highlands. Underwater, coral gardens flourish alongside the wreck of the SS President Coolidge, sunk in 1942 and now one of the world's great dive sites."
+    "Vanuatu sits on the Pacific Ring of Fire, where moving plates push up volcanoes. The islands stretch 1,300 km. The biggest, Espiritu Santo, has the highest peak, Mt Tabwemasana, at 1,877 m.",
+    "Rainforest covers the hills. Coral gardens grow under the sea. The SS President Coolidge, sunk in 1942, is a famous dive site."
   ],
   "animals": [
-    "The coconut crab — Earth's largest land crab — prowls the islands at night, cracking open coconuts with claws strong enough to bend steel. Vanuatu's own flying fox pollinates forests at dusk.",
-    "Seven bird species are found nowhere else on Earth. Dugongs graze on sea grass in sheltered bays, and brilliantly coloured parrotfish crunch coral on every reef."
+    "The coconut crab is Earth's largest land crab. Its claws can crack coconuts and bend steel. Vanuatu's own flying fox spreads pollen at night.",
+    "Seven bird species live nowhere else on Earth. Dugongs graze on sea grass in calm bays. Bright parrotfish crunch coral on every reef."
   ],
   "culture": [
-    "Kastom — Bislama for traditional culture — governs daily life. Every village has its own version, but all share respect for elders and the land. Kava, made from the pepper plant root, is shared at nakamals (kava bars) each evening as the main social ritual.",
-    "Three official languages (Bislama, English, French) survive from colonial rule. Traditional ceremonies mix chiefly rank, costumes, and drumming. Weaving, wood carving, and sand drawing are living art forms passed from grandparent to child."
+    "Kastom is Bislama for traditional culture. Each village has its own kind. Every evening, people share kava (a drink from pepper plant root) at a nakamal, or kava bar.",
+    "Bislama, English and French are the official languages. Ceremonies mix costumes, chiefly rank and drumming. Weaving, wood carving and sand drawing pass from grandparent to child."
   ],
   "history": [
-    "Melanesian people settled these islands around 3,000 years ago. By 1906, Britain and France created the New Hebrides Condominium — two governments, two police forces, two prison systems, running at once on the same islands.",
-    "Vanuatu declared independence on 30 July 1980. The name means 'our land stands forever.' Today it ranks among the world's happiest nations, topping the Happy Planet Index in both 2006 and 2024."
+    "Melanesian people settled these islands about 3,000 years ago. In 1906, Britain and France ran the New Hebrides Condominium: two governments, two police forces, two prisons.",
+    "Vanuatu became independent on 30 July 1980. Its name means 'our land stands forever'."
   ],
   "wows": [
-    "Vanuatu has more languages per person than any country: 138 tongues for under 340,000 people.",
-    "Mt Yasur on Tanna has erupted nearly non-stop for centuries — the world's most accessible active volcano.",
-    "The nagol land-dive on Pentecost — men leap from towers with vine-ankles — directly inspired bungee jumping.",
-    "Vanuatu ranked No. 1 on the Happy Planet Index in both 2006 and 2024, twenty years apart.",
-    "A Tanna tribe once worshipped Prince Philip as a god and exchanged signed portraits with Buckingham Palace.",
-    "There is no income tax, no corporate tax, and no capital gains tax anywhere in Vanuatu.",
-    "The coconut crab found here is the world's largest land arthropod, weighing up to 4 kg."
+    "Vanuatu has more languages per person than any country.",
+    "Mt Yasur on Tanna has erupted almost non-stop for centuries.",
+    "Pentecost's tower jump, with vines on ankles, inspired bungee jumping.",
+    "Vanuatu ranked No. 1 on the Happy Planet Index in 2006 and 2024.",
+    "A Tanna tribe once worshipped Prince Philip as a god.",
+    "Vanuatu has no income, corporate or capital gains tax.",
+    "The coconut crab, the largest land arthropod, weighs up to 4 kg."
   ],
   "myths": [
     {
-      "myth": "Vanuatu is just one island",
-      "fact": "Vanuatu is an archipelago of 83 islands over 1,300 km — 65 inhabited, each with its own language and kastom."
+      "myth": "Bislama is just bad English",
+      "fact": "Bislama is a full language. Its words come from English, French and local tongues."
     },
     {
-      "myth": "Bungee jumping was invented in NZ",
-      "fact": "A.J. Hackett was inspired by Vanuatu's ancient nagol ritual on Pentecost Island, where men have leapt from towers with vine-ankles for centuries."
+      "myth": "The Pentecost tower jump is just a tourist show",
+      "fact": "It is a yam harvest ritual, held each year between April and June."
     }
   ],
   "words": [

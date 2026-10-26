@@ -24,7 +24,7 @@
     "keyColor": "#009FCA",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Fiji is 333 islands scattered across the warm South Pacific — only 110 have people on them, but together they make one of Earth's most colourful places: rainbow coral reefs, emerald rainforest, and a welcome so warm it has its own word, Bula! Two big islands do the heavy lifting: Viti Levu, home to the capital Suva, and Vanua Levu.",
+  "lead": "Fiji has 333 islands in the warm South Pacific. Only 110 have people living on them. Coral reefs shine like rainbows. Rainforests are deep green. People greet you with a happy word, Bula! The two biggest islands are Viti Levu, with the capital Suva, and Vanua Levu.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Seven surprising Fiji facts"
   },
   "geo": [
-    "Fiji sits in the South Pacific about 1,770 km north of New Zealand. Its two biggest islands — Viti Levu and Vanua Levu — are ancient volcanoes cloaked in rainforest, with rushing rivers and cool highlands. Mount Tomanivi on Viti Levu tops out at 1,324 m.",
-    "Around the islands stretches the Great Sea Reef (Cakaulevu), the world's third-longest barrier reef at over 200 km. Fiji is also called the Soft Coral Capital of the World, with more than 390 coral species in its turquoise waters."
+    "Fiji lies in the South Pacific, about 1,770 km north of New Zealand. Its two biggest islands are Viti Levu and Vanua Levu. They are old volcanoes covered in rainforest. Rivers rush down them. Mount Tomanivi on Viti Levu is 1,324 m high.",
+    "The Great Sea Reef (Cakaulevu) stretches around the islands. At over 200 km, it is the world's third-longest barrier reef. Fiji is called the Soft Coral Capital of the World. More than 390 coral species grow in its turquoise water."
   ],
   "animals": [
-    "Fiji's star reptile is the banded iguana — an electric-green lizard with white stripes found only here. The critically endangered crested iguana survives in dry forest on just a handful of north-western islands.",
-    "The national bird, the collared lory, is a scarlet-and-green parrot that darts through flowering trees. The Pacific flying fox is Fiji's only native land mammal, and manta rays glide around Kadavu's reefs."
+    "The banded iguana is Fiji's star reptile. This electric-green lizard has white stripes and lives only here. The crested iguana is critically endangered. It survives in dry forest on a few north-western islands.",
+    "The collared lory is the national bird. This scarlet-and-green parrot darts through flowering trees. The Pacific flying fox is Fiji's only native land mammal. Manta rays glide around the reefs of Kadavu."
   ],
   "culture": [
-    "Fijians greet everyone with Bula! — a word meaning 'life' that doubles as hello, welcome, and cheers. Hospitality is sacred: visitors to a village share a kava ceremony, drinking earthy root juice from a communal wooden bowl.",
-    "On Beqa island, men of the Nakarovu clan walk barefoot across white-hot stones in a 500-year-old ritual. The meke dance combines chanting, drumming, and flowing movement to pass legends between generations."
+    "Fijians greet everyone with Bula! It means life. It also means hello, welcome and cheers. Visitors to a village share a kava ceremony. Everyone drinks earthy root juice from one wooden bowl.",
+    "On Beqa island, men of the Nakarovu clan walk barefoot across white-hot stones. The ritual is 500 years old. The meke dance mixes chanting, drumming and flowing movement. It passes legends from one generation to the next."
   ],
   "history": [
-    "People have lived in Fiji for at least 3,500 years. In 1874, after conflict between chiefs and foreign pressure, Chief Cakobau signed the Deed of Cession, giving Fiji to Queen Victoria and beginning 96 years of British rule.",
-    "Britain brought 61,000 Indian workers to cut sugar cane between 1879 and 1916, shaping Fiji's unique cultural mix. On 10 October 1970 — the same date as the Cession — Fiji won full independence."
+    "People have lived in Fiji for at least 3,500 years. In 1874, Chief Cakobau signed the Deed of Cession. It gave Fiji to Queen Victoria. British rule lasted 96 years.",
+    "Britain brought 61,000 Indian workers to cut sugar cane between 1879 and 1916. They shaped Fiji's mix of cultures. On 10 October 1970, the same date as the Cession, Fiji won full independence."
   ],
   "wows": [
-    "Fiji won Olympic gold in rugby sevens at three consecutive Games — remarkable for a nation under a million.",
-    "The International Date Line bends specifically to keep all of Fiji in one time zone.",
-    "Fiji's Great Sea Reef is the world's third-longest barrier reef at over 200 km.",
-    "More than half of all Fiji's species are found nowhere else on the planet.",
-    "Fijians say 'yes' by silently raising both eyebrows — no words needed.",
-    "Fiji has more registered rugby players per person than any other country.",
-    "In 2021, conservationists planted 1,000 heat-adapted corals underwater spelling BULA."
+    "Fiji won Olympic rugby sevens gold in 2016 and 2020, yet fewer than a million people live there.",
+    "The International Date Line bends so that all of Fiji stays in one time zone.",
+    "Fiji's Great Sea Reef is the world's third-longest barrier reef, at over 200 km.",
+    "Many of Fiji's plants and animals live nowhere else on Earth.",
+    "Fijians often say yes by raising their eyebrows, with no words at all.",
+    "Rugby is the national passion in Fiji, played in villages across the islands.",
+    "In 2021, conservationists planted 1,000 heat-adapted corals underwater, spelling BULA."
   ],
   "myths": [
     {
-      "myth": "Fiji is just one tropical resort island",
-      "fact": "Fiji has 333 islands (only 110 inhabited), a real capital city, cool highlands, and two major cultures — iTaukei and Indo-Fijian — each with distinct food and languages."
+      "myth": "Coral is just a rock",
+      "fact": "Coral is an animal. Tiny soft polyps build the hard reef around themselves."
     },
     {
-      "myth": "Fire walking is a tourist performance",
-      "fact": "Beqa firewalking is a sacred Nakarovu clan ritual needing weeks of spiritual preparation; walkers cross stones genuinely heated above 300 °C."
+      "myth": "The Pacific Ocean is always calm",
+      "fact": "Magellan named it 'peaceful' after calm seas. Fiji still gets storms called cyclones from November to April."
     }
   ],
   "words": [

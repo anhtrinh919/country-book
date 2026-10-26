@@ -24,7 +24,7 @@
     "keyColor": "#C0272D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Malawi is a small landlocked country in Southern Africa where one-fifth of the land is water. The vast Lake Malawi holds more fish species than any other lake on Earth. Despite being one of the world's poorest nations, Malawi is famous for its smiling, welcoming people — earning the nickname the Warm Heart of Africa.",
+  "lead": "Malawi is a small country in Southern Africa with no sea coast. One-fifth of it is water. Its people are famous for their smiles. That is why it is called the Warm Heart of Africa.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "A lake half a country wide",
-    "animals": "Wild shores & rainbow waters",
+    "geography": "A lake as big as a sea",
+    "animals": "Wild shores & rainbow fish",
     "culture": "Dance, drums & warm hearts",
     "history": "From Nyasaland to freedom",
     "wows": "You won't believe these bits!"
   },
   "geo": [
-    "Malawi is long and thin — nearly 900 km north to south but never wider than 150 km. The Great Rift Valley carved through it, leaving steep escarpments and the deep basin filled by Lake Malawi: Africa's third-largest freshwater lake, 584 km long and crystal-clear.",
-    "The south is dominated by the dramatic Mulanje Massif, a granite plateau rising above tea plantations. The Shire River drains the lake southward through papyrus swamps and wildlife-rich valleys before joining the Zambezi in Mozambique."
+    "Malawi is long and thin. It is nearly 900 km from north to south. It is never wider than 150 km. Lake Malawi fills the deep Great Rift Valley and is 584 km long.",
+    "In the south, Mulanje Massif rises above green tea farms. It is a huge block of granite (hard rock). The Shire River carries lake water south to the Zambezi."
   ],
   "animals": [
-    "Lake Malawi holds 1,000+ cichlid fish species — more than any lake on Earth. These jewel-bright fish evolved here into every colour imaginable. The African fish eagle, Malawi's national bird, hunts the shoreline with a cry that locals call the true voice of Africa.",
-    "Liwonde National Park shelters 600 elephants, 2,500 hippos, and recently reintroduced lions and black rhinos. Nile crocodiles bask on sandbanks while borassus palms tower overhead. It's one of Africa's greatest conservation comeback stories."
+    "Lake Malawi has over 1,000 kinds of cichlid fish. They shine in every colour. The African fish eagle, Malawi's national bird, hunts along the shore.",
+    "Liwonde National Park has 600 elephants and 2,500 hippos. Lions and black rhinos came back there. Nile crocodiles rest on the sandbanks."
   ],
   "culture": [
-    "The Chewa people perform Gule Wamkulu — the Great Dance — where masked dancers represent spirits and wild animals. UNESCO named it an Intangible Cultural Heritage in 2005. Masks are carved in secret and dancers are believed to become the spirits they portray.",
-    "Nsima, a stiff maize porridge, appears at nearly every meal, scooped by hand and dipped into relishes of fish or groundnut sauce. Music fills everyday life — planting songs, harvest songs, wedding songs — often played on the mambilira, a wooden xylophone."
+    "The Chewa people perform the Great Dance, Gule Wamkulu. Masked dancers play spirits and wild animals. UNESCO named it world heritage in 2005.",
+    "Nsima is a stiff maize porridge. People eat it at nearly every meal, scooped up by hand. Songs fill daily life, played on the mambilira, a wooden xylophone."
   ],
   "history": [
-    "A jawbone found in Malawi in 1991 dates back 2.4 million years — among the oldest evidence of the human genus ever found. The Maravi kingdom dominated the region for centuries before Scottish explorer David Livingstone arrived in the 1850s and mapped the great lake.",
-    "Britain made the territory Nyasaland in 1891. Hastings Banda led the country to independence on 6 July 1964. After 30 years of one-party rule, democracy arrived in 1994. In 2012 President Joyce Banda sold the presidential jet to boost the national budget."
+    "A jawbone found here in 1991 is 2.4 million years old. In the 1850s, Scottish explorer David Livingstone arrived and mapped the great lake.",
+    "Britain made Malawi a colony called Nyasaland in 1891. Hastings Banda led it to independence on 6 July 1964. Democracy came in 1994."
   ],
   "wows": [
-    "Lake Malawi holds more fish species than any other lake on Earth — over 1,000 kinds of cichlids.",
-    "A 2.4-million-year-old jawbone found here is among the oldest evidence of the human genus ever.",
-    "One-fifth of Malawi's entire territory is water — mostly Lake Malawi, visible from space.",
-    "The word kwacha means \"dawn\" in Chichewa, chosen to symbolise a new day of freedom.",
-    "Liwonde Park reintroduced lions, cheetahs, wild dogs, and black rhinos all within one decade.",
-    "Gule Wamkulu masked dancers belong to a secret society that has existed for centuries.",
-    "President Joyce Banda sold the presidential jet for $15 million to fund the national budget."
+    "Lake Malawi has more fish species than any other lake.",
+    "A jawbone found here is among the oldest human-genus bones ever.",
+    "One-fifth of Malawi is water, mostly Lake Malawi.",
+    "Kwacha means dawn in Chichewa, for a new day of freedom.",
+    "Liwonde Park brought back lions, cheetahs, wild dogs and black rhinos.",
+    "Gule Wamkulu dancers belong to a secret society hundreds of years old.",
+    "In 2012 President Joyce Banda sold the presidential jet for $15 million."
   ],
   "myths": [
     {
-      "myth": "Malawi is always dangerously hot",
-      "fact": "The Mulanje highlands can be genuinely cold — hikers need warm layers at night, and frost is possible above 2,500 m."
+      "myth": "Lake Malawi is salty like the sea",
+      "fact": "No, its water is fresh. It is the third-largest freshwater lake in Africa."
     },
     {
-      "myth": "The lake water is unsafe to swim in",
-      "fact": "Most open lake water near lodges is bilharzia-free; designated spots are popular and considered safe for snorkelling."
+      "myth": "Africa is one big country",
+      "fact": "Africa has 54 countries. Malawi is one of them, with its own flag and money."
     }
   ],
   "words": [

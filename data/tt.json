@@ -24,7 +24,7 @@
     "keyColor": "#CC1C2E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Twin-island T&T sits 11 km off Venezuela — Trinidad was once attached to South America itself. It gave the world the steelpan, calypso, and one of Earth's wildest street parties. Underground lies a bubbling asphalt lake, and at dusk thousands of scarlet ibis glow red in the mangrove swamps.",
+  "lead": "Trinidad and Tobago is a pair of islands. Trinidad lies 11 km off Venezuela. It gave the world the steelpan, calypso, and a wild street party. At dusk, thousands of scarlet ibis glow red in the swamps.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Where South America says hi",
     "animals": "Scarlet wings & rowdy birds",
-    "culture": "Steelpan, soca & sweet lime",
+    "culture": "Steelpan, soca & Carnival",
     "history": "Oil, sugar & independence",
-    "wows": "Things that'll make you go wow"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Trinidad was once attached to South America — the Gulf of Paria between them is so shallow you could almost wade across. The Northern Range catches clouds and feeds lush rainforest; the south is flat and rich with oil.",
-    "Tobago, 30 km northeast, feels like a different world: coral reefs, quiet fishing villages, and jungle. Together the two islands cover 5,131 km² yet pack in extraordinary wildlife."
+    "Trinidad was once attached to South America. The Gulf of Paria between them is so shallow you could almost wade across. The Northern Range is rainforest, and the south is flat, with lots of oil.",
+    "Tobago lies 30 km northeast, with coral reefs, quiet fishing villages, and jungle. Together the islands cover 5,131 km²."
   ],
   "animals": [
-    "Trinidad's national bird is the scarlet ibis — a flamingo-red wader that glows electric in the setting sun as thousands roost in Caroni Swamp. That vivid colour comes entirely from the shrimps they eat.",
-    "Tobago's bird is the cocrico, a noisy turkey-like forest creature that wakes everyone at dawn. Both appear on the coat of arms. The islands hold 470+ bird species — more than all of Europe."
+    "The scarlet ibis is Trinidad's national bird. Thousands roost in Caroni Swamp and glow flamingo-red at sunset. The shrimps they eat make them red.",
+    "Tobago's bird is the cocrico, a noisy forest bird that wakes everyone at dawn. Both birds are on the coat of arms. The islands have 470+ bird species."
   ],
   "culture": [
-    "Carnival here is the template every other carnival copies. Before Lent, Port of Spain erupts in costumes, soca music, and J'ouvert — where revellers cover themselves in paint and mud before sunrise.",
-    "The steelpan was born in the 1930s when colonial rulers banned drumming. Young musicians hammered oil drums into tuned instruments — the only acoustic instrument invented in the 20th century."
+    "Other carnivals copy Trinidad's. Before Lent, Port of Spain erupts in costumes and soca music. At J'ouvert, people cover themselves in paint and mud before sunrise.",
+    "The steelpan was born in the 1930s, when colonial rulers banned drumming. Young musicians hammered oil drums into tuned instruments. It is the only acoustic instrument invented in the 20th century."
   ],
   "history": [
-    "Columbus landed in 1498 and named the island after three peaks he spotted. Spanish, French, and British colonisers followed. Enslaved Africans worked sugar plantations; after emancipation in 1838, indentured workers arrived from India.",
-    "Oil was struck in 1857. Independence came on 31 August 1962 with Dr. Eric Williams as first Prime Minister. The country became a republic in 1976 and is one of the Caribbean's wealthiest economies."
+    "Columbus landed in 1498 and named the island after three peaks. Spain, France, and Britain followed. Enslaved Africans worked sugar plantations until 1838, then workers from India arrived.",
+    "Oil was struck in 1857. Independence came on 31 August 1962, with Dr. Eric Williams as first Prime Minister. It became a republic in 1976."
   ],
   "wows": [
-    "Pitch Lake at La Brea holds 10 million tonnes of natural asphalt — Raleigh caulked his ships here in 1595.",
-    "Steelpan is the only acoustic instrument invented in the 20th century — the UN made 11 Aug World Steelpan Day.",
-    "Brian Lara of Trinidad scored 400 not out in 2004 — the highest individual Test innings ever played.",
-    "Trinidad rests on the South American shelf — geologically it IS South America, not a volcanic island.",
-    "Pitch Lake heals its own cracks; objects swallowed decades ago resurface later, perfectly preserved.",
-    "Over 470 bird species live here — more than the entire continent of Europe, in a country smaller than Devon.",
-    "Doubles — curried chickpeas in fried bara — were invented in the 1930s and millions eat them every morning."
+    "Pitch Lake holds 10 million tonnes of asphalt, which Raleigh used on his ships in 1595.",
+    "The UN made 11 August World Steelpan Day.",
+    "Brian Lara scored 400 not out in 2004, the highest Test innings ever.",
+    "Trinidad sits on the South American shelf, so it is not a volcanic island.",
+    "Pitch Lake heals its own cracks, and swallowed objects resurface years later.",
+    "Over 470 bird species live here, more than all of Europe.",
+    "Doubles, curried chickpeas in fried bara, were invented in the 1930s."
   ],
   "myths": [
     {
-      "myth": "Trinidad is just one island",
-      "fact": "It is two main islands plus 20+ smaller ones, 30 km apart and feeling totally different — one industrial and buzzing, one all reefs and rainforest."
+      "myth": "Hurricanes hit Trinidad every year",
+      "fact": "Trinidad lies south of the main hurricane belt. Big storms rarely reach it."
     },
     {
       "myth": "Carnival is mainly for tourists",
-      "fact": "Carnival belongs to Trinidadians. It grew from the resistance of enslaved Africans and is woven into national identity — most revellers are locals."
+      "fact": "Carnival belongs to Trinidadians. It grew from the resistance of enslaved Africans."
     }
   ],
   "words": [

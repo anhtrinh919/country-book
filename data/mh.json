@@ -24,7 +24,7 @@
     "keyColor": "#1A3A7A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Scattered like dropped beads across the Pacific, the Marshall Islands are two chains of coral atolls so flat you can see clear across most of them. Every view is ocean — turquoise lagoons one side, open sea the other. The country holds the world record for the lowest average height of any nation, barely two metres above the waves.",
+  "lead": "The Marshall Islands are scattered across the Pacific like dropped beads. They are coral rings called atolls. The land is so flat that every view is ocean.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Hard to believe, but true!"
   },
   "geo": [
-    "The Marshall Islands are two parallel chains — Ratak (Sunrise) and Ralik (Sunset) — totalling 29 atolls and 5 single islands. All 1,152 specks of land share just 181 km² of ground, less than Washington D.C., while the ocean they dot covers nearly 2 million km².",
-    "Coral atolls form as rings of reef around sunken volcanoes, leaving a calm lagoon in the middle. Kwajalein holds the world's largest lagoon — big enough to hide a city inside. The average altitude is just 2 metres, making every king-tide a genuine emergency."
+    "Two chains, Ratak (Sunrise) and Ralik (Sunset), hold 29 atolls and 5 single islands. All 1,152 specks of land cover just 181 km². That is a little bigger than Washington D.C.",
+    "An atoll is a ring of reef around a sunken volcano. Kwajalein has the world's largest lagoon. The average height is just 2 metres, so high tides flood the land."
   ],
   "animals": [
-    "The real zoo here is underwater: 250-plus reef fish species weave through 300 kinds of coral. Green and hawksbill sea turtles nest on quiet beaches, and humpback whales pass through on migration.",
-    "On land, the great frigatebird rules the sky — a pirate bird that steals fish mid-air. Giant coconut crabs, the world's largest land invertebrate, scale palm trees and crack coconuts with claws like bolt cutters."
+    "More than 250 kinds of reef fish swim among 300 kinds of coral. Green and hawksbill sea turtles nest on quiet beaches.",
+    "The great frigatebird steals fish in mid-air. Giant coconut crabs climb palm trees and crack coconuts with claws like bolt cutters."
   ],
   "culture": [
-    "Marshallese society is matrilineal — land and rank pass through mothers, not fathers. Traditional stick charts called rebbelib were used by navigators to read ocean-swell patterns between atolls, a skill unique to these islands.",
-    "Christmas, called Kūrijmōj, is a four-month community celebration of songs and feasting. Outrigger canoe building remains a living craft, and woven pandanus mats made by women are prized as gifts."
+    "Marshallese families follow the mother's side, so land and rank pass from mothers. Navigators used stick charts called rebbelib to read ocean swells.",
+    "Christmas, called Kūrijmōj, is a four-month party of songs and feasts. People still build outrigger canoes by hand."
   ],
   "history": [
-    "Marshallese ancestors arrived some 2,000 years ago, mastering open-ocean navigation. Spanish, German, and then Japanese colonial powers each claimed the atolls before the US took control after fierce World War II battles.",
-    "Between 1946 and 1958 the US detonated 67 nuclear weapons on Bikini and Enewetak — total blast force 7,000 times Hiroshima. The Marshall Islands gained independence in 1986."
+    "Marshallese ancestors arrived about 2,000 years ago and mastered open-ocean sailing. Spain, Germany and Japan each claimed the atolls. The USA took over after World War II battles.",
+    "Between 1946 and 1958 the USA set off 67 nuclear bombs on Bikini and Enewetak. Their blast was 7,000 times the Hiroshima bomb. Independence came in 1986."
   ],
   "wows": [
-    "Bikini Atoll is UNESCO World Heritage; sunken warships from nuclear tests sit on its lagoon floor.",
-    "The Marshall Islands sits west of the Date Line, sharing a calendar day with Asia rather than nearby Hawaii.",
-    "Marshallese read ocean swells felt under the hull to find islands over the horizon — wave piloting.",
-    "The country uses the US Dollar and has no central bank — one of few nations without its own currency.",
-    "Soil on Bikini Atoll measures radiation ten times higher than the Chernobyl and Fukushima exclusion zones.",
-    "Majuro's main island is rarely wider than 300 metres — you can walk lagoon to ocean in two minutes.",
-    "Marshallese citizens need no visa to live and work in the USA under the Compact of Free Association."
+    "Bikini Atoll is a World Heritage Site with sunken warships in its lagoon.",
+    "West of the Date Line, the islands share a day with Asia, not Hawaii.",
+    "Sailors felt ocean swells through the hull to find islands over the horizon.",
+    "The country uses the US dollar and has no central bank.",
+    "Bikini's soil has ten times more radiation than the Chernobyl and Fukushima zones.",
+    "Majuro's main island is under 300 metres wide.",
+    "Marshallese citizens can live and work in the USA without a visa."
   ],
   "myths": [
     {
-      "myth": "The islands are flat, treeless deserts",
-      "fact": "The atolls are lush with coconut palms, breadfruit, and pandanus — vivid green rings around brilliant blue lagoons, nothing like a desert."
+      "myth": "The islands have no trees",
+      "fact": "Coconut palms and breadfruit trees grow thick, ringing blue lagoons."
     },
     {
-      "myth": "Only Bikini islanders were affected by nuclear tests",
-      "fact": "The 1954 Castle Bravo bomb rained fallout on inhabited atolls 150 km away, harming thousands with health effects lasting generations."
+      "myth": "Only Bikini islanders felt the nuclear tests",
+      "fact": "Fallout from the 1954 Castle Bravo test reached atolls about 150 km away."
     }
   ],
   "words": [

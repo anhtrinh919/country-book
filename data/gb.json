@@ -2,7 +2,7 @@
   "name": "UK",
   "nativeName": "GB",
   "romaji": "UNITED KINGDOM",
-  "tagline": "An island of big ideas",
+  "tagline": "Islands of big ideas",
   "region": "Western Europe",
   "coords": "51.5°N, 0.1°W",
   "fileNo": "047",
@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "The UK is four countries — England, Scotland, Wales, N. Ireland — one island home off Europe's coast. It gave the world Shakespeare, the steam engine, the Web, and football. Rainy, tea-loving, full of castles: once ruling a quarter of the Earth, today it leads in music, science, and storytelling.",
+  "lead": "The UK is four countries: England, Scotland, Wales and Northern Ireland. They sit off the coast of Europe. Shakespeare, the steam engine, the Web and football all began here. It is rainy, tea-loving and full of castles. Once it ruled a quarter of the Earth.",
   "facts": [
     {
       "label": "Capital",
@@ -65,45 +65,45 @@
   ],
   "islandsLabel": "CAPITAL CITIES:",
   "sections": {
-    "geography": "An island of moors & castles",
+    "geography": "Islands of moors & castles",
     "animals": "Wild things & royal beasts",
     "culture": "Tea, telly & tradition",
     "history": "Empires & inventions",
-    "wows": "Brilliant British surprises"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Britain sits on two main islands separated from Europe by the Channel — just 34 km wide at its narrowest. Scotland's Highlands have ancient lochs and craggy mountains; Wales has green valleys; England's south is gentle chalk downs.",
-    "The coastline stretches over 17,800 km — no point in England is more than 113 km from the sea. The Gulf Stream keeps winters mild, but also delivers those famous grey skies that inspired countless poets."
+    "The UK covers Great Britain and the north of Ireland. The Channel, just 34 km wide at its narrowest, separates it from Europe. Scotland's Highlands have ancient lochs (lakes) and craggy mountains. Wales has green valleys. Southern England has gentle chalk hills.",
+    "The coastline stretches over 17,800 km. No point in England is more than 113 km from the sea. The Gulf Stream keeps winters mild. It also brings the famous grey skies that inspired countless poets."
   ],
   "animals": [
-    "The red squirrel is Britain's native squirrel, now rare after the larger grey squirrel arrived from America in 1876. Puffins nest on rocky sea cliffs each spring, and grey seals bask by the thousand on remote Scottish shores.",
-    "The robin is Britain's unofficial national bird — bold enough to perch on a gardener's spade. Rare wildcats still prowl Scottish glens, and wild Dartmoor ponies roam the southwest moors as they have for centuries."
+    "The red squirrel is Britain's native squirrel. It is now rare because the larger grey squirrel arrived from America in 1876. Puffins nest on rocky sea cliffs each spring. Grey seals bask by the thousand on remote Scottish shores.",
+    "The robin is Britain's unofficial national bird. It is bold enough to perch on a gardener's spade. Rare wildcats still prowl Scottish glens. Wild Dartmoor ponies roam the moors of the southwest. They have done so for centuries."
   ],
   "culture": [
-    "The British love a queue — standing in an orderly line is practically a national sport. Tea is brewed over 100 million times every day. The BBC, founded in 1927, is the world's oldest national broadcaster, reaching 468 million people weekly.",
-    "Football was codified in England in 1863 and spread to every corner of the globe. Bonfire Night on 5 November fills the sky with fireworks. The Changing of the Guard at Buckingham Palace, with bearskin hats and brass bands, draws millions of visitors each year."
+    "The British love a queue. Standing in an orderly line is almost a national sport. People brew tea over 100 million times every day. The BBC began in 1927. It is the world's oldest national broadcaster and reaches 468 million people weekly.",
+    "Football was codified (written down as rules) in England in 1863. It spread to every corner of the globe. Bonfire Night on 5 November fills the sky with fireworks. Millions of people come to see the Changing of the Guard at Buckingham Palace each year."
   ],
   "history": [
-    "Romans invaded in 43 AD, building roads and baths still visible today. The Normans arrived in 1066 — the last successful invasion — changing the language and laws forever. Magna Carta in 1215 planted the seed of modern democracy.",
-    "The Industrial Revolution ignited here in the 1760s, turning the world from farms to factories. The British Empire became the largest in history by the 1920s. In 1948 Britain created the NHS — free healthcare for every citizen."
+    "Romans invaded in 43 AD. They built roads and baths that you can still see. The Normans arrived in 1066. It was the last successful invasion, and it changed the language and laws forever. Magna Carta in 1215 planted the seed of modern democracy.",
+    "The Industrial Revolution began here in the 1760s. It turned the world from farms to factories. By the 1920s the British Empire was the largest in history. In 1948 Britain created the NHS. It gives free healthcare to every citizen."
   ],
   "wows": [
-    "London's Underground opened in 1863 — the world's first metro; passengers rode gas-lit wooden carriages.",
-    "Tim Berners-Lee invented the World Wide Web and gave it away free so everyone could use it.",
-    "Britain has no written constitution — it runs on centuries-old laws and customs.",
-    "The UK fields four separate World Cup football teams: England, Scotland, Wales, N. Ireland.",
+    "London's Underground opened in 1863 as the world's first metro, with gas-lit wooden carriages.",
+    "Tim Berners-Lee invented the World Wide Web and gave it away free for everyone.",
+    "Britain has no single written constitution and runs on centuries-old laws and customs.",
+    "The UK enters four football teams in World Cup qualifying: England, Scotland, Wales and Northern Ireland.",
     "Oxford University was already 300 years old when the Aztec Empire was founded.",
-    "More Nobel Prize winners came from the UK than any country except the United States.",
-    "Big Ben is just the bell — the tower is officially called the Elizabeth Tower."
+    "More Nobel Prize winners came from the UK than from any country except the United States.",
+    "Big Ben is only the bell, and the tower is officially called the Elizabeth Tower."
   ],
   "myths": [
     {
       "myth": "It rains every single day in Britain",
-      "fact": "London gets less annual rainfall than Rome or Miami — the drizzle is frequent but rarely a downpour, and often clears by afternoon."
+      "fact": "London gets less rain each year than Rome or Miami. It drizzles often, but rarely pours."
     },
     {
       "myth": "The King rules the country",
-      "fact": "The monarch holds no political power — Parliament and the Prime Minister make every real decision; the King's role is ceremonial."
+      "fact": "Parliament and the Prime Minister make the real decisions. The King's job is mostly ceremonial (for show)."
     }
   ],
   "words": [

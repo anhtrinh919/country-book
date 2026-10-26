@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Jordan is a desert kingdom in the Middle East where a city was carved from rose-red rock, a sea so salty you float without swimming, and Bedouin tribespeople have roamed vast sandy landscapes for centuries. It sits at a crossroads where Africa, Asia, and Europe once traded spices and silk.",
+  "lead": "Jordan is a desert kingdom in the Middle East. A whole city is carved from rose-red rock here. The Dead Sea is so salty that you float without swimming. Bedouin people have roamed the sandy land for centuries.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Desert hunters & night fliers",
     "culture": "Feasts, forts & open doors",
     "history": "Empires carved in stone",
-    "wows": "Seven jaw-dropping facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Jordan is mostly golden desert and rocky plateau, split by the Great Rift Valley. The Dead Sea — the lowest place on Earth at around 430 m below sea level — shimmers with water so salty nothing can live in it. The Jordan River snakes along the western edge.",
-    "In the south, Wadi Rum glows orange at sunset. Its towering sandstone pillars look so alien that film-makers use it as a stand-in for Mars. The north has green hills and olive groves, and Aqaba gives Jordan its only slice of coastline."
+    "The Great Rift Valley splits Jordan's desert plateau. The Dead Sea lies about 430 m below sea level. It is the lowest place on Earth, and nothing can live in its salty water.",
+    "In the south, Wadi Rum glows orange at sunset. Its sandstone pillars look so alien that film-makers use it as Mars. Aqaba gives Jordan its only slice of coastline."
   ],
   "animals": [
-    "The Arabian oryx — a white antelope with long straight horns — was hunted to extinction in the wild, but a global rescue programme bred it back and herds were released into Wadi Rum in 2009. The sand cat, a tiny golden wildcat with huge ears, hunts lizards by night and never needs to drink water.",
-    "Griffon vultures soar on warm air above the Dana Biosphere Reserve. The Azraq wetland oasis — the only freshwater marsh for hundreds of kilometres — is a vital pit-stop for millions of migrating birds every spring and autumn."
+    "The Arabian oryx is a white antelope with long straight horns. Hunters wiped it out in the wild. A global rescue programme bred it back, and herds returned to Wadi Rum in 2009.",
+    "Griffon vultures soar overhead. The sand cat has huge ears, hunts lizards by night, and never needs to drink. Millions of migrating birds visit Azraq wetland."
   ],
   "culture": [
-    "Jordanians are famously hospitable. Refusing cardamom-spiced coffee is rude; tiny cups keep coming until you tilt yours sideways to say 'enough'. The national dish, mansaf, is lamb slow-cooked in dried-yoghurt sauce over fragrant rice, eaten by hand around a communal tray.",
-    "Friday is the day of rest and families gather for long lunches after prayers. Amman's Roman amphitheatre still hosts concerts. Traditional embroidery — bright red cross-stitch on black cloth — is worn at festivals and sold in every market."
+    "Jordanians love welcoming guests. Tiny cups of cardamom coffee keep coming until you tilt yours sideways to say 'enough'. The national dish, mansaf, is lamb in dried-yoghurt sauce over rice.",
+    "Friday is the day of rest, with long family lunches after prayers. Red cross-stitch embroidery on black cloth is worn at festivals."
   ],
   "history": [
-    "The Nabataeans carved an entire city — Petra — into rose-red cliffs about 2,000 years ago, growing rich controlling spice and silk routes. Rome absorbed their kingdom; the colonnaded city of Jerash, one of the best-preserved Roman towns outside Italy, still stands near Amman.",
-    "Crusaders built castles, Saladin reclaimed the land, and the Ottomans ruled for 400 years. After World War I Jordan became a kingdom. King Abdullah II, in power since 1999, traces his lineage to the Prophet Muhammad — 41 generations back."
+    "About 2,000 years ago, the Nabataeans carved Petra into rose-red cliffs. They grew wealthy by controlling spice and silk routes. Rome later took their kingdom.",
+    "The Ottomans ruled for 400 years. Jordan became a kingdom after World War I. King Abdullah II has ruled since 1999. He traces his family back 41 generations to the Prophet Muhammad."
   ],
   "wows": [
-    "The Dead Sea is about 10 times saltier than the ocean — you float without any effort.",
-    "Petra was unknown to outsiders for centuries; a Swiss explorer disguised himself to sneak in in 1812.",
-    "Wadi Rum doubled as Mars in the film 'The Martian' — its red sand looks extraterrestrial.",
-    "Amman is built on seven hills, just like Rome — locals call them 'the Seven Jebels'.",
-    "The Jordan River shrinks to barely 30 metres wide after so much water is diverted upstream.",
-    "Jordan is one of the world's most water-scarce countries — second-driest on Earth by some counts.",
-    "Azraq Wetland dried up by 1992 but conservationists refilled it; migrating birds returned fast."
+    "The Dead Sea is about 10 times saltier than the ocean.",
+    "A Swiss explorer disguised himself to sneak into Petra in 1812.",
+    "Wadi Rum played Mars in the film 'The Martian'.",
+    "Amman is built on seven hills, like Rome.",
+    "The Jordan River shrinks to barely 30 metres wide after upstream diversion.",
+    "Jordan is one of the world's most water-scarce countries.",
+    "Azraq Wetland dried up by 1992, but conservationists refilled it."
   ],
   "myths": [
     {
-      "myth": "Jordan is just endless desert",
-      "fact": "The north has lush green highlands with oak forests and apple orchards — Ajloun gets up to 500 mm of rain a year and feels nothing like a desert."
+      "myth": "Coffee comes from Arabia",
+      "fact": "Coffee plants first grew wild in Ethiopia. Traders carried them to Arabia, and later the world."
     },
     {
-      "myth": "The Dead Sea is almost gone",
-      "fact": "Its level drops about 1 metre per year, which is serious — but that still leaves a very long time before it disappears, and conservation work continues."
+      "myth": "It never snows in Jordan",
+      "fact": "Snow falls on Amman in some winters. Desert nights can also drop below freezing."
     }
   ],
   "words": [

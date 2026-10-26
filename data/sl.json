@@ -2,7 +2,7 @@
   "name": "SIERRA LEONE",
   "nativeName": "SL",
   "romaji": "SALONE",
-  "tagline": "Land of Lions & Diamonds",
+  "tagline": "Lion Mountains & Diamonds",
   "region": "West Africa",
   "coords": "8.5°N, 11.8°W",
   "fileNo": "088",
@@ -24,7 +24,7 @@
     "keyColor": "#1A7A3C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Sierra Leone sits on West Africa's coast where rainforests meet dazzling Atlantic beaches. Freetown, the capital, was founded by freed slaves in 1787 — one of history's most extraordinary city stories. Beneath the red soil lie some of the world's finest diamonds, while chimpanzees swing through jungle canopies above turquoise coves.",
+  "lead": "Sierra Leone is on the coast of West Africa. Rainforest meets white Atlantic beaches here. The capital, Freetown, was founded by freed slaves in 1787. Red soil hides some of the world's finest diamonds.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "Beaches, jungle & harbour",
     "animals": "Chimps, hippos & wild things",
     "culture": "Krio rhythms & rice bowls",
-    "history": "Freed slaves & lion mountains",
-    "wows": "Hard to believe, but true!"
+    "history": "Freedom & Lion Mountains",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Sierra Leone packs everything in tightly — thick rainforests in the east, rolling hills in the north crowned by Mount Bintumani, and a coast fringed with white-sand beaches that many travellers call the finest in West Africa.",
-    "Freetown sits on one of the world's largest natural deep-water harbours, sheltering ships for centuries. The Gola Rainforest in the south-east is one of the last fragments of the ancient Upper Guinea forest, a biodiversity hotspot millions of years old."
+    "Thick rainforest covers the east. Rolling hills in the north rise to Mount Bintumani. White-sand beaches line the coast.",
+    "Freetown sits on one of the world's largest natural deep-water harbours. The ancient Gola Rainforest in the south-east is millions of years old."
   ],
   "animals": [
-    "Sierra Leone's forests shelter over 5,500 western chimpanzees — the second-largest wild population in the world. The Tacugama Sanctuary near Freetown rescues orphaned chimps and carefully returns them to the wild.",
-    "The tiny pygmy hippopotamus hides along the Moa River — just 200 kg, it lives alone in dense undergrowth unlike its giant cousin. The Gola malimbe, a brilliant red-and-black weaver bird, is found almost nowhere else on Earth."
+    "More than 5,500 western chimpanzees live in Sierra Leone's forests, the second-largest wild group in the world.",
+    "The pygmy hippopotamus lives along the Moa River. It weighs just 200 kg and lives alone. The Gola malimbe, a red-and-black weaver bird, is found almost nowhere else."
   ],
   "culture": [
-    "Krio — a creole born from English, African languages, and Caribbean speech — ties all of Sierra Leone's ethnic groups together. Music fills Freetown's streets: Afrobeat, reggae, and palm-wine guitar blended into something uniquely Salone.",
-    "Rice anchors every meal — jollof rice with stew, groundnut soup over white rice, or slow-cooked cassava-leaf sauce. The August Freetown Carnival fills streets with colour, drumming, and dancing long into the warm night."
+    "Krio, a mixed language born from English, African languages and Caribbean speech, joins all of Sierra Leone's ethnic groups. Afrobeat, reggae and palm-wine guitar fill Freetown's streets.",
+    "Rice is part of every meal, with stew, groundnut soup or cassava-leaf sauce. In August, the Freetown Carnival fills the streets with colour and drumming."
   ],
   "history": [
-    "In 1787 British abolitionists settled freed Black people on a peninsula called 'Province of Freedom' — the seed of Freetown. Thousands more freed Africans arrived after Britain banned the slave trade in 1807, making it a great city of liberty.",
-    "Diamonds found in 1930 brought wealth and conflict. A brutal civil war (1991–2002) funded by 'blood diamonds' killed 50,000 people. Since peace returned Sierra Leone has rebuilt with remarkable spirit, welcoming visitors to its beaches."
+    "In 1787, British abolitionists settled freed Black people on the 'Province of Freedom', the start of Freetown. After Britain banned the slave trade in 1807, thousands more freed Africans arrived.",
+    "Diamonds found in 1930 brought wealth and conflict. A civil war from 1991 to 2002, paid for by 'blood diamonds', killed 50,000 people. Sierra Leone has rebuilt since."
   ],
   "wows": [
-    "A 969-carat diamond — the Star of Sierra Leone (1972) — is the largest alluvial diamond ever found.",
-    "Freetown's harbour is so deep that the world's largest ships anchor without touching the seabed.",
-    "A 300-year-old Cotton Tree in the city centre saw freed slaves pray beneath it in 1792.",
-    "Krio sounds so close to English that many native speakers can partially understand it.",
-    "Tacugama Sanctuary has rehabilitated 100+ chimps and returned some to wild forest.",
-    "Tokeh and River No. 2 Beach are listed among Africa's most beautiful — yet barely visited.",
-    "Half of Sierra Leone's population is under 19 — one of the world's youngest nations."
+    "The 969-carat Star of Sierra Leone (1972) is the largest alluvial diamond ever found.",
+    "Freetown's harbour is so deep that giant ships can anchor without touching the seabed.",
+    "Freed slaves prayed under the city's 300-year-old Cotton Tree in 1792.",
+    "Krio sounds so close to English that English speakers can partly understand it.",
+    "Tacugama Sanctuary has cared for over 100 chimps and freed some into the forest.",
+    "Tokeh and River No. 2 Beach are among Africa's most beautiful, yet barely visited.",
+    "Half of Sierra Leone's people are under 19, one of the world's youngest nations."
   ],
   "myths": [
     {
-      "myth": "Sierra Leone is still dangerous",
-      "fact": "The civil war ended in 2002. Freetown is a lively, welcoming city with a growing tourism scene. Check current travel advice as with any destination."
+      "myth": "Sierra Leone is named after real lions",
+      "fact": "Pedro de Sintra named the hills 'Serra Lyoa' (Lion Mountains) in 1462. Some say thunder there sounded like roaring lions."
     },
     {
-      "myth": "Named after real lions",
-      "fact": "Portuguese explorer Pedro de Sintra named it 'Serra Lyoa' in 1462 for thunder that rumbled like a lion's roar around the hills — not for any lions."
+      "myth": "Diamonds are made from coal",
+      "fact": "Diamonds form deep in the Earth, far below any coal. Most are over a billion years old."
     }
   ],
   "words": [

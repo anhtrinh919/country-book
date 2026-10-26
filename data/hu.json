@@ -2,7 +2,7 @@
   "name": "HUNGARY",
   "nativeName": "HU",
   "romaji": "MAGYARORSZÁG",
-  "tagline": "Land of spice & hot springs",
+  "tagline": "Paprika and hot springs",
   "region": "Eastern Europe",
   "coords": "47.16°N, 19.50°E",
   "fileNo": "036",
@@ -24,7 +24,7 @@
     "keyColor": "#CE2939",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Hungary sits in the heart of Europe, cradled by the Carpathians. Its capital Budapest spans two cities joined by elegant bridges across the Danube. Hungarians invented the Rubik's Cube, the ballpoint pen, and the noiseless safety match. Over 1,300 thermal springs bubble up underground, turning the whole country into a giant natural spa.",
+  "lead": "Hungary is in the middle of Europe, ringed by the Carpathian mountains. Budapest is two cities joined by bridges over the Danube. Hungarians invented the Rubik's Cube, the ballpoint pen and the noiseless safety match. Over 1,300 hot springs bubble up underground.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "Rolling plains & warm springs",
+    "geography": "Flat plains & warm springs",
     "animals": "Wildlife of the Puszta",
     "culture": "Paprika, music & invention",
     "history": "Empires rise and fall",
     "wows": "Hungary's wildest facts"
   },
   "geo": [
-    "Hungary is almost entirely flat — a giant bowl called the Pannonian Basin. The Great Plain (Puszta) stretches east, a windswept grassland where cowboys once rode. Two great rivers, the Danube and Tisza, carve the land into thirds.",
-    "Over 1,300 thermal springs dot the country. Lake Balaton — Central Europe's largest lake — fills a valley in the west. Its warm, shallow waters draw millions of swimmers and sailors every summer."
+    "Hungary is almost flat, like a giant bowl. The Puszta, or Great Plain, is a windy grassland where cowboys once rode. The Danube and Tisza rivers cut the land into thirds.",
+    "Lake Balaton is Central Europe's largest lake. Its warm, shallow water draws millions of swimmers and sailors every summer."
   ],
   "animals": [
-    "The Puszta is home to grey cattle and racka sheep with spectacular corkscrew horns. The great bustard, the world's heaviest flying bird, still strides across Hungarian plains, its enormous wings spread wide at mating time.",
-    "The Danube teems with giant catfish and sturgeon. White-tailed eagles — wingspan as wide as a sofa — patrol the riverbanks, while European ground squirrels pop up like meerkats across the open grasslands."
+    "On the Puszta live grey cattle and racka sheep with corkscrew horns. The great bustard, the world's heaviest flying bird, still strides across the plains.",
+    "Giant catfish and sturgeon swim in the Danube. White-tailed eagles, with wings as wide as a sofa, patrol the riverbanks."
   ],
   "culture": [
-    "Hungarian food is painted red with paprika, a spice brought from the Americas 400 years ago. Goulash (gulyás) began as a herdsman's campfire soup on the Puszta and is now loved around the world.",
-    "Béla Bartók tramped through villages recording ancient folk songs on wax cylinders. The ornate Liszt Academy still trains concert pianists today. Families spend Sunday mornings soaking in 36°C mineral pools — bath culture is simply part of life."
+    "Hungarian food is painted red with paprika. Goulash (gulyás) began as a herdsman's campfire soup on the Puszta and is now loved around the world.",
+    "Béla Bartók recorded old folk songs in villages on wax cylinders. On Sunday mornings, families soak in 36°C mineral pools."
   ],
   "history": [
-    "Nomadic Magyar tribes galloped from the Ural steppes and settled the Carpathian Basin in AD 895. King Stephen I converted the kingdom to Christianity around 1000 AD and received a crown from the Pope — still Hungary's most sacred object.",
-    "Hungary was ruled by Ottomans for 150 years, then Habsburgs for nearly two centuries. In 1989 Hungarians peacefully dismantled the Iron Curtain fence, helping spark the end of the Cold War across all of Europe."
+    "Magyar tribes galloped in from the Ural steppes and settled here in AD 895. King Stephen I received a crown from the Pope around 1000 AD.",
+    "Ottomans ruled Hungary for 150 years, then Habsburgs for nearly two centuries. In 1989 Hungarians peacefully took down the Iron Curtain fence."
   ],
   "wows": [
-    "The Rubik's Cube, invented by Ernő Rubik in 1974, became the best-selling puzzle toy in history.",
-    "Budapest's metro Line 1 (1896) was the first underground railway on the European continent.",
-    "Hungary wins more Olympic gold medals per capita than almost any other country on Earth.",
-    "Laszlo Biro patented the ballpoint pen in 1938 — Brits still call all ballpoints 'biros'.",
-    "Lake Balaton averages just 3 m deep — so shallow you can wade surprisingly far from shore.",
-    "Hungarian's closest living relative is Finnish, spoken about 1,500 km away across Europe.",
-    "Budapest has over 100 thermal springs — more than any other capital city on the planet."
+    "Ernő Rubik's 1974 cube is the best-selling puzzle toy ever.",
+    "Budapest's metro Line 1 (1896) was the first on the European continent.",
+    "Hungary wins more Olympic golds per person than almost any country.",
+    "Laszlo Biro patented the ballpoint pen in 1938.",
+    "Lake Balaton averages just 3 m deep.",
+    "Hungarian is related to Finnish.",
+    "Budapest has over 100 thermal springs, more than any other capital."
   ],
   "myths": [
     {
-      "myth": "Goulash is a thick stew",
-      "fact": "Traditional gulyás is actually a thin, brothy soup eaten with a spoon. The thick stew version is a foreign invention that Hungarians find rather amusing."
+      "myth": "Paprika is always hot and spicy",
+      "fact": "Most paprika is sweet and mild. Only some types are hot."
     },
     {
-      "myth": "Hungarians are Slavic people",
-      "fact": "Magyar is a Finno-Ugric language, completely unrelated to Slavic tongues. Hungarian ancestors came from the Ural mountains, not from the same roots as neighbouring countries."
+      "myth": "The Rubik's Cube was made as a toy",
+      "fact": "Rubik built it to teach students about 3D shapes. It took him a month to solve his own cube."
     }
   ],
   "words": [

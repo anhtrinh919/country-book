@@ -24,7 +24,7 @@
     "keyColor": "#009A44",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Lesotho is a mountain kingdom fully enclosed by South Africa — every part of it sits above 1,000 m. Its Basotho people wear bold patterned blankets, ride hardy ponies across snowy passes, and share skies with rare bearded vultures. Small enough to cross in a day, it guards record diamonds and pipes water down to South African cities.",
+  "lead": "Lesotho is a mountain kingdom with South Africa all around it. Every part of it sits above 1,000 m. The Basotho people wear bold blankets and ride sturdy ponies over high passes. Rare bearded vultures soar overhead.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN DISTRICTS:",
   "sections": {
     "geography": "A roof above the world",
-    "animals": "Wings, hooves & spirals",
+    "animals": "Wings, spirals & tiny fish",
     "culture": "Blankets, ponies & song",
     "history": "Mountain kings & freedom",
     "wows": "Hard to believe!"
   },
   "geo": [
-    "Lesotho is the only country on Earth that sits entirely above 1,000 m — even its lowest river valley stands taller than the top of any mountain in Britain. Two-thirds of the land is rugged highland, cut by deep gorges.",
-    "The Maletsunyane Falls plunge 192 m in a single drop — one of Africa's tallest. All that high-altitude snow and rain means Lesotho exports water by pipe to South African cities far below."
+    "Lesotho is the only country on Earth that sits entirely above 1,000 m. Two-thirds of it is rugged highland, cut by deep gorges.",
+    "The Maletsunyane Falls drop 192 m in one plunge. Rain and snow in the mountains feed rivers. Lesotho pipes this water to South African cities far below."
   ],
   "animals": [
-    "The bearded vulture soars on 2.8 m wings above Lesotho's peaks. It carries bones high into the air and drops them on rocks to crack them open for marrow. Lesotho holds southern Africa's last healthy breeding population.",
-    "The spiral aloe (Aloe polyphylla) grows nowhere else on Earth — its leaves form a perfect clockwise pinwheel. The Maloti minnow, a tiny fish, hides in highland streams found only here."
+    "The bearded vulture soars on 2.8 m wings. It drops bones on rocks to crack them open for the marrow, the soft food inside.",
+    "The spiral aloe grows nowhere else on Earth. Its leaves form a clockwise pinwheel. The tiny Maloti minnow lives only here too."
   ],
   "culture": [
-    "The Basotho blanket is far more than a coat — each bold pattern signals a life event: birth, royalty, coming-of-age. Men and women wear them daily. Riding a sturdy Basotho pony across misty mountain passes is the country's classic adventure.",
-    "Music rings out on the lesiba, a wind instrument made from a feather quill and a string. Meals of papa (thick porridge) and moroho (wild greens) bring families together, and the cone-shaped mokorotlo hat even appears on the national flag."
+    "Each Basotho blanket pattern marks a life event, such as birth, royalty, or coming of age. Men and women wear them daily.",
+    "The lesiba is a wind instrument made from a feather quill and a string. Families share papa, a thick porridge. The mokorotlo hat even appears on the flag."
   ],
   "history": [
-    "Around 1822, Chief Moshoeshoe I united scattered clans on Thaba Bosiu — 'Mountain at Night' — using diplomacy and steep cliffs to defeat attackers. He welcomed refugees and built a nation from almost nothing.",
-    "Threatened by Boer settlers, Moshoeshoe asked Britain for protection in 1868. On 4 October 1966, the Kingdom of Lesotho became fully independent, with Moshoeshoe II as its first king."
+    "Around 1822, Chief Moshoeshoe I united scattered clans on Thaba Bosiu, 'Mountain at Night'. He used talks and steep cliffs to beat attackers.",
+    "Boer settlers threatened Lesotho, so Moshoeshoe asked Britain for protection in 1868. On 4 October 1966, Lesotho became independent with Moshoeshoe II as its first king."
   ],
   "wows": [
-    "Lesotho's lowest point is still higher than the summit of any mountain in the UK.",
-    "The Letšeng diamond mine at 3,100 m produces gems with the highest price per carat of any mine on Earth.",
+    "Lesotho's lowest point is higher than any mountain in the UK.",
+    "The Letšeng mine, at 3,100 m, produces the priciest diamonds per carat on Earth.",
     "Four of the 20 largest gem-quality diamonds ever found came from Lesotho.",
-    "200-million-year-old three-toed dinosaur tracks are pressed into sandstone near Quthing.",
-    "Lesotho earns millions selling rainwater by pipeline to South Africa's cities.",
-    "Africa's highest pub sits at Sani Pass, 2,874 m — you need a 4x4 to get there.",
-    "The bearded vulture eats mostly bone, dissolved by a super-strong stomach acid."
+    "Dinosaur tracks, 200 million years old, are pressed into sandstone near Quthing.",
+    "Lesotho earns millions selling water to South Africa by pipeline.",
+    "Africa's highest pub sits at Sani Pass, 2,874 m up.",
+    "The bearded vulture eats mostly bone, which its strong stomach acid melts."
   ],
   "myths": [
     {
-      "myth": "Lesotho is part of South Africa",
-      "fact": "Lesotho is a fully independent kingdom — one of only three countries worldwide entirely surrounded by one other country, with its own king and currency."
+      "myth": "A pony is a baby horse",
+      "fact": "A pony is a full-grown horse of a small kind. A baby horse is called a foal."
     },
     {
-      "myth": "Its mountains hold nothing valuable",
-      "fact": "Lesotho's highlands contain record-breaking diamond mines and supply billions of litres of water to South Africa each year."
+      "myth": "Diamonds are made from coal",
+      "fact": "Diamonds formed deep underground over a billion years ago. Coal came from dead plants, much later."
     }
   ],
   "words": [

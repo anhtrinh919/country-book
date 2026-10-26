@@ -2,7 +2,7 @@
   "name": "TIMOR-LESTE",
   "nativeName": "TL",
   "romaji": "TIMOR-LESTE",
-  "tagline": "Young, brave, & beautiful",
+  "tagline": "Young, brave & beautiful",
   "region": "Southeast Asia",
   "coords": "8.87°S, 125.73°E",
   "fileNo": "076",
@@ -24,7 +24,7 @@
     "keyColor": "#DC241F",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Timor-Leste only became independent in 2002, making it one of the world's newest nations. Tucked onto a tropical island between Indonesia and Australia, it has emerald mountains, coral beaches, and fish-packed seas. Fewer tourists visit here than almost anywhere in Asia — so its reefs and rainforests stay gloriously wild.",
+  "lead": "Timor-Leste became independent in 2002, making it one of the world's newest nations. It lies on a tropical island between Indonesia and Australia. It has green mountains, coral beaches, and seas full of fish. Few tourists visit, so its reefs stay wild.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN CITIES:",
   "sections": {
     "geography": "Mountains, sea & sacred peaks",
-    "animals": "Creatures of the coral kingdom",
+    "animals": "Reef life & forest friends",
     "culture": "Tais, feasts & the tebe dance",
     "history": "The long road to freedom",
-    "wows": "Surprising Timor-Leste facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Timor-Leste covers the eastern tip of Timor island, ringed by the Timor Sea and the Banda Sea. Rugged mountains spine the whole country — perfect for cool-weather coffee farms. The enclave of Oecusse sits separately, wrapped by Indonesian territory.",
-    "The Coral Triangle laps its shores, making these some of the most biodiverse waters anywhere. Ataúro island, about 30 km north of Dili, has been called the world's most fish-rich island by marine scientists."
+    "Timor-Leste covers the eastern part of Timor island, between the Timor Sea and the Banda Sea. Rugged mountains and coffee farms fill the land. Oecusse sits apart, wrapped in Indonesian land.",
+    "The Coral Triangle laps its shores. Marine scientists call Ataúro, 30 km north of Dili, the island with the most fish on Earth."
   ],
   "animals": [
-    "The Timor deer — called rusa — roams mountain forests and is a national symbol. Coconut crabs, the world's largest land crab, haul themselves up palms on Ataúro island. Dugongs (sea cows) graze seagrass beds in the Timor Sea.",
-    "Sperm whales and dolphins surf deep channels just offshore — whale-watching boats leave from Dili. The forests shelter the Timor imperial pigeon, a plump grey bird found only on Timor and nearby Wetar island."
+    "The Timor deer, called rusa, is a national symbol. Coconut crabs, the largest land crabs, climb palms on Ataúro. Dugongs (sea cows) graze on seagrass.",
+    "Sperm whales and dolphins swim just offshore, and whale-watching boats leave from Dili. The Timor imperial pigeon lives only on Timor and nearby Wetar island."
   ],
   "culture": [
-    "Timorese life revolves around the uma lulik — the sacred house, a thatched ancestral home every family tends with offerings and ceremonies. Woven cloth called tais carries clan stories in its patterns; no two designs are alike.",
-    "The tebe-tebe is a circle dance where whole villages lock arms and sing together for hours. Coffee is the nation's soul crop — chemical-free mountain beans are prized by specialty roasters worldwide."
+    "Life revolves around the uma lulik, a sacred thatched house. Every family tends it with offerings. Tais cloth carries clan stories, and no two designs are alike.",
+    "In the tebe-tebe dance, whole villages lock arms and sing for hours. Roasters worldwide prize the country's chemical-free mountain coffee."
   ],
   "history": [
-    "Portugal colonised Timor from the 1500s, trading in sandalwood and coffee. Japan occupied it in World War II; after the war Portugal returned, but in 1975 Indonesia invaded and ruled harshly for 24 years, causing enormous loss of life.",
-    "A 1999 UN referendum saw 78% vote for independence despite widespread violence. In 2002 Timor-Leste became Asia's newest nation. Nobel winners Bishop Belo and José Ramos-Horta led the international fight for freedom."
+    "Portugal colonised Timor from the 1500s, trading sandalwood and coffee. Japan occupied it in World War II. In 1975, Indonesia invaded and ruled harshly for 24 years.",
+    "In a 1999 UN vote, 78% chose independence, despite violence. In 2002, Timor-Leste became Asia's newest nation. Nobel winners Bishop Belo and José Ramos-Horta led the fight."
   ],
   "wows": [
-    "Timor-Leste is the only country in Asia that uses the US dollar as its everyday currency.",
-    "Ataúro island holds a world record — over 250 reef fish species counted per survey site on average.",
-    "The country has more than 30 distinct indigenous languages, roughly one for every valley.",
-    "Timorese mountain coffee is organic and fair-trade certified, sold in speciality shops across the US.",
-    "Tatamailau means 'Grandfather of All' — local belief says ancestral spirits travel to its summit.",
-    "Sperm whales pass so close to Dili that local spotters hear them blowing in the still of the night.",
-    "Timor-Leste was the 21st century's very first new country, gaining full independence on 20 May 2002."
+    "Timor-Leste is the only Asian country that uses the US dollar every day.",
+    "Ataúro island holds a record: over 250 reef fish species per survey site.",
+    "The country has over 30 local languages, roughly one per valley.",
+    "Timorese mountain coffee is organic and fair-trade, sold in shops across the US.",
+    "Tatamailau means 'Grandfather of All', and spirits are said to climb it.",
+    "Sperm whales pass so close to Dili that spotters hear them blow.",
+    "Timor-Leste, the 21st century's first new country, became independent on 20 May 2002."
   ],
   "myths": [
     {
-      "myth": "Timor-Leste is part of Indonesia",
-      "fact": "It is fully independent since 2002. Indonesia governs West Timor on the same island, but Timor-Leste has its own government, flag, currency, and UN seat."
+      "myth": "East Timor and Timor-Leste are different",
+      "fact": "They are one country. Timor comes from a Malay word for east. Leste is Portuguese for east."
     },
     {
-      "myth": "There's nothing to see or do there",
-      "fact": "Divers rate its reefs among the world's top five for fish diversity, and whale-watching, hiking, and weaving tours all run year-round from Dili."
+      "myth": "Timor-Leste is mostly Muslim, like Indonesia",
+      "fact": "Nearly everyone is Catholic. Only the Philippines is also mostly Catholic in Asia."
     }
   ],
   "words": [

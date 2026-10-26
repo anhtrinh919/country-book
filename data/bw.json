@@ -24,7 +24,7 @@
     "keyColor": "#4A90C4",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Botswana is a sun-baked landlocked country in southern Africa — salt pans, vast elephant herds, a magical inland sea. Once among the world's poorest nations at independence in 1966, it struck diamonds and wisely spent the wealth on schools and hospitals. Today nearly 40% of the land is protected wildlife reserve.",
+  "lead": "Botswana is a sunny country in southern Africa with no coast. It has salt pans, huge herds of elephants, and a giant inland delta. At independence in 1966, it was one of the world's poorest countries. Then it found diamonds. It spent the money on schools and hospitals. Nearly 40% of its land is protected for wildlife.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN CITIES:",
   "sections": {
     "geography": "A sky full of salt & water",
-    "animals": "Land of the giants",
-    "culture": "Botho — the Ubuntu way",
+    "animals": "Elephants, zebras & lions",
+    "culture": "Botho, the way of kindness",
     "history": "From dust to diamonds",
-    "wows": "Things that'll blow your mind"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Botswana is almost entirely flat — a giant sun-scorched plateau about 1,000 m above sea level. Around 70% is Kalahari, a semi-arid sandveld of golden grass and ancient dunes stretching in every direction.",
-    "Yet water works miracles here. The Okavango River fans into the world's largest inland delta — 22,000 km² of channels and islands. The Makgadikgadi salt pans, a drained ancient lake, gleam white as a mirror under the African sun."
+    "Botswana is almost flat. It is a giant, sunny plateau about 1,000 m above sea level. Around 70% of it is Kalahari. That is a dry land of golden grass and ancient dunes that stretch in every direction.",
+    "Yet water works miracles here. The Okavango River fans out into the world's largest inland delta. It covers 22,000 km² of channels and islands. The Makgadikgadi salt pans are a dried-up ancient lake. They gleam white as a mirror in the sun."
   ],
   "animals": [
-    "Botswana has more elephants than any other country — 130,000 roam freely. Chobe River herds wade in at sunset alongside lions, leopards, wild dogs, hippos, and crocodiles, all in parks covering nearly 40% of the land.",
-    "The zebra is the national animal and its stripes inspired the flag's colours. Tens of thousands migrate across Makgadikgadi grasslands each year. The Okavango Delta alone hosts over 500 bird species."
+    "Botswana has more elephants than any other country. 130,000 roam free. At sunset, herds wade into the Chobe River beside lions, leopards, wild dogs, hippos, and crocodiles. Parks cover nearly 40% of the land.",
+    "The zebra is the national animal. Its stripes inspired the colours of the flag. Tens of thousands migrate across the Makgadikgadi grasslands each year. The Okavango Delta alone has over 500 bird species."
   ],
   "culture": [
-    "The Tswana follow botho — the belief that a person is only truly a person through kindness and community. Greetings matter: rushing past without a warm 'Dumela' is considered rude. Seswaa, slow-cooked pounded beef, is the beloved national dish.",
-    "Marimba and drums keep time for harvest dances like the Setapa. The kgotla — an open-air meeting under a tree where every adult may speak — settles disputes and shapes policy, a tradition underpinning Botswana's proud democracy."
+    "The Tswana follow botho. It means a person becomes fully a person through kindness and community. Greetings matter. Rushing past without a warm 'Dumela' (hello) is rude. Seswaa, slow-cooked pounded beef, is the national dish.",
+    "Marimba and drums keep time for harvest dances like the Setapa. The kgotla is an open-air meeting under a tree. Every adult may speak there. It settles disputes and shapes policy. This tradition props up Botswana's proud democracy."
   ],
   "history": [
-    "At independence on 30 Sept 1966, Botswana was among the world's six poorest nations — just 12 km of paved roads, no universities, a population surviving on drought rations. Eight months later, geologists struck diamonds.",
-    "The government reinvested every pula of diamond revenue into schools, hospitals, and roads. Within three decades, Botswana achieved the world's fastest economic growth, becoming an upper-middle-income nation without a single coup."
+    "Botswana became independent on 30 Sept 1966. It was among the world's six poorest nations. It had just 12 km of paved roads and no universities. Many people lived on drought rations. Eight months later, geologists struck diamonds.",
+    "The government put every pula of diamond money into schools, hospitals, and roads. In three decades, Botswana had the world's fastest economic growth. It became an upper-middle-income country without a single coup (army takeover)."
   ],
   "wows": [
-    "Botswana has 130,000 elephants — more than any other nation on Earth.",
-    "The Okavango floods in the dry season: rains fall in Angola and arrive months later.",
-    "The Sewelô diamond (2019) weighed 1,758 carats — the 2nd-largest ever found.",
-    "'Pula!' means both 'rain' and 'cheers' — Botswana's currency and its toast.",
-    "Chobe National Park holds up to 50,000 elephants in a single protected area.",
-    "Makgadikgadi salt pans are so flat the stars reflect off the wet surface at night.",
-    "Botswana built 90%+ HIV treatment coverage in under a decade — a world record."
+    "Botswana has 130,000 elephants, more than any other country on Earth.",
+    "The Okavango floods in the dry season, because rain falls in Angola and arrives months later.",
+    "The Sewelô diamond (2019) weighed 1,758 carats, the 2nd-largest ever found.",
+    "'Pula' means both 'rain' and 'cheers', and it is the name of Botswana's money.",
+    "Chobe National Park holds up to 50,000 elephants in one protected area.",
+    "The Makgadikgadi salt pans are so flat that stars reflect off the wet surface at night.",
+    "Botswana reached 90%+ HIV treatment coverage in under a decade, a world record."
   ],
   "myths": [
     {
-      "myth": "Botswana is all barren desert",
-      "fact": "The Kalahari gets enough rain for grasses and wildlife. The Okavango Delta in the north is a lush wetland — one of Africa's richest wild places."
+      "myth": "Diamonds are made from coal",
+      "fact": "Diamonds form deep underground from pure carbon. Most are older than any plant, so they cannot come from coal."
     },
     {
-      "myth": "Botswana is a typical poor country",
-      "fact": "It is classified upper-middle-income by the World Bank — a remarkable rise from being one of the world's six poorest nations at independence in 1966."
+      "myth": "Elephants drink through their trunks",
+      "fact": "An elephant sucks water into its trunk. Then it squirts the water into its mouth."
     }
   ],
   "words": [

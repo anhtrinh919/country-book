@@ -24,7 +24,7 @@
     "keyColor": "#C60B1E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Spain sits at the western tip of Europe, where the Atlantic and Mediterranean meet. A land of blazing sunshine, ancient castles, and some of the loudest festivals on Earth — where matadors, tapas, and siestas are real, but so are high-speed trains topping 300 km/h and cities full of futuristic art.",
+  "lead": "Spain is at the western tip of Europe, where the Atlantic and the Mediterranean meet. It has blazing sunshine, old castles and very loud festivals. Matadors, tapas and siestas are real. So are high-speed trains over 300 km/h and cities full of futuristic art.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Wild creatures of Spain",
     "culture": "Fiestas, food & flamenco",
     "history": "Empires, art & revolution",
-    "wows": "Spain will surprise you!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Spain is mostly a high, flat plateau called the Meseta, ringed by mountains. The Pyrenees form a great wall in the north, separating Spain from France, while the Sierra Nevada towers near Granada in the south.",
-    "Three seas lap its shores: the Atlantic, the Mediterranean, and the Bay of Biscay. Spain also owns the sunny Canary Islands off Africa's coast and the Balearic Islands (Mallorca, Ibiza) in the Mediterranean."
+    "Spain is mostly a high, flat plateau called the Meseta. Mountains ring it. The Pyrenees form a great wall in the north and separate Spain from France. The Sierra Nevada towers near Granada in the south.",
+    "Three seas lap its shores: the Atlantic, the Mediterranean and the Bay of Biscay. Spain also owns the sunny Canary Islands, off Africa's coast. The Balearic Islands, Mallorca and Ibiza, lie in the Mediterranean."
   ],
   "animals": [
-    "Spain's wild south — the Doñana wetlands — shelters the Iberian lynx, the world's rarest wild cat, rescued from near-extinction. The Iberian wolf still roams the northern hills in small packs.",
-    "Brown bears lumber through the Cantabrian mountains, and huge griffon vultures circle the gorges of Extremadura. In autumn, red deer stags bellow across misty forests in a noisy contest called the berrea."
+    "The Doñana wetlands in the south shelter the Iberian lynx. It is the world's rarest wild cat. People rescued it from near-extinction (almost vanishing). The Iberian wolf still roams the northern hills in small packs.",
+    "Brown bears lumber through the Cantabrian mountains. Huge griffon vultures circle the gorges of Extremadura. In autumn, red deer stags bellow across misty forests. This noisy contest is called the berrea."
   ],
   "culture": [
-    "Spain runs on a different clock. Lunch is the big meal — eaten at 2–3 pm — and dinner rarely starts before 9 pm. Tapas are small dishes shared at the bar; the word once meant bread placed on a glass to keep flies out.",
-    "Flamenco — clapping, guitar, and stamping dance — was born in Andalusia and is now a UNESCO treasure. Every town has its own fiesta: Pamplona runs bulls through its streets; Valencia burns giant wooden sculptures every March."
+    "Spain runs on a different clock. Lunch is the big meal, at 2 to 3 pm. Dinner rarely starts before 9 pm. Tapas are small dishes shared at the bar. The word once meant bread placed on a glass to keep flies out.",
+    "Flamenco mixes clapping, guitar and stamping dance. It was born in Andalusia and is now on UNESCO's heritage list. Every town has its own fiesta. Pamplona runs bulls through its streets. Valencia burns giant wooden sculptures every March."
   ],
   "history": [
-    "Spain was home to Romans, Visigoths, and then Muslim rulers called the Moors for nearly 800 years. Moorish palaces like the Alhambra still stand. In 1492 — the year Columbus sailed west — the last Moorish kingdom fell.",
-    "Spain then built a vast empire spanning the Americas and Asia. After empire came struggle — a brutal civil war in the 1930s — but Spain emerged as a vibrant democracy and joined the EU in 1986."
+    "Muslim rulers called the Moors held parts of Spain for nearly 800 years. Romans and Visigoths came first. Palaces like the Alhambra still stand. In 1492, the year Columbus sailed west, the last Moorish kingdom fell.",
+    "Spain then built a vast empire across the Americas and Asia. A brutal civil war came in the 1930s. Afterwards Spain became a democracy. It joined the EU in 1986."
   ],
   "wows": [
-    "Spain's La Tomatina festival sees 20,000 people hurl 150 tonnes of tomatoes at each other every August.",
+    "At La Tomatina each August, 20,000 people hurl 150 tonnes of tomatoes at each other.",
     "The Sagrada Família in Barcelona has been under construction since 1882 and is still not finished.",
     "Spain has more UNESCO World Heritage Sites than almost any other country on Earth.",
-    "Madrid's Prado Museum holds over 8,000 paintings by Velázquez, Goya, and El Greco.",
-    "A Spaniard invented the modern mop — Manuel Jalón Corominas patented it in 1956.",
+    "Madrid's Prado Museum holds over 8,000 paintings by Velázquez, Goya and El Greco.",
+    "A Spaniard, Manuel Jalón Corominas, patented the modern mop in 1956.",
     "Spanish is the world's second most spoken native language, with 490 million speakers.",
-    "Spain's AVE high-speed rail network is the longest in Europe at over 3,900 km."
+    "Spain's AVE high-speed rail network is the longest in Europe, at over 3,900 km."
   ],
   "myths": [
     {
       "myth": "Spain is always hot and sunny",
-      "fact": "Northern Spain (Galicia, Basque Country) is famously rainy and green — locals joke it rains more than London."
+      "fact": "Not in the north. Galicia and the Basque Country are rainy and green."
     },
     {
       "myth": "Bulls charge because of the red",
-      "fact": "Bulls are colourblind to red; it's the movement of the cloth that excites them, not its colour."
+      "fact": "Bulls are colourblind to red. The moving cloth excites them, not its colour."
     }
   ],
   "words": [

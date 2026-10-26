@@ -24,7 +24,7 @@
     "keyColor": "#C60C30",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "South Korea is a mountainous peninsula between China and Japan that punches far above its size. It gave the world K-pop, invented one of history's cleverest alphabets, and turned post-war rubble into a tech powerhouse in two generations. From ancient palaces to volcanic Jeju, it blends 5,000 years of history with bullet trains.",
+  "lead": "South Korea is a mountainous peninsula between China and Japan. It gave the world K-pop and a very clever alphabet. After the war, it grew from rubble into a tech powerhouse in two generations.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Tigers, cranes & sea life",
     "culture": "Kimchi, K-pop & temples",
     "history": "Dynasties, war & a miracle",
-    "wows": "7 things you won't believe"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "About 70% of South Korea is steep, forested mountains, leaving narrow coastal plains where most people live and rice grows in flooded paddies. The country has over 3,000 islands around its jagged southern and western coasts.",
-    "The Han River cuts through Seoul. Jeju Island to the south is a volcanic wonder with lava tubes you can walk through and Korea's tallest mountain, Hallasan, rising from its centre."
+    "About 70% of South Korea is steep, forested mountains. Most people live on the narrow coastal plains, where rice grows in flooded paddies. Over 3,000 islands dot the coasts.",
+    "The Han River cuts through Seoul. Jeju Island, to the south, is volcanic, with lava tubes you can walk through. Korea's tallest mountain, Hallasan, rises from its centre."
   ],
   "animals": [
-    "South Korea's national animal is the Siberian tiger — powerful and ghostly white in snow. Tigers once roamed every Korean mountain but were wiped out by the 1920s. Mysterious tracks near the Demilitarized Zone still spark hope.",
-    "The red-crowned crane, with its scarlet cap and white feathers, is a beloved symbol of luck. Each winter, thousands fly to Korea's DMZ wetlands — an accidental nature reserve where no humans have walked for over 70 years."
+    "The Siberian tiger is the national animal. It looks ghostly white in snow. Tigers were wiped out by the 1920s. Odd tracks near the Demilitarized Zone still spark hope.",
+    "The red-crowned crane has a scarlet cap and white feathers. It is a symbol of luck. Thousands winter in the DMZ wetlands, where no people have walked for over 70 years."
   ],
   "culture": [
-    "Korea's biggest food star is kimchi — spicy, garlicky fermented cabbage eaten at almost every meal. There are 200+ varieties, and making it together each autumn (kimjang) is a UNESCO heritage tradition.",
-    "K-pop is more than music — it's idol groups, dazzling videos, and devoted global fan armies. The Korean Wave (Hallyu) swept dramas, food, and fashion from Asia to every corner of the world."
+    "Kimchi is spicy, garlicky fermented cabbage, eaten at almost every meal. There are 200+ varieties. Making it together each autumn, called kimjang, is a UNESCO heritage tradition.",
+    "K-pop means idol groups, dazzling videos and devoted fans worldwide. The Korean Wave (Hallyu) also carried dramas, food and fashion far beyond Asia."
   ],
   "history": [
-    "Korean civilisation stretches back 5,000 years. The Joseon dynasty ruled for 500 years from 1392, building grand palaces, inventing the Hangul alphabet, and producing great scholars — before Japan forcibly took control in 1910.",
-    "In 1950, North Korea invaded the South, sparking a devastating three-year war. Yet within decades South Korea rebuilt into a wealthy tech giant — Samsung, Hyundai — in what economists call the 'Miracle on the Han River'."
+    "Korean civilisation is 5,000 years old. The Joseon dynasty ruled for 500 years from 1392. It built grand palaces and invented the Hangul alphabet. Japan forcibly took control in 1910.",
+    "In 1950, North Korea invaded the South, starting a three-year war. Within decades, South Korea became a tech giant with Samsung and Hyundai. This was the 'Miracle on the Han River'."
   ],
   "wows": [
-    "South Korea has some of the world's fastest internet, with 89% of homes connected by lightning-fast fibre.",
-    "Hangul was designed so cleverly in 1443 that scholars say you can learn to read it in a single morning.",
-    "Seoul has thousands of jjimjilbang — giant bathhouses where Koreans relax, sleep, and eat inside.",
-    "Samsung's revenue has equalled roughly 20% of South Korea's entire economy in peak years.",
-    "South Korea borders only North Korea by land, making it effectively an island nation.",
-    "The DMZ is one of Asia's most biodiverse nature reserves, home to 6,200 wild species since 1953.",
-    "Traditionally, every Korean baby was already one year old at birth — a custom only officially dropped in 2023."
+    "Fibre internet reaches 89% of South Korean homes.",
+    "Hangul was designed in 1443 and can be learned in a morning.",
+    "Seoul has thousands of jjimjilbang, giant bathhouses where people relax, sleep and eat.",
+    "Samsung's revenue once equalled about 20% of South Korea's economy.",
+    "South Korea's only land border is with North Korea.",
+    "The DMZ has sheltered 6,200 wild species since 1953.",
+    "Korean babies were one year old at birth until 2023."
   ],
   "myths": [
     {
       "myth": "Korean food is always fiery hot",
-      "fact": "Chilli only arrived via Portuguese and Japanese traders around 1600. Many traditional dishes — soups, rice cakes, temple food — are completely mild and heat-free."
+      "fact": "Chilli arrived only around 1600, with traders. Many dishes, like soups and temple food, are mild."
     },
     {
       "myth": "K-pop stars just sing and dance",
-      "fact": "Idols typically train for years in singing, dancing, languages, and performance before ever debuting — one of the world's most demanding entertainment industries."
+      "fact": "Idols train for years in singing, dancing and languages before they debut."
     }
   ],
   "words": [

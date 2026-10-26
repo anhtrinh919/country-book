@@ -24,7 +24,7 @@
     "keyColor": "#239F40",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Iran sits at the crossroads of ancient civilisations, where the Persian Empire once ruled from Egypt to India. Today it is a vast land of sand deserts, snowy mountains, saffron fields, and bazaars piled high with carpets and spices. People have lived here for more than 7,000 years, making Iran one of the oldest civilisations on Earth.",
+  "lead": "Iran lies in the Middle East. The Persian Empire once ruled from Egypt to India. Today Iran has sand deserts, snowy mountains, and saffron fields. People have lived here for more than 7,000 years.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Rare cats & pink flamingos",
     "culture": "Carpets, poetry & saffron",
     "history": "Empires older than Rome",
-    "wows": "Seven surprising facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Iran is a high plateau ringed by mountains. The Alborz range holds Mount Damavand, a snow-capped volcano taller than any Alpine peak. The Zagros Mountains stretch 1,500 km across the west like a great spine.",
-    "Two giant deserts fill the centre — the salt desert Dasht-e Kavir and the sand desert Dasht-e Lut, one of the hottest places on Earth. Yet the north hugs the Caspian Sea, green and rainy as a jungle."
+    "Iran is a high plateau ringed by mountains. Mount Damavand, a snow-capped volcano, is taller than any Alpine peak. The Zagros Mountains stretch 1,500 km like a great spine.",
+    "Two giant deserts fill the centre. Dasht-e Lut is one of the hottest places on Earth. The north hugs the Caspian Sea, which is green and rainy."
   ],
   "animals": [
-    "Iran's Asiatic cheetah is the rarest cat on Earth — fewer than 30 survive in the wild, all in Iran. Persian leopards prowl the Alborz forests, and brown bears fish in mountain streams each autumn.",
-    "The Persian fallow deer, once thought extinct, was rediscovered in Khuzestan. Flamingos paint Lake Urmia pink every spring, and the rare Siberian crane stops here on its long migration south."
+    "Iran's Asiatic cheetah is the rarest cat on Earth. Fewer than 30 survive in the wild, all in Iran. Persian leopards prowl the Alborz forests.",
+    "Flamingos turn Lake Urmia pink every spring. Brown bears fish in mountain streams each autumn. The Persian fallow deer was thought extinct, then found again."
   ],
   "culture": [
-    "Persian poetry is so beloved that Iranians quote Hafez and Rumi like song lyrics. Nowruz (New Year) falls on the spring equinox — families set a table of seven symbolic items and leap over bonfires.",
-    "Iranian carpet-weaving is a 2,500-year-old art; one fine carpet can take three weavers two years to finish. Iran grows 90% of the world's saffron — red threads plucked from purple crocuses at dawn each October."
+    "Iranians quote the poets Hafez and Rumi like song lyrics. At Nowruz (New Year), families set a table with seven symbolic items. They also leap over bonfires.",
+    "Carpet-weaving is a 2,500-year-old art. One fine carpet can take three weavers two years. Iran grows 90% of the world's saffron, red threads from purple crocuses."
   ],
   "history": [
-    "The Achaemenid Persian Empire, founded by Cyrus the Great around 550 BC, was the largest empire the ancient world had seen. Cyrus issued one of history's first human-rights declarations, now kept at the British Museum.",
-    "After Alexander, then Parthians and Sassanids, Iran became the heart of the Islamic Golden Age — its scholars preserved Greek science and pioneered algebra and medicine for the whole world."
+    "Cyrus the Great founded the Persian Empire around 550 BC. It was the largest empire the ancient world had seen. Cyrus also issued one of history's first human-rights declarations.",
+    "Alexander, the Parthians, and the Sassanids ruled Iran in turn. Later, Iran became the heart of the Islamic Golden Age. Its scholars pioneered algebra and medicine."
   ],
   "wows": [
-    "Mount Damavand is the highest volcano in all of Asia at 5,610 m.",
-    "Cyrus the Great built history's first postal network — couriers ran 2,700 km across his empire.",
-    "Yazd's ancient wind-towers (badgir) cooled buildings 2,500 years before air conditioning.",
-    "Iran grows roughly 90% of the world's saffron — more than every other country combined.",
-    "The Asiatic cheetah survives only in Iran; it is the last wild population outside Africa.",
-    "Backgammon was invented in Persia ~5,000 years ago; an ancient board was found at Burnt City.",
-    "Iran's qanat underground water channels have irrigated the plateau for over 3,000 years."
+    "Mount Damavand is Asia's highest volcano, at 5,610 m.",
+    "Couriers ran 2,700 km along Cyrus the Great's postal network, history's first.",
+    "Yazd's wind-towers (badgir) cooled buildings 2,500 years before air conditioning.",
+    "Iran grows roughly 90% of the world's saffron.",
+    "Iran has the last wild cheetahs outside Africa.",
+    "Backgammon was invented in Persia about 5,000 years ago.",
+    "Iran's underground qanat channels have watered the plateau for over 3,000 years."
   ],
   "myths": [
     {
-      "myth": "Iran and Iraq are the same place",
-      "fact": "They are neighbouring countries with different languages and histories. Iran speaks Persian; Iraq's main language is Arabic. They share a border but little else."
+      "myth": "Persia and Iran are different countries",
+      "fact": "Same country. In 1935, Iran asked the world to stop saying Persia."
     },
     {
-      "myth": "Iran is all sand dunes and desert",
-      "fact": "Only about a quarter is desert. The rest is snowy mountains, lush Caspian forests, green valleys, and farmland growing pistachios and pomegranates."
+      "myth": "Checkmate is an English word",
+      "fact": "It comes from the Persian shah mat, meaning the king is helpless. Chess reached Europe through Persia."
     }
   ],
   "words": [

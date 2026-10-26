@@ -24,7 +24,7 @@
     "keyColor": "#009FCA",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Tuvalu is one of the tiniest nations on Earth — nine flat coral islands in the Pacific, so low the highest point is barely 5 metres. About 11,000 people live here, fishing, weaving, and playing ano, a local ball game. The ocean gives food, trade, and identity — but rising seas are pushing Tuvalu to reinvent itself.",
+  "lead": "Tuvalu is one of the tiniest nations on Earth. It has nine flat coral islands in the Pacific. The highest point is barely 5 metres. About 11,000 people live here. Rising seas threaten its future.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Nine atolls, one ocean",
     "animals": "Reef sharks & sea turtles",
-    "culture": "Drums, coconuts & ano",
+    "culture": "Dance, coconuts & ano",
     "history": "Stars, Britain & freedom",
-    "wows": "Surprising Tuvalu"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Tuvalu sits in the central Pacific, halfway between Hawaii and Australia. Its nine islands are coral atolls — rings of reef on old volcanic peaks — so flat you can barely spot them from a boat. Total land: just 26 km², smaller than most city parks.",
-    "There are no rivers anywhere. Drinking water comes entirely from rain caught on rooftops. The lagoons inside each atoll are brilliant turquoise, ringed by coconut palms leaning in the trade winds."
+    "Tuvalu lies halfway between Hawaii and Australia. Its nine islands are coral atolls, rings of reef on old volcanoes. They are so flat that boats barely spot them. The land totals just 26 km².",
+    "There are no rivers at all. People drink rain caught on rooftops. Each lagoon is bright turquoise, ringed by coconut palms."
   ],
   "animals": [
-    "Blacktip reef sharks patrol the shallows with dark fin tips slicing the surface, while giant Napoleon wrasse — fish with a funny forehead bump — glide through coral gardens. The waters are dazzlingly alive.",
-    "Green sea turtles crawl onto sandy islets to lay eggs in the Funafuti Conservation Area. Sooty terns nest in noisy flocks on outer islets, and the tiny Tuvalu skink lizard lives nowhere else on Earth."
+    "Blacktip reef sharks patrol the shallows, dark fin tips slicing the surface. Giant Napoleon wrasse, fish with a funny forehead bump, glide through coral gardens.",
+    "Green sea turtles lay eggs on sandy islets in the Funafuti Conservation Area. The tiny Tuvalu skink lives nowhere else on Earth."
   ],
   "culture": [
-    "The fatele is a group dance where singers repeat each verse faster and faster until everyone is breathless — it always ends in laughter. The maneapa, an open meeting house, is the heart of community life for feasts and decisions.",
-    "Food comes from the ocean and the coconut palm: fresh fish, coconut cream, and pulaka root. Ano — two hard pandanus-leaf balls volleyed at high speed — is played by whole villages together."
+    "In the fatele group dance, singers repeat each verse faster and faster until everyone laughs. The maneapa, an open meeting house, is the heart of village life.",
+    "Food comes from the sea and the coconut palm: fresh fish, coconut cream, and pulaka root. Whole villages play ano, volleying two hard pandanus-leaf balls at high speed."
   ],
   "history": [
-    "Polynesian navigators settled Tuvalu over 2,000 years ago, guided by stars and ocean swells. European missionaries arrived in the 1800s, and by 1916 Britain had merged the islands into the Gilbert and Ellice Islands Colony.",
-    "In 1974 Tuvaluans voted to govern themselves separately. On 1 October 1978 Tuvalu became fully independent. In 2023 it rewrote its constitution declaring statehood continues forever — even if the sea swallows every island."
+    "Polynesian navigators settled Tuvalu over 2,000 years ago, guided by stars and ocean swells. By 1916, Britain had merged it into the Gilbert and Ellice Islands Colony.",
+    "In 1974, Tuvaluans voted to govern themselves separately. Tuvalu became fully independent on 1 October 1978. In 2023, it rewrote its constitution to say statehood lasts forever, even if the sea swallows every island."
   ],
   "wows": [
-    "Tuvalu's internet code is .tv — it earns ~$10 million a year licensing it to streaming sites.",
-    "The first .tv million paid Tuvalu's UN membership fee, letting it join the world body in 2000.",
-    "Funafuti's airport runway doubles as the town's sports field and market when no plane is due.",
-    "Tuvalu rewrote its constitution in 2023 so the nation legally exists even if its land sinks.",
-    "Only government officials may own cars on Funafuti — the island has no room for more.",
-    "The whole country has just 8 km of paved road — less than many suburban streets.",
-    "Its nine flag stars are arranged to mirror the true geography of each real island."
+    "Tuvalu's internet code is .tv, and licensing it earns about $10 million a year.",
+    "The first .tv million paid Tuvalu's UN membership fee in 2000.",
+    "Funafuti's airport runway doubles as the town's sports field and market.",
+    "In 2023, Tuvalu rewrote its constitution so it legally exists even if its land sinks.",
+    "Only officials may own cars on Funafuti, which has no room for more.",
+    "The whole country has just 8 km of paved road.",
+    "Tuvalu's flag has nine stars, placed like its nine islands."
   ],
   "myths": [
     {
-      "myth": "Tuvalu is already underwater",
-      "fact": "The islands still stand, but seas rise ~5 mm per year near Funafuti — nearly 3× the global average — making the threat urgent and real."
+      "myth": "Coral is a kind of rock",
+      "fact": "Coral is made of tiny animals called polyps. Their hard skeletons pile up into reefs and islands."
     },
     {
-      "myth": "Too tiny to matter globally",
-      "fact": "Tuvalu controls 900,000 km² of ocean, holds a UN seat, and pioneered the legal concept of a digital nation."
+      "myth": "Reef sharks attack swimmers",
+      "fact": "Blacktips are shy. They eat small fish and swim away from people."
     }
   ],
   "words": [

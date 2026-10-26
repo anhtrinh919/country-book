@@ -24,7 +24,7 @@
     "keyColor": "#8D153A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Sri Lanka is a teardrop island off India's southern tip — small enough to drive across in a day, yet packed with ancient temples, misty tea hills, golden beaches, and elephants. Called the Pearl of the Indian Ocean for 2,000 years, its sapphire lagoons and emerald highlands still dazzle every visitor who arrives.",
+  "lead": "Sri Lanka is a teardrop island off the tip of India. It has ancient temples, misty tea hills, golden beaches, and wild elephants. People have called it the Pearl of the Indian Ocean for 2,000 years.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN CITIES:",
   "sections": {
     "geography": "A teardrop in the ocean",
-    "animals": "Wild tuskers & sea turtles",
+    "animals": "Elephants & sea turtles",
     "culture": "Tea, temples & two languages",
     "history": "2,500 years of kings & spice",
     "wows": "Surprising Sri Lanka"
   },
   "geo": [
-    "Sri Lanka sits in the Indian Ocean just 31 km from India's southern tip. The centre rises into cool, cloud-wrapped highlands where waterfalls tumble through terraced tea estates — among the world's most scenic.",
-    "Flat coastal plains wrap the highlands like a skirt. The south-west gets drenching monsoon rains while the north-east bakes dry, so two different weathers can exist on the same island on the same day."
+    "Sri Lanka sits in the Indian Ocean, just 31 km from India's southern tip. Cool, cloudy highlands fill the centre. Waterfalls tumble past tea farms.",
+    "Flat plains wrap around the highlands. The south-west gets heavy monsoon rain. The north-east stays dry."
   ],
   "animals": [
-    "Wild Asian elephants roam ancient forests, leopards prowl Yala National Park, and sloth bears shuffle through scrubland. Blue whales — the biggest animals on Earth — swim just off the southern coast from November to April each year.",
-    "Five of the world's seven sea turtle species nest on Sri Lanka's beaches. The island is home to the Sri Lankan junglefowl, a brilliantly coloured bird found nowhere else on the planet and the national symbol of the country."
+    "Wild Asian elephants roam the ancient forests. Blue whales, the biggest animals on Earth, swim off the south coast from November to April.",
+    "Five of the world's seven sea turtle species nest on Sri Lanka's beaches. The Sri Lankan junglefowl, a bright bird, lives nowhere else on Earth."
   ],
   "culture": [
-    "About 70 % of Sri Lankans are Buddhist, and golden-roofed temples called viharas dot every town. The Buddha's Tooth Relic, kept in Kandy's famous temple, is the most sacred object in the country.",
-    "Tamil Hindus celebrate fire-walking festivals in the north, while everyone shares a love of rice-and-curry eaten with fingers, fiercely passionate cricket, and the world's finest cinnamon — traded here 3,000 years ago."
+    "About 70% of Sri Lankans are Buddhist. Golden-roofed temples called viharas stand in every town. A famous temple in Kandy keeps the Buddha's Tooth Relic, the most sacred object in the country.",
+    "Tamil Hindus in the north hold fire-walking festivals. Everyone eats rice and curry with their fingers. The world's finest cinnamon was traded here 3,000 years ago."
   ],
   "history": [
-    "Sri Lanka has been inhabited for at least 30,000 years. The Sinhalese kingdom of Anuradhapura ruled for over a millennium, building vast irrigation tanks so farmers could grow rice across the dry northern plains.",
-    "Arab, Portuguese, Dutch, and British traders all wanted Sri Lanka's spices, gems, and harbours. Britain called it Ceylon. In 1948 it gained independence, and in 1972 it became Sri Lanka."
+    "People have lived here for at least 30,000 years. The Sinhalese kingdom of Anuradhapura ruled for over 1,000 years. Its builders dug huge tanks to store water for rice.",
+    "Arab, Portuguese, Dutch, and British traders all wanted Sri Lanka's spices, gems, and harbours. Britain called it Ceylon. It gained independence in 1948 and became Sri Lanka in 1972."
   ],
   "wows": [
-    "Sri Lanka invented cinnamon — it grew wild here and was traded to Egypt and Rome over 3,000 years ago.",
-    "Nearly every district has gem-bearing soil; sapphires and rubies still wash out of riverbeds after rain.",
-    "Sri Lanka elected the world's first female prime minister, Sirimavo Bandaranaike, in 1960.",
-    "Blue whales — the largest animals ever — swim so close to shore they can sometimes be spotted from the beach.",
-    "Sigiriya fortress was built atop a 180-metre rock in the 5th century; its vivid frescoes survive today.",
-    "The English word 'serendipity' comes from Serendip, the ancient Persian name for Sri Lanka.",
-    "Adam's Peak is sacred to four religions: Buddhist, Hindu, Muslim, and Christian pilgrims all climb it yearly."
+    "Cinnamon grew wild here and reached Egypt over 3,000 years ago.",
+    "Sapphires and rubies wash out of riverbeds after rain.",
+    "Sri Lanka elected the world's first female prime minister in 1960.",
+    "Blue whales sometimes swim close enough to spot from the beach.",
+    "Sigiriya fortress, built in the 5th century, sits on a 180-metre rock.",
+    "The word 'serendipity' comes from Serendip, an old name for Sri Lanka.",
+    "Buddhist, Hindu, Muslim, and Christian pilgrims all climb Adam's Peak."
   ],
   "myths": [
     {
-      "myth": "Sri Lanka is part of India",
-      "fact": "Sri Lanka is a separate island nation divided from India by the Palk Strait, with its own government, languages, and 2,500-year history."
+      "myth": "Sri Lanka has always grown tea",
+      "fact": "Coffee came first. A plant disease killed the coffee farms in the 1800s, so farmers planted tea."
     },
     {
-      "myth": "Sri Lanka only exports tea",
-      "fact": "Tea is famous, but Sri Lanka also leads the world in cinnamon, supplies fine sapphires and rubies, and has a growing tech and tourism sector."
+      "myth": "Cinnamon comes from a seed",
+      "fact": "Cinnamon is bark. Workers peel it from young shoots, and it curls into sticks as it dries."
     }
   ],
   "words": [

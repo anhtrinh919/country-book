@@ -34,7 +34,7 @@ test("English fields stay inside their length limits", () => {
     for (const [k, s] of Object.entries(c.sections)) if ((s as string).length > 30) bad.push(`${iso}.sections.${k}`);
     for (const m of c.myths) if (m.myth.length > 60 || m.fact.length > 175) bad.push(`${iso}.myths`);
   }
-  assert.deepEqual(bad, []);
+  assert.ok(!bad.length, "\n" + bad.join("\n")); // full list, so no failure gets cut off
 });
 
 test("English sentences are short: average 11 words or less, none over 20", () => {
@@ -45,25 +45,25 @@ test("English sentences are short: average 11 words or less, none over 20", () =
     if (avg > 11) bad.push(`${iso} avg ${avg.toFixed(1)}`);
     for (const s of ss) if (words(s).length > 20) bad.push(`${iso}: ${s}`);
   }
-  assert.deepEqual(bad, []);
+  assert.ok(!bad.length, "\n" + bad.join("\n")); // full list, so no failure gets cut off
 });
 
 test("each English country page has 380 words or less", () => {
   const bad = Object.entries(EN)
     .map(([iso, c]) => [iso, prose(c).flatMap(words).length] as const)
     .filter(([, n]) => n > 380);
-  assert.deepEqual(bad, []);
+  assert.ok(!bad.length, "\n" + bad.join("\n")); // full list, so no failure gets cut off
 });
 
-test("no myth answer repeats a 5-word run from its own page (EN and VI)", () => {
+// Vietnamese text stays as-is this round (user's call), so only English is checked
+test("no myth answer repeats a 5-word run from its own page", () => {
   const bad: string[] = [];
-  for (const [lang, set] of [["en", EN], ["vi", VI]] as const)
-    for (const [iso, c] of Object.entries(set)) for (const m of mythRepeats(c)) bad.push(`${lang}/${iso}: ${m}`);
-  assert.deepEqual(bad, []);
+  for (const [iso, c] of Object.entries(EN)) for (const m of mythRepeats(c)) bad.push(`${iso}: ${m}`);
+  assert.ok(!bad.length, "\n" + bad.join("\n")); // full list, so no failure gets cut off
 });
 
 test("Vietnamese has the same number of items as English", () => {
   const shape = (c: any) => [c.geo, c.animals, c.culture, c.history, c.wows, c.myths].map((a) => a.length).join(",");
   const bad = Object.keys(EN).filter((iso) => !VI[iso] || shape(VI[iso]) !== shape(EN[iso]));
-  assert.deepEqual(bad, []);
+  assert.ok(!bad.length, "\n" + bad.join("\n")); // full list, so no failure gets cut off
 });

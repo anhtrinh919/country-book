@@ -24,7 +24,7 @@
     "keyColor": "#CC2027",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Croatia hugs the sparkling Adriatic with over 1,700 km of coastline and more than 1,000 islands. Its walled cities look built for fairy tales, and its national parks hide waterfalls in turquoise pools. Tiny but mighty, Croatia fits Roman ruins, medieval towns, and dazzling beaches all into a country about the size of West Virginia.",
+  "lead": "Croatia hugs the Adriatic Sea. It has over 1,700 km of coastline and more than 1,000 islands. Walled cities look like fairy tales. Waterfalls spill into turquoise pools in its national parks. It is about the size of West Virginia.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CITIES:",
   "sections": {
-    "geography": "A land of islands & waterfalls",
+    "geography": "Islands, lakes & waterfalls",
     "animals": "Wild bears & seahorses",
-    "culture": "Ties, chess & klapa song",
-    "history": "Kingdoms, kings & freedom",
+    "culture": "Ties, pencils & klapa song",
+    "history": "Romans, kings & freedom",
     "wows": "You won't believe this!"
   },
   "geo": [
-    "Croatia is shaped like a crescent. Its thin coastal strip — Dalmatia — faces the Adriatic Sea with over 1,000 islands. Summers are hot and dry, smelling of pine and salt.",
-    "Inland, limestone mountains and green valleys fill the centre. Plitvice Lakes stacks 16 vivid turquoise lakes like a staircase, each tumbling into the next over mossy waterfalls."
+    "Croatia is shaped like a crescent. A thin coastal strip called Dalmatia faces the Adriatic Sea. Summers are hot and dry. The air smells of pine and salt.",
+    "Inland there are limestone mountains and green valleys. Plitvice Lakes has 16 turquoise lakes stacked like a staircase, linked by mossy waterfalls."
   ],
   "animals": [
-    "About 1,000 brown bears roam Croatia's Velebit forests — the country's largest wild animals. Griffon vultures with 2.5 m wingspans soar above the island of Cres, one of Europe's last strongholds.",
-    "The Adriatic's clean bays shelter the short-snouted seahorse and the loggerhead sea turtle, which nests on quiet beaches each summer. Dolphins often leap alongside island ferries."
+    "About 1,000 brown bears roam the forests of Velebit. They are Croatia's largest wild animals. Griffon vultures with 2.5 m wingspans soar above the island of Cres.",
+    "The clean Adriatic shelters the short-snouted seahorse. Loggerhead sea turtles nest on quiet beaches each summer. Dolphins often leap beside island ferries."
   ],
   "culture": [
-    "Croatians invented the necktie — 'cravat' comes from 'Croat'. Soldiers wore knotted scarves in the 1600s and the fashion swept all of Europe. Zagreb even has a small Cravat Museum!",
-    "Klapa — unaccompanied male-voice harmony from Dalmatia — is UNESCO-listed. It sounds like the sea singing. Croatians also gave chess its local name 'šah' and introduced the mechanical pencil."
+    "Croatians invented the necktie. The word 'cravat' comes from 'Croat'. In the 1600s soldiers wore knotted scarves. Zagreb even has a small Cravat Museum!",
+    "Klapa is unaccompanied male singing from Dalmatia. UNESCO lists it. It sounds like the sea singing. Croatians also introduced the mechanical pencil."
   ],
   "history": [
-    "Greeks and Romans loved Croatia's coast — Emperor Diocletian built his retirement palace in Split around AD 295–305, and people still live inside its walls today. Croatia became a medieval kingdom in 925.",
-    "It spent centuries under Hungarian, Ottoman, and Habsburg rule before joining Yugoslavia. Croatia declared independence in 1991, fought for freedom, and joined the European Union in 2013."
+    "Emperor Diocletian built his retirement palace in Split around AD 295–305. People still live inside its walls. Croatia became a medieval kingdom in 925.",
+    "Croatia lived under Hungarian, Ottoman and Habsburg rule, then joined Yugoslavia. It declared independence in 1991 and joined the European Union in 2013."
   ],
   "wows": [
-    "Croatia has over 1,000 islands, but only about 50 are permanently inhabited.",
-    "Dubrovnik's ancient walls were used as King's Landing in Game of Thrones.",
-    "People live inside Diocletian's 1,700-year-old Roman palace in Split today.",
-    "Croatia's red chequered shield, the šahovnica, has been used for centuries as a symbol of Croatian identity.",
-    "The word 'cravat' (necktie) comes directly from the word 'Croat'.",
-    "Plitvice's travertine waterfalls grow about a centimetre each year — they're alive.",
-    "Croatia joined the eurozone in January 2023, becoming the 20th euro member."
+    "Croatia has over 1,000 islands, but only about 50 are lived on all year.",
+    "Dubrovnik's ancient walls played King's Landing in Game of Thrones.",
+    "People live inside a 1,700-year-old Roman palace in Split.",
+    "Croatia's red chequered shield is called the šahovnica.",
+    "Zagreb's Cravat Museum honours the Croatian necktie.",
+    "Plitvice's waterfalls grow about a centimetre each year.",
+    "Croatia joined the eurozone in January 2023."
   ],
   "myths": [
     {
-      "myth": "Dubrovnik IS Game of Thrones",
-      "fact": "Dubrovnik only stood in for King's Landing. The city is real medieval architecture, its walls built from the 13th century — far older than any TV show."
+      "myth": "Dalmatian puppies are born with spots",
+      "fact": "They are born pure white. Spots show up after a few weeks. The breed is named after Dalmatia, in Croatia."
     },
     {
-      "myth": "Croatia is just beaches",
-      "fact": "Inland Croatia has dense forests, mountains, bears, and a vibrant capital Zagreb with Austro-Hungarian boulevards and year-round café culture."
+      "myth": "Nikola Tesla was born in America",
+      "fact": "Tesla was born in 1856 in Smiljan, in today's Croatia. He moved to the USA at age 28."
     }
   ],
   "words": [

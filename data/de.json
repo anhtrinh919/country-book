@@ -24,7 +24,7 @@
     "keyColor": "#DD0000",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Germany sits in the heart of Europe — dark fairy-tale forests, snowy Alpine peaks, and buzzing cities. It invented the printing press, the car, and the Christmas tree. About 84 million people call it home, making it Europe's most populous country and its biggest economy.",
+  "lead": "Germany is in the middle of Europe. It has dark fairy-tale forests, snowy Alps and busy cities. Germans invented the printing press, the car and the Christmas tree. About 84 million people live here, the most in Europe.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "Forests, rivers & icy peaks",
     "animals": "Wild things of the woods",
-    "culture": "Bread, beer & big ideas",
-    "history": "From kingdoms to reunification",
-    "wows": "Germany surprises!"
+    "culture": "Bread, music & markets",
+    "history": "Kingdoms, a wall & one nation",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Germany is a landscape sampler: flat windy coasts in the north, rolling farmland and the mighty Rhine River in the middle, and jagged Bavarian Alps in the south. The Zugspitze mountain touches the clouds at 2,962 metres.",
-    "Great forests cover nearly a third of the country. The Black Forest in the southwest is so thick and gloomy it inspired the Brothers Grimm fairy tales. The Rhine and Elbe rivers have carried traders past castle-crowned hills for thousands of years."
+    "Germany has flat, windy coasts in the north and rolling farms in the middle. The south has the jagged Bavarian Alps. The Zugspitze reaches 2,962 metres.",
+    "Forests cover nearly a third of Germany. The Black Forest is so dark and thick that it inspired the Brothers Grimm fairy tales. Rivers like the Rhine and Elbe pass castle-topped hills."
   ],
   "animals": [
-    "Germany's forests are full of wild boar — tusked, bristly pigs that snuffle through leaves for acorns. Their numbers have grown so large that boar are sometimes spotted in Berlin's suburbs at night, right inside a city of millions.",
-    "Every spring, white storks flap home from Africa and land on the same rooftop nest as the year before. Germans consider them lucky. Red squirrels — rusty-red with ear tufts — dart through pine trees, something rarely seen in countries where grey squirrels took over."
+    "Wild boar are bristly pigs with tusks. They snuffle through forest leaves for acorns. There are so many that some wander into Berlin's suburbs at night.",
+    "Every spring, white storks fly home from Africa to the same rooftop nest. Germans think they bring luck. Red squirrels with ear tufts still dart through pine trees."
   ],
   "culture": [
-    "Germany has over 1,300 types of bread — more varieties than any other country. Bakers take the craft so seriously that German bread-making sits on UNESCO's cultural heritage list. Sit down for lunch and a thick dark rye loaf arrives first.",
-    "Music runs deep here. Bach, Beethoven, and Brahms were all German. Germany has more opera houses than any other country — over 80. Every December, town squares fill with glittering Christmas markets, a tradition that started here about 500 years ago."
+    "Germany has over 1,300 kinds of bread, more than any other country. UNESCO lists German bread-making as cultural heritage. A thick dark rye loaf often arrives first at lunch.",
+    "Bach, Beethoven and Brahms were all German. Germany has over 80 opera houses, the most in the world. Christmas markets began here about 500 years ago."
   ],
   "history": [
-    "Germany was not always one country. For centuries it was a patchwork of kingdoms, duchies, and free cities. It only united into one nation in 1871. After World War II it was split into democratic West Germany and communist East Germany, divided by the Berlin Wall.",
-    "In 1989 that wall came tumbling down as crowds cheered on both sides. East and West reunified in 1990, and Berlin became the capital again. Today Germany is a peaceful democracy and the economic engine of the European Union."
+    "For centuries, Germany was many small kingdoms and free cities. It became one nation in 1871. After World War II, it split into West and East Germany. The Berlin Wall divided them.",
+    "In 1989, the wall came tumbling down. East and West joined again in 1990. Today Germany is Europe's biggest economy."
   ],
   "wows": [
-    "Hamburg has more bridges than Venice, Amsterdam, and London combined — over 2,300!",
-    "Germany invented the gummy bear: Hans Riegel created the first chewy fruit sweet in Bonn in 1922.",
-    "Some Autobahn sections have no speed limit — the only major motorway network on Earth like this.",
-    "Gutenberg printed Europe's first book using movable type in Mainz around 1450, changing history.",
-    "Czechs actually drink more beer per person than Germans — Germany ranks only seventh worldwide.",
-    "Over 800 million currywurst sausages are eaten in Germany every year, 70 million in Berlin alone.",
-    "Germany has 16 states, each with its own parliament, police, and school-holiday schedule."
+    "Hamburg has over 2,300 bridges, more than Venice, Amsterdam and London combined.",
+    "Hans Riegel invented the gummy bear in Bonn in 1922.",
+    "Some Autobahn sections have no speed limit, which no other big motorway network allows.",
+    "Gutenberg printed Europe's first book with movable type around 1450.",
+    "Czechs drink more beer per person than Germans, who rank only seventh.",
+    "Germans eat over 800 million currywurst a year, 70 million in Berlin.",
+    "Germany has 16 states, each with its own parliament and police."
   ],
   "myths": [
     {
       "myth": "All Germans wear lederhosen",
-      "fact": "Lederhosen and dirndls are Bavarian folk dress worn mostly at festivals. In Berlin or Hamburg, ordinary people dress like anywhere else in jeans and trainers."
+      "fact": "Lederhosen are Bavarian folk dress, worn mostly at festivals. In Berlin, people wear jeans."
     },
     {
-      "myth": "The whole Autobahn has no speed limit",
-      "fact": "About 40% of the Autobahn has posted limits in roadworks and towns. Only roughly 60% is unrestricted, and a 130 km/h advisory speed is still recommended."
+      "myth": "Oktoberfest happens in October",
+      "fact": "Oktoberfest starts in September and ends in early October."
     }
   ],
   "words": [

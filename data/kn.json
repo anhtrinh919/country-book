@@ -24,7 +24,7 @@
     "keyColor": "#009E49",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "St Kitts and Nevis are two tiny volcanic islands in the Caribbean Sea — so small you could drive around either one in under an hour. Yet this pint-sized nation is the world's smallest federation, home to a jungle volcano, a UNESCO fortress, and more wild monkeys than people.",
+  "lead": "St Kitts and Nevis are two small volcanic islands in the Caribbean Sea. Together they form the world's smallest federation (islands joined as one country). A jungle volcano and a UNESCO fortress stand here. Wild monkeys outnumber people.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Monkeys, pelicans & turtles",
     "culture": "Sugar, batik & big carnival",
     "history": "Mother colony of the Caribbean",
-    "wows": "Seriously surprising facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "St Kitts is shaped like a chicken drumstick — a long volcanic spine capped by Mount Liamuiga, a sleeping stratovolcano with a crater lake inside. Dense rainforest cloaks its slopes, while sandy beaches ring the coastline below.",
-    "Nevis sits just 3 km away, a near-perfect mountain cone almost always wrapped in cloud at the top. Coral reefs and warm turquoise water surround both islands, making the sea as rich with life as the jungle above."
+    "St Kitts looks like a chicken drumstick. Mount Liamuiga, a sleeping volcano with a lake in its crater, towers over it. Rainforest covers the slopes and sandy beaches ring the coast.",
+    "Nevis lies just 3 km away. This round mountain cone is wrapped in cloud almost every day. Coral reefs and warm turquoise water surround both islands."
   ],
   "animals": [
-    "The islands' most surprising resident is the African green vervet monkey — brought as pets by French colonists in the 1600s, they escaped into the forest and now outnumber the humans. Spotting a troop raiding a mango tree is almost guaranteed.",
-    "The national bird, the brown pelican, plunge-dives dramatically into the sea to scoop up fish. Sea turtles — green, hawksbill, and leatherback — nest on quiet beaches, while colourful reef fish dart around 18 official dive sites offshore."
+    "French settlers brought African green vervet monkeys as pets in the 1600s. They escaped into the forest. Now they outnumber people. A troop raiding a mango tree is a common sight.",
+    "The brown pelican, the national bird, dives into the sea to scoop up fish. Green, hawksbill and leatherback turtles nest on quiet beaches. Reef fish dart around 18 dive sites."
   ],
   "culture": [
-    "Sugar Mas carnival, held every December through New Year, is the islands' biggest party — calypso bands, steel pans, and masquerade dancers in feathered headdresses fill Basseterre's streets for weeks.",
-    "At Romney Manor, artisans practise Caribelle Batik, hand-dyeing vivid fabrics using an ancient wax technique. Cricket is almost a religion, and local cooking stars goat water stew — the national dish — slow-cooked with breadfruit and spices."
+    "Sugar Mas is the biggest party on the islands. This carnival runs from December to New Year. Calypso bands, steel pans and dancers in feathered headdresses fill Basseterre's streets.",
+    "At Romney Manor, artists dye cloth by hand with an old wax method called Caribelle Batik. Cricket is almost a religion. The national dish is goat water stew, with breadfruit and spices."
   ],
   "history": [
-    "In 1623, English captain Thomas Warner landed on St Kitts and founded the first English colony in the Caribbean, earning the island the title 'Mother Colony of the West Indies'. French settlers soon joined on the same island.",
-    "For 365 years, sugar cane was king — plantations built with enslaved African labour made Nevis briefly the richest British colony in the Americas. The industry closed in 2005; independence had come back in 1983."
+    "In 1623, English captain Thomas Warner founded the first English colony in the Caribbean on St Kitts. It earned the title 'Mother Colony of the West Indies'.",
+    "For 365 years, sugar cane was king. Enslaved African workers built the plantations. Nevis briefly became the richest British colony in the Americas. Sugar ended in 2005."
   ],
   "wows": [
-    "St Kitts and Nevis is the world's smallest sovereign federation by both area and population.",
-    "Wild vervet monkeys are estimated to outnumber people, with up to 40,000 roaming the two islands.",
-    "Mount Liamuiga was called 'Mount Misery' until independence day 1983, when it got its Kalinago name.",
-    "St Kitts launched the world's first citizenship-by-investment programme in 1984.",
-    "The scenic railway, built for sugar cane, is the last of its kind in the whole West Indies.",
-    "Brimstone Hill Fortress, built by enslaved workers, earned UNESCO status in 1999.",
-    "Sugar ran unbroken on St Kitts for 365 years, from 1640 until the factory shut in 2005."
+    "St Kitts and Nevis is the world's smallest sovereign federation.",
+    "Up to 40,000 vervet monkeys roam the two islands.",
+    "Mount Liamuiga was 'Mount Misery' until independence in 1983.",
+    "In 1984, St Kitts first let investors become citizens.",
+    "The sugar-cane railway is the last of its kind in the West Indies.",
+    "Enslaved workers built Brimstone Hill Fortress, a UNESCO site since 1999.",
+    "Sugar ran on St Kitts from 1640 until the factory shut in 2005."
   ],
   "myths": [
     {
-      "myth": "These islands are too tiny to bother visiting",
-      "fact": "At 261 km², St Kitts and Nevis pack in a volcano hike, a UNESCO fortress, coral reefs, and a rainforest — variety that much larger islands envy."
+      "myth": "Sugar cane grows on trees",
+      "fact": "Sugar cane is a giant grass. Some stalks reach 4 metres."
     },
     {
-      "myth": "St Kitts and Nevis is one island",
-      "fact": "It's a two-island federation — St Kitts and Nevis are separate islands with their own assemblies, distinct landscapes, and separate volcano peaks."
+      "myth": "Sea turtles can hide in their shells",
+      "fact": "Land turtles tuck in their heads. Sea turtles cannot."
     }
   ],
   "words": [

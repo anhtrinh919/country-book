@@ -2,7 +2,7 @@
   "name": "ZAMBIA",
   "nativeName": "ZM",
   "romaji": "ZAMBIA",
-  "tagline": "Land of the mighty falls",
+  "tagline": "Where the falls thunder",
   "region": "Southern Africa",
   "coords": "13°S, 28°E",
   "fileNo": "072",
@@ -24,7 +24,7 @@
     "keyColor": "#198A00",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Landlocked in the heart of Africa, Zambia is draped in savannah and forest. The Zambezi River plunges 108 m over Victoria Falls in a curtain of thunder and mist. Zambia won freedom from Britain in 1964, naming itself after that river. With 20 national parks, it is one of Africa's greatest wildlife destinations.",
+  "lead": "Zambia sits in the heart of Africa, far from any sea. The Zambezi River drops 108 m over Victoria Falls. Zambia won freedom from Britain in 1964 and took its name from the river. It has 20 national parks.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "Rivers, falls & wild plains",
     "animals": "Giants of the bush & water",
     "culture": "Drums, colour & warm welcome",
-    "history": "From kingdoms to independence",
-    "wows": "Zambia's wow moments"
+    "history": "Kings, copper & freedom",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Zambia sits on a high plateau averaging 1,200 m — so even near the equator it stays pleasant. Three great rivers cross it: the Zambezi, the Kafue, and the Luangwa. Lake Tanganyika, one of the world's deepest lakes, touches its northern border.",
-    "Victoria Falls — locally Mosi-oa-Tunya, 'the smoke that thunders' — straddles the Zimbabwe border. Spray rises 400 m in flood season, visible 50 km away. The vast Bangweulu Swamps in the north shelter the rare shoebill stork."
+    "Zambia sits on a high plateau that averages 1,200 m. Three great rivers cross it: the Zambezi, the Kafue and the Luangwa. Lake Tanganyika, one of the world's deepest lakes, touches the north.",
+    "Victoria Falls is called Mosi-oa-Tunya, 'the smoke that thunders'. It lies on the Zimbabwe border. In flood season, spray rises 400 m. The Bangweulu Swamps shelter the rare shoebill stork."
   ],
   "animals": [
-    "Zambia protects wildlife across 20 national parks. South Luangwa is famous for walking safaris — tracking lions and leopards on foot. Kafue National Park is the size of Switzerland, sheltering wild dogs, cheetahs, and vast buffalo herds.",
-    "The Zambezi teems with hippos and crocodiles. The Bangweulu Swamps harbour the shoebill — a massive grey bird that stands motionless for hours. Zambia also hosts the Thornicroft's giraffe, a rare subspecies found nowhere else on Earth."
+    "In South Luangwa, you can track lions and leopards on foot. Kafue National Park is as big as Switzerland. Wild dogs, cheetahs and buffalo herds live there.",
+    "Hippos and crocodiles fill the Zambezi. The shoebill is a huge grey bird that stands still for hours. Thornicroft's giraffe lives nowhere else on Earth."
   ],
   "culture": [
-    "Zambia has 70+ ethnic groups yet is famed for unity — the motto is 'One Zambia, One Nation'. Music and dance anchor every celebration. Each February the Ngoni perform Nc'wala, giving thanks for the harvest with warrior dances and drumming.",
-    "Food centres on nshima — thick maize porridge eaten by rolling a ball and dipping it into fish, beans, or greens. Chitenge — boldly patterned cloth — is worn as skirts, slings, and headscarves, turning every market into a blaze of colour."
+    "Zambia has 70+ ethnic groups, but its motto is 'One Zambia, One Nation'. Each February, the Ngoni people perform Nc'wala to give thanks for the harvest.",
+    "Nshima is a thick maize porridge. People roll it into a ball and dip it in fish or beans. Chitenge, a boldly patterned cloth, makes skirts and headscarves."
   ],
   "history": [
-    "Before Europeans arrived, the Lozi kingdom ruled the fertile Barotse floodplain and the Bemba held the north. David Livingstone reached Victoria Falls in 1855; by 1924 the territory became British-ruled Northern Rhodesia.",
-    "Zambia won independence on 24 October 1964, with Kenneth Kaunda as first president, and renamed itself after the Zambezi. Copper brought wealth; falling prices in the 1970s caused hardship, but growth has been steady since the 1990s."
+    "The Lozi kingdom ruled the Barotse floodplain, and the Bemba held the north. David Livingstone reached Victoria Falls in 1855. By 1924, Britain ruled Northern Rhodesia.",
+    "Zambia became independent on 24 October 1964, with Kenneth Kaunda as first president. Copper brought wealth, but prices fell in the 1970s. Growth has been steady since the 1990s."
   ],
   "wows": [
-    "Victoria Falls is 1,708 m wide — the world's largest by width and height combined.",
-    "The Zambia–Zimbabwe border runs right through the middle of the falls.",
-    "Kafue National Park covers 22,400 km² — larger than the whole of Wales.",
-    "Zambia was among the first African nations to broadcast TV, as early as 1961.",
-    "The shoebill stork stands over 1.5 m tall with a beak shaped like a wooden clog.",
-    "Zambezi rapids below the falls are Class 5 — the maximum survivable grade.",
-    "Zambia holds over 40% of Africa's surface fresh water within its borders."
+    "Victoria Falls, 1,708 m wide, is the world's largest waterfall by width and height.",
+    "The Zambia–Zimbabwe border runs through the middle of the falls.",
+    "Kafue National Park covers 22,400 km², larger than Wales.",
+    "Zambia was among Africa's first TV broadcasters, in 1961.",
+    "The 1.5 m shoebill has a beak shaped like a wooden clog.",
+    "Rapids below the falls are Class 5, the hardest people raft.",
+    "Zambia holds over 40% of Africa's surface fresh water."
   ],
   "myths": [
     {
-      "myth": "Zambia is dry desert or scrubland",
-      "fact": "Zambia is about 65% forest and woodland, crossed by three major rivers and vast wetlands. Its high-plateau climate is mild and green for much of the year."
+      "myth": "Zambia and Zimbabwe are one country",
+      "fact": "No. They are neighbours, split by the Zambezi. Zambia was Northern Rhodesia, Zimbabwe Southern Rhodesia."
     },
     {
-      "myth": "Victoria Falls belongs only to Zimbabwe",
-      "fact": "The falls straddle both countries equally. Zambia's town of Livingstone sits right on the bank and offers the best full-width view of the cascade."
+      "myth": "Hippos are too fat to run",
+      "fact": "On land, a hippo can sprint faster than a person, up to about 30 km/h."
     }
   ],
   "words": [

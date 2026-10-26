@@ -2,7 +2,7 @@
   "name": "INDIA",
   "nativeName": "भारत",
   "romaji": "BHARAT",
-  "tagline": "Land of spice & wonder",
+  "tagline": "Spice, colour & wonder",
   "region": "South Asia",
   "coords": "28°N · 77°E",
   "fileNo": "IN",
@@ -13,7 +13,7 @@
     "keyColor": "#FF9933",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "India is the world's most populous country — over 1.4 billion people, hundreds of languages, scorching deserts, snowy peaks, and ancient cities older than most nations. It gave the world the number zero, chess, and yoga. From the mighty Himalaya in the north to tropical beaches in the south, no two corners of India feel quite the same.",
+  "lead": "India is the world's most populous country, with over 1.4 billion people. It has hundreds of languages, scorching deserts, snowy peaks and ancient cities. It gave the world the number zero, chess and yoga.",
   "facts": [
     {
       "label": "Capital",
@@ -59,41 +59,41 @@
     "animals": "Tigers, elephants & peacocks",
     "culture": "Festivals, food & Bollywood",
     "history": "10,000 years in the making",
-    "wows": "India will blow your mind"
+    "wows": "India, wow!"
   },
   "geo": [
-    "India is shaped like a giant triangle pointing south into the Indian Ocean. The Himalaya forms a snowy wall along the north, while the flat Gangetic Plain stretches across the middle. The Thar Desert bakes in the west, receiving almost no rain all year.",
-    "Down south, two mountain ranges called the Western and Eastern Ghats frame a warm green plateau. India's monsoon season runs June to September — enormous rain clouds drench the land, filling rivers, flooding rice paddies, and keeping a billion people fed."
+    "India is shaped like a giant triangle pointing south into the Indian Ocean. The Himalaya form a snowy wall in the north. The Thar Desert bakes in the west.",
+    "In the south, the Western and Eastern Ghats frame a warm green plateau. The monsoon, from June to September, brings huge rain clouds that fill rivers and flood rice paddies."
   ],
   "animals": [
-    "India's national animal is the Bengal tiger — a giant striped hunter living in forests and grasslands. The 2022 census counted 3,682 wild tigers in India, more than in any other country. The Asian elephant is equally beloved: huge, intelligent, and decorated with paint at festivals.",
-    "India's national bird is the peacock, whose electric-blue fan shimmers like a disco dancer. The rare Ganges river dolphin navigates murky water by sonar. Cobras, langur monkeys, and one-horned rhinos round out this spectacular wildlife lineup."
+    "India's national animal is the Bengal tiger. A 2022 census counted 3,682 wild tigers, more than in any other country. Festivals decorate Asian elephants with paint.",
+    "India's national bird is the peacock, whose electric-blue fan shimmers like a disco dancer. The rare Ganges river dolphin finds its way through muddy water with sonar."
   ],
   "culture": [
-    "India's calendar overflows with festivals. Diwali fills the night with a million oil lamps to celebrate light beating darkness. Holi is the festival of colour — people chase each other with bright powder clouds until everyone looks like a walking rainbow.",
-    "Bollywood produces more movies per year than Hollywood. India invented yoga 5,000 years ago. Food varies wildly: buttery naan and rich curries in the north; coconut stews and crispy dosas in the south. Sweet spiced chai is sipped at every roadside stall."
+    "At Diwali a million oil lamps light the night. Holi is the festival of colour. People chase each other with clouds of bright powder.",
+    "Bollywood makes more movies each year than Hollywood. The north has buttery naan and curries. The south has coconut stews and crispy dosas."
   ],
   "history": [
-    "One of the world's oldest civilisations — the Indus Valley — flourished here over 4,000 years ago with planned cities and drainage systems. Great empires rose and fell: Maurya, Gupta, Mughal, each leaving breathtaking monuments that still stand.",
-    "The Mughal emperor Shah Jahan built the Taj Mahal in the 1600s as a tomb for his beloved wife. In 1947 Mahatma Gandhi led a peaceful independence movement. In 2023 India landed near the Moon's south pole — a world first."
+    "The Indus Valley civilisation flourished here over 4,000 years ago, with planned cities and drainage systems. Maurya, Gupta and Mughal empires each left monuments that still stand.",
+    "In the 1600s Shah Jahan built the Taj Mahal as a tomb for his beloved wife. In 1947 Mahatma Gandhi led a peaceful independence movement."
   ],
   "wows": [
-    "India invented the number zero — without it, modern computers could not exist.",
-    "The Taj Mahal's white marble shifts from pink at dawn to golden at dusk.",
-    "India has over 19,500 languages and dialects spoken as mother tongues across the country.",
-    "Indian Railways carries about 23 million passengers every single day.",
-    "Chandrayaan-3 landed near the Moon's south pole in August 2023, a world first.",
-    "Varanasi on the Ganges has been continuously inhabited for at least 3,000 years.",
-    "India produces about 40% of the world's spices, earning it the 'Spice Bowl' title."
+    "India invented the number zero.",
+    "The Taj Mahal's white marble looks pink at dawn.",
+    "India has over 19,500 languages and dialects.",
+    "Indian Railways carries about 23 million passengers every day.",
+    "Chandrayaan-3 landed near the Moon's south pole in August 2023.",
+    "Varanasi has been lived in for at least 3,000 years.",
+    "India produces about 40% of the world's spices."
   ],
   "myths": [
     {
-      "myth": "Hindus 'worship' cows as gods",
-      "fact": "Hindus revere cows as sacred symbols of abundance, not as deities. Stray cows wander cities because laws protect them and owners release elderly animals."
+      "myth": "Curry is one Indian dish",
+      "fact": "Curry is a broad word for many spiced dishes. Indian cooks name each one, such as dal, korma or sambar."
     },
     {
       "myth": "India is always hot and sunny",
-      "fact": "Delhi drops near freezing in January, Shimla gets thick snow, and the Himalaya stay glaciated year-round. India has six seasons and a huge range of climates."
+      "fact": "Shimla gets thick snow in winter. Cherrapunji, in the northeast, is one of the wettest places on Earth."
     }
   ],
   "words": [

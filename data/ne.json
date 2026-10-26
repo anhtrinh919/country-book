@@ -24,7 +24,7 @@
     "keyColor": "#E05206",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Niger is a vast, sun-baked land in the heart of West Africa — over four-fifths Sahara Desert, with ancient caravan routes and towering dunes. But the south is green: the Niger River curves past farmland, wild giraffes roam near the capital, and lively markets buzz. The biggest landlocked country in West Africa, full of surprises.",
+  "lead": "Niger is a huge, sunny country in West Africa. Over four-fifths of it is Sahara Desert. The south is green. The Niger River curves past farms, and wild giraffes roam near the capital.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Seven wild wonders"
   },
   "geo": [
-    "Niger is enormous — roughly the size of France, Germany, and Spain combined. Over 80% is Sahara Desert, but the south is Sahel savanna where crops grow and people cluster. The Niger River loops through the southwest, giving the country its name and its life.",
-    "The Aïr Mountains rise from the desert in the north, sheltering rare plants found nowhere else. In the east lies the Ténéré — one of Earth's emptiest sand seas. W National Park in the south straddles three countries around a river bend shaped like the letter W."
+    "Niger is about as big as France, Germany and Spain together. The Niger River loops through the green southwest and gives the country its name.",
+    "The Aïr Mountains rise in the north. The Ténéré in the east is one of Earth's emptiest sand seas. W National Park sits on a river bend shaped like a W."
   ],
   "animals": [
-    "Niger's star animal is the West African giraffe — the world's rarest giraffe subspecies. Just 50 survived in the 1990s; careful conservation has grown the herd to over 600. They roam freely near villages outside Niamey, unbothered by people.",
-    "In the Aïr Desert reserves, the addax antelope survives on almost no water, getting moisture from dry grasses. Lions, cheetahs, and elephants patrol W National Park, while hippos and crocodiles lurk along the Niger River banks."
+    "The West African giraffe is the world's rarest giraffe. Only 50 survived in the 1990s. Now the herd has over 600. They roam freely near villages outside Niamey.",
+    "The addax antelope lives in the Aïr Desert on almost no water. It gets moisture from dry grasses. Lions, cheetahs and elephants roam W National Park."
   ],
   "culture": [
-    "Niger is a crossroads of peoples. The Hausa are famous traders; Tuareg men wear indigo-blue veils and have crisscrossed the Sahara by camel for centuries — earning the nickname 'the blue men of the desert'. Agadez was a great medieval trading city by the 1400s.",
-    "Every year the Wodaabe nomads hold the Gerewol festival — a beauty contest where MEN dress up, paint their faces bright, and dance to impress the women who choose a partner. Nearly all Nigeriens are Muslim, and the call to prayer shapes daily life."
+    "The Hausa are famous traders. Tuareg men wear indigo-blue veils and have crossed the Sahara by camel for centuries. People call them the blue men of the desert.",
+    "Each year the Wodaabe nomads hold the Gerewol festival. At this beauty contest, men dress up, paint their faces and dance. Women choose a partner."
   ],
   "history": [
-    "Agadez thrived as a key stop on trans-Saharan trade routes, linking gold and ivory to North Africa. The mighty Songhai Empire controlled much of Niger in the 15th and 16th centuries, before the region fell to Morocco and later European powers.",
-    "France colonised Niger in the early 1900s; independence came in 1960. Rich in uranium — fuel for nuclear power — Niger supplies several countries' electricity, yet remains one of the world's poorest nations, battling drought and rapid population growth."
+    "Agadez was a key stop on trans-Saharan trade routes. They carried gold and ivory north. The Songhai Empire ruled much of Niger in the 15th and 16th centuries.",
+    "France colonised Niger in the early 1900s. Independence came in 1960. Niger has uranium, fuel for nuclear power. Yet it is one of the world's poorest nations."
   ],
   "wows": [
-    "Agadez Mosque's minaret is the world's tallest mud-brick tower at 27 m, built in 1515 and still standing.",
-    "Niger's median age is just 15.7 years — half the country is younger than a typical teenager.",
-    "The loneliest tree on Earth stood alone for 400 km in Ténéré Desert — a truck hit it in 1973.",
-    "W National Park is managed jointly by Niger, Burkina Faso, and Benin — three countries, one park.",
-    "Niger is the 7th largest uranium producer on Earth, fuelling nuclear power stations in Europe.",
-    "West African giraffes in Niger wander freely through village farmland — no fences needed.",
-    "Niger's giraffe herd grew from just 50 animals in the 1990s to over 600 today."
+    "Agadez Mosque's minaret, built in 1515, is the world's tallest mud-brick tower at 27 m.",
+    "Half of all Nigeriens are younger than 15.7 years.",
+    "A lone Ténéré tree stood 400 km from any other until a truck hit it in 1973.",
+    "Niger, Burkina Faso and Benin run W National Park together.",
+    "Niger is the 7th largest uranium producer on Earth.",
+    "West African giraffes wander through village farmland with no fences.",
+    "Niger's desert hides Suchomimus, a dinosaur with a crocodile-like face."
   ],
   "myths": [
     {
-      "myth": "Niger is just empty desert",
-      "fact": "The south is green Sahel savanna with rivers, farms, and wildlife. Over 90% of people live there, alongside giraffes and hippos."
+      "myth": "Niger and Nigeria are the same place",
+      "fact": "They are two countries side by side. Niger is the northern one, and people there say nee-ZHAIR."
     },
     {
-      "myth": "Niger and Nigeria are the same place",
-      "fact": "Two separate countries, both named after the Niger River. Nigeria has 230 million people; Niger 27 million — very different histories."
+      "myth": "The Sahara is all sand",
+      "fact": "Most of it is bare rock and gravel. Sand dunes cover only about a quarter of it."
     }
   ],
   "words": [

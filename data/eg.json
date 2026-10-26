@@ -2,7 +2,7 @@
   "name": "EGYPT",
   "nativeName": "مصر",
   "romaji": "MISR",
-  "tagline": "Land of Pharaohs & the Nile",
+  "tagline": "Pharaohs and the Nile",
   "region": "North Africa",
   "coords": "26.8°N 30.8°E",
   "fileNo": "019",
@@ -24,7 +24,7 @@
     "keyColor": "#CE1126",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Egypt sits at the crossroads of Africa and Asia, where the Nile turns desert into farmland. Pyramids built 4,500 years ago still stand as tall as a 48-storey building. More than 107 million people live here, making it the most populous Arab country on Earth — a place where ancient wonders and busy modern cities share the same horizon.",
+  "lead": "Egypt sits in Africa and Asia. The Nile river turns desert into farmland. Pyramids built 4,500 years ago are as tall as a 48-storey building. More than 107 million people live here. That makes Egypt the most populous Arab country on Earth.",
   "facts": [
     {
       "label": "Capital",
@@ -68,43 +68,43 @@
   "sections": {
     "geography": "A river through the desert",
     "animals": "Creatures of sand & river",
-    "culture": "Feasts, faith & pharaohs",
+    "culture": "Food, lanterns & fancy writing",
     "history": "The oldest story on Earth",
-    "wows": "Things that will amaze you!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Egypt is 96% desert — the Sahara and Eastern Desert leave only a narrow green ribbon along the Nile. That ribbon is just 5% of the land yet holds almost everyone. The Nile flows 6,650 km north before fanning into the Mediterranean through a vast fertile Delta.",
-    "The Sinai Peninsula juts into the Red Sea like a triangle, connecting Africa to Asia. Its coral reefs are world-class. The Suez Canal slices through the northeast, letting ships sail between seas — saving weeks of ocean travel around Africa."
+    "Egypt is 96% desert. A narrow green ribbon runs along the Nile. That ribbon is just 5% of the land, yet almost everyone lives there. The Nile flows 6,650 km north. Then it fans out into a fertile Delta by the Mediterranean Sea.",
+    "The Sinai Peninsula is shaped like a triangle. It links Africa to Asia and has coral reefs. The Suez Canal cuts through the northeast. Ships use it to sail between two seas. It saves weeks of travel around Africa."
   ],
   "animals": [
-    "The Nile crocodile can reach 6 metres and was once worshipped as the god Sobek. Today they survive in Lake Nasser behind the Aswan High Dam. Sacred ibis — with curved black beaks — were mummified by the millions as offerings to Thoth, the god of wisdom.",
-    "The fennec fox roams the Western Desert on enormous ears that dump body heat on cool desert nights. Scarab beetles roll dung into perfect balls and became ancient Egypt's symbol of rebirth. Dugongs graze quietly on Red Sea seagrass far from the crowds."
+    "The Nile crocodile can reach 6 metres. Ancient Egyptians worshipped it as the god Sobek. Today it lives in Lake Nasser, behind the Aswan High Dam. Sacred ibis birds have curved black beaks. Millions were mummified as gifts for Thoth, the god of wisdom.",
+    "The fennec fox lives in the Western Desert. Its huge ears release body heat on cool nights. Scarab beetles roll dung into balls. Ancient Egyptians saw them as a sign of new life. Dugongs (sea cows) graze on seagrass in the Red Sea."
   ],
   "culture": [
-    "Egyptians are famously warm hosts — refusing a second helping is nearly unthinkable. Ful medames (slow-cooked fava beans) and koshari (lentils, rice, pasta, tangy tomato sauce) are eaten every day, loved equally by schoolchildren and presidents.",
-    "During Ramadan, streets fill with glowing lanterns called fanous and families break fast together at iftar. Arabic calligraphy — looping, flowing script — decorates mosques, wedding cards, and tattoos alike, treasured across the Arab world as the highest art form."
+    "Egyptians are warm hosts. Saying no to a second helping is almost unthinkable! Ful medames (slow-cooked fava beans) and koshari are daily meals. Koshari mixes lentils, rice, pasta and tangy tomato sauce. Schoolchildren and presidents love both.",
+    "In Ramadan, glowing lanterns called fanous light up the streets. Families break their fast together at iftar. Arabic calligraphy (beautiful looping writing) decorates mosques and wedding cards. Many Arabs see it as the highest art."
   ],
   "history": [
-    "Egypt's first pharaoh united the country around 3100 BCE — over 5,100 years ago. For 3,000 years pharaohs ruled a civilisation that invented writing, the 365-day calendar, and advanced surgery. The Great Pyramid was Earth's tallest structure for nearly 4,000 years.",
-    "Greek, Roman, Arab, Ottoman, and British rulers each left their mark before independence in 1952. The Arab conquest in 641 CE brought Islam and Arabic. In 1869 the Suez Canal opened, making Egypt one of the world's most strategically vital countries overnight."
+    "Egypt's first pharaoh united the country around 3100 BCE. That was over 5,100 years ago. Pharaohs ruled for 3,000 years. Egyptians invented writing, the 365-day calendar and advanced surgery. The Great Pyramid was Earth's tallest building for nearly 4,000 years.",
+    "Greek, Roman, Arab, Ottoman and British rulers all came later. The Arab conquest in 641 CE brought Islam and Arabic. The Suez Canal opened in 1869. Egypt became independent in 1952."
   ],
   "wows": [
     "The Great Pyramid holds enough stone to build a wall around France.",
     "Ancient Egyptians invented the 365-day calendar over 5,000 years ago.",
-    "Cairo's metro is Africa's oldest subway, carrying over 3.5 million riders a day.",
+    "Cairo's metro is Africa's oldest subway and carries over 3.5 million riders a day.",
     "More ancient obelisks stand in Rome than in all of Egypt.",
     "The Nile Delta was built entirely from mud carried from the Ethiopian Highlands.",
     "Tutankhamun became pharaoh at just nine years old.",
-    "Egypt grows over 2 million tonnes of dates every year — more than any other country."
+    "Egypt grows over 2 million tonnes of dates every year, more than any other country."
   ],
   "myths": [
     {
       "myth": "Pyramids were built by slaves",
-      "fact": "Evidence shows well-fed, paid workers and skilled craftsmen built the pyramids, living in purpose-built villages with medical care — not enslaved people."
+      "fact": "Paid workers built them. They ate well, lived in nearby villages and got medical care."
     },
     {
-      "myth": "Egypt is just empty desert",
-      "fact": "Egypt has lush Nile farmland, Mediterranean beaches, world-class Red Sea reefs, and Cairo — a city of 20 million bursting with food, music, and history."
+      "myth": "Tutankhamun's tomb has a deadly curse",
+      "fact": "Howard Carter opened the tomb in 1922 and lived until 1939."
     }
   ],
   "words": [

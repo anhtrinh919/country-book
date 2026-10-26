@@ -2,7 +2,7 @@
   "name": "KOSOVO",
   "nativeName": "Kosovë",
   "romaji": "KOSOVË",
-  "tagline": "Europe's freshest nation",
+  "tagline": "Europe's newest country",
   "region": "Balkans, Southeast Europe",
   "coords": "42.60°N, 20.90°E",
   "fileNo": "XK",
@@ -24,7 +24,7 @@
     "keyColor": "#244AA5",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Kosovo declared independence in 2008, making it Europe's newest country. Ringed by mountains in the western Balkans, its capital Pristina buzzes with cafés and street art. Tiny but mighty, Kosovo packs in medieval castles, wild mountain parks, and one of the youngest, liveliest populations on the continent.",
+  "lead": "Kosovo is Europe's newest country. It declared independence in 2008. Mountains ring it in the western Balkans. Its capital, Pristina, buzzes with cafés and street art. Its people are among Europe's youngest.",
   "facts": [
     {
       "label": "Capital",
@@ -67,44 +67,44 @@
   "islandsLabel": "MAIN CITIES:",
   "sections": {
     "geography": "Mountains, valleys & big skies",
-    "animals": "Wild creatures of the peaks",
+    "animals": "Lynx, bears & golden eagles",
     "culture": "Coffee, dance & silver craft",
-    "history": "Empires, battles & new dawn",
-    "wows": "Wait — Kosovo does WHAT?"
+    "history": "Kings, sultans & a new start",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Kosovo sits like a bowl ringed by mountains. The Sharr range glitters in the south, the Accursed Mountains rise in the west, and fertile plains spread in the centre where farmers grow wheat and peppers. Rivers rush down from the peaks in every direction.",
-    "Because it is completely landlocked, Kosovo has no coast at all — the nearest sea is the Adriatic, about 200 km away. Crystal-clear mountain lakes and fast rivers more than compensate, drawing hikers from across the Balkans."
+    "Kosovo is a bowl ringed by mountains. The Sharr range glitters in the south, and the Accursed Mountains rise in the west. Farmers grow wheat and peppers in the middle.",
+    "Kosovo has no coast. The nearest sea, the Adriatic, is about 200 km away. Clear mountain lakes and fast rivers make up for it."
   ],
   "animals": [
-    "The rugged Sharr Mountains hide some of Europe's rarest creatures. The Balkan lynx — a spotted wild cat with tufted ears — prowls these forests in tiny numbers, making every camera-trap photo front-page news for conservationists.",
-    "Brown bears, grey wolves, and sure-footed chamois also roam Kosovo's peaks. Overhead the golden eagle soars; it appears so often in Albanian culture that Kosovo's national pride is bound up with this magnificent bird."
+    "The Balkan lynx is a spotted wild cat with tufted ears. Only a few live in the Sharr Mountains. Each photo from a hidden camera is big news.",
+    "Brown bears, grey wolves and sure-footed chamois (mountain goats) roam the peaks. Golden eagles soar overhead. Albanian culture honours them."
   ],
   "culture": [
-    "Kosovars love coffee and company. Whether it is a tiny espresso in a Pristina café or a slow sweet brew shared at home, coffee is how friendships are sealed. Guests are welcomed with food — refusing is considered impolite!",
-    "The traditional Albanian circle dance, the Valle, fills weddings and festivals with linked hands and rhythmic steps. Prizren is also famous for silver filigree jewellery — a delicate craft over 500 years old still made by hand today."
+    "Kosovars love coffee and company. Friends share a tiny espresso in a Pristina café. Guests always get food. Saying no is thought rude!",
+    "At weddings, people link hands for the Valle, an Albanian circle dance. Prizren's silver filigree jewellery has been made by hand for over 500 years."
   ],
   "history": [
-    "Kosovo was the cultural heart of the medieval Serbian Kingdom in the 13th and 14th centuries, home to great monasteries and royal courts. Then in 1389 the Battle of Kosovo against the Ottoman Empire changed everything — still remembered in songs today.",
-    "The Ottomans ruled for nearly 500 years, leaving mosques, bazaars, and stone bridges in every town. After decades as part of Yugoslavia, Kosovo declared independence on 17 February 2008 — greeted by huge street parties across the country."
+    "In the 13th and 14th centuries, Kosovo was the heart of the medieval Serbian Kingdom. In 1389, the Battle of Kosovo against the Ottoman Empire changed everything. Songs still remember it.",
+    "The Ottomans ruled for nearly 500 years. They left mosques, bazaars and stone bridges. Kosovo declared independence on 17 February 2008, with huge street parties."
   ],
   "wows": [
-    "Kosovo declared independence in 2008 — making it younger than many smartphones.",
-    "Pristina's giant NEWBORN sculpture is repainted with a fresh design every year on independence day.",
-    "Kosovo uses the euro every day even though it is not a member of the EU.",
-    "A 6,000-year-old clay Goddess on the Throne found near Pristina is among Europe's oldest artworks.",
-    "The Rahovec region has made wine since Roman times and still exports bottles today.",
-    "Over 70% of Kosovo's people are under 35 — the youngest age profile in all of Europe.",
-    "Kosovo's flag shows a map of the country itself — only Cyprus does the same thing."
+    "Kosovo declared independence in 2008, younger than many smartphones.",
+    "Pristina's giant NEWBORN sculpture gets a fresh design every independence day.",
+    "Kosovo uses the euro but is not in the EU.",
+    "A 6,000-year-old clay Goddess on the Throne was found near Pristina.",
+    "The Rahovec region has made wine since Roman times.",
+    "Over 70% of Kosovo's people are under 35.",
+    "Kosovo's flag shows a map of the country, like Cyprus."
   ],
   "myths": [
     {
-      "myth": "Kosovo is still a dangerous war zone",
-      "fact": "The 1998–99 conflict ended over 25 years ago. Kosovo is peaceful and popular with hikers and culture-seekers, rated safe by major travel advisories."
+      "myth": "Kosovo is still a war zone",
+      "fact": "The war ended in 1999. Today visitors hike, sip coffee and explore old towns."
     },
     {
       "myth": "Kosovo is not a real country",
-      "fact": "Over 100 nations — including the USA, UK, France, and Germany — recognise Kosovo, and it is a full member of the IMF and World Bank."
+      "fact": "More than 100 countries, including the USA, UK, France and Germany, recognise Kosovo. It belongs to the World Bank."
     }
   ],
   "words": [

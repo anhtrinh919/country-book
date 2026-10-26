@@ -24,7 +24,7 @@
     "keyColor": "#ED1C27",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "North Korea sits at the northern half of a peninsula between China and Japan. One of the most secretive countries on Earth, it has been ruled by the Kim family since 1948. Nearly every hill is forested, the capital Pyongyang gleams with grand monuments, and the sacred volcano Paektu watches over it all from the Chinese border.",
+  "lead": "North Korea is the northern half of a peninsula between China and Japan. It is one of the most secretive countries on Earth. The Kim family has ruled it since 1948. The sacred volcano Paektu rises on the Chinese border.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Forest giants of the North",
     "culture": "Monuments & mass games",
     "history": "From kingdom to closed state",
-    "wows": "Hard to believe, but true!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "North Korea is about 80% mountains. The Nangnim and Hamgyong ranges run like a spine down the country, leaving only thin coastal plains for farming. Three great rivers — Yalu, Tumen, and Taedong — carve through valleys forming borders with China and Russia.",
-    "In the far north sits Mount Paektu, a sleeping volcano with a stunning crater lake called Heaven Lake. The lake is 384 m deep and winter summit temperatures can plunge to a bone-cracking −48 °C."
+    "About 80% of North Korea is mountains. The Nangnim and Hamgyong ranges run down it like a spine. The Yalu and Tumen rivers mark its borders with China and Russia.",
+    "Mount Paektu in the far north is a sleeping volcano with a crater lake called Heaven Lake. The lake is 384 m deep. Summit winters can plunge to −48 °C."
   ],
   "animals": [
-    "The cold northern forests shelter the Asiatic black bear — a stocky bear with a white crescent on its chest, sometimes called the moon bear. Shy and solitary, it raids fruit trees in autumn to fatten up before its winter sleep.",
-    "The Korean water deer lives in river marshes across the peninsula. Unlike most deer, males grow no antlers — instead they have long curved fangs that poke below the lip, earning them the nickname 'vampire deer'."
+    "The Asiatic black bear lives in the cold northern forests. A white crescent on its chest earns it the name moon bear. In autumn it raids fruit trees.",
+    "The Korean water deer lives in river marshes. Males have no antlers. Instead they grow long curved fangs below the lip. People call it the 'vampire deer'."
   ],
   "culture": [
-    "Every year the Mass Games fill Pyongyang's May Day Stadium — the world's biggest. Over 100,000 performers move in perfect unison: gymnasts, dancers, and a human mosaic of 30,000 card-flipping schoolchildren creating giant pictures. Guinness crowned it the largest gymnastic display on Earth.",
-    "Music and art are woven into daily life, but always around state-approved themes. Schoolchildren spend hundreds of hours studying the ruling Kim family. Citizens once had to choose their hairstyle from just 28 government-approved cuts."
+    "Every year the Mass Games fill Pyongyang's May Day Stadium, the world's biggest. Over 100,000 performers move in perfect unison. Guinness calls it the largest gymnastic display on Earth.",
+    "Schoolchildren spend hundreds of hours studying the ruling Kim family. Citizens once had to pick a hairstyle from just 28 government-approved cuts."
   ],
   "history": [
-    "Korea was a united kingdom for over a thousand years before Japan took control in 1910. After Japan's defeat in 1945, the peninsula was split: the Soviet Union backed the North, the United States the South. Kim Il Sung became leader in 1948.",
-    "The Korean War (1950–53) ended in a ceasefire, not a peace treaty — so the two Koreas are technically still at war. The Kim family has ruled ever since: grandfather, then son, then grandson Kim Jong Un from 2011."
+    "Korea was one kingdom for over a thousand years. Japan took control in 1910. After 1945, the Soviet Union backed the North and the United States backed the South.",
+    "The Korean War (1950–53) ended in a ceasefire, not a peace treaty. So the two Koreas are still at war. Kim Jong Un has led since 2011."
   ],
   "wows": [
-    "North Korea used its own Juche calendar but switched back to the Gregorian calendar in 2024.",
-    "Pyongyang's 105-storey Ryugyong Hotel has stood since 1987 but has never once opened its doors.",
-    "Mt. Paektu's AD 946 eruption shot ash to Japan — one of the biggest volcanic blasts in recorded history.",
-    "North Korea shifted clocks 30 minutes in 2015 for independence, then reversed the change in 2018 for peace.",
-    "The Mass Games card stunt uses 30,000 schoolchildren with boards — the world's biggest live mosaic.",
-    "North Korea has its own internet, Kwangmyong, completely separate from the global web.",
-    "The DMZ between North and South has been undisturbed 70+ years and is now a rare wildlife sanctuary."
+    "North Korea ditched its own Juche calendar in 2024.",
+    "Pyongyang's 105-storey Ryugyong Hotel has stood since 1987 but never opened.",
+    "Mount Paektu's AD 946 eruption sent ash to Japan.",
+    "Clocks moved 30 minutes in 2015, then back in 2018.",
+    "30,000 schoolchildren make the world's biggest live mosaic with cards.",
+    "North Korea has its own internet, Kwangmyong.",
+    "The DMZ, undisturbed for 70+ years, is now a wildlife sanctuary."
   ],
   "myths": [
     {
-      "myth": "North Koreans are all the same height",
-      "fact": "Average heights fell after 1990s famines — many are shorter than South Koreans on average — but individuals vary widely, as anywhere."
+      "myth": "North and South Korea speak different languages",
+      "fact": "Both speak Korean. Only some words and accents differ, like British and American English."
     },
     {
-      "myth": "North Korea is totally dark from space",
-      "fact": "Satellite photos show far less light due to energy scarcity — Pyongyang has electricity; rural areas have very little."
+      "myth": "Bears sleep so deeply in winter that nothing wakes them",
+      "fact": "Bears sleep lightly and wake easily. Mother bears even give birth during their winter sleep."
     }
   ],
   "words": [

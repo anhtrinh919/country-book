@@ -24,7 +24,7 @@
     "keyColor": "#CE1126",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Antigua and Barbuda is a tiny twin-island nation in the eastern Caribbean. Antigua has about 365 beaches — one for every day of the year — while quieter Barbuda shelters the Caribbean's largest frigatebird colony. The country packs coral reefs, a Georgian naval dockyard, and dazzling turquoise water into just 440 km².",
+  "lead": "Antigua and Barbuda is a tiny twin-island nation in the eastern Caribbean. Antigua has about 365 beaches, one for every day of the year. Quiet Barbuda has the Caribbean's largest frigatebird colony. Coral reefs, a Georgian naval dockyard, and turquoise water fit into just 440 km².",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Did you know?"
   },
   "geo": [
-    "Antigua is a low, flat limestone island ringed by coral reefs and studded with sheltered bays. Its volcanic southwest rises to Mount Obama at 402 m — the only real peak — while the coast curves into dozens of pale-sand beaches.",
-    "Barbuda, 50 km north, is even flatter and wilder: mostly scrub, pink-tinged sand, and a vast lagoon that fills with frigatebirds each autumn. The third island, Redonda, is an uninhabited rocky cliff."
+    "Antigua is a low, flat limestone island ringed by coral reefs. The volcanic southwest rises to Mount Obama at 402 m, the only real peak.",
+    "Barbuda lies 50 km north. It is even flatter and wilder, with scrub, pink-tinged sand, and a vast lagoon. Redonda, the third island, is an uninhabited rocky cliff."
   ],
   "animals": [
-    "The magnificent frigatebird is the national bird. Males puff a scarlet throat pouch the size of a balloon to woo females. Barbuda's Codrington Lagoon hosts thousands at once — one of the western hemisphere's biggest colonies.",
-    "The fallow deer, brought by European settlers 400 years ago, still roams Barbuda's scrubland. Sea turtles nest on quiet beaches, and coral reefs teem with over 170 fish species."
+    "The magnificent frigatebird is the national bird. Males puff up a scarlet throat pouch the size of a balloon. Thousands gather at Barbuda's Codrington Lagoon each autumn.",
+    "European settlers brought fallow deer 400 years ago. They still roam Barbuda's scrubland. Coral reefs teem with over 170 fish species."
   ],
   "culture": [
-    "Antigua's Carnival erupts every late July and August, marking the 1834 abolition of slavery. Streets fill with feathered costumes, soca music, and calypso contests — the whole nation becomes one huge street party.",
-    "Cricket is practically a religion here, and the tiny nation has produced world-class players. Pepperpot stew and fungee (cornmeal with okra) connect everyday tables to African roots."
+    "Carnival erupts every late July and August. It marks the end of slavery in 1834. Streets fill with feathered costumes, soca music, and calypso contests.",
+    "Cricket is almost a religion here, and the nation has produced world-class players. Pepperpot stew and fungee (cornmeal with okra) link tables to African roots."
   ],
   "history": [
-    "Siboney people arrived around 2400 BC; Arawak and Carib followed. Columbus spotted Antigua in 1493, naming it for a Seville church. Britain took over in 1632, planting sugar cane and bringing enslaved Africans — their descendants are about 96% of today's population.",
-    "Slavery ended on 1 August 1834 — the date Carnival now celebrates. Full independence came on 1 November 1981, with Vere Bird as first prime minister, capping decades of campaigning for self-rule."
+    "Siboney people arrived around 2400 BC, then Arawak and Carib. Columbus spotted Antigua in 1493. Britain took over in 1632, planting sugar cane and bringing enslaved Africans. Their descendants are about 96% of the people today.",
+    "Slavery ended on 1 August 1834. Independence came on 1 November 1981, with Vere Bird as first prime minister."
   ],
   "wows": [
-    "Antigua claims 365 beaches — one for every day of the year, so you never need to visit the same one twice.",
-    "Nelson's Dockyard is the only continuously working Georgian naval dockyard anywhere in the world.",
-    "The country's highest peak was renamed Mount Obama in 2009 to honour the newly elected US president.",
-    "Barbuda's sand gets a rosy pink tint from crushed red coral and shells mixed with white sand.",
-    "The East Caribbean dollar has held the exact same peg to the US dollar — 2.70 XCD — since 1976.",
-    "Antigua and Barbuda joined the United Nations in 1981, the very same year it gained independence.",
-    "Male frigatebirds can stay airborne for weeks, taking tiny naps while gliding on warm air currents."
+    "You could visit a different beach every day of the year.",
+    "Nelson's Dockyard is the only working Georgian naval dockyard in the world.",
+    "The highest peak was renamed Mount Obama in 2009.",
+    "Crushed red coral and shells tint Barbuda's sand pink.",
+    "One US dollar has bought 2.70 XCD since 1976.",
+    "The country joined the United Nations in 1981, the year of independence.",
+    "Male frigatebirds can stay airborne for weeks, napping while they glide."
   ],
   "myths": [
     {
-      "myth": "There are exactly 365 beaches",
-      "fact": "The number is a beloved marketing claim, not a surveyed fact — tiny coves appear and vanish with tides, and counts range from 260 to over 400 depending on how you measure."
+      "myth": "Frigatebirds dive and swim for fish",
+      "fact": "They never land on water. Their feathers are not waterproof. They snatch fish at the surface."
     },
     {
-      "myth": "Antigua and Barbuda are one island",
-      "fact": "They are two completely separate islands 50 km apart with very different landscapes — flat, wild Barbuda is far less populated than its bigger sister."
+      "myth": "Hurricane season lasts all year",
+      "fact": "It runs from 1 June to 30 November. Most storms come between August and October."
     }
   ],
   "words": [

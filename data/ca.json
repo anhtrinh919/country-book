@@ -24,7 +24,7 @@
     "keyColor": "#D52B1E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Canada is the second-largest country on Earth, yet fewer people live there than in California. It spans Atlantic to Pacific and north to the Arctic — three oceans at once. Inside sit one-fifth of the world's fresh water, the longest coastline on Earth, and forests so vast a moose can walk for days without seeing a road.",
+  "lead": "Canada is the second-largest country on Earth. Yet fewer people live there than in California. It stretches from the Atlantic to the Pacific and north to the Arctic. Three oceans touch it. It holds one-fifth of the world's fresh water and the longest coastline on Earth. A moose can walk for days in its forests without seeing a road.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Creatures of forest & ice",
     "culture": "Hockey, maple syrup & more",
     "history": "From First Nations to today",
-    "wows": "Canada's jaw-dropping records"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Canada covers nearly 10 million km² — you could fit 26 United Kingdoms inside it. The Rocky Mountains tower in the west, flat prairies roll through the centre, and the ancient Canadian Shield of granite covers almost half the country.",
-    "The Great Lakes hold one-fifth of all surface fresh water on Earth. Canada also has more lakes than any other country — roughly two to three million of them glittering across the map."
+    "Canada covers nearly 10 million km². You could fit 26 United Kingdoms inside it. The Rocky Mountains tower in the west. Flat prairies roll through the middle. The ancient Canadian Shield, made of granite, covers almost half the country.",
+    "The Great Lakes hold one-fifth of all surface fresh water on Earth. Canada also has more lakes than any other country. Roughly two to three million of them glitter across the map."
   ],
   "animals": [
-    "The moose is the world's largest deer and loves Canada's boreal forests. A bull stands taller than a horse at the shoulder and can swim across a lake with its big paddle-like hooves.",
-    "Polar bears gather each autumn near Churchill, Manitoba, waiting for Hudson Bay to freeze. The beaver — Canada's national animal — builds dams that create wetlands sheltering dozens of other species."
+    "The moose is the world's largest deer. It loves Canada's boreal forests (cold northern forests). A bull stands taller than a horse at the shoulder. It can swim across a lake. Its big hooves spread out like paddles.",
+    "Each autumn, polar bears gather near Churchill, Manitoba. They wait for Hudson Bay to freeze. The beaver is Canada's national animal. Its dams make wetlands, and dozens of other species live in them."
   ],
   "culture": [
-    "Canada is officially bilingual: English and French are both national languages. In Québec, street signs, menus, and even cereal boxes must appear in French first — it's the law.",
-    "Ice hockey is almost a religion; the first organised game was played in Montreal in 1875. Every February maple syrup fills kitchens nationwide — Canada produces 75% of the world's supply, mostly from Québec's sugar maples."
+    "Canada is officially bilingual. English and French are both national languages. In Québec, street signs, menus, and even cereal boxes must show French first. That is the law.",
+    "Ice hockey is almost a religion in Canada. The first organised game was played in Montreal in 1875. Every February maple syrup fills kitchens. Canada makes 75% of the world's supply, mostly from Québec's sugar maples."
   ],
   "history": [
-    "For at least 15,000 years, First Nations and Inuit peoples lived across this land with rich languages and trade networks. French and British settlers arrived in the 1500s–1600s, bringing dramatic change and devastating disease.",
-    "Canada became a self-governing country on 1 July 1867 when four provinces formed a Confederation. It grew steadily until Nunavut, the vast Arctic territory, was added in 1999 — completing today's map of 10 provinces and 3 territories."
+    "For at least 15,000 years, First Nations and Inuit peoples lived across this land. They had many languages and trade networks. French and British settlers arrived in the 1500s and 1600s. They brought big changes and deadly diseases.",
+    "Canada became a self-governing country on 1 July 1867. Four provinces joined to form a Confederation. It kept growing. Nunavut, a vast Arctic territory, was added in 1999. That completed today's map of 10 provinces and 3 territories."
   ],
   "wows": [
-    "Canada's coastline stretches 202,080 km — longest on Earth, enough to circle the globe five times.",
-    "Mount Logan in Yukon is North America's second-tallest peak at 5,959 m above sea level.",
-    "Canada has more donut shops per person than any country; Tim Hortons alone has over 6,000 locations worldwide.",
+    "Canada's coastline stretches 202,080 km, the longest on Earth and enough to circle the globe five times.",
+    "Mount Logan in Yukon is North America's second-tallest peak, at 5,959 m.",
+    "Canada has more donut shops per person than any country, and Tim Hortons has over 6,000 worldwide.",
     "The CN Tower was the world's tallest free-standing structure for 32 years, from 1975 to 2007.",
-    "Nunavut is larger than Western Europe yet has a population of only about 40,000 people.",
-    "Canada and the USA share an 8,891 km undefended border — the longest in the world.",
-    "Basketball was invented in 1891 by Canadian James Naismith using a peach basket in Massachusetts."
+    "Nunavut is bigger than Western Europe, yet only about 40,000 people live there.",
+    "Canada and the USA share the world's longest undefended border, at 8,891 km.",
+    "Canadian James Naismith invented basketball in 1891, using a peach basket in Massachusetts."
   ],
   "myths": [
     {
-      "myth": "Canada is always freezing cold",
-      "fact": "Southern cities like Vancouver have mild rainy winters, and prairie summers regularly hit 35 °C — hot enough for sunstroke."
+      "myth": "Canada is freezing cold all year",
+      "fact": "Vancouver has mild, rainy winters. Prairie summers often hit 35 °C, hot enough for sunstroke."
     },
     {
-      "myth": "Canadians say 'eh' constantly",
-      "fact": "'Eh' is real but used mainly to seek agreement ('Good game, eh?') — most Canadians use it occasionally, not as punctuation."
+      "myth": "Canadians end every sentence with eh",
+      "fact": "People use eh to ask for agreement, like in Good game, eh? Most Canadians say it only sometimes."
     }
   ],
   "words": [

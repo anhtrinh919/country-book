@@ -24,7 +24,7 @@
     "keyColor": "#2A6B3A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Dominica is a tiny volcanic Caribbean island cloaked in rainforest. Known as the \"Nature Isle,\" it packs 365 rivers, nine active volcanoes, and a Boiling Lake into 750 km². Sperm whales live offshore year-round, and the Kalinago — the last indigenous Caribbean people — have called this green mountain home for thousands of years.",
+  "lead": "Dominica is a tiny volcanic island in the Caribbean, covered in rainforest. People call it the \"Nature Isle\". It has 365 rivers, nine active volcanoes and a Boiling Lake in just 750 km².",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN TOWNS:",
   "sections": {
-    "geography": "A land of volcanoes & rivers",
+    "geography": "Volcanoes, rivers & jungle",
     "animals": "Parrots, whales & wild things",
     "culture": "Kalinago roots & Creole beats",
-    "history": "Fierce island, long free",
-    "wows": "Jaw-dropping island secrets"
+    "history": "Brave people, late settlers",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Dominica is sculpted by nine active volcanoes draped in rainforest so dense that early settlers could barely land. Over 365 rivers slice the mountains. Twin Trafalgar Falls thunder into a jungle pool just 20 minutes from the capital Roseau.",
-    "Morne Trois Pitons National Park — a UNESCO World Heritage Site — hides the Boiling Lake, a 60-metre fumarole of churning grey-blue water. Black-sand beaches line the wild Atlantic coast; the calm Caribbean side draws sperm whales all year."
+    "Nine active volcanoes rise from the rainforest, so thick that early settlers could barely land. More than 365 rivers cut through the mountains. Twin Trafalgar Falls thunder into a jungle pool.",
+    "Morne Trois Pitons National Park hides the Boiling Lake, a 60-metre fumarole (steam vent) of grey-blue water. It is a UNESCO World Heritage Site. Black-sand beaches line the wild Atlantic coast."
   ],
   "animals": [
-    "Dominica’s Sisserou parrot — a purple-chested Amazon — exists nowhere else on Earth. It graces the national flag, yet only ~50 mature birds survive in the wild. Its smaller cousin, the Jaco (red-necked Amazon), is also entirely endemic to the island.",
-    "Sperm whales live in Dominica’s warm offshore waters all year — the only country where this is true. Researchers swim alongside them. The giant Crapaud frog, once a prized Creole meal called 'mountain chicken,' is now protected."
+    "The Sisserou parrot has a purple chest and lives nowhere else on Earth. It is on the national flag. Only about 50 mature birds survive in the wild.",
+    "Sperm whales live in Dominica's warm waters all year. It is the only country where this is true. Researchers swim beside them."
   ],
   "culture": [
-    "Dominica blends African, French and Kalinago threads into a vibrant Creole identity. The Kalinago — ~3,000 strong on the east coast — are the last pre-Columbian people of the Eastern Caribbean, famed for basket weaving and dugout canoe carving.",
-    "Kwéyòl (French Creole) is heard everywhere beside English. Each October, Creole Day fills streets with madras fabric. Carnival — locally 'The Real Mas' — explodes with calypso and costumes. Local dishes star callaloo soup, fresh fish and plantain."
+    "Dominica blends African, French and Kalinago roots. About 3,000 Kalinago live on the east coast. They are the last pre-Columbian people of the Eastern Caribbean.",
+    "People speak Kwéyòl (French Creole) beside English. Each October, Creole Day fills streets with madras cloth. Carnival, called 'The Real Mas', bursts with calypso and costumes."
   ],
   "history": [
-    "Columbus spotted Dominica on a Sunday in 1493 — 'Domingo' in Spanish gave it the name. Kalinago people resisted colonisers so fiercely that it became one of the last Caribbean islands settled. Britain and France fought for it before Britain took control in 1763.",
-    "In 1838, Dominica became the only British Caribbean colony with a Black-controlled legislature. Full independence came on 3 November 1978. Hurricane Maria devastated it in 2017; Dominica pledged to rebuild as the world's first climate-resilient nation."
+    "Columbus saw Dominica on a Sunday in 1493. 'Domingo' is Spanish for Sunday, which gave the island its name. The Kalinago fought settlers hard. Britain took control in 1763.",
+    "In 1838, it became the only British Caribbean colony with a Black-controlled legislature. Independence came on 3 November 1978. After Hurricane Maria in 2017, it pledged to be the first climate-resilient nation."
   ],
   "wows": [
-    "Dominica is the only country where sperm whales live in the sea all year — you can swim near them.",
-    "The island squeezes 365+ rivers into 750 km² — one of the highest river densities on Earth.",
-    "Its flag features the colour purple — one of only two national flags in the world to do so.",
-    "The Kalinago resisted colonisers so effectively, Dominica was the last Caribbean island settled.",
-    "In 1838, Dominica was the only British Caribbean colony ever run by a Black-majority legislature.",
-    "The Waitukubuli Trail is the Caribbean’s first long-distance hiking path — 183 km of wild jungle.",
-    "Nine active volcanoes crowd the island; the Boiling Lake is Earth’s second-largest flooded fumarole."
+    "Dominica is the only country where sperm whales live offshore all year.",
+    "The island packs 365+ rivers into 750 km².",
+    "Its flag is one of only two in the world with purple.",
+    "The Kalinago resisted so well that Dominica was the last Caribbean island settled.",
+    "Dominica's Black-majority legislature of 1838 was the only one in the British Caribbean.",
+    "The Waitukubuli Trail is the Caribbean's first long-distance hiking path, 183 km long.",
+    "The Boiling Lake is Earth's second-largest flooded fumarole."
   ],
   "myths": [
     {
-      "myth": "Dominica = the Dominican Republic",
-      "fact": "They are different countries 600 miles apart. Dominica is a tiny English-speaking island; the Dominican Republic is a large Spanish-speaking nation on Hispaniola."
+      "myth": "Dominica is the Dominican Republic",
+      "fact": "They are two countries about 600 miles apart. Dominica speaks English. The Dominican Republic speaks Spanish."
     },
     {
-      "myth": "Kalinago violently replaced peaceful Arawaks",
-      "fact": "Kalinago oral history and evidence suggests the two groups often coexisted and intermarried; the violent-replacement tale is a colonial-era oversimplification."
+      "myth": "Whales are giant fish",
+      "fact": "Whales are mammals. They breathe air and feed their calves milk."
     }
   ],
   "words": [

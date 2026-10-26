@@ -24,7 +24,7 @@
     "keyColor": "#1A7A3C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Ethiopia is one of Earth's oldest countries — ancestors walked here 3 million years ago. Its highland plateau stays cool near the equator. Never colonised, it has a fierce, proud identity. Coffee was born here, marathon hero Abebe Bikila raced barefoot to Olympic gold, and an ancient alphabet scrolls across church walls today.",
+  "lead": "Ethiopia is one of Earth's oldest countries. Human ancestors walked here 3 million years ago. Its highland plateau stays cool near the equator. No one ever colonised it. Coffee began here. Abebe Bikila raced barefoot to Olympic marathon gold. An ancient alphabet still fills church walls.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Wolves & cliff-top baboons",
     "culture": "Coffee, music & ancient faith",
     "history": "3 million years of history",
-    "wows": "Wait — that's really true?"
+    "wows": "Wait, is that really true?"
   },
   "geo": [
-    "Ethiopia sits on a vast rocky plateau split by the Great Rift Valley. Tall volcanoes, deep gorges and cold misty meadows make it look nothing like the flat desert many people imagine.",
-    "In the north the Simien Mountains jut like broken teeth above the clouds. In the east the land drops to the Danakil Depression — one of Earth's hottest, lowest spots, with glowing orange lava lakes."
+    "Ethiopia sits on a vast, rocky plateau. The Great Rift Valley splits it in two. Tall volcanoes, deep gorges and cold, misty meadows fill the land. It looks nothing like the flat desert many people imagine.",
+    "In the north, the Simien Mountains poke above the clouds like broken teeth. In the east, the land drops to the Danakil Depression. It is one of Earth's hottest, lowest spots. Orange lava lakes glow there."
   ],
   "animals": [
-    "The Ethiopian wolf is Africa's rarest carnivore, hunting giant mole-rats on the Bale plateau. The gelada baboon — found nowhere else — grazes clifftop meadows in troops of hundreds, flashing bright red chest patches.",
-    "The Walia ibex leaps along near-vertical Simien cliffs without a wobble. Hippos wallow in the Omo River, and the endangered Grevy's zebra roams the lowlands with the narrowest zebra stripes on Earth."
+    "The Ethiopian wolf is Africa's rarest carnivore (meat-eater). It hunts giant mole-rats on the Bale plateau. The gelada baboon lives only in Ethiopia. Troops of hundreds graze clifftop meadows and flash red chest patches.",
+    "The Walia ibex leaps along near-vertical Simien cliffs without a wobble. Hippos wallow in the Omo River. The endangered Grevy's zebra roams the lowlands. It has the narrowest stripes of any zebra."
   ],
   "culture": [
-    "Coffee here is a ceremony: green beans roasted over charcoal, brewed in a clay jebena pot, poured three times. Each cup has its own name and skipping the third is considered rude.",
-    "Ethiopia follows a 13-month Ge'ez calendar, running about 7 years behind Gregorian. The Orthodox Church, over 1,600 years old, fills cities with chanting and incense across 80+ public holidays a year."
+    "Coffee here is a ceremony. Hosts roast green beans over charcoal. They brew them in a clay pot called a jebena and pour three times. Each cup has its own name. Skipping the third is rude.",
+    "Ethiopia follows the 13-month Ge'ez calendar. It runs about 7 years behind ours. The Orthodox Church is over 1,600 years old. It fills the cities with chanting and incense."
   ],
   "history": [
-    "Fossils in the Afar region include 'Lucy' — a 3.2-million-year-old ancestor found in 1974. The ancient Aksumite Empire traded with Rome and Arabia and invented its own alphabet.",
-    "Ethiopia is the only African country never colonised. Italy tried in 1896 but lost at the Battle of Adwa — a shock that inspired independence movements across the continent."
+    "Fossils in the Afar region include Lucy, found in 1974. She was a 3.2-million-year-old human ancestor. The Aksumite Empire traded with Rome and Arabia. It also invented its own alphabet.",
+    "Ethiopia is the only African country never colonised. Italy tried in 1896 but lost the Battle of Adwa. The shock inspired independence movements across Africa."
   ],
   "wows": [
-    "Ethiopia has 13 months — the 13th, Pagume, has only 5 or 6 days.",
-    "Ethiopians start their clock at sunrise, so their noon is our 6 o'clock.",
-    "Goat herder Kaldi found coffee after his goats danced on the berries c. 850 AD.",
-    "The Blue Nile, carrying ~85% of Nile flow into Egypt, begins at Lake Tana.",
+    "Ethiopia has 13 months, and the 13th, Pagume, has only 5 or 6 days.",
+    "Ethiopians start their clock at sunrise, so noon is 6 o'clock to them.",
+    "Legend says a goat herder named Kaldi found coffee around 850 AD, after his goats danced on its berries.",
+    "The Blue Nile carries about 85% of the Nile's water into Egypt, and it begins at Lake Tana.",
     "Abebe Bikila won the 1960 Olympic marathon barefoot, then won again in 1964 with shoes.",
-    "Dallol in the Danakil holds the record for hottest average temp of any inhabited place.",
-    "Lalibela's 11 churches carved from solid rock underground are still in use today."
+    "Dallol in the Danakil has the hottest average temperature of any inhabited place.",
+    "Lalibela's 11 churches are carved down into solid rock and are still in use today."
   ],
   "myths": [
     {
-      "myth": "Ethiopia is all desert and famine",
-      "fact": "Most of Ethiopia is cool highland plateau growing coffee, grains, and vegetables — it feeds 128 million people and exports more coffee than almost any African nation."
+      "myth": "Coffee beans are beans",
+      "fact": "They are seeds from a red fruit called the coffee cherry."
     },
     {
-      "myth": "Africa uses one shared calendar",
-      "fact": "Ethiopia uses the ancient Ge'ez calendar, about 7 years behind Gregorian. Ethiopians celebrated the year 2000 in September 2007."
+      "myth": "Africa is one big country",
+      "fact": "Africa has 54 countries, more than any other continent."
     }
   ],
   "words": [

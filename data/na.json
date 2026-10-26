@@ -24,7 +24,7 @@
     "keyColor": "#003580",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Namibia is on Africa's south-west coast, where orange dunes meet the cold Atlantic. It has the world's oldest desert, Earth's darkest skies, and more wild cheetahs than almost anywhere. One of Africa's largest nations, yet fewer people live here than in many single cities — leaving vast space for elephants, oryx, and ancient rock art.",
+  "lead": "Namibia is on Africa's south-west coast, where orange dunes meet the cold Atlantic. It has the world's oldest desert and Earth's darkest skies. Few people live here, so elephants, oryx and ancient rock art have lots of space.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 wild surprises"
   },
   "geo": [
-    "Namibia wears three faces: the Namib Desert hugs the entire Atlantic coast — its red-orange dunes at Sossusvlei reach 325 metres tall. Strangely, a cold ocean current chills the air right next to those hot dunes, creating eerie morning fog on the beach.",
-    "Inland, rocky highlands give way to the Kalahari's thorny scrubland. In the north, the Etosha Pan is a giant flat salt lake that fills with flamingos after rain. Namibia has so few clouds that world-class stargazing observatories flourish under its ink-dark skies."
+    "The Namib Desert runs along the Atlantic coast. Its red-orange dunes at Sossusvlei reach 325 metres tall. A cold ocean current brings fog to the beach.",
+    "Inland, rocky highlands give way to the thorny Kalahari. In the north, Etosha Pan is a giant salt flat. Few clouds keep the sky ink-dark, perfect for stargazing."
   ],
   "animals": [
-    "Namibia protects more free-roaming cheetahs than anywhere else — around 3,000 cats. Etosha National Park draws elephants, black rhinos, and lions to waterholes you can watch from floodlit hides at night. The Skeleton Coast hosts seal colonies 100,000 strong on a single beach.",
-    "Namibia's rivers hold hippos and crocodiles despite the surrounding desert. African wild dogs roam in packs through the bush. Sociable weavers build the world's largest bird nests — gigantic haystack structures shared by hundreds of birds in one tree."
+    "Namibia has about 3,000 free-roaming cheetahs. Elephants, black rhinos and lions visit Etosha's waterholes. One Skeleton Coast beach has 100,000 seals.",
+    "Sociable weavers build the world's largest bird nests. Hundreds of birds share one haystack nest. African wild dogs hunt in packs."
   ],
   "culture": [
-    "Namibia has eleven national languages — spoken by Ovambo, Herero, Damara, and the ancient San people. The semi-nomadic Himba of the north coat their hair in red ochre paste, a tradition that doubles as sun protection and beauty.",
-    "Food blends African and German colonial flavours — both kapana (grilled street-meat) and bratwurst appear in Windhoek. Traditional music uses thumb pianos, drums, and throat singing. Namibia holds Africa's largest German-speaking community outside Germany."
+    "Namibia has eleven national languages. The Himba of the north coat their hair in red ochre paste. It shields them from the sun.",
+    "Food mixes African and German flavours. Windhoek serves kapana (grilled street meat) and bratwurst. Thumb pianos, drums and throat singing make the music."
   ],
   "history": [
-    "The San people have lived here for 20,000+ years, leaving hand-stencil paintings on Namibia's rocks. Germany colonised the land in the 1880s. Between 1904–08 German forces killed around 80,000 Herero and Nama people — widely called the 20th century's first genocide.",
-    "South Africa then ruled for 75 years. SWAPO's liberation struggle ended with independence on 21 March 1990 — Africa's last major decolonisation. Germany apologised for the genocide in 2021. Namibia is now one of Africa's most stable democracies."
+    "The San people have lived here for 20,000+ years. Germany took the land in the 1880s. From 1904 to 1908 German forces killed around 80,000 Herero and Nama people.",
+    "South Africa then ruled for 75 years. SWAPO's struggle won independence on 21 March 1990. Germany apologised for the killings in 2021."
   ],
   "wows": [
-    "The Namib Desert is around 55 million years old — the oldest desert on Earth.",
-    "Dune Big Daddy near Sossusvlei stands roughly 325 m — taller than the Eiffel Tower.",
-    "Namibia was the first nation to enshrine conservation in its constitution (1990).",
-    "The Skeleton Coast is named for whale bones and shipwrecks caused by thick coastal fog.",
-    "Namibia shelters around 3,000 free-roaming cheetahs — more than any other country.",
-    "Fish River Canyon is Africa's largest canyon: 160 km long and 550 m deep.",
-    "About 10% of the world's diamonds are mined from the seabed off Namibia's coast."
+    "The Namib Desert is about 55 million years old, the oldest on Earth.",
+    "Dune Big Daddy is roughly 325 m tall, about as high as the Eiffel Tower.",
+    "Namibia was the first country to protect nature in its constitution, in 1990.",
+    "Whale bones and fog-wrecked ships gave the Skeleton Coast its name.",
+    "About 3,000 cheetahs roam free here, more than in any other country.",
+    "Fish River Canyon is Africa's largest, 160 km long and 550 m deep.",
+    "About 10% of the world's diamonds come from the seabed off Namibia."
   ],
   "myths": [
     {
-      "myth": "Namibia is just empty, lifeless desert",
-      "fact": "It holds extraordinary biodiversity — cheetahs, rhinos, desert elephants, 700+ bird species, and a coastline packed with seals and penguins."
+      "myth": "Deserts are always hot",
+      "fact": "Not always. Antarctica is the biggest desert on Earth. A desert is just a place with very little rain."
     },
     {
       "myth": "It never rains in Namibia",
-      "fact": "The north gets reliable summer rains; even the Namib blooms briefly after rare showers, carpeting sand with flowers."
+      "fact": "The north has summer rains every year. Even the Namib blooms with flowers after a rare shower."
     }
   ],
   "words": [

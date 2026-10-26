@@ -24,7 +24,7 @@
     "keyColor": "#E8B800",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Ecuador's name means 'equator' — it sits right on the line that splits the Earth in half. In one small country you'll find snowy volcanoes, Amazon jungle, Pacific beaches, and the Galápagos Islands, where giant tortoises roam freely. It is one of Earth's most biodiverse places, with more bird species per km² than almost anywhere else.",
+  "lead": "Ecuador's name means 'equator'. The country sits right on the line that splits Earth in half. It has snowy volcanoes, Amazon jungle, Pacific beaches and the Galápagos Islands. It has more bird species per km² than almost anywhere.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Giants, iguanas & hummingbirds",
     "culture": "Hats, music & hilltop markets",
     "history": "Inca gold to independence",
-    "wows": "Surprising Ecuador facts!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Ecuador squeezes four worlds together: the Andes run down the middle like a spine, with Chimborazo so tall its peak is the farthest point from Earth's centre of any spot on the planet.",
-    "East lies a slice of the Amazon; west, Pacific beaches. Then 1,000 km offshore, the volcanic Galápagos Islands rise from the ocean — where animals evolved unlike anywhere else on Earth."
+    "Ecuador squeezes four worlds together. The Andes run down the middle like a spine. Chimborazo's peak is the farthest point from Earth's centre of any spot on the planet.",
+    "East lies the Amazon. West lie the Pacific beaches. Then 1,000 km offshore, the volcanic Galápagos Islands rise from the sea. Animals there evolved unlike anywhere else."
   ],
   "animals": [
-    "The Galápagos giant tortoise weighs 400 kg and lives over 100 years. Marine iguanas dive into the sea to eat algae — the only lizard on Earth that does this.",
-    "On the mainland, jaguars stalk the Amazon, spectacled bears roam cloud forests, and Ecuador's 130+ hummingbird species hover like tiny jewels. The Andean condor soars on a 3-metre wingspan."
+    "The Galápagos giant tortoise weighs 400 kg and lives over 100 years. Marine iguanas dive into the sea to eat algae. They are the only lizard on Earth that does this.",
+    "On the mainland, jaguars stalk the Amazon and spectacled bears roam cloud forests. Over 130 hummingbird species hover like tiny jewels. The Andean condor soars on a 3-metre wingspan."
   ],
   "culture": [
-    "The famous 'Panama hat' is Ecuadorian — woven by hand from toquilla straw in coastal villages, a craft so fine it's on UNESCO's heritage list. A quality hat can take months to complete.",
-    "Music ranges from Andean pipes and drums to coastal marimba. The Otavalo market, run by Kichwa communities, has traded vivid hand-woven textiles for centuries."
+    "The famous 'Panama hat' is Ecuadorian. Villagers weave it by hand from toquilla straw. UNESCO lists this craft as heritage.",
+    "Music here ranges from Andean pipes and drums to coastal marimba. Kichwa communities run the Otavalo market. It has sold hand-woven cloth for centuries."
   ],
   "history": [
-    "Long before Spanish arrival, the Inca Empire swept through in the 1400s, making Quito a northern capital. Conquistadors arrived in 1534, building churches on top of Inca foundations.",
-    "Ecuador declared independence in 1822 with Simón Bolívar's help. In 2008 it became the first country to write the rights of nature into its constitution, giving rivers legal protections."
+    "The Inca Empire swept through in the 1400s and made Quito a northern capital. Spanish conquistadors arrived in 1534. They built churches on top of Inca foundations.",
+    "Ecuador declared independence in 1822 with Simón Bolívar's help. In 2008 it became the first country to write the rights of nature into its constitution. Rivers now have legal protection."
   ],
   "wows": [
-    "Chimborazo's summit is farther from Earth's centre than Everest's, because our planet bulges at the equator.",
-    "Ecuador ships over 5 million tonnes of bananas a year, ranking among the world's top exporters.",
-    "The Galápagos marine iguana sneezes out sea-salt it absorbs, leaving white crusts on its face.",
-    "Quito was the first city ever declared a UNESCO World Heritage Site, in 1978.",
-    "Ecuador holds 4,000+ orchid species — more than any other country on Earth.",
-    "At Mitad del Mundo you can stand with one foot in each hemisphere at the same time.",
-    "Darwin's 1835 Galápagos visit sparked his world-changing theory of evolution."
+    "Chimborazo's summit is farther from Earth's centre than Everest's, because Earth bulges at the equator.",
+    "Ecuador ships over 5 million tonnes of bananas a year.",
+    "The Galápagos marine iguana sneezes out the sea-salt it absorbs.",
+    "Quito was the first city declared a UNESCO World Heritage Site, in 1978.",
+    "Ecuador has over 4,000 orchid species, more than any other country.",
+    "At Mitad del Mundo you can stand with one foot in each hemisphere.",
+    "Darwin's 1835 Galápagos visit sparked his theory of evolution."
   ],
   "myths": [
     {
-      "myth": "Panama hats come from Panama",
-      "fact": "They were made in Ecuador all along — exported via Panama in the 1800s, which stuck them with the wrong name. The finest ones come from Montecristi, Ecuador."
+      "myth": "Water swirls opposite ways at the equator",
+      "fact": "Tourist shows at the equator are tricks. The sink's shape decides the swirl."
     },
     {
-      "myth": "Chimborazo is lower than Everest",
-      "fact": "By sea-level height, yes — but measured from Earth's centre, Chimborazo wins. Earth's equatorial bulge lifts its summit roughly 2,168 km higher than Everest's."
+      "myth": "Bananas grow on trees",
+      "fact": "A banana plant is a giant herb. Its trunk is made of tightly rolled leaves."
     }
   ],
   "words": [

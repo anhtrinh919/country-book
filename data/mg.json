@@ -24,7 +24,7 @@
     "keyColor": "#C0202E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Madagascar is the world's fourth-largest island — a floating ark in the Indian Ocean. Drifted from Africa 170 million years ago, about 90% of its animals live nowhere else on Earth. Over 100 lemur species, half the world's chameleons, and enormous ancient baobabs call it home. Scientists nickname it the eighth continent.",
+  "lead": "Madagascar is the fourth-largest island in the world. It drifted away from Africa 170 million years ago. About 90% of its animals live nowhere else. Scientists call it the eighth continent.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "A floating world apart",
     "animals": "Creatures found nowhere else",
     "culture": "Ancestors, rice & baobabs",
-    "history": "Kingdoms & independence",
-    "wows": "Eight surprising facts"
+    "history": "Sailors, kings & freedom",
+    "wows": "Seven surprising facts"
   },
   "geo": [
-    "Madagascar sits 400 km off Africa's east coast. A highland spine runs the island's length, dropping to a rainforest east coast. The west is drier, lined with giant baobabs and razor-sharp limestone towers called tsingy — 'where you cannot walk barefoot' in Malagasy.",
-    "The south is near-desert, full of spiny plants found nowhere else. Six climate zones pack into one island. Red-clay soil gives Madagascar its nickname: the Great Red Island. Humpback whales breed in the warm offshore waters each winter."
+    "Madagascar lies 400 km off the coast of Africa. Rainforest covers the east. The dry west has giant baobabs and sharp limestone towers called tsingy.",
+    "The south is almost desert. Red soil gives Madagascar the nickname Great Red Island. Humpback whales breed in the warm sea each winter."
   ],
   "animals": [
-    "Over 100 lemur species live here, from the 30-gram mouse lemur — the world's tiniest primate — to the indri, whose haunting wail echoes for kilometres. About 90% of Madagascar's wildlife is endemic, meaning it exists absolutely nowhere else on the planet.",
-    "The fossa, Madagascar's top predator, looks like a small puma but is related to the mongoose. Half the world's chameleons live here, including the Brookesia micra — barely thumbnail-sized. Panther chameleons flash electric colours, and frogs glow under ultraviolet light."
+    "Over 100 kinds of lemur live here. The mouse lemur weighs just 30 grams, the smallest primate on Earth. The indri's wail echoes for kilometres.",
+    "The fossa looks like a small puma but is kin to the mongoose. Half the world's chameleons live here, including the thumbnail-sized Brookesia micra."
   ],
   "culture": [
-    "Malagasy culture revolves around ancestors called razana, believed to watch over the living. Families follow fady — personal taboos passed down for generations. The most striking tradition is famadihana: families exhume ancestors' bones, wrap them in fresh silk, then dance with them joyfully before reburial.",
-    "Rice is sacred — Malagasy eat it three times a day and have over 30 words for rice dishes. The national dish, romazava, is a brothy zebu-beef stew with wild greens. Zebu cattle appear in every ceremony. Village celebrations fill with hira gasy music and costumed storytelling."
+    "Malagasy people honour their ancestors, called razana. In the famadihana, families lift the bones, wrap them in fresh silk and dance with them.",
+    "Rice is sacred. People eat it three times a day. The national dish, romazava, is a zebu-beef stew with wild greens. Zebu cattle appear in every ceremony."
   ],
   "history": [
-    "Polynesian sailors crossed 6,000 km of open ocean to settle Madagascar around 2,000 years ago — one of history's boldest voyages. Bantu farmers arrived from Africa later. By the 1700s the Merina kingdom had united much of the island under a highland royal family.",
-    "France colonised Madagascar in 1896, exiling the queen and ending the monarchy. A brutal 1947 uprising killed tens of thousands. On 26 June 1960 Madagascar gained full independence, a date still marked as a national holiday with parades across the island."
+    "Sailors from Indonesia crossed 6,000 km of ocean and settled here about 2,000 years ago. Bantu farmers came later. By the 1700s the Merina kingdom ruled much of the island.",
+    "France took over in 1896 and ended the monarchy. A fierce uprising in 1947 killed tens of thousands. Madagascar became independent on 26 June 1960."
   ],
   "wows": [
-    "Madagascar grows about 80% of all the world's vanilla, yet it is one of the planet's poorest countries.",
-    "The first Malagasy settlers sailed from Indonesia — over 6,000 km away — not from nearby Africa.",
-    "Madagascar hosts nearly half of all chameleon species on Earth: about 59 found nowhere else.",
-    "Tsingy limestone spires are razor-sharp; wildlife shelters inside, safe from human hunters.",
-    "Malagasy is an Austronesian language, more closely related to Malay than to Swahili.",
-    "No zoo has ever kept an indri lemur alive long-term; it refuses to survive in captivity.",
-    "Each family has unique fady: one may never eat eel; another may never face north at meals."
+    "Madagascar grows about 80% of the world's vanilla, yet is very poor.",
+    "The first settlers came from Indonesia, not nearby Africa.",
+    "About 59 chameleon species live nowhere else on Earth.",
+    "Animals shelter inside tsingy spires, safe from human hunters.",
+    "Malagasy is closer to Malay than to Swahili.",
+    "No zoo has kept an indri alive for long.",
+    "Fady are family taboos: one bans eel, another bans facing north at meals."
   ],
   "myths": [
     {
-      "myth": "Madagascar is culturally African",
-      "fact": "Its people and language trace to Indonesia, 6,000 km east. Malagasy is Austronesian. The island split from Africa 170 million years ago — long before humans appeared."
+      "myth": "Baobab trees only grow in Africa",
+      "fact": "Six of the world's eight baobab kinds grow in Madagascar. Africa has one."
     },
     {
       "myth": "Lemurs are monkeys",
-      "fact": "Lemurs are prosimians — a far older primate branch. They evolved alone on Madagascar for millions of years, entirely separate from monkeys or apes."
+      "fact": "Lemurs are an older branch of primates. They split off before monkeys appeared."
     }
   ],
   "words": [

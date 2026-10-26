@@ -24,7 +24,7 @@
     "keyColor": "#5EB6E4",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Perched on a rocky mountain surrounded by Italy, San Marino is the world's oldest republic. Three medieval towers crown its peak like a stone crown. Founded in AD 301 by a stonemason named Marinus, it has never been conquered — and its people celebrate that every year with crossbow tournaments and fireworks around the ancient walls.",
+  "lead": "San Marino sits on a rocky mountain inside Italy. It is the world's oldest republic. Three stone towers stand on the peak. A stonemason named Marinus founded it in AD 301.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAIN CASTLES:",
   "sections": {
-    "geography": "A mountain kingdom in the sky",
+    "geography": "A mountain in the sky",
     "animals": "Falcons, foxes & forest folk",
     "culture": "Towers, torta & tournaments",
     "history": "The world's oldest republic",
-    "wows": "Hard to believe, but true!"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "San Marino sits atop Monte Titano, a limestone mountain rising 749 m above the Italian plains. The whole country covers just 61 km² — you could walk across it in a morning. Three ancient towers crown the three peaks, with views stretching to the Adriatic on clear days.",
-    "The land rolls from rocky ridges down through oak and chestnut woods into green valleys. Because the mountain catches clouds, San Marino is cooler and rainier than the plains below, which keeps the forests lush and the air wonderfully fresh year round."
+    "San Marino sits on Monte Titano, a limestone mountain 749 m high. The whole country covers just 61 km². You could walk across it in a morning.",
+    "Oak and chestnut woods cover the slopes. The mountain catches clouds, so it is cooler and rainier than the plains."
   ],
   "animals": [
-    "Monte Titano's limestone cliffs are home to peregrine falcons — San Marino's national bird and the fastest animal on Earth, diving at over 300 km/h to catch birds in mid-air. Watching one stoop from the tower ramparts feels like seeing a feathered thunderbolt.",
-    "The oak woods shelter red foxes, badgers, hedgehogs and martens. Roe deer browse the quieter valleys while buzzards wheel overhead. Because the country is small and people protect the land carefully, wildlife thrives close to the medieval city walls."
+    "Peregrine falcons nest on the cliffs. They are San Marino's national bird. They are also the fastest animal on Earth, diving at over 300 km/h.",
+    "Red foxes, badgers, hedgehogs and martens live in the oak woods. Roe deer graze in the valleys."
   ],
   "culture": [
-    "San Marino's most famous sweet is the Torta Tre Monti — wafer layers sandwiched with hazelnut and cocoa cream, shaped like the three towers. Local piadina flatbread is stuffed with prosciutto or stracchino cheese and eaten folded like a warm hug.",
-    "Every 3 September — national day — a Grand Crossbow Competition fills the ancient stone quarry below the walls. Teams from the nine castelli duel in medieval costume, and fireworks burst around the illuminated towers. In March, bonfires called focheracce light up every castle district to celebrate fathers and spring."
+    "The Torta Tre Monti is a cake shaped like the three towers. Wafer layers hold hazelnut and cocoa cream. Piadina is a folded flatbread stuffed with prosciutto or cheese.",
+    "Every 3 September is national day. Teams in medieval costume hold a crossbow contest in an old stone quarry. In March, bonfires called focheracce glow in every castle district."
   ],
   "history": [
-    "A stonemason named Marinus sailed from the island of Rab to escape Roman persecution. Around AD 301, he climbed Monte Titano, built a chapel, and declared the land free. His last words: 'I leave you free from both men' — the Emperor and the Pope.",
-    "Over 17 centuries San Marino survived wars and Napoleon (who offered to enlarge it; they declined). It abolished the death penalty in 1865, one of the world's first. Surrounded by Italy, it has kept full independence ever since."
+    "A stonemason named Marinus sailed from the island of Rab. He was running from cruel Roman rulers. Around AD 301, he built a chapel on Monte Titano and declared the land free.",
+    "His last words were 'I leave you free from both men.' He meant the Emperor and the Pope. Napoleon once offered to enlarge San Marino. The people said no."
   ],
   "wows": [
-    "San Marino is the world's oldest republic, founded in AD 301 — over 1,700 years ago.",
-    "The whole country is smaller than the city of Florence, yet has its own army and stamps.",
-    "San Marino has TWO heads of state at once, called Captains Regent, who swap out every six months.",
-    "It was among the first countries ever to abolish the death penalty, in 1865.",
-    "San Marino's football team scored after just 8.3 seconds vs England — fastest international goal ever.",
-    "Despite its tiny size, San Marino is one of Europe's most prosperous countries by income per person.",
-    "Collectors worldwide buy San Marino stamps just to own them — stamp sales fund a slice of the budget."
+    "San Marino began in AD 301. That makes it over 1,700 years old.",
+    "The whole country is smaller than Florence, yet it has its own army.",
+    "Two Captains Regent lead the country together. They swap every six months.",
+    "In 1865, San Marino was among the first countries to end the death penalty.",
+    "Against England, San Marino scored after 8.3 seconds. It is the fastest international goal ever.",
+    "San Marino is tiny, but it is one of Europe's wealthiest countries per person.",
+    "Collectors around the world buy its stamps. Those sales help pay the country's bills."
   ],
   "myths": [
     {
-      "myth": "San Marino is part of Italy",
-      "fact": "It is surrounded by Italy but is a fully independent republic with its own government, passport, and laws since AD 301."
+      "myth": "Tiny countries never win Olympic medals",
+      "fact": "At the Tokyo Games, San Marino won Olympic medals. No smaller nation has ever won one."
     },
     {
-      "myth": "It's too small to matter",
-      "fact": "San Marino holds a United Nations seat, competes at the Olympics, and ranks among the world's top 15 nations by income per person."
+      "myth": "San Marino is the smallest country in Europe",
+      "fact": "Two countries are smaller. Vatican City and Monaco would both fit inside San Marino."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#3E9A00",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "A tiny oil-rich nation split across island and jungle. Equatorial Guinea is the only African country where Spanish is official — a quirk of centuries of colonial rule. Dense rainforest covers much of the land, rare monkeys live on volcanic Bioko Island, and giant sea turtles nest on its moonlit beaches each year.",
+  "lead": "Equatorial Guinea is a small country in Central Africa. It is the only African country where Spanish is official. Thick rainforest covers much of the land. Rare monkeys live on volcanic Bioko Island, and giant turtles nest on its beaches.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Wait — that’s really true?"
   },
   "geo": [
-    "Equatorial Guinea is split in two. Bioko Island sits 40 km off Cameroon in the Gulf of Guinea — a volcanic cone wrapped in cloud forest, rising to the 3,011 m summit of Pico Basilé. The capital Malabo perches on its northern rim.",
-    "The mainland slab, Río Muni, lies between Cameroon and Gabon — equatorial rainforest laced with rivers. Tiny Annobón island sits 700 km south. Despite its name, the equator doesn’t cross the mainland at all."
+    "Bioko Island lies 40 km off Cameroon. This volcano wears cloud forest and rises 3,011 m at Pico Basilé. The capital, Malabo, sits on its north coast.",
+    "The mainland, Río Muni, lies between Cameroon and Gabon and is covered in rainforest. Tiny Annobón island lies 700 km south. Despite its name, the equator misses the mainland."
   ],
   "animals": [
-    "Bioko Island is a lifeboat for rare primates. The Bioko drill — a bold-faced forest monkey found nowhere else on Earth — scrambles through the trees. Chimpanzees and seven other monkey species share the misty canopy.",
-    "Every November to February, leatherback, green, hawksbill, and olive ridley turtles haul onto Bioko’s southern beaches to lay eggs — one of West Africa’s most important rookeries. Humpback whales cruise the waters offshore."
+    "The Bioko drill is a black-faced monkey found nowhere else on Earth. It shares Bioko's misty forest with other rare monkeys.",
+    "From November to February, leatherback, green, hawksbill and olive ridley turtles lay eggs on Bioko's southern beaches. Humpback whales swim offshore."
   ],
   "culture": [
-    "Despite being in Africa, Equatorial Guinea sounds partly Spanish — Catholic cathedrals, tapas alongside plantain, and street signs in Spanish. Three languages are official: Spanish, French, and Portuguese.",
-    "The Fang people’s heartbeat is the mvet — a harp-zither with up to fifteen strings whose music is so sacred that only initiated players may learn its notation. The Bubi perform the balélé dance at Christmas, and Makossa rhythms from Cameroon fill Malabo’s bars."
+    "Spanish touches are everywhere, from Catholic cathedrals to street signs. Tapas sit beside plantain. Three languages are official: Spanish, French and Portuguese.",
+    "The Fang people play the mvet, a stringed instrument with up to fifteen strings. Its music is sacred. The Bubi dance the balélé at Christmas."
   ],
   "history": [
-    "Portugal landed on Bioko on New Year’s Day 1472 — naming the southernmost island Annobón (Anno Bom = Good Year). Spain took over in 1778, growing vast cocoa plantations built on forced labour.",
-    "Independence arrived 12 October 1968, but a brutal dictatorship drove a third of the population away or to their deaths. Oil struck offshore in the 1990s transformed this tiny nation into one of Africa’s biggest petroleum exporters."
+    "Portuguese sailors arrived on New Year’s Day 1472 and named Annobón island Anno Bom, meaning Good Year. Spain took over in 1778 and ran cocoa farms with forced labour.",
+    "Independence came on 12 October 1968. A harsh dictatorship then drove a third of the people away or to their deaths. Oil found offshore in the 1990s changed everything."
   ],
   "wows": [
-    "Equatorial Guinea is the only country in Africa where Spanish is an official language.",
-    "Its capital Malabo is on a volcanic island, separated from the mainland by 40 km of open sea.",
-    "Annobón island was discovered on New Year’s Day 1472 — that’s literally how it got its name.",
-    "Bioko Island holds the world’s only insular population of drill monkeys.",
-    "Despite its name, no part of the mainland crosses the equator.",
-    "Oil gives it one of Africa’s highest GDPs per person, yet most citizens still lack clean water.",
-    "The Fang mvet has a secret notation that only initiated masters may learn."
+    "It is the only country in Africa with Spanish as an official language.",
+    "Malabo sits on an island, 40 km of open sea from the mainland.",
+    "Annobón got its name from New Year’s Day 1472.",
+    "Bioko holds the world's only island group of drill monkeys.",
+    "Its name says equator, but the mainland does not cross it.",
+    "Oil makes it a top earner per person, yet most people lack clean water.",
+    "Fang mvet players keep a secret music notation."
   ],
   "myths": [
     {
-      "myth": "The equator runs through it",
-      "fact": "The mainland sits north of the equator. Only waters near Annobón island brush the equatorial line. The name is historical, not geographic."
+      "myth": "It is always hot near the equator",
+      "fact": "Air gets cooler higher up. The top of Bioko's volcano is often cold and wrapped in mist."
     },
     {
-      "myth": "Oil made everyone rich",
-      "fact": "High GDP per capita on paper, but the wealth is extremely concentrated and most citizens live without reliable water or electricity."
+      "myth": "Oil comes from dead dinosaurs",
+      "fact": "Most oil comes from tiny sea plants and animals. They died long ago, sank to the seabed and were squashed under mud for millions of years."
     }
   ],
   "words": [

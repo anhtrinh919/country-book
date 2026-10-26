@@ -24,7 +24,7 @@
     "keyColor": "#1D4FA0",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Israel is a tiny country at the eastern Mediterranean — about the size of Wales — yet it holds some of Earth's oldest cities. Jerusalem, its ancient capital, is sacred to three religions at once. The country has deserts where it almost never rains, a sea so salty you float without trying, and farms blooming in the sand.",
+  "lead": "Israel is a tiny country on the eastern Mediterranean, about the size of Wales. Yet it has some of Earth's oldest cities. Jerusalem is sacred to three religions. Deserts where it almost never rains meet a sea so salty you float without trying.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Wild creatures, big & small",
     "culture": "Feasts, faith & festivals",
     "history": "3,000 years in one place",
-    "wows": "Hard to believe — but true!"
+    "wows": "Hard to believe, but true!"
   },
   "geo": [
-    "Israel packs four landscapes into one tiny space: a green Mediterranean coast, snowy Mount Hermon in the north, the fertile Galilee valley, and the bone-dry Negev Desert covering more than half the country. The Jordan River runs south to the Dead Sea.",
-    "The Dead Sea sits more than 430 metres below sea level — the lowest point on Earth's surface. It is so packed with salt that fish cannot survive, but you can float on your back and read a book without any effort at all."
+    "Israel packs four landscapes into one tiny space. It has a green Mediterranean coast, snowy Mount Hermon, the fertile Galilee and the dry Negev Desert. The Negev covers more than half the country.",
+    "The Dead Sea is over 430 metres below sea level, the lowest point on Earth's surface. Fish cannot live in it, but you can float and read a book."
   ],
   "animals": [
-    "Israel sits on one of Earth's busiest bird-migration routes. Around 500 million birds cross each spring and autumn, turning the Hula Valley into a swirling sky-river. Golden jackals howl at night across Galilee, and striped hyenas prowl the desert dark.",
-    "The Arabian oryx — a white antelope that looks like a unicorn from the side — was rescued from extinction and now roams the Negev. Chubby rock hyraxes, which resemble guinea pigs, are surprisingly among the closest living relatives of elephants."
+    "Around 500 million birds cross Israel each spring and autumn, turning the Hula Valley into a swirling sky-river. Golden jackals howl at night across Galilee.",
+    "The Arabian oryx, a white antelope that looks like a unicorn from the side, was rescued from extinction. Chubby rock hyraxes are among the closest living relatives of elephants."
   ],
   "culture": [
-    "Food in Israel is a joyful mix of traditions. Hummus, falafel, and fresh salads pile onto every table. Friday night is Shabbat — families gather for candles, braided challah bread, and a big shared dinner that stretches late into the evening.",
-    "Israel has more museums per person than any other country — there is even one dedicated entirely to bread. Street art blazes across Tel Aviv's walls, and outdoor markets called shuk overflow with spices, pastries, and cheerful noise every morning."
+    "Hummus, falafel and fresh salads pile onto every table. On Friday night, Shabbat, families gather for candles, braided challah bread and a big shared dinner.",
+    "Israel has more museums per person than any other country, even one about bread. Outdoor markets called shuk overflow with spices and pastries."
   ],
   "history": [
-    "People have lived here for over a million years. King David made Jerusalem his capital around 1000 BCE, and Solomon built a great Temple there. Egyptians, Babylonians, Greeks, Romans, and Ottomans all ruled in turn, each leaving stories carved into the stones.",
-    "Modern Israel was founded in 1948 as a homeland after World War II. Pioneers planted forests and built cities in the desert. Hebrew — unspoken for nearly 2,000 years — was fully revived as an everyday language, the only time in history this has ever happened."
+    "King David made Jerusalem his capital around 1000 BCE, and Solomon built a great Temple there. Egyptians, Babylonians, Greeks, Romans and Ottomans all ruled in turn.",
+    "Modern Israel was founded in 1948. Hebrew, unspoken for nearly 2,000 years, was revived as an everyday language. No other language has done that."
   ],
   "wows": [
-    "The Dead Sea is 9.6 times saltier than the ocean — you cannot sink even if you try hard.",
-    "Israel fully revived Hebrew after 2,000 years of silence — the only language ever brought back from the dead.",
-    "Half a billion birds migrate over tiny Israel twice a year, one of Earth's greatest wildlife spectacles.",
-    "Israeli scientists helped create the modern commercial cherry tomato in the 1970s.",
-    "Israel has more museums per person than any other country — over 230 packed into one tiny nation.",
-    "The Negev contains ancient Nabataean spice-road cities now listed as UNESCO World Heritage.",
-    "Israel's national bird is the hoopoe — a striped, crested bird chosen by public vote in 2008."
+    "The Dead Sea is 9.6 times saltier than the ocean.",
+    "Hebrew is the only language ever brought back from silence.",
+    "Half a billion birds migrate over tiny Israel twice a year.",
+    "Israeli scientists helped create the modern cherry tomato.",
+    "Israel has over 230 museums.",
+    "The Negev has ancient Nabataean spice-road cities.",
+    "Israel's national bird is the hoopoe, chosen by public vote."
   ],
   "myths": [
     {
-      "myth": "The Dead Sea is a sea",
-      "fact": "It is actually a landlocked salt lake fed by the Jordan River. Water only leaves by evaporation, which is why salt keeps concentrating until fish simply cannot survive."
+      "myth": "The Dead Sea is a real sea",
+      "fact": "It has no outlet. Water only leaves by evaporation. That makes it a salt lake, not a true sea."
     },
     {
-      "myth": "Israel is all desert",
-      "fact": "The Negev is desert, but the north has green valleys, ski slopes on Mt Hermon in winter, and a lush Mediterranean coast with orchards and wetland nature reserves."
+      "myth": "Deserts are always hot and sandy",
+      "fact": "Dry air holds little heat, so desert nights can freeze. Antarctica is even the biggest desert on Earth."
     }
   ],
   "words": [

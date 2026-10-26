@@ -2,7 +2,7 @@
   "name": "CHAD",
   "nativeName": "تشاد",
   "romaji": "TCHAD",
-  "tagline": "Desert, Lake & Ancient Sahel",
+  "tagline": "Dunes, lakes & savannah",
   "region": "Central Africa",
   "coords": "15.45°N, 18.73°E",
   "fileNo": "089",
@@ -24,7 +24,7 @@
     "keyColor": "#002664",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Chad sits in Africa's heart, where Sahara dunes melt into savannah and green wetlands. Home to 200+ peoples, camels pace the north while hippos splash in the south. At its western edge, shrinking Lake Chad once fed millions — its dramatic retreat is one of the planet's great environmental stories.",
+  "lead": "Chad sits in the heart of Africa. Sahara dunes meet savannah and green wetlands here. More than 200 peoples live in Chad. Camels walk the north, and hippos splash in the south. Lake Chad in the west once fed millions.",
   "facts": [
     {
       "label": "Capital",
@@ -70,41 +70,41 @@
     "animals": "Elephants, camels & wild dogs",
     "culture": "200 peoples, one heartbeat",
     "history": "Empires of sand and salt",
-    "wows": "Mind-blowing Chad facts"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Chad splits into three dramatic bands. The north is pure Sahara — sand seas, rock towers, and the volcanic Tibesti mountains, where Emi Koussi rises 3,445 m. Ancient rock paintings prove people thrived here 7,000 years ago when it was lush and green.",
-    "The middle Sahel belt is dry grassland for nomads and herds. In the south, summer rains turn plains bright green. Lake Chad in the west once rivalled the Caspian Sea — today it has shrunk to barely 10% of its 1963 size, a vivid sign of our changing climate."
+    "Chad has three bands. The north is Sahara, with sand seas and the volcanic Tibesti mountains. Emi Koussi rises 3,445 m there.",
+    "The middle is Sahel, dry grassland for herders. In the south, summer rains turn the plains green. Lake Chad has shrunk to about 10% of its 1963 size."
   ],
   "animals": [
-    "Chad's south holds some of Africa's last wild wonders. Zakouma National Park shelters 700 elephants — a herd that doubled after rangers tackled poachers. Hippos wallow in the Chari River, and over 370 bird species fill the air with colour and noise.",
-    "Across the Sahel, lions, spotted hyenas, and rare African wild dogs still roam. In the north, Dorcas gazelles sprint across dunes and Barbary sheep cling to rocky Tibesti cliffs. Lake Chad itself is a winter stopover for millions of birds migrating from Europe."
+    "Zakouma National Park shelters 700 elephants. The herd doubled after rangers stopped poachers. Hippos wallow in the Chari River. Over 370 bird species fill the air.",
+    "Lions, spotted hyenas and rare African wild dogs roam the Sahel. Dorcas gazelles sprint across the dunes. Millions of birds from Europe rest at Lake Chad each winter."
   ],
   "culture": [
-    "With 200+ ethnic groups, Chad fizzes with variety. In the north, Tubu and Arab nomads celebrate with camel races and three-cup tea ceremonies — each cup meaning life, love, or death. Wrestling is the national sport; village bouts draw enormous, cheering crowds.",
-    "Music ranges from the gentle n'goni lute of the south to the thundering Sara drums. Colourful woven gandoura robes billow at markets. Rounded thatched huts in the south and flat-roofed mud compounds in the north tell you exactly where you are."
+    "Tubu and Arab nomads race camels and share three cups of tea. The cups mean life, love and death. Wrestling is the national sport.",
+    "Southern music uses the gentle n'goni lute and thundering Sara drums. People wear flowing gandoura robes at markets."
   ],
   "history": [
-    "Long before France arrived, Chad was heartland of the Kanem-Bornu Empire — one of Africa's longest-lasting states, ruling nearly 1,000 years. It traded salt, ivory, and cloth across the Sahara to Egypt, and spread Islam deep into Central Africa.",
-    "France colonised the region early 1900s; Chad gained independence in 1960. Decades of civil conflict followed. Oil was discovered in 2003, bringing new roads — and new tensions. Today Chad is a key partner fighting armed groups across the Sahel."
+    "Chad was the heartland of the Kanem-Bornu Empire. It lasted nearly 1,000 years. Traders carried salt, ivory and cloth across the Sahara to Egypt.",
+    "France colonised the region in the early 1900s. Chad became independent in 1960. Years of civil conflict followed. Oil was found in 2003, bringing new roads and new tensions."
   ],
   "wows": [
-    "Lake Chad has shrunk 90% since 1963 — from 25,000 km² to barely 1,500 km² today.",
-    "Emi Koussi in the Tibesti is the Sahara's largest volcano, wider than Greater London.",
-    "Chad is one of the world's most landlocked countries, furthest from any ocean.",
-    "Ennedi's rock art shows crocodiles in what is now bone-dry desert — the Sahara was once green.",
-    "Zakouma's elephant herd doubled in a decade thanks to a community anti-poaching programme.",
-    "In dry season the Chari River border with Cameroon is narrow enough to wade across.",
-    "The oldest known hominid skull — 7 million years old — was found in Chad's desert in 2001."
+    "Lake Chad has shrunk 90% since 1963, from 25,000 km² to about 1,500 km².",
+    "Emi Koussi is the Sahara's biggest volcano, wider than Greater London.",
+    "Chad is one of the countries furthest from any ocean.",
+    "Ennedi's rock art shows crocodiles in dry desert. The Sahara was once green.",
+    "Zakouma's elephant herd doubled in a decade thanks to anti-poaching work.",
+    "In the dry season, you can wade across the Chari River border with Cameroon.",
+    "The oldest known human-relative skull, 7 million years old, was found in Chad in 2001."
   ],
   "myths": [
     {
-      "myth": "Chad is just empty desert",
-      "fact": "Only the north is Sahara; the south has green wetlands, a national park teeming with elephants and lions, and the mighty Chari River feeding the country."
+      "myth": "Lake Chad is named after the country",
+      "fact": "It is the other way round. The country took its name from the lake. 'Chad' means a large body of water."
     },
     {
-      "myth": "Lake Chad is still a great lake",
-      "fact": "It has shrunk by about 90% since the 1960s due to drought and irrigation — what remains is mostly marshes and islands, not open water."
+      "myth": "Deserts are hot all day and night",
+      "fact": "Dry air holds little heat. Desert nights can fall close to freezing."
     }
   ],
   "words": [
