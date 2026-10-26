@@ -24,7 +24,7 @@
     "keyColor": "#007A4D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Nam Phi tọa lạc ở tận cùng phía nam châu Phi, nơi Đại Tây Dương và Ấn Độ Dương gần như gặp nhau. Một đất nước mà bạn vừa có thể leo núi tuyết, vừa đi qua sa mạc khô cằn, vừa xem cá voi nhảy lên khỏi mặt biển. Điều kỳ diệu nhất? Nam Phi có tới 11 ngôn ngữ chính thức — nhiều hơn bất kỳ quốc gia nào trên Trái Đất — và lá cờ cầu vồng của họ kể trọn câu chuyện đó.",
+  "lead": "Nam Phi tọa lạc ở tận cùng phía nam châu Phi, nơi Đại Tây Dương và Ấn Độ Dương gần như gặp nhau. Một đất nước mà bạn vừa có thể leo núi tuyết, vừa đi qua sa mạc khô cằn, vừa xem cá voi nhảy lên khỏi mặt biển. Điều kỳ diệu nhất? Nam Phi có tới 12 ngôn ngữ chính thức, và lá cờ cầu vồng của họ kể trọn câu chuyện đó.",
   "facts": [
     {
       "label": "Thủ đô",
@@ -43,7 +43,7 @@
     },
     {
       "label": "Ngôn ngữ",
-      "value": "11 ngôn ngữ chính thức",
+      "value": "12 ngôn ngữ chính thức",
       "sub": "Zulu, Xhosa, Afrikaans và nhiều hơn nữa"
     },
     {
@@ -81,7 +81,7 @@
     "Vùng biển gần Hermanus là nơi tốt nhất thế giới để ngắm cá voi lưng phẳng phương Nam từ bờ biển. Xa hơn một chút, ở Boulders Beach cách Cape Town chỉ 40 km, hàng nghìn con chim cánh cụt châu Phi đang ung dung lội nước."
   ],
   "culture": [
-    "Nam Phi có 11 ngôn ngữ chính thức — nhiều nhất thế giới. Chỉ cần đi vài chục cây số, câu chào đã đổi khác: 'Sawubona' theo tiếng Zulu, 'Molo' theo tiếng Xhosa, 'Hallo' theo tiếng Afrikaans.",
+    "Nam Phi có 12 ngôn ngữ chính thức. Chỉ cần đi vài chục cây số, câu chào đã đổi khác: 'Sawubona' theo tiếng Zulu, 'Molo' theo tiếng Xhosa, 'Hallo' theo tiếng Afrikaans.",
     "Braai — tiệc nướng ngoài trời quanh bếp than — là thú vui quốc dân mà gia đình nào cũng tụ tập mỗi cuối tuần. Bóng bầu dục gần như là tôn giáo ở đây, và đội Springboks từng vô địch World Cup."
   ],
   "history": [

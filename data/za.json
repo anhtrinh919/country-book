@@ -24,7 +24,7 @@
     "keyColor": "#007A4D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "South Africa sits at the tip of Africa, where the Atlantic and Indian oceans meet. It has snowy mountains, hot deserts, wild savannah and whale-filled seas. It has 11 official languages.",
+  "lead": "South Africa sits at the tip of Africa, where the Atlantic and Indian oceans meet. It has snowy mountains, hot deserts, wild savannah and whale-filled seas. It has 12 official languages.",
   "facts": [
     {
       "label": "Capital",
@@ -43,7 +43,7 @@
     },
     {
       "label": "Language",
-      "value": "11 official",
+      "value": "12 official",
       "sub": "Zulu, Xhosa, Afrikaans & more"
     },
     {

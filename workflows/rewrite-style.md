@@ -14,6 +14,20 @@ The reader is Momo, a curious 7-year-old in Vietnam. A parent may read aloud. Ev
 - Each section has two paragraphs side by side. Keep them about the same length.
 - British spelling stays as it is (colour, metre).
 
+## Hard words
+
+A 7-year-old does not know words like: mortar, navigable, tonal, polyphonic, ferment, subspecies, constitution, statehood, steppe, solstice, conquistador, hectare, geothermal, fissure, empire names (Ottomans, Habsburgs, Sassanids).
+
+- Explain each such word right where it appears: "polyphonic singing (three voices at once)".
+- Or swap it for a plain word: "a lake big ships can sail on".
+- Or cut the detail. A list of names with no meaning teaches nothing.
+- Say what a thing is the first time: "Kiwis (people from New Zealand)", "Voyager, a space probe".
+- Each wow must stand alone. Keep the comparison that makes it surprising.
+
+## Limiting words
+
+Never drop a word that limits a claim: can, about, most, some, nearly, outside X, family (as in "family surnames"). "Baobabs can live 2,000 years" is not "Baobabs live 2,000 years".
+
 ## Banned AI phrases
 
 Never use: nestled, boasts, tapestry, renowned, vibrant, iconic, remarkable, breathtaking, stunning, rich (as in "rich history"), unique, diverse, fiercely, mighty, treasure (as a verb), "home to", "is known for", "a land of", "from X to Y" openers, "whether you…", "it's no wonder", "truly", "steeped in". No em-dash chains — at most one dash per paragraph.
