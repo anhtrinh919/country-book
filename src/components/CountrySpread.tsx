@@ -66,7 +66,8 @@ function FitPage({ children, side }: { children: React.ReactNode; side?: "left" 
     // final exact pass: lock width, then set scale = avail/height at THAT width so the rendered
     // height equals the available box exactly (no residual over/undershoot for the gate).
     s.width = `${100 / z}%`;
-    z = clamp(avail / el.scrollHeight);
+    // +1: scrollHeight rounds to whole px, and the scale-up can grow that sub-px gap into a clipped line
+    z = clamp(avail / (el.scrollHeight + 1));
     s.transform = `scale(${z})`;
   }, [avail]);
 
