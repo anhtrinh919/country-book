@@ -4,11 +4,19 @@
 
 ## Next
 
-- 2. Fact-check the authored countries. About 110 records were never checked against sources. — found, 2026-10-26
-- 3. Photo check with vision. An AI compares each photo to its caption, then fixes the misses. Known weak shots include the Vanuatu coconut crab. — found, 2026-10-26
+- 3. Photo fit and caption check. Each photo shows its main subject in the frame. Frames may grow taller. An AI also checks each photo matches its caption. Known weak shots include the Vanuatu coconut crab. — found, 2026-10-26
 - 4. Shrink the print PDF. The print-grade PDF is about 188 MB. A smaller version is easier to share. — found, 2026-10-26
 
 ## Rounds
+
+### Round 2 — rewrite the book for a 7-year-old
+
+Status: building
+Branch: round-2-rewrite, from main
+Try: open 5 country pages on a computer; read them in English, then Vietnamese; read each myth box; open How to Read, Glossary, and World Records; read one country page on a phone
+Built:
+Bugs: none
+Risk: none
 
 ### Round 1 — small fixes: drop French, open pictures, zoom where you point
 
