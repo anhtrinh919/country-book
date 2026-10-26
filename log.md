@@ -11,12 +11,15 @@
 
 ### Round 2 — rewrite the book for a 7-year-old
 
-Status: checking
+Status: kept
 Branch: round-2-rewrite, from main
 Try: open 5 country pages on a computer; read them in English, then Vietnamese; read each myth box; open How to Read, Glossary, and World Records; read one country page on a phone
-Built:
-Bugs: none
+Built: all 201 English country pages rewritten in short, plain sentences, about a fifth fewer words; hard words explained where they appear; every myth box teaches something new; How to Read, Glossary, and World Records rewritten in English and Vietnamese; Lexend font, left-aligned text
+Bugs: old fact errors fixed (China population, Colombia bird, Cuba literacy, South Africa 12 languages, Nigeria economy, Darius post, Germany, Greenland, Africa desert, and about 40 more the rewrite corrected)
 Risk: none
+
+Result: Merged at the user's call, without the final checks. Tests pass. Screen fit: 183 of 201 pages pass, none overflow, 18 timed out unchecked. Print fit not checked. No browser walk or screenshots. Vietnamese country text unchanged, except Myanmar, Kenya, Brazil and a few fact fixes.
+Learned: Agents trade facts and hard words for length caps; a blind judge caught 6 of 15 pages with unexplained words. Test output must print full failure lists, or agents report clean when they are not. Give each parallel agent its own scratch folder.
 
 ### Round 1 — small fixes: drop French, open pictures, zoom where you point
 

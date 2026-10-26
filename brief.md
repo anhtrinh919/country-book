@@ -38,6 +38,9 @@ Things that must be exact, or must never happen. Each one is code, with a test.
 - Vietnamese is a live switch in the same build, round 0
 - French edition removed — nobody used it, round 1
 - Pictures open in a full-screen viewer; zoom follows the cursor or fingers — kids want to see pictures big, round 1
+- English text follows workflows/rewrite-style.md: short sentences, hard words explained, myths never repeat the page — a 7-year-old reads it, round 2
+- Lexend body font, left-aligned, no hyphen splits — easier for young readers, round 2
+- Vietnamese country text is not re-translated from the new English — user's call, round 2
 
 ## How to run
 
