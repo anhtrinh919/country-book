@@ -133,29 +133,28 @@ function Tick({ label, color, style }: { label: string; color?: string; style?: 
   );
 }
 
-function SecHead({ kicker, title, young }: { kicker: string; title: string; young?: boolean }) {
+function SecHead({ kicker, title }: { kicker: string; title: string }) {
   return (
     <div style={{ marginBottom: 7 }}>
       <Tick label={kicker} color="var(--accent)" style={{ display: "block" }} />
       <div style={{ display: "flex", alignItems: "baseline", gap: 12 }}>
-        <h3 style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: young ? 34 : 26, margin: "2px 0 0", lineHeight: 1, color: "var(--ink)", whiteSpace: "nowrap" }}>{title}</h3>
+        <h3 style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 26, margin: "2px 0 0", lineHeight: 1, color: "var(--ink)", whiteSpace: "nowrap" }}>{title}</h3>
         <span style={{ flex: 1, height: 0, borderTop: "2px solid var(--accent)", transform: "translateY(-3px)" }}></span>
       </div>
     </div>
   );
 }
 
-function Prose({ paras, cols = 2, dropcap = false, size = 15, gap = 22, colBreak = false, young }: {
-  paras: string[]; cols?: number; dropcap?: boolean; size?: number; gap?: number; colBreak?: boolean; young?: boolean;
+function Prose({ paras, cols = 2, dropcap = false, size = 15, gap = 22, colBreak = false }: {
+  paras: string[]; cols?: number; dropcap?: boolean; size?: number; gap?: number; colBreak?: boolean;
 }) {
-  const fs = young ? Math.round(size * 1.33) : size;
   return (
     <div style={{ columnCount: cols, columnGap: gap, columnRule: cols > 1 ? "1px solid var(--line)" : "none",
-      fontFamily: FONTS.serif, fontSize: fs, lineHeight: young ? 1.55 : 1.46, color: "var(--ink)", textAlign: "justify", hyphens: "auto" }}>
+      fontFamily: FONTS.serif, fontSize: size, lineHeight: 1.46, color: "var(--ink)", textAlign: "justify", hyphens: "auto" }}>
       {paras.map((p, i) =>
         <p key={i} style={{ margin: "0 0 8px", breakBefore: colBreak && i > 0 ? "column" : "auto", breakInside: colBreak ? "avoid" : "auto" }}>
           {dropcap && i === 0 ?
-            <><span style={{ float: "left", fontFamily: FONTS.disp, fontWeight: 800, fontSize: young ? 60 : 46, lineHeight: .82, color: "var(--accent)", padding: "5px 8px 0 0" }}>{p[0]}</span>{p.slice(1)}</> :
+            <><span style={{ float: "left", fontFamily: FONTS.disp, fontWeight: 800, fontSize: 46, lineHeight: .82, color: "var(--accent)", padding: "5px 8px 0 0" }}>{p[0]}</span>{p.slice(1)}</> :
             p}
         </p>
       )}
@@ -293,13 +292,13 @@ function MythBox({ C, style }: { C: Country; style?: React.CSSProperties }) {
   );
 }
 
-function WowList({ C, young }: { C: Country; young?: boolean }) {
-  const fs = young ? 18 : 14.3;
+function WowList({ C }: { C: Country }) {
+  const fs = 14.3;
   return (
     <div style={{ columnCount: 2, columnGap: 22, columnRule: "1px solid var(--line)" }}>
       {C.wows.map((w, i) =>
         <div key={i} style={{ display: "flex", gap: 9, breakInside: "avoid", marginBottom: 6 }}>
-          <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: young ? 19 : 15, color: "var(--accent)", flex: "0 0 auto", width: 22 }}>{String(i + 1).padStart(2, "0")}</span>
+          <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 15, color: "var(--accent)", flex: "0 0 auto", width: 22 }}>{String(i + 1).padStart(2, "0")}</span>
           <span style={{ fontFamily: FONTS.serif, fontSize: fs, lineHeight: 1.38 }}>{w}</span>
         </div>
       )}
@@ -307,14 +306,14 @@ function WowList({ C, young }: { C: Country; young?: boolean }) {
   );
 }
 
-function Phrasebook({ C, young }: { C: Country; young?: boolean }) {
+function Phrasebook({ C }: { C: Country }) {
   return (
     <div style={{ display: "grid", gridTemplateColumns: "repeat(5,minmax(0,1fr))", gap: 10, marginTop: 6 }}>
       {C.words.map((w, i) =>
         <div key={i} style={{ borderTop: "2px solid var(--accent)", paddingTop: 5 }}>
-          <div style={{ fontFamily: FONTS.mono, fontSize: young ? 11 : 9.5, color: "var(--faint)", textTransform: "uppercase", letterSpacing: ".08em" }}>{w.en}</div>
-          <div style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: young ? 22 : 18, color: "var(--ink)", lineHeight: 1.12 }}>{w.jp}</div>
-          <div style={{ fontFamily: FONTS.mono, fontSize: young ? 11 : 9.5, color: "var(--faint)" }}>{w.say}</div>
+          <div style={{ fontFamily: FONTS.mono, fontSize: 9.5, color: "var(--faint)", textTransform: "uppercase", letterSpacing: ".08em" }}>{w.en}</div>
+          <div style={{ fontFamily: FONTS.disp, fontWeight: 700, fontSize: 18, color: "var(--ink)", lineHeight: 1.12 }}>{w.jp}</div>
+          <div style={{ fontFamily: FONTS.mono, fontSize: 9.5, color: "var(--faint)" }}>{w.say}</div>
         </div>
       )}
     </div>
@@ -463,7 +462,7 @@ function ExplorerStrip({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
 /* ══════════════════════ ATLAS layout ══════════════════════ */
 
 function AtlasLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   const logLine = loc.tripLine(ctx.explorerName || "", ctx.stop, ctx.total);
 
   return (
@@ -490,7 +489,7 @@ function AtlasLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
       {/* lead + data panel */}
       <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1.35fr) minmax(0,1.08fr)", gap: 20, marginTop: 14, alignItems: "start" }}>
         <div>
-          <Prose paras={[C.lead]} cols={1} dropcap size={15} young={young} />
+          <Prose paras={[C.lead]} cols={1} dropcap size={15} />
           <div style={{ display: "flex", gap: 16, alignItems: "center", marginTop: 16 }}>
             <Stamp C={C} />
             <div>
@@ -510,15 +509,15 @@ function AtlasLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
 
       {/* geography */}
       <div style={{ marginTop: 14 }}>
-        <SecHead kicker={loc.kicker.geography} title={C.sections.geography} young={young} />
-        <Prose paras={C.geo} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.geography} title={C.sections.geography} />
+        <Prose paras={C.geo} cols={2} colBreak />
         <IslandChips C={C} />
       </div>
 
       {/* animals */}
       <div style={{ marginTop: 11 }}>
-        <SecHead kicker={loc.kicker.animals} title={C.sections.animals} young={young} />
-        <Prose paras={C.animals} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.animals} title={C.sections.animals} />
+        <Prose paras={C.animals} cols={2} colBreak />
       </div>
 
       {/* photo strip */}
@@ -532,7 +531,7 @@ function AtlasLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
 }
 
 function AtlasRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="right">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -542,8 +541,8 @@ function AtlasRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
       <Motif type={C.motif} />
 
       <div style={{ marginTop: 11 }}>
-        <SecHead kicker={loc.kicker.culture} title={C.sections.culture} young={young} />
-        <Prose paras={C.culture} cols={2} young={young} />
+        <SecHead kicker={loc.kicker.culture} title={C.sections.culture} />
+        <Prose paras={C.culture} cols={2} />
       </div>
 
       <div style={{ marginTop: 12 }}>
@@ -551,31 +550,29 @@ function AtlasRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
       </div>
 
       <div style={{ marginTop: 10 }}>
-        <SecHead kicker={loc.kicker.history} title={C.sections.history} young={young} />
-        <Prose paras={C.history} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.history} title={C.sections.history} />
+        <Prose paras={C.history} cols={2} colBreak />
       </div>
 
-      {!young && (
-        <div style={{ marginTop: 12, border: "1.5px solid var(--accent)", background: "color-mix(in srgb, var(--accent) 7%, #fff)", padding: "10px 15px" }}>
-          <Tick label={loc.kicker.myths} color="var(--accent)" />
-          <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1fr) minmax(0,1fr)", gap: 18, marginTop: 6 }}>
-            {C.myths.map((m, i) =>
-              <div key={i}>
-                <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 12.5, color: "var(--faint)", textDecoration: "line-through" }}>"{m.myth}"</div>
-                <div style={{ fontFamily: FONTS.serif, fontSize: 13.3, lineHeight: 1.4, marginTop: 3 }}>{m.fact}</div>
-              </div>
-            )}
-          </div>
+      <div style={{ marginTop: 12, border: "1.5px solid var(--accent)", background: "color-mix(in srgb, var(--accent) 7%, #fff)", padding: "10px 15px" }}>
+        <Tick label={loc.kicker.myths} color="var(--accent)" />
+        <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1fr) minmax(0,1fr)", gap: 18, marginTop: 6 }}>
+          {C.myths.map((m, i) =>
+            <div key={i}>
+              <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 12.5, color: "var(--faint)", textDecoration: "line-through" }}>"{m.myth}"</div>
+              <div style={{ fontFamily: FONTS.serif, fontSize: 13.3, lineHeight: 1.4, marginTop: 3 }}>{m.fact}</div>
+            </div>
+          )}
         </div>
-      )}
+      </div>
 
       <div style={{ marginTop: 10 }}>
-        <SecHead kicker={loc.kicker.wows} title={C.sections.wows} young={young} />
+        <SecHead kicker={loc.kicker.wows} title={C.sections.wows} />
         <div style={{ columnCount: 2, columnGap: 22, columnRule: "1px solid var(--line)" }}>
           {C.wows.map((w, i) =>
             <div key={i} style={{ display: "flex", gap: 9, breakInside: "avoid", marginBottom: 6 }}>
-              <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: young ? 17 : 14, color: "var(--accent)", flex: "0 0 auto", width: 18 }}>{String(i + 1).padStart(2, "0")}</span>
-              <span style={{ fontFamily: FONTS.serif, fontSize: young ? 16 : 13, lineHeight: 1.34 }}>{w}</span>
+              <span style={{ fontFamily: FONTS.disp, fontWeight: 800, fontSize: 14, color: "var(--accent)", flex: "0 0 auto", width: 18 }}>{String(i + 1).padStart(2, "0")}</span>
+              <span style={{ fontFamily: FONTS.serif, fontSize: 13, lineHeight: 1.34 }}>{w}</span>
             </div>
           )}
         </div>
@@ -583,7 +580,7 @@ function AtlasRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
 
       <div style={{ marginTop: 10 }}>
         <Tick label={loc.kicker.phrasebook(C.langName)} color="var(--accent)" />
-        <Phrasebook C={C} young={young} />
+        <Phrasebook C={C} />
       </div>
 
       <div style={{ position: "absolute", right: 26, bottom: 8, opacity: .9 }}><Compass size={56} /></div>
@@ -594,7 +591,7 @@ function AtlasRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
 /* ══════════════════════ HERO layout ══════════════════════ */
 
 function HeroLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="left">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -603,23 +600,23 @@ function HeroLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
       </div>
       <HeroBanner C={C} />
       <FactsRibbon C={C} />
-      <div style={{ marginTop: 12 }}><Prose paras={[C.lead]} cols={2} dropcap young={young} /></div>
+      <div style={{ marginTop: 12 }}><Prose paras={[C.lead]} cols={2} dropcap /></div>
       <ExplorerStrip C={C} ctx={ctx} />
       <div style={{ marginTop: 12 }}>
-        <SecHead kicker={loc.kicker.geography} title={C.sections.geography} young={young} />
-        <Prose paras={C.geo} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.geography} title={C.sections.geography} />
+        <Prose paras={C.geo} cols={2} colBreak />
         <IslandChips C={C} />
       </div>
       <div style={{ marginTop: 11 }}>
-        <SecHead kicker={loc.kicker.animals} title={C.sections.animals} young={young} />
-        <Prose paras={C.animals} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.animals} title={C.sections.animals} />
+        <Prose paras={C.animals} cols={2} colBreak />
       </div>
     </FitPage>
   );
 }
 
 function HeroRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="right">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -628,25 +625,25 @@ function HeroRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
       </div>
       <Motif type={C.motif} />
       <div style={{ marginTop: 12 }}>
-        <SecHead kicker={loc.kicker.culture} title={C.sections.culture} young={young} />
-        <Prose paras={C.culture} cols={2} young={young} />
+        <SecHead kicker={loc.kicker.culture} title={C.sections.culture} />
+        <Prose paras={C.culture} cols={2} />
       </div>
       <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1fr) minmax(0,1fr)", gap: 16, marginTop: 12 }}>
         <PhotoSlot photo={C.photos!.animalA} h={120} rot={-1.2} />
         <PhotoSlot photo={C.photos!.animalB} h={120} rot={1.2} />
       </div>
       <div style={{ marginTop: 12 }}>
-        <SecHead kicker={loc.kicker.history} title={C.sections.history} young={young} />
-        <Prose paras={C.history} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.history} title={C.sections.history} />
+        <Prose paras={C.history} cols={2} colBreak />
       </div>
-      {!young && <MythBox C={C} style={{ marginTop: 12 }} />}
+      <MythBox C={C} style={{ marginTop: 12 }} />
       <div style={{ marginTop: 11 }}>
-        <SecHead kicker={loc.kicker.wows} title={C.sections.wows} young={young} />
-        <WowList C={C} young={young} />
+        <SecHead kicker={loc.kicker.wows} title={C.sections.wows} />
+        <WowList C={C} />
       </div>
       <div style={{ marginTop: 10 }}>
         <Tick label={loc.kicker.phrasebook(C.langName)} color="var(--accent)" />
-        <Phrasebook C={C} young={young} />
+        <Phrasebook C={C} />
       </div>
       <div style={{ position: "absolute", right: 26, bottom: 8, opacity: .9 }}><Compass size={56} /></div>
     </FitPage>
@@ -656,7 +653,7 @@ function HeroRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
 /* ══════════════════════ MODULAR layout ══════════════════════ */
 
 function ModularLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="left">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -677,23 +674,23 @@ function ModularLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
       <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1.04fr) minmax(0,1fr)", gap: 12, marginTop: 12, alignItems: "start" }}>
         <DataPanel C={C} />
         <Card label={loc.kicker.welcome}>
-          <Prose paras={[C.lead]} cols={1} dropcap size={14.5} young={young} />
+          <Prose paras={[C.lead]} cols={1} dropcap size={14.5} />
         </Card>
       </div>
       <ExplorerStrip C={C} ctx={ctx} />
       <Card label={loc.kicker.geography} style={{ marginTop: 12 }}>
-        <Prose paras={C.geo} cols={2} colBreak young={young} />
+        <Prose paras={C.geo} cols={2} colBreak />
         <IslandChips C={C} />
       </Card>
       <Card label={loc.kicker.animals} style={{ marginTop: 11 }}>
-        <Prose paras={C.animals} cols={2} colBreak young={young} />
+        <Prose paras={C.animals} cols={2} colBreak />
       </Card>
     </FitPage>
   );
 }
 
 function ModularRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="right">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -702,7 +699,7 @@ function ModularRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
       </div>
       <Motif type={C.motif} />
       <Card label={loc.kicker.culture} style={{ marginTop: 11 }}>
-        <Prose paras={C.culture} cols={2} young={young} />
+        <Prose paras={C.culture} cols={2} />
       </Card>
       <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1fr) minmax(0,1fr) minmax(0,1fr)", gap: 10, marginTop: 11 }}>
         {([C.photos!.landmark, C.photos!.animalA, C.photos!.hero] as Photo[]).map((p, i) =>
@@ -713,15 +710,15 @@ function ModularRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
         )}
       </div>
       <Card label={loc.kicker.history} style={{ marginTop: 11 }}>
-        <Prose paras={C.history} cols={2} colBreak young={young} />
+        <Prose paras={C.history} cols={2} colBreak />
       </Card>
-      {!young && <MythBox C={C} style={{ marginTop: 11 }} />}
+      <MythBox C={C} style={{ marginTop: 11 }} />
       <Card label={loc.kicker.wows} style={{ marginTop: 11 }}>
-        <WowList C={C} young={young} />
+        <WowList C={C} />
       </Card>
       <div style={{ marginTop: 11 }}>
         <Tick label={loc.kicker.phrasebook(C.langName)} color="var(--accent)" />
-        <Phrasebook C={C} young={young} />
+        <Phrasebook C={C} />
       </div>
       <div style={{ position: "absolute", right: 26, bottom: 8, opacity: .9 }}><Compass size={56} /></div>
     </FitPage>
@@ -731,7 +728,7 @@ function ModularRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
 /* ══════════════════════ POSTCARD layout ══════════════════════ */
 
 function PostcardLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="left">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -739,24 +736,24 @@ function PostcardLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
       </div>
       <Motif type={C.motif} />
       <PostcardMast C={C} />
-      <div style={{ marginTop: 12 }}><Prose paras={[C.lead]} cols={2} dropcap young={young} /></div>
+      <div style={{ marginTop: 12 }}><Prose paras={[C.lead]} cols={2} dropcap /></div>
       <ExplorerStrip C={C} ctx={ctx} />
       <FactsRibbon C={C} />
       <div style={{ marginTop: 12 }}>
-        <SecHead kicker={loc.kicker.geography} title={C.sections.geography} young={young} />
-        <Prose paras={C.geo} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.geography} title={C.sections.geography} />
+        <Prose paras={C.geo} cols={2} colBreak />
         <IslandChips C={C} />
       </div>
       <div style={{ marginTop: 11 }}>
-        <SecHead kicker={loc.kicker.animals} title={C.sections.animals} young={young} />
-        <Prose paras={C.animals} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.animals} title={C.sections.animals} />
+        <Prose paras={C.animals} cols={2} colBreak />
       </div>
     </FitPage>
   );
 }
 
 function PostcardRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="right">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -770,21 +767,21 @@ function PostcardRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
         <StampPhoto photo={C.photos!.hero} h={94} rot={-1} />
       </div>
       <div style={{ marginTop: 16 }}>
-        <SecHead kicker={loc.kicker.culture} title={C.sections.culture} young={young} />
-        <Prose paras={C.culture} cols={2} young={young} />
+        <SecHead kicker={loc.kicker.culture} title={C.sections.culture} />
+        <Prose paras={C.culture} cols={2} />
       </div>
       <div style={{ marginTop: 11 }}>
-        <SecHead kicker={loc.kicker.history} title={C.sections.history} young={young} />
-        <Prose paras={C.history} cols={2} colBreak young={young} />
+        <SecHead kicker={loc.kicker.history} title={C.sections.history} />
+        <Prose paras={C.history} cols={2} colBreak />
       </div>
-      {!young && <MythBox C={C} style={{ marginTop: 11 }} />}
+      <MythBox C={C} style={{ marginTop: 11 }} />
       <div style={{ marginTop: 11 }}>
-        <SecHead kicker={loc.kicker.wows} title={C.sections.wows} young={young} />
-        <WowList C={C} young={young} />
+        <SecHead kicker={loc.kicker.wows} title={C.sections.wows} />
+        <WowList C={C} />
       </div>
       <div style={{ marginTop: 10 }}>
         <Tick label={loc.kicker.phrasebook(C.langName)} color="var(--accent)" />
-        <Phrasebook C={C} young={young} />
+        <Phrasebook C={C} />
       </div>
       <div style={{ position: "absolute", right: 26, bottom: 8, opacity: .9 }}><Compass size={56} /></div>
     </FitPage>
@@ -794,7 +791,7 @@ function PostcardRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
 /* ══════════════════════ TIMELINE layout ══════════════════════ */
 
 function TimelineLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="left">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -814,21 +811,21 @@ function TimelineLeft({ C, ctx }: { C: Country; ctx: SeriesCtx }) {
       </div>
       <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1.35fr) minmax(0,1.08fr)", gap: 20, marginTop: 13, alignItems: "start" }}>
         <div>
-          <Prose paras={[C.lead]} cols={1} dropcap size={15} young={young} />
+          <Prose paras={[C.lead]} cols={1} dropcap size={15} />
           <ExplorerStrip C={C} ctx={ctx} />
         </div>
         <DataPanel C={C} />
       </div>
       <div style={{ marginTop: 13 }}>
-        <TLEntry n="1" kicker={loc.kicker.geography} title={C.sections.geography}><Prose paras={C.geo} cols={2} colBreak young={young} /><IslandChips C={C} /></TLEntry>
-        <TLEntry n="2" kicker={loc.kicker.animals} title={C.sections.animals} last><Prose paras={C.animals} cols={2} colBreak young={young} /></TLEntry>
+        <TLEntry n="1" kicker={loc.kicker.geography} title={C.sections.geography}><Prose paras={C.geo} cols={2} colBreak /><IslandChips C={C} /></TLEntry>
+        <TLEntry n="2" kicker={loc.kicker.animals} title={C.sections.animals} last><Prose paras={C.animals} cols={2} colBreak /></TLEntry>
       </div>
     </FitPage>
   );
 }
 
 function TimelineRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
-  const { locale: loc, young } = useLang();
+  const { locale: loc } = useLang();
   return (
     <FitPage side="right">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", borderBottom: "2px solid var(--accent)", paddingBottom: 7 }}>
@@ -837,15 +834,15 @@ function TimelineRight({ C, ctx: _ctx }: { C: Country; ctx: SeriesCtx }) {
       </div>
       <Motif type={C.motif} />
       <div style={{ marginTop: 13 }}>
-        <TLEntry n="3" kicker={loc.kicker.culture} title={C.sections.culture}><Prose paras={C.culture} cols={2} young={young} /></TLEntry>
-        <TLEntry n="4" kicker={loc.kicker.history} title={C.sections.history}><Prose paras={C.history} cols={2} colBreak young={young} /></TLEntry>
-        <TLEntry n="5" kicker={loc.kicker.wows} title={C.sections.wows} last><WowList C={C} young={young} /></TLEntry>
+        <TLEntry n="3" kicker={loc.kicker.culture} title={C.sections.culture}><Prose paras={C.culture} cols={2} /></TLEntry>
+        <TLEntry n="4" kicker={loc.kicker.history} title={C.sections.history}><Prose paras={C.history} cols={2} colBreak /></TLEntry>
+        <TLEntry n="5" kicker={loc.kicker.wows} title={C.sections.wows} last><WowList C={C} /></TLEntry>
       </div>
       <div style={{ marginTop: 12 }}><PhotoSlot photo={C.photos!.hero} h={132} rot={-0.6} /></div>
-      {!young && <MythBox C={C} style={{ marginTop: 11 }} />}
+      <MythBox C={C} style={{ marginTop: 11 }} />
       <div style={{ marginTop: 10 }}>
         <Tick label={loc.kicker.phrasebook(C.langName)} color="var(--accent)" />
-        <Phrasebook C={C} young={young} />
+        <Phrasebook C={C} />
       </div>
       <div style={{ position: "absolute", right: 26, bottom: 8, opacity: .9 }}><Compass size={56} /></div>
     </FitPage>
