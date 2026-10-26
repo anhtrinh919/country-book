@@ -12,7 +12,7 @@
 
 ### Round 1 — small fixes: drop French, open pictures, zoom where you point
 
-Status: building
+Status: checking
 Branch: round-1-small-fixes, from main
 Try: desktop wheel-zoom over a corner photo keeps that spot under the cursor; tap any photo, flag, or cover to open it full-screen; tablet pinch zooms where the fingers are; the bottom bar shows EN / VI only
 Bugs: none
