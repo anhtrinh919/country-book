@@ -24,7 +24,7 @@
     "keyColor": "#00387A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Australia is the only country that fills a whole continent. Kangaroos outnumber people here. The oldest living culture on Earth has thrived here for 65,000 years. Desert, reef, and snowy mountains fit on one huge island.",
+  "lead": "Australia is the only country that fills a whole continent. Kangaroos outnumber people here. The oldest living culture on Earth has thrived here for 65,000 years. Desert, reef, and snowy mountains fit on one island.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Wait, really?!"
   },
   "geo": [
-    "Australia is the flattest, driest inhabited continent. The red Outback bakes under a hot sun. In it stands Uluru, a giant rock 348 m tall that glows orange at sunset.",
-    "Around the edges, the land changes. Queensland has rainforest. Snowy Alps rise in the south-east. The Great Barrier Reef stretches 2,300 km, the world's largest living structure."
+    "Australia is the flattest, driest inhabited continent. The red Outback (the dry middle) bakes under the sun. In it stands Uluru, a rock 348 m tall that glows orange at sunset.",
+    "Around the edges, the land changes. Queensland (a state) has rainforest. The Great Barrier Reef stretches 2,300 km, the world's largest living structure."
   ],
   "animals": [
     "Cut off for millions of years, Australia grew its own animals. Kangaroos carry babies in pouches. Wombats make cube-shaped droppings. The platypus has a duck's bill, lays eggs, and senses prey with electricity.",
     "The koala sleeps up to 22 hours a day. The emu is a 1.9 m flightless bird. The inland taipan is the world's most venomous snake."
   ],
   "culture": [
-    "Most Australians live on the coast and treat the beach like a backyard. On Sundays many families have a 'barbie' with snags (sausages).",
-    "Aboriginal cultures share Dreamtime stories, dot painting, and the didgeridoo. Termites hollow out this wind instrument. Vegemite, a salty yeast spread, divides people into fans and horrified first-timers."
+    "Most Australians live on the coast and treat the beach like a backyard. On Sundays many families have a 'barbie' (barbecue) with snags (sausages).",
+    "Aboriginal cultures share Dreamtime stories (how the world began), dot painting, and the didgeridoo. Termites hollow out this wind instrument. Vegemite, a yeast spread, divides people into fans and horrified first-timers."
   ],
   "history": [
     "Aboriginal peoples arrived at least 65,000 years ago. They built trade networks across the continent long before Europeans came.",
-    "British ships founded a penal colony at Sydney Cove in 1788. On 1 January 1901, six colonies united as the Commonwealth of Australia."
+    "British ships founded a prison colony at Sydney Cove in 1788. On 1 January 1901, six colonies united as the Commonwealth of Australia."
   ],
   "wows": [
-    "Australia is a whole continent and a single country, with no land borders.",
-    "You can see the Great Barrier Reef from space.",
-    "Anna Creek cattle station in South Australia is bigger than Israel.",
+    "Australia is the only country that is also a whole continent, with no land borders.",
+    "The Great Barrier Reef is so big you can see it from space with your own eyes.",
+    "Anna Creek, a giant cattle farm in South Australia, is bigger than Israel.",
     "Lake Hillier in Western Australia is naturally pink.",
-    "The Dingo Fence runs about 5,600 km across the country.",
+    "The Dingo Fence, built to keep out wild dogs, runs about 5,600 km.",
     "In 1932, soldiers shot at emus with machine guns, and the emus won.",
     "Canberra was built as capital because Sydney and Melbourne could not agree."
   ],
   "myths": [
     {
       "myth": "Koalas are a kind of bear",
-      "fact": "Koalas are marsupials, not bears. Their babies grow in a pouch."
+      "fact": "Koalas are marsupials (pouch animals), not bears."
     },
     {
       "myth": "Toilets flush the opposite way Down Under",
-      "fact": "The Coriolis effect is far too weak to spin a toilet bowl. Water direction depends on the bowl's shape, not the hemisphere."
+      "fact": "Earth's spin is far too weak to turn a toilet bowl. Bowl shape decides the swirl, not your side of the world."
     }
   ],
   "words": [

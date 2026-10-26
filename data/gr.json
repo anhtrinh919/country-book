@@ -24,7 +24,7 @@
     "keyColor": "#0D5EAF",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Greece juts into the Mediterranean Sea. Ancient temples crown its rocky hills. Dolphins leap beside the ferries. It gave the world the Olympics, democracy and the alphabet. Thousands of islands dot its three seas.",
+  "lead": "Greece juts into the Mediterranean Sea. Ancient temples crown its rocky hills. Dolphins leap beside the ferries. It gave the world the Olympics, democracy (voting for leaders) and the alphabet. Thousands of islands dot its three seas.",
   "facts": [
     {
       "label": "Capital",
@@ -77,29 +77,29 @@
     "Greece has up to 6,000 islands, but only about 227 have people. Its coastline is 13,676 km long, the 11th longest on Earth."
   ],
   "animals": [
-    "The Mediterranean monk seal is one of Earth's rarest mammals. About 900 are left. The Sporades islands are their last great stronghold.",
-    "Loggerhead turtles crawl onto Zakynthos beach each summer to lay eggs. It is the same beach their great-grandmothers used. Greece has over 3,000 nests a year."
+    "The Mediterranean monk seal is one of Earth's rarest mammals. About 900 are left. The Sporades islands are their last great safe home.",
+    "Loggerhead turtles crawl onto Zakynthos island beach each summer to lay eggs. It is the same beach their great-grandmothers used. Greece has over 3,000 nests a year."
   ],
   "culture": [
     "Easter is bigger than Christmas in Greece. At midnight on Holy Saturday, bells ring and fireworks crack. The priest shouts 'Christos Anesti!', meaning Christ is risen.",
     "A taverna meal lasts for hours, with small plates called mezedes and bread dipped in olive oil. Greeks eat more olive oil per person than anyone on Earth."
   ],
   "history": [
-    "Ancient Athens invented democracy around 508 BC. Male citizens voted in a public assembly. The city also gave us Socrates, Plato and Aristotle.",
-    "Greece spent centuries under Byzantine and then Ottoman rule. It won independence in an eight-year war. Every 25 March, parades and blue-and-white flags fill the squares."
+    "Ancient Athens invented democracy around 508 BC. Male citizens voted in a public assembly. The city also gave us the thinkers Socrates, Plato and Aristotle.",
+    "Greece spent centuries under Byzantine (Roman) and then Ottoman (Turkish) rule. It won independence in an eight-year war. Every 25 March, parades and blue-and-white flags fill the squares."
   ],
   "wows": [
     "Greek has been spoken for over 3,000 years without a break.",
-    "Greece has more archaeological museums than any other country.",
+    "Greece has more ancient-finds museums than any other country.",
     "The first Olympic Games took place at Olympia in 776 BC.",
     "No place in Greece is farther than 137 km from the sea.",
-    "The word 'alphabet' comes from alpha and beta.",
-    "Greeks work about 1,900 hours a year, the longest in the EU.",
-    "Santorini's volcano erupted around 1600 BC and may have inspired Atlantis."
+    "The word 'alphabet' comes from the Greek letters alpha and beta.",
+    "Greek workers work about 1,900 hours a year, the longest in the European Union.",
+    "Santorini island's volcano erupted around 1600 BC and may have inspired the Atlantis legend."
   ],
   "myths": [
     {
-      "myth": "Pandora opened a box of evil",
+      "myth": "In myths, Pandora opened a box of evil",
       "fact": "She really opened a big clay jar called a pithos. A scholar named Erasmus wrote 'box' by mistake in the 1500s, and it stuck."
     },
     {

@@ -24,7 +24,7 @@
     "keyColor": "#1DA354",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Tanzania is in East Africa. Africa's highest peak rises here, with snow on top. Millions of wildebeest run across golden plains. A spice island, Zanzibar, floats in a turquoise sea.",
+  "lead": "Tanzania is in East Africa. Africa's highest peak rises here, with snow on top. Millions of wildebeest (big antelopes) run across golden plains. A spice island, Zanzibar, floats in a turquoise sea.",
   "facts": [
     {
       "label": "Capital",
@@ -73,34 +73,34 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Tanzania sits on a high plateau with volcanoes and glittering lakes. The Great Rift Valley made Lake Tanganyika, the world's longest freshwater lake. Four Eiffel Towers could stack inside it.",
-    "Mount Kilimanjaro rises 5,895 m. Snow covers its top. It is the tallest free-standing mountain on Earth. Nearly 30% of Tanzania is national park."
+    "Tanzania sits on a high plateau with volcanoes and lakes. The Great Rift Valley, a giant crack in the land, made Lake Tanganyika, the world's longest freshwater lake. Four Eiffel Towers could stack inside it.",
+    "Mount Kilimanjaro rises 5,895 m. It is the tallest free-standing mountain on Earth, not part of any mountain chain. Nearly 30% of Tanzania is national park."
   ],
   "animals": [
     "Every year, over 1.5 million wildebeest cross the Serengeti. Zebras and gazelles go with them. It is the biggest land animal journey on Earth.",
     "The Maasai giraffe is Tanzania's national animal. It is the tallest animal alive. Lions, elephants, and over 1,100 kinds of birds live here too."
   ],
   "culture": [
-    "More than 120 ethnic groups live in Tanzania. Swahili, a mix of Bantu and Arabic, joins them all. On Zanzibar, cloves and cinnamon still scent the air.",
-    "Maasai warriors dance with high leaps. Ugali is the everyday food. It is a firm maize porridge. People scoop it up with stew, beans, or fish."
+    "More than 120 ethnic groups live in Tanzania. Swahili, a language mixing Bantu (African) and Arabic words, joins them all. On Zanzibar, cloves and cinnamon scent the air.",
+    "Maasai warriors dance with high leaps. Ugali, the everyday food, is a firm porridge of maize (corn). People scoop it up with stew, beans, or fish."
   ],
   "history": [
-    "Early humans left footprints in volcanic ash at Laetoli 3.6 million years ago. Arab and Persian traders settled the coast from the 8th century. They built Stone Town.",
-    "On 9 December 1961, Julius Nyerere led Tanganyika to independence. In 1964, Tanganyika and Zanzibar joined to make Tanzania. Nyerere pushed Swahili to unite hundreds of tribes."
+    "Early humans left footprints in volcanic ash at Laetoli 3.6 million years ago. Arab and Persian traders settled the coast from the 8th century. They built Stone Town, a historic city on Zanzibar.",
+    "On 9 December 1961, Julius Nyerere, the first leader, led Tanganyika (the mainland) to independence. In 1964, Tanganyika and Zanzibar joined to make Tanzania. Nyerere pushed Swahili to unite hundreds of tribes."
   ],
   "wows": [
-    "Ngorongoro is the world's biggest unbroken volcanic crater.",
+    "Ngorongoro is the world's biggest unbroken volcanic crater, 20 km wide, with 25,000 large animals.",
     "Footprints of human ancestors from 3.6 million years ago survive at Laetoli.",
-    "Freddie Mercury of Queen was born in Zanzibar in 1946.",
+    "Freddie Mercury, lead singer of Queen, was born in Zanzibar in 1946.",
     "Lake Tanganyika holds 16% of Earth's surface fresh water.",
-    "Tanzania has more UNESCO sites than any other East African country.",
+    "Tanzania has more UNESCO World Heritage Sites (protected places) than any other East African country.",
     "Wildebeest walk 800 km every year without a map.",
-    "Kilimanjaro's glaciers have shrunk 80% since 1912."
+    "Kilimanjaro's glaciers have shrunk 80% since 1912 and may vanish by 2050."
   ],
   "myths": [
     {
       "myth": "Giraffes have extra neck bones",
-      "fact": "A giraffe has just seven neck bones, like you. Each bone is much, much longer."
+      "fact": "A giraffe has just seven neck bones, like you. Each bone is much longer."
     },
     {
       "myth": "Lions live in the jungle",

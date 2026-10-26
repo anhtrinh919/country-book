@@ -73,29 +73,29 @@
     "wows": "Seven surprising facts"
   },
   "geo": [
-    "Madagascar lies 400 km off the coast of Africa. Rainforest covers the east. The dry west has giant baobabs and sharp limestone towers called tsingy.",
+    "Madagascar lies 400 km off the coast of Africa. Rainforest covers the east. The dry west has giant baobab trees and sharp limestone towers called tsingy.",
     "The south is almost desert. Red soil gives Madagascar the nickname Great Red Island. Humpback whales breed in the warm sea each winter."
   ],
   "animals": [
-    "Over 100 kinds of lemur live here. The mouse lemur weighs just 30 grams, the smallest primate on Earth. The indri's wail echoes for kilometres.",
-    "The fossa looks like a small puma but is kin to the mongoose. Half the world's chameleons live here, including the thumbnail-sized Brookesia micra."
+    "Over 100 kinds of lemur, furry tree climbers, live here. The mouse lemur weighs just 30 grams, the smallest primate on Earth. The wail of the indri, a large lemur, echoes for kilometres.",
+    "The fossa, the island's top hunter, looks like a small puma but is kin to the mongoose. Half the world's chameleons live here, including the thumbnail-sized Brookesia micra."
   ],
   "culture": [
     "Malagasy people honour their ancestors, called razana. In the famadihana, families lift the bones, wrap them in fresh silk and dance with them.",
-    "Rice is sacred. People eat it three times a day. The national dish, romazava, is a zebu-beef stew with wild greens. Zebu cattle appear in every ceremony."
+    "Rice is sacred. People eat it three times a day. The national dish, romazava, is a stew of zebu (humped cattle) beef and wild greens. Zebu appear in every ceremony."
   ],
   "history": [
-    "Sailors from Indonesia crossed 6,000 km of ocean and settled here about 2,000 years ago. Bantu farmers came later. By the 1700s the Merina kingdom ruled much of the island.",
-    "France took over in 1896 and ended the monarchy. A fierce uprising in 1947 killed tens of thousands. Madagascar became independent on 26 June 1960."
+    "Sailors from Indonesia crossed 6,000 km of ocean and settled here about 2,000 years ago. Bantu farmers came later. By the 1700s the highland Merina kingdom ruled much of the island.",
+    "France took over in 1896 and ended the queen's rule. A fierce uprising in 1947 killed tens of thousands. Madagascar became independent on 26 June 1960."
   ],
   "wows": [
-    "Madagascar grows about 80% of the world's vanilla, yet is very poor.",
+    "Madagascar grows about 80% of the world's vanilla, yet is one of the world's poorest countries.",
     "The first settlers came from Indonesia, not nearby Africa.",
-    "About 59 chameleon species live nowhere else on Earth.",
-    "Animals shelter inside tsingy spires, safe from human hunters.",
-    "Malagasy is closer to Malay than to Swahili.",
+    "About 59 chameleon species, nearly half of all kinds, live only in Madagascar.",
+    "Animals shelter inside razor-sharp tsingy spires, safe from human hunters.",
+    "Malagasy is closer to Malay (Malaysia) than to Swahili (East Africa).",
     "No zoo has kept an indri alive for long.",
-    "Fady are family taboos: one bans eel, another bans facing north at meals."
+    "Each family has fady (things never to do): one never eats eel, another never faces north at meals."
   ],
   "myths": [
     {
@@ -104,7 +104,7 @@
     },
     {
       "myth": "Lemurs are monkeys",
-      "fact": "Lemurs are an older branch of primates. They split off before monkeys appeared."
+      "fact": "Lemurs are an older branch of the primates, the group with monkeys and apes. They split off before monkeys appeared."
     }
   ],
   "words": [

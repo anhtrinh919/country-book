@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Austria is a small, landlocked country in the heart of Europe, ringed by the towering Alps. It once ruled a grand empire. Today it is famous for mountains, concert halls, and apple strudel.",
+  "lead": "Austria is a small country in the heart of Europe, ringed by the Alps. It once ruled a grand empire. Today it is famous for mountains, concert halls, and apple strudel.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "7 things to make you go WOW"
   },
   "geo": [
-    "The Alps cover almost all of Austria, with snow-capped peaks, green valleys, and glacial lakes. The Danube River, made famous by a waltz, flows through the north and past Vienna.",
-    "In the east the land flattens into the Vienna Basin, where most Austrians live and farm. Austria shares borders with eight countries, more than almost any nation its size."
+    "The Alps cover almost all of Austria, with snow-capped peaks, green valleys, and lakes. The Danube River, made famous by a waltz, flows through the north and past Vienna, the capital.",
+    "In the east the land flattens into the Vienna Basin. Austria shares borders with eight countries, more than almost any nation its size."
   ],
   "animals": [
-    "The chamois, a sure-footed mountain antelope, leaps between rocky ledges. The ibex has enormous curved horns. Golden eagles soar overhead.",
-    "In the forests below, red deer, brown bears, and lynx roam quietly. White Lipizzan horses, famous for their dancing displays, were bred in Austria."
+    "The chamois, a mountain antelope, leaps between rocky ledges. The ibex, a wild goat, has curved horns.",
+    "In the forests below, red deer, brown bears, and lynx roam quietly. White Lipizzan horses were bred in Austria."
   ],
   "culture": [
-    "Austria gave the world great composers. Mozart was born in Salzburg, and the Strauss family invented the waltz. Vienna's concert halls sell out every night.",
-    "Austrians take coffee seriously. In a Viennese coffeehouse, people linger over a Melange and a slice of Sachertorte. UNESCO lists this café culture as heritage."
+    "Austria gave the world composers. Mozart was born in Salzburg, and the Strauss family invented the waltz. Vienna's concert halls sell out every night.",
+    "Austrians take coffee seriously. In a Viennese coffeehouse, people linger over a Melange (milky coffee) and a slice of Sachertorte (chocolate cake). UNESCO lists this café culture as world heritage."
   ],
   "history": [
-    "Austria was the heartland of the Habsburg dynasty. It ruled a vast empire in Central Europe for over 600 years.",
-    "After World War I the empire collapsed and Austria became a republic. Nazi Germany took it in 1938, and it was liberated in 1945. In 1955 Austria declared permanent neutrality, a promise it still keeps."
+    "Austria was the heartland of the Habsburgs, a ruling family. They ruled a vast empire in Central Europe for over 600 years.",
+    "After World War I the empire collapsed and Austria became a republic (no emperor). Nazi Germany took it in 1938, and it was liberated in 1945. In 1955 Austria promised permanent neutrality (taking no side in wars). It still keeps that promise."
   ],
   "wows": [
-    "Mozart wrote his first symphony aged eight, in London, on a family tour.",
-    "Vienna's bakers made the kipferl, the crescent roll behind the croissant.",
+    "Mozart wrote his first symphony aged eight, in London, not Salzburg.",
+    "Vienna's bakers made the kipferl, the crescent roll behind the croissant that France made famous.",
     "Vienna's New Year's Concert is broadcast to over 150 countries every 1 January.",
-    "The Großglockner High Alpine Road passes through four climate zones.",
+    "The Großglockner High Alpine Road climbs so steeply that drivers cross four climate zones.",
     "Austria is one of the top nations for Winter Olympic medals per person.",
     "Vienna's Spanish Riding School has trained Lipizzan horses the same way for over 450 years.",
-    "Red Bull was invented in Austria in 1987, inspired by a drink from Thailand."
+    "The Red Bull energy drink was invented in Austria in 1987, inspired by a drink from Thailand."
   ],
   "myths": [
     {

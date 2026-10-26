@@ -24,7 +24,7 @@
     "keyColor": "#3E6EB0",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Eswatini is a small kingdom between South Africa and Mozambique. It has no coast. You could drive across it in two hours. It has tall mountains, wildlife plains and royal traditions. The king's family has led the Swazi for over 200 years.",
+  "lead": "Eswatini is a small kingdom between South Africa and Mozambique. It has no coast. You could drive across it in two hours. The king's family has led the Swazi (the people of Eswatini) for over 200 years.",
   "facts": [
     {
       "label": "Capital",
@@ -72,34 +72,34 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Eswatini slopes down from cool mountains in the west to hot, flat savanna in the east. Malolotja Falls plunge 89 metres. Four zones fit into one tiny country.",
+    "Eswatini slopes down from cool mountains in the west to hot, flat savanna in the east. Malolotja Falls plunge 89 metres.",
     "The Ezulwini Valley means 'Place of Heaven'. It holds the royal palace and parliament. Nearby, Sibebe Rock is a granite dome three billion years old."
   ],
   "animals": [
-    "Hlane Royal National Park shelters white rhinos, elephants, lions, giraffes and hippos. Rangers guard the rhinos closely. This makes Eswatini a rhino success story.",
-    "The rare blue swallow breeds here. Over 500 bird species have been recorded. Impala, kudu and zebra graze the plains."
+    "Hlane Royal National Park shelters white rhinos, elephants, lions, giraffes and hippos. Rangers guard the rhinos closely, making Eswatini one of southern Africa's rhino success stories.",
+    "Eswatini is one of Africa's few breeding sites for the rare blue swallow. Over 500 bird species have been recorded."
   ],
   "culture": [
-    "Every August, up to 40,000 unmarried girls gather for the Umhlanga Reed Dance. Each girl cuts a tall reed and gives it to the Queen Mother. Then they dance in beaded costumes.",
+    "Every August, up to 40,000 unmarried girls gather for the Umhlanga Reed Dance. Each girl cuts a reed and gives it to the Queen Mother, the king's mother. Then they dance in beaded costumes.",
     "Each December, the Incwala ceremony renews the king's power with six days of ancient songs. Swazi craftspeople make woven baskets and hand-poured candles sold worldwide."
   ],
   "history": [
     "The Swazi kingdom took shape in the mid-1700s under King Ngwane III. King Mswati II grew it so large that the people took his name. British protection began in the 1890s. Independence came in 1968.",
-    "In 2018, King Mswati III renamed Swaziland as Eswatini, meaning 'Land of the Swazis'. It was the 50th independence anniversary. He is Africa's only remaining absolute monarch."
+    "In 2018, King Mswati III renamed Swaziland as Eswatini, meaning 'Land of the Swazis'. It was the 50th independence anniversary. He is Africa's only remaining absolute monarch, a king with full power."
   ],
   "wows": [
     "Eswatini is Africa's last absolute monarchy. The king holds full power.",
     "Sibebe Rock is 3 billion years old, one of Earth's largest granite domes.",
-    "Tiny Malolotja reserve is a rare breeding site for the blue swallow.",
-    "Eswatini is Taiwan's only official ally in Africa.",
-    "The lilangeni is pegged 1:1 to the South African rand.",
-    "Eswatini is Africa's 4th-biggest sugar producer, yet smaller than Wales.",
-    "Up to 40,000 people join the Umhlanga Reed Dance each year."
+    "Malolotja reserve is one of the few African breeding sites for the blue swallow.",
+    "Eswatini is the only African country with official ties to Taiwan, an island in Asia.",
+    "Eswatini's money, the lilangeni, is worth exactly the same as South Africa's rand.",
+    "Eswatini is Africa's 4th-biggest sugar producer, yet smaller than Wales, part of Britain.",
+    "Up to 40,000 people join the Umhlanga Reed Dance, one of Africa's biggest gatherings."
   ],
   "myths": [
     {
       "myth": "Eswatini is Africa's only kingdom",
-      "fact": "Lesotho and Morocco are kingdoms too. Lesotho is even surrounded entirely by South Africa."
+      "fact": "Lesotho and Morocco are kingdoms too."
     },
     {
       "myth": "A rhino's horn is made of bone",

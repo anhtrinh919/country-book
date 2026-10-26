@@ -24,7 +24,7 @@
     "keyColor": "#1b3a7a",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Liechtenstein is one of the world's tiniest countries, between Switzerland and Austria. A real prince lives in a hilltop castle. It has soaring Alpine peaks, no army and no airport. It also has famous stamps.",
+  "lead": "Liechtenstein is one of the world's tiniest countries, between Switzerland and Austria. A real prince lives in a hilltop castle. It has soaring Alpine peaks, no army and no airport.",
   "facts": [
     {
       "label": "Capital",
@@ -77,25 +77,25 @@
     "The flat Rhine valley gives way to steep forests, alpine meadows and snowy peaks. The lowest point is the Rhine at 430 m. The highest is Grauspitz at 2,599 m."
   ],
   "animals": [
-    "Chamois, nimble goat-like animals, leap between cliffs on the Alpine slopes. Ibex, whistling marmots and red deer live here too. Marmots fatten up for winter.",
-    "Golden eagles circle on broad wings above the treeline. Over 150 bird species have been recorded here. In autumn, cattle wearing flowers parade down from summer pastures in the Alpabzug."
+    "Chamois, nimble goat-like animals, leap between cliffs on the Alpine slopes. Ibex (wild goats), whistling marmots (big ground squirrels) and red deer live here too.",
+    "Golden eagles circle on broad wings above the mountain forests. In autumn, cattle wearing flowers parade down from summer pastures. This is the Alpabzug."
   ],
   "culture": [
-    "Liechtensteiners speak an Alemannic German dialect. On National Day, 15 August, the Prince opens his castle gates. He invites every citizen to a garden party.",
-    "In autumn, people harvest grapes for Pinot Noir on sunny Rhine valley slopes. This is called Wimmlete. Operetta societies in Balzers and Vaduz have staged musicals for over 80 years."
+    "Liechtensteiners speak an Alemannic German dialect (a local way of speaking German). On National Day, 15 August, the Prince hosts a garden party for every citizen.",
+    "In autumn, people harvest grapes for Pinot Noir wine on sunny Rhine valley slopes."
   ],
   "history": [
-    "The principality began on 23 January 1719. Holy Roman Emperor Charles VI united tiny Vaduz and Schellenberg. He named them after the Liechtenstein family.",
-    "Napoleon ended the Holy Roman Empire in 1806. Liechtenstein joined his Rhine Confederation. Full independence came in 1866. The country abolished its tiny army in 1868 and has stayed neutral."
+    "The principality began on 23 January 1719. Holy Roman Emperor Charles VI, a ruler of central Europe, united tiny Vaduz and Schellenberg. He named them after the Liechtenstein family.",
+    "French ruler Napoleon ended the Holy Roman Empire in 1806. Full independence came in 1866. The country abolished its tiny army in 1868 and has stayed neutral (taking no side in wars)."
   ],
   "wows": [
-    "Liechtenstein and Uzbekistan are the only doubly landlocked countries.",
-    "Its 10 Olympic medals are all in Alpine skiing.",
-    "The Princely House is said to be Europe's wealthiest royal family.",
+    "Liechtenstein and Uzbekistan are the only doubly landlocked countries: all their neighbours have no coast too.",
+    "Its 10 Olympic medals, all in Alpine skiing, are the most per person of any country.",
+    "The Princely House is said to be Europe's wealthiest royal family, worth around $5 billion.",
     "Liechtenstein has no airport, so visitors arrive by road or train.",
     "Postage stamps are a real export, and collectors hunt them worldwide.",
     "In 1936, officials saw their flag matched Haiti's and added a gold crown.",
-    "Seven of the 10 medals came from one family, the Wenzels."
+    "Seven of 10 Olympic medals came from one family: siblings Hanni and Andreas Wenzel, plus Hanni's daughter."
   ],
   "myths": [
     {

@@ -13,7 +13,7 @@
     "keyColor": "#EF3340",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "The UAE is a hot land on the Arabian Gulf. Golden dunes sit beside the world's tallest skyscrapers. Seven kingdoms joined to make one country in 1971. Camels share roads with supercars. Falcons fly over cities that glow in the desert night.",
+  "lead": "The UAE is a hot land on the Arabian Gulf. Golden dunes sit beside the world's tallest skyscrapers. Seven kingdoms joined to make one country in 1971. Camels share roads with supercars.",
   "facts": [
     {
       "label": "Capital",
@@ -62,29 +62,29 @@
     "wows": "Hard to believe, but true!"
   },
   "geo": [
-    "The UAE sits between two seas, the calm Arabian Gulf and the wilder Gulf of Oman. Most of it is flat desert. Dunes grow taller than a ten-storey building. Summer heat can reach 50°C.",
-    "The rocky Hajar Mountains rise in the east. Wadis (dry riverbeds) flash-flood after rare rains. Abu Dhabi sits on an island, and Dubai stretches along the coast."
+    "The UAE sits between two seas, the Arabian Gulf and the Gulf of Oman. Most of it is flat desert. Dunes can grow taller than a ten-storey building. Summer heat can reach 50°C.",
+    "The Hajar Mountains rise in the east. Wadis (dry riverbeds) flash-flood after rare rains."
   ],
   "animals": [
-    "The peregrine falcon is the UAE's favourite animal. Falconers train these swift hunters. They dive at over 300 km/h.",
-    "Arabian camels once carried everything across the desert. Today they race on special tracks, with robot jockeys! Dugongs, whale sharks, and hawksbill turtles swim in the warm Gulf."
+    "The peregrine falcon is the UAE's favourite animal. Falconers (bird trainers) train these hunters. They dive at over 300 km/h.",
+    "Arabian camels once carried everything across the desert. Today they race on tracks, with robot jockeys! Dugongs (sea cows), whale sharks, and hawksbill turtles swim in the Gulf."
   ],
   "culture": [
-    "A guest is always offered qahwa (cardamom coffee) and sweet dates. Refusing is rude! Men wear a white kandura and women a black abaya, even inside glass skyscrapers.",
-    "Huge TV poetry slams draw millions of viewers. Souqs (markets) buzz with spices and gold. Wooden dhows, once used for pearl diving, still sail at heritage festivals."
+    "A guest is always offered qahwa (cardamom coffee) and dates. Traditional dress is a white kandura robe for men and a black abaya cloak for women, even inside glass skyscrapers.",
+    "TV poetry slams draw millions of viewers. Souqs (markets) buzz with spices and gold. Dhow boats, once used for pearl diving, still sail at heritage festivals."
   ],
   "history": [
-    "For thousands of years, Bedouin tribes herded camels here. Coastal people dived for pearls sold as far as India and Europe. Cheap Japanese cultured pearls nearly ruined that trade in the early 1900s.",
-    "Oil was found in Abu Dhabi in 1958. Seven sheikhdoms became the UAE on 2 December 1971. In 50 years, mud-brick villages grew into modern cities."
+    "For thousands of years, Bedouin desert tribes herded camels here. Coastal people dived for pearls sold as far as India and Europe. Cheap farmed pearls from Japan nearly ruined that trade in the early 1900s.",
+    "Oil was found in Abu Dhabi in 1958. Seven sheikhdoms (lands led by sheikhs) became the UAE on 2 December 1971. In 50 years, mud-brick villages grew into modern cities."
   ],
   "wows": [
     "The Burj Khalifa is 828 m tall, the tallest building on Earth.",
     "Palm Jumeirah is a palm-shaped island made from 94 million m³ of Gulf sand.",
-    "The UAE reached Mars on its very first try, in 2021.",
-    "Abu Dhabi's Louvre is the first universal art museum in the Arab world.",
-    "The UAE has no personal income tax.",
+    "The UAE reached Mars on its first try in 2021; only four other nations had.",
+    "Abu Dhabi's Louvre, inspired by Paris's, is the Arab world's first museum of art from everywhere.",
+    "The UAE charges no personal income tax, so people keep all their pay.",
     "Emirati falcons carry official passports for trips abroad.",
-    "Ski Dubai has real snow inside a mall."
+    "Ski Dubai has real snow inside a mall, in one of Earth's hottest countries."
   ],
   "myths": [
     {

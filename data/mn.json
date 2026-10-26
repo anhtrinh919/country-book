@@ -2,7 +2,7 @@
   "name": "MONGOLIA",
   "nativeName": "ᠮᠣᠩᠭᠣᠯ",
   "romaji": "MONGOL ULS",
-  "tagline": "Land of sky & endless steppe",
+  "tagline": "Land of sky & endless grass",
   "region": "East Asia",
   "coords": "47°N · 106°E",
   "fileNo": "076",
@@ -13,7 +13,7 @@
     "keyColor": "#C4272F",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Mongolia is a huge land between Russia and China. Families live in round felt tents called gers. Children ride horses before they can read. Genghis Khan rode out from here 800 years ago and built the biggest land empire ever.",
+  "lead": "Mongolia is a huge land between Russia and China. Families live in round felt tents called gers. Children ride horses before they can read. The warrior Genghis Khan rode out from here 800 years ago and built the biggest land empire ever.",
   "facts": [
     {
       "label": "Capital",
@@ -62,12 +62,12 @@
     "wows": "Wow! Did you know?"
   },
   "geo": [
-    "Mongolia sits on a high plateau, over 1,500 m above sea level. Winters are fierce. It can drop to −40 °C, cold enough to freeze your breath in mid-air.",
+    "Mongolia sits on high flat land, most of it over 1,500 m above sea level. Winters are fierce. It can drop to −40 °C, cold enough to freeze your breath in mid-air.",
     "The Gobi Desert in the south is mostly bare gravel and rock, not sand. Dinosaur eggs 70 million years old lie hidden there."
   ],
   "animals": [
     "The takhi, or Przewalski's horse, is the only truly wild horse left. It vanished from the wild by the 1960s. Zoos bred it, and herds now gallop free again.",
-    "Kazakh hunters train golden eagles with two-metre wingspans. Each autumn they race their birds at the Golden Eagle Festival in Ölgii."
+    "Kazakh hunters (a people of western Mongolia) train golden eagles with two-metre wingspans. Each autumn they race their birds at the Golden Eagle Festival in Ölgii."
   ],
   "culture": [
     "A ger packs onto a camel in one hour and rebuilds in another. Inside, a small stove burns dried dung for warmth.",
@@ -75,16 +75,16 @@
   ],
   "history": [
     "In 1206 Temüjin united the Mongol tribes and became Genghis Khan, or 'universal ruler'. His armies galloped from the Pacific to the edge of Europe.",
-    "China's Qing rulers held Mongolia for 200 years. In 1921 it became one of the world's first socialist states. It has been a democracy since 1990."
+    "China's Qing rulers (its last emperors) held Mongolia for 200 years. In 1921 it became one of the world's first socialist states (run by the state). It has been a democracy (people vote for leaders) since 1990."
   ],
   "wows": [
     "Mongolia has just 2 people per km², the fewest of any country.",
-    "The Mongol Empire was the largest land empire in history.",
+    "The Mongol Empire of the 1200s was the largest unbroken land empire in history.",
     "Mongolia has over 4 million horses, more than it has people.",
     "The first dinosaur eggs ever found came from the Gobi in 1923.",
     "Ulaanbaatar is the coldest capital on Earth, at −1.3 °C on average.",
     "Throat singers called khoomii sing two notes at once.",
-    "Traditional Mongolian script runs top to bottom."
+    "Traditional Mongolian script runs top to bottom, one of few scripts still written that way."
   ],
   "myths": [
     {

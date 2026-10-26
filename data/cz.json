@@ -24,7 +24,7 @@
     "keyColor": "#D7141A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Czechia is in the middle of Europe. Germany, Austria, Slovakia and Poland surround it, so it has no sea. It has fairy-tale castles and golden beer. Prague is one of Earth's best-kept medieval cities.",
+  "lead": "Czechia is in the middle of Europe. Germany, Austria, Slovakia and Poland surround it, so it has no sea. Prague is one of Earth's best-kept old cities.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Gentle mountains ring the country. The west has rolling Bohemian hills. The east has Moravia's flat plains, with vineyards and folk festivals.",
-    "The Vltava River winds 430 km through Czechia, under Prague's famous bridges. Then it joins the Elbe. Pine forests cover the Šumava mountains. Wolves, lynx and otters live there."
+    "Gentle mountains ring the country. The west is Bohemia, with rolling hills. The east is Moravia, with flat plains, vineyards and folk festivals.",
+    "The Vltava River winds 430 km through Czechia, under Prague's famous bridges. Pine forests cover the Šumava mountains."
   ],
   "animals": [
-    "The Eurasian lynx is a spotted wildcat the size of a labrador. Hunters wiped it out. People brought it back to the Šumava forest in the 1980s. Around 60 now live in the Bohemian hills.",
-    "Red deer bellow in misty autumn valleys. White-tailed eagles soar over South Bohemia's fishponds. The great bustard, Europe's heaviest flying bird, still strolls across Moravian fields."
+    "The Eurasian lynx is a spotted wildcat as big as a labrador. Hunters wiped it out, but people brought it back in the 1980s. Around 60 now live in the Bohemian hills.",
+    "Red deer bellow in misty autumn valleys. The great bustard, Europe's heaviest flying bird, still strolls across Moravian fields."
   ],
   "culture": [
-    "Czechs drink more beer per person than anyone on Earth, about 150 litres a year. Pilsen invented pale lager in 1842. The Pilsner Urquell brewery still makes it there.",
-    "Marionettes (string puppets) are an old Czech art. Wooden puppets perform whole operas. Every Christmas Eve, families watch fairy-tale films together."
+    "Czechs drink more beer per person than anyone on Earth, about 150 litres a year. Pilsen invented golden lager in 1842. The Pilsner Urquell brewery still makes it there.",
+    "Marionettes (string puppets) are an old Czech art. They perform whole operas. On Christmas Eve, families watch fairy-tale films together."
   ],
   "history": [
-    "Bohemia was the heart of the Holy Roman Empire under Charles IV. He founded Central Europe's first university in 1348. He also built Charles Bridge in 1357.",
-    "In 1968, Soviet tanks crushed the Prague Spring reforms. In 1989, students filled Wenceslas Square. After 43 days of peaceful protest, communist rule ended without a shot. This was the Velvet Revolution."
+    "Bohemia was the heart of the Holy Roman Empire, a union of lands, under King Charles IV. He founded Central Europe's first university in 1348 and built Charles Bridge in 1357.",
+    "In 1968, Soviet tanks crushed the Prague Spring, a time of new freedoms. In 1989, students filled Wenceslas Square. After 43 days of peaceful protest, one-party communist rule ended without a shot. This was the Velvet Revolution."
   ],
   "wows": [
-    "Czechia has over 2,000 castles and châteaux.",
-    "Prague Castle is the world's largest ancient castle complex, at nearly 70,000 square metres.",
-    "Karel Čapek invented the word 'robot' in his 1920 play R.U.R.",
-    "Otto Wichterle invented soft contact lenses at home, on Christmas Day 1961.",
-    "Czechs have drunk the most beer per person every year since 1993.",
-    "Jan Jánský first fully sorted blood into ABO types in 1907.",
-    "Czechia has 16 UNESCO World Heritage Sites."
+    "Czechia has over 2,000 castles and country palaces, more than almost any European country.",
+    "Prague Castle is the world's largest ancient castle site, at nearly 70,000 square metres.",
+    "Czech writer Karel Čapek invented the word 'robot' in his 1920 play R.U.R.",
+    "Czech scientist Otto Wichterle made the first soft contact lenses at home, on Christmas Day 1961.",
+    "Czechs have drunk the world's most beer per person every year since 1993.",
+    "Czech doctor Jan Jánský first fully sorted blood into A, B, AB and O groups in 1907.",
+    "Czechia has 16 UNESCO World Heritage Sites, packed into a country smaller than Austria."
   ],
   "myths": [
     {
       "myth": "Czech Republic and Czechoslovakia are the same",
-      "fact": "Czechoslovakia split peacefully on 1 January 1993. Czechia and Slovakia became two countries."
+      "fact": "Czechoslovakia split peacefully on 1 January 1993, into Czechia and Slovakia."
     },
     {
       "myth": "Prague is in Eastern Europe",
-      "fact": "Prague is farther west than Vienna. 'Eastern Europe' was a Cold War label, not a map fact."
+      "fact": "Prague is farther west than Vienna. 'Eastern Europe' was a political label, not a map fact."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#1A7A3C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Mali is a huge country with no coast. The Niger River curves along the edge of the Sahara. Mud-brick mosques rise like sandcastles. Griots keep old tales alive with kora harps and talking drums.",
+  "lead": "Mali is a huge country with no coast. The Niger River curves along the edge of the Sahara. Mud-brick mosques rise like sandcastles. Griots (singing storytellers) keep old tales alive with kora harps and talking drums.",
   "facts": [
     {
       "label": "Capital",
@@ -74,27 +74,27 @@
   },
   "geo": [
     "Two-thirds of Mali is Sahara Desert, where heat can top 45 °C. The Niger River floods farms every year and feeds millions with fish and rice.",
-    "The Sahel grassland crosses the south and turns green after rains. The Bandiagara Cliffs rise 500 m. The Dogon people have carved villages into them for nearly a thousand years."
+    "The Sahel (a dry grassland) crosses the south and turns green after rains. The Bandiagara Cliffs rise 500 m. The Dogon people have carved villages into them for nearly a thousand years."
   ],
   "animals": [
-    "Hippos and Nile crocodiles rest on the banks of the Niger. African manatees glide through quiet backwaters.",
-    "Fennec foxes with huge ears live in the north. Rare West African giraffes wander near the Niger's inland delta."
+    "Hippos and Nile crocodiles rest on the banks of the Niger. African manatees (slow, whiskered swimmers) glide through quiet backwaters.",
+    "Fennec foxes with huge ears live in the north. Rare West African giraffes wander near the Niger's inland delta (a huge wetland)."
   ],
   "culture": [
     "A griot is a musician, historian and storyteller in one. Griots play the kora, a 21-string harp-lute made from a gourd.",
-    "The Great Mosque of Djenné is the world's largest mud-brick building. The whole town replasters it after every rainy season."
+    "The Great Mosque of Djenné is the world's largest mud-brick building. The whole town replasters it with fresh mud after every rainy season."
   ],
   "history": [
-    "Around 1300 CE the Mali Empire ruled land bigger than Western Europe. Emperor Mansa Musa may be the wealthiest person ever. In 1324 he made a pilgrimage with 12,000 servants and tonnes of gold.",
-    "Timbuktu became a great centre of learning with over 25,000 students. Mali became independent from France on 22 September 1960."
+    "Around 1300 CE the Mali Empire ruled land bigger than Western Europe. Emperor Mansa Musa may be the wealthiest person ever. In 1324 he made a pilgrimage (a holy trip to Mecca) with 12,000 servants and tonnes of gold.",
+    "The city of Timbuktu became a great centre of learning with over 25,000 university students. Mali became independent from France on 22 September 1960."
   ],
   "wows": [
-    "The Great Mosque of Djenné has been replastered every year for over 800 years.",
-    "Mansa Musa's 1324 caravan had 60,000 people and about 18 tonnes of gold.",
-    "Mali holds over 700,000 ancient manuscripts, some in family homes.",
-    "The Niger Inland Delta floods into a wetland the size of Belgium.",
-    "Europeans once offered prizes to anyone who could reach Timbuktu and return.",
-    "Ali Farka Touré's guitar style helped shape American blues.",
+    "The Great Mosque of Djenné has been replastered with fresh mud every year for over 800 years.",
+    "Mansa Musa's 1324 caravan (travelling group) had 60,000 people and about 18 tonnes of gold.",
+    "Mali holds over 700,000 ancient handwritten books, some in family homes in Timbuktu.",
+    "The Niger Inland Delta floods every year into a wetland the size of Belgium.",
+    "Timbuktu was so legendary that Europeans once offered prizes to anyone who could reach it and return.",
+    "Malian guitarist Ali Farka Touré's style helped shape American blues music.",
     "The Niger is Africa's third-longest river."
   ],
   "myths": [
@@ -104,7 +104,7 @@
     },
     {
       "myth": "Timbuktu is not a real place",
-      "fact": "It is a real city in Mali. At its peak it had about 180 Quranic schools."
+      "fact": "It is a real city in Mali. At its peak it had about 180 Quranic schools (Muslim religious schools)."
     }
   ],
   "words": [

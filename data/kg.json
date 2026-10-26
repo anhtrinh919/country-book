@@ -24,7 +24,7 @@
     "keyColor": "#E8102A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Kyrgyzstan is a small country in Central Asia with no coast. Almost all of it is mountains. Snow-capped peaks stretch in every direction. Nomadic herders still ride horses across wide grassy valleys.",
+  "lead": "Kyrgyzstan is a small country in Central Asia with no coast. Almost all of it is mountains. Nomadic herders still ride horses across wide grassy valleys.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "About 90% of Kyrgyzstan is mountains, mostly the Tian Shan (“Heavenly Mountains”). Families set up round felt tents called yurts in summer meadows, as their ancestors did a thousand years ago.",
-    "Issyk-Kul is the world's second-largest alpine lake. It never freezes, because natural salts act as anti-freeze. Snow peaks reflect in its bright blue water."
+    "About 90% of Kyrgyzstan is mountains, mostly the Tian Shan (“Heavenly Mountains”). Families set up round felt tents called yurts in summer meadows.",
+    "Issyk-Kul is the world's second-largest high-mountain lake. It never freezes, because natural salts act as anti-freeze."
   ],
   "animals": [
     "Around 550 snow leopards prowl Kyrgyzstan's high peaks. Skilled hunters train golden eagles. This partnership is over 2,000 years old and still practised today.",
-    "Wild Przewalski's horses once roamed these steppes (grassy plains). Kumiss, fermented mare's milk, is the national drink. The Marco Polo argali, the world's largest wild sheep, grazes the Pamir plateau."
+    "Kumiss, a sour, fizzy drink made from mare's milk, is the national drink. The Marco Polo argali, the world's largest wild sheep, grazes the high Pamir mountains."
   ],
   "culture": [
     "Kyrgyz culture revolves around the yurt, a felt tent put up in under an hour. The flag shows the yurt's crown (tunduk) inside a golden sun.",
-    "The national epic Manas is 20 times longer than the Iliad and Odyssey combined. The World Nomad Games include kok-boru, a horseback game played with a goat carcass."
+    "The hero poem Manas is 20 times longer than the Greek poems Iliad and Odyssey combined. The World Nomad Games include kok-boru, a horseback game played with a dead goat."
   ],
   "history": [
-    "Kyrgyz tribes roamed Central Asia for over 2,000 years. The ancient Silk Road crossed these mountains, carrying Chinese silk and Persian spices.",
-    "In the 13th century, Genghis Khan's Mongol empire absorbed the Kyrgyz clans. Russia took over Kyrgyzstan in the 1860s. The Soviet Union collapsed in 1991, and Kyrgyzstan declared independence on 31 August."
+    "Kyrgyz tribes roamed Central Asia for over 2,000 years. The ancient Silk Road, a trade route to China, crossed these mountains, carrying Chinese silk and spices from Iran.",
+    "In the 13th century, Genghis Khan, a great warrior king, absorbed the Kyrgyz clans into his Mongol empire. Russia took over Kyrgyzstan in the 1860s. The Soviet Union (a giant state led by Russia) collapsed in 1991. Kyrgyzstan declared independence on 31 August."
   ],
   "wows": [
     "Issyk-Kul never freezes, because mineral salts act as natural anti-freeze.",
     "The epic poem Manas tops 500,000 lines, the longest epic poem in the world.",
-    "Arslanbob has the largest natural walnut forest in the world.",
-    "Eagle hunters train golden eagles from chicks, a 2,000-year-old tradition.",
-    "The flag's sun has 40 rays, one for each tribe Manas united.",
+    "Arslanbob, a mountain village, has the largest natural walnut forest in the world.",
+    "Eagle hunters train golden eagles from chicks, a 2,000-year-old tradition still alive today.",
+    "The flag's sun has 40 rays, one for each tribe the hero Manas united.",
     "The World Nomad Games, invented here in 2014, are like the Olympics for horse culture.",
     "Kyrgyzstan has over 550 snow leopards, roughly 10% of the entire world population."
   ],
   "myths": [
     {
       "myth": "Kyrgyzstan is named after a man called Stan",
-      "fact": "The word stan means land in Persian. Kyrgyzstan means land of the Kyrgyz."
+      "fact": "The word stan means land in Persian (Iran's language). Kyrgyzstan means land of the Kyrgyz."
     },
     {
       "myth": "Snow leopards roar like lions",
-      "fact": "They cannot roar. They chuff, hiss, mew, and growl instead."
+      "fact": "They cannot roar. They chuff (snort softly), hiss, mew, and growl instead."
     }
   ],
   "words": [

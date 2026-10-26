@@ -24,7 +24,7 @@
     "keyColor": "#CE1126",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Egypt sits in Africa and Asia. The Nile river turns desert into farmland. Pyramids built 4,500 years ago are as tall as a 48-storey building. Egypt has more people than any other Arab country.",
+  "lead": "Egypt sits in Africa and Asia. The Nile river turns desert into farmland. Pyramids built 4,500 years ago are as tall as a 48-storey building. Egypt has more people than any other Arab (Arabic-speaking) country.",
   "facts": [
     {
       "label": "Capital",
@@ -73,28 +73,28 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Egypt is 96% desert. A narrow green ribbon runs along the Nile. That ribbon is 5% of the land, yet almost everyone lives there. The Nile flows 6,650 km north to the Mediterranean.",
-    "The Sinai Peninsula links Africa to Asia. The Suez Canal cuts through the northeast. Ships sail through it between two seas, saving weeks of travel around Africa."
+    "Egypt is 96% desert. A narrow green ribbon along the Nile is 5% of the land, yet almost everyone lives there. The Nile flows 6,650 km north to the Mediterranean.",
+    "The Sinai Peninsula links Africa to Asia. The Suez Canal cuts the northeast, so ships save weeks skipping the trip around Africa."
   ],
   "animals": [
-    "Ancient Egyptians worshipped the Nile crocodile as the god Sobek. It can reach 6 metres. Millions of sacred ibis were mummified as gifts for Thoth, the god of wisdom.",
-    "The fennec fox lives in the Western Desert. Its huge ears release body heat. Scarab beetles roll dung into balls. Ancient Egyptians saw them as a sign of new life."
+    "Ancient Egyptians worshipped the Nile crocodile as the god Sobek. It can reach 6 metres. Millions of sacred ibis birds were mummified as gifts for Thoth, god of wisdom.",
+    "The fennec fox has huge ears that release body heat. Scarab beetles roll dung into balls. Ancient Egyptians saw them as a sign of new life."
   ],
   "culture": [
     "Egyptians are warm hosts. Refusing a second helping is almost unthinkable! Ful medames (slow-cooked fava beans) and koshari are daily meals. Koshari mixes lentils, rice, pasta and tomato sauce.",
-    "In Ramadan, glowing lanterns called fanous light up the streets. Families break their fast together at iftar. Arabic calligraphy (beautiful looping writing) decorates mosques and wedding cards."
+    "In Ramadan, glowing lanterns called fanous light up the streets. Families share iftar, the meal that ends each day's fast. Looping Arabic writing decorates mosques and wedding cards."
   ],
   "history": [
     "Egypt's first pharaoh united the country around 3100 BCE. Pharaohs ruled for 3,000 years. The Great Pyramid was Earth's tallest building for nearly 4,000 years.",
-    "Greek, Roman, Arab, Ottoman and British rulers all came later. The Arab conquest in 641 CE brought Islam and Arabic. Egypt became independent in 1952."
+    "Greek, Roman, Arab, Turkish (Ottoman) and British rulers all came later. The Arab conquest in 641 CE brought Islam and Arabic. Egypt became independent in 1952."
   ],
   "wows": [
     "The Great Pyramid holds enough stone to build a wall around France.",
     "Ancient Egyptians invented the 365-day calendar over 5,000 years ago.",
-    "Cairo's metro is Africa's oldest subway.",
-    "More ancient obelisks stand in Rome than in all of Egypt.",
-    "The Nile Delta was built from mud carried from the Ethiopian Highlands.",
-    "Tutankhamun became pharaoh at just nine years old.",
+    "Cairo's metro is Africa's oldest subway, carrying over 3.5 million riders a day.",
+    "More ancient obelisks (tall stone pillars) stand in Rome than in all of Egypt.",
+    "The Nile Delta, the river's fan-shaped end, was built entirely from Ethiopian Highlands mud.",
+    "Tutankhamun, Egypt's famous boy king, became pharaoh at just nine years old.",
     "Egypt grows over 2 million tonnes of dates a year, more than any other country."
   ],
   "myths": [
@@ -104,7 +104,7 @@
     },
     {
       "myth": "Tutankhamun's tomb has a deadly curse",
-      "fact": "Howard Carter opened the tomb in 1922 and lived until 1939."
+      "fact": "Explorer Howard Carter opened the tomb in 1922 and lived until 1939."
     }
   ],
   "words": [

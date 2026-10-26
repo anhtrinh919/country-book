@@ -24,7 +24,7 @@
     "keyColor": "#009E49",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "St Kitts and Nevis are two small volcanic islands in the Caribbean Sea. Together they form the world's smallest federation (islands joined as one country). A jungle volcano and a UNESCO fortress stand here. Wild monkeys outnumber people.",
+  "lead": "St Kitts and Nevis are two small volcanic islands in the Caribbean Sea. Together they form the world's smallest federation (islands joined as one country). Wild monkeys outnumber people.",
   "facts": [
     {
       "label": "Capital",
@@ -74,28 +74,28 @@
   },
   "geo": [
     "St Kitts looks like a chicken drumstick. Mount Liamuiga, a sleeping volcano with a lake in its crater, towers over it. Rainforest covers the slopes and sandy beaches ring the coast.",
-    "Nevis lies just 3 km away. This round mountain cone is wrapped in cloud almost every day. Coral reefs and warm turquoise water surround both islands."
+    "Nevis lies just 3 km away. This round mountain cone is wrapped in cloud almost every day."
   ],
   "animals": [
-    "French settlers brought African green vervet monkeys as pets in the 1600s. They escaped into the forest. Now they outnumber people. A troop raiding a mango tree is a common sight.",
-    "The brown pelican, the national bird, dives into the sea to scoop up fish. Green, hawksbill and leatherback turtles nest on quiet beaches. Reef fish dart around 18 dive sites."
+    "French settlers brought African green vervet monkeys as pets in the 1600s. They escaped into the forest. Now they outnumber people.",
+    "The brown pelican, the national bird, dives into the sea to scoop up fish. Green, hawksbill and leatherback turtles nest on quiet beaches."
   ],
   "culture": [
-    "Sugar Mas is the biggest party on the islands. This carnival runs from December to New Year. Calypso bands, steel pans and dancers in feathered headdresses fill Basseterre's streets.",
-    "At Romney Manor, artists dye cloth by hand with an old wax method called Caribelle Batik. Cricket is almost a religion. The national dish is goat water stew, with breadfruit and spices."
+    "Sugar Mas is the biggest party on the islands. This carnival runs from December to New Year. Calypso bands, steel drums and dancers in feathered headdresses fill the streets of Basseterre, the capital.",
+    "At the old Romney Manor estate, artists dye cloth by hand with a wax method called Caribelle Batik. Cricket is almost a religion. The national dish is goat water stew, with breadfruit and spices."
   ],
   "history": [
-    "In 1623, English captain Thomas Warner founded the first English colony in the Caribbean on St Kitts. It earned the title 'Mother Colony of the West Indies'.",
-    "For 365 years, sugar cane was king. Enslaved African workers built the plantations. Nevis briefly became the richest British colony in the Americas. Sugar ended in 2005."
+    "In 1623, English captain Thomas Warner founded the first English settlement in the Caribbean on St Kitts. It earned the title 'Mother Colony of the West Indies'.",
+    "Sugar cane was the main crop. Enslaved African workers built the plantations (big farms). Nevis briefly became the richest British colony in the Americas. Sugar ended in 2005."
   ],
   "wows": [
-    "St Kitts and Nevis is the world's smallest sovereign federation.",
-    "Up to 40,000 vervet monkeys roam the two islands.",
-    "Mount Liamuiga was 'Mount Misery' until independence in 1983.",
-    "In 1984, St Kitts first let investors become citizens.",
-    "The sugar-cane railway is the last of its kind in the West Indies.",
-    "Enslaved workers built Brimstone Hill Fortress, a UNESCO site since 1999.",
-    "Sugar ran on St Kitts from 1640 until the factory shut in 2005."
+    "St Kitts and Nevis is the world's smallest independent federation, by area and population.",
+    "Up to 40,000 wild vervet monkeys roam the two islands, likely outnumbering people.",
+    "Mount Liamuiga was 'Mount Misery' until independence in 1983, then took its Kalinago (first islander) name.",
+    "In 1984, St Kitts started the world's first scheme letting investors become citizens.",
+    "The sugar-cane railway is the last of its kind in the Caribbean.",
+    "Enslaved workers built Brimstone Hill Fortress, on UNESCO's world heritage list since 1999.",
+    "Sugar ran unbroken on St Kitts for 365 years, from 1640 until the factory shut in 2005."
   ],
   "myths": [
     {

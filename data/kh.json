@@ -24,7 +24,7 @@
     "keyColor": "#C0202E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Cambodia is in the heart of Southeast Asia. The Mekong River flows past jungles that hide Angkor Wat, one of the world's greatest wonders. The Khmer people built a huge empire here over a thousand years ago.",
+  "lead": "Cambodia is in the heart of Southeast Asia. The Mekong River flows past jungles that hide Angkor Wat, one of the world's greatest wonders.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "Wow! Did you know?"
   },
   "geo": [
-    "Cambodia is mostly flat lowlands watered by the Mekong River. Tonle Sap, Southeast Asia's largest freshwater lake, swells to six times its dry-season size when monsoon floods reverse its river.",
-    "The Cardamom Mountains rise in the southwest and shelter dense rainforest. About 20% of the land is farmed, mostly rice paddies."
+    "Cambodia is mostly flat lowlands watered by the Mekong River. Tonle Sap is Southeast Asia's largest freshwater lake. It swells to six times its dry-season size in the monsoon (rainy season).",
+    "The Cardamom Mountains rise in the southwest and shelter dense rainforest. About 20% of the land is farmed, mostly rice paddies (flooded fields)."
   ],
   "animals": [
-    "The Irrawaddy dolphin is chubby and looks like it is smiling. It lives in a short stretch of the Mekong near Kratie. About 100 survive, and Cambodians see them as sacred.",
-    "The giant ibis, Cambodia's national bird, is nearly as tall as a child. It is critically endangered and nests in northern forests."
+    "The Irrawaddy dolphin is chubby and looks like it is smiling. It lives only in a short stretch of the Mekong near Kratie. About 100 survive, and Cambodians see them as sacred.",
+    "The giant ibis, Cambodia's national bird, is nearly as tall as a child. It is close to dying out and nests in northern forests."
   ],
   "culture": [
-    "Cambodians greet each other with a sampeah. They press their palms together and bow a little. The higher the hands, the more respect they show.",
-    "Khmer food is built around prahok, a fermented fish paste nicknamed 'Cambodian cheese'. Fish amok, steamed in banana leaves with coconut milk, is the dish visitors remember most."
+    "Cambodians greet each other with a sampeah. They press their palms together and bow a little.",
+    "Khmer food is built around prahok, a soured fish paste nicknamed 'Cambodian cheese'. Fish amok is the dish visitors remember most."
   ],
   "history": [
-    "In 802 CE, King Jayavarman II declared himself god-king and began the Khmer Empire. Over 600 years, it grew to cover much of mainland Southeast Asia. Its capital, Angkor, became the largest pre-industrial city on Earth.",
-    "Thai invaders ended the empire in 1431. Cambodia later became a French colony. In the 1970s, the Khmer Rouge caused terrible loss of life."
+    "In 802 CE, King Jayavarman II declared himself god-king and began the Khmer Empire. Over 600 years, it grew to cover much of mainland Southeast Asia.",
+    "Thai invaders ended the empire in 1431. Cambodia later became a colony of France. In the 1970s, the Khmer Rouge, a cruel ruling group, caused terrible loss of life."
   ],
   "wows": [
-    "Angkor Wat covers 162 hectares and has a moat over 5 km around it.",
-    "Cambodia's flag shows the towers of Angkor Wat.",
-    "The Tonle Sap River reverses direction twice a year.",
-    "At its 13th-century peak, Angkor was as wide as modern Los Angeles.",
-    "Cambodia has no McDonald's, one of the last in Southeast Asia without one.",
-    "Khmer is not a tonal language.",
-    "Cambodian weddings last three full days, so every relative can celebrate."
+    "The world's largest religious monument is Angkor Wat. It covers 162 hectares (1.6 km²), with a moat over 5 km.",
+    "Cambodia's flag shows a real building, the towers of Angkor Wat, as its main picture.",
+    "The Tonle Sap River reverses direction twice a year when Mekong floods push water upstream.",
+    "In the 13th century, Angkor was the biggest city before factories, as wide as modern Los Angeles.",
+    "Cambodia has no McDonald's, one of the last Southeast Asian countries without a branch.",
+    "Unlike Vietnamese and Thai, Khmer has no tones. A voice's pitch cannot change a word's meaning.",
+    "Cambodian weddings last three full days."
   ],
   "myths": [
     {

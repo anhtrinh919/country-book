@@ -24,7 +24,7 @@
     "keyColor": "#C8212C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Belgium is a small country between France, Germany, and the Netherlands. It is famous for waffles and for comic heroes like Tintin. It has three official languages. It is the size of Maryland but has more castles per square kilometre than almost anywhere.",
+  "lead": "Belgium is a small country between France, Germany, and the Netherlands. It is famous for waffles and for comic heroes like Tintin. It has three official languages. It is the size of the US state of Maryland but has more castles per square kilometre than almost anywhere.",
   "facts": [
     {
       "label": "Capital",
@@ -73,34 +73,34 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Flat farmland and sandy dunes cover most of Belgium. The North Sea coast is 67 km long. Old canals carry boats through medieval city centres.",
+    "Flat farmland and sandy dunes cover most of Belgium. The North Sea coast is 67 km long. Old canals carry boats through city centres built long ago.",
     "The Ardennes forest rises in the south, with rolling hills, pine trees, and caves. Belgium's highest point and wildest scenery are here."
   ],
   "animals": [
     "Red foxes trot through the Ardennes at dusk. White storks nest on church roofs in spring. Starlings swirl in huge flocks over Brussels.",
-    "On the coast, grey seals loll on sandbanks and harbour porpoises swim offshore. Migrating birds like godwits, avocets, and spoonbills refuel on the Scheldt estuary."
+    "On the coast, grey seals loll on sandbanks and harbour porpoises swim offshore. Migrating birds like godwits, avocets, and spoonbills refuel where the Scheldt river meets the sea."
   ],
   "culture": [
     "Dutch-speaking Flemish people live in the north. French-speaking Walloons live in the south. A small German-speaking group lives in the east. Everyone agrees on beer, chocolate, and football.",
     "Tintin, the Smurfs, and Lucky Luke all began in Belgium. Every town has a carillon, a tower of bells played like a keyboard."
   ],
   "history": [
-    "Romans, Spanish kings, Austrian emperors, Napoleon, and the Dutch all ruled Belgium. Belgians declared independence in 1830 and chose their own king.",
-    "Two World Wars tore through Belgian soil. After 1945, Belgium helped build a new Europe. Brussels became the base of NATO and the EU."
+    "Romans, Spanish kings, Austrian emperors, Napoleon (the French emperor), and the Dutch all ruled Belgium. Belgians declared independence in 1830 and chose their own king.",
+    "Two World Wars tore through Belgian soil. After 1945, Belgium helped build a new Europe. Brussels became the base of NATO (an army alliance) and the EU (a club of European countries)."
   ],
   "wows": [
     "Belgium has over 1,500 named beers, more than any other country.",
-    "Antwerp handles about half of the world's rough diamonds.",
+    "Antwerp, a Belgian city, handles about half of the world's uncut diamonds.",
     "Belgians say they invented the French fry.",
-    "The Atomium, built in 1958, is an iron crystal blown up 165 billion times.",
-    "Belgium once ruled the Congo, a colony 77 times bigger than Belgium.",
+    "The Atomium, a 1958 Brussels landmark, is an iron crystal blown up 165 billion times.",
+    "Belgium once ruled the Congo in Africa, a colony 77 times bigger than Belgium.",
     "Brussels sprouts have grown near Brussels since the 13th century.",
     "Brussels has 50 giant comic-strip murals on its walls."
   ],
   "myths": [
     {
       "myth": "Belgian chocolate uses cocoa grown in Belgium",
-      "fact": "Cacao trees only grow in hot, wet places. Belgian chocolatiers import the beans."
+      "fact": "Cacao trees only grow in hot, wet places. Belgian chocolate makers import the beans."
     },
     {
       "myth": "A Belgian waffle is just a waffle",

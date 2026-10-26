@@ -24,7 +24,7 @@
     "keyColor": "#4DA04B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Eritrea is on Africa's north-east coast, beside the Red Sea. Its capital, Asmara, sits on a cool plateau over 2,300 m high. Eritrea won freedom in 1993 after a 30-year war.",
+  "lead": "Eritrea is on Africa's north-east coast, beside the Red Sea. Its capital, Asmara, sits on a cool plateau (high flat land) over 2,300 m high. Eritrea won freedom in 1993 after a 30-year war.",
   "facts": [
     {
       "label": "Capital",
@@ -74,33 +74,33 @@
   },
   "geo": [
     "Eritrea has three zones. Most people live on a cool, green plateau. A hot, dry strip hugs the Red Sea coast. A flat plain borders Sudan in the west.",
-    "The Red Sea coast stretches nearly 2,000 km. It includes the Dahlak Archipelago, with over 120 islands. Most have no people, and coral reefs ring them."
+    "The Red Sea coast stretches nearly 2,000 km. It includes the Dahlak Islands, over 120 of them. Most have no people, and coral reefs ring them."
   ],
   "animals": [
-    "Eritrea's Red Sea has some of the world's healthiest dugongs. These gentle sea-cows graze on seagrass. Green and hawksbill turtles lay eggs on Dahlak beaches.",
-    "Nubian ibex walk along rocky clifftops. Their horns curve like scimitars (curved swords). Over 500 bird species live here."
+    "Eritrea's Red Sea has some of the world's healthiest dugongs. These gentle sea-cows graze on seagrass.",
+    "Nubian ibex, wild goats with curved horns, walk along rocky clifftops. Over 500 bird species live here."
   ],
   "culture": [
-    "Eritrea has nine ethnic groups. Each has its own language and dress. In the highlands, hosts roast coffee beans in front of guests and pour three times. Refusing a cup is rude.",
-    "Injera is a big, spongy flatbread made from teff grain. It works as plate and spoon. Families share one platter. Music mixes African rhythms with the krar, a type of lyre."
+    "Eritrea has nine peoples. In the highlands, hosts roast coffee beans in front of guests and pour three times. Refusing a cup is rude.",
+    "Injera is a big, spongy flatbread made from teff grain. It works as plate and spoon. Families share one platter. Music mixes African rhythms with the krar, a stringed instrument."
   ],
   "history": [
-    "Ancient Eritrea belonged to the Aksumite Empire. Its Red Sea ports buzzed with merchants from Arabia, India and Rome. Adulis was one of the ancient world's busiest trading posts.",
+    "Ancient Eritrea belonged to the Aksumite Empire, a great African kingdom. Its Red Sea ports buzzed with merchants from Arabia, India and Rome. The port of Adulis was one of the ancient world's busiest trading posts.",
     "Italy took over Eritrea in 1890 and filled Asmara with Art Deco buildings. After World War Two, Ethiopia took control. A 30-year armed struggle followed. In 1993, over 99% of Eritreans voted yes to independence."
   ],
   "wows": [
-    "Asmara is Africa's first modernist UNESCO city, with streets like a 1930s film set.",
-    "In 1937 Eritrea had the world's longest cableway, 72 km long.",
-    "Eritrea's Red Sea corals survive water hot enough to bleach most reefs.",
+    "Asmara is Africa's first UNESCO city of modern-style buildings, with streets like a 1930s Italian film set.",
+    "In 1937 Eritrea had the world's longest cableway, 72 km of cargo cable cars.",
+    "Eritrea's Red Sea corals survive water hot enough to kill reefs almost anywhere else.",
     "Eritrea banned single-use plastic bags in 2005, one of the first in Africa.",
-    "Eritrea's nine peoples speak nine languages.",
+    "Eritrea has nine official languages, more than most nations three times its size.",
     "At least half of the Red Sea's dugongs rely on seagrass beds in Eritrea and Sudan.",
-    "In 1993 Eritreans voted 99.83% for independence."
+    "In 1993 Eritreans voted 99.83% for independence, one of the highest results ever recorded."
   ],
   "myths": [
     {
       "myth": "Mermaids are real",
-      "fact": "Sailors long ago mistook dugongs for mermaids. Their group name, sirenians, comes from the sirens of old stories."
+      "fact": "Sailors long ago mistook dugongs for mermaids."
     },
     {
       "myth": "The Red Sea is red",

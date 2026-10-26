@@ -24,7 +24,7 @@
     "keyColor": "#F9D23C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Jamaica is a sunny Caribbean island, smaller than Connecticut. The Taíno named it Xaymaca, \"land of wood and water\". Jamaica gave the world reggae and the fastest runners ever timed.",
+  "lead": "Jamaica is a sunny Caribbean island, smaller than the US state of Connecticut. The Taíno, its first people, named it Xaymaca, \"land of wood and water\". It gave the world reggae and the fastest runners ever timed.",
   "facts": [
     {
       "label": "Capital",
@@ -74,33 +74,33 @@
   },
   "geo": [
     "Mountains run east to west along Jamaica like a spine. The Blue Mountains soar to 2,256 m, high enough to brew clouds.",
-    "Dozens of rivers tumble down to the sea. The coast has cliffs, mangrove lagoons, and long white beaches. There are hot springs but no active volcanoes."
+    "Dozens of rivers tumble down to the sea. The coast has cliffs, swamps, and long white beaches. There are no active volcanoes."
   ],
   "animals": [
-    "The Doctor Bird, a red-billed streamertail hummingbird, is Jamaica's national bird. It lives nowhere else. The male has two long tail feathers. His wings beat 50 times a second.",
-    "The Jamaican iguana was thought extinct for 40 years. People found it again in the Hellshire Hills in 1990. The gentle yellow boa, a harmless snake, also lives only here."
+    "The Doctor Bird, a tiny red-billed hummingbird, is Jamaica's national bird. It lives nowhere else.",
+    "The Jamaican iguana, a big lizard, was thought extinct for 40 years. People found it again in 1990."
   ],
   "culture": [
-    "Jamaica invented reggae in the 1960s. Bob Marley spread it worldwide. UNESCO added reggae to its cultural heritage list in 2018. Music spills from open windows everywhere.",
-    "Jerk chicken is rubbed with scotch bonnet pepper and allspice, then smoked over pimento wood. Ackee and saltfish is the national breakfast."
+    "Jamaica invented reggae, a slow, rhythmic music, in the 1960s. Singer Bob Marley spread it worldwide. UNESCO (a United Nations group) put reggae on its heritage list in 2018.",
+    "Jerk chicken is rubbed with scotch bonnet (a hot pepper) and allspice, then smoked over pimento wood. Ackee (a soft yellow fruit) and saltfish is the national breakfast."
   ],
   "history": [
-    "The Taíno arrived around 600 AD. Columbus landed in 1494, and within a century European disease had wiped out the Taíno. The Spanish, then the British after 1655, ran sugar plantations.",
+    "The Taíno arrived around 600 AD. Columbus landed in 1494, and within a century European disease had wiped out the Taíno. The Spanish, then the British after 1655, ran huge sugar farms (plantations).",
     "Enslaved Africans worked the plantations. Slavery ended in 1834, but plantation owners kept the power for another century. On 6 August 1962, Jamaica became fully independent."
   ],
   "wows": [
-    "Usain Bolt's 100 m world record of 9.58 s, set in 2009, still stands.",
+    "Jamaican runner Usain Bolt's 100 m world record of 9.58 s, set in 2009, is still unbeaten.",
     "Jamaica's flag is the only one with no red, white, or blue.",
     "About 70% of Blue Mountain coffee goes to Japan, selling for $50+ per pound.",
-    "In 1988, a Jamaican bobsled team raced at the Calgary Winter Olympics.",
-    "The Doctor Bird hovers so still it looks frozen.",
+    "In 1988, tropical Jamaica sent a bobsled (ice sled) team to the Winter Olympics.",
+    "The Doctor Bird beats its wings about 50 times a second, yet hovers so still it looks frozen.",
     "At 10,830 km², Jamaica is among the smallest nations to win Olympic sprint gold.",
-    "Dunn's River Falls tumbles down terraced steps onto a Caribbean beach."
+    "Dunn's River Falls, a waterfall, tumbles down stone steps onto a Caribbean beach."
   ],
   "myths": [
     {
       "myth": "Pirate town Port Royal is only a legend",
-      "fact": "It was real. An earthquake in 1692 sank most of it into the sea. Divers still find ruins."
+      "fact": "It was real. An earthquake in 1692 sank most of it into the sea."
     },
     {
       "myth": "Ackee is safe to eat at any stage",

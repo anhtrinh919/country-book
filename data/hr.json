@@ -24,7 +24,7 @@
     "keyColor": "#CC2027",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Croatia hugs the Adriatic Sea. It has over 1,700 km of coastline and more than 1,000 islands. Walled cities look like fairy tales. Waterfalls spill into turquoise pools in its national parks. It is about the size of West Virginia.",
+  "lead": "Croatia hugs the Adriatic Sea. It has over 1,700 km of coastline and more than 1,000 islands. Walled cities look like fairy tales. Waterfalls spill into turquoise pools in its national parks. It is about the size of the US state of West Virginia.",
   "facts": [
     {
       "label": "Capital",
@@ -77,25 +77,25 @@
     "Inland there are limestone mountains and green valleys. Plitvice Lakes has 16 turquoise lakes stacked like a staircase, linked by mossy waterfalls."
   ],
   "animals": [
-    "About 1,000 brown bears roam the forests of Velebit. They are Croatia's largest wild animals. Griffon vultures with 2.5 m wingspans soar above the island of Cres.",
+    "About 1,000 brown bears roam the forests of the Velebit mountains. They are Croatia's largest wild animals. Griffon vultures with 2.5 m wingspans soar above the island of Cres.",
     "The clean Adriatic shelters the short-snouted seahorse. Loggerhead sea turtles nest on quiet beaches each summer. Dolphins often leap beside island ferries."
   ],
   "culture": [
     "Croatians invented the necktie. The word 'cravat' comes from 'Croat'. In the 1600s soldiers wore knotted scarves. Zagreb even has a small Cravat Museum!",
-    "Klapa is unaccompanied male singing from Dalmatia. UNESCO lists it. It sounds like the sea singing. Croatians also introduced the mechanical pencil."
+    "Klapa is male harmony singing, with no instruments, from Dalmatia. UNESCO, a United Nations group, lists it. It sounds like the sea singing. Croatians also introduced the mechanical pencil."
   ],
   "history": [
-    "Emperor Diocletian built his retirement palace in Split around AD 295–305. People still live inside its walls. Croatia became a medieval kingdom in 925.",
-    "Croatia lived under Hungarian, Ottoman and Habsburg rule, then joined Yugoslavia. It declared independence in 1991 and joined the European Union in 2013."
+    "Roman emperor Diocletian built his retirement palace in Split around AD 295–305. People still live inside its walls. Croatia became a medieval kingdom in 925.",
+    "Croatia lived under Hungarian, Ottoman (Turkish) and Habsburg (Austrian) rule. Then it joined Yugoslavia, a country that broke up. It declared independence in 1991 and joined the European Union in 2013."
   ],
   "wows": [
     "Croatia has over 1,000 islands, but only about 50 are lived on all year.",
-    "Dubrovnik's ancient walls played King's Landing in Game of Thrones.",
+    "Dubrovnik's ancient walls played King's Landing in the TV show Game of Thrones.",
     "People live inside a 1,700-year-old Roman palace in Split.",
-    "Croatia's red chequered shield is called the šahovnica.",
+    "Croatia's red chequered shield, the šahovnica, has been its symbol for centuries.",
     "Zagreb's Cravat Museum honours the Croatian necktie.",
     "Plitvice's waterfalls grow about a centimetre each year.",
-    "Croatia joined the eurozone in January 2023."
+    "Croatia became the 20th country to use the euro, in January 2023."
   ],
   "myths": [
     {
@@ -103,7 +103,7 @@
       "fact": "They are born pure white. Spots show up after a few weeks. The breed is named after Dalmatia, in Croatia."
     },
     {
-      "myth": "Nikola Tesla was born in America",
+      "myth": "Inventor Nikola Tesla was born in America",
       "fact": "Tesla was born in 1856 in Smiljan, in today's Croatia. He moved to the USA at age 28."
     }
   ],

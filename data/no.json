@@ -24,7 +24,7 @@
     "keyColor": "#EF2B2D",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Norway is at the top of Europe, where mountains drop into the sea in long inlets called fjords. In summer the sun does not set for weeks. In winter, green Northern Lights dance overhead.",
+  "lead": "Norway is at the top of Europe, where mountains drop into the sea in long inlets called fjords. In summer the sun does not set for weeks. In winter, green lights called the Northern Lights dance overhead.",
   "facts": [
     {
       "label": "Capital",
@@ -73,34 +73,34 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Norway is 1,752 km long but narrow. Glaciers carved thousands of deep fjords. Ships sail between rock walls that rise 1,400 m straight up from green water.",
+    "Norway is 1,752 km long but narrow. Rivers of ice carved thousands of deep fjords. Ships sail between rock walls that rise 1,400 m straight up from green water.",
     "150,000 lakes dot the land. In the far north, the summer sun stays up for 76 days in a row."
   ],
   "animals": [
-    "The moose is the biggest animal in Norway's forests. It weighs as much as a small car. Reindeer roam the hills. Wolves, bears and lynx prowl the woods.",
+    "The moose is the biggest animal in Norway's forests. It weighs as much as a small car.",
     "Puffins, seals and humpback whales live in coastal waters. In the Arctic north, the fluffy Arctic fox keeps warm down to −70 °C."
   ],
   "culture": [
-    "Every 17 May, Constitution Day becomes one giant children's parade. Everyone eats hot dogs and ice cream. Many people wear a bunad, a costume whose colours show which valley their family comes from.",
-    "Skiing began here about 4,000 years ago, and rock carvings prove it. Norwegians even let babies nap outside in prams in winter."
+    "Every 17 May, National Day becomes one giant children's parade. Everyone eats hot dogs and ice cream. Many people wear a bunad, a costume whose colours show which valley their family comes from.",
+    "Skiing began here about 4,000 years ago, and rock carvings prove it. Norwegians let babies nap outside in baby carriages in winter."
   ],
   "history": [
-    "Vikings sailed from Norway's fjords over 1,000 years ago. They reached Iceland, Greenland and North America long before Columbus.",
+    "Vikings sailed from Norway's fjords over 1,000 years ago. They reached Iceland, Greenland and North America long before explorer Columbus.",
     "Oil was found on Christmas Eve 1969. Norway saved most of the money. By 2026 its oil fund topped $2 trillion, over $350,000 per citizen."
   ],
   "wows": [
     "Norway has over 50,000 islands, so many that nobody has an exact count.",
-    "During World War II, Norwegians wore paperclips to show resistance.",
-    "Norway's oil fund, the world's largest, owns about 1.5% of every listed company on Earth.",
+    "During World War II, Norwegians wore paperclips to show they fought back.",
+    "Norway's oil fund, the world's largest, owns about 1.5% of every company with shares for sale.",
     "The Lærdal Tunnel, at 24.5 km, is the world's longest road tunnel.",
-    "No one can be buried in Svalbard, because the frozen ground stops bodies from rotting.",
+    "No one can be buried in Arctic Svalbard, because frozen ground stops bodies rotting.",
     "Each year Norway sends London a giant Christmas tree to thank it for World War II help.",
     "Galdhøpiggen is Northern Europe's highest peak, and 30,000 people climb it each year."
   ],
   "myths": [
     {
       "myth": "Norway is always bitterly cold",
-      "fact": "The Gulf Stream warms the coast. Bergen's winters are mild, and the coast is warmer than other places that far north."
+      "fact": "The Gulf Stream, a warm sea current, warms the coast. Bergen's winters are mild, and the coast is warmer than other places that far north."
     },
     {
       "myth": "Northern Lights appear every clear night",

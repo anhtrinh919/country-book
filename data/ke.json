@@ -24,7 +24,7 @@
     "keyColor": "#006600",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Kenya sits on the equator. Wildebeest thunder across the Maasai Mara every year. Mount Kenya is Africa's second-tallest peak. Nairobi is the only capital with a national park on its doorstep.",
+  "lead": "In Kenya, wildebeest (big grazing animals) thunder across the Maasai Mara every year. Mount Kenya is Africa's second-tallest peak.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Kenya sits on the equator, so it has no winter. The Great Rift Valley slices through it from north to south. Snow tops Mount Kenya, which gave the country its name.",
-    "The Indian Ocean coast has white beaches and coral reefs. The south has green savannahs and the shores of Lake Victoria, Africa's largest lake."
+    "Kenya sits on the equator, so it has no winter. The Great Rift Valley, a giant crack, slices through it from north to south. Snow tops Mount Kenya, which gave the country its name.",
+    "The Indian Ocean coast has white beaches and coral reefs. The south has green savannahs (grassy plains) and the shores of Lake Victoria, Africa's largest lake."
   ],
   "animals": [
-    "In the Maasai Mara, 1.5 million wildebeest and zebra cross the crocodile-filled Mara River. This Great Migration runs from July to October. You can see the Big Five in one day: lion, elephant, leopard, rhino, and buffalo.",
-    "Over 1,100 bird species live here. Amboseli's elephants stroll past Kilimanjaro."
+    "In the Maasai Mara, 1.5 million wildebeest and zebra cross the crocodile-filled Mara River. This Great Migration (a yearly trek) runs from July to October. Kenya is one of few places to see the Big Five in a day: lion, elephant, leopard, rhino, and buffalo.",
+    "Over 1,100 bird species live here. Amboseli's elephants stroll past Kilimanjaro, Africa's tallest peak."
   ],
   "culture": [
-    "Kenya has 47 ethnic groups. The Maasai wear bright red shukas (cloths). They dance the adumu, leaping to see who jumps highest.",
-    "Ugali, a stiff maize porridge, is the main food. People eat it with sukuma wiki (braised kale) or stew."
+    "Kenya has 47 ethnic groups. The Maasai, a cattle-herding people, wear bright red shukas (cloths). They dance the adumu, leaping to see who jumps highest.",
+    "Ugali, a stiff maize (corn) porridge, is the main food. People eat it with sukuma wiki (cooked greens) or stew."
   ],
   "history": [
-    "Fossils over 3 million years old were found near Lake Turkana. They earned the area the nickname 'Cradle of Mankind'. A thousand years ago, Arab traders built Swahili city-states on the coast.",
-    "Britain took over Kenya in the 1890s. Mau Mau fighters fought back in the 1950s. Kenya won independence on 12 December 1963. Jomo Kenyatta became its first president."
+    "Fossils (ancient bones) over 3 million years old were found near Lake Turkana. They earned the area the nickname 'Cradle of Mankind'.",
+    "Britain took over Kenya in the 1890s. Kenyan rebels called Mau Mau fought back in the 1950s. Kenya won independence on 12 December 1963. Jomo Kenyatta became its first president."
   ],
   "wows": [
     "Lake Turkana is the world's biggest desert lake, 290 km long.",
-    "Runners from tiny Iten have won more Olympic distance medals than most nations.",
-    "Nairobi National Park is just 7 km from downtown.",
+    "Runners from the tiny town of Iten have won more Olympic distance medals than most nations.",
+    "Nairobi National Park is the only wildlife park inside a capital city, 7 km from downtown.",
     "A coelacanth, a fish thought extinct for 65 million years, was found alive off Kenya in 2001.",
-    "Kenya's M-Pesa (2007) was the first mobile money system, now used by 30 million people.",
+    "Kenya's M-Pesa (2007) was the world's first money-by-phone system, now used by 30 million people.",
     "From above, flamingos make Lake Bogoria look like spilled pink paint.",
-    "Lamu Old Town has no cars, only donkeys."
+    "Lamu Old Town has no cars, and donkeys are the main transport."
   ],
   "myths": [
     {
@@ -104,7 +104,7 @@
     },
     {
       "myth": "Male lions do most of the hunting",
-      "fact": "Lionesses hunt most of the food. Males guard the pride."
+      "fact": "Lionesses hunt most of the food. Males guard the pride, the lion family."
     }
   ],
   "words": [

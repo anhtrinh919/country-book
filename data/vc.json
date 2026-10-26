@@ -24,7 +24,7 @@
     "keyColor": "#2B7A3B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Saint Vincent and the Grenadines is a chain of 32 volcanic islands. Rainforest meets turquoise lagoons here. Most people live on Saint Vincent, where a volcano rumbles. People call these islands the Gems of the Caribbean.",
+  "lead": "Saint Vincent and the Grenadines is a chain of 32 volcanic islands. Rainforest meets turquoise lagoons here. Most people live on Saint Vincent, where a volcano rumbles.",
   "facts": [
     {
       "label": "Capital",
@@ -74,7 +74,7 @@
   },
   "geo": [
     "La Soufrière is a volcano on Saint Vincent. It last erupted in April 2021. Ash covered the island and 16,000 people fled.",
-    "The Grenadines scatter 90 km to the south. The Tobago Cays are five tiny islets with no people. A horseshoe coral reef circles one of the clearest lagoons in the world."
+    "The Grenadines scatter 90 km to the south. The Tobago Cays are five tiny islands where no one lives. A horseshoe coral reef circles one of the clearest lagoons in the world."
   ],
   "animals": [
     "The St Vincent Parrot is the national bird. It is bronze, violet, and blue, and lives only here. Fewer than 1,000 survive in the wild. Hawksbill sea turtles nest on the beaches from June to October.",
@@ -82,25 +82,25 @@
   ],
   "culture": [
     "Vincy Mas is the national carnival, held in late June and July. For twelve days, Kingstown fills with steel pan, soca music, and big costumes.",
-    "The national dish is fried jackfish with roast breadfruit. Kingstown's botanical garden, founded in 1765, grows a breadfruit tree brought by Captain Bligh."
+    "The national dish is fried jackfish with roast breadfruit. Kingstown's botanical garden, founded in 1765, grows a breadfruit tree brought by ship captain Bligh."
   ],
   "history": [
-    "The Garifuna, descendants of Caribs and shipwrecked Africans, fought the British. Chief Joseph Chatoyer forced a peace treaty in 1773. He died in 1795 and is the nation's only National Hero.",
+    "The Garifuna, descendants of Caribs (the islands' first people) and shipwrecked Africans, fought the British. Chief Joseph Chatoyer forced a peace treaty in 1773. He died in 1795 and is the nation's only National Hero.",
     "After Chatoyer's defeat, nearly 5,000 Garifuna were sent to Honduras in 1797. Their descendants still speak Garifuna. Saint Vincent and the Grenadines became independent on 27 October 1979."
   ],
   "wows": [
-    "Saint Vincent grows about 95% of the world's arrowroot.",
+    "Saint Vincent grows about 95% of the world's arrowroot, a starchy plant.",
     "Pirates of the Caribbean was filmed at Wallilabou Bay. The props are still there.",
-    "Mustique was bought in 1958 for $67,000.",
+    "Celebrity island Mustique was bought in 1958 for $67,000.",
     "La Soufrière has erupted 8 times since 1718.",
-    "The Union Island gecko lives on one tiny island only.",
-    "Bequia still has a legal hand-harpoon whale hunt.",
-    "Kingstown's botanic garden is one of the oldest in the Western Hemisphere."
+    "The Union Island gecko was unknown until 2005 and lives on one tiny island only.",
+    "Bequia has one of the world's last legal whale hunts with hand-thrown spears.",
+    "Kingstown's botanic garden is one of the oldest in the Americas."
   ],
   "myths": [
     {
       "myth": "Pirates always buried their treasure",
-      "fact": "Most real pirates spent their loot fast. Treasure maps with an X come from the book Treasure Island."
+      "fact": "Most real pirates quickly spent what they stole. Treasure maps with an X come from the book Treasure Island."
     },
     {
       "myth": "Sea turtles can hide inside their shells",

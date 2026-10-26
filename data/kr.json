@@ -24,7 +24,7 @@
     "keyColor": "#C60C30",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "South Korea is a mountainous peninsula between China and Japan. It gave the world K-pop and a very clever alphabet. After the war, it grew from rubble into a tech powerhouse in two generations.",
+  "lead": "South Korea is a mountainous peninsula between China and Japan. It gave the world K-pop and a very clever alphabet. After the Korean War, it grew from rubble into a rich, high-tech country. That took just two generations.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "About 70% of South Korea is steep, forested mountains. Most people live on the narrow coastal plains, where rice grows in flooded paddies. Over 3,000 islands dot the coasts.",
-    "The Han River cuts through Seoul. Jeju Island, to the south, is volcanic, with lava tubes you can walk through. Korea's tallest mountain, Hallasan, rises from its centre."
+    "About 70% of South Korea is steep, forested mountains. Most people live on the narrow coastal plains.",
+    "The Han River cuts through Seoul, the capital. Jeju Island, to the south, is volcanic. You can walk through its lava tubes (tunnels made by hot lava)."
   ],
   "animals": [
-    "The Siberian tiger is the national animal. It looks ghostly white in snow. Tigers were wiped out by the 1920s. Odd tracks near the Demilitarized Zone still spark hope.",
-    "The red-crowned crane has a scarlet cap and white feathers. It is a symbol of luck. Thousands winter in the DMZ wetlands, where no people have walked for over 70 years."
+    "The Siberian tiger is the national animal. Tigers were wiped out by the 1920s. Odd tracks near the Demilitarized Zone (DMZ) still spark hope. This empty strip divides the two Koreas.",
+    "The red-crowned crane has a scarlet cap and white feathers. Thousands winter in the DMZ wetlands, where no people have walked for over 70 years."
   ],
   "culture": [
-    "Kimchi is spicy, garlicky fermented cabbage, eaten at almost every meal. There are 200+ varieties. Making it together each autumn, called kimjang, is a UNESCO heritage tradition.",
-    "K-pop means idol groups, dazzling videos and devoted fans worldwide. The Korean Wave (Hallyu) also carried dramas, food and fashion far beyond Asia."
+    "Kimchi is spicy, garlicky cabbage fermented (soured on purpose), eaten at almost every meal. Making it together each autumn, called kimjang, is a UNESCO (United Nations) heritage tradition.",
+    "K-pop means idol groups, dazzling videos and devoted fans worldwide."
   ],
   "history": [
-    "Korean civilisation is 5,000 years old. The Joseon dynasty ruled for 500 years from 1392. It built grand palaces and invented the Hangul alphabet. Japan forcibly took control in 1910.",
-    "In 1950, North Korea invaded the South, starting a three-year war. Within decades, South Korea became a tech giant with Samsung and Hyundai. This was the 'Miracle on the Han River'."
+    "Korean civilisation is 5,000 years old. The Joseon dynasty (a family of kings) ruled for 500 years from 1392. It invented the Hangul alphabet. Japan forcibly took control in 1910.",
+    "In 1950, North Korea invaded the South, starting a three-year war. Within decades, South Korea became a tech giant. Samsung and Hyundai are two of its huge companies."
   ],
   "wows": [
-    "Fibre internet reaches 89% of South Korean homes.",
-    "Hangul was designed in 1443 and can be learned in a morning.",
+    "South Korea has some of the world's fastest internet: fibre reaches 89% of homes.",
+    "Korea's alphabet, Hangul, was designed in 1443. Scholars say you can learn it in a morning.",
     "Seoul has thousands of jjimjilbang, giant bathhouses where people relax, sleep and eat.",
-    "Samsung's revenue once equalled about 20% of South Korea's economy.",
-    "South Korea's only land border is with North Korea.",
-    "The DMZ has sheltered 6,200 wild species since 1953.",
-    "Korean babies were one year old at birth until 2023."
+    "In peak years, Samsung, an electronics giant, earned money equal to about 20% of South Korea's economy.",
+    "South Korea's only land border is with North Korea, so it is almost an island nation.",
+    "The DMZ, the strip between the two Koreas, has sheltered 6,200 wild species since 1953.",
+    "Traditionally, Korean babies were one year old at birth, until 2023."
   ],
   "myths": [
     {
@@ -104,7 +104,7 @@
     },
     {
       "myth": "K-pop stars just sing and dance",
-      "fact": "Idols train for years in singing, dancing and languages before they debut."
+      "fact": "Idols typically train for years in singing, dancing and languages before they debut."
     }
   ],
   "words": [

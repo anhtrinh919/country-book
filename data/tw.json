@@ -24,7 +24,7 @@
     "keyColor": "#BE0020",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Taiwan is a green island off the coast of China. Portuguese sailors named it Formosa in 1542. That means beautiful island. Mountains cover half of it. Taiwan also invented bubble tea.",
+  "lead": "Taiwan is a green island off the coast of China. Portuguese sailors named it Formosa in 1542. That means beautiful island. Mountains cover half of it. Taiwan invented bubble tea, a milk tea with chewy tapioca balls.",
   "facts": [
     {
       "label": "Capital",
@@ -82,29 +82,29 @@
   ],
   "culture": [
     "Night markets are Taiwan's living rooms. People eat stinky tofu, oyster omelettes, and mango shaved ice. Bubble tea was invented in Taichung in the 1980s.",
-    "Each February, thousands of sky lanterns float over Pingxi. People write wishes on them. Over 15,000 temples dot the island, more per square kilometre than almost anywhere."
+    "Each February, thousands of sky lanterns float over the town of Pingxi. People write wishes on them. Over 15,000 temples dot the island, more per square kilometre than almost anywhere."
   ],
   "history": [
-    "Austronesian peoples settled Taiwan at least 6,000 years ago. Dutch traders arrived in 1624. Japan ruled from 1895 to 1945 and built railways and schools.",
-    "The Nationalist government fled mainland China to Taiwan in 1949. A farming island became a tech giant. Today it makes about 90% of the world's most advanced chips."
+    "Austronesian peoples, the island's first people, settled Taiwan at least 6,000 years ago. Dutch traders arrived in 1624. Japan ruled from 1895 to 1945 and built railways and schools.",
+    "China's Nationalist government lost a civil war and fled the mainland to Taiwan in 1949. A farming island became a tech giant. Today it makes about 90% of the world's most advanced chips."
   ],
   "wows": [
-    "TSMC makes about 90% of the world's most advanced chips.",
+    "Taiwan's TSMC company makes about 90% of the world's most advanced computer chips.",
     "Bubble tea was invented in Taichung in the 1980s.",
-    "Taipei's metro runs on time over 99.7% of the time.",
-    "Taiwan has one convenience store for every 1,700 people.",
-    "Yushan is nearly 180 m taller than Japan's Mount Fuji.",
+    "Taipei's metro trains run on time over 99.7% of the time, among the world's best.",
+    "Taiwan has one convenience store for every 1,700 people, more per person than almost anywhere.",
+    "Yushan, or Jade Mountain, is nearly 180 m taller than Japan's Mount Fuji.",
     "Taroko Gorge is one of Earth's largest marble canyons.",
     "So many sky lanterns fly at the Lantern Festival that the sky turns orange."
   ],
   "myths": [
     {
       "myth": "Bananas grow on trees",
-      "fact": "A banana plant is a giant herb, not a tree. Its trunk is not wood. It is made of tightly rolled leaves."
+      "fact": "A banana plant is a giant herb (a soft-stemmed plant), not a tree. Its trunk is not wood but tightly rolled leaves."
     },
     {
       "myth": "Taiwan and Thailand are the same place",
-      "fact": "They are far apart. Taiwan is an island near China. Thailand sits on the mainland of Southeast Asia."
+      "fact": "They are far apart. Taiwan is an island near China. Thailand is on mainland Southeast Asia."
     }
   ],
   "words": [

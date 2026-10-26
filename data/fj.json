@@ -24,7 +24,7 @@
     "keyColor": "#009FCA",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Fiji has 333 islands in the warm South Pacific. Only 110 have people living on them. Coral reefs shine like rainbows. People greet you with a happy word, Bula!",
+  "lead": "Fiji has 333 islands in the warm South Pacific. Only 110 have people living on them. People greet you with a happy word, Bula!",
   "facts": [
     {
       "label": "Capital",
@@ -74,27 +74,27 @@
   },
   "geo": [
     "Fiji lies about 1,770 km north of New Zealand. Its two biggest islands are Viti Levu and Vanua Levu. They are old volcanoes covered in rainforest.",
-    "The Great Sea Reef (Cakaulevu) stretches around the islands. Fiji is called the Soft Coral Capital of the World. More than 390 coral species grow in its turquoise water."
+    "The Great Sea Reef (Cakaulevu) stretches around the islands. More than 390 coral species grow in its turquoise water."
   ],
   "animals": [
-    "The banded iguana is Fiji's star reptile. This electric-green lizard has white stripes and lives only here. The crested iguana is critically endangered.",
-    "The collared lory is the national bird. This scarlet-and-green parrot darts through flowering trees. The Pacific flying fox is Fiji's only native land mammal."
+    "The banded iguana is Fiji's star reptile. This electric-green lizard has white stripes and lives only here. The crested iguana is close to dying out.",
+    "The collared lory is the national bird. This scarlet-and-green parrot darts through flowering trees. The Pacific flying fox, a giant fruit bat, is Fiji's only native land mammal."
   ],
   "culture": [
     "Fijians greet everyone with Bula! It means life, hello, welcome and cheers. Visitors to a village share a kava ceremony. Everyone drinks earthy root juice from one wooden bowl.",
-    "On Beqa island, men of the Nakarovu clan walk barefoot across white-hot stones. The ritual is 500 years old. The meke dance mixes chanting, drumming and movement to pass on legends."
+    "On Beqa island, men of the Nakarovu clan (family group) walk barefoot across white-hot stones. The ritual is 500 years old. The meke dance mixes chanting, drumming and movement to pass on legends."
   ],
   "history": [
     "People have lived in Fiji for at least 3,500 years. In 1874, Chief Cakobau signed the Deed of Cession. It gave Fiji to Queen Victoria, and British rule lasted 96 years.",
-    "Britain brought 61,000 Indian workers to cut sugar cane between 1879 and 1916. They shaped Fiji's mix of cultures. On 10 October 1970, the same date as the Cession, Fiji won full independence."
+    "Britain brought 61,000 Indian workers to cut sugar cane between 1879 and 1916. On 10 October 1970, 96 years to the day after the Deed, Fiji won full independence."
   ],
   "wows": [
-    "Fiji won Olympic rugby sevens gold in 2016 and 2020 with under a million people.",
-    "The International Date Line bends so all of Fiji stays in one time zone.",
+    "Fiji has under a million people, yet won Olympic gold in rugby sevens in 2016 and 2020.",
+    "The International Date Line (where the date changes) bends so all of Fiji stays in one time zone.",
     "Fiji's Great Sea Reef is the world's third-longest barrier reef, at over 200 km.",
     "Many of Fiji's plants and animals live nowhere else on Earth.",
     "Fijians often say yes by raising their eyebrows.",
-    "Rugby is the national passion, played in villages across Fiji.",
+    "Fiji has more registered rugby players per person than almost any other country.",
     "In 2021, conservationists planted 1,000 heat-adapted corals underwater, spelling BULA."
   ],
   "myths": [
@@ -104,7 +104,7 @@
     },
     {
       "myth": "The Pacific Ocean is always calm",
-      "fact": "Magellan named it 'peaceful' after calm seas. Fiji still gets storms called cyclones from November to April."
+      "fact": "Explorer Magellan named it 'peaceful' after calm seas. Fiji still gets storms called cyclones from November to April."
     }
   ],
   "words": [

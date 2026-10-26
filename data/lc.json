@@ -24,7 +24,7 @@
     "keyColor": "#65CFFF",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Saint Lucia is a volcanic island in the Caribbean. Two steep cones called the Pitons rise straight from the sea. Britain and France fought over it fourteen times. It has rainforest, reefs and banana farms.",
+  "lead": "Saint Lucia is a volcanic island in the Caribbean. Two steep cones called the Pitons rise straight from the sea.",
   "facts": [
     {
       "label": "Capital",
@@ -73,34 +73,34 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Saint Lucia sits between the Caribbean Sea and the Atlantic. The twin Pitons, Gros Piton (770 m) and Petit Piton (743 m), are a UNESCO World Heritage Site.",
-    "Thick rainforest covers the inland, fed by 2,000 mm of rain a year. Sulphur Springs near Soufrière is the world's only drive-in volcano. You park beside bubbling grey mud."
+    "Saint Lucia sits between the Caribbean Sea and the Atlantic. The twin Pitons are a UNESCO World Heritage Site (a place the world protects). Gros Piton is 770 m tall and Petit Piton is 743 m.",
+    "Thick rainforest covers the inland, fed by 2,000 mm of rain a year. Sulphur Springs near Soufrière is the world's only drive-in volcano."
   ],
   "animals": [
-    "The Saint Lucia Parrot, or Jacquot, is bright green with red, blue and yellow markings. It lives nowhere else. Fewer than 150 survived in the 1970s. Now over 1,000 do.",
-    "Leatherback sea turtles, heavier than a motorbike, nest on the beaches each spring. Reefs shelter seahorses and flying fish. The frogfish disguises itself as a bumpy rock."
+    "The Saint Lucia Parrot, or Jacquot, is bright green with red, blue and yellow markings. It lives nowhere else.",
+    "Leatherback sea turtles, heavier than a motorbike, nest on the beaches each spring. Reefs shelter seahorses and flying fish."
   ],
   "culture": [
-    "Saint Lucians blend French, African and British traditions. The Creole language Kwéyòl sounds like French with a Caribbean twist. Its national day, Jounen Kwéyòl, comes every October with food and music.",
-    "Carnival bursts out each July with soca music and dazzling costumes. The national dish is green fig and saltfish. Cricket is practically a religion."
+    "Saint Lucians blend French, African and British traditions. The Creole (mixed) language Kwéyòl sounds like French with a Caribbean twist. Its national day, Jounen Kwéyòl, comes every October.",
+    "Carnival bursts out each July with soca (lively dance music) and dazzling costumes. The national dish is green fig (unripe banana) and saltfish. Cricket is practically a religion."
   ],
   "history": [
-    "Arawak, then Carib, people lived here long before Europeans came. The harbour was a prize. Britain and France swapped control fourteen times between 1660 and 1814, a Caribbean record.",
-    "Enslaved Africans worked the sugar plantations. Their descendants form most of the population today. Slavery ended in 1834. Saint Lucia became fully independent on 22 February 1979."
+    "Arawak, then Carib, people (the first islanders) lived here long before Europeans came. The harbour was a prize. Britain and France swapped control fourteen times between 1660 and 1814, a Caribbean record.",
+    "Enslaved Africans worked the sugar plantations (big farms). Their descendants form most of the population today. Slavery ended in 1834. Saint Lucia became fully independent on 22 February 1979."
   ],
   "wows": [
-    "Two Nobel winners make Saint Lucia a world leader per person.",
-    "The Pitons are so famous that their shape alone says Saint Lucia.",
-    "At Sulphur Springs, you can drive within 20 m of boiling mud.",
-    "Parrot numbers grew from 150 in 1977 to over 1,000.",
+    "Saint Lucia has two Nobel Prize winners, more per person than any other country.",
+    "The Pitons are so famous that their shape alone shows Saint Lucia, even from space.",
+    "At Sulphur Springs, you can drive within 20 m of boiling volcanic mud, unique on Earth.",
+    "Saint Lucia Parrots grew from 150 birds in 1977 to over 1,000, thanks to local nature protectors.",
     "Saint Lucia changed rulers 14 times, leaving French and British marks.",
-    "Bananas grown in its volcanic soil taste sweeter than most.",
-    "The twin Pitons shelter Soufrière bay, giving calm sailing."
+    "Bananas grown in its volcanic soil taste sweeter than most store-bought bananas.",
+    "The twin Pitons block the wind at Soufrière bay, giving some of the calmest sailing in the Caribbean."
   ],
   "myths": [
     {
       "myth": "Bananas grow on trees",
-      "fact": "A banana plant is a giant herb with no wood. Its trunk is tightly wrapped leaves."
+      "fact": "A banana plant is a giant herb (a soft-stemmed plant) with no wood. Its trunk is tightly wrapped leaves."
     },
     {
       "myth": "All turtles have hard shells",

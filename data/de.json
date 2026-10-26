@@ -24,7 +24,7 @@
     "keyColor": "#DD0000",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Germany is in the middle of Europe. It has dark fairy-tale forests, snowy Alps and busy cities. Germans invented the printing press, the car and the Christmas tree. About 84 million people live here, the most in Europe.",
+  "lead": "Germany is in the middle of Europe. It has dark fairy-tale forests, snowy Alps and busy cities. Germans invented the printing press, the car and the Christmas tree. About 84 million people live here, the most in the EU.",
   "facts": [
     {
       "label": "Capital",
@@ -73,7 +73,7 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Germany has flat, windy coasts in the north and rolling farms in the middle. The south has the jagged Bavarian Alps. The Zugspitze reaches 2,962 metres.",
+    "Germany has flat, windy coasts in the north and rolling farms in the middle. The south has the jagged Bavarian Alps. The mountain Zugspitze reaches 2,962 metres.",
     "Forests cover nearly a third of Germany. The Black Forest is so dark and thick that it inspired the Brothers Grimm fairy tales. Rivers like the Rhine and Elbe pass castle-topped hills."
   ],
   "animals": [
@@ -81,7 +81,7 @@
     "Every spring, white storks fly home from Africa to the same rooftop nest. Germans think they bring luck. Red squirrels with ear tufts still dart through pine trees."
   ],
   "culture": [
-    "Germany has over 1,300 kinds of bread, more than any other country. UNESCO lists German bread-making as cultural heritage. A thick dark rye loaf often arrives first at lunch.",
+    "Germany has over 1,300 kinds of bread, more than any other country. UNESCO lists German bread-making as cultural heritage.",
     "Bach, Beethoven and Brahms were all German. Germany has over 80 opera houses, the most in the world. Christmas markets began here about 500 years ago."
   ],
   "history": [
@@ -90,21 +90,21 @@
   ],
   "wows": [
     "Hamburg has over 2,300 bridges, more than Venice, Amsterdam and London combined.",
-    "Hans Riegel invented the gummy bear in Bonn in 1922.",
-    "Some Autobahn sections have no speed limit, which no other big motorway network allows.",
-    "Gutenberg printed Europe's first book with movable type around 1450.",
-    "Czechs drink more beer per person than Germans, who rank only seventh.",
-    "Germans eat over 800 million currywurst a year, 70 million in Berlin.",
+    "Candy maker Hans Riegel invented the gummy bear in Bonn in 1922.",
+    "Some sections of Germany's Autobahn motorways have no speed limit, which no other big network allows.",
+    "Johannes Gutenberg printed Europe's first book with movable metal letters around 1450.",
+    "Czechs drink more beer per person than Germans, who rank only seventh in the world.",
+    "Germans eat over 800 million currywurst sausages a year, 70 million in Berlin alone.",
     "Germany has 16 states, each with its own parliament and police."
   ],
   "myths": [
     {
       "myth": "All Germans wear lederhosen",
-      "fact": "Lederhosen are Bavarian folk dress, worn mostly at festivals. In Berlin, people wear jeans."
+      "fact": "Lederhosen are leather shorts from Bavaria, in the south, worn mostly at festivals. In Berlin, people wear jeans."
     },
     {
       "myth": "Oktoberfest happens in October",
-      "fact": "Oktoberfest starts in September and ends in early October."
+      "fact": "The Munich beer festival starts in September and ends in early October."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Denmark is a small, flat country in northern Europe. Giant bridges link its islands. It gave the world LEGO, Vikings and Hans Christian Andersen's fairy tales. Danes love cycling and cosy candlelit evenings called hygge.",
+  "lead": "Denmark is a small, flat country in northern Europe. It gave the world LEGO, Vikings and Hans Christian Andersen's fairy tales. Danes love cycling and cosy candlelit evenings called hygge.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Denmark has the Jutland peninsula and over 400 islands. It is so flat that its highest hill is only 171 m. Sandy beaches, chalk cliffs and beech forests line the coasts.",
+    "Denmark has the Jutland peninsula (a long arm of land) and over 400 islands. Its highest hill is only 171 m. Beaches, chalk cliffs and beech forests line the coasts.",
     "The Great Belt Bridge is nearly 18 km long. The Øresund Bridge links Denmark to Sweden. You can drive between two countries over open sea in minutes."
   ],
   "animals": [
-    "Harbour porpoises and grey seals swim along the coast. White storks nest on southern rooftops each spring. Red deer roam the old beech forests.",
+    "Harbour porpoises (small whales) and grey seals swim along the coast. White storks nest on southern rooftops each spring.",
     "European hares sprint at 70 km/h across open fields. Each autumn, millions of starlings swirl in giant clouds over southern marshes. Danes call this 'Sort Sol', or Black Sun."
   ],
   "culture": [
-    "Hygge means cosiness, warm company, candles and hot drinks. Smørrebrød are open sandwiches piled with herring, eggs or roast beef. People eat them with a knife and fork.",
-    "The name LEGO comes from 'leg godt', which means 'play well'. Denmark also gave us the storyteller Hans Christian Andersen. Danish design is famous for clean, simple shapes."
+    "Hygge means cosiness, warm company, candles and hot drinks. Smørrebrød are open sandwiches piled with herring, eggs or roast beef.",
+    "The name LEGO comes from 'leg godt', which means 'play well'. Danish design is famous for clean, simple shapes."
   ],
   "history": [
-    "The Vikings sailed from Denmark over 1,000 years ago in longships. They reached England, Iceland, Greenland and even North America. Danish kings once ruled a vast northern empire.",
-    "Denmark became a peaceful constitutional monarchy in 1849. Today it is among the least corrupt nations. Education and healthcare are free."
+    "The Vikings sailed from Denmark over 1,000 years ago in longships (long wooden boats). They reached England, Iceland, Greenland and even North America. Danish kings once ruled a vast northern empire.",
+    "Denmark became a peaceful constitutional monarchy (a king who must follow the law) in 1849. Today it is among the world's least corrupt (most honest) nations. Education and healthcare are free."
   ],
   "wows": [
-    "Legend says the Dannebrog, the oldest flag still in use, fell from the sky in 1219.",
+    "Legend says the Dannebrog, the world's oldest national flag still in use, fell from the sky in 1219.",
     "Denmark makes around 60% of its electricity from wind.",
-    "LEGO began in a tiny Danish carpentry workshop in 1932.",
-    "Copenhagen's cycle lanes carry more bikes than cars every day.",
-    "Greenland, the world's largest island, is part of the Danish realm.",
-    "Denmark is often among the world's happiest countries in the UN report.",
-    "Nowhere in Denmark is more than 52 km from the sea."
+    "LEGO began in a tiny Danish carpentry workshop in 1932 and is now the top toy brand.",
+    "Copenhagen's bike lanes carry more bikes than cars through the city centre every day.",
+    "Greenland, the world's largest island, belongs to Denmark.",
+    "The UN's happiness report has ranked Denmark among the world's happiest countries many years running.",
+    "Nowhere in Denmark is more than 52 km from the sea, and it has no mountains."
   ],
   "myths": [
     {

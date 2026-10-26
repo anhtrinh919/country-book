@@ -24,7 +24,7 @@
     "keyColor": "#1A3E8C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Costa Rica is tiny, smaller than West Virginia. Yet it has more species than almost anywhere on Earth. Its two ocean coasts are just three hours apart by car. People say \"Pura Vida\" (Pure Life). It means hello, goodbye and \"life is wonderful\".",
+  "lead": "Costa Rica is tiny, smaller than West Virginia (a US state). Yet it has more species than almost anywhere on Earth. Its two ocean coasts are just three hours apart by car. People say \"Pura Vida\" (Pure Life). It means hello, goodbye and \"life is wonderful\".",
   "facts": [
     {
       "label": "Capital",
@@ -73,8 +73,8 @@
     "wows": "Surprising Costa Rica facts"
   },
   "geo": [
-    "Costa Rica has five active volcanoes. Arenal, a near-perfect cone, last erupted in 1968. Cool cloud forests cover the mountains.",
-    "The coasts are only 120 km apart. The Pacific has dry golden beaches. The Caribbean has coral reefs and sea turtles. Cocos Island, 550 km offshore, is a UNESCO World Heritage site."
+    "Costa Rica has five active volcanoes. Arenal, a near-perfect cone, last erupted in 1968.",
+    "The coasts are only 120 km apart. The Pacific has dry golden beaches. The Caribbean has coral reefs and sea turtles. Cocos Island, 550 km offshore, is a protected World Heritage site."
   ],
   "animals": [
     "Costa Rica has 5% of all species on Earth, yet covers just 0.03% of it. Resplendent quetzals flash emerald tails. Poison dart frogs glow electric blue.",
@@ -82,15 +82,15 @@
   ],
   "culture": [
     "Ticos (Costa Ricans) say \"Pura Vida\" dozens of times a day. They still talk about the 2014 World Cup quarter-final run. Breakfast is gallo pinto, rice and black beans fried together.",
-    "Oxcart paintings (carretas) are so detailed that UNESCO calls them heritage. Costa Rica abolished its army in 1948. Over 98% of people can read."
+    "Oxcart paintings (carretas) are so detailed that UNESCO (a UN group) calls them heritage. Costa Rica abolished its army in 1948. Over 98% of people can read."
   ],
   "history": [
-    "The Bribri and other peoples lived here long before Columbus arrived in 1502. He named it \"Rich Coast\". There was little gold, so colonists farmed small plots.",
+    "The Bribri and other peoples lived here long before Columbus arrived in 1502. He named it \"Rich Coast\". There was little gold, so settlers farmed small plots.",
     "Costa Rica broke from Spain peacefully in 1821. After a brief civil war in 1948, President Figueres abolished the army. He moved that money to schools and clinics."
   ],
   "wows": [
-    "Over 99% of Costa Rica's electricity comes from renewable sources.",
-    "Its constitution bans a standing army.",
+    "Over 99% of Costa Rica's electricity comes from clean sources like water and wind.",
+    "Few countries ban armies, but Costa Rica's law book does.",
     "Arenal was thought dead for 400 years before erupting in 1968.",
     "Costa Rica covers 0.03% of Earth but shelters about 5% of all known species.",
     "A quetzal's tail feathers can reach 65 cm, longer than its body.",
@@ -100,7 +100,7 @@
   "myths": [
     {
       "myth": "Costa Rica is hot and sunny everywhere",
-      "fact": "San José sits 1,170 m high. Its nights can be chilly. Locals always keep a sweater handy."
+      "fact": "San José sits 1,170 m high. Its nights can be chilly."
     },
     {
       "myth": "Bananas grow on trees",

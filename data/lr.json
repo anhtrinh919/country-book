@@ -24,7 +24,7 @@
     "keyColor": "#BF1F2E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Liberia is Africa's oldest republic. Freed Black Americans sailed across the ocean to found it in 1847. Thick rainforests hide pygmy hippos and chimpanzees. About 5.2 million people live on this green West African coast.",
+  "lead": "Liberia is Africa's oldest republic (a country with no king). Freed Black Americans sailed across the ocean to found it in 1847. Thick rainforests hide pygmy hippos and chimpanzees.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "Wait, did you know?"
   },
   "geo": [
-    "Liberia's coast runs 570 km along the Atlantic. Sandy beaches and mangrove swamps line the shore. Inland, green hills rise and wide rivers cut through the jungle.",
-    "More than 40% of West Africa's last Upper Guinean rainforest grows here. Up to 5 metres of rain fall near the coast each year."
+    "Liberia's coast runs 570 km along the Atlantic. Sandy beaches and mangrove swamps (salty swamps with trees) line the shore.",
+    "More than 40% of West Africa's last Upper Guinean rainforest (the forest along West Africa's coast) grows here. Up to 5 metres of rain fall near the coast each year."
   ],
   "animals": [
     "Sapo National Park is one of the best places to spot a pygmy hippo. This forest hippo is the size of a large pig.",
     "Western chimpanzees, Africa's most endangered chimps, swing through Liberia's old trees. Forest elephants and Diana monkeys live here too."
   ],
   "culture": [
-    "Liberia mixes two worlds. The 16 local groups, such as the Kpelle, Bassa, and Grebo, have lived here for centuries. Settlers from the US brought quilting, southern cooking, and wooden houses.",
-    "Rice comes with every meal, often with palava sauce (greens, dried fish, and palm oil). 'Pekin' means small child in Liberian English. Masked dancers keep old stories alive."
+    "Liberia mixes two worlds. The 16 local groups, such as the Kpelle, Bassa, and Grebo, have lived here for centuries. Settlers from the US brought quilting (patchwork blankets), southern cooking, and wooden houses.",
+    "Rice comes with every meal, often with palava sauce (greens, dried fish, and palm oil). Masked dancers keep old stories alive."
   ],
   "history": [
     "In 1822, the first freed Black Americans landed on Providence Island. In 1847 they declared independence. Liberia became Africa's first republic.",
-    "Civil wars raged from 1989 to 2003. Then, in 2006, Ellen Johnson Sirleaf became Africa's first elected female president. She won the Nobel Peace Prize in 2011."
+    "Civil wars raged from 1989 to 2003. Then, in 2006, Ellen Johnson Sirleaf became Africa's first elected female president. She won the Nobel Peace Prize (a top world prize) in 2011."
   ],
   "wows": [
-    "Firestone's rubber farm covers about 450 km², the world's largest under one company.",
+    "Firestone's rubber tree farm covers about 450 km², the world's largest under one company.",
     "A pygmy hippo weighs just 270 kg, one-tenth of a common hippo.",
-    "Ellen Johnson Sirleaf was Africa's first elected female head of state, in 2006.",
-    "Liberia's flag has 11 stripes for the 11 signers of the 1847 declaration.",
-    "Liberia keeps GMT exactly, with no time offset.",
-    "Sapo is West Africa's second-largest untouched lowland rainforest, after Taï.",
-    "Liberian rubber helped the Allies in World War II, some historians say."
+    "Ellen Johnson Sirleaf became the first woman elected president in Africa, in 2006.",
+    "Liberia's flag has 11 stripes, one for each of the 11 signers of its 1847 Declaration of Independence.",
+    "Liberia keeps Greenwich Mean Time (GMT), the world's starting clock time, with no offset.",
+    "Sapo is West Africa's second-largest block of untouched lowland rainforest, after Taï in Côte d'Ivoire.",
+    "Liberian rubber was so vital in World War II. Some historians say it helped the US and its friends win."
   ],
   "myths": [
     {

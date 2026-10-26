@@ -24,7 +24,7 @@
     "keyColor": "#1A6B9A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Uzbekistan is in the heart of Asia. Silk Road caravans once carried silk and spices through it. Samarkand has blue-tiled squares and minarets (tall towers) 600 years old. It is doubly landlocked, so you cross two borders to reach the sea.",
+  "lead": "Uzbekistan is in the heart of Asia. On the Silk Road, an old trade route, traders carried silk and spices. Samarkand has blue-tiled squares and tall towers 600 years old. It is doubly landlocked, so you cross two borders to reach the sea.",
   "facts": [
     {
       "label": "Capital",
@@ -73,28 +73,28 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Uzbekistan is mostly flat desert and dry steppe. Two rivers cross it, the Amu Darya and Syr Darya. Soviet planners diverted them to water cotton.",
+    "Uzbekistan is mostly flat desert and dry grassland. Two rivers cross it, the Amu Darya and Syr Darya. The old Soviet Union diverted them to water cotton.",
     "Snowy mountains rise in the east. The Ustyurt Plateau is flat as a table in the west. The Aral Sea lost 90% of its water."
   ],
   "animals": [
-    "The saiga antelope is an Ice Age survivor. Its bulging nose warms cold air before it reaches its lungs. Saiga herds cross the Ustyurt Plateau each winter.",
+    "The saiga antelope is an Ice Age survivor. Its bulging nose warms cold air before it reaches its lungs.",
     "The Bukharan markhor lives high in the Kugitang mountains. This wild goat has corkscrew horns over a metre long."
   ],
   "culture": [
-    "Plov is rice cooked with lamb, carrot, and cumin in a giant iron pot. An old proverb says, 'Rich or poor, eat plov.'",
-    "Navruz is the spring New Year, held at the March equinox. Families forgive old quarrels and feast in parks. People have celebrated it here for over 3,000 years."
+    "Plov is rice cooked with lamb, carrot, and cumin in a giant iron pot. An old saying goes, 'Rich or poor, eat plov.'",
+    "Navruz, the spring New Year, falls in March when day and night are equal. Families forgive old quarrels and feast in parks. People have celebrated it here for over 3,000 years."
   ],
   "history": [
-    "Samarkand and Bukhara became great Silk Road cities from the 8th century. In the 1420s, the astronomer-ruler Ulugbek built an observatory in Samarkand. It mapped over 1,000 stars.",
+    "Samarkand and Bukhara became great Silk Road cities from the 8th century. In the 1420s, the ruler Ulugbek built a star-watching tower in Samarkand. It mapped over 1,000 stars.",
     "In the 14th century, the conqueror Timur (Tamerlane) made Samarkand the capital of a vast empire. Russia took over the region in the 1860s–80s. Uzbekistan became independent in 1991."
   ],
   "wows": [
-    "Only two countries are doubly landlocked. Uzbekistan is one.",
-    "Samarkand's Registan has so much turquoise mosaic that it glows like a jewel.",
-    "Photos in Tashkent's palace-like metro stations were banned for 41 years.",
+    "Uzbekistan is one of only two countries needing two borders to reach any ocean.",
+    "Samarkand's Registan square has so much turquoise mosaic that it glows like a jewel.",
+    "Photos in Tashkent's palace-like underground train stations were banned for 41 years.",
     "In 1960, the Aral Sea was the world's 4th-largest lake. Now most of it is desert.",
-    "Old fishing boats sit stranded up to 150 km from the nearest water.",
-    "Khiva's walled inner city, Itchan Kala, has over 50 ancient monuments.",
+    "Aral Sea fishing boats sit stranded up to 150 km from the nearest water.",
+    "Khiva's walled inner city, Itchan Kala, has over 50 monuments.",
     "In 2017, Tashkent chefs cooked over 7 tonnes of plov in one pot."
   ],
   "myths": [
@@ -104,7 +104,7 @@
     },
     {
       "myth": "The Aral Sea can never be refilled",
-      "fact": "Kazakhstan's Kok-Aral Dam, built in 2005, brought water back to the northern Aral Sea."
+      "fact": "Kazakhstan's Kok-Aral Dam, built in 2005, partly refilled the northern Aral Sea."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#C0202E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Lebanon is a small Mediterranean country with 6,000 years of history. Phoenician ships carried the world's first alphabet from here. Snowy peaks rise an hour from sunny beaches. You can ski and swim on the same winter day.",
+  "lead": "Lebanon is a small Mediterranean country with 6,000 years of history. Ships of the Phoenicians, a people of ancient sailors, carried the world's first alphabet from here. Snowy peaks rise an hour from sunny beaches.",
   "facts": [
     {
       "label": "Capital",
@@ -73,28 +73,28 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Lebanon runs in four north–south stripes. First comes a sunny Mediterranean coast, then Mount Lebanon. Next is the flat Bekaa Valley, then the Anti-Lebanon mountains on the Syrian border.",
-    "The Kadisha Valley is a UNESCO World Heritage Site. Monks once sheltered in its cliff caves. Cedar groves above 1,400 m hold trees over a thousand years old."
+    "Lebanon runs in four north–south stripes. First comes a sunny Mediterranean coast, then the Mount Lebanon range. Next is the flat Bekaa Valley, then the Anti-Lebanon mountains on the Syrian border.",
+    "The Kadisha Valley is a UNESCO World Heritage Site (a place the world protects). Cedar groves above 1,400 m hold trees over a thousand years old."
   ],
   "animals": [
-    "The Lebanon cedar is the national emblem. Ancient trees in the Shouf reserve spread flat canopies like giant green parasols. Striped hyenas, wild boar and stone martens roam the forests at night.",
-    "Loggerhead sea turtles nest on Lebanon's sandy beaches each summer. Every autumn, flocks of honey buzzards and short-toed eagles funnel through the mountain ridges."
+    "The Lebanon cedar is the national symbol. Ancient trees in the Shouf reserve spread flat, wide tops like giant green umbrellas.",
+    "Loggerhead sea turtles nest on Lebanon's sandy beaches. Every autumn, flocks of migrating birds of prey pour through the mountain ridges."
   ],
   "culture": [
-    "Lebanese meals begin with meze: hummus, tabbouleh and warm flatbread. Guests get cardamom coffee the moment they arrive. Hospitality is a point of national pride.",
-    "Dabke is a stomping line dance performed at weddings. Dancers link arms and kick in time. Baalbeck's festival has held opera and jazz inside colossal Roman ruins since 1956."
+    "Lebanese meals begin with meze (small shared dishes): hummus, tabbouleh and warm flatbread. Guests get cardamom coffee the moment they arrive.",
+    "Dabke is a stomping line dance performed at weddings. Baalbeck's festival has held opera and jazz inside giant Roman ruins since 1956."
   ],
   "history": [
-    "Phoenicians founded trading cities here around 3000 BCE. They spread the first widely used alphabet to Greece. Alexander the Great, Romans, Crusaders and Ottomans each left temples and castles.",
-    "Lebanon gained independence from France in 1943. A civil war (1975–1990) split Beirut along the Green Line, but the city rebuilt. Baalbek's Roman temples have stood for 2,000 years."
+    "Phoenicians founded trading cities here around 3000 BCE. Alexander the Great, the Romans, European knights called Crusaders, and the Ottoman Turks each left temples and castles.",
+    "Lebanon gained independence from France in 1943. A civil war (1975–1990) split the capital, Beirut, along the Green Line (the front line). The city rebuilt."
   ],
   "wows": [
     "Phoenicians invented the 22-letter alphabet behind Greek, Latin and Arabic.",
-    "Mzaar ski slopes and Mediterranean beaches are just 50 km apart.",
-    "Baalbek's Trilithon holds three stones weighing up to 1,000 tonnes each.",
-    "Byblos has been inhabited since about 5000 BCE.",
+    "The Mzaar ski slopes and the sea are just 50 km apart. You can ski in the morning and swim that afternoon.",
+    "Baalbek's Trilithon is a wall of three stones. Each weighs up to 1,000 tonnes and was moved without machines.",
+    "Byblos has been continuously inhabited since about 5000 BCE, one of Earth's oldest cities.",
     "About 14 million Lebanese live abroad, over double the home population.",
-    "Alexander's causeway to Tyre, built in 332 BCE, still stands.",
+    "Alexander the Great built a road across the sea to island-city Tyre in 332 BCE. It is still there.",
     "Egyptian pharaohs sent fleets to Lebanon to buy cedar wood."
   ],
   "myths": [
@@ -104,7 +104,7 @@
     },
     {
       "myth": "The first alphabet had vowels like A and E",
-      "fact": "The Phoenician alphabet had only consonants. The Greeks later added vowels."
+      "fact": "The Phoenician alphabet had only consonants (letters like B and K). The Greeks later added vowels."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Greenland is the biggest island on Earth. Ice 3 km thick covers most of it. Yet people have lived on its coasts for 4,500 years. Dog sleds race over frozen fjords, and green northern lights fill the winter sky.",
+  "lead": "Greenland is the biggest island on Earth. Ice 3 km thick covers most of it. Yet people have lived on its coasts for 4,500 years. Dog sleds race over the frozen sea, and green northern lights fill the winter sky.",
   "facts": [
     {
       "label": "Capital",
@@ -73,11 +73,11 @@
     "wows": "Hard to believe, but true!"
   },
   "geo": [
-    "Ice covers 80% of Greenland. If it all melted, the sea would rise 7 metres. A canyon longer than the Grand Canyon hides beneath it.",
+    "Ice covers 80% of Greenland. If it all melted, the sea would rise 7 metres. A canyon longer than America's Grand Canyon hides beneath it.",
     "The coast has deep fjords (sea-filled valleys) and tiny coloured towns. In summer the sun never sets. In winter it never rises. Icebergs taller than skyscrapers drift by."
   ],
   "animals": [
-    "The narwhal is the real-life unicorn of the Arctic. Its spiral tusk grows up to 3 metres long. Polar bears hunt seals on the sea ice.",
+    "The narwhal is the real-life unicorn of the Arctic. Its spiral tusk can grow up to 3 metres long. Polar bears hunt seals on the sea ice.",
     "Musk oxen wear qiviut, the warmest wool on Earth. Arctic foxes turn white in winter. Huge flocks of little auks fill the summer cliffs."
   ],
   "culture": [
@@ -85,22 +85,22 @@
     "Suaasat is the national dish, a warm seal or whale stew. Houses are painted red, yellow and blue. The colours helped fishermen spot homes in blizzards."
   ],
   "history": [
-    "People have lived in Greenland for 4,500 years. Around 982 AD, Erik the Red named it Greenland to lure settlers. Two Viking colonies lasted 500 years, then vanished.",
+    "People have lived in Greenland for 4,500 years. Around 982 AD, Erik the Red, a Viking, named it Greenland to lure settlers. Two Viking colonies lasted nearly 500 years, then vanished.",
     "The Thule people, ancestors of today's Greenlanders, arrived around 1200 AD. Denmark colonised Greenland in 1721. In 2009 it won self-government, and people now debate full independence."
   ],
   "wows": [
-    "Heavy ice pushes the land's centre below sea level.",
+    "Heavy ice presses the land's centre 300 m below sea level.",
     "The Ilulissat Glacier moves up to 46 m a day.",
     "No roads link its towns, so people use boats, planes and sleds.",
-    "Greenland's flag has no cross, unlike other Nordic flags.",
+    "Greenland's flag has no cross, unlike Denmark's and Norway's flags.",
     "A narwhal's tusk is really a giant tooth.",
     "Kalaallit Nunaat, the Greenlandic name, means land of the Greenlanders.",
-    "Greenland has the fewest people per square kilometre on Earth."
+    "Greenland has fewer people per square kilometre than any country."
   ],
   "myths": [
     {
       "myth": "Greenland is as big as Africa",
-      "fact": "It only looks that big on flat maps. Africa is about 14 times bigger. Greenland is close to the size of DR Congo."
+      "fact": "It only looks that big on flat maps. Africa is about 14 times bigger. Greenland is close to the size of Africa's DR Congo."
     },
     {
       "myth": "Greenlanders live in igloos",

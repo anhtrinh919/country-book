@@ -24,7 +24,7 @@
     "keyColor": "#CE2B37",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Italy looks like a tall boot kicking a football. The football is Sicily. The Alps lie to the north. Pizza, opera, the Roman Empire, and the Renaissance all began here. Sixty million Italians live among ancient ruins.",
+  "lead": "Italy looks like a tall boot kicking a football. The football is Sicily. Pizza, opera, the Roman Empire, and the Renaissance all began here. Sixty million Italians live among ancient ruins.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "Believe it or not…"
   },
   "geo": [
-    "Italy is a long peninsula (land with sea on three sides). The Alps wall off the north. Sicily and Sardinia are big islands. Vatican City and San Marino are tiny nations inside Italy.",
-    "The Apennine Mountains run down Italy like a spine. It has two active volcanoes, Etna and Vesuvius. The fertile Po Valley is the breadbasket."
+    "Italy is a long peninsula (land with sea on three sides). The Alps wall off the north. Vatican City and San Marino are tiny nations inside Italy.",
+    "The Apennine Mountains run down Italy like a spine. It has two active volcanoes, Etna and Vesuvius. The flat Po Valley grows much of Italy's food."
   ],
   "animals": [
-    "Grey wolves nearly vanished, but over 3,000 now roam the Apennines. The rare Marsican brown bear numbers just 60 in Abruzzo National Park.",
+    "Grey wolves nearly vanished, but over 3,000 now roam the Apennines. The rare Marsican brown bear numbers just around 60 in Abruzzo National Park.",
     "Loggerhead turtles nest on southern beaches. The tiny Giara horse of Sardinia stands barely a metre tall. It lives nowhere else on Earth."
   ],
   "culture": [
     "Italians treat food like art. Each region has its own recipes. Using the wrong pasta shape is a real offence. Espresso is drunk standing at a bar in under a minute.",
-    "Opera began in Italy around 1600. Football (calcio) is almost a religion. Italian fashion, sports cars, and ceramic tiles are copied worldwide."
+    "Opera (sung plays) began in Italy around 1600. Football (calcio) is almost a religion. Italian fashion, sports cars, and ceramic tiles are copied worldwide."
   ],
   "history": [
-    "Rome grew from a village (753 BC, says legend) into an empire. It ruled from Scotland to Mesopotamia until AD 476. Then rival cities like Florence and Venice paid artists like Leonardo.",
-    "The Renaissance (1400–1600) made Italy the art capital of the world. Italy united only in 1861, so it is younger than the United States."
+    "Rome grew from a village (753 BC, says legend) into an empire. It ruled from Scotland to Mesopotamia (now Iraq) until AD 476.",
+    "The Renaissance (1400–1600), a time of great art and ideas, made Italy the art capital of the world. Italy united only in 1861, so it is younger than the United States."
   ],
   "wows": [
-    "Italy has more UNESCO World Heritage Sites than any country: 59 in 2024.",
+    "Italy has more UNESCO World Heritage Sites (protected places) than any country: 59 in 2024.",
     "Vatican City, inside Rome, is the world's smallest country at 0.44 km².",
     "Roman harbour concrete built 2,000 years ago still stands underwater.",
     "Italy makes more wine than any country, over 4.9 billion litres a year.",
-    "The Colosseum held up to 80,000 people and had a retractable awning for shade.",
-    "Italian is the closest living language to Latin, about 60% mutually intelligible.",
+    "The Colosseum, a Roman arena, held up to 80,000 people and had a cloth roof for shade.",
+    "Italian is the closest living language to Latin (Rome's old language), about 60% mutually understandable.",
     "Mount Etna has erupted on and off for at least 500,000 years."
   ],
   "myths": [
     {
       "myth": "Marco Polo brought pasta from China",
-      "fact": "Italians already made pasta in the 1100s. Marco Polo came home in 1295."
+      "fact": "Italians already made pasta in the 1100s. Traveller Marco Polo came home in 1295."
     },
     {
       "myth": "Julius Caesar was an emperor",
-      "fact": "Caesar was a dictator of the Republic, killed in 44 BC. His adopted son Augustus became the first emperor."
+      "fact": "Caesar was a dictator (all-powerful leader), killed in 44 BC. His adopted son Augustus became the first emperor."
     }
   ],
   "words": [

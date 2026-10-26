@@ -24,7 +24,7 @@
     "keyColor": "#D0021B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Switzerland is a small country in the middle of Europe. Tall Alpine peaks poke the clouds. People speak four languages here. The Swiss have stayed neutral (taking no side) in every war for over 200 years. They invented the Red Cross and modern banking.",
+  "lead": "Switzerland is a small country in the middle of Europe. Tall Alpine peaks poke the clouds. People speak four languages here. The Swiss have stayed neutral (taking no side) in every war for over 200 years. They invented the Red Cross (an aid group) and modern banking.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "Wait — Switzerland did WHAT?"
   },
   "geo": [
-    "The Alps rise like a giant wall across the country. Over 1,500 lakes shimmer between the peaks. The Rhine, Rhône and Inn rivers all start here.",
-    "Most Swiss people live on the rolling plateau in the middle. The Jura Mountains form a quieter ridge in the north-west. Five countries surround Switzerland, but it has no coast."
+    "The Alps rise like a giant wall across the country. Over 1,500 lakes shimmer between the peaks. The Rhine, Rhône and Inn rivers start here.",
+    "Most Swiss people live on the rolling plateau in the middle. Five countries surround Switzerland, but it has no coast."
   ],
   "animals": [
-    "The ibex is a wild mountain goat with horns longer than your arm. The marmot is a chubby rodent that naps underground all winter. Golden eagles soar above the treeline.",
+    "The ibex is a mountain goat with horns longer than your arm. The marmot is a chubby ground squirrel that naps underground all winter.",
     "Red deer and chamois graze in the forests below. Bearded vultures, brought back in 1991, glide overhead. Monks bred the Saint Bernard dog to rescue lost travellers."
   ],
   "culture": [
-    "Signs switch language at canton (Swiss region) borders. Swiss German sounds nothing like classroom German. Raclette is melted cheese poured over potatoes. Families share fondue from one pot.",
-    "Swiss watchmakers have worked since the 1600s. Rolex and Swatch were born here. Citizens vote on nearly everything, from tax rates to new tunnels."
+    "Signs switch language at canton (Swiss region) borders. Swiss German sounds nothing like classroom German. Raclette is melted cheese poured over potatoes. Families share fondue (melted cheese) from one pot.",
+    "Swiss watchmakers have worked since the 1600s. Rolex and Swatch watches were born here. Citizens vote on nearly everything, from tax rates to new tunnels."
   ],
   "history": [
-    "Celtic Helvetians lived here before Julius Caesar marched through in 58 BC. In 1291, three mountain communities signed a pact to defend each other. National Day is 1 August.",
+    "Celtic Helvetians lived here before the Roman general Julius Caesar marched through in 58 BC. In 1291, three mountain communities signed a pact to defend each other. National Day is 1 August.",
     "Switzerland declared permanent neutrality in 1815. Geneva became the Red Cross headquarters in 1863. Today it holds more international organisations than anywhere else."
   ],
   "wows": [
     "Switzerland has more banks per person than almost any country.",
     "The St Gotthard Base Tunnel (2016) is the world's longest railway tunnel, at 57 km.",
-    "Swiss people eat about 10 kg of chocolate each year.",
-    "Switzerland has enough bunkers for its whole population.",
-    "George de Mestral invented Velcro after burrs stuck to his dog.",
+    "Swiss people eat about 10 kg of chocolate a year, among the world's most.",
+    "Switzerland has enough underground shelters for its whole population.",
+    "Engineer George de Mestral invented Velcro after prickly seeds stuck to his dog.",
     "The Swiss army knife was first made in 1891.",
-    "Geneva's Jet d'Eau fountain shoots water 140 metres high."
+    "Geneva's Jet d'Eau fountain shoots water 140 metres high, taller than Notre-Dame Cathedral."
   ],
   "myths": [
     {

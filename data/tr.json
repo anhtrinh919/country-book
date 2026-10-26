@@ -24,7 +24,7 @@
     "keyColor": "#E30A17",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Turkey is a giant bridge. Istanbul sits in both Europe and Asia. Turkey has warm beaches, tall mountains, and a cave city where people lived underground. It gave the world tulips, coffee houses, and fine carpets.",
+  "lead": "Turkey is a giant bridge. Istanbul sits in both Europe and Asia. Turkey has warm beaches, mountains, and a cave city where people lived underground.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Turkey straddles two continents. Anatolia, the Asian peninsula, makes up 97% of it. Just 3% is in Europe. The Black Sea, Aegean, Mediterranean, and narrow Sea of Marmara ring it.",
+    "Turkey straddles two continents. Anatolia, the Asian peninsula, makes up 97% of it. Just 3% is in Europe. The Black Sea, Aegean, Mediterranean, and Sea of Marmara ring it.",
     "Inland, beaches give way to a high plateau, then the rugged Taurus Mountains. In Cappadocia, old volcanoes left mushroom-shaped rocks called fairy chimneys. People carved homes inside them."
   ],
   "animals": [
-    "Brown bears, grey wolves, and the endangered Anatolian leopard live in Turkey's forests. Each autumn, millions of buzzards and eagles fly over the Bosphorus.",
+    "Brown bears, grey wolves, and the endangered Anatolian leopard live in Turkey's forests. Each autumn, millions of buzzards and eagles fly over the Bosphorus strait.",
     "Loggerhead sea turtles bury eggs on Mediterranean beaches each summer. The Van cat is white, with one blue eye and one amber eye. It is named after Lake Van."
   ],
   "culture": [
-    "Turks pour tea (çay) into tiny tulip-shaped glasses all day. Turkey drinks more tea per person than almost anywhere. Street vendors sell simit, a sesame bread ring.",
-    "Turkish art has kilim carpets, blue Iznik tiles, and dervish dancers in whirling skirts. Marble hammams (bathhouses) have been places to relax and chat since Ottoman times."
+    "Turks pour tea (çay) into tiny tulip-shaped glasses. Turkey drinks more tea per person than almost anywhere.",
+    "Turkish art has kilim carpets, blue Iznik tiles, and whirling dervish dancers (Sufi prayer dancers). Hammams (bathhouses) have been places to relax and chat since Ottoman times (the old Turkish empire)."
   ],
   "history": [
-    "Göbekli Tepe, a temple built around 9600 BC, is 6,000 years older than Stonehenge. Hittites, Greeks, Romans, and Byzantines all lived in Anatolia.",
-    "In 1453, Sultan Mehmed II conquered Constantinople, ending the Byzantine Empire. The Ottomans built a realm from Vienna to Baghdad. In 1923, Atatürk moved the capital from Istanbul to Ankara."
+    "Göbekli Tepe, a temple built around 9600 BC, is 6,000 years older than Stonehenge, England's ring of giant stones. Greeks and Romans also lived in Anatolia.",
+    "In 1453, Sultan (king) Mehmed II conquered Constantinople, today's Istanbul. The Ottomans built a realm from Vienna to Baghdad. In 1923, Atatürk, the first president, moved the capital from Istanbul to Ankara."
   ],
   "wows": [
-    "Göbekli Tepe is 12,000 years old, built before people even farmed.",
-    "Istanbul sits on two continents, joined by the Bosphorus Bridge.",
-    "Turkey grows about 70% of the world's hazelnuts,.",
-    "Ephesus had the Temple of Artemis, a Wonder of the Ancient World, and 12,000 scrolls.",
+    "Göbekli Tepe, the oldest known temple, is 12,000 years old, built before people farmed.",
+    "Istanbul is one of the few cities on two continents, joined by the Bosphorus Bridge.",
+    "Turkey grows about 70% of the world's hazelnuts along its Black Sea coast.",
+    "Ephesus, an ancient city, had the Temple of Artemis, a Wonder of the Ancient World, and 12,000 scrolls.",
     "Turkish is part of a language family reaching Central Asia.",
     "Oil wrestling (yağlı güreş), where athletes coat themselves in olive oil, has run yearly since 1362.",
-    "Derinkuyu underground city sheltered 20,000 people, and animals, 85 metres down."
+    "Derinkuyu underground city sheltered 20,000 people, and animals, some 85 metres down."
   ],
   "myths": [
     {

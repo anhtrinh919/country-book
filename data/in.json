@@ -13,7 +13,7 @@
     "keyColor": "#FF9933",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "India is the world's most populous country, with over 1.4 billion people. It has hundreds of languages, scorching deserts, snowy peaks and ancient cities. It gave the world the number zero, chess and yoga.",
+  "lead": "India has more people than any other country, over 1.4 billion. It has hundreds of languages, scorching deserts, snowy peaks and ancient cities. It gave the world the number zero, chess and yoga.",
   "facts": [
     {
       "label": "Capital",
@@ -63,11 +63,11 @@
   },
   "geo": [
     "India is shaped like a giant triangle pointing south into the Indian Ocean. The Himalaya form a snowy wall in the north. The Thar Desert bakes in the west.",
-    "In the south, the Western and Eastern Ghats frame a warm green plateau. The monsoon, from June to September, brings huge rain clouds that fill rivers and flood rice paddies."
+    "In the south, the Western and Eastern Ghats, two mountain ranges, frame a warm green plateau. The monsoon, the rainy season from June to September, brings huge rain clouds that fill rivers and flood rice paddies."
   ],
   "animals": [
-    "India's national animal is the Bengal tiger. A 2022 census counted 3,682 wild tigers, more than in any other country. Festivals decorate Asian elephants with paint.",
-    "India's national bird is the peacock, whose electric-blue fan shimmers like a disco dancer. The rare Ganges river dolphin finds its way through muddy water with sonar."
+    "India's national animal is the Bengal tiger. A 2022 count found 3,682 wild tigers, more than in any other country. Festivals decorate Asian elephants with paint.",
+    "India's national bird is the peacock, whose electric-blue fan shimmers like a disco dancer. The rare Ganges river dolphin finds its way through muddy water with sonar (sound echoes)."
   ],
   "culture": [
     "At Diwali a million oil lamps light the night. Holi is the festival of colour. People chase each other with clouds of bright powder.",
@@ -75,15 +75,15 @@
   ],
   "history": [
     "The Indus Valley civilisation flourished here over 4,000 years ago, with planned cities and drainage systems. Maurya, Gupta and Mughal empires each left monuments that still stand.",
-    "In the 1600s Shah Jahan built the Taj Mahal as a tomb for his beloved wife. In 1947 Mahatma Gandhi led a peaceful independence movement."
+    "In the 1600s Emperor Shah Jahan built the Taj Mahal as a tomb for his beloved wife. In 1947 Mahatma Gandhi led a peaceful independence movement."
   ],
   "wows": [
-    "India invented the number zero.",
+    "India invented the number zero, which computers use.",
     "The Taj Mahal's white marble looks pink at dawn.",
-    "India has over 19,500 languages and dialects.",
+    "India has over 19,500 languages and dialects (local ways of speaking).",
     "Indian Railways carries about 23 million passengers every day.",
-    "Chandrayaan-3 landed near the Moon's south pole in August 2023.",
-    "Varanasi has been lived in for at least 3,000 years.",
+    "Chandrayaan-3 landed near the Moon's south pole in August 2023, a world first.",
+    "The Ganges city of Varanasi has been lived in for at least 3,000 years.",
     "India produces about 40% of the world's spices."
   ],
   "myths": [

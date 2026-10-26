@@ -24,7 +24,7 @@
     "keyColor": "#75AADB",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Uruguay sits between Brazil and Argentina on South America's Atlantic coast. It has roughly four cows for every person, a world record. Its capital, Montevideo, hugs the wide Río de la Plata estuary.",
+  "lead": "Uruguay sits between Brazil and Argentina on South America's Atlantic coast. It has roughly four cows for every person, a world record. Its capital, Montevideo, hugs the wide Río de la Plata estuary (where a river meets the sea).",
   "facts": [
     {
       "label": "Capital",
@@ -73,34 +73,34 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Uruguay is mostly rolling grassland called the Pampas. Cattle dot the green hills. Its highest peak, Cerro Catedral, is only 514 m.",
-    "The Río de la Plata meets the Atlantic along the coast. Uruguay has sandy beaches, dune lagoons, and sea-lion colonies on rocky islands."
+    "Uruguay is mostly rolling grassland called the Pampas. Its highest peak, Cerro Catedral, is only 514 m.",
+    "Uruguay has sandy beaches, dune lagoons, and sea-lion colonies on rocky islands."
   ],
   "animals": [
-    "The capybara is the world's largest rodent. It is the size of a small pig. Families paddle through Uruguay's lagoons.",
+    "The capybara is the world's largest rodent (a gnawing animal). It is the size of a small pig. Families paddle through Uruguay's lagoons.",
     "The greater rhea looks like a feathery ostrich. It is the biggest bird in the Americas, but it cannot fly. The hornero, Uruguay's national bird, builds a clay nest like a little oven."
   ],
   "culture": [
     "Uruguayans carry a hot-water thermos everywhere. They pour it into a gourd of yerba mate, a bitter herbal drink. On Sundays, families grill beef over wood embers. That is asado.",
-    "Candombe drumming arrived with enslaved Africans and never left. UNESCO lists it as Intangible Cultural Heritage. Carnival fills Montevideo with drums every February. Tango grew up here too, so Uruguay shares its birth with Argentina."
+    "Candombe drumming arrived with enslaved Africans and never left. Carnival fills Montevideo with drums every February. Tango grew up here too, so Uruguay shares its birth with Argentina."
   ],
   "history": [
-    "The Charrúa people lived here for thousands of years. Spanish explorers arrived in 1516. Portugal founded Colonia del Sacramento in 1680. From 1811, José Artigas rallied farmers and freed slaves against Spain.",
-    "In 1825, thirty-three patriots crossed the river and declared independence. British diplomats brokered peace in 1828. Uruguay became a buffer state, a calm gap between giants Brazil and Argentina."
+    "The Indigenous Charrúa people lived here for thousands of years. Spanish explorers arrived in 1516. From 1811, hero José Artigas rallied farmers and freed slaves against Spain.",
+    "In 1825, thirty-three patriots crossed the river and declared independence. British diplomats arranged peace in 1828. Uruguay became a buffer state, a calm gap between giants Brazil and Argentina."
   ],
   "wows": [
     "Uruguay has about 3.6 cows per person, the world's highest ratio.",
-    "In 2013, it became the first country to fully legalise recreational cannabis.",
+    "In 2013, it was the first country to allow cannabis, a plant drug, fully by law.",
     "Montevideo hosted the first FIFA World Cup in 1930. Uruguay won it.",
-    "Montevideo's rambla, a seaside walkway, is 22 km long.",
-    "Free public schools for girls and boys began here in the 1870s.",
-    "Colonia del Sacramento is a UNESCO World Heritage Site with cobbled streets.",
-    "Uruguay has no mountain chains, jungle, or volcanoes."
+    "Montevideo's rambla, a seaside walkway, is 22 km long, the world's longest in a city.",
+    "Free public schools for girls and boys began here in the 1870s, ahead of most of Europe.",
+    "Colonia del Sacramento, founded 1680, is a protected UNESCO World Heritage Site with cobbled streets.",
+    "Uruguay has no mountain chains, jungle, or volcanoes, unlike most of South America."
   ],
   "myths": [
     {
       "myth": "A cow has four stomachs",
-      "fact": "A cow has one stomach with four parts. Each part does a different job when it digests grass."
+      "fact": "A cow has one stomach with four parts. Each part does a different job."
     },
     {
       "myth": "Bulls charge at the colour red",

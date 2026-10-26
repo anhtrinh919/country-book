@@ -24,7 +24,7 @@
     "keyColor": "#E70013",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Tunisia is a sunny land where Sahara dunes meet Mediterranean beaches. It has Roman ruins and medinas that smell of jasmine and spice. In 2011, Tunisians peacefully overthrew their government. They were the first Arab country to do so.",
+  "lead": "Tunisia is a sunny land where Sahara dunes meet Mediterranean beaches. It has Roman ruins and medinas (old walled towns) that smell of jasmine and spice. In 2011, Tunisians peacefully overthrew their government. They were the first Arab country to do so.",
   "facts": [
     {
       "label": "Capital",
@@ -77,25 +77,25 @@
     "In the south, the Chott el-Djerid salt lake shimmers like a mirror. Then the Sahara begins. Tall orange dunes rise near Douz, where camels plod at sunset."
   ],
   "animals": [
-    "The shallow Gulf of Gabès is a nursery for octopus and sea bream. Endangered loggerhead sea turtles nest on its beaches. Pink flamingos wade in coastal lagoons every winter.",
-    "Wild boar and Barbary red deer roam the northern cork-oak forests. Striped hyenas and fennec foxes prowl the desert edge at night."
+    "The shallow Gulf of Gabès is a nursery for octopus and sea bream. Endangered loggerhead sea turtles nest on its beaches. Pink flamingos wade in lagoons every winter.",
+    "Wild boar and red deer roam the northern forests. Striped hyenas and fennec foxes prowl the desert edge at night."
   ],
   "culture": [
     "Harissa, a brick-red paste of dried chillies, garlic, and cumin, goes on almost everything. Brik, a crispy pastry with a runny egg inside, is a classic breakfast.",
-    "Malouf music blends Andalusian strings, Berber drums, and modern pop. The walled medina of Tunis is a UNESCO-listed maze of souks (markets)."
+    "Malouf music blends Andalusian strings, Berber drums, and modern pop. The walled medina of Tunis is a UNESCO-listed (protected) maze of souks (markets)."
   ],
   "history": [
-    "Carthage was founded near modern Tunis around 814 BC. Its general Hannibal crossed the Alps with war elephants to attack Rome. Rome won, flattened Carthage, then rebuilt it.",
-    "Arabs brought Islam in the 7th century. Ottoman rule followed, then French colonisation in 1881. Independence came in 1956. In 2011, Mohamed Bouazizi's protest sparked the Jasmine Revolution and the Arab Spring."
+    "Carthage, an ancient city, was founded near modern Tunis around 814 BC. Its general Hannibal crossed the Alps with war elephants to attack Rome. Rome won, flattened Carthage, then rebuilt it.",
+    "Arabs brought Islam in the 7th century. Ottoman (Turkish) rule followed, then French rule in 1881. Independence came in 1956. In 2011, street vendor Mohamed Bouazizi's protest sparked the Arab Spring."
   ],
   "wows": [
-    "Tunisia's olive trees top 2,000 years old, and it exports about 1.8 billion litres of oil a year.",
+    "Some olive trees here are over 2,000 years old. Tunisia exports about 1.8 billion litres of oil yearly.",
     "In Matmata, families carved homes underground, and Star Wars filmed Luke's planet there.",
-    "The Chott el-Djerid salt lake looks like liquid silver.",
+    "The Chott el-Djerid salt lake looks like liquid silver from the air.",
     "Tunisia abolished slavery in 1846, nearly 20 years before the United States.",
     "The Bardo Museum has the world's largest collection of Roman floor mosaics.",
     "Tunis's medina has over 700 monuments, in lanes too narrow for cars.",
-    "Romans reportedly ploughed salt into Carthage's ruins."
+    "Carthage was so thoroughly destroyed that Romans reportedly ploughed salt into its ruins."
   ],
   "myths": [
     {
@@ -104,7 +104,7 @@
     },
     {
       "myth": "Sahara camels have two humps",
-      "fact": "They have one hump and are called dromedaries. Two-humped camels live in cold Central Asia."
+      "fact": "They have one hump and are called dromedaries."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#D21034",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Albania is a small country on the Adriatic Sea, squeezed between mountains and turquoise water. In Albanian, its name Shqipëria means Land of the Eagles. A black two-headed eagle flies on its red flag. Ancient castles, Ottoman bazaars, and hidden beaches fill the land.",
+  "lead": "Albania is a small country on the Adriatic Sea. In Albanian, its name Shqipëria means Land of the Eagles. A black two-headed eagle flies on its red flag. Ancient castles, old markets, and hidden beaches fill the land.",
   "facts": [
     {
       "label": "Capital",
@@ -73,34 +73,34 @@
     "wows": "Did you know?"
   },
   "geo": [
-    "Mountains and hills cover almost all of Albania. The northern Albanian Alps are so rugged that villages stayed cut off for centuries. Three big lakes, Shkodër, Ohrid, and Prespa, lie along the borders.",
+    "Mountains and hills cover almost all of Albania. The Albanian Alps are so rugged that villages stayed cut off for centuries.",
     "The coast stretches 476 km along the Adriatic and Ionian Seas. The Vjosë River flows free without a single dam. In 2023 it became Europe's first Wild River National Park."
   ],
   "animals": [
-    "The golden eagle is Albania's national animal. Brown bears roam the northern highlands. Wolves and lynx hide in beech forests. Prespa Lakes have Europe's largest Dalmatian pelican colony.",
-    "Loggerhead sea turtles nest on the Ionian coast. Ohrid trout live only in Lake Ohrid and are protected. Flamingos visit Narta Lagoon each winter."
+    "The golden eagle is Albania's national animal. Brown bears roam the highlands. Prespa Lakes have Europe's largest Dalmatian pelican colony.",
+    "Loggerhead sea turtles nest on the Ionian coast. Ohrid trout live only in Lake Ohrid and are protected."
   ],
   "culture": [
-    "Albanians live by an old honour code called Besa. Your word is your bond. In iso-polyphony, voices weave haunting harmonies. UNESCO lists this music as heritage.",
-    "A mayor had grey communist blocks in Tirana painted with bright murals. People eat byrek (flaky cheese pastry) and tavë kosi (baked lamb with yoghurt)."
+    "Albanians live by an old honour code called Besa. Your word is your bond. Singers weave harmonies in iso-polyphony (many voices at once). UNESCO lists this music as heritage.",
+    "In the capital, Tirana, a mayor had grey apartment blocks painted with murals. People eat byrek (flaky cheese pastry) and tavë kosi (baked lamb with yoghurt)."
   ],
   "history": [
-    "Illyrians built hilltop forts here 2,500 years ago. The Ottomans ruled for nearly 500 years from 1479. Hero Skanderbeg held off their army for 25 years.",
-    "Independence came in 1912. Dictator Enver Hoxha sealed Albania off from the world and built 173,000 bunkers. Many are now cafés and museums. Albania joined NATO in 2009."
+    "Illyrians, an ancient people, built hilltop forts here 2,500 years ago. The Ottomans (a Turkish empire) ruled for nearly 500 years. Hero Skanderbeg held off their army for 25 years.",
+    "Independence came in 1912. Dictator Enver Hoxha sealed Albania off from the world and built 173,000 bunkers. Many are now cafés and museums. Albania joined NATO, an army alliance, in 2009."
   ],
   "wows": [
-    "No country has more bunkers per km² than Albania.",
-    "In Albania, nodding means no and shaking your head means yes.",
-    "Only Albanians call their country Shqipëria.",
-    "UNESCO city Gjirokastër has roofs of flat stone slabs, not clay tiles.",
-    "Lake Ohrid is over 1.3 million years old, one of the oldest lakes.",
-    "Albania ended World War II with more Jews than it started with.",
+    "Albania has more bunkers per km² than any country, about one for every 14 people.",
+    "In Albania, nodding means no and shaking your head means yes, unlike most countries.",
+    "Only Albanians call their country Shqipëria, 'Land of the Eagles'.",
+    "In UNESCO city Gjirokastër, every roof is flat stone, not clay tile.",
+    "Lake Ohrid is over 1.3 million years old, one of the world's oldest lakes.",
+    "Albania ended World War II with more Jews than before, the only Nazi-occupied land to do so.",
     "A 600-year-old law code, the Kanun, still guides some Alpine villages."
   ],
   "myths": [
     {
       "myth": "Albania is in the European Union",
-      "fact": "Albania is a candidate, not a member. It has been one since 2014."
+      "fact": "Albania is a candidate (waiting to join), not a member. It has been one since 2014."
     },
     {
       "myth": "Mother Teresa was born in India",

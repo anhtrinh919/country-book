@@ -24,7 +24,7 @@
     "keyColor": "#AE1C28",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "The Netherlands is small and flat. A quarter of its land is below sea level. The Dutch built huge dykes to keep the sea out. Tulip fields blaze with colour every spring, and canals thread through Amsterdam.",
+  "lead": "The Netherlands is small and flat. A quarter of its land is below sea level. The Dutch built huge dykes (sea walls) to keep the sea out. Tulip fields blaze with colour every spring, and canals thread through Amsterdam.",
   "facts": [
     {
       "label": "Capital",
@@ -73,7 +73,7 @@
     "wows": "Can you believe it?"
   },
   "geo": [
-    "The land is so flat you can cycle for days without a hill. Polders are old seabed drained by dykes and pumps. The Rhine and Maas rivers fan out into a delta.",
+    "The land is so flat you can cycle for days without a hill. Polders are old seabed drained by dykes and pumps. The Rhine and Maas rivers fan out into channels.",
     "Gentle hills rise near Vaalserberg in the south. The Wadden Sea coast is a UNESCO site. The sea empties and fills twice a day. Sandbanks crowd with birds and basking seals."
   ],
   "animals": [
@@ -81,12 +81,12 @@
     "European badgers dig their homes in the wooded east. Stocky grey Konik horses roam wild in reserves like Oostvaardersplassen."
   ],
   "culture": [
-    "The Dutch say exactly what they mean. It avoids confusion. Cycling is simply life here: 23 million bikes for 18 million people.",
-    "Dutch food is hearty. People eat stroopwafels (waffle-and-caramel sandwiches), raw herring from street stalls and Gouda cheese. The Dutch also gave the world Rembrandt, Vermeer and Van Gogh."
+    "The Dutch say exactly what they mean. Cycling is simply life here: 23 million bikes for 18 million people.",
+    "Dutch food is hearty. People eat stroopwafels (waffle-and-caramel sandwiches), raw herring from street stalls and Gouda cheese. The Dutch also gave the world the painters Rembrandt, Vermeer and Van Gogh."
   ],
   "history": [
-    "In the 1600s the Dutch were the world's richest traders. Amsterdam was the busiest port on Earth. The Dutch East India Company was the first company anyone could buy shares in.",
-    "Nazi occupation in World War II caused the terrible Hunger Winter of 1944–45. The Dutch later built a modern welfare state and co-founded NATO and the European Union."
+    "In the 1600s the Dutch were the world's richest traders. Amsterdam was the busiest port on Earth. The Dutch East India Company was the first company anyone could buy a piece of.",
+    "German soldiers took the country in World War II, causing the terrible Hunger Winter of 1944–45. The Dutch later co-founded NATO, an army alliance, and the European Union."
   ],
   "wows": [
     "Without dykes, much of Amsterdam would sit under water.",

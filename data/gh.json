@@ -24,7 +24,7 @@
     "keyColor": "#CC0000",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Ghana sits on the Gulf of Guinea in West Africa. In 1957 it became the first country south of the Sahara to win independence. Today it grows more cocoa than almost any other country. Highlife music fills the streets.",
+  "lead": "Ghana sits on the Gulf of Guinea in West Africa. In 1957 it became the first country south of the Sahara to win independence. Today it grows more cocoa than almost any other country. Highlife dance music fills the streets.",
   "facts": [
     {
       "label": "Capital",
@@ -73,27 +73,27 @@
     "wows": "Ghana will surprise you!"
   },
   "geo": [
-    "Southern Ghana has sandy beaches and lagoons. Inland, rainforest rises to rolling hills. The Volta River was dammed in 1965 to make Lake Volta, the world's largest artificial lake.",
-    "Further north, dry savanna has baobab trees and termite mounds. The far north is very hot. Three climate zones fit into one small country."
+    "Southern Ghana has sandy beaches and lagoons. Inland, rainforest rises to rolling hills. The Volta River was dammed in 1965 to make Lake Volta.",
+    "Further north, dry grassland has baobab trees and termite mounds. The far north is very hot. Three climate zones fit into one small country."
   ],
   "animals": [
-    "Forest elephants, chimpanzees and the rare spiral-horned bongo live in the western forests. At Mole National Park, elephants wade into waterholes at dusk.",
+    "Forest elephants, chimpanzees and the rare spiral-horned bongo antelope live in the western forests. At Mole National Park, elephants wade into waterholes at dusk.",
     "The African lungfish breathes air and survives droughts buried in mud. Olive ridley turtles lay eggs on the coast at night, and locals guard the nests."
   ],
   "culture": [
     "Kente cloth has gold, green and red strips. Only Ashanti kings once wore it. Now everyone wears it for celebrations. Joyful funerals use coffins shaped like fish or planes.",
-    "Ghanaians love groundnut (peanut) soup with fufu, a soft dough. Jollof rice starts a friendly Ghana-versus-Nigeria debate. Highlife music began in 1920s port towns."
+    "Ghanaians love groundnut (peanut) soup with fufu, a soft dough. Jollof rice (tomato rice) starts a friendly Ghana-versus-Nigeria debate. Highlife music began in 1920s port towns."
   ],
   "history": [
-    "The Ashanti Empire controlled West Africa's gold trade. Portuguese sailors reached the coast in 1471 and named it the Gold Coast. Cape Coast Castle recalls the cruel slave trade.",
+    "The Ashanti Empire controlled West Africa's gold trade. Portuguese sailors reached the coast in 1471 and named it the Gold Coast. Cape Coast Castle, an old fort, recalls the cruel slave trade.",
     "On 6 March 1957, Kwame Nkrumah declared independence. His cry was 'Forward Ever, Backward Never'. Ghana's Independence Day is still Africa's most celebrated birthday."
   ],
   "wows": [
-    "Lake Volta covers 3.6% of Ghana's land.",
+    "Lake Volta, the world's largest man-made lake by area, covers 3.6% of Ghana.",
     "Ghana is the world's second-largest cocoa producer.",
-    "Cape Coast Castle was built in 1653.",
-    "Coffin makers have built caskets shaped like lobsters and trainers.",
-    "Nobody sits on the Golden Stool, which holds the Ashanti soul.",
+    "Over 1 million enslaved Africans passed through Cape Coast Castle, built in 1653.",
+    "Ghana's carpenters build coffins shaped like lobsters and sports shoes.",
+    "Nobody sits on the Golden Stool, believed to hold the Ashanti soul.",
     "Every kente pattern has its own name and meaning.",
     "Ghana's flag has a black star for African freedom."
   ],
@@ -104,7 +104,7 @@
     },
     {
       "myth": "Cocoa beans taste like chocolate straight from the pod",
-      "fact": "Fresh beans taste bitter and sour. Farmers ferment and dry them first. Only then do they smell like chocolate."
+      "fact": "Fresh beans taste bitter and sour. Farmers heap them for days, then dry them. Only then do they smell like chocolate."
     }
   ],
   "words": [

@@ -24,7 +24,7 @@
     "keyColor": "#00AEEF",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Kazakhstan is the world's biggest landlocked country. It has endless golden steppe and Tian Shan peaks. Nomads rode horses here for thousands of years and lived in round tents called yurts. Today rockets launch from Baikonur.",
+  "lead": "Kazakhstan is the world's biggest landlocked country (no sea coast). It has endless golden steppe (grassland) and Tian Shan mountain peaks. Today rockets launch from Baikonur, a space base.",
   "facts": [
     {
       "label": "Capital",
@@ -73,34 +73,34 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Kazakhstan is as wide as Western Europe. Most of it is steppe, which is flat grassland. The south-east has jagged Tian Shan peaks. The west dips to 132 m below sea level.",
-    "The Aral Sea was once the world's fourth-largest lake. It shrank to 10% of its size when Soviet engineers diverted its rivers. A 2005 dam is refilling the north."
+    "Most of Kazakhstan is flat steppe. The south-east has jagged Tian Shan peaks.",
+    "The Aral Sea was once the world's fourth-largest lake. It shrank to 10% of its size when engineers diverted (re-routed) its rivers for cotton. A 2005 dam is refilling the north."
   ],
   "animals": [
-    "The golden eagle is the national animal. Hunters called berkutchi have flown eagles from horseback for over 4,000 years. A golden eagle dives at 240 km/h.",
-    "The saiga antelope has a bulbous nose that filters dust and warms icy air. It was nearly extinct. Now over 2.8 million roam the steppe."
+    "The golden eagle is the national animal. Hunters called berkutchi have flown eagles from horseback for over 4,000 years.",
+    "The saiga antelope has a big, bulging nose. It filters dust and warms icy air."
   ],
   "culture": [
-    "Guests are fed first. The host gives the sheep's head to the most honoured visitor. Beshbarmak ('five fingers') is boiled horse or lamb on noodles, eaten by hand.",
-    "The dombra, a two-stringed lute, is the soul of the steppe. People have drunk kumiss, fermented mare's milk, for 5,000 years. They treat it as both drink and medicine."
+    "The host gives the sheep's head to the most honoured visitor. Beshbarmak ('five fingers') is boiled horse or lamb on noodles, eaten by hand.",
+    "The dombra is a two-stringed lute (like a small guitar). It is the soul of the steppe. People have drunk kumiss, a sour, fizzy drink made from mare's milk, for 5,000 years."
   ],
   "history": [
-    "Silk and spice caravans crossed Kazakh lands through Taraz and Otrar. Genghis Khan swept through in 1219. The Kazakh Khanate rose in the 15th century.",
-    "Russia took over Kazakhstan in the 18th–19th centuries. Soviet rule brought space launches from Baikonur. Kazakhstan declared independence on 16 December 1991, the last Soviet republic to do so."
+    "Silk and spice caravans (camel trains) crossed Kazakh lands. The Mongol warrior Genghis Khan swept through in 1219. The Kazakh Khanate (a kingdom ruled by a khan) rose in the 15th century.",
+    "Russia took over Kazakhstan in the 18th–19th centuries. Kazakhstan declared independence on 16 December 1991. It left the Soviet Union (a union of states led by Russia)."
   ],
   "wows": [
     "Kazakhstan is bigger than Western Europe but has no ocean coast.",
-    "DNA studies show the wild apple forests near Almaty gave us every apple.",
-    "Baikonur launched Sputnik in 1957 and Yuri Gagarin in 1961.",
-    "The ₸ symbol for the tenge was chosen in 2007.",
-    "Khan Tengri's marble summit glows blood-red at sunset.",
-    "Saiga numbers jumped from 50,000 to 2.8 million in two decades.",
-    "Astana's winters plunge to −40 °C, among the coldest for any capital."
+    "DNA studies show the wild apple forests near the city of Almaty gave us every apple.",
+    "Baikonur launched the first satellite, Sputnik (1957), and the first person in space, Yuri Gagarin (1961).",
+    "The tenge, Kazakhstan's money, got its ₸ symbol in 2007, 14 years after launch, via a national contest.",
+    "Khan Tengri, a mountain nicknamed 'King of the Sky', has a marble summit. It glows blood-red at sunset.",
+    "Saiga antelope numbers jumped from 50,000 to 2.8 million in two decades, a record recovery.",
+    "Winters in the capital, Astana, plunge to −40 °C, among the coldest for any capital."
   ],
   "myths": [
     {
       "myth": "Borat shows what Kazakhstan is really like",
-      "fact": "Borat was filmed in Romania. Real Kazakhstan has modern cities, and women vote and drive."
+      "fact": "The comedy film Borat was filmed in Romania. Real Kazakhstan has modern cities, and women vote and drive."
     },
     {
       "myth": "A lake is either fresh or salty",
