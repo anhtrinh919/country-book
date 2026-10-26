@@ -300,8 +300,8 @@ function BookReader() {
       </>}
 
       {viewer && (
-        <div onClick={() => setViewer(null)} style={{ position: "absolute", inset: 0, zIndex: 50, background: "rgba(12,10,8,.94)", display: "grid", placeItems: "center", cursor: "zoom-out" }}>
-          <img src={viewer} alt="" style={{ maxWidth: "100%", maxHeight: "100%", objectFit: "contain" }} />
+        <div onClick={() => setViewer(null)} style={{ position: "absolute", inset: 0, zIndex: 50, background: "rgba(12,10,8,.94)", padding: 16, cursor: "zoom-out" }}>
+          <img src={viewer} alt="" style={{ width: "100%", height: "100%", objectFit: "contain" }} />
         </div>
       )}
 
