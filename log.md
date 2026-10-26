@@ -11,7 +11,7 @@
 
 ### Round 2 — rewrite the book for a 7-year-old
 
-Status: building
+Status: checking
 Branch: round-2-rewrite, from main
 Try: open 5 country pages on a computer; read them in English, then Vietnamese; read each myth box; open How to Read, Glossary, and World Records; read one country page on a phone
 Built:

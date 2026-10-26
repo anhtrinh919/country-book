@@ -24,7 +24,7 @@
     "keyColor": "#1A3A6B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Belize is a tiny country on the Caribbean coast. It is smaller than Wales. Yet it holds Maya pyramids, jaguar rainforests, and the longest barrier reef in the Western Hemisphere. English is the official language. No other Central American country can say that. Around 400,000 people speak Kriol, Spanish, Maya, and Garifuna.",
+  "lead": "Belize is a tiny country on the Caribbean coast. It is smaller than Wales. Yet it has Maya pyramids, jaguar rainforests, and a huge barrier reef. Around 400,000 people speak Kriol, Spanish, Maya, and Garifuna.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Belize is on the Caribbean coast of Central America. Mexico lies to the north. Guatemala lies to the west. The north is flat and swampy. The south rises into the rugged Maya Mountains. The tallest peak is Doyle's Delight, at 1,124 m.",
-    "Offshore, a barrier reef stretches 300 km. It is the longest in the Western Hemisphere. Inside it hides the Great Blue Hole. This perfectly round sinkhole is 318 m across and 124 m deep. Its water is the deepest blue on Earth."
+    "Belize sits on the Caribbean coast, with Mexico to the north and Guatemala to the west. The north is flat and swampy. The south rises to Doyle's Delight, a 1,124 m peak.",
+    "Offshore, a barrier reef stretches 300 km. Inside it hides the Great Blue Hole, a round sinkhole 318 m across and 124 m deep."
   ],
   "animals": [
-    "Belize is one of the few places where jaguars still roam wild. Cockscomb Basin Wildlife Sanctuary was the world's first jaguar preserve. Many jaguars live there, across 200 square miles of tropical forest.",
-    "Belize's national animal is Baird's tapir. It is shaped like a barrel and is as big as a small horse. In the sea, gentle manatees graze on seagrass. The keel-billed toucan, with its rainbow bill, is the national bird."
+    "Belize is one of the few places where jaguars still roam wild. Many live in Cockscomb Basin Wildlife Sanctuary, across 200 square miles of forest.",
+    "Baird's tapir is the national animal. It is shaped like a barrel and is as big as a small horse. Gentle manatees graze on seagrass. The keel-billed toucan is the national bird."
   ],
   "culture": [
-    "Many peoples share Belize. Mestizo, Creole, Maya, Garifuna, Mennonite and East Indian communities all live here. UNESCO honoured Garifuna culture in 2001 for its language, punta drumming and dance.",
-    "The food mixes every group. Creole rice and beans, Garifuna hudut (fish in coconut broth), Maya tamales and Mennonite cheese share the same market stalls. Punta rock pulses from beach bars. Marimba music drifts from village fiestas."
+    "Mestizo, Creole, Maya, Garifuna, Mennonite and East Indian communities all live here. UNESCO honoured Garifuna culture in 2001 for its language, punta drumming and dance.",
+    "The food mixes every group. Creole rice and beans, Garifuna hudut (fish in coconut broth), Maya tamales and Mennonite cheese share the same market stalls."
   ],
   "history": [
-    "The Maya built great cities here over 2,000 years ago. Caracol, Xunantunich and Lamanai had tens of thousands of people. They had soaring stone pyramids and a written calendar. By 1000 AD the cities had mysteriously emptied.",
-    "British logwood cutters arrived in the 1600s. The land became British Honduras in 1862. On 21 September 1981, Belize became fully independent. Every year people celebrate with fireworks and parades."
+    "The Maya built great cities here over 2,000 years ago. Caracol, Xunantunich and Lamanai held tens of thousands of people. By 1000 AD the cities had emptied.",
+    "British logwood cutters arrived in the 1600s. The land became British Honduras in 1862. Belize became fully independent on 21 September 1981."
   ],
   "wows": [
-    "The Great Blue Hole is so round that astronauts photograph it from space as a dark blue dot.",
-    "Belize is the only country in Central America where English is the official language.",
-    "The Belize dollar has been fixed at exactly 2 BZD to 1 USD since 1978.",
-    "Belize's barrier reef stretches 300 km along the coast, the longest in the Western Hemisphere.",
+    "Astronauts can see the round Great Blue Hole from space.",
+    "Belize is the only Central American country where English is official.",
+    "Two Belize dollars equal one US dollar, fixed since 1978.",
+    "Belize's barrier reef is the longest in the Western Hemisphere.",
     "Cockscomb Basin was the world's first official jaguar preserve, set up in 1986.",
-    "Ancient Caracol was bigger than modern Belize City, with over 150,000 Maya residents.",
-    "Mennonite farmers in northern Belize drive horse-drawn buggies and supply most of the country's dairy."
+    "Ancient Caracol was bigger than modern Belize City, with 150,000+ Maya.",
+    "Mennonite farmers drive horse-drawn buggies and supply most of Belize's dairy."
   ],
   "myths": [
     {
       "myth": "Coral is a kind of rock",
-      "fact": "Coral is made of tiny animals called polyps. They build hard cups around themselves, and the cups pile up into a reef."
+      "fact": "Coral is made of tiny animals called polyps. They build hard cups that pile up into a reef."
     },
     {
       "myth": "A black panther is its own animal",
-      "fact": "A black panther is a leopard or a jaguar with dark fur. Its spots are still there, hidden in the black."
+      "fact": "A black panther is a leopard or jaguar with dark fur. Its spots hide in the black."
     }
   ],
   "words": [

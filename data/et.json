@@ -24,7 +24,7 @@
     "keyColor": "#1A7A3C",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Ethiopia is one of Earth's oldest countries. Human ancestors walked here 3 million years ago. Its highland plateau stays cool near the equator. No one ever colonised it. Coffee began here. Abebe Bikila raced barefoot to Olympic marathon gold. An ancient alphabet still fills church walls.",
+  "lead": "Ethiopia is one of Earth's oldest countries. Human ancestors walked here 3 million years ago. Its highland plateau stays cool near the equator. Coffee began here. An ancient alphabet still fills church walls.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "Wait, is that really true?"
   },
   "geo": [
-    "Ethiopia sits on a vast, rocky plateau. The Great Rift Valley splits it in two. Tall volcanoes, deep gorges and cold, misty meadows fill the land. It looks nothing like the flat desert many people imagine.",
-    "In the north, the Simien Mountains poke above the clouds like broken teeth. In the east, the land drops to the Danakil Depression. It is one of Earth's hottest, lowest spots. Orange lava lakes glow there."
+    "Ethiopia sits on a vast, rocky plateau. The Great Rift Valley splits it in two. Tall volcanoes, deep gorges and cold, misty meadows fill the land.",
+    "In the north, the Simien Mountains poke above the clouds. In the east, the Danakil Depression is one of Earth's hottest, lowest spots. Orange lava lakes glow there."
   ],
   "animals": [
-    "The Ethiopian wolf is Africa's rarest carnivore (meat-eater). It hunts giant mole-rats on the Bale plateau. The gelada baboon lives only in Ethiopia. Troops of hundreds graze clifftop meadows and flash red chest patches.",
-    "The Walia ibex leaps along near-vertical Simien cliffs without a wobble. Hippos wallow in the Omo River. The endangered Grevy's zebra roams the lowlands. It has the narrowest stripes of any zebra."
+    "The Ethiopian wolf is Africa's rarest carnivore (meat-eater). It hunts giant mole-rats on the Bale plateau. Gelada baboons live only in Ethiopia. They flash red chest patches.",
+    "The Walia ibex leaps along near-vertical Simien cliffs. Hippos wallow in the Omo River. The endangered Grevy's zebra has the narrowest stripes of any zebra."
   ],
   "culture": [
-    "Coffee here is a ceremony. Hosts roast green beans over charcoal. They brew them in a clay pot called a jebena and pour three times. Each cup has its own name. Skipping the third is rude.",
-    "Ethiopia follows the 13-month Ge'ez calendar. It runs about 7 years behind ours. The Orthodox Church is over 1,600 years old. It fills the cities with chanting and incense."
+    "Coffee here is a ceremony. Hosts roast green beans over charcoal. They brew them in a clay pot called a jebena and pour three times. Skipping the third cup is rude.",
+    "Ethiopia follows the 13-month Ge'ez calendar. It runs about 7 years behind ours. The Orthodox Church is over 1,600 years old. Its chanting and incense fill the cities."
   ],
   "history": [
     "Fossils in the Afar region include Lucy, found in 1974. She was a 3.2-million-year-old human ancestor. The Aksumite Empire traded with Rome and Arabia. It also invented its own alphabet.",
-    "Ethiopia is the only African country never colonised. Italy tried in 1896 but lost the Battle of Adwa. The shock inspired independence movements across Africa."
+    "Italy invaded in 1896 but lost the Battle of Adwa. While most of Africa was colonised, Ethiopia stayed free. The shock inspired independence movements across Africa."
   ],
   "wows": [
     "Ethiopia has 13 months, and the 13th, Pagume, has only 5 or 6 days.",
-    "Ethiopians start their clock at sunrise, so noon is 6 o'clock to them.",
-    "Legend says a goat herder named Kaldi found coffee around 850 AD, after his goats danced on its berries.",
-    "The Blue Nile carries about 85% of the Nile's water into Egypt, and it begins at Lake Tana.",
-    "Abebe Bikila won the 1960 Olympic marathon barefoot, then won again in 1964 with shoes.",
+    "Ethiopians start their clock at sunrise, so noon is 6 o'clock.",
+    "Legend says a herder named Kaldi found coffee around 850 AD when his goats danced.",
+    "The Blue Nile carries about 85% of the Nile's water into Egypt.",
+    "Abebe Bikila won the 1960 Olympic marathon barefoot, and again in 1964 with shoes.",
     "Dallol in the Danakil has the hottest average temperature of any inhabited place.",
-    "Lalibela's 11 churches are carved down into solid rock and are still in use today."
+    "Lalibela's 11 churches are carved down into solid rock."
   ],
   "myths": [
     {

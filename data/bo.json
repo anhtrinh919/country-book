@@ -24,7 +24,7 @@
     "keyColor": "#D52B1E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Bolivia is in the middle of South America. Its cities sit so high that walking to the shops can leave you out of breath. It has snowy volcanoes and the world's largest salt flat. Lake Titicaca shines like a mirror in the sky. More than 30 native peoples live here.",
+  "lead": "Bolivia is in South America. Its cities sit so high that walking to the shops can leave you out of breath. It has snowy volcanoes and the world's largest salt flat. More than 30 native peoples live here.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Bolivia has three worlds stacked on top of each other. The Altiplano is a huge, cold plateau (high flat land) above 3,600 m. That is higher than most mountains in Europe. Lake Titicaca shines blue at 3,810 m. Boats can sail on it, so it is the world's highest navigable lake.",
-    "Below the plateau, the Yungas valleys drop steeply into tropical forest. The eastern lowlands drain into the Amazon. Bolivia has no coast. It lost its sea access to Chile in 1884. Its navy now trains on Lake Titicaca."
+    "Bolivia has three worlds. The Altiplano is a cold plateau (high flat land) above 3,600 m. Lake Titicaca shines blue at 3,810 m. It is the world's highest navigable lake.",
+    "The Yungas valleys drop into tropical forest. Bolivia has no coast. It lost its sea access to Chile in 1884."
   ],
   "animals": [
-    "The Altiplano is flamingo country. Three kinds wade in pink flocks on high salt lakes. Llamas and their fluffy cousins, the vicuñas, roam in herds. The Andean condor rides warm air high above. Its wings stretch a full 3 m.",
-    "In the lowlands, jaguars stalk the Pantanal. Giant river otters fish in bendy river lakes. Giant anteaters shuffle through the savannah (grassland). Bolivia's rainforests have more bird species than all of North America combined."
+    "The Altiplano is flamingo country. Pink flocks wade on salt lakes. Llamas and their wild cousins, the vicuñas, roam in herds. The Andean condor's wings stretch 3 m.",
+    "In the lowlands, jaguars stalk the Pantanal. Giant anteaters shuffle through the savannah (grassland)."
   ],
   "culture": [
-    "Aymara and Quechua women wear layered skirts called polleras. They also wear small bowler hats. British railway workers first wore that style. The women made it their own. Handwoven cloths called aguayos carry patterns that tell a family's story.",
-    "At the Oruro Carnival, 50,000 dancers fill the streets in towering devil masks. They perform the Diablada, a battle dance between good and evil that UNESCO has honoured. People eat quinoa, potatoes, and baked salteña pastries. The Andes gave the world the potato."
+    "Aymara and Quechua women wear layered skirts (polleras) and bowler hats. British railway workers first wore that style. Aguayo cloths carry patterns that tell a family's story.",
+    "At the Oruro Carnival, 50,000 dancers fill the streets in devil masks. They dance the Diablada, a battle between good and evil. People eat quinoa and baked salteña pastries."
   ],
   "history": [
-    "People have lived on the Altiplano for 10,000 years. The Tiwanaku built huge stone temples near Lake Titicaca around 400 CE. By the 1400s the Inca Empire swept through. It mined silver at Potosí's sacred Cerro Rico mountain.",
-    "Spanish conquistadors (soldiers) arrived in 1532. For 300 years, Potosí's silver mines powered the Spanish Empire. Bolivia declared independence in 1825. It is named for the liberator Simón Bolívar. In 2006, Evo Morales became the first indigenous president."
+    "People have lived on the Altiplano for 10,000 years. The Tiwanaku built stone temples near Lake Titicaca around 400 CE. By the 1400s the Inca Empire swept through.",
+    "Spanish soldiers arrived in 1532. For 300 years, Potosí's silver mines powered the Spanish Empire. Bolivia won independence in 1825 and is named for Simón Bolívar. In 2006, Evo Morales became the first indigenous president."
   ],
   "wows": [
     "Bolivia has 37 official languages, more than any other country.",
-    "The Salar de Uyuni covers 10,582 km² and turns into a giant mirror after rain.",
+    "The Salar de Uyuni covers 10,582 km² and becomes a giant mirror after rain.",
     "La Paz has the world's longest urban cable-car network.",
-    "Potosí was once bigger than London, thanks to silver from one mountain.",
-    "Bolivia has no coast, yet its navy keeps 173 vessels ready on Lake Titicaca.",
-    "A hotel on the Uyuni salt flat is built from salt bricks, even the furniture.",
+    "Potosí was once bigger than London, thanks to one silver mountain.",
+    "Bolivia has no coast, yet its navy keeps 173 vessels on Lake Titicaca.",
+    "A hotel on Uyuni has salt-brick walls and salt furniture.",
     "Bolivia's rainforest has more bird species than the whole of North America."
   ],
   "myths": [
     {
       "myth": "The Uyuni salt flat is made of snow",
-      "fact": "It is salt, not snow. A huge lake dried up long ago and left a thick white crust of salt."
+      "fact": "It is salt. A huge lake dried up and left a thick white crust."
     },
     {
       "myth": "Quinoa is a grain, like rice",
-      "fact": "Quinoa is really a seed, not a grain. The plant is a cousin of spinach and beets."
+      "fact": "Quinoa is really a seed. The plant is a cousin of spinach and beets."
     }
   ],
   "words": [

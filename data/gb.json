@@ -24,7 +24,7 @@
     "keyColor": "#C8102E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "The UK is four countries: England, Scotland, Wales and Northern Ireland. They sit off the coast of Europe. Shakespeare, the steam engine, the Web and football all began here. It is rainy, tea-loving and full of castles. Once it ruled a quarter of the Earth.",
+  "lead": "The UK is four countries: England, Scotland, Wales and Northern Ireland. Shakespeare, the steam engine, the Web and football all came from here. Once it ruled a quarter of the Earth.",
   "facts": [
     {
       "label": "Capital",
@@ -72,29 +72,29 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "The UK covers Great Britain and the north of Ireland. The Channel, just 34 km wide at its narrowest, separates it from Europe. Scotland's Highlands have ancient lochs (lakes) and craggy mountains. Wales has green valleys. Southern England has gentle chalk hills.",
-    "The coastline stretches over 17,800 km. No point in England is more than 113 km from the sea. The Gulf Stream keeps winters mild. It also brings the famous grey skies that inspired countless poets."
+    "The UK covers Great Britain and the north of Ireland. The Channel, just 34 km wide at its narrowest, separates it from Europe. Scotland's Highlands have lochs (lakes) and craggy mountains.",
+    "Wales has green valleys. The coastline stretches over 17,800 km. No point in England is more than 113 km from the sea."
   ],
   "animals": [
-    "The red squirrel is Britain's native squirrel. It is now rare because the larger grey squirrel arrived from America in 1876. Puffins nest on rocky sea cliffs each spring. Grey seals bask by the thousand on remote Scottish shores.",
-    "The robin is Britain's unofficial national bird. It is bold enough to perch on a gardener's spade. Rare wildcats still prowl Scottish glens. Wild Dartmoor ponies roam the moors of the southwest. They have done so for centuries."
+    "The red squirrel is Britain's native squirrel. It is now rare because the larger grey squirrel arrived from America in 1876. Puffins nest on rocky sea cliffs each spring.",
+    "The robin is Britain's unofficial national bird. It is bold enough to perch on a gardener's spade. Wild Dartmoor ponies roam the southwest moors."
   ],
   "culture": [
-    "The British love a queue. Standing in an orderly line is almost a national sport. People brew tea over 100 million times every day. The BBC began in 1927. It is the world's oldest national broadcaster and reaches 468 million people weekly.",
-    "Football was codified (written down as rules) in England in 1863. It spread to every corner of the globe. Bonfire Night on 5 November fills the sky with fireworks. Millions of people come to see the Changing of the Guard at Buckingham Palace each year."
+    "The British love a queue. Standing in an orderly line is almost a national sport. People brew tea over 100 million times every day.",
+    "The BBC began in 1927 and is the world's oldest national broadcaster. Bonfire Night on 5 November fills the sky with fireworks."
   ],
   "history": [
-    "Romans invaded in 43 AD. They built roads and baths that you can still see. The Normans arrived in 1066. It was the last successful invasion, and it changed the language and laws forever. Magna Carta in 1215 planted the seed of modern democracy.",
-    "The Industrial Revolution began here in the 1760s. It turned the world from farms to factories. By the 1920s the British Empire was the largest in history. In 1948 Britain created the NHS. It gives free healthcare to every citizen."
+    "Romans invaded in 43 AD. They built roads and baths. The Normans arrived in 1066, the last successful invasion. Magna Carta in 1215 planted the seed of modern democracy.",
+    "The Industrial Revolution began here in the 1760s. By the 1920s the British Empire was the largest in history. In 1948 Britain created the NHS, which gives free healthcare."
   ],
   "wows": [
-    "London's Underground opened in 1863 as the world's first metro, with gas-lit wooden carriages.",
-    "Tim Berners-Lee invented the World Wide Web and gave it away free for everyone.",
-    "Britain has no single written constitution and runs on centuries-old laws and customs.",
-    "The UK enters four football teams in World Cup qualifying: England, Scotland, Wales and Northern Ireland.",
-    "Oxford University was already 300 years old when the Aztec Empire was founded.",
-    "More Nobel Prize winners came from the UK than from any country except the United States.",
-    "Big Ben is only the bell, and the tower is officially called the Elizabeth Tower."
+    "London's Underground opened in 1863 as the world's first metro.",
+    "Tim Berners-Lee invented the World Wide Web and gave it away free.",
+    "Britain has no single written constitution and runs on centuries-old laws.",
+    "The UK enters four separate teams in World Cup qualifying.",
+    "Oxford University was already 300 years old when the Aztec Empire began.",
+    "Only the United States has had more Nobel Prize winners than the UK.",
+    "Big Ben is only the bell, and the tower is the Elizabeth Tower."
   ],
   "myths": [
     {

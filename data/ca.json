@@ -24,7 +24,7 @@
     "keyColor": "#D52B1E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Canada is the second-largest country on Earth. Yet fewer people live there than in California. It stretches from the Atlantic to the Pacific and north to the Arctic. Three oceans touch it. It holds one-fifth of the world's fresh water and the longest coastline on Earth. A moose can walk for days in its forests without seeing a road.",
+  "lead": "Canada is the second-largest country on Earth. Yet few people live in most of it. It has the longest coastline on Earth. A moose can walk for days in its forests without seeing a road.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Canada covers nearly 10 million km². You could fit 26 United Kingdoms inside it. The Rocky Mountains tower in the west. Flat prairies roll through the middle. The ancient Canadian Shield, made of granite, covers almost half the country.",
-    "The Great Lakes hold one-fifth of all surface fresh water on Earth. Canada also has more lakes than any other country. Roughly two to three million of them glitter across the map."
+    "Canada covers nearly 10 million km². The Rocky Mountains tower in the west. Flat prairies roll through the middle. The ancient Canadian Shield, made of granite, covers almost half the country.",
+    "The Great Lakes hold one-fifth of all surface fresh water on Earth. Canada has more lakes than any other country, roughly two to three million."
   ],
   "animals": [
-    "The moose is the world's largest deer. It loves Canada's boreal forests (cold northern forests). A bull stands taller than a horse at the shoulder. It can swim across a lake. Its big hooves spread out like paddles.",
-    "Each autumn, polar bears gather near Churchill, Manitoba. They wait for Hudson Bay to freeze. The beaver is Canada's national animal. Its dams make wetlands, and dozens of other species live in them."
+    "The moose is the world's largest deer. It loves Canada's boreal forests (cold northern forests). A bull stands taller than a horse at the shoulder and can swim across a lake.",
+    "Each autumn, polar bears gather near Churchill, Manitoba. They wait for Hudson Bay to freeze. The beaver is the national animal. Its dams make wetlands for dozens of other species."
   ],
   "culture": [
-    "Canada is officially bilingual. English and French are both national languages. In Québec, street signs, menus, and even cereal boxes must show French first. That is the law.",
-    "Ice hockey is almost a religion in Canada. The first organised game was played in Montreal in 1875. Every February maple syrup fills kitchens. Canada makes 75% of the world's supply, mostly from Québec's sugar maples."
+    "Canada is officially bilingual. English and French are both national languages. In Québec, even cereal boxes must show French.",
+    "Ice hockey is almost a religion in Canada. The first organised game was played in Montreal in 1875. Canada makes 75% of the world's maple syrup."
   ],
   "history": [
-    "For at least 15,000 years, First Nations and Inuit peoples lived across this land. They had many languages and trade networks. French and British settlers arrived in the 1500s and 1600s. They brought big changes and deadly diseases.",
-    "Canada became a self-governing country on 1 July 1867. Four provinces joined to form a Confederation. It kept growing. Nunavut, a vast Arctic territory, was added in 1999. That completed today's map of 10 provinces and 3 territories."
+    "First Nations and Inuit peoples have lived here for at least 15,000 years. French and British settlers arrived in the 1500s and 1600s. They brought deadly diseases.",
+    "Canada became a self-governing country on 1 July 1867. Four provinces joined to form a Confederation. Nunavut, a vast Arctic territory, joined in 1999. That completed today's 10 provinces and 3 territories."
   ],
   "wows": [
-    "Canada's coastline stretches 202,080 km, the longest on Earth and enough to circle the globe five times.",
+    "Canada's 202,080 km coastline could circle the globe five times.",
     "Mount Logan in Yukon is North America's second-tallest peak, at 5,959 m.",
-    "Canada has more donut shops per person than any country, and Tim Hortons has over 6,000 worldwide.",
-    "The CN Tower was the world's tallest free-standing structure for 32 years, from 1975 to 2007.",
-    "Nunavut is bigger than Western Europe, yet only about 40,000 people live there.",
-    "Canada and the USA share the world's longest undefended border, at 8,891 km.",
-    "Canadian James Naismith invented basketball in 1891, using a peach basket in Massachusetts."
+    "Canada has the most donut shops per person.",
+    "The CN Tower was the world's tallest free-standing structure from 1975 to 2007.",
+    "Nunavut is bigger than Western Europe, but has only 40,000 people.",
+    "Canada and the USA share the longest undefended border, at 8,891 km.",
+    "James Naismith, a Canadian, invented basketball in 1891 with a peach basket."
   ],
   "myths": [
     {
       "myth": "Canada is freezing cold all year",
-      "fact": "Vancouver has mild, rainy winters. Prairie summers often hit 35 °C, hot enough for sunstroke."
+      "fact": "Vancouver has mild, rainy winters. Prairie summers often hit 35 °C."
     },
     {
       "myth": "Canadians end every sentence with eh",
-      "fact": "People use eh to ask for agreement, like in Good game, eh? Most Canadians say it only sometimes."
+      "fact": "People use eh to ask for agreement. Most Canadians say it only sometimes."
     }
   ],
   "words": [

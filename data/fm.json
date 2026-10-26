@@ -24,7 +24,7 @@
     "keyColor": "#75B2DD",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "The Federated States of Micronesia is 607 islands scattered across the world's largest ocean. They spread over an area bigger than Europe. All the land would fit inside a small city. One city is built on a coral reef. Stone wheels were used as money. A sunken wartime fleet lies in a lagoon.",
+  "lead": "The Federated States of Micronesia has 607 islands in the world's biggest ocean. One city sits on a coral reef. Stone wheels were once money. A sunken wartime fleet rests in a lagoon.",
   "facts": [
     {
       "label": "Capital",
@@ -66,35 +66,35 @@
   "islandsLabel": "MAIN STATES:",
   "sections": {
     "geography": "607 islands, one big ocean",
-    "animals": "Wings, fins & stone money",
-    "culture": "Ancient stones & sakau",
+    "animals": "Rays, turtles & coconut crabs",
+    "culture": "Sakau, weaving & dance",
     "history": "Reef kings, wars & freedom",
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Micronesia's 607 islands stretch nearly 3,000 km across the western Pacific. Squeezed together, they would fit inside London. Most are low coral atolls (rings of reef) with turquoise lagoons. Pohnpei rises into jungle peaks hidden in cloud.",
-    "Pohnpei gets over 7,600 mm of rain a year. That makes it one of Earth's wettest spots. Thick mangroves cover Kosrae to the shoreline. Yap barely clears sea level. Between the islands, the ocean plunges 8 km deep."
+    "Micronesia's 607 islands stretch nearly 3,000 km across the western Pacific. Together they would fit inside London. Most are low coral atolls (rings of reef) with turquoise lagoons.",
+    "Pohnpei gets over 7,600 mm of rain a year. It is one of Earth's wettest spots. Between the islands, the ocean plunges 8 km deep."
   ],
   "animals": [
-    "Over 100 manta rays live in Yap's warm channels. They glide in lazy loops while small fish clean them. Hawksbill and green sea turtles nest on quiet beaches. Nearly 1,000 species of reef fish dart through the coral.",
-    "At dusk, fruit bats fill the sky. The Micronesian imperial pigeon nests in coastal forest. Pingelap has huge coconut crabs. They crack coconuts with their claws and can live up to 60 years."
+    "Over 100 manta rays live in Yap's warm channels. Hawksbill and green turtles nest on quiet beaches. Nearly 1,000 kinds of reef fish dart through the coral.",
+    "At dusk, fruit bats fill the sky. Pingelap has huge coconut crabs. They crack coconuts open and live up to 60 years."
   ],
   "culture": [
-    "Every state has its own language and customs. On Pohnpei, people share sakau, a drink pounded from a plant root. They pass it in a coconut shell in strict order of rank. It is the heart of every feast and a sign of deep respect.",
-    "Weavers on every island make baskets and clothes from pandanus and hibiscus fibre. Dance matters a lot. Stick dances and standing dances mark every celebration. Families pass them down through many generations with no written notes."
+    "On Pohnpei, people share sakau, a drink pounded from a plant root. They pass it in a coconut shell, in order of rank.",
+    "Weavers make baskets and clothes from pandanus and hibiscus fibre. Stick dances and standing dances mark every celebration."
   ],
   "history": [
-    "Ancient Micronesians were master navigators. They read stars, wave swells and bird flight to cross thousands of km. Around 1200 AD the Saudeleur dynasty built Nan Madol. It has 100 stone islands joined by canals in a lagoon, and it still stands.",
-    "Spain, Germany, then Japan ruled in turn. In 1944 a US air attack sank over 60 Japanese ships in Chuuk Lagoon. The FSM became self-governing in 1979. It gained full independence in 1986 through a Compact of Free Association with the USA."
+    "Ancient Micronesians were master navigators. They read stars, waves and birds to cross thousands of km. Around 1200 AD the Saudeleur dynasty built Nan Madol, 100 stone islands joined by canals.",
+    "Spain, Germany, then Japan ruled in turn. In 1944 a US air attack sank over 60 Japanese ships at Chuuk. The FSM became self-governing in 1979 and fully independent in 1986."
   ],
   "wows": [
-    "Nan Madol is the only ancient city built on a coral reef, raised with basalt logs and no metal tools.",
-    "Yap's rai stones can weigh 4 tonnes, and owners change by community agreement, not by moving the stone.",
-    "Chuuk Lagoon holds over 60 WWII ships and 200 aircraft, the world's greatest underwater museum.",
-    "On Pingelap Atoll, 1 in 10 people has total colour blindness, from one typhoon survivor in 1775.",
-    "The FSM's ocean territory is 5 times the size of France, yet its land is smaller than Houston.",
+    "Nan Madol is the only ancient city built on a coral reef, using basalt logs.",
+    "Yap's rai stones can weigh 4 tonnes, yet owners change without moving them.",
+    "Chuuk Lagoon holds over 60 WWII ships and 200 aircraft.",
+    "On Pingelap, 1 in 10 people has total colour blindness, from a 1775 typhoon survivor.",
+    "The FSM's ocean is 5 times the size of France, but its land is smaller than Houston.",
     "Operation Christmas Drop has airlifted gifts to remote islands each December since 1952.",
-    "Nanlaud peak stays so cloud-wrapped that it wasn't fully surveyed until the 20th century."
+    "Nanlaud peak is so cloud-wrapped that it was not fully surveyed until the 20th century."
   ],
   "myths": [
     {
@@ -103,7 +103,7 @@
     },
     {
       "myth": "Bats are blind",
-      "fact": "No bat is blind. Fruit bats have big eyes and see well in dim light."
+      "fact": "No bat is blind. Fruit bats see well in dim light."
     }
   ],
   "words": [

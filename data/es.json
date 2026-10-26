@@ -24,7 +24,7 @@
     "keyColor": "#C60B1E",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Spain is at the western tip of Europe, where the Atlantic and the Mediterranean meet. It has blazing sunshine, old castles and very loud festivals. Matadors, tapas and siestas are real. So are high-speed trains over 300 km/h and cities full of futuristic art.",
+  "lead": "Spain is at the western tip of Europe. It has blazing sunshine, old castles and very loud festivals. Matadors, tapas and siestas are real. So are high-speed trains over 300 km/h.",
   "facts": [
     {
       "label": "Capital",
@@ -73,29 +73,29 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Spain is mostly a high, flat plateau called the Meseta. Mountains ring it. The Pyrenees form a great wall in the north and separate Spain from France. The Sierra Nevada towers near Granada in the south.",
-    "Three seas lap its shores: the Atlantic, the Mediterranean and the Bay of Biscay. Spain also owns the sunny Canary Islands, off Africa's coast. The Balearic Islands, Mallorca and Ibiza, lie in the Mediterranean."
+    "Spain is mostly a high, flat plateau called the Meseta. The Pyrenees form a wall between Spain and France. The Sierra Nevada rises near Granada.",
+    "Three seas lap its shores: the Atlantic, the Mediterranean and the Bay of Biscay. Spain also owns the Canary Islands and the Balearic Islands, Mallorca and Ibiza."
   ],
   "animals": [
-    "The Doñana wetlands in the south shelter the Iberian lynx. It is the world's rarest wild cat. People rescued it from near-extinction (almost vanishing). The Iberian wolf still roams the northern hills in small packs.",
-    "Brown bears lumber through the Cantabrian mountains. Huge griffon vultures circle the gorges of Extremadura. In autumn, red deer stags bellow across misty forests. This noisy contest is called the berrea."
+    "The Doñana wetlands shelter the Iberian lynx, the world's rarest wild cat. People rescued it from near-extinction (almost vanishing). Iberian wolves still roam the northern hills in small packs.",
+    "Brown bears lumber through the Cantabrian mountains. Huge griffon vultures circle the gorges of Extremadura. In autumn, red deer stags bellow in a noisy contest called the berrea."
   ],
   "culture": [
-    "Spain runs on a different clock. Lunch is the big meal, at 2 to 3 pm. Dinner rarely starts before 9 pm. Tapas are small dishes shared at the bar. The word once meant bread placed on a glass to keep flies out.",
-    "Flamenco mixes clapping, guitar and stamping dance. It was born in Andalusia and is now on UNESCO's heritage list. Every town has its own fiesta. Pamplona runs bulls through its streets. Valencia burns giant wooden sculptures every March."
+    "Spain runs on a different clock. Lunch is the big meal, at 2 to 3 pm. Dinner rarely starts before 9 pm. The word tapas once meant bread placed on a glass to keep flies out.",
+    "Flamenco mixes clapping, guitar and stamping dance. It was born in Andalusia. Pamplona runs bulls through its streets. Valencia burns giant wooden sculptures every March."
   ],
   "history": [
-    "Muslim rulers called the Moors held parts of Spain for nearly 800 years. Romans and Visigoths came first. Palaces like the Alhambra still stand. In 1492, the year Columbus sailed west, the last Moorish kingdom fell.",
+    "Muslim rulers called the Moors held parts of Spain for nearly 800 years. Palaces like the Alhambra still stand. In 1492, the year Columbus sailed west, the last Moorish kingdom fell.",
     "Spain then built a vast empire across the Americas and Asia. A brutal civil war came in the 1930s. Afterwards Spain became a democracy. It joined the EU in 1986."
   ],
   "wows": [
-    "At La Tomatina each August, 20,000 people hurl 150 tonnes of tomatoes at each other.",
-    "The Sagrada Família in Barcelona has been under construction since 1882 and is still not finished.",
-    "Spain has more UNESCO World Heritage Sites than almost any other country on Earth.",
-    "Madrid's Prado Museum holds over 8,000 paintings by Velázquez, Goya and El Greco.",
+    "At La Tomatina each August, 20,000 people hurl 150 tonnes of tomatoes.",
+    "The Sagrada Família in Barcelona has been under construction since 1882.",
+    "Spain has more UNESCO World Heritage Sites than almost any other country.",
+    "Madrid's Prado Museum holds over 8,000 paintings.",
     "A Spaniard, Manuel Jalón Corominas, patented the modern mop in 1956.",
     "Spanish is the world's second most spoken native language, with 490 million speakers.",
-    "Spain's AVE high-speed rail network is the longest in Europe, at over 3,900 km."
+    "Spain's AVE high-speed rail network is Europe's longest, at over 3,900 km."
   ],
   "myths": [
     {

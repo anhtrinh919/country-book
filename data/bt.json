@@ -24,7 +24,7 @@
     "keyColor": "#FF7F00",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Bhutan is a small kingdom in the Himalayas, between India and China. Its people call it Druk Yul, the Land of the Thunder Dragon. Bhutan measures success by happiness, not just money. It has monasteries on cliffs, clean rivers, and snowy peaks that touch the clouds.",
+  "lead": "Bhutan is a small kingdom in the Himalayas, between India and China. Its people call it Druk Yul, the Land of the Thunder Dragon. Bhutan measures success by happiness, not just money.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Bhutan is almost all mountains. In the north, the Himalayas rise in icy peaks above 7,000 m. In the warm south, jungle grows in the valleys. Three rivers carve deep gorges. Melting glaciers feed them all year.",
-    "About 72% of Bhutan is covered in trees. That makes it one of the most forested countries on Earth. Bhutan takes in more carbon dioxide (a gas that warms the Earth) than it makes. So it is officially carbon-negative."
+    "Bhutan is almost all mountains. In the north, icy Himalayan peaks rise above 7,000 m. In the warm south, jungle grows in the valleys. Three rivers carve deep gorges.",
+    "About 72% of Bhutan is covered in trees. Its forests take in more carbon dioxide (a gas that warms the Earth) than the country makes. So Bhutan is officially carbon-negative."
   ],
   "animals": [
-    "Bhutan's national animal is the takin. It looks like a cow's body with a goat's head. Legend says a Buddhist saint made it from the bones of both animals at a feast. Imagine that shaggy beast on a mountain!",
-    "Snow leopards prowl the high peaks. Hidden cameras have filmed Bengal tigers at 4,000 m. Red pandas curl up in bamboo forests. Sacred black-necked cranes spend each winter in Phobjikha Valley."
+    "Bhutan's national animal is the takin. It looks like a cow's body with a goat's head. Legend says a Buddhist saint made it from a cow and a goat at a feast.",
+    "Snow leopards prowl the high peaks. Red pandas curl up in bamboo forests. Black-necked cranes spend each winter in Phobjikha Valley."
   ],
   "culture": [
-    "Bhutan measures wellbeing by Gross National Happiness. It balances the economy, nature, culture, and good government. Archery is the national sport. Matches are loud festivals with music and dancing. Players tease the other team when they miss.",
-    "Men wear a knee-length robe called a gho. Women wear a woven dress called a kira. People eat red rice and chilli and cheese (ema datshi) every day. Huge whitewashed dzongs are both government offices and monasteries."
+    "Bhutan measures wellbeing by Gross National Happiness. It balances the economy, nature, culture, and good government. Archery is the national sport. Matches are loud festivals with music and dancing.",
+    "Men wear a robe called a gho. Women wear a dress called a kira. People eat red rice and ema datshi (chilli and cheese) every day."
   ],
   "history": [
-    "In the 1600s, the monk-warrior Zhabdrung Ngawang Namgyal unified Bhutan. He built fortress-dzongs to guard each valley. He made laws and dress codes that people still follow. Bhutan was never colonised (ruled by another country).",
-    "Bhutan became a constitutional democracy in 2008. The king is still deeply loved. Television and internet only arrived in 1999. Tourism opened in 1974, with strict limits to protect culture and forests."
+    "In the 1600s, the monk-warrior Zhabdrung Ngawang Namgyal unified Bhutan. He built huge forts called dzongs to guard each valley. Bhutan was never colonised (ruled by another country).",
+    "Bhutan became a constitutional democracy in 2008. Tourism opened in 1974, with strict limits to protect culture and forests."
   ],
   "wows": [
-    "Bhutan is carbon-negative, because its forests soak up more CO₂ than the country makes.",
-    "Gangkhar Puesum is the tallest unclimbed peak on Earth, and climbing it is banned.",
-    "TV and internet both switched on the same day in 1999, the king's coronation anniversary.",
-    "Gross National Happiness is in Bhutan's constitution as the official measure of progress.",
-    "Thimphu is the only capital in the world with no traffic lights, so police direct every junction.",
-    "Tigers have been photographed at 4,000 m, higher than almost anywhere else on Earth.",
-    "A law says every building in Bhutan must follow traditional design, so there are no glass towers."
+    "Bhutan's forests soak up more CO₂ than the country makes.",
+    "Climbing Gangkhar Puesum, the tallest unclimbed peak on Earth, is banned.",
+    "TV and internet both switched on the same day in 1999.",
+    "Gross National Happiness is part of Bhutan's constitution.",
+    "Thimphu is the only capital in the world with no traffic lights.",
+    "Tigers have been photographed at 4,000 m, higher than almost anywhere.",
+    "A law says buildings must follow traditional design, so there are no glass towers."
   ],
   "myths": [
     {
       "myth": "Mount Everest is in Bhutan",
-      "fact": "Everest is on the border of Nepal and China. It is 8,849 m tall. All of Bhutan's peaks are lower."
+      "fact": "Everest is on the Nepal-China border. It is 8,849 m tall. All of Bhutan's peaks are lower."
     },
     {
       "myth": "Red pandas are cousins of giant pandas",
-      "fact": "Red pandas are not close kin to giant pandas. They have a family of their own, closer to raccoons and weasels."
+      "fact": "Red pandas are not close kin to giant pandas. Their own family is closer to raccoons and weasels."
     }
   ],
   "words": [

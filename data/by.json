@@ -24,7 +24,7 @@
     "keyColor": "#C8282A",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Belarus is a flat country in Eastern Europe. Ancient forests wrap around it, and lakes dot the land. Nearly half the country is woodland, where bison and lynx live. Minsk was rebuilt from rubble after WWII, and it has grand boulevards. Belarusians love potatoes, folk embroidery, and ice hockey.",
+  "lead": "Belarus is a flat country in Eastern Europe. Ancient forests wrap around it, and lakes dot the land. Bison and lynx live in the woods. Belarusians love potatoes, folk embroidery, and ice hockey.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Belarus is almost perfectly flat. The whole country fits inside just 345 metres of height! Great rivers like the Dnieper drift through the Palesse, a huge marshland. It is one of Europe's largest wetlands, full of rare frogs and wading birds.",
-    "About 40% of Belarus is dense pine and spruce forest. Over 10,000 glacial lakes (made by old ice) sparkle across the north. Belarus has no coast. It shares borders with Poland, Ukraine, Russia, Latvia, and Lithuania."
+    "Belarus is almost perfectly flat. The whole country fits inside just 345 metres of height! Rivers like the Dnieper drift through the Palesse, a huge wetland.",
+    "About 40% of Belarus is pine and spruce forest. Over 10,000 glacial lakes (made by old ice) sparkle across the north. Belarus has no coast. It borders Poland, Ukraine, Russia, Latvia, and Lithuania."
   ],
   "animals": [
-    "The European bison, called the zubr, is Belarus's national animal. Hunters wiped it out in the wild by 1927. People bred it in zoos and set it free again. Białowieża Forest now has around 1,000 wild bison. It is the world's largest wild herd in one place.",
-    "Białowieża also shelters wolves, lynx, and river otters. White storks nest on village chimneys each summer. Locals think they bring luck. Thousands of cranes stop in the Pripyat marshes each autumn. They fill the sky with noise."
+    "The European bison, or zubr, is the national animal. Hunters wiped it out in the wild by 1927. People bred it in zoos and set it free again. Białowieża Forest now has around 1,000 wild bison.",
+    "Białowieża also shelters wolves, lynx, and river otters. White storks nest on village chimneys. Locals think they bring luck. Thousands of cranes stop in the Pripyat marshes each autumn."
   ],
   "culture": [
-    "Belarusians love vyshyvanka, fine embroidery in red and white shapes. People wear it on shirts and festival costumes. The potato (bulba) is a national favourite. Draniki, crispy potato pancakes, appear at every table, every day.",
-    "Ice hockey is the nation's sport. Children lace up skates almost before they can walk. Minsk hosted the IIHF World Championship in 2014. At Kupalle, the midsummer festival, young people leap over bonfires. They also float flower wreaths on rivers."
+    "Vyshyvanka is fine red-and-white embroidery on shirts and festival costumes. The potato (bulba) is a national favourite. Draniki, crispy potato pancakes, are on every table.",
+    "Ice hockey is the national sport. At Kupalle, a midsummer festival, young people leap over bonfires and float flower wreaths."
   ],
   "history": [
-    "From the 14th to 16th centuries, Belarus was the core of the Grand Duchy of Lithuania. It was one of Europe's biggest states, stretching from the Baltic almost to the Black Sea. Later Russia ruled it, and both World Wars brought fierce fighting.",
-    "The Nazi occupation of 1941–44 was terrible. Belarus lost roughly a quarter of its people. After liberation, it was rebuilt as a Soviet showcase republic. Independence came in 1991, when the USSR broke up peacefully."
+    "Between the 14th and 16th centuries, Belarus was the core of the Grand Duchy of Lithuania. It was one of Europe's biggest states. It stretched from the Baltic almost to the Black Sea.",
+    "The Nazi occupation of 1941–44 was terrible. Belarus lost roughly a quarter of its people. It was rebuilt as a Soviet showcase republic. Independence came in 1991, when the USSR broke up."
   ],
   "wows": [
-    "Białowieża Forest is Europe's last primeval lowland forest, shared by Belarus and Poland.",
-    "Minsk was so badly destroyed in WWII that it was rebuilt from scratch.",
-    "Belarus grows about 430 kg of potatoes per person each year, more than almost any country.",
-    "Its highest 'peak', Dzyarzhynsk Hill, is just 345 m tall, barely a hill.",
-    "Belarus brought European bison back to the wild after they had died out in nature.",
-    "Vitebsk is the birthplace of Marc Chagall, and his dreamlike paintings hang in galleries worldwide.",
-    "Belarus was a founding UN member in 1945, while still part of the Soviet Union!"
+    "Białowieża Forest is Europe's last primeval lowland forest.",
+    "Minsk was rebuilt from scratch after WWII.",
+    "Belarus grows about 430 kg of potatoes per person each year.",
+    "Its highest 'peak', Dzyarzhynsk Hill, is just 345 m tall.",
+    "Belarus brought European bison back to the wild.",
+    "Vitebsk is the birthplace of Marc Chagall, whose dreamlike paintings hang worldwide.",
+    "Belarus helped found the UN in 1945, as part of the USSR."
   ],
   "myths": [
     {
       "myth": "Bison are just buffalo",
-      "fact": "Buffalo are a different animal. True buffalo live in Africa and Asia. Bison are cousins in the cattle family."
+      "fact": "True buffalo live in Africa and Asia. Bison are cousins in the cattle family."
     },
     {
-      "myth": "The whole country is radioactive",
-      "fact": "No. In 1986 the Chernobyl accident sent most fallout to the south. Minsk and most of the country are safe to visit."
+      "myth": "Storks bring babies",
+      "fact": "That is an old story. Real white storks fly to Africa for the winter."
     }
   ],
   "words": [

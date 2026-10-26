@@ -24,7 +24,7 @@
     "keyColor": "#4A90C4",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Botswana is a sunny country in southern Africa with no coast. It has salt pans, huge herds of elephants, and a giant inland delta. At independence in 1966, it was one of the world's poorest countries. Then it found diamonds. It spent the money on schools and hospitals. Nearly 40% of its land is protected for wildlife.",
+  "lead": "Botswana is a sunny country in southern Africa with no coast. It has salt pans, huge herds of elephants, and a giant inland delta. It was very poor in 1966. Then it found diamonds and built schools and hospitals.",
   "facts": [
     {
       "label": "Capital",
@@ -73,38 +73,38 @@
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Botswana is almost flat. It is a giant, sunny plateau about 1,000 m above sea level. Around 70% of it is Kalahari. That is a dry land of golden grass and ancient dunes that stretch in every direction.",
-    "Yet water works miracles here. The Okavango River fans out into the world's largest inland delta. It covers 22,000 km² of channels and islands. The Makgadikgadi salt pans are a dried-up ancient lake. They gleam white as a mirror in the sun."
+    "Botswana is almost flat. It is a giant plateau about 1,000 m above sea level. Around 70% of it is Kalahari, a dry land of golden grass and ancient dunes.",
+    "The Okavango River fans out into the world's largest inland delta. It covers 22,000 km² of channels and islands. The Makgadikgadi salt pans are a dried-up ancient lake that gleams white."
   ],
   "animals": [
-    "Botswana has more elephants than any other country. 130,000 roam free. At sunset, herds wade into the Chobe River beside lions, leopards, wild dogs, hippos, and crocodiles. Parks cover nearly 40% of the land.",
-    "The zebra is the national animal. Its stripes inspired the colours of the flag. Tens of thousands migrate across the Makgadikgadi grasslands each year. The Okavango Delta alone has over 500 bird species."
+    "Botswana has more elephants than any other country. 130,000 roam free. Herds wade into the Chobe River beside lions, hippos, and crocodiles. Parks cover nearly 40% of the land.",
+    "The zebra is the national animal. Its stripes inspired the colours of the flag. Tens of thousands migrate across the Makgadikgadi grasslands."
   ],
   "culture": [
-    "The Tswana follow botho. It means a person becomes fully a person through kindness and community. Greetings matter. Rushing past without a warm 'Dumela' (hello) is rude. Seswaa, slow-cooked pounded beef, is the national dish.",
-    "Marimba and drums keep time for harvest dances like the Setapa. The kgotla is an open-air meeting under a tree. Every adult may speak there. It settles disputes and shapes policy. This tradition props up Botswana's proud democracy."
+    "The Tswana follow botho. It means you become a full person through kindness and community. Rushing past without a warm 'Dumela' (hello) is rude. Seswaa, pounded beef, is the national dish.",
+    "The kgotla is an open-air meeting under a tree. Every adult may speak. It settles disputes and shapes policy."
   ],
   "history": [
-    "Botswana became independent on 30 Sept 1966. It was among the world's six poorest nations. It had just 12 km of paved roads and no universities. Many people lived on drought rations. Eight months later, geologists struck diamonds.",
-    "The government put every pula of diamond money into schools, hospitals, and roads. In three decades, Botswana had the world's fastest economic growth. It became an upper-middle-income country without a single coup (army takeover)."
+    "Botswana became independent on 30 Sept 1966. It was among the world's six poorest nations. It had just 12 km of paved roads and no universities. Eight months later, geologists struck diamonds.",
+    "The government put every pula of diamond money into schools, hospitals, and roads. Botswana then had the world's fastest economic growth for three decades. It never had a coup (army takeover)."
   ],
   "wows": [
-    "Botswana has 130,000 elephants, more than any other country on Earth.",
-    "The Okavango floods in the dry season, because rain falls in Angola and arrives months later.",
+    "Botswana has 130,000 elephants, more than any other country.",
+    "The Okavango floods in the dry season, after rain falls in Angola.",
     "The Sewelô diamond (2019) weighed 1,758 carats, the 2nd-largest ever found.",
-    "'Pula' means both 'rain' and 'cheers', and it is the name of Botswana's money.",
-    "Chobe National Park holds up to 50,000 elephants in one protected area.",
-    "The Makgadikgadi salt pans are so flat that stars reflect off the wet surface at night.",
-    "Botswana reached 90%+ HIV treatment coverage in under a decade, a world record."
+    "'Pula' means both 'rain' and 'cheers', and it names Botswana's money.",
+    "Chobe National Park holds up to 50,000 elephants.",
+    "The flat Makgadikgadi salt pans mirror the stars when wet.",
+    "Botswana reached 90%+ HIV treatment coverage in under a decade."
   ],
   "myths": [
     {
       "myth": "Diamonds are made from coal",
-      "fact": "Diamonds form deep underground from pure carbon. Most are older than any plant, so they cannot come from coal."
+      "fact": "Diamonds form deep underground from pure carbon. Most are older than any plant."
     },
     {
       "myth": "Elephants drink through their trunks",
-      "fact": "An elephant sucks water into its trunk. Then it squirts the water into its mouth."
+      "fact": "Elephants suck water into the trunk, then squirt it into the mouth."
     }
   ],
   "words": [
