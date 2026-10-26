@@ -47,4 +47,4 @@ After: "Myanmar is in Southeast Asia, next to Thailand and India. A giant river 
 
 ## Vietnamese
 
-Translate from the new English, not the old Vietnamese. Write as a Vietnamese children's book would: câu ngắn, từ ngữ quen thuộc, giọng kể thân thiện. Keep the same facts, numbers, and item counts. Keep each string about as long as the English, and never more than 1.2 times its length. Use common Vietnamese names for places and animals where they exist (e.g. "sông Irrawaddy", "voi châu Á"). Do not copy myth answers from the page text — the same uniqueness rule applies.
+Translate from the new English, not the old Vietnamese. Write as a Vietnamese children's book would: câu ngắn, từ ngữ quen thuộc, giọng kể thân thiện. Keep the same facts, numbers, and item counts. Keep each string about as long as the English, and never more than 1.2 times its length. Always call the reader "em", never "bạn". Use common Vietnamese names for places and animals where they exist (e.g. "sông Irrawaddy", "voi châu Á"). Do not copy myth answers from the page text — the same uniqueness rule applies.

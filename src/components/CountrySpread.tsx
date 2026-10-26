@@ -11,7 +11,7 @@ import { useLang } from "../LangContext";
 /* ── type families ── */
 const FONTS = {
   disp: "'Bricolage Grotesque', system-ui, sans-serif",
-  serif: "var(--bodyfont, 'Bitter', Georgia, serif)",
+  serif: "var(--bodyfont, 'Lexend', sans-serif)", // Lexend: picked for young readers
   mono: "'Spline Sans Mono', ui-monospace, monospace",
 };
 
@@ -150,7 +150,7 @@ function Prose({ paras, cols = 2, dropcap = false, size = 15, gap = 22, colBreak
 }) {
   return (
     <div style={{ columnCount: cols, columnGap: gap, columnRule: cols > 1 ? "1px solid var(--line)" : "none",
-      fontFamily: FONTS.serif, fontSize: size, lineHeight: 1.46, color: "var(--ink)", textAlign: "justify", hyphens: "auto" }}>
+      fontFamily: FONTS.serif, fontSize: size, lineHeight: 1.46, color: "var(--ink)", textAlign: "left", hyphens: "none" }}>
       {paras.map((p, i) =>
         <p key={i} style={{ margin: "0 0 8px", breakBefore: colBreak && i > 0 ? "column" : "auto", breakInside: colBreak ? "avoid" : "auto" }}>
           {dropcap && i === 0 ?

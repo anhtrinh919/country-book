@@ -11,7 +11,7 @@ export const AT = {
   sea: "#6f8f8a",
   line: "#c9ba9a",
   disp: "'Bricolage Grotesque', system-ui, sans-serif",
-  serif: "var(--bodyfont, 'Bitter', Georgia, serif)",
+  serif: "var(--bodyfont, 'Lexend', sans-serif)", // Lexend: picked for young readers
   mono: "'Spline Sans Mono', ui-monospace, monospace",
 } as const;
 
