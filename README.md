@@ -57,7 +57,7 @@ Both print `[0, 0]` per A4 column when a page fits. `SHOT=1` screenshots any fai
 
 ```
 book.config.ts            # the spine: page order, journey order, continents, quiz placement, STOP totals
-data/<iso>.json           # one validated record per country (201 files)
+data/<iso>.json           # one validated record per country (201 files); data-vi/ holds the Vietnamese copy
 src/
   App.tsx                 # router, BookReader (web chrome, responsive/mobile), PrintPage, renderSpinePage
   components/

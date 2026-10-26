@@ -53,35 +53,6 @@ export const LOCALES: Record<string, LocaleBundle> = {
     },
   },
 
-  fr: {
-    explorersLog: "Journal de l'explorateur",
-    stopLabel: (stop, total) => `ÉTAPE ${String(stop).padStart(2, "0")} / ${total}`,
-    tripLine: (name, stop, total) => {
-      const rem = total - stop
-      const explorer = name || "l'explorateur"
-      return stop === 1
-        ? `"Première étape du voyage de ${explorer} — encore ${rem} pays à découvrir !"`
-        : `"Étape ${stop} — encore ${rem} pays à découvrir, ${explorer} !"`
-    },
-    fileNo: (no) => `Encyclopédie du monde · Dossier ${no}`,
-    fieldNotes: "Notes de voyage",
-    journeyThrough: "Un voyage à travers ce pays",
-    countryData: "Données du pays · vérifiées",
-    flagLabel: "Drapeau",
-    factChecked: "VÉRIFIÉ",
-    kicker: {
-      geography: "Géographie",
-      animals: "Animaux & Nature",
-      cultureHeader: "Culture · histoire · merveilles",
-      culture: "Culture & Vie quotidienne",
-      history: "Histoire & Monuments",
-      wows: "Le savais-tu ?",
-      myths: "Idée reçue → Vérité",
-      phrasebook: (langName) => `On parle ${langName} ici — essaie ces mots !`,
-      welcome: "Bienvenue",
-      postcards: "Cartes postales · culture · merveilles",
-    },
-  },
 
   vi: {
     explorersLog: "Nhật ký thám hiểm",

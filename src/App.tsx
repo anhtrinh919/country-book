@@ -13,6 +13,7 @@ import { LangContext } from "./LangContext";
 import { getLang, setLang, type Lang } from "./lang";
 import { LOCALES } from "./locale";
 import { getUI, tContinent } from "./i18n";
+import { zoomAt, type Zoom } from "./zoom";
 
 const SPREAD_W = 1588;
 const SPREAD_H = 1123;
@@ -115,6 +116,7 @@ function spineLabel(p: Page, lang: Lang = "en"): string {
 }
 
 const SPREAD_W2 = 1588, SPREAD_H2 = 1123, BAR_H = 60;
+const NO_ZOOM: Zoom = { z: 1, x: 0, y: 0 };
 const MAP_PAGE = SPINE.findIndex((p) => p.type === "world-map-toc") + 1; // footer "Map" jump (shifts if front matter changes)
 
 function BookReader() {
@@ -139,19 +141,25 @@ function BookReader() {
   const [half, setHalf] = React.useState(0); // 0 = left page, 1 = right page (mobile single-page view)
   React.useEffect(() => { if (!mobile && half !== 0) setHalf(0); }, [mobile, half]);
 
-  // user zoom: mouse wheel + pinch gesture; double-tap resets; resets on page change
-  const [userZoom, setUserZoom] = React.useState(1.0);
-  const userZoomRef = React.useRef(1.0);
-  const pinchRef = React.useRef<{ dist: number; startZoom: number } | null>(null);
+  // full-screen picture viewer (src of the open picture, or null)
+  const [viewer, setViewer] = React.useState<string | null>(null);
+  const viewerRef = React.useRef(viewer);
+  viewerRef.current = viewer;
+
+  // user zoom: mouse wheel + pinch grow from the pointed spot; double-tap resets; resets on page change
+  const [userZoom, setUserZoomState] = React.useState<Zoom>(NO_ZOOM);
+  const userZoomRef = React.useRef<Zoom>(NO_ZOOM);
+  const setUserZoom = (zm: Zoom) => { userZoomRef.current = zm; setUserZoomState(zm); };
+  const pinchRef = React.useRef<{ dist: number } | null>(null);
   const lastTapRef = React.useRef(0);
-  React.useEffect(() => { userZoomRef.current = 1.0; setUserZoom(1.0); }, [idx]);
+  const zoomBy = (factor: number, x: number, y: number) =>
+    setUserZoom(zoomAt(userZoomRef.current, factor, { x, y }, { x: window.innerWidth / 2, y: (window.innerHeight - BAR_H) / 2 }));
+  React.useEffect(() => { setUserZoom(NO_ZOOM); }, [idx]);
   React.useEffect(() => {
     const onWheel = (e: WheelEvent) => {
       e.preventDefault();
-      const delta = e.deltaY < 0 ? 1.12 : 1 / 1.12;
-      const next = Math.max(0.5, Math.min(3.0, userZoomRef.current * delta));
-      userZoomRef.current = next;
-      setUserZoom(next);
+      if (viewerRef.current) return;
+      zoomBy(e.deltaY < 0 ? 1.12 : 1 / 1.12, e.clientX, e.clientY);
     };
     window.addEventListener("wheel", onWheel, { passive: false });
     return () => window.removeEventListener("wheel", onWheel);
@@ -180,6 +188,7 @@ function BookReader() {
   React.useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if ((e.target as HTMLElement)?.tagName === "INPUT") return; // don't hijack keys while typing a page #
+      if (viewerRef.current) { if (e.key === "Escape") setViewer(null); return; }
       if (e.key === "ArrowRight" || e.key === " ") { e.preventDefault(); go(1); }
       if (e.key === "ArrowLeft") { e.preventDefault(); go(-1); }
     };
@@ -227,15 +236,16 @@ function BookReader() {
   // swipe / pinch / double-tap (iPad / phone)
   const touch = React.useRef<{ x: number; y: number } | null>(null);
   const onTouchStart = (e: React.TouchEvent) => {
+    if (viewerRef.current) return;
     reveal();
     if (e.touches.length === 2) {
       const [t0, t1] = [e.touches[0], e.touches[1]];
-      pinchRef.current = { dist: Math.hypot(t0.clientX - t1.clientX, t0.clientY - t1.clientY), startZoom: userZoomRef.current };
+      pinchRef.current = { dist: Math.hypot(t0.clientX - t1.clientX, t0.clientY - t1.clientY) };
       touch.current = null;
       return;
     }
     const now = Date.now();
-    if (now - lastTapRef.current < 280) { userZoomRef.current = 1.0; setUserZoom(1.0); lastTapRef.current = 0; return; }
+    if (now - lastTapRef.current < 280) { setUserZoom(NO_ZOOM); lastTapRef.current = 0; return; }
     lastTapRef.current = now;
     touch.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
   };
@@ -243,8 +253,8 @@ function BookReader() {
     if (e.touches.length === 2 && pinchRef.current) {
       const [t0, t1] = [e.touches[0], e.touches[1]];
       const dist = Math.hypot(t0.clientX - t1.clientX, t0.clientY - t1.clientY);
-      const next = Math.max(0.5, Math.min(3.0, pinchRef.current.startZoom * (dist / pinchRef.current.dist)));
-      userZoomRef.current = next; setUserZoom(next);
+      zoomBy(dist / pinchRef.current.dist, (t0.clientX + t1.clientX) / 2, (t0.clientY + t1.clientY) / 2);
+      pinchRef.current.dist = dist;
     }
   };
   const onTouchEnd = (e: React.TouchEvent) => {
@@ -252,19 +262,29 @@ function BookReader() {
     if (!touch.current) return;
     const t = e.changedTouches[0];
     const dx = t.clientX - touch.current.x, dy = t.clientY - touch.current.y;
-    if (userZoomRef.current <= 1.05 && Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy) * 1.4) go(dx < 0 ? 1 : -1);
+    if (userZoomRef.current.z <= 1.05 && Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy) * 1.4) go(dx < 0 ? 1 : -1);
     touch.current = null;
   };
 
   // click zones are disabled on the interactive map/quiz pages so taps reach their controls
   const interactive = page.type === "world-map-toc" || page.type === "quiz";
 
+  // a tap on a picture opens it full-screen — also when the picture sits under a page-flip strip
+  const openPicture = (e: React.MouseEvent) => {
+    if (viewerRef.current) return;
+    const top = document.elementsFromPoint(e.clientX, e.clientY).find((el) => !(el as HTMLElement).dataset.flipZone);
+    if (top instanceof HTMLImageElement && !top.closest("a,button")) {
+      e.stopPropagation();
+      setViewer(top.src);
+    }
+  };
+
   return (
-    <div onMouseMove={reveal} onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}
+    <div onMouseMove={reveal} onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd} onClickCapture={openPicture}
       style={{ position: "fixed", inset: 0, background: "#1c1915", overflow: "hidden", touchAction: "none" }}>
       <style>{FLIP_KEYFRAMES}</style>
       <div style={{ position: "absolute", inset: 0, paddingBottom: BAR_H, display: "grid", placeItems: "center" }}>
-        <div style={{ width: wrapW, height: wrapH, position: "relative", overflow: "visible", transform: `scale(${userZoom})`, transformOrigin: "center center" }}>
+        <div style={{ width: wrapW, height: wrapH, position: "relative", overflow: "visible", transform: `translate(${userZoom.x}px, ${userZoom.y}px) scale(${userZoom.z})`, transformOrigin: "center center" }}>
           <div style={{ position: "absolute", top: 0, left: 0, width: SPREAD_W2, height: SPREAD_H2, transform: innerTransform, transformOrigin: "top left" }}>
             <div key={`${idx}-${half}`} style={{ boxShadow: "0 30px 80px rgba(0,0,0,.55)", animation: `${dir.current > 0 ? "flipNext" : "flipPrev"} .42s cubic-bezier(.22,.61,.36,1)` }}>
               <SpineFrame n={idx + 1}>{renderSpinePage(page, false, prof.name, lang)}</SpineFrame>
@@ -279,6 +299,12 @@ function BookReader() {
         {!atEnd && <ClickZone side="right" onClick={() => go(1)} />}
       </>}
 
+      {viewer && (
+        <div onClick={() => setViewer(null)} style={{ position: "absolute", inset: 0, zIndex: 50, background: "rgba(12,10,8,.94)", padding: 16, cursor: "zoom-out" }}>
+          <img src={viewer} alt="" style={{ width: "100%", height: "100%", objectFit: "contain" }} />
+        </div>
+      )}
+
       {/* auto-hiding bottom bar (compact on mobile so nothing clips) */}
       <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, height: BAR_H, background: "rgba(21,18,15,.95)", borderTop: "1px solid #332c22", display: "flex", alignItems: "center", justifyContent: "space-between", gap: mobile ? 8 : 0, padding: mobile ? "0 12px" : "0 22px", color: "#E7D9BC", fontFamily: "'Spline Sans Mono', monospace", fontSize: mobile ? 12 : 13, transform: barShown ? "translateY(0)" : "translateY(100%)", transition: "transform .25s ease", zIndex: 20 }}>
         {mobile ? (
@@ -290,12 +316,10 @@ function BookReader() {
               <span title="Countries visited" style={{ color: "#7FB069" }}>🌍 {visitedCountryCount(visited)}</span>
             </div>
             <button onClick={() => { reveal(); setShowOnboard(true); }} title="Make this book yours — set name, age, home country" style={chipBtn(false)}>✎</button>
-            {!IS_FR_BUILD && (
-              <button onClick={() => { reveal(); setLang(lang === "vi" ? "en" : "vi"); }} title="English / Tiếng Việt"
-                style={{ background: "#B23A2E", color: "#fff", border: "none", borderRadius: 7, padding: "7px 9px", fontFamily: "'Spline Sans Mono', monospace", fontSize: 12, letterSpacing: ".06em", cursor: "pointer" }}>
-                {lang === "vi" ? "EN" : "VI"}
-              </button>
-            )}
+            <button onClick={() => { reveal(); setLang(lang === "vi" ? "en" : "vi"); }} title="English / Tiếng Việt"
+              style={{ background: "#B23A2E", color: "#fff", border: "none", borderRadius: 7, padding: "7px 9px", fontFamily: "'Spline Sans Mono', monospace", fontSize: 12, letterSpacing: ".06em", cursor: "pointer" }}>
+              {lang === "vi" ? "EN" : "VI"}
+            </button>
             <button onClick={() => go(1)} disabled={atEnd} style={navBtn(atEnd)}>→</button>
           </>
         ) : (
@@ -330,16 +354,14 @@ function BookReader() {
                 style={chipBtn(false)}>✎ {prof.name}</button>
               <button onClick={() => { reveal(); setConfirmReset(true); }} title="Reset all progress"
                 style={chipBtn(false)}>{ui.reader.reset}</button>
-              {!IS_FR_BUILD && (
-                <div style={{ display: "flex", gap: 2, border: "1px solid #4a3f30", borderRadius: 7, overflow: "hidden" }}>
-                  {(["en", "vi"] as Lang[]).map((l) => (
-                    <button key={l} onClick={() => { reveal(); setLang(l); }} title={l === "en" ? "English" : "Tiếng Việt"}
-                      style={{ background: lang === l ? "#B23A2E" : "transparent", color: lang === l ? "#fff" : "#E7D9BC", border: "none", padding: "7px 10px", fontFamily: "'Spline Sans Mono', monospace", fontSize: 12, cursor: "pointer", letterSpacing: ".08em" }}>
-                      {l.toUpperCase()}
-                    </button>
-                  ))}
-                </div>
-              )}
+              <div style={{ display: "flex", gap: 2, border: "1px solid #4a3f30", borderRadius: 7, overflow: "hidden" }}>
+                {(["en", "vi"] as Lang[]).map((l) => (
+                  <button key={l} onClick={() => { reveal(); setLang(l); }} title={l === "en" ? "English" : "Tiếng Việt"}
+                    style={{ background: lang === l ? "#B23A2E" : "transparent", color: lang === l ? "#fff" : "#E7D9BC", border: "none", padding: "7px 10px", fontFamily: "'Spline Sans Mono', monospace", fontSize: 12, cursor: "pointer", letterSpacing: ".08em" }}>
+                    {l.toUpperCase()}
+                  </button>
+                ))}
+              </div>
               <button onClick={() => go(1)} disabled={atEnd} style={navBtn(atEnd)}>{ui.reader.next}</button>
             </div>
           </>
@@ -451,7 +473,7 @@ const FLIP_KEYFRAMES = `
 function ClickZone({ side, onClick }: { side: "left" | "right"; onClick: () => void }) {
   const [hover, setHover] = React.useState(false);
   return (
-    <div onClick={onClick} onMouseEnter={() => setHover(true)} onMouseLeave={() => setHover(false)}
+    <div data-flip-zone onClick={onClick} onMouseEnter={() => setHover(true)} onMouseLeave={() => setHover(false)}
       style={{ position: "absolute", top: 0, bottom: 60, [side]: 0, width: "30%", cursor: "pointer", zIndex: 10, display: "grid", placeItems: "center" }}>
       <div style={{ fontFamily: "system-ui", fontSize: 44, color: "#E7D9BC", opacity: hover ? 0.5 : 0, transition: "opacity .2s", userSelect: "none" }}>
         {side === "left" ? "‹" : "›"}
@@ -479,13 +501,9 @@ function Index() {
   );
 }
 
-const IS_FR_BUILD = import.meta.env.VITE_LANG === "fr";
-const IS_YOUNG_BUILD = import.meta.env.VITE_YOUNG === "1";
-
 export default function App() {
-  const [lang, setLangState] = React.useState<Lang>(IS_FR_BUILD ? "fr" : getLang);
+  const [lang, setLangState] = React.useState<Lang>(getLang);
   React.useEffect(() => {
-    if (IS_FR_BUILD) return;
     const handler = () => setLangState(getLang());
     window.addEventListener("cb-lang-change", handler);
     return () => window.removeEventListener("cb-lang-change", handler);
@@ -494,7 +512,7 @@ export default function App() {
   const ui = getUI(lang);
 
   return (
-    <LangContext.Provider value={{ lang, locale, ui, young: IS_YOUNG_BUILD }}>
+    <LangContext.Provider value={{ lang, locale, ui }}>
       <HashRouter>
         <Routes>
           <Route path="/" element={<Navigate to="/book/1" replace />} />

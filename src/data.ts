@@ -1,9 +1,8 @@
 /* Country data loader — eager-loads all language variants at build time.
-   Falls back to English for any ISO not yet authored in fr/vi. */
+   Falls back to English for any ISO not yet authored in vi. */
 import type { Country } from "./types";
 
 const modules_en = import.meta.glob<{ default: Country }>("../data/*.json",    { eager: true });
-const modules_fr = import.meta.glob<{ default: Country }>("../data-fr/*.json", { eager: true });
 const modules_vi = import.meta.glob<{ default: Country }>("../data-vi/*.json", { eager: true });
 
 function build(modules: Record<string, { default: Country }>) {
@@ -17,13 +16,10 @@ function build(modules: Record<string, { default: Country }>) {
 
 const BY_LANG: Record<string, Record<string, Country>> = {
   en: build(modules_en),
-  fr: build(modules_fr),
   vi: build(modules_vi),
 };
 
-/* Primary set — English for the main build, French for the fr build. */
-const PRIMARY = import.meta.env.VITE_LANG === "fr" ? "fr" : "en";
-export const COUNTRIES = BY_LANG[PRIMARY] ?? BY_LANG.en;
+export const COUNTRIES = BY_LANG.en;
 
 export function getCountry(iso: string): Country | undefined {
   return COUNTRIES[iso];

@@ -75,8 +75,8 @@ export function Cover() {
       left={
         <div style={{ position: "absolute", inset: 0, overflow: "hidden", background: SPACE }}>
           <img src={asset("/covers/world.jpg")} alt="Earth from space" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", objectPosition: "center 38%" }} />
-          <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(10,22,34,.55) 0%, rgba(10,22,34,.12) 34%, rgba(10,22,34,.86) 100%)" }} />
-          <div style={{ position: "absolute", inset: 0, padding: "44px 54px", display: "flex", flexDirection: "column", justifyContent: "space-between", color: "#fff" }}>
+          <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(10,22,34,.55) 0%, rgba(10,22,34,.12) 34%, rgba(10,22,34,.86) 100%)", pointerEvents: "none" }} />
+          <div style={{ position: "absolute", inset: 0, padding: "44px 54px", display: "flex", flexDirection: "column", justifyContent: "space-between", color: "#fff", pointerEvents: "none" }}>
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
               <Tick label={ui.cover.kicker} color="#fff" />
               <Tick label={`№ 001 / ${TOTAL_STOPS}`} color="rgba(255,255,255,.8)" />
@@ -593,8 +593,8 @@ export function ContinentDivider({ continent }: { continent: Continent }) {
       left={
         <div style={{ position: "absolute", inset: 0, overflow: "hidden" }}>
           <img src={asset(`/covers/${CONTINENT_SLUG[continent]}.jpg`)} alt={continent} style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
-          <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(20,16,10,.28) 0%, rgba(20,16,10,.30) 42%, rgba(20,16,10,.82) 100%)" }} />
-          <div style={{ position: "absolute", inset: 0, padding: "44px 54px", display: "flex", flexDirection: "column", justifyContent: "space-between", color: "#fff" }}>
+          <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(20,16,10,.28) 0%, rgba(20,16,10,.30) 42%, rgba(20,16,10,.82) 100%)", pointerEvents: "none" }} />
+          <div style={{ position: "absolute", inset: 0, padding: "44px 54px", display: "flex", flexDirection: "column", justifyContent: "space-between", color: "#fff", pointerEvents: "none" }}>
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
               <span style={{ fontFamily: FONTS.mono, fontSize: 11, letterSpacing: ".18em", textTransform: "uppercase", color: "#fff", background: "var(--accent)", padding: "4px 12px", borderRadius: 4 }}>{ui.divider.partOf(idx)}</span>
               <span style={{ fontFamily: FONTS.mono, fontSize: 11, letterSpacing: ".18em", textTransform: "uppercase", color: "rgba(255,255,255,.85)" }}>{ui.divider.stops(firstStop, lastStop)}</span>

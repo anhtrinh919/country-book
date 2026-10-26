@@ -6,9 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:fr": "VITE_LANG=fr VITE_YOUNG=1 vite build --outDir dist-fr",
     "preview": "vite preview",
-    "preview:fr": "vite preview --outDir dist-fr",
+    "test": "tsx --test src/*.test.ts",
     "check:overflow": "tsx scripts/check-overflow.ts",
     "check:print": "tsx scripts/check-print-overflow.ts",
     "build:pdf": "tsx scripts/build-pdf.ts",

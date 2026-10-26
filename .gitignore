@@ -1,6 +1,5 @@
 node_modules/
 dist/
-dist-fr/
 dist-pdf/
 .out/
 *.log

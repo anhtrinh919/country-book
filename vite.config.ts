@@ -2,26 +2,19 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
-const IS_FR = process.env.VITE_LANG === "fr";
-const BASE = IS_FR ? "/country-book/fr/" : "/country-book/";
-const APP_NAME = IS_FR ? "Momo's Livre du Monde" : "Momo's World Book";
-const APP_SHORT = IS_FR ? "Livre Monde" : "World Book";
-const APP_DESC = IS_FR ? "Un atlas de 200 pays pour les jeunes explorateurs" : "An explorer's atlas of 200 countries for young adventurers";
+const BASE = "/country-book/";
 
 export default defineConfig({
   base: BASE,
-  define: {
-    /* expose build-time flags to the app as import.meta.env.VITE_LANG etc. */
-  },
   plugins: [
     react(),
     VitePWA({
       registerType: "autoUpdate",
       includeAssets: ["icon-192.png", "icon-512.png", "flags/**/*.svg"],
       manifest: {
-        name: APP_NAME,
-        short_name: APP_SHORT,
-        description: APP_DESC,
+        name: "Momo's World Book",
+        short_name: "World Book",
+        description: "An explorer's atlas of 200 countries for young adventurers",
         theme_color: "#26221d",
         background_color: "#26221d",
         display: "standalone",
@@ -36,11 +29,6 @@ export default defineConfig({
       workbox: {
         globPatterns: ["**/*.{js,css,html,woff2,json,svg}"],
         maximumFileSizeToCacheInBytes: 15 * 1024 * 1024,
-        /* The English app is served at /country-book/ so its SW scope also covers the French
-           sub-app at /country-book/fr/. Without this, the EN SW's SPA navigation fallback serves
-           the English index.html for /fr/ navigations (the French URL "loads English"). Exclude
-           /fr/ so those navigations hit the network → real French page → its own SW takes over. */
-        navigateFallbackDenylist: IS_FR ? undefined : [/\/country-book\/fr\//],
         runtimeCaching: [
           {
             urlPattern: /\/photos\//,
@@ -73,5 +61,5 @@ export default defineConfig({
       },
     }),
   ],
-  server: { port: IS_FR ? 5174 : 5173, allowedHosts: [".ts.net"] },
+  server: { port: 5173, allowedHosts: [".ts.net"] },
 });
