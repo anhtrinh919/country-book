@@ -24,7 +24,7 @@
     "keyColor": "#006600",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Kenya sits on the equator, where savannahs stretch to the horizon and wildebeest thunder across the Maasai Mara each year. Mount Kenya — Africa second-tallest peak — rises from the heat. The Great Rift Valley cuts across the land. Nairobi is the only capital with a national park on its doorstep, where lions roam minutes from skyscrapers.",
+  "lead": "Kenya sits on the equator. Wildebeest thunder across the Maasai Mara every year. Mount Kenya is Africa's second-tallest peak. Nairobi is the only capital with a national park on its doorstep.",
   "facts": [
     {
       "label": "Capital",
@@ -69,42 +69,42 @@
     "geography": "A crack in the Earth",
     "animals": "The greatest show on land",
     "culture": "Rhythm, beads & chapati",
-    "history": "Cradle to independence",
-    "wows": "Kenya's wow moments"
+    "history": "Ancient bones to freedom",
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Kenya straddles the equator, so it has no winter. The Great Rift Valley slices the country north to south, dotted with flamingo-pink soda lakes. Snow-capped Mount Kenya rises from the equatorial heat — a peak so dramatic it named the whole country.",
-    "The Indian Ocean coast is lined with white-sand beaches and coral reefs. The north turns to desert and scrubland, while the south holds lush savannahs and the shores of Lake Victoria, Africa's largest lake."
+    "Kenya sits on the equator, so it has no winter. The Great Rift Valley slices through it from north to south. Snow tops Mount Kenya, which gave the country its name.",
+    "The Indian Ocean coast has white beaches and coral reefs. The south has green savannahs and the shores of Lake Victoria, Africa's largest lake."
   ],
   "animals": [
-    "The Maasai Mara hosts the Great Migration — 1.5 million wildebeest and zebra crossing the crocodile-filled Mara River every July to October. Kenya is one of few places where you can see the Big Five (lion, elephant, leopard, rhino, buffalo) in a single day.",
-    "Over 1,100 bird species live here. Flamingos turn Lake Nakuru bright pink, and Amboseli's elephants roam in front of Kilimanjaro, making some of the most photographed wildlife scenes on Earth."
+    "In the Maasai Mara, 1.5 million wildebeest and zebra cross the crocodile-filled Mara River. This Great Migration runs from July to October. You can see the Big Five in one day: lion, elephant, leopard, rhino, and buffalo.",
+    "Over 1,100 bird species live here. Amboseli's elephants stroll past Kilimanjaro."
   ],
   "culture": [
-    "Kenya has 47 ethnic groups with their own traditions. The Maasai wear bright red shukas and perform the adumu jumping dance, leaping to compete for height. Swahili culture along the coast blends African, Arab, and Indian influences from centuries of ocean trade.",
-    "Ugali — a stiff maize porridge — is the national staple, eaten with sukuma wiki (braised kale) or stew. Kenyan runners from the Rift Valley train at high altitude and dominate world marathon records."
+    "Kenya has 47 ethnic groups. The Maasai wear bright red shukas (cloths). They dance the adumu, leaping to see who jumps highest.",
+    "Ugali, a stiff maize porridge, is the main food. People eat it with sukuma wiki (braised kale) or stew."
   ],
   "history": [
-    "Fossils over 3 million years old found near Lake Turkana earned the region the nickname 'Cradle of Mankind'. Arab traders built Swahili city-states on the coast a thousand years ago, whose coral ruins still stand at Gede and Lamu.",
-    "Britain colonised Kenya in the 1890s. Mau Mau fighters launched fierce resistance in the 1950s, and Kenya won independence on 12 December 1963. Jomo Kenyatta became its first president, launching East Africa's biggest economy."
+    "Fossils over 3 million years old were found near Lake Turkana. They earned the area the nickname 'Cradle of Mankind'. A thousand years ago, Arab traders built Swahili city-states on the coast.",
+    "Britain took over Kenya in the 1890s. Mau Mau fighters fought back in the 1950s. Kenya won independence on 12 December 1963. Jomo Kenyatta became its first president."
   ],
   "wows": [
-    "Lake Turkana is the world's largest desert lake — 290 km of volcanic blue in Kenya's north.",
-    "Runners from the tiny town of Iten have won more Olympic distance medals than most countries.",
-    "Nairobi National Park is the only wildlife reserve inside a capital city, 7 km from the CBD.",
-    "A coelacanth — fish thought extinct 65 million years — was found alive off Kenya's coast in 2001.",
-    "Kenya's M-Pesa (2007) was the world's first mobile money system, now used by 30 million people.",
-    "Lake Bogoria turns so pink with flamingos it looks like spilled bubble-gum paint from the air.",
-    "Lamu Old Town has no cars — donkeys are the main transport on its ancient coral-stone streets."
+    "Lake Turkana is the world's biggest desert lake, 290 km long.",
+    "Runners from tiny Iten have won more Olympic distance medals than most nations.",
+    "Nairobi National Park is just 7 km from downtown.",
+    "A coelacanth, a fish thought extinct for 65 million years, was found alive off Kenya in 2001.",
+    "Kenya's M-Pesa (2007) was the first mobile money system, now used by 30 million people.",
+    "From above, flamingos make Lake Bogoria look like spilled pink paint.",
+    "Lamu Old Town has no cars, only donkeys."
   ],
   "myths": [
     {
-      "myth": "Kenya is all jungle and safari",
-      "fact": "Most of Kenya is open savannah, semi-desert, or highland farms. Dense rainforest covers only a thin strip on Mount Kenya's slopes and at Kakamega."
+      "myth": "Flamingos are born pink",
+      "fact": "Flamingo chicks are grey. They turn pink from the tiny algae and shrimp they eat."
     },
     {
-      "myth": "Lions roam everywhere in Kenya",
-      "fact": "Lions live only in protected game reserves covering about 8% of Kenya. The rest is farmland and cities where lions are almost never seen."
+      "myth": "Male lions do most of the hunting",
+      "fact": "Lionesses hunt most of the food. Males guard the pride."
     }
   ],
   "words": [

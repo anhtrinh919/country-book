@@ -24,7 +24,7 @@
     "keyColor": "#009C3B",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Brazil is the giant of South America — so big it borders almost every other country on the continent. It holds the world's largest tropical rainforest, the Amazon, home to more species than anywhere on Earth. From Rio's glittering beaches to the thundering Iguaçu Falls, Brazil is loud, colourful, and bursting with life.",
+  "lead": "Brazil is the giant of South America. It borders almost every other country there. The Amazon, the world's largest tropical rainforest, grows here. Brazil is loud, colourful, and full of life.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "MAJOR STATES:",
   "sections": {
-    "geography": "A land of rivers & forest",
+    "geography": "Giant rivers & rainforest",
     "animals": "Wild things, big & small",
     "culture": "Rhythm, colour & football",
     "history": "From colony to giant nation",
-    "wows": "Brazil's wow moments"
+    "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Brazil holds 60% of the Amazon rainforest — the planet's biggest tropical jungle, larger than Western Europe. The Amazon River pours more fresh water into the sea than any other river on Earth.",
-    "Beyond the jungle lie vast grasslands called the Cerrado, the Pantanal wetlands (the world's largest), sun-baked northeastern beaches, and the Iguaçu Falls — wider than Niagara Falls."
+    "Brazil holds 60% of the Amazon rainforest. The Amazon River pours more fresh water into the sea than any other river.",
+    "Beyond the jungle lie vast grasslands called the Cerrado. The Pantanal is the world's largest wetland. Iguaçu Falls is wider than Niagara Falls."
   ],
   "animals": [
-    "The Amazon shelters jaguars, pink river dolphins, giant anteaters, and the capybara — the world's largest rodent, which looks like a giant guinea pig and loves to swim. Neon poison-dart frogs warn off predators with colour.",
-    "Brazil's skies fill with toucans and scarlet macaws. Rivers hold piranhas and the giant arapaima fish. The Pantanal has the densest jaguar population on Earth."
+    "Jaguars, pink river dolphins, and giant anteaters live in the Amazon. So does the capybara, the world's largest rodent. It looks like a giant guinea pig.",
+    "Piranhas and giant arapaima fish swim in the rivers. The Pantanal has the densest jaguar population on Earth."
   ],
   "culture": [
-    "Brazil gave the world samba, bossa nova, and football legends like Pelé. Carnival — the biggest street party on the planet — draws two million people a day into Rio's glittering, drumming, dancing parades before Lent.",
-    "Food is celebration: churrasco piles grilled meats high, while feijoada — a rich black-bean and pork stew — is the beloved national dish. Brazilians greet strangers warmly and rarely skip a chance to dance."
+    "Brazil gave the world samba, bossa nova, and football legends like Pelé. Carnival is the biggest street party on the planet. Two million people a day join Rio's drumming, dancing parades.",
+    "Churrasco piles grilled meats high. Feijoada, a black-bean and pork stew, is the national dish."
   ],
   "history": [
-    "Portugal colonised Brazil from 1500, harvesting sugar, gold, and rubber. Millions of Africans were enslaved and brought here — a painful legacy that deeply shapes Brazilian music, culture, and food today.",
-    "Brazil declared independence in 1822 with a Portuguese prince as its first emperor. After the republic formed in 1889, it grew fast. Its bold modernist capital Brasília was carved from empty plateau and opened in 1960."
+    "Portugal ruled Brazil from 1500 and gathered sugar, gold, and rubber. Millions of Africans were enslaved and brought here. That painful past still shapes Brazil's music, food, and culture.",
+    "Brazil declared independence in 1822. A Portuguese prince became its first emperor. In 1960, the modern capital Brasília opened on an empty plateau."
   ],
   "wows": [
-    "Brazil is the only country in the Americas where Portuguese — not Spanish — is the official language.",
-    "The Amazon dumps so much fresh water into the Atlantic that you can drink from the ocean 160 km offshore.",
-    "Brazil has won the FIFA World Cup a record five times — more than any other nation on Earth.",
-    "Iguaçu Falls stretches nearly 3 km wide across 275 separate waterfalls — Niagara is dwarfed.",
+    "Brazil is the only Portuguese-speaking country in the Americas.",
+    "You can drink from the Atlantic 160 km offshore, thanks to the Amazon's fresh water.",
+    "Brazil has won the FIFA World Cup five times, more than any other nation.",
+    "Iguaçu Falls is nearly 3 km wide and has 275 separate waterfalls.",
     "São Paulo has more Japanese-descended residents than any city outside Japan.",
-    "Brazil's Pantanal wetlands flood to the size of France every wet season.",
+    "The Pantanal floods to the size of France every wet season.",
     "Brasília was built in 41 months and became a UNESCO World Heritage Site in 1987."
   ],
   "myths": [
     {
       "myth": "The Amazon makes 20% of Earth's oxygen",
-      "fact": "The Amazon absorbs and releases roughly equal amounts of oxygen. Its real power is locking away billions of tonnes of carbon dioxide, not net oxygen production."
+      "fact": "Not true. Amazon life uses nearly all the oxygen its trees make. The forest mainly stores carbon dioxide, a gas that warms Earth."
     },
     {
       "myth": "Piranhas attack everything in sight",
-      "fact": "Piranhas are mostly scavengers. Local people swim alongside them every day — they only bite when starving or cornered, not as a default."
+      "fact": "Piranhas mostly eat fish, insects, and seeds. They rarely bite unless starving or trapped."
     }
   ],
   "words": [

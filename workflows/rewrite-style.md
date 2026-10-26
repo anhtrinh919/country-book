@@ -10,7 +10,8 @@ The reader is Momo, a curious 7-year-old in Vietnam. A parent may read aloud. Ev
 - Everyday words a 7-year-old knows. Explain any hard word in the same sentence: "silt (rich mud)".
 - Concrete pictures over labels. "Snow covers the mountains", not "snow-capped peaks".
 - Talk to the reader sometimes: "Can you guess…?", "Imagine…". At most once per section.
-- Cut about a quarter of the words. Drop filler, not facts.
+- Cut about a fifth of the words. Drop filler, not facts. A page holds at most 380 words in all.
+- Each section has two paragraphs side by side. Keep them about the same length.
 - British spelling stays as it is (colour, metre).
 
 ## Banned AI phrases

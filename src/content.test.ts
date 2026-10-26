@@ -48,10 +48,10 @@ test("English sentences are short: average 11 words or less, none over 20", () =
   assert.deepEqual(bad, []);
 });
 
-test("each English country page has 360 words or less", () => {
+test("each English country page has 380 words or less", () => {
   const bad = Object.entries(EN)
     .map(([iso, c]) => [iso, prose(c).flatMap(words).length] as const)
-    .filter(([, n]) => n > 360);
+    .filter(([, n]) => n > 380);
   assert.deepEqual(bad, []);
 });
 

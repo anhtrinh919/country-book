@@ -52,7 +52,7 @@ function FitPage({ children, side }: { children: React.ReactNode; side?: "left" 
     // But width and height are coupled (reflow changes height), so iterate to the fixed point where
     // z == avail/H(width) and width == box/z. ~4 passes converges; transform doesn't affect layout
     // so reads stay clean.
-    const clamp = (v: number) => Math.min(1.14, Math.max(0.6, v));
+    const clamp = (v: number) => Math.min(1.3, Math.max(0.6, v));
     let z = 1;
     // damped fixed-point iteration (under-relaxation prevents the width↔height oscillation
     // from latching onto the clamp instead of the true fit point)

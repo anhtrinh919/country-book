@@ -24,7 +24,7 @@
     "keyColor": "#FECB00",
     "mastheadMotif": "geometric-emblem"
   },
-  "lead": "Myanmar sits at the heart of Southeast Asia, where the Irrawaddy River flows past thousands of golden pagodas to the sea. From snowy peaks in the north to coral islands in the south, it holds ancient temples, rare wildlife, and dozens of peoples — each with their own language, dress, and festivals.",
+  "lead": "Myanmar is in Southeast Asia, next to Thailand and India. Golden temples dot the land. Snow covers the northern mountains. Coral islands sit in the warm southern sea. People from 135 groups live here.",
   "facts": [
     {
       "label": "Capital",
@@ -66,45 +66,45 @@
   ],
   "islandsLabel": "KEY PLACES:",
   "sections": {
-    "geography": "Rivers, peaks & rice plains",
+    "geography": "Rivers, peaks & rice fields",
     "animals": "Tigers, dolphins & tortoises",
-    "culture": "Temples, tea & longyi cloth",
-    "history": "Kingdoms, kings & independence",
+    "culture": "Water fights, tea & longyi",
+    "history": "Kings, empires & freedom",
     "wows": "7 things to make you go wow"
   },
   "geo": [
-    "Myanmar is shaped like a kite with a long tail. The mighty Irrawaddy River runs almost the full length of the country, carrying rich silt to the flat central plains where most rice grows. Rugged, forested mountains ring the north and east.",
-    "The south stretches into a narrow peninsula along the Andaman Sea, ending in tropical islands. In the far north, Hkakabo Razi stays snow-capped all year — the highest peak in all of Southeast Asia."
+    "Myanmar is shaped like a kite with a long tail. The Irrawaddy River flows almost its whole length. It carries silt (rich mud) to the central plains, where most rice grows.",
+    "The south narrows into a long finger of land by the Andaman Sea. In the far north, Hkakabo Razi stays snowy all year. It is Southeast Asia's highest peak."
   ],
   "animals": [
-    "Myanmar's forests shelter tigers, Asian elephants, and clouded leopards. The rare Irrawaddy dolphin lives in the great river — locals say it herds fish toward fishermen's nets in a remarkable partnership.",
-    "Birdwatchers treasure Myanmar: the gurney's pitta, one of the world's rarest birds, hides here. Giant flying squirrels glide between trees, and the Burmese star tortoise is slowly making a comeback from near-extinction."
+    "Tigers, Asian elephants, and clouded leopards live in Myanmar's forests. The rare Irrawaddy dolphin swims in the great river.",
+    "Gurney's pitta is one of the world's rarest birds. The Burmese star tortoise nearly died out, but it is coming back."
   ],
   "culture": [
-    "Most people in Myanmar are Buddhist and offer food to monks each morning at sunrise. Festivals are huge — the Thingyan water festival in April is a giant outdoor water fight lasting four days to wash away bad luck.",
-    "Men and women both wear a longyi — a tube of colourful cloth wrapped at the waist. Mohinga, a rich fish-noodle soup, is the national breakfast. Laphet, pickled tea leaves eaten as a salad, is unlike anything else on Earth."
+    "Most people in Myanmar are Buddhist. The Thingyan water festival lasts four days in April. People splash each other to wash away bad luck.",
+    "Everyone wears a longyi, a tube of colourful cloth, at the waist. Mohinga, a fish-noodle soup, is the national breakfast. Laphet is a salad of pickled tea leaves."
   ],
   "history": [
-    "The Pagan Kingdom built over 10,000 temples across a dry plain from the 11th century — more than 2,000 still stand today. Powerful empires rose and fell before British colonists took over the entire country by 1885.",
-    "Independence came in 1948. General Aung San, the Father of the Nation, was assassinated just six months before seeing it. Myanmar has endured long periods of military rule, yet its people have kept their culture and spirit fiercely alive."
+    "The Pagan Kingdom built over 10,000 temples from the 11th century. More than 2,000 still stand today. By 1885, Britain ruled the whole country.",
+    "Myanmar won independence in 1948. General Aung San, Father of the Nation, was killed six months before. Soldiers have ruled for long periods since."
   ],
   "wows": [
-    "Bagan has more ancient Buddhist temples per square km than almost anywhere else on Earth.",
-    "Naypyidaw's 20-lane highway was nearly empty of traffic for years after it was built.",
-    "Hkakabo Razi at 5,881 m is the tallest mountain in all of Southeast Asia.",
-    "Irrawaddy dolphins herd fish toward fishermen's nets — a real wild-animal partnership.",
-    "Myanmar is the world's largest producer of rubies; the finest come from the Mogok Valley.",
-    "The Burmese star tortoise was declared functionally extinct but has been revived by breeding programmes.",
-    "At Bagan, hot-air balloons float over 2,000 pagodas at dawn — one of Asia's greatest sights."
+    "Bagan packs more ancient temples per square km than almost anywhere.",
+    "Naypyidaw's 20-lane highway sat almost empty for years.",
+    "Hkakabo Razi, at 5,881 m, is Southeast Asia's tallest mountain.",
+    "Wild Irrawaddy dolphins herd fish into fishermen's nets.",
+    "Myanmar is the top ruby producer, with the finest from Mogok Valley.",
+    "Scientists feared the Burmese star tortoise was gone, but breeding brought it back.",
+    "At dawn, hot-air balloons float over 2,000 pagodas in Bagan."
   ],
   "myths": [
     {
       "myth": "Myanmar and Burma are different countries",
-      "fact": "Same country — the military renamed it Myanmar in 1989. Burma is the older English name. Both names are still used worldwide today."
+      "fact": "Same country. The military government renamed it Myanmar in 1989. Burma is the older English name."
     },
     {
-      "myth": "All Southeast Asian temples look alike",
-      "fact": "Myanmar's stupas are tall, bell-shaped, and gold-leafed — quite different from Thailand's spires or Cambodia's stone towers. Each ethnic group has its own distinct style."
+      "myth": "Everyone has a family name",
+      "fact": "Many people in Myanmar have just one name. Parents often pick it using the weekday the baby was born."
     }
   ],
   "words": [
