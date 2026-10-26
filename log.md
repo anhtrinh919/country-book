@@ -12,10 +12,11 @@
 
 ### Round 1 — small fixes: drop French, open pictures, zoom where you point
 
-Status: checking
+Status: showing
 Branch: round-1-small-fixes, from main
-Try: desktop wheel-zoom over a corner photo keeps that spot under the cursor; tap any photo, flag, or cover to open it full-screen; tablet pinch zooms where the fingers are; the bottom bar shows EN / VI only
-Bugs: none
+Try: open the book on a computer; scroll the mouse wheel over a photo near a corner, and that spot stays under the cursor; scroll back out, and the page re-centres; click any photo, flag, cover, or quiz picture, and it fills the screen; click anywhere or press Esc to close it; on a tablet, pinch on a spot, and that spot stays under your fingers; the bottom bar now offers EN and VI only
+Built: pictures open full-screen with one tap or click; mouse-wheel and pinch zoom grow from where you point; French edition removed (files, build, and deploy); myth lines no longer show doubled quote marks
+Bugs: doubled quote marks around 120 myth lines (found and fixed this round)
 Risk: none
 
 ### Round 0 — everything built before autoloop
